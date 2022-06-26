@@ -1,0 +1,51 @@
+konami_id: 4060
+password: 15367030
+name:
+  en: Gokibore
+  de: Gokibore
+  es: Gokibore
+  fr: Gokibore
+  it: Gokibore
+  pt: Gokibore
+  ja: ゴキボール
+  ja_romaji: Gokibōru
+  ko:
+  ko_rr:
+text:
+  en: |-
+    A large, spherical roach that attacks its enemies by rolling over them.
+  de: |-
+    Eine große, kugelförmige Schabe, die ihre Gegner angreift, indem sie sie überrollt.
+  es: |-
+    Una cucaracha grande y esférica que ataca a sus enemigos rodando sobre ellos.
+  fr: |-
+    Gros gardon sphérique qui attaque ses ennemis en leur roulant dessus.
+  it: |-
+    Un grosso insetto di forma sferica che attacca i suoi nemici rotolando contro di essi.
+  pt: |-
+    Uma barata, grande esférica que ataca os seus inimigos rolando sobre eles.
+  ja: |-
+    丸いゴキブリ。ゴロゴロ転がって攻撃。守備が意外と高いぞ。
+  ko: |-
+    None
+type: Monster
+typeline: Insect
+attribute: EARTH
+level: 4
+atk: 1200
+def: 1400
+sets:
+  fr:
+  - set_number: MDP2-FR009
+    set_name: McDonald's Promotional Cards 2
+    rarities:
+    - Rare
+  ja:
+  - set_number: ''
+    set_name: Vol.6
+    rarities:
+    - Common
+  - set_number: 18TP-JP315
+    set_name: Tournament Pack 2018 Vol.3
+    rarities:
+    - Common

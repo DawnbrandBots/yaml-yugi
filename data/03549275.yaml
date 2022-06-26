@@ -1,0 +1,108 @@
+konami_id: 5424
+password: 3549275
+name:
+  en: Dice Jar
+  de: Würfelkrug
+  es: Jarra de Dados
+  fr: Jarre Dés
+  it: Giara Dado
+  pt: Jarro de Dados
+  ja: ダイス・ポット
+  ja_romaji: Daisu Potto
+  ko: 다이스 포트
+  ko_rr:
+text:
+  en: |-
+    FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.
+  de: |-
+    FLIPP: Beide Spieler werfen einen sechsseitigen Würfel einmal. Der Spieler mit dem niedrigeren Würfelergebnis erhält Schaden in Höhe von 500 Punkten x dem Würfelergebnis seines Gegners. Falls der Gewinner jedoch eine 6 gewürfelt hat, erhält der verlierer 6000 Punkte Schaden. Haben beide Spieler das gleiche Würfelergebnis, wird erneut gewürfelt.
+  es: |-
+    VOLTEO: Ambos jugadores lanzan un dado de seis caras. El jugador con el resultado más bajo recibe daño igual al resultado de su adversario x 500. Pero si el resultado del ganador es 6, el perdedor recibe 6000 puntos de daño. Si los resultados son los mismos, ambos jugadores lanzan el dado de nuevo.
+  fr: |-
+    FLIP : Chaque joueur lance un dé à six faces. Le joueur avec le résultat le plus faible reçoit des dommages égaux au résultat de son adversaire x 500. Cependant, si le résultat du gagnant est 6, le perdant reçoit 6000 points de dommages. Si les résultats sont les mêmes, chaque joueur relance le dé.
+  it: |-
+    SCOPRI: Entrambi i giocatori tirano un dado. Il giocatore che ottiene il risultato inferiore riceve un ammontare di danni pari al lancio dell'avversario x 500. Se il vincitore ottiene un 6, il perdente riceve 6000 punti di danno. Se il risultato è pari, entrambi i giocatori tirano nuovamente il dado.
+  pt: |-
+    VIRE: Os dois duelistas lançam um dado de 6 faces. O duelista que obtiver o menor resultado sofre dano igual ao resultado do oponente x 500. Contudo, se o vencedor obteve um 6, o perdedor sofre 6000 de dano. Em caso de empate, os dois duelistas lançam novamente.
+  ja: |-
+    リバース：お互いにサイコロを１回ずつ振る。相手より小さい目が出たプレイヤーは、相手の出た目によって以下のダメージを受ける。相手の出た目が２～５だった場合、相手の出た目×５００ポイントダメージを受ける。相手の出た目が６だった場合、６０００ポイントダメージを受ける。お互いの出た目が同じだった場合はサイコロを振り直す。
+  ko: |-
+    리버스 : 서로 주사위를 1회씩 던진다. 상대보다 작은 눈이 나온 플레이어는 상대의 나온 눈 x 500 포인트의 데미지를 받는다. 단, 6의 눈으로 진 플레이어는 6000 포인트의 데미지를 받는다. 무승부인 경우는 다시 한다.
+type: Monster
+typeline: Rock / Effect
+attribute: LIGHT
+level: 3
+atk: 200
+def: 300
+sets:
+  en:
+  - set_number: DB2-EN226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-EN262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  de:
+  - set_number: DB2-DE226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-DE262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  fr:
+  - set_number: DB2-FR226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-FR262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  it:
+  - set_number: DB2-IT226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-IT262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  pt:
+  - set_number: LCJW-PT262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  ja:
+  - set_number: PH-27
+    set_name: Pharaonic Guardian (Japanese)
+    rarities:
+    - Common
+  - set_number: DL5-112
+    set_name: Duelist Legacy Volume.5
+    rarities:
+    - Common
+  - set_number: SJ2-044
+    set_name: 'Structure Deck: Joey Volume 2'
+    rarities:
+    - Common
+  - set_number: BE2-JP226
+    set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  - set_number: BE02-JP184
+    set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Common
+  ko:
+  - set_number: PGD-KR027
+    set_name: Pharaonic Guardian
+    rarities:
+    - Short Print
+  - set_number: BP2-KR226
+    set_name: Beginner's Edition 2
+    rarities:
+    - Common

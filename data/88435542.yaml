@@ -1,0 +1,46 @@
+konami_id: 4182
+password: 88435542
+name:
+  en: Fire Eye
+  de: Feuerauge
+  es: Ojo de fuego
+  fr: Œil de Feu
+  it: Occhio di Fuoco
+  pt: Olho de Fogo
+  ja: ファイヤー・アイ
+  ja_romaji: Faiyā Ai
+  ko:
+  ko_rr:
+text:
+  en: |-
+    An eye engulfed in flames that flaps its wings to create hot blasts of air.
+  de: |-
+    Ein von Flammen umgebenes Auge, das durch das Zusammenkneifen der Lider heiße Luftstöße erzeugen kann.
+  es: |-
+    Un ojo sepultado en llamas que bate sus alas para crear bocanadas de aire caliente.
+  fr: |-
+    Œil englouti dans les flammes qui bat des ailes pour créer des courants d'air chaud.
+  it: |-
+    Occhio circondato da fiamme che sbatte le ali per emettere folate di aria rovente.
+  pt: |-
+    None
+  ja: |-
+    炎につつまれた目玉。羽をはばたかせ、炎の風をおこす。
+  ko: |-
+    None
+type: Monster
+typeline: Pyro
+attribute: FIRE
+level: 2
+atk: 800
+def: 600
+sets:
+  ja:
+  - set_number: ''
+    set_name: Booster 1
+    rarities:
+    - Common
+  - set_number: B1-13
+    set_name: Booster R1
+    rarities:
+    - Common

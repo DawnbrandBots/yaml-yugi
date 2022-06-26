@@ -1,0 +1,219 @@
+konami_id: 11135
+password: 20409757
+name:
+  en: Timegazer Magician
+  de: Zeitdeutender Magier
+  es: Mago Contemplatiempo
+  fr: Magicien Observateur du Temps
+  it: Mago Miratempo
+  pt: Mago Observador do Tempo
+  ja: <ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby><ruby><rb>読</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby>みの<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja_romaji: Tokiyomi no Majutsushi
+  ko: 시간을 읽는 마술사
+  ko_rr:
+text:
+  en: |-
+    Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.
+  de: |-
+    In jedem Spielzug werden die ersten ein oder mehr Karten in deiner Pendelzone, die durch einen Karteneffekt eines Gegners zerstört würden, nicht zerstört.
+  es: |-
+    Cada turno, la o las primeras cartas en tu Zona de Péndulo que fueran a ser destruidas por el efecto de una carta del adversario, no son destruidas.
+  fr: |-
+    Chaque tour, la ou les premières cartes dans votre Zone Pendule qui vont être détruites par un effet de carte de votre adversaire ne sont pas détruites.
+  it: |-
+    Ogni turno, la prima volta che una o più carte nella tua Zona Pendulum stanno per essere distrutte dall'effetto di una carta dell'avversario, non vengono distrutte.
+  pt: |-
+    A cada turno, o(s) primeiro(s) card(s) nas suas Zonas de Pêndulo que seria(m) destruído(s) por um efeito de card do oponente, não é(são) destruído(s).
+  ja: |-
+    ①：このカードがモンスターゾーンにするり、１ターンに１、のゾーンのカードはのではされない。
+  ko: |-
+    ①: 이 카드가 몬스터 존에 존재하는 한, 1턴에 1번, 자신의 펜듈럼 존의 카드는 상대의 효과로는 파괴되지 않는다.
+type: Monster
+typeline: Spellcaster / Pendulum / Effect
+attribute: DARK
+level: 3
+atk: 1200
+def: 600
+pendulum_scale: 8
+pendulum_effect:
+  en: |-
+    You must control no monsters to activate this card. If a Pendulum Monster you control battles, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a "Magician" card or "Odd-Eyes" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.
+  de: |-
+    Du darfst keine Monster kontrollieren, um diese Karte zu aktivieren. Falls ein Pendelmonster kämpft, das du kontrollierst, kann dein Gegner bis zum Ende des Damage Steps keine Fallenkarten aktivieren. Der Pendelbereich dieser Karte wird zu 4, es sei denn, du hast eine „Magier“-Karte oder „Buntäugig“-Karte in deiner anderen Pendelzone.
+  es: |-
+    No debes controlar monstruos para activar esta carta. Si un Monstruo de Péndulo que controlas batalla, tu adversario no puede activar Cartas de Trampa hasta el final del Damage Step. A menos que tengas una carta "Mago/a" o una carta "Ojos Anómalos" en tu otra Zona de Péndulo, la Escala de Péndulo de esta carta se convierte en 4.
+  fr: |-
+    Vous ne devez contrôler aucun monstre pour activer cette carte. Si un Monstre Pendule que vous contrôlez combat, votre adversaire ne peut pas activer de Cartes Piège jusqu'à la fin de la Damage Step. L'Échelle Pendule de cette carte devient 4, sauf si vous avez une carte "Magicien" ou carte "Yeux Impairs" dans votre autre Zone Pendule.
+  it: |-
+    Non devi controllare nessun mostro per attivare questa carta. Se un Mostro Pendulum che controlli combatte, il tuo avversario non può attivare Carte Trappola fino alla fine del Damage Step. A meno che tu abbia una carta "Mago" o una carta "Occhi Diversi" nella tua altra Zona Pendulum, il Valore Pendulum di questa carta diventa 4.
+  pt: |-
+    Você não pode controlar nenhum monstro para ativar este card. Se um Monstro Pêndulo que você controla batalhar, seu oponente não pode ativar Cards de Armadilha até o final da Etapa de Dano. A não ser que você tenha um card "Mago" ou um card "Olhos Anômalos" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4.
+  ja: |-
+    フィールドにモンスターがしないにこのカードをできる。①：のモンスターがをう、はダメージステップまでカードをできない。②：もうののゾーンに「」カードまたは「オッドアイズ」カードがしない、このカードのスケールは４になる。
+  ko: |-
+    자신 필드에 몬스터가 존재하지 않을 경우에 이 카드를 발동할 수 있다. ①: 자신의 펜듈럼 몬스터가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 함정 카드를 발동할 수 없다. ②: 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드 또는 "오드아이즈" 카드가 존재하지 않을 경우, 이 카드의 펜듈럼 스케일은 4 가 된다.
+sets:
+  en:
+  - set_number: YS14-EN010
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Super Rare
+  - set_number: SP15-EN011
+    set_name: Star Pack ARC-V
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDMP-EN008
+    set_name: Master of Pendulum Structure Deck
+    rarities:
+    - Common
+  - set_number: YS16-EN010
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: PEVO-EN012
+    set_name: Pendulum Evolution
+    rarities:
+    - Super Rare
+  - set_number: LED6-EN050
+    set_name: 'Legendary Duelists: Magical Hero'
+    rarities:
+    - Common
+  de:
+  - set_number: YS14-DE010
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Super Rare
+  - set_number: SP15-DE011
+    set_name: Star Pack ARC-V
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDMP-DE008
+    set_name: Master of Pendulum Structure Deck
+    rarities:
+    - Common
+  - set_number: YS16-DE010
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: PEVO-DE012
+    set_name: Pendulum Evolution
+    rarities:
+    - Super Rare
+  - set_number: LED6-DE050
+    set_name: 'Legendary Duelists: Magical Hero'
+    rarities:
+    - Common
+  fr:
+  - set_number: YS14-FR010
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Super Rare
+  - set_number: SP15-FR011
+    set_name: Star Pack ARC-V
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDMP-FR008
+    set_name: Master of Pendulum Structure Deck
+    rarities:
+    - Common
+  - set_number: YS16-FR010
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: PEVO-FR012
+    set_name: Pendulum Evolution
+    rarities:
+    - Super Rare
+  - set_number: LED6-FR050
+    set_name: 'Legendary Duelists: Magical Hero'
+    rarities:
+    - Common
+  it:
+  - set_number: YS14-IT010
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Super Rare
+  - set_number: SP15-IT011
+    set_name: Star Pack ARC-V
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDMP-IT008
+    set_name: Master of Pendulum Structure Deck
+    rarities:
+    - Common
+  - set_number: YS16-IT010
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: PEVO-IT012
+    set_name: Pendulum Evolution
+    rarities:
+    - Super Rare
+  - set_number: LED6-IT050
+    set_name: 'Legendary Duelists: Magical Hero'
+    rarities:
+    - Common
+  pt:
+  - set_number: YS14-PT010
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Super Rare
+  - set_number: SP15-PT011
+    set_name: Star Pack ARC-V
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDMP-PT007
+    set_name: Master of Pendulum Structure Deck
+    rarities:
+    - Common
+  - set_number: YS16-PT010
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: PEVO-PT012
+    set_name: Pendulum Evolution
+    rarities:
+    - Super Rare
+  - set_number: LED6-PT050
+    set_name: 'Legendary Duelists: Magical Hero'
+    rarities:
+    - Common
+  ja:
+  - set_number: ST14-JP010
+    set_name: Starter Deck 2014
+    rarities:
+    - Super Rare
+  - set_number: SD29-JP007
+    set_name: 'Structure Deck: Master of Pendulum'
+    rarities:
+    - Common
+  - set_number: ST16-JP010
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  - set_number: SD31-JP008
+    set_name: 'Structure Deck: Pendulum Evolution'
+    rarities:
+    - Common
+  ko:
+  - set_number: ST14-KR010
+    set_name: Starter Deck 2014
+    rarities:
+    - Super Rare
+  - set_number: SD29-KR007
+    set_name: 'Structure Deck: Master of Pendulum'
+    rarities:
+    - Common
+  - set_number: ST16-KR010
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  - set_number: SD31-KR008
+    set_name: 'Structure Deck: Pendulum Evolution'
+    rarities:
+    - Common

@@ -1,0 +1,47 @@
+konami_id: 5029
+password: 17192817
+name:
+  en: Molten Behemoth
+  de: Geschmolzener Behemoth
+  es:
+  fr: Béhémoth en Fusion
+  it: Behemoth Fuso
+  pt:
+  ja: <ruby><rb>溶岩大巨人</rb><rp>（</rp><rt>マグマ・ギガント</rt><rp>）</rp></ruby>
+  ja_romaji: Maguma Giganto
+  ko: 용암 대거인
+  ko_rr:
+text:
+  en: |-
+    A giant born from magma, it attacks with a magma punch.
+  de: |-
+    None
+  es: |-
+    None
+  fr: |-
+    None
+  it: |-
+    None
+  pt: |-
+    None
+  ja: |-
+    マグマの大地から生まれた巨人。マグマパンチで攻撃をする。
+  ko: |-
+    마그마의 대지에서 탄생한 거인. 마그마 펀치로 공격을 한다.
+type: Monster
+typeline: Pyro
+attribute: FIRE
+level: 5
+atk: 1000
+def: 2200
+sets:
+  ja:
+  - set_number: PH-01
+    set_name: Pharaonic Guardian (Japanese)
+    rarities:
+    - Common
+  ko:
+  - set_number: PGD-KR001
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
