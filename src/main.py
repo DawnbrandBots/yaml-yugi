@@ -1,18 +1,19 @@
 import os
-import re
 import sys
-from typing import Dict, List, Optional, Union, Match
+from typing import Dict, List, Optional, Union
 
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 import wikitextparser as wtp
 
 
-def expand_ruby_templates(wikitext: str) -> str:
-    def expand(match: Match) -> str:
-        return match.expand(r"<ruby><rb>\1</rb><rp>（</rp><rt>\2</rt><rp>）</rp></ruby>")
-
-    return re.sub(r"\{\{Ruby\|(.+?)\|(.+?)(?:\|.+?)?}}", expand, wikitext)
+def expand_templates(template: wtp.Template) -> str:
+    if template.name.strip().lower() == "ruby":
+        base = template.arguments[0].value.strip()
+        ruby = template.arguments[1].value.strip()
+        return f"<ruby><rb>{base}</rb><rp>（</rp><rt>{ruby}</rt><rp>）</rp></ruby>"
+    else:
+        return ""
 
 
 def transform(yaml: YAML, yaml_file: str) -> Dict[str, str]:
@@ -27,10 +28,7 @@ def transform(yaml: YAML, yaml_file: str) -> Dict[str, str]:
     for argument in template.arguments:
         name = argument.name.strip()
         value = argument.value.strip().replace("<br />", "\n").replace("<br/>", "\n")
-        if name != "ja_name" and name != "ko_name":
-            value = wtp.remove_markup(value)
-        else:
-            value = expand_ruby_templates(value)
+        value = wtp.remove_markup(value, replace_templates=expand_templates)
         if value == "":
             continue
         properties[name] = value
