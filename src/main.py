@@ -54,6 +54,19 @@ def int_or_og(val: str) -> Union[int, str]:
         return val
 
 
+def annotate(yaml: YAML, zh_cn_dir, wikitext: Dict[str, str]) -> None:
+    password = int_or_none(wikitext.get("password") or "")
+    zh_cn_path = os.path.join(zh_cn_dir, f"{password}.yaml")
+    if os.path.isfile(zh_cn_path):
+        print(f"\t{zh_cn_path}", flush=True)
+        with open(zh_cn_path) as f:
+            document = yaml.load(f)
+            wikitext["ourocg_name"] = document["name"]
+            wikitext["ourocg_text"] = document["text"]
+            if document.get("pendulum"):
+                wikitext["ourocg_pendulum"] = document["pendulum"]
+
+
 def parse_sets(sets: str) -> List[Dict[str, str]]:
     result = []
     for printing in sets.split("\n"):
@@ -97,7 +110,9 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             "ja": wikitext.get("ja_name"),
             "ja_romaji": wikitext.get("romaji_name"),
             "ko": wikitext.get("ko_name"),
-            "ko_rr": wikitext.get("ko_rr_name")
+            "ko_rr": wikitext.get("ko_rr_name"),
+            # TODO: consider official (Yugipedia sc/tc) vs fan-translated
+            "zh-CN": wikitext.get("ourocg_name")
         },
         "text": {
             "en": LiteralScalarString(wikitext["lore"]),
@@ -108,6 +123,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             "pt": LiteralScalarString(wikitext.get("pt_lore")),
             "ja": LiteralScalarString(wikitext.get("ja_lore")),
             "ko": LiteralScalarString(wikitext.get("ko_lore")),
+            "zh-CN": LiteralScalarString(wikitext.get("ourocg_text"))
         }
     }
     # Golden-Eyes Idol for some reason has card_type = Monster
@@ -138,6 +154,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
                 "pt": LiteralScalarString(wikitext.get("pt_pendulum_effect")),
                 "ja": LiteralScalarString(wikitext.get("ja_pendulum_effect")),
                 "ko": LiteralScalarString(wikitext.get("ko_pendulum_effect")),
+                "zh-CN": LiteralScalarString(wikitext.get("ourocg_pendulum"))
             }
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]  # bonus derived field
@@ -147,7 +164,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         if "de_sets" in wikitext:
             document["sets"]["de"] = parse_sets(wikitext["de_sets"])
         if "es_sets" in wikitext:
-            document["sets"]["es"] = parse_sets(wikitext["es_sets"])
+            document["sets"]["es"] = parse_sets(wikitext["sp_sets"])
         if "fr_sets" in wikitext:
             document["sets"]["fr"] = parse_sets(wikitext["fr_sets"])
         if "it_sets" in wikitext:
@@ -158,6 +175,10 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             document["sets"]["ja"] = parse_sets(wikitext["jp_sets"])
         if "kr_sets" in wikitext:
             document["sets"]["ko"] = parse_sets(wikitext["kr_sets"])
+        if "tc_sets" in wikitext:
+            document["sets"]["zh-TW"] = parse_sets(wikitext["tc_sets"])
+        if "sc_sets" in wikitext:
+            document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
     # not all have passwords, change
     if password is not None:
         filename = wikitext["password"] + ".yaml"
@@ -169,8 +190,9 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
 
 def main():
     if len(sys.argv) < 2:
-        print(f"Usage: {sys.argv[0]} <path/to/wikitexts>")
+        print(f"Usage: {sys.argv[0]} <path/to/wikitexts> [path/to/zh-CN]")
     wikitext_dir = sys.argv[1]
+    zh_cn_dir = sys.argv[2]
     yaml = YAML()
     skip = True
     for filename in os.listdir(wikitext_dir):
@@ -181,8 +203,10 @@ def main():
         #         continue
         filepath = os.path.join(wikitext_dir, filename)
         if os.path.isfile(filepath):
-            print(filepath)
+            print(filepath, flush=True)
             properties = transform(yaml, filepath)
+            if zh_cn_dir:
+                annotate(yaml, zh_cn_dir, properties)
             write_output(yaml, properties)
 
 
