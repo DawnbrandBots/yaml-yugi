@@ -11,6 +11,7 @@ name:
   ja_romaji: Fōmyura Asurīto Shainingu Sutā Jī Ti
   ko: <ruby><rb>F.A.</rb><rp>（</rp><rt>포뮬러 애슬리트</rt><rp>）</rp></ruby> 샤이닝스타 <ruby><rb>G</rb><rp>（</rp><rt>지</rt><rp>）</rp></ruby><ruby><rb>T</rb><rp>（</rp><rt>티</rt><rp>）</rp></ruby>
   ko_rr: Pomyulleo Aeseulliteu Syainingseuta Ji Ti
+  zh-CN: 方程式运动员 闪光赛道名星GT
 text:
   en: |-
     2 Machine monsters
@@ -36,6 +37,13 @@ text:
   ko: |-
     기계족 몬스터 2장
     이 카드명의 ④의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드의 링크 앞의 "F.A.(포뮬러 애슬리트)" 몬스터의 레벨의 합계 × 300 올린다. ②: 이 카드의 전투로 발생하는 서로의 전투 데미지는 0 이 된다. ③: "F.A.(포뮬러 애슬리트)" 마법 / 함정 카드의 효과가 발동했을 경우에 발동한다. 이 카드에 애슬리트 카운터를 1개 놓는다. ④: 상대가 몬스터의 효과를 발동했을 때, 이 카드의 애슬리트 카운터를 1개 제거하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  zh-CN: |-
+    机械族怪兽2只
+    这个卡名的④的效果1回合只能使用1次。
+    ①：这张卡的攻击力上升这张卡所连接区的「方程式运动员」怪兽的等级合计×300。
+    ②：这张卡的战斗发生的双方的战斗伤害变成0。
+    ③：「方程式运动员」魔法·陷阱卡的效果发动的场合发动。给这张卡放置1个运动员指示物。
+    ④：对方把怪兽的效果发动时，把这张卡1个运动员指示物取除才能发动。那个发动无效并破坏。
 type: Monster
 typeline: Machine / Link / Effect
 attribute: LIGHT
@@ -100,3 +108,8 @@ sets:
     set_name: Extra Pack 2018
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: SCTP-SC076
+    set_name: Entry Pack Volume 5
+    rarities:
+    - Common

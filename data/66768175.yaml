@@ -11,6 +11,7 @@ name:
   ja_romaji: Entameito Barādo
   ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 바라드
   ko_rr:
+  zh-CN: 娱乐伙伴 歌谣蔷薇
 text:
   en: |-
     If your "Performapal" monster attacked, after damage calculation: You can target 1 face-up monster your opponent controls; that target loses ATK equal to the ATK of that "Performapal" monster.
@@ -28,6 +29,8 @@ text:
     ①：自分の「ＥＭ」モンスターが攻撃したダメージ計算後に、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手モンスターの攻撃力は、その「ＥＭ」モンスターの攻撃力分ダウンする。
   ko: |-
     ①: 자신의 "EM(엔터메이트)" 몬스터가 공격한 데미지 계산 후에, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 몬스터의 공격력은, 그 "EM(엔터메이트)" 몬스터의 공격력만큼 내린다.
+  zh-CN: |-
+    ①：自己的「娱乐伙伴」怪兽攻击的伤害计算后，以对方场上1只表侧表示怪兽为对象才能发动。那只对方怪兽的攻击力下降那只「娱乐伙伴」怪兽的攻击力数值。
 type: Monster
 typeline: Plant / Pendulum / Effect
 attribute: EARTH
@@ -52,6 +55,8 @@ pendulum_effect:
     ①：１ターンに１度、自分の「ＥＭ」モンスターが相手の表側表示モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターの攻撃力は６００ダウンする。
   ko: |-
     ①: 1턴에 1번, 자신의 "EM(엔터메이트)" 몬스터가 상대의 앞면 표시 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터의 공격력은 600 내린다.
+  zh-CN: |-
+    ①：1回合1次，自己的「娱乐伙伴」怪兽和对方的表侧表示怪兽进行战斗的伤害步骤开始时才能发动。那只对方怪兽的攻击力下降600。
 sets:
   en:
   - set_number: DPDG-EN002

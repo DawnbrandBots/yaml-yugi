@@ -12,6 +12,7 @@ name:
   ja_romaji: Kūgadan no Hishō Rikon
   ko: 공아단의 비초 리콘
   ko_rr:
+  zh-CN: 空牙团的飞哨 锐康
 text:
   en: |-
     During your Main Phase: You can Special Summon 1 monster "Fur Hire" from your hand, except "Recon, Scout Fur Hire". If a monster "Fur Hire" is Special Summoned to your field while you control this monster (except during the Damage Step): You can target 1 Set card on the field; destroy it. You can only use each effect of "Recon, Scout Fur Hire" once per turn.
@@ -29,6 +30,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札から「空牙団の飛哨 リコン」以外の「空牙団」モンスター１体を特殊召喚する。②：このカードが既にモンスターゾーンに存在する状態で、自分フィールドにこのカード以外の「空牙団」モンスターが特殊召喚された場合、フィールドにセットされたカード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 패에서 "공아단의 비초 리콘" 이외의 "공아단" 몬스터 1장을 특수 소환한다. ②: 이 카드가 이미 몬스터 존에 존재하는 상태에, 자신 필드에 이 카드 이외의 "공아단" 몬스터가 특수 소환 되었을 경우, 필드에 세트된 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：自己主要阶段才能发动。从手卡把「空牙团的飞哨 锐康」以外的1只「空牙团」怪兽特殊召唤。
+    ②：这张卡已在怪兽区域存在的状态，自己场上有这张卡以外的「空牙团」怪兽特殊召唤的场合，以场上盖放的1张卡为对象才能发动。那张卡破坏。
 type: Monster
 typeline: Beast / Effect
 attribute: WIND
@@ -89,6 +94,12 @@ sets:
     - Normal Parallel Rare
   ko:
   - set_number: DBDS-KR015
+    set_name: 'Deck Build Pack: Dark Savers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: DBDS-SC015
     set_name: 'Deck Build Pack: Dark Savers'
     rarities:
     - Common

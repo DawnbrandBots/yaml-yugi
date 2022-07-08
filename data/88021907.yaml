@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaizanki Rapurashian
   ko: 괴참기 라플라시안
   ko_rr: Goechamgi Rapeullasian
+  zh-CN: 块斩机 算子拉普拉斯
 text:
   en: |-
     3 Level 4 monsters / If a "Mathmech" card(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is Xyz Summoned: You can detach up to 3 materials from it, then choose that many effects (you cannot choose the same effect twice, and you resolve them in the listed order, skipping any that were not chosen);
@@ -57,6 +58,14 @@ text:
   ko: |-
     레벨 4 몬스터 × 3
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우, 이 카드의 엑시즈 소재를 3개까지 제거하고, 그 수만큼 이하의 효과에서 선택하여 발동할 수 있다. ●상대의 패를 무작위로 1장 고르고 묘지로 보낸다. ●상대 필드의 몬스터 1장을 고르고 묘지로 보낸다. ●상대 필드의 마법 / 함정 카드 1장을 고르고 묘지로 보낸다. ②: 자신 필드의 "참기" 카드가 효과로 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다.
+  zh-CN: |-
+    4星怪兽×3
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡超量召唤成功的场合，可以把这张卡最多3个超量素材取除，从以下效果选择那个数量发动。
+    ●对方手卡随机选1张送去墓地。
+    ●选对方场上1只怪兽送去墓地。
+    ●选对方场上1张魔法·陷阱卡送去墓地。
+    ②：自己场上的「斩机」卡被效果破坏的场合，可以作为代替把这张卡1个超量素材取除。
 type: Monster
 typeline: Cyberse / Xyz / Effect
 attribute: EARTH
@@ -118,6 +127,12 @@ sets:
     - Normal Parallel Rare
   ko:
   - set_number: DBMF-KR009
+    set_name: 'Deck Build Pack: Mystic Fighters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: DBMF-SC009
     set_name: 'Deck Build Pack: Mystic Fighters'
     rarities:
     - Common

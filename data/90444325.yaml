@@ -11,6 +11,7 @@ name:
   ja_romaji: Megarisu Hagito
   ko: 메가리스 하기트
   ko_rr: Megariseu Hagiteu
+  zh-CN: 巨石遗物·海基思
 text:
   en: |-
     You can Ritual Summon this card with a "Megalith" card. If this card is Ritual Summoned: You can add 1 "Megalith" Spell/Trap from your Deck to your hand. During your Main Phase: You can activate this effect; Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of "Megalith Hagith" once per turn.
@@ -28,6 +29,10 @@ text:
     「メガリス」カードにより降臨。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが儀式召喚に成功した場合に発動できる。デッキから「メガリス」魔法・罠カード１枚を手札に加える。②：自分メインフェイズに発動できる。レベルの合計が儀式召喚するモンスターのレベル以上になるように、フィールドのこのカードを含む自分の手札・フィールドのモンスターをリリースし、手札から儀式モンスター１体を儀式召喚する。
   ko: |-
     "메가리스" 카드에 의해 의식 소환. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 의식 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "메가리스" 마법 / 함정 카드 1장을 패에 넣는다. ②: 자신 메인 페이즈에 발동할 수 있다. 레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 필드의 이 카드를 포함하는 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 의식 몬스터 1장을 의식 소환한다.
+  zh-CN: |-
+    「巨石遗物」卡降临。这个卡名的②的效果1回合只能使用1次。
+    ①：这张卡仪式召唤成功的场合才能发动。从卡组把1张「巨石遗物」魔法·陷阱卡加入手卡。
+    ②：自己主要阶段才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把包含场上的这张卡的自己的手卡·场上的怪兽解放，从手卡把1只仪式怪兽仪式召唤。
 type: Monster
 typeline: Rock / Ritual / Effect
 attribute: EARTH
@@ -68,5 +73,10 @@ sets:
   ko:
   - set_number: IGAS-KR036
     set_name: Ignition Assault
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC069
+    set_name: Mega Pack 04
     rarities:
     - Common

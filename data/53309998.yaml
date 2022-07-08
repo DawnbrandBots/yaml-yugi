@@ -11,6 +11,7 @@ name:
   ja_romaji: Shī Ākaibā
   ko: 씨아카이버
   ko_rr: Ssiakaibeo
+  zh-CN: 存档海马
 text:
   en: |-
     If a monster is Normal or Special Summoned to a zone a Link Monster points to (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the Summon resolved) or hand (even if not), but banish it when it leaves the field. You can only use this effect of "Sea Archiver" once per turn.
@@ -28,6 +29,9 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、フィールドのリンクモンスターのリンク先にモンスターが召喚・特殊召喚された場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 필드의 링크 몬스터의 링크 앞에 몬스터가 일반 소환 / 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：这张卡在手卡·墓地存在，场上的连接怪兽所连接区有怪兽召唤·特殊召唤的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
 type: Monster
 typeline: Cyberse / Effect
 attribute: WATER
@@ -94,3 +98,8 @@ sets:
     set_name: Starter Deck 2019
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP1-SC152
+    set_name: Mega Pack 01
+    rarities:
+    - Rare

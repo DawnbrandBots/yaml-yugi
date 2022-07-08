@@ -11,6 +11,7 @@ name:
   ja_romaji: Furūru Do Shuvarie
   ko: 플뢰르 드 슈바리에
   ko_rr: Peulloereu Deu Syubarie
+  zh-CN: 鲜花骑士
 text:
   en: |-
     "Fleur Synchron" + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "플뢰르 싱크론" ＋ 튜너 이외의 몬스터 1장 이상
     ①: 1턴에 1번, 자신 턴에 상대가 마법 / 함정 카드를 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  zh-CN: |-
+    「鲜花同调士」＋调整以外的怪兽1只以上
+    对方把魔法·陷阱卡发动时才能发动。那个发动无效并破坏。这个效果在自己回合才能发动1次。
 type: Monster
 typeline: Warrior / Synchro / Effect
 attribute: WIND
@@ -96,6 +100,11 @@ sets:
     rarities:
     - Super Rare
   - set_number: DP25-KR031
+    set_name: 'Duelist Pack: Duelists of Whirlwind'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP25-SC041
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Common

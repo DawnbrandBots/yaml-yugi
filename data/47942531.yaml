@@ -12,6 +12,7 @@ name:
   ja_romaji: Gurēto Majū Gāzetto
   ko: 위대한 마수 가젯트
   ko_rr: Widaehan Masu Gajet-teu
+  zh-CN: 伟大魔兽 加泽特
 text:
   en: |-
     The ATK of this card becomes twice the original ATK of 1 monster that you Tributed for the Tribute Summon of this card.
@@ -29,6 +30,8 @@ text:
     このカードの攻撃力は、生け贄召喚時に生け贄に捧げたモンスター１体の元々の攻撃力を倍にした数値になる。
   ko: |-
     이 카드의 공격력은 제물 소환시에 제물로 바친 몬스터 1장의 원래 공격력을 배로 한 수치가 된다.
+  zh-CN: |-
+    这张卡的攻击力变成祭品召唤时作为祭品的1只怪兽的原本攻击力2倍的数值。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -97,5 +100,10 @@ sets:
     - Common
   - set_number: ESP3-KR008
     set_name: Expansion Pack Vol.3
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC010
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

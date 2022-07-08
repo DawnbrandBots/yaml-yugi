@@ -11,6 +11,7 @@ name:
   ja_romaji: Puroto Saibā Doragon
   ko: 프로토 사이버 드래곤
   ko_rr:
+  zh-CN: 原始电子龙
 text:
   en: |-
     This card's name becomes "Cyber Dragon" while on the field.
@@ -28,6 +29,8 @@ text:
     このカードのカード名は、フィールド上に表側表示で存在する限り「サイバー・ドラゴン」として扱う。
   ko: |-
     이 카드는 필드 위에 앞면 표시로 존재하는 한, 카드명을 "사이버 드래곤"으로 취급한다.
+  zh-CN: |-
+    这张卡的卡名只要在场上表侧表示存在就当作「电子龙」使用。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -204,6 +207,16 @@ sets:
     rarities:
     - Common
   - set_number: SD26-KR005
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD18-TC014
+    set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD26-SC005
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common

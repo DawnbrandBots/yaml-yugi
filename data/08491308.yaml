@@ -11,6 +11,7 @@ name:
   ja_romaji: Sentōki - Hayate
   ko: 섬도희－하야테
   ko_rr: Seomdohui - Hayate
+  zh-CN: 闪刀姬-飒天
 text:
   en: |-
     1 non-WIND "Sky Striker Ace" monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     바람 속성 이외의 "섬도희" 몬스터 1장
     자신은 "섬도희－하야테"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드는 직접 공격할 수 있다. ②: 이 카드가 전투를 실행한 데미지 계산 후에 발동할 수 있다. 덱에서 "섬도" 카드 1장을 묘지로 보낸다.
+  zh-CN: |-
+    风属性以外的「闪刀姬」怪兽1只
+    自己对「闪刀姬-飒天」1回合只能有1次特殊召唤。
+    ①：这张卡可以直接攻击。
+    ②：这张卡进行战斗的伤害计算后才能发动。从卡组把1张「闪刀」卡送去墓地。
 type: Monster
 typeline: Machine / Link / Effect
 attribute: WIND
@@ -141,3 +147,14 @@ sets:
     rarities:
     - Normal Parallel Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SCTP-SC031
+    set_name: Entry Pack Volume 2
+    rarities:
+    - Common
+  - set_number: MGP2-SC088
+    set_name: Mega Pack 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare

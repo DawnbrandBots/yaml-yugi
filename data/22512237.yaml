@@ -11,6 +11,7 @@ name:
   ja_romaji: Mekanikaru Haundo
   ko: 메카니컬 하운드
   ko_rr:
+  zh-CN: 机械猎犬
 text:
   en: |-
     While you have no cards in your hand, your opponent cannot activate Spell Cards.
@@ -28,6 +29,8 @@ text:
     自分の手札が０枚である限り、相手は魔法カードを発動する事ができない。
   ko: |-
     자신의 카드패가 0매인 한, 상대는 마법 카드를 발동할 수가 없다
+  zh-CN: |-
+    只要自己手卡是0张，对方不能把魔法卡发动。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -76,5 +79,10 @@ sets:
     - Common
   - set_number: HGP4-KR018
     set_name: Expert Edition Volume 4
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC103
+    set_name: Entry Pack Volume 7
     rarities:
     - Common

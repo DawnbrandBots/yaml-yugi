@@ -11,6 +11,7 @@ name:
   ja_romaji: Sutāfisshu
   ko: 불가사리
   ko_rr:
+  zh-CN: 海星
 text:
   en: |-
     Once per turn: You can increase the Levels of all "Starfish" you currently control by 1.
@@ -28,6 +29,8 @@ text:
     １ターンに１度、自分のメインフェイズ時に発動できる。自分フィールド上の全ての「スターフィッシュ」のレベルを１つ上げる。
   ko: |-
     1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 자신 필드 위의 모든 "불가사리" 의 레벨을 1개 올린다.
+  zh-CN: |-
+    1回合1次，自己的主要阶段时才能发动。自己场上的全部「海星」的等级上升1星。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR009
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC009
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

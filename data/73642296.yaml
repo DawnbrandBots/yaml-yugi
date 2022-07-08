@@ -11,6 +11,7 @@ name:
   ja_romaji: Yashiki Warashi
   ko: 저택 와라시
   ko_rr: Jeotaek Warasi
+  zh-CN: 屋敷童
 text:
   en: |-
     When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that activation.
@@ -56,6 +57,12 @@ text:
     ●묘지에서 카드를 패 / 덱 / 엑스트라 덱에 넣는 효과
     ●묘지에서 몬스터를 특수 소환하는 효과
     ●묘지에서 카드를 제외하는 효과
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：包含以下其中任意种效果的魔法·陷阱·怪兽的效果发动时，把这张卡从手卡丢弃才能发动。那个发动无效。
+    ●从墓地把卡加入手卡·卡组·额外卡组的效果
+    ●从墓地把怪兽特殊召唤的效果
+    ●从墓地把卡除外的效果
 type: Monster
 typeline: Zombie / Tuner / Effect
 attribute: EARTH
@@ -218,3 +225,17 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: RC03-SC012
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Premium Gold Rare
+  - set_number: 22RC-SC021
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Collector's Rare

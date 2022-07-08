@@ -11,6 +11,7 @@ name:
   ja_romaji: Mikai'iki no Mosuman
   ko: 미계역의 모스맨
   ko_rr: Migyeyeok-ui Moseumaen
+  zh-CN: 危险！天蛾人！
 text:
   en: |-
     You can reveal this card in your hand; your opponent randomly chooses 1 card from your entire hand, then you discard the chosen card. Then, if the discarded card was not "Danger! Mothman!", Special Summon 1 "Danger! Mothman!" from your hand, and if you do, draw 1 card. If this card is discarded: You can have both players draw 1 card, then both players discard 1 card. You can only use this effect of "Danger! Mothman!" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：手札のこのカードを相手に見せて発動できる。自分の全ての手札の中から、相手がランダムに１枚選び、自分はそのカードを捨てる。それが「未界域のモスマン」以外だった場合、さらに手札から「未界域のモスマン」１体を特殊召喚し、自分はデッキから１枚ドローする。②：このカードが手札から捨てられた場合に発動できる。お互いのプレイヤーはデッキから１枚ドローし、その後手札を１枚選んで捨てる。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패의 이 카드를 상대에게 보여주고 발동할 수 있다. 자신의 모든 패 중에서, 상대가 무작위로 1장 고르고, 자신은 그 카드를 버린다. 그것이 "미계역의 모스맨" 이외였을 경우, 추가로 패에서 "미계역의 모스맨" 1장을 특수 소환하고, 자신은 덱에서 1장 드로우한다. ②: 이 카드가 패에서 버려졌을 경우에 발동할 수 있다. 양쪽 플레이어는 덱에서 1장 드로우하고, 그 후 패를 1장 골라 버린다.
+  zh-CN: |-
+    可以把手卡的这张卡给对方观看；自己的手卡由对方随机选1张，之后自己把选择的卡丢弃。那之后，丢弃的卡不是「危险！天蛾人！」的场合，从手卡把1只「危险！天蛾人！」特殊召唤，自己从卡组抽1张卡。这张卡被丢弃的场合：可以让双方玩家各自从卡组抽1张卡，之后双方玩家丢弃1张手卡。「危险！天蛾人！」的这个效果1回合只能使用1次。
 type: Monster
 typeline: Insect / Effect
 attribute: DARK
@@ -88,5 +91,10 @@ sets:
   ko:
   - set_number: EP19-KR027
     set_name: Extra Pack 2019
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC158
+    set_name: Mega Pack 02
     rarities:
     - Common

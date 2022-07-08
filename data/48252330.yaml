@@ -11,6 +11,7 @@ name:
   ja_romaji: Madoruche Batorasuku
   ko: 마돌체 바트라스크
   ko_rr:
+  zh-CN: 魔偶甜点·面包干管家
 text:
   en: |-
     When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can add 1 Field Spell Card from your Deck to your hand. There must be another face-up "Madolche" monster on the field to activate and to resolve this effect.
@@ -28,6 +29,8 @@ text:
     このカードが相手によって破壊され墓地へ送られた時、このカードをデッキに戻す。このカードが召喚に成功した時、フィールド上にこのカード以外の「マドルチェ」と名のついたモンスターが存在する場合、デッキからフィールド魔法カード１枚を手札に加える事ができる。
   ko: |-
     이 카드가 상대에 의해서 파괴되어 묘지로 보내졌을 때, 이 카드를 덱으로 되돌린다. 이 카드가 일반 소환에 성공했을 때, 필드 위에 이 카드 이외의 "마돌체" 라는 이름이 붙은 몬스터가 존재할 경우, 덱에서 필드 마법 카드 1장을 패에 넣을 수 있다.
+  zh-CN: |-
+    这张卡被对方破坏送去墓地时，这张卡回到卡组。这张卡召唤成功时，场上有这张卡以外的名字带有「魔偶甜点」的怪兽存在的场合，可以从卡组把1张场地魔法卡加入手卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: EARTH
@@ -62,6 +65,11 @@ sets:
     - Common
   ko:
   - set_number: REDU-KR025
+    set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: REDU-TC025
     set_name: Return of the Duelist
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Mirā Rizonētā
   ko: 미러 레조네이터
   ko_rr:
+  zh-CN: 镜子共鸣者
 text:
   en: |-
     If your opponent controls a face-up monster(s) that was Special Summoned from the Extra Deck and you do not, while this card is in your hand or Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Mirror Resonator" once per turn. Once per turn: You can target 1 face-up monster your opponent controls; treat this card's Level as that monster's original Level if this card is used for a Synchro Summon this turn.
@@ -28,6 +29,8 @@ text:
     「ミラー・リゾネーター」の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、エクストラデッキから特殊召喚されたモンスターが相手フィールドにのみ存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。このカードはこのターンに<ruby><rb>Ｓ</rb><rp>（</rp><rt>シンクロ</rt><rp>）</rp></ruby>素材とする場合、対象のモンスターの元々のレベルと同じレベルとして扱う。
   ko: |-
     "미러 레조네이터"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 엑스트라 덱에서 특수 소환된 몬스터가 상대 필드에만 존재할 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다. ②: 1턴에 1번, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드는 이 턴에 싱크로 소재로 할 경우, 대상 몬스터의 원래의 레벨과 같은 레벨로 취급한다.
+  zh-CN: |-
+    「镜子共鸣者」的①的效果1回合只能使用1次。①：这张卡在手卡·墓地存在，从额外卡组特殊召唤的怪兽只有对方场上才存在的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。②：1回合1次，以对方场上1只表侧表示怪兽为对象才能发动。这张卡在这个回合作为同调素材的场合，当作和作为对象的怪兽的原本等级相同等级使用。
 type: Monster
 typeline: Fiend / Tuner / Effect
 attribute: LIGHT
@@ -90,3 +93,8 @@ sets:
     set_name: 'Booster SP: Highspeed Riders'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: MGP4-SC163
+    set_name: Mega Pack 04
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Heru Fureimu Gōsuto
   ko: 헬프레임 고스트
   ko_rr:
+  zh-CN: 狱火幽灵
 text:
   en: |-
     2 Pyro-Type Level 4 monsters
@@ -36,6 +37,8 @@ text:
   ko: |-
     화염족 레벨 4 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 공격력은 상대의 엔드 페이즈시까지 500 포인트 올린다. 또한, 공격력 2500 이상의 이 카드가 파괴되었을 때, 서로 묘지의 몬스터를 합계 3장 선택하고 게임에서 제외한다.
+  zh-CN: |-
+    炎族4星怪兽×2。1回合1次，把这张卡1个XYZ素材取除才能发动。这张卡的攻击力直到对方的结束阶段时上升500。此外，攻击力2500以上的这张卡被破坏时，选择双方墓地的怪兽合计3只从游戏中除外。
 type: Monster
 typeline: Pyro / Xyz / Effect
 attribute: FIRE
@@ -79,3 +82,8 @@ sets:
     set_name: 'Extra Pack: Sword of Knights'
     rarities:
     - Rare
+  zh-TW:
+  - set_number: CBLZ-TC088
+    set_name: Cosmo Blazer
+    rarities:
+    - Common

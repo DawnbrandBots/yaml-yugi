@@ -11,6 +11,7 @@ name:
   ja_romaji: Marinsesu Kurisutaru Hāto
   ko: 마린세스 크리스탈하트
   ko_rr: Marinseseu Keuriseutalhateu
+  zh-CN: 海晶少女 水晶心
 text:
   en: |-
     2 WATER monsters
@@ -36,6 +37,11 @@ text:
   ko: |-
     물 속성 몬스터 2장
     ①: 이 카드는 엑스트라 몬스터 존에 존재하는 한, 상대 몬스터의 효과를 받지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행하는 데미지 스텝 동안, 그 상대 몬스터는 자신 이외의 카드의 효과를 받지 않는다. ③: 이 카드 또는 이 카드의 링크 앞의 자신의 "마린세스" 링크 몬스터가 공격 대상으로 선택되었을 때, 패에서 "마린세스" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 그 자신 몬스터는 그 전투로는 파괴되지 않으며, 그 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다.
+  zh-CN: |-
+    水属性怪兽2只
+    ①：只要这张卡在额外怪兽区域存在，这张卡不受对方怪兽的效果影响。
+    ②：这张卡和对方怪兽进行战斗的伤害步骤内，那只对方怪兽不受自身以外的卡的效果影响。
+    ③：这张卡或者这张卡所连接区的自己的「海晶少女」连接怪兽被选择作为攻击对象时，从手卡把1只「海晶少女」怪兽送去墓地才能发动。那只自己怪兽不会被那次战斗破坏，那次战斗发生的对自己的战斗伤害变成0。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: WATER
@@ -126,5 +132,10 @@ sets:
     - Common
   - set_number: DP26-KR042
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC021
+    set_name: Mega Pack 04
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Seihai no Shugoryū Arumadūku
   ko: 성잔의 수호룡 알마두크
   ko_rr: Seongjan-ui Suhoryong Almadukeu
+  zh-CN: 星杯的守护龙 阿尔玛杜克
 text:
   en: |-
     3 Link Monsters
@@ -36,6 +37,12 @@ text:
   ko: |-
     링크 몬스터 × 3
     이 카드는 융합 소환 및 이하의 방법으로만 엑스트라 덱에서 특수 소환할 수 있다. ●자신 필드의 상기 카드를 릴리스했을 경우에 엑스트라 덱에서 특수 소환할 수 있다("융합"은 필요로 하지 않는다). ①: 이 카드는 상대 몬스터 전부에 1회씩 공격할 수 있다. ②: 이 카드가 상대의 링크 몬스터와 전투를 실행하는 공격 선언시, 그 상대 몬스터와 링크 마커의 수가 같은 링크 몬스터를 자신의 필드 / 묘지에서 1장 제외하고 발동할 수 있다. 그 상대 몬스터를 파괴하고, 그 원래 공격력만큼의 데미지를 상대에게 준다.
+  zh-CN: |-
+    连接怪兽×3
+    这张卡用融合召唤以及以下方法才能从额外卡组特殊召唤。
+    ●把自己场上的上记卡解放的场合可以从额外卡组特殊召唤（不需要「融合」）。
+    ①：这张卡可以向对方怪兽全部各作1次攻击。
+    ②：这张卡和对方的连接怪兽进行战斗的攻击宣言时，把连接标记数量和那只对方怪兽相同的1只连接怪兽从自己的场上·墓地除外才能发动。那只对方怪兽破坏，给与对方那个原本攻击力数值的伤害。
 type: Monster
 typeline: Dragon / Fusion / Effect
 attribute: WIND
@@ -96,5 +103,10 @@ sets:
   ko:
   - set_number: DANE-KR032
     set_name: Dark Neostorm
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC070
+    set_name: Mega Pack 03
     rarities:
     - Rare

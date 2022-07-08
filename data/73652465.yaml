@@ -11,6 +11,7 @@ name:
   ja_romaji: Burakku Fezā - Toppū no Oroshi
   ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－돌풍의 오로시
   ko_rr: Beullaek Pedeo - Dolpung-ui Orosi
+  zh-CN: 黑羽-突风之颪
 text:
   en: |-
     If you control a "Blackwing" monster other than "Blackwing - Oroshi the Squall", you can Special Summon this card (from your hand). You can only Special Summon "Blackwing - Oroshi the Squall" once per turn this way. If this card is sent to the GY as a Synchro Material: You can target 1 monster on the field; change that target's battle position.
@@ -28,6 +29,8 @@ text:
     このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「<ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>突</rb><rp>（</rp><rt>とっ</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>ぷう</rt><rp>）</rp></ruby>のオロシ」以外の「<ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードがS素材として墓地へ送られた場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 자신 필드에 "BF(블랙 페더)－돌풍의 오로시" 이외의 "BF(블랙 페더)" 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 싱크로 소재로서 묘지로 보내졌을 경우, 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 표시 형식을 변경한다.
+  zh-CN: |-
+    这个卡名的①的方法的特殊召唤1回合只能有1次。①：自己场上有「黑羽-突风之颪」以外的「黑羽」怪兽存在的场合，这张卡可以从手卡特殊召唤。②：这张卡作为同调素材送去墓地的场合，以场上1只怪兽为对象才能发动。那只怪兽的表示形式变更。
 type: Monster
 typeline: Winged Beast / Tuner / Effect
 attribute: DARK
@@ -115,6 +118,11 @@ sets:
     rarities:
     - Rare
   - set_number: DP20-KR030
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP20-SC030
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common

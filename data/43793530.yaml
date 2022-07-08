@@ -11,6 +11,7 @@ name:
   ja_romaji: Giga Gagagigo
   ko: 기가 가가기고
   ko_rr:
+  zh-CN: 歧蜥·魔蜥义豪
 text:
   en: |-
     In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.
@@ -28,6 +29,8 @@ text:
     強大な悪に立ち向かうため、様々な肉体改造をほどこした結果恐るべきパワーを手に入れたが、その代償として正義の心を失ってしまった。
   ko: |-
     강대한 악에 맞서기 위해, 다양한 육체 개조를 시행한 결과 무서울만한 파워를 손에 넣었지만, 그 대가로 정의의 마음을 잃어버렸다.
+  zh-CN: |-
+    为了对抗强大的邪恶，各种肉体改造的结果得到了惊人的力量，但作为其代价丧失了正义之心。
 type: Monster
 typeline: Reptile
 attribute: WATER
@@ -103,5 +106,10 @@ sets:
     - Common
   - set_number: YSD5-KR004
     set_name: Starter Deck 2010
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC001
+    set_name: Duel Starter Deck
     rarities:
     - Common

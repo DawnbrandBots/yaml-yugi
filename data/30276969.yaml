@@ -11,6 +11,7 @@ name:
   ja_romaji: Hyōdantsukai Reisu
   ko: 빙탄사 레이스
   ko_rr:
+  zh-CN: 冰弹使 蕾丝
 text:
   en: |-
     This card cannot be destroyed by battle with a Level 4 or higher monster.
@@ -28,6 +29,8 @@ text:
     このカードはレベル４以上のモンスターとの戦闘では破壊されない。
   ko: |-
     이 카드는 레벨 4 이상의 몬스터와의 전투에서는 파괴되지 않는다.
+  zh-CN: |-
+    这张卡不会被和4星以上的怪兽的战斗破坏。
 type: Monster
 typeline: Sea Serpent / Tuner
 attribute: WATER
@@ -87,5 +90,10 @@ sets:
   ko:
   - set_number: SD23-KR020
     set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC025
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

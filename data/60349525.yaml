@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurakkingu Doragon
   ko: 크래킹 드래곤
   ko_rr:
+  zh-CN: 破解龙
 text:
   en: |-
     Cannot be destroyed by battle with a monster with equal or lower Level. When your opponent Normal or Special Summons exactly 1 monster (and no other monsters are Summoned) while this monster is on the field: You can make that monster lose ATK equal to its Level x 200 (until the end of this turn), and if you do, inflict damage to your opponent equal to the ATK lost by this effect.
@@ -28,6 +29,8 @@ text:
     ①：このカードは、このカードのレベル以下のレベルを持つモンスターとの戦闘では破壊されない。②：このカードがモンスターゾーンに存在し、相手がモンスター１体のみを召喚・特殊召喚した時に発動できる。そのモンスターの攻撃力はターン終了時までそのレベル×２００ダウンし、ダウンした数値分だけ相手にダメージを与える。
   ko: |-
     ① : 이 카드는, 이 카드의 레벨 이하의 레벨을 가지는 몬스터와의 전투로는 파괴되지 않는다. ② : 이 카드가 몬스터 존에 존재하고, 상대가 몬스터 1장만을 일반 소환 / 특수 소환했을 때에 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 그 레벨 x 200 내리고, 내린 수치만큼만 상대에게 데미지를 준다.
+  zh-CN: |-
+    ①：这张卡不会被和持有这张卡的等级以下的等级的怪兽的战斗破坏。②：这张卡在怪兽区域存在，对方只把怪兽1只召唤·特殊召唤时才能发动。那只怪兽的攻击力直到回合结束时下降那个等级×200，给与对方下降数值的伤害。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -117,3 +120,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP1-SC011
+    set_name: Mega Pack 01
+    rarities:
+    - Super Rare

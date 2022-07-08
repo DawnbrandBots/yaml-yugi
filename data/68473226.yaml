@@ -11,6 +11,7 @@ name:
   ja_romaji: Hādo Āmudoragon
   ko: 하드암 드래곤
   ko_rr:
+  zh-CN: 硬甲龙
 text:
   en: |-
     (This card is not treated as an "Armed Dragon" card.)
@@ -32,6 +33,8 @@ text:
     ①：このカードは手札のレベル８以上のモンスター１体を墓地へ送り、手札から特殊召喚できる。②：このカードをリリースして召喚したレベル７以上のモンスターは効果では破壊されない。
   ko: |-
     ①: 이 카드는 패의 레벨 8 이상인 몬스터 1장을 묘지로 보내고, 패에서 특수 소환할 수 있다. ②: 이 카드를 릴리스하고 소환한 레벨 7 이상인 몬스터는 효과로는 파괴되지 않는다.
+  zh-CN: |-
+    ①：这张卡可以把手卡1只8星以上的怪兽送去墓地，从手卡特殊召唤。②：把这张卡解放作召唤的7星以上的怪兽不会被效果破坏。
 type: Monster
 typeline: Dragon / Effect
 attribute: EARTH
@@ -144,5 +147,20 @@ sets:
     - Common
   - set_number: SR03-KR018
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC011
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC011
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: EGO1-SC010
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Bururu Atto Igunisutā
   ko: 부르르<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
   ko_rr: Bureureu Aet Igneuniseuteo
+  zh-CN: 抖抖妖@火灵天星
 text:
   en: |-
     If this card is Normal or Special Summoned: You can send 1 "@Ignister" monster from your Deck to the GY. If this card is sent to the GY as material for the Synchro Summon of a Cyberse monster: You can target 1 monster in your GY that was used for that Synchro Summon, except "Bururu @Ignister"; Special Summon that monster. You can only use each effect of "Bururu @Ignister" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「＠イグニスター」モンスター１体を墓地へ送る。②：このカードがサイバース族ＳモンスターのＳ素材として墓地へ送られた場合、「ブルル＠イグニスター」以外の自分の墓地の、そのＳ召喚の素材としたモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "＠(앳)이그니스터" 몬스터 1장을 묘지로 보낸다. ②: 이 카드가 사이버스족 싱크로 몬스터의 싱크로 소재로서 묘지로 보내졌을 경우, "부르르＠(앳)이그니스터" 이외의 자신 묘지의, 그 싱크로 소환의 소재로 한 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1只「@火灵天星」怪兽送去墓地。
+    ②：这张卡作为电子界族同调怪兽的同调素材送去墓地的场合，以「抖抖妖@火灵天星」以外的自己墓地1只作为那次同调召唤的素材的怪兽为对象才能发动。那只怪兽特殊召唤。
 type: Monster
 typeline: Cyberse / Tuner / Effect
 attribute: WIND
@@ -68,5 +73,10 @@ sets:
   ko:
   - set_number: IGAS-KR002
     set_name: Ignition Assault
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC052
+    set_name: Mega Pack 04
     rarities:
     - Common

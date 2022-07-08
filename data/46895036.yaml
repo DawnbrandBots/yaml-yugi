@@ -11,6 +11,7 @@ name:
   ja_romaji: Gōsutorikku Dyurahan
   ko: 고스트릭 듈라한
   ko_rr: Goseuteurik Dyullahan
+  zh-CN: 鬼计无头骑士
 text:
   en: |-
     2 Level 1 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 1 몬스터 × 2
     ①: 이 카드의 공격력은, 자신 필드의 "고스트릭" 카드의 수 × 200 올린다. ②: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력을 턴 종료시까지 절반으로 한다. 이 효과는 상대 턴에도 발동할 수 있다. ③: 이 카드가 묘지로 보내졌을 경우, 이 카드 이외의 자신 묘지의 "고스트릭" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-CN: |-
+    1星怪兽×2
+    ①：这张卡的攻击力上升自己场上的「鬼计」卡数量×200。②：1回合1次，把这张卡1个XYZ素材取除，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力直到回合结束时变成一半。这个效果在对方回合也能发动。③：这张卡被送去墓地的场合，以这张卡以外的自己墓地1张「鬼计」卡为对象才能发动。那张卡加入手卡。
 type: Monster
 typeline: Fiend / Xyz / Effect
 attribute: DARK
@@ -130,3 +134,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: 22RC-SC036
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

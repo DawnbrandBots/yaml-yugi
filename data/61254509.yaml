@@ -11,6 +11,7 @@ name:
   ja_romaji: Toraipoddo Fisshu
   ko: 트라이포드 피시
   ko_rr:
+  zh-CN: 深海狗母鱼
 text:
   en: |-
     When this card is Special Summoned from the Graveyard: You can target 1 face-up Fish, Sea Serpent, or Aqua-Type monster on the field; increase its Level by 1.
@@ -28,6 +29,8 @@ text:
     このカードが墓地からの特殊召喚に成功した時、フィールド上の魚族・海竜族・水族モンスター１体を選択して発動できる。選択したモンスターのレベルを１つ上げる。
   ko: |-
     이 카드가 묘지에서의 특수 소환에 성공했을 때, 필드 위의 어류족 / 해룡족 / 물족 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터의 레벨을 1개 올린다.
+  zh-CN: |-
+    这张卡从墓地的特殊召唤成功时，选择场上1只鱼族·海龙族·水族怪兽才能发动。选择的怪兽的等级上升1星。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -71,5 +74,10 @@ sets:
     - Common
   - set_number: DP15-KR008
     set_name: 'Duelist Pack: Kastle Siblings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC006
+    set_name: Abyss Rising
     rarities:
     - Common

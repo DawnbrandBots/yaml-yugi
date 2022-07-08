@@ -11,6 +11,7 @@ name:
   ja_romaji: Nachuru Parukion
   ko: 나츄르 팔키온
   ko_rr: Nachyureu Palkion
+  zh-CN: 自然木鳞龙
 text:
   en: |-
     1 EARTH Tuner + 1+ non-Tuner EARTH monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     땅 속성 튜너 ＋ 튜너 이외의 땅 속성 몬스터 1장 이상
     ①: 함정 카드가 발동했을 때, 자신 묘지의 카드 2장을 제외하고 발동할 수 있다. 이 카드가 필드에 앞면 표시로 존재할 경우, 그 발동을 무효로 하고 파괴한다.
+  zh-CN: |-
+    地属性调整＋调整以外的地属性怪兽1只以上
+    ①：陷阱卡发动时，把自己墓地2张卡除外才能发动。这张卡在场上表侧表示存在的场合，那个发动无效并破坏。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: EARTH
@@ -168,3 +172,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: TRC1-SC032
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

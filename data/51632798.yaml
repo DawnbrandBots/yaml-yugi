@@ -12,6 +12,7 @@ name:
   ja_romaji: Kahenkijū Gannā Doragon
   ko: 가변기수 간나드래곤
   ko_rr:
+  zh-CN: 可变机兽 炮手龙
 text:
   en: |-
     You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved.
@@ -29,6 +30,8 @@ text:
     ①：このカードはリリースなしで通常召喚できる。②：このカードの①の方法で通常召喚したこのカードの元々の攻撃力・守備力は半分になる。
   ko: |-
     ① : 이 카드는 릴리스없이 일반 소환 / 세트할 수 있다. ② : 이 카드의 ① 의 방법으로, 일반 소환한 이 카드의 원래 공격력 / 수비력은 절반이 된다.
+  zh-CN: |-
+    ①：这张卡可以不用解放作通常召唤。②：这张卡的①的方法通常召唤的这张卡的原本的攻击力·守备力变成一半。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -147,5 +150,10 @@ sets:
     - Super Rare
   - set_number: SD29-KR014
     set_name: 'Structure Deck: Master of Pendulum'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC007
+    set_name: Starter Pack Volume 3
     rarities:
     - Common

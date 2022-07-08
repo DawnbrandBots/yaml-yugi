@@ -11,6 +11,7 @@ name:
   ja_romaji: Musen Jamingu
   ko:
   ko_rr:
+  zh-CN: 无千干扰
 text:
   en: |-
     During damage calculation, if a monster battles while a monster with 1000 or more ATK is on the field: The ATK/DEF of all face-up monsters currently on the field become their current values with as many multiples of 1000 subtracted as possible. If this card is destroyed: The ATK/DEF of all face-up monsters currently on the field become their current values with as many multiples of 1000 subtracted as possible, until the end of this turn.
@@ -28,5 +29,7 @@ text:
     ①：フィールドに攻撃力１０００以上のモンスターが存在する場合、モンスターが戦闘を行うダメージ計算時に発動する。フィールドの全てのモンスターは、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。②：このカードが破壊された場合に発動する。フィールドの全てのモンスターはターン終了時まで、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。
   ko: |-
     None
+  zh-CN: |-
+    ①：场上有攻击力1000以上的怪兽存在的场合，怪兽进行战斗的伤害计算时必定发动。场上的全部怪兽攻击力变为其攻击力每有1000就下降1000的数值，守备力变为其守备力每有1000就下降1000的数值。②：这张卡被破坏的场合必定发动。场上全部怪兽直到回合结束时攻击力变为其攻击力每有1000就下降1000的数值，守备力变为其守备力每有1000就下降1000的数值。
 type: Spell
 property: Continuous

@@ -11,6 +11,7 @@ name:
   ja_romaji: Torikkusutā Narukissu
   ko: 트릭스터 나르키스
   ko_rr:
+  zh-CN: 淘气仙星·那耳姬丝
 text:
   en: |-
     If your opponent takes effect damage (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of "Trickstar Narkissus" once per turn. Each time your opponent activates a monster effect in their hand or GY, inflict 200 damage to them immediately after it resolves.
@@ -28,6 +29,8 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：相手が効果ダメージを受けた場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手が手札・墓地のモンスターの効果を発動する度に、相手に２００ダメージを与える。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 상대가 효과 데미지를 받았을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ② : 이 카드가 몬스터 존에 존재하는 한, 상대가 패 / 묘지의 몬스터 효과를 발동할 때마다, 상대에게 200 데미지를 준다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。①：对方受到效果伤害的场合才能发动。这张卡从手卡特殊召唤。②：只要这张卡在怪兽区域存在，每次对方把手卡·墓地的怪兽的效果发动，给与对方200伤害。
 type: Monster
 typeline: Fairy / Effect
 attribute: LIGHT
@@ -133,5 +136,10 @@ sets:
   ko:
   - set_number: CIBR-KR004
     set_name: Circuit Break
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC052
+    set_name: Mega Pack 01
     rarities:
     - Common

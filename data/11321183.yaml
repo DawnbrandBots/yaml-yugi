@@ -12,6 +12,7 @@ name:
   ja_romaji: Yamimakai no Senshi Dāku Sōdo
   ko: 암흑 마계의 전사 다크 스워드
   ko_rr:
+  zh-CN: 暗魔界的战士 暗黑之剑
 text:
   en: |-
     They say he is a dragon-manipulating warrior from the dark world. His attack is tremendous, using his great swords with vicious power.
@@ -29,6 +30,8 @@ text:
     ドラゴンを操ると言われている闇魔界の戦士。邪悪なパワーで斬りかかる攻撃はすさまじい。
   ko: |-
     드래곤을 조종한다고 일컬어지는 암흑 마계의 전사. 사악한 파워로 내려치는 검 공격은 실로 굉장하다.
+  zh-CN: |-
+    据说会操纵龙的暗魔界战士。邪恶之力所使出的挥斩攻击威力惊人。
 type: Monster
 typeline: Warrior / Normal
 attribute: DARK
@@ -321,5 +324,10 @@ sets:
     - Common
   - set_number: ST14-KR005
     set_name: Starter Deck 2014
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: HD13-TCD03
+    set_name: 'Half-Deck: DARK'
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Kitsunebi
   ko: 여우불
   ko_rr:
+  zh-CN: 狐火
 text:
   en: |-
     During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn and was face-up at the start of the Damage Step: Special Summon this card from the Graveyard. This face-up card cannot be Tributed for a Tribute Summon.
@@ -28,6 +29,8 @@ text:
     フィールド<ruby><rb>上</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>に<ruby><rb>表</rb><rp>（</rp><rt>おもて</rt><rp>）</rp></ruby><ruby><rb>側</rb><rp>（</rp><rt>がわ</rt><rp>）</rp></ruby><ruby><rb>表</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>示</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>で<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>するこのカードが<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby>によって<ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>され<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>へ<ruby><rb>送</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>られたターンのエンドフェイズ<ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、このカードを<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>から<ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>殊</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>する。このカードはフィールド<ruby><rb>上</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>に<ruby><rb>表</rb><rp>（</rp><rt>おもて</rt><rp>）</rp></ruby><ruby><rb>側</rb><rp>（</rp><rt>がわ</rt><rp>）</rp></ruby><ruby><rb>表</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>示</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>で<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>する<ruby><rb>限</rb><rp>（</rp><rt>かぎ</rt><rp>）</rp></ruby>り、アドバンス<ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>のためにはリリースできない。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드가 전투에 의해서 파괴되어 묘지로 보내진 턴의 엔드 페이즈시, 이 카드를 묘지에서 특수 소환한다. 이 카드는 필드 위에 앞면 표시로 존재하는 한, 어드벤스 소환을 위해서는 릴리스할 수 없다.
+  zh-CN: |-
+    场上表侧表示存在的这张卡被战斗破坏送去墓地的回合的结束阶段时，这张卡从墓地特殊召唤。这张卡只要在场上表侧表示存在，不能为上级召唤而解放。
 type: Monster
 typeline: Pyro / Effect
 attribute: FIRE
@@ -167,6 +170,11 @@ sets:
     rarities:
     - Common
   - set_number: SD24-KR018
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD24-TC018
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common

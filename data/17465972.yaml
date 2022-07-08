@@ -11,6 +11,7 @@ name:
   ja_romaji: Burakku Fezā - Minamikaze no Ausuteru
   ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－남풍의 아우스테르
   ko_rr: Beullaek Pedeo - Nampung-ui Auseutereu
+  zh-CN: 黑羽-南风之奥斯特
 text:
   en: |-
     Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 of your banished Level 4 or lower "Blackwing" monsters; Special Summon it in Defense Position. You can banish this card from the GY to activate 1 of the following effects;
@@ -40,6 +41,12 @@ text:
     このカードは特殊召喚できない。①：このカードが召喚に成功した時、除外されている自分のレベル４以下の「ＢＦ」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：墓地のこのカードを除外し、以下の効果から１つを選択して発動できる。●自分フィールドの「ブラックフェザー・ドラゴン」１体を選び、相手フィールドのカードの数だけ黒羽カウンターを置く。●相手フィールドの表側表示モンスター全てに可能な限り楔カウンターを１つずつ置く（最大１つまで）。
   ko: |-
     이 카드는 특수 소환할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때, 제외되어 있는 자신의 레벨 4 이하의 "BF(블랙 페더)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. ②: 묘지의 이 카드를 제외하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다. ●자신 필드의 "블랙 페더 드래곤" 1장을 고르고, 상대 필드의 카드의 수만큼 검은 날개 카운터를 놓는다. ●상대 필드의 앞면 표시 몬스터 전부에 가능한 한 쐐기 카운터를 1개씩 놓는다(최대 1개까지).
+  zh-CN: |-
+    这张卡不能特殊召唤。
+    ①：这张卡召唤成功时，以除外的1只自己的4星以下的「黑羽」怪兽为对象才能发动。那只怪兽守备表示特殊召唤。
+    ②：可以把墓地的这张卡除外，从以下效果选择1个发动。
+    ●选自己场上1只「黑羽龙」放置对方场上的卡数量的黑羽指示物。
+    ●给对方场上的表侧表示怪兽全部尽可能各放置1个楔指示物（最多1个）。
 type: Monster
 typeline: Winged Beast / Tuner / Effect
 attribute: DARK
@@ -99,6 +106,11 @@ sets:
     - Rare
   ko:
   - set_number: DP20-KR025
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP20-SC025
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Rare

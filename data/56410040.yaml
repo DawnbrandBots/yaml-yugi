@@ -11,6 +11,7 @@ name:
   ja_romaji: Janku Foādo
   ko: 정크 포워드
   ko_rr:
+  zh-CN: 废品前锋
 text:
   en: |-
     If you control no monsters, you can Special Summon this card (from your hand).
@@ -28,6 +29,8 @@ text:
     自分フィールド上にモンスターが存在しない場合、このカードは手札から特殊召喚する事ができる。
   ko: |-
     자신 필드 위에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -106,3 +109,8 @@ sets:
     set_name: Premium Pack Vol.6
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SD27-SC014
+    set_name: 'Structure Deck: Synchron Extreme'
+    rarities:
+    - Common

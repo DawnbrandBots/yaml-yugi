@@ -11,6 +11,7 @@ name:
   ja_romaji: Rabīdoragon
   ko: 라비 드래곤
   ko_rr:
+  zh-CN: 兔龙
 text:
   en: |-
     It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.
@@ -28,6 +29,8 @@ text:
     雪原に生息するドラゴンの突然変異種。巨大な耳は数キロ離れた物音を聞き分け、驚異的な跳躍力と相俟って狙った獲物は逃さない。
   ko: |-
     설원에 살아 숨쉬는 드래곤의 돌연변이종. 거대한 귀로는 수킬로 떨어진 소리를 들을 수 있고, 경이로운 도약력과 함께 작용하여, 한번 노린 사냥감은 놓치지 않는다.
+  zh-CN: |-
+    雪原上栖息的龙类突然变异种。巨大的耳朵可分辨距离数千米远的声音，结合惊人跳跃力让盯上的猎物无处可逃。
 type: Monster
 typeline: Dragon
 attribute: LIGHT
@@ -91,6 +94,16 @@ sets:
     rarities:
     - Rare
   - set_number: SD25-KR002
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC002
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC002
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Common

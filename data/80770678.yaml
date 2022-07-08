@@ -11,6 +11,7 @@ name:
   ja_romaji: Hāpu no Sei
   ko: 하프의 정령
   ko_rr:
+  zh-CN: 竖琴精灵
 text:
   en: |-
     A spirit that soothes the soul with the music of its heavenly harp.
@@ -28,6 +29,8 @@ text:
     天界でハープをかなでる精霊。その音色はまわりの心をなごます。
   ko: |-
     천계에서 하프를 연주하는 정령. 그 음색은 모든 이의 마음을 온화하게 해준다.
+  zh-CN: |-
+    在天界弹奏竖琴的精灵。那音色使周围听众的心变得平静。
 type: Monster
 typeline: Fairy
 attribute: LIGHT
@@ -156,5 +159,10 @@ sets:
     - Common
   - set_number: ST12-KR002
     set_name: Starter Deck 2012
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: HD13-TCL05
+    set_name: 'Half-Deck: LIGHT'
     rarities:
     - Common

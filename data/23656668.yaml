@@ -11,6 +11,7 @@ name:
   ja_romaji: Gurabiti Kontorōrā
   ko: 그라비티 컨트롤러
   ko_rr: Geurabiti Keonteurolleo
+  zh-CN: 重力控制者
 text:
   en: |-
     1 non-Link Monster in an Extra Monster Zone
@@ -36,6 +37,11 @@ text:
   ko: |-
     링크 몬스터 이외의 엑스트라 몬스터 존의 몬스터 1장
     이 카드는 링크 소환된 턴에는 링크 소재로 할 수 없다. ①: 엑스트라 몬스터 존의 이 카드는, 메인 몬스터 존의 몬스터와의 전투로는 파괴되지 않는다. ②: 이 카드가 엑스트라 몬스터 존의 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터와 이 카드를 주인의 덱으로 되돌린다.
+  zh-CN: |-
+    连接怪兽以外的额外怪兽区域的怪兽1只
+    这张卡在连接召唤的回合不能作为连接素材。
+    ①：额外怪兽区域的这张卡不会被和主要怪兽区域的怪兽的战斗破坏。
+    ②：这张卡和额外怪兽区域的对方怪兽进行战斗的伤害步骤开始时才能发动。那只对方怪兽和这张卡回到持有者卡组。
 type: Monster
 typeline: Psychic / Link / Effect
 attribute: DARK
@@ -97,5 +103,10 @@ sets:
   ko:
   - set_number: IGAS-KR049
     set_name: Ignition Assault
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP4-SC081
+    set_name: Mega Pack 04
     rarities:
     - Rare

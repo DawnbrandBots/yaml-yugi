@@ -11,6 +11,7 @@ name:
   ja_romaji: Gōki Za Gurēto Ōga
   ko: 강귀 더 그레이트 오우거
   ko_rr: Ganggwi Deo Geureiteu Ougeo
+  zh-CN: 刚鬼 巨人食人魔
 text:
   en: |-
     2+ "Gouki" monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "강귀" 몬스터 2장 이상
     ①: 이 카드가 몬스터 존에 존재하는 한, 필드의 몬스터의 공격력은, 그 몬스터의 원래 수비력만큼 내린다. ②: 이 카드가 전투 / 효과로 파괴될 경우, 대신에 이 카드의 링크 앞의 자신 몬스터 1장을 파괴할 수 있다.
+  zh-CN: |-
+    「刚鬼」怪兽2只以上
+    ①：只要这张卡在怪兽区域存在，场上的怪兽的攻击力下降那怪兽的原本守备力数值。②：这张卡被战斗·效果破坏的场合，可以作为代替把这张卡所连接区1只自己怪兽破坏。
 type: Monster
 typeline: Warrior / Link / Effect
 attribute: EARTH
@@ -158,3 +162,9 @@ sets:
     set_name: LINK VRAINS Box
     rarities:
     - Extra Secret Rare
+  zh-CN:
+  - set_number: MGP1-SC027
+    set_name: Mega Pack 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare

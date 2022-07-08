@@ -11,6 +11,7 @@ name:
   ja_romaji: Neikiddo Doragon
   ko: 파면룡
   ko_rr:
+  zh-CN: 破面龙
 text:
   en: |-
     When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Wyrm monster with 1500 or less DEF from your Deck.
@@ -28,6 +29,8 @@ text:
     ①：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから守備力１５００以下の幻竜族モンスター１体を特殊召喚する。
   ko: |-
     ① : 이 카드가 전투로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 덱에서 수비력 1500 이하의 환룡족 몬스터 1장을 특수 소환한다.
+  zh-CN: |-
+    ①：这张卡被战斗破坏送去墓地时才能发动。从卡组把1只守备力1500以下的幻龙族怪兽特殊召唤。
 type: Monster
 typeline: Wyrm / Effect
 attribute: FIRE
@@ -88,5 +91,11 @@ sets:
   ko:
   - set_number: NECH-KR035
     set_name: The New Challengers
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: EGO1-SC016
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Tokiyomi no Majutsushi
   ko: 시간을 읽는 마술사
   ko_rr:
+  zh-CN: 时读之魔术师
 text:
   en: |-
     Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.
@@ -28,6 +29,8 @@ text:
     ①：このカードがモンスターゾーンに<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>する<ruby><rb>限</rb><rp>（</rp><rt>かぎ</rt><rp>）</rp></ruby>り、１ターンに１<ruby><rb>度</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby>、<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンのカードは<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>の<ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>果</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>では<ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>されない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 1턴에 1번, 자신의 펜듈럼 존의 카드는 상대의 효과로는 파괴되지 않는다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，1回合1次，自己的灵摆区域的卡不会被对方的效果破坏。
 type: Monster
 typeline: Spellcaster / Pendulum / Effect
 attribute: DARK
@@ -52,6 +55,8 @@ pendulum_effect:
     <ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>フィールドにモンスターが<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>しない<ruby><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby>にこのカードを<ruby><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>できる。①：<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>モンスターが<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby>を<ruby><rb>行</rb><rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>う<ruby><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby>、<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>はダメージステップ<ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>了</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>まで<ruby><rb>罠</rb><rp>（</rp><rt>トラップ</rt><rp>）</rp></ruby>カードを<ruby><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>できない。②：もう<ruby><rb>片</rb><rp>（</rp><rt>かた</rt><rp>）</rp></ruby><ruby><rb>方</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>の<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンに「<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>」カードまたは「オッドアイズ」カードが<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>しない<ruby><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby>、このカードの<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>スケールは４になる。
   ko: |-
     자신 필드에 몬스터가 존재하지 않을 경우에 이 카드를 발동할 수 있다. ①: 자신의 펜듈럼 몬스터가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 함정 카드를 발동할 수 없다. ②: 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드 또는 "오드아이즈" 카드가 존재하지 않을 경우, 이 카드의 펜듈럼 스케일은 4 가 된다.
+  zh-CN: |-
+    自己场上没有怪兽存在的场合才能把这张卡发动。①：自己的灵摆怪兽进行战斗的场合，对方直到伤害步骤结束时陷阱卡不能发动。②：另一边的自己的摇摆区域没有「魔术师」卡或者「异色眼」卡存在的场合，这张卡的灵摆刻度变成4。
 sets:
   en:
   - set_number: YS14-EN010

@@ -11,6 +11,7 @@ name:
   ja_romaji: Ten'iryū - Ādara
   ko: 천위룡－아다라
   ko_rr: Cheonwiryong - Adara
+  zh-CN: 天威龙-纯真蟠龙
 text:
   en: |-
     If you control no Effect Monsters: You can Special Summon this card from your hand. If you control a face-up non-Effect Monster: You can banish this card from your hand or GY, then target 1 of your banished Wyrm monsters, except this card; add it to your hand. You can only use each effect of "Tenyi Spirit - Adhara" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに効果モンスターが存在しない場合に発動できる。このカードを手札から特殊召喚する。②：自分フィールドに効果モンスター以外の表側表示モンスターが存在する場合、手札・墓地のこのカードを除外し、このカード以外の除外されている自分の幻竜族モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 효과 몬스터가 존재하지 않을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 자신 필드에 효과 몬스터 이외의 앞면 표시 몬스터가 존재할 경우, 패 / 묘지의 이 카드를 제외하고, 이 카드 이외의 제외되어 있는 자신의 환룡족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 패에 넣는다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：自己场上没有效果怪兽存在的场合才能发动。这张卡从手卡特殊召唤。
+    ②：自己场上有效果怪兽以外的表侧表示怪兽存在的场合，把手卡·墓地的这张卡除外，以这张卡以外的除外的1只自己的幻龙族怪兽为对象才能发动。那只怪兽加入手卡。
 type: Monster
 typeline: Wyrm / Tuner / Effect
 attribute: EARTH
@@ -128,5 +133,10 @@ sets:
   ko:
   - set_number: RIRA-KR012
     set_name: Rising Rampage
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC103
+    set_name: Mega Pack 03
     rarities:
     - Rare

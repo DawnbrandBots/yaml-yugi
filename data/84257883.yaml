@@ -12,6 +12,7 @@ name:
   ja_romaji: Kyodai Senkan Burasutā Kyanon Koa
   ko: 거대전함 블래스터캐논 코어
   ko_rr: Geodaejeonham Beullaeseuteokaenon Ko-eo
+  zh-CN: 巨大战舰 爆炮核
 text:
   en: |-
     If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon "B.E.S. Blaster Cannon Core" once per turn this way. If this card is Normal or Special Summoned: Place 3 counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.
@@ -29,6 +30,12 @@ text:
     このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、このカードは手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した場合に発動する。このカードにカウンターを３つ置く。③：このカードは戦闘では破壊されない。④：このカードが戦闘を行ったダメージステップ終了時に発動する。このカードのカウンターを１つ取り除く。取り除けない場合このカードを破壊する。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 상대 필드의 몬스터의 수가 자신 필드의 몬스터보다 많을 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 이 카드에 카운터를 3개 놓는다. ③: 이 카드는 전투로는 파괴되지 않는다. ④: 이 카드가 전투를 실행한 데미지 스텝 종료시에 발동한다. 이 카드의 카운터를 1개 제거한다. 제거할 수 없을 경우 이 카드를 파괴한다.
+  zh-CN: |-
+    这个卡名的①的方法的特殊召唤1回合只能有1次。
+    ①：对方场上的怪兽数量比自己场上的怪兽多的场合，这张卡可以从手卡特殊召唤。
+    ②：这张卡召唤·特殊召唤成功的场合发动。给这张卡放置3个指示物。
+    ③：这张卡不会被战斗破坏。
+    ④：这张卡进行战斗的伤害步骤结束时发动。这张卡1个指示物取除。不能取除的场合这张卡破坏。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -94,3 +101,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP3-SC113
+    set_name: Mega Pack 03
+    rarities:
+    - Rare

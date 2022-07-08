@@ -11,6 +11,7 @@ name:
   ja_romaji: Shippū no Ankoku Kishi Gaia
   ko: 질풍의 암흑 기사 가이아
   ko_rr:
+  zh-CN: 疾风之暗黑骑士 盖亚
 text:
   en: |-
     If this is the only card in your hand, you can Normal Summon this card without Tributing.
@@ -28,6 +29,8 @@ text:
     ①：手札がこのカード１枚のみの場合、このカードはリリースなしで召喚できる。
   ko: |-
     패가 이 카드 1장뿐일 경우, 이 카드를 앞면 공격 표시로 제물 없이 소환할 수 있다. 이 소환은 일반 소환으로 취급한다.
+  zh-CN: |-
+    ①：手卡只有这1张卡的场合，这张卡可以不用解放作召唤。
 type: Monster
 typeline: Warrior / Effect
 attribute: DARK
@@ -198,5 +201,15 @@ sets:
     - Ultra Rare
   - set_number: SD5-KR006
     set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC007
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: SCTP-SC119
+    set_name: Entry Pack Volume 8
     rarities:
     - Common

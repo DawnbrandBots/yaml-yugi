@@ -11,6 +11,7 @@ name:
   ja_romaji: Windo Pegasasu Atto Igunisutā
   ko: 윈드페가수스<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
   ko_rr: Windeupegasuseu Aet Igeuniseuteu
+  zh-CN: 风飞马@火灵天星
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,11 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신 필드의 "＠(앳)이그니스터" 몬스터의 수까지, 상대 필드의 마법 / 함정 카드를 고르고 파괴한다. ②: 이 카드가 필드 / 묘지에 존재하는 상태에서, 이 카드 이외의 자신 필드의 카드가 전투 또는 상대 효과로 파괴되었을 경우, 이 카드를 제외하고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 주인의 덱으로 되돌린다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：自己主要阶段才能发动。选最多有自己场上的「@火灵天星」怪兽数量的对方场上的魔法·陷阱卡破坏。
+    ②：这张卡在场上·墓地存在的状态，这张卡以外的自己场上的卡被战斗或者对方的效果破坏的场合，把这张卡除外，以对方场上1张卡为对象才能发动。那张卡回到持有者卡组。
 type: Monster
 typeline: Cyberse / Synchro / Effect
 attribute: WIND
@@ -101,3 +107,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP4-SC075
+    set_name: Mega Pack 04
+    rarities:
+    - Super Rare

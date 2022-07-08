@@ -11,6 +11,7 @@ name:
   ja_romaji: Ankokukishi Gaia
   ko: 암흑 기사 가이아
   ko_rr: Amheuk Gisa Gaia
+  zh-CN: 暗黑骑士 盖亚
 text:
   en: |-
     A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.
@@ -28,6 +29,8 @@ text:
     風よりも速く走る馬に乗った騎士。突進攻撃に注意。
   ko: |-
     바람보다도 빠른 말을 탄 기사. 돌진 공격에 주의.
+  zh-CN: |-
+    骑着风驰电掣般的马的骑士。当心突进攻击。
 type: Monster
 typeline: Warrior / Normal
 attribute: EARTH
@@ -276,3 +279,8 @@ sets:
     rarities:
     - Secret Rare
     - Millennium Rare
+  zh-CN:
+  - set_number: CL01-SC002
+    set_name: Classic Pack 01
+    rarities:
+    - Common

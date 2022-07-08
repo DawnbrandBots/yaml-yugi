@@ -11,6 +11,7 @@ name:
   ja_romaji: Gādo Obu Furemuberu
   ko: 가드 오브 플레임벨
   ko_rr: Gadeu Obeu Peulleimbel
+  zh-CN: 炎狱护卫龙
 text:
   en: |-
     A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.
@@ -28,6 +29,8 @@ text:
     炎を自在に操る事ができる、フレムベルの護衛戦士。灼熱のバリアを作り出して敵の攻撃を跳ね返す。
   ko: |-
     화염을 자유자재로 조종할 수 있는, 플레임벨의 호위전사. 작열의 베리어를 만들어내서 적의 공격을 되받아친다.
+  zh-CN: |-
+    能运用自如地操纵火焰的炎狱护卫战士。做出灼热防护罩把敌人的攻击反弹回去。
 type: Monster
 typeline: Dragon / Tuner / Normal
 attribute: FIRE
@@ -149,5 +152,15 @@ sets:
     - Common
   - set_number: ST18-KR009
     set_name: Starter Deck 2018
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC004
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC004
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Common

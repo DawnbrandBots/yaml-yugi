@@ -11,6 +11,7 @@ name:
   ja_romaji: Kauntā Panchi
   ko: 카운터 펀치
   ko_rr:
+  zh-CN: 反击拳
 text:
   en: |-
     If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster you control, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)
@@ -28,5 +29,7 @@ text:
     フィールド上に守備表示で存在するモンスターが相手モンスターに攻撃され、その守備力が攻撃モンスターの攻撃力を超えていた場合、ダメージ計算時に発動する事ができる。その攻撃モンスターをダメージステップ終了時に破壊する。
   ko: |-
     상대 공격 몬스터의 공격력 보다도 공격받은 수비 표시 몬스터의 수비력이 높은 경우, 그 공격 몬스터를 파괴한다. 데미지 계산은 적용한다.
+  zh-CN: |-
+    场上守备表示存在的怪兽被对方怪兽攻击，那个守备力超过攻击怪兽的攻击力的场合，伤害计算时才能发动。那只攻击怪兽在伤害步骤结束时破坏。
 type: Trap
 property: Normal

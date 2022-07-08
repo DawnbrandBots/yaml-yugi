@@ -11,6 +11,7 @@ name:
   ja_romaji: Sukurīchi
   ko: 스크리치
   ko_rr:
+  zh-CN: 尖叫怪
 text:
   en: |-
     If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the GY.
@@ -28,6 +29,8 @@ text:
     このカードが戦闘によって破壊された場合、デッキから水属性モンスター２体を墓地へ送る。
   ko: |-
     이 카드가 전투에 의해서 파괴되었을 경우, 자신의 덱에서 물 속성 몬스터 2장을 선택하고 묘지로 보낸다.
+  zh-CN: |-
+    这张卡被战斗破坏的场合，从卡组把2只水属性怪兽送去墓地。
 type: Monster
 typeline: Reptile / Effect
 attribute: WATER
@@ -107,6 +110,11 @@ sets:
     rarities:
     - Common
   - set_number: SD23-KR015
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC021
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

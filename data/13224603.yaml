@@ -11,6 +11,7 @@ name:
   ja_romaji: Kikōshi - Yata no Misaki
   ko: 기교취－야타노미사키
   ko_rr: Gigyohwi - Yatanomisaki
+  zh-CN: 机巧嘴-八咫御先
 text:
   en: |-
     You can Special Summon this card (from your hand) by Tributing 1 Normal Summoned monster. You can only use each of the following effects of "Gizmek Yata, the Gleaming Vanguard" once per turn.
@@ -40,6 +41,11 @@ text:
     このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードは自分フィールドの通常召喚されたモンスター１体をリリースして手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに発動できる。モンスター１体を召喚する。自分はこの効果で召喚したターン、そのモンスターと元々の種族が同じモンスターしか特殊召喚できない。③：このカードの①の方法で特殊召喚したこのカードがリリースされた場合に発動する。自分は２０５０ＬＰ回復する。
   ko: |-
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 자신 필드의 통상 소환된 몬스터 1장을 릴리스하고 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 특수 소환에 성공한 턴의 자신 메인 페이즈에 발동할 수 있다. 몬스터 1장을 일반 소환한다. 자신은 이 효과로 일반 소환한 턴에, 그 몬스터와 원래의 종족이 같은 몬스터밖에 특수 소환할 수 없다. ③: 이 카드의 ①의 방법으로 특수 소환한 이 카드가 릴리스되었을 경우에 발동한다. 자신은 2050 LP 회복한다.
+  zh-CN: |-
+    这个卡名的②③的效果1回合各能使用1次。
+    ①：这张卡可以把自己场上1只通常召唤的怪兽解放从手卡特殊召唤。
+    ②：这张卡召唤·特殊召唤成功的回合的自己主要阶段才能发动。把1只怪兽召唤。自己在这个效果召唤过的回合，不是原本种族和那只怪兽相同的怪兽不能特殊召唤。
+    ③：这张卡的①的方法特殊召唤的这张卡被解放的场合发动。自己回复2050基本分。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -107,3 +113,8 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: MGP4-SC013
+    set_name: Mega Pack 04
+    rarities:
+    - Super Rare

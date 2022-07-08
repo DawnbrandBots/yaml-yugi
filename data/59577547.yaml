@@ -11,6 +11,7 @@ name:
   ja_romaji: Saramangureito Parō
   ko: 샐러맨그레이트 패로
   ko_rr: Saelleomaen-geureiteu Paero
+  zh-CN: 转生炎兽 鹦鹉
 text:
   en: |-
     When an opponent's monster declares an attack: You can Special Summon this card from your hand, in Attack Position. If this card is Special Summoned: You can target 1 "Salamangreat" monster in your GY; this card's ATK becomes that target's. You can Tribute this card; gain 2000 LP. You can only use this effect of "Salamangreat Parro" once per turn.
@@ -28,6 +29,11 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを手札から攻撃表示で特殊召喚する。②：このカードが特殊召喚に成功した場合、自分の墓地の「サラマングレイト」モンスター１体を対象として発動できる。このカードの攻撃力はそのモンスターの攻撃力と同じになる。③：このカードをリリースして発動できる。自分は２０００ＬＰ回復する。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 몬스터의 공격 선언시에 발동할 수 있다. 이 카드를 패에서 공격 표시로 특수 소환한다. ②: 이 카드가 특수 소환에 성공했을 경우, 자신 묘지의 "샐러맨그레이트" 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드의 공격력은 그 몬스터의 공격력과 같아진다. ③: 이 카드를 릴리스하고 발동할 수 있다. 자신은 2000 LP 회복한다.
+  zh-CN: |-
+    这个卡名的③的效果1回合只能使用1次。
+    ①：对方怪兽的攻击宣言时才能发动。这张卡从手卡攻击表示特殊召唤。
+    ②：这张卡特殊召唤成功的场合，以自己墓地1只「转生炎兽」怪兽为对象才能发动。这张卡的攻击力变成和那只怪兽的攻击力相同。
+    ③：把这张卡解放才能发动。自己回复2000基本分。
 type: Monster
 typeline: Cyberse / Effect
 attribute: FIRE
@@ -108,5 +114,10 @@ sets:
   ko:
   - set_number: SAST-KR004
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC004
+    set_name: Mega Pack 03
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Shākurāken
   ko: 샤크라켄
   ko_rr:
+  zh-CN: 触腕鲨
 text:
   en: |-
     You can Special Summon this card (from your hand) by Tributing 1 WATER monster.
@@ -28,6 +29,8 @@ text:
     このカードは自分フィールド上の水属性モンスター１体をリリースし、手札から特殊召喚できる。
   ko: |-
     이 카드는 자신 필드 위의 물 속성 몬스터 1장을 릴리스하고, 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    这张卡可以把自己场上1只水属性怪兽解放，从手卡特殊召唤。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR007
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC007
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

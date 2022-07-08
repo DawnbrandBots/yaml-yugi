@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibā Erutanin
   ko: 사이버 엘타닌
   ko_rr: Saibeo Eltanin
+  zh-CN: 电子天龙头
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing all LIGHT Machine monsters from your field and GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 500. If this card is Special Summoned: Send all other face-up monsters on the field to the GY.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。自分の墓地及び自分フィールドの表側表示モンスターの中から、機械族・光属性モンスターを全て除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、このカードを特殊召喚するために除外したモンスターの数×５００になる。②：このカードが特殊召喚に成功した場合に発動する。このカード以外のフィールドの表側表示モンスターを全て墓地へ送る。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지 및 자신 필드의 앞면 표시 몬스터 중에서, 기계족 / 빛 속성 몬스터를 전부 제외했을 경우에만 특수 소환할 수 있다. ①: 이 카드의 공격력 / 수비력은, 이 카드를 특수 소환하기 위해 제외한 몬스터의 수 × 500 이 된다. ②: 이 카드가 특수 소환에 성공했을 경우에 발동한다. 이 카드 이외의 필드의 앞면 표시 몬스터를 전부 묘지로 보낸다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己墓地以及自己场上的表侧表示怪兽之中把机械族·光属性怪兽全部除外的场合才能特殊召唤。①：这张卡的攻击力·守备力变成因为这张卡特殊召唤而除外的怪兽数量×500。②：这张卡特殊召唤成功的场合发动。这张卡以外的场上的表侧表示怪兽全部送去墓地。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -140,5 +143,10 @@ sets:
     - Common
   - set_number: CP18-KR018
     set_name: Collectors Pack 2018
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD26-SC010
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common

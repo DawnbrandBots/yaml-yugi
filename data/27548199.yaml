@@ -11,6 +11,7 @@ name:
   ja_romaji: Varerurōdo Sabēji Doragon
   ko: 바렐로드 새비지 드래곤
   ko_rr: Barellodeu Saebiji Deuraegon
+  zh-CN: 装弹枪管狞猛龙
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 자신 묘지에서 링크 몬스터 1장을 골라, 장착 카드로 취급하여 이 카드에 장착하고, 그 링크 마커의 수만큼 이 카드에 바렐 카운터를 놓는다. ②: 이 카드의 공격력은, 이 카드의 효과로 장착한 몬스터의 공격력의 절반 올린다. ③: 상대 효과가 발동했을 때, 이 카드의 바렐 카운터를 1개 제거하고 발동할 수 있다. 그 발동을 무효로 한다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    这个卡名的③的效果1回合只能使用1次。
+    ①：这张卡同调召唤成功的场合才能发动。从自己墓地选1只连接怪兽当作装备卡使用给这张卡装备，那个连接标记数量的枪管指示物给这张卡放置。
+    ②：这张卡的攻击力上升这张卡的效果装备的怪兽的攻击力的一半。
+    ③：对方的效果发动时，把这张卡1个枪管指示物取除才能发动。那个发动无效。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: DARK
@@ -112,3 +119,10 @@ sets:
     set_name: Legendary Gold Set
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP3-SC022
+    set_name: Mega Pack 03
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare

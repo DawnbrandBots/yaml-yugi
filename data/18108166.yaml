@@ -11,6 +11,7 @@ name:
   ja_romaji: Genkakuryū
   ko: 환각룡
   ko_rr:
+  zh-CN: 幻壳龙
 text:
   en: |-
     Mysterious living matter that suddenly appeared from a different dimension. Its attack paralyzes the target's nerves, and causes intense hallucinations.
@@ -28,6 +29,8 @@ text:
     別次元から突如として飛来した謎の生命体。高い攻撃力と奇襲能力を併せ持つ。その攻撃は対象物の神経を麻痺させ、強烈な幻覚症状を引き起こす。
   ko: |-
     이차원으로부터 돌연히 날아온 수수께끼의 생명체. 공격력과 기습능력을 겸비하였다. 그 공격은 대상의 신경을 마취시켜, 강렬한 환각상태를 일으킨다.
+  zh-CN: |-
+    从别的次元突然飞来的神秘生命体。同时具备了高攻击力和奇袭能力。它的攻击使对象物的神经麻痹，并引起强烈的幻觉症状。
 type: Monster
 typeline: Wyrm / Normal
 attribute: DARK
@@ -118,3 +121,12 @@ sets:
     set_name: Starter Deck 2017
     rarities:
     - Common
+  zh-CN:
+  - set_number: ST20-SC003
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC003
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Rare

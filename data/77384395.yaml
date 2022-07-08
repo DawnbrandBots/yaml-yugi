@@ -11,6 +11,7 @@ name:
   ja_romaji: Pazuzuru
   ko:
   ko_rr:
+  zh-CN: 拼图帕祖祖
 text:
   en: |-
     Pendulum Summons of your monsters cannot be negated.
@@ -28,6 +29,11 @@ text:
     None
   ko: |-
     None
+  zh-CN: |-
+    ←1 【灵摆】 1→
+    1回合1次：可以以另一边的自己的灵摆区域的卡为对象；这张卡的灵摆刻度直到回合结束时变成和那张灵摆怪兽卡的等级相同，这个回合自己不能作灵摆召唤以外的特殊召唤。
+    【怪兽效果】
+    自己怪兽的灵摆召唤不会被无效化。
 type: Monster
 typeline: Fiend / Pendulum / Effect
 attribute: DARK
@@ -51,6 +57,8 @@ pendulum_effect:
   ja: |-
     None
   ko: |-
+    None
+  zh-CN: |-
     None
 sets:
   en:

@@ -11,6 +11,7 @@ name:
   ja_romaji: Sabumarinroido
   ko: 서브마린로이드
   ko_rr:
+  zh-CN: 潜艇机人
 text:
   en: |-
     This card can attack your opponent directly, but when it does so using this effect, the battle damage inflicted to your opponent is the original ATK of this card. At the end of the Damage Step, if this card attacked or was attacked: You can change this card to Defense Position.
@@ -28,6 +29,8 @@ text:
     このカードは相手プレイヤーに直接攻撃できる。この時、相手ライフに与える戦闘ダメージはこのカードの元々の攻撃力と同じ数値になる。また、このカードが戦闘を行ったダメージステップ終了時、このカードの表示形式を守備表示にできる。
   ko: |-
     이 카드는 상대 플레이어에 직접 공격할 수가 있다. 이때, 상대 라이프에 주는 전투 데미지는 이 카드의 원래 공격력과 같은 수치가 된다. 또한, 이 카드가 전투를 실행한 데미지 스텝 종료시, 이 카드의 표시 형식을 수비 표시로 할 수 있다.
+  zh-CN: |-
+    这张卡可以直接攻击对方玩家。这个时候，给与对方基本分的战斗伤害变成和这张卡的原本攻击力相同数值。此外，这张卡进行战斗的伤害步骤结束时，可以把这张卡的表示形式变成守备表示。
 type: Monster
 typeline: Machine / Effect
 attribute: WATER
@@ -150,5 +153,10 @@ sets:
     - Ultra Rare
   - set_number: PC01-KR007
     set_name: Precious Pack Volume 1
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC017
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Gyarakushīaizu Foton Doragon
   ko: 갤럭시아이즈 포톤 드래곤
   ko_rr: Gaelleoksiaijeu Poton Deuraegon
+  zh-CN: 银河眼光子龙
 text:
   en: |-
     You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During the Battle Step, if this card battles an opponent's monster (Quick Effect): You can target that opponent's monster; banish both this card from the field and that target. Return those banished monsters to the field at the end of the Battle Phase, and if you banished an Xyz Monster, this card gains 500 ATK for each material it had when it was banished.
@@ -28,6 +29,8 @@ text:
     ①：このカードは自分フィールドの攻撃力２０００以上のモンスター２体をリリースして手札から特殊召喚できる。②：このカードが相手モンスターと戦闘を行うバトルステップに、その相手モンスター１体を対象として発動できる。その相手モンスターとフィールドのこのカードを除外する。この効果で除外したモンスターはバトルフェイズ終了時にフィールドに戻り、この効果でＸモンスターを除外した場合、このカードの攻撃力は、そのＸモンスターを除外した時のＸ素材の数×５００アップする。
   ko: |-
     ①: 이 카드는 자신 필드의 공격력 2000 이상의 몬스터 2장을 릴리스하고 패에서 특수 소환할 수 있다. ②: 이 카드가 상대 몬스터와 전투를 실행하는 배틀 스텝에, 그 상대 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 몬스터와 필드의 이 카드를 제외한다. 이 효과로 제외한 몬스터는 배틀 페이즈 종료시에 필드로 되돌아가고, 이 효과로 엑시즈 몬스터를 제외했을 경우, 이 카드의 공격력은, 그 엑시즈 몬스터를 제외했을 때의 엑시즈 소재의 수 × 500 올린다.
+  zh-CN: |-
+    ①：这张卡可以把自己场上2只攻击力2000以上的怪兽解放从手卡特殊召唤。②：这张卡和对方怪兽进行战斗的战斗步骤，以那1只对方怪兽为对象才能发动。那只对方怪兽和场上的这张卡除外。这个效果除外的怪兽在战斗阶段结束时回到场上，这个效果把XYZ怪兽除外的场合，这张卡的攻击力上升把那只XYZ怪兽除外时的XYZ素材数量×500。
 type: Monster
 typeline: Dragon / Effect
 attribute: LIGHT
@@ -237,3 +240,8 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: DP20-SC039
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Shugoryū Puromineshisu
   ko: 수호룡 프로미네시스
   ko_rr: Suhoryong Peurominesiseu
+  zh-CN: 守护龙 普罗米尼西斯
 text:
   en: |-
     You can send this card from your hand or field to the GY, then target 1 Dragon monster you control; it gains 500 ATK/DEF until the end of your opponent's turn. If a Normal Monster(s) is sent to your GY, while this card is in the GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Guardragon Promineses" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：手札・フィールドのこのカードを墓地へ送り、自分フィールドのドラゴン族モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力は相手ターン終了時まで５００アップする。②：このカードが墓地に存在し、通常モンスターが自分の墓地へ送られた場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패 / 필드의 이 카드를 묘지로 보내고, 자신 필드의 드래곤족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력 / 수비력은 상대 턴 종료시까지 500 올린다. ②: 이 카드가 묘지에 존재하고, 일반 몬스터가 자신 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：把手卡·场上的这张卡送去墓地，以自己场上1只龙族怪兽为对象才能发动。那只怪兽的攻击力·守备力直到对方回合结束时上升500。
+    ②：这张卡在墓地存在，通常怪兽被送去自己墓地的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
 type: Monster
 typeline: Dragon / Effect
 attribute: FIRE
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: SAST-KR014
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC012
+    set_name: Mega Pack 03
     rarities:
     - Common

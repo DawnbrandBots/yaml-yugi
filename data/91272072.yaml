@@ -11,6 +11,7 @@ name:
   ja_romaji: Torikkusutā Bando Gitāsuīto
   ko: 트릭스터밴드 기타스위트
   ko_rr: Teurikseuteobandeu Gitaseuwiteu
+  zh-CN: 淘气仙星乐队·吉她斯薇特
 text:
   en: |-
     1 "Trickstar" Link Monster + 1 "Trickstar" monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     "트릭스터" 링크 몬스터 ＋ "트릭스터" 몬스터
     ①: 이 카드와 링크 상태인 자신의 "트릭스터" 링크 몬스터의 효과로 상대에게 주는 데미지는 배가 된다. ②: "트릭스터" 몬스터의 효과로 상대가 데미지를 받을 때마다 발동한다. 이 카드의 공격력은 그 데미지의 수치만큼 올린다. ③: 이 카드가 공격한 턴의 엔드 페이즈에 발동한다. 이 카드의 ②의 효과로 올린 수치는 0 으로 되돌아간다. 그 후, 자신 묘지에서 "트릭스터" 몬스터 1장을 고르고 패에 넣을 수 있다.
+  zh-CN: |-
+    「淘气仙星」连接怪兽＋「淘气仙星」怪兽
+    ①：和这张卡连接状态的自己的「淘气仙星」连接怪兽的效果给与对方的伤害变成2倍。
+    ②：每次「淘气仙星」怪兽的效果让对方受到伤害发动。这张卡的攻击力上升那次伤害的数值。
+    ③：这张卡攻击的回合的结束阶段发动。这张卡的②的效果上升的数值回到0。那之后，可以从自己墓地选1只「淘气仙星」怪兽加入手卡。
 type: Monster
 typeline: Fairy / Fusion / Effect
 attribute: LIGHT
@@ -77,5 +83,10 @@ sets:
   ko:
   - set_number: SAST-KR033
     set_name: Savage Strike
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC020
+    set_name: Mega Pack 03
     rarities:
     - Rare

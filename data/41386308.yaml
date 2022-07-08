@@ -11,6 +11,7 @@ name:
   ja_romaji: Masumatishan
   ko: 매스매티션
   ko_rr: Maeseumaetisyeon
+  zh-CN: 数学家
 text:
   en: |-
     When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.
@@ -28,6 +29,9 @@ text:
     ①：このカードが召喚に成功した時に発動できる。デッキからレベル４以下のモンスター１体を墓地へ送る。②：このカードが戦闘で破壊され墓地へ送られた時に発動できる。自分はデッキから１枚ドローする。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 레벨 4 이하의 몬스터 1장을 묘지로 보낸다. ②: 이 카드가 전투로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
+  zh-CN: |-
+    ①：这张卡召唤成功时才能发动。从卡组把1只4星以下的怪兽送去墓地。
+    ②：这张卡被战斗破坏送去墓地时才能发动。自己从卡组抽1张。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: EARTH
@@ -193,6 +197,19 @@ sets:
     rarities:
     - Common
   - set_number: SD37-KR020
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC018
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC012
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Common
+  - set_number: SD37-SC020
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common

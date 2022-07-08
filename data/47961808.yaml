@@ -11,6 +11,7 @@ name:
   ja_romaji: Gōka no Kekkaizō
   ko: 업화의 결계상
   ko_rr: Yeophwa-ui Gyeolgesang
+  zh-CN: 业火之结界像
 text:
   en: |-
     Neither player can Special Summon monsters, except FIRE monsters.
@@ -28,6 +29,8 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いは炎属性モンスターしか特殊召喚できない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 양쪽 플레이어는 화염 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，双方不是炎属性怪兽不能特殊召唤。
 type: Monster
 typeline: Pyro / Effect
 attribute: FIRE
@@ -119,6 +122,11 @@ sets:
     rarities:
     - Common
   - set_number: SD35-KR018
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD35-SC018
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common

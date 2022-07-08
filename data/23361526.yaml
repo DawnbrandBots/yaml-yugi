@@ -11,6 +11,7 @@ name:
   ja_romaji: Haisupīdoroido Koruku-Jū
   ko: <ruby><rb>HSR</rb><rp>（</rp><rt>하이스피드로이드</rt><rp>）</rp></ruby> 코르크－<ruby><rb>10</rb><rp>（</rp><rt>열</rt><rp>）</rp></ruby>
   ko_rr: Haiseupideuroideu Koreukeu-yeol
+  zh-CN: 超高速拟人机 气弹枪-10
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -54,6 +55,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없으며, 이 효과를 발동하는 턴에, 자신은 바람 속성 몬스터밖에 특수 소환할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●덱에서 "스피드로이드" 마법 / 함정 카드 1장을 패에 넣는다. ●이 카드가 "스피드로이드" 몬스터만을 소재로서 싱크로 소환하고 있었을 경우, 그 싱크로 소환에 사용한 싱크로 소재 몬스터 1세트가 전부 자신 묘지에 모여 있으면, 그 1세트를 특수 소환한다.
+  zh-CN: |-
+    调整+1只以上调整以外的怪兽
+    这个卡名的效果1回合只能使用1次，这个效果发动的回合，自己特殊召唤的只能是风属性怪兽。①：这张卡同调召唤成功的场合，可以从以下的效果中选择1个发动。●从卡组将1张「スピードロイド／高速拟人机」魔法陷阱卡加入手牌。●这张卡是只将「スピードロイド／高速拟人机」怪兽作为素材来同调召唤而在场的场合，若那次同调召唤使用过的一组同调素材怪兽全部在自己墓地齐集，则将那一组特殊召唤。
 type: Monster
 typeline: Machine / Synchro / Tuner / Effect
 attribute: WIND
@@ -95,6 +99,12 @@ sets:
     - Secret Rare
   ko:
   - set_number: DP25-KR003
+    set_name: 'Duelist Pack: Duelists of Whirlwind'
+    rarities:
+    - Super Rare
+    - Secret Rare
+  zh-CN:
+  - set_number: DP25-SC003
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Super Rare

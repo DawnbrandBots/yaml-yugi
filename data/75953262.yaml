@@ -11,6 +11,7 @@ name:
   ja_romaji: Senshi Dai Gurefā
   ko: 전사 다이 그레퍼
   ko_rr:
+  zh-CN: 战士 戴·格雷法
 text:
   en: |-
     The warrior who can manipulate dragons. Nobody knows his mysterious past.
@@ -28,6 +29,8 @@ text:
     ドラゴン族を操る才能を秘めた戦士。過去は謎に包まれている。
   ko: |-
     드래곤족을 조종하는 재능을 감춘 전사. 그의 과거는 수수께끼에 싸여있다.
+  zh-CN: |-
+    隐藏着操纵龙族才能的战士。其过去被迷所包围着。
 type: Monster
 typeline: Warrior / Normal
 attribute: EARTH
@@ -196,5 +199,10 @@ sets:
     - Common
   - set_number: ST14-KR006
     set_name: Starter Deck 2014
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC004
+    set_name: Duel Starter Deck
     rarities:
     - Common

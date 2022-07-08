@@ -11,6 +11,7 @@ name:
   ja_romaji: Mashinnāzu Sunaipā
   ko: 머시너즈 스나이퍼
   ko_rr: Meosineojeu Seunaipeo
+  zh-CN: 机甲狙击兵
 text:
   en: |-
     Monsters cannot attack "Machina" monsters, except "Machina Sniper".
@@ -28,6 +29,8 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いに「マシンナーズ・スナイパー」以外の「マシンナーズ」モンスターを攻撃できない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 서로 "머시너즈 스나이퍼" 이외의 "머시너즈" 몬스터를 공격할 수 없다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，双方不能向「机甲狙击兵」以外的「机甲」怪兽攻击。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -116,5 +119,10 @@ sets:
     - Common
   - set_number: SR10-KR011
     set_name: 'Structure Deck R: Machiners Command'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD18-TC007
+    set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Common

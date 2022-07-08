@@ -11,6 +11,7 @@ name:
   ja_romaji: Akkusu Doragonyūto
   ko: 액스 드라고뉴트
   ko_rr:
+  zh-CN: 巨斧龙人
 text:
   en: |-
     If this card attacks, it is changed to Defense Position at the end of the Damage Step.
@@ -28,6 +29,8 @@ text:
     ①：このカードは攻撃した場合、ダメージステップ終了時に守備表示になる。
   ko: |-
     ①: 이 카드는 공격했을 경우, 데미지 스텝 종료시에 수비 표시가 된다.
+  zh-CN: |-
+    ①：这张卡攻击的场合，伤害步骤结束时变成守备表示。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -149,5 +152,10 @@ sets:
     - Common
   - set_number: VS15-KRD06
     set_name: 'Duelist Entry Deck VS: Dark Legion'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD22-TC010
+    set_name: 'Structure Deck: Dragonic Legion'
     rarities:
     - Common

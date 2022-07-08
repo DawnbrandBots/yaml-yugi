@@ -11,6 +11,7 @@ name:
   ja_romaji: Gyarakushī Purīsuto
   ko: 갤럭시 프리스트
   ko_rr: Gaelleoksi Peuriseuteu
+  zh-CN: 银河修道师
 text:
   en: |-
     If this card is in your hand: You can target 1 "Photon" or "Galaxy" Xyz Monster you control; attach this card to it as material. If this card is Normal or Special Summoned: You can target 5 "Photon" and/or "Galaxy" cards with different names in your GY; shuffle them into the Deck, then draw 2 cards. You can only use 1 "Galaxy Cleric" effect per turn, and only once that turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドの、「フォトン」Ｘモンスターまたは「ギャラクシー」Ｘモンスター１体を対象として発動できる。手札のこのカードをそのモンスターの下に重ねてＸ素材とする。②：このカードが召喚・特殊召喚に成功した場合、自分の墓地の「フォトン」カード及び「ギャラクシー」カードの中から合計５枚を対象として発動できる（同名カードは１枚まで）。そのカードをデッキに加えてシャッフルする。その後、自分はデッキから２枚ドローする。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신 필드의, "포톤" 엑시즈 몬스터 또는 "갤럭시" 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 패의 이 카드를 그 몬스터의 아래에 겹쳐 엑시즈 소재로 한다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 묘지의 "포톤" 카드 및 "갤럭시" 카드 중에서 합계 5장을 대상으로 하고 발동할 수 있다(같은 이름의 카드는 1장까지). 그 카드를 덱에 넣고 셔플한다. 그 후, 자신은 덱에서 2장 드로우한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+    ①：以自己场上1只「光子」超量怪兽或者「银河」超量怪兽为对象才能发动。把手卡的这张卡在那只怪兽下面重叠作为超量素材。
+    ②：这张卡召唤·特殊召唤成功的场合，从自己墓地的「光子」卡以及「银河」卡之中以合计5张为对象才能发动（同名卡最多1张）。那些卡加入卡组洗切。那之后，自己从卡组抽2张。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: LIGHT
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: SOFU-KR010
     set_name: Soul Fusion
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC111
+    set_name: Mega Pack 02
     rarities:
     - Common

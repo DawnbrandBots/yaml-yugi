@@ -11,6 +11,7 @@ name:
   ja_romaji: Mireniamu Shīkā
   ko:
   ko_rr:
+  zh-CN: 千年的血族
 text:
   en: |-
     When you take 1000 or more battle or effect damage: You can Special Summon this card from your hand. You can target 1 monster in your opponent's GY, except a monster with ? ATK; your opponent can choose 1 monster from their Deck, except a monster with ? ATK. If they chose not to, or if the targeted monster has higher ATK than the chosen monster, Special Summon the targeted monster to your field, and if you do, shuffle the chosen monster back into the Deck. Otherwise, your opponent adds the chosen monster to the hand. You can only use each effect of "Millennium Seeker" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が戦闘・効果で１０００以上のダメージを受けた時に発動できる。このカードを手札から特殊召喚する。②：相手の墓地の攻撃力が？以外のモンスター１体を対象として発動できる。相手はデッキから攻撃力が？以外のモンスター１体を選ぶ事ができる。選ばなかった場合、または対象のモンスターの方が攻撃力が高い場合、対象のモンスターを自分フィールドに特殊召喚する。選んだモンスターはデッキに戻す。それ以外の場合、相手は選んだモンスターを手札に加える。
   ko: |-
     None
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：自己因战斗·效果受到1000以上的伤害时才能发动。这张卡从手卡特殊召唤。
+    ②：以对方墓地1只攻击力是?以外的怪兽为对象才能发动。对方可以从卡组选1只攻击力是?以外的怪兽。没选的场合或者作为对象的怪兽攻击力更高的场合，作为对象的怪兽在自己场上特殊召唤。选的怪兽回到卡组。那以外的场合，对方把选的怪兽加入手卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -65,3 +70,9 @@ sets:
     set_name: Prismatic God Box
     rarities:
     - Millennium Rare
+  zh-CN:
+  - set_number: EGS1-SC005
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Ultra Rare

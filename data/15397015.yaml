@@ -11,6 +11,7 @@ name:
   ja_romaji: Insupekuto Bōdā
   ko: 인스펙트 보더
   ko_rr:
+  zh-CN: 冲浪检察官
 text:
   en: |-
     Cannot be Normal or Special Summoned if you control a monster. Neither player can activate monster effects unless the number of monster effects that player has previously activated that turn is less than the number of monster card types currently on the field (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link). (If an effect's activation was negated, it still counts toward the total for that turn. Only count effects that were activated while this monster was face-up on the field.)
@@ -28,6 +29,8 @@ text:
     自分フィールドにモンスターが存在する場合、このカードは召喚・特殊召喚できない。①：このカードがモンスターゾーンに存在する限り、その間はお互いにそれぞれ１ターンに発動できるモンスターの効果の回数が、フィールドのモンスターの種類（儀式・融合・Ｓ・Ｘ・Ｐ・リンク）の数までになる。
   ko: |-
     자신 필드에 몬스터가 존재할 경우, 이 카드는 일반 소환 / 특수 소환할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 그 동안은 서로 각각 1턴에 발동할 수 있는 몬스터의 효과의 횟수가, 필드의 몬스터의 종류(의식 / 융합 / 싱크로 / 엑시즈 / 펜듈럼 / 링크)의 수까지가 된다.
+  zh-CN: |-
+    自己场上有怪兽存在的场合，这张卡不能召唤·特殊召唤。①：只要这张卡在怪兽区域存在，那个期间双方各自在1回合可以发动的怪兽的效果次数变成最多到场上的怪兽的种类（仪式·融合·同调·XYZ·灵摆·连接）数量次数为止。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -111,4 +114,10 @@ sets:
     set_name: Extreme Force
     rarities:
     - Super Rare
+    - Secret Rare
+  zh-CN:
+  - set_number: MGP1-SC123
+    set_name: Mega Pack 01
+    rarities:
+    - Ultra Rare
     - Secret Rare

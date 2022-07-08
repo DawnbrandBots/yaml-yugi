@@ -11,6 +11,7 @@ name:
   ja_romaji: Shain Enjeru
   ko: 샤이닝 엔젤
   ko_rr:
+  zh-CN: 光辉天使
 text:
   en: |-
     When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.
@@ -28,6 +29,8 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、デッキから攻撃力１５００以下の光属性モンスター１体を表側攻撃表示で特殊召喚できる。
   ko: |-
     이 카드가 전투에 의해서 묘지로 보내졌을 때, 덱에서 공격력 1500 이하의 빛 속성 몬스터 1장을 자신의 필드 위에 앞면 공격 표시로 특수 소환할 수 있다. 그 후 덱을 셔플한다.
+  zh-CN: |-
+    这张卡被战斗破坏送去墓地时，可以从卡组把1只攻击力1500以下的光属性怪兽表侧攻击表示特殊召唤。
 type: Monster
 typeline: Fairy / Effect
 attribute: LIGHT
@@ -291,6 +294,24 @@ sets:
     rarities:
     - Common
   - set_number: SD26-KR018
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC017
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SP03-TC019
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: SD25-SC017
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SD26-SC018
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common

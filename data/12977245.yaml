@@ -11,6 +11,7 @@ name:
   ja_romaji: Orutāgaisuto Fifineragu
   ko: 얼터가이스트 피피넬라그
   ko_rr: Eolteogaiseuteu Pipinellageu
+  zh-CN: 幻变骚灵·延迟菲芬尼拉
 text:
   en: |-
     Monsters your opponent controls cannot target "Altergeist" monsters you control for attacks, except "Altergeist Fifinellag", also your opponent cannot target "Altergeist" monsters you control with card effects, except "Altergeist Fifinellag".
@@ -28,6 +29,8 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、相手は「オルターガイスト・フィフィネラグ」以外の自分フィールドの「オルターガイスト」モンスターを、攻撃対象に選択できず、効果の対象にもできない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 "얼터가이스트 피피넬라그" 이외의 자신 필드의 "얼터가이스트" 몬스터를, 공격 대상으로 선택할 수 없으며, 효과의 대상으로도 할 수 없다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，对方不能选择「幻变骚灵·延迟菲芬尼拉」以外的自己场上的「幻变骚灵」怪兽作为攻击对象，也不能作为效果的对象。
 type: Monster
 typeline: Spellcaster / Tuner / Effect
 attribute: DARK
@@ -68,5 +71,10 @@ sets:
   ko:
   - set_number: DANE-KR005
     set_name: Dark Neostorm
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC058
+    set_name: Mega Pack 03
     rarities:
     - Common

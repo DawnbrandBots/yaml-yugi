@@ -11,6 +11,7 @@ name:
   ja_romaji: Saramangureito Hītoraio
   ko: 샐러맨그레이트 히트라이오
   ko_rr: Saelleomaen-geureiteu Hiteuraio
+  zh-CN: 转生炎兽 炽热多头狮
 text:
   en: |-
     2+ FIRE Effect Monsters
@@ -36,6 +37,10 @@ text:
   ko: |-
     화염 속성 효과 몬스터 2장 이상
     ①: 이 카드가 링크 소환에 성공했을 경우, 상대의 마법 & 함정 존의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 주인의 덱으로 되돌린다. ②: 이 카드가 "샐러맨그레이트 히트라이오"를 소재로서 링크 소환되어 있을 경우, 1턴에 1번, 필드의 앞면 표시 몬스터 1장과, 자신 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 대상 필드의 몬스터의 공격력은, 턴 종료시까지 대상 묘지의 몬스터의 공격력과 같아진다.
+  zh-CN: |-
+    炎属性效果怪兽2只以上
+    ①：这张卡连接召唤成功的场合，以对方的魔法与陷阱区域1张卡为对象才能发动。那张卡回到持有者卡组。
+    ②：这张卡是已用「转生炎兽 炽热多头狮」为素材作连接召唤的场合，1回合1次，以场上1只表侧表示怪兽和自己墓地1只怪兽为对象才能发动。作为对象的场上的怪兽的攻击力直到回合结束时变成和作为对象的墓地的怪兽的攻击力相同。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: FIRE
@@ -157,6 +162,15 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD35-KRP03
+    set_name: 'Structure Deck: Soulburner Extra Deck Enhancement Pack'
+    rarities:
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: SD35-SC040
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Ultra Rare
+  - set_number: SD35-SCP03
     set_name: 'Structure Deck: Soulburner Extra Deck Enhancement Pack'
     rarities:
     - Normal Parallel Rare

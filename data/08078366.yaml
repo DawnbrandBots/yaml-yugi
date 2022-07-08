@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaiō no Totsugekihei
   ko: 해황의 돌격병
   ko_rr:
+  zh-CN: 海皇的突击兵
 text:
   en: |-
     This card gains 800 ATK while you control a face-up Fish, Sea Serpent, or Aqua-Type monster other than this card.
@@ -28,6 +29,8 @@ text:
     自分フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合、このカードの攻撃力は８００ポイントアップする。
   ko: |-
     자신 필드 위에 이 카드 이외의 어류족 / 해룡족 / 물족 몬스터가 존재할 경우, 이 카드의 공격력은 800포인트 올린다.
+  zh-CN: |-
+    自己场上有这张卡以外的鱼族·海龙族·水族怪兽存在的场合，这张卡的攻击力上升800。
 type: Monster
 typeline: Sea Serpent / Effect
 attribute: WATER
@@ -86,6 +89,15 @@ sets:
     rarities:
     - Common
   - set_number: SD23-KR006
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: REDU-TC036
+    set_name: Return of the Duelist
+    rarities:
+    - Common
+  - set_number: SD23-TC005
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

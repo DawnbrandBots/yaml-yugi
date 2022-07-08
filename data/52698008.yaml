@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibāsu Wikiddo
   ko: 사이버스 위키드
   ko_rr: Saibeoseu Wokideu
+  zh-CN: 电子界小男巫
 text:
   en: |-
     2 Cyberse monsters
@@ -36,6 +37,12 @@ text:
   ko: |-
     사이버스족 몬스터 2장
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 링크 소환한 이 카드는 전투 / 효과로는 파괴되지 않는다. ②: 이 카드의 링크 앞의 사이버스족 몬스터는 효과로는 파괴되지 않는다. ③: 이 카드가 이미 몬스터 존에 존재하는 상태에서, 이 카드의 링크 앞에 몬스터가 특수 소환되었을 경우, 자신 묘지에서 사이버스족 몬스터 1장을 제외하고 발동할 수 있다. 덱에서 사이버스족 튜너 1장을 패에 넣는다.
+  zh-CN: |-
+    电子界族怪兽2只
+    这个卡名的③的效果1回合只能使用1次。
+    ①：连接召唤的这张卡不会被战斗·效果破坏。
+    ②：这张卡所连接区的电子界族怪兽不会被效果破坏。
+    ③：这张卡已在怪兽区域存在的状态，这张卡所连接区有怪兽特殊召唤的场合，从自己墓地把1只电子界族怪兽除外才能发动。从卡组把1只电子界族调整加入手卡。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: DARK
@@ -82,5 +89,10 @@ sets:
   ko:
   - set_number: SAST-KR044
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC027
+    set_name: Mega Pack 03
     rarities:
     - Common

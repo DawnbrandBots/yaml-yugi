@@ -11,6 +11,7 @@ name:
   ja_romaji: Saiko Torakkā
   ko: 사이코트래커
   ko_rr: Saikoteuraekeo
+  zh-CN: 念力循轨人
 text:
   en: |-
     If you control a Level 3 monster other than "Psychic Tracker", you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon "Psychic Tracker" once per turn this way. A Synchro Monster that used this card as material gains 600 ATK.
@@ -28,6 +29,10 @@ text:
     このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに「サイコトラッカー」以外のレベル３モンスターが存在する場合、このカードは手札から守備表示で特殊召喚できる。②：このカードをＳ素材としたＳモンスターは、攻撃力が６００アップする。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 자신 필드에 "사이코트래커" 이외의 레벨 3 몬스터가 존재할 경우, 이 카드는 패에서 수비 표시로 특수 소환할 수 있다. ②: 이 카드를 싱크로 소재로 한 싱크로 몬스터는, 공격력을 600 올린다.
+  zh-CN: |-
+    这个卡名的①的方法的特殊召唤1回合只能有1次。
+    ①：自己场上有「念力追踪者」以外的3星怪兽存在的场合，这张卡可以从手卡守备表示特殊召唤。
+    ②：这张卡为同调素材的同调怪兽攻击力上升600。
 type: Monster
 typeline: Psychic / Effect
 attribute: EARTH
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: SAST-KR025
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC016
+    set_name: Mega Pack 03
     rarities:
     - Common

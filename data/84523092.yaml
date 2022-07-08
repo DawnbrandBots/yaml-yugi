@@ -11,6 +11,7 @@ name:
   ja_romaji: Wicchikurafuto Haine
   ko: 위치크래프트 하이네
   ko_rr: Wichikeuraepeuteu Haine
+  zh-CN: 魔女术工匠·服装女巫
 text:
   en: |-
     Your opponent cannot target other Spellcaster monsters you control with card effects. (Quick Effect): You can discard 1 Spell, then target 1 face-up card your opponent controls; destroy it. You can only use this effect of "Witchcrafter Haine" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分フィールドの他の魔法使い族モンスターは相手の効果の対象にならない。②：手札から魔法カード１枚を捨て、相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 다른 마법사족 몬스터는 상대 효과의 대상이 되지 않는다. ②: 패에서 마법 카드 1장을 버리고, 상대 필드의 앞면 표시의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：只要这张卡在怪兽区域存在，自己场上的其他的魔法师族怪兽不会成为对方的效果的对象。
+    ②：从手卡丢弃1张魔法卡，以对方场上1张表侧表示的卡为对象才能发动。那张卡破坏。这个效果在对方回合也能发动。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -100,3 +105,8 @@ sets:
     rarities:
     - Normal Parallel Rare
     - Secret Rare
+  zh-CN:
+  - set_number: ST21-SC002
+    set_name: Starter Deck 2021
+    rarities:
+    - Super Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Ierō Gajetto
   ko: 옐로 가제트
   ko_rr: Yello Gajeteu
+  zh-CN: 黄色零件
 text:
   en: |-
     When this card is Normal or Special Summoned: You can add 1 "Green Gadget" from your Deck to your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚・特殊召喚に成功した時に発動できる。デッキから「グリーン・ガジェット」１体を手札に加える。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 덱에서 "그린 가제트" 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：这张卡召唤·特殊召唤成功时才能发动。从卡组把1只「绿色零件」加入手卡。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -272,5 +275,10 @@ sets:
     - Common
   - set_number: 15AY-KRC18
     set_name: 'Memories of the Duel King: Ceremonial Battle Arc'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD18-TC017
+    set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Common

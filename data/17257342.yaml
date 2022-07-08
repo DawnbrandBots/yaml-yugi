@@ -12,6 +12,7 @@ name:
   ja_romaji: Hikari no Seirei Diāna
   ko: 빛의 정령 디아나
   ko_rr: Bit-ui Jeongnyeong Diana
+  zh-CN: 光之精灵 狄阿娜
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your GY. Once per turn, during your opponent's End Phase: Gain 1000 LP.
@@ -29,6 +30,9 @@ text:
     このカードは通常召喚できない。自分の墓地から光属性モンスター１体を除外した場合に特殊召喚できる。①：相手エンドフェイズに発動する。自分は１０００ＬＰ回復する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 빛 속성 몬스터 1장을 제외했을 경우에 특수 소환할 수 있다. ①: 상대 엔드 페이즈에 발동한다. 자신은 1000 LP 회복한다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己墓地把1只光属性怪兽除外的场合可以特殊召唤。
+    ①：对方结束阶段发动。自己回复1000基本分。
 type: Monster
 typeline: Thunder / Effect
 attribute: LIGHT
@@ -89,5 +93,10 @@ sets:
   ko:
   - set_number: SOFU-KR027
     set_name: Soul Fusion
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC124
+    set_name: Mega Pack 02
     rarities:
     - Common

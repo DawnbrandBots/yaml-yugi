@@ -11,6 +11,7 @@ name:
   ja_romaji: Tamashī o Kezuru Shiryō
   ko: 영혼을 깎는 사령
   ko_rr:
+  zh-CN: 削魂的死灵
 text:
   en: |-
     Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードは戦闘では破壊されない。②：このカードが直接攻撃で相手に戦闘ダメージを与えた場合に発動する。相手の手札をランダムに１枚選んで捨てる。③：フィールドの表側表示のこのカードは効果の対象になった場合に破壊される。
   ko: |-
     이 카드는 전투에 의해서는 파괴되지 않는다. 마법/함정/효과 몬스터의 효과의 대상이 되었을 때, 이 카드를 파괴한다. 이 카드가 상대 플레이어에게로의 직접 공격에 성공했을 경우, 상대는 무작위로 패를 1장 버린다.
+  zh-CN: |-
+    这张卡不会被战斗破坏。这张卡成为卡的效果的对象时，这张卡破坏。这张卡直接攻击给与对方基本分战斗伤害时，对方手卡随机丢弃1张。
 type: Monster
 typeline: Zombie / Effect
 attribute: DARK
@@ -244,3 +247,8 @@ sets:
     rarities:
     - Common
     - Gold Rare
+  zh-TW:
+  - set_number: SP02-TC023
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Rare

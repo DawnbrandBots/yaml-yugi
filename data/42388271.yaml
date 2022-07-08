@@ -11,6 +11,7 @@ name:
   ja_romaji: Sei'ibutsu - "Seihitsu"
   ko: 성유물－『성궤』
   ko_rr: Seong-yumul - "Seonggwe"
+  zh-CN: 星遗物-『星柜』
 text:
   en: |-
     This card can be treated as 2 Tributes for the Tribute Summon of a monster. You can only use each of the following effects of "World Legacy - "World Ark"" once per turn.
@@ -40,6 +41,11 @@ text:
     このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのリンクモンスターが相手の効果で破壊され自分の墓地へ送られた場合、このカードを手札から墓地へ送り、そのリンクモンスター１体を対象として発動できる。そのモンスターを特殊召喚する。②：モンスターをアドバンス召喚する場合、このカードは２体分のリリースにできる。③：通常召喚したこのカードがモンスターゾーンに存在し、相手がＥＸデッキからモンスターを特殊召喚した場合に発動できる。デッキからモンスター１体を墓地へ送る。
   ko: |-
     이 카드명의 ①③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 링크 몬스터가 상대 효과로 파괴되어 자신 묘지로 보내졌을 경우, 이 카드를 패에서 묘지로 보내고, 그 링크 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다. ②: 몬스터를 어드밴스 소환할 경우, 이 카드는 2장만큼의 릴리스로 할 수 있다. ③: 통상 소환한 이 카드가 몬스터 존에 존재하고, 상대가 엑스트라 덱에서 몬스터를 특수 소환했을 경우에 발동할 수 있다. 덱에서 몬스터 1장을 묘지로 보낸다.
+  zh-CN: |-
+    这个卡名的①③的效果1回合各能使用1次。
+    ①：自己场上的连接怪兽被对方的效果破坏送去自己墓地的场合，把这张卡从手卡送去墓地，以那1只连接怪兽为对象才能发动。那只怪兽特殊召唤。
+    ②：怪兽上级召唤的场合，这张卡可以作为2只的数量解放。
+    ③：通常召唤的这张卡在怪兽区域存在，对方从额外卡组把怪兽特殊召唤的场合才能发动。从卡组把1只怪兽送去墓地。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -80,5 +86,10 @@ sets:
   ko:
   - set_number: SAST-KR016
     set_name: Savage Strike
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC014
+    set_name: Mega Pack 03
     rarities:
     - Rare

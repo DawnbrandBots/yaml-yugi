@@ -11,6 +11,7 @@ name:
   ja_romaji: Sentōki - Kaina
   ko: 섬도희－카이나
   ko_rr: Seomdohui - Kaina
+  zh-CN: 闪刀姬-魁奈
 text:
   en: |-
     1 non-EARTH "Sky Striker Ace" monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     땅 속성 이외의 "섬도희" 몬스터 1장
     자신은 "섬도희－카이나"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터는 상대 턴 종료시까지 공격할 수 없다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신이 "섬도" 마법 카드의 효과를 발동할 때마다, 자신은 100 LP 회복한다.
+  zh-CN: |-
+    地属性以外的「闪刀姬」怪兽1只
+    自己对「闪刀姬-魁奈」1回合只能有1次特殊召唤。
+    ①：这张卡特殊召唤成功的场合，以对方场上1只表侧表示怪兽为对象才能发动。那只怪兽直到对方回合结束时不能攻击。
+    ②：只要这张卡在怪兽区域存在，每次自己把「闪刀」魔法卡的效果发动，自己回复100基本分。
 type: Monster
 typeline: Machine / Link / Effect
 attribute: EARTH
@@ -122,3 +128,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP3-SC036
+    set_name: Mega Pack 03
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare

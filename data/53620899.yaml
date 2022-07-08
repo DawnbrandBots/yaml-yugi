@@ -11,6 +11,7 @@ name:
   ja_romaji: Janshimatsu
   ko: 작자매
   ko_rr:
+  zh-CN: 雀姐妹
 text:
   en: |-
     FLIP: You can draw 1 card, then discard 1 card.
@@ -34,6 +35,8 @@ text:
     ①：自分メインフェイズに発動できる。このカードを裏側守備表示にする（１ターンに１度のみ）。②：このカードがリバースした場合に発動できる。自分はデッキから１枚ドローし、その後手札を１枚選んで捨てる。
   ko: |-
     ① : 자신 메인 페이즈에 발동할 수 있다. 이 카드를 뒷면 수비 표시로 한다(1턴에 1번만). ② : 이 카드가 리버스했을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우하고, 그 후 패를 1장 골라 버린다.
+  zh-CN: |-
+    ①：自己主要阶段才能发动。这张卡变成里侧守备表示（1回合只有1次）。②：这张卡反转的场合才能发动。自己从卡组抽1张，那之后选1张手卡丢弃。
 type: Monster
 typeline: Winged Beast / Flip / Effect
 attribute: WIND
@@ -94,5 +97,10 @@ sets:
   ko:
   - set_number: EXFO-KR030
     set_name: Extreme Force
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC119
+    set_name: Mega Pack 01
     rarities:
     - Common

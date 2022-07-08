@@ -11,6 +11,7 @@ name:
   ja_romaji: Sentōki - Kagari
   ko: 섬도희－카가리
   ko_rr: Seomdohui - Kagari
+  zh-CN: 闪刀姬-燎里
 text:
   en: |-
     1 non-FIRE "Sky Striker Ace" monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     화염 속성 이외의 "섬도희" 몬스터 1장
     자신은 "섬도희－카가리"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 자신 묘지의 "섬도" 마법 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. ②: 이 카드의 공격력은 자신 묘지의 마법 카드의 수 × 100 올린다.
+  zh-CN: |-
+    炎属性以外的「闪刀姬」怪兽1只
+    自己对「闪刀姬-燎里」1回合只能有1次特殊召唤。
+    ①：这张卡特殊召唤成功的场合，以自己墓地1张「闪刀」魔法卡为对象才能发动。那张卡加入手卡。
+    ②：这张卡的攻击力上升自己墓地的魔法卡数量×100。
 type: Monster
 typeline: Machine / Link / Effect
 attribute: FIRE
@@ -191,3 +197,16 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: DBDS-SC027
+    set_name: 'Deck Build Pack: Dark Savers'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: RC03-SC028
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Premium Gold Rare

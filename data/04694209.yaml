@@ -11,6 +11,7 @@ name:
   ja_romaji: Kādo Gādo
   ko: 카드 가드
   ko_rr:
+  zh-CN: 卡片守卫
 text:
   en: |-
     If this card is Normal or Special Summoned: Place 1 Guard Counter on it. This card gains 300 ATK for each Guard Counter on it. Once per turn: You can target 1 other face-up card you control; remove 1 Guard Counter from this card, and if you do, place 1 Guard Counter on that target (if that card would ever be destroyed, remove 1 Guard Counter from it instead).
@@ -28,6 +29,8 @@ text:
     このカードが召喚・特殊召喚に成功した時、このカードにガードカウンターを１つ置く。このカードに乗っているガードカウンター１つにつき、このカードの攻撃力は３００ポイントアップする。また、１ターンに１度、このカードに乗っているガードカウンターを１つ取り除き、このカード以外の自分フィールド上に表側表示で存在するカード１枚にガードカウンターを１つ置く事ができる。選択したカードが破壊される場合、代わりにガードカウンターを１つ取り除く。
   ko: |-
     이 카드가 일반 소환 / 특수 소환에 성공했을 때, 이 카드에 가드 카운터를 1개 놓는다. 이 카드에 얹혀 있는 가드 카운터 1개당, 이 카드의 공격력은 300 포인트 올린다. 또한, 1턴에 1번, 이 카드에 얹혀 있는 가이드 카운터를 1개 제거하고, 이 카드 이외의 자신 필드 위에 앞면 표시로 존재하는 카드 1장에 가드 카운터를 1개 놓을 수 있다. 선택한 카드가 파괴될 경우, 대신에 가드 카운터를 1개 제거한다.
+  zh-CN: |-
+    这张卡召唤·特殊召唤成功时，给这张卡放置1个守卫指示物。这张卡放置的守卫指示物每有1个，这张卡的攻击力上升300。此外，1回合1次，可以把这张卡放置的1个守卫指示物取除，给这张卡以外的自己场上表侧表示存在的1张卡放置1个守卫指示物。选择的卡被破坏的场合，作为代替把1个守卫指示物取除。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -172,3 +175,9 @@ sets:
     set_name: Extra Pack Volume 3
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: EGS1-SC011
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Common

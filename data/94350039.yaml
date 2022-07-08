@@ -11,6 +11,7 @@ name:
   ja_romaji: Tekkujīnasu Gia Zonbi
   ko: <ruby><rb>TG</rb><rp>（</rp><rt>테크지너스</rt><rp>）</rp></ruby> 기어 좀비
   ko_rr: Tekeujineoseu Gieo Jombi
+  zh-CN: 科技属 齿轮僵尸
 text:
   en: |-
     You can target 1 "T.G." monster you control; Special Summon this card from your hand, then the targeted monster loses 1000 ATK. You can only use this effect of "T.G. Gear Zombie" once per turn.
@@ -28,6 +29,9 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの「ＴＧ」モンスター１体を対象として発動できる。このカードを手札から特殊召喚する。その後、対象のモンスターの攻撃力を１０００ダウンする。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 "TG(테크지너스)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 그 후, 대상 몬스터의 공격력을 1000 내린다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：以自己场上1只「科技属」怪兽为对象才能发动。这张卡从手卡特殊召唤。那之后，作为对象的怪兽的攻击力下降1000。
 type: Monster
 typeline: Zombie / Tuner / Effect
 attribute: DARK
@@ -72,3 +76,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP3-SC155
+    set_name: Mega Pack 03
+    rarities:
+    - Common

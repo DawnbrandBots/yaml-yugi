@@ -11,6 +11,7 @@ name:
   ja_romaji: Shōkanshi Raizuberuto
   ko: 소환사 라이즈벨트
   ko_rr:
+  zh-CN: 召唤师 莱斯贝尔特
 text:
   en: |-
     A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.
@@ -28,6 +29,8 @@ text:
     妹セームベルをとても大事に想っている、心優しき兄ライズベルト。昼下がりの午後に妹と一緒に魔術書を読む時間は毎日の日課になっており、そんな二人の仲睦まじい様子に周囲の人々は自然と心が癒されてしまう。
   ko: |-
     여동생 샘벨을 매우 소중하게 생각하고 있는 상냥한 오빠 라이즈벨트. 오후에 여동생과 함께 마술서를 읽는 시간은 매일의 일과가 되어 있고, 그런 두 사람의 화목한 모습에 주위 사람들은 자연스럽게 마음이 열린다.
+  zh-CN: |-
+    非常关心爱护妹妹塞姆贝尔，温和亲切的哥哥莱斯贝尔特。刚过中午的午后他跟妹妹一起读魔术书的时间是每日惯例，见到那俩人和睦的情景让周围人们也自然而然被治愈心灵。
 type: Monster
 typeline: Psychic / Pendulum
 attribute: WIND
@@ -52,6 +55,8 @@ pendulum_effect:
     ①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのレベルを１つ上げる。
   ko: |-
     ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 레벨을 1개 올린다.
+  zh-CN: |-
+    ①：1回合1次，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的等级上升1星。
 sets:
   en:
   - set_number: CORE-EN002
@@ -118,5 +123,10 @@ sets:
     - Normal Rare
   - set_number: SD31-KR018
     set_name: 'Structure Deck: Pendulum Evolution'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC102
+    set_name: Entry Pack Volume 2
     rarities:
     - Common

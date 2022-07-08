@@ -11,6 +11,7 @@ name:
   ja_romaji: Nanbāzu Hyakusan Shinsōreijō Raguna Zero
   ko: No.103 신장령양 라그나 제로
   ko_rr:
+  zh-CN: No.103 神葬零娘 暮零
 text:
   en: |-
     2 Level 4 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위에 앞면 공격 표시로 존재하는, 원래 공격력과 다른 공격력을 가진 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터를 파괴하고, 덱에서 카드를 1장 드로우한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    4星怪兽×2
+    1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧攻击表示存在的1只持有和原本攻击力不同攻击力的怪兽才能发动。选择的怪兽破坏，从卡组抽1张卡。这个效果在对方回合也能发动。
 type: Monster
 typeline: Fairy / Xyz / Effect
 attribute: WATER
@@ -101,5 +105,10 @@ sets:
   ko:
   - set_number: PRIO-KR042
     set_name: Primal Origin
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP4-SC175
+    set_name: Mega Pack 04
     rarities:
     - Rare

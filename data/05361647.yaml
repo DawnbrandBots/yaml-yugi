@@ -11,6 +11,7 @@ name:
   ja_romaji: Bāningu Nakkurā Gurasujō
   ko: <ruby><rb>BK</rb><rp>（</rp><rt>버닝나쿠라</rt><rp>）</rp></ruby> 글라스조
   ko_rr:
+  zh-CN: 燃烧拳击手 不堪一击拳手
 text:
   en: |-
     When this card is targeted for an attack: Destroy this card. When this card is sent to the Graveyard by a card effect: You can target 1 "Battlin' Boxer" monster in your Graveyard, except "Battlin' Boxer Glassjaw"; add that target to your hand.
@@ -28,6 +29,8 @@ text:
     このカードが攻撃対象に選択された時、このカードを破壊する。このカードがカードの効果によって墓地へ送られた時、自分の墓地から「ＢＫ グラスジョー」以外の「ＢＫ」と名のついたモンスター１体を選択して手札に加える事ができる。
   ko: |-
     이 카드가 공격 대상으로 선택되었을 때, 이 카드를 파괴한다. 이 카드가 카드의 효과에 의해서 묘지로 보내졌을 때, 자신의 묘지에서 "BK(버닝나쿠라) 글라스조" 이외의 "BK(버닝나쿠라)" 라는 이름이 붙은 몬스터 1장을 선택하고 패에 넣을 수 있다.
+  zh-CN: |-
+    这张卡被选择作为攻击对象时，这张卡破坏。这张卡被卡的效果送去墓地时，可以从自己墓地选择「燃烧拳击手 不堪一击拳手」以外的1只名字带有「燃烧拳击手」的怪兽加入手卡。
 type: Monster
 typeline: Warrior / Effect
 attribute: FIRE
@@ -87,6 +90,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR017
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC017
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

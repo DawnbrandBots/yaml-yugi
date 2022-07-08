@@ -11,6 +11,7 @@ name:
   ja_romaji: Kuronodaibā Ridan
   ko: 크로노다이버 리단
   ko_rr: Keuronodaibeo Ridan
+  zh-CN: 时间怪盗 重塑者
 text:
   en: |-
     2 Level 4 monsters
@@ -59,6 +60,13 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대의 스탠바이 페이즈에 발동할 수 있다. 상대의 덱 맨 위의 카드를 이 카드 아래에 겹쳐 엑시즈 소재로 한다. ②: 자신 / 상대 턴에 발동할 수 있다. 이 카드의 엑시즈 소재를 3종류(몬스터 / 마법 / 함정)까지 제거한다. 그 후, 이하를 적용한다. ●몬스터: 이 카드를 엔드 페이즈까지 제외한다. ●마법: 자신은 덱에서 1장 드로우한다. ●함정: 상대 필드의 앞면 표시의 카드 1장을 고르고 주인의 덱 맨 위로 되돌린다.
+  zh-CN: |-
+    4星怪兽×2
+    1回合1次，准备阶段时：可以把对方卡组最上面的卡在这张卡下面重叠作为超量素材。（在自己或者对方回合）：可以把这张卡最多3个卡的种类不同的超量素材取除，取除的卡种类的以下效果适用。
+    ●怪兽：这张卡直到结束阶段除外。
+    ●魔法：自己从卡组抽1张卡。
+    ●陷阱：选对方场上1张表侧表示的卡回到持有者卡组最上面。
+    「时间怪盗 重塑者」的这个效果1回合只能使用1次。
 type: Monster
 typeline: Psychic / Xyz / Effect
 attribute: DARK
@@ -170,3 +178,10 @@ sets:
     set_name: Selection 10
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP3-SC053
+    set_name: Mega Pack 03
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare

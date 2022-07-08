@@ -11,6 +11,7 @@ name:
   ja_romaji: Mirisu Rediento
   ko: 미리스 레디언트
   ko_rr:
+  zh-CN: 金毛犼
 text:
   en: |-
     As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.
@@ -28,6 +29,8 @@ text:
     このカードがフィールド上に表側表示で存在する限り、フィールド上に表側表示で存在する地属性モンスターの攻撃力は５００ポイントアップし、風属性モンスターの攻撃力は４００ポイントダウンする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한. 모든 땅 속성 몬스터의 공격력은 500 포인트 올린다. 바람 속성 몬스터의 공격력은 400 포인트 내린다.
+  zh-CN: |-
+    只要这张卡在场上表侧表示存在，场上表侧表示存在的地属性怪兽的攻击力上升500，风属性怪兽的攻击力下降400。
 type: Monster
 typeline: Beast / Effect
 attribute: EARTH
@@ -128,5 +131,10 @@ sets:
     - Common
   - set_number: BP2-KR065
     set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC018
+    set_name: Duel Starter Deck
     rarities:
     - Common

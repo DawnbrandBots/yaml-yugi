@@ -12,6 +12,7 @@ name:
   ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
     도그
   ko_rr: Di Di Dogeu
+  zh-CN: DD 猛犬
 text:
   en: |-
     Once per turn, if your opponent Special Summons a Fusion, Synchro, or Xyz Monster(s) (except during the Damage Step): You can target 1 of those monsters; this turn, that face-up monster cannot attack, also its effects are negated.
@@ -29,6 +30,12 @@ text:
     ①：１ターンに１度、相手が融合・Ｓ・Ｘモンスターの特殊召喚に成功した場合、そのモンスター１体を対象として発動できる。このターン、その表側表示モンスターは攻撃できず、効果は無効化される。
   ko: |-
     ①: 1턴에 1번, 상대가 융합 / 싱크로 / 엑시즈 몬스터의 특수 소환에 성공했을 경우, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 앞면 표시 몬스터는 공격할 수 없으며, 효과는 무효화된다.
+  zh-CN: |-
+    ←3 【灵摆】 3→
+    这个卡名的灵摆效果1回合只能使用1次。
+    ①：以对方场上1只融合·同调·超量怪兽为对象才能发动。那只怪兽的效果直到回合结束时无效。那之后，灵摆区域的这张卡破坏。
+    【怪兽效果】
+    ①：1回合1次，对方对融合·同调·超量怪兽的特殊召唤成功的场合，以那1只怪兽为对象才能发动。这个回合，那只表侧表示怪兽不能攻击，效果无效化。
 type: Monster
 typeline: Fiend / Pendulum / Effect
 attribute: DARK
@@ -53,6 +60,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：相手フィールドの融合・Ｓ・Ｘモンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。その後、Ｐゾーンのこのカードを破壊する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 융합 / 싱크로 / 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. 그 후, 펜듈럼 존의 이 카드를 파괴한다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: ROTD-EN091

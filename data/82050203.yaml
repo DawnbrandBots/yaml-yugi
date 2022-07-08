@@ -11,6 +11,7 @@ name:
   ja_romaji: Dotedotengu
   ko: 도태도탱구
   ko_rr:
+  zh-CN: 走溜溜天狗
 text:
   en: |-
     If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.
@@ -28,6 +29,8 @@ text:
     このカードが相手のカードの効果によって墓地へ送られた場合、相手フィールド上のカード１枚を選択して発動できる。選択したカードを持ち主の手札に戻す。
   ko: |-
     이 카드가 상대 카드의 효과에 의해서 묘지로 보내졌을 경우, 상대 필드 위의 카드 1장을 선택하고 발동할 수 있다. 선택한 카드를 주인의 패로 되돌린다.
+  zh-CN: |-
+    这张卡被对方的卡的效果送去墓地的场合，选择对方场上1张卡才能发动。选择的卡回到持有者手卡。
 type: Monster
 typeline: Fiend / Effect
 attribute: WIND
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR004
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC004
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

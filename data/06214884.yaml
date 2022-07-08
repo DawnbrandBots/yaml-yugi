@@ -12,6 +12,7 @@ name:
   ja_romaji: Ankokukai no Kyōō Buron
   ko: 암흑계의 광왕 브론
   ko_rr:
+  zh-CN: 暗黑界的狂王 布隆
 text:
   en: |-
     When this card inflicts battle damage to your opponent: You can discard 1 card.
@@ -29,6 +30,8 @@ text:
     このカードが相手ライフに戦闘ダメージを与えた時、自分は手札を１枚選択して捨てる事ができる。
   ko: |-
     이 카드가 상대 라이프에 전투 데미지를 주었을 때, 자신의 패에서 카드를 1장 선택하고 묘지에 버릴 수 있다.
+  zh-CN: |-
+    这张卡给与对方基本分战斗伤害时，自己可以选择1张手卡丢弃。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -121,6 +124,11 @@ sets:
     rarities:
     - Rare
   - set_number: SD21-KR009
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC008
     set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

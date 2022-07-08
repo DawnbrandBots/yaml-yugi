@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurittā
   ko: 크리터
   ko_rr: Keuriteo
+  zh-CN: 三眼怪
 text:
   en: |-
     If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of "Sangan" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードがフィールドから墓地へ送られた場合に発動する。デッキから攻撃力１５００以下のモンスター１体を手札に加える。このターン、自分はこの効果で手札に加えたカード及びその同名カードの効果を発動できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동한다. 덱에서 공격력 1500 이하의 몬스터 1장을 패에 넣는다. 이 턴에 자신은 이 효과로 패에 넣은 카드 및 그와 같은 이름의 카드의 효과를 발동할 수 없다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。①：这张卡从场上送去墓地的场合发动。从卡组把1只攻击力1500以下的怪兽加入手卡。这个回合，自己不能作这个效果加入手卡的卡以及那些同名卡的发动。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -462,5 +465,10 @@ sets:
     - Common
   - set_number: SD39-KR020
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC004
+    set_name: Starter Deck 2020
     rarities:
     - Common

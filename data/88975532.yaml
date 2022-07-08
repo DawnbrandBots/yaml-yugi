@@ -12,6 +12,7 @@ name:
   ja_romaji: Shikkoku no Senshi Wāurufu
   ko: 칠흑의 전사 워울프
   ko_rr:
+  zh-CN: 漆黑的战士 狼人
 text:
   en: |-
     Your opponent cannot activate Trap Cards during the Battle Phase.
@@ -29,6 +30,8 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、相手はバトルフェイズに罠カードを発動できない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 배틀 페이즈에 함정 카드를 발동할 수 없다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，对方在战斗阶段不能把陷阱卡发动。
 type: Monster
 typeline: Beast-Warrior / Effect
 attribute: DARK
@@ -182,5 +185,10 @@ sets:
     - Common
   - set_number: ST16-KR018
     set_name: Starter Deck 2016
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SC018
+    set_name: Starter Deck 2021
     rarities:
     - Common

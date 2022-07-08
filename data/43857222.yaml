@@ -11,6 +11,7 @@ name:
   ja_romaji: Raibura no Mahōbin
   ko: 라이브라의 마법천칭
   ko_rr: Raibeura-ui Mabeopcheonching
+  zh-CN: 利布拉魔法秤
 text:
   en: |-
     A sentient scale. It maintains the balance of the universe, but often places the stars on the wrong side.
@@ -28,6 +29,12 @@ text:
     意思を持った天秤。世の中の均衡を保っているが、しばしば間違った方に錘星を乗せてしまう。
   ko: |-
     의사를 가진 천칭. 이 세상의 균형을 맞추고 있지만, 종종 잘못된 쪽에 추의 별을 올려 버린다.
+  zh-CN: |-
+    ←5 【灵摆】 5→
+    这个卡名的灵摆效果1回合只能使用1次。
+    ①：宣言1～6的任意等级，以自己场上2只表侧表示怪兽为对象才能发动。直到回合结束时，作为对象的1只怪兽的等级下降宣言的等级数值，另1只怪兽的等级上升宣言的等级数值。
+    【怪兽描述】
+    拥有意志的天秤。虽然维持着世间的平衡，却常常将锤星放错位置。
 type: Monster
 typeline: Spellcaster / Pendulum / Tuner / Normal
 attribute: WATER
@@ -52,6 +59,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：１～６までの任意のレベルを宣言し、自分フィールドの表側表示モンスター２体を対象として発動できる。ターン終了時まで、対象のモンスター１体のレベルを宣言したレベル分だけ下げ、もう１体のモンスターのレベルを宣言したレベル分だけ上げる。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1~6 까지의 임의의 레벨을 선언하고, 자신 필드의 앞면 표시 몬스터 2장을 대상으로 하여 발동할 수 있다. 턴 종료시까지, 대상 몬스터 1장의 레벨을 선언한 레벨만큼만 내리고, 나머지 1장의 몬스터의 레벨을 선언한 레벨만큼만 올린다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: RIRA-EN037
@@ -88,3 +97,8 @@ sets:
     set_name: Rising Rampage
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: MGP3-SC118
+    set_name: Mega Pack 03
+    rarities:
+    - Common

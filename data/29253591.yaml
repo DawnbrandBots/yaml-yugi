@@ -11,6 +11,7 @@ name:
   ja_romaji: Doraguniti - Kūze
   ko: 드래그니티－쿠제
   ko_rr: Deuraegeuniti - Kuje
+  zh-CN: 龙骑兵团-长柄大刀龙
 text:
   en: |-
     Cannot be used as Synchro Material, except for the Synchro Summon of a "Dragunity" monster. This card on the field can be treated as a Level 4 monster when used for a Synchro Summon. If this card is currently equipped to a monster: You can Special Summon this equipped card.
@@ -28,6 +29,10 @@ text:
     このカードをＳ素材とする場合、「ドラグニティ」モンスターのＳ召喚にしか使用できない。①：フィールドのこのカードをＳ素材とする場合、このカードのレベルを４として扱う事ができる。②：このカードが装備カード扱いとして装備されている場合に発動できる。装備されているこのカードを特殊召喚する。
   ko: |-
     이 카드를 싱크로 소재로 할 경우, "드래그니티" 몬스터의 싱크로 소환으로밖에 사용할 수 없다. ①: 필드의 이 카드를 싱크로 소재로 할 경우, 이 카드의 레벨을 4 로서 취급할 수 있다. ②: 이 카드가 장착 카드로 취급하여 장착되어 있을 경우에 발동할 수 있다. 장착되어 있는 이 카드를 특수 소환한다.
+  zh-CN: |-
+    把这张卡作为同调素材的场合，不是「龙骑兵团」怪兽的同调召唤不能使用。
+    ①：把场上的这张卡作为同调素材的场合，可以把这张卡的等级当作4星使用。
+    ②：这张卡当作装备卡使用而装备中的场合才能发动。装备的这张卡特殊召唤。
 type: Monster
 typeline: Dragon / Tuner / Effect
 attribute: WIND
@@ -98,3 +103,8 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP2-SC068
+    set_name: Mega Pack 02
+    rarities:
+    - Common

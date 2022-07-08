@@ -11,6 +11,7 @@ name:
   ja_romaji: Torappu Ītā
   ko: 트랩 이터
   ko_rr:
+  zh-CN: 陷阱吞噬者
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up Trap your opponent controls to the GY.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。相手フィールド上に表側表示で存在する罠カード１枚を墓地へ送った場合のみ特殊召喚する事ができる。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 상대 필드 위에 앞면 표시로 존재하는 함정 카드 1장을 묘지로 보냈을 경우에만 특수 소환할 수 있다.
+  zh-CN: |-
+    这张卡不能通常召唤。把对方场上表侧表示存在的1张陷阱卡送去墓地的场合才能特殊召唤。
 type: Monster
 typeline: Fiend / Tuner / Effect
 attribute: DARK
@@ -108,5 +111,10 @@ sets:
   ko:
   - set_number: CRMS-KR005
     set_name: Crimson Crisis
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC012
+    set_name: Starter Pack Volume 3
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: An'ensei - Yūshi
   ko: 암염성－유우시
   ko_rr:
+  zh-CN: 暗炎星-熊志
 text:
   en: |-
     Once per turn, when this card inflicts battle damage to your opponent: You can Set 1 "Fire Formation" Spell directly from your Deck. Once per turn: You can send 1 face-up "Fire Formation" Spell/Trap you control to the GY, then target 1 monster on the field; destroy that target.
@@ -28,6 +29,8 @@ text:
     １ターンに１度、このカードが相手ライフに戦闘ダメージを与えた時、デッキから「炎舞」と名のついた魔法カード１枚を選んで自分フィールド上にセットできる。また、１ターンに１度、自分フィールド上に表側表示で存在する「炎舞」と名のついた魔法・罠カード１枚を墓地へ送って発動できる。フィールド上のモンスター１体を選択して破壊する。
   ko: |-
     1턴에 1번, 이 카드가 상대 라이프에 전투 데미지를 주었을 때, 덱에서 "염무"라는 이름이 붙은 마법 카드 1장을 고르고 자신 필드 위에 세트할 수 있다. 또한, 1턴에 1번, 자신 필드 위에 앞면 표시로 존재하는 "염무"라는 이름이 붙은 마법 / 함정 카드 1장을 묘지로 보내고 발동할 수 있다. 필드 위의 몬스터 1장을 선택하고 파괴한다.
+  zh-CN: |-
+    1回合1次，这张卡给与对方基本分战斗伤害时，可以从卡组选1张名字带有「炎舞」的魔法卡在自己场上盖放。此外，1回合1次，把自己场上表侧表示存在的1张名字带有「炎舞」的魔法·陷阱卡送去墓地才能发动。选择场上1只怪兽破坏。
 type: Monster
 typeline: Beast-Warrior / Effect
 attribute: FIRE
@@ -113,5 +116,15 @@ sets:
   ko:
   - set_number: CBLZ-KR024
     set_name: Cosmo Blazer
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: CBLZ-TC024
+    set_name: Cosmo Blazer
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC055
+    set_name: Entry Pack Volume 4
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Appudēto Jamā
   ko: 업데이트재머
   ko_rr: Eopdeiteujaemeo
+  zh-CN: 更新干扰员
 text:
   en: |-
     2 Level 2 or higher Cyberse monsters
@@ -36,6 +37,10 @@ text:
   ko: |-
     레벨 2 이상의 사이버스족 몬스터 2장
     ①: 자신의 사이버스족 몬스터가 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 데미지 스텝 종료시까지, 이 카드 이외의 필드의 카드의 효과는 무효화되고, 그 전투의 데미지 계산은 원래의 공격력 / 수비력으로 실행한다. 그 전투로 상대 몬스터가 파괴되어 묘지로 보내졌을 때, 상대에게 1000 데미지를 준다. ②: 이 카드가 링크 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 링크 소재로 한 링크 몬스터는 이 턴에, 1번의 배틀 페이즈 중에 2회 공격할 수 있다.
+  zh-CN: |-
+    2星以上的电子界族怪兽2只
+    ①：自己的电子界族怪兽进行战斗的伤害计算时才能发动1次。直到伤害步骤结束时，这张卡以外的场上的卡的效果无效化，那次战斗的伤害计算用原本的攻击力·守备力进行。那次战斗让对方怪兽被破坏送去墓地时，给与对方1000伤害。
+    ②：这张卡作为连接素材送去墓地的场合才能发动。这张卡为连接素材的连接怪兽在这个回合在同1次的战斗阶段中可以作2次攻击。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: WIND
@@ -98,5 +103,10 @@ sets:
   ko:
   - set_number: SAST-KR045
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC028
+    set_name: Mega Pack 03
     rarities:
     - Common

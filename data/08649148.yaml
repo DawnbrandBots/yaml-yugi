@@ -11,6 +11,7 @@ name:
   ja_romaji: Dīpu Swīpā
   ko: 디프 스위퍼
   ko_rr:
+  zh-CN: 深海清道鲎
 text:
   en: |-
     You can Tribute this card, then target 1 Spell/Trap Card on the field; destroy that target.
@@ -28,6 +29,8 @@ text:
     このカードをリリースして発動できる。フィールド上の魔法・罠カード１枚を選択して破壊する。
   ko: |-
     이 카드를 릴리스하고 발동할 수 있다. 필드 위의 마법 / 함정 카드 1장을 선택하고 파괴한다.
+  zh-CN: |-
+    把这张卡解放才能发动。选择场上1张魔法·陷阱卡破坏。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -88,5 +91,10 @@ sets:
     - Common
   - set_number: DP15-KR009
     set_name: 'Duelist Pack: Kastle Siblings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC007
+    set_name: Abyss Rising
     rarities:
     - Common

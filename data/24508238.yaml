@@ -11,6 +11,7 @@ name:
   ja_romaji: Dī Dī Kurō
   ko: D.D. 크로우
   ko_rr: Di Di Keurou
+  zh-CN: D.D.乌鸦
 text:
   en: |-
     (Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.
@@ -28,6 +29,8 @@ text:
     ①：このカードを手札から墓地へ捨て、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。この効果は相手ターンでも発動できる。
   ko: |-
     ①: 이 카드를 패에서 묘지로 버리고, 상대 묘지의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    ①：把这张卡从手卡丢弃去墓地，以对方墓地1张卡为对象才能发动。那张卡除外。这个效果在对方回合也能发动。
 type: Monster
 typeline: Winged Beast / Effect
 attribute: DARK
@@ -274,6 +277,10 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  - set_number: 22TP-JP301
+    set_name: Tournament Pack 2022 Vol.3
+    rarities:
+    - Super Rare
   ko:
   - set_number: STON-KR024
     set_name: Strike of Neos
@@ -304,3 +311,13 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  zh-TW:
+  - set_number: SP03-TC026
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: ST21-SCP01
+    set_name: Starter Deck 2021 Special Pack
+    rarities:
+    - Secret Rare

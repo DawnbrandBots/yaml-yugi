@@ -11,6 +11,7 @@ name:
   ja_romaji: Orufegōru Toroimea
   ko: 오르페골 트로이메어
   ko_rr: Oreupegol Teuroime-eo
+  zh-CN: 自奏圣乐·梦幻崩影
 text:
   en: |-
     Cannot be destroyed by battle with a Link Monster. You can banish this card from your GY, then target 1 face-up monster on the field; you cannot Special Summon monsters, except DARK monsters, for the rest of this turn, also send 1 DARK Machine monster from your Deck to the GY, except "Orcust Knightmare", and if you do, the targeted monster gains ATK equal to the Level of the monster sent to the GY x 100, until the end of this turn. You can only use this effect of "Orcust Knightmare" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターとの戦闘では破壊されない。②：墓地のこのカードを除外し、フィールドの表側表示モンスター１体を対象として発動できる。デッキから「オルフェゴール・トロイメア」以外の機械族・闇属性モンスター１体を墓地へ送る。対象のモンスターの攻撃力はターン終了時まで、墓地へ送ったモンスターのレベル×１００アップする。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 링크 몬스터와의 전투로는 파괴되지 않는다. ②: 묘지의 이 카드를 제외하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 덱에서 "오르페골 트로이메어" 이외의 기계족 / 어둠 속성 몬스터 1장을 묘지로 보낸다. 대상 몬스터의 공격력은 턴 종료시까지, 묘지로 보낸 몬스터의 레벨 × 100 올린다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：这张卡不会被和连接怪兽的战斗破坏。
+    ②：把墓地的这张卡除外，以场上1只表侧表示怪兽为对象才能发动。从卡组把「自奏圣乐·梦幻崩影」以外的1只机械族·暗属性怪兽送去墓地。作为对象的怪兽的攻击力直到回合结束时上升送去墓地的怪兽的等级×100。这个效果的发动后，直到回合结束时自己不是暗属性怪兽不能特殊召唤。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -90,3 +95,8 @@ sets:
     set_name: Savage Strike
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP3-SC015
+    set_name: Mega Pack 03
+    rarities:
+    - Super Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Numachi no Dorogon
   ko: 늪지의 도로곤
   ko_rr: Neupji-ui Dorogon
+  zh-CN: 沼地的泥龙王
 text:
   en: |-
     2 monsters with the same Attribute but different Types
@@ -36,6 +37,10 @@ text:
   ko: |-
     같은 속성으로 종족이 다른 몬스터 × 2
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 이 카드 및 이 카드와 같은 속성을 가지는 필드의 몬스터를 효과의 대상으로 할 수 없다. ②: 1턴에 1번, 속성을 1개 선언하고 발동할 수 있다. 이 카드는 턴 종료시까지 선언한 속성이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    相同属性而种族不同的怪兽×2
+    ①：只要这张卡在怪兽区域存在，对方不能把这张卡以及持有和这张卡相同属性的场上的怪兽作为效果的对象。
+    ②：1回合1次，宣言1个属性才能发动。这张卡直到回合结束时变成宣言的属性。这个效果在对方回合也能发动。
 type: Monster
 typeline: Wyrm / Fusion / Effect
 attribute: WATER
@@ -105,5 +110,10 @@ sets:
   ko:
   - set_number: AE13-KR022
     set_name: Advanced Event Pack 2019 Vol.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC092
+    set_name: Entry Pack Volume 6
     rarities:
     - Common

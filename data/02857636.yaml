@@ -11,6 +11,7 @@ name:
   ja_romaji: Toroimea Fenikkusu
   ko: 트로이메어 피닉스
   ko_rr: Teuroime-eo Pinikseu
+  zh-CN: 梦幻崩影·凤凰
 text:
   en: |-
     2 monsters with different names
@@ -36,6 +37,11 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고, 상대 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과의 발동시에 이 카드가 상호 링크 상태였을 경우, 추가로 자신은 덱에서 1장 드로우할 수 있다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 상호 링크 상태의 몬스터는 전투로는 파괴되지 않는다.
+  zh-CN: |-
+    卡名不同的怪兽2只
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡连接召唤成功的场合，丢弃1张手卡，以对方场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。这个效果的发动时这张卡是互相连接状态的场合，再让自己可以从卡组抽1张。
+    ②：只要这张卡在怪兽区域存在，自己场上的互相连接状态的怪兽不会被战斗破坏。
 type: Monster
 typeline: Fiend / Link / Effect
 attribute: FIRE
@@ -141,3 +147,8 @@ sets:
     set_name: Secret Shiny Box
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP2-SC028
+    set_name: Mega Pack 02
+    rarities:
+    - Super Rare

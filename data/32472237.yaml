@@ -11,6 +11,7 @@ name:
   ja_romaji: Metaruvaretto Doragon
   ko: 메탈바렛 드래곤
   ko_rr: Metalbaret Deuraegon
+  zh-CN: 金属被甲弹丸龙
 text:
   en: |-
     When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy all your opponent's cards in the column this card was in. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 "Rokket" monster from your Deck, except "Metalrokket Dragon". You can only use each effect of "Metalrokket Dragon" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのこのカードを対象とするリンクモンスターの効果が発動した時に発動できる。このカードを破壊する。その後、このカードが存在していたゾーンと同じ縦列の相手のカードを全て破壊する。②：フィールドのこのカードが戦闘・効果で破壊され墓地へ送られたターンのエンドフェイズに発動できる。デッキから「メタルヴァレット・ドラゴン」以外の「ヴァレット」モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드를 대상으로 하는 링크 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드를 파괴한다. 그 후, 이 카드가 존재하고 있던 존과 같은 세로열인 상대의 카드를 전부 파괴한다. ②: 필드의 이 카드가 전투 / 효과로 파괴되어 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 "메탈바렛 드래곤" 이외의 "바렛" 몬스터 1장을 특수 소환한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。①：场上的这张卡为对象的连接怪兽的效果发动时才能发动。这张卡破坏。那之后，和这张卡存在过的区域相同纵列的对方的卡全部破坏。②：场上的这张卡被战斗·效果破坏送去墓地的回合的结束阶段才能发动。从卡组把「メタルヴァレット・ドラゴン」以外的1只「ヴァレット」怪兽特殊召唤。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -116,5 +119,10 @@ sets:
     - Common
   - set_number: SD36-KR011
     set_name: 'Structure Deck: Revolver'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC109
+    set_name: Mega Pack 01
     rarities:
     - Common

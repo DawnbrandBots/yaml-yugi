@@ -11,6 +11,7 @@ name:
   ja_romaji: Magōshin Revyuatan
   ko: 마굉신 레뷰어탄
   ko_rr:
+  zh-CN: 魔轰神 利威坦
 text:
   en: |-
     1 "Fabled" Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "마굉신"이라는 이름이 붙은 튜너 + 튜너 이외의 몬스터 1장 이상
     필드 위에 존재하는 이 카드가 파괴되어 묘지로 보내졌을 때, 자신의 묘지에 존재하는 "마굉신"이라는 이름이 붙은 몬스터를 3장까지 선택하고 발동할 수 있다. 선택한 몬스터를 패에 넣는다.
+  zh-CN: |-
+    名字带有「魔轰神」的调整＋调整以外的怪兽1只以上
+    场上的这张卡被破坏送去墓地时，选择自己墓地最多3只名字带有「魔轰神」的怪兽才能发动。选择的怪兽加入手卡。
 type: Monster
 typeline: Fiend / Synchro / Effect
 attribute: LIGHT
@@ -104,5 +108,10 @@ sets:
   ko:
   - set_number: HA03-KR026
     set_name: Hidden Arsenal 3
+    rarities:
+    - Secret Rare
+  zh-CN:
+  - set_number: CL01-SC098
+    set_name: Classic Pack 01
     rarities:
     - Secret Rare

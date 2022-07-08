@@ -11,6 +11,7 @@ name:
   ja_romaji: Makyōdōshi Rifurekuto Baundā
   ko: 마경도사 리플렉트 바운더
   ko_rr:
+  zh-CN: 魔镜导士 限界反射者
 text:
   en: |-
     Before damage calculation, if this card is being attacked by an opponent's monster, and was in face-up Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.
@@ -28,6 +29,8 @@ text:
     フィールド上に表側攻撃表示で存在するこのカードが相手モンスターに攻撃された場合、そのダメージ計算前に攻撃モンスターの攻撃力分のダメージを相手ライフに与え、そのダメージ計算後にこのカードを破壊する。
   ko: |-
     공격 표시의 이 카드가 상대 몬스터에게 공격 받은경우, 상대 공격 몬스터의 공격력 만큼의 데미지를 상대라이프에 주어, 데미지 계산 후에 이 카드를 파괴한다.
+  zh-CN: |-
+    场上表侧攻击表示存在的这张卡被对方怪兽攻击的场合，那次伤害计算前给与对方基本分攻击怪兽的攻击力数值的伤害，那次伤害计算后这张卡破坏。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -172,6 +175,16 @@ sets:
     - Gold Rare
     - Gold Secret Rare
   - set_number: SD26-KR016
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC013
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD26-SC016
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common

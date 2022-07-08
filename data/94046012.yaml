@@ -11,6 +11,7 @@ name:
   ja_romaji: Orufegōru Kanōne
   ko: 오르페골 카노네
   ko_rr: Oreupegol Kanone
+  zh-CN: 自奏圣乐·卡农曲大炮
 text:
   en: |-
     You can banish this card from your GY; Special Summon 1 "Orcust" monster from your hand, except "Orcust Brass Bombard", also you cannot Special Summon monsters for the rest of this turn, except DARK monsters. You can only use this effect of "Orcust Brass Bombard" once per turn.
@@ -28,6 +29,9 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：墓地のこのカードを除外して発動できる。手札から「オルフェゴール・カノーネ」以外の「オルフェゴール」モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 묘지의 이 카드를 제외하고 발동할 수 있다. 패에서 "오르페골 카노네" 이외의 "오르페골" 몬스터 1장을 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：把墓地的这张卡除外才能发动。从手卡把「自奏圣乐·卡农曲大炮」以外的1只「自奏圣乐」怪兽特殊召唤。这个效果的发动后，直到回合结束时自己不是暗属性怪兽不能特殊召唤。
 type: Monster
 typeline: Machine / Tuner / Effect
 attribute: DARK
@@ -68,5 +72,10 @@ sets:
   ko:
   - set_number: SOFU-KR014
     set_name: Soul Fusion
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC113
+    set_name: Mega Pack 02
     rarities:
     - Common

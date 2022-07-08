@@ -11,6 +11,7 @@ name:
   ja_romaji: Yōgan Majin Rava Gōremu
   ko: 용암 마신 라바 골렘
   ko_rr: Yong-am Masin Raba Gollem
+  zh-CN: 熔岩魔神
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. Once per turn, during your Standby Phase: Take 1000 damage.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。相手フィールドのモンスター２体をリリースした場合に相手フィールドに特殊召喚できる。このカードを特殊召喚するターン、自分は通常召喚できない。①：自分スタンバイフェイズに発動する。自分は１０００ダメージを受ける。
   ko: |-
     이 카드는 통상 소환할 수 없다. 상대 필드의 몬스터 2장을 릴리스했을 경우에 상대 필드에 특수 소환할 수 있다. 이 카드를 특수 소환하는 턴에, 자신은 통상 소환할 수 없다. ①: 자신 스탠바이 페이즈에 발동한다. 자신은 1000 데미지를 받는다.
+  zh-CN: |-
+    这张卡不能通常召唤。把对方场上2只怪兽解放的场合可以在对方场上特殊召唤。这张卡特殊召唤的回合，自己不能通常召唤。①：自己准备阶段发动。自己受到1000伤害。
 type: Monster
 typeline: Fiend / Effect
 attribute: FIRE
@@ -275,6 +278,16 @@ sets:
     rarities:
     - Super Rare
   - set_number: SD37-KR013
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC005
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: SD37-SC013
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common

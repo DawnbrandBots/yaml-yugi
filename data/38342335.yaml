@@ -11,6 +11,7 @@ name:
   ja_romaji: Toroimea Yunikōn
   ko: 트로이메어 유니콘
   ko_rr:
+  zh-CN: 梦幻崩影·独角兽
 text:
   en: |-
     2+ monsters with different names
@@ -36,6 +37,11 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 주인의 덱으로 되돌린다. 이 효과의 발동시에 이 카드가 상호 링크 상태였을 경우, 추가로 자신은 덱에서 1장 드로우할 수 있다. ②: 자신 드로우 페이즈의 일반 드로우의 매수는, 필드에 상호 링크 상태의 "트로이메어" 몬스터가 존재하는 한, 그 "트로이메어" 몬스터의 종류의 수가 된다.
+  zh-CN: |-
+    卡名不同的怪兽2只以上
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡连接召唤成功的场合，丢弃1张手卡，以场上1张卡为对象才能发动。那张卡回到持有者卡组。这个效果的发动时这张卡是互相连接状态的场合，再让自己可以从卡组抽1张。
+    ②：自己抽卡阶段的通常抽卡数量只要场上有互相连接状态的「幻崩」怪兽存在变成那些「幻崩」怪兽种类的数量。
 type: Monster
 typeline: Fiend / Link / Effect
 attribute: DARK
@@ -146,4 +152,10 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Super Rare
+    - Secret Rare
+  zh-CN:
+  - set_number: MGP2-SC029
+    set_name: Mega Pack 02
+    rarities:
+    - Ultra Rare
     - Secret Rare

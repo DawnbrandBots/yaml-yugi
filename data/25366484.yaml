@@ -11,6 +11,7 @@ name:
   ja_romaji: Erementaru Hīrō Shainingu Furea Winguman
   ko: 엘리멘틀 히어로 샤이닝 플레어 윙맨
   ko_rr: Ellimenteol Hieoro Syaining Peullae-eo Wingman
+  zh-CN: 元素英雄 闪光火焰翼侠
 text:
   en: |-
     "Elemental HERO Flame Wingman" + "Elemental HERO Sparkman"
@@ -36,6 +37,9 @@ text:
   ko: |-
     "엘리멘틀 히어로 프레임 윙맨" ＋ "엘리멘틀 히어로 스파크맨"
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드의 공격력은, 자신 묘지의 "엘리멘틀 히어로" 카드의 수 × 300 올린다. ②: 이 카드가 전투로 몬스터를 파괴하고 묘지로 보냈을 경우에 발동한다. 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다.
+  zh-CN: |-
+    「元素英雄 火焰翼侠」＋「元素英雄 电光侠」
+    这张卡不用融合召唤不能特殊召唤。①：这张卡的攻击力上升自己墓地的「元素英雄」卡数量×300。②：这张卡战斗破坏怪兽送去墓地的场合发动。给与对方那只怪兽的原本攻击力数值的伤害。
 type: Monster
 typeline: Warrior / Fusion / Effect
 attribute: LIGHT
@@ -183,3 +187,8 @@ sets:
     set_name: Chronicle Binder
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: SD27-SCP04
+    set_name: "Structure Deck: HERO's Strike Deck Enhancement Pack"
+    rarities:
+    - Secret Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Saichōsen
   ko: 새도전
   ko_rr: Saedojeon
+  zh-CN: 从骰挑战
 text:
   en: |-
     Roll a six-sided die, and if you roll a 1 or 6, add 1 card from your Deck to your hand that requires a die roll. If you roll a number other than 1 or 6, roll it again, and apply the appropriate effect.
@@ -50,5 +51,10 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 주사위를 1회 던지고, 1 / 6 이 나왔을 경우, 주사위를 던지는 효과를 가지는 카드 1장을 덱에서 패에 넣는다. 1 / 6 이외가 나왔을 경우, 주사위를 1회 더 던지고, 나온 눈에 따라 이하의 효과를 적용한다.
     ●1 / 6: 필드의 이 카드를 주인의 패로 되돌린다.
     ●2～5: 필드의 이 카드를 주인의 덱 맨 위로 되돌린다.
+  zh-CN: |-
+    这个卡名的卡在1回合只能发动1张。
+    ①：掷1次骰子，1·6出现的场合，把持有掷骰子效果的1张卡从卡组加入手卡。1·6以外出现的场合，再掷1次骰子，出现数目的以下效果适用。
+    ●1·6：场上的这张卡回到持有者手卡。
+    ●2～5：场上的这张卡回到持有者卡组最上面。
 type: Spell
 property: Quick-Play

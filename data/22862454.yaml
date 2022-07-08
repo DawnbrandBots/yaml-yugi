@@ -11,6 +11,7 @@ name:
   ja_romaji: Purokishī Doragon
   ko: 프록시 드래곤
   ko_rr:
+  zh-CN: 代理龙
 text:
   en: |-
     2 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     몬스터 2장
     ① : 자신 필드의 카드가 전투 / 효과로 파괴될 경우, 대신에 이 카드의 링크 앞의 자신 몬스터 1장을 파괴할 수 있다.
+  zh-CN: |-
+    怪兽2只
+    ①：自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡所连接区1只自己怪兽破坏。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: LIGHT
@@ -83,3 +87,8 @@ sets:
     set_name: 'Structure Deck: Cyberse Link Special Set'
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: MGP1-SC162
+    set_name: Mega Pack 01
+    rarities:
+    - Rare

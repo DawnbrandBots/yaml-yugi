@@ -11,6 +11,7 @@ name:
   ja_romaji: Raidenryū - Sandā Doragon
   ko: 뇌전룡－썬더 드래곤
   ko_rr: Noejeonnyong - Sseondeo Deuraegon
+  zh-CN: 雷电龙-雷龙
 text:
   en: |-
     (Quick Effect): You can discard this card; add 1 "Thunder Dragondark" from your Deck to your hand. If this card is banished, or sent from the field to the GY: You can add 1 "Thunder Dragon" card from your Deck to your hand, except "Thunder Dragondark". You can only use 1 "Thunder Dragondark" effect per turn, and only once that turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードを手札から捨てて発動できる。デッキから「雷電龍－サンダー・ドラゴン」１体を手札に加える。この効果は相手ターンでも発動できる。②：このカードが除外された場合またはフィールドから墓地へ送られた場合に発動できる。デッキから「雷電龍－サンダー・ドラゴン」以外の「サンダー・ドラゴン」カード１枚を手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드를 패에서 버리고 발동할 수 있다. 덱에서 "뇌전룡－썬더 드래곤" 1장을 패에 넣는다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 제외되었을 경우 또는 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "뇌전룡－썬더 드래곤" 이외의 "썬더 드래곤" 카드 1장을 패에 넣는다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+    ①：把这张卡从手卡丢弃才能发动。从卡组把1只「雷电龙-雷龙」加入手卡。这个效果在对方回合也能发动。
+    ②：这张卡被除外的场合或者从场上送去墓地的场合才能发动。从卡组把「雷电龙-雷龙」以外的1张「雷龙」卡加入手卡。
 type: Monster
 typeline: Thunder / Effect
 attribute: DARK
@@ -90,3 +95,8 @@ sets:
     set_name: Soul Fusion
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP2-SC118
+    set_name: Mega Pack 02
+    rarities:
+    - Super Rare

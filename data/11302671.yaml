@@ -11,6 +11,7 @@ name:
   ja_romaji: Adamashia Anaraizā
   ko: 아다마시아 애널라이저
   ko_rr: Adamasia Aeneollaijeo
+  zh-CN: 魔救之分析者
 text:
   en: |-
     If only your opponent controls a monster: You can Special Summon this card from your hand. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower non-Tuner Rock monster, also place the rest on the bottom of your Deck in any order. You can only use each effect of "Adamancipator Analyzer" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドにのみモンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。自分のデッキの上からカードを５枚めくる。その中からチューナー以外のレベル４以下の岩石族モンスター１体を選んで特殊召喚できる。残りのカードは好きな順番でデッキの一番下に戻す。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드에만 몬스터가 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 자신 메인 페이즈에 발동할 수 있다. 자신의 덱 위에서 카드를 5장 넘긴다. 그 중에서 튜너 이외의 레벨 4 이하의 암석족 몬스터 1장을 고르고 특수 소환할 수 있다. 남은 카드는 좋아하는 순서대로 덱 맨 아래로 되돌린다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：只有对方场上才有怪兽存在的场合才能发动。这张卡从手卡特殊召唤。
+    ②：自己主要阶段才能发动。从自己卡组上面把5张卡翻开。可以从那之中选1只调整以外的4星以下的岩石族怪兽特殊召唤。剩下的卡用喜欢的顺序回到卡组最下面。
 type: Monster
 typeline: Rock / Tuner / Effect
 attribute: EARTH
@@ -88,6 +93,12 @@ sets:
     - Normal Parallel Rare
   ko:
   - set_number: DBSS-KR003
+    set_name: 'Deck Build Pack: Secret Slayers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: DBSS-SC003
     set_name: 'Deck Build Pack: Secret Slayers'
     rarities:
     - Common

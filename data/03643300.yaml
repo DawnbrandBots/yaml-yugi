@@ -11,6 +11,7 @@ name:
   ja_romaji: Densetsu no Fisshāman
   ko: 전설의 어부
   ko_rr: Jeonseol-ui Eobu
+  zh-CN: 传说的渔人
 text:
   en: |-
     While "Umi" is on the field, this card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.
@@ -28,6 +29,8 @@ text:
     ①：フィールドに「海」が存在する限り、フィールドのこのカードは魔法カードの効果を受けない。②：フィールドに「海」が存在する限り、このカードは攻撃対象にされない（この効果が適用されたモンスターしか自分フィールドに存在しない状態での相手の攻撃は自分への直接攻撃になる）。
   ko: |-
     ①: 필드에 "바다"가 존재하는 한, 필드의 이 카드는 마법 카드의 효과를 받지 않는다. ②: 필드에 "바다"가 존재하는 한, 이 카드는 공격 대상이 되지 않는다(이 효과가 적용된 몬스터밖에 자신 필드에 존재하지 않은 상태에서의 상대의 공격은 자신에게로의 직접 공격이 된다).
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，场上有「海」存在，这张卡不受魔法卡的效果影响。②：只要这张卡在怪兽区域存在，场上有「海」存在，这张卡不会成为攻击对象。（自己场上只有这个效果适用的怪兽存在的状态中的对方的攻击变成对自己的直接攻击。）
 type: Monster
 typeline: Warrior / Effect
 attribute: WATER
@@ -293,5 +296,10 @@ sets:
     - Common
   - set_number: DP26-KR023
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: PR01-TC008
+    set_name: Special Promotional Pack 2015 Volume 1
     rarities:
     - Common

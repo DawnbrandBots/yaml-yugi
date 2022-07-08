@@ -11,6 +11,7 @@ name:
   ja_romaji: Burakku Majishan
   ko: 블랙 매지션
   ko_rr: Beullaek Maejisyeon
+  zh-CN: 黑魔术师
 text:
   en: |-
     The ultimate wizard in terms of attack and defense.
@@ -28,6 +29,8 @@ text:
     <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いとしては、<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>・<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>ともに<ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>高</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>クラス。
   ko: |-
     마법사 중에서 공격력 / 수비력이 동시에 가장 높은 계급.
+  zh-CN: |-
+    作为魔法师，攻击力·守备力都是最高级别。
 type: Monster
 typeline: Spellcaster / Normal
 attribute: DARK
@@ -990,3 +993,17 @@ sets:
     set_name: '"Dark Magician Ultra Rare Special Illustration Version" GET Campaign'
     rarities:
     - Ultra Rare
+  zh-TW:
+  - set_number: ''
+    set_name: Chinese Weekly Shōnen Jump lottery prize cards
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: TRC1-SC001
+    set_name: The Rarity Collection
+    rarities:
+    - Extra Secret Rare
+  - set_number: CL01-SC001
+    set_name: Classic Pack 01
+    rarities:
+    - Secret Rare

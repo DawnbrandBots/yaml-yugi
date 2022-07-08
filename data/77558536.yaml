@@ -11,6 +11,7 @@ name:
   ja_romaji: Raitorōdo Asashin Raiden
   ko: 라이트로드 어쌔신 라이덴
   ko_rr: Raiteurodeu Eossaesin Raiden
+  zh-CN: 光道暗杀者 莱登
 text:
   en: |-
     During your Main Phase: You can send the top 2 cards of your Deck to the GY, then if any "Lightsworn" monsters were sent to the GY by this effect, this card gains 200 ATK until the end of your opponent's turn. You can only use this effect of "Raiden, Hand of the Lightsworn" once per turn. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the GY.
@@ -28,6 +29,8 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分のデッキの上からカードを２枚墓地へ送る。この効果で墓地へ送ったカードの中に「ライトロード」モンスターがあった場合、さらにこのカードの攻撃力は相手ターン終了時まで２００アップする。②：自分エンドフェイズに発動する。自分のデッキの上からカードを２枚墓地へ送る。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신의 덱 위에서 카드를 2장 묘지로 보낸다. 이 효과로 묘지로 보낸 카드 중에 "라이트로드" 몬스터가 있을 경우, 추가로 이 카드의 공격력은 상대 턴 종료시까지 200 올린다. ②: 자신 엔드 페이즈에 발동한다. 자신의 덱 위에서 카드를 2장 묘지로 보낸다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。①：自己主要阶段才能发动。从自己卡组上面把2张卡送去墓地。这个效果送去墓地的卡之中有「光道」怪兽的场合，再让这张卡的攻击力直到对方回合结束时上升200。②：自己结束阶段发动。从自己卡组上面把2张卡送去墓地。
 type: Monster
 typeline: Warrior / Tuner / Effect
 attribute: LIGHT
@@ -146,3 +149,8 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  zh-CN:
+  - set_number: ST20-SCP07
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Super Rare

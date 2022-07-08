@@ -12,6 +12,7 @@ name:
   ja_romaji: Masō Senshi Arunisu
   ko: 마장전사 아르니스
   ko_rr:
+  zh-CN: 魔装战士 火鸟
 text:
   en: |-
     When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster with 1500 or less ATK from your Deck in Attack Position.
@@ -29,6 +30,8 @@ text:
     ①：このカードが相手モンスターの攻撃で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の魔法使い族モンスター１体を攻撃表示で特殊召喚する。
   ko: |-
     ① : 이 카드가 상대 몬스터의 공격으로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 덱에서 공격력 1500 이하의 마법사족 몬스터 1장을 공격 표시로 특수 소환한다.
+  zh-CN: |-
+    ①：这张卡被对方怪兽的攻击破坏送去墓地时才能发动。从卡组把1只攻击力1500以下的魔法师族怪兽攻击表示特殊召唤。
 type: Monster
 typeline: Warrior / Effect
 attribute: FIRE
@@ -69,5 +72,10 @@ sets:
   ko:
   - set_number: ST14-KR013
     set_name: Starter Deck 2014
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SC016
+    set_name: Starter Deck 2021
     rarities:
     - Common

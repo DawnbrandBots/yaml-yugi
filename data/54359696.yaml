@@ -12,6 +12,7 @@ name:
   ja_romaji: Madōjutsushi Rapande
   ko: 마도술사 라판데
   ko_rr:
+  zh-CN: 魔导术士 拉潘迪
 text:
   en: |-
     When this card is sent to the Graveyard: Add 1 Level 3 "Prophecy" monster from your Deck to your hand.
@@ -29,6 +30,8 @@ text:
     このカードが墓地へ送られた時、デッキからレベル３の「魔導」と名のついたモンスター１体を手札に加える。
   ko: |-
     이 카드가 묘지로 보내졌을 때, 덱에서 레벨 3의 "마도"라는 이름이 붙은 몬스터 1장을 패에 넣는다.
+  zh-CN: |-
+    这张卡被送去墓地时，从卡组把1只3星的名字带有「魔导」的怪兽加入手卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: WATER
@@ -63,6 +66,11 @@ sets:
     - Common
   ko:
   - set_number: ABYR-KR021
+    set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC021
     set_name: Abyss Rising
     rarities:
     - Common

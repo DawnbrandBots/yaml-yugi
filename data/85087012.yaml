@@ -11,6 +11,7 @@ name:
   ja_romaji: Kādo Gannā
   ko: 카드 트루퍼
   ko_rr:
+  zh-CN: 卡片炮击士
 text:
   en: |-
     Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; this card gains 500 ATK for each card sent to the GY this way, until the end of this turn. If this card you control is destroyed and sent to your GY: Draw 1 card.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、自分のデッキの上からカードを３枚まで墓地へ送って発動できる。このカードの攻撃力はターン終了時まで、この効果を発動するために墓地へ送ったカードの数×５００アップする。②：自分フィールドのこのカードが破壊され墓地へ送られた場合に発動する。自分はデッキから１枚ドローする。
   ko: |-
     ①: 1턴에 1번, 자신의 덱 위에서 카드를 3장까지 묘지로 보내고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 이 효과를 발동하기 위해 묘지로 보낸 카드의 수 × 500 올린다. ②: 자신 필드의 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동한다. 자신은 덱에서 1장 드로우한다.
+  zh-CN: |-
+    ①：1回合1次，从自己卡组上面把最多3张卡送去墓地才能发动。这张卡的攻击力直到回合结束时上升为这个效果发动而送去墓地的卡数量×500。②：自己场上的这张卡被破坏送去墓地的场合发动。自己从卡组抽1张。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -406,5 +409,10 @@ sets:
     - Common
   - set_number: SD32-KR013
     set_name: 'Structure Deck: Cyberse Link'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC009
+    set_name: Starter Deck 2020
     rarities:
     - Common

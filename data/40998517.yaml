@@ -12,6 +12,7 @@ name:
   ja_romaji: Tsurugi no Jenereido Furōdi
   ko: 검의 제너레이드 프로디
   ko_rr: Geom-ui Jenereideu Peurodi
+  zh-CN: 剑界王战 弗罗德王
 text:
   en: |-
     You can only control 1 "Frodi, Generaider Boss of Swords". (Quick Effect): You can Tribute any number of "Generaider" monsters and/or Warrior monsters, then target that many monsters on the field; destroy them, then your opponent can draw cards equal to the number of monsters destroyed on their field. You can only use this effect of "Frodi, Generaider Boss of Swords" once per turn.
@@ -29,6 +30,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：「剣の王 フローディ」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドの、「ジェネレイド」モンスターまたは戦士族モンスターを任意の数だけリリースし、その数だけフィールドのモンスターを対象として発動できる。そのモンスターを破壊する。その後、破壊された相手フィールドのモンスターの数だけ相手はデッキからドローできる。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "검의 제너레이드 프로디"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 필드의, "제너레이드" 몬스터 또는 전사족 몬스터를 임의의 수만큼 릴리스하고, 그 수만큼 필드의 몬스터를 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다. 그 후, 파괴된 상대 필드의 몬스터의 수만큼 상대는 덱에서 드로우할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：「剑界王战 弗罗德王」在自己场上只能有1只表侧表示存在。
+    ②：把自己场上的「王战」怪兽或者战士族怪兽任意数量解放，以那个数量的场上的怪兽为对象才能发动。那些怪兽破坏。那之后，对方可以从卡组抽出破坏的对方场上的怪兽的数量。这个效果在对方回合也能发动。
 type: Monster
 typeline: Warrior / Effect
 attribute: WIND
@@ -68,6 +73,11 @@ sets:
     - Super Rare
   ko:
   - set_number: DBMF-KR028
+    set_name: 'Deck Build Pack: Mystic Fighters'
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: DBMF-SC028
     set_name: 'Deck Build Pack: Mystic Fighters'
     rarities:
     - Super Rare

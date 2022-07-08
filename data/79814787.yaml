@@ -11,6 +11,7 @@ name:
   ja_romaji: Howaito obu Rejendo
   ko: 전설의 백석
   ko_rr: Jeonseol-ui Baekseok
+  zh-CN: 传说的白石
 text:
   en: |-
     If this card is sent to the GY: Add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードが墓地へ送られた場合に発動する。デッキから「青眼の白龍」１体を手札に加える。
   ko: |-
     ①: 이 카드가 묘지로 보내졌을 경우에 발동한다. 덱에서 "푸른 눈의 백룡" 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：这张卡被送去墓地的场合发动。从卡组把1只「青眼白龙」加入手卡。
 type: Monster
 typeline: Dragon / Tuner / Effect
 attribute: LIGHT
@@ -247,6 +250,24 @@ sets:
     rarities:
     - Super Rare
   - set_number: DP20-KR007
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC012
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC012
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SCTP-SC006
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Rare
+  - set_number: DP20-SC007
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common

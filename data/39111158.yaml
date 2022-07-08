@@ -11,6 +11,7 @@ name:
   ja_romaji: Toraihōn Doragon
   ko: 트라이혼 드래곤
   ko_rr:
+  zh-CN: 三角魔龙
 text:
   en: |-
     An unworthy dragon with three sharp horns sprouting from its head.
@@ -28,6 +29,8 @@ text:
     頭に生えている３本のツノが特徴的な悪魔竜。
   ko: |-
     머리에 나있는 3개의 뿔이 특징인 악마용.
+  zh-CN: |-
+    以头上生长的3只角为特征的恶魔龙。
 type: Monster
 typeline: Dragon
 attribute: DARK
@@ -102,5 +105,10 @@ sets:
     - Secret Rare
   - set_number: TP12-KR007
     set_name: Tournament Pack 2012 Vol.12
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: PR01-TC001
+    set_name: Special Promotional Pack 2015 Volume 1
     rarities:
     - Common

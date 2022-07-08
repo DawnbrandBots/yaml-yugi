@@ -11,6 +11,7 @@ name:
   ja_romaji: Taikaijūyō Kessenheiki Meka Sandā Kingu
   ko: 대파괴수용결전병기 메카썬더 킹
   ko_rr: Daepagoesuyonggyeolcheonbyeonggi Mekasseondeo King
+  zh-CN: 对坏兽用决战兵器 超级机械雷鸣龙王
 text:
   en: |-
     During the Main Phase (Quick Effect): You can discard this card; banish 1 "Kaiju" monster you control that is owned by your opponent, then, you can Special Summon 1 monster from your GY. You can only control 1 "Kaiju" monster. This card is unaffected by other "Kaiju" cards' effects, also it cannot be destroyed by battle with a "Kaiju" monster. During your End Phase, if this card is in your GY: You can Special Summon this card. You can only use this effect of "Super Anti-Kaiju War Machine Mecha-Thunder-King" once per Duel.
@@ -28,6 +29,8 @@ text:
     このカード名の④の効果はデュエル中に１度しか使用できない。①：お互いのメインフェイズにこのカードを手札から捨てて発動できる。元々の持ち主が相手となる自分フィールドの「壊獣」モンスター１体を選んで除外する。その後、自分の墓地からモンスター１体を選んで特殊召喚できる。②：「壊獣」モンスターは自分フィールドに１体しか表側表示で存在できない。③：フィールドのこのカードは他の「壊獣」カードの効果を受けず、「壊獣」モンスターとの戦闘では破壊されない。④：自分エンドフェイズに発動できる。このカードを墓地から特殊召喚する。
   ko: |-
     이 카드명의 ④의 효과는 듀얼 중에 1번밖에 사용할 수 없다. ①: 서로의 메인 페이즈에 이 카드를 패에서 버리고 발동할 수 있다. 원래의 주인이 상대가 되는 자신 필드의 "파괴수" 몬스터 1장을 고르고 제외한다. 그 후, 자신 묘지에서 몬스터 1장을 고르고 특수 소환할 수 있다. ②: "파괴수" 몬스터는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ③: 필드의 이 카드는 다른 "파괴수" 카드의 효과를 받지 않으며, "파괴수" 몬스터와의 전투로는 파괴되지 않는다. ④: 자신 엔드 페이즈에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다.
+  zh-CN: |-
+    主要阶段时（在自己或者对方回合）：可以把这张卡从手卡丢弃；把原本持有者是对方的自己场上1只「坏兽」怪兽除外，那之后，可以从自己墓地选1只怪兽特殊召唤。「坏兽」怪兽在自己场上只能有1只表侧表示存在。这张卡不受其他「坏兽」卡的效果影响，不会被和「坏兽」怪兽的战斗破坏。自己结束阶段时，这张卡在墓地存在的场合：可以把这张卡特殊召唤。「对坏兽用决战兵器 超级机械雷鸣龙王」的这个效果在决斗中只能使用1次。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -88,5 +91,10 @@ sets:
   ko:
   - set_number: EP19-KR060
     set_name: Extra Pack 2019
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC049
+    set_name: Mega Pack 03
     rarities:
     - Rare

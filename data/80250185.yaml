@@ -11,6 +11,7 @@ name:
   ja_romaji: Ōtovaretto Doragon
   ko: 오토바렛 드래곤
   ko_rr: Otobaret Deuraegon
+  zh-CN: 自动手枪弹丸龙
 text:
   en: |-
     When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then send 1 Spell/Trap on the field to the GY. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 "Rokket" monster from your Deck, except "Autorokket Dragon". You can only use each effect of "Autorokket Dragon" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのこのカードを対象とするリンクモンスターの効果が発動した時に発動できる。このカードを破壊する。その後、フィールドの魔法・罠カード１枚を選んで墓地へ送る。②：フィールドのこのカードが戦闘・効果で破壊され墓地へ送られたターンのエンドフェイズに発動できる。デッキから「オートヴァレット・ドラゴン」以外の「ヴァレット」モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드를 대상으로 하는 링크 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드를 파괴한다. 그 후, 필드의 마법 / 함정 카드 1장을 고르고 묘지로 보낸다. ②: 필드의 이 카드가 전투 / 효과로 파괴되어 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 "오토바렛 드래곤" 이외의 "바렛" 몬스터 1장을 특수 소환한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。①：场上的这张卡为对象的连接怪兽的效果发动时才能发动。这张卡破坏。那之后，选场上1张魔法·陷阱卡送去墓地。②：场上的这张卡被战斗·效果破坏送去墓地的回合的结束阶段才能发动。从卡组把「自动手枪弹丸龙」以外的1只「弹丸」怪兽特殊召唤。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -116,5 +119,10 @@ sets:
     - Common
   - set_number: SD36-KR008
     set_name: 'Structure Deck: Revolver'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC057
+    set_name: Mega Pack 01
     rarities:
     - Common

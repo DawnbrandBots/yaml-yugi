@@ -11,6 +11,7 @@ name:
   ja_romaji: Minarai Majutsushi
   ko: 견습 마술사
   ko_rr: Gyeonseup Masulsa
+  zh-CN: 见习魔术师
 text:
   en: |-
     If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster monster from your Deck in face-down Defense Position.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚・反転召喚・特殊召喚に成功した場合、フィールドの魔力カウンターを置く事ができるカード１枚を対象として発動する。そのカードに魔力カウンターを１つ置く。②：このカードが戦闘で破壊された時に発動できる。デッキからレベル２以下の魔法使い族モンスター１体を裏側守備表示で特殊召喚する。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 경우, 필드의 마력 카운터를 놓을 수 있는 카드 1장을 대상으로 하고 발동한다. 그 카드에 마력 카운터를 1개 놓는다. ②: 이 카드가 전투로 파괴되었을 때에 발동할 수 있다. 덱에서 레벨 2 이하의 마법사족 몬스터 1장을 뒷면 수비 표시로 특수 소환한다.
+  zh-CN: |-
+    ①：这张卡召唤·反转召唤·特殊召唤成功的场合，以场上1张可以放置魔力指示物的卡为对象发动。给那张卡放置1个魔力指示物。②：这张卡被战斗破坏时才能发动。从卡组把1只2星以下的魔法师族怪兽里侧守备表示特殊召唤。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -237,5 +240,15 @@ sets:
     - Common
   - set_number: SR08-KR014
     set_name: 'Structure Deck R: Lord of Magician'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: PR01-TC005
+    set_name: Special Promotional Pack 2015 Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SC013
+    set_name: Starter Deck 2021
     rarities:
     - Common

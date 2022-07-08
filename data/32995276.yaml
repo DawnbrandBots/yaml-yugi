@@ -11,6 +11,7 @@ name:
   ja_romaji: Rinku Disaipuru
   ko: 링크 디사이플
   ko_rr: Lingkeu Disaipeul
+  zh-CN: 连接弟子
 text:
   en: |-
     1 Level 4 or lower Cyberse monster
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 4 이하의 사이버스족 몬스터 1장
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 링크 앞의 몬스터 1장을 릴리스하고 발동할 수 있다. 자신은 덱에서 1장 드로우하고, 그 후 패를 1장 골라 덱 맨 아래로 되돌린다.
+  zh-CN: |-
+    4星以下的电子界族怪兽1只
+    这个卡名的效果1回合只能使用1次。①：把这张卡所连接区1只怪兽解放才能发动。自己从卡组抽1张，那之后选1张手卡回到卡组最下面。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: LIGHT
@@ -102,3 +106,8 @@ sets:
     set_name: Chronicle Binder
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP1-SC165
+    set_name: Mega Pack 01
+    rarities:
+    - Common

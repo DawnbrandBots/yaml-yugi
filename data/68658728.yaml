@@ -11,6 +11,7 @@ name:
   ja_romaji: Ritoru Kimera
   ko: 리틀 키메라
   ko_rr:
+  zh-CN: 小奇美拉
 text:
   en: |-
     All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.
@@ -28,6 +29,8 @@ text:
     このカードがフィールド上に表側表示で存在する限り、フィールド上に表側表示で存在する炎属性モンスターの攻撃力は５００ポイントアップし、水属性モンスターの攻撃力は４００ポイントダウンする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 모든 화염 속성 몬스터의 공격력은 500 포인트 올린다. 물 속성 몬스터의 공격력은 400 포인트 내린다.
+  zh-CN: |-
+    只要这张卡在场上表侧表示存在，场上的炎属性怪兽的攻击力上升500，水属性怪兽的攻击力下降400。
 type: Monster
 typeline: Beast / Effect
 attribute: FIRE
@@ -167,6 +170,11 @@ sets:
     rarities:
     - Common
   - set_number: SD24-KR020
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD24-TC020
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common

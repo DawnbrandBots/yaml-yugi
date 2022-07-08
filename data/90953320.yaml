@@ -11,6 +11,7 @@ name:
   ja_romaji: Tekkujīnasu Haipā Raiburarian
   ko: <ruby><rb>TG</rb><rp>（</rp><rt>테크지너스</rt><rp>）</rp></ruby> 하이퍼 라이브러리언
   ko_rr: Tekeujineoseu Haipeo Raibeureorieon
+  zh-CN: 科技属 超图书馆员
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 필드에 존재하고, 자신 또는 상대가, 이 카드 이외의 싱크로 몬스터의 싱크로 소환에 성공했을 경우에 발동한다. 이 카드가 필드에 앞면 표시로 존재할 경우, 자신은 덱에서 1장 드로우한다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    ①：这张卡在场上存在，自己或者对方对这张卡以外的同调怪兽的同调召唤成功的场合发动。这张卡在场上表侧表示存在的场合，自己从卡组抽1张。
 type: Monster
 typeline: Spellcaster / Synchro / Effect
 attribute: DARK
@@ -147,3 +151,10 @@ sets:
     set_name: Legendary Gold Set
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TRC1-SC034
+    set_name: The Rarity Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Collector's Rare

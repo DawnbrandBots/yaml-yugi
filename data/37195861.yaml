@@ -11,6 +11,7 @@ name:
   ja_romaji: Erementaru Hīrō Ōshan
   ko: 엘리멘틀 히어로 오션
   ko_rr:
+  zh-CN: 元素英雄 海洋侠
 text:
   en: |-
     Once per turn, during your Standby Phase: You can target 1 "HERO" monster you control or in your Graveyard; return that target to the hand.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、自分スタンバイフェイズに自分のフィールド・墓地の「ＨＥＲＯ」モンスター１体を対象として発動できる。その自分の「ＨＥＲＯ」モンスターを持ち主の手札に戻す。
   ko: |-
     1턴에 1번만 자신의 스텐바이 페이즈시에 발동할 수 있다. 자신 필드 위 또는 묘지에서 "히어로"라는 이름이 붙은 몬스터 1장을 주인의 패로 되돌린다.
+  zh-CN: |-
+    ①：1回合1次，自己准备阶段以自己的场上·墓地1只「英雄」怪兽为对象才能发动。那只自己的「英雄」怪兽回到持有者手卡。
 type: Monster
 typeline: Warrior / Effect
 attribute: WATER
@@ -123,6 +126,11 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD27-KR003
+    set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD27-SC003
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common

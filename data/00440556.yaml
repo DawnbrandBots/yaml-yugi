@@ -11,6 +11,7 @@ name:
   ja_romaji: Bahamūto Shāku
   ko: 바하무트 샤크
   ko_rr: Bahamuteu Syakeu
+  zh-CN: 龙神鲨
 text:
   en: |-
     2 Level 4 WATER monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     물 속성 레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 엑스트라 덱에서 랭크 3 이하의 물 속성 엑시즈 몬스터 1장을 특수 소환한다. 이 턴에, 이 카드는 공격할 수 없다.
+  zh-CN: |-
+    水属性4星怪兽×2
+    ①：1回合1次，把这张卡1个XYZ素材取除才能发动。从额外卡组把1只3阶以下的水属性XYZ怪兽特殊召唤。这个回合，这张卡不能攻击。
 type: Monster
 typeline: Sea Serpent / Xyz / Effect
 attribute: WATER
@@ -155,3 +159,10 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Common
+  zh-TW:
+  - set_number: ABYR-TC097
+    set_name: Abyss Rising
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Zōshokusuru Jī
   ko: 증식의 G
   ko_rr: Jeungsik-ui Ji
+  zh-CN: 增殖的G
 text:
   en: |-
     During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 "Maxx "C"" per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の効果は１ターンに１度しか使用できず、相手ターンでも発動できる。①：このカードを手札から墓地へ送って発動できる。このターン、以下の効果を適用する。●相手がモンスターの特殊召喚に成功する度に、自分はデッキから１枚ドローしなければならない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없으며, 상대 턴에도 발동할 수 있다. ①: 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 이 턴에, 이하의 효과를 적용한다. ●상대가 몬스터의 특수 소환에 성공할 때마다, 자신은 덱에서 1장 드로우해야 한다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次，对方回合也能发动。①：把这张卡从手卡送去墓地才能发动。这个回合，以下效果适用。●每次对方对怪兽的特殊召唤成功，自己必须从卡组抽1张。
 type: Monster
 typeline: Insect / Effect
 attribute: EARTH
@@ -239,3 +242,29 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  zh-TW:
+  - set_number: SD25-TC018
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC018
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SCTP-SC002
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Super Rare
+  - set_number: RC03-SC004
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Extra Secret Rare
+  - set_number: TRC1-SC026
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

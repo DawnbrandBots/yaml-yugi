@@ -11,13 +11,14 @@ name:
   ja_romaji: Kurifōto Tsūru
   ko: 클리포트 툴
   ko_rr:
+  zh-CN: 机壳工具 丑恶
 text:
   en: |-
-    Booting in Replica Mode…
+    Booting in Replica Mode...
     An error has occurred while executing C:\sophia\zefra.exe
     Unknown publisher.
-    Allow C:\tierra\qliphort.exe ? <Y/N>…[Y]
-    Booting in Autonomy Mode…''
+    Allow C:\tierra\qliphort.exe ? <Y/N>...[Y]
+    Booting in Autonomy Mode...''
   de: |-
     Replika-Modus wird gebootet...
     Fehler beim Ausführen von C:\sophia\zefra.exe
@@ -60,6 +61,12 @@ text:
     다음의 알 수 없는 발행원으로부터의 프로그램을 실행하려고 합다.
     C:₩tierra₩qliphoth.exe의 실행을 허가하시겠습니까? <Y/N>...[Y]
     시스템을 자율 모드로 기동합니다.
+  zh-CN: |-
+    正在准备以副本模式启动系统...
+    C:sophiasefiroth.exe 执行中发生错误。
+    正在试图执行来自未知发布者的以下程序。
+    C:tierraqliphoth.exe 您想允许执行吗? <Y/N>...[Y]
+    以自律模式启动系统。
 type: Monster
 typeline: Machine / Pendulum
 attribute: EARTH
@@ -84,6 +91,8 @@ pendulum_effect:
     ①：<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>は「クリフォート」モンスターしか<ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>殊</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>できない。この<ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>果</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>は<ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>されない。②：１ターンに１<ruby><rb>度</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby>、８００<ruby><rb>ＬＰ</rb><rp>（</rp><rt>ライフポイント</rt><rp>）</rp></ruby>を<ruby><rb>払</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>って<ruby><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>できる。デッキから「クリフォート・ツール」以外の「クリフォート」カード１枚を<ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>ふだ</rt><rp>）</rp></ruby>に<ruby><rb>加</rb><rp>（</rp><rt>くわ</rt><rp>）</rp></ruby>える。
   ko: |-
     ①: 자신은 "클리포트" 몬스터밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 1턴에 1번, 800 LP를 지불하고 발동할 수 있다. 덱에서 "클리포트 툴" 이외의 "클리포트" 카드 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：自己不是「机壳」怪兽不能特殊召唤。这个效果不会被无效化。②：1回合1次，支付800基本分才能发动。从卡组把「机壳工具 丑恶」以外的1张「机壳」卡加入手卡。
 sets:
   en:
   - set_number: NECH-EN021

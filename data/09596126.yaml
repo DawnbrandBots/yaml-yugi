@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaosu Sōsarā
   ko: 카오스 소서러
   ko_rr: Kaoseu Soseoreo
+  zh-CN: 混沌巫师
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。自分の墓地から光属性と闇属性のモンスターを１体ずつ除外した場合に特殊召喚できる。①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターを除外する。この効果を発動するターン、このカードは攻撃できない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 빛 속성과 어둠 속성의 몬스터를 1장씩 제외했을 경우에 특수 소환할 수 있다. ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 몬스터를 제외한다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己墓地把光属性和暗属性的怪兽各1只除外的场合可以特殊召唤。①：1回合1次，以场上1只表侧表示怪兽为对象才能发动。那只表侧表示怪兽除外。这个效果发动的回合，这张卡不能攻击。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -250,5 +253,15 @@ sets:
     - Gold Rare
   - set_number: SD34-KR017
     set_name: 'Structure Deck: Master Link'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD22-TC014
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC007
+    set_name: Starter Deck 2020
     rarities:
     - Common

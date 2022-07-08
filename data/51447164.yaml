@@ -11,6 +11,7 @@ name:
   ja_romaji: Tekkujīnasu Burēdo Gannā
   ko: <ruby><rb>TG</rb><rp>（</rp><rt>테크지너스</rt><rp>）</rp></ruby> 블레이드 건맨
   ko_rr:
+  zh-CN: 科技属 刃枪手
 text:
   en: |-
     1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     싱크로 몬스터의 튜너 1장 + 튜너 이외의 싱크로 몬스터 1장이상
     이 카드를 대상으로 하는 상대의 마법 / 함정 카드가 발동했을 때, 패를 1장 묘지로 보내는 것으로, 그 효과를 무효로 한다. 또한, 상대 턴에 1번, 자신의 묘지에 존재하는 "TG(테크지너스)"라는 이름이 붙은 몬스터 1장을 게임에서 제외하는 것으로, 필드 위에 앞면 표시로 존재하는 이 카드를 게임에서 제외한다. 다음 스텐바이 페이즈시, 이 효과로 제외한 이 카드를 특수 소환한다.
+  zh-CN: |-
+    同调怪兽调整1只＋调整以外的同调怪兽1只以上
+    以这张卡为对象的对方的魔法·陷阱卡发动时，可以通过把1张手卡送去墓地，那个效果无效。此外，对方回合1次，可以通过把自己墓地存在的1只名字带有「科技属」的怪兽从游戏中除外，场上表侧表示存在的这张卡从游戏中除外。下次的准备阶段时，这个效果除外的这张卡特殊召唤。
 type: Monster
 typeline: Machine / Synchro / Effect
 attribute: EARTH
@@ -101,3 +105,8 @@ sets:
     rarities:
     - Ultra Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: SCTP-SC085
+    set_name: Entry Pack Volume 6
+    rarities:
+    - Super Rare

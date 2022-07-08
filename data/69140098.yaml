@@ -11,6 +11,7 @@ name:
   ja_romaji: Jeminai Erufu
   ko: 쌍둥이 자매 엘프
   ko_rr:
+  zh-CN: 双生精灵
 text:
   en: |-
     Elf twins that alternate their attacks.
@@ -28,6 +29,8 @@ text:
     <ruby><rb>交互</rb><rp>（</rp><rt>こうご</rt><rp>）</rp></ruby>に<ruby><rb>攻撃</rb><rp>（</rp><rt>こうげき</rt><rp>）</rp></ruby>を<ruby><rb>仕掛</rb><rp>（</rp><rt>しか</rt><rp>）</rp></ruby>けてくる、エルフの<ruby><rb>双子</rb><rp>（</rp><rt>ふたご</rt><rp>）</rp></ruby><ruby><rb>姉妹</rb><rp>（</rp><rt>きょうだい</rt><rp>）</rp></ruby>。
   ko: |-
     교대로 공격을 걸어오는 엘프의 쌍둥이 자매.
+  zh-CN: |-
+    相互配合发动攻击的双胞胎妖精姐妹。
 type: Monster
 typeline: Spellcaster / Normal
 attribute: EARTH
@@ -217,3 +220,8 @@ sets:
     set_name: Expansion Pack Vol.2
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: ST21-SC003
+    set_name: Starter Deck 2021
+    rarities:
+    - Common

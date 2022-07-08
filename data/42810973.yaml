@@ -11,6 +11,7 @@ name:
   ja_romaji: Janku Āchā
   ko: 정크 아처
   ko_rr:
+  zh-CN: 废品弓手
 text:
   en: |-
     "Junk Synchron" + 1 or more non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "정크 싱크론" + 튜너 이외의 몬스터 1장 이상
     1턴에 1번, 상대 필드 위에 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 게임에서 제외한다. 이 효과로 제외한 몬스터는 이 턴의 엔드 페이즈시에 같은 표시 형식으로 상대 필드 위로 되돌린다.
+  zh-CN: |-
+    「废品同调士」＋调整以外的怪兽1只以上
+    1回合1次，选择对方场上存在的1只怪兽才能发动。选择的怪兽从游戏中除外。这个效果除外的怪兽在这个回合的结束阶段时以相同表示形式回到对方场上。
 type: Monster
 typeline: Warrior / Synchro / Effect
 attribute: EARTH
@@ -95,3 +99,8 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SD28-SCP08
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
+    - Super Rare

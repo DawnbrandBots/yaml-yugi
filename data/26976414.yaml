@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaiō no Nagayarihei
   ko: 해황의 장창병
   ko_rr:
+  zh-CN: 海皇的长枪兵
 text:
   en: |-
     The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.
@@ -28,6 +29,8 @@ text:
     海底を支配していると言われる、海皇に仕える長槍兵。深く暗い海の底から襲いかかる長槍の連続攻撃は、深海魚たちに恐れられている。
   ko: |-
     해저를 지배하고 있다고 일컬어진, 해왕을 모시는 장창병. 깊고 어두운 바다의 밑에서 덮치는 장창의 연속공격은 심해어들에게 두려움을 준다.
+  zh-CN: |-
+    侍奉据说支配着海底的海皇的长枪兵。从深暗海底袭击过来的长枪的连续攻击为深海鱼们所畏惧。
 type: Monster
 typeline: Sea Serpent
 attribute: WATER
@@ -114,6 +117,11 @@ sets:
     rarities:
     - Common
   - set_number: SD23-KR005
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC007
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Orutāgaisuto Meryushīku
   ko: 얼터가이스트 멜리시크
   ko_rr: Eolteogaiseuteu Mellisikeu
+  zh-CN: 幻变骚灵·寻道梅露辛
 text:
   en: |-
     This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 card your opponent controls; send it to the GY. If this card is sent from the field to the GY: You can add 1 "Altergeist" monster from your Deck to your hand, except "Altergeist Meluseek". You can only use this effect of "Altergeist Meluseek" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：このカードは直接攻撃できる。②：このカードが相手に戦闘ダメージを与えた時、相手フィールドのカード１枚を対象として発動できる。そのカードを墓地へ送る。③：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「オルターガイスト・メリュシーク」以外の「オルターガイスト」モンスター１体を手札に加える。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 직접 공격할 수 있다. ②: 이 카드가 상대에게 전투 데미지를 주었을 때, 상대 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 묘지로 보낸다. ③: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "얼터가이스트 멜리시크" 이외의 "얼터가이스트" 몬스터 1장을 패에 넣는다.
+  zh-CN: |-
+    这个卡名的（③）的效果1回合只能使用1次。①：这张卡可以直接攻击。②：这张卡给与对方战斗伤害时，以对方场上1张卡为对象才能发动。那张卡送去墓地。③：这张卡从场上送去墓地的场合才能发动。从卡组把「幻变骚灵·寻道梅露辛」以外的1只「幻变骚灵」怪兽加入手卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: WATER
@@ -120,5 +123,10 @@ sets:
     - Secret Rare
   - set_number: LVDS-KRB09
     set_name: LINK VRAINS Duelist Set
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: MGP1-SC061
+    set_name: Mega Pack 01
     rarities:
     - Super Rare

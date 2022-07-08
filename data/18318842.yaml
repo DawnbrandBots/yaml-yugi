@@ -11,6 +11,7 @@ name:
   ja_romaji: Abisu Sorujā
   ko: 어비스 솔저
   ko_rr:
+  zh-CN: 深渊士兵
 text:
   en: |-
     Once per turn: You can discard 1 WATER monster to the Graveyard to target 1 card on the field; return it to the hand.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、手札から水属性モンスター１体を墓地へ捨て、フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。
   ko: |-
     1턴에 1번, 패에서 물 속성 몬스터 1장을 묘지에 버리고, 필드 위의 카드 1장을 선택하여 발동할 수 있다. 선택한 카드를 주인의 패로 되돌린다.
+  zh-CN: |-
+    1回合1次，从手卡把1只水属性怪兽丢弃去墓地，选择场上1张卡才能发动。选择的卡回到持有者手卡。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -114,6 +117,11 @@ sets:
     rarities:
     - Secret Rare
   - set_number: SD23-KR014
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC016
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

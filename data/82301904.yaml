@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaosu Enperā Doragon - Shūen no Shisha -
   ko: 카오스 엠페러 드래곤 －종언－
   ko_rr:
+  zh-CN: 混沌帝龙 -终焉的使者-
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。自分の墓地から光属性と闇属性のモンスターを１体ずつ除外した場合のみ特殊召喚できる。このカードの効果を発動するターン、自分は他の効果を発動できない。①：１ターンに１度、１０００ＬＰを払って発動できる。お互いの手札・フィールドのカードを全て墓地へ送る。その後、この効果で相手の墓地へ送ったカードの数×３００ダメージを相手に与える。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 빛 속성과 어둠 속성 몬스터를 1장씩 제외했을 경우에만 특수 소환할 수 있다. 이 카드의 효과를 발동하는 턴에, 자신은 다른 효과를 발동할 수 없다. ①: 1턴에 1번, 1000 LP를 지불하고 발동할 수 있다. 서로의 패 / 필드의 카드를 전부 묘지로 보낸다. 그 후, 이 효과로 상대 묘지로 보낸 카드의 수 × 300 데미지를 상대에게 준다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己墓地把光属性和暗属性的怪兽各1只除外的场合才能特殊召唤。这张卡的效果发动的回合，自己不能把其他的效果发动。①：1回合1次，支付1000基本分才能发动。双方的手卡·场上的卡全部送去墓地。那之后，给与对方这个效果送去对方墓地的卡数量×300伤害。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -183,3 +186,13 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  zh-TW:
+  - set_number: SD22-TC003
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: ST20-SCP02
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Secret Rare

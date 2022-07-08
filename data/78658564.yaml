@@ -11,6 +11,7 @@ name:
   ja_romaji: Goburin Totsugeki Butai
   ko: 고블린의 돌격 부대
   ko_rr:
+  zh-CN: 哥布林突击部队
 text:
   en: |-
     If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.
@@ -28,6 +29,8 @@ text:
     ①：このカードは攻撃した場合、バトルフェイズ終了時に守備表示になり、次の自分ターンの終了時まで表示形式を変更できない。
   ko: |-
     이 카드는 공격했을 경우, 배틀 페이즈 종료시에 수비 표시가 된다. 다음 자신 턴 종료시까지 이 카드는 표시 형식을 변경할 수 없다.
+  zh-CN: |-
+    ①：这张卡攻击的场合，战斗阶段结束时变成守备表示，直到下次的自己回合结束时不能把表示形式变更。
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -281,5 +284,18 @@ sets:
     - Common
   - set_number: YSD5-KR009
     set_name: Starter Deck 2010
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC013
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Rare
+  - set_number: HD13-TCL07
+    set_name: 'Half-Deck: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD13-TCD07
+    set_name: 'Half-Deck: DARK'
     rarities:
     - Common

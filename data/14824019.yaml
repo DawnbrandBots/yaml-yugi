@@ -12,6 +12,7 @@ name:
   ja_romaji: Madōshoshi Bateru
   ko: 마도서사 바테르
   ko_rr: Madoseosa Bateru
+  zh-CN: 魔导书士 巴特尔
 text:
   en: |-
     If this card is Normal Summoned or flipped face-up: Add 1 "Spellbook" Spell from your Deck to your hand.
@@ -29,6 +30,8 @@ text:
     ①：このカードが召喚・リバースした場合に発動する。デッキから「魔導書」魔法カード１枚を手札に加える。
   ko: |-
     ①: 이 카드가 일반 소환 / 리버스했을 경우에 발동한다. 덱에서 "마도서" 마법 카드 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：这张卡召唤·反转的场合发动。从卡组把1张「魔导书」魔法卡加入手卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: WATER
@@ -124,3 +127,9 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  zh-TW:
+  - set_number: REDU-TC015
+    set_name: Return of the Duelist
+    rarities:
+    - Super Rare
+    - Secret Rare

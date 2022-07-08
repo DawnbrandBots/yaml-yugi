@@ -11,6 +11,7 @@ name:
   ja_romaji: Jakkunaitsu Avuramu
   ko: 잭나이츠 아브람
   ko_rr:
+  zh-CN: 机界骑士 亚伯拉姆
 text:
   en: |-
     "Check THIS out!"
@@ -30,6 +31,9 @@ text:
   ko: |-
     별의 빛을 수호하는 용자 환계에 드리운 어둠을 물리치기 위해 선택받은 자에게 힘을 맡긴다.
     별의 잔으로 이어진 의지는 새로운 열쇠가 되어 어둠을 끊어내는 검이 되리라.
+  zh-CN: |-
+    守护星之光明的勇者　为灭除幻界于世之暗　对天选之人托付己身之力。
+    星之宝杯继承的意志成为崭新钥匙　化成斩绝黑暗之剑。
 type: Monster
 typeline: Psychic / Normal
 attribute: LIGHT
@@ -90,5 +94,10 @@ sets:
   ko:
   - set_number: FLOD-KR016
     set_name: Flames of Destruction
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC012
+    set_name: Mega Pack 02
     rarities:
     - Common

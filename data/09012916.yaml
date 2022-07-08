@@ -11,6 +11,7 @@ name:
   ja_romaji: Burakkufezā Doragon
   ko: 블랙 페더 드래곤
   ko_rr: Beullaek Pedeo Deuraegon
+  zh-CN: 黑羽龙
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 자신이 효과 데미지를 받을 경우, 대신에 이 카드에 검은 날개 카운터를 1개 놓는다. ②: 이 카드의 공격력은, 이 카드의 검은 날개 카운터의 수 × 700 내린다. ③: 1턴에 1번, 이 카드의 검은 날개 카운터를 전부 제거하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 상대 몬스터의 공격력은 제거한 검은 날개 카운터의 수 × 700 내리고, 내린 수치만큼의 데미지를 상대에게 준다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    ①：自己受到效果伤害的场合，作为代替给这张卡放置1个黑羽指示物。②：这张卡的攻击力下降这张卡的黑羽指示物数量×700。③：1回合1次，把这张卡的黑羽指示物全部取除，以对方场上1只表侧表示怪兽为对象才能发动。那只对方怪兽的攻击力下降取除的黑羽指示物数量×700，给与对方下降的数值的伤害。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: DARK
@@ -185,6 +189,11 @@ sets:
     rarities:
     - Super Rare
   - set_number: DP20-KR028
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP20-SC028
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common

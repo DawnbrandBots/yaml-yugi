@@ -11,6 +11,7 @@ name:
   ja_romaji: Maken Okutorosu
   ko: 마견 옥트로스
   ko_rr:
+  zh-CN: 魔犬 八鬼犬
 text:
   en: |-
     If this card is sent from the field to the Graveyard: Add 1 Level 8 Fiend-Type monster from your Deck to your hand. You can only use this effect of "Doomdog Octhros" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードがフィールドから墓地へ送られた場合に発動する。デッキから悪魔族・レベル８モンスター１体を手札に加える。
   ko: |-
     "마견 옥트로스"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동한다. 덱에서 악마족 / 레벨 8 몬스터 1장을 패에 넣는다.
+  zh-CN: |-
+    「魔犬 八鬼犬」的效果1回合只能使用1次。①：这张卡从场上送去墓地的场合发动。从卡组把1只恶魔族·8星怪兽加入手卡。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -96,5 +99,10 @@ sets:
   ko:
   - set_number: CROS-KR036
     set_name: Crossed Souls
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC106
+    set_name: Entry Pack Volume 7
     rarities:
     - Common

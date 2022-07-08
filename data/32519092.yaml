@@ -11,6 +11,7 @@ name:
   ja_romaji: Ten'i no Kensō
   ko: 천위의 권승
   ko_rr: Cheonwi-ui Gwonseung
+  zh-CN: 天威之拳僧
 text:
   en: |-
     1 non-Link "Tenyi" monster
@@ -28,6 +29,8 @@ text:
     リンクモンスター以外の「天威」モンスター１体
   ko: |-
     링크 몬스터 이외의 "천위" 몬스터 1장
+  zh-CN: |-
+    连接怪兽以外的「天威」怪兽1只
 type: Monster
 typeline: Wyrm / Link
 attribute: EARTH
@@ -108,5 +111,10 @@ sets:
   ko:
   - set_number: RIRA-KR043
     set_name: Rising Rampage
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC123
+    set_name: Mega Pack 03
     rarities:
     - Common

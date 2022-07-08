@@ -11,6 +11,7 @@ name:
   ja_romaji: Ōritsu Mahō Toshokan
   ko: 왕립 마법도서관
   ko_rr: Wangnip Mabeopdoseogwan
+  zh-CN: 王立魔法图书馆
 text:
   en: |-
     Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves (max. 3). You can remove 3 Spell Counters from this card; draw 1 card.
@@ -28,6 +29,8 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く（最大３つまで）。②：このカードの魔力カウンターを３つ取り除いて発動できる。自分はデッキから１枚ドローする。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다(최대 3개까지). ②: 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
+  zh-CN: |-
+    ①：只要这张卡在怪兽区域存在，每次自己或者对方把魔法卡发动，给这张卡放置1个魔力指示物（最多3个）。②：把这张卡3个魔力指示物取除才能发动。自己从卡组抽1张。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: LIGHT
@@ -205,5 +208,10 @@ sets:
     - Common
   - set_number: LVP3-KR038
     set_name: LINK VRAINS Pack 3
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC086
+    set_name: Entry Pack Volume 6
     rarities:
     - Common

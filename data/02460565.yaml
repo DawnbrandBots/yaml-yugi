@@ -11,6 +11,7 @@ name:
   ja_romaji: Kirikomi Taichō
   ko: 선봉 대장
   ko_rr: Seonbong Daejang
+  zh-CN: 冲锋陷阵的队长
 text:
   en: |-
     Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚に成功した時に発動できる。手札からレベル４以下のモンスター１体を特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手は他の戦士族モンスターを攻撃対象に選択できない。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 몬스터 1장을 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 전사족 몬스터를 공격 대상으로 선택할 수 없다.
+  zh-CN: |-
+    ①：这张卡召唤成功时才能发动。从手卡把1只4星以下的怪兽特殊召唤。②：只要这张卡在怪兽区域存在，对方不能选择其他的战士族怪兽作为攻击对象。
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -346,5 +349,10 @@ sets:
     - Common
   - set_number: SSD1-KR007
     set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC013
+    set_name: Duel Starter Deck
     rarities:
     - Common

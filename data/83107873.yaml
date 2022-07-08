@@ -11,6 +11,7 @@ name:
   ja_romaji: Raichōryū - Sandā Doragon
   ko: 뇌조룡－썬더 드래곤
   ko_rr: Noejoryong - Sseondeo Deuraegon
+  zh-CN: 雷鸟龙-雷龙
 text:
   en: |-
     You can discard this card; Special Summon 1 of your "Thunder Dragon" monsters that is banished or in your GY, except "Thunder Dragonhawk". If this card is banished, or sent from the field to the GY: You can shuffle any number of cards from your hand into the Deck, then draw the same number of cards. You can only use 1 "Thunder Dragonhawk" effect per turn, and only once that turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードを手札から捨てて発動できる。自分の墓地のモンスター及び除外されている自分のモンスターの中から、「雷鳥龍－サンダー・ドラゴン」以外の「サンダー・ドラゴン」モンスター１体を選んで特殊召喚する。②：このカードが除外された場合またはフィールドから墓地へ送られた場合に発動できる。自分の手札を任意の数だけデッキに戻してシャッフルする。その後、自分はデッキに戻した数だけデッキからドローする。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드를 패에서 버리고 발동할 수 있다. 자신 묘지의 몬스터 및 제외되어 있는 자신 몬스터 중에서, "뇌조룡－썬더 드래곤" 이외의 "썬더 드래곤" 몬스터 1장을 골라 특수 소환한다. ②: 이 카드가 제외되었을 경우 또는 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 자신의 패를 임의의 수만큼 덱으로 되돌리고 셔플한다. 그 후, 자신은 덱으로 되돌린 수만큼 덱에서 드로우한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+    ①：把这张卡从手卡丢弃才能发动。从自己墓地的怪兽以及除外的自己怪兽之中选「雷鸟龙-雷龙」以外的1只「雷龙」怪兽特殊召唤。
+    ②：这张卡被除外的场合或者从场上送去墓地的场合才能发动。自己手卡任意数量回到卡组洗切。那之后，自己从卡组抽出回到卡组的数量。
 type: Monster
 typeline: Thunder / Effect
 attribute: LIGHT
@@ -90,3 +95,8 @@ sets:
     set_name: Soul Fusion
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP2-SC119
+    set_name: Mega Pack 02
+    rarities:
+    - Rare

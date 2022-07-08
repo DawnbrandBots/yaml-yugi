@@ -11,6 +11,7 @@ name:
   ja_romaji: Sōgan no Ginryū
   ko: 하늘빛 눈의 은룡
   ko_rr: Haneulbit Nun-ui Eunnyong
+  zh-CN: 苍眼银龙
 text:
   en: |-
     1 Tuner + 1+ non-Tuner Normal Monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 + 튜너 이외의 일반 몬스터 1장 이상
     이 카드가 특수 소환에 성공했을 때에 발동한다. 자신 필드 위의 드래곤족 몬스터는 다음 턴의 종료시까지 카드 효과의 대상이 되지 않고, 카드의 효과로는 파괴되지 않는다. 또한, 1턴에 1번, 자신의 스텐바이 페이즈시에 발동할 수 있다. 자신 묘지의 일반 몬스터 1장을 선택하고 특수 소환한다.
+  zh-CN: |-
+    调整＋调整以外的通常怪兽1只以上
+    ①：这张卡特殊召唤成功的场合发动。自己场上的龙族怪兽直到下个回合的结束时不会成为效果的对象，不会被效果破坏。②：每次自己准备阶段以自己墓地1只通常怪兽为对象才能发动。那只怪兽特殊召唤。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: LIGHT
@@ -121,6 +125,16 @@ sets:
     - Gold Secret Rare
   ko:
   - set_number: SD25-KR040
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Ultra Rare
+  zh-TW:
+  - set_number: SD25-TC040
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: SD25-SC040
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Ultra Rare

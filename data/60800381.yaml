@@ -11,6 +11,7 @@ name:
   ja_romaji: Janku Woriā
   ko: 정크 워리어
   ko_rr:
+  zh-CN: 废品战士
 text:
   en: |-
     "Junk Synchron" + 1 or more non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "정크 싱크론" + 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동한다. 이 카드의 공격력은, 자신 필드의 레벨 2 이하 몬스터의 공격력의 합계만큼 올린다.
+  zh-CN: |-
+    「废品同调士」＋调整以外的怪兽1只以上
+    ①：这张卡同调召唤成功的场合发动。这张卡的攻击力上升自己场上的2星以下的怪兽的攻击力的合计数值。
 type: Monster
 typeline: Warrior / Synchro / Effect
 attribute: DARK
@@ -208,3 +212,8 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP3-SC167
+    set_name: Mega Pack 03
+    rarities:
+    - Rare

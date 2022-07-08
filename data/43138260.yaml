@@ -11,6 +11,7 @@ name:
   ja_romaji: Ekushīzu Rimōra
   ko: 엑시즈 리모라
   ko_rr: Eksijeu Rimora
+  zh-CN: XYZ印鲨
 text:
   en: |-
     You can Special Summon this card (from your hand) by detaching 2 materials from monster(s) you control. When Summoned this way: You can target 2 Level 4 Fish monsters in your GY; Special Summon those targets in Defense Position. Their effects are negated, they cannot attack or change their battle positions, and cannot be used as material for an Xyz Summon, except for the Xyz Summon of a WATER monster.
@@ -28,6 +29,8 @@ text:
     ①：このカードは自分フィールドのＸ素材を２つ取り除き、手札から特殊召喚できる。②：このカードの①の方法で特殊召喚に成功した時、自分の墓地の魚族・レベル４モンスター２体を対象として発動できる。その魚族モンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、表示形式の変更もできない。この効果で特殊召喚したモンスターをＸ召喚の素材とする場合、水属性モンスターのＸ召喚にしか使用できない。
   ko: |-
     ①: 이 카드는 자신 필드의 엑시즈 소재를 2개 제거하고, 패에서 특수 소환할 수 있다. ②: 이 카드의 ①의 방법으로 특수 소환에 성공했을 때, 자신 묘지의 어류족 / 레벨 4 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 어류족 몬스터를 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 공격할 수 없으며, 효과는 무효화되고, 표시 형식의 변경도 할 수 없다. 이 효과로 특수 소환한 몬스터를 엑시즈 소환의 소재로 할 경우, 물 속성 몬스터의 엑시즈 소환으로밖에 사용할 수 없다.
+  zh-CN: |-
+    这张卡可以把自己场上2个XYZ素材取除，从手卡特殊召唤。这个方法特殊召唤成功时，可以选择自己墓地2只鱼族·4星怪兽表侧守备表示特殊召唤。这个效果特殊召唤的怪兽不能攻击，效果无效化，也不能作表示形式的变更。此外，把这个效果特殊召唤的怪兽作为XYZ素材的场合，不是水属性怪兽的XYZ召唤不能使用。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -96,5 +99,10 @@ sets:
     - Common
   - set_number: DP26-KR009
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: CBLZ-TC011
+    set_name: Cosmo Blazer
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Gensō no Minarai Madōshi
   ko: 환상의 견습 마도사
   ko_rr: Hwansang-ui Seonseup Madosa
+  zh-CN: 幻想之见习魔导师
 text:
   en: |-
     You can Special Summon this card (from your hand) by discarding 1 card. If this card is Normal or Special Summoned: You can add 1 "Dark Magician" from your Deck to your hand. During damage calculation, if your other DARK Spellcaster monster battles an opponent's monster (Quick Effect): You can send this card from your hand or face-up field to the GY; that monster you control gains 2000 ATK/DEF during that damage calculation only.
@@ -28,6 +29,8 @@ text:
     ①：このカードは手札を１枚捨てて、手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ブラック・マジシャン」１体を手札に加える。③：このカード以外の自分の魔法使い族・闇属性モンスターが相手モンスターと戦闘を行うダメージ計算時、手札・フィールドのこのカードを墓地へ送って発動できる。その自分のモンスターの攻撃力・守備力はそのダメージ計算時のみ２０００アップする。
   ko: |-
     ①: 이 카드는 패를 1장 버리고, 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "블랙 매지션" 1장을 패에 넣는다. ③: 이 카드 이외의 자신의 마법사족 / 어둠 속성 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산시, 패 / 필드의 이 카드를 묘지로 보내고 발동할 수 있다. 그 자신 몬스터의 공격력 / 수비력은 그 데미지 계산시에만 2000 올린다.
+  zh-CN: |-
+    ①：这张卡可以丢弃1张手卡，从手卡特殊召唤。②：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1只「黑魔术师」加入手卡。③：这张卡以外的自己的魔法师族·暗属性怪兽和对方怪兽进行战斗的伤害计算时，把手卡·场上的这张卡送去墓地才能发动。那只自己怪兽的攻击力·守备力只在那次伤害计算时上升2000。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -133,3 +136,8 @@ sets:
     rarities:
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: CL01-SC008
+    set_name: Classic Pack 01
+    rarities:
+    - Super Rare

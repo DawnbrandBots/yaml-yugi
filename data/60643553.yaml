@@ -11,6 +11,7 @@ name:
   ja_romaji: Hana Mizuki
   ko: 하나 미즈키
   ko_rr: Hana Mijeuki
+  zh-CN: 儚无水木
 text:
   en: |-
     During either turn, except the End Phase (Quick Effect): You can discard this card; apply this effect this turn. You can only use this effect of "Ghost Sister & Spooky Dogwood" once per turn.
@@ -34,6 +35,10 @@ text:
     このカード名の効果は１ターンに１度しか使用できず、相手ターンでも発動できる。①：このカードを手札から捨てて発動できる。このターン、以下の効果を適用する。●相手がメインフェイズ及びバトルフェイズに効果モンスターの特殊召喚に成功する度に、自分はそのモンスターの攻撃力分だけＬＰを回復する。この効果で自分のＬＰが回復しなかった場合、エンドフェイズに自分のＬＰは半分になる。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없으며, 상대 턴에도 발동할 수 있다. ①: 이 카드를 패에서 버리고 발동할 수 있다. 이 턴에, 이하의 효과를 적용한다. ●상대가 메인 페이즈 및 배틀 페이즈에 효과 몬스터의 특수 소환에 성공할 때마다, 자신은 그 몬스터의 공격력만큼만 LP를 회복한다. 이 효과로 자신의 LP가 회복하지 않았을 경우, 엔드 페이즈에 자신의 LP는 절반이 된다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次，对方回合也能发动。
+    ①：把这张卡从手卡丢弃才能发动。这个回合，以下效果适用。
+    ●每次对方在主要阶段以及战斗阶段作对效果怪兽的特殊召唤成功，自己回复那些怪兽的攻击力数值的基本分。这个效果没让自己基本分回复的场合，结束阶段让自己基本分变成一半。
 type: Monster
 typeline: Zombie / Tuner / Effect
 attribute: WATER
@@ -165,3 +170,11 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: RC03-SC018
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Premium Gold Rare

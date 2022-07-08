@@ -11,6 +11,7 @@ name:
   ja_romaji: Sōdo Bureikā
   ko: 스워드 브레이커
   ko_rr:
+  zh-CN: 刀剑破坏者
 text:
   en: |-
     2 Level 6 monsters
@@ -36,6 +37,8 @@ text:
   ko: |-
     레벨 6 몬스터×2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 종족을 1개 선언하여 발동할 수 있다. 이 카드가 선언한 종족의 몬스터와 전투를 실행할 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
+  zh-CN: |-
+    6星怪兽×2。1回合1次，把这张卡1个XYZ素材取除，宣言1个种族才能发动。这张卡和宣言的种族的怪兽进行战斗的场合，不进行伤害计算把那只怪兽破坏。
 type: Monster
 typeline: Warrior / Xyz / Effect
 attribute: EARTH
@@ -71,6 +74,15 @@ sets:
     - Rare
   ko:
   - set_number: REDU-KR050
+    set_name: Return of the Duelist
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: SP03-TC032
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  - set_number: REDU-TC050
     set_name: Return of the Duelist
     rarities:
     - Rare

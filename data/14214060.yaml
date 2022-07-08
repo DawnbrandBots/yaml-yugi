@@ -11,6 +11,7 @@ name:
   ja_romaji: Mahō Kenshi Toransu
   ko: 마법 검사 트랜스
   ko_rr:
+  zh-CN: 魔法剑士 特兰斯
 text:
   en: |-
     A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.
@@ -28,6 +29,8 @@ text:
     かなりの実力を持った風変わりな魔法使い。異空間の旅から帰還したらしい。
   ko: |-
     꽤 쓸만한 실력의 특이한 마법사. 이공간 여행으로부터 귀환한 듯하다.
+  zh-CN: |-
+    实力相当强的奇特魔法师。好像从异空间旅行归来了。
 type: Monster
 typeline: Spellcaster
 attribute: EARTH
@@ -94,3 +97,8 @@ sets:
     set_name: Starter Deck 2013
     rarities:
     - Common
+  zh-TW:
+  - set_number: REDU-TC001
+    set_name: Return of the Duelist
+    rarities:
+    - Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Za Torikkī
   ko: 더 트릭키
   ko_rr: Deo Teurik-ki
+  zh-CN: 诡术师
 text:
   en: |-
     You can Special Summon this card (from your hand) by discarding 1 card.
@@ -28,6 +29,8 @@ text:
     ①：このカードは手札を１枚捨てて、手札から特殊召喚できる。
   ko: |-
     ①: 이 카드는 패를 1장 버리고, 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    ①：这张卡可以丢弃1张手卡，从手卡特殊召唤。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: WIND
@@ -217,5 +220,10 @@ sets:
     - Millennium Rare
   - set_number: 15AY-KRC12
     set_name: 'Memories of the Duel King: Ceremonial Battle Arc'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SC006
+    set_name: Starter Deck 2021
     rarities:
     - Common

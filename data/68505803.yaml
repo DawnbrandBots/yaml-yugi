@@ -11,6 +11,7 @@ name:
   ja_romaji: Jenekusu Kontorōrā
   ko: 제넥스 컨트롤러
   ko_rr: Jenekseu Keonteurolleo
+  zh-CN: 次世代控制员
 text:
   en: |-
     As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.
@@ -28,6 +29,8 @@ text:
     仲間達と心を通わせる事ができる、数少ないジェネクスのひとり。様々なエレメントの力をコントロールできるぞ。
   ko: |-
     친구들과 마음을 소통할 수 있는, 흔하지 않은 제넥스 중 하나. 다양한 엘리멘트의 힘을 컨트롤할 수 있다.
+  zh-CN: |-
+    可以与伙伴们心意相通，数量极少的次世代一员。能控制各种元素的力量。
 type: Monster
 typeline: Machine / Tuner / Normal
 attribute: DARK
@@ -104,5 +107,10 @@ sets:
     - Common
   - set_number: SD40-KR018
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC118
+    set_name: Entry Pack Volume 8
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Raitorōdo Majishan Raira
   ko: 라이트로드 매지션 라일라
   ko_rr:
+  zh-CN: 光道魔术师 丽拉
 text:
   en: |-
     You can target 1 Spell/Trap your opponent controls; this card's battle position cannot be changed until the end of your next turn, also change this card you control from face-up Attack Position to face-up Defense Position, and if you do, destroy that target. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the GY.
@@ -28,6 +29,8 @@ text:
     ①：自分メインフェイズに相手フィールドの魔法・罠カード１枚を対象として発動できる。自分フィールドの表側攻撃表示のこのカードを守備表示にし、対象の相手のカードを破壊する。この効果の発動後、次の自分ターンの終了時までこのカードは表示形式を変更できない。②：自分エンドフェイズに発動する。自分のデッキの上からカードを３枚墓地へ送る。
   ko: |-
     ①: 자신 메인 페이즈에 상대 필드의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 자신 필드의 앞면 공격 표시의 이 카드를 수비 표시로 하고, 대상 상대의 카드를 파괴한다. 이 효과의 발동 후, 다음 자신 턴의 종료시까지 이 카드는 표시 형식을 변경할 수 없다. ②: 자신 엔드 페이즈에 발동한다. 자신의 덱 위에서 카드를 3장 묘지로 보낸다.
+  zh-CN: |-
+    ①：自己主要阶段以对方场上1张魔法·陷阱卡为对象才能发动。自己场上的表侧攻击表示的这张卡变成表侧守备表示，作为对象的对方的卡破坏。这个效果的发动后，直到下次的自己回合的结束时这张卡不能把表示形式变更。②：自己结束阶段发动。从自己卡组上面把3张卡送去墓地。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: LIGHT
@@ -196,5 +199,19 @@ sets:
     - Ultra Rare
   - set_number: SD29-KR015
     set_name: 'Structure Deck: Master of Pendulum'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD22-TC018
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC012
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC011
+    set_name: Entry Pack Volume 1
     rarities:
     - Common

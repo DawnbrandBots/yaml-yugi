@@ -11,6 +11,7 @@ name:
   ja_romaji: Ekkusu - Heddo Kyanon
   ko: X－헤드 캐논
   ko_rr:
+  zh-CN: X-首领加农
 text:
   en: |-
     A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters.
@@ -28,6 +29,8 @@ text:
     強力なキャノン砲を装備した、合体能力を持つモンスター。合体と分離を駆使して様々な攻撃を繰り出す。
   ko: |-
     강력한 캐논 포를 장착한 합체 능력을 가진 몬스터. 합체와 분리를 구사하여 다양한 공격을 퍼붓는다.
+  zh-CN: |-
+    装备了强大的加农炮，拥有合体能力的怪兽。运用全体与分离陆续作出各种攻击。
 type: Monster
 typeline: Machine / Normal
 attribute: LIGHT
@@ -216,5 +219,14 @@ sets:
     - Common
   - set_number: SDKS-KR005
     set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC003
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  - set_number: HD13-TCL02
+    set_name: 'Half-Deck: LIGHT'
     rarities:
     - Common

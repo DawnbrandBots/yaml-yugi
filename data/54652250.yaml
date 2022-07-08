@@ -11,6 +11,7 @@ name:
   ja_romaji: Hitokui Mushi
   ko: 식인 곤충
   ko_rr:
+  zh-CN: 食人虫
 text:
   en: |-
     FLIP: Target 1 monster on the field; destroy it.
@@ -28,6 +29,8 @@ text:
     ①：このカードがリバースした場合、フィールドのモンスター１体を対象として発動する。そのモンスターを破壊する。
   ko: |-
     리버스：필드 위의 몬스터 1장을 선택하여 파괴한다.
+  zh-CN: |-
+    ①：这张卡反转的场合，以场上1只怪兽为对象发动。那只怪兽破坏。
 type: Monster
 typeline: Insect / Flip / Effect
 attribute: EARTH
@@ -318,3 +321,16 @@ sets:
     set_name: Beginner's Edition 1
     rarities:
     - Rare
+  zh-TW:
+  - set_number: SP03-TC025
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  - set_number: HD13-TCL10
+    set_name: 'Half-Deck: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD13-TCD10
+    set_name: 'Half-Deck: DARK'
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Parametarufōze Merukyasutā
   ko: 파라메탈포제 메르캐스터
   ko_rr: Parametalpoje Mereukaeseuteo
+  zh-CN: 混炼装勇士·汞巫
 text:
   en: |-
     If this card on the field is destroyed by battle or card effect: You can add 1 face-up "Metalfoes" Pendulum Monster from your Extra Deck to your hand, except "Parametalfoes Melcaster", but you cannot activate it, or cards with its name, to place it in the Pendulum Zones, for the rest of this turn, except by card effect. You can only use this effect of "Parametalfoes Melcaster" once per turn.
@@ -28,6 +29,12 @@ text:
     このカード名のモンスター効果は１ターンに１度しか使用できない。①：フィールドのこのカードが戦闘・効果で破壊された場合に発動できる。自分のＥＸデッキから「パラメタルフォーゼ・メルキャスター」以外の表側表示の「メタルフォーゼ」Ｐモンスター１体を手札に加える。このターン、自分はこの効果で手札に加えたカード及びその同名カードをＰゾーンに発動できない。
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 엑스트라 덱에서 "파라메탈포제 메르캐스터" 이외의 앞면 표시의 "메탈포제" 펜듈럼 몬스터 1장을 패에 넣는다. 이 턴에, 자신은 이 효과로 패에 넣은 카드 및 그와 같은 이름의 카드를 펜듈럼 존에 발동할 수 없다.
+  zh-CN: |-
+    ←1 【灵摆】 1→
+    ①：1回合1次，以这张卡以外的自己场上1张表侧表示的卡为对象才能发动。那张卡破坏，从卡组选1张「炼装」魔法·陷阱卡在自己场上盖放。
+    【怪兽效果】
+    这个卡名的怪兽效果1回合只能使用1次。
+    ①：场上的这张卡被战斗·效果破坏的场合才能发动。从自己的额外卡组把「混炼装勇士·汞巫」以外的1只表侧表示的「炼装」灵摆怪兽加入手卡。这个回合，自己不能把这个效果加入手卡的卡以及那些同名卡在灵摆区域发动。
 type: Monster
 typeline: Psychic / Pendulum / Effect
 attribute: FIRE
@@ -52,6 +59,8 @@ pendulum_effect:
     ①：１ターンに１度、このカード以外の自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊し、デッキから「メタルフォーゼ」魔法・罠カード１枚を選んで自分フィールドにセットする。
   ko: |-
     ①: 1턴에 1번, 이 카드 이외의 자신 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 덱에서 "메탈포제" 마법 / 함정 카드 1장을 골라 자신 필드에 세트한다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: BLVO-EN020

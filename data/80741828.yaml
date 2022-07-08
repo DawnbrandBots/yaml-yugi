@@ -11,6 +11,7 @@ name:
   ja_romaji: Minarai Majo
   ko: 견습 마녀
   ko_rr:
+  zh-CN: 见习魔女
 text:
   en: |-
     As long as this card remains face-up on the field, increase the ATK of all DARK monsters by 500 points and decrease the ATK of all LIGHT monsters by 400 points.
@@ -28,6 +29,8 @@ text:
     ①：フィールドの闇属性モンスターの攻撃力は５００アップし、光属性モンスターの攻撃力は４００ダウンする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 모든 어둠 속성 몬스터의 공격력은 500 포인트 올린다. 빛 속성 몬스터의 공격력은 400 포인트 내린다.
+  zh-CN: |-
+    ①：场上的暗属性怪兽的攻击力上升500，光属性怪兽的攻击力下降400。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -112,5 +115,10 @@ sets:
     - Rare
   - set_number: BP2-KR070
     set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: HD13-TCD06
+    set_name: 'Half-Deck: DARK'
     rarities:
     - Common

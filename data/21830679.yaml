@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurokku Waibān
   ko: 클락 와이반
   ko_rr: Keullak Waiban
+  zh-CN: 时钟翼龙
 text:
   en: |-
     If this card is Normal or Special Summoned: You can halve this card's ATK, and if you do, Special Summon 1 "Clock Token" (Cyberse/WIND/Level 1/ATK 0/DEF 0). You can only use this effect of "Clock Wyvern" once per turn.
@@ -28,6 +29,9 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。このカードの攻撃力を半分にし、自分フィールドに「クロックトークン」（サイバース族・風・星１・攻／守０）１体を特殊召喚する。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 이 카드의 공격력을 절반으로 하고, 자신 필드에 "클락 토큰"(사이버스족 / 바람 / 레벨 1 / 공 0 / 수 0) 1장을 특수 소환한다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：这张卡召唤·特殊召唤成功的场合才能发动。这张卡的攻击力变成一半，在自己场上把1只「时钟衍生物」（电子界族·风·1星·攻/守0）特殊召唤。
 type: Monster
 typeline: Cyberse / Effect
 attribute: WIND
@@ -110,3 +114,13 @@ sets:
     set_name: Soul Fusion
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP2-SC110
+    set_name: Mega Pack 02
+    rarities:
+    - Rare
+  - set_number: EGS1-SC018
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Common

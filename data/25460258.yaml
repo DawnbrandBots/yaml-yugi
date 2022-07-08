@@ -11,6 +11,7 @@ name:
   ja_romaji: Dākufurea Doragon
   ko: 다크 플레어 드래곤
   ko_rr:
+  zh-CN: 暗黑耀星龙
 text:
   en: |-
     You can Special Summon this card (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can send 1 Dragon monster from your hand and 1 Dragon monster from your Deck to the GY, then target 1 card in either GY; banish that target.
@@ -28,6 +29,8 @@ text:
     このカードは自分の墓地の光属性と闇属性のモンスターを１体ずつゲームから除外し、手札から特殊召喚できる。１ターンに１度、手札とデッキからドラゴン族モンスターを１体ずつ墓地へ送る事で、自分または相手の墓地のカード１枚を選択してゲームから除外する。
   ko: |-
     이 카드는 자신 묘지의 빛 속성과 어둠 속성의 몬스터를 1장씩 게임에서 제외하고, 패에서 특수 소환할 수 있다. 1턴에 1번, 패와 덱에서 드래곤족 몬스터를 1장씩 묘지로 보내는 것으로, 자신 또는 상대 묘지의 카드 1장을 선택하고 게임에서 제외한다.
+  zh-CN: |-
+    这张卡可以把自己墓地的光属性和暗属性的怪兽各1只从游戏中除外，从手卡特殊召唤。1回合1次，可以通过从手卡和卡组把龙族怪兽各1只送去墓地，选择自己或者对方的墓地1张卡从游戏中除外。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -106,3 +109,13 @@ sets:
     set_name: 'Structure Deck: Dragonic Legion'
     rarities:
     - Ultra Rare
+  zh-TW:
+  - set_number: SD22-TC002
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: ST20-SC017
+    set_name: Starter Deck 2020
+    rarities:
+    - Common

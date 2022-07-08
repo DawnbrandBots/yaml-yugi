@@ -11,6 +11,7 @@ name:
   ja_romaji: Doraggu On Vāmirion
   ko: 드래그 온 버밀리온
   ko_rr:
+  zh-CN: 红龙机
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 1턴에 1번, 자신의 패 / 묘지 및 자신 필드의 앞면 표시 몬스터 중에서 튜너 1장을 제외하고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. ②: 싱크로 소환한 이 카드가 효과로 파괴되어 묘지로 보내졌을 경우, 제외되어 있는 자신의 튜너 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    1回合1次：可以把自己的手卡·场上·墓地的1只调整除外，之后选择场上1张卡；破坏那张卡。同调召唤的这张卡被卡的效果破坏送去墓地的场合：可以选择除外的1只自己的调整；那张卡加入手卡。
 type: Monster
 typeline: Machine / Synchro / Effect
 attribute: FIRE
@@ -99,3 +103,13 @@ sets:
     set_name: Extra Pack 2017
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: SD25-SCP10
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent Deck Enhancement\
+      \ Pack"
+    rarities:
+    - Super Rare
+  - set_number: SCTP-SC044
+    set_name: Entry Pack Volume 3
+    rarities:
+    - Common

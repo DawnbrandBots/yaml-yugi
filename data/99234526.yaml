@@ -12,6 +12,7 @@ name:
   ja_romaji: Kibyakuryū Waibāsutā
   ko: 휘백룡 와이버스터
   ko_rr: Hwibaengnyong Waibeoseuteo
+  zh-CN: 辉白龙 暴源翼龙
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your GY. You can only Special Summon "White Dragon Wyverburster" once per turn this way. If this card is sent from the field to the GY: You can add 1 "Black Dragon Collapserpent" from your Deck to your hand.
@@ -29,6 +30,8 @@ text:
     このカードは通常召喚できない。自分の墓地から闇属性モンスター１体を除外した場合のみ特殊召喚できる。この方法による「輝白竜 ワイバースター」の特殊召喚は１ターンに１度しかできない。①：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「暗黒竜 コラプサーペント」１体を手札に加える。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 어둠 속성 몬스터 1장을 제외했을 경우에만 특수 소환할 수 있다. 이 방법에 의한 "휘백룡 와이버스터"의 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "암흑룡 코라프서펜트" 1장을 패에 넣는다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己墓地把1只暗属性怪兽除外的场合才能特殊召唤。这个方法的「辉白龙 暴源翼龙」的特殊召唤1回合只能有1次。①：这张卡从场上送去墓地的场合才能发动。从卡组把1只「暗黑龙 坍缩星蛇」加入手卡。
 type: Monster
 typeline: Dragon / Effect
 attribute: LIGHT
@@ -249,5 +252,15 @@ sets:
     - Common
   - set_number: SD43-KR012
     set_name: 'Structure Deck: Alba Strike'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD22-TC012
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD28-SC023
+    set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common

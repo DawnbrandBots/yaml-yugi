@@ -11,6 +11,7 @@ name:
   ja_romaji: Entameiji Mirā Kondakutā
   ko: <ruby><rb>Em</rb><rp>（</rp><rt>엔터메이지</rt><rp>）</rp></ruby> 미러 컨덕터
   ko_rr:
+  zh-CN: 娱乐法师 镜子指挥
 text:
   en: |-
     Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力をターン終了時まで入れ替える。その後、自分は５００ダメージを受ける。この効果は相手ターンでも発動できる。
   ko: |-
     ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터의 공격력 / 수비력을 턴 종료시까지 맞바꾼다. 그 후, 자신은 500 데미지를 받는다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    ①：1回合1次，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力·守备力直到回合结束时交换。那之后，自己受到500伤害。这个效果在对方回合也能发动。
 type: Monster
 typeline: Spellcaster / Pendulum / Effect
 attribute: LIGHT
@@ -52,6 +55,8 @@ pendulum_effect:
     ①：１ターンに１度、フィールドの特殊召喚された表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力はターン終了時まで、その攻撃力と守備力の内、低い方の数値と同じになる。
   ko: |-
     ①: 1턴에 1번, 필드의 특수 소환된 앞면 표시 몬스터 1장을 대상으로 발동할 수 있다. 그 몬스터의 공격력 / 수비력은 턴 종료 시까지, 그 공격력과 수비력 중, 낮은 쪽의 수치와 같아진다.
+  zh-CN: |-
+    ①：1回合1次，以场上1只特殊召唤的表侧表示怪兽为对象才能发动。那只怪兽的攻击力·守备力直到回合结束时变成和那个攻击力与守备力之内较低方的数值相同。
 sets:
   en:
   - set_number: DOCS-EN015

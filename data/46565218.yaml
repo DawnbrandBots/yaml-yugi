@@ -11,6 +11,7 @@ name:
   ja_romaji: Satan Kurōsu
   ko: 사탄클로스
   ko_rr: Satankeulloseu
+  zh-CN: 撒旦老人
 text:
   en: |-
     You can Special Summon this card (from your hand) to your opponent's field in Defense Position, by Tributing 1 monster they control. If Summoned this way, once, during the End Phase of this turn: You can draw 1 card.
@@ -28,6 +29,8 @@ text:
     ①：このカードは相手フィールドのモンスター１体をリリースし、手札から相手フィールドに守備表示で特殊召喚できる。②：このカードがこのカードの①の方法で特殊召喚に成功したターンのエンドフェイズに発動できる。この効果を発動したプレイヤーはデッキから１枚ドローする。
   ko: |-
     ①: 이 카드는 상대 필드의 몬스터 1장을 릴리스하고, 패에서 상대 필드에 수비 표시로 특수 소환할 수 있다. ②: 이 카드가 이 카드의 ①의 방법으로 특수 소환에 성공한 턴의 엔드 페이즈에 발동할 수 있다. 이 효과를 발동한 플레이어는 덱에서 1장 드로우한다.
+  zh-CN: |-
+    ①：这张卡可以把对方场上1只怪兽解放，从手卡往对方场上守备表示特殊召唤。②：这张卡用这张卡的①的方法特殊召唤成功的回合的结束阶段才能发动。把这个效果发动的玩家从卡组抽1张。
 type: Monster
 typeline: Fiend / Effect
 attribute: LIGHT
@@ -135,6 +138,11 @@ sets:
     rarities:
     - Super Rare
   - set_number: SD39-KR018
+    set_name: 'Structure Deck: Masters of the Spiritual Arts'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD39-SC018
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Common

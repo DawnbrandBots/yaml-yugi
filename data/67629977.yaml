@@ -11,6 +11,7 @@ name:
   ja_romaji: Sūpāsutā
   ko: 슈퍼 스타
   ko_rr:
+  zh-CN: 超级流星
 text:
   en: |-
     All LIGHT monsters on the field gain 500 ATK, also all DARK monsters on the field lose 400 ATK.
@@ -28,6 +29,8 @@ text:
     ①：フィールドの光属性モンスターの攻撃力は５００アップし、闇属性モンスターの攻撃力は４００ダウンする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 모든 빛 속성 몬스터의 공격력은 500 포인트 올린다. 어둠 속성 몬스터의 공격력은 400 포인트 내린다.
+  zh-CN: |-
+    ①：场上的光属性怪兽的攻击力上升500，暗属性怪兽的攻击力下降400。
 type: Monster
 typeline: Fairy / Effect
 attribute: LIGHT
@@ -124,5 +127,10 @@ sets:
     - Rare
   - set_number: BP2-KR060
     set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: HD13-TCL06
+    set_name: 'Half-Deck: LIGHT'
     rarities:
     - Common

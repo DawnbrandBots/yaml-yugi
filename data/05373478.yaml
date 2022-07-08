@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibā Doragon Tsuvai
   ko: 사이버 드래곤 츠바이
   ko_rr: Saibeo Deuraegon Cheubai
+  zh-CN: 电子龙二型
 text:
   en: |-
     This card's name becomes "Cyber Dragon" while in the GY. Once per turn: You can reveal 1 Spell in your hand; this card's name becomes "Cyber Dragon" until the End Phase. If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only.
@@ -28,6 +29,8 @@ text:
     ①：このカードのカード名は、墓地に存在する限り「サイバー・ドラゴン」として扱う。②：１ターンに１度、手札の魔法カード１枚を相手に見せて発動できる。このカードのカード名はエンドフェイズまで「サイバー・ドラゴン」として扱う。③：このカードが相手モンスターに攻撃するダメージステップの間、このカードの攻撃力は３００アップする。
   ko: |-
     ①: 이 카드의 카드명은, 묘지에 존재하는 한 "사이버 드래곤"으로 취급한다. ②: 1턴에 1번, 패의 마법 카드 1장을 상대에게 보여주고 발동할 수 있다. 이 카드의 카드명은 엔드 페이즈까지 "사이버 드래곤"으로 취급한다. ③: 이 카드가 상대 몬스터에 공격하는 데미지 스텝 동안, 이 카드의 공격력은 300 올린다.
+  zh-CN: |-
+    这张卡向对方怪兽攻击的伤害步骤内，这张卡的攻击力上升300。1回合1次，把手卡1张魔法卡给对方观看才能发动。这张卡的卡名直到结束阶段时当作「电子龙」使用。此外，这张卡的卡名只要在墓地存在就当作「电子龙」使用。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -144,5 +147,10 @@ sets:
     - Common
   - set_number: SD41-KR004
     set_name: "Structure Deck: Cyber Style's Successor"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD26-SC004
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common

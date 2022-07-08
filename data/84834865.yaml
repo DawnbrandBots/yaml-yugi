@@ -11,6 +11,7 @@ name:
   ja_romaji: Doragonfurai
   ko: 드래곤 플라이
   ko_rr:
+  zh-CN: 蜻蜓
 text:
   en: |-
     When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WIND monster with 1500 or less ATK from your Deck, in face-up Attack Position.
@@ -28,6 +29,8 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキから攻撃力１５００以下の風属性モンスター１体を自分フィールド上に表側攻撃表示で特殊召喚する事ができる。
   ko: |-
     이 카드가 전투에 의해서 묘지로 보내졌을 때, 덱에서 공격력 1500 이하의 바람 속성 몬스터1장을 자신의 필드 위에 앞면 공격 표시로 특수 소환할 수 있다. 그 후 덱을 셔플한다.
+  zh-CN: |-
+    这张卡被战斗破坏送去墓地时，可以从自己卡组把1只攻击力1500以下的风属性怪兽在自己场上表侧攻击表示特殊召唤。
 type: Monster
 typeline: Insect / Effect
 attribute: WIND
@@ -181,3 +184,8 @@ sets:
     set_name: 'Structure Deck: Dragunity Drive'
     rarities:
     - Common
+  zh-TW:
+  - set_number: SP03-TC018
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Tatsunoko
   ko: 해마
   ko_rr: Haeda
+  zh-CN: 龙子
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     싱크로 소환한 이 카드를 소재로서 싱크로 소환을 할 경우, 패의 몬스터 1장도 싱크로 소재로 할 수 있다. ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드는 다른 몬스터의 효과를 받지 않는다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    同调召唤的这张卡为素材作同调召唤的场合，可以把手卡1只怪兽作为同调素材。①：只要这张卡在怪兽区域存在，这张卡不受这张卡以外的怪兽的效果影响。
 type: Monster
 typeline: Wyrm / Synchro / Tuner / Effect
 attribute: WATER
@@ -134,3 +138,16 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-TW:
+  - set_number: ABYR-TC095
+    set_name: Abyss Rising
+    rarities:
+    - Super Rare
+    - Secret Rare
+  zh-CN:
+  - set_number: 22RC-SC027
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

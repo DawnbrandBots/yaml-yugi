@@ -11,6 +11,7 @@ name:
   ja_romaji: Ribaibaru Gōremu
   ko: 리바이벌 골렘
   ko_rr:
+  zh-CN: 再生石人
 text:
   en: |-
     The effect of "Revival Golem" can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.
@@ -40,6 +41,8 @@ text:
     이 카드가 덱에서 묘지로 보내졌을 때, 이하의 효과에서 1개를 선택하고 발동한다. "리바이벌 골렘"의 효과는 1턴에 1번밖에 사용할 수 없다.
     ●이 카드를 묘지에서 특수 소환한다.
     ●이 카드를 묘지에서 패에 넣는다.
+  zh-CN: |-
+    这张卡从卡组送去墓地时，从以下效果选择1个发动。「再生石人」的效果1回合只能使用1次。●这张卡从墓地特殊召唤。●这张卡从墓地加入手卡。
 type: Monster
 typeline: Rock / Effect
 attribute: EARTH
@@ -81,3 +84,8 @@ sets:
     set_name: 'Extra Pack: Sword of Knights'
     rarities:
     - Rare
+  zh-TW:
+  - set_number: REDU-TC085
+    set_name: Return of the Duelist
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Gōki Za Burēdo Ōga
   ko: 강귀 더 블레이드 오우거
   ko_rr: Ganggwi Deo Beulleideu Ougeo
+  zh-CN: 刚鬼 利剑食人魔
 text:
   en: |-
     2+ "Gouki" monsters
@@ -36,6 +37,10 @@ text:
   ko: |-
     "강귀" 몬스터 2장 이상
     ①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 300 올린다. ②: 1턴에 1번, 이 카드의 링크 앞의 자신 또는 상대의 몬스터 1장을 릴리스하고 발동할 수 있다. 이 턴에, 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다.
+  zh-CN: |-
+    「刚鬼」怪兽2只以上
+    ①：这张卡的攻击力上升这张卡所连接区的怪兽数量×300。
+    ②：1回合1次，把这张卡所连接区1只自己或者对方的怪兽解放才能发动。这个回合，这张卡在同1次的战斗阶段中可以作2次攻击。
 type: Monster
 typeline: Warrior / Link / Effect
 attribute: EARTH
@@ -78,5 +83,10 @@ sets:
   ko:
   - set_number: DANE-KR043
     set_name: Dark Neostorm
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC077
+    set_name: Mega Pack 03
     rarities:
     - Common

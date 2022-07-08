@@ -11,6 +11,7 @@ name:
   ja_romaji: Ganseki no Kyohei
   ko: 암석거인
   ko_rr:
+  zh-CN: 岩石巨兵
 text:
   en: |-
     A giant warrior made of stone. A punch from this creature has earth-shaking results.
@@ -28,6 +29,8 @@ text:
     <ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>の<ruby><rb>巨</rb><rp>（</rp><rt>きよ</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>。<ruby><rb>太</rb><rp>（</rp><rt>ふと</rt><rp>）</rp></ruby>い<ruby><rb>腕</rb><rp>（</rp><rt>うで</rt><rp>）</rp></ruby>の<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>は<ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>をゆるがす。
   ko: |-
     암석의 거인병. 거대한 팔 공격은 대지를 뒤흔들 정도로 강력하다.
+  zh-CN: |-
+    岩石的巨人兵。粗壮手腕的攻击让大地动摇。
 type: Monster
 typeline: Rock / Normal
 attribute: EARTH
@@ -356,5 +359,10 @@ sets:
     - Common
   - set_number: 15AY-KRA15
     set_name: 'Memories of the Duel King: Duelist Kingdom Arc'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC006
+    set_name: Duel Starter Deck
     rarities:
     - Common

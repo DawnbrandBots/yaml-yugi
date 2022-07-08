@@ -11,6 +11,7 @@ name:
   ja_romaji: Torunēdoragon
   ko: 토네이드래곤
   ko_rr:
+  zh-CN: 龙卷龙
 text:
   en: |-
     2 Level 4 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    4星怪兽×2
+    1回合1次，在自己或者对方回合：可以把这张卡1个Xyz素材取除，之后选择场上1张魔法/陷阱卡；破坏那张卡。
 type: Monster
 typeline: Wyrm / Xyz / Effect
 attribute: WIND
@@ -139,3 +143,8 @@ sets:
     set_name: Extra Pack 2017
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: ST21-SCP10
+    set_name: Starter Deck 2021 Special Pack
+    rarities:
+    - Super Rare

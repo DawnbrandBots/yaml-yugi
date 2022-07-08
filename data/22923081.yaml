@@ -12,6 +12,7 @@ name:
   ja_romaji: Kuro Madō Senshi Bureikā
   ko: 흑마도전사 브레이커
   ko_rr:
+  zh-CN: 黑魔导战士 破坏者
 text:
   en: |-
     If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. Gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of "Breaker the Dark Magical Warrior" once per turn.
@@ -29,6 +30,12 @@ text:
     「黒魔導戦士 ブレイカー」の④の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを２つ置く。②：このカードがＰ召喚に成功した場合に発動する。このカードに魔力カウンターを３つ置く。③：このカードの攻撃力は、このカードの魔力カウンターの数×４００アップする。④：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     "흑마도전사 브레이커"의 ④의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 2개 놓는다. ② : 이 카드가 펜듈럼 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 3개 놓는다. ③ : 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 400 올린다. ④ : 이 카드의 마력 카운터를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-CN: |-
+    「黑魔导战士 破坏者」的④的效果1回合只能使用1次。
+    ①：这张卡召唤成功的场合发动。给这张卡放置2个魔力指示物。
+    ②：这张卡灵摆召唤成功的场合发动。给这张卡放置3个魔力指示物。
+    ③：这张卡的攻击力上升这张卡的魔力指示物数量×400。
+    ④：把这张卡1个魔力指示物取除，以场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -111,3 +118,9 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Rare
+  zh-CN:
+  - set_number: EGS1-SC014
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Sutādasuto Doragon
   ko: 스타더스트 드래곤
   ko_rr: Seutadeoseuteu Deuraegon
+  zh-CN: 星尘龙
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 필드의 카드를 파괴하는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 릴리스하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ②: 이 카드의 ①의 효과를 적용한 턴의 엔드 페이즈에 발동할 수 있다. 그 효과를 발동하기 위해 릴리스한 이 카드를 묘지에서 특수 소환한다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    ①：要把场上的卡破坏的魔法·陷阱·怪兽的效果发动时，把这张卡解放才能发动。那个发动无效并破坏。②：这张卡的①的效果适用的回合的结束阶段才能发动。为那个效果发动而解放的这张卡从墓地特殊召唤。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: WIND
@@ -378,3 +382,8 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: TRC1-SC005
+    set_name: The Rarity Collection
+    rarities:
+    - Extra Secret Rare

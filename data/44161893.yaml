@@ -11,6 +11,7 @@ name:
   ja_romaji: Saramangureito Zeburoido Ekkusu
   ko: 샐러맨그레이트 제브로이드<ruby><rb>X</rb><rp>（</rp><rt>엑스</rt><rp>）</rp></ruby>
   ko_rr: Saelleomaen-geureiteu Jebeuroideu Ekseu
+  zh-CN: 转生炎兽 杂交斑马X
 text:
   en: |-
     While this card is in your GY, if a "Salamangreat" Link Monster you control leaves the field because of an opponent's card effect (except during the Damage Step): You can Special Summon 2 Level 4 "Salamangreat" monsters from your GY, including this card, but negate their effects, and if you do, immediately after this effect resolves, Xyz Summon 1 "Salamangreat" Xyz Monster, using only those 2 monsters. You can only use this effect of "Salamangreat Zebroid X" once per turn. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
@@ -34,6 +35,11 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在し、自分の「サラマングレイト」リンクモンスターが相手の効果でフィールドから離れた場合に発動できる。自分の墓地からこのカードを含むレベル４の「サラマングレイト」モンスター２体を選んで効果を無効にして特殊召喚し、その２体のみを素材として「サラマングレイト」モンスター１体をＸ召喚する。②：フィールドのこのカードを素材としてＸ召喚したモンスターは以下の効果を得る。●このカードの攻撃力はこのカードのＸ素材の数×３００アップする。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 묘지에 존재하고, 자신의 "샐러맨그레이트" 링크 몬스터가 상대 효과로 필드에서 벗어났을 경우에 발동할 수 있다. 자신 묘지에서 이 카드를 포함하는 레벨 4 의 "샐러맨그레이트" 몬스터 2장을 고르고 효과를 무효로 하여 특수 소환하고, 그 2장만을 소재로서 "샐러맨그레이트" 몬스터 1장을 엑시즈 소환한다. ②: 필드의 이 카드를 소재로서 엑시즈 소환한 몬스터는 이하의 효과를 얻는다. ●이 카드의 공격력은 이 카드의 엑시즈 소재의 수 × 300 올린다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡在墓地存在，自己的「转生炎兽」连接怪兽因对方的效果从场上离开的场合才能发动。从自己墓地选包含这张卡的2只4星「转生炎兽」怪兽效果无效特殊召唤，只用那2只为素材把1只「转生炎兽」怪兽超量召唤。
+    ②：场上的这张卡为素材作超量召唤的怪兽得到以下效果。
+    ●这张卡的攻击力上升这张卡的超量素材数量×300。
 type: Monster
 typeline: Cyberse / Effect
 attribute: FIRE
@@ -94,5 +100,10 @@ sets:
   ko:
   - set_number: ETCO-KR003
     set_name: Eternity Code
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC104
+    set_name: Mega Pack 04
     rarities:
     - Common

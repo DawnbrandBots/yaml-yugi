@@ -12,6 +12,7 @@ name:
   ja_romaji: Ikai no Yōsei Erufobia
   ko: 이괴의 요정 엘포비아
   ko_rr:
+  zh-CN: 异怪之妖精 艾尔佛彼娅
 text:
   en: |-
     Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next Main Phase 1, monsters with a Level higher than the revealed monster cannot activate their effects.
@@ -29,6 +30,8 @@ text:
     １ターンに１度、手札の風属性モンスター１体を相手に見せて発動できる。次の相手のメインフェイズ１終了時まで、お互いのプレイヤーは、見せたモンスターよりレベルの高いモンスターの効果を発動できない。
   ko: |-
     1턴에 1번, 패의 바람 속성 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 다음 상대의 메인 페이즈 1 종료시까지, 양쪽 플레이어는, 보여준 몬스터보다 레벨이 높은 몬스터의 효과를 발동할 수 없다.
+  zh-CN: |-
+    1回合1次，把手卡1只风属性怪兽给对方观看才能发动。直到下次的对方的主要阶段1结束时，双方玩家不能把比给人观看的怪兽等级高的怪兽的效果发动。
 type: Monster
 typeline: Psychic / Effect
 attribute: WIND
@@ -71,3 +74,13 @@ sets:
     set_name: 'Extra Pack: Sword of Knights'
     rarities:
     - Super Rare
+  zh-TW:
+  - set_number: LTGY-TC086
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC104
+    set_name: Entry Pack Volume 7
+    rarities:
+    - Common

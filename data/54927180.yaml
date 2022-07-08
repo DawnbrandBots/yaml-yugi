@@ -11,6 +11,7 @@ name:
   ja_romaji: Fukubiki
   ko: 복비희
   ko_rr: Bokbihui
+  zh-CN: 福悲喜
 text:
   en: |-
     Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.
@@ -28,5 +29,7 @@ text:
     ①：お互いのプレイヤーは、デッキをシャッフルし、デッキの一番上のカードをめくってそのカードの攻撃力を確認する（攻撃力？のモンスターまたは魔法・罠カードの場合はその攻撃力を０として扱う）。攻撃力が高い方のカードをそのプレイヤーの手札に加え、攻撃力が低い方のカードを墓地へ送る。攻撃力が同じだった場合、それらのカードをデッキの一番下に戻す。
   ko: |-
     ①: 양쪽 플레이어는 덱을 셔플하고 덱 맨 위의 카드를 넘겨 그 카드의 공격력을 확인한다(공격력 ? 의 몬스터 또는 마법 / 함정 카드일 경우에는 그 공격력을 0 으로 취급한다). 공격력이 높은 쪽의 카드를 그 플레이어의 패에 넣고, 공격력이 낮은 쪽의 카드를 묘지로 보낸다. 공격력이 같았을 경우, 그 카드들을 덱 맨 아래로 되돌린다.
+  zh-CN: |-
+    ①：双方玩家把卡组洗切，卡组最上面的卡翻开并把那些卡的攻击力确认（攻击力?的怪兽或者魔法·陷阱卡的场合那个攻击力当作0使用）。攻击力较高方的卡加入那个玩家的手卡，攻击力较低方的卡送去墓地。攻击力相同的场合，那些卡回到卡组最下面。
 type: Trap
 property: Normal

@@ -11,6 +11,7 @@ name:
   ja_romaji: Raito Sāpento
   ko: 라이트 서펜트
   ko_rr:
+  zh-CN: 光蛇
 text:
   en: |-
     If this card is sent from the hand to the GY: You can Special Summon this card from your GY. Cannot be used as Synchro Material.
@@ -28,6 +29,8 @@ text:
     このカードが手札から墓地に送られた場合、このカードを墓地から特殊召喚することができる。このカードはシンクロ召喚の素材に使用できない。
   ko: |-
     이 카드가 패에서 묘지로 보내졌을 경우, 이 카드를 묘지에서 특수 소환할 수 있다. 이 카드는 싱크로 소재로 할 수 없다.
+  zh-CN: |-
+    这张卡从手卡送去墓地的场合，这张卡可以从墓地特殊召唤。这张卡不能作为同调素材。
 type: Monster
 typeline: Reptile / Effect
 attribute: LIGHT
@@ -92,5 +95,10 @@ sets:
     - Super Rare
   - set_number: DP13-KR003
     set_name: 'Duelist Pack: Kite'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC088
+    set_name: Entry Pack Volume 6
     rarities:
     - Common

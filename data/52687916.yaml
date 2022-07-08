@@ -12,6 +12,7 @@ name:
   ja_romaji: Hyōkekkai no Ryū Torishūra
   ko: 빙결계의 용 트리슈라
   ko_rr: Binggyeolgye-ui Yong Teurisyura
+  zh-CN: 冰结界之龙 三叉龙
 text:
   en: |-
     1 Tuner + 2+ non-Tuner monsters
@@ -37,6 +38,9 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 2장 이상
     ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 상대의 패 / 필드 / 묘지의 카드를 각각 1장까지 고르고 제외할 수 있다(패에서는 무작위로 고른다).
+  zh-CN: |-
+    调整＋调整以外的怪兽2只以上
+    ①：这张卡同调召唤成功时才能发动。对方的手卡·场上·墓地的卡可以各选最多1张除外。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: WATER
@@ -315,3 +319,10 @@ sets:
     rarities:
     - Super Parallel Rare
     - Secret Parallel Rare
+  zh-CN:
+  - set_number: TRC1-SC030
+    set_name: The Rarity Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Collector's Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Vi - Taigā Jetto
   ko: V－타이거 제트
   ko_rr:
+  zh-CN: V-喷气虎
 text:
   en: |-
     This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.
@@ -28,6 +29,8 @@ text:
     空中戦を得意とする、合体能力を持つモンスター。合体と分離を駆使して立体的な攻撃を繰り出す。
   ko: |-
     공중전이 특기인 합체능력을 가진 몬스터. 합체와 분리를 구사하여 입체적인 공격을 한다.
+  zh-CN: |-
+    擅长空中战，持有合体能力的怪兽。驱使合体和分离陆续作出立体攻击。
 type: Monster
 typeline: Machine / Normal
 attribute: LIGHT
@@ -152,5 +155,10 @@ sets:
     - Common
   - set_number: AE09-KR016
     set_name: Advanced Event Pack 2016 Vol.1
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC005
+    set_name: Duel Starter Deck
     rarities:
     - Common

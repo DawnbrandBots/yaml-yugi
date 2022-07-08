@@ -11,6 +11,7 @@ name:
   ja_romaji: Bittoron
   ko: 비트론
   ko_rr: Biteuron
+  zh-CN: 比特机灵
 text:
   en: |-
     A new species found in electronic space. There's not much information on it.
@@ -28,6 +29,8 @@ text:
     電子空間で見つけた新種。その情報量は少ない。
   ko: |-
     전자 공간에서 발견한 신종. 그 정보량은 적다.
+  zh-CN: |-
+    电子空间发现的新品种。它的信息量非常少。
 type: Monster
 typeline: Cyberse / Normal
 attribute: EARTH
@@ -129,5 +132,10 @@ sets:
     - Common
   - set_number: ST19-KR005
     set_name: Starter Deck 2019
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC142
+    set_name: Mega Pack 01
     rarities:
     - Common

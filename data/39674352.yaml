@@ -11,6 +11,7 @@ name:
   ja_romaji: Gogiga Gagagigo
   ko: 고기가 가가기고
   ko_rr:
+  zh-CN: 巨歧蜥·魔蜥义豪
 text:
   en: |-
     His soul long-since collapsed, his body recklessly continues onward, driven by a lust for more power. He no longer resembles his former self....
@@ -28,6 +29,8 @@ text:
     既に精神は崩壊し、肉体は更なるパワーを求めて暴走する。その姿にかつての面影はない…。
   ko: |-
     이미 정신은 붕괴하여, 육체는 더한 힘을 찾아서 폭주한다. 그 모습 속에 예전의 면모는 없으니...
+  zh-CN: |-
+    已经精神崩溃，肉体追求更强的力量而暴走。在它身上再也找不到昔日的面影……
 type: Monster
 typeline: Reptile
 attribute: WATER
@@ -112,5 +115,10 @@ sets:
     - Common
   - set_number: YSD4-KR001
     set_name: Starter Deck 2009
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC003
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Daisu Potto
   ko: 다이스 포트
   ko_rr:
+  zh-CN: 骰子壶
 text:
   en: |-
     FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.
@@ -28,6 +29,8 @@ text:
     リバース：お互いにサイコロを１回ずつ振る。相手より小さい目が出たプレイヤーは、相手の出た目によって以下のダメージを受ける。相手の出た目が２～５だった場合、相手の出た目×５００ポイントダメージを受ける。相手の出た目が６だった場合、６０００ポイントダメージを受ける。お互いの出た目が同じだった場合はサイコロを振り直す。
   ko: |-
     리버스 : 서로 주사위를 1회씩 던진다. 상대보다 작은 눈이 나온 플레이어는 상대의 나온 눈 x 500 포인트의 데미지를 받는다. 단, 6의 눈으로 진 플레이어는 6000 포인트의 데미지를 받는다. 무승부인 경우는 다시 한다.
+  zh-CN: |-
+    双方各掷1次骰子。比对方小的数目出现的玩家受到对方出现的数目的以下伤害。对方出现的数目是2～5的场合，受到对方出现的数目×500的数值的伤害。对方出现的数目是6的场合，受到6000分伤害。双方出现的数目相同的场合重新投掷。
 type: Monster
 typeline: Rock / Effect
 attribute: LIGHT

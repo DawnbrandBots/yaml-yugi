@@ -11,6 +11,7 @@ name:
   ja_romaji: Dakkufaitā
   ko: 덕 파이터
   ko_rr:
+  zh-CN: 野鸭战斗机
 text:
   en: |-
     If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of "Duck Fighter" once per turn.
@@ -28,6 +29,8 @@ text:
     自分フィールド上のトークンを、そのレベルの合計が３以上になるようにリリースして発動できる。このカードを手札または墓地から特殊召喚する。「ダックファイター」の効果は１ターンに１度しか使用できない。
   ko: |-
     자신 필드 위의 토큰을, 그 레벨의 합계가 3 이상이 되도록 릴리스하고 발동할 수 있다. 이 카드를 패 또는 묘지에서 특수 소환한다. "덕 파이터" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    把自己场上的衍生物那个等级合计直到3以上解放才能发动。这张卡从手卡或者墓地特殊召唤。「野鸭战斗机」的效果1回合只能使用1次。
 type: Monster
 typeline: Machine / Effect
 attribute: WIND
@@ -76,5 +79,10 @@ sets:
   ko:
   - set_number: PR03-KR007
     set_name: Promotion Pack 2013 Vol.3
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC097
+    set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

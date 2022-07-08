@@ -11,6 +11,7 @@ name:
   ja_romaji: Sajin no Kishi
   ko: 모래 먼지의 기사
   ko_rr:
+  zh-CN: 沙尘之骑士
 text:
   en: |-
     FLIP: Send 1 EARTH monster from your Deck to the Graveyard.
@@ -28,6 +29,8 @@ text:
     リバース：自分のデッキから地属性モンスター1体を墓地に送る。
   ko: |-
     리버스 : 덱에서 땅 속성 몬스터 1장을 묘지로 보낸다.
+  zh-CN: |-
+    从卡组把1只地属性怪兽送去墓地。
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -62,6 +65,11 @@ sets:
     - Rare
   ko:
   - set_number: REDU-KR034
+    set_name: Return of the Duelist
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: REDU-TC034
     set_name: Return of the Duelist
     rarities:
     - Rare

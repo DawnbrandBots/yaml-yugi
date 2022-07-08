@@ -11,6 +11,7 @@ name:
   ja_romaji: Kōtetsu no Kyohei
   ko: 강철 거인
   ko_rr:
+  zh-CN: 钢铁巨兵
 text:
   en: |-
     2 Level 3 Rock-Type monsters
@@ -36,6 +37,8 @@ text:
   ko: |-
     암석족 레벨 3 몬스터 × 2
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 이 카드는 이 카드 이외의 몬스터의 효과를 받지 않는다. 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 수비력은 엔드 페이즈시까지 1000 포인트 올리고, 이 턴에 상대 카드의 효과에 의해서 발생하는 자신에게로의 효과 데미지는 0 이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    岩石族3星怪兽×2。只要这张卡在场上表侧表示存在，这张卡不受这张卡以外的怪兽的效果影响。1回合1次，把这张卡1个XYZ素材取除才能发动。这张卡的守备力直到结束阶段时上升1000，这个回合，对方的卡的效果发生的对自己的效果伤害变成0。这个效果在对方回合也能发动。
 type: Monster
 typeline: Rock / Xyz / Effect
 attribute: EARTH
@@ -95,3 +98,8 @@ sets:
     set_name: 'Extra Pack: Sword of Knights'
     rarities:
     - Rare
+  zh-TW:
+  - set_number: ABYR-TC085
+    set_name: Abyss Rising
+    rarities:
+    - Common

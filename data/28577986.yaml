@@ -11,6 +11,7 @@ name:
   ja_romaji: Māmeiru - Ōkeabisu
   ko: 머메일-오케어비스
   ko_rr:
+  zh-CN: 水精鳞-深渊水仙女
 text:
   en: |-
     You can target 1 "Mermail" monster you control; Special Summon any number of Level 4 or lower "Mermail" monsters from your Deck whose combined Levels are less than or equal to the Level of that monster, then send that monster to the Graveyard. You can only use the effect of "Mermail Abyssocea" once per turn.
@@ -28,6 +29,8 @@ text:
     自分のメインフェイズ時、自分フィールド上の「水精鱗」と名のついたモンスター１体を選択して発動できる。レベルの合計が選択したモンスターのレベル以下となるように、デッキからレベル４以下の「水精鱗」と名のついたモンスターを任意の数だけ特殊召喚する。その後、選択したモンスターを墓地へ送る。「水精鱗－オーケアビス」の効果は１ターンに１度しか使用できない。
   ko: |-
     자신의 메인 페이즈시, 자신 필드 위의 "머메일" 이라는 이름이 붙은 몬스터 1장을 선택하고 발동할 수 있다. 레벨의 합계가 선택한 몬스터의 레벨 이하가 되도록, 덱에서 레벨 4 이하의 "머메일" 이라는 이름이 붙은 몬스터를 임의의 수만큼 특수 소환한다. 그 후, 선택한 몬스터를 묘지로 보낸다. "머메일-오케어비스" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    自己的主要阶段时，选择自己场上1只名字带有「水精鳞」的怪兽才能发动。等级合计最多到选择的怪兽的等级以下为止，从卡组把4星以下的名字带有「水精鳞」的怪兽任意数量特殊召唤。那之后，选择的怪兽送去墓地。「水精鳞-深渊水仙女」的效果1回合只能使用1次。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -87,6 +90,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR030
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC030
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

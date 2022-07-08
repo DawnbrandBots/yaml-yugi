@@ -11,6 +11,7 @@ name:
   ja_romaji: Nachuru Bīsuto
   ko: 나츄르 비스트
   ko_rr:
+  zh-CN: 自然兽
 text:
   en: |-
     1 EARTH Tuner + 1+ non-Tuner EARTH monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     땅 속성 튜너 ＋ 튜너 이외의 땅 속성 몬스터 1장 이상
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 덱 위에서 카드를 2장 묘지로 보내는 것으로, 마법 카드의 발동을 무효로 하고 파괴한다.
+  zh-CN: |-
+    地属性调整＋调整以外的地属性怪兽1只以上
+    只要这张卡在场上表侧表示存在，可以通过从卡组上面把2张卡送去墓地，魔法卡的发动无效并破坏。
 type: Monster
 typeline: Beast / Synchro / Effect
 attribute: EARTH
@@ -193,3 +197,8 @@ sets:
     - Common
     - Gold Rare
     - Gold Secret Rare
+  zh-CN:
+  - set_number: SCTP-SC062
+    set_name: Entry Pack Volume 4
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Mogumōru
   ko: 모그몰
   ko_rr:
+  zh-CN: 遁地鼹鼠
 text:
   en: |-
     When this card on the field is destroyed and sent to the Graveyard: You can Special Summon it from your Graveyard in face-up Defense Position. You can only use the effect of "Mogmole" once per Duel.
@@ -28,6 +29,8 @@ text:
     フィールド上のこのカードが破壊され墓地へ送られた時、このカードを墓地から表側守備表示で特殊召喚できる。「モグモール」の効果はデュエル中に１度しか使用できない。
   ko: |-
     필드 위의 이 카드가 파괴되어 묘지로 보내졌을 때, 이 카드를 묘지에서 앞면 수비 표시로 특수 소환할 수 있다. "모그몰" 의 효과는 듀얼 중 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    场上的这张卡被破坏送去墓地时，这张卡可以从墓地表侧守备表示特殊召唤。「遁地鼹鼠」的效果在决斗中只能使用1次。
 type: Monster
 typeline: Beast / Effect
 attribute: EARTH
@@ -79,6 +82,11 @@ sets:
     - Common
   ko:
   - set_number: ABYR-KR004
+    set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC004
     set_name: Abyss Rising
     rarities:
     - Common

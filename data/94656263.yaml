@@ -11,6 +11,7 @@ name:
   ja_romaji: Kagetokage
   ko: 그림자 도마뱀
   ko_rr: Geurimja Domabaem
+  zh-CN: 影蜥蜴
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できず、このカードの効果で特殊召喚できる。このカードはＳ素材にできない。①：自分がレベル４モンスターの召喚に成功した時に発動できる。このカードを手札から特殊召喚する。
   ko: |-
     이 카드는 통상 소환할 수 없으며, 이 카드의 효과로 특수 소환할 수 있다. 이 카드는 싱크로 소재로 할 수 없다. ①: 자신이 레벨 4 몬스터의 일반 소환에 성공했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다.
+  zh-CN: |-
+    这张卡不能通常召唤。自己对4星怪兽的召唤成功时，这张卡可以从手卡特殊召唤。这张卡不能作为同调素材。
 type: Monster
 typeline: Reptile / Effect
 attribute: DARK
@@ -173,5 +176,15 @@ sets:
     - Common
   - set_number: SD42-KR017
     set_name: 'Structure Deck: Overlay Universe'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC011
+    set_name: Duel Starter Deck
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC087
+    set_name: Entry Pack Volume 6
     rarities:
     - Common

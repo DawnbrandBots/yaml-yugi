@@ -12,6 +12,7 @@ name:
   ja_romaji: Ankokukai no Banpei Renji
   ko: 암흑계의 파수병 렌지
   ko_rr:
+  zh-CN: 暗黑界的番兵 兰治
 text:
   en: |-
     His renowned athletic physique has made him famous with the populace of Dark World. They call him "Iron Wall Renge" because no one can break through his incredible defenses.
@@ -29,6 +30,8 @@ text:
     暗黒界随一の強靭な身体を誇り、「鉄壁レンジ」として暗黒界の人々から親しまれている。彼の守りを破れる者は少ない。
   ko: |-
     암흑계 제일의 강인한 신체를 자랑하는 "철벽 렌지"로 암흑계 사람들과 사이가 좋다. 그의 수비를 깰 수 있는 자는 거의 없다.
+  zh-CN: |-
+    以暗黑界第一结实的身体著称，作为「铁壁兰治」被暗黑界的人们另眼相看。他的防守很少有突破者。
 type: Monster
 typeline: Fiend
 attribute: DARK
@@ -116,5 +119,18 @@ sets:
     - Common
   - set_number: YSD3-KR008
     set_name: Starter Deck 2008
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: HD13-TCD05
+    set_name: 'Half-Deck: DARK'
+    rarities:
+    - Common
+  - set_number: SP02-TC004
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Common
+  - set_number: SD21-TC015
+    set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

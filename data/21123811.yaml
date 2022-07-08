@@ -11,6 +11,7 @@ name:
   ja_romaji: Kozumikku Bureizā Doragon
   ko: 코즈믹 블레이저 드래곤
   ko_rr: Kojeumik Beulleijeo Deuraegon
+  zh-CN: 宇宙耀变龙
 text:
   en: |-
     1 Tuner Synchro Monster + 2+ non-Tuner Synchro Monsters
@@ -54,6 +55,12 @@ text:
   ko: |-
     싱크로 몬스터의 튜너 ＋ 튜너 이외의 싱크로 몬스터 2장 이상
     이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다. ①: 필드의 이 카드를 엔드 페이즈까지 제외하고 이하의 효과에서 1개를 선택하여 발동할 수 있다. ●상대가 마법 / 함정 / 몬스터의 효과를 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ●상대가 몬스터를 일반 소환 / 반전 소환 / 특수 소환할 시기에 발동할 수 있다. 그것을 무효로 하고, 그 몬스터를 파괴한다. ●상대 몬스터의 공격 선언시에 발동할 수 있다. 그 공격을 무효로 하고, 그 후 배틀 페이즈를 종료한다.
+  zh-CN: |-
+    同调怪兽调整＋调整以外的同调怪兽2只以上
+    这张卡不用同调召唤不能特殊召唤。①：可以把场上的这张卡直到结束阶段除外从以下效果选择1个发动。
+    ●对方把魔法·陷阱·怪兽的效果发动时才能发动。那个发动无效并破坏。
+    ●对方把怪兽召唤·反转召唤·特殊召唤之际才能发动。那个无效，那些怪兽破坏。
+    ●对方怪兽的攻击宣言时才能发动。那次攻击无效，那之后战斗阶段结束。
 type: Monster
 typeline: Dragon / Synchro / Effect
 attribute: WIND
@@ -141,3 +148,8 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: SD28-SCP01
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
+    - Secret Rare

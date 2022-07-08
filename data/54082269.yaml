@@ -11,6 +11,7 @@ name:
   ja_romaji: Burakku Fezā - Furu Āmādo Wingu
   ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－풀아머드 윙
   ko_rr: Beullaek Pedeo - Pulameodeu Wing
+  zh-CN: 黑羽-重装铠翼鸦
 text:
   en: |-
     1 "Blackwing" Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,12 @@ text:
   ko: |-
     "BF(블랙 페더)" 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드는 다른 카드의 효과를 받지 않는다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대 필드의 몬스터가 효과를 발동할 때마다, 그 상대의 앞면 표시 몬스터에 쐐기 카운터를 1개 놓는다(최대 1개까지). ③: 1턴에 1번, 상대 필드의 쐐기 카운터가 놓여진 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 컨트롤을 얻는다. ④: 자신 엔드 페이즈에 발동할 수 있다. 필드의 쐐기 카운터가 놓여진 몬스터를 전부 파괴한다.
+  zh-CN: |-
+    「黑羽」调整＋调整以外的怪兽1只以上
+    ①：这张卡不受其他卡的效果影响。
+    ②：只要这张卡在怪兽区域存在，每次对方场上的怪兽把效果发动，给那只对方的表侧表示怪兽放置1个楔指示物（最多1个）。
+    ③：1回合1次，以对方场上1只有楔指示物放置的怪兽为对象才能发动。得到那只怪兽的控制权。
+    ④：自己结束阶段才能发动。场上的有楔指示物放置的怪兽全部破坏。
 type: Monster
 typeline: Winged Beast / Synchro / Effect
 attribute: DARK
@@ -96,6 +103,11 @@ sets:
     - Ultra Rare
   ko:
   - set_number: DP20-KR023
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: DP20-SC023
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Ultra Rare

@@ -12,6 +12,7 @@ name:
   ja_romaji: Madō Senshi Bureikā
   ko: 마도전사 브레이커
   ko_rr:
+  zh-CN: 魔导战士 破坏者
 text:
   en: |-
     If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.
@@ -29,6 +30,8 @@ text:
     ①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×３００アップする。③：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다(최대 1개까지). ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 300 올린다. ③: 이 카드의 마력 카운터를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 마법 / 함정 카드를 파괴한다.
+  zh-CN: |-
+    ①：这张卡召唤成功的场合发动。给这张卡放置1个魔力指示物（最多1个）。②：这张卡的攻击力上升这张卡的魔力指示物数量×300。③：把这张卡的1个魔力指示物取除，以场上1张魔法·陷阱卡为对象才能发动。那张魔法·陷阱卡破坏。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -96,6 +99,10 @@ sets:
     set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
     rarities:
     - Common
+  - set_number: STP4-EN0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Super Rare
   de:
   - set_number: DR1-DE126
     set_name: Dark Revelation Volume 1
@@ -156,6 +163,10 @@ sets:
     set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
     rarities:
     - Common
+  - set_number: STP4-DE0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Super Rare
   fr:
   - set_number: DR1-FR126
     set_name: Dark Revelation Volume 1
@@ -216,6 +227,10 @@ sets:
     set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
     rarities:
     - Common
+  - set_number: STP4-FR0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Super Rare
   it:
   - set_number: DR1-IT126
     set_name: Dark Revelation Volume 1
@@ -276,6 +291,10 @@ sets:
     set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
     rarities:
     - Common
+  - set_number: STP4-IT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Super Rare
   pt:
   - set_number: DR1-PT126
     set_name: Dark Revelation Volume 1
@@ -306,6 +325,10 @@ sets:
     set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
     rarities:
     - Common
+  - set_number: STP4-PT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Super Rare
   ja:
   - set_number: 303-017
     set_name: Champion of Black Magic
@@ -397,3 +420,18 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  zh-TW:
+  - set_number: SP03-TC014
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: ST21-SC009
+    set_name: Starter Deck 2021
+    rarities:
+    - Common
+  - set_number: EGS1-SC007
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Common

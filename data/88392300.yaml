@@ -11,6 +11,7 @@ name:
   ja_romaji: Densō Gijin Erekineshisu
   ko: 전송의인 일렉키네시스
   ko_rr:
+  zh-CN: 电送拟人 电气念动人
 text:
   en: |-
     (Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of their Main Monster Zones.
@@ -28,6 +29,8 @@ text:
     ①：手札・フィールドのこのカードを墓地へ送り、相手フィールドのモンスター１体を対象として発動できる。その相手モンスターの位置を、他の相手のメインモンスターゾーンに移動する。この効果は相手ターンでも発動できる。
   ko: |-
     ① : 패 / 필드의 이 카드를 묘지로 보내고, 상대 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 상대 몬스터의 위치를, 다른 상대 메인 몬스터 존으로 이동한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    ①：把手卡·场上的这张卡送去墓地，以对方场上1只怪兽为对象才能发动。那只对方怪兽的位置向其他的对方的主要怪兽区域移动。这个效果在对方回合也能发动。
 type: Monster
 typeline: Psychic / Effect
 attribute: LIGHT
@@ -88,5 +91,10 @@ sets:
   ko:
   - set_number: EXFO-KR034
     set_name: Extreme Force
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC122
+    set_name: Mega Pack 01
     rarities:
     - Common

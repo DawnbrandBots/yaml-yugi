@@ -11,6 +11,7 @@ name:
   ja_romaji: Takkuruseidā
   ko: 테크루세이더
   ko_rr:
+  zh-CN: 阻挡十字军
 text:
   en: |-
     If this card is sent to the GY: You can activate 1 of these effects.
@@ -44,6 +45,8 @@ text:
     이 카드가 묘지로 보내졌을 경우, 이하의 효과에서 1개를 선택하고 발동할 수 있다.
     ●상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 뒷면 수비 표시로 한다.
     ●상대 필드 위에 앞면 표시로 존재하는 마법 / 함정 카드 1장을 선택하고 주인의 패로 되돌린다. 이 턴에, 상대는 이 효과로 패로 되돌린 카드 및 그 같은 이름의 카드를 발동할 수 없다.
+  zh-CN: |-
+    这张卡被送去墓地的场合，可以从以下效果选择1个发动。●选择对方场上表侧表示存在的1只怪兽变成里侧守备表示。●选择对方场上表侧表示存在的1张魔法·陷阱卡回到持有者手卡。这个回合，对方不能把这个效果回到手卡的卡以及那些同名卡发动。
 type: Monster
 typeline: Rock / Effect
 attribute: EARTH
@@ -129,5 +132,10 @@ sets:
   ko:
   - set_number: LVAL-KR043
     set_name: Legacy of the Valiant
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC105
+    set_name: Entry Pack Volume 7
     rarities:
     - Common

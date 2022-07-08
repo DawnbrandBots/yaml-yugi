@@ -11,6 +11,7 @@ name:
   ja_romaji: Zekkai no Kishi
   ko: 절해의 기사
   ko_rr:
+  zh-CN: 绝海之骑士
 text:
   en: |-
     Once per turn, if the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the GY.
@@ -28,6 +29,8 @@ text:
     フィールド上に表側表示で存在するこのカードの表示形式が変更された時、デッキから水属性モンスター１体を墓地へ送る。この効果は１ターンに１度しか使用できない。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드의 표시 형식이 변경되었을 때, 덱에서 물 속성 몬스터 1장을 묘지로 보낸다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    场上表侧表示存在的这张卡的表示形式变更时，从卡组把1只水属性怪兽送去墓地。这个效果1回合只能使用1次。
 type: Monster
 typeline: Warrior / Effect
 attribute: WATER
@@ -83,6 +86,11 @@ sets:
     - Rare
   ko:
   - set_number: ABYR-KR032
+    set_name: Abyss Rising
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: ABYR-TC032
     set_name: Abyss Rising
     rarities:
     - Rare

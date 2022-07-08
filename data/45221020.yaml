@@ -11,6 +11,7 @@ name:
   ja_romaji: Torejā Pandā
   ko: 트레져 팬더
   ko_rr:
+  zh-CN: 寻宝熊猫
 text:
   en: |-
     You can banish up to 3 Spells/Traps from your GY face-down; Special Summon 1 Normal Monster from your Deck, whose Level equals the number of cards banished to activate this effect.
@@ -28,6 +29,8 @@ text:
     ①：自分の墓地から魔法・罠カードを３枚まで裏側表示で除外して発動できる。除外したカードの数と同じレベルの通常モンスター１体をデッキから特殊召喚する。
   ko: |-
     ① : 자신 묘지에서 마법 / 함정 카드를 3장까지 뒷면 표시로 제외하고 발동할 수 있다. 제외한 카드의 수와 같은 레벨의 일반 몬스터 1장을 덱에서 특수 소환한다.
+  zh-CN: |-
+    ①：从自己墓地把最多3张魔法·陷阱卡里侧表示除外才能发动。和除外的卡数量相同等级的1只通常怪兽从卡组特殊召唤。
 type: Monster
 typeline: Beast / Effect
 attribute: Earth
@@ -90,3 +93,8 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP1-SC021
+    set_name: Mega Pack 01
+    rarities:
+    - Rare

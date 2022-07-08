@@ -11,6 +11,7 @@ name:
   ja_romaji: Torikkusutā Debirufiniumu
   ko: 트릭스터 데블피니움
   ko_rr:
+  zh-CN: 淘气仙星·戴薇尔菲妮姆
 text:
   en: |-
     2+ "Trickstar" monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "트릭스터" 몬스터 2장 이상
     ① : 이 카드의 링크 앞에 "트릭스터" 몬스터가 존재할 경우, 이 카드의 공격 선언시에 상대 필드의 링크 몬스터의 수까지, 제외되어 있는 자신의 "트릭스터" 카드를 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. 이 카드의 공격력은 턴 종료시까지, 이 효과로 패에 넣은 카드의 수 × 1000 올린다.
+  zh-CN: |-
+    「淘气仙星」怪兽2只以上
+    ①：这张卡所连接区有「淘气仙星」怪兽存在的场合，这张卡的攻击宣言时以最多有对方场上的连接怪兽数量的除外的自己的「淘气仙星」卡为对象才能发动。那些卡加入手卡。这张卡的攻击力直到回合结束时上升这个效果加入手卡的卡数量×1000。
 type: Monster
 typeline: Fairy  / Link / Effect
 attribute: LIGHT
@@ -100,3 +104,8 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP2-SC022
+    set_name: Mega Pack 02
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Shin'ya Kyūkō Kishi Naito Ekusupuresu Naito
   ko: 심야 급행 기사 나이트 익스프레스 나이트
   ko_rr: Simya Geuphaeng Gisa Naiteu Ikseupeureseu Naiteu
+  zh-CN: 深夜急行骑士
 text:
   en: |-
     Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.
@@ -28,6 +29,8 @@ text:
     このカードはデッキから特殊召喚できない。①：このカードはリリースなしで召喚できる。②：このカードの①の方法で召喚したこのカードの元々の攻撃力は０になる。
   ko: |-
     이 카드는 덱에서 특수 소환할 수 없다. ①: 이 카드는 릴리스 없이 일반 소환할 수 있다. ②: 이 카드의 ①의 방법으로 일반 소환한 이 카드의 원래 공격력은 0 이 된다.
+  zh-CN: |-
+    这张卡不能从卡组特殊召唤。①：这张卡可以不用解放作召唤。②：这张卡的①的方法召唤的这张卡的原本攻击力变成0。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -139,5 +142,10 @@ sets:
     - Secret Rare
   - set_number: DP21-KR040
     set_name: 'Duelist Pack: Legend Duelist 4'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC057
+    set_name: Entry Pack Volume 4
     rarities:
     - Common

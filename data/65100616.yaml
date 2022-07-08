@@ -11,6 +11,7 @@ name:
   ja_romaji: Rinku Infuraiyā
   ko: 링크 인플라이어
   ko_rr: Ringkeu Inpeullaieo
+  zh-CN: 连接设施飞行员
 text:
   en: |-
     You can Special Summon this card (from your hand) to your zone a Link Monster points to. You can only Special Summon "Link Infra-Flier" once per turn this way.
@@ -28,6 +29,8 @@ text:
     このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：このカードはフィールドのリンクモンスターのリンク先となる自分フィールドに手札から特殊召喚できる。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 이 카드는 필드의 링크 몬스터의 링크 앞이 되는 자신 필드에 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    这个卡名的①的方法的特殊召唤1回合只能有1次。①：这张卡可以从手卡往作为场上的连接怪兽所连接区的自己场上特殊召唤。
 type: Monster
 typeline: Cyberse / Effect
 attribute: Wind
@@ -96,5 +99,10 @@ sets:
     - Rare
   - set_number: SD34-KR014
     set_name: 'Structure Deck: Master Link'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC051
+    set_name: Mega Pack 01
     rarities:
     - Common

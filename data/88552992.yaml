@@ -11,6 +11,7 @@ name:
   ja_romaji: Ōpātsu Gōruden Shatoru
   ko: 오파츠 골든 셔틀
   ko_rr:
+  zh-CN: 先史遗产 黄金航天飞机
 text:
   en: |-
     Once per turn: You can increase the Levels of all "Chronomaly" monsters you currently control by 1.
@@ -28,6 +29,8 @@ text:
     １ターンに１度、自分のメインフェイズ時に発動できる。自分フィールド上の全ての「先史遺産」と名のついたモンスターのレベルを１つ上げる。
   ko: |-
     1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 자신 필드 위의 모든 "오파츠" 라는 이름이 붙은 몬스터의 레벨을 1개 올린다.
+  zh-CN: |-
+    1回合1次，自己的主要阶段时才能发动。自己场上的全部名字带有「先史遗产」的怪兽的等级上升1星。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: REDU-KR011
+    set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: REDU-TC011
     set_name: Return of the Duelist
     rarities:
     - Common

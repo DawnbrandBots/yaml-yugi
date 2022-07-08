@@ -11,6 +11,7 @@ name:
   ja_romaji: Neoakua Madōru
   ko: 네오 물의 조종자
   ko_rr:
+  zh-CN: 新水魔道士
 text:
   en: |-
     The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.
@@ -28,6 +29,8 @@ text:
     水を支配する魔法使いの真の姿。絶対に破る事のできないと言われる巨大な氷の壁を作り攻撃を防ぐ。
   ko: |-
     물을 지배하는 마법사의 참모습. 절대로 파괴할 수 없다고 전해지는 거대한 얼음 벽을 만들어 공격을 막아낸다.
+  zh-CN: |-
+    支配水的魔法师的真正姿态。制造绝对无法破坏的巨大冰墙守备攻击。
 type: Monster
 typeline: Spellcaster
 attribute: WATER
@@ -92,5 +95,10 @@ sets:
     - Common
   - set_number: HGP3-KR002
     set_name: Dark Revelation Volume 3
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC002
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

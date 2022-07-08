@@ -11,6 +11,7 @@ name:
   ja_romaji: Shōkansō - Samon Purīsuto
   ko: 소환승 서몬 프리스트
   ko_rr: Sohwanseung Seomon Peuriseuteu
+  zh-CN: 召唤僧
 text:
   en: |-
     While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚・反転召喚に成功した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환에 성공했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ②: 이 카드가 몬스터 존에 존재하는 한, 이 카드는 릴리스할 수 없다. ③: 1턴에 1번, 패에서 마법 카드 1장을 버리고 발동할 수 있다. 덱에서 레벨 4 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴에 공격할 수 없다.
+  zh-CN: |-
+    ①：这张卡召唤·反转召唤成功的场合发动。这张卡变成守备表示。②：这张卡只要在怪兽区域存在，这张卡不能解放。③：1回合1次，从手卡丢弃1张魔法卡才能发动。从卡组把1只4星怪兽特殊召唤。这个效果特殊召唤的怪兽在这个回合不能攻击。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -312,3 +315,15 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  zh-TW:
+  - set_number: SD22-TC021
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TRC1-SC013
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

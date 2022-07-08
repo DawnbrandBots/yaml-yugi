@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibā Doragon
   ko: 사이버 드래곤
   ko_rr: Saibeo Deuraegon
+  zh-CN: 电子龙
 text:
   en: |-
     If only your opponent controls a monster, you can Special Summon this card (from your hand).
@@ -28,6 +29,8 @@ text:
     ①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。
   ko: |-
     ①: 상대 필드에만 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    ①：只有对方场上有怪兽存在的场合，这张卡可以从手卡特殊召唤。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -723,5 +726,36 @@ sets:
     - Prismatic Secret Rare
   - set_number: SD41-KR003
     set_name: "Structure Deck: Cyber Style's Successor"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD18-TC013
+    set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  - set_number: SP03-TC010
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  - set_number: SD22-TC015
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC008
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC004
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Rare
+  - set_number: SD26-SC003
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
+    rarities:
+    - Rare
+  - set_number: EGO1-SC009
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Ten'i no Kijin
   ko: 천위의 귀신
   ko_rr: Cheonwi-ui Gwisin
+  zh-CN: 天威之鬼神
 text:
   en: |-
     2+ monsters, including a Link Monster
@@ -28,6 +29,8 @@ text:
     リンクモンスターを含むモンスター２体以上
   ko: |-
     링크 몬스터를 포함하는 몬스터 2장 이상
+  zh-CN: |-
+    包含连接怪兽的怪兽2只以上
 type: Monster
 typeline: Wyrm / Link
 attribute: DARK
@@ -90,5 +93,10 @@ sets:
   ko:
   - set_number: RIRA-KR045
     set_name: Rising Rampage
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC125
+    set_name: Mega Pack 03
     rarities:
     - Rare

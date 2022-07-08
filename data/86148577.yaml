@@ -11,6 +11,7 @@ name:
   ja_romaji: Shugoryū Erupi
   ko: 수호룡 엘피
   ko_rr: Suhoryong Elpi
+  zh-CN: 守护龙 厄尔庇
 text:
   en: |-
     1 Level 4 or lower Dragon monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     레벨 4 이하의 드래곤족 몬스터 1장
     자신은 "수호룡 엘피"를 1턴에 1번밖에 특수 소환할 수 없으며, 그 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 드래곤족 몬스터밖에 특수 소환할 수 없다. ②: 자신 메인 페이즈에 발동할 수 있다. 2장 이상의 링크 몬스터의 링크 앞이 되는 자신 필드에, 패 / 덱에서 드래곤족 몬스터 1장을 특수 소환한다.
+  zh-CN: |-
+    4星以下的龙族怪兽1只
+    自己对「守护龙 厄尔庇」1回合只能有1次特殊召唤，那个作为②的效果1回合只能使用1次。
+    ①：只要这张卡在怪兽区域存在，自己不是龙族怪兽不能特殊召唤。
+    ②：自己主要阶段才能发动。从手卡·卡组把1只龙族怪兽往作为受2只以上的连接怪兽所连接区的自己场上特殊召唤。
 type: Monster
 typeline: Dragon / Link / Effect
 attribute: DARK
@@ -101,3 +107,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP3-SC033
+    set_name: Mega Pack 03
+    rarities:
+    - Common

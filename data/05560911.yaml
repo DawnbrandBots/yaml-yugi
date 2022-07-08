@@ -11,6 +11,7 @@ name:
   ja_romaji: Bōryū no Senritsu - Desutorudō
   ko: 망룡의 전율－데스트루도
   ko_rr: Mangnyong-ui Jeonyul - Deseuteurudo
+  zh-CN: 亡龙之战栗-死欲龙
 text:
   en: |-
     If this card is in your hand or GY: You can pay half your LP, then target 1 Level 6 or lower monster you control; Special Summon this card, and if you do, this card's Level is reduced by the Level of the targeted monster, also place this card on the bottom of the Deck if it leaves the field. You can only use this effect of "Destrudo the Lost Dragon's Frisson" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在する場合、ＬＰを半分払い、自分フィールドのレベル６以下のモンスター１体を対象として発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、レベルが対象のモンスターのレベル分だけ下がり、フィールドから離れた場合に持ち主のデッキの一番下に戻る。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재할 경우, LP를 절반 지불하고, 자신 필드의 레벨 6 이하의 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 레벨이 대상 몬스터의 레벨만큼만 내려가고, 필드에서 벗어났을 경우에 주인의 덱 맨 아래로 되돌아간다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。①：这张卡在手卡·墓地存在的场合，把基本分支付一半，以自己场上1只6星以下的怪兽为对象才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡等级下降作为对象的怪兽的等级数值，从场上离开的场合回到持有者卡组最下面。
 type: Monster
 typeline: Dragon / Tuner / Effect
 attribute: DARK
@@ -160,3 +163,14 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  zh-CN:
+  - set_number: ST20-SCP04
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Secret Rare
+  - set_number: 22RC-SC019
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Collector's Rare

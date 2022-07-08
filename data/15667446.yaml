@@ -12,6 +12,7 @@ name:
   ja_romaji: Ankokukai no Tōshin Rachina
   ko: 암흑계의 투신 라티나
   ko_rr:
+  zh-CN: 暗黑界的斗神 拉提纳
 text:
   en: |-
     If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.
@@ -29,6 +30,8 @@ text:
     このカードがカードの効果によって手札から墓地へ捨てられた場合、このカードを墓地から特殊召喚する。相手のカードの効果によって捨てられた場合、さらにフィールド上の悪魔族モンスター１体を選択して、攻撃力を５００ポイントアップする。
   ko: |-
     이 카드가 카드의 효과에 의해서 패에서 묘지로 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다. 상대 카드의 효과에 의해서 버려졌을 경우, 필드 위의 악마족 몬스터 1장을 선택하고, 공격력을 500 포인트 올린다.
+  zh-CN: |-
+    这张卡被卡的效果从手卡丢弃去墓地的场合，这张卡从墓地特殊召唤。被对方的卡的效果丢弃的场合，再选择场上1只恶魔族怪兽，攻击力上升500。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -68,5 +71,10 @@ sets:
   ko:
   - set_number: EXP5-KR026
     set_name: Extra Pack 2012
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC005
+    set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

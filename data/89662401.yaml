@@ -11,6 +11,7 @@ name:
   ja_romaji: Saramangureito Fouru
   ko: 샐러맨그레이트 포울
   ko_rr: Saelleomaen-geureiteu Poul
+  zh-CN: 转生炎兽 孔雀
 text:
   en: |-
     If a "Salamangreat" monster(s), except "Salamangreat Fowl" is Normal or Special Summoned to your field (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of "Salamangreat Fowl" once per turn. You can send 1 "Salamangreat" card from your hand or face-up field to the GY, then target 1 Set Spell/Trap your opponent controls; that Set card cannot be activated this turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに「転生炎獣フォウル」以外の「サラマングレイト」モンスターが召喚・特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：手札及び自分フィールドの表側表示のカードの中から、「サラマングレイト」カード１枚を墓地へ送り、相手フィールドにセットされた魔法・罠カード１枚を対象として発動できる。このターン、そのセットされた魔法・罠カードは発動できない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 "샐러맨그레이트 포울" 이외의 "샐러맨그레이트" 몬스터가 일반 소환 / 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 패 및 자신 필드의 앞면 표시의 카드 중에서, "샐러맨그레이트" 카드 1장을 묘지로 보내고, 상대 필드에 세트된 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 세트된 마법 / 함정 카드는 발동할 수 없다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。
+    ①：自己场上有「转生炎兽 孔雀」以外的「转生炎兽」怪兽召唤·特殊召唤的场合才能发动。这张卡从手卡特殊召唤。
+    ②：从手卡以及自己场上的表侧表示的卡之中把1张「转生炎兽」卡送去墓地，以对方场上盖放的1张魔法·陷阱卡为对象才能发动。这个回合，那张盖放的魔法·陷阱卡不能发动。
 type: Monster
 typeline: Cyberse / Effect
 attribute: FIRE
@@ -107,6 +112,11 @@ sets:
     - Normal Parallel Rare
   ko:
   - set_number: SD35-KR005
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: SD35-SC005
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Normal Parallel Rare

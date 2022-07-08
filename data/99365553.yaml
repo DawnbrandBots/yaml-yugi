@@ -11,6 +11,7 @@ name:
   ja_romaji: Raitoparusā Doragon
   ko: 라이트펄서 드래곤
   ko_rr:
+  zh-CN: 光脉冲星龙
 text:
   en: |-
     You can Special Summon this card (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. You can Special Summon this card (from your GY) by sending 1 LIGHT and 1 DARK monster from your hand to the GY. When this card is sent from the field to the GY: You can target 1 Level 5 or higher DARK Dragon monster in your GY; Special Summon that target.
@@ -28,6 +29,8 @@ text:
     このカードは自分の墓地の光属性と闇属性のモンスターを１体ずつゲームから除外し、手札から特殊召喚できる。また、手札の光属性と闇属性のモンスターを１体ずつ墓地へ送り、このカードを自分の墓地から特殊召喚できる。このカードがフィールド上から墓地へ送られた時、自分の墓地のドラゴン族・闇属性・レベル５以上のモンスター１体を選択して特殊召喚できる。
   ko: |-
     이 카드는 자신 묘지의 빛 속성과 어둠 속성의 몬스터를 1장씩 게임에서 제외하고, 패에서 특수 소환할 수 있다. 또한, 패의 빛 속성과 어둠 속성의 몬스터를 1장씩 묘지로 보내고, 이 카드를 자신의 묘지에서 특수 소환할 수 있다. 이 카드가 필드 위에서 묘지로 보내졌을 때, 자신 묘지의 드래곤족 / 어둠 속성 / 레벨 5 이상의 몬스터 1장을 선택하고 특수 소환할 수 있다.
+  zh-CN: |-
+    这张卡可以把自己墓地的光属性和暗属性的怪兽各1只从游戏中除外，从手卡特殊召唤。此外，可以把手卡的光属性和暗属性的怪兽各1只送去墓地，这张卡从自己墓地特殊召唤。这张卡从场上送去墓地时，可以选择自己墓地1只龙族·暗属性·5星以上的怪兽特殊召唤。
 type: Monster
 typeline: Dragon / Effect
 attribute: LIGHT
@@ -104,5 +107,15 @@ sets:
   ko:
   - set_number: SD22-KR001
     set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Ultra Rare
+  zh-TW:
+  - set_number: SD22-TC001
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: ST20-SC002
+    set_name: Starter Deck 2020
     rarities:
     - Ultra Rare

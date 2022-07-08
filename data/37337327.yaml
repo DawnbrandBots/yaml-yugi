@@ -11,6 +11,7 @@ name:
   ja_romaji: Janku Konekutā
   ko: 정크 커넥터
   ko_rr: Jeongkeu Keonekteo
+  zh-CN: 废品连接者
 text:
   en: |-
     2 Effect Monsters (Warrior and/or Machine), including a Tuner
@@ -36,6 +37,10 @@ text:
   ko: |-
     튜너 1장 이상을 포함하는 전사족 / 기계족 효과 몬스터 2장
     ①: 1턴에 1번, 자신 / 상대의 메인 페이즈 및 배틀 페이즈에 발동할 수 있다. 이 카드의 링크 앞의 몬스터만을 소재로서 싱크로 소환한다. ②: 링크 소환한 이 카드가 전투 또는 상대 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 엑스트라 덱에서 "정크" 싱크로 몬스터 1장을 싱크로 소환으로 취급하여 특수 소환한다.
+  zh-CN: |-
+    包含调整1只以上的战士族·机械族的效果怪兽2只
+    ①：1回合1次，自己·对方的主要阶段以及战斗阶段才能发动。只用这张卡所连接区的怪兽为素材作同调召唤。
+    ②：连接召唤的这张卡被战斗或者对方的效果破坏送去墓地的场合才能发动。从额外卡组把1只「废品」同调怪兽当作同调召唤作特殊召唤。
 type: Monster
 typeline: Warrior / Link / Effect
 attribute: DARK
@@ -82,4 +87,9 @@ sets:
     set_name: Premium Pack Vol.13
     rarities:
     - Normal Parallel Rare
+    - Super Rare
+  zh-CN:
+  - set_number: SD28-SCP20
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
     - Super Rare

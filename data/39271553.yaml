@@ -11,6 +11,7 @@ name:
   ja_romaji: Fōmyura Asurīto Kā Nabigētā
   ko: <ruby><rb>F.A.</rb><rp>（</rp><rt>포뮬러 애슬리트</rt><rp>）</rp></ruby> 카네비게이터
   ko_rr: Pomyulleo Aeseulliteu Kanebigeiteo
+  zh-CN: 方程式运动员 智能导航助手
 text:
   en: |-
     If this card is in your hand or GY: You can target 1 "F.A." monster you control whose current Level is higher than its original Level; Special Summon this card, and if you do, reduce that target's Level by the difference between its current and original Level, and if you do that, this card's Level become equal to the amount reduced. If this card is Normal or Special Summoned: You can add 1 "F.A." Field Spell from your Deck to your hand. You can only use each effect of "F.A. Auto Navigator" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札・墓地に存在する場合、自分フィールドの元々のレベルより高いレベルを持つ「Ｆ．Ａ．」モンスター１体を対象として発動できる。このカードを特殊召喚し、対象のモンスターのレベルをその元々のレベルとの差分だけ下げる。この効果で特殊召喚したこのカードのレベルはその差分の数値と同じになる。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「Ｆ．Ａ．」フィールド魔法カード１枚を手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재할 경우, 자신 필드의 원래의 레벨보다 높은 레벨을 가지는 "F.A.(포뮬러 애슬리트)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 특수 소환하고, 대상 몬스터의 레벨을 그 원래의 레벨과의 차만큼만 내린다. 이 효과로 특수 소환한 이 카드의 레벨은 그 차만큼의 수치와 같아진다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "F.A.(포뮬러 애슬리트)" 필드 마법 카드 1장을 패에 넣는다.
+  zh-CN: |-
+    这张卡在手卡·墓地存在的场合：可以选择自己场上持有比原本等级高的等级的1只「方程式运动员」怪兽；这张卡特殊召唤，选择的怪兽的等级下降和那个原本等级的相差数值，这张卡的等级变成和那个下降的数值相同。这张卡召唤·特殊召唤成功的场合：可以从卡组把1张「方程式运动员」场地魔法卡加入手卡。「方程式运动员 智能导航助手」的每个效果1回合各能使用1次。
 type: Monster
 typeline: Machine / Tuner / Effect
 attribute: WIND
@@ -88,5 +91,10 @@ sets:
   ko:
   - set_number: EP18-KR025
     set_name: Extra Pack 2018
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP1-SC155
+    set_name: Mega Pack 01
     rarities:
     - Rare

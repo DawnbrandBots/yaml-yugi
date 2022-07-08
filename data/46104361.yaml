@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibāsu Howaito Hatto
   ko: 사이버스 화이트햇
   ko_rr: Saibeoseu Hwaiteuhaet
+  zh-CN: 电子界白帽客
 text:
   en: |-
     If you control 2 or more monsters with the same Type, you can Special Summon this card (from your hand). You can only Special Summon "Cyberse White Hat" once per turn this way. If this card is sent to the GY as Link Material: You can make all monsters your opponent currently controls lose 1000 ATK until the end of this turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに同じ種族のモンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。②：このカードがリンク素材として墓地へ送られた場合に発動できる。相手フィールドの全てのモンスターの攻撃力はターン終了時まで１０００ダウンする。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 자신 필드에 같은 종족인 몬스터가 2장 이상 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 링크 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 상대 필드의 모든 몬스터의 공격력은 턴 종료시까지 1000 내린다.
+  zh-CN: |-
+    这个卡名的①的方法的特殊召唤1回合只能有1次。
+    ①：自己场上有相同种族的怪兽2只以上存在的场合，这张卡可以从手卡特殊召唤。
+    ②：这张卡作为连接素材送去墓地的场合才能发动。对方场上的全部怪兽的攻击力直到回合结束时下降1000。
 type: Monster
 typeline: Cyberse / Effect
 attribute: LIGHT
@@ -78,3 +83,8 @@ sets:
     set_name: Starter Deck 2019
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP1-SC158
+    set_name: Mega Pack 01
+    rarities:
+    - Common

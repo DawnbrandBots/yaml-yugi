@@ -11,6 +11,7 @@ name:
   ja_romaji: Asuteru Dorōn
   ko: 아스텔 드론
   ko_rr:
+  zh-CN: 画星宝宝
 text:
   en: |-
     If this card is used for an Xyz Summon, you can treat it as a Level 5 monster. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
@@ -36,6 +37,8 @@ text:
     ①: 이 카드를 엑시즈 소환에 사용할 경우, 이 카드의 레벨을 5로 취급할 수 있다.
     ②: 필드의 이 카드를 소재로서 엑시즈 소환한 몬스터는 이하의 효과를 얻는다.
     ●이 엑시즈 소환에 성공했을 경우에 발동한다. 자신은 덱에서 1장 드로우한다.
+  zh-CN: |-
+    这张卡在XYZ召唤使用的场合，这张卡可以当作5星怪兽使用。此外，这张卡为素材的XYZ怪兽得到以下效果。●这次XYZ召唤成功时，从卡组抽1张卡。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: EARTH
@@ -124,6 +127,17 @@ sets:
     rarities:
     - Normal Rare
   - set_number: DBGI-KR039
+    set_name: 'Deck Build Pack: Genesis Impactors'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  zh-TW:
+  - set_number: CBLZ-TC043
+    set_name: Cosmo Blazer
+    rarities:
+    - Normal Rare
+  zh-CN:
+  - set_number: DBGI-SC039
     set_name: 'Deck Build Pack: Genesis Impactors'
     rarities:
     - Common

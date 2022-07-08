@@ -11,6 +11,7 @@ name:
   ja_romaji: Tatsu-no-otoshioya
   ko: 어버이해마
   ko_rr: Eobeoihaema
+  zh-CN: 龙落亲
 text:
   en: |-
     Cannot be Special Summoned, except by the effect of a Wyrm monster. During your Main Phase: You can reduce this card's Level by 1, and if you do, Special Summon 1 "Mini Mare Mare Token" (Wyrm/WATER/Level 1/ATK 300/DEF 200). You can only use this effect of "Mare Mare" up to thrice per turn.
@@ -28,6 +29,8 @@ text:
     このカードは幻竜族モンスターの効果でしか特殊召喚できない。このカード名の効果は１ターンに３度まで使用できる。①：自分メインフェイズに発動できる。このカードのレベルを１つ下げ、自分フィールドに「タツノコトークン」（幻竜族・水・星１・攻３００／守２００）１体を特殊召喚する。
   ko: |-
     이 카드는 환룡족 몬스터의 효과로밖에 특수 소환할 수 없다. 이 카드명의 효과는 1턴에 3번까지 사용할 수 있다. ①: 자신 메인 페이즈에 발동할 수 있다. 이 카드의 레벨을 1개 내리고, 자신 필드에 "헤마 토큰"(환룡족 / 물 / 레벨 1 / 공 300 / 수 200) 1장을 특수 소환한다.
+  zh-CN: |-
+    这张卡不用幻龙族怪兽的效果不能特殊召唤。这个卡名的效果1回合可以使用最多3次。①：自己主要阶段才能发动。这张卡的等级下降1星，在自己场上把1只「龙子衍生物」（幻龙族·水·1星·攻300/守200）特殊召唤。
 type: Monster
 typeline: Wyrm / Tuner / Effect
 attribute: WATER
@@ -118,3 +121,9 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  zh-CN:
+  - set_number: EGO1-SC017
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Super Rare

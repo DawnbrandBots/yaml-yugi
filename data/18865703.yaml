@@ -11,6 +11,7 @@ name:
   ja_romaji: Zearu Wepon - Arutimetto Shīrudo
   ko: <ruby><rb>ZW</rb><rp>（</rp><rt>제알 웨폰</rt><rp>）</rp></ruby>－얼티미트 실드
   ko_rr: Jeal Wepon - Eoltimiteu Sildeu
+  zh-CN: 异热同心武器-玄武绝对圣盾
 text:
   en: |-
     When this card is Normal or Special Summoned: You can target 1 of your banished Xyz Monsters; Special Summon that target in face-up Defense Position. You can target 1 "Utopia" monster you control; equip this monster on the field to that target. It gains 2000 DEF. You can only control 1 face-up "ZW - Ultimate Shield".
@@ -28,6 +29,8 @@ text:
     このカードが召喚・特殊召喚に成功した時、ゲームから除外されている自分のエクシーズモンスター１体を選択して表側守備表示で特殊召喚できる。また、自分のメインフェイズ時、フィールド上のこのモンスターを、守備力２０００ポイントアップの装備カード扱いとして自分フィールド上の「<ruby><rb>希</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>望</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ホープ」と名のついたモンスターに装備できる。「<ruby><rb>ＺＷ</rb><rp>（</rp><rt>ゼアル・ウェポン</rt><rp>）</rp></ruby>－<ruby><rb>玄武絶対聖盾</rb><rp>（</rp><rt>アルティメット・シールド</rt><rp>）</rp></ruby>」は自分フィールド上に１枚しか表側表示で存在できない。
   ko: |-
     이 카드가 일반 소환 / 특수 소환에 성공했을 때, 게임에서 제외되어 있는 자신의 엑시즈 몬스터 1장을 선택하고 앞면 수비 표시로 특수 소환할 수 있다. 또한, 자신의 메인 페이즈시, 필드 위의 이 몬스터를 수비력 2000 포인트 올리는 장착 카드로 취급하여 자신 필드 위의 "유토피아"라는 이름이 붙은 몬스터에 장착할 수 있다. "ZW(제알 웨폰)－얼티미트 실드"는 자신 필드 위에 1장밖에 앞면 표시로 존재할 수 없다.
+  zh-CN: |-
+    这张卡召唤·特殊召唤成功时，可以选择从游戏中除外的1只自己的XYZ怪兽表侧守备表示特殊召唤。此外，自己的主要阶段时，场上的这只怪兽可以当作守备力上升2000的装备卡使用给自己场上的名字带有「希望皇 霍普」的怪兽装备。「异热同心武器-玄武绝对圣盾」在自己场上只能有1张表侧表示存在。
 type: Monster
 typeline: Aqua / Effect
 attribute: EARTH
@@ -87,6 +90,11 @@ sets:
     - Common
   ko:
   - set_number: CBLZ-KR007
+    set_name: Cosmo Blazer
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: CBLZ-TC007
     set_name: Cosmo Blazer
     rarities:
     - Common

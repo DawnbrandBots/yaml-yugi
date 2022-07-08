@@ -11,6 +11,7 @@ name:
   ja_romaji: Burūaizu Kaosu Doragon
   ko: 푸른 눈의 카오스 드래곤
   ko_rr: Pureun Nun-ui Kaoseu Deuraegon
+  zh-CN: 青眼混沌龙
 text:
   en: |-
     You can Ritual Summon this card with "Chaos Form". Must be Ritual Summoned. Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this card was Ritual Summoned using "Blue-Eyes White Dragon", when it declares an attack: You can change the battle positions of as many monsters your opponent controls as possible, and if you do, the ATK/DEF of those changed monsters become 0, also, this turn, if this card attacks a Defense Position monster, inflict piercing battle damage.
@@ -28,6 +29,10 @@ text:
     「カオス・フォーム」により降臨。このカードは儀式召喚でしか特殊召喚できない。①：このカードは相手の効果の対象にならず、相手の効果では破壊されない。②：「青眼の白龍」を使用して儀式召喚したこのカードの攻撃宣言時に発動できる。相手フィールドの全てのモンスターの表示形式を変更する。この効果で表示形式を変更したモンスターの攻撃力・守備力は０になる。このターン、このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。
   ko: |-
     "카오스 폼"에 의해 의식 소환. 이 카드는 의식 소환으로밖에 특수 소환할 수 없다. ①: 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: "푸른 눈의 백룡"을 사용하여 의식 소환한 이 카드의 공격 선언시에 발동할 수 있다. 상대 필드의 모든 몬스터의 표시 형식을 변경한다. 이 효과로 표시 형식을 변경한 몬스터의 공격력 / 수비력은 0 이 된다. 이 턴에, 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
+  zh-CN: |-
+    「混沌形态」降临。这张卡不用仪式召唤不能特殊召唤。
+    ①：这张卡不会成为对方的效果的对象，不会被对方的效果破坏。
+    ②：使用「青眼白龙」作仪式召唤的这张卡的攻击宣言时才能发动。对方场上的全部怪兽的表示形式变更。这个效果让表示形式变更的怪兽的攻击力·守备力变成0。这个回合，这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。
 type: Monster
 typeline: Dragon / Ritual / Effect
 attribute: DARK
@@ -87,6 +92,11 @@ sets:
     - Ultra Rare
   ko:
   - set_number: DP20-KR001
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: DP20-SC001
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Ultra Rare

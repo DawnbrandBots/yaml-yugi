@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurifoton
   ko: 크리포톤
   ko_rr: Keuripoton
+  zh-CN: 光子栗子
 text:
   en: |-
     (Quick Effect): You can send this card from your hand to the GY and pay 2000 LP; you take no damage this turn. If this card is in your GY: You can send 1 "Photon" monster from your hand to the GY, except "Kuriphoton"; add this card from your GY to your hand. You can only use this effect of "Kuriphoton" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードを手札から墓地へ送り、２０００ＬＰを払って発動できる。このターン、自分が受ける全てのダメージは０になる。この効果は相手ターンでも発動できる。②：このカードが墓地に存在する場合、手札から「クリフォトン」以外の「フォトン」モンスター１体を墓地へ送って発動できる。墓地のこのカードを手札に加える。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 패에서 묘지로 보내고, 2000 LP를 지불하여 발동할 수 있다. 이 턴에, 자신이 받는 모든 데미지는 0 이 된다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 묘지에 존재할 경우, 패에서 "크리포톤" 이외의 "포톤" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 묘지의 이 카드를 패에 넣는다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。①：把这张卡从手卡送去墓地，支付2000基本分才能发动。这个回合，自己受到的全部伤害变成0。这个效果在对方回合也能发动。②：这张卡在墓地存在的场合，从手卡把「光子栗子」以外的1只「光子」怪兽送去墓地才能发动。墓地的这张卡加入手卡。
 type: Monster
 typeline: Fiend / Effect
 attribute: LIGHT
@@ -107,6 +110,11 @@ sets:
     rarities:
     - Rare
   - set_number: DP20-KR043
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP20-SC043
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common

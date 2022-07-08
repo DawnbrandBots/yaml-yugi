@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurisutoron - Harifaibā
   ko: 크리스트론－하리파이버
   ko_rr: Keuriseuteuron - Haripaibeo
+  zh-CN: 水晶机巧-继承玻纤
 text:
   en: |-
     2 monsters, including a Tuner
@@ -36,6 +37,11 @@ text:
   ko: |-
     튜너를 포함하는 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 패 / 덱에서 레벨 3 이하의 튜너 1장을 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 이 턴에 효과를 발동할 수 없다. ②: 상대의 메인 페이즈 및 배틀 페이즈에 필드의 이 카드를 제외하고 발동할 수 있다. 엑스트라 덱에서 싱크로 몬스터의 튜너 1장을 싱크로 소환으로 취급하여 특수 소환한다.
+  zh-CN: |-
+    包含调整1只以上的怪兽2只
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡连接召唤成功的场合才能发动。从手卡·卡组把1只3星以下的调整守备表示特殊召唤。这个效果特殊召唤的怪兽在这个回合不能把效果发动。
+    ②：对方的主要阶段以及战斗阶段把场上的这张卡除外才能发动。从额外卡组把1只同调怪兽调整当作同调召唤作特殊召唤。
 type: Monster
 typeline: Machine / Link / Effect
 attribute: WATER
@@ -129,6 +135,13 @@ sets:
     - Ultra Rare
     - Secret Rare
   - set_number: RC03-KR027
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Extra Secret Rare
+  zh-CN:
+  - set_number: RC03-SC027
     set_name: Rarity Collection Premium Gold Edition
     rarities:
     - Super Rare

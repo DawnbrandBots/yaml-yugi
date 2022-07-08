@@ -11,6 +11,7 @@ name:
   ja_romaji: Saifā Sukautā
   ko: 사이퍼 스카우터
   ko_rr:
+  zh-CN: 密码侦察者
 text:
   en: |-
     If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during that damage calculation only.
@@ -28,6 +29,8 @@ text:
     このカードが戦士族モンスターと戦闘を行うダメージ計算時に発動する。このカードの攻撃力・守備力は、そのダメージ計算時のみ２０００ポイントアップする。
   ko: |-
     이 카드가 전사족 몬스터와 전투를 실행하는 데미지 계산시에 발동한다. 이 카드의 공격력 / 수비력은 그 데미지 계산시에만 2000 포인트 올린다.
+  zh-CN: |-
+    这张卡和战士族怪兽进行战斗的伤害计算时发动。这张卡的攻击力·守备力只在那次伤害计算时上升2000。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -139,3 +142,8 @@ sets:
     set_name: Jump Festa Invitational 2011 promotional cards
     rarities:
     - Secret Rare
+  zh-TW:
+  - set_number: SD18-TC010
+    set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common

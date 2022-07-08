@@ -11,6 +11,7 @@ name:
   ja_romaji: Goburindobāgu
   ko: 고블린드버그
   ko_rr: Gobeullindeubeogeu
+  zh-CN: 哥布林德伯格
 text:
   en: |-
     When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚に成功した時に発動できる。手札からレベル４以下のモンスター１体を特殊召喚する。この効果を発動した場合、このカードは守備表示になる。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 몬스터 1장을 특수 소환한다. 이 효과를 발동했을 경우, 이 카드는 수비 표시가 된다.
+  zh-CN: |-
+    ①：这张卡召唤成功时才能发动。从手卡把1只4星以下的怪兽特殊召唤。这个效果发动的场合，这张卡变成守备表示。
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -237,5 +240,10 @@ sets:
     - Common
   - set_number: SR09-KR016
     set_name: "Structure Deck R: Warriors' Strike"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC010
+    set_name: Duel Starter Deck
     rarities:
     - Common

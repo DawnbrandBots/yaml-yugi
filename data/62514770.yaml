@@ -11,6 +11,7 @@ name:
   ja_romaji: Raburadoraidoragon
   ko: 래브라도라이드래곤
   ko_rr: Raebeuradoraideuraegon
+  zh-CN: 拉长石龙
 text:
   en: |-
     The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.
@@ -30,6 +31,8 @@ text:
     래브라도렛센스라고 불리는 특유의 아름다운 빛을 발하는 비늘을 가진 드래곤.
     그 비늘로부터 눈부시게 빛나는 빛은, 보는 자의 영혼을 인도하여 감정으로부터 해방시키는 힘을 가지고 있다.
     그 빛은 전생의 기억을 더듬어, 수많은 사람들을 해후하게 한다고 전해진다.
+  zh-CN: |-
+    身上鳞片发出称为拉长石晕彩这一特有美丽光辉的龙。那鳞片中产生的耀眼光辉，具有引导观看者灵魂，令其解放内心情感的力量。 ——它的光芒相传会追溯前世的记忆，引起人们的相遇。
 type: Monster
 typeline: Dragon / Tuner / Normal
 attribute: DARK
@@ -98,5 +101,10 @@ sets:
     - Common
   - set_number: SD36-KR016
     set_name: 'Structure Deck: Revolver'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC002
+    set_name: Starter Pack Volume 3
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Desu Samurai
   ko: 데스 사무라이
   ko_rr: Deseu Samurai
+  zh-CN: 堕武者
 text:
   en: |-
     When this card is Normal Summoned: You can send 1 Zombie monster from your Deck to the GY. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 4 or lower Zombie monster from your Deck, except "Samurai Skull".
@@ -28,6 +29,9 @@ text:
     ①：このカードが召喚に成功した時に発動できる。デッキからアンデット族モンスター１体を墓地へ送る。②：表側表示のこのカードが相手の効果でフィールドから離れた場合に発動できる。デッキから「堕ち武者」以外のレベル４以下のアンデット族モンスター１体を特殊召喚する。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 언데드족 몬스터 1장을 묘지로 보낸다. ②: 앞면 표시의 이 카드가 상대 효과로 필드에서 벗어났을 경우에 발동할 수 있다. 덱에서 "데스 사무라이" 이외의 레벨 4 이하의 언데드족 몬스터 1장을 특수 소환한다.
+  zh-CN: |-
+    ①：这张卡召唤成功时才能发动。从卡组把1只不死族怪兽送去墓地。
+    ②：表侧表示的这张卡因对方的效果从场上离开的场合才能发动。从卡组把「堕武者」以外的1只4星以下的不死族怪兽特殊召唤。
 type: Monster
 typeline: Zombie / Effect
 attribute: DARK
@@ -96,5 +100,10 @@ sets:
     - Common
   - set_number: EP18-KR038
     set_name: Extra Pack 2018
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP1-SC046
+    set_name: Mega Pack 01
     rarities:
     - Common

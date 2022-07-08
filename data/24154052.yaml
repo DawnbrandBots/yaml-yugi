@@ -11,6 +11,7 @@ name:
   ja_romaji: Purotoron
   ko: 프로트론
   ko_rr:
+  zh-CN: 原型机灵
 text:
   en: |-
     Ancestral species found in electronic space. No one knows how much information it holds.
@@ -28,6 +29,8 @@ text:
     電子空間で見つかる原種。その情報量は未知数。
   ko: |-
     전자 공간에서 보이는 원종. 그 정보량은 미지수.
+  zh-CN: |-
+    电子空间找到的原种。它的信息量是未知数。
 type: Monster
 typeline: Cyberse / Normal
 attribute: EARTH
@@ -68,5 +71,10 @@ sets:
   ko:
   - set_number: FLOD-KR001
     set_name: Flames of Destruction
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC001
+    set_name: Mega Pack 02
     rarities:
     - Common

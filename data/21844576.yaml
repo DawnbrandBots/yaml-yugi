@@ -11,6 +11,7 @@ name:
   ja_romaji: Erementaru Hīrō Fezāman
   ko: 엘리멘틀 히어로 페더맨
   ko_rr: Ellimenteul Hieoro Pedeomaen
+  zh-CN: 元素英雄 羽翼侠
 text:
   en: |-
     A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.
@@ -28,6 +29,8 @@ text:
     風を操り空を舞う翼を持ったＥ・ＨＥＲＯ。天空からの一撃、フェザーブレイクで悪を裁く。
   ko: |-
     바람을 조종하며 하늘을 나는 날개를 가진 엘리멘틀 히어로. 천공에서의 일격, 페더 브레이크로 악을 심판한다.
+  zh-CN: |-
+    操纵风飞舞并拥有翅膀的元素英雄。从天空一击，羽毛爆发而制裁邪恶。
 type: Monster
 typeline: Warrior / Normal
 attribute: WIND
@@ -256,5 +259,10 @@ sets:
     - Ultra Rare
   - set_number: CP19-KR014
     set_name: 'Collection Pack: Duelist of Revolution Version'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD27-SC010
+    set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common

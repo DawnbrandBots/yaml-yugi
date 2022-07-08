@@ -11,6 +11,7 @@ name:
   ja_romaji: Genjūki Burakku Farukon
   ko: 환상수기 블랙팔콘
   ko_rr:
+  zh-CN: 幻兽机 黑猎鹰
 text:
   en: |-
     When this card declares an attack: Special Summon 1 "Mecha Phantom Beast Token" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all "Mecha Phantom Beast Tokens" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn, during either player's turn: You can Tribute 1 Token, then target 1 monster your opponent controls; change that target to face-up Defense Position.
@@ -28,6 +29,8 @@ text:
     このカードが攻撃宣言した時、「幻獣機トークン」（機械族・風・星３・攻／守０）１体を特殊召喚する。このカードのレベルは自分フィールド上の「幻獣機トークン」のレベルの合計分だけ上がる。自分フィールド上にトークンが存在する限り、このカードは戦闘及び効果では破壊されない。また、１ターンに１度、トークン１体をリリースして発動できる。相手フィールド上のモンスター１体を選択して表側守備表示にする。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드가 공격 선언했을 때, "환상수기 토큰" (기계족 / 바람 속성 / 레벨 3 / 공격력 0 / 수비력 0) 1장을 특수 소환한다. 이 카드의 레벨은 자신 필드 위의 "환상수기 토큰" 레벨의 합계만큼 올린다. 자신 필드 위에 토큰이 존재하는 한, 이 카드는 전투 및 효과로는 파괴되지 않는다. 또한, 1턴에 1번, 토큰 1장을 릴리스하고 발동할 수 있다. 상대 필드 위의 몬스터 1장을 선택하고 앞면 수비 표시로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    这张卡攻击宣言时，把1只「幻兽机衍生物」（机械族·风·3星·攻/守0）特殊召唤。这张卡的等级上升自己场上的「幻兽机衍生物」的等级的合计数值。只要自己场上有衍生物存在，这张卡不会被战斗以及效果破坏。此外，1回合1次，把1只衍生物解放才能发动。选择对方场上1只怪兽变成表侧守备表示。这个效果在对方回合也能发动。
 type: Monster
 typeline: Machine / Effect
 attribute: WIND
@@ -103,6 +106,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR023
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC023
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

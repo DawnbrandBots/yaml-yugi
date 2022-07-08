@@ -11,6 +11,7 @@ name:
   ja_romaji: Foton Surasshā
   ko: 포톤 스래셔
   ko_rr: Poton Seuraesyeo
+  zh-CN: 光子斩击者
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。自分フィールドにモンスターが存在しない場合に特殊召喚できる。①：自分フィールドにこのカード以外のモンスターが存在する場合、このカードは攻撃できない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드에 몬스터가 존재하지 않을 경우에 특수 소환할 수 있다. ①: 자신 필드에 이 카드 이외의 몬스터가 존재할 경우, 이 카드는 공격할 수 없다.
+  zh-CN: |-
+    这张卡不能通常召唤。自己场上没有怪兽存在的场合可以特殊召唤。①：自己场上有这张卡以外的怪兽存在的场合，这张卡不能攻击。
 type: Monster
 typeline: Warrior / Effect
 attribute: LIGHT
@@ -255,5 +258,20 @@ sets:
     - Common
   - set_number: ST19-KR015
     set_name: Starter Deck 2019
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC011
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: SD26-SCP06
+    set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons Deck Enhancement
+      Pack'
+    rarities:
+    - Super Rare
+  - set_number: DP20-SC041
+    set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common

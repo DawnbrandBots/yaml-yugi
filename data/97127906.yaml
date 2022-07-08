@@ -11,6 +11,7 @@ name:
   ja_romaji: Ērian Sorujā
   ko: 에일리언 솔저
   ko_rr:
+  zh-CN: 外星人士兵
 text:
   en: |-
     The Aliens have used a mysterious biological substance to create a supreme race of soldiers. They do not have the natural powers of the other Aliens, but can make stunning physical attacks.
@@ -28,6 +29,8 @@ text:
     謎の生命体、エーリアンの上級戦士。比較的高い攻撃力を持つが、反面特殊な能力は身につけていない。
   ko: |-
     의문의 생명체, 에일리언 상급 전사. 공격력은 비교적 높은 반먼, 특수한 능력은 익히지 않았다.
+  zh-CN: |-
+    神秘生命体外星人的上级战士。虽然拥有较高的攻击力，另一方面特殊能力却没掌握。
 type: Monster
 typeline: Reptile
 attribute: EARTH
@@ -67,5 +70,10 @@ sets:
   ko:
   - set_number: TAEV-KR001
     set_name: Tactical Evolution
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC003
+    set_name: Duel Starter Deck
     rarities:
     - Common

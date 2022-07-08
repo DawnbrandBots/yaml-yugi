@@ -11,6 +11,7 @@ name:
   ja_romaji: Toroimea Māmeido
   ko: 트로이메어 인어
   ko_rr:
+  zh-CN: 梦幻崩影·人鱼
 text:
   en: |-
     1 "Knightmare" monster, except "Knightmare Mermaid"
@@ -36,6 +37,11 @@ text:
   ko: |-
     "트로이메어 인어" 이외의 "트로이메어" 몬스터 1장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고 발동할 수 있다. 덱에서 "트로이메어" 몬스터 1장을 특수 소환한다. 이 효과의 발동시에 이 카드가 상호 링크 상태였을 경우, 추가로 자신은 덱에서 1장 드로우할 수 있다. ② : 이 카드가 몬스터 존에 존재하는 한, 필드의 상호 링크 상태가 아닌 몬스터의 공격력 / 수비력은 1000 내린다.
+  zh-CN: |-
+    「梦幻崩影·人鱼」以外的「幻崩」怪兽1只
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡连接召唤成功的场合，丢弃1张手卡才能发动。从卡组把1只「幻崩」怪兽特殊召唤。这个效果的发动时这张卡是互相连接状态的场合，再让自己可以从卡组抽1张。
+    ②：只要这张卡在怪兽区域存在，场上的不在互相连接状态的怪兽的攻击力·守备力下降1000。
 type: Monster
 typeline: Fiend / Link / Effect
 attribute: WATER
@@ -98,3 +104,8 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP2-SC025
+    set_name: Mega Pack 02
+    rarities:
+    - Common

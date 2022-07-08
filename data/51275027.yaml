@@ -11,6 +11,7 @@ name:
   ja_romaji: Hakkō no Bishōjo
   ko: 불행한 소녀
   ko_rr:
+  zh-CN: 不幸的美少女
 text:
   en: |-
     When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.
@@ -28,6 +29,8 @@ text:
     このカードが戦闘によって墓地に送られた時、そのターンのバトルフェイズは終了する。
   ko: |-
     이 카드가 전투에 의해 묘지로 보내졌을때 그 턴의 배틀 페이즈를 종료한다.
+  zh-CN: |-
+    这张卡被战斗破坏送去墓地时，这个回合的战斗阶段结束。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: LIGHT
@@ -104,5 +107,10 @@ sets:
     - Short Print
   - set_number: BP2-KR079
     set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC027
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

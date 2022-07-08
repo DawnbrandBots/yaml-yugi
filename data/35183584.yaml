@@ -11,6 +11,7 @@ name:
   ja_romaji: Sei'ibutsu no Shugoryū Merodāku
   ko: 성유물의 수호룡 멜로다크
   ko_rr: Seong-yumul-ui Suhoryong Mellodakeu
+  zh-CN:
 text:
   en: |-
     All monsters your opponent controls lose 500 ATK/DEF for each Dragon monster you control. You can only use each of the following effects of "World Legacy Guardragon Mardark" once per turn.
@@ -40,6 +41,8 @@ text:
     このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・墓地から通常モンスター２体を除外して発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手フィールドのモンスターの攻撃力・守備力は、自分フィールドのドラゴン族モンスターの数×５００ダウンする。③：フィールドのこのカードが戦闘・効果で破壊された場合に発動できる。このカードとは元々の種族・属性が異なるレベル９モンスター１体を自分の墓地から選んで手札に加える。
   ko: |-
     이 카드명의 ①③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신의 패 / 묘지에서 일반 몬스터 2장을 제외하고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대 필드의 몬스터의 공격력 / 수비력은, 자신 필드의 드래곤족 몬스터의 수 × 500 내린다. ③: 필드의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 이 카드와는 원래의 종족 / 속성이 다른 레벨 9 몬스터 1장을 자신 묘지에서 골라 패에 넣는다.
+  zh-CN: |-
+    None
 type: Monster
 typeline: Dragon / Effect
 attribute: WIND
@@ -120,5 +123,10 @@ sets:
   ko:
   - set_number: DANE-KR018
     set_name: Dark Neostorm
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP3-SC064
+    set_name: Mega Pack 03
     rarities:
     - Rare

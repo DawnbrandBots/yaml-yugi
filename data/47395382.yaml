@@ -11,6 +11,7 @@ name:
   ja_romaji: Magōshin Reijion
   ko: 마굉신 레이지온
   ko_rr:
+  zh-CN: 魔轰神 雷吉恩
 text:
   en: |-
     1 "Fabled" Tuner + 1+ non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "마굉신"이라는 이름이 붙은 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     자신의 패가 1장 이하일 경우, 이 카드가 싱크로 소환에 성공했을 때, 자신의 패가 2장이 될 때까지 덱에서 카드를 드로우할 수 있다.
+  zh-CN: |-
+    名字带有「魔轰神」的调整＋调整以外的怪兽1只以上
+    自己手卡是1张以下的场合，这张卡同调召唤成功时，可以直到自己手卡变成2张从卡组抽卡。
 type: Monster
 typeline: Fiend / Synchro / Effect
 attribute: LIGHT
@@ -109,3 +113,8 @@ sets:
     set_name: Hidden Arsenal 3
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: CL01-SC096
+    set_name: Classic Pack 01
+    rarities:
+    - Super Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Seishin no Paradion
   ko: 성진의 파라디온
   ko_rr: Seongjin-ui Paradion
+  zh-CN: 星辰之圣像骑士
 text:
   en: |-
     You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon "Crusadia Draco" once per turn this way. If this card is Normal or Special Summoned to a zone a Link Monster points to: You can target 1 "Crusadia" card in your GY, except "Crusadia Draco"; add it to your hand. You can only use this effect of "Crusadia Draco" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターのリンク先となる自分フィールドに手札から守備表示で特殊召喚できる。②：このカードがリンクモンスターのリンク先への召喚・特殊召喚に成功した場合、「星辰のパラディオン」以外の自分の墓地の「パラディオン」カード１枚を対象として発動できる。そのカードを手札に加える。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 링크 몬스터의 링크 앞이 되는 자신 필드에 패에서 수비 표시로 특수 소환할 수 있다. ②: 이 카드가 링크 몬스터의 링크 앞으로의 일반 소환 / 특수 소환에 성공했을 경우, "성진의 파라디온" 이외의 자신 묘지의 "파라디온" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-CN: |-
+    这个卡名的作为①的方法的特殊召唤1回合只能有1次，作为②的效果1回合只能使用1次。
+    ①：这张卡可以从手卡往作为连接怪兽所连接区的自己场上守备表示特殊召唤。
+    ②：这张卡往连接怪兽所连接区的召唤·特殊召唤成功的场合，以「星辰之圣像骑士」以外的自己墓地1张「圣像骑士」卡为对象才能发动。那张卡加入手卡。
 type: Monster
 typeline: Dragon / Effect
 attribute: WIND
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: CYHO-KR009
     set_name: Cybernetic Horizon
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC061
+    set_name: Mega Pack 02
     rarities:
     - Common

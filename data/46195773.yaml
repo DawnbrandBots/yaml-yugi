@@ -11,6 +11,7 @@ name:
   ja_romaji: Tābo Woriā
   ko: 터보 워리어
   ko_rr:
+  zh-CN: 涡轮战士
 text:
   en: |-
     "Turbo Synchron" + 1 or more non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     "터보싱크론" ＋ 튜너 이외의 몬스터 1장 이상
     이 카드가 레벨 6 이상의 싱크로 몬스터에 공격할 경우, 공격 대상 몬스터의 공격력을 절반으로 한다. 이 카드는 레벨 6 이하의 효과 몬스터의 효과의 대상이 되지 않는다.
+  zh-CN: |-
+    「涡轮同调士」＋调整以外的怪兽1只以上
+    以6星以上的同调怪兽为攻击对象的这张卡的攻击宣言时，攻击对象怪兽的攻击力直到伤害步骤结束时变成一半。场上的这张卡不会成为6星以下的效果怪兽的效果的对象。
 type: Monster
 typeline: Warrior / Synchro / Effect
 attribute: WIND
@@ -145,3 +149,8 @@ sets:
     set_name: 'Duelist Pack: Yusei'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: SD28-SCP12
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
+    - Super Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Heizubīsuto Guripusu
   ko: 헤이즈비스트 그리프스
   ko_rr:
+  zh-CN: 阳炎兽 狮鹫
 text:
   en: |-
     If your opponent controls a monster, and all the monsters (if any) on your side of the field and in your Graveyard are FIRE (and only FIRE), you can Special Summon this card (from your hand). Your opponent cannot target this card with card effects.
@@ -28,6 +29,8 @@ text:
     相手フィールド上にモンスターが存在し、自分のフィールド上・墓地に炎属性以外のモンスターが存在しない場合、このカードは手札から特殊召喚できる。このカードがフィールド上に表側表示で存在する限り、相手はこのカードをカードの効果の対象にできない。
   ko: |-
     상대 필드 위에 몬스터가 존재하고, 자신 필드 위 / 묘지에 화염 속성 이외의 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 상대는 이 카드를 카드 효과의 대상으로 할 수 없다.
+  zh-CN: |-
+    对方场上有怪兽存在，自己的场上·墓地没有炎属性以外的怪兽存在的场合，这张卡可以从手卡特殊召唤。只要这张卡在场上表侧表示存在，对方不能把这张卡作为卡的效果的对象。
 type: Monster
 typeline: Winged Beast / Effect
 attribute: FIRE
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: CBLZ-KR029
+    set_name: Cosmo Blazer
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: CBLZ-TC029
     set_name: Cosmo Blazer
     rarities:
     - Common

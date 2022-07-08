@@ -11,6 +11,7 @@ name:
   ja_romaji: Kaosu Hantā
   ko: 카오스 헌터
   ko_rr: Kaoseu Heonteo
+  zh-CN: 混沌猎人
 text:
   en: |-
     When your opponent Special Summons a monster (except during the Damage Step): You can discard 1 card; Special Summon this card from your hand. Your opponent cannot banish cards.
@@ -28,6 +29,8 @@ text:
     ①：相手がモンスターの特殊召喚に成功した時、このカード以外の手札を１枚捨てて発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手はカードを除外できない。
   ko: |-
     ①: 상대가 몬스터의 특수 소환에 성공했을 때, 이 카드 이외의 패를 1장 버리고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 카드를 제외할 수 없다.
+  zh-CN: |-
+    ①：对方对怪兽的特殊召唤成功时，把这张卡以外的1张手卡丢弃才能发动。这张卡从手卡特殊召唤。②：只要这张卡在怪兽区域存在，对方不能把卡除外。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -144,6 +147,24 @@ sets:
     rarities:
     - Common
   - set_number: SD38-KR014
+    set_name: 'Structure Deck: Sacred Beasts of Chaos'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC017
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC016
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC007
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Rare
+  - set_number: SD38-SC014
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Common

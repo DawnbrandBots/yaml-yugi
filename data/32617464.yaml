@@ -11,6 +11,7 @@ name:
   ja_romaji: Toraigēto Wizādo
   ko: 트라이게이트 위저드
   ko_rr:
+  zh-CN: 三栅极男巫
 text:
   en: |-
     2+ monsters, except Tokens
@@ -54,6 +55,12 @@ text:
   ko: |-
     토큰 이외의 몬스터 2장 이상
     ① : 이 카드와 상호 링크하고 있는 몬스터의 수에 따라 이하의 효과를 얻는다. ● 1장 이상 : 이 카드와 상호 링크하고 있는 몬스터가 상대 몬스터와 전투를 실행할 경우, 그 몬스터가 상대에게 주는 전투 데미지는 배가 된다. ● 2장 이상 : 1턴에 1번, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 제외한다. ● 3장 : 1턴에 1번, 마법 / 함정 / 몬스터의 효과가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 제외한다.
+  zh-CN: |-
+    衍生物以外的怪兽2只以上
+    ①：得到和这张卡互相连接的怪兽数量的以下效果。
+    ●1只以上：和这张卡互相连接的怪兽在和对方怪兽进行战斗的场合，那只怪兽给与对方的战斗伤害变成2倍。
+    ●2只以上：1回合1次，以场上1张卡为对象才能发动。那张卡除外。
+    ●3只：1回合1次，魔法·陷阱·怪兽的效果发动时才能发动。那个发动无效并除外。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: EARTH
@@ -99,3 +106,8 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: MGP1-SC164
+    set_name: Mega Pack 01
+    rarities:
+    - Super Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Oddoaizu Ākupendyuramu Doragon
   ko: 오드아이즈 아크펜듈럼 드래곤
   ko_rr: Odeu-aijeu Akeupendyulleom Deuraegon
+  zh-CN: 异色眼霸弧灵摆龙
 text:
   en: |-
     Made from miracles, this valiant and beautiful dragon has gleaming eyes that reflect an arc drawn in the sky.
@@ -28,6 +29,12 @@ text:
     雄々しくも美しき、神秘の眼を持つ奇跡の龍。その二色に輝く眼は、天空に描かれし<ruby><rb>軌跡</rb><rp>（</rp><rt>アーク</rt><rp>）</rp></ruby>を映す。
   ko: |-
     용맹하고도 아름다운, 신비의 눈을 가진 기적의 용. 두 가지 색으로 빛나는 그 눈은, 천공에 그려진 궤적을 비춘다.
+  zh-CN: |-
+    ←8 【灵摆】 8→
+    这个卡名的灵摆效果1回合只能使用1次。
+    ①：自己场上的「异色眼」卡被战斗·效果破坏的场合才能发动。从自己的手卡·卡组·墓地选1只「异色眼」怪兽特殊召唤。
+    【怪兽描述】
+    雄壮而又美丽的拥有神秘之眼的奇迹之龙。那闪耀着双色光辉的眼睛，映出描绘于天空之中的轨迹。
 type: Monster
 typeline: Dragon / Pendulum / Normal
 attribute: DARK
@@ -52,6 +59,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの「オッドアイズ」カードが戦闘・効果で破壊された場合に発動できる。自分の手札・デッキ・墓地から「オッドアイズ」モンスター１体を選んで特殊召喚する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 앞면 표시의 "오드아이즈" 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 패 / 덱 / 묘지에서 "오드아이즈" 몬스터 1장을 고르고 특수 소환한다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: LEDD-ENC00
@@ -96,3 +105,8 @@ sets:
     set_name: Extra Pack 2018
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 22RC-SC005
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Extra Secret Rare

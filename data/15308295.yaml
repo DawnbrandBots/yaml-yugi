@@ -11,6 +11,7 @@ name:
   ja_romaji: Makai Gekidan - Komikku Rirīfu
   ko: 마계극단－코믹 릴리프
   ko_rr: Magyegeukdan - Komik Rillipeu
+  zh-CN: 魔界剧团-插科打诨角色
 text:
   en: |-
     You take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set "Abyss Script" Spell in their Spell & Trap Zone.
@@ -28,6 +29,14 @@ text:
     ①：このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：自分スタンバイフェイズに発動する。このカードのコントロールを相手に移す。③：１ターンに１度、このカードのコントロールが移った場合に発動する。このカードの元々の持ち主は自身の魔法＆罠ゾーンにセットされた「<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>台</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>本</rb><rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>」魔法カード１枚を選んで破壊できる。
   ko: |-
     ①: 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ②: 자신 스탠바이 페이즈에 발동한다. 이 카드의 컨트롤을 상대에게 옮긴다. ③: 1턴에 1번, 이 카드의 컨트롤이 옮겨졌을 경우에 발동한다. 이 카드의 원래의 주인은 자신의 마법 & 함정 존에 세트된 "마계대본" 마법 카드 1장을 고르고 파괴할 수 있다.
+  zh-CN: |-
+    ←8 【灵摆】 8→
+    这个卡名的灵摆效果1回合只能使用1次。
+    ①：以对方场上1只怪兽和自己场上1只「魔界剧团」灵摆怪兽为对象才能发动。那2只怪兽的控制权交换。那之后，这张卡破坏。
+    【怪兽效果】
+    ①：这张卡的战斗发生的对自己的战斗伤害变成0。
+    ②：自己准备阶段发动。这张卡的控制权移给对方。
+    ③：1回合1次，这张卡的控制权转移的场合发动。这张卡的原本持有者可以选自身的魔法与陷阱区域盖放的1张「魔界台本」魔法卡破坏。
 type: Monster
 typeline: Fiend / Pendulum / Effect
 attribute: DARK
@@ -52,6 +61,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：相手フィールドのモンスター１体と自分フィールドの「<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>」Ｐモンスター１体を対象として発動できる。そのモンスター２体のコントロールを入れ替える。その後、このカードを破壊する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 몬스터 1장과 자신 필드의 "마계극단" 펜듈럼 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 그 후, 이 카드를 파괴한다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: LED3-EN046
@@ -105,6 +116,11 @@ sets:
     - Rare
   ko:
   - set_number: DP20-KR046
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP20-SC046
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Rare

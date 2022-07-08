@@ -11,6 +11,7 @@ name:
   ja_romaji: Reinbō Fisshu
   ko: 레인보우 휘시
   ko_rr:
+  zh-CN: 彩虹鱼
 text:
   en: |-
     A rare rainbow fish that has never been caught by mortal man.
@@ -28,6 +29,8 @@ text:
     世にも珍しい七色の魚。捕まえるのはかなり難しい。
   ko: |-
     이 세상에서 보기드문 일곱 빛깔의 물고기. 포획은 거의 불가능하다.
+  zh-CN: |-
+    非常珍奇的七色鱼，要捕捉它非常困难。
 type: Monster
 typeline: Fish
 attribute: WATER
@@ -140,5 +143,10 @@ sets:
     - Common
   - set_number: SD4-KR002
     set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC003
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

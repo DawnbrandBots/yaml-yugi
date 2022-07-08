@@ -11,6 +11,7 @@ name:
   ja_romaji: Fisshubōgu - Purantā
   ko: 피시보그 플랜터
   ko_rr:
+  zh-CN: 电子鱼人-栽培者
 text:
   en: |-
     Once, while this card is in the GY: You can send the top card of your Deck to the GY, then, if it is a WATER monster, Special Summon this card from the GY. You can only use this effect of "Fishborg Planter" once per turn.
@@ -28,6 +29,8 @@ text:
     このカードが墓地に存在する限り1度だけ発動できる。自分のデッキの一番上のカードを墓地に送る。墓地に送ったカードが水属性モンスターだった場合、このカードを墓地から特殊召喚する。「フィッシュボーグ・プランター」の効果は１ターンに１度しか使用できない。
   ko: |-
     이 카드가 묘지에 존재하는 한, 1번만 발동할 수 있다. 자신 덱의 맨 위 카드를 묘지로 보낸다. 묘지로 보낸 카드가 물 속성 몬스터였을 경우, 다시 이 카드를 묘지에서 특수 소환한다. "피시보그 플랜터"의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    只在这张卡在墓地存在才能发动1次。自己卡组最上面的卡送去墓地。送去墓地的卡是水属性怪兽的场合，再把这张卡从墓地特殊召唤。「电子鱼人-栽培者」的效果1回合只能使用1次。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -83,6 +86,11 @@ sets:
     - Common
   ko:
   - set_number: ABYR-KR030
+    set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC030
     set_name: Abyss Rising
     rarities:
     - Common

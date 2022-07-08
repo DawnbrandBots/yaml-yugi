@@ -11,6 +11,7 @@ name:
   ja_romaji: Tōkun Korekutā
   ko: 토큰컬렉터
   ko_rr: Tokeunkeollekteo
+  zh-CN: 衍生物收集者
 text:
   en: |-
     If a Token is Special Summoned (except during the Damage Step): You can Special Summon this card from the GY (if it was there when the Token was Special Summoned) or hand (even if not). You can only use this effect of "Token Collector" once per turn. If this card is Special Summoned: Destroy as many Tokens on the field as possible, and if you do, this card gains 400 ATK for each Token destroyed. Neither player can Special Summon Tokens.
@@ -28,6 +29,11 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、トークンが特殊召喚された場合に発動できる。このカードを特殊召喚する。②：このカードが特殊召喚に成功した場合に発動する。フィールドのトークンを全て破壊し、このカードの攻撃力は破壊したトークンの数×４００アップする。③：このカードがモンスターゾーンに存在する限り、お互いにトークンを特殊召喚できない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 토큰이 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 특수 소환한다. ②: 이 카드가 특수 소환에 성공했을 경우에 발동한다. 필드의 토큰을 전부 파괴하고, 이 카드의 공격력은 파괴한 토큰의 수 × 400 올린다. ③: 이 카드가 몬스터 존에 존재하는 한, 서로 토큰을 특수 소환할 수 없다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡在手卡·墓地存在，衍生物特殊召唤的场合才能发动。这张卡特殊召唤。
+    ②：这张卡特殊召唤成功的场合发动。场上的衍生物全部破坏，这张卡的攻击力上升破坏的衍生物数量×400。
+    ③：只要这张卡在怪兽区域存在，双方不能把衍生物特殊召唤。
 type: Monster
 typeline: Fiend / Effect
 attribute: EARTH
@@ -134,3 +140,8 @@ sets:
     set_name: Advanced Event Pack 2022 Vol.1 Version 1
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: MGP2-SC125
+    set_name: Mega Pack 02
+    rarities:
+    - Common

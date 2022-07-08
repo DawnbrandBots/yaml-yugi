@@ -11,6 +11,7 @@ name:
   ja_romaji: Doyon Atto Igunisutā
   ko: 드용<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
   ko_rr: Deuyon Aet Igneuniseuteo
+  zh-CN: 郁郁妖@火灵天星
 text:
   en: |-
     If this card is Normal or Special Summoned: You can target 1 "@Ignister" monster in your GY; add it to your hand. If this card is sent to the GY as material for the Link Summon of a Cyberse monster: You can target 1 "A.I." Spell/Trap in your GY; add it to your hand. You can only use each effect of "Doyon @Ignister" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分の墓地の「＠イグニスター」モンスター１体を対象として発動できる。そのモンスターを手札に加える。②：このカードがサイバース族リンクモンスターのリンク素材として墓地へ送られた場合、自分の墓地の「Ａｉ」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 묘지의 "＠(앳)이그니스터" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. ②: 이 카드가 사이버스족 링크 몬스터의 링크 소재로서 묘지로 보내졌을 경우, 자신 묘지의 "Ai(아이)" 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡召唤·特殊召唤成功的场合，以自己墓地1只「@火灵天星」怪兽为对象才能发动。那只怪兽加入手卡。
+    ②：这张卡作为电子界族连接怪兽的连接素材送去墓地的场合，以自己墓地1张「“艾”」魔法·陷阱卡为对象才能发动。那张卡加入手卡。
 type: Monster
 typeline: Cyberse / Effect
 attribute: DARK
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: IGAS-KR003
     set_name: Ignition Assault
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC053
+    set_name: Mega Pack 04
     rarities:
     - Common

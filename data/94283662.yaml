@@ -11,6 +11,7 @@ name:
   ja_romaji: Toransu Daemon
   ko: 트랜스 데몬
   ko_rr:
+  zh-CN: 传送恶魔
 text:
   en: |-
     Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、自分メインフェイズに発動できる。手札から悪魔族モンスター１体を捨て、このカードの攻撃力をターン終了時まで５００アップする。②：自分フィールドのこのカードが破壊され墓地へ送られた時、除外されている自分の闇属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 악마족 몬스터 1장을 버리고, 이 카드의 공격력을 턴 종료시까지 500 올린다. ②: 자신 필드의 이 카드가 파괴되어 묘지로 보내졌을 때, 제외되어 있는 자신의 어둠 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.
+  zh-CN: |-
+    ①：1回合1次，自己主要阶段才能发动。从手卡丢弃1只恶魔族怪兽，这张卡的攻击力直到回合结束时上升500。②：自己场上的这张卡被破坏送去墓地时，以除外的1只自己的暗属性怪兽为对象才能发动。那只怪兽加入手卡。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -96,5 +99,10 @@ sets:
     - Super Rare
   - set_number: SD30-KR019
     set_name: 'Structure Deck: Pendulum Domination'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC018
+    set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

@@ -12,6 +12,7 @@ name:
   ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
     초시왕 제로 맥스웰
   ko_rr: Di-Di-Di Chosiwang Jero Maekseuwel
+  zh-CN: DDD 超视王 零·麦克斯韦
 text:
   en: |-
     Before damage calculation, if this card attacks an opponent's Defense Position monster: You can change the DEF of that opponent's monster to 0 until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage. You take no battle damage from battles involving this card.
@@ -29,6 +30,8 @@ text:
     ①：このカードが相手の守備表示モンスターに攻撃するダメージ計算前に発動できる。その相手モンスターの守備力はダメージステップ終了時まで０になる。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。③：このカードの戦闘で発生する自分への戦闘ダメージは０になる。
   ko: |-
     ①: 이 카드가 상대의 수비 표시 몬스터에 공격하는 데미지 계산 전에 발동할 수 있다. 그 상대 몬스터의 수비력은 데미지 스텝 종료시까지 0 이 된다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ③: 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다.
+  zh-CN: |-
+    ①：这张卡向对方的守备表示怪兽攻击的伤害计算前才能发动。那只对方怪兽的守备力直到伤害步骤结束时变成0。②：这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。③：这张卡的战斗发生的对自己的战斗伤害变成0。
 type: Monster
 typeline: Fiend / Pendulum / Effect
 attribute: DARK
@@ -53,6 +56,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの守備力をターン終了時まで０にする。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 수비력을 턴 종료시까지 0 으로 한다.
+  zh-CN: |-
+    这个卡名的灵摆效果1回合只能使用1次。①：以场上1只表侧表示怪兽为对象才能发动。那只怪兽的守备力直到回合结束时变成0。
 sets:
   en:
   - set_number: LIOV-EN095

@@ -11,6 +11,7 @@ name:
   ja_romaji: Bachibachibachi
   ko: 바치바치바치
   ko_rr:
+  zh-CN: 劈啪劈啪蜜蜂
 text:
   en: |-
     An Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.
@@ -35,6 +36,9 @@ text:
   ko: |-
     필드 위의 이 카드를 소재로서 엑시즈 소환한 몬스터는 이하의 효과를 얻는다.
     ● 이 카드가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다.
+  zh-CN: |-
+    ①：场上的这张卡为素材作XYZ召唤的怪兽得到以下效果。
+    ●这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。
 type: Monster
 typeline: Insect / Effect
 attribute: LIGHT
@@ -78,6 +82,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR001
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC001
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

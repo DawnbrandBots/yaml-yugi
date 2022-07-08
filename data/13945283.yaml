@@ -11,6 +11,7 @@ name:
   ja_romaji: Gen'ei no Kabe
   ko: 환상의 벽
   ko_rr:
+  zh-CN: 幻影壁
 text:
   en: |-
     If this card is attacked by a monster, after damage calculation: Return that monster to the hand.
@@ -28,6 +29,8 @@ text:
     このカードを攻撃したモンスターは持ち主の手札に戻る。ダメージ計算は適用する。
   ko: |-
     이 카드를 공격한 몬스터는 주인의 패로 되돌아간다. 데미지 계산은 적용된다.
+  zh-CN: |-
+    向这张卡攻击的怪兽回到持有者手卡。伤害计算适用。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -168,5 +171,10 @@ sets:
     - Common
   - set_number: TP06-KR007
     set_name: Tournament Pack 2010 Vol.6
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC019
+    set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

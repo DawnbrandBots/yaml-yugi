@@ -11,6 +11,7 @@ name:
   ja_romaji: Erementaru Hīrō Wairudojagīman
   ko: 엘리멘틀 히어로 와일드 쟤기맨
   ko_rr:
+  zh-CN: 元素英雄 锯齿荒野侠
 text:
   en: |-
     "Elemental HERO Wildheart" + "Elemental HERO Bladedge"
@@ -36,6 +37,9 @@ text:
   ko: |-
     "엘리멘틀 히어로 와일드맨" + "엘리멘틀 히어로 에지맨"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 상대 필드 위의 모든 몬스터에 1회씩 공격을 할 수 있다.
+  zh-CN: |-
+    「元素英雄 荒野侠」＋「元素英雄 金刃侠」
+    这只怪兽不用融合召唤不能特殊召唤。可以向对方场上的全部怪兽各作1次攻击。
 type: Monster
 typeline: Warrior / Fusion / Effect
 attribute: EARTH
@@ -124,3 +128,8 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Rare
+  zh-CN:
+  - set_number: SD27-SCP16
+    set_name: "Structure Deck: HERO's Strike Deck Enhancement Pack"
+    rarities:
+    - Super Rare

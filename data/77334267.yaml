@@ -11,6 +11,7 @@ name:
   ja_romaji: Zenmai Sōkō Zenmaiō
   ko: 발조장공 태엽오
   ko_rr:
+  zh-CN: 发条装攻 发条王
 text:
   en: |-
     2 Level 5 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 5 몬스터×2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드 위에 세트된 카드 2장을 선택하여 발동할 수 있다. 선택한 카드를 파괴한다.
+  zh-CN: |-
+    5星怪兽×2
+    ①：1回合1次，把这张卡1个XYZ素材取除，以场上盖放的2张卡为对象才能发动。那些卡破坏。
 type: Monster
 typeline: Machine / Xyz / Effect
 attribute: WIND
@@ -123,3 +127,8 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Super Rare
+  zh-TW:
+  - set_number: SP01-TC029
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Ultra Rare

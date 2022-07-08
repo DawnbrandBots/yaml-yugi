@@ -11,6 +11,7 @@ name:
   ja_romaji: Daimokutan Inpachi
   ko: 대목탄18
   ko_rr:
+  zh-CN: 大木炭18
 text:
   en: |-
     A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.
@@ -28,6 +29,8 @@ text:
     完全に燃え尽きてしまった巨木の化身。この炭で焼く肉は絶品と言われ、重宝されている。
   ko: |-
     완전히 다 타버린 거목의 화신. 이 숯으로 구운 고기는 최상품이라 하여, 귀중하게 다뤄지고 있다.
+  zh-CN: |-
+    完全燃烧殆尽的巨木之化身。用此炭烤出的肉被公认为极品而受到珍重。
 type: Monster
 typeline: Pyro / Normal
 attribute: FIRE
@@ -162,5 +165,14 @@ sets:
     - Rare
   - set_number: YSD3-KR005
     set_name: Starter Deck 2008
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC007
+    set_name: Duel Starter Deck
+    rarities:
+    - Common
+  - set_number: SP03-TC004
+    set_name: Starter Pack Volume 3
     rarities:
     - Common

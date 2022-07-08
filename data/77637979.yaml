@@ -11,6 +11,7 @@ name:
   ja_romaji: Ranforinkusu
   ko: <ruby><rb>LAN</rb><rp>（</rp><rt>런</rt><rp>）</rp></ruby> 포링쿠스
   ko_rr:
+  zh-CN: LAN喙嘴龙
 text:
   en: |-
     2 monsters
@@ -28,6 +29,8 @@ text:
     モンスター２体
   ko: |-
     몬스터 2장
+  zh-CN: |-
+    怪兽2只
 type: Monster
 typeline: Cyberse / Link
 attribute: LIGHT
@@ -92,3 +95,8 @@ sets:
     set_name: 'Structure Deck: Powercode Link'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP1-SC174
+    set_name: Mega Pack 01
+    rarities:
+    - Common

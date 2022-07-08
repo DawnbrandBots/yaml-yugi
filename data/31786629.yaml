@@ -11,6 +11,7 @@ name:
   ja_romaji: Sandā Doragon
   ko: 썬더 드래곤
   ko_rr: Sseonda Deuraegon
+  zh-CN: 雷龙
 text:
   en: |-
     You can discard this card; add up to 2 "Thunder Dragon" from your Deck to your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードを手札から捨てて発動できる。デッキから「サンダー・ドラゴン」を２体まで手札に加える。
   ko: |-
     ①: 이 카드를 패에서 버리고 발동할 수 있다. 덱에서 "썬더 드래곤"을 2장까지 패에 넣는다.
+  zh-CN: |-
+    ①：把这张卡从手卡丢弃才能发动。从卡组把最多2只「雷龙」加入手卡。
 type: Monster
 typeline: Thunder / Effect
 attribute: LIGHT
@@ -201,5 +204,10 @@ sets:
     - Common
   - set_number: LVP2-KR013
     set_name: LINK VRAINS Pack 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC162
+    set_name: Mega Pack 02
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Kame Game
   ko: 단지 거북
   ko_rr:
+  zh-CN: 瓶龟
 text:
   en: |-
     Each time "Jar of Greed" is activated, draw 1 card.
@@ -28,6 +29,8 @@ text:
     このカードがフィールド上に表側表示で存在する限り、「強欲な瓶」が発動する度に自分のデッキからカードを１枚ドローする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, "욕망의 단지" 가 발동할 때마다 자신의 덱에서 카드를 1장 드로우한다.
+  zh-CN: |-
+    只要这张卡在场上表侧表示存在，每次「强欲之瓶」发动从自己卡组抽1张卡。
 type: Monster
 typeline: Reptile / Effect
 attribute: WATER
@@ -65,3 +68,8 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Normal Rare
+  zh-TW:
+  - set_number: SP01-TC018
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Common

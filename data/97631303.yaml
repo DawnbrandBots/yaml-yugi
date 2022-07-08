@@ -11,6 +11,7 @@ name:
   ja_romaji: Majishanzu Souruzu
   ko: 매지션즈 소울즈
   ko_rr: Maejisyeonjeu Souljeu
+  zh-CN: 魔术师双魂
 text:
   en: |-
     You can send up to 2 Spells/Traps from your hand and/or field to the GY; draw that many cards. If this card is in your hand: You can send 1 Level 6 or higher Spellcaster monster from your Deck to the GY, then activate 1 of these effects;
@@ -47,6 +48,12 @@ text:
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 있을 경우, 덱에서 레벨 6 이상의 마법사족 몬스터 1장을 묘지로 보내고, 이하의 효과에서 1개를 선택하여 발동할 수 있다. ●이 카드를 특수 소환한다. ●이 카드를 묘지로 보낸다. 그 후, 자신 묘지에서 "블랙 매지션" 또는 "블랙 매지션 걸" 1장을 고르고 특수 소환할 수 있다.
     ②: 자신의 패 / 필드에서 마법 / 함정 카드를 2장까지 묘지로 보내고 발동할 수 있다. 묘지로 보낸 수만큼 자신은 덱에서 드로우한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡在手卡的场合，可以从卡组把1只6星以上的魔法师族怪兽送去墓地，从以下效果选择1个发动。
+    ●这张卡特殊召唤。
+    ●这张卡送去墓地。那之后，可以从自己墓地选1只「黑魔术师」或者「黑魔术少女」特殊召唤。
+    ②：从自己的手卡·场上把最多2张魔法·陷阱卡送去墓地才能发动。自己从卡组抽出送去墓地的数量。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -141,3 +148,8 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: CL01-SC009
+    set_name: Classic Pack 01
+    rarities:
+    - Prismatic Secret Rare

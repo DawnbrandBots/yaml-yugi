@@ -11,6 +11,7 @@ name:
   ja_romaji: Shūai no Uvarūpu
   ko: 집애의 우발루프
   ko_rr: Jip-ae-ui Uballupeu
+  zh-CN: 执爱之化卢普
 text:
   en: |-
     If this card is in your hand: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, Special Summon this card. If this card is in your GY: You can target 1 Synchro Monster you control or in your GY; banish it, and if you do, add this card to your hand. You can only use each effect of "Obsessive Uvualoop" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分のフィールド・墓地のＳモンスター１体を対象として発動できる。そのモンスターを除外し、このカードを特殊召喚する。②：このカードが墓地に存在する場合、自分のフィールド・墓地のＳモンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 존재할 경우, 자신의 필드 / 묘지의 싱크로 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 제외하고, 이 카드를 특수 소환한다. ②: 이 카드가 묘지에 존재할 경우, 자신의 필드 / 묘지의 싱크로 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 제외하고, 이 카드를 패에 넣는다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡在手卡存在的场合，以自己的场上·墓地1只同调怪兽为对象才能发动。那只怪兽除外，这张卡特殊召唤。
+    ②：这张卡在墓地存在的场合，以自己的场上·墓地1只同调怪兽为对象才能发动。那只怪兽除外，这张卡加入手卡。
 type: Monster
 typeline: Fiend / Tuner / Effect
 attribute: EARTH
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: IGAS-KR028
     set_name: Ignition Assault
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC064
+    set_name: Mega Pack 04
     rarities:
     - Common

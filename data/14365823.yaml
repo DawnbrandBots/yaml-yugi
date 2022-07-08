@@ -11,6 +11,7 @@ name:
   ja_romaji: Torikkusutā Dīvaridisu
   ko: 트릭스터 디바리디스
   ko_rr: Teurikseuteo Dibaridiseu
+  zh-CN: 淘气仙星·蒂瓦丽迪丝
 text:
   en: |-
     2 Level 3 or lower "Trickstar" monsters
@@ -36,6 +37,11 @@ text:
   ko: |-
     레벨 3 이하의 "트릭스터" 몬스터 2장
     ①: "트릭스터 디바리디스"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 상대에게 200 데미지를 준다. ③: 상대가 몬스터의 일반 소환 / 특수 소환에 성공할 때마다 발동한다. 상대에게 200 데미지를 준다.
+  zh-CN: |-
+    3星以下的「淘气仙星」怪兽2只
+    ①：「淘气仙星·蒂瓦丽迪丝」在自己场上只能有1只表侧表示存在。
+    ②：这张卡特殊召唤成功的场合才能发动。给与对方200伤害。
+    ③：每次对方对怪兽的召唤·特殊召唤成功发动。给与对方200伤害。
 type: Monster
 typeline: Fairy / Link / Effect
 attribute: LIGHT
@@ -78,5 +84,10 @@ sets:
   ko:
   - set_number: SAST-KR049
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC031
+    set_name: Mega Pack 03
     rarities:
     - Common

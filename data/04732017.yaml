@@ -11,6 +11,7 @@ name:
   ja_romaji: Shakunetsu Zonbī
   ko: 작열 좀비
   ko_rr:
+  zh-CN: 灼热僵尸
 text:
   en: |-
     When this card is Special Summoned from the Graveyard: Draw 1 card.
@@ -28,6 +29,8 @@ text:
     このカードが墓地からの特殊召喚に成功した時、自分はデッキからカードを１枚ドローする。
   ko: |-
     이 카드가 묘지에서 특수 소환에 성공 했을 때, 자신은 덱에서 카드를 1장 드로우한다.
+  zh-CN: |-
+    这张卡从墓地的特殊召唤成功时，自己从卡组抽1张卡。
 type: Monster
 typeline: Pyro / Effect
 attribute: FIRE
@@ -143,6 +146,11 @@ sets:
     rarities:
     - Common
   - set_number: SD24-KR015
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD24-TC015
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Rosuto Burū Bureikā
   ko: 로스트 블루 브레이커
   ko_rr:
+  zh-CN: 失落之蓝破坏者
 text:
   en: |-
     If there is another face-up Fish, Sea Serpent, or Aqua monster on the field: You can Tribute this card, then target 1 Spell/Trap on the field; destroy that target.
@@ -28,6 +29,8 @@ text:
     フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合にこのカードをリリースして発動できる。フィールド上の魔法・罠カード１枚を選択して破壊する。
   ko: |-
     필드 위에 이 카드 이외의 어류족 / 해룡족 / 물족 몬스터가 존재할 경우에 이 카드를 릴리스하고 발동할 수 있다. 필드 위의 마법 / 함정 카드 1장을 선택하고 파괴한다.
+  zh-CN: |-
+    场上有这张卡以外的鱼族·海龙族·水族怪兽存在的场合把这张卡解放才能发动。选择场上1张魔法·陷阱卡破坏。
 type: Monster
 typeline: Sea Serpent / Effect
 attribute: WATER
@@ -108,5 +111,10 @@ sets:
     - Common
   - set_number: EXP5-KR014
     set_name: Extra Pack 2012
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC011
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

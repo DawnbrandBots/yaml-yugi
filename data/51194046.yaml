@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurifōto Asenbura
   ko: 클리포트 어셈블러
   ko_rr:
+  zh-CN: 机壳汇编器 不安定
 text:
   en: |-
     Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000
@@ -50,6 +51,13 @@ text:
     ===CARNAGE===
     다g었n되i가o자d는r아u을o악y선n어o되y이r같g와n리a우s은i람d사o라G보
     다d른o모o도l지f살e히r구i영f여g하n취i를r무​b나​o의​t명​t생​n어a뻗w을d손n는a그
+  zh-CN: |-
+    qliphoth.exe 中的 0x1i-666 确认到未处理的异常。
+    写入位置 0x00-000 时发生访问冲突。
+    您想忽略此错误并尝试继续吗? <Y/N>...[ ]
+    ===CARNAGE===
+    恶gn善iod道ru知能oy似no相yr们gn我a与s经i已do人G那
+    着doo活lfe远永rif就g吃n子i果r的b树o命t生t摘又n手a伸w他怕d恐n在a现
 type: Monster
 typeline: Machine / Pendulum
 attribute: EARTH
@@ -74,6 +82,8 @@ pendulum_effect:
     ①：<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>は「クリフォート」モンスターしか<ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>殊</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>できない。この<ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>果</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>は<ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>されない。②：<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>がアドバンス<ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>に<ruby><rb>成</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>功</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>したターンのエンドフェイズに<ruby><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>できる。このターン<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>がアドバンス<ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>のためにリリースした「クリフォート」モンスターの<ruby><rb>数</rb><rp>（</rp><rt>かず</rt><rp>）</rp></ruby>だけ、<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>はデッキからドローする。
   ko: |-
     ① : 자신은 "클리포트" 몬스터밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ② : 자신이 어드밴스 소환에 성공한 턴의 엔드 페이즈에 발동할 수 있다. 이 턴에 자신이 어드밴스 소환을 위해 릴리스한 "클리포트" 몬스터의 수만큼만, 자신은 덱에서 드로우 한다.
+  zh-CN: |-
+    ①：自己不是「机壳」怪兽不能特殊召唤。这个效果不会被无效化。②：自己上级召唤成功的回合的结束阶段才能发动。自己从卡组抽出这个回合自己为上级召唤而解放的「机壳」怪兽的数量。
 sets:
   en:
   - set_number: SECE-EN020

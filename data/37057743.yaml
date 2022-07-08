@@ -11,6 +11,7 @@ name:
   ja_romaji: Enseiō - Chouraio
   ko: 염성황－초우라이오
   ko_rr: Yeomseonghwang - Chouraio
+  zh-CN: 炎星皇-晁狮
 text:
   en: |-
     2 Level 3 FIRE monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     화염 속성 레벨 3 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 묘지의 화염 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 화염 속성 몬스터를 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 대상 몬스터 및 그와 같은 이름의 몬스터를 일반 소환 / 특수 소환할 수 없다.
+  zh-CN: |-
+    炎属性3星怪兽×2
+    ①：1回合1次，把这张卡1个XYZ素材取除，以自己墓地1只炎属性怪兽为对象才能发动。那只炎属性怪兽加入手卡。这个效果的发动后，直到回合结束时自己不能把作为对象的怪兽以及那些同名怪兽召唤·特殊召唤。
 type: Monster
 typeline: Beast-Warrior / Xyz / Effect
 attribute: FIRE
@@ -105,5 +109,10 @@ sets:
     - Secret Rare
   - set_number: LVP2-KR058
     set_name: LINK VRAINS Pack 2
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: CBLZ-TC095
+    set_name: Cosmo Blazer
     rarities:
     - Rare

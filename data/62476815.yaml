@@ -11,6 +11,7 @@ name:
   ja_romaji: Gogogo Gōremu
   ko: 고고고 골렘
   ko_rr: Gagaga Gollem
+  zh-CN: 隆隆隆石人
 text:
   en: |-
     Once per turn, this Defense Position card cannot be destroyed by battle.
@@ -28,6 +29,8 @@ text:
     ①：守備表示のこのカードは１ターンに１度だけ戦闘では破壊されない。
   ko: |-
     ①: 수비 표시의 이 카드는 1턴에 1번만 전투로는 파괴되지 않는다.
+  zh-CN: |-
+    ①：守备表示的这张卡1回合只有1次不会被战斗破坏。
 type: Monster
 typeline: Rock / Effect
 attribute: EARTH
@@ -256,5 +259,10 @@ sets:
     - Common
   - set_number: SD42-KR008
     set_name: 'Structure Deck: Overlay Universe'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC008
+    set_name: Duel Starter Deck
     rarities:
     - Common

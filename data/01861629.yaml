@@ -11,6 +11,7 @@ name:
   ja_romaji: Dekōdo Tōkā
   ko: 디코드 토커
   ko_rr: Dikodeu Tokeo
+  zh-CN: 解码语者
 text:
   en: |-
     2+ Effect Monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     효과 몬스터 2장 이상
     ①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ②: 자신 필드의 카드를 대상으로 하는 마법 / 함정 / 몬스터의 효과를 상대가 발동했을 때, 이 카드의 링크 앞의 자신 몬스터 1장을 릴리스하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  zh-CN: |-
+    效果怪兽2只以上
+    ①：这张卡的攻击力上升这张卡所连接区的怪兽数量×500。②：自己场上的卡为对象的对方的魔法·陷阱·怪兽的效果发动时，把这张卡所连接区1只自己怪兽解放才能发动。那个发动无效并破坏。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: DARK
@@ -210,3 +214,9 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: MGP1-SC161
+    set_name: Mega Pack 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare

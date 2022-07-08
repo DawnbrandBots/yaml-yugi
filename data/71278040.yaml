@@ -11,6 +11,7 @@ name:
   ja_romaji: Parareru Ekushīdo
   ko: 패러렐엑시드
   ko_rr: Paereorel-eksideu
+  zh-CN: 并行超越龙
 text:
   en: |-
     If this card is Special Summoned by the effect of "Parallel eXceed", its Level becomes 4 and its original ATK/DEF become halved. You can only use each of the following effects of "Parallel eXceed" once per turn.
@@ -40,6 +41,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、自分がリンク召喚に成功した場合に発動できる。このカードをそのリンクモンスターのリンク先となる自分フィールドに特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「パラレルエクシード」１体を特殊召喚する。③：「パラレルエクシード」の効果で特殊召喚したこのカードのレベルは４になり、元々の攻撃力・守備力は半分になる。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 존재하고, 자신이 링크 소환에 성공했을 경우에 발동할 수 있다. 이 카드를 그 링크 몬스터의 링크 앞이 되는 자신 필드에 특수 소환한다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "패러렐엑시드" 1장을 특수 소환한다. ③: "패러렐엑시드"의 효과로 특수 소환한 이 카드의 레벨은 4 가 되고, 원래의 공격력 / 수비력은 절반이 된다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡在手卡存在，自己连接召唤成功的场合才能发动。这张卡在作为那只连接怪兽所连接区的自己场上特殊召唤。
+    ②：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1只「并行超越龙」特殊召唤。
+    ③：「并行超越龙」的效果特殊召唤的这张卡的等级变成4星，原本的攻击力·守备力变成一半。
 type: Monster
 typeline: Cyberse / Effect
 attribute: WIND
@@ -120,5 +126,10 @@ sets:
   ko:
   - set_number: ETCO-KR001
     set_name: Eternity Code
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC102
+    set_name: Mega Pack 04
     rarities:
     - Common

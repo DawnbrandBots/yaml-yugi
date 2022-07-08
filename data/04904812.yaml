@@ -11,6 +11,7 @@ name:
   ja_romaji: Jenekusu Undīne
   ko: 제넥스 운디네
   ko_rr: Jenekseu Undine
+  zh-CN: 次世代水精灵
 text:
   en: |-
     When this card is Normal Summoned: You can send 1 WATER monster from your Deck to the GY; add 1 "Genex Controller" from your Deck to your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚に成功した時、デッキから水属性モンスター１体を墓地へ送って発動できる。デッキから「ジェネクス・コントローラー」１体を手札に加える。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때, 덱에서 물 속성 몬스터 1장을 묘지로 보내고 발동할 수 있다. 덱에서 "제넥스 컨트롤러" 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：这张卡召唤成功时，从卡组把1只水属性怪兽送去墓地才能发动。从卡组把1只「次世代控制员」加入手卡。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -129,3 +132,10 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  zh-CN:
+  - set_number: 22RC-SC017
+    set_name: Rarity Collection 20th Anniversary Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Desutenī Hīrō Daiyamondogai
   ko: 데스티니 히어로 다이아몬드 가이
   ko_rr:
+  zh-CN: 命运英雄 钻石人
 text:
   en: |-
     Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell, send it to the GY, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell in your GY (even if you no longer control this face-up card).
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、自分メインフェイズに発動できる。自分のデッキの一番上のカードをめくり、それが通常魔法カードだった場合、そのカードを墓地へ送る。違った場合、そのカードをデッキの一番下に戻す。この効果で通常魔法カードを墓地へ送った場合、次の自分ターンのメインフェイズに墓地のその通常魔法カードの発動時の効果を発動できる。
   ko: |-
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 덱 맨 위의 카드를 넘기고, 그것이 일반 마법 카드였을 경우, 그 카드를 묘지로 보낸다. 다를 경우, 그 카드를 덱의 맨 아래로 되돌린다. 이 효과로 일반 마법 카드를 묘지로 보냈을 경우, 다음 자신 턴의 메인 페이즈에 묘지의 그 일반 마법 카드 발동시의 효과를 발동할 수 있다.
+  zh-CN: |-
+    ①：1回合1次，自己主要阶段才能发动。把自己卡组最上面的卡翻开，那是通常魔法卡的场合，那张卡送去墓地。不是的场合，那张卡回到卡组最下面。这个效果把通常魔法卡送去墓地的场合，下次的自己回合的主要阶段可以把墓地的那张通常魔法卡的发动时的效果发动。
 type: Monster
 typeline: Warrior / Effect
 attribute: DARK
@@ -216,3 +219,8 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: SCTP-SC121
+    set_name: Entry Pack Volume 8
+    rarities:
+    - Common

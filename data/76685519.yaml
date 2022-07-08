@@ -11,6 +11,7 @@ name:
   ja_romaji: Orutāgaisuto Kīdurugā
   ko: 얼터가이스트 키두르가
   ko_rr:
+  zh-CN: 幻变骚灵·击键录杜尔迦
 text:
   en: |-
     2 "Altergeist" monsters
@@ -35,6 +36,10 @@ text:
   ko: |-
     "얼터가이스트" 몬스터 2장
     ① : 이 카드 이외의 자신의 "얼터가이스트" 몬스터가 상대에게 전투 데미지를 주었을 때, 상대의 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 이 카드가 공격 선언한 턴밖에 공격할 수 없다. ② : 이 카드가 전투로 파괴되었을 경우, 자신 묘지의 "얼터가이스트" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-CN: |-
+    「幻变骚灵」怪兽2只
+    ①：这张卡以外的自己的「幻变骚灵」怪兽给与对方战斗伤害时，以对方墓地1只怪兽为对象才能发动。那只怪兽在作为这张卡所连接区的自己场上特殊召唤。这个效果特殊召唤的怪兽不在这张卡攻击宣言过的回合不能攻击。
+    ②：这张卡被战斗破坏的场合，以自己墓地1张「幻变骚灵」卡为对象才能发动。那张卡加入手卡。
 type: Monster
 typeline: Spellcaster / Link / Effect
 attribute: DARK
@@ -97,5 +102,10 @@ sets:
   ko:
   - set_number: FLOD-KR042
     set_name: Flames of Destruction
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC024
+    set_name: Mega Pack 02
     rarities:
     - Common

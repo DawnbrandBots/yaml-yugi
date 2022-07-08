@@ -11,6 +11,7 @@ name:
   ja_romaji: Gābēji Rōdo
   ko: 가비지 로드
   ko_rr:
+  zh-CN: 垃圾王
 text:
   en: |-
     You can Special Summon this card (from your hand) by paying 2000 Life Points. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.
@@ -28,6 +29,8 @@ text:
     このカードは２０００ライフポイントを払い、手札から特殊召喚できる。このカードをエクシーズ素材とする場合、闇属性モンスターのエクシーズ召喚にしか使用できない。
   ko: |-
     이 카드는 2000 라이프 포인트를 지불하고, 패에서 특수 소환할 수 있다. 이 카드를 엑시즈 소재로 할 경우, 어둠 속성 몬스터의 엑시즈 소환으로밖에 사용할 수 없다.
+  zh-CN: |-
+    这张卡可以支付2000基本分，从手卡特殊召唤。把这张卡作为XYZ素材的场合，不是暗属性怪兽的XYZ召唤不能使用。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -79,6 +82,11 @@ sets:
     - Rare
   ko:
   - set_number: CBLZ-KR019
+    set_name: Cosmo Blazer
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: CBLZ-TC019
     set_name: Cosmo Blazer
     rarities:
     - Rare

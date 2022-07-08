@@ -11,6 +11,7 @@ name:
   ja_romaji: Kodarosu
   ko: 코다로스
   ko_rr:
+  zh-CN: 科达路斯
 text:
   en: |-
     You can send 1 face-up "Umi" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.
@@ -28,6 +29,8 @@ text:
     自分フィールド上に表側表示で存在する「海」を墓地へ送る事で、相手フィールド上に存在するカードを２枚まで選択して墓地へ送る。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 "바다"를 묘지로 보내고 발동할 수 있다. 상대 필드 위의 카드를 2장까지 선택하고 묘지로 보낸다.
+  zh-CN: |-
+    把自己场上表侧表示存在的「海」送去墓地才能发动。选择对方场上最多2张卡送去墓地。
 type: Monster
 typeline: Sea Serpent / Effect
 attribute: WATER
@@ -90,6 +93,11 @@ sets:
     rarities:
     - Rare
   - set_number: SD23-KR012
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC010
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

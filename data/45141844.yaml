@@ -11,6 +11,7 @@ name:
   ja_romaji: Shūnenbukaki Rōmajutsushi
   ko: 집념의 노마술사
   ko_rr:
+  zh-CN: 执着的老魔术师
 text:
   en: |-
     FLIP: Target 1 monster your opponent controls; destroy that target.
@@ -28,6 +29,8 @@ text:
     ①：このカードがリバースした場合、相手フィールドのモンスター１体を対象として発動する。その相手モンスターを破壊する。
   ko: |-
     리버스 : 필드 위의 상대 몬스터 1장을 파괴한다.
+  zh-CN: |-
+    选择对方场上1只怪兽破坏。
 type: Monster
 typeline: Spellcaster / Flip / Effect
 attribute: DARK
@@ -69,6 +72,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: STP4-EN0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Ultra Rare
   de:
   - set_number: DR1-DE122
     set_name: Dark Revelation Volume 1
@@ -107,6 +114,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: STP4-DE0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: DR1-FR122
     set_name: Dark Revelation Volume 1
@@ -145,6 +156,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: STP4-FR0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Ultra Rare
   it:
   - set_number: DR1-IT122
     set_name: Dark Revelation Volume 1
@@ -183,6 +198,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: STP4-IT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Ultra Rare
   pt:
   - set_number: DR1-PT122
     set_name: Dark Revelation Volume 1
@@ -200,6 +219,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: STP4-PT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 303-013
     set_name: Champion of Black Magic
@@ -244,5 +267,15 @@ sets:
     - Common
   - set_number: ST13-KR020
     set_name: Starter Deck 2013
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC023
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SC012
+    set_name: Starter Deck 2021
     rarities:
     - Common

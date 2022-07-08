@@ -11,6 +11,7 @@ name:
   ja_romaji: Sutādasuto Doragon Surasshu Basutā
   ko: 스타더스트 드래곤 / 버스터
   ko_rr:
+  zh-CN: 星尘龙/爆裂体
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned with "Assault Mode Activate" and cannot be Special Summoned by other ways except by its own effect. When a card or effect is activated (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. When this card on the field is destroyed: You can target 1 "Stardust Dragon" in your GY; Special Summon that target.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。「バスター・モード」の効果及びこのカードの効果でのみ特殊召喚する事ができる。魔法・罠・効果モンスターの効果が発動した時、このカードをリリースする事でその発動を無効にし破壊する。この効果を適用したターンのエンドフェイズ時、この効果を発動するためにリリースされ墓地に存在するこのカードを、自分フィールド上に特殊召喚する事ができる。また、フィールド上に存在するこのカードが破壊された時、自分の墓地に存在する「スターダスト・ドラゴン」１体を特殊召喚する事ができる。
   ko: |-
     이 카드는 일반 소환 / 세트 할 수 없다. "버스터 모드"의 효과 및 이 카드의 효과로만 특수 소환할 수 있다. 마법 / 함정 / 효과 몬스터의 효과가 발동했을 때, 이 카드를 릴리스하는 것으로 그 발동을 무효로 하고 파괴한다. 이 효과를 적용한 턴의 엔드 페이즈시, 이 효과를 발동하기 위해 릴리스 되어 묘지에 존재하는 이 카드를 자신 필드 위에 특수 소환할 수 있다. 또한, 필드 위에 존재하는 이 카드가 파괴되었을 때, 자신의 묘지에 존재하는 "스타더스트 드래곤" 1장을 특수 소환할 수 있다.
+  zh-CN: |-
+    这张卡不能通常召唤。「爆裂模式」的效果以及这张卡的效果才能特殊召唤。魔法·陷阱·效果怪兽的效果发动时，可以通过把这张卡解放让那个发动无效并破坏。这个效果适用的回合的结束阶段时，为这个效果发动而解放在墓地存在的这张卡可以在自己场上特殊召唤。此外，场上存在的这张卡被破坏时，可以把自己墓地存在的1只「星尘龙」特殊召唤。
 type: Monster
 typeline: Dragon / Effect
 attribute: WIND
@@ -110,3 +113,10 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: MGP3-SC151
+    set_name: Mega Pack 03
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare

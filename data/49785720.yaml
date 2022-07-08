@@ -11,6 +11,7 @@ name:
   ja_romaji: Kiensei Goyōte
   ko: 기염성－고요우테
   ko_rr:
+  zh-CN: 机炎星-吴郊狼
 text:
   en: |-
     If you control a "Fire Formation" Spell/Trap, and no monsters, you can Special Summon this card (from your hand).
@@ -28,6 +29,8 @@ text:
     自分フィールド上に「炎舞」と名のついた魔法・罠カードが存在し、自分フィールド上にモンスターが存在しない場合、このカードは手札から特殊召喚できる。
   ko: |-
     자신 필드 위에 "염무"라는 이름이 붙은 마법 / 함정 카드가 존재하고, 자신 필드 위에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-CN: |-
+    自己场上有名字带有「炎舞」的魔法·陷阱卡存在，自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。
 type: Monster
 typeline: Beast-Warrior / Effect
 attribute: FIRE
@@ -108,5 +111,10 @@ sets:
   ko:
   - set_number: EXP6-KR043
     set_name: 'Extra Pack: Sword of Knights'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC083
+    set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

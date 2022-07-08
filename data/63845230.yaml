@@ -11,6 +11,7 @@ name:
   ja_romaji: Yorozu Gurai no Guratton
   ko: 백만먹기의 그랏톤
   ko_rr:
+  zh-CN: 吞食百万的暴食兽
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 or more cards from your hand, field, and/or Extra Deck, face-down. Gains 100 ATK/DEF for each face-down banished card. Cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster, face-down.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。自分の手札・フィールド・ＥＸデッキからカード５枚以上を裏側表示で除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、裏側表示で除外されているカードの数×１００アップする。②：このカードはモンスターゾーンに存在する限り、リリースできず、融合・Ｓ・Ｘ召喚の素材にもできない。③：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを裏側表示で除外する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신의 패 / 필드 / 엑스트라 덱에서 카드 5장 이상을 뒷면 표시로 제외했을 경우에만 특수 소환할 수 있다. ①: 이 카드의 공격력 / 수비력은, 뒷면 표시로 제외되어 있는 카드의 수 × 100 올린다. ②: 이 카드는 몬스터 존에 존재하는 한, 릴리스할 수 없으며, 융합 / 싱크로 / 엑시즈 소환의 소재로도 할 수 없다. ③: 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터를 뒷면 표시로 제외한다.
+  zh-CN: |-
+    这张卡不能通常召唤。从自己的手卡·场上·额外卡组把卡5张以上里侧表示除外的场合才能特殊召唤。①：这张卡的攻击力·守备力上升里侧表示除外中的卡数量×100。②：这张卡只要在怪兽区域存在，不能解放，也不能作为融合·同调·XYZ召唤的素材。③：1回合1次，这张卡和对方怪兽进行战斗的伤害步骤开始时才能发动。那只对方怪兽里侧表示除外。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -137,5 +140,10 @@ sets:
   ko:
   - set_number: RATE-KR032
     set_name: Raging Tempest
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC059
+    set_name: Entry Pack Volume 4
     rarities:
     - Common

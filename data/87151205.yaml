@@ -11,6 +11,7 @@ name:
   ja_romaji: Erekiterudoragon
   ko: 일렉테일 드래곤
   ko_rr:
+  zh-CN: 电气尾龙
 text:
   en: |-
     Capable of indefinite flight. Attacks by wrapping its body with electricity and ramming into opponents.
@@ -34,6 +35,8 @@ text:
     常に電気を纏い空中を浮遊するドラゴン。古代より存在し、その生態には未だ謎が多いものの、古のルールにより捕獲は禁止されている。
   ko: |-
     늘 전기를 휘감고 공중을 떠도는 드래곤. 고대부터 존재하여 그 생태에 대해서는 아직도 의문이 많지만, 고대의 룰에 따라 포획은 금지되어 있다.
+  zh-CN: |-
+    总有电气缠绕的空中浮游之龙。从古代就存在，其生态还有很多的谜，但由于古之规则而禁止捕获。
 type: Monster
 typeline: Dragon
 attribute: LIGHT
@@ -126,5 +129,14 @@ sets:
     - Common
   - set_number: ST14-KR001
     set_name: Starter Deck 2014
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC001
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Common
+  - set_number: HD13-TCL01
+    set_name: 'Half-Deck: LIGHT'
     rarities:
     - Common

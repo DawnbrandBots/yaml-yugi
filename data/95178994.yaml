@@ -11,6 +11,7 @@ name:
   ja_romaji: Jaianto Wirusu
   ko: 자이언트 바이러스
   ko_rr:
+  zh-CN: 巨型病毒
 text:
   en: |-
     When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of "Giant Germs" from your Deck in face-up Attack Position.
@@ -28,6 +29,8 @@ text:
     ①：このカードが戦闘で破壊され墓地へ送られた場合に発動する。相手に５００ダメージを与える。その後、デッキから「ジャイアントウィルス」を任意の数だけ攻撃表示で特殊召喚できる。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 상대 라이프에 500 포인트의 데미지를 준다. 또한 자신의 덱에서 "자이언트 바이러스"를 임의의 수만큼 앞면 공격 표시로 특수 소환할 수 있다.
+  zh-CN: |-
+    这张卡被战斗破坏送去墓地时，给与对方基本分500分伤害。可以再从自己卡组把「巨型病毒」任意数量表侧攻击表示特殊召唤。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -168,5 +171,10 @@ sets:
     - Rare
   - set_number: SD21-KR017
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC024
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

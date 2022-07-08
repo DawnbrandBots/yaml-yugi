@@ -11,6 +11,7 @@ name:
   ja_romaji: Torappu Masutā
   ko: 함정술사
   ko_rr:
+  zh-CN: 陷阱大师
 text:
   en: |-
     FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.
@@ -28,6 +29,8 @@ text:
     リバース：フィールド上の罠カードを１枚破壊する。（対象カードが裏の場合、表にしてそれが罠カードなら破壊する。違う場合は元に戻す。そのカードの効果は発動しない）
   ko: |-
     리버스 : 필드 위의 함정 카드 1장을 파괴한다. 선택한 카드가 세트되어 있을 경우, 그 카드를 넘겨서 확인하여 함정 카드이면 파괴한다. 마법 카드일 경우에는 원래대로 되돌린다.
+  zh-CN: |-
+    场上1张陷阱卡破坏。（对象卡是里向的场合，变成表向那是陷阱卡则破坏。不是的场合回到原状。那张卡的效果不发动）
 type: Monster
 typeline: Warrior / Effect
 attribute: EARTH
@@ -120,5 +123,10 @@ sets:
     - Common
   - set_number: SKE-KR018
     set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC016
+    set_name: Duel Starter Deck
     rarities:
     - Common

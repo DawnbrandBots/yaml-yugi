@@ -11,6 +11,7 @@ name:
   ja_romaji: Doraguniti Naito - Romurusu
   ko: 드래그니티 나이트－로물루스
   ko_rr: Deuraegeuniti Naiteu - Romulluseu
+  zh-CN: 龙骑兵团骑士-始枪龙骑士
 text:
   en: |-
     2 Dragon and/or Winged Beast monsters, except Tokens
@@ -36,6 +37,11 @@ text:
   ko: |-
     토큰 이외의 드래곤족 / 비행야수족 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "드래그니티" 마법 / 함정 카드 또는 "용의 계곡" 1장을 패에 넣는다. ②: 드래곤족 몬스터가 엑스트라 덱에서 이 카드의 링크 앞에 특수 소환되었을 경우에 발동할 수 있다. 패에서 드래곤족 / 비행야수족 몬스터 1장을 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴에, 효과가 무효화되고, 링크 소재로 할 수 없다.
+  zh-CN: |-
+    衍生物以外的龙族·鸟兽族怪兽2只
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「龙骑兵团」魔法·陷阱卡或者「龙之溪谷」加入手卡。
+    ②：龙族怪兽从额外卡组往这张卡所连接区特殊召唤的场合才能发动。从手卡把1只龙族·鸟兽族怪兽守备表示特殊召唤。这个效果特殊召唤的怪兽在这个回合效果无效化，不能作为连接素材。
 type: Monster
 typeline: Dragon / Link / Effect
 attribute: WIND
@@ -130,3 +136,9 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: MGP2-SC173
+    set_name: Mega Pack 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Sayo Shigure
   ko: 사요 시구레
   ko_rr: Sayo Sigure
+  zh-CN: 朔夜时雨
 text:
   en: |-
     If your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can discard this card, then target 1 of those face-up monsters; negate its effects until the end of this turn, also if that face-up monster leaves the field this turn, its controller takes damage equal to its original ATK. You can only use this effect of "Ghost Mourner & Moonlit Chill" once per turn.
@@ -28,6 +29,9 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：相手がモンスターを表側表示で特殊召喚した場合、このカードを手札から捨て、その表側表示モンスター１体を対象として発動できる。そのモンスターの効果はターン終了時まで無効化され、このターン中に対象の表側表示モンスターがフィールドから離れた場合、そのコントローラーは対象のモンスターの元々の攻撃力分のダメージを受ける。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대가 몬스터를 앞면 표시로 특수 소환했을 경우, 이 카드를 패에서 버리고, 그 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 효과는 턴 종료시까지 무효화되고, 이 턴 중에 대상의 앞면 표시 몬스터가 필드에서 벗어났을 경우, 그 컨트롤러는 대상 몬스터의 원래 공격력만큼의 데미지를 받는다.
+  zh-CN: |-
+    这个卡名的效果1回合只能使用1次。
+    ①：对方把怪兽表侧表示特殊召唤的场合，把这张卡从手卡丢弃，以那1只表侧表示怪兽为对象才能发动。那只怪兽的效果直到回合结束时无效化，这个回合中作为对象的表侧表示怪兽从场上离开的场合，那个控制者受到作为对象的怪兽的原本攻击力数值的伤害。
 type: Monster
 typeline: Zombie / Tuner / Effect
 attribute: WIND
@@ -130,3 +134,8 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: MGP4-SC128
+    set_name: Mega Pack 04
+    rarities:
+    - Super Rare

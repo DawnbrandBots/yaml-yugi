@@ -11,6 +11,7 @@ name:
   ja_romaji: Fūreitsukai Win
   ko: 풍령사 윈
   ko_rr: Pungnyeongsa Win
+  zh-CN: 风灵使 薇茵
 text:
   en: |-
     FLIP: Target 1 WIND monster your opponent controls; take control of that target while this card is face-up on the field.
@@ -28,6 +29,8 @@ text:
     ①：このカードがリバースした場合、相手フィールドの風属性モンスター１体を対象として発動する。このモンスターが表側表示で存在する間、そのモンスターのコントロールを得る。
   ko: |-
     ①: 이 카드가 리버스했을 경우, 상대 필드의 바람 속성 몬스터 1장을 대상으로 하고 발동한다. 이 몬스터가 앞면 표시로 존재하는 동안, 그 몬스터의 컨트롤을 얻는다.
+  zh-CN: |-
+    ①：这张卡反转的场合，以对方场上1只风属性怪兽为对象发动。这只怪兽表侧表示存在期间，得到那只怪兽的控制权。
 type: Monster
 typeline: Spellcaster / Flip / Effect
 attribute: WIND
@@ -131,6 +134,11 @@ sets:
     rarities:
     - Common
   - set_number: SD39-KR004
+    set_name: 'Structure Deck: Masters of the Spiritual Arts'
+    rarities:
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: SD39-SC004
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Normal Parallel Rare

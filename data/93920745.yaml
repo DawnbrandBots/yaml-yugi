@@ -11,6 +11,7 @@ name:
   ja_romaji: Pengin Sorujā
   ko: 펭귄 솔저
   ko_rr:
+  zh-CN: 企鹅士兵
 text:
   en: |-
     FLIP: You can target up to 2 monsters on the field; return those targets to the hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードがリバースした場合、フィールドのモンスターを２体まで対象として発動できる。そのモンスターを持ち主の手札に戻す。
   ko: |-
     리버스 : 필드 위의 몬스터를 2장까지 선택하고 주인의 패로 되돌릴 수 있다.
+  zh-CN: |-
+    可以选择场上最多2只怪兽回到持有者手卡。
 type: Monster
 typeline: Aqua / Flip / Effect
 attribute: WATER
@@ -278,3 +281,13 @@ sets:
     set_name: Advanced Event Pack 2022 Vol.1 Version 2
     rarities:
     - Secret Rare
+  zh-TW:
+  - set_number: SP01-TC026
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: ST21-SC019
+    set_name: Starter Deck 2021
+    rarities:
+    - Common

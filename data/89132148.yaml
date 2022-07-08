@@ -11,6 +11,7 @@ name:
   ja_romaji: Foton Ōbitaru
   ko: 포톤 오비탈
   ko_rr: Poton Obital
+  zh-CN: 光子轨道
 text:
   en: |-
     During your Main Phase: You can target 1 "Photon" or "Galaxy" monster you control; equip this monster from your hand or field to that target. It gains 500 ATK, also it cannot be destroyed by battle. You can send this Equip Card to the GY; add 1 "Photon" or "Galaxy" monster from your Deck to your hand, except "Photon Orbital". You can only use this effect of "Photon Orbital" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：自分メインフェイズに自分フィールドの「フォトン」モンスターまたは「ギャラクシー」モンスター１体を対象として発動できる。自分の手札・フィールドからこのモンスターを攻撃力５００アップの装備カード扱いとしてその自分のモンスターに装備する。装備モンスターは戦闘では破壊されない。②：装備されているこのカードを墓地へ送って発動できる。デッキから「フォトン・オービタル」以外の「フォトン」モンスターまたは「ギャラクシー」モンスター１体を手札に加える。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 자신 필드의 "포톤" 몬스터 또는 "갤럭시" 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신의 패 / 필드에서 이 몬스터를 공격력 500 올리는 장착 카드로 취급하여 그 자신 몬스터에 장착한다. 장착 몬스터는 전투로는 파괴되지 않는다. ②: 장착되어 있는 이 카드를 묘지로 보내고 발동할 수 있다. 덱에서 "포톤 오비탈" 이외의 "포톤" 몬스터 또는 "갤럭시" 몬스터 1장을 패에 넣는다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：自己主要阶段以自己场上1只「光子」怪兽或者「银河」怪兽为对象才能发动。从自己的手卡·场上把这只怪兽当作攻击力上升500的装备卡使用给那只自己怪兽装备。装备怪兽不会被战斗破坏。
+    ②：把装备的这张卡送去墓地才能发动。从卡组把「光子轨道」以外的1只「光子」怪兽或者「银河」怪兽加入手卡。
 type: Monster
 typeline: Machine / Effect
 attribute: LIGHT
@@ -87,6 +92,11 @@ sets:
     - Super Rare
   ko:
   - set_number: DP20-KR036
+    set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: DP20-SC036
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Super Rare

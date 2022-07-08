@@ -11,6 +11,7 @@ name:
   ja_romaji: Gigantekku Faitā
   ko: 기간테크 파이터
   ko_rr:
+  zh-CN: 巨人斗士
 text:
   en: |-
     1 Tuner + 1 or more non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장 이상
     이 카드의 공격력은 묘지에 존재하는 전사족 몬스터의 수 X 100 포인트 올라간다. 이 카드가 전투에 의해서 파괴되어 묘지에 보내졌을 때, 묘지에 존재하는 전사족 몬스터 1장을 선택해 자신의 필드 위에 특수 소환할 수 있다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    这张卡的攻击力上升双方墓地的战士族怪兽数量×100的数值。这张卡被战斗破坏送去墓地时，可以选择自己或者对方的墓地1只战士族怪兽，在自己场上特殊召唤。
 type: Monster
 typeline: Warrior / Synchro / Effect
 attribute: DARK
@@ -161,5 +165,15 @@ sets:
     - Super Rare
   - set_number: AE03-KR023
     set_name: Advanced Event Pack 2014 Vol.1
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC035
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: SCTP-SC093
+    set_name: Entry Pack Volume 6
     rarities:
     - Common

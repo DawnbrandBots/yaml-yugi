@@ -11,6 +11,7 @@ name:
   ja_romaji: Monomane Gensōshi
   ko: 흉내쟁이 환술사
   ko_rr:
+  zh-CN: 模仿的幻想师
 text:
   en: |-
     If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.
@@ -28,6 +29,8 @@ text:
     このカードが召喚・反転召喚・特殊召喚に成功した時、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。このカードの攻撃力・守備力は、選択したモンスターの元々の攻撃力・守備力と同じ数値になる。
   ko: |-
     이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 이카드의 공격력 / 수비력은 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장의 원래 공격력 / 수비력이 된다.
+  zh-CN: |-
+    这张卡召唤·反转召唤·特殊召唤成功时，选择对方场上表侧表示存在的1只怪兽发动。这张卡的攻击力·守备力变成和选择的怪兽的原本攻击力·守备力相同的数值。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: LIGHT
@@ -165,5 +168,10 @@ sets:
   ko:
   - set_number: YSD3-KR015
     set_name: Starter Deck 2008
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC027
+    set_name: Starter Pack Volume 2
     rarities:
     - Common

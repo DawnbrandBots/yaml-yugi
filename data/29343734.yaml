@@ -11,6 +11,7 @@ name:
   ja_romaji: Erementaru Hīrō Erikushīrā
   ko: 엘리멘틀 히어로 에릭실러
   ko_rr:
+  zh-CN: 元素英雄 永生侠
 text:
   en: |-
     "Elemental HERO Avian" + "Elemental HERO Burstinatrix" + "Elemental HERO Clayman" + "Elemental HERO Bubbleman"
@@ -35,6 +36,9 @@ text:
   ko: |-
     "엘리멘틀 히어로 페더맨" + "엘리멘틀 히어로 버스트 레이디" + "엘리멘틀 히어로 클레이맨" + "엘리멘틀 히어로 버블맨"
     이 몬스터는 융합소환으로밖에 특수 소환할 수 없다. 이 카드의 속성은 "바람" "물" "화염" "땅"으로도 취급한다. 이 카드가 융합 소환에 성공했을 때, 게임에서 제외된 모든 카드를 주인의 덱으로 되돌리고, 덱을 셔플한다. 상대필드 위에 존재하는 이 카드와 같은 속성의 몬스터 1장당, 이 카드의 공격력은 300 포인트 올린다.
+  zh-CN: |-
+    「元素英雄 羽翼侠」＋「元素英雄 爆热女郎」＋「元素英雄 黏土侠」＋「元素英雄 水泡侠」
+    这只怪兽不用融合召唤不能特殊召唤。这张卡的属性也当作「风」「水」「炎」「地」使用。这张卡融合召唤成功时，从游戏中除外的全部卡回到持有者卡组，卡组洗切。对方场上存在的和这张卡相同属性的怪兽每有1只，这张卡的攻击力上升300。
 type: Monster
 typeline: Warrior / Fusion / Effect
 attribute: LIGHT
@@ -90,3 +94,8 @@ sets:
     set_name: Premium Pack Vol.2
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SD27-SCP03
+    set_name: "Structure Deck: HERO's Strike Deck Enhancement Pack"
+    rarities:
+    - Secret Rare

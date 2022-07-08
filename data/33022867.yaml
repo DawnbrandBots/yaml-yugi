@@ -11,6 +11,7 @@ name:
   ja_romaji: Majū Kaizā Gāzetto
   ko: 마수카이저 가젯트
   ko_rr: Masukaijeo Gajet-teu
+  zh-CN: 魔兽皇帝 加泽特
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. This card's ATK becomes the combined original ATK of the Tributed monsters. Your opponent cannot activate cards or effects during the Battle Phase.
@@ -28,6 +29,10 @@ text:
     このカードは通常召喚できない。自分フィールドのモンスター３体をリリースした場合のみ特殊召喚できる。①：このカードの攻撃力は、このカードを特殊召喚するためにリリースしたモンスターの元々の攻撃力を合計した数値になる。②：このカードがモンスターゾーンに存在する限り、相手はバトルフェイズ中に魔法・罠・モンスターの効果を発動できない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드의 몬스터 3장을 릴리스했을 경우에만 특수 소환할 수 있다. ①: 이 카드의 공격력은, 이 카드를 특수 소환하기 위해 릴리스한 몬스터의 원래 공격력을 합계한 수치가 된다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 배틀 페이즈 중에 마법 / 함정 / 몬스터의 효과를 발동할 수 없다.
+  zh-CN: |-
+    这张卡不能通常召唤。把自己场上3只怪兽解放的场合才能特殊召唤。
+    ①：这张卡的攻击力变成因为这张卡特殊召唤而解放的怪兽的原本攻击力合计数值。
+    ②：只要这张卡在怪兽区域存在，对方在战斗阶段中不能把魔法·陷阱·怪兽的效果发动。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -90,3 +95,8 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: MGP3-SC068
+    set_name: Mega Pack 03
+    rarities:
+    - Rare

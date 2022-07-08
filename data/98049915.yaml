@@ -11,6 +11,7 @@ name:
   ja_romaji: Mahō no Ranpu
   ko: 마법의 램프
   ko_rr:
+  zh-CN: 魔法灯
 text:
   en: |-
     This monster can attack your opponent's Life Points directly.
@@ -28,6 +29,8 @@ text:
     このカードは相手プレイヤーを直接攻撃する事ができる。
   ko: |-
     이 카드는 상대를 직접 공격할 수 있다.
+  zh-CN: |-
+    这张卡可以直接攻击对方玩家。
 type: Monster
 typeline: Spellcaster / Effect
 attribute: DARK
@@ -92,5 +95,10 @@ sets:
     - Common
   - set_number: BP1-KR160
     set_name: Beginner's Edition 1
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC028
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

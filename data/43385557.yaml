@@ -11,6 +11,7 @@ name:
   ja_romaji: Magikaru Andoroido
   ko: 매지컬 안드로이드
   ko_rr:
+  zh-CN: 魔力人造人
 text:
   en: |-
     1 Tuner + 1 or more non-Tuner monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     튜너＋튜너 이외의 몬스터 1장 이상
     자신의 엔드 페이즈시에, 자신 필드 위의 사이킥족 몬스터 1장당, 자신은 600 라이프 포인트 회복한다.
+  zh-CN: |-
+    调整＋调整以外的怪兽1只以上
+    自己的结束阶段时，自己场上的念动力族怪兽每有1只，自己回复600基本分。
 type: Monster
 typeline: Psychic / Synchro / Effect
 attribute: LIGHT
@@ -119,3 +123,8 @@ sets:
     set_name: The Duelist Genesis
     rarities:
     - Common
+  zh-TW:
+  - set_number: SP01-TC032
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Rare

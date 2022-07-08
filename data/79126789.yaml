@@ -12,6 +12,7 @@ name:
   ja_romaji: Ankokukai no Kariudo Burau
   ko: 암흑계의 사냥꾼 브라우
   ko_rr:
+  zh-CN: 暗黑界的狩人 布劳
 text:
   en: |-
     If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.
@@ -29,6 +30,8 @@ text:
     このカードがカードの効果によって手札から墓地へ捨てられた場合、自分のデッキからカードを１枚ドローする。相手のカードの効果によって捨てられた場合、さらにもう１枚ドローする。
   ko: |-
     이 카드가 다른 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 덱에서 카드를 1장 드로우한다. 상대 카드의 효과에 의해서 버려져을 경우, 다시 1장 더 드로우한다.
+  zh-CN: |-
+    这张卡被卡的效果从手卡丢弃去墓地的场合，从自己卡组抽1张卡。被对方的卡的效果丢弃的场合，再抽1张。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -124,6 +127,11 @@ sets:
     rarities:
     - Rare
   - set_number: SD21-KR007
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC010
     set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common

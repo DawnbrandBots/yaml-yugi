@@ -11,6 +11,7 @@ name:
   ja_romaji: Burokku Gōremu
   ko: 블록 골렘
   ko_rr:
+  zh-CN: 积木巨人
 text:
   en: |-
     If all the monsters in your GY are EARTH: You can Tribute this card, then target 2 Level 4 or lower Rock monsters in your GY, except "Block Golem"; Special Summon those Rock monsters, but their effects that activate on the field cannot be activated this turn.
@@ -28,6 +29,8 @@ text:
     ①：自分の墓地のモンスターが地属性のみの場合、このカードをリリースし、「ブロック・ゴーレム」以外の自分の墓地のレベル４以下の岩石族モンスター２体を対象として発動できる。その岩石族モンスターを特殊召喚する。この効果で特殊召喚したモンスターはこのターン、フィールドで発動する効果を発動できない。
   ko: |-
     자신 묘지의 몬스터가 땅 속성뿐일 경우, 이 카드를 릴리스하고 발동할 수 있다. 자신의 묘지에서 "블록 골렘" 이외의 암석족 / 레벨 4 이하의 몬스터 2장을 선택하고 특수 소환한다. 이 턴에 이 효과로 특수 소환한 몬스터는, 필드 위에서 발동하는 효과를 발동할 수 없다.
+  zh-CN: |-
+    ①：自己墓地的怪兽只有地属性的场合，把这张卡解放，以「积木巨人」以外的自己墓地2只4星以下的岩石族怪兽为对象才能发动。那些岩石族怪兽特殊召唤。这个效果特殊召唤的怪兽在这个回合不能把场上发动的效果发动。
 type: Monster
 typeline: Rock / Effect
 attribute: EARTH
@@ -82,6 +85,11 @@ sets:
     - Common
   ko:
   - set_number: REDU-KR035
+    set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: REDU-TC035
     set_name: Return of the Duelist
     rarities:
     - Common

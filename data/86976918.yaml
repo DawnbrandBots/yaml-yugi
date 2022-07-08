@@ -11,6 +11,7 @@ name:
   ja_romaji: Supīdoroido Majikkuhaundo
   ko: <ruby><rb>SR</rb><rp>（</rp><rt>스피드로이드</rt><rp>）</rp></ruby> 매직하운드
   ko_rr: Seupideuroideu Maejikhaundeu
+  zh-CN: 高速拟人机 魔术手猎犬
 text:
   en: |-
     When this card is Normal Summoned: You can send 1 "Speedroid" card from your Deck to the GY. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 "Speedroid" monster in your GY; shuffle it into the Deck, and if you do, Special Summon 1 "Speedroid" Synchro Monster from your Extra Deck with the same Level but a different name, but negate its effects. You can only use this effect of "Speedroid Ultra Hound" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「スピードロイド」カード１枚を墓地へ送る。②：墓地のこのカードを除外し、自分の墓地の「スピードロイド」モンスター１体を対象として発動できる。そのモンスターをデッキに戻し、そのモンスターとはカード名が異なり、レベルが同じ「スピードロイド」Ｓモンスター１体を効果を無効にしてＥＸデッキから特殊召喚する。この効果はこのカードが墓地へ送られたターンには発動できない。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "스피드로이드" 카드 1장을 묘지로 보낸다. ②: 묘지의 이 카드를 제외하고, 자신 묘지의 "스피드로이드" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 덱으로 되돌리고, 그 몬스터와는 카드명이 다르며, 레벨이 같은 "스피드로이드" 싱크로 몬스터 1장을 효과를 무효로 하여 엑스트라 덱에서 특수 소환한다. 이 효과는 이 카드가 묘지로 보내진 턴에는 발동할 수 없다.
+  zh-CN: |-
+    这个卡名的②效果1回合只能使用1次。①：这张卡召唤成功时可以发动。从卡组将1张「スピードロイド／高速拟人机」卡送入墓地。②：可以将墓地的这张卡除外，以自己墓地的1只「スピードロイド／高速拟人机」怪兽为对象发动。使那只怪兽返回卡组，从额外卡组将1只与那只怪兽卡名不同、等级相同的「スピードロイド／高速拟人机」同调怪兽效果无效地特殊召唤。这个效果在这张卡送入墓地的回合不能发动。
 type: Monster
 typeline: Machine / Effect
 attribute: WIND
@@ -67,6 +70,11 @@ sets:
     - Rare
   ko:
   - set_number: DP25-KR002
+    set_name: 'Duelist Pack: Duelists of Whirlwind'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP25-SC002
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Rare

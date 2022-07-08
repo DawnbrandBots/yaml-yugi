@@ -11,6 +11,7 @@ name:
   ja_romaji: Daipurekusa Kimaira
   ko: 다이플렉서 키메라
   ko_rr: Daipeullekseo Kimera
+  zh-CN: 双工器奇美拉
 text:
   en: |-
     2 Cyberse monsters
@@ -36,6 +37,11 @@ text:
   ko: |-
     사이버스족 몬스터 × 2
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 자신 필드의 사이버스족 몬스터 1장을 릴리스하고 발동할 수 있다. 이 턴의 배틀 페이즈 중에 양쪽 플레이어는 마법 / 함정 카드의 효과를 발동할 수 없다. ②: 융합 소환한 이 카드가 묘지로 보내졌을 경우, 이 카드 이외의 자신 묘지의, 사이버스족 몬스터 1장과 "사이바넷 퓨전" 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-CN: |-
+    电子界族怪兽×2
+    这个卡名的②的效果1回合只能使用1次。
+    ①：1回合1次，把自己场上1只电子界族怪兽解放才能发动。这个回合的战斗阶段中双方不能把魔法·陷阱卡的效果发动。
+    ②：融合召唤的这张卡被送去墓地的场合，以这张卡以外的自己墓地1只电子界族怪兽和1张「电脑网融合」为对象才能发动。那些卡加入手卡。
 type: Monster
 typeline: Cyberse / Fusion / Effect
 attribute: LIGHT
@@ -97,5 +103,10 @@ sets:
   ko:
   - set_number: SOFU-KR038
     set_name: Soul Fusion
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC130
+    set_name: Mega Pack 02
     rarities:
     - Common

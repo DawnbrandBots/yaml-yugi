@@ -11,6 +11,7 @@ name:
   ja_romaji: Denkō Chidori
   ko: 전광천조
   ko_rr:
+  zh-CN: 电光千鸟
 text:
   en: |-
     2 Level 4 WIND monsters
@@ -36,6 +37,8 @@ text:
   ko: |-
     바람 속성 레벨 4 몬스터 × 2
     이 카드가 엑시즈 소환에 성공했을 때, 상대 필드 위에 세트된 카드 1장을 선택하고 주인의 덱 맨 아래로 되돌린다. 또한, 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드 위에 앞면 표시로 존재하는 카드 1장을 선택하고 주인의 덱 맨 위로 되돌린다.
+  zh-CN: |-
+    风属性4星怪兽×2。这张卡XYZ召唤成功时，选择对方场上盖放的1张卡回到持有者卡组最下面。此外，1回合1次，把这张卡1个XYZ素材取除才能发动。选择对方场上表侧表示存在的1张卡回到持有者卡组最上面。
 type: Monster
 typeline: Thunder / Xyz / Effect
 attribute: WIND
@@ -104,3 +107,9 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Super Rare
+  zh-TW:
+  - set_number: CBLZ-TC052
+    set_name: Cosmo Blazer
+    rarities:
+    - Super Rare
+    - Secret Rare

@@ -11,6 +11,7 @@ name:
   ja_romaji: Fureimu Taigā
   ko: 프레임 타이거
   ko_rr:
+  zh-CN: 焰虎
 text:
   en: |-
     During your Draw Phase, if this card is in your Graveyard and you control no monsters, instead of conducting your normal draw: You can Special Summon this card, and if you do, banish it when it leaves the field.
@@ -28,6 +29,8 @@ text:
     このカードが墓地に存在し、自分フィールド上にモンスターが存在しない場合、自分のドローフェイズ時に通常のドローを行う代わりに発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールド上から離れた場合ゲームから除外される。
   ko: |-
     이 카드가 묘지에 존재하고, 자신 필드 위에 몬스터가 존재하지 않을 경우, 자신의 드로우 페이즈시에 일반 드로우를 실행하는 대신에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드 위에서 벗어났을 경우 게임에서 제외된다.
+  zh-CN: |-
+    这张卡在墓地存在，自己场上没有怪兽存在的场合，作为自己的抽卡阶段时进行通常抽卡的代替才能发动。这张卡从墓地特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合从游戏中除外。
 type: Monster
 typeline: Beast / Effect
 attribute: FIRE
@@ -141,6 +144,11 @@ sets:
     rarities:
     - Normal Rare
   - set_number: SD24-KR019
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD24-TC019
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common

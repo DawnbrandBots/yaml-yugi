@@ -11,6 +11,7 @@ name:
   ja_romaji: Nekuro Gādonā
   ko: 네크로 가드너
   ko_rr:
+  zh-CN: 死灵守卫者
 text:
   en: |-
     During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).
@@ -28,6 +29,8 @@ text:
     ①：相手ターンに墓地のこのカードを除外して発動できる。このターン、相手モンスターの攻撃を１度だけ無効にする。
   ko: |-
     ①: 상대 턴에 묘지의 이 카드를 제외하고 발동할 수 있다. 상대 몬스터의 공격을 1번만 무효로 한다.
+  zh-CN: |-
+    ①：对方回合把墓地的这张卡除外才能发动。这个回合，对方怪兽的攻击只有1次无效。
 type: Monster
 typeline: Warrior / Effect
 attribute: DARK
@@ -249,3 +252,13 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-TW:
+  - set_number: SP02-TC021
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: ST20-SC010
+    set_name: Starter Deck 2020
+    rarities:
+    - Common

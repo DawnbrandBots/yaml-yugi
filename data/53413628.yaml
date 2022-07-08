@@ -11,6 +11,7 @@ name:
   ja_romaji: Kōdo Tōkā
   ko: 코드 토커
   ko_rr: Kodeu Tokeo
+  zh-CN: 码语者
 text:
   en: |-
     2 Effect Monsters
@@ -36,6 +37,10 @@ text:
   ko: |-
     효과 몬스터 2장
     ①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ②: 이 카드의 링크 앞에 몬스터가 존재하는 한, 이 카드는 전투 및 상대 효과로는 파괴되지 않는다.
+  zh-CN: |-
+    效果怪兽2只
+    ①：这张卡的攻击力上升这张卡所连接区的怪兽数量×500。
+    ②：只要这张卡所连接区有怪兽存在，这张卡不会被战斗以及对方的效果破坏。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: DARK
@@ -136,3 +141,8 @@ sets:
     set_name: LINK VRAINS Duelist Set
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: MGP2-SC168
+    set_name: Mega Pack 02
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Sukaru Maisutā
   ko: 스컬 마이스터
   ko_rr: Seukeol Maiseuteo
+  zh-CN: 骷髅大王
 text:
   en: |-
     When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.
@@ -28,6 +29,8 @@ text:
     ①：相手の墓地で魔法・罠・モンスターの効果が発動した時、このカードを手札から墓地へ送って発動できる。その効果を無効にする。
   ko: |-
     ①: 상대 묘지에서 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 그 효과를 무효로 한다.
+  zh-CN: |-
+    ①：对方墓地有魔法·陷阱·怪兽的效果发动时，把这张卡从手卡送去墓地才能发动。那个效果无效。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -151,3 +154,8 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  zh-CN:
+  - set_number: ST21-SCP06
+    set_name: Starter Deck 2021 Special Pack
+    rarities:
+    - Super Rare

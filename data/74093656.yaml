@@ -11,6 +11,7 @@ name:
   ja_romaji: Chūn Woriā
   ko: 튠 워리어
   ko_rr:
+  zh-CN: 调整战士
 text:
   en: |-
     The warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.
@@ -28,6 +29,8 @@ text:
     あらゆるものをチューニングしてしまう電波系戦士。常にアンテナを張ってはいるものの、感度はそう高くない。
   ko: |-
     모든 것을 튜닝해버리는 전파계 전사. 항상 안테나를 세우고는 있지만 감도는 그다지 높지 못하다.
+  zh-CN: |-
+    对任何东西进行调节的电波系战士。虽然总是伸出天线，但接收却不那么好。
 type: Monster
 typeline: Warrior / Tuner
 attribute: EARTH
@@ -91,5 +94,10 @@ sets:
     - Common
   - set_number: YSD5-KR001
     set_name: Starter Deck 2010
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC005
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

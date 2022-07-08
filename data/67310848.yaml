@@ -12,6 +12,7 @@ name:
   ja_romaji: Waiseiryū Puranetā
   ko: 왜성룡 플래니터
   ko_rr:
+  zh-CN: 矮星龙 恒行星龙
 text:
   en: |-
     Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Level 7 LIGHT or DARK monster from your Deck to your hand.
@@ -29,6 +30,8 @@ text:
     ①：このカードを召喚したターンのエンドフェイズに発動できる。デッキから光属性または闇属性のレベル７モンスター１体を手札に加える。
   ko: |-
     ①: 이 카드를 일반 소환한 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 빛 속성 또는 어둠 속성의 레벨 7 몬스터 1장을 패에 넣는다.
+  zh-CN: |-
+    ①：这张卡召唤的回合的结束阶段才能发动。从卡组把1只光属性或者暗属性的7星怪兽加入手卡。
 type: Monster
 typeline: Dragon / Effect
 attribute: LIGHT
@@ -109,5 +112,10 @@ sets:
   ko:
   - set_number: SHVI-KR081
     set_name: Shining Victories
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC019
+    set_name: Starter Deck 2020
     rarities:
     - Common

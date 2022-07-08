@@ -11,6 +11,7 @@ name:
   ja_romaji: Kūensei Saichō
   ko: 공염성-사이쵸
   ko_rr:
+  zh-CN: 空炎星-犀超
 text:
   en: |-
     If a "Fire Fist" monster you control attacks or is attacked, during damage calculation (in either player's turn): You can send 1 face-up "Fire Formation" Spell/Trap Card you control and 1 "Fire Fist" monster from your hand to the Graveyard once per battle; your attacking/attacked monster gains ATK equal to the original ATK of the monster sent to the Graveyard, during damage calculation only.
@@ -28,6 +29,8 @@ text:
     自分フィールド上の「炎星」と名のついたモンスターが戦闘を行うダメージ計算時に１度だけ、自分フィールド上に表側表示で存在する「炎舞」と名のついた魔法・罠カード１枚と手札の「炎星」と名のついたモンスター１体を墓地へ送って発動できる。戦闘を行う自分のモンスターの攻撃力は、そのダメージ計算時のみ墓地へ送ったモンスターの元々の攻撃力分アップする。
   ko: |-
     자신 필드 위의 "염성" 이라는 이름이 붙은 몬스터가 전투를 실행하는 데미지 계산시에 1번만, 자신 필드 위에 앞면 표시로 존재하는 "염무" 라는 이름이 붙은 마법 / 함정 카드 1장과 패의 "염성" 이라는 이름이 붙은 몬스터 1장을 묘지로 보내고 발동할 수 있다. 전투를 실행하는 자신 몬스터의 공격력은, 그 데미지 계산시에만 묘지로 보낸 몬스터의 원래 공격력만큼 올린다.
+  zh-CN: |-
+    自己场上的名字带有「炎星」的怪兽进行战斗的伤害计算时只有1次，把自己场上表侧表示存在的1张名字带有「炎舞」的魔法·陷阱卡和手卡1只名字带有「炎星」的怪兽送去墓地才能发动。进行战斗的自己怪兽的攻击力只在那次伤害计算时上升送去墓地的怪兽的原本攻击力数值。
 type: Monster
 typeline: Beast-Warrior / Effect
 attribute: FIRE
@@ -87,6 +90,11 @@ sets:
     - Common
   ko:
   - set_number: LTGY-KR028
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: LTGY-TC028
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common

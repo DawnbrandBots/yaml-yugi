@@ -11,6 +11,7 @@ name:
   ja_romaji: Tekkujīnasu Tanku Rāva
   ko: <ruby><rb>TG</rb><rp>（</rp><rt>테크지너스</rt><rp>）</rp></ruby> 탱크 러바
   ko_rr: Tekeujineoseu Taengkeu Leoba
+  zh-CN: 科技属 坦克幼虫
 text:
   en: |-
     If this card you control is used as Synchro Material for a "T.G." monster, you can treat it as a non-Tuner. If this card is sent to the GY as Synchro Material for a "T.G." monster: You can Special Summon 1 "T.G. Token" (Machine/EARTH/Level 1/ATK 0/DEF 0) in Attack Position. You can only use this effect of "T.G. Tank Grub" once per turn.
@@ -28,6 +29,10 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのこのカードを「ＴＧ」ＳモンスターのＳ素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。②：このカードが「ＴＧ」ＳモンスターのＳ素材として墓地へ送られた場合に発動できる。自分フィールドに「ＴＧトークン」（機械族・地・星１・攻／守０）１体を攻撃表示で特殊召喚する。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 이 카드를 "TG(테크지너스)" 싱크로 몬스터의 싱크로 소재로 할 경우, 이 카드를 튜너 이외의 몬스터로서 취급할 수 있다. ②: 이 카드가 "TG(테크지너스)" 싱크로 몬스터의 싱크로 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 자신 필드에 "TG(테크지너스) 토큰"(기계족 / 땅 / 레벨 1 / 공 0 / 수 0) 1장을 공격 표시로 특수 소환한다.
+  zh-CN: |-
+    这个卡名的②的效果1回合只能使用1次。
+    ①：把自己场上的这张卡作为「科技属」同调怪兽的同调素材的场合，可以把这张卡当作调整以外的怪兽使用。
+    ②：这张卡作为「科技属」同调怪兽的同调素材送去墓地的场合才能发动。在自己场上把1只「科技属衍生物」（机械族·地·1星·攻/守0）攻击表示特殊召唤。
 type: Monster
 typeline: Insect / Tuner / Effect
 attribute: EARTH
@@ -68,5 +73,10 @@ sets:
   ko:
   - set_number: SAST-KR011
     set_name: Savage Strike
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP3-SC009
+    set_name: Mega Pack 03
     rarities:
     - Common

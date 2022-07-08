@@ -11,6 +11,7 @@ name:
   ja_romaji: Kokū no Kishi
   ko: 허공의 기사
   ko_rr:
+  zh-CN: 虚空之骑士
 text:
   en: |-
     Once per turn, if another monster on the field returns to the hand or Main Deck: Send 1 WIND monster from your Deck to the Graveyard.
@@ -28,6 +29,8 @@ text:
     このカードがフィールド上に表側表示で存在する場合にフィールド上のモンスターが手札・デッキに戻った時、自分のデッキから風属性モンスター１体を墓地へ送る。この効果は１ターンに１度しか使用できない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재할 경우에 필드 위의 몬스터가 패 / 덱으로 되돌아갔을 때, 자신의 덱에서 바람 속성 몬스터 1장을 묘지로 보낸다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    这张卡在场上表侧表示存在的场合场上的怪兽回到手卡·卡组时，从自己卡组把1只风属性怪兽送去墓地。这个效果1回合只能使用1次。
 type: Monster
 typeline: Warrior / Effect
 attribute: WIND
@@ -87,6 +90,11 @@ sets:
     - Rare
   ko:
   - set_number: LTGY-KR036
+    set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Rare
+  zh-TW:
+  - set_number: LTGY-TC036
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare

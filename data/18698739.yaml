@@ -11,6 +11,7 @@ name:
   ja_romaji: Gābēji Ōga
   ko: 가비지 오우거
   ko_rr:
+  zh-CN: 垃圾食人魔
 text:
   en: |-
     You can send this card from your hand to the Graveyard; add 1 "Garbage Lord" from your Deck to your hand. You can only use the effect of "Garbage Ogre" once per turn.
@@ -28,6 +29,8 @@ text:
     自分のメインフェイズ時に、このカードを手札から墓地へ送って発動できる。デッキから「ガーベージ・ロード」１体を手札に加える。「ガーベージ・オーガ」の効果は１ターンに１度しか使用できない。
   ko: |-
     자신의 메인 페이즈시에, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 덱에서 "가비지 로드" 1장을 패에 넣는다. "가비지 오우거"의 효과는 1턴에 1번 밖에 사용할 수 없다.
+  zh-CN: |-
+    自己的主要阶段时，把这张卡从手卡送去墓地才能发动。从卡组把1只「垃圾王」加入手卡。「垃圾食人魔」的效果1回合只能使用1次。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -67,6 +70,11 @@ sets:
     - Common
   ko:
   - set_number: CBLZ-KR018
+    set_name: Cosmo Blazer
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: CBLZ-TC018
     set_name: Cosmo Blazer
     rarities:
     - Common

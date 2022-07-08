@@ -11,6 +11,7 @@ name:
   ja_romaji: Hōrī Erufu
   ko: 홀리 엘프
   ko_rr: Holli Elpeu
+  zh-CN: 圣精灵
 text:
   en: |-
     A delicate elf that lacks offense, but has a terrific defense backed by mystical power.
@@ -28,6 +29,8 @@ text:
     かよわいエルフだが、聖なる力で身を守りとても守備が高い。
   ko: |-
     가냘픈 엘프지만 성스러운 힘으로 몸을 지켜내며 수비력이 매우 높다.
+  zh-CN: |-
+    虽然是纤弱的精灵，但以神圣力量护身有很强的守备。
 type: Monster
 typeline: Spellcaster / Normal
 attribute: LIGHT
@@ -338,3 +341,8 @@ sets:
     set_name: Surpassing 10000 Cards Commemorative Hashtag Event
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: ST21-SC004
+    set_name: Starter Deck 2021
+    rarities:
+    - Common

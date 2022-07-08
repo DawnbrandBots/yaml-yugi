@@ -11,6 +11,7 @@ name:
   ja_romaji: Banseishi Sēmuberu
   ko: 반성사 샘벨
   ko_rr: Banseongsa Saembel
+  zh-CN: 绊醒师 塞姆贝尔
 text:
   en: |-
     If a monster is Special Summoned to your field while you control this monster (except during the Damage Step): You can Special Summon 1 monster from your hand with the same Level as this card. You can only use this effect of "Saambell the Star Bonder" once per turn.
@@ -28,6 +29,13 @@ text:
     このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが既にモンスターゾーンに存在する状態で、自分フィールドに他のモンスターが特殊召喚された場合に発動できる。このカードと同じレベルのモンスター１体を手札から特殊召喚する。
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 이미 몬스터 존에 존재하는 상태에서, 자신 필드에 다른 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 이 카드와 같은 레벨의 몬스터 1장을 패에서 특수 소환한다.
+  zh-CN: |-
+    ←7 【灵摆】 7→
+    这个卡名的灵摆效果1回合只能使用1次。
+    ①：另一边的自己的灵摆区域有和这张卡相同等级的灵摆怪兽卡存在的场合才能发动。另一边的自己的灵摆区域的卡破坏，这张卡特殊召唤。
+    【怪兽效果】
+    这个卡名的怪兽效果1回合只能使用1次。
+    ①：这张卡已在怪兽区域存在的状态，自己场上有其他怪兽特殊召唤的场合才能发动。和这张卡相同等级的1只怪兽从手卡特殊召唤。
 type: Monster
 typeline: Spellcaster / Pendulum / Effect
 attribute: WIND
@@ -52,6 +60,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンにこのカードと同じレベルのＰモンスターカードが存在する場合に発動できる。もう片方の自分のＰゾーンのカードを破壊し、このカードを特殊召喚する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 이 카드와 같은 레벨의 펜듈럼 몬스터 카드가 존재할 경우에 발동할 수 있다. 다른 한쪽 자신의 펜듈럼 존의 카드를 파괴하고, 이 카드를 특수 소환한다.
+  zh-CN: |-
+    None
 sets:
   en:
   - set_number: DAMA-EN030

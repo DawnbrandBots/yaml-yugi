@@ -11,6 +11,7 @@ name:
   ja_romaji: Sapuresu Koraidā
   ko: 서프레스 컬라이더
   ko_rr: Seopeureseu Keollaideo
+  zh-CN: 抑制压缩对撞员
 text:
   en: |-
     All data crushed by this network warrior's hammer is irretrievably compressed.
@@ -28,6 +29,8 @@ text:
     ネットワーク世界の巨悪と戦う熟練の闘士。その鉄鎚に圧縮されたデータは、誰にも復元できない。
   ko: |-
     네트워크 세계의 거대악과 싸우는 숙련된 투사. 그 철퇴에 압축된 데이터는 누구도 복원할 수 없다.
+  zh-CN: |-
+    与网络世界的巨恶交战的熟练斗士。凡是被其铁锤压缩的数据，谁都不能复原。
 type: Monster
 typeline: Cyberse / Normal
 attribute: DARK
@@ -68,5 +71,10 @@ sets:
   ko:
   - set_number: CHIM-KR001
     set_name: Chaos Impact
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC001
+    set_name: Mega Pack 04
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Genjūshi
   ko: 환상의 총사
   ko_rr: Hwansang-ui Chongsa
+  zh-CN: 幻铳士
 text:
   en: |-
     When this card is Normal or Flip Summoned: You can Special Summon any number of "Skyblaster Tokens" (Fiend/DARK/Level 4/ATK 500/DEF 500), up to the number of monsters you control. Once per turn, during your Standby Phase: You can inflict 300 damage to your opponent for each "Skyblaster" monster you control. "Skyblaster" monsters you control cannot declare an attack during the turn you activate this effect.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚・反転召喚に成功した時に発動できる。自分フィールドのモンスターの数まで、自分フィールドに「銃士トークン」（悪魔族・闇・星４・攻／守５００）を特殊召喚する。②：自分スタンバイフェイズに発動できる。自分フィールドの「銃士」モンスターの数×３００ダメージを相手に与える。この効果を発動するターン、自分の「銃士」モンスターは攻撃宣言できない。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환에 성공했을 때에 발동할 수 있다. 자신 필드의 몬스터의 수까지, 자신 필드에 "총사 토큰"(악마족 / 어둠 / 레벨 4 / 공 500 / 수 500)을 특수 소환한다. ②: 자신 스탠바이 페이즈에 발동할 수 있다. 자신 필드의 "총사" 몬스터의 수 × 300 데미지를 상대에게 준다. 이 효과를 발동하는 턴에, 자신의 "총사" 몬스터는 공격 선언할 수 없다.
+  zh-CN: |-
+    ①：这张卡召唤·反转召唤成功时才能发动。把最多有自己场地的怪兽数量的「铳士衍生物」（恶魔族·暗·4星·攻/守500）在自己场上特殊召唤。②：自己准备阶段才能发动。给与对方为自己场上的「铳士」怪兽数量×300伤害。这个效果发动的回合，自己的「铳士」怪兽不能攻击宣言。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -176,5 +179,15 @@ sets:
     - Common
   - set_number: SD38-KR008
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD38-SC008
+    set_name: 'Structure Deck: Sacred Beasts of Chaos'
+    rarities:
+    - Common
+  - set_number: EGS1-SC010
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
     rarities:
     - Common

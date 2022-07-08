@@ -11,6 +11,7 @@ name:
   ja_romaji: Toroimea Goburin
   ko: 트로이메어 고블린
   ko_rr:
+  zh-CN: 梦幻崩影·哥布林
 text:
   en: |-
     2 monsters with different names
@@ -35,6 +36,10 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장
     ① : 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고 발동할 수 있다. 이 효과의 발동시에 이 카드가 상호 링크 상태였을 경우, 자신은 덱에서 1장 드로우할 수 있다. 자신은 통상 소환에 추가로 1번만, 이 턴의 메인 페이즈에 이 카드의 링크 앞이 되는 자신 필드에 패에서 몬스터 1장을 일반 소환할 수 있다. ② : 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 상호 링크 상태의 몬스터는 효과의 대상이 되지 않는다.
+  zh-CN: |-
+    卡名不同的怪兽2只
+    ①：这张卡连接召唤成功的场合，丢弃1张手卡才能发动。这个效果的发动时这张卡是互相连接状态的场合，自己可以从卡组抽1张。自己在通常召唤外加上只有1次，这个回合的主要阶段可以从手卡把1只怪兽往作为这张卡所连接区的自己场上召唤。
+    ②：只要这张卡在怪兽区域存在，自己场上的互相连接状态的怪兽不会成为效果的对象。
 type: Monster
 typeline: Fiend / Link / Effect
 attribute: WIND
@@ -80,3 +85,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP2-SC026
+    set_name: Mega Pack 02
+    rarities:
+    - Common

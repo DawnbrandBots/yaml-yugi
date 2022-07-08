@@ -11,6 +11,7 @@ name:
   ja_romaji: Fuyu Sakura
   ko: 부유벚꽃
   ko_rr: Buyubeotkkot
+  zh-CN: 浮幽樱
 text:
   en: |-
     If your opponent controls more monsters than you do (Quick Effect): You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of "Ghost Reaper & Winter Cherries" once per turn.
@@ -28,6 +29,8 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、このカードを手札から捨てて発動できる。自分のＥＸデッキのカード１枚を選んでお互いに確認する。その後、相手のＥＸデッキを確認し、選んだカードの同名カードがある場合、その相手の同名カードを全て除外する。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 몬스터의 수가 자신 필드의 몬스터보다 많을 경우, 이 카드를 패에서 버리고 발동할 수 있다. 자신의 엑스트라 덱의 카드 1장을 고르고 서로 확인한다. 그 후, 상대의 엑스트라 덱을 확인하고, 고른 카드의 같은 이름의 카드가 있을 경우, 그 상대의 같은 이름의 카드를 전부 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-CN: |-
+    「浮幽樱」的效果1回合只能使用1次。①：对方场上的怪兽数量比自己场上的怪兽多的场合，把这张卡从手卡丢弃才能发动。选自己的额外卡组1张卡给双方确认。那之后，把对方的额外卡组确认，有选的卡的同名卡的场合，那些对方的同名卡全部除外。这个效果在对方回合也能发动。
 type: Monster
 typeline: Zombie / Tuner / Effect
 attribute: DARK
@@ -64,6 +67,10 @@ sets:
     set_name: Maximum Gold
     rarities:
     - Premium Gold Rare
+  - set_number: OP20-EN0??
+    set_name: OTS Tournament Pack 20
+    rarities:
+    - Ultimate Rare
   de:
   - set_number: SHVI-DE040
     set_name: Shining Victories
@@ -227,3 +234,11 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: RC03-SC009
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Premium Gold Rare

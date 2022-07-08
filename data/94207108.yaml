@@ -11,6 +11,7 @@ name:
   ja_romaji: Marinsesu Wandā Hāto
   ko: 마린세스 원더하트
   ko_rr: Marinseseu Wondeohateu
+  zh-CN: 海晶少女 妙晶心
 text:
   en: |-
     2+ WATER monsters
@@ -36,6 +37,10 @@ text:
   ko: |-
     물 속성 몬스터 2장 이상
     ①: 이 카드가 몬스터와 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 이 카드에 장착된 자신의 "마린세스" 몬스터 카드 1장을 고르고 특수 소환한다. 이 카드는 그 전투로는 파괴되지 않으며, 그 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. 이 효과로 특수 소환한 몬스터를, 엔드 페이즈에 장착 카드로 취급하고 이 카드에 장착한다. ②: 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 자신 묘지에서 링크 3 이하의 "마린세스" 몬스터 1장을 고르고 특수 소환한다.
+  zh-CN: |-
+    水属性怪兽2只以上
+    ①：这张卡和怪兽进行战斗的伤害计算时才能发动1次。选给这张卡装备的1张自己的「海晶少女」怪兽卡特殊召唤。这张卡不会被那次战斗破坏，那次战斗发生的对自己的战斗伤害变成0。这个效果特殊召唤的怪兽在结束阶段当作装备卡使用给这张卡装备。
+    ②：这张卡被对方破坏的场合才能发动。从自己墓地选1只连接3以下的「海晶少女」怪兽特殊召唤。
 type: Monster
 typeline: Cyberse / Link / Effect
 attribute: WATER
@@ -150,3 +155,8 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP4-SC022
+    set_name: Mega Pack 04
+    rarities:
+    - Rare

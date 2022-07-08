@@ -11,6 +11,7 @@ name:
   ja_romaji: Kurifōto Genomu
   ko: 클리포트 게놈
   ko_rr:
+  zh-CN: 机壳基因组 贪欲
 text:
   en: |-
     You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 Spell/Trap Card on the field; destroy it.
@@ -28,6 +29,11 @@ text:
     ①：このカードはリリースなしで召喚できる。②：特殊召喚またはリリースなしで召喚したこのカードのレベルは４になり、元々の攻撃力は１８００になる。③：通常召喚したこのカードは、このカードのレベルよりも元々のレベルまたはランクが低いモンスターが発動した効果を受けない。④：このカードがリリースされた場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 이 카드는 릴리스없이 일반 소환할 수 있다. ②: 특수 소환 또는 릴리스 없이 일반 소환된 이 카드의 레벨은 4가 되고, 원래의 공격력은 1800 이 된다. ③: 일반 소환 / 세트된 이 카드는, 이 카드의 레벨보다 원래의 레벨 또는 랭크가 낮은 몬스터가 발동한 효과를 받지 않는다. ④: 이 카드가 릴리스되었을 경우, 필드의 마법 / 함정 카드 1장을 대상으로 발동할 수 있다. 그 카드를 파괴한다.
+  zh-CN: |-
+    ①：这张卡可以不用解放作召唤。
+    ②：特殊召唤或者不用解放作召唤的这张卡的等级变成4星，原本攻击力变成1800。
+    ③：通常召唤的这张卡不受原本的等级或者阶级比这张卡的等级低的怪兽发动的效果影响。
+    ④：这张卡被解放的场合，以场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。
 type: Monster
 typeline: Machine / Pendulum / Effect
 attribute: EARTH
@@ -52,6 +58,8 @@ pendulum_effect:
     ①：自分は「クリフォート」モンスターしか特殊召喚できない。この効果は無効化されない。②：相手フィールドのモンスターの攻撃力は３００ダウンする。
   ko: |-
     ①: 자신은 "클리포트" 몬스터 밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 상대 필드의 몬스터의 공격력은 300 내린다.
+  zh-CN: |-
+    ①：自己不是「机壳」怪兽不能特殊召唤。这个效果不会被无效化。
 sets:
   en:
   - set_number: NECH-EN023

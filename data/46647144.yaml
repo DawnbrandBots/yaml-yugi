@@ -11,6 +11,7 @@ name:
   ja_romaji: Sei'ibutsu - "Seisō"
   ko: 성유물－『성창』
   ko_rr:
+  zh-CN: 星遗物-『星枪』
 text:
   en: |-
     Monsters your opponent controls cannot attack "World Legacy" monsters you control, except this one. You can only use each of the following effects of "World Legacy - "World Lance"" once per turn.
@@ -40,6 +41,11 @@ text:
     このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：リンクモンスターを含むモンスター同士が戦闘を行うダメージ計算時に、このカードを手札から捨てて発動できる。その戦闘を行う相手モンスターの攻撃力は３０００ダウンする。②：このカードがモンスターゾーンに存在する限り、相手は他の「星遺物」モンスターを攻撃できない。③：ＥＸデッキからモンスターが特殊召喚された場合に発動する。お互いのフィールドに「星遺物トークン」（機械族・闇・星１・攻／守０）を１体ずつ守備表示で特殊召喚する。
   ko: |-
     이 카드명의 ①③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 링크 몬스터를 포함하는 몬스터끼리가 전투를 실행하는 데미지 계산시에, 이 카드를 패에서 버리고 발동할 수 있다. 그 전투를 실행하는 상대 몬스터의 공격력은 3000 내린다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 "성유물" 몬스터를 공격할 수 없다. ③: 엑스트라 덱에서 몬스터가 특수 소환되었을 경우에 발동한다. 서로의 필드에 "성유물 토큰"(기계족 / 어둠 / 레벨 1 / 공 0 / 수 0)을 1장씩 수비 표시로 특수 소환한다.
+  zh-CN: |-
+    这个卡名的①③的效果1回合各能使用1次。
+    ①：包含连接怪兽的怪兽之间进行战斗的伤害计算时，把这张卡从手卡丢弃才能发动。那只进行战斗的对方怪兽的攻击力下降3000。
+    ②：只要这张卡在怪兽区域存在，对方不能向其他的「星遗物」怪兽攻击。
+    ③：从额外卡组有怪兽特殊召唤的场合发动。在双方场上把「星遗物衍生物」（机械族·暗·1星·攻/守0）各1只守备表示特殊召唤。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -120,5 +126,10 @@ sets:
   ko:
   - set_number: FLOD-KR018
     set_name: Flames of Destruction
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: MGP2-SC014
+    set_name: Mega Pack 02
     rarities:
     - Rare

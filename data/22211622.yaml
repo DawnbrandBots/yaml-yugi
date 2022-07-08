@@ -11,6 +11,7 @@ name:
   ja_romaji: Haōmon Infiniti
   ko: 패왕문 인피니티
   ko_rr:
+  zh-CN: 霸王门 无限
 text:
   en: |-
     Once per turn: You can target 1 other face-up card you control; destroy both it and this card, and if you do, Special Summon 1 Dragon-Type Xyz or Pendulum Monster from your Extra Deck, but its ATK and DEF become 0, it has its effects negated, also it cannot be used as a Material for a Synchro or Xyz Summon. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.
@@ -28,6 +29,8 @@ text:
     ①：１ターンに１度、このカード以外の自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードとこのカードを破壊し、ドラゴン族のＸモンスターまたはドラゴン族のＰモンスター１体をエクストラデッキから特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化され、Ｓ・Ｘ召喚の素材にできない。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   ko: |-
     ①: 1턴에 1번, 이 카드 이외의 자신 필드의 앞면 표시 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드와 이 카드를 파괴하고, 드래곤족 엑시즈 몬스터 또는 드래곤족 펜듈럼 몬스터 1장을 엑스트라 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터의 공격력 / 수비력은 0 이 되고, 효과는 무효화되며, 싱크로 / 엑시즈 소환의 소재로 할 수 없다. ②: 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
+  zh-CN: |-
+    ①：1回合1次，以这张卡以外的自己场上1张表侧表示的卡为对象才能发动。那张卡和这张卡破坏，把1只龙族XYZ怪兽或者龙族灵摆怪兽从额外卡组特殊召唤。这个效果特殊召唤的怪兽的攻击力·守备力变成0，效果无效化，不能作为同调·XYZ召唤的素材。②：怪兽区域的这张卡被战斗·效果破坏的场合才能发动。这张卡在自己的灵摆区域放置。
 type: Monster
 typeline: Fiend / Pendulum / Effect
 attribute: DARK
@@ -52,6 +55,8 @@ pendulum_effect:
     ①：自分フィールドにモンスターが存在する場合、自分はＰ召喚できない。この効果は無効化されない。②：１ターンに１度、自分フィールドに「覇王龍ズァーク」が存在する場合、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力分だけ自分のＬＰを回復する。
   ko: |-
     ①: 자신 필드에 몬스터가 존재할 경우, 자신은 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 1턴에 1번, 자신 필드에 "패왕룡 즈아크"가 존재할 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력만큼만 자신의 LP를 회복한다.
+  zh-CN: |-
+    ①：自己场上有怪兽存在的场合，自己不能灵摆召唤。这个效果不会被无效化。②：1回合1次，自己场上有「霸王龙 扎克」存在的场合，以对方场上1只表侧表示怪兽为对象才能发动。自己基本分回复那只怪兽的攻击力的数值。
 sets:
   en:
   - set_number: MACR-EN018

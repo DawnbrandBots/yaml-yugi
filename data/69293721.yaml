@@ -11,6 +11,7 @@ name:
   ja_romaji: Māmeiru - Abisugunde
   ko: 머메일-어비스근데
   ko_rr:
+  zh-CN: 水精鳞-深渊昆德
 text:
   en: |-
     If this card is discarded to the Graveyard: You can target 1 "Mermail" monster in your Graveyard, except "Mermail Abyssgunde"; Special Summon that target. You can only use the effect of "Mermail Abyssgunde" once per turn.
@@ -28,6 +29,8 @@ text:
     このカードが手札から墓地へ捨てられた場合、自分の墓地から「水精鱗－アビスグンデ」以外の「水精鱗」と名のついたモンスター１体を選択して特殊召喚できる。「水精鱗－アビスグンデ」の効果は１ターンに１度しか使用できない。
   ko: |-
     이 카드가 패에서 묘지로 버려졌을 경우, 자신의 묘지에서 "머메일-어비스근데" 이외의 "머메일" 이라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다. "머메일-어비스근데" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-CN: |-
+    这张卡从手卡丢弃去墓地的场合，可以从自己墓地选择「水精鳞-深渊昆德」以外的1只名字带有「水精鳞」的怪兽特殊召唤。「水精鳞-深渊昆德」的效果1回合只能使用1次。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -83,6 +86,11 @@ sets:
     - Common
   ko:
   - set_number: ABYR-KR015
+    set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ABYR-TC015
     set_name: Abyss Rising
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Shinki Seintorea
   ko: 하늘의 기병 세인토레아
   ko_rr: Haneul-ui Gibyeong Seintorea
+  zh-CN: 神骑 矢车菊圣人马
 text:
   en: |-
     2 Level 2 monsters
@@ -36,6 +37,9 @@ text:
   ko: |-
     레벨 2 몬스터 × 2
     ①: 엑시즈 소재를 가지고 있는 이 카드는 전투로는 파괴되지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 상대 몬스터를 주인의 패로 되돌린다.
+  zh-CN: |-
+    2星怪兽×2
+    ①：持有XYZ素材的这张卡不会被战斗破坏。②：这张卡和对方怪兽进行战斗的伤害步骤结束时把这张卡1个XYZ素材取除才能发动。那只对方怪兽回到持有者手卡。
 type: Monster
 typeline: Beast-Warrior / Xyz / Effect
 attribute: LIGHT
@@ -131,5 +135,10 @@ sets:
     - Common
   - set_number: AE17-KRS18
     set_name: Advanced Event Pack 2022 Vol.1 Version 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC074
+    set_name: Entry Pack Volume 5
     rarities:
     - Common

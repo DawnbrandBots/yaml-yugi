@@ -11,6 +11,7 @@ name:
   ja_romaji: Shūmatsu no Kishi
   ko: 종말의 기사
   ko_rr: Jungmal-ui Gisa
+  zh-CN: 终末之骑士
 text:
   en: |-
     When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.
@@ -28,6 +29,8 @@ text:
     ①：このカードが召喚・反転召喚・特殊召喚に成功した時に発動できる。デッキから闇属性モンスター１体を墓地へ送る。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 덱에서 어둠 속성 몬스터 1장을 묘지로 보낸다.
+  zh-CN: |-
+    ①：这张卡召唤·反转召唤·特殊召唤成功时才能发动。从卡组把1只暗属性怪兽送去墓地。
 type: Monster
 typeline: Warrior / Effect
 attribute: DARK
@@ -247,6 +250,31 @@ sets:
     rarities:
     - Common
   - set_number: RC03-KR002
+    set_name: Rarity Collection Premium Gold Edition
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Extra Secret Rare
+  zh-TW:
+  - set_number: SP02-TC014
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SCP09
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Super Rare
+  - set_number: DBDS-SC040
+    set_name: 'Deck Build Pack: Dark Savers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: SD37-SC017
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  - set_number: RC03-SC002
     set_name: Rarity Collection Premium Gold Edition
     rarities:
     - Super Rare

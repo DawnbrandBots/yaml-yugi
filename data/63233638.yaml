@@ -11,6 +11,7 @@ name:
   ja_romaji: Megarisu Faregu
   ko: 메가리스 파레그
   ko_rr: Megariseu Paregeu
+  zh-CN: 巨石遗物·富雷格
 text:
   en: |-
     You can Ritual Summon this card with a "Megalith" card. You can discard this card; Ritual Summon 1 "Megalith" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use this effect of "Megalith Phaleg" once per turn. Monsters you control gain 300 ATK/DEF for each Ritual Monster in your GY.
@@ -28,6 +29,10 @@ text:
     「メガリス」カードにより降臨。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から「メガリス」儀式モンスター１体を儀式召喚する。②：このカードがモンスターゾーンに存在する限り、自分フィールドのモンスターの攻撃力・守備力は、自分の墓地の儀式モンスターの数×３００アップする。
   ko: |-
     "메가리스" 카드에 의해 의식 소환. 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 패에서 버리고 발동할 수 있다. 레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 "메가리스" 의식 몬스터 1장을 의식 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 몬스터의 공격력 / 수비력은, 자신 묘지의 의식 몬스터의 수 × 300 올린다.
+  zh-CN: |-
+    「巨石遗物」卡降临。这个卡名的①的效果1回合只能使用1次。
+    ①：把这张卡从手卡丢弃才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己的手卡·场上的怪兽解放，从手卡把1只「巨石遗物」仪式怪兽仪式召唤。
+    ②：只要这张卡在怪兽区域存在，自己场上的怪兽的攻击力·守备力上升自己墓地的仪式怪兽数量×300。
 type: Monster
 typeline: Rock / Ritual / Effect
 attribute: EARTH
@@ -68,5 +73,10 @@ sets:
   ko:
   - set_number: IGAS-KR038
     set_name: Ignition Assault
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC071
+    set_name: Mega Pack 04
     rarities:
     - Common

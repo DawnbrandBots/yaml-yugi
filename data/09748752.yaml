@@ -11,6 +11,7 @@ name:
   ja_romaji: Jatei Gaiusu
   ko: 사 제왕 가이우스
   ko_rr:
+  zh-CN: 邪帝 盖乌斯
 text:
   en: |-
     If this card is Tribute Summoned: Target 1 card on the field; banish that target, and if you do, inflict 1000 damage to your opponent if it is a DARK monster.
@@ -28,6 +29,8 @@ text:
     ①：このカードがアドバンス召喚に成功した場合、フィールドのカード１枚を対象として発動する。そのカードを除外し、除外したカードが闇属性モンスターカードだった場合、相手に１０００ダメージを与える。
   ko: |-
     ①: 이 카드가 어드밴스 소환에 성공했을 경우, 필드의 카드 1장을 대상으로 하고 발동한다. 그 카드를 제외하고, 제외한 카드가 어둠 속성 몬스터 카드였을 경우, 상대에게 1000 데미지를 준다.
+  zh-CN: |-
+    ①：这张卡上级召唤成功的场合，以场上1张卡为对象发动。那张卡除外，除外的卡是暗属性怪兽卡的场合，给与对方1000伤害。
 type: Monster
 typeline: Fiend / Effect
 attribute: DARK
@@ -234,3 +237,19 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  zh-TW:
+  - set_number: GS06-TC008
+    set_name: Gold Series 2014
+    rarities:
+    - Common
+    - Gold Rare
+    - Gold Secret Rare
+  zh-CN:
+  - set_number: ST20-SC011
+    set_name: Starter Deck 2020
+    rarities:
+    - Common
+  - set_number: SCTP-SC010
+    set_name: Entry Pack Volume 1
+    rarities:
+    - Common

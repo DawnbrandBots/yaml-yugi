@@ -11,6 +11,7 @@ name:
   ja_romaji: Kikōja - Murakumo no Orochi
   ko: 기교사－오로치트론
   ko_rr: Gigyosa - Orochiteuron
+  zh-CN: 机巧蛇-丛云远吕智
 text:
   en: |-
     If this card is in your hand or GY (Quick Effect): You can banish 8 cards from the top of your Deck face-down; Special Summon this card. You can banish 3 cards from your Extra Deck face-down, then target 1 face-up monster on the field; destroy it. You can only use 1 "Gizmek Orochi, the Serpentron Sky Slasher" effect per turn, and only once that turn.
@@ -28,6 +29,10 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが手札・墓地に存在する場合、自分のデッキの上からカード８枚を裏側表示で除外して発動できる。このカードを特殊召喚する。この効果は相手ターンでも発動できる。②：ＥＸデッキからカード３枚を裏側表示で除外し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재할 경우, 자신의 덱 위에서 카드 8장을 뒷면 표시로 제외하고 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 엑스트라 덱에서 카드 3장을 뒷면 표시로 제외하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+    ①：这张卡在手卡·墓地存在的场合，从自己卡组上面把8张卡里侧表示除外才能发动。这张卡特殊召唤。这个效果在对方回合也能发动。
+    ②：从自己的额外卡组把3张卡里侧表示除外，以场上1只表侧表示怪兽为对象才能发动。那只怪兽破坏。
 type: Monster
 typeline: Machine / Effect
 attribute: DARK
@@ -123,3 +128,9 @@ sets:
     set_name: "Structure Deck: Cyber Style's Successor"
     rarities:
     - Common
+  zh-CN:
+  - set_number: MGP3-SC115
+    set_name: Mega Pack 03
+    rarities:
+    - Ultra Rare
+    - Secret Rare

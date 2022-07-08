@@ -11,6 +11,7 @@ name:
   ja_romaji: Atorantisu no Senshi
   ko: 아틀란티스의전사
   ko_rr:
+  zh-CN: 亚特兰蒂斯的战士
 text:
   en: |-
     You can discard this card to the Graveyard; add 1 "A Legendary Ocean" from your Deck to your hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードを手札から墓地へ捨てて発動できる。デッキから「伝説の都 アトランティス」１枚を手札に加える。
   ko: |-
     이 카드를 패에서 묘지에 버리고 발동할 수 있다. 덱에서 "전설의 도시 아틀란티스" 1장을 패에 넣는다.
+  zh-CN: |-
+    把这张卡从手卡丢弃去墓地才能发动。从卡组把1张「传说之都 亚特兰蒂斯」加入手卡。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -103,5 +106,10 @@ sets:
     - Common
   - set_number: PC02-KR051
     set_name: Precious Pack Volume 2
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC015
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

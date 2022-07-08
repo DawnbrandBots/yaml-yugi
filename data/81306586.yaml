@@ -11,6 +11,7 @@ name:
   ja_romaji: Pengin Naitomea
   ko: 펭귄나이트메어
   ko_rr:
+  zh-CN: 梦魇企鹅
 text:
   en: |-
     All face-up WATER monsters you control gain 200 ATK. When this card is flipped face-up: Target 1 card your opponent controls; return that target to the hand.
@@ -28,6 +29,8 @@ text:
     ①：このカードがリバースした場合、相手フィールドのカード１枚を対象として発動する。その相手のカードを持ち主の手札に戻す。②：このカードがモンスターゾーンに存在する限り、自分フィールドの水属性モンスターの攻撃力は２００アップする。
   ko: |-
     이 카드가 리버스했을 때, 상대 필드 위의 카드 1장을 선택하고 주인의 패로 되돌린다. 또한, 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위의 물 속성 몬스터의 공격력은 200 포인트 올린다.
+  zh-CN: |-
+    这张卡反转时，选择对方场上1张卡回到持有者手卡。此外，只要这张卡在场上表侧表示存在，自己场上的水属性怪兽的攻击力上升200。
 type: Monster
 typeline: Aqua / Effect
 attribute: WATER
@@ -139,6 +142,11 @@ sets:
     rarities:
     - Common
   - set_number: SD23-KR017
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD23-TC017
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common

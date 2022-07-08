@@ -11,6 +11,7 @@ name:
   ja_romaji: Fukushū no Onnasenshi Rōzu
   ko: 복수의 여전사 로즈
   ko_rr: Boksu-ui Yeojeonsa Rojeu
+  zh-CN: 复仇的女战士 罗丝
 text:
   en: |-
     When this card inflicts battle damage to your opponent: Inflict 300 damage to your opponent.
@@ -28,6 +29,8 @@ text:
     ①：このカードが相手に戦闘ダメージを与えた場合に発動する。相手に３００ダメージを与える。
   ko: |-
     ①: 이 카드가 상대에게 전투 데미지를 주었을 경우에 발동한다. 상대에게 300 데미지를 준다.
+  zh-CN: |-
+    ①：这张卡给与对方战斗伤害的场合发动。给与对方300伤害。
 type: Monster
 typeline: Warrior / Tuner
 attribute: FIRE
@@ -112,5 +115,10 @@ sets:
     - Super Rare
   - set_number: SR09-KR015
     set_name: "Structure Deck R: Warriors' Strike"
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC015
+    set_name: Starter Pack Volume 1
     rarities:
     - Common

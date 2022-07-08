@@ -11,6 +11,7 @@ name:
   ja_romaji: Baisu Doragon
   ko: 바이스 드래곤
   ko_rr:
+  zh-CN: 恶龙
 text:
   en: |-
     If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.
@@ -28,6 +29,8 @@ text:
     ①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードの元々の攻撃力・守備力は半分になる。
   ko: |-
     ①: 상대 필드에 몬스터가 존재하고, 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 방법으로 특수 소환한 이 카드의 원래 공격력 / 수비력은 절반이 된다.
+  zh-CN: |-
+    ①：对方场上有怪兽存在，自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。这个方法特殊召唤的这张卡的原本的攻击力·守备力变成一半。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -173,3 +176,17 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-TW:
+  - set_number: SP02-TC011
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Rare
+  - set_number: SD22-TC009
+    set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC014
+    set_name: Starter Deck 2020
+    rarities:
+    - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Rekigan no Reichō - Kongurēdo
   ko: 역암의 영장－콘그레이드
   ko_rr: Yeok-am-ui Yeongjang - Kon-geureiteu
+  zh-CN: 砾岩灵长
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If a monster is sent from your opponent's hand or Deck to the GY (except during the Damage Step): You can Special Summon this card from your hand in face-down Defense Position. If this card is flipped face-up: You can target up to 2 cards on the field; destroy them.
@@ -28,6 +29,10 @@ text:
     このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：相手の手札・デッキからモンスターが墓地へ送られた場合に発動できる。このカードを手札から裏側守備表示で特殊召喚する。②：このカードがリバースした場合、フィールドのカードを２枚まで対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드는 통상 소환할 수 없으며, 카드의 효과로만 특수 소환할 수 있다. ①: 상대의 패 / 덱에서 몬스터가 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 패에서 뒷면 수비 표시로 특수 소환한다. ②: 이 카드가 리버스했을 경우, 필드의 카드를 2장까지 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-CN: |-
+    这张卡不能通常召唤，用卡的效果才能特殊召唤。
+    ①：从对方的手卡·卡组有怪兽被送去墓地的场合才能发动。这张卡从手卡里侧守备表示特殊召唤。
+    ②：这张卡反转的场合，以场上最多2张卡为对象才能发动。那些卡破坏。
 type: Monster
 typeline: Rock / Effect
 attribute: EARTH
@@ -73,3 +78,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: MGP4-SC014
+    set_name: Mega Pack 04
+    rarities:
+    - Rare

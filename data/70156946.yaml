@@ -11,6 +11,7 @@ name:
   ja_romaji: Rantan Shāku
   ko: 랜턴 샤크
   ko_rr: Raenteon Syakeu
+  zh-CN: 提灯鲨
 text:
   en: |-
     If this card is Normal or Special Summoned: You can activate this effect; Special Summon 1 Level 3, 4, or 5 WATER monster from your hand in Defense Position, except "Lantern Shark", also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of "Lantern Shark" once per turn. If this card is used for the Xyz Summon of a WATER monster, it can be treated as a Level 3 or 5 monster.
@@ -28,6 +29,10 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。手札から「ランタン・シャーク」以外のレベル３～５の水属性モンスター１体を守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はＸモンスターしかＥＸデッキから特殊召喚できない。②：このカードを水属性モンスターのＸ召喚に使用する場合、このカードのレベルを３または５として扱う事ができる。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 패에서 "랜턴 샤크" 이외의 레벨 3~5 의 물 속성 몬스터 1장을 수비 표시로 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 엑시즈 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. ②: 이 카드를 물 속성 몬스터의 엑시즈 소환으로 사용할 경우, 이 카드의 레벨을 3 또는 5 로서 취급할 수 있다.
+  zh-CN: |-
+    这个卡名的①的效果1回合只能使用1次。
+    ①：这张卡召唤·特殊召唤成功的场合才能发动。从手卡把「提灯鲨」以外的1只3～5星的水属性怪兽守备表示特殊召唤。这个效果的发动后，直到回合结束时自己不是超量怪兽不能从额外卡组特殊召唤。
+    ②：把这张卡在水属性怪兽的超量召唤使用的场合，可以把这张卡的等级当作3星或者5星使用。
 type: Monster
 typeline: Fish / Effect
 attribute: WATER
@@ -88,5 +93,10 @@ sets:
   ko:
   - set_number: ETCO-KR018
     set_name: Eternity Code
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP4-SC116
+    set_name: Mega Pack 04
     rarities:
     - Common

@@ -11,6 +11,7 @@ name:
   ja_romaji: Torikkusutā Burumu
   ko: 트릭스터 블룸
   ko_rr:
+  zh-CN: 淘气仙星·布露姆
 text:
   en: |-
     1 Level 2 or lower "Trickstar" monster
@@ -36,6 +37,11 @@ text:
   ko: |-
     레벨 2 이하의 "트릭스터" 몬스터 1장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 상대는 덱에서 1장 드로우한다. ② : 이 카드의 링크 앞의 "트릭스터" 몬스터가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 상대 패의 수 × 200 데미지를 상대에게 준다.
+  zh-CN: |-
+    2星以下的「淘气仙星」怪兽1只
+    这个卡名的②的效果1回合只能使用1次。
+    ①：这张卡连接召唤成功的场合才能发动。对方从卡组抽1张。
+    ②：这张卡所连接区的「淘气仙星」怪兽被战斗·效果破坏的场合才能发动。给与对方为对方手卡数量×200伤害。
 type: Monster
 typeline: Fairy / Link / Effect
 attribute: LIGHT
@@ -97,5 +103,10 @@ sets:
   ko:
   - set_number: FLOD-KR039
     set_name: Flames of Destruction
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP2-SC021
+    set_name: Mega Pack 02
     rarities:
     - Common

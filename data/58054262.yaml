@@ -11,6 +11,7 @@ name:
   ja_romaji: Mashinnāzu Fōsu
   ko: 머시너즈 포스
   ko_rr: Meosineojeu Poseu
+  zh-CN: 机甲部队·武装力量
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned by "Commander Covington". You must pay 1000 LP to declare an attack with this card. You can send this card you control to the GY, then target 1 "Machina Soldier", "Machina Sniper", and "Machina Defender" in your GY; Special Summon those targets.
@@ -28,6 +29,8 @@ text:
     このカードは通常召喚できない。「督戦官コヴィントン」の効果でのみ特殊召喚できる。①：このカードは１０００ＬＰ払わなければ攻撃宣言できない。②：フィールドのこのカードを墓地へ送り、自分の墓地の「マシンナーズ・ソルジャー」「マシンナーズ・スナイパー」「マシンナーズ・ディフェンダー」を１体ずつ対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     이 카드는 통상 소환할 수 없다. "독전관 코빈톤"의 효과로만 특수 소환할 수 있다. ①: 이 카드는 1000 LP 지불해야 공격 선언할 수 있다. ②: 필드의 이 카드를 묘지로 보내고, 자신 묘지의 "머시너즈 솔저" "머시너즈 스나이퍼" "머시너즈 디펜더"를 1장씩 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-CN: |-
+    这张卡不能通常召唤。「督战官 科文顿」的效果才能特殊召唤。①：这张卡若不支付1000基本分则不能攻击宣言。②：把场地的这张卡送去墓地，以自己墓地的「机甲士兵」「机甲狙击兵」「机甲卫兵」各1只为对象才能发动。那些怪兽特殊召唤。
 type: Monster
 typeline: Machine / Effect
 attribute: EARTH
@@ -116,5 +119,10 @@ sets:
     - Common
   - set_number: SR10-KR007
     set_name: 'Structure Deck R: Machiners Command'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD18-TC009
+    set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Common

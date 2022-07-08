@@ -11,6 +11,7 @@ name:
   ja_romaji: Nokutobijon Doragon
   ko: 녹토비젼 드래곤
   ko_rr: Noktobijyeon Deuraegon
+  zh-CN: 暗视龙
 text:
   en: |-
     When your opponent activates a card or effect that targets a face-down card(s) you control (Quick Effect): You can banish this card from your GY; negate that effect, also your opponent cannot target that face-down card(s) with card effects for the rest of this turn. You can only use each of the following effects of "Noctovision Dragon" once per turn.
@@ -40,6 +41,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにドラゴン族・闇属性モンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：このカードがリンク素材として墓地へ送られた場合に発動できる。自分はデッキから１枚ドローする。③：自分フィールドの裏側表示のカードを対象とする魔法・罠・モンスターの効果を相手が発動した時、墓地のこのカードを除外して発動できる。その効果を無効にする。このターン、相手はその裏側表示のカードを効果の対象にできない。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 드래곤족 / 어둠 속성 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 링크 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ③: 자신 필드의 뒷면 표시의 카드를 대상으로 하는 마법 / 함정 / 몬스터의 효과를 상대가 발동했을 때, 묘지의 이 카드를 제외하고 발동할 수 있다. 그 효과를 무효로 한다. 이 턴에, 상대는 그 뒷면 표시의 카드를 효과의 대상으로 할 수 없다.
+  zh-CN: |-
+    这个卡名的①②的效果1回合各能使用1次。
+    ①：自己场上有龙族·暗属性怪兽特殊召唤的场合才能发动。这张卡从手卡特殊召唤。
+    ②：这张卡作为连接素材送去墓地的场合才能发动。自己从卡组抽1张。
+    ③：自己场上的里侧表示的卡为对象的魔法·陷阱·怪兽的效果由对方发动时，把墓地的这张卡除外才能发动。那个效果无效。这个回合，对方不能把那些里侧表示的卡作为效果的对象。
 type: Monster
 typeline: Dragon / Effect
 attribute: DARK
@@ -122,3 +128,8 @@ sets:
     set_name: Eternity Code
     rarities:
     - Rare
+  zh-CN:
+  - set_number: MGP4-SC108
+    set_name: Mega Pack 04
+    rarities:
+    - Common
