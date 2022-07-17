@@ -54,6 +54,11 @@ def int_or_og(val: str) -> Union[int, str]:
         return val
 
 
+def str_or_none(val: Optional[str]) -> Optional[LiteralScalarString]:
+    if val:
+        return LiteralScalarString(val)
+
+
 def annotate(yaml: YAML, zh_cn_dir, wikitext: Dict[str, str]) -> None:
     password = int_or_none(wikitext.get("password") or "")
     zh_cn_path = os.path.join(zh_cn_dir, f"{password}.yaml")
@@ -115,15 +120,15 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             "zh-CN": wikitext.get("ourocg_name")
         },
         "text": {
-            "en": LiteralScalarString(wikitext["lore"]),
-            "de": LiteralScalarString(wikitext.get("de_lore")),
-            "es": LiteralScalarString(wikitext.get("es_lore")),
-            "fr": LiteralScalarString(wikitext.get("fr_lore")),
-            "it": LiteralScalarString(wikitext.get("it_lore")),
-            "pt": LiteralScalarString(wikitext.get("pt_lore")),
-            "ja": LiteralScalarString(wikitext.get("ja_lore")),
-            "ko": LiteralScalarString(wikitext.get("ko_lore")),
-            "zh-CN": LiteralScalarString(wikitext.get("ourocg_text"))
+            "en": str_or_none(wikitext.get("lore")),  # should never be none
+            "de": str_or_none(wikitext.get("de_lore")),
+            "es": str_or_none(wikitext.get("es_lore")),
+            "fr": str_or_none(wikitext.get("fr_lore")),
+            "it": str_or_none(wikitext.get("it_lore")),
+            "pt": str_or_none(wikitext.get("pt_lore")),
+            "ja": str_or_none(wikitext.get("ja_lore")),
+            "ko": str_or_none(wikitext.get("ko_lore")),
+            "zh-CN": str_or_none(wikitext.get("ourocg_text"))
         }
     }
     # Golden-Eyes Idol for some reason has card_type = Monster
@@ -146,15 +151,15 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         if "pendulum_scale" in wikitext:
             document["pendulum_scale"] = int(wikitext["pendulum_scale"])
             document["pendulum_effect"] = {
-                "en": LiteralScalarString(wikitext.get("pendulum_effect")),
-                "de": LiteralScalarString(wikitext.get("de_pendulum_effect")),
-                "es": LiteralScalarString(wikitext.get("es_pendulum_effect")),
-                "fr": LiteralScalarString(wikitext.get("fr_pendulum_effect")),
-                "it": LiteralScalarString(wikitext.get("it_pendulum_effect")),
-                "pt": LiteralScalarString(wikitext.get("pt_pendulum_effect")),
-                "ja": LiteralScalarString(wikitext.get("ja_pendulum_effect")),
-                "ko": LiteralScalarString(wikitext.get("ko_pendulum_effect")),
-                "zh-CN": LiteralScalarString(wikitext.get("ourocg_pendulum"))
+                "en": str_or_none(wikitext.get("pendulum_effect")),
+                "de": str_or_none(wikitext.get("de_pendulum_effect")),
+                "es": str_or_none(wikitext.get("es_pendulum_effect")),
+                "fr": str_or_none(wikitext.get("fr_pendulum_effect")),
+                "it": str_or_none(wikitext.get("it_pendulum_effect")),
+                "pt": str_or_none(wikitext.get("pt_pendulum_effect")),
+                "ja": str_or_none(wikitext.get("ja_pendulum_effect")),
+                "ko": str_or_none(wikitext.get("ko_pendulum_effect")),
+                "zh-CN": str_or_none(wikitext.get("ourocg_pendulum"))
             }
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]  # bonus derived field
@@ -205,6 +210,8 @@ def main():
         if os.path.isfile(filepath):
             print(filepath, flush=True)
             properties = transform(yaml, filepath)
+            # if filename == "7747.yaml":
+            #     properties.pop("sc_sets")  # bad formatting
             if zh_cn_dir:
                 annotate(yaml, zh_cn_dir, properties)
             write_output(yaml, properties)
