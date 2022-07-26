@@ -11,7 +11,9 @@ def expand_templates(template: wtp.Template) -> str:
     if template.name.strip().lower() == "ruby":
         base = template.arguments[0].value.strip()
         ruby = template.arguments[1].value.strip()
-        return f"<ruby><rb>{base}</rb><rp>（</rp><rt>{ruby}</rt><rp>）</rp></ruby>"
+        # <rp>（</rp>
+        # <rp>）</rp>
+        return f"<ruby><rb>{base}</rb><rt>{ruby}</rt></ruby>"
     else:
         return ""
 
@@ -87,6 +89,18 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
     return result
 
 
+LINK_ARROW_MAPPING = {
+    "Bottom-Left": "↙",
+    "Bottom-Center": "⬇",  # YGOPRODECK: Bottom
+    "Bottom-Right": "↘",
+    "Middle-Left": "⬅",  # YGOPRODECK: Left
+    "Middle-Right": "➡",  # YGOPRODECK: Right
+    "Top-Left": "↖",
+    "Top-Center": "⬆",  # YGOPRODECK: Top
+    "Top-Right": "↗"
+}
+
+
 def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
     if (
         # Pegasus/Monster B
@@ -116,8 +130,8 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             "ja_romaji": wikitext.get("romaji_name"),
             "ko": wikitext.get("ko_name"),
             "ko_rr": wikitext.get("ko_rr_name"),
-            # TODO: consider official (Yugipedia sc/tc) vs fan-translated
-            "zh-CN": wikitext.get("ourocg_name")
+            "zh-TW": wikitext.get("tc_name"),
+            "zh-CN": wikitext.get("sc_name") or wikitext.get("ourocg_name")
         },
         "text": {
             "en": str_or_none(wikitext.get("lore")),  # should never be none
@@ -128,21 +142,22 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             "pt": str_or_none(wikitext.get("pt_lore")),
             "ja": str_or_none(wikitext.get("ja_lore")),
             "ko": str_or_none(wikitext.get("ko_lore")),
-            "zh-CN": str_or_none(wikitext.get("ourocg_text"))
+            "zh-TW": str_or_none(wikitext.get("tc_lore")),
+            "zh-CN": str_or_none(wikitext.get("sc_lore") or wikitext.get("ourocg_text"))
         }
     }
     # Golden-Eyes Idol for some reason has card_type = Monster
     if "card_type" in wikitext and wikitext["card_type"] != "Monster":  # Spell or Trap
-        document["type"] = wikitext["card_type"]
+        document["card_type"] = wikitext["card_type"]
         document["property"] = wikitext["property"]
     else:  # Monster
-        document["type"] = "Monster"
-        document["typeline"] = wikitext["types"]
+        document["card_type"] = "Monster"
+        document["monster_type_line"] = wikitext["types"]
         document["attribute"] = wikitext["attribute"]
         if "rank" in wikitext:
             document["rank"] = int(wikitext["rank"])
         elif "link_arrows" in wikitext:
-            document["link_arrows"] = wikitext["link_arrows"].split(", ")
+            document["link_arrows"] = [LINK_ARROW_MAPPING[arrow] for arrow in wikitext["link_arrows"].split(", ")]
         else:
             document["level"] = int(wikitext["level"])
         document["atk"] = int_or_og(wikitext["atk"])
@@ -159,7 +174,8 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
                 "pt": str_or_none(wikitext.get("pt_pendulum_effect")),
                 "ja": str_or_none(wikitext.get("ja_pendulum_effect")),
                 "ko": str_or_none(wikitext.get("ko_pendulum_effect")),
-                "zh-CN": str_or_none(wikitext.get("ourocg_pendulum"))
+                "zh-TW": str_or_none(wikitext.get("tc_pendulum_effect")),
+                "zh-CN": str_or_none(wikitext.get("sc_pendulum_effect") or wikitext.get("ourocg_pendulum"))
             }
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]  # bonus derived field
