@@ -7,10 +7,11 @@ name:
   fr: Rayon, le Dragon de la Demi-Lune
   it: Radius, il Drago Mezzaluna
   pt: Raio, o Dragão da Meia-Lua
-  ja: <ruby><rb>半</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby><rb>月</rb><rp>（</rp><rt>げつ</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ラディウス
+  ja: <ruby><rb>半</rb><rt>はん</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>ラディウス
   ja_romaji: Hangetsuryū Radiusu
   ko: 반월룡 라디우스
   ko_rr:
+  zh-TW: 半月龍拉狄烏斯
   zh-CN: 半月龙 半径龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手フィールド上にエクシーズモンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードのレベルは８になる。
   ko: |-
     상대 필드 위에 엑시즈 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 방법으로 특수 소환한 이 카드의 레벨은 8 이 된다.
+  zh-TW: 对手场上存在超量怪兽的场合，此卡可从手牌特殊召唤。以此方法特殊召唤的此卡等级变为8。
   zh-CN: |-
     对方场上有XYZ怪兽存在的场合，这张卡可以从手卡特殊召唤。这个方法特殊召唤的这张卡的等级变成8星。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 4
 atk: 1400

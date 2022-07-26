@@ -7,11 +7,12 @@ name:
   fr: VoiTurbo Vitesseroid
   it: Velociroid AutoTurbo
   pt: Velocidaroide CarroTurbo
-  ja: <ruby><rb>ＳＲ</rb><rp>（</rp><rt>スピードロイド</rt><rp>）</rp></ruby>カールターボ
+  ja: <ruby><rb>ＳＲ</rb><rt>スピードロイド</rt></ruby>カールターボ
   ja_romaji: Supīdoroido Kārutābo
-  ko: <ruby><rb>SR</rb><rp>（</rp><rt>스피드로이드</rt><rp>）</rp></ruby> 카르터보
+  ko: <ruby><rb>SR</rb><rt>스피드로이드</rt></ruby> 카르터보
   ko_rr: Seupideuroideu Kareuteobo
-  zh-CN: 疾行机人 涡轮歌牌
+  zh-TW:
+  zh-CN: 疾行机人 歌牌涡轮
 text:
   en: |-
     If you control a WIND monster: You can Special Summon this card from your hand, also you cannot activate monster effects for the rest of this turn, except WIND monsters. You can banish this card and 1 "Speedroid" monster from your GY; all WIND monsters you currently control gain 800 ATK until the end of this turn. You can only use each effect of "Speedroid CarTurbo" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに風属性モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は風属性以外のモンスターの効果を発動できない。②：自分の墓地からこのカードと「スピードロイド」モンスター１体を除外して発動できる。自分フィールドの全ての風属性モンスターの攻撃力はターン終了時まで８００アップする。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 바람 속성 몬스터가 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 바람 속성 이외의 몬스터의 효과를 발동할 수 없다. ②: 자신 묘지에서 이 카드와 "스피드로이드" 몬스터 1장을 제외하고 발동할 수 있다. 자신 필드의 모든 바람 속성 몬스터의 공격력은 턴 종료시까지 800 올린다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：自己场上有风属性怪兽存在的场合才能发动。这张卡从手卡特殊召唤。这个效果的发动后，直到回合结束时自己不能把风属性以外的怪兽的效果发动。
-    ②：从自己墓地把这张卡和1只「疾行机人」怪兽除外才能发动。自己场上的全部风属性怪兽的攻击力直到回合结束时上升800。
-type: Monster
-typeline: Machine / Tuner / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：在自己场上有风属性怪兽存在的情况下可以发动。从手牌将此卡特殊召唤。此效果发动后，直至回合结束时为止，自己不可发动风属性以外的怪兽的效果。②：从自己的墓地将此卡和1只"疾行机人"怪兽除外可以发动。自己场上的所有风属性怪兽的攻击力直至回合结束时为止上升800。
+card_type: Monster
+monster_type_line: Machine / Tuner / Effect
 attribute: WIND
 level: 3
 atk: 800

@@ -7,10 +7,11 @@ name:
   fr: Sorcièrevent - Gel Clochette
   it: Ventostrega - Campanella del Freddo
   pt: Ventobruxa - Sino Congelante
-  ja: <ruby><rb>ＷＷ</rb><rp>（</rp><rt>ウィンド・ウィッチ</rt><rp>）</rp></ruby>－フリーズ・ベル
+  ja: <ruby><rb>ＷＷ</rb><rt>ウィンド・ウィッチ</rt></ruby>－フリーズ・ベル
   ja_romaji: Windo Wicchi - Furīzu Beru
-  ko: <ruby><rb>WW</rb><rp>（</rp><rt>윈드 위치</rt><rp>）</rp></ruby>－프리즈 벨
+  ko: <ruby><rb>WW</rb><rt>윈드 위치</rt></ruby>－프리즈 벨
   ko_rr: Windeu Wichi - Peurijeu Bel
+  zh-TW:
   zh-CN: 风魔女-冻铃
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが「ＷＷ」モンスターのみの場合に発動できる。このカードを手札から特殊召喚する。②：１ターンに１度、自分メインフェイズに発動できる。このカードのレベルを１つ上げる。③：このカードをＳ素材として風属性ＳモンスターをＳ召喚した場合、そのＳモンスターは戦闘では破壊されない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 몬스터가 "WW(윈드 위치)" 몬스터뿐일 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 이 카드의 레벨을 1개 올린다. ③: 이 카드를 싱크로 소재로서 바람 속성 싱크로 몬스터를 싱크로 소환했을 경우, 그 싱크로 몬스터는 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①的效果1回合只能使用1次。
     ①：自己场上的怪兽只有「风魔女」怪兽的场合才能发动。这张卡从手卡特殊召唤。
     ②：1回合1次，自己主要阶段才能发动。这张卡的等级上升1星。
     ③：用这张卡为同调素材把风属性同调怪兽同调召唤的场合，那只同调怪兽不会被战斗破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 3
 atk: 1200

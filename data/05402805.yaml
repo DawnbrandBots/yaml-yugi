@@ -7,10 +7,11 @@ name:
   fr: Berserker du Tenyi
   it: Berserker del Tenyi
   pt: Enfurecido dos Tenyi
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>威</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>威</rb><rt>い</rt></ruby>の<ruby><rb>鬼</rb><rt>き</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby>
   ja_romaji: Ten'i no Kijin
   ko: 천위의 귀신
   ko_rr: Cheonwi-ui Gwisin
+  zh-TW:
   zh-CN: 天威之鬼神
 text:
   en: |-
@@ -29,15 +30,16 @@ text:
     リンクモンスターを含むモンスター２体以上
   ko: |-
     링크 몬스터를 포함하는 몬스터 2장 이상
+  zh-TW:
   zh-CN: |-
-    包含连接怪兽的怪兽2只以上
-type: Monster
-typeline: Wyrm / Link
+    包括连接怪兽在内的怪兽2只以上
+card_type: Monster
+monster_type_line: Wyrm / Link
 attribute: DARK
 link_arrows:
-- Bottom-Right
-- Top-Right
-- Top-Center
+- ↘
+- ↗
+- ⬆
 atk: 3000
 sets:
   en:

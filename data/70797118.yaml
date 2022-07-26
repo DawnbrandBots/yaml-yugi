@@ -7,10 +7,11 @@ name:
   fr: Nyan Nyan du Tonnerre
   it: Tuono Nyan Nyan
   pt: Nyan Nyan Trovão
-  ja: <ruby><rb>雷</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>娘</rb><rp>（</rp><rt>にゃん</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>にゃん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>雷</rb><rt>らい</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>娘</rb><rt>にゃん</rt></ruby><ruby><rb>々</rb><rt>にゃん</rt></ruby>
   ja_romaji: Raiden Nyan'nyan
   ko: 번개낭랑
   ko_rr:
+  zh-TW:
   zh-CN: 雷电娘娘
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に光属性以外の表側表示モンスターが存在する場合、表側表示のこのカードを破壊する。
   ko: |-
     자신 필드 위에 빛 속성 이외의 앞면 표시 몬스터가 존재하는 경우, 앞면 표시의 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己场上有光属性以外的表侧表示怪兽存在的场合，表侧表示的这张卡破坏。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 1900

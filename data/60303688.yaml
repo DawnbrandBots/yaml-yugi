@@ -7,10 +7,11 @@ name:
   fr: Dogmatika Ecclésia, la Vertueuse
   it: Dogmatika Ecclesia, la Virtuosa
   pt: Dogmatika Ecclesia, a Virtuosa
-  ja: <ruby><rb>教導</rb><rp>（</rp><rt>ドラグマ</rt><rp>）</rp></ruby>の<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>エクレシア
+  ja: <ruby><rb>教導</rb><rt>ドラグマ</rt></ruby>の<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>エクレシア
   ja_romaji: Doraguma no Seijo Ekureshia
   ko: 드래그마의 성녀 에클레시아
   ko_rr: Deuraegeuma-ui Seongnyeo Ekeullesia
+  zh-TW:
   zh-CN: 教导的圣女 艾克莉西娅
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：ＥＸデッキから特殊召喚されたモンスターがフィールドに存在する場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「教導の聖女エクレシア」以外の「ドラグマ」カード１枚を手札に加える。この効果の発動後、ターン終了時まで自分はＥＸデッキからモンスターを特殊召喚できない。③：このカードはＥＸデッキから特殊召喚されたモンスターとの戦闘では破壊されない。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 엑스트라 덱에서 특수 소환된 몬스터가 필드에 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "드래그마의 성녀 에클레시아" 이외의 "드래그마" 카드 1장을 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ③: 이 카드는 엑스트라 덱에서 특수 소환된 몬스터와의 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：从额外卡组特殊召唤的怪兽在场上存在的场合才能发动。这张卡从手卡特殊召唤。
     ②：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把「教导的圣女 艾克莉西娅」以外的1张「教导」卡加入手卡。这个效果的发动后，直到回合结束时自己不能从额外卡组把怪兽特殊召唤。
     ③：这张卡不会被和从额外卡组特殊召唤的怪兽的战斗破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1500

@@ -7,10 +7,11 @@ name:
   fr: Armades, Gardien des Frontières
   it: Amedes, Custode dei Confini
   pt: Armades, Protetor das Fronteiras
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>層</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>の<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>アルマデス
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>層</rb><rt>そう</rt></ruby>の<ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>アルマデス
   ja_romaji: Gensō no Shugosha Arumadesu
   ko: 환층의 수호자 아르마데스
   ko_rr:
+  zh-TW:
   zh-CN: 幻层守护者 阿玛迪斯
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장 이상
     이 카드가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 마법/ 함정 효과 몬스터의 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这张卡进行战斗的场合，对方直到伤害步骤结束时魔法·陷阱·效果怪兽的效果不能发动。
-type: Monster
-typeline: Fiend / Synchro / Effect
+card_type: Monster
+monster_type_line: Fiend / Synchro / Effect
 attribute: LIGHT
 level: 5
 atk: 2300

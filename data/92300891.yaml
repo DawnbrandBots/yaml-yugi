@@ -7,10 +7,11 @@ name:
   fr: Karakuri 96 "Shinkuro" le Baril
   it: Barile Karakuri mod. 96 "Shinkuro"
   pt: Barril Karakuri mdl 96 "Shinkuro"
-  ja: カラクリ<ruby><rb>樽</rb><rp>（</rp><rt>だる</rt><rp>）</rp></ruby> <ruby><rb>真</rb><rp>（</rp><rt>シン</rt><rp>）</rp></ruby><ruby><rb>九</rb><rp>（</rp><rt>ク</rt><rp>）</rp></ruby><ruby><rb>六</rb><rp>（</rp><rt>ロー</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>樽</rb><rt>だる</rt></ruby> <ruby><rb>真</rb><rt>シン</rt></ruby><ruby><rb>九</rb><rt>ク</rt></ruby><ruby><rb>六</rb><rt>ロー</rt></ruby>
   ja_romaji: Karakuri Daru Shinkurō
   ko: 자동기계통 96 "신크로"
   ko_rr:
+  zh-TW:
   zh-CN: 机巧桶 真九六
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードは１ターンに１度だけ、戦闘では破壊されない。
   ko: |-
     이 카드는 공격이 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 공격 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 수비 표시로 한다. 이 카드는 1턴에 1번만, 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这张卡可以攻击的场合必须作出攻击。场上表侧攻击表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变成守备表示。这张卡1回合只有1次不会被战斗破坏。
-type: Monster
-typeline: Machine / Tuner
+card_type: Monster
+monster_type_line: Machine / Tuner
 attribute: EARTH
 level: 2
 atk: 400

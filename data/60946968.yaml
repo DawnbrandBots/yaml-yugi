@@ -7,10 +7,11 @@ name:
   fr: La Zone "A" - Autre Monde
   it: Altro Mondo - La Zona "A"
   pt: Outro Mundo - A Zona "A"
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>間</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－<ruby><rb>Ａ</rb><rp>（</rp><rt>エー</rt><rp>）</rp></ruby>ゾーン
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>間</rb><rt>かん</rt></ruby>－<ruby><rb>Ａ</rb><rt>エー</rt></ruby>ゾーン
   ja_romaji: Ikai Kūkan - Ē Zōn
   ko: 이계공간-A 존
   ko_rr:
+  zh-TW:
   zh-CN: 异界空间-A地带
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手モンスターが自分フィールド上に存在する「エーリアン」と名のついたモンスターと戦闘する場合、相手モンスターの攻撃力と守備力はダメージ計算時のみ３００ポイントダウンする。
   ko: |-
     상대 몬스터가 자신 필드 위에 존재하는 "에일리언" 이라는 이름이 붙은 몬스터와 전투할 경우, 상대 몬스터의 공격력과 수비력은 데미지 계산시에만 300 포인트 내린다.
+  zh-TW:
   zh-CN: |-
     对方怪兽和自己场上存在的名字带有「外星」的怪兽战斗的场合，对方怪兽的攻击力和守备力只在伤害计算时下降300。
-type: Spell
+card_type: Spell
 property: Field

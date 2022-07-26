@@ -1,16 +1,17 @@
 konami_id: 16621
 password: 77406972
 name:
-  en: Giltia the D. Knight Soul Spear
+  en: Giltia the D. Knight - Soul Spear
   de: Giltia, Drachenritter - Seelenspeer
   es: Giltia el Caballero D. - Lanza del Alma
   fr: Giltia, Chevalier des Ténèbres - Lance des Âmes
   it: Giltia il Cavaliere dei D. - Lancia dell'Anima
   pt: Giltia, o Cavaleiro D. - Lança da Alma
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ギルティア－ソウル・スピア
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ギルティア－ソウル・スピア
   ja_romaji: Madōkishi Girutia - Souru Supia
   ko: 마법 기사 길티어－소울 스피어
   ko_rr: Mabeop Gisa Giltieo - Soul Seupieo
+  zh-TW:
   zh-CN: 魔导骑士 基尔提亚-灵魂之枪
 text:
   en: |-
@@ -51,10 +52,11 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドにモンスターが存在しない場合、このカードはリリースなしで召喚できる。②：このカードが召喚に成功した時に発動できる。このカードの攻撃力以上の攻撃力を持つ相手フィールドのモンスター１体を選んで除外する。③：手札を１枚捨てて発動できる。デッキから以下のモンスターの内１体を手札に加える。●ドラゴン族・闇属性・レベル７モンスター●機械族・闇属性・レベル６モンスター●戦士族・水属性・レベル５モンスター
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다. ②: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 이 카드의 공격력 이상의 공격력을 가지는 상대 필드의 몬스터 1장을 고르고 제외한다. ③: 패를 1장 버리고 발동할 수 있다. 덱에서 이하의 몬스터 중 1장을 패에 넣는다. ●드래곤족 / 어둠 속성 / 레벨 7 몬스터 ●기계족 / 어둠 속성 / 레벨 6 몬스터 ●전사족 / 물 속성 / 레벨 5 몬스터
+  zh-TW:
   zh-CN: |-
     这个卡名的③效果1回合只能使用1次。①：自己场上没有怪兽存在的场合，这张卡可以不作解放地召唤。②：这张卡召唤成功的场合可以发动。选对手场上的1只拥有这张卡的攻击力以上的攻击力的怪兽除外。③：可以舍弃1张手牌发动。从卡组将以下的怪兽之中的1只加入手牌。●龙族·暗属性·等级7怪兽●机械族·暗属性·等级6怪兽●战士族·水属性·等级5怪兽。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 5
 atk: 1850
@@ -90,3 +92,10 @@ sets:
     set_name: Legendary Monsters Pack
     rarities:
     - Ultra Rare
+  ko:
+  - set_number: PP17-KR027
+    set_name: Premium Pack Vol.17
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Secret Rare

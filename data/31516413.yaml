@@ -7,10 +7,11 @@ name:
   fr: Dragon Hiératique de Nebthet
   it: Drago Ieratico di Nebthet
   pt: Dragão Hierático de Nebthet
-  ja: <ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>刻</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>－ネフテドラゴン
+  ja: <ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>刻</rb><rt>こく</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>－ネフテドラゴン
   ja_romaji: Seikokuryū - Nefutedoragon
   ko: 성각룡－네프테 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 圣刻龙-奈芙龙
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro "Hierático". Uma vez por turno: você pode oferecer como Tributo 1 outro monstro "Hierático" da sua mão ou do campo e, depois, escolha 1 monstro que seu oponente controla; destrua o alvo. Se este card for oferecido como Tributo: Invoque por Invocação-Especial 1 Monstro Normal Dragão da sua mão, do Deck ou do Cemitério, e torne seu ATK/DEF 0.
   ja: |-
-    このカードは自分フィールド上の「<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>刻</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>」と名のついたモンスター１体をリリースして手札から特殊召喚できる。１ターンに１度、このカード以外の自分の手札・フィールド上の「<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>刻</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>」と名のついたモンスター１体をリリースする事で、相手フィールド上のモンスター１体を選択して破壊する。また、このカードがリリースされた時、自分の手札・デッキ・墓地からドラゴン族の通常モンスター１体を選び、攻撃力・守備力を０にして特殊召喚する。
+    このカードは自分フィールド上の「<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>刻</rb><rt>こく</rt></ruby>」と名のついたモンスター１体をリリースして手札から特殊召喚できる。１ターンに１度、このカード以外の自分の手札・フィールド上の「<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>刻</rb><rt>こく</rt></ruby>」と名のついたモンスター１体をリリースする事で、相手フィールド上のモンスター１体を選択して破壊する。また、このカードがリリースされた時、自分の手札・デッキ・墓地からドラゴン族の通常モンスター１体を選び、攻撃力・守備力を０にして特殊召喚する。
   ko: |-
     이 카드는 자신 필드 위의 "성각"이라는 이름이 붙은 몬스터 1장을 릴리스하고 패에서 특수 소환할 수 있다. 1턴에 1번, 이 카드 이외의 자신의 패 / 필드 위의 "성각"이라는 이름이 붙은 몬스터 1장을 릴리스하는 것으로, 상대 필드 위의 몬스터 1장을 선택하고 파괴한다. 또한, 이 카드가 릴리스되었을 때, 자신의 패 / 덱 / 묘지에서 드래곤족 일반 몬스터 1장을 고르고, 공격력 / 수비력을 0으로 하여 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这张卡可以把自己场上1只名字带有「圣刻」的怪兽解放从手卡特殊召唤。1回合1次，可以通过把这张卡以外的自己的手卡·场上1只名字带有「圣刻」的怪兽解放，选择对方场上1只怪兽破坏。此外，这张卡被解放时，从自己的手卡·卡组·墓地选1只龙族的通常怪兽，攻击力·守备力变成0特殊召唤。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 5
 atk: 2000

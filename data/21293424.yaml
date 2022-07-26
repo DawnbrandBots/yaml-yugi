@@ -7,10 +7,11 @@ name:
   fr: Batosushi Gunkan Classe Shirauo Transporteur
   it: Gunkan Sushinave Shirauo-classe Portaerei
   pt: Naviushi Gunkan Porta-aviões Classe Shirauo
-  ja: <ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>母</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>貫</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－しらうお<ruby><rb>型</rb><rp>（</rp><rt>がた</rt><rp>）</rp></ruby><ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>務</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>艦</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>母</rb><rt>ぼ</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>貫</rb><rt>かん</rt></ruby>－しらうお<ruby><rb>型</rb><rt>がた</rt></ruby><ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>務</rb><rt>む</rt></ruby><ruby><rb>艦</rb><rt>かん</rt></ruby>
   ja_romaji: Kūbo Gunkan - Shirauo-gata Tokumukan
   ko: 공모군관－시라우오형특무함
   ko_rr: Gongmogun-gwan - Sirauobyeongteukmubam
+  zh-TW:
   zh-CN: 空母军贯-银鱼型特务舰
 text:
   en: |-
@@ -55,11 +56,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우에 발동할 수 있다. 그 엑시즈 소환의 소재로 한 몬스터에 따라 이하의 효과를 적용한다. ●"샤리 군관": 자신은 덱에서 1장 드로우한다. ●"시라우오 군관": 덱에서 "군관" 마법 / 함정 카드 1장을 패에 넣는다. ②: 필드 존에 앞면 표시로 카드가 존재하는 한, 엑스트라 덱에서 특수 소환된 자신의 "군관" 몬스터는, 상대 효과로는 파괴되지 않으며, 공격력을 그 원래 수비력만큼 올린다.
+  zh-TW:
   zh-CN: |-
     等级4怪兽×2
     这个卡名的①效果1回合只能使用1次。①：这张卡多维召唤成功的场合可以发动。根据那些作为多维召唤的素材的怪兽适用以下的效果。●「しゃりの軍貫／舍利饭军贯」：自己从卡组抽1张。●「しらうおの軍貫／银鱼军贯」：重卡组将1张「軍貫／军贯」魔法陷阱卡加入手牌。②：只要场地区有卡以表侧表示存在，从额外卡组特殊召唤的自己的「軍貫／军贯」怪兽就不会被对手的效果破坏且攻击力上升其原守备力的数值。
-type: Monster
-typeline: Aqua / Xyz / Effect
+card_type: Monster
+monster_type_line: Aqua / Xyz / Effect
 attribute: FIRE
 rank: 4
 atk: 2200

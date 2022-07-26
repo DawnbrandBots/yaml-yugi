@@ -7,10 +7,11 @@ name:
   fr: Bujingi Vargr
   it: Bujingi Warg
   pt: Bujingi Warg
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>－チカヘシ
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby><ruby><rb>器</rb><rt>ぎ</rt></ruby>－チカヘシ
   ja_romaji: Bujingi - Chikaheshi
   ko: 무사신기-치카헤시
   ko_rr:
+  zh-TW:
   zh-CN: 武神器-道返
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに守備表示で存在する限り、このカード以外の自分フィールドの「武神」モンスターは効果では破壊されない。
   ko: |-
     ① : 이 카드가 몬스터 존에 수비 표시로 존재하는 한, 이 카드 이외의 자신 필드의 "무사신" 몬스터는 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域守备表示存在，这张卡以外的自己场上的「武神」怪兽不会被效果破坏。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: LIGHT
 level: 4
 atk: 1200

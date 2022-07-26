@@ -7,11 +7,12 @@ name:
   fr: Avidité Téméraire
   it: Cupidigia Insaziabile
   pt: Ganância Descuidada
-  ja: <ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>謀</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>な<ruby><rb>欲</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby><ruby><rb>張</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby>り
+  ja: <ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>謀</rb><rt>ぼう</rt></ruby>な<ruby><rb>欲</rb><rt>よく</rt></ruby><ruby><rb>張</rb><rt>ば</rt></ruby>り
   ja_romaji: Mubō na Yokubari
   ko: 무모한 욕심쟁이
   ko_rr:
-  zh-CN: 无谋的贪心
+  zh-TW:
+  zh-CN: 无谋的贪欲
 text:
   en: |-
     Draw 2 cards and skip your next 2 Draw Phases.
@@ -29,7 +30,8 @@ text:
     ①：自分はデッキから２枚ドローし、その後の自分ドローフェイズは２回スキップされる。
   ko: |-
     ① : 자신은 덱에서 2장 드로우하고, 그 후의 자신 드로우 페이즈는 2회 스킵된다.
+  zh-TW:
   zh-CN: |-
-    ①：自己从卡组抽2张，那之后的自己抽卡阶段跳过2次。
-type: Trap
+    ①：自己从牌组抽2张，然后跳过自己的2次抽牌阶段。
+card_type: Trap
 property: Normal

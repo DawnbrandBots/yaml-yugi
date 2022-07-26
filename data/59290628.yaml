@@ -11,6 +11,7 @@ name:
   ja_romaji: Naitomea Hōsu
   ko: 나이트메어 호스
   ko_rr:
+  zh-TW:
   zh-CN: 梦魇马
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは相手フィールド上にモンスターが存在しても、相手プレイヤーに直接攻撃をする事ができる。
   ko: |-
     이 카드는 상대 필드 위에 몬스터가 존재해도, 상대 플레이어에게 직접 공격을 할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡即使对方场上有怪兽存在，也可以直接攻击对方玩家。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 2
 atk: 500

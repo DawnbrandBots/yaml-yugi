@@ -7,11 +7,12 @@ name:
   fr: Récif Grande Bulle Marincesse
   it: Marincipessa Scogliera Grande Bolla
   pt: Marincesa Grande Recife de Bolhas
-  ja: <ruby><rb>海晶乙女</rb><rp>（</rp><rt>マリンセス</rt><rp>）</rp></ruby>グレート・バブル・リーフ
+  ja: <ruby><rb>海晶乙女</rb><rt>マリンセス</rt></ruby>グレート・バブル・リーフ
   ja_romaji: Marinsesu Gurēto Baburu Rīfu
   ko: 마린세스 그레이트 버블 리프
   ko_rr: Marinseseu Geureiteu Beobeul Ripeu
-  zh-CN: 海晶少女 大泡堡礁
+  zh-TW:
+  zh-CN: 海晶少女 魔泡大堡礁
 text:
   en: |-
     2+ WATER monsters
@@ -37,20 +38,18 @@ text:
   ko: |-
     물 속성 몬스터 2장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 서로의 스탠바이 페이즈에, 자신 묘지 및 자신 필드의 앞면 표시 몬스터 중에서, 물 속성 몬스터 1장을 제외하고 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 몬스터가 제외될 때마다 발동한다. 이 카드의 공격력은 턴 종료시까지 그 제외된 몬스터의 수 × 600 올린다. ③: 패에서 물 속성 몬스터 1장을 묘지로 보내고 발동할 수 있다. 제외되어 있는 자신의 "마린세스" 몬스터 1장을 고르고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     水属性怪兽2只以上
-    这个卡名的③的效果1回合只能使用1次。
-    ①：双方的准备阶段，从自己墓地以及自己场上的表侧表示怪兽之中把1只水属性怪兽除外才能发动。自己从卡组抽1张。
-    ②：每次怪兽被除外发动。这张卡的攻击力直到回合结束时上升那些除外的怪兽数量×600。
-    ③：从手卡把1只水属性怪兽送去墓地才能发动。选除外的1只自己的「海晶少女」怪兽特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    此卡名的③效果1回合仅可使用1次。①：在双方的准备阶段，从自己的墓地及自己场上的表侧表示怪兽中将1只水属性怪兽除外可以发动。自己从牌组抽1张。②：每次怪兽被除外都会发动。此卡的攻击力直至回合结束时为止，上升相当于该被除外怪兽数量×600的数值。③：从手牌将1只水属性怪兽送至墓地可以发动。挑选自己1只被除外的"海晶少女"怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: WATER
 link_arrows:
-- Middle-Left
-- Bottom-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ↙
+- ⬇
+- ➡
 atk: 2600
 materials: 2+ WATER monsters
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Magicien Acrobatique
   it: Mago Acrobatico
   pt: Mago Acrobata
-  ja: <ruby><rb>曲</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>芸</rb><rp>（</rp><rt>げい</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>曲</rb><rt>きょく</rt></ruby><ruby><rb>芸</rb><rt>げい</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Kyokugei no Majutsushi
   ko: 곡예의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 曲芸之魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：魔法・罠カードの発動が無効になった場合に発動できる。このカードを手札から特殊召喚する。②：このカードが戦闘で破壊された時に発動できる。このカードを自分のＰゾーンに置く。
   ko: |-
     ①: 마법 / 함정 카드의 발동이 무효가 되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 전투로 파괴되었을 때에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
+  zh-TW:
   zh-CN: |-
     ①：魔法·陷阱卡的发动无效的场合才能发动。这张卡从手卡特殊召唤。②：这张卡被战斗破坏时才能发动。这张卡在自己的灵摆区域放置。
-type: Monster
-typeline: Spellcaster / Pendulum / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Pendulum / Effect
 attribute: DARK
 level: 5
 atk: 800
@@ -55,6 +57,7 @@ pendulum_effect:
     「曲芸の魔術師」のＰ効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターが効果で破壊された時に発動できる。Ｐゾーンのこのカードを特殊召喚する。
   ko: |-
     "곡예의 마술사"의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 몬스터가 효과로 파괴되었을 때에 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「曲芸之魔术师」的灵摆效果1回合只能使用1次。①：自己场上的怪兽被效果破坏时才能发动。灵摆区域的这张卡特殊召唤。
 sets:

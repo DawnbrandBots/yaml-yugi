@@ -7,11 +7,12 @@ name:
   fr: Gaïa le Chevalier Implacable
   it: Gaia il Cavaliere
   pt: Gaia, o Cavaleiro Impetuoso
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ガイア
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ガイア
   ja_romaji: Ankokukishi Gaia
   ko: 암흑 기사 가이아
   ko_rr: Amheuk Gisa Gaia
-  zh-CN: 暗黑骑士 盖亚
+  zh-TW:
+  zh-CN: 暗黑骑士盖亚
 text:
   en: |-
     A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.
@@ -29,10 +30,11 @@ text:
     風よりも速く走る馬に乗った騎士。突進攻撃に注意。
   ko: |-
     바람보다도 빠른 말을 탄 기사. 돌진 공격에 주의.
+  zh-TW:
   zh-CN: |-
-    骑着风驰电掣般的马的骑士。当心突进攻击。
-type: Monster
-typeline: Warrior / Normal
+    比风速度更快的驭马骑士。注意其猛冲攻击。
+card_type: Monster
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 7
 atk: 2300

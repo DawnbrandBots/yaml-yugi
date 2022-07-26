@@ -7,10 +7,11 @@ name:
   fr: Ordre de Destruction
   it: Ordine di Schianto
   pt: Ordem para Esmagar
-  ja: <ruby><rb>玉</rb><rp>（</rp><rt>ぎょく</rt><rp>）</rp></ruby><ruby><rb>砕</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>指</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>玉</rb><rt>ぎょく</rt></ruby><ruby><rb>砕</rb><rt>さい</rt></ruby><ruby><rb>指</rb><rt>し</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby>
   ja_romaji: Gyokusai Shirei
   ko: 옥쇄지령
   ko_rr:
+  zh-TW:
   zh-CN: 玉碎指令
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上に存在するレベル２以下の通常モンスター（トークンを除く）を１体選択して発動する。発動後、選択した通常モンスターを生け贄に捧げ、相手フィールド上の魔法・罠カードを２枚まで破壊する事ができる。
   ko: |-
     자신 필드 위에 존재하는 레벨2이하의 일반 몬스터(토큰 이외)1장을 선택하고 발동한다.발동 후 선택한 일반 몬스터를 제물로 바쳐 상대 필드위의 마법/함정 카드를 2장까지 파괴할수 있다.
+  zh-TW:
   zh-CN: |-
     选择自己场上存在的1只2星以下的通常怪兽（除衍生物外）发动。发动后，把选择的通常怪兽作为祭品，对方场上最多2张魔法·陷阱卡破坏。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Horloge Pyro de la Destinée
   it: Orologio Fiamma del Destino
   pt: Relógio de Fogo do Destino
-  ja: <ruby><rb>運</rb><rp>（</rp><rt>うん</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>の<ruby><rb>火</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>時</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>計</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>運</rb><rt>うん</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby>の<ruby><rb>火</rb><rt>ひ</rt></ruby><ruby><rb>時</rb><rt>ど</rt></ruby><ruby><rb>計</rb><rt>けい</rt></ruby>
   ja_romaji: Unmei no Hidokei
   ko: 운명의 불시계
   ko_rr:
+  zh-TW:
   zh-CN: 命运之火钟
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     カード１枚のターンカウントを１ターン進める。
   ko: |-
     카드 1장의 턴 카운트를 1턴 진행한다.
+  zh-TW:
   zh-CN: |-
     1张卡的回合计数前进1回合。
-type: Trap
+card_type: Trap
 property: Normal

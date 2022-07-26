@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>陸</rb><rp>（</rp><rt>りく</rt><rp>）</rp></ruby>の<ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>陸</rb><rt>りく</rt></ruby>の<ruby><rb>帝</rb><rt>てい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
   ja_romaji: Suiriku no Teiō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 水陆的帝王
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     大きな口から四方八方に炎をはく、爬虫類のばけもの。
   ko:
+  zh-TW:
   zh-CN: |-
     可以用大嘴向四方喷火的爬虫怪。
-type: Monster
-typeline: Reptile
+card_type: Monster
+monster_type_line: Reptile
 attribute: WATER
 level: 5
 atk: 1800

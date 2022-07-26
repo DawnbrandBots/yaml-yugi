@@ -7,10 +7,11 @@ name:
   fr: Mekanikle, Astre Meklord
   it: Astro Meklord Mekanikle
   pt: Senhormek Astro Mekanikle
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>マシニクル<ruby><rb>∞</rb><rp>（</rp><rt>インフィニティ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>皇</rb><rt>こう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>マシニクル<ruby><rb>∞</rb><rt>インフィニティ</rt></ruby>
   ja_romaji: Kikōshin Mashinikuru Infiniti
   ko: 기황신 마시니클∞
   ko_rr: Gihwangsin Masinikeul Inpiniti
+  zh-TW:
   zh-CN: 机皇神 机录∞
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。手札から「機皇」モンスター３体を墓地へ送った場合のみ特殊召喚できる。①：１ターンに１度、相手フィールドのＳモンスター１体を対象として発動できる。その相手Ｓモンスターをこのカードに装備する。②：この攻撃力は自身の効果で装備したモンスターの攻撃力分アップする。③：自分スタンバイフェイズに、自身の効果で装備している自分のモンスター１体を墓地へ送って発動できる。そのモンスターの攻撃力分のダメージを相手に与える。この効果を発動するターン、自分はバトルフェイズを行えない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 패에서 "기황" 몬스터 3장을 묘지로 보냈을 경우에만 특수 소환할 수 있다. ①: 1턴에 1번, 상대 필드의 싱크로 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 싱크로 몬스터를 이 카드에 장착한다. ②: 이 공격력은 자신의 효과로 장착한 몬스터의 공격력만큼 올린다. ③: 자신 스탠바이 페이즈에, 자신의 효과로 장착하고 있는 자신 몬스터 1장을 묘지로 보내고 발동할 수 있다. 그 몬스터의 공격력만큼의 데미지를 상대에게 준다. 이 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。从手卡把3只名字带有「机皇」的怪兽送去墓地的场合才能特殊召唤。1回合1次，可以把对方1只同调怪兽当作装备卡使用给这张卡装备。这张卡的攻击力上升这个效果装备的怪兽的攻击力数值。此外，自己的准备阶段时只有1次，可以通过把这张卡的效果装备的1只怪兽送去墓地，给与对方基本分那只怪兽的攻击力数值的伤害。这个效果发动的回合，自己不能进行战斗阶段。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 12
 atk: 4000

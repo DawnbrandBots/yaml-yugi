@@ -7,10 +7,11 @@ name:
   fr: Bouton d'Autodestruction
   it: Pulsante di Auto-Distruzione
   pt: Botão de Auto-Destruição
-  ja: <ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby>スイッチ
+  ja: <ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>爆</rb><rt>ばく</rt></ruby>スイッチ
   ja_romaji: Jibaku Suicchi
   ko: 자폭 스위치
   ko_rr:
+  zh-TW:
   zh-CN: 自爆开关
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     自分のライフポイントが相手より７０００ポイント以上少ない時に発動する事ができる。お互いのライフポイントは０になる。
   ko: |-
     자신의 라이프 포인트가 상대보다 7000 이상 적을 때에 발동할 수가 있다. 서로의 라이프 포인트는 0이 된다.
+  zh-TW:
   zh-CN: |-
     自己基本分比对方少7000以上时才能发动。双方基本分变成0。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Le Ver Malfaisant
   it: Verme Bestiale
   pt: Besta de Vermes Maléfica
-  ja: <ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby>なるワーム・ビースト
+  ja: <ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby>なるワーム・ビースト
   ja_romaji: Ja'akunaru Wāmu Bīsuto
   ko: 사악한 웜 괴물
   ko_rr: Sa-anhan Wom Goemul
+  zh-TW:
   zh-CN: 邪恶蠕虫兽
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分エンドフェイズに発動する。フィールドの表側表示のこのカードを持ち主の手札に戻す。
   ko: |-
     자신 턴의 엔드 페이즈에서 필드 위에 앞면 표시로 존재하는 이 카드는 주인의 패로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     自己回合的结束阶段时，表侧表示在场上存在的这张卡回到持有者手卡。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 3
 atk: 1400

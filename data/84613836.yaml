@@ -7,10 +7,11 @@ name:
   fr: Armure de Rapidité Divine
   it: Armatura
   pt: Armadura Golpeveloz
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>速</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby>の<ruby><rb>具</rb><rp>（</rp><rt>ぐ</rt><rp>）</rp></ruby><ruby><rb>足</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>速</rb><rt>そく</rt></ruby>の<ruby><rb>具</rb><rt>ぐ</rt></ruby><ruby><rb>足</rb><rt>そく</rt></ruby>
   ja_romaji: Shinsoku no Gusoku
   ko: 신속한도구
   ko_rr:
+  zh-TW:
   zh-CN: 神速之具足
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分のドローフェイズにドローしたカードが「六武衆」と名のついたモンスターカードだった場合、そのカードを相手に見せる事で自分フィールド上に特殊召喚する事ができる。
   ko: |-
     자신의 드로우 페이즈에 드로우한 카드가 "여섯무사" 라는 이름이 붙은 몬스터 카드였을 경우, 그 카드를 상대에게 보여주는 것으로 자신 필드 위에 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己的抽卡阶段抽到的卡是名字带有「六武众」的怪兽卡的场合，可以通过把那张卡给对方观看在自己场上特殊召唤。
-type: Trap
+card_type: Trap
 property: Continuous

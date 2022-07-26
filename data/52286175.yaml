@@ -7,10 +7,11 @@ name:
   fr: Réacteur de Piège ・DU
   it: Respingi Trappola ・DAL
   pt: Reator Armadilha Y FI
-  ja: トラップ・リアクター・<ruby><rb>ＲＲ</rb><rp>（</rp><rt>ダブルアール</rt><rp>）</rp></ruby>
+  ja: トラップ・リアクター・<ruby><rb>ＲＲ</rb><rt>ダブルアール</rt></ruby>
   ja_romaji: Torappu Riakutā Daburu Āru
   ko: 트랩 리액터 RR
   ko_rr:
+  zh-TW:
   zh-CN: 陷阱反应机·空式
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、相手が罠カードを発動した時に発動できる。その罠カードを破壊し、相手ライフに８００ポイントダメージを与える。
   ko: |-
     상대가 함정 카드를 발동했을 때 발동할 수 있다. 그 함정 카드를 파괴하고, 상대 라이프에 800 포인트 데미지를 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     1回合1次，对方把陷阱卡发动时才能发动。那张陷阱卡破坏，给与对方基本分800分伤害。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 800

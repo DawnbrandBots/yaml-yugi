@@ -7,10 +7,11 @@ name:
   fr: Sceau du Propriétaire
   it: Sigillo del Padrone
   pt: Selo do Dono
-  ja: <ruby><rb>所</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby><rb>有</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby><rb>刻</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>印</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>所</rb><rt>しょ</rt></ruby><ruby><rb>有</rb><rt>ゆう</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>の<ruby><rb>刻</rb><rt>こく</rt></ruby><ruby><rb>印</rb><rt>いん</rt></ruby>
   ja_romaji: Shoyūsha no Kokuin
   ko: 소유자의 각인
   ko_rr: Soyuja-ui Gak-in
+  zh-TW:
   zh-CN: 所有者的刻印
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：フィールドの全てのモンスターのコントロールは元々の持ち主に戻る。
   ko: |-
     ①: 필드의 모든 몬스터의 컨트롤은 원래의 주인에게 되돌아간다.
+  zh-TW:
   zh-CN: |-
-    ①：场上的全部怪兽的控制权回归原本持有者。
-type: Spell
+    ①：将场上全部怪兽的控制权还给原本的持有者。
+card_type: Spell
 property: Normal

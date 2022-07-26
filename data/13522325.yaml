@@ -7,11 +7,12 @@ name:
   fr: L'Esprit des Flammes
   it: Spirito delle Fiamme
   pt: Espírito das Chamas
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
     イフリート
   ja_romaji: Honō no Seirei Ifurīto
   ko: 화염의 정령 이프리트
   ko_rr:
+  zh-TW: 炎之精靈 伊夫利特
   zh-CN: 炎之精灵 伊夫里特
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは通常召喚できない。自分の墓地から炎属性モンスター１体を除外した場合に特殊召喚できる。①：このカードの攻撃力は自分バトルフェイズの間３００アップする。
   ko: |-
     이 카드는 패에서 일반 소환 / 세트할 수 없다. 자신의 묘지의 화염 속성 몬스터 1장을 게임에서 제외하고 특수 소환한다. 자신의 배틀 페이즈 중에만, 이 몬스터의 공격력은 300 포인트 올린다.
+  zh-TW: 此卡不可通常召唤。可于将我方墓地的1只炎属性怪兽从游戏中除外的场合特殊召唤。此卡的攻击力仅限于我方战斗阶段中上升300点。
   zh-CN: |-
     这张卡不能通常召唤。从自己墓地把1只炎属性怪兽除外的场合可以特殊召唤。①：这张卡的攻击力在自己战斗阶段内上升300。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1700

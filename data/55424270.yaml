@@ -7,10 +7,11 @@ name:
   fr: Cerbère, Bête Mythique
   it: Cerbero Mitica Bestia
   pt: Besta Mítica Cérbero
-  ja: <ruby><rb>魔導獣</rb><rp>（</rp><rt>マジックビースト</rt><rp>）</rp></ruby> ケルベロス
+  ja: <ruby><rb>魔導獣</rb><rt>マジックビースト</rt></ruby> ケルベロス
   ja_romaji: Majikku Bīsuto Keruberosu
   ko: 매직비스트 케로베로스
   ko_rr: Maejikbiseuteu Keroberuseu
+  zh-TW:
   zh-CN: 魔导兽 刻耳柏洛斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードが戦闘を行ったバトルフェイズ終了時にこのカードの魔力カウンターは全て取り除かれる。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 500 올린다. ③: 이 카드가 전투를 실행한 배틀 페이즈 종료시에 이 카드의 마력 카운터는 전부 제거된다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，每次自己或者对方把魔法卡发动，给这张卡放置1个魔力指示物。②：这张卡的攻击力上升这张卡的魔力指示物数量×500。③：这张卡进行战斗的战斗阶段结束时这张卡的魔力指示物全部取除。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1400

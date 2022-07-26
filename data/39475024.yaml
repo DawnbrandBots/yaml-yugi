@@ -7,10 +7,11 @@ name:
   fr: Gashadokuro, Mayakashi du Squelette
   it: Gashadokuro, il Mayakashi Scheletrico
   pt: Gashadokuro, o Mayakashi Esqueleto
-  ja: <ruby><rb>骸</rb><rp>（</rp><rt>むくろ</rt><rp>）</rp></ruby>の<ruby><rb>魔妖</rb><rp>（</rp><rt>まやかし</rt><rp>）</rp></ruby>－<ruby><rb>餓</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby><rb>髑</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby><rb>髏</rb><rp>（</rp><rt>ろ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>骸</rb><rt>むくろ</rt></ruby>の<ruby><rb>魔妖</rb><rt>まやかし</rt></ruby>－<ruby><rb>餓</rb><rt>が</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby><ruby><rb>髑</rb><rt>どく</rt></ruby><ruby><rb>髏</rb><rt>ろ</rt></ruby>
   ja_romaji: Mukuro no Mayakashi - Gashadokuro
   ko: 백골의 마요괴－아자촉루
   ko_rr: Baekgol-ui Mayogoe - Ajachongnu
+  zh-TW:
   zh-CN: 骸之魔妖-饿者髑髅
 text:
   en: |-
@@ -48,14 +49,15 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: "백골의 마요괴－아자촉루"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 이 카드가 묘지에 존재하고, 자신의 링크 몬스터가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 자신 묘지에서 다른 언데드족 몬스터 1장을 제외하고, 이 카드를 특수 소환한다. ③: 이 카드가 묘지에서의 특수 소환에 성공했을 경우에 발동할 수 있다. 이 턴에, 앞면 표시의 이 카드는 다른 카드의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这个卡名的②③的效果1回合各能使用1次。
     ①：「骸之魔妖-饿者髑髅」在自己场上只能有1只表侧表示存在。
     ②：这张卡在墓地存在，自己的连接怪兽被战斗或者对方的效果破坏的场合才能发动。从自己墓地把1只其他的不死族怪兽除外，这张卡特殊召唤。
     ③：这张卡从墓地的特殊召唤成功的场合才能发动。这个回合，表侧表示的这张卡不受其他卡的效果影响。
-type: Monster
-typeline: Zombie / Synchro / Effect
+card_type: Monster
+monster_type_line: Zombie / Synchro / Effect
 attribute: DARK
 level: 11
 atk: 3300

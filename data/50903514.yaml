@@ -7,10 +7,11 @@ name:
   fr: Spadassin de la Flamme Bleue
   it: Spadaccino di Fuoco Blu
   pt: Espadachim da Chama Azul
-  ja: <ruby><rb>蒼</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>蒼</rb><rt>そう</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Sōen no Kenshi
   ko: 푸른 화염의 검사
   ko_rr: Pureun Hwayeom-ui Geomsa
+  zh-TW:
   zh-CN: 苍炎之剑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、自分・相手のバトルフェイズに、このカード以外の自分フィールドの戦士族モンスター１体を対象として発動できる。このカードの攻撃力を６００ダウンし、対象のモンスターの攻撃力を６００アップする。②：フィールドのこのカードが相手によって破壊され墓地へ送られた時、墓地のこのカードを除外し、自分の墓地の戦士族・炎属性モンスター１体を対象として発動できる。その戦士族・炎属性モンスターを特殊召喚する。
   ko: |-
     ①: 1턴에 1번, 자신 / 상대의 배틀 페이즈에, 이 카드 이외의 자신 필드의 전사족 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드의 공격력을 600 내리고, 대상 몬스터의 공격력을 600 올린다. ②: 필드의 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 때, 묘지의 이 카드를 제외하고, 자신 묘지의 전사족 / 화염 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 전사족 / 화염 속성 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己或者对方的战斗阶段以这张卡以外的自己场上1只战士族怪兽为对象才能发动。这张卡的攻击力下降600，作为对象的怪兽的攻击力上升600。②：场上的这张卡被对方破坏送去墓地时，把墓地的这张卡除外，以自己墓地1只战士族·炎属性怪兽为对象才能发动。那只战士族·炎属性怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: FIRE
 level: 4
 atk: 1800

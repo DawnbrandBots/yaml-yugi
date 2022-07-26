@@ -7,11 +7,12 @@ name:
   fr: Magicien Trapèze Mageartiste
   it: Artistamagus Mago del Trapezio
   pt: Camaramágico Mago Trapezista
-  ja: <ruby><rb>Ｅｍ</rb><rp>（</rp><rt>エンタメイジ</rt><rp>）</rp></ruby>トラピーズ・マジシャン
+  ja: <ruby><rb>Ｅｍ</rb><rt>エンタメイジ</rt></ruby>トラピーズ・マジシャン
   ja_romaji: Entameiji Torapīzu Majishan
-  ko: <ruby><rb>Em</rb><rp>（</rp><rt>엔터메이지</rt><rp>）</rp></ruby> 트래피즈 매지션
+  ko: <ruby><rb>Em</rb><rt>엔터메이지</rt></ruby> 트래피즈 매지션
   ko_rr:
-  zh-CN: 娱乐法师 秋千魔术家
+  zh-TW:
+  zh-CN: 娱乐巫师 高空秋千魔术师
 text:
   en: |-
     2 Level 4 Spellcaster-Type monsters
@@ -33,15 +34,16 @@ text:
     Você nunca sofre dano se o valor do dano for menor ou igual que o ATK deste card. Uma vez por turno, durante a Fase Principal 1 de qualquer duelista: você pode desassociar 1 Matéria Xyz deste card e, depois, escolher 1 monstro com a face para cima em Posição de Ataque controlado pelo duelista do turno (que não seja este card); ele pode realizar um segundo ataque durante cada Fase de Batalha neste turno e, além disso, destrua-o no final da Fase de Batalha. Se este card for destruído em batalha e enviado para o Cemitério, ou se este card em sua posse for destruído por um efeito de card do oponente e enviado para o seu Cemitério: você pode Invocar por Invocação-Especial 1 monstro "Camaramágico" do Deck.
   ja: |-
     魔法使い族レベル４モンスター×２
-    ①：このカードがモンスターゾーンに存在する限り、自分はこのカードの攻撃力以下の戦闘・効果ダメージを受けない。②：自分・相手のメインフェイズ１に１度、このカードの<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>素材を１つ取り除き、このカード以外のフィールドの表側攻撃表示モンスター１体を対象として発動できる。このターンそのモンスターは２回攻撃でき、バトルフェイズ終了時に破壊される。③：このカードが戦闘または相手の効果で破壊され墓地へ送られた場合に発動できる。デッキから「Ｅｍ」モンスター１体を特殊召喚する。
+    ①：このカードがモンスターゾーンに存在する限り、自分はこのカードの攻撃力以下の戦闘・効果ダメージを受けない。②：自分・相手のメインフェイズ１に１度、このカードの<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>素材を１つ取り除き、このカード以外のフィールドの表側攻撃表示モンスター１体を対象として発動できる。このターンそのモンスターは２回攻撃でき、バトルフェイズ終了時に破壊される。③：このカードが戦闘または相手の効果で破壊され墓地へ送られた場合に発動できる。デッキから「Ｅｍ」モンスター１体を特殊召喚する。
   ko: |-
     마법사족 레벨 4 몬스터 × 2
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 이 카드의 공격력 이하의 전투 / 효과 데미지를 받지 않는다. ②: 자신 / 상대의 메인 페이즈 1에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드 이외의 필드의 앞면 공격 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 턴 그 몬스터는 2번 공격할 수 있고, 배틀 페이즈 종료시에 파괴된다. ②: 이 카드가 전투 또는 상대의 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "Em" 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    魔法师族4星怪兽×2
-    ①：只要这张卡在怪兽区域存在，自己不会受到这张卡的攻击力以下的战斗·效果伤害。②：自己·对方的主要阶段1有1次，把这张卡1个XYZ素材取除，以这张卡以外的场上1只表侧攻击表示怪兽为对象才能发动。这个回合那只怪兽可以作2次攻击，战斗阶段结束时破坏。③：这张卡被战斗或者对方的效果破坏送去墓地的场合才能发动。从卡组把1只「娱乐法师」怪兽特殊召唤。
-type: Monster
-typeline: Spellcaster / Xyz / Effect
+    魔法师族等级4怪兽×2
+    ①：只要此卡存在于怪兽区域，自己不会受到此卡攻击力以下的战斗・效果伤害。②：每个自己・对手的主要阶段1，去除此卡的1个超量素材，以此卡以外的场上的1只表侧攻击表示的怪兽为对象可以发动1次。此回合该怪兽可攻击2次，将在战斗阶段结束时被破坏。③：此卡因战斗或对手的效果被破坏并被送至墓地的情况下可以发动。从牌组将1只"娱乐巫师"怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Spellcaster / Xyz / Effect
 attribute: LIGHT
 rank: 4
 atk: 2500

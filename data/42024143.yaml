@@ -7,11 +7,11 @@ name:
   fr: Briseur de Garde, Sabre XX
   it: Avanguardia Assaltatrice Sciabola-XX
   pt:
-  ja: <ruby><rb>ＸＸ</rb><rp>（</rp><rt>ダブルエックス</rt><rp>）</rp></ruby>－セイバー ガルドストライク
+  ja: <ruby><rb>ＸＸ</rb><rt>ダブルエックス</rt></ruby>－セイバー ガルドストライク
   ja_romaji: Daburuekkusu-Seibā Garudosutoraiku
-  ko: <ruby><rb>X</rb><rp>（</rp><rt>더블</rt><rp>）</rp></ruby><ruby><rb>X</rb><rp>（</rp><rt>엑스</rt><rp>）</rp></ruby>-세이버
-    가르드스트라이크
+  ko: <ruby><rb>X</rb><rt>더블</rt></ruby><ruby><rb>X</rb><rt>엑스</rt></ruby>-세이버 가르드스트라이크
   ko_rr:
+  zh-TW:
   zh-CN: XX-剑士 加德斯特莱克
 text:
   en: |-
@@ -29,10 +29,11 @@ text:
     自分の墓地に「Ｘ－セイバー」と名のついたモンスターが２体以上存在し、自分フィールド上にモンスターが存在しない場合、このカードは手札から特殊召喚する事ができる。
   ko: |-
     자신의 묘지에 "X－세이버" 라는 이름이 붙은 몬스터가 2장 이상 존재하고, 자신 필드 위에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己墓地有名字带有「X-剑士」的怪兽2只以上存在，自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: EARTH
 level: 5
 atk: 2100

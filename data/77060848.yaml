@@ -7,10 +7,11 @@ name:
   fr: Svartálfur, Alfe Nordique
   it: Svartalf degli Alfar Nordic
   pt: Svartalf do Alfar Nórdico
-  ja: <ruby><rb>極</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>デックアールヴ
+  ja: <ruby><rb>極</rb><rt>きょく</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>デックアールヴ
   ja_romaji: Kyokuseirei Dekkuāruvu
   ko: 극성령 덱아르브
   ko_rr:
+  zh-TW:
   zh-CN: 极星灵 暗精灵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、自分の墓地に存在する「極星」と名のついたモンスター１体を選択して手札に加える事ができる。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 자신의 묘지에 존재하는 "극성" 이라는 이름이 붙은 몬스터 1장을 선택하고 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，可以选择自己墓地存在的1只名字带有「极星」的怪兽加入手卡。
-type: Monster
-typeline: Spellcaster / Tuner / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Tuner / Effect
 attribute: DARK
 level: 5
 atk: 1400

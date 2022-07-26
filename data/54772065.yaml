@@ -7,10 +7,11 @@ name:
   fr: Guêpe de Bataille - ArcDouble l'Attaquant
   it: Vespabattaglia - Arcodoppio l'Attaccante
   pt: Vespabatalha - Arcoduplo, o Atacante
-  ja: <ruby><rb>Ｂ・Ｆ</rb><rp>（</rp><rt>ビー・フォース</rt><rp>）</rp></ruby>－<ruby><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>のツインボウ
+  ja: <ruby><rb>Ｂ・Ｆ</rb><rt>ビー・フォース</rt></ruby>－<ruby><rb>連</rb><rt>れん</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>のツインボウ
   ja_romaji: Bī Fōsu - Rengeki no Tsuinbō
-  ko: <ruby><rb>B・F</rb><rp>（</rp><rt>비 포스</rt><rp>）</rp></ruby>－연격의 트윈보우
+  ko: <ruby><rb>B・F</rb><rt>비 포스</rt></ruby>－연격의 트윈보우
   ko_rr: Bi Poseu - Yeon-gyeok-ui Teuwinbou
+  zh-TW:
   zh-CN: 蜂军-连击之双弩蜂
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は昆虫族モンスターしかＥＸデッキから特殊召喚できない。②：このカードは１度のバトルフェイズ中に２回攻撃できる。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 곤충족 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. ②: 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①的效果1回合只能使用1次。
     ①：自己主要阶段才能发动。这张卡从手卡特殊召唤。这个效果的发动后，直到回合结束时自己不是昆虫族怪兽不能从额外卡组特殊召唤。
     ②：这张卡在同1次的战斗阶段中可以作2次攻击。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: WIND
 level: 3
 atk: 1000

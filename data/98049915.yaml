@@ -7,10 +7,11 @@ name:
   fr: Lampe Mystique
   it: Lampada Mistica
   pt: Lâmpada Mística
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>のランプ
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>のランプ
   ja_romaji: Mahō no Ranpu
   ko: 마법의 램프
   ko_rr:
+  zh-TW: 魔法神燈
   zh-CN: 魔法灯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは相手プレイヤーを直接攻撃する事ができる。
   ko: |-
     이 카드는 상대를 직접 공격할 수 있다.
+  zh-TW: 此卡可以直接向对手玩家进行攻击。
   zh-CN: |-
     这张卡可以直接攻击对方玩家。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 1
 atk: 400

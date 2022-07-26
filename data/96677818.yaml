@@ -7,10 +7,11 @@ name:
   fr: Rangement Livre de Magie
   it: Organizzazione del Libro di Magia
   pt: Classificar Livro de Magia
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby><rb>整</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>理</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>整</rb><rt>せい</rt></ruby><ruby><rb>理</rb><rt>り</rt></ruby>
   ja_romaji: Madōsho Seiri
   ko: 마도서 정리
   ko_rr:
+  zh-TW:
   zh-CN: 魔导书整理
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分のデッキの上から３枚カードをめくり好きな順番でデッキの上に戾す。相手はそのカードを確認できない。
   ko: |-
     자신의 덱의 위에서 카드를 3장 넘겨 좋아하는 순서대로 덱의 위로 되돌린다. 상대는 그 카드를 확인할 수 없다.
+  zh-TW:
   zh-CN: |-
     从自己卡组上面把3张卡翻开用喜欢的顺序回到卡组上面。对方不能把那些卡确认。
-type: Spell
+card_type: Spell
 property: Quick-Play

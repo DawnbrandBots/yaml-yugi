@@ -7,10 +7,11 @@ name:
   fr: Zanki
   it: Zanki
   pt:
-  ja: <ruby><rb>鎧</rb><rp>（</rp><rt>よろい</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby><rb>斬</rb><rp>（</rp><rt>ザン</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>キ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>鎧</rb><rt>よろい</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby><ruby><rb>斬</rb><rt>ザン</rt></ruby><ruby><rb>鬼</rb><rt>キ</rt></ruby>
   ja_romaji: Yoroi Musha Zanki
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 铠武者 斩鬼
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
   ja: |-
     一騎打ちを好む。一瞬のスキをついて、居合い抜きで攻撃！
   ko:
+  zh-TW:
   zh-CN: |-
     喜好单挑，能抓住一瞬间的机会发动反击。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 5
 atk: 1500

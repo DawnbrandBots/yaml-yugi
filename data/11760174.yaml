@@ -7,10 +7,11 @@ name:
   fr: Samouraï Sasuke N°2
   it: 'Samurai Sasuke #2'
   pt: Samurai Sasuke nº 2
-  ja: <ruby><rb>言</rb><rp>（</rp><rt>ごん</rt><rp>）</rp></ruby><ruby><rb>語</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>侍</rb><rp>（</rp><rt>ざむらい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>言</rb><rt>ごん</rt></ruby><ruby><rb>語</rb><rt>ご</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby><ruby><rb>侍</rb><rt>ざむらい</rt></ruby>
   ja_romaji: Gongodōdan Zamurai
   ko: 언어도단 사무라이
   ko_rr:
+  zh-TW:
   zh-CN: 言语道断侍
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ８００ライフポイントを払う。エンドフェイズまで、全ての魔法・罠カードは発動する事ができない。
   ko: |-
     800 라이프 포인트를 지불한다. 엔드 페이즈까지, 모든 마법/함정 카드는 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     支付800基本分。直到结束阶段，全部魔法·陷阱卡不能发动。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WIND
 level: 1
 atk: 200

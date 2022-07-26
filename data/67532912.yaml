@@ -7,10 +7,11 @@ name:
   fr: Guerrier de la Science
   it: Soldato della Scienza
   pt:
-  ja: <ruby><rb>科</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>学</rb><rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>殊</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>科</rb><rt>か</rt></ruby><ruby><rb>学</rb><rt>がく</rt></ruby><ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>殊</rb><rt>しゅ</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Kagaku Tokushuhei
   ko: 과학 특수병
   ko_rr:
+  zh-TW:
   zh-CN: 科学特殊兵
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     未知の生物に対抗するため、最新の科学兵器を装備した兵士。背中のコンテナにはさまざまな兵器が収納されている。
   ko: |-
     미지의 생물체에 대항하기 위해 최신 과학병기를 장착한 병사. 등에 장착한 컨테이너에는 다양한 병기가 수납되어 있다.
+  zh-TW:
   zh-CN: |-
     为对抗未知生物，装备着最新科学武器的士兵。背后的集装箱里藏着各种各样的兵器。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: DARK
 level: 3
 atk: 800

@@ -7,10 +7,11 @@ name:
   fr: Rai-Mei, Guerrière de la Foudre
   it: Rai-Mei
   pt: Rai-Mei
-  ja: <ruby><rb>ＲＡＩ</rb><rp>（</rp><rt>ライ</rt><rp>）</rp></ruby>－<ruby><rb>ＭＥＩ</rb><rp>（</rp><rt>メイ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>ＲＡＩ</rb><rt>ライ</rt></ruby>－<ruby><rb>ＭＥＩ</rb><rt>メイ</rt></ruby>
   ja_romaji: Rai-Mei
   ko: RAI-MEI
   ko_rr:
+  zh-TW:
   zh-CN: 雷-鸣
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、デッキからレベル２以下の光属性モンスター１体を手札に加える事ができる。
   ko: |-
     이 카드가 전투에 의해 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 레벨 2 이하의 빛 속성 몬스터 1장을 패에 더할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡被战斗破坏送去墓地时，可以从卡组把1只2星以下的光属性怪兽加入手卡。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 3
 atk: 1400

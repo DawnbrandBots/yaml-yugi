@@ -7,10 +7,11 @@ name:
   fr: Shura, l'Étoile de Combat
   it: Shura la Stella di Combattimento
   pt: Shura, a Estrela Combatente
-  ja: <ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>シュラ
+  ja: <ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>シュラ
   ja_romaji: Hadōsei Shura
   ko: 패도성 슈라
   ko_rr: Paedoseong Syura
+  zh-TW:
   zh-CN: 霸道星 修罗
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     "패승성 이다텐" ＋ 레벨 5 이상의 전사족 몬스터
     ①: 1턴에 1번, 자신 / 상대의 배틀 페이즈에 발동할 수 있다. 상대 필드의 모든 앞면 표시 몬스터의 공격력은 0 이 된다. ②: 몬스터끼리가 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 그 전투를 실행하는 서로의 몬스터의 공격력은 그 데미지 계산시에만, 각각의 레벨 × 200 올린다. ③: 융합 소환한 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. "패승성 이다텐" 1장을 융합 소환으로 취급하여 엑스트라 덱에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「霸胜星 韦驮天」＋5星以上的战士族怪兽
     ①：1回合1次，自己·对方的战斗阶段才能发动。对方场上的全部表侧表示怪兽的攻击力变成0。
     ②：怪兽之间进行战斗的伤害计算时才能发动1次。那些进行战斗的双方怪兽的攻击力只在那次伤害计算时上升各自等级×200。
     ③：融合召唤的这张卡被对方破坏送去墓地的场合才能发动。把1只「霸胜星 韦驮天」当作融合召唤从额外卡组特殊召唤。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
 level: 12
 atk: 0

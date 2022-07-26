@@ -7,10 +7,11 @@ name:
   fr: Bouclier Humain
   it: Il mio Corpo come Scudo
   pt: O Meu Corpo como Escudo
-  ja: <ruby><rb>我</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby>が<ruby><rb>身</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby>を<ruby><rb>盾</rb><rp>（</rp><rt>たて</rt><rp>）</rp></ruby>に
+  ja: <ruby><rb>我</rb><rt>わ</rt></ruby>が<ruby><rb>身</rb><rt>み</rt></ruby>を<ruby><rb>盾</rb><rt>たて</rt></ruby>に
   ja_romaji: Waga Mi o Tate ni
   ko: 내몸을 방패로
   ko_rr:
+  zh-TW: 我身作盾
   zh-CN: 我身作盾
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     １５００ライフポイントを払って発動する。相手が発動した「フィールド上のモンスターを破壊する効果」を持つカードの発動を無効にし破壊する。
   ko: |-
     상대가 "필드 위 몬스터를 파괴하는 효과" 를 가진 카드를 발동했을 때, 1500 라이프 포인트를 지불하는 것으로 그 발동을 무효로하고 파괴한다.
+  zh-TW: 可支付1500生命点数进行发动。使对手发动的持有「破坏场上怪兽效果」以及效果怪兽的效果、魔法、陷阱卡的发动无效并破坏。
   zh-CN: |-
     支付1500基本分发动。对方发动的持有「把场上的怪兽破坏的效果」的卡的发动无效并破坏。
-type: Spell
+card_type: Spell
 property: Quick-Play

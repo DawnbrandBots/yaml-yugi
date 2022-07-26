@@ -7,12 +7,13 @@ name:
   fr: Fée Fantôme Elfobia
   it: Fata Fantasma Elfobia
   pt: Fada Fantasma Elfobia
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>怪</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>怪</rb><rt>かい</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>
     エルフォビア
   ja_romaji: Ikai no Yōsei Erufobia
   ko: 이괴의 요정 엘포비아
   ko_rr:
-  zh-CN: 异怪之妖精 艾尔佛彼娅
+  zh-TW: 異怪妖精 艾爾佛比亞
+  zh-CN: 异怪妖精 艾尔佛比亚
 text:
   en: |-
     Once per turn: You can reveal 1 WIND monster in your hand; until the end of your opponent's next Main Phase 1, monsters with a Level higher than the revealed monster cannot activate their effects.
@@ -30,10 +31,11 @@ text:
     １ターンに１度、手札の風属性モンスター１体を相手に見せて発動できる。次の相手のメインフェイズ１終了時まで、お互いのプレイヤーは、見せたモンスターよりレベルの高いモンスターの効果を発動できない。
   ko: |-
     1턴에 1번, 패의 바람 속성 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 다음 상대의 메인 페이즈 1 종료시까지, 양쪽 플레이어는, 보여준 몬스터보다 레벨이 높은 몬스터의 효과를 발동할 수 없다.
+  zh-TW: 1回合1次，可向对手展示手牌的1只风属性怪兽并发动。直至下一个对手的主要阶段1结束时，双方玩家不可发动比展示怪兽等级高的怪兽的效果。
   zh-CN: |-
-    1回合1次，把手卡1只风属性怪兽给对方观看才能发动。直到下次的对方的主要阶段1结束时，双方玩家不能把比给人观看的怪兽等级高的怪兽的效果发动。
-type: Monster
-typeline: Psychic / Effect
+    ①：1回合1次，将手牌的1只风属性怪兽出示给对手可以发动。直至下一次对手的主要阶段1结束时为止，双方不可发动等级高于出示的怪兽的怪兽的效果。
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 3
 atk: 900

@@ -7,10 +7,11 @@ name:
   fr: Suijin
   it: Suijin
   pt: Suijin
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>－スーガ
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>－スーガ
   ja_romaji: Suimashin - Sūga
   ko: 수 마신-스가
   ko_rr:
+  zh-TW:
   zh-CN: 水魔神-斯迦
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手のターンで攻撃された場合、そのダメージ計算時に発動する事ができる。その攻撃モンスター１体の攻撃力を０にする。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。
   ko: |-
     상대 턴의 전투 데미지 계산시에만 발동할 수 있다. 이 카드를 공격하는 몬스터의 공격력 0으로 만든다. 이 효과는 이 카드가 앞면 표시로 필드 위에 존재하는 한, 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡在对方回合被攻击的场合，那次伤害计算时才能发动。那1只攻击怪兽的攻击力变成0。这个效果只在这张卡在场上表侧表示存在能使用1次。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 7
 atk: 2500

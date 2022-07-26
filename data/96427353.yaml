@@ -7,10 +7,11 @@ name:
   fr: Ninja Armure Eau
   it: Ninja Armatura d'Acqua
   pt: Ninja da Armadura de Água
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>甲</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>アクア
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>甲</rb><rt>こう</rt></ruby><ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>アクア
   ja_romaji: Kikō Ninja Akua
   ko: 기갑첩자 아쿠아
   ko_rr:
+  zh-TW:
   zh-CN: 机甲忍者 水
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手モンスターの直接攻撃宣言時、自分の墓地にこのカード以外の「忍者」と名のついたモンスターが存在する場合、墓地のこのカードをゲームから除外して発動できる。攻撃モンスター１体の攻撃を無効にする。
   ko: |-
     상대 몬스터의 직접 공격 선언시, 자신의 묘지에 이 카드 이외의 "첩자"라는 이름이 붙은 몬스터가 존재할 경우, 묘지의 이 카드를 게임에서 제외하고 발동할 수 있다. 공격 몬스터 1장의 공격을 무효로 한다.
+  zh-TW:
   zh-CN: |-
     对方怪兽的直接攻击宣言时，自己墓地有这张卡以外的名字带有「忍者」的怪兽存在的场合，把墓地的这张卡从游戏中除外才能发动。把1只攻击怪兽的攻击无效。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 800

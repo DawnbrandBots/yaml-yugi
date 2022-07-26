@@ -7,10 +7,11 @@ name:
   fr: Gardes Royaux Tempête de Feu
   it: Guardie Regali della Tempesta di Fuoco
   pt: Guardas Reais da Tempestade de Fogo
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>近</rb><rp>（</rp><rt>この</rt><rp>）</rp></ruby><ruby><rb>衛</rb><rp>（</rp><rt>え</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>帝</rb><rt>てい</rt></ruby><ruby><rb>近</rb><rt>この</rt></ruby><ruby><rb>衛</rb><rt>え</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Entei Konoehei
   ko: 화염 제왕 근위병
   ko_rr:
+  zh-TW:
   zh-CN: 炎帝近卫兵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、自分の墓地に存在する炎族モンスター４体を選択して発動する。選択したモンスターをデッキに戻し、自分のデッキからカードを２枚ドローする。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 자신의 묘지에 존재하는 화염족 몬스터 4장을 선택하고 발동한다. 선택한 몬스터를 덱으로 되돌리고, 자신의 덱에서 카드를 2장 드로우한다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，选择自己墓地存在的4只炎族怪兽发动。选择的怪兽回到卡组，从自己卡组抽2张卡。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1700

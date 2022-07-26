@@ -7,11 +7,11 @@ name:
   fr: Karakuri 4624 "Shirokunishi" le Gama
   it: Karakuri Gama mod. 4624 "Shirokunishi"
   pt: Karakuri Gama mdl 4624 "Shirokunishi"
-  ja: カラクリ<ruby><rb>蝦</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby><rb>蟇</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby>
-    <ruby><rb>四</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>六</rb><rp>（</rp><rt>ロク</rt><rp>）</rp></ruby><ruby><rb>弐</rb><rp>（</rp><rt>ニ</rt><rp>）</rp></ruby><ruby><rb>四</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>蝦</rb><rt>が</rt></ruby><ruby><rb>蟇</rb><rt>ま</rt></ruby> <ruby><rb>四</rb><rt>シ</rt></ruby><ruby><rb>六</rb><rt>ロク</rt></ruby><ruby><rb>弐</rb><rt>ニ</rt></ruby><ruby><rb>四</rb><rt>シ</rt></ruby>
   ja_romaji: Karakuri Gama Shirokunishi
   ko: 자동기계두꺼비 4624 "사육이사"
   ko_rr: Jadonggigyedukkeobi Sa-Yuk-I-Sa "Sayuk-isa"
+  zh-TW:
   zh-CN: 机巧蛤蟆 四六二四
 text:
   en: |-
@@ -30,13 +30,14 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：このカードは攻撃可能な場合には攻撃しなければならない。②：このカードが攻撃対象に選択された場合に発動する。このカードの表示形式を変更する。③：墓地のこのカードを除外し、自分フィールドの「カラクリ」モンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 공격 가능한 경우에는 공격해야 한다. ②: 이 카드가 공격 대상으로 선택되었을 경우에 발동한다. 이 카드의 표시 형식을 변경한다. ③: 묘지의 이 카드를 제외하고, 자신 필드의 "자동기계" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 표시 형식을 변경한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     这个卡名的③的效果1回合只能使用1次。
     ①：这张卡可以攻击的场合必须作出攻击。
     ②：这张卡被选择作为攻击对象的场合发动。这张卡的表示形式变更。
     ③：把墓地的这张卡除外，以自己场上1只「机巧」怪兽为对象才能发动。那只怪兽的表示形式变更。这个效果在对方回合也能发动。
-type: Monster
-typeline: Machine / Tuner / Effect
+card_type: Monster
+monster_type_line: Machine / Tuner / Effect
 attribute: EARTH
 level: 1
 atk: 200

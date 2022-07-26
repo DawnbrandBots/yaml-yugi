@@ -7,10 +7,11 @@ name:
   fr: Jarre Antique
   it:
   pt: Jarro Antigo
-  ja: <ruby><rb>太</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>古</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>の<ruby><rb>壺</rb><rp>（</rp><rt>つぼ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>太</rb><rt>たい</rt></ruby><ruby><rb>古</rb><rt>こ</rt></ruby>の<ruby><rb>壺</rb><rt>つぼ</rt></ruby>
   ja_romaji: Taiko no Tsubo
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 太古之壶
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     とても壊れやすい大昔の壺。中に何かが潜んでいるらしい。
   ko:
+  zh-TW:
   zh-CN: |-
     非常脆弱的太古之壶。里面好像藏着什么东西。
-type: Monster
-typeline: Rock
+card_type: Monster
+monster_type_line: Rock
 attribute: EARTH
 level: 1
 atk: 400

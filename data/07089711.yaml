@@ -11,6 +11,7 @@ name:
   ja_romaji: Hanehane
   ko: 하늘하늘
   ko_rr: Haneulhaneul
+  zh-TW:
   zh-CN: 哈尼哈尼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、フィールドのモンスター１体を対象として発動する。そのモンスターを持ち主の手札に戻す。
   ko: |-
     리버스 : 필드 위의 몬스터 1장을 선택하여 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡反转的场合，以场上1只怪兽为对象发动。那只怪兽回到持有者手卡。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 2
 atk: 450

@@ -7,10 +7,11 @@ name:
   fr: Anneau de Défense
   it: Anello di Difesa
   pt: Anel da Defesa
-  ja: <ruby><rb>防</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>御</rb><rp>（</rp><rt>ぎょ</rt><rp>）</rp></ruby><ruby><rb>輪</rb><rp>（</rp><rt>りん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>防</rb><rt>ぼう</rt></ruby><ruby><rb>御</rb><rt>ぎょ</rt></ruby><ruby><rb>輪</rb><rt>りん</rt></ruby>
   ja_romaji: Bōgyorin
   ko: 방어륜
   ko_rr:
+  zh-TW:
   zh-CN: 防御轮
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     罠カードの効果によるダメージを０にする。
   ko: |-
     함정 카드의 효과에 의한 데미지는 0 으로 한다.
+  zh-TW:
   zh-CN: |-
     陷阱卡的效果的伤害变成0。
-type: Spell
+card_type: Spell
 property: Quick-Play

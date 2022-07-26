@@ -7,10 +7,11 @@ name:
   fr: Abaki
   it: Abaki
   pt:
-  ja: <ruby><rb>暴</rb><rp>（</rp><rt>あば</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暴</rb><rt>あば</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>
   ja_romaji: Abaki
   ko: 아바키
   ko_rr:
+  zh-TW:
   zh-CN: 暴鬼
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、お互いは５００ポイントダメージを受ける。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 양쪽 플레이어는 500 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     这张卡被战斗破坏送去墓地时，双方受到500分伤害。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: FIRE
 level: 4
 atk: 1700

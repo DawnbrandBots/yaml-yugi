@@ -7,10 +7,11 @@ name:
   fr: Avertissement Divin
   it: Avvertimento Solenne
   pt: Aviso Solene
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>の<ruby><rb>警</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>警</rb><rt>けい</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby>
   ja_romaji: Kami no Keikoku
   ko: 신의 경고
   ko_rr: Sin-ui Gyeonggo
+  zh-TW:
   zh-CN: 神之警告
 text:
   en: |-
@@ -33,9 +34,10 @@ text:
     ①: 2000 LP를 지불하고 이하의 효과를 발동할 수 있다.
     ●몬스터를 특수 소환하는 효과를 포함하는, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
     ●자신 또는 상대가 몬스터를 일반 소환 / 반전 소환 / 특수 소환할 시기에 발동할 수 있다. 그것을 무효로 하고, 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    ①：可以支付2000基本分把以下效果发动。
-    ●包含把怪兽特殊召唤效果的怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效并破坏。
-    ●自己或者对方把怪兽召唤·反转召唤·特殊召唤之际才能发动。那个无效，那些怪兽破坏。
-type: Trap
+    ①：支付2000LP可以发动以下效果。
+    ●包含将怪兽特殊召唤的效果的、怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
+    ●自己或对手召唤・反转召唤・特殊召唤怪兽之际可以发动。将其无效并将该怪兽破坏。
+card_type: Trap
 property: Counter

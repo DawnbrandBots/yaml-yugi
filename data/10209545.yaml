@@ -7,10 +7,11 @@ name:
   fr: Commandant Décomposé
   it: Comandante Decaduto
   pt: Comandante Decaído
-  ja: <ruby><rb>朽</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>ち<ruby><rb>果</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>てた<ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>将</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>朽</rb><rt>く</rt></ruby>ち<ruby><rb>果</rb><rt>は</rt></ruby>てた<ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>将</rb><rt>しょう</rt></ruby>
   ja_romaji: Kuchihateta Bushō
   ko: 부패한 무장
   ko_rr:
+  zh-TW:
   zh-CN: 腐朽的武将
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、手札から「ゾンビタイガー」１体を特殊召喚する事ができる。このカードが相手プレイヤーへの直接攻撃に成功した場合、相手は手札からランダムにカードを１枚捨てる。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 패에서 "좀비 타이거" 1장을 특수 소환할 수 있다. 이 카드가 상대 플레이어에게로의 직접 공격에 성공했을 경우, 상대는 패에서 무작위로 카드를 1장 버린다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，可以从手卡把1只「僵尸虎」特殊召唤。这张卡向对方玩家的直接攻击成功的场合，对方从手卡随机把1张卡丢弃。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: EARTH
 level: 4
 atk: 1000

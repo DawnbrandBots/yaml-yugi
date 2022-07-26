@@ -7,10 +7,11 @@ name:
   fr: Tour d'Ossements Buveuse d'Âmes
   it: Torre d'Ossa Assorbi-Anima
   pt: Torre de Ossos que Absorve Almas
-  ja: <ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby><rb>吸</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby>う<ruby><rb>骨の塔</rb><rp>（</rp><rt>ボーンタワー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>気</rb><rt>き</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う<ruby><rb>骨の塔</rb><rt>ボーンタワー</rt></ruby>
   ja_romaji: Seiki wo Sū Bōn Tawā
   ko: 정기를 흡수하는 골탑
   ko_rr:
+  zh-TW:
   zh-CN: 吸收精气的骨塔
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上にこのカード以外のアンデット族モンスターが存在する場合、このカードを攻撃する事はできない。アンデット族モンスターが特殊召喚に成功する度に、相手のデッキの上からカードを２枚墓地へ送る。
   ko: |-
     자신 필드 위에 이 카드 이외의 언데드족 몬스터가 존재할 경우, 이 카드를 공격할 수 없다, 언데드족 몬스터가 특수 소환에 성공할 때마다, 상대의 덱의 위에서 카드를 2장 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     自己场上有这张卡以外的不死族怪兽存在的场合，不能向这张卡攻击。每次不死族怪兽特殊召唤成功，从对方卡组上面把2张卡送去墓地。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 3
 atk: 400

@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>こおり</rt><rp>）</rp></ruby><ruby><rb>水</rb><rp>（</rp><rt>みず</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>こおり</rt></ruby><ruby><rb>水</rb><rt>みず</rt></ruby>
   ja_romaji: Kōrimizu
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 冰水
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     攻撃的なマーメイド。体に生えているトゲを使って攻撃する。
   ko:
+  zh-TW:
   zh-CN: |-
     攻击性美人鱼。使用生长在身体表面的荆刺进行攻击。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 3
 atk: 1150

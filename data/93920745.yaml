@@ -11,6 +11,7 @@ name:
   ja_romaji: Pengin Sorujā
   ko: 펭귄 솔저
   ko_rr:
+  zh-TW: 企鵝戰士
   zh-CN: 企鹅士兵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、フィールドのモンスターを２体まで対象として発動できる。そのモンスターを持ち主の手札に戻す。
   ko: |-
     리버스 : 필드 위의 몬스터를 2장까지 선택하고 주인의 패로 되돌릴 수 있다.
+  zh-TW: 反转：可以选择场上至多2只怪兽回收至持有者手牌。
   zh-CN: |-
-    可以选择场上最多2只怪兽回到持有者手卡。
-type: Monster
-typeline: Aqua / Flip / Effect
+    ①：此卡反转的情况下，以场上最多2只怪兽为对象可以发动。将该怪兽放回持有者的手牌。
+card_type: Monster
+monster_type_line: Aqua / Flip / Effect
 attribute: WATER
 level: 2
 atk: 750

@@ -7,10 +7,11 @@ name:
   fr: Peine, Roi Suprême de l'Armageddon
   it: Demise, Supremo Re dell'Armageddon
   pt: Demise, o Rei Supremo do Armagedom
-  ja: <ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>焉</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>デミス
+  ja: <ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>焉</rb><rt>えん</rt></ruby>の<ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>デミス
   ja_romaji: Shūen no Haō Demisu
   ko: 종언의 패왕 데미스
   ko_rr: Jong-eon-ui Paewang Demiseu
+  zh-TW:
   zh-CN: 终焉之霸王 迪米斯
 text:
   en: |-
@@ -29,14 +30,15 @@ text:
     「エンドレス・オブ・ザ・ワールド」により降臨。①：このカードのカード名は、手札・フィールドに存在する限り「終焉の王デミス」として扱う。②：儀式召喚したこのカードがモンスターゾーンに存在する限り、自分の儀式モンスターは戦闘では破壊されない。③：儀式モンスターのみを使用して儀式召喚したこのカードの効果を発動するために払うＬＰは必要なくなる。④：１ターンに１度、２０００ＬＰを払って発動できる。フィールドの他のカードを全て破壊し、破壊した相手フィールドのカードの数×２００ダメージを相手に与える。
   ko: |-
     "엔드리스 오브 더 월드"에 의해 의식 소환. ①: 이 카드의 카드명은, 패 / 필드에 존재하는 한 "종언의 왕 데미스"로 취급한다. ②: 의식 소환한 이 카드가 몬스터 존에 존재하는 한, 자신의 의식 몬스터는 전투로는 파괴되지 않는다. ③: 의식 몬스터만을 사용하여 의식 소환한 이 카드의 효과를 발동하기 위해 지불할 LP는 필요없게 된다. ④: 1턴에 1번, 2000 LP를 지불하고 발동할 수 있다. 필드의 다른 카드를 전부 파괴하고, 파괴한 상대 필드의 카드의 수 × 200 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     「世界不灭」降临。
     ①：这张卡的卡名只要在手卡·场上存在当作「终焉之王 迪米斯」使用。
     ②：只要仪式召唤的这张卡在怪兽区域存在，自己的仪式怪兽不会被战斗破坏。
     ③：为只使用仪式怪兽作仪式召唤的这张卡的效果发动而支付的基本分变成不需要。
     ④：1回合1次，支付2000基本分才能发动。场上的其他卡全部破坏，给与对方破坏的对方场上的卡数量×200伤害。
-type: Monster
-typeline: Fiend / Ritual / Effect
+card_type: Monster
+monster_type_line: Fiend / Ritual / Effect
 attribute: DARK
 level: 10
 atk: 3000

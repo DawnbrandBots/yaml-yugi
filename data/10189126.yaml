@@ -7,10 +7,11 @@ name:
   fr: Sorcier Masqué
   it: Stregone Mascherato
   pt: Feiticeiro Mascarado
-  ja: <ruby><rb>仮</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>面</rb><rp>（</rp><rt>めん</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>仮</rb><rt>か</rt></ruby><ruby><rb>面</rb><rt>めん</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Kamen Madōshi
   ko: 가면마도사
   ko_rr:
+  zh-TW:
   zh-CN: 假面魔道士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手ライフに戦闘ダメージを与えた時、自分のデッキからカードを１枚ドローする。
   ko: |-
     이 카드가 상대에게 전투 데미지를 줄 때, 자신은 카드를 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     这张卡给与对方基本分战斗伤害时，从自己卡组抽1张卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 900

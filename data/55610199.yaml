@@ -11,11 +11,12 @@ name:
   ja_romaji: Jemunaitoredi Rōzu Daiya
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 秘石骑士女郎 蔷薇刚玉
 text:
   en: |-
     1 "Gem-Knight" monster + 1 Fairy monster
-    The first time a "Gem-Knight" monster(s) you control would be destroyed by card effect during each opponent's turn, it is not destroyed. When your opponent activates a monster effect during your turn (Quick Effect): You can banish 1 "Gem-Knight" card from your GY, then target 1 face-up card your opponent controls; destroy it.
+    Once per opponent's turn, the first time a "Gem-Knight" monster(s) you control would be destroyed by card effect, it is not destroyed. During your turn, when your opponent activates a monster effect (Quick Effect): You can banish 1 "Gem-Knight" card from your GY, then target 1 face-up card your opponent controls; destroy it.
   de:
   es:
   fr:
@@ -25,17 +26,43 @@ text:
     「ジェムナイト」モンスター＋天使族モンスター
     ①：このカードがモンスターゾーンに存在する限り、相手ターンに１度だけ、自分フィールドの「ジェムナイト」モンスターは効果では破壊されない。②：自分ターンに、相手がモンスターの効果を発動した時、自分の墓地から「ジェムナイト」カード１枚を除外し、相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。
   ko:
+  zh-TW:
   zh-CN: |-
     「ジェムナイト／秘石骑士」怪兽+天使族怪兽
     ①：只要这张卡在怪兽区存在，对手回合就仅1次，自己场上的「ジェムナイト／秘石骑士」怪兽不会被效果破坏。②：自己的回合，对手发动怪兽的效果时，可以从自己的墓地将1张「ジェムナイト／秘石骑士」卡除外，以对手场上的1张表侧表示的卡为对象发动。将那张卡破坏。
-type: Monster
-typeline: Fairy / Fusion / Effect
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
 attribute: EARTH
 level: 8
 atk: 2700
 def: 2400
 materials: 1 "Gem-Knight" monster + 1 Fairy-Type monster
 sets:
+  en:
+  - set_number: POTE-EN044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  de:
+  - set_number: POTE-DE044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: POTE-FR044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  it:
+  - set_number: POTE-IT044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: POTE-PT044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
   ja:
   - set_number: POTE-JP044
     set_name: Power of the Elements
@@ -44,6 +71,18 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
   - set_number: POTE-JP044
+    set_name: Power of the Elements +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: POTE-KR044
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: POTE-KR044
     set_name: Power of the Elements +1 Bonus Pack
     rarities:
     - Super Rare

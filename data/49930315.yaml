@@ -7,11 +7,12 @@ name:
   fr: Raie Blanche
   it: Pastinaca Bianca
   pt: Raio-ferrão Branco
-  ja: <ruby><rb>白棘鱏</rb><rp>（</rp><rt>ホワイト・スティングレイ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>白棘鱏</rb><rt>ホワイト・スティングレイ</rt></ruby>
   ja_romaji: Howaito Sutingurei
   ko: 화이트 스팅레이
   ko_rr: Hwaiteu Seuting-rei
-  zh-CN: 白棘魟
+  zh-TW:
+  zh-CN: 白棘鲟
 text:
   en: |-
     You can Special Summon this card (from your hand) by discarding 1 WATER monster. You can only Special Summon "White Stingray" once per turn this way. If this card is Special Summoned from the GY: You can treat it as a Tuner this turn. You can only use this effect of "White Stingray" once per turn.
@@ -29,10 +30,11 @@ text:
     このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードは手札の水属性モンスター１体を捨てて、手札から特殊召喚できる。②：このカードが墓地からの特殊召喚に成功した場合に発動できる。このターン、このカードをチューナーとして扱う。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 패의 물 속성 몬스터 1장을 버리고, 패에서 특수 소환할 수 있다. ②: 이 카드가 묘지에서의 특수 소환에 성공했을 경우에 발동할 수 있다. 이 턴에, 이 카드를 튜너로 취급한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的作为①的方法的特殊召唤1回合只能有1次，作为②的效果1回合只能使用1次。①：这张卡可以把手卡1只水属性怪兽丢弃，从手卡特殊召唤。②：这张卡从墓地的特殊召唤成功的场合才能发动。这个回合，这张卡当作调整使用。
-type: Monster
-typeline: Fish / Effect
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：将手牌的1只水属性怪兽扔掉，可从手牌特殊召唤此卡。②：将此卡从墓地特殊召唤成功的情况下可以发动。此回合中，此卡视为协调。
+card_type: Monster
+monster_type_line: Fish / Effect
 attribute: WATER
 level: 4
 atk: 1400

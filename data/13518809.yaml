@@ -7,10 +7,11 @@ name:
   fr: Ruine, Reine Suprême de l'Oubli
   it: Ruin, Suprema Regina dell'Oblio
   pt: Ruína, a Rainha Suprema do Esquecimento
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>滅</rb><rp>（</rp><rt>めつ</rt><rp>）</rp></ruby>の<ruby><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>ルイン
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>滅</rb><rt>めつ</rt></ruby>の<ruby><rb>美</rb><rt>び</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>ルイン
   ja_romaji: Hametsu no Bishin Ruin
   ko: 파멸의 미의 신 루인
   ko_rr: Pamyeol-ui Mi-ui Sin Ruin
+  zh-TW:
   zh-CN: 破灭之美神 露茵
 text:
   en: |-
@@ -29,14 +30,15 @@ text:
     「エンドレス・オブ・ザ・ワールド」により降臨。①：このカードのカード名は、手札・フィールドに存在する限り「破滅の女神ルイン」として扱う。②：儀式召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドの儀式モンスターは効果では破壊されない。③：儀式モンスターのみを使用して儀式召喚したこのカードは１度のバトルフェイズ中に２回攻撃できる。④：このカードが戦闘で相手モンスターを破壊した場合に発動できる。そのモンスターの元々の攻撃力分のダメージを相手に与える。
   ko: |-
     "엔드리스 오브 더 월드"에 의해 의식 소환. ①: 이 카드의 카드명은, 패 / 필드에 존재하는 한 "파멸의 여신 루인"으로 취급한다. ②: 의식 소환한 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 의식 몬스터는 효과로는 파괴되지 않는다. ③: 의식 몬스터만을 사용하여 의식 소환한 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ④: 이 카드가 전투로 상대 몬스터를 파괴했을 경우에 발동할 수 있다. 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     「世界不灭」降临。
     ①：这张卡的卡名只要在手卡·场上存在当作「破灭之女神 露茵」使用。
     ②：只要仪式召唤的这张卡在怪兽区域存在，自己场上的仪式怪兽不会被效果破坏。
     ③：只使用仪式怪兽作仪式召唤的这张卡在同1次的战斗阶段中可以作2次攻击。
     ④：这张卡战斗破坏对方怪兽的场合才能发动。给与对方那只怪兽的原本攻击力数值的伤害。
-type: Monster
-typeline: Fairy / Ritual / Effect
+card_type: Monster
+monster_type_line: Fairy / Ritual / Effect
 attribute: LIGHT
 level: 10
 atk: 2900

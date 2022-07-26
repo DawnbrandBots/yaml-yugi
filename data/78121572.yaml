@@ -7,10 +7,11 @@ name:
   fr: Alchimiste de la Magie Noire
   it: Alchimista dei Neri Incantesimi
   pt:
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>製</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>製</rb><rt>せい</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Kuromaryoku no Seiseisha
   ko: 흑마력의 정제자
   ko_rr:
+  zh-TW:
   zh-CN: 黑魔力精制者
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     １ターンに１度、自分フィールド上に表側攻撃表示で存在するこのカードを表側守備表示に変更し、自分フィールド上に表側表示で存在する魔力カウンターを置く事ができるカード１枚に魔力カウンターを１つ置く事ができる。
   ko: |-
     1턴에 1번, 자신 필드 위에 앞면 공격 표시로 존재하는 이 카드를 앞면 수비 표시로 변경하고, 자신 필드 위에 앞면 표시로 존재하는 마력 카운터를 놓을 수 있는 카드 1장에 마력 카운터를 1개 놓을 수 있다.
+  zh-TW:
   zh-CN: |-
     1回合1次，可以把自己场上表侧攻击表示存在的这张卡变更为表侧守备表示，给自己场上表侧表示存在的1张可以放置魔力指示物的卡放置1个魔力指示物。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 4
 atk: 1200

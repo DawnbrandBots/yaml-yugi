@@ -7,10 +7,11 @@ name:
   fr: Criquet Fantôme
   it: Grillo Fantasma
   pt: Grilo Fantasmagórico
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>コオロギ
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>コオロギ
   ja_romaji: Genei Kōrogi
   ko: 환영의 귀뚜라미
   ko_rr:
+  zh-TW:
   zh-CN: 幻影蟋蟀
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：フィールド上に裏側表示で存在するモンスター１体を持ち主のデッキの一番上に置く。
   ko: |-
     리버스 : 필드 위에 뒷면 표시로 존재하는 몬스터 1장을 주인의 덱 맨 위에 놓는다.
+  zh-TW:
   zh-CN: |-
     场上里侧表示存在的1只怪兽在持有者卡组最上面放置。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 2
 atk: 300

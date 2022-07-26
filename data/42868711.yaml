@@ -7,10 +7,11 @@ name:
   fr: Gora, Tortue de l'Illusion
   it: Tartaruga Gora dell'Illusione
   pt: Tartaruga Gora da Ilusão
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>のゴラ<ruby><rb>亀</rb><rp>（</rp><rt>がめ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>のゴラ<ruby><rb>亀</rb><rt>がめ</rt></ruby>
   ja_romaji: Gen'ei no Goragame
   ko: 환영의 고라 터틀
   ko_rr:
+  zh-TW:
   zh-CN: 幻影筮龟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側表示で存在するこのカードを対象とした、相手がコントロールする魔法・罠カードの効果を無効にする。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이카드를 대상으로 한, 상대가 컨트롤하는 마법/ 함정 카드의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     以场上表侧表示存在的这张卡为对象的对方控制的魔法·陷阱卡的效果无效。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 4
 atk: 1200

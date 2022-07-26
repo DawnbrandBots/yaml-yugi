@@ -7,10 +7,11 @@ name:
   fr: Harmoniste Florale la Compositrice de Musique
   it: Armonista Fioritura la Compositrice Melodiosa
   pt: Harmonista do Florescer, a Compositora Melodiosa
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>奏</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>の<ruby><rb>華</rb><rp>（</rp><rt>はな</rt><rp>）</rp></ruby><ruby><rb>楽</rb><rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>ブルーム・ハーモニスト
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>奏</rb><rt>そう</rt></ruby>の<ruby><rb>華</rb><rt>はな</rt></ruby><ruby><rb>楽</rb><rt>がく</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby>ブルーム・ハーモニスト
   ja_romaji: Gensō no Hanagakusei Burūmu Hāmonisuto
   ko: 환주의 화악성블룸 하모니스트
   ko_rr: Hwamju-ui Hwa-akseongbeullum Hamoniseuteu
+  zh-TW:
   zh-CN: 幻奏的华乐圣 花之哈摩妮丝特
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     천사족 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고 발동할 수 있다. 덱에서 레벨이 다른 "환주" 몬스터 2장을 이 카드의 링크 앞이 되는 자신 필드에 수비 표시로 특수 소환한다. 이 효과를 발동하는 턴에, 자신은 "환주" 몬스터밖에 특수 소환할 수 없다. ②: 이 카드의 링크 앞의 "환주" 몬스터가 공격할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 / 몬스터의 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     天使族怪兽2只
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡连接召唤成功的场合，丢弃1张手卡才能发动。从卡组把2只等级不同的「幻奏」怪兽在作为这张卡所连接区的自己场上守备表示特殊召唤。这个效果发动的回合，自己不是「幻奏」怪兽不能特殊召唤。
     ②：这张卡所连接区的「幻奏」怪兽攻击的场合，对方直到伤害步骤结束时魔法·陷阱·怪兽的效果不能发动。
-type: Monster
-typeline: Fairy / Link / Effect
+card_type: Monster
+monster_type_line: Fairy / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1000
 materials: 2 Fairy monsters
 sets:

@@ -7,11 +7,12 @@ name:
   fr: Corbeau D.D.
   it: Corvo D.D.
   pt: D.D. Corvo
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>．<ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>．クロウ
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>．<ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>．クロウ
   ja_romaji: Dī Dī Kurō
   ko: D.D. 크로우
   ko_rr: Di Di Keurou
-  zh-CN: D.D.乌鸦
+  zh-TW: D.D.烏鴉
+  zh-CN: 异次元乌鸦
 text:
   en: |-
     (Quick Effect): You can discard this card to the GY, then target 1 card in your opponent's GY; banish that target.
@@ -29,10 +30,11 @@ text:
     ①：このカードを手札から墓地へ捨て、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。この効果は相手ターンでも発動できる。
   ko: |-
     ①: 이 카드를 패에서 묘지로 버리고, 상대 묘지의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW: 可从手牌将此卡舍弃至墓地发动。选择对手墓地的1张卡牌并从游戏中除外。此效果在对手回合也可发动。
   zh-CN: |-
-    ①：把这张卡从手卡丢弃去墓地，以对方墓地1张卡为对象才能发动。那张卡除外。这个效果在对方回合也能发动。
-type: Monster
-typeline: Winged Beast / Effect
+    ①：将此卡从手牌舍弃至墓地，以对手墓地的1张卡为对象可以发动。将该卡除外。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: DARK
 level: 1
 atk: 100

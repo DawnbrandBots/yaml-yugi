@@ -7,10 +7,11 @@ name:
   fr: Régulateur Étoile d'Acier
   it: Regolatore di Stelle d'Acciaio
   pt: Estrela de Aço Reguladora
-  ja: <ruby><rb>粛</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby><rb>鋼</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>粛</rb><rt>しゅく</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>の<ruby><rb>鋼</rb><rt>こう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby>
   ja_romaji: Shukusei no Kōki
   ko: 숙성의 강기
   ko_rr: Sokseong-ui Ganggi
+  zh-TW:
   zh-CN: 钢铁调星器
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     링크 몬스터 이외의 몬스터 3장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드의 링크 소재로 한 몬스터의 원래 레벨 / 랭크의 합계 × 100 올린다. ②: 이 카드의 공격력 이하의 공격력을 가지는, 링크 몬스터 이외의 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. 이 카드가 엑시즈 몬스터를 소재로서 링크 소환하고 있었을 경우, 추가로 파괴한 몬스터의 원래 공격력 절반의 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     连接怪兽以外的怪兽3只
     这张卡的攻击力上升作为这张卡的连接素材的怪兽的原本等级·阶级合计×100。可以以持有这张卡的攻击力以下的攻击力的对方场上1只连接怪兽以外的怪兽为对象；那只怪兽破坏，那之后，这张卡用超量怪兽为素材作连接召唤的场合，给与对方那只破坏的怪兽的原本攻击力一半数值的伤害。「钢铁调星器」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Top-Left
-- Bottom-Left
-- Bottom-Right
+- ↖
+- ↙
+- ↘
 atk: 1000
 materials: 3 non-Link Monsters
 sets:

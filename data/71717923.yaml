@@ -11,6 +11,7 @@ name:
   ja_romaji: Mōmu
   ko: 모므
   ko_rr:
+  zh-TW:
   zh-CN: 摩耳摩
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に表側表示で存在する地属性モンスター１体をリリースして発動する。フィールド上に表側表示で存在し、リリースしたモンスターの攻撃力以下の守備力を持つモンスターを全て破壊する。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 땅 속성 몬스터 1장을 릴리스하고 발동한다. 필드 위에 앞면 표시로 존재하며, 릴리스한 몬스터의 공격력 이하의 수비력을 가지는 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     把自己场上表侧表示存在的1只地属性怪兽解放发动。场上表侧表示存在的持有解放的怪兽的攻击力以下的守备力的怪兽全部破坏。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 4
 atk: 1000

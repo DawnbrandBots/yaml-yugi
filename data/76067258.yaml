@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 66 : Maître Scarabée Clé'
   it: 'Numero 66: Scarabeo Maestro delle Chiavi'
   pt: 'Número 66: Besouro Chave Mestra'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>６６ <ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>鍵</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>甲</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>虫</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>マスター・キー・ビートル
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>６６ <ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>鍵</rb><rt>けん</rt></ruby><ruby><rb>甲</rb><rt>こう</rt></ruby><ruby><rb>虫</rb><rt>ちゅう</rt></ruby>マスター・キー・ビートル
   ja_romaji: Nanbāzu Rokujūroku Hakenkōchū Masutā Kī Bītoru
   ko: No.66 패건갑충 마스터 키 비틀
   ko_rr:
+  zh-TW:
   zh-CN: No.66 霸键甲虫
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     어둠 속성 레벨 4 몬스터 × 2
     1 턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드 이외의 자신 필드 위의 카드 1장을 선택하여 발동할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택한 카드는 카드의 효과로는 파괴되지 않는다. 필드 위의 이 카드가 파괴될 경우, 대신에 선택한 자신의 카드 1장을 묘지로 보낼 수 있다.
+  zh-TW:
   zh-CN: |-
     暗属性4星怪兽×2。1回合1次，把这张卡1个XYZ素材取除，选择这张卡以外的自己场上1张卡才能发动。只要这张卡在场上表侧表示存在，选择的卡不会被卡的效果破坏。场上的这张卡被破坏的场合，可以作为代替把选择的1张自己的卡送去墓地。
-type: Monster
-typeline: Insect / Xyz / Effect
+card_type: Monster
+monster_type_line: Insect / Xyz / Effect
 attribute: DARK
 rank: 4
 atk: 2500

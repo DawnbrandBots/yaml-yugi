@@ -7,10 +7,11 @@ name:
   fr: Araignée Karakuri
   it: Ragno Karakuri
   pt: Aranha Mecânica
-  ja: カラクリ<ruby><rb>蜘</rb><rp>（</rp><rt>グ</rt><rp>）</rp></ruby><ruby><rb>蛛</rb><rp>（</rp><rt>モ</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>蜘</rb><rt>グ</rt></ruby><ruby><rb>蛛</rb><rt>モ</rt></ruby>
   ja_romaji: Karakuri Gumo
   ko: 자동기계 거미
   ko_rr:
+  zh-TW:
   zh-CN: 机巧蜘蛛
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードの攻撃を受けたモンスターが闇属性だった場合、そのモンスターを破壊する。ダメージ計算は適用する。
   ko: |-
     이 카드의 공격을 받은 몬스터가 어둠 속성이었을 경우, 그 몬스터를 파괴한다. 데미지의 계산은 적용한다.
+  zh-TW:
   zh-CN: |-
     受到这张卡的攻击的怪兽是暗属性的场合，那只怪兽破坏。伤害计算适用。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 2
 atk: 400

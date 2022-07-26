@@ -7,10 +7,11 @@ name:
   fr: Bouclier Millénaire
   it: Scudo del Millennio
   pt: Escudo do Milênio
-  ja: <ruby><rb>千</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>年</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby><rb>盾</rb><rp>（</rp><rt>たて</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>千</rb><rt>せん</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>の<ruby><rb>盾</rb><rt>たて</rt></ruby>
   ja_romaji: Sennen no Tate
   ko: 천년 방패
   ko_rr: Cheonnyeon Bangpae
+  zh-TW:
   zh-CN: 千年盾
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     古代エジプト王家より伝わるといわれている伝説の盾。どんなに強い攻撃でも防げるという。
   ko: |-
     고대 이집트 왕가로부터 전해져 내려온 전설의 방패. 어떤 강한 공격도 막아낼 수 있다고 한다.
+  zh-TW:
   zh-CN: |-
     据说是从古埃及王家传下来的传说之盾。传闻说再怎么强的攻击也能防住。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 5
 atk: 0

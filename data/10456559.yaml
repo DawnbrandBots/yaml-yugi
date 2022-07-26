@@ -7,10 +7,11 @@ name:
   fr: T.A.D.P.O.L.E.
   it: T.A.D.P.O.L.E.
   pt: T.A.D.P.O.L.E.
-  ja: <ruby><rb>悪</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby><ruby><rb>魂</rb><rp>（</rp><rt>たま</rt><rp>）</rp></ruby><ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>苦</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby><rb>止</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>悪</rb><rt>お</rt></ruby><ruby><rb>魂</rb><rt>たま</rt></ruby><ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>苦</rb><rt>く</rt></ruby><ruby><rb>止</rb><rt>し</rt></ruby>
   ja_romaji: Otamajakushi
   ko: 올챙이
   ko_rr:
+  zh-TW:
   zh-CN: 恶魂邪苦止
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に存在するこのカードが戦闘によって破壊され墓地へ送られた時、自分のデッキから「悪魂邪苦止」を手札に加える事ができる。その後デッキをシャッフルする。
   ko: |-
     자신 필드상에 존재하는 이 카드가 전투에 의해 파괴되어 묘지에 보내졌을 때, 자신의 덱으로부터 「올챙이」를 카드패에 가세할 수가 있다.그 후 덱을 셔플 한다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的这张卡被战斗破坏送去墓地时，可以从自己卡组把「恶魂邪苦止」加入手卡。那之后卡组洗切。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 1
 atk: 0

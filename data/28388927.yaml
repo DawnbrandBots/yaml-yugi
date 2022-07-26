@@ -7,10 +7,11 @@ name:
   fr: Guêpe de Bataille - Sting le Poison
   it: Vespabattaglia - Sting l'Avvelenatore
   pt: Vespabatalha - Sting, o Veneno
-  ja: <ruby><rb>Ｂ・Ｆ</rb><rp>（</rp><rt>ビー・フォース</rt><rp>）</rp></ruby>－<ruby><rb>毒</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby><rb>針</rb><rp>（</rp><rt>ばり</rt><rp>）</rp></ruby>のニードル
+  ja: <ruby><rb>Ｂ・Ｆ</rb><rt>ビー・フォース</rt></ruby>－<ruby><rb>毒</rb><rt>どく</rt></ruby><ruby><rb>針</rb><rt>ばり</rt></ruby>のニードル
   ja_romaji: Bī Fōsu - Dokubari no Nīdoru
-  ko: <ruby><rb>B・F</rb><rp>（</rp><rt>비 포스</rt><rp>）</rp></ruby>－독침의 니들
+  ko: <ruby><rb>B・F</rb><rt>비 포스</rt></ruby>－독침의 니들
   ko_rr: Bi Poseu - Dokchim-ui Nideul
+  zh-TW:
   zh-CN: 蜂军-毒针之针刺蜂
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「Ｂ・Ｆ－毒針のニードル」以外の「Ｂ・Ｆ」モンスター１体を手札に加える。②：このカード以外の自分フィールドの昆虫族モンスター１体をリリースし、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "B·F(비 포스)－독침의 니들" 이외의 "B·F(비 포스)" 몬스터 1장을 패에 넣는다. ②: 이 카드 이외의 자신 필드의 곤충족 몬스터 1장을 릴리스하고, 상대 필드의 효과 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把「蜂军-毒针之针刺蜂」以外的1只「蜂军」怪兽加入手卡。
     ②：把这张卡以外的自己场上1只昆虫族怪兽解放，以对方场上1只效果怪兽为对象才能发动。那只怪兽的效果直到回合结束时无效。这个效果在对方回合也能发动。
-type: Monster
-typeline: Insect / Tuner / Effect
+card_type: Monster
+monster_type_line: Insect / Tuner / Effect
 attribute: WIND
 level: 2
 atk: 400

@@ -7,10 +7,11 @@ name:
   fr: Oracle des Protecteurs du Tombeau
   it: Visionario - Custode di Tombe
   pt: Visionário do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>官</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>官</rb><rt>かん</rt></ruby>
   ja_romaji: Hakamori no Daishinkan
   ko: 묘지기의 대신관
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的大神官
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは「墓守の」と名のついたモンスター１体をリリースして召喚できる。このカードの攻撃力は、自分の墓地の「墓守の」と名のついたモンスターの数×２００ポイントアップする。また、フィールド上に表側表示で存在するこのカードが破壊される場合、代わりに手札から「墓守の」と名のついたモンスター１体を捨てる事ができる。
   ko: |-
     이 카드는 '묘지기의' 라는 이름이 붙은 몬스터 1장을 릴리스하고 소환할 수 있다. 이 카드의 공격력은, 자신의 묘지에 존재하는 '묘지기의' 라는 이름이 붙은 몬스터의 수 × 200포인트 올린다. 필드 위에 앞면 표시로 존재하는 이 카드가 파괴될 경우, 대신 패에서 '묘지기의' 라는 이름이 붙은 몬스터 1장을 버릴 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以把1只名字带有「守墓」的怪兽解放作召唤。这张卡的攻击力上升自己墓地的名字带有「守墓」的怪兽数量×200的数值。此外，场上表侧表示存在的这张卡被破坏的场合，可以作为代替从手卡丢弃1只名字带有「守墓」的怪兽。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 8
 atk: 2000

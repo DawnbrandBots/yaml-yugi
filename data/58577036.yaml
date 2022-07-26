@@ -7,10 +7,11 @@ name:
   fr: Raisonnement
   it: Ragionando
   pt: Raciocínio
-  ja: <ruby><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>推</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>理</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>名</rb><rt>めい</rt></ruby><ruby><rb>推</rb><rt>すい</rt></ruby><ruby><rb>理</rb><rt>り</rt></ruby>
   ja_romaji: Meisuiri
   ko: 명추리
   ko_rr: Myeongchuri
+  zh-TW: 名推理
   zh-CN: 名推理
 text:
   en: |-
@@ -26,10 +27,11 @@ text:
   pt: |-
     Seu oponente declara um Nível de monstro de 1 e 12. Escave cards do topo do seu Deck até escavar um monstro que pode ser Invocado por Invocação-Normal/Baixado, depois, se esse monstro for do mesmo Nível que o declarado pelo seu oponente, envie todos os cards escavados para o Cemitério. Caso contrário, Invoque o monstro escavado por Invocação-Especial e, além disso, envie os cards restantes para o Cemitério.
   ja: |-
-    ①: 상대는 1~12 까지의 임의의 레벨을 선언한다. 통상 소환 가능한 몬스터가 나올 때까지 자신의 덱 위에서 카드를 넘기고, 그 몬스터의 레벨이 선언된 레벨과 같을 경우, 넘긴 카드를 전부 묘지로 보낸다. 다를 경우, 그 몬스터를 특수 소환하고, 남은 넘긴 카드는 전부 묘지로 보낸다.
+    ①：相手は１～１２までの任意のレベルを宣言する。通常召喚可能なモンスターが出るまで自分のデッキの上からカードをめくり、そのモンスターのレベルが宣言されたレベルと同じ場合、めくったカードを全て墓地へ送る。違った場合、そのモンスターを特殊召喚し、残りのめくったカードは全て墓地へ送る。
   ko: |-
-    ①: 상대는 1~12 까지의 임의의 레벨을 선언한다. 통상 소환 가능한 몬스터가 나올 때까지 자신의 덱 위에서 카드를 넘겨, 그 몬스터의 레벨이 선언된 레벨과 같을 경우, 넘긴 카드를 전부 묘지로 보낸다. 다를 경우, 그 몬스터를 특수 소환하고, 남은 넘긴 카드는 전부 묘지로 보낸다.
+    ①: 상대는 1~12 까지의 임의의 레벨을 선언한다. 통상 소환 가능한 몬스터가 나올 때까지 자신의 덱 위에서 카드를 넘기고, 그 몬스터의 레벨이 선언된 레벨과 같을 경우, 넘긴 카드를 전부 묘지로 보낸다. 다를 경우, 그 몬스터를 특수 소환하고, 남은 넘긴 카드는 전부 묘지로 보낸다.
+  zh-TW: 对手宣言1～12的任意等级。我方从我方牌组的上方依序翻阅卡牌，直到出现能够通常召唤的怪兽为止。该怪兽与宣言等级相同的场合，翻阅的卡牌全部送入墓地。若不相同的场合，特殊召唤该怪兽，并将翻阅的除此以外的卡牌全部送入墓地。
   zh-CN: |-
-    ①：对方宣言1～12的任意等级。直到可以通常召唤的怪兽出现为止从自己卡组上面翻卡，那只怪兽的等级和宣言的等级相同的场合，翻开的卡全部送去墓地。不是的场合，那只怪兽特殊召唤，剩下的翻开的卡全部送去墓地。
-type: Spell
+    ①：对手宣言1～12为止的任意等级。从自己的牌组上面翻开卡，直至翻到可通常召唤的怪兽为止，该怪兽的等级与被宣言的等级相同的情况下，将所翻开的卡全部送至墓地。不同的情况下，将该怪兽特殊召唤，将所翻开的剩下的卡全部送至墓地。
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Purgatorio l'Invokhé
   it: Purgatrio Invokato
   pt: Purgatrio, o Invokado
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>プルガトリオ
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>プルガトリオ
   ja_romaji: Shōkanjū Purugatorio
   ko: 소환수 푸르가트리오
   ko_rr:
+  zh-TW:
   zh-CN: 召唤兽 普尔加托里奥
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "소환사 알레이스터" ＋ 화염 속성 몬스터
     ①: 이 카드의 공격력은, 상대 필드의 카드의 수 × 200 올린다. ②: 이 카드는 상대 몬스터 전부에 1회씩 공격할 수 있고, 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     「召唤师 阿莱斯特」＋炎属性怪兽
     ①：这张卡的攻击力上升对方场上的卡数量×200。②：这张卡可以向对方怪兽全部各作1次攻击，向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。
-type: Monster
-typeline: Fiend / Fusion / Effect
+card_type: Monster
+monster_type_line: Fiend / Fusion / Effect
 attribute: FIRE
 level: 7
 atk: 2300

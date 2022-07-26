@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>岩</rb><rt>がん</rt></ruby><ruby><rb>石</rb><rt>せき</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
   ja_romaji: Ganseki no Seirei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 岩石之精灵
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     はにわみたいだが岩石の精霊。攻撃・守備ともにかなり強い。
   ko:
+  zh-TW:
   zh-CN: |-
     指轮般的岩石精灵。攻击与守备力都很强。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: EARTH
 level: 5
 atk: 1650

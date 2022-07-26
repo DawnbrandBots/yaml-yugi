@@ -7,11 +7,12 @@ name:
   fr: Transport Autocaravane F.A.
   it: F.A. Trasporto Motoabitativo
   pt: F.A. Autocaravana de Transporte
-  ja: <ruby><rb>Ｆ．Ａ．</rb><rp>（</rp><rt>フォーミュラアスリート</rt><rp>）</rp></ruby>ホームトランスポーター
+  ja: <ruby><rb>Ｆ．Ａ．</rb><rt>フォーミュラアスリート</rt></ruby>ホームトランスポーター
   ja_romaji: Fōmyura Asurīto Hōmu Toransupōtā
-  ko: <ruby><rb>F.A.</rb><rp>（</rp><rt>포뮬러 애슬리트</rt><rp>）</rp></ruby> 홈트랜스포터
+  ko: <ruby><rb>F.A.</rb><rt>포뮬러 애슬리트</rt></ruby> 홈트랜스포터
   ko_rr: Pomyulleo Aeseulliteu Homteuraenseupoteo
-  zh-CN: 方程式运动员 车间运输员
+  zh-TW:
+  zh-CN: 方程式运动员 运载房车
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -49,13 +50,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드의 공격력은 이 카드의 레벨 × 300 올린다. ②: "F.A.(포뮬러 애슬리트)" 마법 / 함정 카드의 효과가 발동했을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 이 카드의 레벨을 1개 올린다. ③: 이 카드는, 이 카드의 레벨에 따라 이하의 효과를 얻는다. ●레벨 11 이상: 이 카드는 전투 / 효과로는 파괴되지 않는다. ●레벨 13 이상: 1턴에 1번, 자신 묘지의 "F.A.(포뮬러 애슬리트)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这张卡的攻击力上升这张卡的等级×300。每次「方程式运动员」魔法/陷阱卡的效果或者卡的发动：可以把这张卡的等级上升1星。这张卡得到这张卡等级的以下效果。
-    ●11星以上：不会被战斗或者卡的效果破坏。
-    ●13星以上：1回合1次：可以选择自己墓地1只「方程式运动员」怪兽；那只怪兽特殊召唤。
-type: Monster
-typeline: Machine / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    ①：此卡的攻击力上升相当于此卡等级×300的数值。②：“方程式运动员”魔法・陷阱卡的效果发动的情况下可以发动（伤害步骤也可以发动）。此卡的等级上升1。③：依据此卡的等级，此卡获得以下效果。●等级11以上：此卡不会因战斗・效果被破坏。●等级13以上：1回合1次，以自己墓地的1只“方程式运动员”怪兽为对象可以发动。将该怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: LIGHT
 level: 9
 atk: 0

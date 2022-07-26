@@ -7,10 +7,11 @@ name:
   fr: Bête Kyubi Samouraï Supralourd
   it: Samurai Superpesante Bestia Kyuni
   pt: Samurai Superpesado Besta Kyubi
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>キュウ－<ruby><rb>Ｂ</rb><rp>（</rp><rt>ビー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>キュウ－<ruby><rb>Ｂ</rb><rt>ビー</rt></ruby>
   ja_romaji: Chōjū Majū Kyū-Bī
-  ko: 초중마수큐우-<ruby><rb>B</rb><rp>（</rp><rt>비</rt><rp>）</rp></ruby>
+  ko: 초중마수큐우-<ruby><rb>B</rb><rt>비</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 超重魔兽 九尾-B
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 "초중무사" 몬스터 1장 이상
     이 카드는 룰 상 "초중무사" 카드로도 취급한다. ① : 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 이 카드의 수비력을 공격력으로 취급하여 데미지 계산을 실행한다. ② : 자신의 묘지에 마법 / 함정 카드가 존재하지 않을 경우, 이 카드의 수비력은, 상대 필드의 특수 소환된 몬스터의 수 × 900 올린다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的「超重武者」怪兽1只以上
     这张卡在规则上也当作「超重武者」卡使用。①：这张卡可以用表侧守备表示的状态作出攻击。那个场合，这张卡用守备力当作攻击力使用进行伤害计算。②：自己墓地没有魔法·陷阱卡存在的场合，这张卡的守备力上升对方场上的特殊召唤的怪兽数量×900。
-type: Monster
-typeline: Machine / Synchro / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: EARTH
 level: 9
 atk: 1900

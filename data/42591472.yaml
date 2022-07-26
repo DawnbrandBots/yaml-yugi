@@ -7,10 +7,11 @@ name:
   fr: Fleur Riante
   it:
   pt: Flor risonha
-  ja: <ruby><rb>笑</rb><rp>（</rp><rt>わら</rt><rp>）</rp></ruby>う<ruby><rb>花</rb><rp>（</rp><rt>ハナ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>笑</rb><rt>わら</rt></ruby>う<ruby><rb>花</rb><rt>ハナ</rt></ruby>
   ja_romaji: Warau Hana
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 笑花
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     いつも笑っている花。笑い声を聞きつづけると、頭が混乱する。
   ko:
+  zh-TW:
   zh-CN: |-
     总是在笑着的花。如果持续听它的笑声的话，头脑就会变得混乱。
-type: Monster
-typeline: Plant
+card_type: Monster
+monster_type_line: Plant
 attribute: EARTH
 level: 2
 atk: 900

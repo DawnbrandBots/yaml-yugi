@@ -7,10 +7,11 @@ name:
   fr: Envahisseur Interplanétaire A
   it: Invasore Interplanetario "A"
   pt: Invasor Interplanetário "A"
-  ja: <ruby><rb>惑</rb><rp>（</rp><rt>わく</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>からの<ruby><rb>物</rb><rp>（</rp><rt>ぶっ</rt><rp>）</rp></ruby><ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>Ａ</rb><rp>（</rp><rt>エー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>惑</rb><rt>わく</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>からの<ruby><rb>物</rb><rt>ぶっ</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby><ruby><rb>Ａ</rb><rt>エー</rt></ruby>
   ja_romaji: Wakusei-kara no Buttai Ē
   ko: 혹성에서온물체A
   ko_rr:
+  zh-TW:
   zh-CN: 来自惑星的物体A
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側表示で存在するこのカードを攻撃したモンスターのコントロールをバトルフェイズ終了時に得る。
   ko: |-
     필드 위에 앞면 공격 표시로 존재하는 이 카드를 공격한 몬스터의 컨트롤을, 배틀 페이즈 종료시에 얻는다.
+  zh-TW:
   zh-CN: |-
     向场上表侧攻击表示存在的这张卡攻击的怪兽的控制权在战斗阶段结束时得到。
-type: Monster
-typeline: Reptile / Effect
+card_type: Monster
+monster_type_line: Reptile / Effect
 attribute: LIGHT
 level: 1
 atk: 0

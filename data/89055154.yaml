@@ -7,10 +7,11 @@ name:
   fr: Ange Valkyrie de la Puissance
   it: Valkyria Angelo Potenziato
   pt: Poderosa Anja Valquíria
-  ja: <ruby><rb>力</rb><rp>（</rp><rt>りき</rt><rp>）</rp></ruby><ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ヴァルキリア
+  ja: <ruby><rb>力</rb><rt>りき</rt></ruby><ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>使</rb><rt>し</rt></ruby>ヴァルキリア
   ja_romaji: Riki Tenshi Varukiria
   ko: 역천사 발키리어
   ko_rr: Yeokcheonsa Balkiri-eo
+  zh-TW:
   zh-CN: 力天使 女武神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：自分がモンスターの効果・魔法・罠カードの発動を無効にした場合に発動する。デッキから天使族・光属性モンスター１体を手札に加える。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 자신이 몬스터의 효과 / 마법 / 함정 카드의 발동을 무효로 했을 경우에 발동한다. 덱에서 천사족 / 빛 속성 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。①：自己把怪兽的效果·魔法·陷阱卡的发动无效的场合发动。从卡组把1只天使族·光属性怪兽加入手卡。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

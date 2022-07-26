@@ -7,10 +7,11 @@ name:
   fr: Sirène Envoûtante
   it: Sirena Incantatrice
   pt: Sereia Fascinante
-  ja: <ruby><rb>恍</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>惚</rb><rp>（</rp><rt>こつ</rt><rp>）</rp></ruby>の<ruby><rb>人魚</rb><rp>（</rp><rt>マーメイド</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>恍</rb><rt>こう</rt></ruby><ruby><rb>惚</rb><rt>こつ</rt></ruby>の<ruby><rb>人魚</rb><rt>マーメイド</rt></ruby>
   ja_romaji: Kōkotsu no Māmeido
   ko: 황홀한 인어
   ko_rr:
+  zh-TW:
   zh-CN: 恍惚的人鱼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     海を航海する者を誘惑しておぼれさせる、美しい人魚。
   ko: |-
     아름다운 미모로 바다를 항해하는 자들을 유혹해서 익사시키는 인어
+  zh-TW:
   zh-CN: |-
     诱惑海上航海者使之溺水的美丽人鱼。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: WATER
 level: 3
 atk: 1200

@@ -7,10 +7,11 @@ name:
   fr: Moine du Tenyi
   it: Monaco del Tenyi
   pt: Monge dos Tenyi
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>威</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>の<ruby><rb>拳</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>僧</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>威</rb><rt>い</rt></ruby>の<ruby><rb>拳</rb><rt>けん</rt></ruby><ruby><rb>僧</rb><rt>そう</rt></ruby>
   ja_romaji: Ten'i no Kensō
   ko: 천위의 권승
   ko_rr: Cheonwi-ui Gwonseung
+  zh-TW:
   zh-CN: 天威之拳僧
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     リンクモンスター以外の「天威」モンスター１体
   ko: |-
     링크 몬스터 이외의 "천위" 몬스터 1장
+  zh-TW:
   zh-CN: |-
-    连接怪兽以外的「天威」怪兽1只
-type: Monster
-typeline: Wyrm / Link
+    连接怪兽以外的"天威"怪兽1只
+card_type: Monster
+monster_type_line: Wyrm / Link
 attribute: EARTH
 link_arrows:
-- Bottom-Center
+- ⬇
 atk: 1000
 sets:
   en:

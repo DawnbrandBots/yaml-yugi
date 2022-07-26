@@ -7,10 +7,11 @@ name:
   fr: Seigneur de la Flamme Légendaire
   it: Leggendario Signore delle Fiamme
   pt: Senhor da Chama Lendária
-  ja: <ruby><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>の<ruby><rb>爆炎使い</rb><rp>（</rp><rt>フレイム・ロード</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>伝</rb><rt>でん</rt></ruby><ruby><rb>説</rb><rt>せつ</rt></ruby>の<ruby><rb>爆炎使い</rb><rt>フレイム・ロード</rt></ruby>
   ja_romaji: Densetsu no Fureimu Rōdo
   ko: 전설의 폭염사
   ko_rr:
+  zh-TW:
   zh-CN: 传说的爆炎使
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「灼熱の試練」により降臨。フィールドか手札から、レベルが７以上になるようカードを生け贄に捧げなければならない。自分または相手が魔法を発動する度に、このカードに魔力カウンターを１個乗せる。このカードの魔力カウンターを３個取り除く事で、このカードを除くフィールド上のモンスターを全て破壊する。
   ko: |-
     "작열의 시련" 에 의해 의식 소환. 필드나 패에서, 레벨이 7 이상이 되도록 카드를 제물로 바쳐야 한다. 자신 또는 상대가 마법을 발동할 때마다, 이 카드에 마력 카운터를 1개 얹는다. 이 카드의 마력 카운터를 3개 제거하는 것으로, 이 카드 이외의 필드 위의 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     「灼热之试练」降临。必须从场上或手卡把等级直到7以上的卡作为祭品。每次自己或者对方把魔法发动，给这张卡放置1个魔力指示物。可以通过把这张卡的3个魔力指示物取除，除这张卡外的场上的怪兽全部破坏。
-type: Monster
-typeline: Spellcaster / Ritual / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Ritual / Effect
 attribute: FIRE
 level: 7
 atk: 2400

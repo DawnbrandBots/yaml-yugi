@@ -7,10 +7,11 @@ name:
   fr: Guide D.D.
   it: Guida D.D.
   pt: Guia de Outra Dimensão
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>への<ruby><rb>案</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>内</rb><rp>（</rp><rt>ない</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>への<ruby><rb>案</rb><rt>あん</rt></ruby><ruby><rb>内</rb><rt>ない</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby>
   ja_romaji: Ijigen'e no An'nainin
   ko: 이차원으로의 안내인
   ko_rr:
+  zh-TW:
   zh-CN: 异次元的案内人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの召喚に成功した時、このカードのコントロールは相手に移る。エンドフェイズ毎に、相手はこのカードのコントローラーの墓地からカード１枚を選択しゲームから除外する。
   ko: |-
     이 카드가 소환에 성공했을 때, 이 카드의 컨트롤러는 상대로 옮겨간다. 엔드페이즈 마다, 상대는 이 카드의 컨트롤러의 묘지로부터 카드 1장을 선택하고 게임으로부터 제외한다.
+  zh-TW:
   zh-CN: |-
     这张卡的召唤成功时，这张卡的控制权移给对方。每次结束阶段，对方从这张卡的控制者的墓地选择1张卡从游戏中除外。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1400

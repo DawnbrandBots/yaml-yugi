@@ -7,10 +7,11 @@ name:
   fr: Explosion de la Confrérie des Cinq
   it: Esplosione Cinque Fratelli
   pt: Explosão dos Cincos Irmãos
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>虎</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>梁</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>山</rb><rp>（</rp><rt>ざん</rt><rp>）</rp></ruby><ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>虎</rb><rt>こ</rt></ruby><ruby><rb>梁</rb><rt>りょう</rt></ruby><ruby><rb>山</rb><rt>ざん</rt></ruby><ruby><rb>爆</rb><rt>ばく</rt></ruby>
   ja_romaji: Enko Ryōzanbaku
   ko: 염호양산폭
   ko_rr:
+  zh-TW: 炎虎梁山爆
   zh-CN: 炎虎梁山爆
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードの発動時に、自分は自分フィールド上の永続魔法・永続罠カードの数×５００ライフポイント回復する。また、フィールド上に表側表示で存在するこのカードが相手の効果によって墓地へ送られた場合、自分の墓地の永続魔法・永続罠カードの数×５００ポイントダメージを相手ライフに与える。
   ko: |-
     이 카드의 발동시에, 자신은 자신 필드 위의 지속 마법 / 지속 함정 카드의 수 × 500 라이프 포인트 회복한다. 또한, 필드 위에 앞면 표시로 존재하는 이 카드가 상대의 효과에 의해서 묘지로 보내졌을 경우, 자신 묘지의 지속 마법 / 지속 함정 카드의 수 × 500 포인트 데미지를 상대 라이프에 준다.
+  zh-TW: 此卡发动时，我方回复相当于我方场上永续魔法、永续陷阱卡数量×500点的生命点数。此外，场上以表侧表示存在的此卡因对手效果被送入墓地的场合，给予对手生命相当于我方墓地的永续魔法、永续陷阱卡数量×500点的伤害。
   zh-CN: |-
     这张卡的发动时，自己回复自己场上的永续魔法·永续陷阱卡数量×500基本分。此外，场上表侧表示存在的这张卡被对方的效果送去墓地的场合，给与对方基本分自己墓地的永续魔法·永续陷阱卡数量×500的数值的伤害。
-type: Trap
+card_type: Trap
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr: Trappe d'Adhérence
   it: Buco Trappola Adesivo
   pt: Buraco Armadilha da Adesão
-  ja: <ruby><rb>粘</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby><ruby><rb>着</rb><rp>（</rp><rt>ちゃく</rt><rp>）</rp></ruby><ruby><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし<ruby><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>粘</rb><rt>ねん</rt></ruby><ruby><rb>着</rb><rt>ちゃく</rt></ruby><ruby><rb>落</rb><rt>お</rt></ruby>とし<ruby><rb>穴</rb><rt>あな</rt></ruby>
   ja_romaji: Nenchaku Otoshiana
   ko: 끈끈이 함정 속으로
   ko_rr:
+  zh-TW:
   zh-CN: 黏着的落穴
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手がモンスターの召喚・反転召喚・特殊召喚に成功した時に発動する事ができる。そのモンスターはフィールド上に表側表示で存在する限り、元々の攻撃力が半分になる。
   ko: |-
     상대가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 발동할 수 있다. 그 몬스터는 필드 위에 존재하는 한, 공격력이 절반이 된다.
+  zh-TW:
   zh-CN: |-
     对方对怪兽的召唤·反转召唤·特殊召唤成功时才能发动。那只怪兽只要在场上表侧表示存在，原本攻击力变成一半。
-type: Trap
+card_type: Trap
 property: Normal

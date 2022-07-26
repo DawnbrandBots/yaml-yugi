@@ -7,11 +7,12 @@ name:
   fr: D/D/D Roi du Déclin Armageddon
   it: D/D/D Armageddon Re del Giudizio
   pt: D/D/D Armagedom, o Rei do Fim
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>偉</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ヘル・アーマゲドン
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>偉</rb><rt>い</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ヘル・アーマゲドン
   ja_romaji: Dīdīdī Shi'iō Heru Āmagedon
-  ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
+  ko: <ruby><rb>D</rb><rt>디</rt></ruby><ruby><rb>D</rb><rt>디</rt></ruby><ruby><rb>D</rb><rt>디</rt></ruby>
     사위왕 헬 아마게돈
   ko_rr:
+  zh-TW:
   zh-CN:
 text:
   en: |-
@@ -30,9 +31,10 @@ text:
     ①：１ターンに１度、自分フィールドのモンスターが戦闘・効果で破壊された場合、そのモンスター１体を対象として発動できる。このカードの攻撃力はターン終了時まで、対象のモンスターの元々の攻撃力分アップする。この効果を発動するターン、このカードは直接攻撃できない。②：このカードは、このカードを対象としない魔法・罠カードの効果では破壊されない。
   ko: |-
     ①: 1턴에 1번, 자신 필드의 몬스터가 전투 / 효과로 파괴되었을 경우, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 대상 몬스터의 원래 공격력만큼 올린다. 이 효과를 발동한 턴에, 이 카드는 직접 공격할 수 없다. ②: 이 카드는, 이 카드를 대상으로 하지 않는 마법 / 함정 카드의 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN:
-type: Monster
-typeline: Fiend / Pendulum / Effect
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Effect
 attribute: DARK
 level: 8
 atk: 3000
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：１ターンに１度、自分フィールドの「ＤＤ」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで８００アップする。
   ko: |-
     ①: 1턴에 1번, 자신 필드의 "DD(디디)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 800 올린다.
+  zh-TW:
   zh-CN:
 sets:
   en:

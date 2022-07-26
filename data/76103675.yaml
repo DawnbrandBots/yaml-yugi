@@ -7,10 +7,11 @@ name:
   fr: Étincelles
   it: Scintille
   pt: Faíscas
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>の<ruby><rb>粉</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>ひ</rt></ruby>の<ruby><rb>粉</rb><rt>こ</rt></ruby>
   ja_romaji: Hinoko
   ko: 스파크
   ko_rr:
+  zh-TW:
   zh-CN: 火星
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手ライフに２００ポイントダメージを与える。
   ko: |-
     상대의 라이프 포인트에 200 포인트의 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     给与对方基本分200分伤害。
-type: Spell
+card_type: Spell
 property: Normal

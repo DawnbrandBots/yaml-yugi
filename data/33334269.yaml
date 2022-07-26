@@ -7,11 +7,11 @@ name:
   fr: Fantôme D/D
   it: D/D Fantasma
   pt: D/D Fantasma
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>ゴースト
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>ゴースト
   ja_romaji: Dīdī Gōsuto
-  ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
-    고스트
+  ko: <ruby><rb>D</rb><rt>디</rt></ruby><ruby><rb>D</rb><rt>디</rt></ruby> 고스트
   ko_rr:
+  zh-TW:
   zh-CN: DD 幽灵
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     ①：このカードが墓地へ送られた場合、自分の墓地の、「ＤＤゴースト」以外の「ＤＤ」モンスター１体または「契約書」カード１枚を対象として発動できる。その同名カード１枚をデッキから墓地へ送る。②：このカードが除外された場合、除外されている自分のカードの中から、「ＤＤゴースト」以外の「ＤＤ」モンスター１体または「契約書」カード１枚を対象として発動できる。そのカードを墓地に戻す。
   ko: |-
     ①: 이 카드가 묘지로 보내졌을 경우, 자신 묘지의, "DD(디디) 고스트" 이외의 "DD(디디)" 몬스터 1장 또는 "계약서" 카드 1장을 대상으로 하고 발동할 수 있다. 그 같은 이름의 카드 1장을 덱에서 묘지로 보낸다. ②: 이 카드가 제외되었을 경우, 제외되어있는 자신의 카드 중에서, "DD(디디) 고스트" 이외의 "DD(디디)" 몬스터 1장 또는 "계약서" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 묘지로 되돌린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被送去墓地的场合，以自己墓地1只「DD 幽灵」以外的「DD」怪兽或者1张「契约书」卡为对象才能发动。那1张同名卡从卡组送去墓地。②：这张卡被除外的场合，从除外的自己的卡之中以「DD 幽灵」以外的1只「DD」怪兽或者1张「契约书」卡为对象才能发动。那张卡回到墓地。
-type: Monster
-typeline: Fiend / Tuner / Effect
+card_type: Monster
+monster_type_line: Fiend / Tuner / Effect
 attribute: DARK
 level: 2
 atk: 600

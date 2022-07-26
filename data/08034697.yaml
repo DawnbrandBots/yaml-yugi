@@ -7,10 +7,11 @@ name:
   fr: Marionnette Magique
   it: Marionetta Magica
   pt: Marionete Mágica
-  ja: <ruby><rb>魔法の操り人形</rb><rp>（</rp><rt>マジカル・マリオネット</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔法の操り人形</rb><rt>マジカル・マリオネット</rt></ruby>
   ja_romaji: Majikaru Marionetto
   ko: 마법의 꼭두각시 인형
   ko_rr:
+  zh-TW:
   zh-CN: 魔法操纵人偶
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに乘っている魔力カウンター１つにつき、このカードの攻擊力は２００ポイントアップする。また、このカードに乘っている魔力カウンターを２つ取り除く事で、フィールド上に存在するモンスター１體を破壞する。
   ko: |-
     자신 또는 상대가 마법을 발동할 때마다, 이 카드의 마력 카운터를 1개 얹는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 200 포인트 올린다. 또한, 마력 카운터를 2개 제거하는 것으로, 필드 위의 몬스터 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，每次自己或者对方把魔法卡发动，给这张卡放置1个魔力指示物。这张卡放置的魔力指示物每有1个，这张卡的攻击力上升200。此外，可以通过把这张卡放置的2个魔力指示物取除，场上存在的1只怪兽破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 5
 atk: 2000

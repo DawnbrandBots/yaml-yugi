@@ -7,10 +7,11 @@ name:
   fr: Driceratops des Ténèbres
   it: Triceratopo Oscuro
   pt: Driceratops Negro
-  ja: <ruby><rb>暗黒</rb><rp>（</rp><rt>ダーク</rt><rp>）</rp></ruby>ドリケラトプス
+  ja: <ruby><rb>暗黒</rb><rt>ダーク</rt></ruby>ドリケラトプス
   ja_romaji: Dāku Dorikeratopusu
   ko: 암흑 트리케라톱스
   ko_rr:
+  zh-TW:
   zh-CN: 暗黑三角怪鸟龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが守備表示モンスターを攻撃した時、このカードの攻撃力が守備表示モンスターの守備力を越えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
   ko: |-
     이 카드가 수비 표시 몬스터를 공격했을 떄,이 카드의 공격력이 수비 표시 몬스터의 수비력을 넘었으면,그 수치만큼 상대 라이프에 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     这张卡向守备表示怪兽攻击时，若这张卡的攻击力超过守备表示怪兽的守备力，给与对方基本分那个数值的战斗伤害。
-type: Monster
-typeline: Dinosaur / Effect
+card_type: Monster
+monster_type_line: Dinosaur / Effect
 attribute: EARTH
 level: 6
 atk: 2400

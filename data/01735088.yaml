@@ -7,10 +7,11 @@ name:
   fr: Zenmaintenance Automate
   it: Zenmaintenimento a Molla
   pt: Zenmainutenção de Corda
-  ja: <ruby><rb>発</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>条</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>補</rb><rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby><rb>修</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>ゼンマイコン
+  ja: <ruby><rb>発</rb><rt>ぜん</rt></ruby><ruby><rb>条</rb><rt>まい</rt></ruby><ruby><rb>補</rb><rt>ほ</rt></ruby><ruby><rb>修</rb><rt>しゅう</rt></ruby>ゼンマイコン
   ja_romaji: Zenmai Hoshū Zenmaikon
   ko: 발조보수 태엽콘
   ko_rr:
+  zh-TW:
   zh-CN: 发条修补 发条微机
 text:
   en: |-
@@ -48,18 +49,19 @@ text:
   ko: |-
     "태엽" 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "태엽" 카드 1장을 패에 넣는다. ② : 자신 필드의 앞면 표시의 "태엽" 몬스터 1장을 뒷면 표시로 제외하고 발동할 수 있다. 그것과 같은 이름의 몬스터 1장을 덱에서 특수 소환한다. ③ : 이 카드가 파괴되어 묘지로 보내졌을 경우, 자신 필드의 "태엽" 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 그 몬스터의 아래에 겹쳐서 엑시즈 소재로 한다.
+  zh-TW:
   zh-CN: |-
     「发条」怪兽2只
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「发条」卡加入手卡。
     ②：把自己场上1只表侧表示的「发条」怪兽里侧表示除外才能发动。把1只和那只是同名的怪兽从卡组特殊召唤。
     ③：这张卡被破坏送去墓地的场合，以自己场上1只「发条」超量怪兽为对象才能发动。把这张卡在那只怪兽下面重叠作为超量素材。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1800
 materials: 2 "Wind-Up" monsters
 sets:

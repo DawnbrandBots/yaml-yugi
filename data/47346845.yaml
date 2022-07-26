@@ -7,10 +7,11 @@ name:
   fr: Homme-Batterie AAA
   it: Uomo Batteria AAA
   pt: Homem-Bateria AAA
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>池</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>メン－<ruby><rb>単</rb><rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby><rb>四</rb><rp>（</rp><rt>よん</rt><rp>）</rp></ruby><ruby><rb>型</rb><rp>（</rp><rt>がた</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>池</rb><rt>ち</rt></ruby>メン－<ruby><rb>単</rb><rt>たん</rt></ruby><ruby><rb>四</rb><rt>よん</rt></ruby><ruby><rb>型</rb><rt>がた</rt></ruby>
   ja_romaji: Denchimen - Tan'yongata
   ko: 전지맨-AAA
   ko_rr:
+  zh-TW:
   zh-CN: 电池人-单四型
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚・リバースしたとき、自分の手札・墓地に存在する「電池メン－単四型」１体を特殊召喚する事ができる。
   ko: |-
     이 카드가 일반 소환 / 리버스했을 때, 자신의 패 / 묘지에 존재하는 '전지맨-AAA' 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转时，可以从自己的手卡·墓地选1只「电池人-单四型」特殊召唤。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 0

@@ -7,10 +7,11 @@ name:
   fr: Le Mystérieux
   it: L'Ingannatore
   pt: O Enganador
-  ja: <ruby><rb>ＴＨＥ</rb><rp>（</rp><rt>ザ</rt><rp>）</rp></ruby> トリッキー
+  ja: <ruby><rb>ＴＨＥ</rb><rt>ザ</rt></ruby> トリッキー
   ja_romaji: Za Torikkī
   ko: 더 트릭키
   ko_rr: Deo Teurik-ki
+  zh-TW:
   zh-CN: 诡术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードは手札を１枚捨てて、手札から特殊召喚できる。
   ko: |-
     ①: 이 카드는 패를 1장 버리고, 패에서 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡可以丢弃1张手卡，从手卡特殊召唤。
-type: Monster
-typeline: Spellcaster / Effect
+    ①：舍弃1张手牌，可将此卡从手牌特殊召唤。
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 5
 atk: 2000

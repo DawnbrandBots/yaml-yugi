@@ -7,10 +7,11 @@ name:
   fr: Gobelin Cupide
   it: Goblin dell'Avidità
   pt: Goblin da Ganância
-  ja: <ruby><rb>強</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>欲</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby>ゴブリン
+  ja: <ruby><rb>強</rb><rt>ごう</rt></ruby><ruby><rb>欲</rb><rt>よく</rt></ruby>ゴブリン
   ja_romaji: Gōyoku Goburin
   ko: 욕망의 고블린
   ko_rr:
+  zh-TW:
   zh-CN: 强欲哥布林
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが表側表示で自分フィールド上に存在する限り、お互いは「手札のカードを捨てる事によって発動する効果」を発動できない。
   ko: |-
     이 카드가 앞면 표시로 자신 필드 위에 존재하는 한, 양쪽 플레이어는 "패의 카드를 버리는 것에 의해서 발동하는 효과" 를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     只要这张卡表侧表示在自己场上存在，双方不能把「通过丢弃手卡的卡发动的效果」发动。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: EARTH
 level: 4
 atk: 1000

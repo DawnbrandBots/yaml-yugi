@@ -7,10 +7,11 @@ name:
   fr: Pénombre Femme Soldat
   it: Signora Combattente della Penombra
   pt: Lady Guerreira da Lua
-  ja: <ruby><rb>月</rb><rp>（</rp><rt>つき</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>おんな</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>女</rb><rt>おんな</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Tsuki no Onna Senshi
   ko: 달의 여전사
   ko_rr:
+  zh-TW:
   zh-CN: 月之女战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     光属性モンスターと戦闘をする場合、ダメージステップの間このカードの攻撃力は１０００ポイントアップする。
   ko: |-
     빛 속성 몬스터와 전투를 할 경우, 데미지 스텝 동안 이 카드의 공격력은 1000 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     和光属性怪兽战斗的场合，伤害步骤内这张卡的攻击力上升1000。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 6
 atk: 2100

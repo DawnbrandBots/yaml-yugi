@@ -7,10 +7,11 @@ name:
   fr: Réduction de Karma
   it: Taglio Karmico
   pt: Corte do Carma
-  ja: <ruby><rb>因</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby><rb>果</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby><rb>切</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>因</rb><rt>いん</rt></ruby><ruby><rb>果</rb><rt>が</rt></ruby><ruby><rb>切</rb><rt>せつ</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby>
   ja_romaji: Inga Setsudan
   ko: 인과절단
   ko_rr:
+  zh-TW: 因果切斷
   zh-CN: 因果切断
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：手札を１枚捨て、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手の表側表示モンスターを除外する。この効果で除外したカードの同名カードが相手の墓地に存在する場合、さらにその同名カードを全て除外する。
   ko: |-
     패를 1장 버리고 발동할 수 있다. 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 게임에서 제외한다. 이 효과에 의해서 제외한 몬스터와 같은 이름의 카드가 상대의 묘지에 존재할 경우, 다시 그 같은 이름의 카드를 전부 게임에서 제외한다.
+  zh-TW: 可舍弃1张手牌发动。选择以表侧表示存在于对手场上的1只怪兽从游戏中除外。对手墓地中存在因此效果除外的怪兽的同名卡的场合，进一步将此同名卡全部从游戏中除外。
   zh-CN: |-
     丢弃1张手卡才能发动。选择对方场上表侧表示存在的1只怪兽从游戏中除外。和这个效果除外的怪兽同名的卡在对方墓地存在的场合，再把那些同名卡全部从游戏中除外。
-type: Trap
+card_type: Trap
 property: Normal

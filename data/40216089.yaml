@@ -11,6 +11,7 @@ name:
   ja_romaji: Purachina Gajetto
   ko: 플라티나 가제트
   ko_rr: Peullatina Gajeteu
+  zh-TW:
   zh-CN: 白金零件
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     기계족 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. 이 카드는 링크 소환된 턴에는 링크 소재로 할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 패에서 레벨 4 이하의 기계족 몬스터 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. ②: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 레벨 4 의 "가제트" 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     机械族怪兽2只
     这个卡名的①②的效果1回合各能使用1次。这张卡在连接召唤的回合不能作为连接素材。
     ①：自己主要阶段才能发动。从手卡把1只4星以下的机械族怪兽在作为这张卡所连接区的自己场上特殊召唤。
     ②：这张卡被战斗·效果破坏的场合才能发动。从卡组把1只4星「零件」怪兽特殊召唤。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1600
 materials: 2 Machine monsters
 sets:

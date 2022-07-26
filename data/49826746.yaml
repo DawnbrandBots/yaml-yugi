@@ -7,10 +7,11 @@ name:
   fr: Sorcière aux Ailes de Nuit
   it: Stregona Ala della Notte
   pt: Feiticeira das Asas das Noite
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>翼</rb><rt>よく</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Kokuyoku no Majutsushi
   ko: 검은 날개의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 黑翼的魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、このカードのコントローラーは「バスター・モード」をセットしたターンに発動できる。
   ko: |-
     이 카드가 자신 필드 위에 앞면 표시로 존재하는 한, 이 카드의 컨트롤러는 '버스터 모드' 를 세트한 턴에 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，这张卡的控制者可以把「爆裂模式」在盖放的回合发动。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 3
 atk: 1300

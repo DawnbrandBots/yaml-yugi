@@ -7,10 +7,11 @@ name:
   fr: La Petite Fille Malheureuse
   it: La Fanciulla Infelice
   pt: A Donzela Infeliz
-  ja: <ruby><rb>薄</rb><rp>（</rp><rt>はっ</rt><rp>）</rp></ruby><ruby><rb>幸</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>の<ruby><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>少</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>薄</rb><rt>はっ</rt></ruby><ruby><rb>幸</rb><rt>こう</rt></ruby>の<ruby><rb>美</rb><rt>び</rt></ruby><ruby><rb>少</rb><rt>しょう</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>
   ja_romaji: Hakkō no Bishōjo
   ko: 불행한 소녀
   ko_rr:
+  zh-TW: 薄幸的美少女
   zh-CN: 不幸的美少女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが戦闘によって墓地に送られた時、そのターンのバトルフェイズは終了する。
   ko: |-
     이 카드가 전투에 의해 묘지로 보내졌을때 그 턴의 배틀 페이즈를 종료한다.
+  zh-TW: 当此卡在战斗中遭受破坏被送入墓地时，此回合的战斗阶段结束。
   zh-CN: |-
     这张卡被战斗破坏送去墓地时，这个回合的战斗阶段结束。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 1
 atk: 0

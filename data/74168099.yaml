@@ -7,10 +7,11 @@ name:
   fr: Confrérie du Poing de Feu - Prince des Chevaux
   it: Fratellanza del Pugno di Fuoco - Principe Cavallo
   pt: Irmandade do Punho de Fogo - Príncipe Cavalo
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>侯</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>－ホウシン
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>侯</rb><rt>こう</rt></ruby>－ホウシン
   ja_romaji: Enseikō Hōshin
   ko: 염성후－호우신
   ko_rr: Yeomseonghu - Housin
+  zh-TW: 炎星侯－馬進
   zh-CN: 炎星侯-马信
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     화염 속성 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 덱에서 화염 속성 / 레벨 3 몬스터 1장을 특수 소환한다. ②: 이 카드가 싱크로 소환에 성공한 턴에, 자신은 레벨 5 이상의 몬스터를 특수 소환할 수 없다.
+  zh-TW: "炎属性协调＋协调以外的怪兽1只或以上\n此卡同步召唤成功时，可从牌组特殊召唤1只炎属性、等级3怪兽。此外，此卡同步召唤成功的回合，我方不可特殊召唤等级5或以上的怪兽。"
   zh-CN: |-
     炎属性调整＋调整以外的怪兽1只以上
     ①：这张卡同调召唤成功时才能发动。从卡组把1只炎属性·3星怪兽特殊召唤。②：这张卡同调召唤成功的回合，自己不能把5星以上的怪兽特殊召唤。
-type: Monster
-typeline: Beast-Warrior / Synchro / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Synchro / Effect
 attribute: FIRE
 level: 6
 atk: 2200

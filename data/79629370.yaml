@@ -7,10 +7,11 @@ name:
   fr: Jeune Fille du Clair de Lune
   it:
   pt: Dama da Luz da Lua
-  ja: <ruby><rb>月</rb><rp>（</rp><rt>つき</rt><rp>）</rp></ruby><ruby><rb>明</rb><rp>（</rp><rt>あ</rt><rp>）</rp></ruby>かりの<ruby><rb>乙</rb><rp>（</rp><rt>おと</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>月</rb><rt>つき</rt></ruby><ruby><rb>明</rb><rt>あ</rt></ruby>かりの<ruby><rb>乙</rb><rt>おと</rt></ruby><ruby><rb>女</rb><rt>め</rt></ruby>
   ja_romaji: Tsuki Akari no Otome
   ko: 달빛의 소녀
   ko_rr:
+  zh-TW:
   zh-CN: 月光少女
 text:
   en: |-
@@ -25,10 +26,11 @@ text:
     月に守護されている月の魔導士。神秘的な魔法で幻想を見せる。
   ko: |-
     달의 수호를 받고 있는 달의 마도사. 신비스런 마법으로 환상을 보여준다.
+  zh-TW:
   zh-CN: |-
     月亮加护的魔导士。神秘的魔法能使人看到幻觉。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: LIGHT
 level: 4
 atk: 1500

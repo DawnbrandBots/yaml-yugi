@@ -7,10 +7,11 @@ name:
   fr: Protecteur du Désert
   it: Protettore del Deserto
   pt: Protetor do Deserto
-  ja: <ruby><rb>砂漠の守護者</rb><rp>（</rp><rt>デザート・ガードナー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>砂漠の守護者</rb><rt>デザート・ガードナー</rt></ruby>
   ja_romaji: Dezāto Gādonā
   ko: 사막의 수호자
   ko_rr:
+  zh-TW:
   zh-CN: 沙漠守护者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの守備力は、フィールド上に存在する魔法・罠カードの枚数×３００ポイントアップする。自分フィールド上に存在する昆虫族モンスターが破壊される場合、代わりにこのカードを破壊する事ができる。
   ko: |-
     이 카드의 수비력은 필드 위에 존재하는 마법 / 함정 카드의 매수 × 300 포인트 올린다. 자신 필드 위에 존재하는 곤충족 몬스터가 파괴될 경우, 대신에 이 카드를 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡的守备力上升场上存在的魔法·陷阱卡数量×300的数值。自己场上存在的昆虫族怪兽被破坏的场合，可以作为代替把这张卡破坏。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 4
 atk: 800

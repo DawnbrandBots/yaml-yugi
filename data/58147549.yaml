@@ -7,11 +7,12 @@ name:
   fr: Goka, HÉROS Masqué
   it: Goka EROE Mascherato
   pt: Goka, o HERÓI Mascarado
-  ja: <ruby><rb>Ｍ・ＨＥＲＯ</rb><rp>（</rp><rt>マスクドヒーロー</rt><rp>）</rp></ruby> <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｍ・ＨＥＲＯ</rb><rt>マスクドヒーロー</rt></ruby> <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby>
   ja_romaji: Masukudo Hīrō Gōka
   ko: 마스크드 히어로 강화
   ko_rr:
-  zh-CN: 假面英雄 刚火
+  zh-TW:
+  zh-CN: 假面－英雄 刚火
 text:
   en: |-
     Must be Special Summoned with "Mask Change". Gains 100 ATK for each "HERO" monster in your GY.
@@ -29,10 +30,11 @@ text:
     このカードは「マスク・チェンジ」の効果でのみ特殊召喚する事ができる。このカードの攻撃力は、自分の墓地に存在する「ＨＥＲＯ」と名のついたモンスターの数×１００ポイントアップする。
   ko: |-
     이 카드는 "마스크 체인지"의 효과로만 특수 소환할 수 있다. 이 카드의 공격력은 자신의 묘지에 존재하는 "히어로"라는 이름이 붙은 몬스터의 수 × 100 포인트 올린다.
+  zh-TW:
   zh-CN: |-
-    这张卡用「假面变化」的效果才能特殊召唤。这张卡的攻击力上升自己墓地的名字带有「英雄」的怪兽数量×100的数值。
-type: Monster
-typeline: Warrior / Fusion / Effect
+    此卡仅可以"假面变换"的效果特殊召唤。①：此卡的攻击力上升相当于自己墓地的"－英雄"怪兽数量×100的数值。
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: FIRE
 level: 6
 atk: 2200
@@ -93,3 +95,8 @@ sets:
     set_name: Premium Pack Vol.6
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SD27-SCP06
+    set_name: "Structure Deck: HERO's Strike Deck Enhancement Pack"
+    rarities:
+    - Super Rare

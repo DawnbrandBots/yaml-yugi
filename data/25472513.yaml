@@ -7,10 +7,11 @@ name:
   fr: Shaman Céleste de la Double Étoile
   it: Sciamano Doppia Stella Celestiale
   pt: Xamã da Estrela Celestial Dupla
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>輪</rb><rp>（</rp><rt>りん</rt><rp>）</rp></ruby>の<ruby><rb>双</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>輪</rb><rt>りん</rt></ruby>の<ruby><rb>双</rb><rt>そう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Tenrin no Sōsei Dōshi
   ko: 천륜의 쌍성도사
   ko_rr:
+  zh-TW:
   zh-CN: 天轮之双星道士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장
     "천륜의 쌍성도사"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 자신의 패 / 묘지에서 튜너 이외의 레벨 2 몬스터를 4장까지 고르고 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다. 이 효과의 발동 후, 턴 종료시까지 자신은 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只
-    「天轮之双星道士」的效果1回合只能使用1次。①：这张卡同调召唤成功时才能发动。从自己的手卡·墓地选最多4只调整以外的2星怪兽守备表示特殊召唤。这个效果特殊召唤的怪兽的效果无效化。这个效果的发动后，直到回合结束时自己不是同调怪兽不能从额外卡组特殊召唤。
-type: Monster
-typeline: Fairy / Synchro / Tuner / Effect
+    协调＋1只协调以外的怪兽
+    此卡名的效果1回合仅可使用1次。①：此卡同步召唤成功时可以发动。从自己的手牌・墓地挑选最多4只协调以外的等级2怪兽，以守备表示特殊召唤。以此效果特殊召唤的怪兽的效果无效化。此效果发动后，直至回合结束时为止自己从额外牌组仅可特殊召唤同步怪兽。
+card_type: Monster
+monster_type_line: Fairy / Synchro / Tuner / Effect
 attribute: LIGHT
 level: 2
 atk: 100
@@ -81,5 +83,10 @@ sets:
   ko:
   - set_number: PP12-KR015
     set_name: Premium Pack Vol.12
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: SD28-SCP19
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
     rarities:
     - Super Rare

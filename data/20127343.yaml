@@ -7,10 +7,11 @@ name:
   fr: Changeur, Allié Genex
   it: Genex Alleato Cambiatore
   pt:
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アーリー</rt><rp>）</rp></ruby>・ジェネクス・チェンジャー
+  ja: <ruby><rb>Ａ</rb><rt>アーリー</rt></ruby>・ジェネクス・チェンジャー
   ja_romaji: Ārī Jenekusu Chenjā
   ko: A·제넥스 체인저
   ko_rr:
+  zh-TW:
   zh-CN: 盟军·次世代转换员
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     １ターンに１度、フィールド上に表側表示で存在するモンスター１体を選択し、属性を１つ宣言して発動できる。選択したモンスターの属性はエンドフェイズ時まで宣言した属性になる。
   ko: |-
     필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고, 속성을 1개 선언하여 발동한다. 이 턴의 엔드 페이즈시까지, 선택한 몬스터의 속성은 선언한 속성이 된다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     1回合1次，选择场上表侧表示存在的1只怪兽，宣言1个属性才能发动。选择的怪兽的属性直到结束阶段时变成宣言的属性。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 3
 atk: 1200

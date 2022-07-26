@@ -7,10 +7,11 @@ name:
   fr: Flèche Roquette Express
   it: Espresso Freccia Razzo
   pt: Expresso Foguete Flecha
-  ja: <ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>走</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>特</rb><rp>（</rp><rt>とっ</rt><rp>）</rp></ruby><ruby><rb>急</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>ロケット・アロー
+  ja: <ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>走</rb><rt>そう</rt></ruby><ruby><rb>特</rb><rt>とっ</rt></ruby><ruby><rb>急</rb><rt>きゅう</rt></ruby>ロケット・アロー
   ja_romaji: Bakusō Tokkyū Roketto Arō
   ko: 폭주특급 로켓 애로우
   ko_rr:
+  zh-TW:
   zh-CN: 爆走特急 火箭飞矢
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分フィールド上にカードが存在しない場合のみ特殊召喚できる。このカードを特殊召喚するターン、自分はバトルフェイズを行えない。このカードがフィールド上に表側表示で存在する限り、自分は魔法・罠・効果モンスターの効果を発動できず、カードをセットする事もできない。このカードのコントローラーは自分のスタンバイフェイズ毎に手札を全て墓地へ送る。またはこのカードを破壊する。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 자신 필드 위에 카드가 존재하지 않는 경우에만 특수 소환할 수 있다. 이 카드를 특수 소환하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신은 마법 / 함정 / 효과 몬스터의 효과를 발동할 수 없으며, 카드를 세트할 수도 없다. 이 카드의 컨트롤러는 자신의 스텐바이 페이즈마다 패를 전부 묘지로 보낸다. 또는 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。自己场上没有卡存在的场合才能特殊召唤。这张卡特殊召唤的回合，自己不能进行战斗阶段。只要这张卡在场上表侧表示存在，自己不能把魔法·陷阱·效果怪兽的效果发动，也不能把卡盖放。这张卡的控制者在每次自己的准备阶段把手卡全部送去墓地。或者让这张卡破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 10
 atk: 5000

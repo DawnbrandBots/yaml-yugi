@@ -7,10 +7,11 @@ name:
   fr: Soldat Lumineux
   it: Soldato Luminoso
   pt: Soldado do Sol
-  ja: <ruby><rb>太</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>陽</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>太</rb><rt>たい</rt></ruby><ruby><rb>陽</rb><rt>よう</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Taiyō no Senshi
   ko: 태양의 전사
   ko_rr:
+  zh-TW: 太陽戰士
   zh-CN: 太阳之战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが闇属性モンスターと戦闘を行う場合、ダメージステップの間このカードの攻撃力は５００ポイントアップする。
   ko: |-
     어둠 속성 몬스터와 전투를 실행할 경우, 데미지 스텝 동안 이 카드의 공격력은 500 포인트 올린다.
+  zh-TW: 若此卡是与暗属性怪兽战斗的情形，在伤害步骤期间，提升攻击力500点。
   zh-CN: |-
     这张卡和暗属性怪兽进行战斗的场合，伤害步骤内这张卡的攻击力上升500。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 5
 atk: 2100

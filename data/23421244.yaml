@@ -11,6 +11,7 @@ name:
   ja_romaji: Ribōn Zonbi
   ko: 리본 좀비
   ko_rr:
+  zh-TW:
   zh-CN: 再生僵尸
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分の手札が０枚の場合、フィールド上に攻撃表示で存在するこのカードは戦闘では破壊されない。
   ko: |-
     자신의 패가 0 장인 한, 공격 표시의 이 카드는 전투에 의해서는 파괴되지 않는다. (데미지 계산은 적용한다.)
+  zh-TW:
   zh-CN: |-
     自己手卡是0张的场合，场上攻击表示存在的这张卡不会被战斗破坏。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 4
 atk: 1000

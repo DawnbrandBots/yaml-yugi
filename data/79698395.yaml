@@ -7,11 +7,12 @@ name:
   fr: Royaume du Danger !
   it: Reame del Pericolo!
   pt: Reino do Perigo!
-  ja: <ruby><rb>未</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>－ユーマリア<ruby><rb>大</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>陸</rb><rp>（</rp><rt>りく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>未</rb><rt>み</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>域</rb><rt>いき</rt></ruby>－ユーマリア<ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>陸</rb><rt>りく</rt></ruby>
   ja_romaji: Mikai'iki - Yūmaria Tairiku
   ko: 미계역－유마리아 대륙
   ko_rr: Migyeyeok - Yumaria Daeryuk
-  zh-CN: 危险！世界
+  zh-TW:
+  zh-CN: 未界域－欧玛利亚大陆
 text:
   en: |-
     Your opponent cannot target "Danger!" monsters you control with card effects during the turn they are Special Summoned. Once per turn: You can target 1 "Danger!" monster you control; while you control that face-up monster and this face-up card, that monster can attack directly, also your opponent's monsters cannot target it for attacks, but it does not prevent your opponent from attacking you directly.
@@ -29,7 +30,8 @@ text:
     ①：このカードがフィールドゾーンに存在する限り、自分フィールドの「未界域」モンスターは特殊召喚されたターンには相手の効果の対象にならない。②：１ターンに１度、自分フィールドの「未界域」モンスター１体を対象として発動できる。そのモンスターとこのカードが自分フィールドに表側表示で存在する限り、そのモンスターは直接攻撃でき、攻撃対象にされない（この効果が適用されたモンスターしか自分フィールドに存在しない状態での相手の攻撃は自分への直接攻撃になる）。
   ko: |-
     ①: 이 카드가 필드 존에 존재하는 한, 자신 필드의 "미계역" 몬스터는 특수 소환된 턴에는 상대 효과의 대상이 되지 않는다. ②: 1턴에 1번, 자신 필드의 "미계역" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와 이 카드가 자신 필드에 앞면 표시로 존재하는 한, 그 몬스터는 직접 공격할 수 있고, 공격 대상이 되지 않는다(이 효과가 적용된 몬스터밖에 자신 필드에 존재하지 않은 상태에서의 상대의 공격은 자신에게로의 직접 공격이 된다).
+  zh-TW:
   zh-CN: |-
-    自己场上的「危险！」怪兽在特殊召唤的回合不会成为对方的卡的效果的对象。1回合1次：可以选择自己场上1只「危险！」怪兽；只要那只怪兽和这张卡在自己场上表侧表示存在，那只怪兽可以直接攻击，那只怪兽不会被作为对方怪兽的攻击对象，但不会阻止对方对自己的直接攻击。
-type: Spell
+    ①：只要此卡存在于场地区域，自己场上的“未界域”怪兽在被特殊召唤的回合不会成为对手效果的对象。②：1回合1次，以自己场上的1只“未界域”怪兽为对象可以发动。只要该怪兽和此卡以表侧表示存在于自己场上，该怪兽可直接攻击，不会成为攻击对象（仅有适用此效果的怪兽存在于自己场上的状态下，对手的攻击变为对自己的直接攻击）。
+card_type: Spell
 property: Field

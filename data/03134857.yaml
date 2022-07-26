@@ -11,7 +11,8 @@ name:
   ja_romaji: Orufegōru Ōkesutorion
   ko: 오르페골 오케스트리언
   ko_rr: Oreupegol Okeseuteurieon
-  zh-CN: 自奏圣乐·管弦乐琴机械乐团
+  zh-TW:
+  zh-CN: 自鸣天琴・奥开斯里特翁
 text:
   en: |-
     2+ Effect Monsters, including an "Orcust" monster
@@ -37,19 +38,18 @@ text:
   ko: |-
     "오르페골" 몬스터를 포함하는 효과 몬스터 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 링크 상태의 이 카드는 전투 / 효과로는 파괴되지 않는다. ②: 제외되어 있는 자신의 기계족 몬스터 3장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱으로 되돌린다. 상대 필드에 링크 상태의 앞면 표시 몬스터가 존재할 경우, 그 몬스터들은 공격력 / 수비력이 0 이 되고, 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
-    包含「自奏圣乐」怪兽的效果怪兽2只以上
-    这个卡名的②的效果1回合只能使用1次。
-    ①：连接状态的这张卡不会被战斗·效果破坏。
-    ②：以除外的3只自己的机械族怪兽为对象才能发动。那些怪兽回到卡组。对方场上有连接状态的表侧表示怪兽存在的场合，那些怪兽攻击力·守备力变成0，效果无效化。
-type: Monster
-typeline: Machine / Link / Effect
+    包括“自鸣天琴”怪兽在内的效果怪兽2只以上
+    此卡名的②效果1回合仅可使用1次。①：连接状态的此卡不会因战斗・效果被破坏。②：以3只被除外的自己的机械族怪兽为对象可以发动。将该怪兽放回牌组。对手场上有连接状态的表侧表示怪兽存在的情况下，那些怪兽的攻击力・守备力变为0，效果无效化。
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Top-Center
-- Top-Right
+- ↙
+- ⬇
+- ⬆
+- ↗
 atk: 3000
 materials: 2+ Effect Monsters, including an "Orcust" monster
 sets:

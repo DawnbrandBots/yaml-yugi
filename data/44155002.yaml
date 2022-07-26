@@ -7,11 +7,12 @@ name:
   fr: Unicore le Mythologique
   it: Il Favoloso F. Unicorno
   pt: Unicore, o Mitológico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>轟</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>ユニコール
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>轟</rb><rt>ごう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>ユニコール
   ja_romaji: Magōshinjū Yunikōru
   ko: 마굉신수 유니코르
   ko_rr:
-  zh-CN: 魔轰神兽 尤尼科
+  zh-TW:
+  zh-CN: 魔轰神兽尤尼科尔
 text:
   en: |-
     1 "Fabled" Tuner + 1+ non-Tuner monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     "마굉신" 이라는 이름이 붙은 튜너 + 튜너 이외의 몬스터 1장 이상
     자신 패의 매수와 상대 패의 매수가 같을 경우, 상대가 발동한 마법 / 함정 / 효과 몬스터의 효과를 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
-    名字带有「魔轰神」的调整＋调整以外的怪兽1只以上
-    只要这张卡在场上表侧表示存在，双方手卡是相同数量，对方发动的魔法·陷阱·效果怪兽的效果无效化并破坏。
-type: Monster
-typeline: Beast / Synchro / Effect
+    "魔轰神"协调＋1只以上协调以外的怪兽
+    ①：只要此卡存在于怪兽区域且双方手牌数量相同，对手发动的魔法・陷阱・怪兽效果将被无效化并被破坏。
+card_type: Monster
+monster_type_line: Beast / Synchro / Effect
 attribute: LIGHT
 level: 4
 atk: 2300

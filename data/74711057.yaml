@@ -7,11 +7,12 @@ name:
   fr: Terre Ferme, HÉROS Élémentaire
   it: Terraferma EROE Elementale
   pt:
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> ジ・アース
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> ジ・アース
   ja_romaji: Erementaru Hīrō Ji Āsu
   ko: 엘리멘틀 히어로 디 어스
   ko_rr:
-  zh-CN: 元素英雄 地球侠
+  zh-TW:
+  zh-CN: 元素－英雄 地球
 text:
   en: |-
     "Elemental HERO Ocean" + "Elemental HERO Woodsman"
@@ -34,11 +35,12 @@ text:
     ここのカードは融合召喚でしか特殊召喚できない。①：このカード以外の自分フィールドの表側表示の「Ｅ・ＨＥＲＯ」モンスター１体をリリースして発動できる。このカードの攻撃力はターン終了時まで、リリースしたモンスターの攻撃力分アップする。
   ko: |-
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 자신 필드 위에 앞면 표시로 존재하는 "엘리멘틀 히어로" 라는 이름이 붙은 몬스터 1장을 릴리스하는 것으로, 이 턴의 엔드 페이즈시까지 이 카드의 공격력은 릴리스한 몬스터의 공격력만큼 올린다.
+  zh-TW:
   zh-CN: |-
-    「元素英雄 海洋侠」＋「元素英雄 森林侠」
-    这张卡不用融合召唤不能特殊召唤。①：把这张卡以外的自己场上1只表侧表示的「元素英雄」怪兽解放才能发动。这张卡的攻击力直到回合结束时上升解放的怪兽的攻击力数值。
-type: Monster
-typeline: Warrior / Fusion / Effect
+    "元素－英雄 海洋人"＋"元素－英雄 森林人"
+    此卡仅可以融合召唤方式特殊召唤。①：解放自己场上此卡以外的1只表侧表示的"元素－英雄"怪兽可以发动。此卡的攻击力直至回合结束时为止，上升相当于解放的怪兽的攻击力的数值。
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: EARTH
 level: 8
 atk: 2500

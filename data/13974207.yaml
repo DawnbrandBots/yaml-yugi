@@ -7,11 +7,12 @@ name:
   fr: Denko Sekka
   it: Denko Sekka
   pt: Denko Sekka
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>－<ruby><rb>雪</rb><rp>（</rp><rt>せっ</rt><rp>）</rp></ruby><ruby><rb>花</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>－
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>光</rb><rt>こう</rt></ruby>－<ruby><rb>雪</rb><rt>せっ</rt></ruby><ruby><rb>花</rb><rt>か</rt></ruby>－
   ja_romaji: Denkō - Sekka -
   ko: 전광－설화－
   ko_rr: Senkwang - Seolhwa
-  zh-CN: 电光-雪花-
+  zh-TW:
+  zh-CN: 电光－雪花－
 text:
   en: |-
     Cannot be Special Summoned. While you control no Set Spells/Traps, neither player can Set Spells/Traps nor activate Spell/Trap Cards that are Set on the field.
@@ -29,11 +30,11 @@ text:
     このカードは特殊召喚できない。①：このカードがモンスターゾーンに存在し、自分フィールドにセットされた魔法・罠カードが存在しない場合、お互いに魔法・罠カードをセットできず、フィールドにセットされた魔法・罠カードは発動できない。
   ko: |-
     이 카드는 특수 소환할 수 없다. ①: 이 카드가 몬스터 존에 존재하고, 자신 필드에 세트된 마법 / 함정 카드가 존재하지 않을 경우, 서로 마법 / 함정 카드를 세트할 수 없으며, 필드에 세트된 마법 / 함정 카드는 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能特殊召唤。
-    ①：这张卡在怪兽区域存在，自己场上没有盖放的魔法·陷阱卡存在的场合，双方不能把魔法·陷阱卡盖放，场上盖放的魔法·陷阱卡不能发动。
-type: Monster
-typeline: Thunder / Effect
+    此卡不可特殊召唤。①：此卡存在于怪兽区域且自己场上不存在被放置的魔法・陷阱卡的情况下，双方不可放置魔法・陷阱卡，不可发动被放置在场上的魔法・陷阱卡。
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

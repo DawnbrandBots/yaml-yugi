@@ -7,10 +7,11 @@ name:
   fr: Bujingi Lièvre
   it: Bujingi Lepre
   pt: Lebre Bujingi
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>－サグサ
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby><ruby><rb>器</rb><rt>ぎ</rt></ruby>－サグサ
   ja_romaji: Bujingi - Sagusa
   ko: 무사신기-사구사
   ko_rr:
+  zh-TW:
   zh-CN: 武神器-品
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     墓地のこのカードをゲームから除外し、自分フィールド上の「武神」と名のついた獣戦士族モンスター１体を選択して発動できる。選択したモンスターはこのターンに１度だけ戦闘及び効果では破壊されない。この効果は相手ターンでも発動できる。「武神器ーサグサ」の効果は１ターンに１度しか使用できない。
   ko: |-
     묘지의 이 카드를 게임에서 제외하고, 자신의 필드 위의 "무사신"이라는 이름이 붙은 야수전사족 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터는 이 턴에 1번만 전투 및 카드의 효과로는 파괴되지 않는다. 이 효과는 상대 턴에도 발동할 수 있다. "무사신기-사구사" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     把墓地的这张卡从游戏中除外，选择自己场上1只名字带有「武神」的兽战士族怪兽才能发动。选择的怪兽在这个回合只有1次不会被战斗以及卡的效果破坏。这个效果在对方回合也能发动。「武神器-品」的效果1回合只能使用1次。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

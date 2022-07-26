@@ -7,11 +7,12 @@ name:
   fr: Magicien du Livre de Magie de la Prophétie
   it: Mago Libro di Magia della Profezia
   pt: Mago do Livro de Magia da Profecia
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>書</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     バテル
   ja_romaji: Madōshoshi Bateru
   ko: 마도서사 바테르
   ko_rr: Madoseosa Bateru
+  zh-TW: 魔導書士 巴泰爾
   zh-CN: 魔导书士 巴特尔
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚・リバースした場合に発動する。デッキから「魔導書」魔法カード１枚を手札に加える。
   ko: |-
     ①: 이 카드가 일반 소환 / 리버스했을 경우에 발동한다. 덱에서 "마도서" 마법 카드 1장을 패에 넣는다.
+  zh-TW: 此卡召唤、反转时，从牌组将1张冠有「魔導書」之名的魔法卡加入手牌。
   zh-CN: |-
     ①：这张卡召唤·反转的场合发动。从卡组把1张「魔导书」魔法卡加入手卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 2
 atk: 500

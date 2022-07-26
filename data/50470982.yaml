@@ -7,10 +7,11 @@ name:
   fr: Les Chemins de la Destinée
   it: Le Vie del Destino
   pt: Os Caminhos do Destino
-  ja: <ruby><rb>運</rb><rp>（</rp><rt>うん</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>の<ruby><rb>分</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby>かれ<ruby><rb>道</rb><rp>（</rp><rt>みち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>運</rb><rt>うん</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>道</rb><rt>みち</rt></ruby>
   ja_romaji: Unmei no Wakaremichi
   ko: 운명의 갈림길
   ko_rr:
+  zh-TW:
   zh-CN: 命运的分岔道
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     お互いのプレイヤーはそれぞれコイントスを１回行い、表が出た場合は２０００ライフポイント回復し、裏が出た場合は２０００ポイントダメージを受ける。
   ko: |-
     양쪽 플레이어는 각자 코인 토스를 1회씩 실행하여, 앞이 나온 경우는 2000 라이프 포인트를 회복하고, 뒤가 나온 경우는 2000 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     双方玩家各自进行1次投掷硬币，表出现的场合回复2000基本分，里出现的场合受到2000分伤害。
-type: Trap
+card_type: Trap
 property: Normal

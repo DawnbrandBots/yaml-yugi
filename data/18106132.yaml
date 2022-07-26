@@ -7,10 +7,11 @@ name:
   fr: Monstre Poupée Ours-Ours
   it: Mostro Bambola Orsetto-Orsetto
   pt: Monstro Boneca Urso-Urso
-  ja: ドール・モンスター <ruby><rb>熊</rb><rp>（</rp><rt>くま</rt><rp>）</rp></ruby>っち
+  ja: ドール・モンスター <ruby><rb>熊</rb><rt>くま</rt></ruby>っち
   ja_romaji: Dōru Monsutā Kumacchi
   ko: 돌 몬스터 곰돌이
   ko_rr: Dol Monseuteo Gomdol-i
+  zh-TW:
   zh-CN: 人偶怪兽 熊仔
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     우리들이 망가져버릴 정도로 다치더라도 걱정 없어.
     디메트 할아버지가 고쳐주실 거야!
+  zh-TW:
   zh-CN: |-
     就算我们受了伤要坏掉也不要紧。
     德梅特爷爷会修好我们的！
-type: Monster
-typeline: Beast / Normal
+card_type: Monster
+monster_type_line: Beast / Normal
 attribute: WIND
 level: 4
 atk: 0

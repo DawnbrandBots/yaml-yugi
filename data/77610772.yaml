@@ -7,11 +7,12 @@ name:
   fr: Ib la Prêtresse du Calice du Monde
   it: Ib la Pretessa Calice del Mondo
   pt: Ib, a Sacerdotisa do Cálice Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>杯</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby><ruby><rb>神楽</rb><rp>（</rp><rt>かぐら</rt><rp>）</rp></ruby>イヴ
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>杯</rb><rt>はい</rt></ruby><ruby><rb>神楽</rb><rt>かぐら</rt></ruby>イヴ
   ja_romaji: Seihaikagura Ivu
   ko: 성잔신악 이브
   ko_rr:
-  zh-CN: 星杯神乐 夏娃
+  zh-TW:
+  zh-CN: 星杯神乐 伊布
 text:
   en: |-
     2 monsters with different Types and Attributes
@@ -37,15 +38,16 @@ text:
   ko: |-
     종족과 속성이 다른 몬스터 2장
     ① : 링크 상태의 이 카드는 전투 / 효과로는 파괴되지 않으며, 상대 효과의 대상이 되지 않는다. ② : 이 카드의 링크 앞의 몬스터가 효과로 파괴될 경우, 대신에 이 카드를 묘지로 보낼 수 있다. ③ : 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 "성잔" 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    种族和属性不同的怪兽2只
-    ①：连接状态的这张卡不会被战斗·效果破坏，不会成为对方的效果的对象。②：这张卡所连接区的怪兽被效果破坏的场合，可以作为代替把这张卡送去墓地。③：这张卡从场上送去墓地的场合才能发动。从手卡把1只「星杯」怪兽特殊召唤。
-type: Monster
-typeline: Spellcaster / Link / Effect
+    种族与属性不同的怪兽2只
+    ①：连接状态的此卡不会因战斗・效果被破坏，不会成为对手效果的对象。②：此卡连接端的怪兽将被效果破坏的情况下，可将此卡送至墓地作为代替。③：此卡从场上被送至墓地的情况下可以发动。从手牌将1只“星杯”怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: WATER
 link_arrows:
-- Middle-Left
-- Middle-Right
+- ⬅
+- ➡
 atk: 1800
 materials: 2 monsters with different Types and Attributes
 sets:

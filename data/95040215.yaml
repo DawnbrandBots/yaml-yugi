@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Nothung la Lumière d'Étoile
   it: Alanera - Nothung la Luce di Stelle
   pt: Asanegra - Nothung, a Luz Estrelada
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>星</rb><rp>（</rp><rt>ほし</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>のノートゥング
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>星</rb><rt>ほし</rt></ruby><ruby><rb>影</rb><rt>かげ</rt></ruby>のノートゥング
   ja_romaji: Burakku Fezā - Hoshikage no Nōtungu
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－별그림자의 노퉁
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－별그림자의 노퉁
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽-星影之苦剑鸟
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     "BF(블랙 페더)－별그림자의 노퉁"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동한다. 상대에게 800 데미지를 준다. 그 후, 상대의 앞면 표시 몬스터 1장을 고르고, 그 공격력 / 수비력을 800 내린다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신은 통상 소환 외에도 1번만, 자신 메인 페이즈에 "BF(블랙 페더)" 몬스터 1장을 일반 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上。
     「黑羽-星影之苦剑鸟」的①的效果1回合只能使用1次。①：这张卡特殊召唤成功的场合发动。给与对方800伤害。那之后，选对方1只表侧表示怪兽，那个攻击力·守备力下降800。②：只要这张卡在怪兽区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「黑羽-」怪兽召唤。
-type: Monster
-typeline: Winged Beast / Synchro / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Synchro / Effect
 attribute: DARK
 level: 6
 atk: 2400

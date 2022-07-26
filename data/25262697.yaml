@@ -7,10 +7,11 @@ name:
   fr: Assaillant des Protecteurs du Tombeau
   it: Assalitore - Custode di Tombe
   pt: Assaltante do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>暗殺者</rb><rp>（</rp><rt>アサシン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>暗殺者</rb><rt>アサシン</rt></ruby>
   ja_romaji: Hakamori no Asashin
   ko: 묘지기의 암살자
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的暗杀者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「王家の眠る谷－ネクロバレー」がフィールド上に存在しなければ発動できない。このカードの攻撃宣言時、相手表側表示モンスターの表示形式を変更する事ができる。
   ko: |-
     "왕가의 골짜기-네크로벨리"가 필드 위에 존재하지 않으면 발동할 수 없다. 이 카드의 공격 선언시, 상대 앞면 표시 몬스터의 표시 형식을 변경할 수 있다.
+  zh-TW:
   zh-CN: |-
     若「王家长眠之谷」不在场上存在则不能发动。这张卡的攻击宣言时，可以把对方表侧表示怪兽的表示形式变更。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1500

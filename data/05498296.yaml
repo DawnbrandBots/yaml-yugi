@@ -7,11 +7,12 @@ name:
   fr: Scarr, Éclaireur du Monde Ténébreux
   it: Scarr, Scout del Mondo Oscuro
   pt: Scarr, Batedor do Mundo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>斥</rb><rp>（</rp><rt>せっ</rt><rp>）</rp></ruby><ruby><rb>候</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>斥</rb><rt>せっ</rt></ruby><ruby><rb>候</rb><rt>こう</rt></ruby>
     スカー
   ja_romaji: Ankokukai no Sekkō Sukā
   ko: 암흑계의 척후 스카아
   ko_rr:
+  zh-TW: 暗黑界之斥侯 猩紅卡
   zh-CN: 暗黑界的斥候 斯卡
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキからレベル４以下の「暗黒界」と名のついたモンスター１体を手札に加える。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 레벨 4 이하의 "암흑계"라는 이름이 붙은 몬스터 1장을 패에 넣는다.
+  zh-TW: 此卡因战斗被破坏并送入墓地时，从我方牌组中将1只等级4或以下冠有「暗黑界」之名的怪兽加入手牌。
   zh-CN: |-
     这张卡被战斗破坏送去墓地时，从自己卡组把1只4星以下的名字带有「暗黑界」的怪兽加入手卡。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 2
 atk: 500

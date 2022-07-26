@@ -7,10 +7,11 @@ name:
   fr: Pieuvrallonge Électroménageur
   it: Apparecchio Cavopiovra
   pt: Utensilhor Extensolvo
-  ja: <ruby><rb>充</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>塊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>セルトパス
+  ja: <ruby><rb>充</rb><rt>じゅう</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>塊</rb><rt>かい</rt></ruby>セルトパス
   ja_romaji: Jūdenkikai Serutopasu
   ko: 충전기괴 셀토퍼스
   ko_rr: Chungjeon-gigoe Seltopeoseu
+  zh-TW:
   zh-CN: 充电机块 电池章鱼
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     "기괴" 몬스터 2장
     ①: 링크 상태의 이 카드는, 공격 대상이 되지 않으며, 상대 효과의 대상으로도 되지 않는다. ②: 이 카드의 상호 링크 앞의 자신의 "기괴" 링크 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산시에 발동한다. 그 자신 몬스터의 공격력은 그 데미지 계산시에만, 이 카드의 상호 링크 앞의 몬스터의 수 × 1000 올린다. ③: 1턴에 1번, 이 카드와는 상호 링크하고 있지 않은 자신 필드의 "기괴" 링크 몬스터가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     「机块」怪兽2只
     ①：连接状态的这张卡不会成为攻击对象，也不会成为对方的效果的对象。
     ②：这张卡所互相连接区的自己的「机块」连接怪兽在和对方怪兽进行战斗的伤害计算时发动。那只自己怪兽的攻击力只在那次伤害计算时上升这张卡所互相连接区的怪兽数量×1000。
     ③：1回合1次，和这张卡没有互相连接的自己场上的「机块」连接怪兽被战斗·效果破坏的场合才能发动。自己从卡组抽1张。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
+- ↙
+- ⬇
 atk: 0
 materials: 2 "Appliancer" monsters
 sets:

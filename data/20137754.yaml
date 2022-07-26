@@ -7,10 +7,11 @@ name:
   fr: Duza le Vaisseau Cubique Météore
   it: Duza il Vascello Cubico Meteora
   pt: Duza, o Receptáculo Cúbico Meteoro
-  ja: <ruby><rb>流</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>方</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>デューザ
+  ja: <ruby><rb>流</rb><rt>りゅう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>方</rb><rt>ほう</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>デューザ
   ja_romaji: Ryūsei Hōkai-ki Dyūza
   ko: 유성방계기 듀자
   ko_rr: Yuseongbang-gyegi Dyuja
+  zh-TW:
   zh-CN: 流星方界器 天尘
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「方界」カード１枚を墓地へ送る。②：１ターンに１度、このカードが表側表示で存在する状態で、モンスターが自分の墓地へ送られたターンに発動できる。このカードの攻撃力はターン終了時まで、自分の墓地のモンスターの種類×２００アップする。この効果は相手ターンでも発動できる。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "방계" 카드 1장을 묘지로 보낸다. ②: 1턴에 1번, 이 카드가 앞면 표시로 존재하는 상태에서, 몬스터가 자신 묘지로 보내진 턴에 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 자신 묘지의 몬스터의 종류 × 200 올린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1张「方界」卡送去墓地。②：1回合1次，这张卡表侧表示存在的状态，怪兽被送去自己墓地的回合才能发动。这张卡的攻击力直到回合结束时上升自己墓地的怪兽种类×200。这个效果在对方回合也能发动。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 4
 atk: 1600

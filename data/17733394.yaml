@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>森</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>屍</rb><rp>（</rp><rt>しかばね</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>森</rb><rt>もり</rt></ruby>の<ruby><rb>屍</rb><rt>しかばね</rt></ruby>
   ja_romaji: Mori no Shikabane
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 森之尸
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     森のぬしが倒れたあと、悪しき者の手により蘇った屍。
   ko:
+  zh-TW:
   zh-CN: |-
     森林守护神死后，被恶魔复活的尸体。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 3
 atk: 1000

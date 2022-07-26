@@ -7,12 +7,13 @@ name:
   fr: 'Numéro C80 : Requiem Furax'
   it: 'Numero C80: Requiem in Berserk'
   pt: 'Número C80: Réquiem Enfurecido'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８０
-    <ruby><rb>葬</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>レクイエム・イン・バーサーク
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８０
+    <ruby><rb>葬</rb><rt>そう</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>レクイエム・イン・バーサーク
   ja_romaji: Kaosu Nanbāzu Hachijū Sōsō Haō Rekuiemu In Bāsāku
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>80
-    장장패왕 레퀴엠 인 버서크
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>80 장장패왕
+    레퀴엠 인 버서크
   ko_rr:
+  zh-TW:
   zh-CN: 混沌No.80 葬装霸王 镇魂狂曲王
 text:
   en: |-
@@ -45,12 +46,13 @@ text:
   ko: |-
     레벨 5 몬스터 × 3
     자신의 메인 페이즈시, 자신 필드 위의 이 몬스터를, 공격력 2000 포인트 올리는 장착 카드로 취급하여 자신 필드 위의 엑시즈 몬스터에 장착할 수 있다. 장착 몬스터가 파괴될 경우, 대신에 이 카드를 파괴한다. 또한, 이 카드가 "No.80 광장패왕 랩소디 인 버서크" 를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다. ● 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 필드 위의 카드 1장을 선택하고 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     5星怪兽×3
     自己的主要阶段时，自己场上的这只怪兽可以当作攻击力上升2000的装备卡使用给自己场上的XYZ怪兽装备。装备怪兽被破坏的场合，作为代替把这张卡破坏。此外，这张卡有「No.80 狂装霸王 狂想战曲王」在作为XYZ素材的场合，得到以下效果。
     ●把这张卡1个XYZ素材取除才能发动。选择场上1张卡从游戏中除外。
-type: Monster
-typeline: Fiend / Xyz / Effect
+card_type: Monster
+monster_type_line: Fiend / Xyz / Effect
 attribute: DARK
 rank: 5
 atk: 0

@@ -7,11 +7,12 @@ name:
   fr: Transactions du Monde Ténébreux
   it: Affari del Mondo Oscuro
   pt: Negócios do Mundo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>取</rb><rp>（</rp><rt>とり</rt><rp>）</rp></ruby><ruby><rb>引</rb><rp>（</rp><rt>ひき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>取</rb><rt>とり</rt></ruby><ruby><rb>引</rb><rt>ひき</rt></ruby>
   ja_romaji: Ankokukai no Torihiki
   ko: 암흑계의 거래
   ko_rr: Amheukgye-ui Georae
-  zh-CN: 暗黑界的取引
+  zh-TW: 暗黑界的買賣
+  zh-CN: 暗黑界的交易
 text:
   en: |-
     Each player draws 1 card, then each player discards 1 card.
@@ -29,7 +30,8 @@ text:
     ①：お互いのプレイヤーはデッキから１枚ドローし、その後手札を１枚選んで捨てる。
   ko: |-
     ①: 양쪽 플레이어는 덱에서 1장 드로우하고, 그 후 패를 1장 골라 버린다.
+  zh-TW: 双方玩家各从牌组抽取1张卡牌，之后挑选1张手牌舍弃。
   zh-CN: |-
-    ①：双方玩家从卡组抽1张，那之后选1张手卡丢弃。
-type: Spell
+    ①：双方玩家从牌组抽1张，然后挑选1张手牌扔掉。
+card_type: Spell
 property: Normal

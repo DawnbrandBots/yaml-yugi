@@ -7,10 +7,11 @@ name:
   fr: Fantôme du Défunt et Fraîcheur Lunaire
   it: Fantasma in Lutto & Brivido Illuminato dalla Luna
   pt: Fantasma Chorão & Calafrio da Meia-noite
-  ja: <ruby><rb>朔</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby><rb>夜</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby>しぐれ
+  ja: <ruby><rb>朔</rb><rt>さ</rt></ruby><ruby><rb>夜</rb><rt>よ</rt></ruby>しぐれ
   ja_romaji: Sayo Shigure
   ko: 사요 시구레
   ko_rr: Sayo Sigure
+  zh-TW:
   zh-CN: 朔夜时雨
 text:
   en: |-
@@ -29,11 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：相手がモンスターを表側表示で特殊召喚した場合、このカードを手札から捨て、その表側表示モンスター１体を対象として発動できる。そのモンスターの効果はターン終了時まで無効化され、このターン中に対象の表側表示モンスターがフィールドから離れた場合、そのコントローラーは対象のモンスターの元々の攻撃力分のダメージを受ける。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대가 몬스터를 앞면 표시로 특수 소환했을 경우, 이 카드를 패에서 버리고, 그 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 효과는 턴 종료시까지 무효화되고, 이 턴 중에 대상의 앞면 표시 몬스터가 필드에서 벗어났을 경우, 그 컨트롤러는 대상 몬스터의 원래 공격력만큼의 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的效果1回合只能使用1次。
-    ①：对方把怪兽表侧表示特殊召唤的场合，把这张卡从手卡丢弃，以那1只表侧表示怪兽为对象才能发动。那只怪兽的效果直到回合结束时无效化，这个回合中作为对象的表侧表示怪兽从场上离开的场合，那个控制者受到作为对象的怪兽的原本攻击力数值的伤害。
-type: Monster
-typeline: Zombie / Tuner / Effect
+    此卡名的效果1回合仅可使用1次。①：对手以表侧表示特殊召唤怪兽的情况下，从手牌将此卡舍弃，以该1只表侧表示怪兽为对象可以发动。该怪兽的效果直至回合结束时为止无效化，此回合中，对象的表侧表示怪兽从场上离开的情况下，该控制者受到相当于对象怪兽原本攻击力的数值的伤害。
+card_type: Monster
+monster_type_line: Zombie / Tuner / Effect
 attribute: WIND
 level: 3
 atk: 0

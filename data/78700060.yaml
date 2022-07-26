@@ -7,16 +7,17 @@ name:
   fr: Cavalier Squelette Deathcalibur
   it: Cavaliere della Scoperta del Teschio
   pt: Cavaleiro Calibre da Condenação
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>デスカリバー・ナイト
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>霊</rb><rt>りょう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>デスカリバー・ナイト
   ja_romaji: Shiryōkishi Desukaribā Naito
   ko: 사령기사 데스커리버 나이트
   ko_rr: Saryeonggisa Deseukeoribeo Naiteu
+  zh-TW:
   zh-CN: 死灵骑士
 text:
   en: |-
     Cannot be Special Summoned. If a monster effect is activated (Quick Effect): Tribute this face-up card; negate the activation, and if you do, destroy that monster.
   de: |-
-    Kann nicht als Spezialbeschwörung beschworen werden. Falls ein Monstereffekt aktiviert wird (Schnelleffekt): Biete diese offene Karte als Tribut an; annulliere die Aktivierung und falls du dies tust, zerstöre das Monster.
+    Kann nicht als Spezialbeschwörung beschworen werden. Falls ein Monstereffekt aktiviert wird (Schnelleffekt): Biete diese offene Karte als Tribut an; annulliere die Aktivierung und falls du dies tust, zerstöre jenes Monster.
   es: |-
     No puede ser Invocado de Modo Especial. Si es activado el efecto de un monstruo (Efecto Rápido): Sacrifica esta carta boca arriba; niega la activación y, si lo haces, destruye ese monstruo.
   fr: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。①：モンスターの効果が発動した時、このカードをリリースして発動する。その発動を無効にし破壊する。
   ko: |-
     이 카드는 특수 소환할 수 없다. ①: 몬스터의 효과가 발동했을 때, 이 카드를 릴리스하고 발동한다. 그 발동을 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。①：怪兽的效果发动时，把这张卡解放发动。那个发动无效并破坏。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 4
 atk: 1900

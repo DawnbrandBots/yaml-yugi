@@ -7,10 +7,11 @@ name:
   fr: Absorbeur de Vie
   it: Macchina Assorbi Vita
   pt: Máquina Absorvedora de Vida
-  ja: <ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>吸</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>置</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby><ruby><rb>吸</rb><rt>きゅう</rt></ruby><ruby><rb>収</rb><rt>しゅう</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>置</rb><rt>ち</rt></ruby>
   ja_romaji: Seimei Kyūshū Sōchi
   ko: 생명흡수장치
   ko_rr:
+  zh-TW:
   zh-CN: 生命吸收装置
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分のスタンバイフェイズ毎に、直前の自分のターンに払ったライフポイントの半分が回復する。
   ko: |-
     자신의 스텐바이 페이즈마다, 직전의 자신의 턴에 지불한 라이프 포인트의 절반을 회복한다.
+  zh-TW:
   zh-CN: |-
     每次自己的准备阶段，回复之前的自己回合支付的基本分的一半。
-type: Trap
+card_type: Trap
 property: Continuous

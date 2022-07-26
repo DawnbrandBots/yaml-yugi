@@ -7,12 +7,12 @@ name:
   fr: Dragon Divin Apocralyphe
   it: Drago Divino Apocralyph
   pt: Dragão Divino Apocralyph
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
-    アポカリプス
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby> アポカリプス
   ja_romaji: Shinryū Apokaripusu
   ko: 신룡 아포칼립스
   ko_rr:
-  zh-CN: 神龙 默示龙
+  zh-TW: 神龍 天啓
+  zh-CN: 神龙 天启
 text:
   en: |-
     Once per turn: You can discard 1 card, then target 1 Dragon-Type monster in your Graveyard; add that target to your hand.
@@ -30,10 +30,11 @@ text:
     １ターンに１度、手札を１枚捨てて発動できる。自分の墓地のドラゴン族モンスター１体を選択して手札に加える。
   ko: |-
     1턴에 1번, 패를 1장 버리고 발동할 수 있다. 자신 묘지의 드래곤족 몬스터 1장을 선택하고 패에 넣는다.
+  zh-TW: 1个回合1次，可以舍弃1张手牌进行发动。选择我方墓地的1只龙族怪兽加入手牌。
   zh-CN: |-
-    1回合1次，丢弃1张手卡才能发动。选择自己墓地1只龙族怪兽加入手卡。
-type: Monster
-typeline: Dragon / Effect
+    ①：1回合1次，扔掉1张手牌，可以自己墓地的1只龙族怪兽为对象发动。将该龙族怪兽加入手牌。
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: DARK
 level: 4
 atk: 1000

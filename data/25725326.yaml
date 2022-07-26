@@ -11,6 +11,7 @@ name:
   ja_romaji: Purankizzu Myū
   ko: 프랭키즈 뮤
   ko_rr:
+  zh-TW:
   zh-CN: 调皮宝贝喵喵猫
 text:
   en: |-
@@ -37,15 +38,16 @@ text:
   ko: |-
     레벨 4 이하의 "프랭키즈" 몬스터 1장
     자신은 "프랭키즈 뮤"를 1턴에 1번밖에 링크 소환할 수 없고, 그 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 턴에 자신 필드의 "프랭키즈" 몬스터가 효과를 발동하기 위해서 자신을 릴리스할 경우, 대신에 필드 / 묘지의 이 카드를 제외할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星以下的「调皮宝贝」怪兽1只
     自己对「调皮宝贝喵喵猫」1回合只能有1次连接召唤，那个效果1回合只能使用1次。
     ①：对方回合自己场上的「调皮宝贝」怪兽为让效果发动而把自身解放的场合，可以作为代替把场上·墓地的这张卡除外。
-type: Monster
-typeline: Rock / Link / Effect
+card_type: Monster
+monster_type_line: Rock / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Center
+- ⬇
 atk: 1000
 materials: 1 Level 4 or lower "Prank-Kids" monster
 sets:

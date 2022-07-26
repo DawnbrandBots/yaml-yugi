@@ -11,6 +11,7 @@ name:
   ja_romaji: Saikoropusu
   ko: 사이코롭스
   ko_rr:
+  zh-TW:
   zh-CN: 骰子独眼巨人
 text:
   en: |-
@@ -53,13 +54,14 @@ text:
     ●1 : 상대의 패를 확인하고, 그 중에서 카드 1장을 골라 버린다.
     ●2, 3, 4, 5 : 자신의 패를 1장 고르고 버린다.
     ●6 : 자신의 패를 전부 버린다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己主要阶段才能发动。掷1次骰子，出现的数目的效果适用。
     ●1：把对方手卡确认，从那之中选1张卡丢弃。
     ●2～5：选自己1张手卡丢弃。
     ●6：自己手卡全部丢弃。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: FIRE
 level: 4
 atk: 1800

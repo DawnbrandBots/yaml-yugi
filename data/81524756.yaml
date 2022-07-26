@@ -7,11 +7,12 @@ name:
   fr: Maximus Croisédia
   it: Crociatia Maximus
   pt: Crusadia Maximus
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>穹</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>のパラディオン
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>穹</rb><rt>きゅう</rt></ruby>のパラディオン
   ja_romaji: Tenkyū no Paradion
   ko: 천궁의 파라디온
   ko_rr: Cheon-gung-ui Paradion
-  zh-CN: 天穹之圣像骑士
+  zh-TW:
+  zh-CN: 天穹之圣骑联盟
 text:
   en: |-
     You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon "Crusadia Maximus" once per turn this way. You can target 1 "Crusadia" Link Monster you control; this turn, if it battles an opponent's monster, any battle damage it inflicts to your opponent is doubled, also other monsters you control cannot attack. You can only use this effect of "Crusadia Maximus" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターのリンク先となる自分フィールドに手札から守備表示で特殊召喚できる。②：自分フィールドの「パラディオン」リンクモンスター１体を対象として発動できる。このターン、自分はそのモンスターでしか攻撃できず、そのモンスターが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 링크 몬스터의 링크 앞이 되는 자신 필드에 패에서 수비 표시로 특수 소환할 수 있다. ②: 자신 필드의 "파라디온" 링크 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 자신은 그 몬스터로밖에 공격할 수 없으며, 그 몬스터가 상대 몬스터와의 전투로 상대에게 주는 전투 데미지는 배가 된다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的作为①的方法的特殊召唤1回合只能有1次，作为②的效果1回合只能使用1次。
-    ①：这张卡可以从手卡往作为连接怪兽所连接区的自己场上守备表示特殊召唤。
-    ②：以自己场上1只「圣像骑士」连接怪兽为对象才能发动。这个回合，自己不用那只怪兽不能攻击，那只怪兽用和对方怪兽的战斗给与对方的战斗伤害变成2倍。
-type: Monster
-typeline: Psychic / Effect
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：此卡可从手牌以守备表示特殊召唤至连接怪兽连接端的自己场上。②：以自己场上的1只“圣骑联盟”连接怪兽为对象可以发动。此回合，自己仅可用该怪兽攻击，该怪兽因与对手怪兽的战斗给予对手的战斗伤害变为两倍。
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: LIGHT
 level: 4
 atk: 1600

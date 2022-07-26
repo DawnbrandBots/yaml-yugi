@@ -11,6 +11,7 @@ name:
   ja_romaji: Vanpaia Fashineitā
   ko: 뱀파이어 패시네이터
   ko_rr: Baempaieo Paesineiteo
+  zh-TW:
   zh-CN: 吸血鬼魅惑者
 text:
   en: |-
@@ -37,18 +38,19 @@ text:
   ko: |-
     언데드족 몬스터를 포함하는 몬스터 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 상대 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 자신 필드에 수비 표시로 특수 소환한다. 이 턴에, 자신은 언데드족 몬스터밖에 특수 소환할 수 없다. ②: 자신 필드의 "뱀파이어" 몬스터 1장을 릴리스하고, 상대 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
+  zh-TW:
   zh-CN: |-
     包含不死族怪兽的怪兽2只以上
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡连接召唤成功的场合，以对方墓地1只怪兽为对象才能发动。那只怪兽在自己场上守备表示特殊召唤。这个回合，自己不是不死族怪兽不能特殊召唤。
     ②：把自己场上1只「吸血鬼」怪兽解放，以对方场上1只怪兽为对象才能发动。那只怪兽的控制权直到结束阶段得到。
-type: Monster
-typeline: Zombie / Link / Effect
+card_type: Monster
+monster_type_line: Zombie / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
-- Top-Center
+- ↙
+- ↘
+- ⬆
 atk: 2400
 materials: 2+ monsters, including a Zombie monster
 sets:

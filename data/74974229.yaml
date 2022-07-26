@@ -7,10 +7,11 @@ name:
   fr: Soldat d'Élite Alien Structure M
   it: Commando Alieno Struttura-M
   pt: Tropa de Choque Alienígena Armação-M
-  ja: エーリアン・ソルジャー <ruby><rb>Ｍ</rb><rp>（</rp><rt>マイティ</rt><rp>）</rp></ruby>／フレーム
+  ja: エーリアン・ソルジャー <ruby><rb>Ｍ</rb><rt>マイティ</rt></ruby>／フレーム
   ja_romaji: Ērian Sorujā Maiti/Furēmu
-  ko: 에일리언 솔저 <ruby><rb>M</rb><rp>（</rp><rt>마이티</rt><rp>）</rp></ruby>/프레임
+  ko: 에일리언 솔저 <ruby><rb>M</rb><rt>마이티</rt></ruby>/프레임
   ko_rr: Eilli-eon Soljeo Maiti/Peureim
+  zh-TW:
   zh-CN: 外星人士兵 强力外骨骼
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     파충류족 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패에서 몬스터 1장을 버리고 발동할 수 있다. 버린 몬스터의 원래 레벨의 수만큼, 필드의 앞면 표시 몬스터에 A 카운터를 놓는다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 전투 / 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. A 카운터가 놓여진 상대 필드의 몬스터의 수까지, 자신 묘지에서 링크 몬스터 이외의 파충류족 몬스터를 골라 특수 소환한다(같은 이름의 카드는 1장까지).
+  zh-TW:
   zh-CN: |-
     爬虫族怪兽2只
     这个卡名的①②的效果1回合各能使用1次。
     ①：从手卡丢弃1只怪兽才能发动。丢弃的怪兽的原本等级数量的A指示物给场上的表侧表示怪兽放置。这个效果在对方回合也能发动。
     ②：这张卡被战斗·效果破坏送去墓地的场合才能发动。从自己墓地选最多有着有A指示物放置的对方场上的怪兽数量的连接怪兽以外的爬虫族怪兽特殊召唤（同名卡最多1张）。
-type: Monster
-typeline: Reptile / Link / Effect
+card_type: Monster
+monster_type_line: Reptile / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1900
 materials: 2 Reptile monsters
 sets:

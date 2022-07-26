@@ -7,10 +7,11 @@ name:
   fr: Ret-time Reviver Emit-ter
   it: Ret-time Reviver Emit-ter
   pt: Ret-time Reviver Emit-ter
-  ja: <ruby><rb>生</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>きる<ruby><rb>偲</rb><rp>（</rp><rt>しの</rt><rp>）</rp></ruby>びのシルキィ
+  ja: <ruby><rb>生</rb><rt>い</rt></ruby>きる<ruby><rb>偲</rb><rt>しの</rt></ruby>びのシルキィ
   ja_romaji: Ikiru Shinobi no Shirukyi
   ko: 추억 속의 실키
   ko_rr: Chueon Sok-ui Silki
+  zh-TW:
   zh-CN: 活回忆之羽衣精
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在する場合、自分及び相手フィールドの表側表示モンスターを１体ずつ対象として発動できる。そのモンスターを裏側守備表示にし、このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재할 경우, 자신 및 상대 필드의 앞면 표시 몬스터를 1장씩 대상으로 하고 발동할 수 있다. 그 몬스터를 뒷면 수비 표시로 하고, 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。
     ①：这张卡在手卡·墓地存在的场合，以自己以及对方场上的表侧表示怪兽各1只为对象才能发动。那些怪兽变成里侧守备表示，这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-type: Monster
-typeline: Fairy / Tuner / Effect
+card_type: Monster
+monster_type_line: Fairy / Tuner / Effect
 attribute: DARK
 level: 2
 atk: 800

@@ -7,10 +7,11 @@ name:
   fr: Maître de la Flamme
   it: Sovrano Delle Fiamme
   pt: Senhor das Chamas
-  ja: <ruby><rb>炎を支配する者</rb><rp>（</rp><rt>フレイム・ルーラー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎を支配する者</rb><rt>フレイム・ルーラー</rt></ruby>
   ja_romaji: Fureimu Rūrā
   ko: 화염을지배하는자
   ko_rr:
+  zh-TW:
   zh-CN: 火焰支配者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     炎属性モンスターを生け贄召喚する場合、このモンスター１体で２体分の生け贄とする事ができる。
   ko: |-
     화염 속성 몬스터를 제물 소환할 경우, 이 몬스터 1장으로 2장만큼의 제물로 할 수 있다.
+  zh-TW:
   zh-CN: |-
     炎属性怪兽祭品召唤的场合，这1只怪兽可以作为2只数量的祭品。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1500

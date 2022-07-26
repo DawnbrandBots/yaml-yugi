@@ -7,10 +7,11 @@ name:
   fr: Bœuf de Bataille
   it: Toro da Battaglia
   pt: Jovem Touro Guerreiro
-  ja: <ruby><rb>牛</rb><rp>（</rp><rt>ぎゅう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>牛</rb><rt>ぎゅう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>
   ja_romaji: Gyū Majin
   ko: 황소마인
   ko_rr:
+  zh-TW:
   zh-CN: 牛魔人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     森に住む牛の魔人。ツノを突き出し突進して攻撃。
   ko: |-
     숲에 사는 황소마인. 뿔을 앞세운 돌진 공격이 특징.
+  zh-TW:
   zh-CN: |-
     住在森林里的牛魔人，用突起的角进行突袭。
-type: Monster
-typeline: Beast-Warrior
+card_type: Monster
+monster_type_line: Beast-Warrior
 attribute: EARTH
 level: 5
 atk: 1800

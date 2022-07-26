@@ -7,10 +7,11 @@ name:
   fr: Démon Mégacyber
   it: Demone Megacyber
   pt: Demônio Megacyber
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>ギガサイバー
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby>ギガサイバー
   ja_romaji: Madō Gigasaibā
   ko: 마도 기가 사이버
   ko_rr:
+  zh-TW:
   zh-CN: 魔导电子巨人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドのモンスターの数が相手フィールドのモンスターより２体以上少ない場合、このカードは手札から特殊召喚できる。
   ko: |-
     자신의 필드 위 몬스터가 상대의 필드 위 몬스터보다 2장 이상 적을 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的怪兽数量比对方场上存在的怪兽少2只以上的场合，这张卡可以从手卡特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 6
 atk: 2200

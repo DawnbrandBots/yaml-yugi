@@ -7,10 +7,11 @@ name:
   fr: Six Samouraïs Légendaires - Shi En
   it: Shi En - Sei Samurai Leggendario
   pt: Seis Samurai Lendários - Shi Em
-  ja: <ruby><rb>真</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>六</rb><rp>（</rp><rt>ろく</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>衆</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>－シエン
+  ja: <ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>衆</rb><rt>しゅう</rt></ruby>－シエン
   ja_romaji: Shin Roku Bushū - Shien
-  ko: 진 여섯 무사-<ruby><rb>Shi</rb><rp>（</rp><rt>시</rt><rp>）</rp></ruby> <ruby><rb>En</rb><rp>（</rp><rt>엔</rt><rp>）</rp></ruby>
+  ko: 진 여섯 무사-<ruby><rb>Shi</rb><rt>시</rt></ruby> <ruby><rb>En</rb><rt>엔</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 真六武众-紫炎
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     전사족 튜너 ＋ 튜너 이외의 "여섯 무사" 몬스터 1장 이상
     ①: 1턴에 1번, 상대가 마법 / 함정 카드를 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ②: 필드의 이 카드가 전투 / 효과로 파괴될 경우, 대신에 자신 필드의 "여섯 무사" 몬스터 1장을 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     战士族调整＋调整以外的「六武众」怪兽1只以上
     ①：1回合1次，对方把魔法·陷阱卡发动时才能发动。那个发动无效并破坏。②：场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己场上的1只「六武众」怪兽破坏。
-type: Monster
-typeline: Warrior / Synchro / Effect
+card_type: Monster
+monster_type_line: Warrior / Synchro / Effect
 attribute: DARK
 level: 5
 atk: 2500

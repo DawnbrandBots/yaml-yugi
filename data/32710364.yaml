@@ -7,11 +7,12 @@ name:
   fr: 'Bête Cristalline : Escarboucle de Rubis'
   it: Bestia Cristallo Carbuncle Rubino
   pt: Fera Cristalina Carbúnculo Rubi
-  ja: <ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>玉</rb><rp>（</rp><rt>ぎょく</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>玉</rb><rt>ぎょく</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
     ルビー・カーバンクル
   ja_romaji: Hōgyokujū Rubī Kābankuru
   ko: 보옥수 루비 카번클
   ko_rr:
+  zh-TW:
   zh-CN: 宝玉兽 红玉兽
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが特殊召喚に成功した時に発動できる。自分の魔法＆罠ゾーンの「宝玉獣」モンスターカードを可能な限り特殊召喚する。②：表側表示のこのカードがモンスターゾーンで破壊された場合、墓地へ送らずに永続魔法カード扱いで自分の魔法＆罠ゾーンに表側表示で置く事ができる。
   ko: |-
     ①: 이 카드가 특수 소환에 성공했을 때에 발동할 수 있다. 자신의 마법 & 함정 존의 "보옥수" 몬스터 카드를 가능한 한 특수 소환한다. ②: 앞면 표시의 이 카드가 몬스터 존에서 파괴되었을 경우, 묘지로 보내지 않으며 지속 마법 카드로 취급하고 자신의 마법 & 함정 존에 앞면 표시로 놓을 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡特殊召唤成功时才能发动。自己的魔法与陷阱区域的「宝玉兽」怪兽卡尽可能特殊召唤。②：表侧表示的这张卡在怪兽区域被破坏的场合，可以不送去墓地当作永续魔法卡使用在自己的魔法与陷阱区域表侧表示放置。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 3
 atk: 300

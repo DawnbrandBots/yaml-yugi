@@ -7,11 +7,12 @@ name:
   fr: "Bête Cristalline : Chat d'Améthyste"
   it: Bestia Cristallo Gatto Ametista
   pt: Fera Cristalina Gata Ametista
-  ja: <ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>玉</rb><rp>（</rp><rt>ぎょく</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>玉</rb><rt>ぎょく</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
     アメジスト・キャット
   ja_romaji: Hōgyokujū Amejisuto Kyatto
   ko: 보옥수애머지스트캣
   ko_rr:
+  zh-TW:
   zh-CN: 宝玉兽 紫晶猫
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードは直接攻撃できる。その直接攻撃で相手に与える戦闘ダメージは半分になる。②：表側表示のこのカードがモンスターゾーンで破壊された場合、墓地へ送らずに永続魔法カード扱いで自分の魔法＆罠ゾーンに表側表示で置く事ができる。
   ko: |-
     이 카드는 상대 플레이어에게 직접 공격할 수 있다. 이때, 이 카드가 상대 라이프에 주는 전투 데미지는 절반이 된다. 이 카드가 몬스터 카드 존 위에서 파괴되었을 경우, 묘지로 보내지 않고 지속 마법 카드로 취급하여 자신의 마법 & 함정 카드 존에 앞면 표시로 놓을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以直接攻击对方玩家。这个时候，这张卡给与对方基本分的战斗伤害变成一半。这张卡在怪兽卡区域上破坏的场合，可以不送去墓地当作永续魔法卡使用在自己的魔法与陷阱卡区域表侧表示放置。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 3
 atk: 1200

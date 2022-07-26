@@ -7,10 +7,11 @@ name:
   fr: Grenouille Lance Poison
   it: RANA Avvelenata
   pt: Sapo de Ferrão Envenenado
-  ja: <ruby><rb>引</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>きガエル
+  ja: <ruby><rb>引</rb><rt>ひ</rt></ruby>きガエル
   ja_romaji: Hikigaeru
   ko: 드로우 개구리
   ko_rr: Deurou Gaeguri
+  zh-TW:
   zh-CN: 抽卡青蛙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側表示で存在するこのカードが墓地へ送られた時、自分のデッキからカードを１枚ドローする事ができる。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드가 묘지로 보내졌을 때, 자신의 덱에서 카드 1장을 드로우한다.
+  zh-TW:
   zh-CN: |-
     场上表侧表示存在的这张卡被送去墓地时，可以从自己卡组抽1张卡。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 2
 atk: 100

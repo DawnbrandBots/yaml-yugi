@@ -7,10 +7,11 @@ name:
   fr: Papillon Lumière de Lune
   it: Farfallone Illuminato dalla Luna
   pt:
-  ja: <ruby><rb>月光蝶</rb><rp>（</rp><rt>ムーンリット・パピヨン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>月光蝶</rb><rt>ムーンリット・パピヨン</rt></ruby>
   ja_romaji: Mūnritto Papiyon
   ko: 문리트 파피용
   ko_rr:
+  zh-TW:
   zh-CN: 月光蝶
 text:
   en: |-
@@ -25,13 +26,14 @@ text:
     Quando questa carta viene mandata dal Terreno al Cimitero: puoi Evocare Specialmente 1 mostro "Farfallospia" di Livello 4 o inferiore dal tuo Deck.
   pt:
   ja: |-
-    このカードがフィールド上から墓地へ送られた時、デッキからレベル４以下の「<ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>蝶</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>の<ruby><rb>刺</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>客</rb><rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>」と名のついたモンスター１体を特殊召喚できる。
+    このカードがフィールド上から墓地へ送られた時、デッキからレベル４以下の「<ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>蝶</rb><rt>ちょう</rt></ruby>の<ruby><rb>刺</rb><rt>し</rt></ruby><ruby><rb>客</rb><rt>きゃく</rt></ruby>」と名のついたモンスター１体を特殊召喚できる。
   ko: |-
     이 카드가 필드 위에서 묘지로 보내졌을 때, 덱에서 레벨 4 이하의 "환접의 자객" 이라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡从场上送去墓地时，可以从卡组把1只4星以下的名字带有「幻蝶刺客」的怪兽特殊召唤。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: LIGHT
 level: 4
 atk: 1200

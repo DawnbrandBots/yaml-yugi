@@ -7,10 +7,11 @@ name:
   fr: Char du Labyrinthe
   it: Carrarmato-Labirinto
   pt: Tanque do Labirinto
-  ja: <ruby><rb>迷</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>車</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>迷</rb><rt>めい</rt></ruby><ruby><rb>宮</rb><rt>きゅう</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>車</rb><rt>しゃ</rt></ruby>
   ja_romaji: Meikyū no Masensha
   ko: 미궁의 마전차
   ko_rr:
+  zh-TW:
   zh-CN: 迷宫的魔战车
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「ギガテック・ウルフ」＋「キャノン・ソルジャー」
   ko: |-
     "기가테크 울프" + "캐논 솔저"
+  zh-TW:
   zh-CN: |-
     「高科技狼」＋「加农炮兵」。
-type: Monster
-typeline: Machine / Fusion
+card_type: Monster
+monster_type_line: Machine / Fusion
 attribute: DARK
 level: 7
 atk: 2400

@@ -7,10 +7,11 @@ name:
   fr: Ogre de l'Ombre Noire
   it: Orco delle Ombre Nere
   pt: Ogro da Sombra Negra
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby>い<ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>の<ruby><rb>鬼王</rb><rp>（</rp><rt>オーガ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>影</rb><rt>かげ</rt></ruby>の<ruby><rb>鬼王</rb><rt>オーガ</rt></ruby>
   ja_romaji: Kuroikage no Ōga
   ko: 암흑 귀왕
   ko_rr:
+  zh-TW:
   zh-CN: 黑影之鬼王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     黒い影にとりつかれたオーガ。すごいスピードで突撃してくる。
   ko: |-
     검은 그림자에게 지배당한 도깨비왕. 놀라운 스피드로 돌격해온다.
+  zh-TW:
   zh-CN: |-
     被黑影附体的恶鬼。用惊人的速度突击。
-type: Monster
-typeline: Beast-Warrior
+card_type: Monster
+monster_type_line: Beast-Warrior
 attribute: EARTH
 level: 4
 atk: 1200

@@ -7,10 +7,11 @@ name:
   fr: Maestro Ninja Sasuke
   it: Sasuke Maestro Ninja
   pt: Mestre Ninja Sasuke
-  ja: <ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>マスター<ruby><rb>ＳＡＳＵＫＥ</rb><rp>（</rp><rt>サスケ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>マスター<ruby><rb>ＳＡＳＵＫＥ</rb><rt>サスケ</rt></ruby>
   ja_romaji: Ninja Masutā Sasuke
   ko: 첩자 마스터 Sasuke
   ko_rr:
+  zh-TW:
   zh-CN: 忍者头领 佐助
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが表側守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。
   ko: |-
     이 카드가 앞면 수비 표시의 몬스터를 공격했을 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡向表侧守备表示的怪兽攻击的场合，不进行伤害计算把那只怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

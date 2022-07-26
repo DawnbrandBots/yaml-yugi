@@ -7,10 +7,11 @@ name:
   fr: Dragon Millénaire
   it: Drago Millenario
   pt: Dragão Milenar
-  ja: <ruby><rb>千年竜</rb><rp>（</rp><rt>サウザンド・ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>千年竜</rb><rt>サウザンド・ドラゴン</rt></ruby>
   ja_romaji: Sauzando Doragon
   ko: 천년룡
   ko_rr: Cheonnyeonnyong
+  zh-TW:
   zh-CN: 千年龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「時の魔術師」＋「ベビードラゴン」
   ko: |-
     "시간의 마술사" + "베이비 드래곤"
+  zh-TW:
   zh-CN: |-
     「时间魔术师」＋「宝贝龙」。
-type: Monster
-typeline: Dragon / Fusion
+card_type: Monster
+monster_type_line: Dragon / Fusion
 attribute: WIND
 level: 7
 atk: 2400
@@ -175,7 +177,7 @@ sets:
     - Secret Rare
     - Ultra Parallel Rare
   - set_number: WJ-04
-    set_name: Limited Edition 2
+    set_name: 'Limited Edition 2: Joey Pack'
     rarities:
     - Ultra Rare
   - set_number: ME-11

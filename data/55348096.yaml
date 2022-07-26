@@ -7,10 +7,11 @@ name:
   fr: Voleur de l'Arsenal
   it: Ladro dell'Arsenale
   pt: Ladrão de Arsenáis
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>庫</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>荒</rb><rp>（</rp><rt>あ</rt><rp>）</rp></ruby>らし
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby><ruby><rb>庫</rb><rt>こ</rt></ruby><ruby><rb>荒</rb><rt>あ</rt></ruby>らし
   ja_romaji: Bukiko Arashi
   ko: 무기창고 도굴꾼
   ko_rr:
+  zh-TW:
   zh-CN: 武器库盗贼
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手はデッキから装備魔法カードを１枚選択して墓地へ送る。
   ko: |-
     상대는 덱에서 장착 마법 카드를 1장 선택하고 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     对方从卡组选择1张装备魔法卡送去墓地。
-type: Trap
+card_type: Trap
 property: Normal

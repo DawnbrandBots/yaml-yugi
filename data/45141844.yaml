@@ -7,10 +7,11 @@ name:
   fr: Vieux Magicien Vindicatif
   it: Anziano Mago Vendicativo
   pt: Velho Vingativo e Mágico
-  ja: <ruby><rb>執</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>念</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby><ruby><rb>深</rb><rp>（</rp><rt>ぶか</rt><rp>）</rp></ruby>き<ruby><rb>老</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>執</rb><rt>しゅう</rt></ruby><ruby><rb>念</rb><rt>ねん</rt></ruby><ruby><rb>深</rb><rt>ぶか</rt></ruby>き<ruby><rb>老</rb><rt>ろう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Shūnenbukaki Rōmajutsushi
   ko: 집념의 노마술사
   ko_rr:
+  zh-TW: 執著的老魔術師
   zh-CN: 执着的老魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、相手フィールドのモンスター１体を対象として発動する。その相手モンスターを破壊する。
   ko: |-
     리버스 : 필드 위의 상대 몬스터 1장을 파괴한다.
+  zh-TW: 反转：选择并破坏对手场上的1只怪兽。
   zh-CN: |-
-    选择对方场上1只怪兽破坏。
-type: Monster
-typeline: Spellcaster / Flip / Effect
+    ①：此卡反转的情况下，以对手场上的1只怪兽为对象发动。将该对手的怪兽破坏。
+card_type: Monster
+monster_type_line: Spellcaster / Flip / Effect
 attribute: DARK
 level: 2
 atk: 450

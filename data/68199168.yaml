@@ -7,12 +7,13 @@ name:
   fr: Harr, Boss Genèraideur des Tempêtes
   it: Harr, Boss Generaider delle Tempeste
   pt: Harr, Chefe Generaidor das Tempestades
-  ja: <ruby><rb>轟</rb><rp>（</rp><rt>とどろき</rt><rp>）</rp></ruby>の<ruby><rb>王</rb><rp>（</rp><rt>ジェネレイド</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>轟</rb><rt>とどろき</rt></ruby>の<ruby><rb>王</rb><rt>ジェネレイド</rt></ruby>
     ハール
   ja_romaji: Todoroki no Jenereido Hāru
   ko: 포효의 제너레이드 하르
   ko_rr: Pohyo-ui Jeneoreideu Hareu
-  zh-CN: 轰界王战 哈尔王
+  zh-TW:
+  zh-CN: 轰之创王 哈尔
 text:
   en: |-
     You can only control 1 "Harr, Generaider Boss of Storms". Once per turn, if your opponent adds a card(s) from the Deck to their hand, except during the Draw Phase (Quick Effect): You can make your opponent send 1 monster from their hand or field to the GY (their choice). When a card or effect is activated (Quick Effect): You can Tribute 2 "Generaider" and/or Spellcaster monsters; negate the activation, and if you do, destroy that card. You can only use this effect of "Harr, Generaider Boss of Storms" once per turn.
@@ -30,13 +31,11 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：「轟の王 ハール」は自分フィールドに１体しか表側表示で存在できない。②：１ターンに１度、相手がドローフェイズ以外でデッキからカードを手札に加えた場合に発動できる。相手は自身の手札・フィールドのモンスター１体を墓地へ送らなければならない。③：魔法・罠・モンスターの効果が発動した時、自分フィールドの「ジェネレイド」モンスターまたは魔法使い族モンスターを合計２体リリースして発動できる。その発動を無効にし破壊する。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "포효의 제너레이드 하르"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 1턴에 1번, 상대가 드로우 페이즈 이외로 덱에서 카드를 패에 넣었을 경우에 발동할 수 있다. 상대는 자신의 패 / 필드의 몬스터 1장을 묘지로 보내야 한다. ③: 마법 / 함정 / 몬스터의 효과가 발동했을 때, 자신 필드의 "제너레이드" 몬스터 또는 마법사족 몬스터를 합계 2장 릴리스하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的③的效果1回合只能使用1次。
-    ①：「轰界王战 哈尔王」在自己场上只能有1只表侧表示存在。
-    ②：1回合1次，对方在抽卡阶段以外从卡组把卡加入手卡的场合才能发动。对方必须把自身的手卡·场上1只怪兽送去墓地。
-    ③：魔法·陷阱·怪兽的效果发动时，把自己场上的「王战」怪兽或者魔法师族怪兽合计2只解放才能发动。那个发动无效并破坏。
-type: Monster
-typeline: Spellcaster / Effect
+    此卡名的③效果1回合仅可使用1次。①："轰之创王 哈尔"在自己场上仅可有1只以表侧表示存在。②：1回合1次，对手在抽牌阶段以外从牌组将卡加入手牌的情况下可以发动。对手必须将自身手牌・场上的1只怪兽送至墓地。③：魔法・陷阱・怪兽的效果发动时，解放自己场上的"创王"怪兽或魔法师族怪兽合计2只可以发动。将该发动无效并破坏。
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 9
 atk: 3000

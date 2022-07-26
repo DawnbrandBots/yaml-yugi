@@ -7,11 +7,12 @@ name:
   fr: Pieds du Double Avatar - Un-Gyo Cuirassé
   it: Calci Duplice Avatar - Un-Gyo Corazzato
   pt: Pés dos Dois Avatares - Un-Gyo com Armadura
-  ja: <ruby><rb>双</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>脚</rb><rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>
-    <ruby><rb>鎧</rb><rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby><rb>吽</rb><rp>（</rp><rt>うん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>双</rb><rt>そう</rt></ruby><ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>脚</rb><rt>きゃく</rt></ruby>
+    <ruby><rb>鎧</rb><rt>がい</rt></ruby><ruby><rb>吽</rb><rt>うん</rt></ruby>
   ja_romaji: Sōtenkyaku Gaiun
   ko: 쌍천각 개훔
   ko_rr:
+  zh-TW:
   zh-CN: 双天脚 铠吽
 text:
   en: |-
@@ -38,13 +39,14 @@ text:
   ko: |-
     "쌍천" 몬스터 × 2
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 "쌍천" 융합 몬스터가 효과로 파괴될 경우, 대신에 자신 필드의 "쌍천" 몬스터 1장을 파괴할 수 있다. ②: 효과 몬스터를 소재로서 융합 소환한 "쌍천" 융합 몬스터가 자신 필드에 존재할 경우, 자신 / 상대 메인 페이즈에, 엑스트라 덱에서 특수 소환된 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다.
+  zh-TW:
   zh-CN: |-
     「双天」怪兽×2
     这个卡名的②的效果1回合只能使用1次。
     ①：自己场上的「双天」融合怪兽被效果破坏的场合，可以作为代替把自己场上1只「双天」怪兽破坏。
     ②：效果怪兽为素材作融合召唤的「双天」融合怪兽在自己场上存在的场合，自己·对方的主要阶段，以从额外卡组特殊召唤的1只表侧表示怪兽为对象才能发动。那只怪兽的效果直到回合结束时无效。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
 level: 5
 atk: 1700

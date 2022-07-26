@@ -7,10 +7,11 @@ name:
   fr: Dragon Agave
   it: Drago Agave
   pt: Dragão Agave
-  ja: <ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby><ruby><rb>蘭</rb><rp>（</rp><rt>らん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>絶</rb><rt>ぜつ</rt></ruby><ruby><rb>蘭</rb><rt>らん</rt></ruby>
   ja_romaji: Ryūzetsuran
   ko: 용절란
   ko_rr: Yongjeonnan
+  zh-TW:
   zh-CN: 龙绝兰
 text:
   en: |-
@@ -61,6 +62,7 @@ text:
   ko: |-
     토큰 이외의 몬스터 2장 이상
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 서로 묘지의 몬스터의 종족과 그 수에 따라 이하의 효과를 적용한다. ●드래곤족: 그 수 × 100 데미지를 상대에게 준다. ●공룡족: 이 카드의 공격력은 그 수 × 200 올린다. ●해룡족: 상대 필드의 모든 몬스터의 공격력은 그 수 × 300 내린다. ●환룡족: 자신은 그 수 × 400 LP 회복한다.
+  zh-TW:
   zh-CN: |-
     衍生物以外的怪兽2只以上
     这个卡名的效果1回合只能使用1次。
@@ -69,14 +71,14 @@ text:
     ●恐龙族：这张卡的攻击力上升那个数量×200。
     ●海龙族：对方场上的全部怪兽的攻击力下降那个数量×300。
     ●幻龙族：自己回复那个数量×400基本分。
-type: Monster
-typeline: Wyrm / Link / Effect
+card_type: Monster
+monster_type_line: Wyrm / Link / Effect
 attribute: EARTH
 link_arrows:
-- Middle-Left
-- Bottom-Left
-- Bottom-Right
-- Middle-Right
+- ⬅
+- ↙
+- ↘
+- ➡
 atk: 3000
 materials: 2+ monsters, except Tokens
 sets:

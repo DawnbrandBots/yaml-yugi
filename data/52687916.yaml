@@ -7,11 +7,12 @@ name:
   fr: Trishula, Dragon de la Barrière de Glace
   it: Trishula, Drago della Barriera di Ghiaccio
   pt: Trishula, o Dragão da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>龍</rb><rt>りゅう</rt></ruby>
     トリシューラ
   ja_romaji: Hyōkekkai no Ryū Torishūra
   ko: 빙결계의 용 트리슈라
   ko_rr: Binggyeolgye-ui Yong Teurisyura
+  zh-TW:
   zh-CN: 冰结界之龙 三叉龙
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 2장 이상
     ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 상대의 패 / 필드 / 묘지의 카드를 각각 1장까지 고르고 제외할 수 있다(패에서는 무작위로 고른다).
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽2只以上
-    ①：这张卡同调召唤成功时才能发动。对方的手卡·场上·墓地的卡可以各选最多1张除外。
-type: Monster
-typeline: Dragon / Synchro / Effect
+    协调＋2只以上协调以外的怪兽
+    ①：此卡同步召唤成功时可以发动。可从对手的手牌・场上・墓地各挑选最多1张卡除外（从手牌是随机挑选）。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: WATER
 level: 9
 atk: 2700

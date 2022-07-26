@@ -7,10 +7,11 @@ name:
   fr: Amende
   it: Multa
   pt: Multa
-  ja: <ruby><rb>罰</rb><rp>（</rp><rt>ばっ</rt><rp>）</rp></ruby><ruby><rb>則</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby><ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>罰</rb><rt>ばっ</rt></ruby><ruby><rb>則</rb><rt>そく</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby>
   ja_romaji: Bassokukin
   ko: 벌금
   ko_rr:
+  zh-TW:
   zh-CN: 罚则金
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分は手札を２枚選んで捨てる。
   ko: |-
     자신은 패를 2장 버린다.
+  zh-TW:
   zh-CN: |-
     自己选2张手卡丢弃。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Transporteur Zenmaity Automate
   it: Trasportatore Zenmaity a Molla
   pt:
-  ja: <ruby><rb>発</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>条</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>母</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>ゼンマイティ
+  ja: <ruby><rb>発</rb><rt>ぜん</rt></ruby><ruby><rb>条</rb><rt>まい</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>母</rb><rt>ぼ</rt></ruby>ゼンマイティ
   ja_romaji: Zenmai Kūbo Zenmaiti
   ko: 발조공모 태엽마이티
   ko_rr:
+  zh-TW:
   zh-CN: 发条空母 发条巨舰
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 3 몬스터 x 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하는 것으로, 패 / 덱에서 "태엽"이라는 이름이 붙은 몬스터 1장을 특수 소환한다. 또한, 필드 위에 앞면 표시로 존재하는 "태엽"이라는 이름이 붙은 몬스터가 파괴되어 자신의 묘지로 보내졌을 때, 이 카드의 엑시즈 소재를 1개 제거하는 것으로, 그 몬스터 1장을 선택하고 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     3星怪兽×2
     ①：1回合1次，把这张卡1个XYZ素材取除才能发动。从手卡·卡组把1只「发条」怪兽特殊召唤。②：场上的表侧表示的「发条」怪兽被战斗以外破坏送去自己墓地时，把这张卡1个XYZ素材取除，以那1只「发条」怪兽为对象才能发动。那只怪兽加入手卡。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: WATER
 rank: 3
 atk: 1500

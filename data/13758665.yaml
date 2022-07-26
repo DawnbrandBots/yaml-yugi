@@ -7,10 +7,11 @@ name:
   fr: Main Gauche du Magicien
   it: Mano Sinistra del Mago
   pt: Mão Esquerda do Mago
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby><rb>左</rb><rp>（</rp><rt>ひだり</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>の<ruby><rb>左</rb><rt>ひだり</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>
   ja_romaji: Majutsushi no Hidarite
   ko: 마술사의 왼손
   ko_rr: Masulsa-ui Winson
+  zh-TW:
   zh-CN: 魔术师的左手
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：１ターンに１度、自分フィールドに魔法使い族モンスターが存在する場合、相手が発動した罠カードの効果を無効にし破壊する。
   ko: |-
     ①: 1턴에 1번, 자신 필드에 마법사족 몬스터가 존재할 경우, 상대가 발동한 함정 카드의 효과를 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己场上有魔法师族怪兽存在的场合，对方发动的陷阱卡的效果无效并破坏。
-type: Spell
+card_type: Spell
 property: Continuous

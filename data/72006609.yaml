@@ -7,11 +7,12 @@ name:
   fr: Mekk-Chevalier de l'Étoile du Matin
   it: Meck-Cavaliere della Stella del Mattino
   pt: Mekk-Cavaleiro da Estrela da Manhã
-  ja: <ruby><rb>明</rb><rp>（</rp><rt>みょう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>の<ruby><rb>機械騎士</rb><rp>（</rp><rt>ジャックナイツ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>明</rb><rt>みょう</rt></ruby><ruby><rb>星</rb><rt>じょう</rt></ruby>の<ruby><rb>機械騎士</rb><rt>ジャックナイツ</rt></ruby>
   ja_romaji: Myōjō no Jakkunaitsu
   ko: 명성의 잭나이츠
   ko_rr: Myeongseong-ui Jaeknaicheu
-  zh-CN: 明星之机械骑士
+  zh-TW:
+  zh-CN: 晨星之机界骑士
 text:
   en: |-
     2 monsters, including a "Mekk-Knight" monster
@@ -37,17 +38,16 @@ text:
   ko: |-
     "잭나이츠" 몬스터를 포함하는 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 패에서 "잭나이츠" 몬스터 1장 또는 "성유물" 카드 1장을 버리고 발동할 수 있다. 덱에서 "성유물" 카드 1장을 패에 넣는다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신의 "잭나이츠" 몬스터는, 그 세로열과 다른 세로열인 몬스터와의 전투로는 파괴되지 않으며, 그 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다.
+  zh-TW:
   zh-CN: |-
-    包含「机界骑士」怪兽的怪兽2只
-    这个卡名的①的效果1回合只能使用1次。
-    ①：这张卡连接召唤成功的场合，从手卡丢弃1只「机界骑士」怪兽或者1张「星遗物」卡才能发动。从卡组把1张「星遗物」卡加入手卡。
-    ②：只要这张卡在怪兽区域存在，自己的「机界骑士」怪兽不会被和与那自身纵列不同纵列的怪兽的战斗破坏，那次战斗发生的对自己的战斗伤害变成0。
-type: Monster
-typeline: Machine / Link / Effect
+    包括“机界骑士”怪兽在内的怪兽2只
+    此卡名的①效果1回合仅可使用1次。①：此卡连接召唤成功的情况下，从手牌将1只“机界骑士”怪兽或1张“星遗物”卡舍弃可以发动。从牌组将1张“星遗物”卡加入手牌。②：只要此卡存在于怪兽区域，自己的“机界骑士”怪兽不会因与所在纵列不同的怪兽战斗被破坏，因该战斗发生的对自己的战斗伤害变为0。
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 2000
 materials: 2 monsters, including a "Mekk-Knight" monster
 sets:

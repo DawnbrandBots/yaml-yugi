@@ -7,11 +7,12 @@ name:
   fr: Champion Héroïque - Excalibur
   it: Campione Eroico - Excalibur
   pt: Campeão Heroico - Excalibur
-  ja: <ruby><rb>Ｈ</rb><rp>（</rp><rt>ヒロイック</rt><rp>）</rp></ruby>－<ruby><rb>Ｃ</rb><rp>（</rp><rt>チャンピオン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｈ</rb><rt>ヒロイック</rt></ruby>－<ruby><rb>Ｃ</rb><rt>チャンピオン</rt></ruby>
     エクスカリバー
   ja_romaji: Hiroikku Chanpion Ekusukaribā
-  ko: <ruby><rb>H－C</rb><rp>（</rp><rt>히로익 챔피언</rt><rp>）</rp></ruby> 엑스칼리버
+  ko: <ruby><rb>H－C</rb><rt>히로익 챔피언</rt></ruby> 엑스칼리버
   ko_rr:
+  zh-TW: 英豪勝利者 王者之劍
   zh-CN: 英豪冠军 断钢剑王
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     전사족 레벨 4 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 이 카드의 공격력은, 다음 상대의 엔드 페이즈시까지 원래 공격력의 배가 된다.
+  zh-TW: "战士族等级4怪兽×2\n1回合1次，可移除此卡的2个超量素材并发动。直至下一个对手回合结束时，此卡的攻击力变为原本攻击力的2倍。"
   zh-CN: |-
     　战士族　4星怪兽×2。1回合1次，把这张卡2个XYZ素材取除才能发动。这张卡的攻击力直到下次的对方的结束阶段时变成原本攻击力的2倍。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 4
 atk: 2000

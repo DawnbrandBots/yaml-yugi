@@ -7,10 +7,11 @@ name:
   fr: Bannisseur de Rayonnement
   it: Epuratore della Radianza
   pt: Banidor da Luz
-  ja: <ruby><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>の<ruby><rb>追</rb><rp>（</rp><rt>つい</rt><rp>）</rp></ruby><ruby><rb>放</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>閃</rb><rt>せん</rt></ruby><ruby><rb>光</rb><rt>こう</rt></ruby>の<ruby><rb>追</rb><rt>つい</rt></ruby><ruby><rb>放</rb><rt>ほう</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Senkō no Tsuihōsha
   ko: 섬광의 추방자
   ko_rr:
+  zh-TW:
   zh-CN: 闪光之追放者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、墓地へ送られるカードは墓地へは行かずゲームから除外される。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 묘지로 보내지는 카드는 묘지로는 가지 않고 게임에서 제외된다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，送去墓地的卡不去墓地从游戏中除外。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 3
 atk: 1600

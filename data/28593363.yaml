@@ -7,10 +7,11 @@ name:
   fr: Requin des Mers Profondes
   it: Squalo degli Abissi
   pt: Tubarão das Profundezas do Mar
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>に<ruby><rb>潜</rb><rp>（</rp><rt>ひそ</rt><rp>）</rp></ruby>むサメ
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>むサメ
   ja_romaji: Shinkai ni Hisomu Same
   ko: 심해상어
   ko_rr:
+  zh-TW:
   zh-CN: 潜伏深海的鲨鱼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「神魚」＋「舌魚」
   ko: |-
     "어신" + "설어"
+  zh-TW:
   zh-CN: |-
     「神鱼」＋「舌鱼」。
-type: Monster
-typeline: Fish / Fusion
+card_type: Monster
+monster_type_line: Fish / Fusion
 attribute: WATER
 level: 5
 atk: 1900

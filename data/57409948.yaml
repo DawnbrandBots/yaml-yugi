@@ -7,10 +7,11 @@ name:
   fr: Scarabée Bombardier
   it: Scarabeo Bombardiere
   pt:
-  ja: <ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>弾</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>かめ<ruby><rb>虫</rb><rp>（</rp><rt>ムシ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>弾</rb><rt>だん</rt></ruby>かめ<ruby><rb>虫</rb><rt>ムシ</rt></ruby>
   ja_romaji: Bakudan Kamemushi
   ko: 폭탄 벌레
   ko_rr:
+  zh-TW:
   zh-CN: 爆弹椿象
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：相手フィールド上の裏側守備表示モンスターカード１枚を確認する。効果モンスターの場合は破壊し（リバース効果は発動しない）、違う場合は元に戻す。
   ko: |-
     리버스 : 상대 필드 위의 뒷면 수비 표시 몬스터 카드 1장을 확인한다. 효과 몬스터일 경우는 파괴하고(리버스 효과는 발동하지 않는다), 다를 경우에는 원래대로 되돌린다.
+  zh-TW:
   zh-CN: |-
     把对方场上1张里侧守备表示怪兽卡确认。是效果怪兽的场合则破坏（反转效果不发动），不是的场合回到原状。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: WIND
 level: 2
 atk: 400

@@ -7,10 +7,11 @@ name:
   fr: Dragon Argent aux Yeux Azur
   it: Drago Argento Occhi Azzurri
   pt: Dragão Prateado de Olhos Cerúleos
-  ja: <ruby><rb>蒼</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>眼</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby>の<ruby><rb>銀</rb><rp>（</rp><rt>ぎん</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>蒼</rb><rt>そう</rt></ruby><ruby><rb>眼</rb><rt>がん</rt></ruby>の<ruby><rb>銀</rb><rt>ぎん</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
   ja_romaji: Sōgan no Ginryū
   ko: 하늘빛 눈의 은룡
   ko_rr: Haneulbit Nun-ui Eunnyong
+  zh-TW: 蒼眼銀龍
   zh-CN: 苍眼银龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 일반 몬스터 1장 이상
     이 카드가 특수 소환에 성공했을 때에 발동한다. 자신 필드 위의 드래곤족 몬스터는 다음 턴의 종료시까지 카드 효과의 대상이 되지 않고, 카드의 효과로는 파괴되지 않는다. 또한, 1턴에 1번, 자신의 스텐바이 페이즈시에 발동할 수 있다. 자신 묘지의 일반 몬스터 1장을 선택하고 특수 소환한다.
+  zh-TW: "协调＋协调以外的通常怪兽1只以上\n当此卡成功特殊召唤时发动。我方场上的龙族怪兽到下一个回合结束时为止，不会成为卡牌效果的对象，也不会被卡牌效果破坏。此外，1个回合1次，在我方的准备阶段时可进行发动。选择我方墓地的1只通常怪兽进行特殊召唤。"
   zh-CN: |-
-    调整＋调整以外的通常怪兽1只以上
-    ①：这张卡特殊召唤成功的场合发动。自己场上的龙族怪兽直到下个回合的结束时不会成为效果的对象，不会被效果破坏。②：每次自己准备阶段以自己墓地1只通常怪兽为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Dragon / Synchro / Effect
+    协调＋协调以外的通常怪兽1只以上
+    ①：此卡特殊召唤成功的情况下发动。自己场上的龙族怪兽直至下个回合结束时为止，不会成为效果的对象，不会因效果被破坏。②：每到自己的准备阶段，可以自己墓地的1只通常怪兽为对象发动。将该怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT
 level: 9
 atk: 2500

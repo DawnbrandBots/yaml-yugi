@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 106 : Main de Géant'
   it: 'Numero 106: Mano Gigante'
   pt: 'Número 106: Mão Gigante'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１０６ <ruby><rb>巨岩</rb><rp>（</rp><rt>きょがん</rt><rp>）</rp></ruby><ruby><rb>掌</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>ジャイアント・ハンド
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１０６ <ruby><rb>巨岩</rb><rt>きょがん</rt></ruby><ruby><rb>掌</rb><rt>しょう</rt></ruby>ジャイアント・ハンド
   ja_romaji: Nanbāzu Hyakuroku Kyoganshō Jaianto Hando
   ko: No.106 거암장 자이언트 핸드
   ko_rr:
+  zh-TW:
   zh-CN: No.106 巨岩掌 巨手
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨4 몬스터 x 2
     상대 필드 위의 효과 몬스터의 효과가 발동했을 때, 이 카드의 엑시즈 소재를 2개 제거하고, 상대 필드 위의 효과 몬스터 1장을 선택하여 발동할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택한 효과 몬스터의 효과는 무효화되며, 표시 형식의 변경도 할 수 없다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×2。
     ①对方场上的效果怪兽的效果发动时，把这张卡2个XYZ素材取除，选择对方场上1只效果怪兽为对象才能发动。只要这张卡在场上表侧表示存在，选择的效果怪兽的效果无效化，也不能作表示形式的变更。这个效果在对方回合也能发动。
-type: Monster
-typeline: Rock / Xyz / Effect
+card_type: Monster
+monster_type_line: Rock / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2000

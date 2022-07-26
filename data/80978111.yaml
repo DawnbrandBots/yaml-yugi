@@ -7,10 +7,11 @@ name:
   fr: Cancrelat Volant
   it: '"C" Volante'
   pt: '"B" Voadora'
-  ja: <ruby><rb>飛</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>翔</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>する<ruby><rb>Ｇ</rb><rp>（</rp><rt>ジー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>飛</rb><rt>ひ</rt></ruby><ruby><rb>翔</rb><rt>しょう</rt></ruby>する<ruby><rb>Ｇ</rb><rt>ジー</rt></ruby>
   ja_romaji: Hishōsuru Jī
   ko: 비상의 G
   ko_rr:
+  zh-TW:
   zh-CN: 飞翔的G
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手がモンスターの召喚・特殊召喚に成功した時、このカードを手札から相手フィールド上に表側守備表示で特殊召喚できる。このカードがフィールド上に表側表示で存在する限り、このカードのコントローラーはエクシーズ召喚できない。
   ko: |-
     상대가 몬스터의 일반 소환 / 특수 소환에 성공했을 때, 이 카드를 패에서 상대 필드 위에 앞면 수비 표시로 특수 소환할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 이 카드의 컨트롤러는 엑시즈 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     对方对怪兽的召唤·特殊召唤成功时，这张卡可以从手卡往对方场上表侧守备表示特殊召唤。只要这张卡在场上表侧表示存在，这张卡的控制者不能XYZ召唤。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 3
 atk: 700

@@ -7,10 +7,11 @@ name:
   fr: Guerrier des Abysses
   it: Guerriero degli Abissi
   pt: Guerreiro do Mar Profundo
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Shinkai no Senshi
   ko: 심해의 전사
   ko_rr:
+  zh-TW:
   zh-CN: 深海战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。
   ko: |-
     「바다」가 필드상에 존재하는 한, 이 카드는 마법의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
     只要「海」在场上存在，这张卡不受魔法的效果影响。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 5
 atk: 1600

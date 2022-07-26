@@ -7,10 +7,11 @@ name:
   fr: Sorcier de la Barrière de Glace
   it: Criomante della Barriera di Ghiaccio
   pt: Criomante da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Hyōkekkai no Jutsusha
   ko: 빙결계의 기술자
   ko_rr: Binggyeolgye-ui Gisulja
+  zh-TW:
   zh-CN: 冰结界的术者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドに他の「氷結界」モンスターが存在する限り、レベル４以上のモンスターは攻撃宣言できない。
   ko: |-
     ①: 자신 필드에 다른 "빙결계" 몬스터가 존재하는 한, 레벨 4 이상의 몬스터는 공격 선언할 수 없다.
+  zh-TW:
   zh-CN: |-
     只要自己场上有这张卡以外的名字带有「冰结界」的怪兽存在，场上的4星以上的怪兽不能攻击宣言。
-type: Monster
-typeline: Aqua / Tuner / Effect
+card_type: Monster
+monster_type_line: Aqua / Tuner / Effect
 attribute: WATER
 level: 2
 atk: 1300

@@ -7,11 +7,12 @@ name:
   fr: 'Numéro 46 : Dragluon'
   it: 'Numero 46: Dragluone'
   pt: 'Número 46: Dragluon'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>４６ <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ドラッグルーオン
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>４６ <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>ドラッグルーオン
   ja_romaji: Nanbāzu Yonjūroku Shin'eiryū Doraggurūon
   ko: No.46 신영룡 드래글루온
   ko_rr: Neombeojeu Maheun-yeoseot Sin-yeongnyong Deuraegeulluon
-  zh-CN: No.46 神影龙 胶子龙
+  zh-TW:
+  zh-CN: 编号46 神影龙 胶子龙
 text:
   en: |-
     2 Level 8 Dragon-Type monsters
@@ -55,14 +56,15 @@ text:
   ko: |-
     드래곤족 레벨 8 몬스터 × 2
     ①: 1턴에 1번, 자신 필드에 이 카드 이외의 몬스터가 존재하지 않을 경우, 이 카드의 엑시즈 소재를 1개 제거하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다. ●패에서 드래곤족 몬스터 1장을 특수 소환한다. ●상대 필드의 드래곤족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 드래곤족 몬스터의 컨트롤을 얻는다. ●상대 턴 종료시까지, 상대 필드의 드래곤족 몬스터는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    龙族8星怪兽×2
-    ①：1回合1次，自己场上没有这张卡以外的怪兽存在的场合，可以把这张卡1个XYZ素材取除，从以下效果选择1个发动。
-    ●从手卡把1只龙族怪兽特殊召唤。
-    ●以对方场上1只龙族怪兽为对象才能发动。得到那只龙族怪兽的控制权。
-    ●直到对方回合结束时，对方场上的龙族怪兽不能把效果发动。
-type: Monster
-typeline: Dragon / Xyz / Effect
+    龙族等级8怪兽×2
+    ①：1回合1次，自己场上没有其他怪兽存在的情况下，去除此卡的1个超量素材，可从以下效果中选择1个发动。
+    ●从手牌将1只龙族怪兽特殊召唤。
+    ●以对手场上的1只龙族怪兽为对象可以发动。获得该龙族怪兽的控制权。
+    ●直至对手回合结束时为止，对手场上的龙族怪兽不可发动效果。
+card_type: Monster
+monster_type_line: Dragon / Xyz / Effect
 attribute: LIGHT
 rank: 8
 atk: 3000

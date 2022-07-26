@@ -7,11 +7,12 @@ name:
   fr: Broww, Chasseur du Monde Ténébreux
   it: Broww, Cacciatore del Mondo Oscuro
   pt: Broww, Caçador do Mundo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>狩</rb><rp>（</rp><rt>かり</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>うど</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>狩</rb><rt>かり</rt></ruby><ruby><rb>人</rb><rt>うど</rt></ruby>
     ブラウ
   ja_romaji: Ankokukai no Kariudo Burau
   ko: 암흑계의 사냥꾼 브라우
   ko_rr:
+  zh-TW: 暗黑界之獵人 棕布勞
   zh-CN: 暗黑界的狩人 布劳
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードがカードの効果によって手札から墓地へ捨てられた場合、自分のデッキからカードを１枚ドローする。相手のカードの効果によって捨てられた場合、さらにもう１枚ドローする。
   ko: |-
     이 카드가 다른 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 덱에서 카드를 1장 드로우한다. 상대 카드의 효과에 의해서 버려져을 경우, 다시 1장 더 드로우한다.
+  zh-TW: 此卡因卡牌效果从手牌被舍弃至墓地的场合，从我方牌组抽取1张卡牌。因对手卡牌效果被舍弃的场合，我方另抽取1张卡牌。
   zh-CN: |-
     这张卡被卡的效果从手卡丢弃去墓地的场合，从自己卡组抽1张卡。被对方的卡的效果丢弃的场合，再抽1张。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 3
 atk: 1400

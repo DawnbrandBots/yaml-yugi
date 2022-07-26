@@ -7,11 +7,12 @@ name:
   fr: Crocodragon Archethys Vorace
   it: Archethys Crocodrago Famelico
   pt: Crocodragão Voraz Arquetis
-  ja: <ruby><rb>飢</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>鰐</rb><rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>アーケティス
+  ja: <ruby><rb>飢</rb><rt>き</rt></ruby><ruby><rb>鰐</rb><rt>がく</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>アーケティス
   ja_romaji: Kigakuryū Āketisu
   ko: 기악룡 아케티스
   ko_rr: Giangnyong Aketiseu
-  zh-CN: 饥鳄龙 古鱼龙
+  zh-TW:
+  zh-CN: 饥鳄龙 饿古提斯
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -49,14 +50,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 그 싱크로 소재로 한 몬스터 중, 튜너 이외의 몬스터의 수만큼, 자신은 덱에서 드로우한다. ②: 이 카드의 공격력 / 수비력은 자신의 패의 수 × 500 올린다. ③: 패를 2장 버리고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这个卡名的①③的效果1回合各能使用1次。
-    ①：这张卡同调召唤成功的场合才能发动。自己从卡组抽出那些作为同调素材的怪兽之内除调整以外的怪兽的数量。
-    ②：这张卡的攻击力·守备力上升自己手卡数量×500。
-    ③：丢弃2张手卡，以场上1张卡为对象才能发动。那张卡破坏。这个效果在对方回合也能发动。
-type: Monster
-typeline: Fish / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    此卡名的①③效果1回合仅可各使用1次。①：此卡同步召唤成功的情况下可以发动。自己从牌组抽牌，数量为该同步素材的怪兽中协调以外的怪兽数量。②：此卡的攻击力・守备力上升相当于自己手牌数量×500的数值。③：舍弃2张手牌，以场上的1张卡为对象可以发动。将该卡破坏。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Fish / Synchro / Effect
 attribute: WATER
 level: 9
 atk: 1000

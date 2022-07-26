@@ -7,10 +7,11 @@ name:
   fr: Aleister l'Invokhateur de la Folie
   it: Aleister l'Invocatore della Follia
   pt: Aleister, Aquele que Invoka a Loucura
-  ja: <ruby><rb>暴</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>走</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>アレイスター
+  ja: <ruby><rb>暴</rb><rt>ぼう</rt></ruby><ruby><rb>走</rb><rt>そう</rt></ruby><ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>アレイスター
   ja_romaji: Bōsō Shōkanshi Areisutā
   ko: 폭주소환사 알레이스터
   ko_rr: Peukjusohwansa Alleiseuteo
+  zh-TW:
   zh-CN: 暴走召唤师 阿莱斯特
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     종족과 속성이 다른 몬스터 2장
     ①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 "소환사 알레이스터"로 취급한다. ②: 이 카드가 이미 몬스터 존에 존재하는 상태에서, 융합 몬스터가 융합 소환되었을 경우에 발동할 수 있다. 패를 1장 골라 버리고, 덱에서 "소환마술" 또는 "법의 성전" 1장을 패에 넣는다. ③: 앞면 표시의 이 카드가 상대 효과로 필드에서 벗어났을 경우에 발동할 수 있다. 덱에서 "마법명－"투 메가 세리온"" 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     种族和属性不同的怪兽2只
     ①：这张卡的卡名只要在场上·墓地存在当作「召唤师 阿莱斯特」使用。
     ②：这张卡已在怪兽区域存在的状态，融合怪兽融合召唤的场合才能发动。选1张手卡丢弃，从卡组把1张「召唤魔术」或者「法之圣典」加入手卡。
     ③：表侧表示的这张卡因对方的效果从场上离开的场合才能发动。从卡组把1张「魔法名-「大兽」」加入手卡。
-type: Monster
-typeline: Spellcaster / Link / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1800
 materials: 2 monsters with different Types and different Attributes
 sets:

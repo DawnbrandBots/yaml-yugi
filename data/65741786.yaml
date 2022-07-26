@@ -7,11 +7,12 @@ name:
   fr: I:P Masquerena
   it: I:P Masquerena
   pt: I:P Mascarena
-  ja: <ruby><rb>Ｉ</rb><rp>（</rp><rt>アイ</rt><rp>）</rp></ruby>：<ruby><rb>Ｐ</rb><rp>（</rp><rt>ピー</rt><rp>）</rp></ruby>マスカレーナ
+  ja: <ruby><rb>Ｉ</rb><rt>アイ</rt></ruby>：<ruby><rb>Ｐ</rb><rt>ピー</rt></ruby>マスカレーナ
   ja_romaji: Ai:Pī Masukarēna
   ko: 아이:피 마스카레나
   ko_rr: Ai:Pi Maseukarena
-  zh-CN: I：P伪装舞会莱娜
+  zh-TW:
+  zh-CN: I∶P百变莱娜
 text:
   en: |-
     2 non-Link Monsters
@@ -37,17 +38,16 @@ text:
   ko: |-
     링크 몬스터 이외의 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 메인 페이즈에 발동할 수 있다. 이 카드를 포함하는 자신 필드의 몬스터를 링크 소재로서 링크 소환한다. ②: 이 카드를 링크 소재로 한 링크 몬스터는 상대 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     连接怪兽以外的怪兽2只
-    这个卡名的①的效果1回合只能使用1次。
-    ①：对方主要阶段才能发动。用包含这张卡的自己场上的怪兽为连接素材作连接召唤。
-    ②：这张卡为连接素材的连接怪兽不会被对方的效果破坏。
-type: Monster
-typeline: Cyberse / Link / Effect
+    此卡名的①效果1回合仅可使用1次。①：在对手的主要阶段可以发动。以包括此卡的自己场上的怪兽作为连接素材连接召唤。②：以此卡为连接素材的连接怪兽不会因对手的效果被破坏。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 800
 sets:
   en:

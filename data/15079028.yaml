@@ -7,10 +7,11 @@ name:
   fr: Âme du Monde - Carbone
   it: Anima del Mondo - Carbonio
   pt: Alma do Mundo - Carbono
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>久</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>－カルボン
+  ja: <ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>久</rb><rt>きゅう</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby>－カルボン
   ja_romaji: Chikyūjin - Karubon
   ko: 지구 신－카르본
   ko_rr: Jinu Sin - Kareubon
+  zh-TW:
   zh-CN: 地久神-碳素灵
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：通常召喚したこのカードをリリースして発動できる。デッキから「地久神－カルボン」以外の天使族・地属性モンスター１体を手札に加える。②：このカードが墓地に存在する状態で、自分フィールドの表側表示の天使族モンスターが墓地へ送られた場合に発動できる。このカードをデッキの一番上に戻す。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 통상 소환한 이 카드를 릴리스하고 발동할 수 있다. 덱에서 "지구 신－카르본" 이외의 천사족 / 땅 속성 몬스터 1장을 패에 넣는다. ②: 이 카드가 묘지에 존재하는 상태에서, 자신 필드의 앞면 표시의 천사족 몬스터가 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 덱 맨 위로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合只能有1次使用其中任意1个。
     ①：把通常召唤的这张卡解放才能发动。从卡组把「地久神-碳素灵」以外的1只天使族·地属性怪兽加入手卡。
     ②：这张卡在墓地存在的状态，自己场上的表侧表示的天使族怪兽被送去墓地的场合才能发动。这张卡回到卡组最上面。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: EARTH
 level: 4
 atk: 1200

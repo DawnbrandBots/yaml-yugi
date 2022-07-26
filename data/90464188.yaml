@@ -7,10 +7,11 @@ name:
   fr: Dragon Obsidien
   it: Drago d'Ossidiana
   pt:
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>曜</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>曜</rb><rt>よう</rt></ruby><ruby><rb>岩</rb><rt>がん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Kokuyōganryū
   ko: 흑요암룡
   ko_rr:
+  zh-TW:
   zh-CN: 黑曜岩龙
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、自分フィールド上の闇属性モンスター１体を対象にする魔法・罠カードの効果を無効にし破壊する。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신의 필드 위에 앞면 표시로 존재하는 어둠 속성 몬스터 1장을 대상으로 하는 마법, 함정 카드의 효과를 무효로 해 파괴한다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，以自己场上的暗属性怪兽1只为对象的魔法·陷阱卡的效果无效并破坏。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: DARK
 level: 4
 atk: 800

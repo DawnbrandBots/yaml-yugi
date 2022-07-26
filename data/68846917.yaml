@@ -7,10 +7,11 @@ name:
   fr: Ogre de Pierre Grotto N°1
   it: 'Orco di Pietra #1'
   pt: 'Ogro de Rocha da Gruta #1'
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>窟</rb><rp>（</rp><rt>くつ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>オーガ・ロック
+  ja: <ruby><rb>岩</rb><rt>がん</rt></ruby><ruby><rb>窟</rb><rt>くつ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>オーガ・ロック
   ja_romaji: Gankutsumajin Ōga Rokku
   ko: 바위 마신 오우거록
   ko_rr:
+  zh-TW:
   zh-CN: 岩窟魔人
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Protegido por um corpo sólido de rock, este monstro dá um soco quebra-osso.
   ja: |-
-    <ruby><rb>体</rb><rp>（</rp><rt>からだ</rt><rp>）</rp></ruby>が<ruby><rb>岩</rb><rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>のため<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby>は<ruby><rb>高</rb><rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い。<ruby><rb>太</rb><rp>（</rp><rt>ふと</rt><rp>）</rp></ruby>い<ruby><rb>腕</rb><rp>（</rp><rt>うで</rt><rp>）</rp></ruby>のひと<ruby><rb>振</rb><rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>りに<ruby><rb>注</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby><rb>意</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>。
+    <ruby><rb>体</rb><rt>からだ</rt></ruby>が<ruby><rb>岩</rb><rt>いわ</rt></ruby>のため<ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby>は<ruby><rb>高</rb><rt>たか</rt></ruby>い。<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>腕</rb><rt>うで</rt></ruby>のひと<ruby><rb>振</rb><rt>ふ</rt></ruby>りに<ruby><rb>注</rb><rt>ちゅう</rt></ruby><ruby><rb>意</rb><rt>い</rt></ruby>。
   ko: |-
     온몸이 바위로 되어있어 수비는 높다. 거대한 바위팔 공격에 주의.
+  zh-TW:
   zh-CN: |-
     岩石之躯成就高强的守备力。挥起巨腕时务必警惕。
-type: Monster
-typeline: Rock
+card_type: Monster
+monster_type_line: Rock
 attribute: EARTH
 level: 3
 atk: 800

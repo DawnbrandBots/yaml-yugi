@@ -7,10 +7,11 @@ name:
   fr: Servante Volcan Laval
   it: Ancella Vulcano Laval
   pt: Criada do Vulcão Laval
-  ja: ラヴァル<ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>山</rb><rp>（</rp><rt>ざん</rt><rp>）</rp></ruby>の<ruby><rb>侍</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: ラヴァル<ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>山</rb><rt>ざん</rt></ruby>の<ruby><rb>侍</rb><rt>じ</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>
   ja_romaji: Ravaru Enkazan no Jijo
   ko: 라바르 염화산의 시녀
   ko_rr: Rabareu Yeomhwasan-ui Sinyeo
+  zh-TW:
   zh-CN: 熔岩炎火山的侍女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが墓地へ送られた時、自分の墓地に「ラヴァル炎火山の侍女」以外の「ラヴァル」モンスターが存在する場合に発動できる。デッキから「ラヴァル」モンスター１体を墓地へ送る。
   ko: |-
     ①: 이 카드가 묘지로 보내졌을 때, 자신 묘지에 "라바르 염화산의 시녀" 이외의 "라바르" 몬스터가 존재할 경우에 발동할 수 있다. 덱에서 "라바르" 몬스터 1장을 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     自己墓地有「熔岩炎火山的侍女」以外的名字带有「熔岩」的怪兽存在，这张卡被送去墓地时，可以从卡组把1只名字带有「熔岩」的怪兽送去墓地。
-type: Monster
-typeline: Pyro / Tuner / Effect
+card_type: Monster
+monster_type_line: Pyro / Tuner / Effect
 attribute: FIRE
 level: 1
 atk: 100

@@ -7,11 +7,12 @@ name:
   fr: Masaki le Spadassin Légendaire
   it: Masaki lo Spadaccino Leggendario
   pt: Masaki, o Espadachim Lendário
-  ja: <ruby><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>豪</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
-    <ruby><rb>ＭＡＳＡＫＩ</rb><rp>（</rp><rt>マサキ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>伝</rb><rt>でん</rt></ruby><ruby><rb>説</rb><rt>せつ</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>豪</rb><rt>ごう</rt></ruby>
+    <ruby><rb>ＭＡＳＡＫＩ</rb><rt>マサキ</rt></ruby>
   ja_romaji: Densetsu no Kengō Masaki
   ko: 전설의검객마사키
   ko_rr:
+  zh-TW:
   zh-CN: 传说的剑豪 正树
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     百人斬りを成しとげたといわれる、伝説の剣豪。
   ko: |-
     혼자서 백명도 넘는 적을 베어 쓰러뜨렸다고 전해지는 전설의 검객.
+  zh-TW:
   zh-CN: |-
     据说是完成了百人斩的传说中的剑豪。
-type: Monster
-typeline: Warrior / Normal
+card_type: Monster
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 4
 atk: 1100

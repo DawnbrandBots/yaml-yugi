@@ -7,10 +7,11 @@ name:
   fr: Nibiru, l'Être Primitif
   it: Nibiru, l'Essere Primordiale
   pt: Nibiru, o Ser Primitivo
-  ja: <ruby><rb>原</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>始</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>態</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>ニビル
+  ja: <ruby><rb>原</rb><rt>げん</rt></ruby><ruby><rb>始</rb><rt>し</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby><ruby><rb>態</rb><rt>たい</rt></ruby>ニビル
   ja_romaji: Genshi Seimeitai Nibiru
   ko: 원시생명체 니비루
   ko_rr: Wonsisaengmyeongche Nibiru
+  zh-TW:
   zh-CN: 原始生命态 尼比鲁
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：相手が５体以上のモンスターを召喚・特殊召喚したターンのメインフェイズに発動できる。自分・相手フィールドの表側表示モンスターを可能な限りリリースし、このカードを手札から特殊召喚する。その後、相手フィールドに「原始生命態トークン」（岩石族・光・星１１・攻／守？）１体を特殊召喚する。このトークンの攻撃力・守備力は、この効果でリリースしたモンスターの元々の攻撃力・守備力をそれぞれ合計した数値になる。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대가 5장 이상의 몬스터를 일반 소환 / 특수 소환한 턴의 메인 페이즈에 발동할 수 있다. 자신 / 상대 필드의 앞면 표시 몬스터를 가능한 한 릴리스하고, 이 카드를 패에서 특수 소환한다. 그 후, 상대 필드에 "원시생명체 토큰"(암석족 / 빛 / 레벨 11 / 공 ? / 수 ?) 1장을 특수 소환한다. 이 토큰의 공격력 / 수비력은, 이 효과로 릴리스한 몬스터의 원래 공격력 / 수비력을 각각 합계한 수치가 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。
     ①：对方对5只以上的怪兽的召唤·特殊召唤成功的回合的主要阶段才能发动。自己·对方场上的表侧表示怪兽全部解放，这张卡从手卡特殊召唤。那之后，在对方场上把1只「原始生命态衍生物」（岩石族·光·11星·攻/守?）特殊召唤。这衍生物的攻击力·守备力变成这个效果解放的怪兽的原本的攻击力·守备力各自合计数值。这个效果在对方回合也能发动。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: LIGHT
 level: 11
 atk: 3000

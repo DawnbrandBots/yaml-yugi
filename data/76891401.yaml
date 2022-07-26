@@ -7,10 +7,11 @@ name:
   fr: Dragon Gishilnodon, Seigneur des Mers
   it: Lord Gishilnodon, Drago del Mare
   pt: Dragão do Mar Senhor Gishilnodon
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ギシルノドン
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>ギシルノドン
   ja_romaji: Shin Kairyū Gishirunodon
   ko: 신해룡 기실노돈
   ko_rr:
+  zh-TW:
   zh-CN: 神海龙 基希尔诺顿
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 레벨 3 몬스터 1장
     필드 위에 앞면 표시로 존재하는 레벨 3 이하의 몬스터가 묘지로 보내졌을 때, 이 카드의 공격력은 이 턴의 엔드 페이즈시까지 3000 이 된다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的3星怪兽1只
     场上表侧表示存在的3星以下的怪兽被送去墓地时，这张卡的攻击力直到结束阶段时变成3000。
-type: Monster
-typeline: Sea Serpent / Synchro / Effect
+card_type: Monster
+monster_type_line: Sea Serpent / Synchro / Effect
 attribute: WATER
 level: 5
 atk: 2300

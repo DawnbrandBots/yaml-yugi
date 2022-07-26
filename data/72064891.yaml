@@ -7,10 +7,11 @@ name:
   fr: Malédiction du Dragon, le Dragon Chevalier Magique
   it: Anatema del Drago, il Drago Magico Cavaliere
   pt: Maldição do Dragão, o Dragão Cavaleiro Mágico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>カース・オブ・ドラゴン
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>カース・オブ・ドラゴン
   ja_romaji: Madōkiryū Kāsu Obu Doragon
   ko: 마방 기룡 커스 오브 드래곤
   ko_rr: Mabang Giryong Keoseu Obeu Deuraegon
+  zh-TW:
   zh-CN: 魔道骑龙 诅咒之龙
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     전사족 몬스터 ＋ 레벨 5 이상의 드래곤족 몬스터
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 융합 소환에 성공했을 경우, "용기사 가이아"의 카드명이 쓰여진 자신 묘지의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신이 드래곤족 / 레벨 7 몬스터를 융합 소환할 경우, 자신 묘지의 몬스터를 제외하고 융합 소재로 할 수도 있다.
+  zh-TW:
   zh-CN: |-
     战士族怪兽＋5星以上的龙族怪兽
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡融合召唤成功的场合，以有「龙骑士 盖亚」的卡名记述的自己墓地1张魔法·陷阱卡为对象才能发动。那张卡加入手卡。
     ②：只要这张卡在怪兽区域存在，自己把龙族·7星怪兽融合召唤的场合，也能把自己墓地的怪兽除外作为融合素材。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: DARK
 level: 5
 atk: 2000

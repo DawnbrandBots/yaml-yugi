@@ -7,10 +7,11 @@ name:
   fr: Moerk, Navire de la Patroll du Pillage
   it: Nave di ConTrollo Bottino Moerk
   pt: Navio Saquepatrollha Moerk
-  ja: <ruby><rb>海造賊</rb><rp>（</rp><rt>プランドロール</rt><rp>）</rp></ruby>－<ruby><rb>静</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>寂</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby>のメルケ<ruby><rb>号</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>海造賊</rb><rt>プランドロール</rt></ruby>－<ruby><rb>静</rb><rt>せい</rt></ruby><ruby><rb>寂</rb><rt>じゃく</rt></ruby>のメルケ<ruby><rb>号</rb><rt>ごう</rt></ruby>
   ja_romaji: Purandorōru - Seijaku no Meruke-Gō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 巡掠海魔船 默克号
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
     レベル４モンスター×２
     このカード名の①の効果は１ターンに１度しか使用できない。①：手札から「海造賊」カード１枚を捨て、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターを除外する。その後、デッキから「海造賊」魔法・罠カード１枚を手札に加える事ができる。このカードが「海造賊」カードを装備している場合、この効果は相手ターンでも発動できる。②：自分フィールドの「海造賊」カードが戦闘・効果で破壊される場合、代わりにこのカードのＸ素材を１つ取り除く事ができる。
   ko:
+  zh-TW:
   zh-CN: |-
     4星怪兽×2
     可以从手卡丢弃1张「巡掠海魔」卡，之后以对方场上1只效果怪兽为对象；那张卡除外，那之后，可以从卡组把1张「巡掠海魔」魔法/陷阱卡加入手卡。这张卡有「巡掠海魔」卡装备的场合，这个效果在对方回合也能发动。「巡掠海魔船 默克号」的这个效果1回合只能使用1次。自己场上的「巡掠海魔」卡被战斗或者卡的效果破坏的场合，可以作为代替把这张卡1个超量素材取除。
-type: Monster
-typeline: Fiend / Xyz / Effect
+card_type: Monster
+monster_type_line: Fiend / Xyz / Effect
 attribute: DARK
 rank: 4
 atk: 1000

@@ -7,10 +7,11 @@ name:
   fr: Péage
   it: Pedaggio
   pt: Pedágio
-  ja: <ruby><rb>通</rb><rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>税</rb><rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>通</rb><rt>つう</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby><ruby><rb>税</rb><rt>ぜい</rt></ruby>
   ja_romaji: Tsūkōzei
   ko: 통행세
   ko_rr:
+  zh-TW:
   zh-CN: 通行税
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     お互いのプレイヤーは５００ライフポイントを払わなければ、攻撃宣言をする事ができない。
   ko: |-
     서로 플레이어는 공격을 실시하는 경우, 500 라이프 포인트를 지불해 공격 선언을 해야 한다.
+  zh-TW:
   zh-CN: |-
     双方玩家若不支付500基本分，不能攻击宣言。
-type: Spell
+card_type: Spell
 property: Continuous

@@ -11,6 +11,7 @@ name:
   ja_romaji: Daburubaito Doragon
   ko: 더블바이트 드래곤
   ko_rr: Deobeulbaiteu Deuraegon
+  zh-TW:
   zh-CN: 双字节龙
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     링크 몬스터 2장
     ①: 이 카드의 공격력은, 이 카드의 링크 소재로 한 몬스터의 링크 마커의 합계 × 300 올린다. ②: 이 카드는 몬스터 존에 존재하는 한, 링크 몬스터 이외의 몬스터의 효과를 받지 않으며, 링크 몬스터 이외의 몬스터와의 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     连接怪兽2只
     ①：这张卡的攻击力上升作为这张卡的连接素材的怪兽的连接标记合计×300。
     ②：这张卡只要在怪兽区域存在，不受连接怪兽以外的怪兽的效果影响，不会被和连接怪兽以外的怪兽的战斗破坏。
-type: Monster
-typeline: Cyberse / Link / Effect
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Top-Center
-- Bottom-Center
+- ⬆
+- ⬇
 atk: 1500
 materials: 2 Link Monsters
 sets:

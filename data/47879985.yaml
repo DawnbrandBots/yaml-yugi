@@ -7,10 +7,11 @@ name:
   fr: Gardien de la Salle du Trône
   it: Guardiano del Trono
   pt: Guardião da Sala do Trono
-  ja: <ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>室</rb><rp>（</rp><rt>しつ</rt><rp>）</rp></ruby><ruby><rb>前</rb><rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>のガーディアン
+  ja: <ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>室</rb><rt>しつ</rt></ruby><ruby><rb>前</rb><rt>まえ</rt></ruby>のガーディアン
   ja_romaji: Ōshitsumae no Gādian
   ko: 왕실의 가디언
   ko_rr:
+  zh-TW:
   zh-CN: 王室前的守护者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     王室をガードする衛兵ロボ。当たるまで追い続けるミサイルを撃つ。
   ko: |-
     왕실을 보호하는 근위병 로봇. 적중시킬 떄가지 계속 뒤쫓는 미사일을 발사한다.
+  zh-TW:
   zh-CN: |-
     守护王室的机械士兵。穷追不舍地使用导弹进行攻击。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: LIGHT
 level: 4
 atk: 1650

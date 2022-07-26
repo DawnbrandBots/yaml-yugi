@@ -7,10 +7,11 @@ name:
   fr: Plante Mangeuse d'Hommes
   it: Pianta Mangia-Uomini
   pt: Planta Devoradora de Homens
-  ja: <ruby><rb>人</rb><rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><ruby><rb>喰</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>い<ruby><rb>植</rb><rp>（</rp><rt>しょく</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>喰</rb><rt>く</rt></ruby>い<ruby><rb>植</rb><rt>しょく</rt></ruby><ruby><rb>物</rb><rt>ぶつ</rt></ruby>
   ja_romaji: Hitokui Shokubutsu
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 食人植物
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     きれいな花と思わせ、近づく人をパクリと食べる、肉食の花。
   ko:
+  zh-TW:
   zh-CN: |-
     食肉花。让人觉得是漂亮的花，然后猛地一口吃掉接近它的人。
-type: Monster
-typeline: Plant
+card_type: Monster
+monster_type_line: Plant
 attribute: EARTH
 level: 2
 atk: 800

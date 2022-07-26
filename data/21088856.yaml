@@ -7,10 +7,11 @@ name:
   fr: Espion-C-Espion
   it: Spia Audace
   pt: Espião-Espicante
-  ja: <ruby><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>麗</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>なる<ruby><rb>密偵</rb><rp>（</rp><rt>スパイ</rt><rp>）</rp></ruby>－<ruby><rb>Ｃ</rb><rp>（</rp><rt>シー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>華</rb><rt>か</rt></ruby><ruby><rb>麗</rb><rt>れい</rt></ruby>なる<ruby><rb>密偵</rb><rt>スパイ</rt></ruby>－<ruby><rb>Ｃ</rb><rt>シー</rt></ruby>
   ja_romaji: Kareinaru Supai - Shī
   ko: 화려한 스파이-C
   ko_rr:
+  zh-TW:
   zh-CN: 华丽的密探-C
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚に成功した場合に発動する。相手のエクストラデッキからランダムに１枚確認する。攻撃力２０００以上のモンスターだった場合、このカードの攻撃力は１０００アップする。攻撃力２０００未満のモンスターだった場合、その攻撃力分だけ自分のＬＰを回復する。
   ko: |-
     ① : 이 카드가 일반 소환에 성공했을 경우에 발동한다. 상대의 엑스트라 덱에서 랜덤으로 1장 확인한다. 공격력 2000 이상인 몬스터였을 경우, 이 카드의 공격력은 1000 포인트 올린다. 공격력 2000 미만인 몬스터였을 경우, 그 공격력만큼 자신의 LP(라이프 포인트)를 회복한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合发动。从对方的额外卡组随机1张确认。攻击力2000以上的怪兽的场合，这张卡的攻击力上升1000。攻击力未满2000的怪兽的场合，自己基本分回复那个攻击力的数值。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: FIRE
 level: 3
 atk: 1200

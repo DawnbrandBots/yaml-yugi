@@ -7,10 +7,11 @@ name:
   fr: Dragon Rampant N°2
   it: 'Drago Strisciante #2'
   pt: 'Dragão Rastejante #2'
-  ja: <ruby><rb>屍</rb><rp>（</rp><rt>しかばね</rt><rp>）</rp></ruby>を<ruby><rb>貪</rb><rp>（</rp><rt>むさぼ</rt><rp>）</rp></ruby>る<ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>屍</rb><rt>しかばね</rt></ruby>を<ruby><rb>貪</rb><rt>むさぼ</rt></ruby>る<ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Shikabane o Musaboru Ryū
   ko: 시체를 먹는 용
   ko_rr:
+  zh-TW:
   zh-CN: 贪尸龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     何でも噛み砕く口を持つ恐竜。その攻撃は強い。
   ko: |-
     무엇이라도 깨물어 부술 수 있는 입을 가진 공룡. 공격은 강하다.
+  zh-TW:
   zh-CN: |-
     什么都能咬碎的恐龙，攻击力十分恐怖。
-type: Monster
-typeline: Dinosaur / Normal
+card_type: Monster
+monster_type_line: Dinosaur / Normal
 attribute: EARTH
 level: 4
 atk: 1600

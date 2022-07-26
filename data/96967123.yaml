@@ -7,10 +7,11 @@ name:
   fr: Canon Dharma
   it:
   pt:
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>だるま
+  ja: <ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>砲</rb><rt>ほう</rt></ruby>だるま
   ja_romaji: Taihō Daruma
   ko: 대포 오뚝이
   ko_rr:
+  zh-TW:
   zh-CN: 大炮达磨
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
     大砲で埋め尽くされているメカだるま。ねらいは外さない。
   ko: |-
     대포로 무장한 기계 오뚜기. 목표물은 놓치지 않는다.
+  zh-TW:
   zh-CN: |-
     在不倒翁里装着大炮，瞄准后绝不会打歪。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: DARK
 level: 2
 atk: 900

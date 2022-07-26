@@ -7,10 +7,11 @@ name:
   fr: Palais Céleste Babylone CXyz
   it: CXyz Palazzo del Cielo Babilonia
   pt: CXyz Palácio Celeste Babilônia
-  ja: <ruby><rb>ＣＸ</rb><rp>（</rp><rt>カオスエクシーズ</rt><rp>）</rp></ruby> <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>巨</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>中</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby><rb>要</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>塞</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>バビロン
+  ja: <ruby><rb>ＣＸ</rb><rt>カオスエクシーズ</rt></ruby> <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>巨</rb><rt>きょ</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>中</rb><rt>ちゅう</rt></ruby><ruby><rb>要</rb><rt>よう</rt></ruby><ruby><rb>塞</rb><rt>さい</rt></ruby>バビロン
   ja_romaji: Kaosu Ekushīzu Chōkyodai Kūchū Yōsai Babiron
-  ko: <ruby><rb>CX</rb><rp>（</rp><rt>카오스 엑시즈</rt><rp>）</rp></ruby> 초거대 공중요새 바빌론
+  ko: <ruby><rb>CX</rb><rt>카오스 엑시즈</rt></ruby> 초거대 공중요새 바빌론
   ko_rr:
+  zh-TW:
   zh-CN: 混沌XYZ 超巨大空中要塞 宝比伦号
 text:
   en: |-
@@ -43,10 +44,11 @@ text:
   ko: |-
     레벨 11 몬스터 × 3
     이 카드가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 파괴한 몬스터의 원래 공격력 절반의 데미지를 상대 라이프에 준다. 또한, 이 카드가 "초거대 공중궁전 강가리다이" 를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다. ● 이 카드가 전투에 의해서 몬스터를 파괴했을 경우, 이 카드의 엑시즈 소재를 1개 제거하는 것으로, 1번 더 이어서 공격할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     11星怪兽×3。这张卡战斗破坏怪兽送去墓地时，给与对方基本分破坏的怪兽的原本攻击力一半数值的伤害。此外，这张卡有「超巨大空中宫殿 钟声协和号」在作为XYZ素材的场合，得到以下效果。●这张卡战斗破坏怪兽的场合，可以通过把这张卡1个XYZ素材取除，只再1次可以继续攻击。这个效果1回合只能使用1次。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: WIND
 rank: 11
 atk: 3800

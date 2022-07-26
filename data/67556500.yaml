@@ -7,10 +7,11 @@ name:
   fr: Dragon aux Pulsations Phonon
   it: Drago Impulso Fononico
   pt: Dragão de Pulso Fônon
-  ja: <ruby><rb>波</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>フォノン・ドラゴン
+  ja: <ruby><rb>波</rb><rt>は</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>フォノン・ドラゴン
   ja_romaji: Hadōryū Fonon Doragon
   ko: 파동룡 포논 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 波动龙 声子龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드가 싱크로 소환에 성공했을 때, 1~3까지의 레벨을 선언하고 발동할 수 있다. 이 카드의 레벨은 선언한 레벨이 된다. 이 효과를 발동한 턴에, 자신은 이 카드를 싱크로 소재로 한 싱크로 소환 이외의 특수 소환을 할 수 없다. 자신은 "파동룡 포논 드래곤"을 1턴에 1번밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这张卡同调召唤成功时，宣言1～3的等级才能发动。这张卡的等级变成宣言的等级。这个效果发动过的回合，自己不能作以这张卡为同调素材的同调召唤以外的特殊召唤。自己对「波动龙 声子龙」1回合只能有1次特殊召唤。
-type: Monster
-typeline: Dragon / Synchro / Tuner / Effect
+    协调＋1只以上协调以外的怪兽
+    自己1回合仅可特殊召唤1次"波动龙 声子龙"。①：此卡同步召唤成功时，宣言1～3中的任意等级可以发动。此卡的等级变为宣言的等级。此效果发动后，直至回合结束时为止，除以此卡为素材的同步召唤以外，自己不可特殊召唤。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Tuner / Effect
 attribute: DARK
 level: 4
 atk: 1900
@@ -121,5 +123,10 @@ sets:
   ko:
   - set_number: PRIO-KR055
     set_name: Primal Origin
+    rarities:
+    - Super Rare
+  zh-CN:
+  - set_number: SD28-SCP17
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
     rarities:
     - Super Rare

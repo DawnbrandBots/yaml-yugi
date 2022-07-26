@@ -7,11 +7,12 @@ name:
   fr: Dispositifeur de l'Enfer, HÉROS Xtra
   it: Dispositivo Infernale EROE Xtra
   pt: Opífice Infernal, o HERÓI Xtra
-  ja: <ruby><rb>Ｘ・ＨＥＲＯ</rb><rp>（</rp><rt>エクストラヒーロー</rt><rp>）</rp></ruby> ヘル・デバイサー
+  ja: <ruby><rb>Ｘ・ＨＥＲＯ</rb><rt>エクストラヒーロー</rt></ruby> ヘル・デバイサー
   ja_romaji: Ekusutora Hīrō Heru Debaisā
   ko: 엑스트라 히어로 헬 데바이서
   ko_rr: Ekseuteura Hieoro Hel Debaiseo
-  zh-CN: 特异英雄 地狱裂魔
+  zh-TW:
+  zh-CN: 特异－英雄 地狱操控者
 text:
   en: |-
     2 "HERO" monsters
@@ -37,17 +38,16 @@ text:
   ko: |-
     "히어로" 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 엑스트라 덱의 "히어로" 융합 몬스터 1장을 상대에게 보여주고, 그 몬스터에 카드명이 쓰여 있는 융합 소재 몬스터를 2장까지 덱에서 패에 넣는다(같은 이름의 카드는 1장까지). 이 효과를 발동하는 턴에, 자신은 "히어로" 몬스터밖에 특수 소환할 수 없다. ②: 이 카드의 링크 앞의 악마족 몬스터의 공격력 / 수비력은 그 레벨 × 100 올린다.
+  zh-TW:
   zh-CN: |-
-    「英雄」怪兽2只
-    这个卡名的①的效果1回合只能使用1次。
-    ①：这张卡连接召唤成功的场合才能发动。额外卡组1只「英雄」融合怪兽给对方观看，那只怪兽有卡名记述的最多2只融合素材怪兽从卡组加入手卡（同名卡最多1张）。这个效果发动的回合，自己不是「英雄」怪兽不能特殊召唤。
-    ②：这张卡所连接区的恶魔族怪兽的攻击力·守备力上升那等级×100。
-type: Monster
-typeline: Fiend / Link / Effect
+    "－英雄"怪兽2只
+    此卡名的①效果1回合仅可使用1次。①：此卡连接召唤成功的情况下可以发动。将额外牌组的1只"－英雄"融合怪兽出示给对手，将最多2只卡名记载于该怪兽的融合素材怪兽从牌组加入手牌（同名卡最多1张）。发动此效果的回合中，自己仅可特殊召唤"－英雄"怪兽。②：此卡连接端的恶魔族怪兽的攻击力・守备力上升相当于其等级×100的数值。
+card_type: Monster
+monster_type_line: Fiend / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
+- ↙
+- ⬇
 atk: 1700
 materials: 2 "HERO" monsters
 sets:

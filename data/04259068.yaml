@@ -7,10 +7,11 @@ name:
   fr: Magie Économique
   it: Economia della Magia
   pt: Magia Econômica
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby><rb>倹</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>約</rb><rp>（</rp><rt>やく</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby><ruby><rb>倹</rb><rt>けん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby>
   ja_romaji: Maryoku Kenyaku Jutsu
   ko: 마력 절약술
   ko_rr:
+  zh-TW:
   zh-CN: 魔力俭约术
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     魔法カードを発動するために払うライフポイントが必要なくなる。
   ko: |-
     마법 카드를 발동하기 위해 지불하는 라이프 포인트가 필요 없게된다.
+  zh-TW:
   zh-CN: |-
     为把魔法卡发动而支付的基本分变成不需要。
-type: Spell
+card_type: Spell
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr: Usine de Convertisseurs
   it: Fabbrica di Macchine
   pt: Fábrica de Conversão de Máquina
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>改</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>造</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby><ruby><rb>工</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>場</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby><ruby><rb>改</rb><rt>かい</rt></ruby><ruby><rb>造</rb><rt>ぞう</rt></ruby><ruby><rb>工</rb><rt>こう</rt></ruby><ruby><rb>場</rb><rt>じょう</rt></ruby>
   ja_romaji: Kikai Kaizō Kōjō
   ko: 기계 개조 공장
   ko_rr:
+  zh-TW:
   zh-CN: 机械改造工厂
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     機械族のみ装備可能。装備モンスター１体の攻撃力と守備力は３００ポイントアップする。
   ko: |-
     기계족만 장착 가능. 장착 몬스터 1장의 공격력과 수비력은 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     机械族才能装备。1只装备怪兽的攻击力和守备力上升300。
-type: Spell
+card_type: Spell
 property: Equip

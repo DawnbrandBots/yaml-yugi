@@ -7,10 +7,11 @@ name:
   fr: Démoniste de la Barrière de Glace
   it: Warlock della Barriera di Ghiaccio
   pt: Bruxo da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Hyōkekkai no Hajutsushi
   ko: 빙결계의 파술사
   ko_rr: Binggyeolgye-ui Pasulsa
+  zh-TW:
   zh-CN: 冰结界的破术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドに他の「氷結界」モンスターが存在する限り、お互いに魔法カードはセットしなければ発動できず、セットしたプレイヤーから見て次の自分ターンが来るまで発動できない。
   ko: |-
     ①: 자신 필드에 다른 "빙결계" 몬스터가 존재하는 한, 서로 마법 카드는 세트하지 않으면 발동할 수 없으며, 세트한 플레이어의 다음 자신 턴이 올 때까지 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     只要自己场上有这张卡以外的名字带有「冰结界」的怪兽存在，双方魔法卡若不盖放则不能发动，直到从盖放的玩家来看的下次的自己回合到来不能发动。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 3
 atk: 400

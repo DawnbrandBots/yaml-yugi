@@ -7,10 +7,11 @@ name:
   fr: Cellule de Puissance, Allié Genex
   it: Genex Alleato Accumulatore
   pt:
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アーリー</rt><rp>）</rp></ruby>・ジェネクス・パワーコール
+  ja: <ruby><rb>Ａ</rb><rt>アーリー</rt></ruby>・ジェネクス・パワーコール
   ja_romaji: Ārī Jenekusu Pawākōru
   ko: A·제넥스 파워콜
   ko_rr:
+  zh-TW:
   zh-CN: 盟军·次世代集电人
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカード以外の自分フィールド上に表側表示で存在するこのカードと同じ属性のモンスターの攻撃力は５００ポイントアップする。
   ko: |-
     이 카드 이외의 자신 필드 위에 앞면 표시로 존재하는 이 카드와 같은 속성의 몬스터 공격력은 500 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，持有和这张卡相同属性的这张卡以外的自己场上的怪兽的攻击力上升500。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 1700

@@ -7,10 +7,11 @@ name:
   fr: Chevalier Noble Sacré d’Artorigus le Roi
   it: Sacro Nobile Cavaliere del Re Artorigus
   pt: Nobre Cavaleiro Sagrado do Rei Artorigus
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>アルトリウス
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>アルトリウス
   ja_romaji: Shinseikishi Ō Arutoriusu
   ko: 신성기사왕 아르토리우스
   ko_rr:
+  zh-TW:
   zh-CN: 神圣骑士王 阿托利斯
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 5 "성기사" 몬스터 × 2
     ① : 이 카드가 엑시즈 소환에 성공했을 때, 자신 묘지의 "성검" 장착 마법 카드를 3 종류까지 대상으로 하고 발동할 수 있다. 대상 카드를 이 카드에 장착한다. ② : 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드 이외의 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. ③ : 이 카드가 필드에서 묘지로 보내졌을 경우, 자신 묘지의 레벨 4 이상의 "성기사" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     5星「圣骑士」怪兽×2
     ①：这张卡XYZ召唤成功时，以自己墓地的「圣剑」装备魔法卡最多3种类为对象才能发动。作为对象的卡给这张卡装备。②：1回合1次，把这张卡1个XYZ素材取除，以这张卡以外的场上1只怪兽为对象才能发动。那只怪兽破坏。③：这张卡从场上送去墓地的场合，以自己墓地1只4星以上的「圣骑士」怪兽为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 5
 atk: 2200

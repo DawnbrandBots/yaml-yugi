@@ -7,10 +7,11 @@ name:
   fr: Fil Tranchant de la Force-S
   it: S-Forza Filo di Rasoio
   pt: Força-S Lâmina Afiada
-  ja: <ruby><rb>Ｓ－Ｆｏｒｃｅ</rb><rp>（</rp><rt>セキュリティ・フォース</rt><rp>）</rp></ruby> エッジ・レイザー
+  ja: <ruby><rb>Ｓ－Ｆｏｒｃｅ</rb><rt>セキュリティ・フォース</rt></ruby> エッジ・レイザー
   ja_romaji: Sekyuriti Fōsu Ejji Reizā
-  ko: <ruby><rb>S－Force</rb><rp>（</rp><rt>시큐리티 포스</rt><rp>）</rp></ruby> 에지 레이저
+  ko: <ruby><rb>S－Force</rb><rt>시큐리티 포스</rt></ruby> 에지 레이저
   ko_rr: Sikyuriti Poseu Eji Reijeo
+  zh-TW:
   zh-CN: 治安战警队 拔刃者
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。手札から「Ｓ－Ｆｏｒｃｅ エッジ・レイザー」以外の「Ｓ－Ｆｏｒｃｅ」モンスター１体を攻撃表示で特殊召喚する。②：このカードがモンスターゾーンに存在する限り、自分の「Ｓ－Ｆｏｒｃｅ」モンスターの正面の相手モンスターは、リンク３以上のモンスターのリンク素材にできない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 패에서 "S－Force(시큐리티 포스) 에지 레이저" 이외의 "S－Force(시큐리티 포스)" 몬스터 1장을 공격 표시로 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신의 "S－Force(시큐리티 포스)" 몬스터 정면의 상대 몬스터는 링크 3 이상의 몬스터의 링크 소재로 할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡召唤·特殊召唤成功的场合才能发动。从手卡把「治安战警队 拔刃者」以外的1只「治安战警队」怪兽攻击表示特殊召唤。
     ②：只要这张卡在怪兽区域存在，自己的「治安战警队」怪兽的正对面的对方怪兽不能作为连接3以上的怪兽的连接素材。
-type: Monster
-typeline: Cyberse / Effect
+card_type: Monster
+monster_type_line: Cyberse / Effect
 attribute: DARK
 level: 4
 atk: 1500

@@ -7,10 +7,11 @@ name:
   fr: Spadassin Samouraï Supralourd
   it: Samurai Superpesante Spadaccino
   pt: Samurai Superpesado Espadachim
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>ソード－<ruby><rb>９９９</rb><rp>（</rp><rt>キューキューキュー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>ソード－<ruby><rb>９９９</rb><rt>キューキューキュー</rt></ruby>
   ja_romaji: Chōjūmusha Sōdo-Kyūkyūkyū
-  ko: 초중무사 스워드-<ruby><rb>999</rb><rp>（</rp><rt>구구구</rt><rp>）</rp></ruby>
+  ko: 초중무사 스워드-<ruby><rb>999</rb><rt>구구구</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 超重武者 刀狩-999
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：このカードが召喚・特殊召喚に成功したときに発動できる。このカードの表示形式を変更する。②：自分フィールドの「超重武者」モンスターが相手モンスターと戦闘を行ったダメージ計算後に発動できる。その相手のモンスターの攻撃力・守備力は０になる。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때 발동할 수 있다. 이 카드의 표시 형식을 변경한다. ②: 자신 필드의 "초중무사" 몬스터가 상대 몬스터와 전투를 실행한 데미지 계산 후에 발동한다. 그 상대 몬스터의 공격력 / 수비력은 0 이 된다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功时才能发动。这张卡的表示形式变更。
     ②：自己场上的「超重武者」怪兽和对方怪兽进行战斗的伤害计算后发动。那只对方怪兽的攻击力·守备力变成0。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 3
 atk: 1000

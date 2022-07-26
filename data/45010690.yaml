@@ -11,6 +11,7 @@ name:
   ja_romaji: Furabotto
   ko: 플라봇
   ko_rr:
+  zh-TW:
   zh-CN: 鲜花机器人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが墓地へ送られた場合に発動する。自分はデッキから１枚ドローする。その後、手札を１枚持ち主のデッキの一番上に戻す。
   ko: |-
     이 카드가 묘지로 보내졌을 때, 덱에서 카드를 1장 드로우하고, 그 후 패를 1장 덱의 맨 위로 되돌린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被送去墓地的场合发动。自己从卡组抽1张。那之后，1张手卡回到持有者卡组最上面。
-type: Monster
-typeline: Plant / Effect
+card_type: Monster
+monster_type_line: Plant / Effect
 attribute: EARTH
 level: 3
 atk: 1500

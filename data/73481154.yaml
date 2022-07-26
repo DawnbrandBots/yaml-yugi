@@ -7,10 +7,11 @@ name:
   fr: Golem Destructeur
   it: Golem Distruttore
   pt: Golem Destruidor
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>のゴーレム
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby>のゴーレム
   ja_romaji: Hakai no Gōremu
   ko: 파괴자골렘
   ko_rr:
+  zh-TW:
   zh-CN: 破坏的石人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     大きな右手が特徴のゴーレム。右手で押しつぶして攻撃する。
   ko: |-
     거대한 오른손이 특징인 골렘. 오른손으로 내리쳐 공격한다.
+  zh-TW:
   zh-CN: |-
     巨大右臂为特征的石人，用右臂进行压迫攻击。
-type: Monster
-typeline: Rock / Normal
+card_type: Monster
+monster_type_line: Rock / Normal
 attribute: EARTH
 level: 4
 atk: 1500

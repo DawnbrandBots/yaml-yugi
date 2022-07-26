@@ -7,10 +7,11 @@ name:
   fr: Traqueur, Allié de la Justice
   it: Acchiappa Nemici Alleato della Giustizia
   pt: Detentor de Inimigos, Aliado da Justiça
-  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rp>（</rp><rt>アーリー・オブ・ジャスティス</rt><rp>）</rp></ruby> エネミー・キャッチャー
+  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rt>アーリー・オブ・ジャスティス</rt></ruby> エネミー・キャッチャー
   ja_romaji: Ārī obu Jasutisu Enemī Kyacchā
   ko: A·O·J 에너미 캐처
   ko_rr:
+  zh-TW:
   zh-CN: 正义盟军 擒敌乌贼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、このターンのエンドフェイズ時まで相手フィールド上に裏側守備表示で存在するモンスター１体のコントロールを得る事ができる。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 이 턴의 엔드 페이즈시까지 상대 필드 위에 뒷면 수비 표시로 존재하는 몬스터 1장의 컨트롤을 얻을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，可以选择对方场上里侧守备表示存在的1只怪兽直到结束阶段时得到控制权。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 6
 atk: 1800

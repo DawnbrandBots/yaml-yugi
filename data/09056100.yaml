@@ -7,11 +7,12 @@ name:
   fr: Général Grunard de la Barrière de Glace
   it: Generale Grunard della Barriera di Ghiaccio
   pt: General Grunard da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>虎</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>将</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>虎</rb><rt>こ</rt></ruby><ruby><rb>将</rb><rt>しょう</rt></ruby>
     グルナード
   ja_romaji: Hyōkekkai no Koshō Gurunādo
   ko: 빙결계의 호장 그루나드
   ko_rr: Binggyeolgye-ui Hojang Geurunadeu
+  zh-TW:
   zh-CN: 冰结界的虎将 神兵
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに「氷結界」モンスター１体を召喚できる。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 통상 소환 외에도 1번만, 자신 메인 페이즈에 "빙결계" 몬스터 1장을 일반 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，自己的主要阶段时只有1次，自己可以在通常召唤外加上把1只名字带有「冰结界」的怪兽召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 8
 atk: 2800

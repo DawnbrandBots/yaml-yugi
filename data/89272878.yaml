@@ -7,10 +7,11 @@ name:
   fr: Gardien du Labyrinthe
   it: Guardia del Labirinto
   pt: Guardião do Labirinto
-  ja: <ruby><rb>冥</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>冥</rb><rt>めい</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby>
   ja_romaji: Meikai no Ban'nin
   ko: 명계의 수호자
   ko_rr:
+  zh-TW:
   zh-CN: 冥界的番人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     冥界の入り口を守る戦士。許可のない者は容赦なく斬る。
   ko: |-
     명계의 입구를 지키는 전사. 허가없이 출입하는 자는 용서치 않고 처단한다.
+  zh-TW:
   zh-CN: |-
     守护着冥界入口的战士，对侵略者豪不留情的斩杀。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 4
 atk: 1000

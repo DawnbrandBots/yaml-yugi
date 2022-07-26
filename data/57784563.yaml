@@ -7,11 +7,12 @@ name:
   fr: Lame Sombre le Capitaine du Monde Maléfique
   it: Lama Nera del Capitano del Mondo Malvagio
   pt:
-  ja: <ruby><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>長</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>闇</rb><rt>やみ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby><ruby><rb>長</rb><rt>ちょう</rt></ruby>
     ダークソード
   ja_romaji: Yami Makai no Senshichō Dākusōdo
   ko: 암흑 마계의 전사장 다크 스워드
   ko_rr:
+  zh-TW:
   zh-CN: 暗魔界的战士长 暗黑之剑
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、自分の墓地の闇属性モンスター１体をゲームから除外し、相手フィールド上の光属性・レベル４以下のモンスター１体を選択して発動できる。選択したモンスターを装備カード扱いとしてこのカードに１体のみ装備する。また、フィールド上のこのカードが破壊される場合、代わりにこのカードの効果で装備したモンスターを破壊する。
   ko: |-
     1턴에 1번, 자신 묘지의 어둠 속성 몬스터 1장을 게임에서 제외하고, 상대 필드 위의 빛 속성 / 레벨 4 이하의 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 장착 카드로 취급하여 이 카드에 1장만 장착한다. 또한, 필드 위의 이 카드가 파괴될 경우,대신에 이 카드의 효과로 장착한 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     1回合1次，把自己墓地1只暗属性怪兽从游戏中除外，选择对方场上1只光属性·4星以下的怪兽才能发动。选择的怪兽当作装备卡使用只有1只给这张卡装备。此外，场上的这张卡被破坏的场合，作为代替把这张卡的效果装备的怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1800

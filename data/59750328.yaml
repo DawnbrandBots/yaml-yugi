@@ -7,11 +7,12 @@ name:
   fr: Carte d'Exécution
   it: Carta dell'Oblio
   pt: Despedida Final
-  ja: <ruby><rb>命</rb><rp>（</rp><rt>いのち</rt><rp>）</rp></ruby><ruby><rb>削</rb><rp>（</rp><rt>けず</rt><rp>）</rp></ruby>りの<ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>命</rb><rt>いのち</rt></ruby><ruby><rb>削</rb><rt>けず</rt></ruby>りの<ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>札</rb><rt>さつ</rt></ruby>
   ja_romaji: Inochi Kezuri no Hōsatsu
   ko: 생명 단축의 패
   ko_rr: Saengmyeong Danchuk-ui Pae
-  zh-CN: 削命的宝札
+  zh-TW:
+  zh-CN: 削命宝牌
 text:
   en: |-
     Draw until you have 3 cards in your hand, also for the rest of this turn after this card resolves, your opponent takes no damage. During the End Phase of this turn, send your entire hand to the GY. You can only activate 1 "Card of Demise" per turn. You cannot Special Summon during the turn you activate this card.
@@ -29,7 +30,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はモンスターを特殊召喚できない。①：自分は手札が３枚になるようにデッキからドローする。このカードの発動後、ターン終了時まで相手が受ける全てのダメージは０になる。このターンのエンドフェイズに、自分の手札を全て墓地へ送る。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에, 자신은 몬스터를 특수 소환할 수 없다. ①: 자신은 패가 3장이 되도록 덱에서 드로우한다. 이 카드의 발동 후, 턴 종료시까지 상대가 받는 모든 데미지는 0 이 된다. 이 턴의 엔드 페이즈에, 자신의 패를 전부 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
-    「削命的宝札」在1回合只能发动1张，这张卡发动的回合，自己不能把怪兽特殊召唤。①：自己直到手卡变成3张为止从卡组抽卡。这张卡的发动后，直到回合结束时对方受到的全部伤害变成0。这个回合的结束阶段，自己手卡全部送去墓地。
-type: Spell
+    此卡名的卡1回合仅可发动1张，发动此卡的回合中，自己不可特殊召唤怪兽。①：自己从牌组抽牌，直至手牌变为3张。此卡发动后，直至回合结束时为止对手受到的全部伤害变为0。在此回合的结束阶段，将自己的所有手牌送至墓地。
+card_type: Spell
 property: Normal

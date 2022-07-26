@@ -7,10 +7,11 @@ name:
   fr: Brasier, HÉROS Élémentaire
   it: Inferno EROE Elementale
   pt: Heroí Elementar Inferno
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> フレイム・ブラスト
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> フレイム・ブラスト
   ja_romaji: Erementaru Hīrō Fureimu Burasuto
   ko: 엘리멘틀 히어로 프레임 블래스트
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 爆裂火焰侠
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     "엘리멘틀 히어로 더 히트" ＋ "엘리멘틀 히어로 레이디 오브 파이어"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 물 속성 몬스터와 전투를 실행할 경우, 데미지 스텝 동안 이 카드의 공격력은 1000포인트 올린다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 炽热侠」＋「元素英雄 火焰女郎」
     这只怪兽不用融合召唤不能特殊召唤。和水属性怪兽进行战斗的场合，伤害步骤内这张卡的攻击力上升1000。
-type: Monster
-typeline: Pyro / Fusion / Effect
+card_type: Monster
+monster_type_line: Pyro / Fusion / Effect
 attribute: FIRE
 level: 8
 atk: 2300

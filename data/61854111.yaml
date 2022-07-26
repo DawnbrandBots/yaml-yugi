@@ -7,10 +7,11 @@ name:
   fr: Épée Légendaire
   it: Spada Leggendaria
   pt: Espada Lendária
-  ja: <ruby><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>伝</rb><rt>でん</rt></ruby><ruby><rb>説</rb><rt>せつ</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby>
   ja_romaji: Densetsu no Ken
   ko: 전설의 검
   ko_rr:
+  zh-TW:
   zh-CN: 传说之剑
 text:
   en: |-
@@ -26,10 +27,11 @@ text:
   pt: |-
     Só pode ser equipado a um monstro Guerreiro. Ele ganha 300 de ATK/DEF.
   ja: |-
-    <ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>のみ<ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>可</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>能</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby>。<ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby>モンスター１<ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>の<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>と<ruby><rb>守</rb><rp>（</rp><rt>しゆ</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>は３００ポイントアップする。
+    <ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>のみ<ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby><ruby><rb>可</rb><rt>か</rt></ruby><ruby><rb>能</rb><rt>のう</rt></ruby>。<ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby>モンスター１<ruby><rb>体</rb><rt>たい</rt></ruby>の<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>と<ruby><rb>守</rb><rt>しゆ</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>は３００ポイントアップする。
   ko: |-
     전사족만 장착 가능. 장착 몬스터 1장의 공격력과 수비력은 300 포인트 올린다
+  zh-TW:
   zh-CN: |-
     战士族才能装备。1只装备怪兽的攻击力和守备力上升300。
-type: Spell
+card_type: Spell
 property: Equip

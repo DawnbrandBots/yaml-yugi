@@ -7,10 +7,11 @@ name:
   fr: Génovirus
   it: Virus Infetta-Tribù
   pt: Vírus Infecta-Tribus
-  ja: <ruby><rb>同</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby><ruby><rb>感</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>染</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby>ウィルス
+  ja: <ruby><rb>同</rb><rt>どう</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby><ruby><rb>感</rb><rt>かん</rt></ruby><ruby><rb>染</rb><rt>せん</rt></ruby>ウィルス
   ja_romaji: Dōzoku Kansen Wirusu
   ko: 동족 감염 바이러스
   ko_rr:
+  zh-TW:
   zh-CN: 同族感染病毒
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：手札を１枚捨て、種族を１つ宣言して発動できる。フィールドの宣言した種族のモンスターを全て破壊する。
   ko: |-
     ① : 패를 1장 버리고, 종족을 1개 선언하여 발동할 수 있다. 필드의 선언한 종족의 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：丢弃1张手卡，宣言1个种族才能发动。场上的宣言的种族的怪兽全部破坏。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 4
 atk: 1600

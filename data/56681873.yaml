@@ -7,11 +7,12 @@ name:
   fr: Terratiger, le Guerrier Éveillé
   it: Terratiger, il Guerriero Potenziato
   pt: Terratigre, o Guerreiro Edificado
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     テライガー
   ja_romaji: Masō Senshi Teraigā
   ko: 마장전사 테라이거
   ko_rr:
+  zh-TW:
   zh-CN: 魔装战士 地虎
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚に成功した時に発動できる。手札からレベル４以下の通常モンスター１体を守備表示で特殊召喚する。
   ko: |-
     ① : 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 일반 몬스터 1장을 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功时才能发动。从手卡把1只4星以下的通常怪兽守备表示特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1800

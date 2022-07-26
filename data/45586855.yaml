@@ -7,10 +7,11 @@ name:
   fr: Créateur de Cyclone, Allié de la Justice
   it: Ciclone Creatore Alleato della Giustizia
   pt:
-  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rp>（</rp><rt>アーリー・オブ・ジャスティス</rt><rp>）</rp></ruby> サイクロン・クリエイター
+  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rt>アーリー・オブ・ジャスティス</rt></ruby> サイクロン・クリエイター
   ja_romaji: Ārī Obu Jasutisu Saikuron Kurieitā
   ko: A·O·J 싸이크론 크리에이터
   ko_rr:
+  zh-TW:
   zh-CN: 正义盟军 造风鸟
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     手札を１枚捨てて発動する。フィールド上に表側表示で存在するチューナーの枚数分だけ、フィールド上に存在する魔法・罠カードを手札に戻す。この効果は１ターンに１度しか使用できない。
   ko: |-
     패를 1장 버리고 발동한다. 필드 위에 앞면 표시로 존재하는 튜너의 매수만큼, 필드 위에 존재하는 마법 / 함정 카드를 패로 되돌린다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     1回合1次，丢弃1张手卡才能发动。选场上的调整数量的场上的魔法·陷阱卡回到持有者手卡。
-type: Monster
-typeline: Machine / Tuner
+card_type: Monster
+monster_type_line: Machine / Tuner
 attribute: DARK
 level: 3
 atk: 1400

@@ -7,10 +7,11 @@ name:
   fr: Message Spirituel "A"
   it: Messaggio dello Spirito "A"
   pt: Mensagem do Espírito "A"
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>のメッセージ「<ruby><rb>Ｔ</rb><rp>（</rp><rt>ティー</rt><rp>）</rp></ruby>」
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby>のメッセージ「<ruby><rb>Ｔ</rb><rt>ティー</rt></ruby>」
   ja_romaji: Shi no Messēji Tī
   ko: 죽음의 메시지 "A"
   ko_rr:
+  zh-TW:
   zh-CN: 死之信息「T」
 text:
   en: |-
@@ -18,7 +19,7 @@ text:
   de: |-
     Diese Karte kann nur durch den Effekt von „Schicksalstafel“ auf das Spielfeld gelegt werden.
   es: |-
-    Esta carta sólo puede ser situada en el Campo por el efecto de "Tablero del Destino".
+    Esta carta sólo puede ser puesta en el Campo por efecto de "Tablero del Destino".
   fr: |-
     Cette carte ne peut être placée sur le Terrain que par l'effet de "Tableau de la Destinée".
   it: |-
@@ -29,7 +30,8 @@ text:
     このカードは「ウィジャ盤」の効果でしかフィールドに出す事ができない。
   ko: |-
     이 카드는 "위저 보드"의 효과로밖에 필드에 낼 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡不用「通灵盘」的效果不能在场上出现。
-type: Spell
+card_type: Spell
 property: Continuous

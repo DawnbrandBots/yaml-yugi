@@ -7,10 +7,11 @@ name:
   fr: Ticki Parasitaire
   it: Ticki Parassitario
   pt: Ticky Parasita
-  ja: <ruby><rb>寄</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>ダニー
+  ja: <ruby><rb>寄</rb><rt>き</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby>ダニー
   ja_romaji: Kiseitai Danī
   ko: 기생체 진드기
   ko_rr:
+  zh-TW:
   zh-CN: 寄生体 壁虱
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの攻撃力・守備力は、フィールド上のトークンの数×５００ポイントの数値になる。
   ko: |-
     이 카드의 공격력/수비력은 필드 위의 토큰 수 X 500 포인트의 수치가 된다.
+  zh-TW:
   zh-CN: |-
     这张卡的攻击力·守备力变成场上的衍生物数量×500的数值。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 1
 atk: '?'

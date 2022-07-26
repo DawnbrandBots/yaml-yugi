@@ -7,10 +7,11 @@ name:
   fr: Ravin des Dragons
   it: Gola Drago
   pt: Ravina de Dragões
-  ja: <ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby><rb>渓</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby><rb>谷</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜</rb><rt>りゅう</rt></ruby>の<ruby><rb>渓</rb><rt>けい</rt></ruby><ruby><rb>谷</rb><rt>こく</rt></ruby>
   ja_romaji: Ryū no Keikoku
   ko: 용의 계곡
   ko_rr:
+  zh-TW: 龍之溪谷
   zh-CN: 龙之溪谷
 text:
   en: |-
@@ -45,9 +46,10 @@ text:
     1턴에 1번, 자신의 메인 페이즈시에 패를 1장 버리고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.
     ● 덱에서 레벨 4 이하의 "드래그니티"라는 이름이 붙은 몬스터 1장을 패에 넣는다.
     ● 덱에서 드래곤족 몬스터 1장을 묘지로 보낸다.
+  zh-TW: "1个回合1次，可在我方的主要阶段时舍弃1张手牌，选择以下其中1个效果发动。\n●从牌组将1只等级4以下并带有「龍盟」之名的怪兽加入手牌。\n●从牌组将1只龙族怪兽送入墓地。"
   zh-CN: |-
-    ①：1回合1次，可以丢弃1张手卡，从以下效果选择1个发动。
-    ●从卡组把1只4星以下的「龙骑兵团」怪兽加入手卡。
-    ●从卡组把1只龙族怪兽送去墓地。
-type: Spell
+    ①：1回合1次，扔掉1张手牌，可从以下效果中选择1个发动。
+    ●从牌组将1只等级4以下的“龙骑兵团”怪兽加入手牌。
+    ●从牌组将1只龙族怪兽送至墓地。
+card_type: Spell
 property: Field

@@ -7,11 +7,12 @@ name:
   fr: Demoiselle aux Yeux Couleur Bleu
   it: Fanciulla con gli Occhi di Blu
   pt: Donzela com Azul nos Olhos
-  ja: <ruby><rb>青</rb><rp>（</rp><rt>あお</rt><rp>）</rp></ruby>き<ruby><rb>眼</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby>の<ruby><rb>乙女</rb><rp>（</rp><rt>おとめ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>青</rb><rt>あお</rt></ruby>き<ruby><rb>眼</rb><rt>め</rt></ruby>の<ruby><rb>乙女</rb><rt>おとめ</rt></ruby>
   ja_romaji: Aokime no Otome
   ko: 파란 눈의 소녀
   ko_rr: Paran Nun-ui Sonyeo
-  zh-CN: 青色眼睛的少女
+  zh-TW: 青之眼少女
+  zh-CN: 青之眼少女
 text:
   en: |-
     When a card or effect is activated that targets this card (Quick Effect): You can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or GY. When this card is targeted for an attack: You can negate the attack, and if you do, change the battle position of this card, then you can Special Summon 1 "Blue-Eyes White Dragon" from your hand, Deck, or GY. You can only use 1 "Maiden with Eyes of Blue" effect per turn, and only once that turn.
@@ -29,10 +30,11 @@ text:
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：フィールドの表側表示のこのカードが効果の対象になった時に発動できる。自分の手札・デッキ・墓地から「青眼の白龍」１体を選んで特殊召喚する。②：このカードが攻撃対象に選択された時に発動できる。その攻撃を無効にし、このカードの表示形式を変更する。その後、自分の手札・デッキ・墓地から「青眼の白龍」１体を選んで特殊召喚できる。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 필드의 앞면 표시의 이 카드가 효과의 대상이 되었을 때에 발동할 수 있다. 자신의 패 / 덱 / 묘지에서 "푸른 눈의 백룡" 1장을 고르고 특수 소환한다. ②: 이 카드가 공격 대상으로 선택되었을 때에 발동할 수 있다. 그 공격을 무효로 하고, 이 카드의 표시 형식을 변경한다. 그 후, 자신의 패 / 덱 / 묘지에서 "푸른 눈의 백룡" 1장을 고르고 특수 소환할 수 있다.
+  zh-TW: 当此卡被选择为攻击对象时可以发动。使该攻击无效并变更此卡的表示形态。之后，可以从我方手牌、牌组、墓地选择1只「青眼白龍」进行特殊召唤。此外，当在场上以表侧表示存在的此卡成为卡牌效果对象时就可以发动。从我方手牌、牌组、墓地挑选1只「青眼白龍」进行特殊召唤。「青之眼少女」的效果1个回合只能使用1次。
   zh-CN: |-
-    这个卡名的①②的效果1回合只能有1次使用其中任意1个。①：场上的表侧表示的这张卡成为效果的对象时才能发动。从自己的手卡·卡组·墓地选1只「青眼白龙」特殊召唤。②：这张卡被选择作为攻击对象时才能发动。那次攻击无效，这张卡的表示形式变更。那之后，可以从自己的手卡·卡组·墓地选1只「青眼白龙」特殊召唤。
-type: Monster
-typeline: Spellcaster / Tuner / Effect
+    此卡名的①②效果1回合1次，仅可使用其中1个。 ①：以场上的此卡为对象的魔法·陷阱·怪兽的效果发动时可以发动。从自己的手牌·牌组·墓地挑选1只“青眼白龙”特殊召唤。 ②：此卡被选择为攻击对象时可以发动。使该攻击无效，并更改此卡的表示形式。然后，可从自己的手牌·牌组·墓地挑选1只“青眼白龙”特殊召唤。
+card_type: Monster
+monster_type_line: Spellcaster / Tuner / Effect
 attribute: LIGHT
 level: 1
 atk: 0

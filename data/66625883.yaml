@@ -7,11 +7,11 @@ name:
   fr: Karakuri 248 "Nishipachi" le Stratège
   it: Stratega Karakuri mod. 248 "Nishipachi"
   pt: Estrategista Karakuri mdl 248 "Nishipachi"
-  ja: カラクリ<ruby><rb>参</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby><rb>謀</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>
-    <ruby><rb>弐</rb><rp>（</rp><rt>ニ</rt><rp>）</rp></ruby><ruby><rb>四</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>八</rb><rp>（</rp><rt>パチ</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>参</rb><rt>さん</rt></ruby><ruby><rb>謀</rb><rt>ぼう</rt></ruby> <ruby><rb>弐</rb><rt>ニ</rt></ruby><ruby><rb>四</rb><rt>シ</rt></ruby><ruby><rb>八</rb><rt>パチ</rt></ruby>
   ja_romaji: Karakuri Sanbō Nishipachi
   ko: 자동기계참모 248 "이사팔"
   ko_rr:
+  zh-TW:
   zh-CN: 机巧参谋 二四八
 text:
   en: |-
@@ -29,10 +29,11 @@ text:
     このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードが召喚・特殊召喚に成功した時、フィールド上に存在するモンスター１体の表示形式を変更する。
   ko: |-
     이 카드는 공격 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 공격 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 수비 표시로 한다. 이 카드가 일반 소환 / 특수 소환에 성공했을 때, 필드 위에 존재하는 몬스터 1장의 표시 형식을 변경한다.
+  zh-TW:
   zh-CN: |-
     这张卡可以攻击的场合必须作出攻击。场上表侧攻击表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变成守备表示。这张卡召唤·特殊召唤成功时，把场上存在的1只怪兽的表示形式变更。
-type: Monster
-typeline: Machine / Tuner
+card_type: Monster
+monster_type_line: Machine / Tuner
 attribute: EARTH
 level: 3
 atk: 500

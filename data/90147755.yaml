@@ -7,10 +7,11 @@ name:
   fr: Assaillante des Flammes
   it: Signora Assaltatrice delle Fiamme
   pt: Dama Assaltante das Chamas
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>おんな</rt><rp>）</rp></ruby><ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>女</rb><rt>おんな</rt></ruby><ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>殺</rb><rt>さつ</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Honō no Onna Ansatsusha
   ko: 화염의 여암살자
   ko_rr:
+  zh-TW:
   zh-CN: 炎之女暗杀者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：自分のデッキの上からカードを３枚ゲームから除外する。相手ライフに８００ポイントダメージを与える。
   ko: |-
     리버스 : 자신의 덱 위에서 3장을 게임에서 제외한다. 상대 라이프에 800 포인트의 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     从自己卡组上面把3张卡从游戏中除外。给与对方基本分800分伤害。
-type: Monster
-typeline: Pyro / Flip / Effect
+card_type: Monster
+monster_type_line: Pyro / Flip / Effect
 attribute: FIRE
 level: 4
 atk: 1500

@@ -7,11 +7,12 @@ name:
   fr: Hydralander Orbital
   it: Hydralander Orbitale
   pt: Hidropousador Orbital
-  ja: <ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>軌</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ハイドランダー
+  ja: <ruby><rb>影</rb><rt>えい</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>軌</rb><rt>き</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>ハイドランダー
   ja_romaji: Eiseikidōheiki Haidorandā
   ko: 영성궤도병기 하이드랜더
   ko_rr:
-  zh-CN: 影星轨道兵器 着陆九头蛇
+  zh-TW:
+  zh-CN: 影星轨道兵器 无双九头蛇
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 5 or more monsters in your GY, and no monsters in your GY with the same name. Once per turn (Quick Effect): You can send the top 3 cards of your Deck to the GY; destroy 1 card on the field. You must have at least 2 monsters in your GY, and no monsters in your GY with the same name, to activate and to resolve this effect.
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分の墓地にモンスターが５体以上存在し、それらのモンスターのカード名が全て異なる場合のみ特殊召喚できる。①：１ターンに１度、自分のデッキの上からカードを３枚墓地へ送って発動できる。自分の墓地のモンスターのカード名が全て異なる場合、フィールドのカード１枚を選んで破壊する。この効果は相手ターンでも発動できる。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에 몬스터가 5장 이상 존재하고, 그 몬스터들의 카드명이 전부 다를 경우에만 특수 소환할 수 있다. ① : 1턴에 1번, 자신의 덱 위에서 카드를 3장 묘지로 보내고 발동할 수 있다. 자신 묘지의 몬스터의 카드명이 전부 다를 경우, 필드의 카드 1장을 고르고 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。自己墓地有怪兽5只以上存在，那些怪兽的卡名全部不同的场合才能特殊召唤。①：1回合1次，从自己卡组上面把3张卡送去墓地才能发动。自己墓地的怪兽的卡名全部不同的场合，选场上1张卡破坏。这个效果在对方回合也能发动。
-type: Monster
-typeline: Machine / Effect
+    此卡不可通常召唤。仅可在自己墓地有5只以上怪兽存在，且这些怪兽的卡名全部不同的情况下特殊召唤。①：1回合1次，从自己的牌组上面将3张卡送至墓地可以发动。自己墓地的怪兽的卡名全部不同的情况下，挑选场上的1张卡破坏。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 8
 atk: 3000

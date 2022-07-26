@@ -7,10 +7,11 @@ name:
   fr: Helpoemer
   it: Helpoemer
   pt: Helpoemer
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby><ruby><rb>詩</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>ヘルポエマー
+  ja: <ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>獄</rb><rt>ごく</rt></ruby><ruby><rb>詩</rb><rt>し</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>ヘルポエマー
   ja_romaji: Jigokushijin Herupoemā
   ko: 지옥시인 헬포에머
   ko_rr:
+  zh-TW:
   zh-CN: 地狱诗人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは墓地からの特殊召喚はできない。①：戦闘で破壊されたこのカードが墓地に存在する場合、相手バトルフェイズ終了時に発動する。このカードが墓地に存在する場合、相手の手札をランダムに１枚選んで捨てる。
   ko: |-
     이 카드는 묘지에서의 특수 소환은 할 수 없다. ①: 전투로 파괴된 이 카드가 묘지에 존재할 경우, 상대 배틀 페이즈 종료시에 발동한다. 이 카드가 묘지에 존재할 경우, 상대의 패를 무작위로 1장 고르고 버린다.
+  zh-TW:
   zh-CN: |-
     这张卡不能作从墓地的特殊召唤。①：被战斗破坏的这张卡在墓地存在的场合，对方战斗阶段结束时发动。这张卡在墓地存在的场合，对方手卡随机选1张丢弃。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 5
 atk: 2000

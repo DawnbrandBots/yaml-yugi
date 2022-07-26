@@ -11,7 +11,8 @@ name:
   ja_romaji: Dodoremikōdo Kūria
   ko: 도도레미코드 쿨리아
   ko_rr: Dodoremikodeu Kullia
-  zh-CN: 多之七音服·库莉娅
+  zh-TW:
+  zh-CN: 哆音服和弦・克理娅
 text:
   en: |-
     You can Special Summon this card (from your hand) by Tributing 2 Pendulum Monsters. You can only use each of the following effects of "DoSolfachord Coolia" once per turn. You can target 1 face-up card your opponent controls, or up to 2 cards if you have an odd Pendulum Scale in your Pendulum Zone; negate its effects until the end of your opponent's turn. When an effect of a monster on the field is activated, with an equal or lower ATK than the highest Pendulum Scale in your Pendulum Zone x 300: You can destroy that monster.
@@ -29,16 +30,11 @@ text:
     このカード名の②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードは自分フィールドのＰモンスター２体をリリースして手札から特殊召喚できる。②：相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果を相手ターン終了時まで無効にする。自分のＰゾーンに奇数のＰスケールが存在する場合、この効果の対象を２枚にできる。③：自分のＰゾーンの一番高いＰスケール×３００以下の攻撃力を持つフィールドのモンスターの効果が発動した時に発動できる。そのモンスターを破壊する。
   ko: |-
     이 카드명의 ②③의 몬스터 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 자신 필드의 펜듈럼 몬스터 2장을 릴리스하고 패에서 특수 소환할 수 있다. ②: 상대 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과를 상대 턴 종료시까지 무효로 한다. 자신의 펜듈럼 존에 홀수의 펜듈럼 스케일이 존재할 경우, 이 효과의 대상을 2장으로 할 수 있다. ③: 자신의 펜듈럼 존의 가장 높은 펜듈럼 스케일 × 300 이하의 공격력을 가지는 필드의 몬스터 효과가 발동했을 때에 발동할 수 있다. 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    ←1 【灵摆】 1→
-    ①：在自己的「七音服」灵摆怪兽的灵摆召唤成功时对方不能把怪兽的效果·魔法·陷阱卡发动。
-    【怪兽效果】
-    这个卡名的②③的怪兽效果1回合各能使用1次。
-    ①：这张卡可以把自己场上2只灵摆怪兽解放从手卡特殊召唤。
-    ②：以对方场上1张表侧表示的卡为对象才能发动。那张卡的效果直到对方回合结束时无效。自己的灵摆区域有奇数的灵摆刻度存在的场合，这个效果的对象可以变成2张。
-    ③：持有自己的灵摆区域的最高灵摆刻度×300以下的攻击力的场上的怪兽的效果发动时才能发动。那只怪兽破坏。
-type: Monster
-typeline: Fairy / Pendulum / Effect
+    此卡名的②③怪兽效果1回合仅可各使用1次。①：此卡可以解放自己场上的2只灵摆怪兽，从手牌特殊召唤。②：以对手场上的1张表侧表示的卡为对象可以发动。该卡的效果直至对手回合结束时为止无效。自己的灵摆区域有奇数的灵摆刻度存在的情况下，此效果的对象可改为2张。③：所拥有之攻击力为自己灵摆区域最高灵摆刻度×300的数值以下的场上怪兽的效果发动时可以发动。将该怪兽破坏。
+card_type: Monster
+monster_type_line: Fairy / Pendulum / Effect
 attribute: WIND
 level: 8
 atk: 2700
@@ -61,7 +57,9 @@ pendulum_effect:
     ①：自分の「ドレミコード」ＰモンスターのＰ召喚成功時に相手はモンスターの効果・魔法・罠カードを発動できない。
   ko: |-
     ①: 자신의 "도레미코드" 펜듈럼 몬스터의 펜듈럼 소환 성공시에 상대는 몬스터의 효과 / 마법 / 함정 카드를 발동할 수 없다.
-  zh-CN:
+  zh-TW:
+  zh-CN: |-
+    ①：自己的"音服和弦"灵摆怪兽灵摆召唤成功时，对手不可发动怪兽的效果・魔法・陷阱卡。
 sets:
   en:
   - set_number: ANGU-EN021

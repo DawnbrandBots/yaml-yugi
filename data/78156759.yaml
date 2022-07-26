@@ -7,10 +7,11 @@ name:
   fr: Zenmaines Automate
   it: Zenmaines a Molla
   pt: Zenmaines de Corda
-  ja: <ruby><rb>発</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>条</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>雷</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby>ゼンマイン
+  ja: <ruby><rb>発</rb><rt>ぜん</rt></ruby><ruby><rb>条</rb><rt>まい</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>雷</rb><rt>らい</rt></ruby>ゼンマイン
   ja_romaji: Zenmai Kirai Zenmain
   ko: 발조기뢰 태엽마인
   ko_rr:
+  zh-TW: 發條機雷發條雷
   zh-CN: 发条机雷 发条雷
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 3 몬스터 × 2
     필드 위의 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 이 효과를 적용한 턴의 엔드 페이즈시에 1번, 필드 위의 카드 1장을 선택하고 파괴한다.
+  zh-TW: "等级3怪兽×2\n此卡在场上被破坏的场合，作为替代可移除此卡的1项超量素材。适用此效果回合的结束阶段时，选择场上的1张卡牌1次并破坏。"
   zh-CN: |-
     3星怪兽×2
     场上的这张卡被破坏的场合，可以作为代替把这张卡1个XYZ素材取除。这个效果适用的回合的结束阶段时1次，选择场上1张卡破坏。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: FIRE
 rank: 3
 atk: 1500

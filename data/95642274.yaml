@@ -7,10 +7,11 @@ name:
   fr: La Sentinelle Humble
   it: L'Umile Sentinella
   pt: O Sentinela Humilde
-  ja: <ruby><rb>謙</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>虚</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby>な<ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>ぺい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>謙</rb><rt>けん</rt></ruby><ruby><rb>虚</rb><rt>きょ</rt></ruby>な<ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>兵</rb><rt>ぺい</rt></ruby>
   ja_romaji: Kenkyo na Banpei
   ko: 겸허한 파수병
   ko_rr:
+  zh-TW: 謙虛的番兵
   zh-CN: 谦虚的番兵
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分の手札を公開し、その中からカードを１枚選んでデッキに戻す。
   ko: |-
     자신의 패를 공개하고, 그 중에서 카드 1장을 골라 덱으로 되돌린다.
+  zh-TW: 公开我方的手牌，从中挑选1张卡牌返回至牌组。
   zh-CN: |-
     自己手卡公开，从那之中选1张卡回到卡组。
-type: Spell
+card_type: Spell
 property: Normal

@@ -7,11 +7,12 @@ name:
   fr: Soldat du Lustre Noir - Soldat du Chaos
   it: Glorioso Soldato Nero - Soldato del Chaos
   pt: Soldado do Lustro Negro - Soldado do Caos
-  ja: <ruby><rb>混</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby><rb>沌</rb><rp>（</rp><rt>とん</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>混</rb><rt>こん</rt></ruby><ruby><rb>沌</rb><rt>とん</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     カオス・ソルジャー
   ja_romaji: Konton no Senshi Kaosu Sorujā
   ko: 혼돈의 전사 카오스 솔저
   ko_rr: Hondon-ui Jeonsa Kaoseu Soljeo
+  zh-TW:
   zh-CN: 混沌之战士 混沌战士
 text:
   en: |-
@@ -56,6 +57,7 @@ text:
   ko: |-
     카드명이 다른 몬스터 3장
     ①: 레벨 7 이상의 몬스터를 소재로서 링크 소환한 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드가 전투로 상대 몬스터를 파괴했을 때, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●이 카드의 공격력은 1500 올린다. ●이 카드는 다음 자신 턴의 배틀 페이즈 중에 2회 공격할 수 있다. ●필드의 카드 1장을 골라 제외한다.
+  zh-TW:
   zh-CN: |-
     卡名不同的怪兽3只
     ①：7星以上的怪兽为素材作连接召唤的这张卡不会成为对方的效果的对象，不会被对方的效果破坏。
@@ -63,13 +65,13 @@ text:
     ●这张卡的攻击力上升1500。
     ●这张卡在下次的自己回合的战斗阶段中可以作2次攻击。
     ●选场上1张卡除外。
-type: Monster
-typeline: Warrior / Link / Effect
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Top-Center
-- Bottom-Right
+- ↙
+- ⬆
+- ↘
 atk: 3000
 materials: 3 monsters with different names
 sets:

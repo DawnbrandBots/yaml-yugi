@@ -7,11 +7,12 @@ name:
   fr: Yosenju Kama 2
   it: Yosenju Kama 2
   pt: Yosenju Kama 2
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>仙</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
-    <ruby><rb>鎌弐太刀</rb><rp>（</rp><rt>カマニタチ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>仙</rb><rt>せん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
+    <ruby><rb>鎌弐太刀</rb><rt>カマニタチ</rt></ruby>
   ja_romaji: Yōsenjū Kamanitachi
   ko: 요선수 겸이태도
   ko_rr:
+  zh-TW:
   zh-CN: 妖仙兽 镰贰太刀
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚に成功した場合に発動できる。手札から「妖仙獣 鎌弐太刀」以外の「妖仙獣」モンスター１体を召喚する。②：このカードは直接攻撃できる。その戦闘によって相手に与える戦闘ダメージは半分になる。③：このカードを召喚したターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。
   ko: |-
     ① : 이 카드가 일반 소환에 성공했을 경우에 발동할 수 있다. 패에서 "요선수 겸이태도" 이외의 "요선수" 몬스터 1장을 일반 소환한다. ② : 이 카드는 직접 공격할 수 있다. 그 전투에 의해서 상대에게 주는 전투 데미지는 절반이 된다. ③ : 이 카드를 일반 소환한 턴의 엔드 페이즈에 발동한다. 이 카드를 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合才能发动。从手卡把「妖仙兽 镰贰太刀」以外的1只「妖仙兽」怪兽召唤。②：这张卡可以直接攻击。那次战斗给与对方的战斗伤害变成一半。③：这张卡召唤的回合的结束阶段发动。这张卡回到持有者手卡。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: WIND
 level: 4
 atk: 1800

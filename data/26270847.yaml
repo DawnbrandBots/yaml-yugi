@@ -7,10 +7,11 @@ name:
   fr: Griffe d'Argent Potartiste
   it: Artistamico Grinfiargento
   pt: Camarartista Garras Prateadas
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>シルバー・クロウ
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>シルバー・クロウ
   ja_romaji: Entameito Shirubā Kurou
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 실버 크로우
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 실버 크로우
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 银爪狼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃宣言時に発動する。自分フィールドの「ＥＭ」モンスターの攻撃力はバトルフェイズ終了時まで３００アップする。
   ko: |-
     ①: 이 카드의 공격 선언시에 발동한다. 자신 필드의 "EM(엔터메이트)" 몬스터의 공격력은 배틀 페이즈 종료시까지 300 올린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击宣言时发动。自己场上的「娱乐伙伴」怪兽的攻击力直到战斗阶段结束时上升300。
-type: Monster
-typeline: Beast / Pendulum / Effect
+card_type: Monster
+monster_type_line: Beast / Pendulum / Effect
 attribute: DARK
 level: 4
 atk: 1800
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：自分フィールドの「ＥＭ」モンスターの攻撃力は３００アップする。
   ko: |-
     ①: 자신 필드의 "EM(엔터메이트)" 몬스터의 공격력은 300 올린다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上的「娱乐伙伴」怪兽的攻击力上升300。
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Chiron le Mage
   it: Chiron il Saggio
   pt: Chiron, o Mago
-  ja: <ruby><rb>賢</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>ケイローン
+  ja: <ruby><rb>賢</rb><rt>けん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>ケイローン
   ja_romaji: Kenja Keirōn
   ko: 현자 케이론
   ko_rr:
+  zh-TW:
   zh-CN: 贤者 喀戎
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、手札から魔法カード１枚を捨てて発動できる。相手フィールド上の魔法・罠カード１枚を選択して破壊する。
   ko: |-
     패의 마법 카드를 1장 버린다. 상대 필드 위의 마법 / 함정 카드 1장을 파괴한다. 이 효과는 1턴에 1번만 사용할 수 있다.
+  zh-TW:
   zh-CN: |-
     1回合1次，从手卡丢弃1张魔法卡才能发动。选择对方场上1张魔法·陷阱卡破坏。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1800

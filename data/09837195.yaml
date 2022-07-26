@@ -7,11 +7,11 @@ name:
   fr: Musto, Oracle de Gusto
   it: Musto, Oracolo di Gusto
   pt: Musto, Oráculo de Gusto
-  ja: ガスタの<ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>官</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
-    ムスト
+  ja: ガスタの<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>官</rb><rt>かん</rt></ruby> ムスト
   ja_romaji: Gasuta no Shinkan Musuto
   ko: 가스타의 신궁 무스토
   ko_rr:
+  zh-TW:
   zh-CN: 薰风的神官 穆斯托
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     自分の墓地に存在する「ガスタ」と名のついたモンスター１体を選択してデッキに戻し、フィールド上に表側表示で存在するモンスター１体を選択してその効果をエンドフェイズ時まで無効にする事ができる。この効果は１ターンに１度しか発動できない。
   ko: |-
     1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 자신 묘지의 "가스타" 라는 이름이 붙은 몬스터 1장을 선택하여 덱으로 되돌리고, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 그 효과를 엔드 페이즈시까지 무효로 한다.
+  zh-TW:
   zh-CN: |-
     1回合1次，自己的主要阶段时才能发动。选择自己墓地1只名字带有「薰风」的怪兽回到卡组，选择场上表侧表示存在的1只怪兽把那个效果直到结束阶段时无效。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 4
 atk: 1800

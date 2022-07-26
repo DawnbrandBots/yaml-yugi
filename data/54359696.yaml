@@ -7,11 +7,12 @@ name:
   fr: Stoïque de la Prophétie
   it: Stoico della Profezia
   pt: Enforcado da Profecia
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     ラパンデ
   ja_romaji: Madōjutsushi Rapande
   ko: 마도술사 라판데
   ko_rr:
+  zh-TW: 魔導術士 拉潘德
   zh-CN: 魔导术士 拉潘迪
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードが墓地へ送られた時、デッキからレベル３の「魔導」と名のついたモンスター１体を手札に加える。
   ko: |-
     이 카드가 묘지로 보내졌을 때, 덱에서 레벨 3의 "마도"라는 이름이 붙은 몬스터 1장을 패에 넣는다.
+  zh-TW: 此卡被送入墓地时，从牌组将1只等级3的冠有「魔導」之名的怪兽加入手牌。
   zh-CN: |-
     这张卡被送去墓地时，从卡组把1只3星的名字带有「魔导」的怪兽加入手卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 1
 atk: 300

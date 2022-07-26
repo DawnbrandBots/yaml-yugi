@@ -7,11 +7,12 @@ name:
   fr: Transfert de Places
   it: Invertire i Posti
   pt: Trocar de Lugares
-  ja: <ruby><rb>身</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><ruby><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>換</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>身</rb><rt>み</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby><ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>換</rb><rt>かん</rt></ruby>
   ja_romaji: Mibun Tenkan
   ko: 신분전환
   ko_rr:
-  zh-CN: 身份转换
+  zh-TW:
+  zh-CN: 身份对换
 text:
   en: |-
     If your LP is higher than your opponent's, switch your LP with your opponent.
@@ -29,7 +30,8 @@ text:
     ①：自分のＬＰが相手より多い場合、お互いのＬＰを入れ替える。
   ko: |-
     ① : 자신의 LP가 상대보다 많을 경우, 서로의 LP를 맞바꾼다.
+  zh-TW:
   zh-CN: |-
-    ①：自己基本分比对方多的场合，双方基本分交换。
-type: Spell
+    ①：自己的LP多于对手的情况下，对换双方的LP。
+card_type: Spell
 property: Quick-Play

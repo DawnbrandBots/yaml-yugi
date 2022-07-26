@@ -7,10 +7,11 @@ name:
   fr: Gradius
   it: Gradius
   pt: Gradius
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>時</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ビック・バイパー
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>闘</rb><rt>とう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby>ビック・バイパー
   ja_romaji: Chōjikū Sentōki Bikku Baipā
   ko: 초시공 전투기 빅 바이퍼
   ko_rr:
+  zh-TW:
   zh-CN: 超时空战斗机 V形蛇
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     パワーカプセルにより、様々な能力を発揮する超高性能戦闘機。
   ko: |-
     파워 캡슐에 의해 다양한 능력을 발휘하는 고성능 전투기.
+  zh-TW:
   zh-CN: |-
     拥有后备仓库，能发挥各种能力的高性能战斗机。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: LIGHT
 level: 4
 atk: 1200

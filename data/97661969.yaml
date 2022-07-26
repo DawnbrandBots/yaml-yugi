@@ -7,10 +7,11 @@ name:
   fr: Aussa la Charmeuse de Terre Inébranlable
   it: Aussa l'Ammaliatrice della Terra, l'Inamovibile
   pt: Aussa, a Encantadora da Terra, Imóvel
-  ja: <ruby><rb>崔</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>嵬</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いアウス
+  ja: <ruby><rb>崔</rb><rt>さい</rt></ruby><ruby><rb>嵬</rb><rt>かい</rt></ruby>の<ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>使</rb><rt>つか</rt></ruby>いアウス
   ja_romaji: Saikai no Chireitsukai Ausu
   ko: 최외의 지령사 아우스
   ko_rr: Choe-oe-ui Jiryeongsa Auseu
+  zh-TW:
   zh-CN: 崔嵬之地灵使 奥丝
 text:
   en: |-
@@ -43,17 +44,16 @@ text:
   ko: |-
     땅 속성 몬스터를 포함하는 몬스터 2장
     이 카드명은 룰상 "빙의장착" 카드로도 취급한다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 묘지의 땅 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. ②: 링크 소환한 이 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 수비력 1500 이하의 땅 속성 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    包含地属性怪兽的怪兽2只
-    这个卡名在规则上也当作「凭依装着」卡使用。这个卡名的①②的效果1回合各能使用1次。
-    ①：以对方墓地1只地属性怪兽为对象才能发动。那只怪兽在作为这张卡所连接区的自己场上特殊召唤。
-    ②：连接召唤的这张卡被战斗或者对方的效果破坏的场合才能发动。从卡组把1只守备力1500以下的地属性怪兽加入手卡。
-type: Monster
-typeline: Spellcaster / Link / Effect
+    包括地属性怪兽在内的怪兽2只
+    此卡名在规则上也视为"凭依装着"卡。此卡名的①②效果1回合仅可各使用1次。①：以对手墓地的1只地属性怪兽为对象可以发动。将该怪兽特殊召唤至此卡连接端的自己场上。②：连接召唤的此卡因战斗或对手的效果被破坏的情况下可以发动。从牌组将1只守备力1500以下的地属性怪兽加入手牌。
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1850
 materials: 2 monsters, including an EARTH monster
 sets:

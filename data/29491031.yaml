@@ -7,10 +7,11 @@ name:
   fr: Tête Cheveux Serpent
   it: Capelli di Serpente
   pt: Cabelos de Cobras
-  ja: メデューサの<ruby><rb>亡</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: メデューサの<ruby><rb>亡</rb><rt>ぼう</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
   ja_romaji: Medyūsa no Bōrei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 美杜莎的亡灵
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     毒ヘビの頭を持つモンスター。目をあわせると、石にされてしまう。
   ko:
+  zh-TW:
   zh-CN: |-
     头发满是毒蛇的怪兽。一旦被她的目光盯上，就会被石化。
-type: Monster
-typeline: Zombie / Normal
+card_type: Monster
+monster_type_line: Zombie / Normal
 attribute: DARK
 level: 4
 atk: 1500

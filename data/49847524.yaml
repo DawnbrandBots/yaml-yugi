@@ -11,7 +11,8 @@ name:
   ja_romaji: Fureimu Adominisutā
   ko: 프레임 어드미니스터
   ko_rr: Peureim Eodeuminiseuteo
-  zh-CN: 炎上框架管理员
+  zh-TW:
+  zh-CN: 火炎框架管理员
 text:
   en: |-
     2 Cyberse monsters
@@ -37,15 +38,16 @@ text:
   ko: |-
     사이버스족 몬스터 2장
     ①: "프레임 어드미니스터"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 링크 몬스터의 공격력은 800 올린다.
+  zh-TW:
   zh-CN: |-
     电子界族怪兽2只
-    ①：「フレイム・アドミニスター」在自己场上只能有1只表侧表示存在。②：只要这张卡在怪兽区域存在，自己场上的连接怪兽的攻击力上升800。
-type: Monster
-typeline: Cyberse / Link / Effect
+    ①：“火炎框架管理员”在自己场上只能有1只以表侧表示形式存在。②：只要这张卡存在于怪兽区域，自己场上的连接怪兽的攻击力上升800。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: FIRE
 link_arrows:
-- Middle-Left
-- Bottom-Right
+- ⬅
+- ↘
 atk: 1200
 materials: 2 Cyberse monsters
 sets:

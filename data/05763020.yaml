@@ -7,10 +7,11 @@ name:
   fr: Idole Triste
   it: Idolo Piangente
   pt: Ídolo Chorão
-  ja: <ruby><rb>泣</rb><rp>（</rp><rt>な</rt><rp>）</rp></ruby>き<ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>の<ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby><ruby><rb>像</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>泣</rb><rt>な</rt></ruby>き<ruby><rb>神</rb><rt>がみ</rt></ruby>の<ruby><rb>石</rb><rt>せき</rt></ruby><ruby><rb>像</rb><rt>ぞう</rt></ruby>
   ja_romaji: Nakigami no Sekizō
   ko: 울음 신의 석상
   ko_rr:
+  zh-TW:
   zh-CN: 泣神的石像
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分の墓地に存在するチューナー１体をゲームから除外して発動する。このカードを手札から特殊召喚する。
   ko: |-
     자신의 묘지에 존재하는 튜너 1장을 게임에서 제외하고 발동한다. 이 카드를 패에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     把自己墓地存在的1只调整从游戏中除外发动。这张卡从手卡特殊召唤。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: DARK
 level: 2
 atk: 0

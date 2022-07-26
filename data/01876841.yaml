@@ -7,16 +7,17 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディフォーマー</rt><rp>）</rp></ruby>・スキャナン
+  ja: <ruby><rb>Ｄ</rb><rt>ディフォーマー</rt></ruby>・スキャナン
   ja_romaji: Difōmā Sukyanan
   ko:
   ko_rr:
+  zh-TW:
   zh-CN:
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 other "Morphtronic" monster from your hand.
-    ● While in Attack Position: Once per turn: You can add 1 "Morphtronic" Spell/Trap from your Deck to your hand, then place 1 card from your hand on top of the Deck.
-    ● While in Defense Position: Once per turn: You can add 1 Level 4 or lower "Morphtronic" monster from your GY to your hand, then place 1 card from your hand on top of the Deck.
+    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 "Morphtronic" monster from your hand.
+    ● Attack Position: Once per turn, during your Main Phase: You can add 1 "Morphtronic" Spell/Trap from your Deck to your hand, then place 1 card from your hand on top of the Deck.
+    ● Defense Position: Once per turn, during your Main Phase: You can add 1 Level 4 or lower "Morphtronic" monster from your GY to your hand, then place 1 card from your hand on top of the Deck.
   de:
   es:
   fr:
@@ -25,14 +26,40 @@ text:
   ja: |-
     このカードは通常召喚できない。手札から「Ｄ」モンスター１体を除外した場合に特殊召喚できる。①：このカードは表示形式によって以下の効果を得る。●攻撃表示：１ターンに１度、自分メインフェイズに発動できる。デッキから「Ｄ」魔法・罠カード１枚を手札に加える。その後、手札を１枚選んでデッキの一番上に戻す。●守備表示：１ターンに１度、自分メインフェイズに発動できる。自分の墓地からレベル４以下の「Ｄ」モンスター１体を選んで手札に加える。その後、手札を１枚選んでデッキの一番上に戻す。
   ko:
+  zh-TW:
   zh-CN:
-type: Monster
-typeline: Machine / Tuner / Effect
+card_type: Monster
+monster_type_line: Machine / Tuner / Effect
 attribute: EARTH
 level: 6
 atk: 1500
 def: 600
 sets:
+  en:
+  - set_number: POTE-EN095
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE095
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR095
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT095
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT095
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: DP27-JP002
     set_name: 'Duelist Pack: Duelists of Pyroxene'

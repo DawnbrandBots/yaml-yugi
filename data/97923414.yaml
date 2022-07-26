@@ -7,10 +7,11 @@ name:
   fr: Inpachi
   it: Inpachi
   pt: Inpachi
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>木</rb><rp>（</rp><rt>もく</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>１</rb><rp>（</rp><rt>イン</rt><rp>）</rp></ruby><ruby><rb>８</rb><rp>（</rp><rt>パチ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>木</rb><rt>もく</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>１</rb><rt>イン</rt></ruby><ruby><rb>８</rb><rt>パチ</rt></ruby>
   ja_romaji: Daimokujin Inpachi
   ko: 대목인18
   ko_rr:
+  zh-TW:
   zh-CN: 大木人18
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     切り倒された大木に邪悪な魂が宿った姿。森に迷い込んだ者に襲いかかる。
   ko: |-
     잘려진 대목에 사악한 영혼이 들어간 모습, 숲에서 헤메는 자를 습격한다.
+  zh-TW:
   zh-CN: |-
     其原型是被砍倒的巨树寄宿了邪恶灵魂的姿态。袭击迷失在森林里的旅人。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: EARTH
 level: 4
 atk: 1600

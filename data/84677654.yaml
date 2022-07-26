@@ -7,10 +7,11 @@ name:
   fr: GRAND Gain !?
   it: GROSSA Vincita!?
   pt: GRANDE Vitória!?
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>ぼし</rt><rp>）</rp></ruby>！？
+  ja: <ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby><ruby><rb>星</rb><rt>ぼし</rt></ruby>！？
   ja_romaji: Daikinboshi!?
   ko: BIG Win!?
   ko_rr:
+  zh-TW:
   zh-CN: 大金星！？
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     １から１２までの任意のレベルを宣言して発動できる。お互いのプレイヤーはそれぞれコイントスを１回行い、どちらも表が出た場合、自分フィールド上に表側表示で存在する全てのモンスターのレベルは宣言したレベルになる。どちらも裏が出た場合、自分は宣言したレベルの数×５００ライフポイントを失う。
   ko: |-
     1에서 12까지 임의의 레벨을 선언하고 발동할 수 있다. 양쪽 플레이어는 각각 코인 토스를 1회 실행하고, 어느 쪽도 앞이 나온 경우, 자신 필드 위에 앞면 표시로 존재하는 모든 몬스터의 레벨은 선언한 레벨이 된다. 어느 쪽도 뒤가 나온 경우, 자신은 선언한 레벨의 수 × 500 라이프 포인트를 상실한다.
+  zh-TW:
   zh-CN: |-
     宣言从1到12的任意等级才能发动。双方玩家各自进行1次投掷硬币，都是表出现的场合，自己场上表侧表示存在的全部怪兽的等级变成宣言的等级。都是里出现的场合，自己失去宣言的等级数值×500基本分。
-type: Trap
+card_type: Trap
 property: Normal

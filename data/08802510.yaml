@@ -7,10 +7,11 @@ name:
   fr: Seigneur Structure-PSY Lambda
   it: PSI-Strutturasignore Lambda
   pt: PSÍ-Armação Senhor Lambda
-  ja: <ruby><rb>ＰＳＹ</rb><rp>（</rp><rt>サイ</rt><rp>）</rp></ruby>フレームロード・<ruby><rb>Λ</rb><rp>（</rp><rt>ラムダ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>ＰＳＹ</rb><rt>サイ</rt></ruby>フレームロード・<ruby><rb>Λ</rb><rt>ラムダ</rt></ruby>
   ja_romaji: Saifurēmu Rōdo Ramuda
-  ko: <ruby><rb>PSY</rb><rp>（</rp><rt>싸이</rt><rp>）</rp></ruby>프레임로드 <ruby><rb>Λ</rb><rp>（</rp><rt>람다</rt><rp>）</rp></ruby>
+  ko: <ruby><rb>PSY</rb><rt>싸이</rt></ruby>프레임로드 <ruby><rb>Λ</rb><rt>람다</rt></ruby>
   ko_rr: Ssai-Peureimnodeu Ramda
+  zh-TW:
   zh-CN: PSY骨架王·Λ
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     토큰 이외의 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 패의 "PSY(싸이)프레임기어" 몬스터의 효과를 자신 필드에 몬스터가 존재할 경우에도 발동할 수 있다. ②: 이 카드가 이미 몬스터 존에 존재하는 상태에서, 이 카드 이외의 자신 필드의 앞면 표시 사이킥족 몬스터가 제외되었을 경우에 발동할 수 있다. 이 턴의 엔드 페이즈에, 덱에서 "PSY(싸이)프레임" 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     衍生物以外的怪兽2只
     这个卡名的②的效果1回合只能使用1次。
     ①：只要这张卡在怪兽区域存在，自己在自己场上有怪兽存在的场合也能把手卡的「PSY骨架装备」怪兽的效果发动。
     ②：这张卡已在怪兽区域存在的状态，这张卡以外的自己场上的表侧表示的念动力族怪兽被除外的场合才能发动。这个回合的结束阶段，从卡组把1张「PSY骨架」卡加入手卡。
-type: Monster
-typeline: Psychic / Link / Effect
+card_type: Monster
+monster_type_line: Psychic / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1700
 materials: 2 monsters, except Tokens
 sets:

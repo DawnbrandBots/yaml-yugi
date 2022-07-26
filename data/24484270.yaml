@@ -11,6 +11,7 @@ name:
   ja_romaji: Jemunaito Fantomu Rūtsu
   ko: 젬나이트 팬텀루츠
   ko_rr:
+  zh-TW:
   zh-CN: 宝石骑士·幽晶原核
 text:
   en: |-
@@ -36,17 +37,18 @@ text:
   ko: |-
     "젬" 몬스터 2장
     이 카드명의 ①②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "젬나이트" 카드 1장을 패에 넣는다. ② : 1000LP를 지불하고 발동할 수 있다. 자신의 묘지의 카드 및 제외되어 있는 자신의 카드 중에서, "젬나이트" 융합 몬스터 카드에 쓰여있는 융합 소재 몬스터를 덱으로 되돌리고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴 직접 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
     「宝石」怪兽2只
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「宝石骑士」卡加入手卡。
     ②：支付1000基本分才能发动。从自己墓地的卡以及除外的自己的卡之中让「宝石骑士」融合怪兽卡决定的融合素材怪兽回到卡组，把那1只融合怪兽从额外卡组融合召唤。这个效果特殊召唤的怪兽在这个回合不能直接攻击。
-type: Monster
-typeline: Rock / Link / Effect
+card_type: Monster
+monster_type_line: Rock / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1450
 materials: 2 "Gem-" monsters
 sets:

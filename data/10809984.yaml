@@ -7,10 +7,11 @@ name:
   fr: Grand Voleur Fantôme
   it: Grande Ladro Spettrale
   pt: Grande Ladrão Fantasma
-  ja: <ruby><rb>世</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>紀</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>泥</rb><rp>（</rp><rt>どろ</rt><rp>）</rp></ruby><ruby><rb>棒</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>世</rb><rt>せい</rt></ruby><ruby><rb>紀</rb><rt>き</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>泥</rb><rt>どろ</rt></ruby><ruby><rb>棒</rb><rt>ぼう</rt></ruby>
   ja_romaji: Seiki no Oodorobō
   ko: 세기의 대도둑
   ko_rr:
+  zh-TW:
   zh-CN: 世纪大盗
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手プレイヤーに戦闘ダメージを与える度にカード名を１つ宣言する。相手の手札を確認して宣言したカードがあった場合それを全て墓地に捨てる。
   ko: |-
     상대 플레이어에게 전투 데미지를 줄 때마다 카드명을 1개 선언한다. 상대의 패를 확인하고 선언한 카드가 있을 경우 그것을 전부 묘지에 버린다.
+  zh-TW:
   zh-CN: |-
     每次给与对方玩家战斗伤害宣言1个卡名。把对方手卡确认有宣言的卡的场合把那些全部丢弃去墓地。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: EARTH
 level: 3
 atk: 1000

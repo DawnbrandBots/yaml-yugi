@@ -7,10 +7,11 @@ name:
   fr: Mangeur d'Étoiles
   it: Mangiatore di Stelle
   pt: Comedor de Estrelas
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>態</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>態</rb><rt>たい</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
   ja_romaji: Seitairyū
   ko: 성태룡
   ko_rr:
+  zh-TW:
   zh-CN: 星态龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장 이상
     이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다. 이 카드의 싱크로 소환은 무효화되지 않고, 이 카드가 싱크로 소환에 성공했을 때, 마법 / 함정 / 효과 몬스터의 효과를 발동할 수 없다. 이 카드가 공격할 경우, 이 카드는 데미지 스텝 종료시까지, 이 카드 이외의 카드의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这张卡不用同调召唤不能特殊召唤。①：这张卡的同调召唤不会被无效化。②：在这张卡的同调召唤成功时，魔法·陷阱·怪兽的效果不能发动。③：这张卡攻击的场合，直到伤害步骤结束时不受其他卡的效果影响。
-type: Monster
-typeline: Dragon / Synchro / Effect
+    协调＋协调以外的怪兽1只以上
+    此卡只可以同步召唤方式特殊召唤。①：此卡的同步召唤不会被无效化。②：此卡同步召唤成功时，不可以发动魔法·陷阱·怪兽的效果。③：此卡攻击的情况下，直至伤害步骤结束时为止不受其他卡的效果影响。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT
 level: 11
 atk: 3200

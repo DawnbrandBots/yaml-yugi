@@ -7,10 +7,11 @@ name:
   fr: Dragon Héliosphère
   it: Drago Eliosfera
   pt: Dragão da Heliosfera
-  ja: <ruby><rb>防</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ヘリオスフィア
+  ja: <ruby><rb>防</rb><rt>ぼう</rt></ruby><ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>ヘリオスフィア
   ja_romaji: Bōharyū Heriosufia
   ko: 방패룡 헬리오스피어
   ko_rr:
+  zh-TW:
   zh-CN: 防霸龙 日球层龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手の手札が４枚以下で自分フィールド上のモンスターがこのカードのみの場合、相手は攻撃宣言する事ができない。また、１ターンに１度、自分フィールド上にドラゴン族・レベル８モンスターが存在する場合に発動できる。このカードのレベルをエンドフェイズ時まで８にする。
   ko: |-
     상대의 패가 4장 이하이고 자신 필드 위의 몬스터가 이 카드뿐일 경우, 상대는 공격 선언을 할 수 없다. 또한, 1턴에 1번, 자신 필드 위에 드래곤족 / 레벨 8 몬스터가 존재할 경우에 발동할 수 있다. 이 카드의 레벨을 엔드 페이즈시까지 8로 한다.
+  zh-TW:
   zh-CN: |-
     对方手卡是4张以下而自己场上的怪兽只有这张卡的场合，对方不能攻击宣言。此外，1回合1次，自己场上有龙族·8星怪兽存在的场合才能发动。这张卡的等级直到结束阶段时变成8星。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 4
 atk: 0

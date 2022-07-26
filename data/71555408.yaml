@@ -7,11 +7,12 @@ name:
   fr: Griffe de Fer Gouki
   it: Gouki Artiglio di Ferro
   pt: Gouki Garras de Ferro
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>アイアン・クロー
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>アイアン・クロー
   ja_romaji: Gōki Aian Kurō
   ko: 강귀 아이언 클로
   ko_rr: Ganggwi Aieon Keullo
-  zh-CN: 刚鬼 铁爪手
+  zh-TW:
+  zh-CN: 刚鬼 铁爪
 text:
   en: |-
     During the Damage Step, when your "Gouki" monster battles an opponent's monster (Quick Effect): You can send this card from your hand to the GY; until the end of this turn, your monster gains 500 ATK, and if it does, it is unaffected by your opponent's card effects. If this card is sent from the field to the GY: You can add 1 "Gouki" card from your Deck to your hand, except "Gouki Iron Claw". You can only use each effect of "Gouki Iron Claw" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の「剛鬼」モンスターが相手モンスターと戦闘を行うダメージステップ開始時からダメージ計算前までに、このカードを手札から墓地へ送って発動できる。その自分のモンスターはターン終了時まで、攻撃力が５００アップし、相手の効果を受けない。②：このカードがフィールドから墓地へ送られた場合に発動できる。デッキから「剛鬼アイアン・クロー」以外の「剛鬼」カード１枚を手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신의 "강귀" 몬스터가 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시부터 데미지 계산 전까지, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 그 자신 몬스터는 턴 종료시까지, 공격력을 500 올리고, 상대 효과를 받지 않는다. ②: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "강귀 아이언 클로" 이외의 "강귀" 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：自己的「刚鬼」怪兽和对方怪兽进行战斗的从伤害步骤开始时到伤害计算前，把这张卡从手卡送去墓地才能发动。那只自己怪兽直到回合结束时攻击力上升500，不受对方的效果影响。
-    ②：这张卡从场上送去墓地的场合才能发动。从卡组把「刚鬼 铁爪手」以外的1张「刚鬼」卡加入手卡。
-type: Monster
-typeline: Warrior / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：从自己的"刚鬼"怪兽与对手怪兽进行战斗的伤害步骤开始时直至伤害计算前为止，从手牌将此卡送至墓地可以发动。自己的该怪兽直至回合结束时为止，攻击力上升500，不受对手的效果影响。②：此卡从场上被送至墓地的情况下可以发动。从牌组将1张"刚鬼 铁爪"以外的"刚鬼"卡加入手牌。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 2
 atk: 1000

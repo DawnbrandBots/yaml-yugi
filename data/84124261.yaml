@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 39 : Racines Utopie'
   it: "Numero 39: Radici dell'Utopia"
   pt: 'Número 39: Raízes da Utopia'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>３９ <ruby><rb>希</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>望</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ホープ・ルーツ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>３９ <ruby><rb>希</rb><rt>き</rt></ruby><ruby><rb>望</rb><rt>ぼう</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>ホープ・ルーツ
   ja_romaji: Nanbāzu Sanjūkyū Kibōō Hōpu Rūtsu
   ko: No.39 유토피아 루츠
   ko_rr:
+  zh-TW:
   zh-CN: No.39 希望皇 霍普·源望
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 1 몬스터 x 2
     자신 또는 상대 몬스터의 공격 선언시, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 몬스터의 공격을 무효로 하고, 그 몬스터가 엑시즈 몬스터였을 경우, 이 카드의 공격력은 그 몬스터의 랭크 x 500 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     1星怪兽×2。自己或者对方怪兽的攻击宣言时，把这张卡1个XYZ素材取除才能发动。那只怪兽的攻击无效，那只怪兽是XYZ怪兽的场合，这张卡的攻击力上升那只怪兽的阶级×500的数值。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 1
 atk: 500

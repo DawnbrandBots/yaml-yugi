@@ -11,7 +11,8 @@ name:
   ja_romaji: Torikkusutā Buraddi Marī
   ko: 트릭스터 블러디마리
   ko_rr: Teurikseuteo Beulleodimari
-  zh-CN: 淘气仙星·布拉蒂玛丽
+  zh-TW:
+  zh-CN: 淘气仙星・血腥玛丽
 text:
   en: |-
     2 "Trickstar" monsters
@@ -37,17 +38,16 @@ text:
   ko: |-
     "트릭스터" 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 링크 앞에 "트릭스터" 몬스터가 일반 소환 / 특수 소환될 때마다, 자신은 200 LP 회복한다. ②: 패에서 "트릭스터" 카드 1장을 버리고 발동할 수 있다. 양쪽 플레이어는, 각각 덱에서 1장 드로우한다. 이 효과의 발동시에 자신의 LP가 상대보다 2000 이상 많을 경우, 이 효과로 자신이 드로우할 매수는 2장이 된다.
+  zh-TW:
   zh-CN: |-
-    「淘气仙星」怪兽2只
-    这个卡名的②的效果1回合只能使用1次。
-    ①：只要这张卡在怪兽区域存在，每次这张卡所连接区有「淘气仙星」怪兽召唤·特殊召唤，自己回复200基本分。
-    ②：从手卡丢弃1张「淘气仙星」卡才能发动。双方玩家各自从卡组抽1张。这个效果的发动时自己基本分比对方多2000以上的场合，这个效果让自己抽出的数量变成2张。
-type: Monster
-typeline: Fairy / Link / Effect
+    "淘气仙星"怪兽2只
+    此卡名的②效果1回合仅可使用1次。①：只要此卡存在于怪兽区域，每次"淘气仙星"怪兽被召唤・特殊召唤至此卡连接端，自己恢复200LP。②：从手牌将1张"淘气仙星"卡舍弃可以发动。双方玩家各自从牌组抽1张。此效果发动时，自己的LP比对手多2000以上的情况下，自己以此效果抽的张数变为2张。
+card_type: Monster
+monster_type_line: Fairy / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Middle-Right
+- ↙
+- ➡
 atk: 2000
 materials: 2 "Trickstar" monsters
 sets:

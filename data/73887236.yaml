@@ -7,11 +7,11 @@ name:
   fr: Raidraptor - Faucon Montant
   it: Raidraptor - Falco Ascendente
   pt: Ataqueraptor - Falcão Ascendente
-  ja: <ruby><rb>ＲＲ</rb><rp>（</rp><rt>レイド・ラプターズ</rt><rp>）</rp></ruby>－ライズ・ファルコン
+  ja: <ruby><rb>ＲＲ</rb><rt>レイド・ラプターズ</rt></ruby>－ライズ・ファルコン
   ja_romaji: Reido Raputāzu - Raizu Farukon
-  ko: <ruby><rb>R</rb><rp>（</rp><rt>레이드</rt><rp>）</rp></ruby><ruby><rb>R</rb><rp>（</rp><rt>랩터즈</rt><rp>）</rp></ruby>-라이즈
-    팔콘
+  ko: <ruby><rb>R</rb><rt>레이드</rt></ruby><ruby><rb>R</rb><rt>랩터즈</rt></ruby>-라이즈 팔콘
   ko_rr:
+  zh-TW:
   zh-CN: 急袭猛禽-起翼猎鹰
 text:
   en: |-
@@ -38,11 +38,12 @@ text:
   ko: |-
     비행야수족 레벨 4 몬스터 × 3
     ① : 이 카드는 특수 소환된 상대 몬스터 전부에 1회씩 공격할 수 있다. ② : 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 카드의 공격력은, 대상의 몬스터의 공격력 만큼 올린다.
+  zh-TW:
   zh-CN: |-
     鸟兽族4星怪兽×3
     ①：这张卡可以向特殊召唤的对方怪兽全部各作1次攻击。②：1回合1次，把这张卡1个XYZ素材取除，以对方场上1只特殊召唤的怪兽为对象才能发动。这张卡的攻击力上升作为对象的怪兽的攻击力数值。
-type: Monster
-typeline: Winged Beast / Xyz / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Xyz / Effect
 attribute: DARK
 rank: 4
 atk: 100

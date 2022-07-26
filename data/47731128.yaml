@@ -7,11 +7,12 @@ name:
   fr: Mei-Kou Maître des Barrières
   it: Mei-Kou, Maestro delle Barriere
   pt: Mei-Kou,Mestre das Barreiras
-  ja: <ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
     メイコウ
   ja_romaji: Kekkaijutsushi Meikō
   ko: 결제술사메이코우
   ko_rr:
+  zh-TW:
   zh-CN: 结界术师 明孔
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードをリリースして発動できる。フィールド上に表側表示電存在する永続魔法・永続罠カード１枚を選択して破壊する。
   ko: |-
     이 카드를 제물로 바친다. 필드 위에 존재하는 앞면 표시의 지속 마법 또는 지속 함정카드 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     把这张卡解放才能发动。选择场上表侧表示存在的1张永续魔法·永续陷阱卡破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

@@ -7,10 +7,11 @@ name:
   fr: Homoncule Doré
   it: Homunculus Dorato
   pt: Homunculus Dourado
-  ja: <ruby><rb>黄</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>金</rb><rp>（</rp><rt>ごん</rt><rp>）</rp></ruby>のホムンクルス
+  ja: <ruby><rb>黄</rb><rt>おう</rt></ruby><ruby><rb>金</rb><rt>ごん</rt></ruby>のホムンクルス
   ja_romaji: Ōgon no Homunkurusu
   ko: 황금의 호문쿨루스
   ko_rr:
+  zh-TW:
   zh-CN: 黄金人工生命体
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの攻撃力・守備力は、ゲームから除外されている自分のカードの数×３００ポイントアップする。
   ko: |-
     이 카드의 공격력과 수비력은, 게임에서 제외되어 있는 자신의 카드 수 x 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡的攻击力·守备力上升从游戏中除外的自己的卡数量×300的数值。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 6
 atk: 1500

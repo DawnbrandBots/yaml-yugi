@@ -7,11 +7,12 @@ name:
   fr: L'Esprit de la Pierre
   it: Lo Spirito della Roccia
   pt: O Espírito de Rocha
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>岩</rb><rt>いわ</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
     タイタン
   ja_romaji: Iwa no Seirei Taitan
   ko: 암석의 정령 타이탄
   ko_rr:
+  zh-TW:
   zh-CN: 岩之精灵 泰坦
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは通常召喚できない。自分の墓地に存在する地属性モンスター１体をゲームから除外した場合に特殊召喚する事ができる。このカードの攻撃力は相手のバトルフェイズ中のみ３００ポイントアップする。
   ko: |-
     이 카드는 일반 소환/세트할 수 없다. 자신의 묘지의 땅 속성 몬스터 1장을 게임에서 제외하고 특수 소환한다. 상대 배틀 페이즈 중에만, 이 몬스터의 공격력은 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己墓地存在的1只地属性怪兽从游戏中除外的场合可以特殊召唤。这张卡的攻击力只在对方的战斗阶段中上升300。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 4
 atk: 1700

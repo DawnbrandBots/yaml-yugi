@@ -7,11 +7,12 @@ name:
   fr: Fracas du Jour, le Brillant Guerrier Magique
   it: Day-Breaker, il Guerriero Magico Splendente
   pt: Day-Breaker, o Guerreiro Mágico Brilhante
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>耀</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>耀</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     デイブレイカー
   ja_romaji: Madō Kishi Deibureikā
   ko: 마도요사 샤이닝브레이커
   ko_rr: Madoyosa Syainingbeureikeo
+  zh-TW:
   zh-CN: 魔导耀士 破晓者
 text:
   en: |-
@@ -50,15 +51,16 @@ text:
   ko: |-
     마법사족 몬스터 2장
     이 카드명의 ②④의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 링크 앞에 마법사족 몬스터가 특수 소환되었을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다. ③: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 300 올린다. ④: 이 카드의 마력 카운터를 2개 제거하고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     魔法师族怪兽2只
     这个卡名的②④效果1回合各能使用1次。①：这张卡链接召唤成功的场合必定发动。在这张卡上放置1个魔力指示物。②：这张卡的链接端有魔法师族怪兽特殊召唤的场合必定发动。在这张卡上放置1个魔力指示物。③：这张卡的攻击力上升这张卡的魔力指示物的数量×300。④：可以将这张卡的2个魔力指示物取除，以场上的1张卡为对象发动。将那张卡破坏。
-type: Monster
-typeline: Spellcaster / Link / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1600
 materials: 2 Spellcaster monsters
 sets:

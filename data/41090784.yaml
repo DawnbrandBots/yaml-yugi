@@ -7,10 +7,11 @@ name:
   fr: Grand Prêtre de la Barrière de Glace
   it: Dai-sojo della Barriera di Ghiaccio
   pt: Dai-sojo da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>僧</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>正</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>僧</rb><rt>そう</rt></ruby><ruby><rb>正</rb><rt>じょう</rt></ruby>
   ja_romaji: Hyōkekkai no Daisōjō
   ko: 빙결계의 대승
   ko_rr: Binggyeolgye-ui Daeseung
+  zh-TW:
   zh-CN: 冰结界的大僧正
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚・反転召喚に成功した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「氷結界」モンスターは魔法・罠カードの効果では破壊されない。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환에 성공했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 "빙결계" 몬스터는 마법 / 함정 카드의 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转召唤成功时，变成守备表示。只要这张卡在场上表侧表示存在，自己场上的名字带有「冰结界」的怪兽不会被魔法·陷阱卡的效果破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 6
 atk: 1600

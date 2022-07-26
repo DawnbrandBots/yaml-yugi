@@ -7,10 +7,11 @@ name:
   fr: Piège Supprimé
   it: Rimuovi Trappola
   pt: Remover Armadilha
-  ja: <ruby><rb>罠</rb><rp>（</rp><rt>わな</rt><rp>）</rp></ruby>はずし
+  ja: <ruby><rb>罠</rb><rt>わな</rt></ruby>はずし
   ja_romaji: Wana Hazushi
   ko: 함정해제
   ko_rr:
+  zh-TW:
   zh-CN: 陷阱拆除
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     表側表示でフィールド上に存在する罠カードを１枚選択して破壊する。
   ko: |-
     앞면 표시로 필드 위에 존재하는 함정 카드를 1장 선택하여 파괴한다.
+  zh-TW:
   zh-CN: |-
     选择表侧表示在场上存在的1张陷阱卡破坏。
-type: Spell
+card_type: Spell
 property: Normal

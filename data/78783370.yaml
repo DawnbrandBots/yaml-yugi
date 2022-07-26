@@ -7,10 +7,11 @@ name:
   fr: Canon Derrière la Porte
   it: Pistola Dietro la Porta
   pt: Revólver Atrás da Porta
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>の<ruby><rb>扉</rb><rp>（</rp><rt>とびら</rt><rp>）</rp></ruby><ruby><rb>越</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby>し<ruby><rb>銃</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>獄</rb><rt>ごく</rt></ruby>の<ruby><rb>扉</rb><rt>とびら</rt></ruby><ruby><rb>越</rb><rt>ご</rt></ruby>し<ruby><rb>銃</rb><rt>じゅう</rt></ruby>
   ja_romaji: Jigoku no Tobira Goshi Jū
   ko: 지옥문 저편의 총
   ko_rr:
+  zh-TW:
   zh-CN: 地狱的冷枪
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ダメージを与える効果が発動した時に発動する事ができる。自分が受けるその効果ダメージを相手に与える。
   ko: |-
     데미지를 주는 효과가 발동했을 때, 발동 할 수 있다. 자신이 받는 그 효과 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     给与伤害的效果发动时才能发动。给与对方自己要受到的那个效果伤害。
-type: Trap
+card_type: Trap
 property: Counter

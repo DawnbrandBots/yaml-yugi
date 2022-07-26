@@ -7,10 +7,11 @@ name:
   fr: Canyon
   it: Canyon
   pt: Desfiladeiro
-  ja: <ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>層</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>帯</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>断</rb><rt>だん</rt></ruby><ruby><rb>層</rb><rt>そう</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>帯</rb><rt>たい</rt></ruby>
   ja_romaji: Dansōchitai
   ko: 단층지대
   ko_rr:
+  zh-TW:
   zh-CN: 断层地带
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     守備表示の岩石族モンスターが攻撃され、攻撃モンスターのコントローラーが戦闘ダメージを受ける場合、その戦闘ダメージは倍になる。
   ko: |-
     수비 표시의 암석족 몬스터가 공격받아, 공격 몬스터의 컨트롤러가 전투 데미지를 받을 경우, 그 전투 데미지는 배가 된다.
+  zh-TW:
   zh-CN: |-
     守备表示的岩石族怪兽被攻击，攻击怪兽的控制者受到战斗伤害的场合，那个战斗伤害变成2倍。
-type: Spell
+card_type: Spell
 property: Field

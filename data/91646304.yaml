@@ -7,11 +7,12 @@ name:
   fr: Arboria Croisédia
   it: Crociatia Arboria
   pt: Crusadia Arboria
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>樹</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>のパラディオン
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>樹</rb><rt>じゅ</rt></ruby>のパラディオン
   ja_romaji: Shinju no Paradion
   ko: 신수의 파라디온
   ko_rr: Sinsu-ui Paradion
-  zh-CN: 神树之圣像骑士
+  zh-TW:
+  zh-CN: 神树之圣骑联盟
 text:
   en: |-
     You can Special Summon this card (from your hand) in Defense Position to your zone a Link Monster points to. You can only Special Summon "Crusadia Arboria" once per turn this way. If a "Crusadia" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your field or GY instead. You can only use this effect of "Crusadia Arboria" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターのリンク先となる自分フィールドに手札から守備表示で特殊召喚できる。②：自分フィールドの「パラディオン」モンスターが戦闘・効果で破壊される場合、代わりにフィールド・墓地のこのカードを除外できる。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 링크 몬스터의 링크 앞이 되는 자신 필드에 패에서 수비 표시로 특수 소환할 수 있다. ②: 자신 필드의 "파라디온" 몬스터가 전투 / 효과로 파괴될 경우, 대신에 필드 / 묘지의 이 카드를 제외할 수 있다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的作为①的方法的特殊召唤1回合只能有1次，作为②的效果1回合只能使用1次。
-    ①：这张卡可以从手卡往作为连接怪兽所连接区的自己场上守备表示特殊召唤。
-    ②：自己场上的「圣像骑士」怪兽被战斗·效果破坏的场合，可以作为代替把场上·墓地的这张卡除外。
-type: Monster
-typeline: Warrior / Tuner / Effect
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：此卡可从手牌以守备表示特殊召唤至连接怪兽连接端的自己场上。②：自己场上的“圣骑联盟”怪兽将被战斗・效果破坏的情况下，作为代替，可将场上・墓地的此卡除外。
+card_type: Monster
+monster_type_line: Warrior / Tuner / Effect
 attribute: WATER
 level: 3
 atk: 800

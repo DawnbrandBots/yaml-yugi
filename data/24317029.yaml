@@ -7,10 +7,11 @@ name:
   fr: Espion des Protecteurs du Tombeau
   it: Spia - Custode di Tombe
   pt: Espião do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>偵</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>察</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>偵</rb><rt>てい</rt></ruby><ruby><rb>察</rb><rt>さつ</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Hakamori no Teisatsusha
   ko: 묘지기의 정찰자
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的侦察者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：自分のデッキから攻撃力１５００以下の「墓守の」と名のついたモンスター１体を特殊召喚する。
   ko: |-
     리버스 : 자신의 덱에서 공격력 1500 이하의 "묘지기의" 라는 이름이 붙은 몬스터 카드 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     从自己卡组把1只攻击力1500以下的名字带有「守墓」的怪兽特殊召唤。
-type: Monster
-typeline: Spellcaster / Flip / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Flip / Effect
 attribute: DARK
 level: 4
 atk: 1200

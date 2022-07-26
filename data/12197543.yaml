@@ -7,10 +7,11 @@ name:
   fr: Commandant des Épées
   it: Comandante di Spade
   pt:
-  ja: <ruby><rb>剣</rb><rp>（</rp><rt>つるぎ</rt><rp>）</rp></ruby>の<ruby><rb>采</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>配</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>剣</rb><rt>つるぎ</rt></ruby>の<ruby><rb>采</rb><rt>さい</rt></ruby><ruby><rb>配</rb><rt>はい</rt></ruby>
   ja_romaji: Tsurugi no Saihai
   ko: 검의 지휘
   ko_rr:
+  zh-TW:
   zh-CN: 剑之指挥
 text:
   en: |-
@@ -42,9 +43,10 @@ text:
     상대의 드로우 페이즈시에 상대가 일반 드로우를 했을 때 발동할 수 있다. 드로우한 카드를 서로 확인하고, 확인한 카드가 마법 / 함정 카드였을 경우, 이하의 효과에서 1개를 선택해서 적용한다.
     ●드로우한 카드를 버린다.
     ●상대 필드 위의 마법 / 함정 카드 1장을 선택하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     对方的抽卡阶段时，对方通常抽卡时才能发动。抽到的卡给双方确认，确认的卡是魔法·陷阱卡的场合，从以下效果选择1个适用。
     ●把抽到的卡丢弃。
     ●选对方场上1张魔法·陷阱卡破坏。
-type: Trap
+card_type: Trap
 property: Normal

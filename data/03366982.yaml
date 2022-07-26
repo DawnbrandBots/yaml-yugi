@@ -7,10 +7,11 @@ name:
   fr: Dragon du Glaive de l'Alligator
   it: Drago Spada dell'Alligatore
   pt: Dragão Espada do Jacaré
-  ja: ドラゴンに<ruby><rb>乗</rb><rp>（</rp><rt>の</rt><rp>）</rp></ruby>るワイバーン
+  ja: ドラゴンに<ruby><rb>乗</rb><rt>の</rt></ruby>るワイバーン
   ja_romaji: Doragon ni Noru Waibān
   ko: 드래곤을 탄 와이반
   ko_rr: Deuraegon-eul Tan Waiban
+  zh-TW:
   zh-CN: 乘龙的翼龙战士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "베이비 드래곤" ＋ "와이반 전사"
     ①: 상대 필드의 앞면 표시 몬스터가 땅 / 물 / 화염 속성 몬스터뿐일 경우, 이 카드는 직접 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     「宝贝龙」＋「翼龙战士」
     ①：对方场上的表侧表示怪兽只有地·水·炎属性怪兽的场合，这张卡可以直接攻击。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: WIND
 level: 5
 atk: 1700

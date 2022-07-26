@@ -7,11 +7,12 @@ name:
   fr: Golem de Terre @Ignister
   it: Golem di Terra @Ignister
   pt: Golem de Terra @Ignister
-  ja: アースゴーレム<ruby><rb>＠</rb><rp>（</rp><rt>アット</rt><rp>）</rp></ruby>イグニスター
+  ja: アースゴーレム<ruby><rb>＠</rb><rt>アット</rt></ruby>イグニスター
   ja_romaji: Āsu Gōremu Atto Igunisutā
-  ko: 어스 골렘<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
+  ko: 어스 골렘<ruby><rb>＠</rb><rt>엣</rt></ruby>이그니스터
   ko_rr: Eoseu Gollem Aet Igeuniseuteu
-  zh-CN: 地石人@火灵天星
+  zh-TW:
+  zh-CN: 地魔像@伊格尼斯者
 text:
   en: |-
     1 Cyberse monster + 1 Link Monster
@@ -37,14 +38,12 @@ text:
   ko: |-
     사이버스족 몬스터 ＋ 링크 몬스터
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 융합 소환에 성공한 턴에, 자신이 받는 모든 데미지는 0 이 된다. ②: 엑스트라 덱에서 특수 소환된 몬스터를 이 카드가 공격하는 데미지 스텝 동안, 이 카드의 공격력은 원래 공격력만큼 올린다. ③: 이 카드가 전투로 파괴되었을 때, "어스 골렘＠(앳)이그니스터" 이외의 자신 묘지의 사이버스족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     电子界族怪兽＋连接怪兽
-    这个卡名的③的效果1回合只能使用1次。
-    ①：这张卡融合召唤成功的回合，自己受到的全部伤害变成0。
-    ②：向从额外卡组特殊召唤的怪兽用这张卡攻击的伤害步骤内，这张卡的攻击力上升原本攻击力数值。
-    ③：这张卡被战斗破坏时，以「地石人@火灵天星」以外的自己墓地1只电子界族怪兽为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Cyberse / Fusion / Effect
+    此卡名的③效果1回合仅可使用1次。①：此卡融合召唤成功的余下回合，自己受到的全部伤害变为0。②：此卡攻击从额外牌组被特殊召唤的怪兽的伤害步骤期间，此卡的攻击力上升相当于原本攻击力的数值。③：此卡因战斗被破坏时，以自己墓地的1只"地魔像@伊格尼斯者"以外的电子界族怪兽为对象可以发动。将该怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Fusion / Effect
 attribute: EARTH
 level: 7
 atk: 2300

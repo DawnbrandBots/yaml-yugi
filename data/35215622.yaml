@@ -7,10 +7,11 @@ name:
   fr: Gobelin à la Loyauté Parfaite
   it: Goblin Ciecamente Fedele
   pt: Goblin Cegamente Leal
-  ja: <ruby><rb>盲</rb><rp>（</rp><rt>もう</rt><rp>）</rp></ruby><ruby><rb>信</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>するゴブリン
+  ja: <ruby><rb>盲</rb><rt>もう</rt></ruby><ruby><rb>信</rb><rt>しん</rt></ruby>するゴブリン
   ja_romaji: Mōshinsuru Goburin
   ko: 맹신하는 고블린
   ko_rr:
+  zh-TW:
   zh-CN: 盲信的哥布林
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは表側表示でフィールド上に存在する限り、コントロールを変更する事はできない。
   ko: |-
     이 카드는 앞면 표시로 필드 위에 존재하는 한, 컨트롤을 변경할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡只要表侧表示在场上存在，控制权不能变更。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1800

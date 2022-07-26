@@ -7,10 +7,11 @@ name:
   fr: Spectre Suprême Mekk-Chevalier
   it: Meck-Cavaliere Spettro Supremo
   pt: Mekk-Cavaleiro Espectro Supremo
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>痕</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby>の<ruby><rb>機界騎士</rb><rp>（</rp><rt>ジャックナイツ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>痕</rb><rt>こん</rt></ruby>の<ruby><rb>機界騎士</rb><rt>ジャックナイツ</rt></ruby>
   ja_romaji: Seikon no Jakkunaitsu
   ko: 성흔의 잭나이츠
   ko_rr:
+  zh-TW:
   zh-CN: 星痕之机界骑士
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     "잭나이츠" 몬스터 2장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드와 같은 세로열에 다른 카드가 존재하지 않을 경우, 이 카드는 직접 공격할 수 있다. ② : 엑스트라 몬스터 존의 이 카드의 링크 앞에 몬스터가 존재하지 않을 경우, 이 카드는 효과로는 파괴되지 않고, 상대의 효과의 대상이 되지 않는다. ③ : 이 카드와 같은 세로열인 다른 자신의 카드 1장을 묘지로 보내고 발동할 수 있다. 덱에서 "잭나이츠" 몬스터 1장을 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    「ジャックナイツ」怪兽2只以上
-    这个卡名的③的效果1回合只能使用1次。①：和这张卡相同纵列没有其他卡存在的场合，这张卡可以直接攻击。②：额外怪兽区域的这张卡的所连接区没有怪兽存在的场合，这张卡不会被效果破坏，不会成为对方的效果的对象。③：把和这张卡相同纵列1张其他的自己的卡送去墓地才能发动。从卡组把1只「ジャックナイツ」怪兽守备表示特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    “机界骑士”怪兽2只以上
+    此卡名的③效果1回合仅可使用1次。①：此卡的同一纵列没有其他卡存在的情况下，此卡可直接攻击。②：此卡在额外怪兽区域且连接端没有怪兽存在的情况下，此卡不会因效果被破坏，不会成为对手效果的对象。③：将与此卡同一纵列的1张自己的其他卡送至墓地可以发动。从牌组将1只“机界骑士”怪兽以守备表示特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 3000
 materials: 2+ "Mekk-Knight" monsters
 sets:

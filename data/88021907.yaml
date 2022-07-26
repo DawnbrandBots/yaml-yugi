@@ -7,11 +7,12 @@ name:
   fr: Laplacien Primathmech
   it: Primatemech Laplaciano
   pt: Primechamático Laplaciano
-  ja: <ruby><rb>塊</rb><rp>（</rp><rt>カイ</rt><rp>）</rp></ruby><ruby><rb>斬</rb><rp>（</rp><rt>ザン</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>キ</rt><rp>）</rp></ruby>ラプラシアン
+  ja: <ruby><rb>塊</rb><rt>カイ</rt></ruby><ruby><rb>斬</rb><rt>ザン</rt></ruby><ruby><rb>機</rb><rt>キ</rt></ruby>ラプラシアン
   ja_romaji: Kaizanki Rapurashian
   ko: 괴참기 라플라시안
   ko_rr: Goechamgi Rapeullasian
-  zh-CN: 块斩机 算子拉普拉斯
+  zh-TW:
+  zh-CN: 块斩机拉普拉斯算子
 text:
   en: |-
     3 Level 4 monsters / If a "Mathmech" card(s) you control would be destroyed by card effect, you can detach 1 material from this card instead. If this card is Xyz Summoned: You can detach up to 3 materials from it, then choose that many effects (you cannot choose the same effect twice, and you resolve them in the listed order, skipping any that were not chosen);
@@ -58,16 +59,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 3
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우, 이 카드의 엑시즈 소재를 3개까지 제거하고, 그 수만큼 이하의 효과에서 선택하여 발동할 수 있다. ●상대의 패를 무작위로 1장 고르고 묘지로 보낸다. ●상대 필드의 몬스터 1장을 고르고 묘지로 보낸다. ●상대 필드의 마법 / 함정 카드 1장을 고르고 묘지로 보낸다. ②: 자신 필드의 "참기" 카드가 효과로 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다.
+  zh-TW:
   zh-CN: |-
-    4星怪兽×3
-    这个卡名的①的效果1回合只能使用1次。
-    ①：这张卡超量召唤成功的场合，可以把这张卡最多3个超量素材取除，从以下效果选择那个数量发动。
-    ●对方手卡随机选1张送去墓地。
-    ●选对方场上1只怪兽送去墓地。
-    ●选对方场上1张魔法·陷阱卡送去墓地。
-    ②：自己场上的「斩机」卡被效果破坏的场合，可以作为代替把这张卡1个超量素材取除。
-type: Monster
-typeline: Cyberse / Xyz / Effect
+    等级4怪兽×3
+    此卡名的①效果1回合仅可使用1次。①：此卡超量召唤成功的情况下，可将此卡的最多3个超量素材去除，并从以下选择相应数量的效果发动。●随机挑选1张对手的手牌送至墓地。●挑选对手场上的1只怪兽送至墓地。●挑选对手场上的1张魔法・陷阱卡送至墓地。②：自己场上的“斩机”卡将被效果破坏的情况下，作为代替，可去除此卡的1个超量素材。
+card_type: Monster
+monster_type_line: Cyberse / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2000

@@ -7,12 +7,13 @@ name:
   fr: Béatrice, la Dame Éternelle
   it: Beatrice, la Signora Eterna
   pt: Beatriz, a Dama Eterna
-  ja: <ruby><rb>永</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby><rb>遠</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>淑</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>永</rb><rt>えい</rt></ruby><ruby><rb>遠</rb><rt>えん</rt></ruby>の<ruby><rb>淑</rb><rt>しゅく</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>
     ベアトリーチェ
   ja_romaji: Eien no Shukujo Beatorīche
   ko: 영원의 숙녀 베아트리체
   ko_rr: Yeongwon-ui Sungnyeo Beateuricheo
-  zh-CN: 永远的淑女 贝阿特丽切
+  zh-TW:
+  zh-CN: 永远的淑女 贝缇丽彩
 text:
   en: |-
     2 Level 6 monsters
@@ -38,11 +39,12 @@ text:
   ko: |-
     레벨 6 몬스터 × 2
     이 카드는 패의 "피안" 몬스터 1장을 묘지로 보내고, 자신 필드의 "단테" 몬스터 위에 겹쳐 엑시즈 소환할 수도 있다. 이 방법으로 특수 소환한 턴에, 이 카드의 ①의 효과는 발동할 수 없다. ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 덱에서 카드 1장을 고르고 묘지로 보낸다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 엑스트라 덱에서 "피안" 몬스터 1장을 소환 조건을 무시하고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    6星怪兽×2
-    这张卡也能把手卡1只「彼岸」怪兽送去墓地，在自己场上的「但丁」怪兽上面重叠来XYZ召唤。这个方法特殊召唤的回合，这张卡的①的效果不能发动。①：1回合1次，把这张卡1个XYZ素材取除才能发动。从卡组选1张卡送去墓地。这个效果在对方回合也能发动。②：这张卡被对方破坏送去墓地的场合才能发动。从额外卡组把1只「彼岸」怪兽无视召唤条件特殊召唤。
-type: Monster
-typeline: Fairy / Xyz / Effect
+    等级6怪兽×2
+    此卡也可将手牌的1只"彼岸"怪兽送至墓地，来重叠在自己场上的"但丁"怪兽的上方超量召唤。以此方法特殊召唤的回合，此卡的①效果不可发动。①：1回合1次，去除此卡的1个超量素材可以发动。从牌组挑选1张卡送至墓地。此效果在对手回合中也可以发动。②：此卡因对手被破坏并被送至墓地的情况下可以发动。将1只"彼岸"怪兽从额外牌组无视召唤条件特殊召唤。
+card_type: Monster
+monster_type_line: Fairy / Xyz / Effect
 attribute: LIGHT
 rank: 6
 atk: 2500

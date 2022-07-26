@@ -7,10 +7,11 @@ name:
   fr: Chef des Protecteurs du Tombeau
   it: Comandante - Custode di Tombe
   pt: Chefe do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>長</rb><rp>（</rp><rt>おさ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>長</rb><rt>おさ</rt></ruby>
   ja_romaji: Hakamori no Osa
   ko: 묘지기의 장
   ko_rr:
+  zh-TW:
   zh-CN: 守墓之长
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは自分のフィールド上に１枚しか存在できない。このカードがフィールド上に存在する限り、自分の墓地は「王家の眠る谷－ネクロバレー」の効果を受けない。このカードが生け贄召喚に成功した場合、自分の墓地に存在する「墓守の」という名のついたモンスターカード１枚をフィールド上に特殊召喚する事ができる。
   ko: |-
     이 카드는 자신의 필드 위에 1장밖에 존재할 수 없다. 이 카드가 필드 위에 존재하는 한, 자신의 묘지는 "왕가의 골짜기-네크로밸리"의 효과를 받지 않는다. 이 카드가 제물 소환에 성공했을 경우, 묘지에 있는 "묘지기의"라는 이름이 붙은 몬스터 카드 1장을 필드 위에 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡在自己场上只能有1张存在。只要这张卡在场上存在，自己墓地不受「王家长眠之谷」的效果影响。这张卡祭品召唤成功的场合，可以把自己墓地存在的1张名字带有「守墓」的怪兽卡在场上特殊召唤。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 5
 atk: 1900

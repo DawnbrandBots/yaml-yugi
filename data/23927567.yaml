@@ -7,10 +7,11 @@ name:
   fr: Un Hibou de Chance
   it: Un Gufo della Fortuna
   pt: Uma Coruja de Sorte
-  ja: <ruby><rb>幸</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>運</rb><rp>（</rp><rt>うん</rt><rp>）</rp></ruby>を<ruby><rb>告</rb><rp>（</rp><rt>つ</rt><rp>）</rp></ruby>げるフクロウ
+  ja: <ruby><rb>幸</rb><rt>こう</rt></ruby><ruby><rb>運</rb><rt>うん</rt></ruby>を<ruby><rb>告</rb><rt>つ</rt></ruby>げるフクロウ
   ja_romaji: Kōun o Tsugeru Fukurō
   ko: 행운을 알리는 올빼미
   ko_rr:
+  zh-TW:
   zh-CN: 告知幸运的白鸮
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：デッキからフィールド魔法カードを１枚選択し、デッキの一番上に置く。「王家の眠る谷－ネクロバレー」がフィールド上に存在する場合、選択したフィールド魔法カードを手札に加える事ができる。
   ko: |-
     리버스 : 덱에서 필드 마법 카드를 1장 선택하여, 덱의 맨 위에 놓는다. "왕가의 골짜기 - 네크로밸리" 가 필드 위에 존재할 경우, 선택한 필드 마법 카드를 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
     从卡组选择1张场地魔法卡在卡组最上面放置。「王家长眠之谷」在场上存在的场合，可以把选择的场地魔法卡加入手卡。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: WIND
 level: 2
 atk: 300

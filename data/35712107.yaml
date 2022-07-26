@@ -7,10 +7,11 @@ name:
   fr: Oiseau colossal
   it: Uccello Mostruoso
   pt: Pássaro monstruoso
-  ja: <ruby><rb>巨</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby>な<ruby><rb>怪</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>巨</rb><rt>きょ</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby>な<ruby><rb>怪</rb><rt>かい</rt></ruby><ruby><rb>鳥</rb><rt>ちょう</rt></ruby>
   ja_romaji: Kyodai na Kaichō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 巨大怪鸟
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     あまり見かけないとても大きな鳥。空から急降下して襲いかかる。
   ko:
+  zh-TW:
   zh-CN: |-
     很少见的大鸟。从空中急速下除袭击。
-type: Monster
-typeline: Winged Beast
+card_type: Monster
+monster_type_line: Winged Beast
 attribute: WIND
 level: 6
 atk: 2000

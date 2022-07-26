@@ -7,11 +7,12 @@ name:
   fr: Grapha, Seigneur Dragon du Monde Ténébreux
   it: Grapha, Signore Drago del Mondo Oscuro
   pt: Grapha, Senhor Dragão do Mundo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>龍</rb><rt>りゅう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
     グラファ
   ja_romaji: Ankokukai no Ryūshin Gurafa
   ko: 암흑계의 용신 그라파
   ko_rr:
+  zh-TW: 暗黑界之龍神 黑拉法
   zh-CN: 暗黑界的龙神 格拉法
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは「暗黒界の龍神 グラファ」以外の自分フィールド上に表側表示で存在する「暗黒界」と名のついたモンスター１体を手札に戻し、墓地から特殊召喚する事ができる。このカードがカードの効果によって手札から墓地へ捨てられた場合、相手フィールド上に存在するカード１枚を選択して破壊する。相手のカードの効果によって捨てられた場合、さらに相手の手札をランダムに１枚確認する。確認したカードがモンスターだった場合、そのモンスターを自分フィールド上に特殊召喚する事ができる。
   ko: |-
     이 카드는 "암흑계의 용신 그라파" 이외의 자신 필드 위에 앞면 표시로 존재하는 "암흑계"라는 이름이 붙은 몬스터 1장을 패로 되돌리고, 묘지에서 특수 소환할 수 있다. 이 카드가 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 상대 필드 위에 존재하는 카드 1장을 선택하고 파괴한다. 상대 카드의 효과에 의해서 버려졌을 경우, 다시 상대의 패를 무작위로 1장 확인한다. 확인한 카드가 몬스터였을 경우, 그 몬스터를 자신 필드 위에 특수 소환할 수 있다.
+  zh-TW: 此卡可将除「暗黑界之龍神 黑拉法」以外，我方场上以表侧表示存在的1只冠有「暗黑界」之名的怪兽返回至手牌，并从墓地特殊召唤。此卡因卡牌效果从手牌被舍弃至墓地的场合，选择对手场上的1张卡牌破坏。因对手的卡牌效果被舍弃的场合，另随机确认对手的1张手牌。确认的卡牌为怪兽的场合，可将该怪兽特殊召唤至我方场上。
   zh-CN: |-
     这张卡可以让「暗黑界的龙神 格拉法」以外的自己场上表侧表示存在的1只名字带有「暗黑界」的怪兽回到手卡，从墓地特殊召唤。这张卡被卡的效果从手卡丢弃去墓地的场合，选择对方场上存在的1张卡破坏。被对方的卡的效果丢弃的场合，再把对方手卡随机1张确认。确认的卡是怪兽的场合，可以把那只怪兽在自己场上特殊召唤。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 8
 atk: 2700

@@ -7,11 +7,12 @@ name:
   fr: Komuchampi Sylvan
   it: Komusofungo Silvano
   pt: Komungo Silvestre
-  ja: <ruby><rb>森</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>羅</rb><rp>（</rp><rt>ら</rt><rp>）</rp></ruby>の<ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby><ruby><rb>胞</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>子</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>森</rb><rt>しん</rt></ruby><ruby><rb>羅</rb><rt>ら</rt></ruby>の<ruby><rb>影</rb><rt>かげ</rt></ruby><ruby><rb>胞</rb><rt>ぼう</rt></ruby><ruby><rb>子</rb><rt>し</rt></ruby>
     ストール
   ja_romaji: Shinra no Kagebōshi Sutōru
   ko: 삼라의 영포자 스톨
   ko_rr:
+  zh-TW:
   zh-CN: 森罗的影孢子 伞菌
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードがリバースした時、自分のデッキの上からカードを５枚までめくる事ができる。めくったカードの中に植物族モンスターがあった場合、それらのモンスターを全て墓地へ送る。残りのカードは好きな順番でデッキの一番下に戻す。また、デッキのこのカードがカードの効果によってめくられて墓地へ送られた場合、フィールド上の魔法・罠カード１枚を選択して破壊できる。
   ko: |-
     이 카드가 리버스했을 때, 자신의 덱 위에서 카드를 5장까지 넘길 수 있다. 넘긴 카드 중에 식물족 몬스터가 있었을 경우, 그 몬스터들을 전부 묘지로 보낸다. 나머지 카드는 좋아하는 순서대로 덱의 맨 밑으로 되돌린다. 또한, 덱의 이 카드가 카드의 효과에 의해 넘겨져 묘지로 보내졌을 경우, 필드 위의 마법 / 함정 카드 1장을 선택하고 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡反转时，可以从自己卡组上面把最多5张卡翻开。翻开的卡之中有植物族怪兽的场合，那些怪兽全部送去墓地。剩下的卡用喜欢的顺序回到卡组最下面。此外，卡组的这张卡被卡的效果翻开送去墓地的场合，可以选择场上1张魔法·陷阱卡破坏。
-type: Monster
-typeline: Plant / Effect
+card_type: Monster
+monster_type_line: Plant / Effect
 attribute: FIRE
 level: 2
 atk: 100

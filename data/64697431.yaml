@@ -7,10 +7,11 @@ name:
   fr: Hé, Trunade !
   it: Ehi, Ritorno!
   pt: Ei, Trunade!
-  ja: <ruby><rb>局</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>所</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby><rb>的</rb><rp>（</rp><rt>てき</rt><rp>）</rp></ruby>ハリケーン
+  ja: <ruby><rb>局</rb><rt>きょく</rt></ruby><ruby><rb>所</rb><rt>しょ</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>ハリケーン
   ja_romaji: Kyokushoteki Harikēn
   ko: 국소적 허리케인
   ko_rr:
+  zh-TW:
   zh-CN: 局部性飓风
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：フィールドにセットされている魔法・罠カードを全て持ち主の手札に戻す。
   ko: |-
     ①: 필드에 세트되어 있는 마법 / 함정 카드를 전부 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
-    ①：场上盖放的魔法·陷阱卡全部回到持有者手卡。
-type: Spell
+    ①：将放置在场上的魔法・陷阱卡全部放回持有者的手牌中。
+card_type: Spell
 property: Normal

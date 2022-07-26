@@ -11,6 +11,7 @@ name:
   ja_romaji: Toutetsu Doragon
   ko: 토우테츠드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 饕餮龙
 text:
   en: |-
@@ -55,16 +56,17 @@ text:
   ko: |-
     엑스트라 덱에서 특수 소환된 몬스터 2장 이상
     ①: 이 카드는, 이 카드의 링크 소재로 한 몬스터의 종류에 따라서 이하의 효과를 얻는다. ● 융합 : 배틀 페이즈 중에 상대는 몬스터의 효과를 발동할 수 없다. ● 싱크로 : 자신 메인 페이즈 중에 상대는 마법 / 함정 카드의 효과를 발동할 수 없다. ● 엑시즈 : 자신 메인 페이즈 및 배틀 페이즈 중에 상대는 묘지의 카드의 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     自己主要阶段中对方不能把魔法·陷阱卡的效果发动。
     ●超量：自己主要阶段以及战斗阶段中对方不能把墓地的卡的效果发动。
-type: Monster
-typeline: Wyrm / Link / Effect
+card_type: Monster
+monster_type_line: Wyrm / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 2500
 materials: 2+ monsters Special Summoned from the Extra Deck
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Magellanica l'Invokhé
   it: Magellanica Invokata
   pt: Magollanica, o Invokado
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>メガラニカ
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>メガラニカ
   ja_romaji: Shōkanjū Megaranika
   ko: 소환수 메가라니카
   ko_rr:
+  zh-TW:
   zh-CN: 召唤兽 墨瓦腊泥加
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「召喚師アレイスター」＋地属性モンスター
   ko: |-
     "소환사 알레이스터" + 땅 속성 몬스터
+  zh-TW:
   zh-CN: |-
     「召唤师 阿莱斯特」＋地属性怪兽
-type: Monster
-typeline: Rock / Fusion
+card_type: Monster
+monster_type_line: Rock / Fusion
 attribute: EARTH
 level: 8
 atk: 3000

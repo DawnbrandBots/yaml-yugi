@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibā Doragon
   ko: 사이버 드래곤
   ko_rr: Saibeo Deuraegon
+  zh-TW: 電子龍
   zh-CN: 电子龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。
   ko: |-
     ①: 상대 필드에만 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다.
+  zh-TW: 對手場上存在怪獸，我方場上不存在怪獸的場合，此卡可從手牌特殊召喚。
   zh-CN: |-
-    ①：只有对方场上有怪兽存在的场合，这张卡可以从手卡特殊召唤。
-type: Monster
-typeline: Machine / Effect
+    ①：在仅有对手场上存在怪兽的情况下，此卡可从手牌中特殊召唤。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 5
 atk: 2100

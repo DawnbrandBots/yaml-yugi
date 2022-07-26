@@ -7,10 +7,11 @@ name:
   fr: Machine Pendule
   it: Macchina Pendolo
   pt: Máquina do Pêndulo
-  ja: <ruby><rb>振</rb><rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>り<ruby><rb>子</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>刃</rb><rp>（</rp><rt>やいば</rt><rp>）</rp></ruby>の<ruby><rb>拷</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>問</rb><rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>振</rb><rt>ふ</rt></ruby>り<ruby><rb>子</rb><rt>こ</rt></ruby><ruby><rb>刃</rb><rt>やいば</rt></ruby>の<ruby><rb>拷</rb><rt>ごう</rt></ruby><ruby><rb>問</rb><rt>もん</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby>
   ja_romaji: Furikoyaiba no Gōmonkikai
   ko: 칼날 고문 기계
   ko_rr: Kannal Gomun Gigye
+  zh-TW:
   zh-CN: 单摆刃拷问机械
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     大きな振り子の刃で相手をまっぷたつ！恐ろしい拷問機械。
   ko: |-
     커다란 진자 칼날이 달린 공포의 고문기계.
+  zh-TW:
   zh-CN: |-
     使用带有大摆子的刀刃将对方劈成两半！可怕的拷问机器呀！
-type: Monster
-typeline: Machine / Normal
+card_type: Monster
+monster_type_line: Machine / Normal
 attribute: DARK
 level: 6
 atk: 1750

@@ -7,10 +7,11 @@ name:
   fr: Seigneur Paratonnerre
   it: Signore Verga del Fulmine
   pt: Senhor do Bastão Relâmpago
-  ja: <ruby><rb>避</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>雷</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>避</rb><rt>ひ</rt></ruby><ruby><rb>雷</rb><rt>らい</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby>
   ja_romaji: Hiraijin
   ko: 피뢰신
   ko_rr:
+  zh-TW:
   zh-CN: 避雷神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いにメインフェイズ１の間は魔法カードを発動できない。
   ko: |-
     ① : 이 카드가 몬스터 존에 존재하는 한, 서로 메인 페이즈 1 동안은 마법 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，双方在主要阶段1内不能把魔法卡发动。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

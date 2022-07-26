@@ -7,11 +7,12 @@ name:
   fr: Zone Danger !
   it: Zona del Pericolo!
   pt: Zona de Perigo!
-  ja: <ruby><rb>未</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>の<ruby><rb>危</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>険</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>帯</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>未</rb><rt>み</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>域</rb><rt>いき</rt></ruby>の<ruby><rb>危</rb><rt>き</rt></ruby><ruby><rb>険</rb><rt>けん</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>帯</rb><rt>たい</rt></ruby>
   ja_romaji: Mikai'iki no Kiken Chitai
   ko: 미계역의 위험지대
   ko_rr: Migyeyeok-ui Wiheomjidae
-  zh-CN: 危险！地带
+  zh-TW:
+  zh-CN: 未界域的危险地带
 text:
   en: |-
     Draw 3 cards, then discard 2 cards including at least 1 "Danger!" card, or, if you have no "Danger!" cards in your hand, show your entire hand and shuffle it into the Deck. You can only activate 1 "Danger! Zone" per turn.
@@ -29,7 +30,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：自分はデッキから３枚ドローする。その後、手札から「未界域」カード１枚以上を含むカード２枚を捨てる。手札に「未界域」カードが無い場合、手札を全て公開し、デッキに戻す。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신은 덱에서 3장 드로우한다. 그 후, 패에서 "미계역" 카드 1장 이상을 포함하는 카드 2장을 버린다. 패에 "미계역" 카드가 없을 경우, 패를 전부 공개하고, 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
-    自己从卡组抽3张卡，之后把包含「危险！」卡的2张手卡丢弃，手卡没有「危险！」卡的场合，自己的全部手卡给双方确认并加入卡组洗切。「危险！地带」在1回合只能发动1张。
-type: Trap
+    此卡名的卡1回合仅可发动1张。①：自己从牌组抽3张。然后从手牌将包括1张以上“未界域”卡的2张卡舍弃。手牌没有“未界域”卡的情况下，将手牌全部公开，放回牌组。
+card_type: Trap
 property: Normal

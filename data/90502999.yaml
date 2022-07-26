@@ -7,10 +7,11 @@ name:
   fr: Éboulement
   it: Cedimento del Suolo
   pt:
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>盤</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>沈</rb><rp>（</rp><rt>ちん</rt><rp>）</rp></ruby><ruby><rb>下</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>盤</rb><rt>ばん</rt></ruby><ruby><rb>沈</rb><rt>ちん</rt></ruby><ruby><rb>下</rb><rt>か</rt></ruby>
   ja_romaji: Jiban Chinka
   ko: 지반 침식
   ko_rr:
+  zh-TW:
   zh-CN: 地盘沉下
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     使用していないメインモンスターゾーンを２ヵ所指定してこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、指定したゾーンは使用できない。
   ko: |-
     사용하고 있지 않은 메인 몬스터 존을 2곳 지정하고 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 지정한 존은 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     指定2个没有使用的主要怪兽卡区域才能把这张卡发动。①：只要这张卡在魔法与陷阱区域存在，指定的区域不能使用。
-type: Spell
+card_type: Spell
 property: Continuous

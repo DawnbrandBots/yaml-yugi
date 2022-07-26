@@ -7,10 +7,11 @@ name:
   fr: Jeton d'Action de Grâce
   it: Grazie dei Token
   pt: Ação de Graças dos Tokens
-  ja: トークン<ruby><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>穫</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>
+  ja: トークン<ruby><rb>収</rb><rt>しゅう</rt></ruby><ruby><rb>穫</rb><rt>かく</rt></ruby><ruby><rb>祭</rb><rt>さい</rt></ruby>
   ja_romaji: Tōken Shūkakusai
   ko: 토큰 수확축제
   ko_rr:
+  zh-TW:
   zh-CN: 衍生物收获祭
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上のトークンを全て破壊する。破壊したトークンの数×８００ライフポイントを回復する。
   ko: |-
     필드 위의 토큰을 전부 파괴한다. 파괴한 토큰의 수 × 800 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     场上的衍生物全部破坏。回复破坏的衍生物数量×800基本分。
-type: Spell
+card_type: Spell
 property: Normal

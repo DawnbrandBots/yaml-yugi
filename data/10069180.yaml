@@ -7,10 +7,11 @@ name:
   fr: Loi d'Interruption de Sort
   it: Statuto Blocca-Magia
   pt: Estatuto Pára-Magias
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>了</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>宣</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby><ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>了</rb><rt>りょう</rt></ruby><ruby><rb>宣</rb><rt>せん</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby>
   ja_romaji: Maryoku Shūryō Senkoku
   ko: 마력 종료 선언
   ko_rr:
+  zh-TW:
   zh-CN: 魔力终了宣告
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手が永続魔法カードを発動した時に発動する事ができる。そのカードの発動と効果を無効にし破壊する。
   ko: |-
     상대가 지속 마법 카드를 발동했을 때 발동할 수 있다. 그 카드의 발동과 효과를 무효로 하여 파괴한다.
+  zh-TW:
   zh-CN: |-
     对方把永续魔法卡发动时才能发动。那张卡的发动和效果无效并破坏。
-type: Trap
+card_type: Trap
 property: Counter

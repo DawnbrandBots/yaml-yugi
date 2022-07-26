@@ -1,20 +1,21 @@
 konami_id: 17419
 password: 36745317
 name:
-  en: Vernalizer Fairy of Forests and Awakening
+  en: Vernusylph of the Awakening Forests
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby><rb>森</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>と<ruby><rb>目</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>覚</rb><rp>（</rp><rt>ざめ</rt><rp>）</rp></ruby>の<ruby><rb>春</rb><rp>（</rp><rt>はる</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>け</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>森</rb><rt>もり</rt></ruby>と<ruby><rb>目</rb><rt>め</rt></ruby><ruby><rb>覚</rb><rt>ざめ</rt></ruby>の<ruby><rb>春</rb><rt>はる</rt></ruby><ruby><rb>化</rb><rt>け</rt></ruby><ruby><rb>精</rb><rt>しょう</rt></ruby>
   ja_romaji: Mori to Mezame no Harukeshō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 森林与觉醒的春化精
 text:
   en: |-
-    You can discard this card and 1 other monster or "Vernalizer Fairy" card; send 1 EARTH monster that can be Normal Summoned/Set from your Deck to the GY, then you can Special Summon 1 EARTH monster with a different name from your GY, also you cannot activate monster effects for the rest of this turn, except EARTH monsters'. You can target 1 "Vernalizer Fairy" monster you control; its current ATK becomes doubled until the end of this turn. You can only use each effect of "Vernalizer Fairy of Forests and Awakening" once per turn.
+    You can discard this card, and 1 monster or "Vernusylph" card; send from your Deck to the GY, 1 EARTH monster that can be Normal Summoned/Set, then you can Special Summon 1 EARTH monster from your GY with a different name from that monster, also you cannot activate non-EARTH monster effects for the rest of this turn. You can target 1 "Vernusylph" monster you control; its ATK becomes doubled until the end of this turn. You can only use each effect of "Vernusylph of the Awakening Forests" once per turn.
   de:
   es:
   fr:
@@ -23,17 +24,48 @@ text:
   ja: |-
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードと、モンスター１体または「春化精」カード１枚を手札から捨てて発動できる。通常召喚可能な地属性モンスター１体をデッキから墓地へ送る。その後、そのモンスターとはカード名が異なる地属性モンスター１体を自分の墓地から選んで特殊召喚できる。このターン、自分は地属性以外のモンスターの効果を発動できない。②：自分フィールドの「春化精」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで倍になる。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①效果1回合只能使用1次。①：可以将这张卡和1只怪兽或者1张「春化精」卡从手牌舍弃发动。从卡组将1只可以通常召唤的地属性怪兽送入墓地。那之后，可以从自己的墓地选1只与那只怪兽卡名不同的地属性怪兽特殊召唤。这个回合，自己不能发动地属性以外的怪兽的效果。②：可以以自己场上的1只「春化精」怪兽为对象发动。那只怪兽的攻击力直到回合结束时变为2倍。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: EARTH
 level: 4
 atk: 900
 def: 1800
 sets:
+  en:
+  - set_number: POTE-EN017
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  de:
+  - set_number: POTE-DE017
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: POTE-FR017
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  it:
+  - set_number: POTE-IT017
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: POTE-PT017
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
   ja:
   - set_number: POTE-JP017
+    set_name: Power of the Elements
+    rarities:
+    - Rare
+  ko:
+  - set_number: POTE-KR017
     set_name: Power of the Elements
     rarities:
     - Rare

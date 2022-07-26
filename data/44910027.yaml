@@ -11,6 +11,7 @@ name:
   ja_romaji: Vikutorī Doragon
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 胜利龙
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
   ja: |-
     このカードは特殊召喚できない。自分フィールド上のドラゴン族モンスター３体を生け贄にして生け贄召喚しなければならない。このカードの直接攻撃によって相手ライフを０にした場合、このカードのコントローラーはマッチに勝利する。
   ko:
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。必须把自己场上3只龙族怪兽作为祭品作祭品召唤。这张卡的直接攻击让对方基本分变成0的场合，这张卡的控制者比赛胜利。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: DARK
 level: 8
 atk: 2400
@@ -58,7 +60,7 @@ sets:
     - Secret Rare
   ja:
   - set_number: LE5-010
-    set_name: Limited Edition 5
+    set_name: 'Limited Edition 5: Kaiba Pack'
     rarities:
     - Ultra Rare
   - set_number: SDX-JP002

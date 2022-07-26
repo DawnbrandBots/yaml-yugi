@@ -7,10 +7,11 @@ name:
   fr: Le Pêcheur Légendaire III
   it: Pescatore Leggendario III
   pt: O Pescador Lendário III
-  ja: <ruby><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>のフィッシャーマン<ruby><rb>三</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby><rb>世</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>伝</rb><rt>でん</rt></ruby><ruby><rb>説</rb><rt>せつ</rt></ruby>のフィッシャーマン<ruby><rb>三</rb><rt>さん</rt></ruby><ruby><rb>世</rb><rt>せい</rt></ruby>
   ja_romaji: Densetsu no Fisshāman Sansei
   ko: 전설의 어부 3세
   ko_rr: Jeonseol-ui Eobu Samse
+  zh-TW:
   zh-CN: 传说的渔人三世
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分フィールドの「伝説のフィッシャーマン」１体をリリースした場合のみ特殊召喚できる。①：このカードが特殊召喚に成功した時に発動できる。相手フィールドのモンスターを全て除外する。このターン、このカードは攻撃できない。②：フィールドのこのカードは戦闘・効果では破壊されず、魔法・罠カードの効果を受けない。③：１ターンに１度、自分メインフェイズに発動できる。除外されている相手のカードを全て墓地に戻し、このターン、相手が受ける戦闘・効果ダメージは１度だけ倍になる。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드의 "전설의 어부" 1장을 릴리스했을 경우에만 특수 소환할 수 있다. ①: 이 카드가 특수 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 몬스터를 전부 제외한다. 이 턴에, 이 카드는 공격할 수 없다. ②: 필드의 이 카드는 전투 / 효과로는 파괴되지 않으며, 마법 / 함정 카드의 효과를 받지 않는다. ③: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 제외되어 있는 상대의 카드를 전부 묘지로 되돌리고, 이 턴에, 상대가 받는 전투 / 효과 데미지는 1번만 배가 된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己场上1只「传说的渔人」解放的场合才能特殊召唤。①：这张卡特殊召唤成功时才能发动。对方场上的怪兽全部除外。这个回合这张卡不能攻击。②：这张卡不会被战斗·效果破坏，不受魔法·陷阱卡的效果影响。③：1回合1次，自己主要阶段才能发动。除外的对方的卡全部回到墓地，这个回合，对方受到的战斗·效果伤害只有1次变成2倍。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 7
 atk: 2500

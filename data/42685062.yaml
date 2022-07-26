@@ -7,10 +7,11 @@ name:
   fr: Émissaire du Pandémonium
   it: Emissario dal Pandemonio
   pt: Emissário de Pandemônio
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>からの<ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い
+  ja: <ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>獄</rb><rt>ごく</rt></ruby>からの<ruby><rb>使</rb><rt>つか</rt></ruby>い
   ja_romaji: Jigoku kara no Tsukai
   ko: 지옥에서 온 사자
   ko_rr:
+  zh-TW:
   zh-CN: 来自地狱的使者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。このカードはモンスター１体をリリースして召喚する事ができる。この方法で召喚したこのカードのレベルは５になり、元々の攻撃力・守備力は半分になる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 이 카드는 몬스터 1장을 릴리스하고 소환할 수 있다. 이 방법으로 소환한 이 카드의 레벨은 5가 되어, 원래의 공격력 / 수비력은 절반이 된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。这张卡可以把1只怪兽解放作召唤。这个方法召唤的这张卡的等级变成5星，原本的攻击力·守备力变成一半。
-type: Monster
-typeline: Fiend / Tuner
+card_type: Monster
+monster_type_line: Fiend / Tuner
 attribute: EARTH
 level: 7
 atk: 2600

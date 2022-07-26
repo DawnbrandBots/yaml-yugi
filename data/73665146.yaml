@@ -7,10 +7,11 @@ name:
   fr: Magicien Silencieux LV4
   it: Mago Silente LV4
   pt: Mago Silencioso LV4
-  ja: サイレント・マジシャン <ruby><rb>ＬＶ</rb><rp>（</rp><rt>レベル</rt><rp>）</rp></ruby>４
+  ja: サイレント・マジシャン <ruby><rb>ＬＶ</rb><rt>レベル</rt></ruby>４
   ja_romaji: Sairento Majishan Reberu Foa
   ko: 사일런트 매지션 LV4
   ko_rr: Sailleonteu Maejisyeon Rebel Po
+  zh-TW:
   zh-CN: 沉默魔术师 LV4
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、相手がカードをドローする度に、このカードに魔力カウンターを１つ置く（最大５つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードに５つ目の魔力カウンターが置かれた次の自分ターンのスタンバイフェイズ時、魔力カウンターが５つ置かれているこのカードを墓地へ送って発動できる。手札・デッキから「サイレント・マジシャン ＬＶ８」１体を特殊召喚する。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대가 카드를 드로우할 때마다, 이 카드에 마력 카운터를 1개 놓는다(최대 5개까지). ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 500 올린다. ③: 이 카드에 5개째의 마력 카운터가 놓여진 다음 자신 턴의 스탠바이 페이즈에, 마력 카운터가 5개 놓여 있는 이 카드를 묘지로 보내고 발동할 수 있다. 패 / 덱에서 "사일런트 매지션 LV8" 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，每次对方抽卡，给这张卡放置1个魔力指示物（最多5个）。②：这张卡的攻击力上升这张卡的魔力指示物数量×500。③：给这张卡放置第5个魔力指示物的下次的自己回合的准备阶段，把有5个魔力指示物放置的这张卡送去墓地才能发动。从手卡·卡组把1只「沉默魔术师 LV8」特殊召唤。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1000

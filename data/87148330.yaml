@@ -7,10 +7,11 @@ name:
   fr: Téthys, Déesse de la Lumière
   it: Tethys, Dea della Luce
   pt: Tétis, a Deusa da Luz
-  ja: <ruby><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>テテュス
+  ja: <ruby><rb>光</rb><rt>こう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>テテュス
   ja_romaji: Kōshin Tetyusu
   ko: 광신 테튜스
   ko_rr: Gwangsin Tetyuseu
+  zh-TW:
   zh-CN: 光神 忒堤斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分がカードをドローした時、そのカードが天使族モンスターだった場合、そのカードを相手に見せて発動できる。このカードがフィールドに表側表示で存在する場合、自分はデッキから１枚ドローする。
   ko: |-
     ① : 자신이 카드를 드로우했을 때, 그 카드가 천사족 몬스터였을 경우, 그 카드를 상대에게 보여주고 발동할 수 있다. 이 카드가 필드에 앞면 표시로 존재할 경우, 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：自己抽卡时，那卡是天使族怪兽的场合，把那张卡给对方观看才能发动。这张卡在场上表侧表示存在的场合，自己从卡组抽1张。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 5
 atk: 2400

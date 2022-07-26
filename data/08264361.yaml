@@ -7,10 +7,11 @@ name:
   fr: Dharc la Charmeuse des Ténèbres Obscures
   it: Dharc l'Ammaliatore Oscuro, Tenebroso
   pt: Dharc, o Encantador das Trevas, Sombrio
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>いダルク
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>の<ruby><rb>闇</rb><rt>やみ</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>使</rb><rt>つか</rt></ruby>いダルク
   ja_romaji: An'ei no Yamireitsukai Daruku
   ko: 암영의 암령사 달크
   ko_rr: Amyeong-ui Annyeongsa Dalkeu
+  zh-TW:
   zh-CN: 暗影之暗灵使 达克
 text:
   en: |-
@@ -43,17 +44,18 @@ text:
   ko: |-
     어둠 속성 몬스터를 포함하는 몬스터 2장
     이 카드명은 룰상 "빙의장착" 카드로도 취급한다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 묘지의 어둠 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. ②: 링크 소환한 이 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 수비력 1500 이하의 어둠 속성 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     包含暗属性怪兽的怪兽2只
     这个卡名在规则上也当作「凭依装着」卡使用。这个卡名的①②的效果1回合各能使用1次。
     ①：以对方墓地1只暗属性怪兽为对象才能发动。那只怪兽在作为这张卡所连接区的自己场上特殊召唤。
     ②：连接召唤的这张卡被战斗或者对方的效果破坏的场合才能发动。从卡组把1只守备力1500以下的暗属性怪兽加入手卡。
-type: Monster
-typeline: Spellcaster / Link / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1850
 materials: 2 monsters, including a DARK monster
 sets:

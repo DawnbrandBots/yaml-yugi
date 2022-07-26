@@ -7,10 +7,11 @@ name:
   fr: Bagarreur Bleu Samouraï Supralourd
   it: Samurai Superpesante Lottatore Blu
   pt: Samurai Superpesado Briguento Azul
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>ワカ－<ruby><rb>Ｏ</rb><rp>（</rp><rt>オ</rt><rp>）</rp></ruby><ruby><rb>２</rb><rp>（</rp><rt>ニ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>ワカ－<ruby><rb>Ｏ</rb><rt>オ</rt></ruby><ruby><rb>２</rb><rt>ニ</rt></ruby>
   ja_romaji: Chōjūmusha Waka-Oni
-  ko: 초중무사 워커-<ruby><rb>O2</rb><rp>（</rp><rt>오이</rt><rp>）</rp></ruby>
+  ko: 초중무사 워커-<ruby><rb>O2</rb><rt>오이</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 超重武者 鬼若-O2
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：このカードが召喚・特殊召喚に成功したときに発動できる。このカードの表示形式を変更する。②：このカードは戦闘では破壊されない。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 이 카드의 표시 형식을 변경한다. ②: 이 카드는 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功时才能发动。这张卡的表示形式变更。
     ②：这张卡不会被战斗破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 0

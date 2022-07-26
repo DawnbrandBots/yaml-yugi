@@ -7,10 +7,11 @@ name:
   fr: Potion Paralysante
   it: Pozione Paralizzante
   pt: Poção Paralisante
-  ja: しびれ<ruby><rb>薬</rb><rp>（</rp><rt>ぐすり</rt><rp>）</rp></ruby>
+  ja: しびれ<ruby><rb>薬</rb><rt>ぐすり</rt></ruby>
   ja_romaji: Shibiregusuri
   ko: 마비약
   ko_rr:
+  zh-TW:
   zh-CN: 麻药
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     機械族以外のモンスターのみ装備可能。装備モンスターは攻撃宣言をする事ができない。
   ko: |-
     기계족 이외의 몬스터만 장착 가능. 장착 몬스터는 공격 선언을 할 수 없다.
+  zh-TW:
   zh-CN: |-
     机械族以外的怪兽才能装备。装备怪兽不能攻击宣言。
-type: Spell
+card_type: Spell
 property: Equip

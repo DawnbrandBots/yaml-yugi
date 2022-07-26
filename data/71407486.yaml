@@ -7,10 +7,11 @@ name:
   fr: Fireyarou
   it: Fireyarou
   pt: Fireyarou
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby>
   ja_romaji: Honoo no Majin
   ko: 화염의 마신
   ko_rr:
+  zh-TW:
   zh-CN: 炎之魔神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     炎につつまれた魔人。まわりの炎を自在に操り攻撃する。
   ko: |-
     화염에 휩싸인 마인. 주변의 화염을 자유자재로 다루며 공격한다.
+  zh-TW:
   zh-CN: |-
     被吞没在火中的魔人。运用自如地操纵周围的火焰攻击。
-type: Monster
-typeline: Pyro
+card_type: Monster
+monster_type_line: Pyro
 attribute: FIRE
 level: 4
 atk: 1300

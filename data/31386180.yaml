@@ -7,11 +7,12 @@ name:
   fr: Tiras, Gardien de la Genèse
   it: Tiras, Custode della Genesi
   pt: Tiras, Protetor do Gênesis
-  ja: <ruby><rb>始</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>祖</rb><rp>（</rp><rt>そ</rt><rp>）</rp></ruby>の<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>ティラス
+  ja: <ruby><rb>始</rb><rt>し</rt></ruby><ruby><rb>祖</rb><rt>そ</rt></ruby>の<ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>ティラス
   ja_romaji: Shiso no Shugosha Tirasu
   ko: 시조의 수호자 티라스
   ko_rr:
-  zh-CN: 始祖守护者 提拉斯
+  zh-TW: 始祖守護者 提拉斯
+  zh-CN: 始祖保卫者提拉斯
 text:
   en: |-
     2 Level 5 monsters
@@ -35,11 +36,12 @@ text:
   ko: |-
     레벨 5 몬스터 x 2장
     이 카드의 효과는 이 카드의 엑시즈 소재가 없으면 적용되지 않는다. 이 카드는 카드의 효과로는 파괴되지 않는다. 이 카드가 전투를 실행한 배틀 페이즈 종료시, 상대 필드 위에 존재하는 카드 1장을 선택하고 파괴한다. 자신의 엔드 페이즈마다 이 카드의 엑시즈 소재를 1개 제거한다.
+  zh-TW: "等级5怪兽×2\n此卡的效果若此卡无超量素材则不适用。此卡不会因卡牌效果被破坏。此卡进行战斗的战斗阶段结束时，选择对手场上的1张卡牌进行破坏。并且，于每次我方的结束阶段时发动。移除此卡的1个超量素材。"
   zh-CN: |-
-    5星怪兽×2
-    这张卡的效果若这张卡的XYZ素材没有则不适用。这张卡不会被卡的效果破坏。这张卡进行战斗的战斗阶段结束时，选择对方场上存在的1张卡破坏。每次自己的结束阶段把这张卡1个XYZ素材取除。
-type: Monster
-typeline: Fairy / Xyz / Effect
+    等级5怪兽×2
+    如果此卡没有超量素材，则不会适用此卡的效果。①：场上的此卡不会因效果被破坏。②：此卡进行了战斗的战斗阶段结束时，可以1张对手场上的卡为对象发动。破坏该张对手的卡。③：在自己的结束阶段发动。去除此卡的1个超量素材。
+card_type: Monster
+monster_type_line: Fairy / Xyz / Effect
 attribute: LIGHT
 rank: 5
 atk: 2600

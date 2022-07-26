@@ -7,11 +7,12 @@ name:
   fr: Pisty Dragarde
   it: Guardrago Pisty
   pt: Dragão-Guarda Pisty
-  ja: <ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ピスティ
+  ja: <ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>ピスティ
   ja_romaji: Shugoryū Pisuti
   ko: 수호룡 피스티
   ko_rr: Suhoryong Piseuti
-  zh-CN: 守护龙 毗斯缇
+  zh-TW:
+  zh-CN: 守护龙 必思缇
 text:
   en: |-
     1 Level 4 or lower Dragon monster
@@ -37,16 +38,15 @@ text:
   ko: |-
     레벨 4 이하의 드래곤족 몬스터 1장
     자신은 "수호룡 엘피"를 1턴에 1번밖에 특수 소환할 수 없으며, 그 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신은 드래곤족 몬스터밖에 특수 소환할 수 없다. ②: 자신 묘지의 몬스터 또는 제외되어 있는 자신 몬스터 중에서, 드래곤족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 2장 이상의 링크 몬스터의 링크 앞이 되는 자신 필드에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    4星以下的龙族怪兽1只
-    自己对「守护龙 毗斯缇」1回合只能有1次特殊召唤，那个作为②的效果1回合只能使用1次。
-    ①：只要这张卡在怪兽区域存在，自己不是龙族怪兽不能特殊召唤。
-    ②：从自己墓地的怪兽或者除外的自己怪兽之中以1只龙族怪兽为对象才能发动。那只怪兽在作为受2只以上的连接怪兽所连接区的自己场上特殊召唤。
-type: Monster
-typeline: Dragon / Link / Effect
+    等级4以下的龙族怪兽1只
+    自己1回合仅可特殊召唤"守护龙 必思缇"1次，其②效果1回合仅可使用1次。①：只要此卡存在于怪兽区域，自己仅可特殊召唤龙族怪兽。②：从自己墓地的怪兽或被除外的自己的怪兽中，以1只龙族怪兽为对象可以发动。将该怪兽特殊召唤至作为2只以上连接怪兽共同的连接端的自己场上。
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Right
+- ➡
 atk: 1000
 sets:
   en:

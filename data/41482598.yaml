@@ -7,10 +7,11 @@ name:
   fr: Mirage du Cauchemar
   it: Miraggio d'Incubo
   pt: Miragem do Pesadelo
-  ja: <ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby><ruby><rb>夢</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby>の<ruby><rb>蜃</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>楼</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>悪</rb><rt>あく</rt></ruby><ruby><rb>夢</rb><rt>む</rt></ruby>の<ruby><rb>蜃</rb><rt>しん</rt></ruby><ruby><rb>気</rb><rt>き</rt></ruby><ruby><rb>楼</rb><rt>ろう</rt></ruby>
   ja_romaji: Akumu no Shinkirō
   ko: 악몽의 신기루
   ko_rr:
+  zh-TW:
   zh-CN: 噩梦之蜃气楼
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手のスタンバイフェイズ時に１度、自分の手札が４枚になるまでデッキからカードをドローする。この効果でドローした場合、次の自分のスタンバイフェイズ時に１度、ドローした枚数分だけ自分の手札をランダムに捨てる。
   ko: |-
     상대의 스텐바이 페이즈시에, 자신의 패가 4장이 되도록 카드를 드로우한다. 자신의 스텐바이 페이즈시에, 그 효과로 드로우한 매수만큼 카드를 패에서 무작위로 버린다.
+  zh-TW:
   zh-CN: |-
     对方的准备阶段时1次，直到自己手卡变成4张从卡组抽卡。这个效果抽卡的场合，下次的自己的准备阶段时1次，抽出的卡数量的自己手卡随机丢弃。
-type: Spell
+card_type: Spell
 property: Continuous

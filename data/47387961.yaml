@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 8 : Roi Héraldique Héritage de Génome'
   it: 'Numero 8: Re Araldico Genoma-Eredità'
   pt:
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８ <ruby><rb>紋</rb><rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby><rb>章</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ゲノム・ヘリター
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８ <ruby><rb>紋</rb><rt>もん</rt></ruby><ruby><rb>章</rb><rt>しょう</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ゲノム・ヘリター
   ja_romaji: Nanbāzu Hachi Monshōō Genomu Heritā
   ko: No.8 문장왕 게놈 헤리터
   ko_rr:
+  zh-TW: No.8 紋章王 基因組繼承者
   zh-CN: No.8 纹章王 基因组继承者
 text:
   en: |-
@@ -35,10 +36,11 @@ text:
   ko: |-
     "문장수"라는 이름이 붙은 레벨 4 몬스터 × 2
     1 턴에 1번, 상대 필드 위의 엑시즈 몬스터 1장을 선택하고 발동할 수 있다. 이 카드는 선택한 몬스터와 같은 이름의 카드로 취급하고, 같은 공격력과 효과를 얻는다. 그 후, 선택한 몬스터의 공격력은 0 이 되며, 효과는 무효화된다. 이 카드의 효과는 엔드 페이즈시까지 적용된다.
+  zh-TW: "冠有「紋章獸」之名的等级4怪兽×2\n1回合1次，可选择对手场上的1只超量怪兽并发动。此卡被视为与被选择怪兽的同名卡，获得相同的攻击力和效果。之后，被选择的怪兽的攻击力变为0，效果被无效化。此卡的效果适用到直至结束阶段时。"
   zh-CN: |-
     名字带有「纹章兽」的4星怪兽×2。1回合1次，选择对方场上1只XYZ怪兽才能发动。这张卡当作和选择的怪兽同名卡使用，得到相同的攻击力和效果。那之后，选择的怪兽的攻击力变成0，效果无效化。这张卡的效果直到结束阶段时适用。
-type: Monster
-typeline: Psychic / Xyz / Effect
+card_type: Monster
+monster_type_line: Psychic / Xyz / Effect
 attribute: LIGHT
 rank: 4
 atk: 2400

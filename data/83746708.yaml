@@ -7,10 +7,11 @@ name:
   fr: Puissance du Mage
   it: Potere del Mago
   pt: Poder de Mago
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby><rb>力</rb><rp>（</rp><rt>ちから</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>
   ja_romaji: Madōshi no Chikara
   ko: 마도사의 힘
   ko_rr:
+  zh-TW: 魔導師之力
   zh-CN: 魔导师之力
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：装備モンスターの攻撃力・守備力は、自分フィールドの魔法・罠カードの数×５００アップする。
   ko: |-
     장착 몬스터의 공격력 / 수비력은 자신 필드 위의 마법 / 함정 카드 1장당 500 포인트 올린다.
+  zh-TW: 装备怪兽的攻击力、守备力上升为我方场上的魔法、陷阱卡数量×500点。
   zh-CN: |-
-    ①：装备怪兽的攻击力·守备力上升自己场上的魔法·陷阱卡数量×500。
-type: Spell
+    ①：装备怪兽的攻击力・守备力上升相当于自己场上魔法・陷阱卡张数×500的数值。
+card_type: Spell
 property: Equip

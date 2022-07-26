@@ -7,11 +7,12 @@ name:
   fr: Radian, Kaiju Multidimensionnel
   it: Radian, il Kaiju Multidimensionale
   pt: Radian, o Kaiju Multidimensional
-  ja: <ruby><rb>多</rb><rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>ラディアン
+  ja: <ruby><rb>多</rb><rt>た</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>ラディアン
   ja_romaji: Tajigenkaijū Radian
   ko: 다차원파괴수 라디안
   ko_rr: Dachawonpagoesu Radian
-  zh-CN: 多次元坏兽 拉迪安
+  zh-TW:
+  zh-CN: 多次元坏兽掠地昂
 text:
   en: |-
     You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a "Kaiju" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 "Kaiju" monster. Once per turn: You can remove 2 Kaiju Counters from anywhere on the field; Special Summon 1 "Radian Token" (Fiend/DARK/Level 7/ATK 2800/DEF 0), but it cannot be used as Synchro Material.
@@ -29,10 +30,11 @@ text:
     ①：このカードは相手フィールドのモンスター１体をリリースし、手札から相手フィールドに攻撃表示で特殊召喚できる。②：相手フィールドに「壊獣」モンスターが存在する場合、このカードは手札から攻撃表示で特殊召喚できる。③：「壊獣」モンスターは自分フィールドに１体しか表側表示で存在できない。④：１ターンに１度、自分・相手フィールドの壊獣カウンターを２つ取り除いて発動できる。自分フィールドに「ラディアントークン」（悪魔族・闇・星７・攻２８００／守０）１体を特殊召喚する。このトークンはＳ素材にできない。
   ko: |-
     ①: 이 카드는 상대 필드의 몬스터 1장을 릴리스하고, 패에서 상대 필드에 공격 표시로 특수 소환할 수 있다. ②: 상대 필드에 "파괴수" 몬스터가 존재할 경우, 이 카드는 패에서 공격 표시로 특수 소환할 수 있다. ③: "파괴수" 몬스터는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ④: 1턴에 1번, 자신 / 상대 필드의 파괴수 카운터를 2개 제거하고 발동할 수 있다. 자신 필드에 "라디안 토큰"(악마족 / 어둠 / 레벨 7 / 공 2800 / 수 0) 1장을 특수 소환한다. 이 토큰은 싱크로 소재로 할 수 없다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡可以把对方场上1只怪兽解放，从手卡往对方场上攻击表示特殊召唤。②：对方场上有「坏兽」怪兽存在的场合，这张卡可以从手卡攻击表示特殊召唤。③：「坏兽」怪兽在自己场上只能有1只表侧表示存在。④：1回合1次，把自己·对方场上2个坏兽指示物取除才能发动。在自己场上把1只「拉迪安衍生物」（恶魔族·暗·7星·攻2800/守0）特殊召唤。这衍生物不能作为同调素材。
-type: Monster
-typeline: Fiend / Effect
+    ①：此卡可以解放对手场上1只怪兽，以攻击表示从手牌特殊召唤至对手场上。②：对手场上有“坏兽”怪兽存在的情况下，此卡可以从手牌中以攻击表示特殊召唤。③：“坏兽”怪兽在自己场上仅可有1只以表侧表示形式存在。④：1回合1次，去除自己・对手场上的2个坏兽计数物可以发动。将1只“掠地昂衍生物”（恶魔族・暗・星7・攻2800/守0）特殊召唤至自己场上。此衍生物不可作为同步素材。
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 7
 atk: 2800

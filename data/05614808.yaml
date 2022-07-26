@@ -7,10 +7,11 @@ name:
   fr: Baleine Aura Blanche
   it: Balena Aura Bianca
   pt: Baleia de Aura Branca
-  ja: <ruby><rb>白闘気白鯨</rb><rp>（</rp><rt>ホワイト・オーラ・ホエール</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>白闘気白鯨</rb><rt>ホワイト・オーラ・ホエール</rt></ruby>
   ja_romaji: Howaito Ōra Hoēru
   ko: 화이트 아우라 웨일
   ko_rr:
+  zh-TW:
   zh-CN: 白斗气白鲸
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     물 속성 튜너 + 튜너 이외의 물 속성 몬스터 1장 이상
     ① : 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 공격 표시 몬스터를 전부 파괴한다. ② : 이 카드는 1번의 배틀 페이즈 중에 2번까지 몬스터에게 공격할 수 있다. ③ : 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ④ : 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우, 이 카드 이외의 자신 묘지의 물 속성 몬스터 1장을 제외하고 발동할 수 있다. 이 카드를 튜너로 취급하여 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     水属性调整＋调整以外的水属性怪兽1只以上
     ①：这张卡同调召唤成功时才能发动。对方场上的攻击表示怪兽全部破坏。②：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。③：这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。④：这张卡被对方破坏送去墓地的场合，把这张卡以外的自己墓地1只水属性怪兽除外才能发动。这张卡当作调整使用特殊召唤。
-type: Monster
-typeline: Fish / Synchro / Effect
+card_type: Monster
+monster_type_line: Fish / Synchro / Effect
 attribute: WATER
 level: 8
 atk: 2800

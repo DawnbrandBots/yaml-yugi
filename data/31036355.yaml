@@ -7,10 +7,11 @@ name:
   fr: Permutation de Créature
   it: Scambio-Creature
   pt: Troca de Criaturas
-  ja: <ruby><rb>強</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>移</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>強</rb><rt>きょう</rt></ruby><ruby><rb>制</rb><rt>せい</rt></ruby><ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>移</rb><rt>い</rt></ruby>
   ja_romaji: Kyōsei Ten'i
   ko: 강제전이
   ko_rr: Gangjejeon-i
+  zh-TW: 强制轉移
   zh-CN: 强制转移
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：お互いのプレイヤーは、それぞれ自身のフィールドのモンスター１体を選ぶ。そのモンスター２体のコントロールを入れ替える。このターン、そのモンスターは表示形式を変更できない。
   ko: |-
     ①: 양쪽 플레이어는, 각각 자신 필드의 몬스터 1장을 고른다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 이 턴에, 그 몬스터는 표시 형식을 변경할 수 없다.
+  zh-TW: 双方各自选取我方场上的1只怪兽，交换这2只怪兽的控制权。该怪兽在本回合中不可更改表示形式。
   zh-CN: |-
-    双方各自选自己场上1只怪兽，那些怪兽的控制权交换。那些怪兽在这个回合不能把表示形式变更。
-type: Spell
+    ①：双方玩家各自挑选1只自身场上的怪兽。该2只怪兽的控制权交换。此回合，不可更改该怪兽的表示形式。
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Tongyo
   it: Tongyo
   pt: Tongyo
-  ja: <ruby><rb>舌</rb><rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby><rb>魚</rb><rp>（</rp><rt>ぎょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>舌</rb><rt>たん</rt></ruby><ruby><rb>魚</rb><rt>ぎょ</rt></ruby>
   ja_romaji: Tangyo
   ko: 설어
   ko_rr:
+  zh-TW:
   zh-CN: 舌鱼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     他の魚を長い舌で捕まえ、エネルギーを吸収する。
   ko: |-
     다른 물고기를 긴 혀로 붙잡아, 에너지를 흡수한다.
+  zh-TW:
   zh-CN: |-
     用长舌头抓住其他的鱼，吸取能量。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: WATER
 level: 4
 atk: 1350

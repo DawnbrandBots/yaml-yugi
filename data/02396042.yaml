@@ -7,10 +7,11 @@ name:
   fr: Cavalerie d'Acier de Dinon
   it: Cavalleria d'Acciaio di Dinon
   pt: Cavalaria de Aço de Dinon
-  ja: ディノンの<ruby><rb>鋼</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>鉄</rb><rp>（</rp><rt>てつ</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: ディノンの<ruby><rb>鋼</rb><rt>こう</rt></ruby><ruby><rb>鉄</rb><rt>てつ</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Dinon no Kōtetsukihei
   ko: 디논의 강철기병
   ko_rr:
+  zh-TW:
   zh-CN: 迪隆的钢铁骑兵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがＰモンスターと戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力・守備力はダメージステップ終了時まで半分になる。
   ko: |-
     ①: 이 카드가 펜듈럼 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동한다. 이 카드의 공격력 / 수비력은 데미지 스텝 종료시까지 절반이 된다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡和灵摆怪兽进行战斗的伤害步骤开始时发动。这张卡的攻击力·守备力直到伤害步骤结束时变成一半。
-type: Monster
-typeline: Dinosaur / Pendulum / Effect
+card_type: Monster
+monster_type_line: Dinosaur / Pendulum / Effect
 attribute: EARTH
 level: 4
 atk: 1600
@@ -47,6 +49,7 @@ pendulum_effect:
   pt:
   ja:
   ko:
+  zh-TW:
   zh-CN:
 sets:
   en:

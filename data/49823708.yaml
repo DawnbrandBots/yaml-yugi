@@ -7,10 +7,11 @@ name:
   fr: Jeune Buster, Soldat de l'Épée Destructrice
   it: Combattente Cucciolo del Soldato Spada della Distruzion
   pt: Filhote Notável do Soldado da Espada da Destruição
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby><rb>伴</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>の<ruby><rb>伴</rb><rt>ばん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Hakaikenshi no Banryū
   ko: 파괴검사의 반룡
   ko_rr: Pagoegeomsa-ui Bannyong
+  zh-TW:
   zh-CN: 破坏剑士的伴龙
 text:
   en: |-
@@ -41,10 +42,11 @@ text:
     このカード名の②③の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが召喚に成功した時に発動できる。デッキから「破壊剣士の伴竜」以外の「破壊剣」カード１枚を手札に加える。②：このカードをリリースして発動できる。自分の手札・墓地から「バスター・ブレイダー」１体を選んで特殊召喚する。③：このカードが墓地に存在し、自分フィールドに「バスター・ブレイダー」が存在する場合、手札から「破壊剣」カード１枚を捨てて発動できる。このカードを特殊召喚する。
   ko: |-
     이 카드명의 ②③의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "파괴검사의 반룡" 이외의 "파괴검" 카드 1장을 패에 넣는다. ②: 이 카드를 릴리스하고 발동할 수 있다. 자신의 패 / 묘지에서 "버스터 블레이더" 1장을 골라 특수 소환한다. ③: 이 카드가 묘지에 존재하고, 자신 필드에 "버스터 블레이더"가 존재할 경우, 패에서 "파괴검" 카드 1장을 버리고 발동할 수 있다. 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「破坏剑士的伴龙」的②③的效果1回合只能有1次使用其中任意1个。①：这张卡召唤成功时才能发动。从卡组把「破坏剑士的伴龙」以外的1张「破坏剑-」卡加入手卡。②：把这张卡解放才能发动。从自己的手卡·墓地选1只「破坏剑士」特殊召唤。③：这张卡在墓地存在，自己场上有「破坏剑士」存在的场合，从手卡丢弃1张「破坏剑-」卡才能发动。这张卡从墓地特殊召唤。
-type: Monster
-typeline: Dragon / Tuner / Effect
+card_type: Monster
+monster_type_line: Dragon / Tuner / Effect
 attribute: LIGHT
 level: 1
 atk: 400

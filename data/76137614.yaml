@@ -7,10 +7,11 @@ name:
   fr: Désenchanteresse
   it: Disincantatore
   pt: Desencantadora
-  ja: <ruby><rb>聖なる解呪師</rb><rp>（</rp><rt>セイント・ディスエンチャンター</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖なる解呪師</rb><rt>セイント・ディスエンチャンター</rt></ruby>
   ja_romaji: Seinto Disuenchantā
   ko: 성스러운 해주사
   ko_rr: Seongseureoun Haejusa
+  zh-TW:
   zh-CN: 神圣解咒师
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：１ターンに１度、フィールドの表側表示の魔法カード１枚を対象として発動できる。フィールドの魔力カウンターを１つ取り除き、対象の表側表示のカードを持ち主の手札に戻す。
   ko: |-
     ①: 1턴에 1번, 필드의 앞면 표시의 마법 카드 1장을 대상으로 하고 발동할 수 있다. 필드의 마력 카운터를 1개 제거하고, 대상의 앞면 표시의 카드를 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，以场上1张表侧表示的魔法卡为对象才能发动。场上1个魔力指示物取除，作为对象的表侧表示的卡回到持有者手卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 5
 atk: 2000

@@ -7,11 +7,12 @@ name:
   fr: Champion Héroïque - Gandiva
   it: Campione Eroico - Gandiva
   pt: Campeão Heroico - Gandiva
-  ja: <ruby><rb>Ｈ</rb><rp>（</rp><rt>ヒロイック</rt><rp>）</rp></ruby>－<ruby><rb>Ｃ</rb><rp>（</rp><rt>チャンピオン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｈ</rb><rt>ヒロイック</rt></ruby>－<ruby><rb>Ｃ</rb><rt>チャンピオン</rt></ruby>
     ガーンデーヴァ
   ja_romaji: Hiroikku Chanpion Gāndēva
-  ko: <ruby><rb>H－C</rb><rp>（</rp><rt>히로익 챔피언</rt><rp>）</rp></ruby> 간디바
+  ko: <ruby><rb>H－C</rb><rt>히로익 챔피언</rt></ruby> 간디바
   ko_rr:
+  zh-TW: 英豪勝利者 剛帝神弓
   zh-CN: 英豪冠军 英弓王
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     전사족 레벨 4 몬스터 × 2
     상대 필드 위에 레벨 4 이하의 몬스터가 특수 소환되었을 때, 이 카드의 엑시즈 소재를 1개 제거하는 것으로, 그 특수 소환된 몬스터를 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW: "战士族等级4怪兽×2\n等级4或以下怪兽被特殊召唤至对手场上时，透过移除此卡的1个超量素材，破坏该被特殊召唤怪兽。此效果1回合只可使用1次。"
   zh-CN: |-
     　战士族　4星怪兽×2。对方场上有4星以下的怪兽特殊召唤时，可以通过把这张卡1个XYZ素材取除，那些特殊召唤的怪兽破坏。这个效果1回合只能使用1次。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2100

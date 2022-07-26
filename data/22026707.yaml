@@ -7,10 +7,11 @@ name:
   fr: Rideau des ombres
   it: Sipario degli Oscuri
   pt: Cortina dos Escuros
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>のカーテン
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>のカーテン
   ja_romaji: Kuromazoku no Kāten
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 黑魔族的幕帘
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     魔術師がつくりだしたカーテン。魔法使いの力が上がるという。
   ko:
+  zh-TW:
   zh-CN: |-
     魔术师制作的窗帘。据说可以提升魔法师的力量。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: DARK
 level: 2
 atk: 600

@@ -7,11 +7,12 @@ name:
   fr: Acteur des Abysses - Soulagement Comique
   it: Attore dell'Abisso - Intermezzo Comico
   pt: Ator do Abismo - Alívio Cômico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>－コミック・リリーフ
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>劇</rb><rt>げき</rt></ruby><ruby><rb>団</rb><rt>だん</rt></ruby>－コミック・リリーフ
   ja_romaji: Makai Gekidan - Komikku Rirīfu
   ko: 마계극단－코믹 릴리프
   ko_rr: Magyegeukdan - Komik Rillipeu
-  zh-CN: 魔界剧团-插科打诨角色
+  zh-TW:
+  zh-CN: 魔界剧团－谐趣龙套
 text:
   en: |-
     You take no battle damage from attacks involving this card. Once per turn, during your Standby Phase: Give control of this card to your opponent. Once per turn, if control of this face-up card changes: Activate this effect; the owner of this card can destroy 1 Set "Abyss Script" Spell in their Spell & Trap Zone.
@@ -26,19 +27,14 @@ text:
   pt: |-
     Você não sofre dano de batalha dos ataques que envolvem este card. Uma vez por turno, durante sua Fase de Apoio: conceda o controle deste card ao seu oponente. Uma vez por turno, se o controle deste card com a face para cima mudar: ative este efeito; o dono deste card pode destruir 1 Magia "Script do Abismo" Baixada na sua própria Zona de Magias & Armadilhas.
   ja: |-
-    ①：このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：自分スタンバイフェイズに発動する。このカードのコントロールを相手に移す。③：１ターンに１度、このカードのコントロールが移った場合に発動する。このカードの元々の持ち主は自身の魔法＆罠ゾーンにセットされた「<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>台</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>本</rb><rp>（</rp><rt>ほん</rt><rp>）</rp></ruby>」魔法カード１枚を選んで破壊できる。
+    ①：このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：自分スタンバイフェイズに発動する。このカードのコントロールを相手に移す。③：１ターンに１度、このカードのコントロールが移った場合に発動する。このカードの元々の持ち主は自身の魔法＆罠ゾーンにセットされた「<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>台</rb><rt>だい</rt></ruby><ruby><rb>本</rb><rt>ほん</rt></ruby>」魔法カード１枚を選んで破壊できる。
   ko: |-
     ①: 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ②: 자신 스탠바이 페이즈에 발동한다. 이 카드의 컨트롤을 상대에게 옮긴다. ③: 1턴에 1번, 이 카드의 컨트롤이 옮겨졌을 경우에 발동한다. 이 카드의 원래의 주인은 자신의 마법 & 함정 존에 세트된 "마계대본" 마법 카드 1장을 고르고 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
-    ←8 【灵摆】 8→
-    这个卡名的灵摆效果1回合只能使用1次。
-    ①：以对方场上1只怪兽和自己场上1只「魔界剧团」灵摆怪兽为对象才能发动。那2只怪兽的控制权交换。那之后，这张卡破坏。
-    【怪兽效果】
-    ①：这张卡的战斗发生的对自己的战斗伤害变成0。
-    ②：自己准备阶段发动。这张卡的控制权移给对方。
-    ③：1回合1次，这张卡的控制权转移的场合发动。这张卡的原本持有者可以选自身的魔法与陷阱区域盖放的1张「魔界台本」魔法卡破坏。
-type: Monster
-typeline: Fiend / Pendulum / Effect
+    ①：因此卡的战斗发生的对自己的战斗伤害变为0。②：在自己的准备阶段发动。此卡的控制权转移给对手。③：1回合1次，在此卡的控制权转移的情况下发动。此卡原本的持有者可从自身的魔法与陷阱区域挑选1张被放置的"魔界剧本"魔法卡破坏。
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Effect
 attribute: DARK
 level: 3
 atk: 1000
@@ -58,10 +54,12 @@ pendulum_effect:
   pt: |-
     Você pode escolher 1 Monstro Pêndulo "Ator do Abismo" que você controla e 1 monstro que seu oponente controla; troque o controle dos dois monstros e, depois, destrua este card. Você só pode usar este efeito de "Ator do Abismo - Alívio Cômico" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。①：相手フィールドのモンスター１体と自分フィールドの「<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>」Ｐモンスター１体を対象として発動できる。そのモンスター２体のコントロールを入れ替える。その後、このカードを破壊する。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：相手フィールドのモンスター１体と自分フィールドの「<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>劇</rb><rt>げき</rt></ruby><ruby><rb>団</rb><rt>だん</rt></ruby>」Ｐモンスター１体を対象として発動できる。そのモンスター２体のコントロールを入れ替える。その後、このカードを破壊する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 몬스터 1장과 자신 필드의 "마계극단" 펜듈럼 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 그 후, 이 카드를 파괴한다.
-  zh-CN:
+  zh-TW:
+  zh-CN: |-
+    此卡名的灵摆效果1回合仅可使用1次。①：可以对手场上的1只怪兽和自己场上的1只"魔界剧团"灵摆怪兽为对象发动。交换该2只怪兽的控制权。然后，将此卡破坏。
 sets:
   en:
   - set_number: LED3-EN046

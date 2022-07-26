@@ -7,10 +7,11 @@ name:
   fr: Ordre Impérial
   it: Ordine Imperiale
   pt: Ordem Imperial
-  ja: <ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby><rb>勅</rb><rp>（</rp><rt>ちょく</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>宮</rb><rt>きゅう</rt></ruby>の<ruby><rb>勅</rb><rt>ちょく</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby>
   ja_romaji: Ōkyū no Chokumei
   ko: 왕궁의 칙명
   ko_rr: Wanggung-ui Chikmyeong
+  zh-TW:
   zh-CN: 王宫的敕命
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードのコントローラーはお互いのスタンバイフェイズ毎に７００ＬＰを払う。７００ＬＰ払えない場合このカードを破壊する。①：このカードが魔法＆罠ゾーンに存在する限り、フィールドの全ての魔法カードの効果は無効化される。
   ko: |-
     이 카드의 컨트롤러는 서로의 스탠바이 페이즈마다 700 LP를 지불한다. 700 LP 지불할 수 없을 경우 이 카드를 파괴한다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 필드의 모든 마법 카드의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     这张卡的控制者在每次双方的准备阶段支付700基本分。不能支付700基本分的场合这张卡破坏。①：只要这张卡在魔法与陷阱区域存在，场上的全部魔法卡的效果无效化。
-type: Trap
+card_type: Trap
 property: Continuous

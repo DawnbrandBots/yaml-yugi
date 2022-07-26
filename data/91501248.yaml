@@ -7,10 +7,11 @@ name:
   fr: Pot de La Restriction
   it: Giara Proibita
   pt: Pote de A Proibida
-  ja: <ruby><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>忌</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>の<ruby><rb>壺</rb><rp>（</rp><rt>つぼ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>禁</rb><rt>きん</rt></ruby><ruby><rb>忌</rb><rt>き</rt></ruby>の<ruby><rb>壺</rb><rt>つぼ</rt></ruby>
   ja_romaji: Kinki no Tsubo
   ko: 금기의 항아리
   ko_rr:
+  zh-TW:
   zh-CN: 禁忌之壶
 text:
   en: |-
@@ -67,14 +68,15 @@ text:
     ● 필드의 마법 / 함정 카드를 전부 주인의 패로 되돌린다.
     ● 상대 필드의 몬스터를 전부 파괴한다.
     ● 상대의 패를 확인하고, 그 중에서 카드 1장을 골라 주인의 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     「禁忌之壶」的效果1回合只能使用1次。①：这张卡反转的场合，可以从以下效果选择1个发动。
     ●自己从卡组抽2张。
     ●场上的魔法·陷阱卡全部回到持有者手卡。
     ●对方场上的怪兽全部破坏。
     ●把对方手卡确认，从那之中选1张卡回到持有者卡组。
-type: Monster
-typeline: Rock / Flip / Effect
+card_type: Monster
+monster_type_line: Rock / Flip / Effect
 attribute: EARTH
 level: 9
 atk: 2000

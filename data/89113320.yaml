@@ -7,10 +7,11 @@ name:
   fr: Petite Bouchée Tortue Potartiste
   it: Artistamico Tartaruga Morsino
   pt: Camarartista Mordiscotartaruga
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>ビッグバイトタートル
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>ビッグバイトタートル
   ja_romaji: Entameito Biggubaitotātoru
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 빅바이트터틀
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 빅바이트터틀
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 鱼饵大头龟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが戦闘で破壊された時に発動できる。このカードを破壊したモンスターを破壊する。
   ko: |-
     ① : 이 카드가 전투로 파괴되었을 때에 발동할 수 있다. 이 카드를 파괴한 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被战斗破坏时才能发动。把让这张卡破坏的怪兽破坏。
-type: Monster
-typeline: Reptile / Pendulum / Effect
+card_type: Monster
+monster_type_line: Reptile / Pendulum / Effect
 attribute: WATER
 level: 3
 atk: 800
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：１ターンに１度、自分メインフェイズに発動できる。手札の「ＥＭ」モンスターまたは「オッドアイズ」モンスター１体を相手に見せる。このターン、そのモンスター及び自分の手札の同名モンスターのレベルを１つ下げる。
   ko: |-
     ① : 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패의 "EM(엔터메이트)" 몬스터 또는 "오드아이즈" 몬스터 1장을 상대에게 보여준다. 이 턴에, 그 몬스터 및 자신 패의 같은 이름의 몬스터의 레벨을 1개 내린다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己主要阶段才能发动。手卡1只「娱乐伙伴」怪兽或者「异色眼」怪兽给对方观看。这个回合，那只怪兽以及自己手卡的同名怪兽的等级下降1星。
 sets:

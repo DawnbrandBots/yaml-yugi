@@ -7,10 +7,11 @@ name:
   fr: Sixième Sens
   it: Sesto Senso
   pt: Sexto Sentido
-  ja: <ruby><rb>第</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>六</rb><rp>（</rp><rt>ろっ</rt><rp>）</rp></ruby><ruby><rb>感</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>六</rb><rt>ろっ</rt></ruby><ruby><rb>感</rb><rt>かん</rt></ruby>
   ja_romaji: Dairokkan
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 第六感
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
   ja: |-
     自分は１から６までの数字の内２つを宣言する。相手がサイコロを１回振り、宣言した数字の内どちらか１つが出た場合、その枚数自分はカードをドローする。ハズレの場合、出た目の枚数デッキの上からカードを墓地へ送る。
   ko:
+  zh-TW:
   zh-CN: |-
     自己从1到6的数字之内宣言2个。对方掷1次骰子，宣言的数字之内的任意1个出现的场合，自己抽出那个数量的卡。猜错的场合，从卡组上面把出现的数目数量的卡送去墓地。
-type: Trap
+card_type: Trap
 property: Normal

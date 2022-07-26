@@ -7,10 +7,11 @@ name:
   fr: Corne Armure de la Coléoptroupe
   it: Scarasoldato Armatura Corno
   pt: Chifre de Armadura Bezoudado
-  ja: <ruby><rb>騎甲虫</rb><rp>（</rp><rt>ビートルーパー</rt><rp>）</rp></ruby>アームド・ホーン
+  ja: <ruby><rb>騎甲虫</rb><rt>ビートルーパー</rt></ruby>アームド・ホーン
   ja_romaji: Bītorūpā Āmudo Hōn
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 甲虫骑兵 独角仙装甲兵
 text:
   en: |-
@@ -33,15 +34,16 @@ text:
     Você não pode Invocar monstros por Invocação-Especial, exceto monstros Inseto. Você só pode usar cada um dos seguintes efeitos de "Chifre de Armadura Bezoudado" uma vez por turno. Durante sua Fase Principal, você pode: imediatamente depois que este efeito resolver, Invoque por Invocação-Normal 1 monstro Inseto. Se este card estiver no seu Cemitério: você pode banir 3 outros monstros Inseto do seu Cemitério; Invoque este card por Invocação-Especial, mas bana-o quando ele deixar o campo.
   ja:
   ko:
+  zh-TW:
   zh-CN: |-
     昆虫族怪兽2只
     自己不是昆虫族怪兽不能特殊召唤。「甲虫骑兵 独角仙装甲兵」的以下效果1回合各能使用1次。自己主要阶段，可以：把1只昆虫族怪兽召唤。这张卡在墓地存在的场合：可以把这张卡以外的自己墓地3只昆虫族怪兽除外；这张卡特殊召唤，这个效果特殊召唤的这张卡从场上离开的场合除外。
-type: Monster
-typeline: Insect / Link / Effect
+card_type: Monster
+monster_type_line: Insect / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Center
-- Top-Center
+- ⬇
+- ⬆
 atk: 1000
 materials: 2 Insect monsters
 sets:

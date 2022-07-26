@@ -7,10 +7,11 @@ name:
   fr: Gouki Le Puissant Ogre
   it: Gouki Il Pienopotere Orco
   pt: Gouki, O Ogro Potente
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ザ・パワーロード・オーガ
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>ザ・パワーロード・オーガ
   ja_romaji: Gōki Za Pawārōdo Ōga
   ko: 강귀 더 파워로드 오우거
   ko_rr: Ganggwi Deo Paworodeu Ougeo
+  zh-TW:
   zh-CN: 刚鬼 力道食人魔
 text:
   en: |-
@@ -37,20 +38,18 @@ text:
   ko: |-
     전사족 몬스터 2장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드 이외의 자신 필드의 링크 몬스터의 링크 마커의 합계 × 200 올린다. ②: 링크 소환한 이 카드는 다른 카드의 효과를 받지 않는다. ③: 자신 필드의 "강귀" 링크 몬스터 1장을 릴리스하고, 그 링크 마커의 수까지 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     战士族怪兽2只以上
-    这个卡名的③的效果1回合只能使用1次。
-    ①：这张卡的攻击力上升这张卡以外的自己场上的连接怪兽的连接标记合计×200。
-    ②：连接召唤的这张卡不受其他卡的效果影响。
-    ③：把自己场上1只「刚鬼」连接怪兽解放，以最多有那个连接标记数量的场上的卡为对象才能发动。那些卡破坏。
-type: Monster
-typeline: Warrior  / Link / Effect
+    此卡名的③效果1回合仅可使用1次。①：此卡的攻击力上升相当于自己场上此卡以外的连接怪兽连接标记合计×200的数值。②：连接召唤的此卡不受其他卡的效果影响。③：解放自己场上的1只"刚鬼"连接怪兽，以场上的卡为对象可以发动，数量最多为该连接标记的数量。将该卡破坏。
+card_type: Monster
+monster_type_line: Warrior  / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
-- Middle-Right
+- ↙
+- ⬇
+- ↘
+- ➡
 atk: 2800
 materials: 2+ Warrior monsters
 sets:

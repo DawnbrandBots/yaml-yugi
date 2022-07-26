@@ -7,10 +7,11 @@ name:
   fr: Capitaine en Maraude
   it: Capitano Saccheggiatore
   pt: Capitão Saqueador
-  ja: <ruby><rb>切</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>り<ruby><rb>込</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>み<ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>長</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>込</rb><rt>こ</rt></ruby>み<ruby><rb>隊</rb><rt>たい</rt></ruby><ruby><rb>長</rb><rt>ちょう</rt></ruby>
   ja_romaji: Kirikomi Taichō
   ko: 선봉 대장
   ko_rr: Seonbong Daejang
+  zh-TW: 衝鋒隊長
   zh-CN: 冲锋陷阵的队长
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚に成功した時に発動できる。手札からレベル４以下のモンスター１体を特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手は他の戦士族モンスターを攻撃対象に選択できない。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 몬스터 1장을 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 전사족 몬스터를 공격 대상으로 선택할 수 없다.
+  zh-TW: 只要此卡以表侧表示存在于场上，对手就不得选择以表侧表示存在的其他战士怪兽作为攻击对象。此卡召唤成功时，可从手牌特别召唤1只等级4以下的怪兽。
   zh-CN: |-
     ①：这张卡召唤成功时才能发动。从手卡把1只4星以下的怪兽特殊召唤。②：只要这张卡在怪兽区域存在，对方不能选择其他的战士族怪兽作为攻击对象。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 1200

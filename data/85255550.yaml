@@ -7,10 +7,11 @@ name:
   fr: Spadassin d'un Pays Lointain
   it: Spadaccino da una Terra Lontana
   pt: Espadachim de uma Terra Distante
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>国</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>国</rb><rt>こく</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Ikoku no Kenshi
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 异国的剑士
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     「異国の剣士」の攻撃を受けたモンスターは、５ターン後に破壊される。
   ko:
+  zh-TW:
   zh-CN: |-
     受到「异国的剑士」的攻击的怪兽在5回合后破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 1
 atk: 250

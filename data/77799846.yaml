@@ -7,10 +7,11 @@ name:
   fr: Dragon Tambour aux Yeux Exorbités
   it: Drago Tamburo Occhi-Spalancati
   pt: Dragão Tambor de Olhos Saltados
-  ja: <ruby><rb>廃品眼の太鼓竜</rb><rp>（</rp><rt>ガラクターアイズ・ファット・ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>廃品眼の太鼓竜</rb><rt>ガラクターアイズ・ファット・ドラゴン</rt></ruby>
   ja_romaji: Garakutāaizu Fatto Doragon
   ko: 가라쿠타아이즈 패트 드래곤
   ko_rr: Garakuta-aijeu Paeteu Deuraegon
+  zh-TW:
   zh-CN: 废品眼太鼓龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     기계족 레벨 8 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 공격력은 다음 상대의 엔드 페이즈시까지 1000 포인트 올린다. 엑시즈 소재를가지고 있는 이 카드가 파괴되었을 경우, 자신 묘지의 "SD(슈퍼 디펜스) 로보" 라는 이름이 붙은 몬스터 1장을 게임에서 제외하는 것으로, 이 카드를 묘지에서 특수 소환한다. 그 후, 자신 묘지의 "SD(슈퍼 디펜스) 로보" 라는 이름이 붙은 몬스터 1장을 고르고, 이 카드의 아래에 겹쳐 엑시즈 소재로 할 수 있다.
+  zh-TW:
   zh-CN: |-
     机械族8星怪兽×2
     1回合1次，把这张卡1个XYZ素材取除才能发动。这张卡的攻击力直到下次的对方的结束阶段时上升1000。持有XYZ素材的这张卡被破坏的场合，可以通过把自己墓地1只名字带有「超级防卫机器人」的怪兽从游戏中除外，这张卡从墓地特殊召唤。那之后，可以选自己墓地1只名字带有「超级防卫机器人」的怪兽在这张卡下面重叠作为XYZ素材。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: EARTH
 rank: 8
 atk: 3000

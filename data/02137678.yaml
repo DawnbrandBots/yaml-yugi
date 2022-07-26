@@ -7,10 +7,11 @@ name:
   fr: Armée Meklord de Granel
   it: Esercito Meklord di Granel
   pt: Exército Senhormek de Granel
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>グランエル・アイン
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>皇</rb><rt>こう</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>グランエル・アイン
   ja_romaji: Kikōhei Guran'eru Ain
   ko: 기황병 그란엘 아인
   ko_rr:
+  zh-TW:
   zh-CN: 机皇兵 神陆一型
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの攻撃力は、このカード以外のフィールド上に表側表示で存在する「機皇」と名のついたモンスターの数×１００ポイントアップする。このカードが召喚に成功した時、相手フィールド上に表側表示で存在するモンスター１体を選択し、そのモンスターの攻撃力をエンドフェイズ時まで半分にする事ができる。
   ko: |-
     이 카드의 공격력은, 이 카드 이외의 필드 위에 앞면 표시로 존재하는 "기황" 이라는 이름이 붙은 몬스터의 수×100 포인트 올린다. 이 카드가 일반 소환에 성공했을 때, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고, 그 몬스터의 공격력을 엔드 페이즈시까지 절반으로 할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡的攻击力上升这张卡以外的场上表侧表示存在的名字带有「机皇」的怪兽数量×100的数值。这张卡召唤成功时，可以选择对方场上表侧表示存在的1只怪兽，那只怪兽的攻击力直到结束阶段时变成一半。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1600

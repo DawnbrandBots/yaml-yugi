@@ -7,10 +7,11 @@ name:
   fr: Fée de la Fontaine
   it: Fata della Fontana
   pt: Fada da Fonte
-  ja: <ruby><rb>泉</rb><rp>（</rp><rt>いずみ</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>泉</rb><rt>いずみ</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>
   ja_romaji: Izumi no Yōsei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 泉之妖精
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     泉を守る妖精。泉を汚す者を容赦なく攻撃。
   ko:
+  zh-TW:
   zh-CN: |-
     守护泉水的精灵。对任何污浊泉水者杀无赦。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 4
 atk: 1600

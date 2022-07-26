@@ -7,11 +7,12 @@ name:
   fr: L'Arrivée Cyberse @Ignister
   it: L'Arrivo Cyberso @Ignister
   pt: A Chegada Ciberso @Ignister
-  ja: ジ・アライバル・サイバース<ruby><rb>＠</rb><rp>（</rp><rt>アット</rt><rp>）</rp></ruby>イグニスター
+  ja: ジ・アライバル・サイバース<ruby><rb>＠</rb><rt>アット</rt></ruby>イグニスター
   ja_romaji: Ji Araibaru Saibāsu Atto Igunisutā
-  ko: 디 어라이벌 사이버스<ruby><rb>＠</rb><rp>（</rp><rt>앳</rt><rp>）</rp></ruby>이그니스터
+  ko: 디 어라이벌 사이버스<ruby><rb>＠</rb><rt>앳</rt></ruby>이그니스터
   ko_rr: Di Eoraibeol Saibeoseu Aet Igeuniseuteo
-  zh-CN: 电子界到临者@火灵天星
+  zh-TW:
+  zh-CN: 到临电子界@伊格尼斯者
 text:
   en: |-
     3+ monsters with different Attributes
@@ -37,22 +38,20 @@ text:
   ko: |-
     속성이 다른 몬스터 3장 이상
     ①: "디 어라이벌 사이버스＠(앳)이그니스터"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 이 카드의 원래 공격력은, 이 카드의 링크 소재로 한 몬스터의 수 × 1000 이 된다. ③: 이 카드는 다른 카드의 효과를 받지 않는다. ④: 1턴에 1번, 이 카드 이외의 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴하고, 이 카드의 링크 앞이 되는 자신 필드에 "＠(앳)이그니스터 토큰"(사이버스족 / 어둠 / 레벨 1 / 공 0 / 수 0) 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     属性不同的怪兽3只以上
-    ①：「电子界到临者@火灵天星」在自己场上只能有1只表侧表示存在。
-    ②：这张卡的原本攻击力变成作为这张卡的连接素材的怪兽数量×1000。
-    ③：这张卡不受其他卡的效果影响。
-    ④：1回合1次，以这张卡以外的场上1只怪兽为对象才能发动。那只怪兽破坏，在作为这张卡所连接区的自己场上把1只「@火灵天星衍生物」（电子界族·暗·1星·攻/守0）特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    ①："到临电子界@伊格尼斯者"在自己场上仅可有1只以表侧表示存在。②：此卡原本的攻击力变为相当于作为此卡连接素材的怪兽数量×1000的数值。③：此卡不受其他卡的效果影响。④：1回合1次，以场上此卡以外的1只怪兽为对象可以发动。将该怪兽破坏，将1只"@伊格尼斯者衍生物"（电子界族・暗・星1・攻／守0）特殊召唤至此卡连接端的自己场上。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Top-Center
-- Middle-Left
-- Middle-Right
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ⬆
+- ⬅
+- ➡
+- ↙
+- ⬇
+- ↘
 atk: 0
 materials: 3+ monsters with different Attributes
 sets:

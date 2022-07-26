@@ -7,10 +7,11 @@ name:
   fr: Dragon de la Convergence des Volontés
   it: Drago Volontà Convergenti
   pt: Dragão das Vontades Convergentes
-  ja: <ruby><rb>想</rb><rp>（</rp><rt>おも</rt><rp>）</rp></ruby>い<ruby><rb>集</rb><rp>（</rp><rt>つど</rt><rp>）</rp></ruby>いし<ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>想</rb><rt>おも</rt></ruby>い<ruby><rb>集</rb><rt>つど</rt></ruby>いし<ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Omoi Tsudoishi Ryū
   ko: 하나된 마음의 용
   ko_rr: Hanadwin Ma-eum-ui Yong
+  zh-TW:
   zh-CN: 集心龙
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     自分は「想い集いし竜」を１ターンに１度しか特殊召喚できず、このカードをＳ素材とする場合、「セイヴァー」モンスターのＳ召喚にしか使用できない。①：このカードのカード名は、フィールド・墓地に存在する限り「救世竜 セイヴァー・ドラゴン」として扱う。②：このカードをドローした時、このカードを相手に見せて発動できる。このカードを手札から特殊召喚する。自分フィールドにレベル８以上のドラゴン族Ｓモンスターが存在する場合、さらにデッキからドラゴン族・レベル１モンスター１体を特殊召喚できる。
   ko: |-
     자신은 "하나된 마음의 용"을 1턴에 1번밖에 특수 소환할 수 없으며, 이 카드를 싱크로 소재로 할 경우, "세이비어" 몬스터의 싱크로 소환으로밖에 사용할 수 없다. ①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 "구세룡 세이비어 드래곤"으로 취급한다. ②: 이 카드를 드로우했을 때, 이 카드를 상대에게 보여주고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 자신 필드에 레벨 8 이상의 드래곤족 싱크로 몬스터가 존재할 경우, 추가로 덱에서 드래곤족 / 레벨 1 몬스터 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己对「集心龙」1回合只能有1次特殊召唤，把这张卡作为同调素材的场合，不是「救世」怪兽的同调召唤不能使用。
     ①：这张卡的卡名只要在场上·墓地存在当作「救世龙」使用。
     ②：把这张卡抽到时，把这张卡给对方观看才能发动。这张卡从手卡特殊召唤。自己场上有8星以上的龙族同调怪兽存在的场合，可以再从卡组把1只龙族·1星怪兽特殊召唤。
-type: Monster
-typeline: Dragon / Tuner / Effect
+card_type: Monster
+monster_type_line: Dragon / Tuner / Effect
 attribute: LIGHT
 level: 1
 atk: 0

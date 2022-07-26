@@ -7,10 +7,11 @@ name:
   fr: Gigagants Samouraï Supralourd
   it: Samurai Superpesante Gigaguanti
   pt: Samurai Superpesado Gigaluvas
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>グロウ－<ruby><rb>Ｖ</rb><rp>（</rp><rt>ブ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>グロウ－<ruby><rb>Ｖ</rb><rt>ブ</rt></ruby>
   ja_romaji: Chōjūmusha Gurō-Bu
-  ko: 초중무사 글로-<ruby><rb>V</rb><rp>（</rp><rt>보이</rt><rp>）</rp></ruby>
+  ko: 초중무사 글로-<ruby><rb>V</rb><rt>보이</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 超重武者 手套-V
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分の墓地に魔法・罠カードが存在せず、このカードが墓地へ送られた場合に発動できる。デッキの上からカードを５枚確認し、好きな順番でデッキの上に戻す。②：相手モンスターの直接攻撃宣言時、墓地のこのカードを除外して発動できる。自分のデッキの一番上のカードをめくり、そのカードが「超重武者」モンスターだった場合は手札に加え、その攻撃モンスターの攻撃力を０にする。違った場合はめくったカードを墓地へ送る。
   ko: |-
     ① : 자신 묘지에 마법 / 함정 카드가 존재하지 않고, 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 덱 위에서 카드를 5장 확인하고, 좋아하는 순서대로 덱 위로 되돌린다. ② : 상대 몬스터의 직접 공격 선언시, 묘지의 이 카드를 제외하고 발동할 수 있다. 자신 덱의 맨 위의 카드를 넘겨, 그 카드가 "초중무사" 몬스터였을 경우는 패에 넣고, 그 공격 몬스터의 공격력을 0 으로 한다. 다를 경우는 넘긴 카드를 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     ①：自己墓地没有魔法·陷阱卡存在，这张卡被送去墓地的场合才能发动。从卡组上面把5张卡确认，用喜欢的顺序回到卡组上面。②：对方怪兽的直接攻击宣言时，把墓地的这张卡除外才能发动。自己卡组最上面的卡翻开，那张卡是「超重武者」怪兽的场合加入手卡，那只攻击怪兽的攻击力变成0。不是的场合把翻开的卡送去墓地。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 3
 atk: 100

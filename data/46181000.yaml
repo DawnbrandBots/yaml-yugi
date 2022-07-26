@@ -7,10 +7,11 @@ name:
   fr: Base de la Ligne de Front
   it: Avamposto
   pt: Base da Frente
-  ja: <ruby><rb>前</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>線</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>基</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>線</rb><rt>せん</rt></ruby><ruby><rb>基</rb><rt>き</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby>
   ja_romaji: Zensen Kichi
   ko: 전선기지
   ko_rr:
+  zh-TW: 前線基地
   zh-CN: 前线基地
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     １ターンに１度、自分のメインフェイズ時に手札からレベル４以下のユニオンモンスター１体を特殊召喚する事ができる。
   ko: |-
     자신의 메인 페이즈에 1번만, 패에서 레벨 4 이하의 유니온 몬스터 1장을 특수 소환할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW: 1回合1次，可于我方主要阶段从手牌特殊召唤等级4或以下的1只联合怪兽。
   zh-CN: |-
     1回合1次，自己的主要阶段时可以从手卡把1只4星以下的同盟怪兽特殊召唤。
-type: Spell
+card_type: Spell
 property: Continuous

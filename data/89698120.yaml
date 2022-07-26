@@ -7,10 +7,11 @@ name:
   fr: Expert en Tactiques d'Espionnage
   it: Esperto di Spionaggio Tattico
   pt: Perito em Espionagem Táctica
-  ja: <ruby><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>麗</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>なる<ruby><rb>潜</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>入</rb><rp>（</rp><rt>にゅう</rt><rp>）</rp></ruby><ruby><rb>工</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>作</rb><rp>（</rp><rt>さく</rt><rp>）</rp></ruby><ruby><rb>員</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>華</rb><rt>か</rt></ruby><ruby><rb>麗</rb><rt>れい</rt></ruby>なる<ruby><rb>潜</rb><rt>せん</rt></ruby><ruby><rb>入</rb><rt>にゅう</rt></ruby><ruby><rb>工</rb><rt>こう</rt></ruby><ruby><rb>作</rb><rt>さく</rt></ruby><ruby><rb>員</rb><rt>いん</rt></ruby>
   ja_romaji: Kareinaru Sennyū Kōsakuin
   ko: 화려한 잠입공작원
   ko_rr:
+  zh-TW:
   zh-CN: 华丽的潜入工作员
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、罠カードを発動する事はできない。
   ko: |-
     이 카드가 일반 소환에 성공했을때 함정카드를 발동할수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，不能把陷阱卡发动。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 1300

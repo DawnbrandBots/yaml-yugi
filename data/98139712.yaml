@@ -7,10 +7,11 @@ name:
   fr: L'appel du Squelette
   it: Invito del Teschio
   pt:
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>の<ruby><rb>誘</rb><rp>（</rp><rt>いざな</rt><rp>）</rp></ruby>い
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>霊</rb><rt>りょう</rt></ruby>の<ruby><rb>誘</rb><rt>いざな</rt></ruby>い
   ja_romaji: Shiryō no Izanai
   ko: 사령의 권유
   ko_rr:
+  zh-TW:
   zh-CN: 死灵的引诱
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     カードが墓地へ送られる度に、そのカードの持ち主は１枚につき３００ポイントダメージを受ける。
   ko: |-
     묘지에 카드가 보내질 때마다 그 카드의 주인에게 1장당 300 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     每次卡被送去墓地，那些卡的持有者受到每1张300分伤害。
-type: Trap
+card_type: Trap
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr: Kagémusha de la Flamme Bleue
   it: Kagemusha della Fiamma Blu
   pt: Kagemusha da Chama Azul
-  ja: <ruby><rb>紫</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby>の<ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>紫</rb><rt>シ</rt></ruby><ruby><rb>炎</rb><rt>エン</rt></ruby>の<ruby><rb>影</rb><rt>かげ</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Shien no Kagemusha
   ko: 시엔의 무사
   ko_rr: Sien-ui Musa
+  zh-TW:
   zh-CN: 紫炎的影武者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     シエンに仕える影武者。鋭い切れ味の名刀を持つ。
   ko: |-
     붉은 화염을 삼키는 그림자 무사. 예리한 명검을 소유하고 있다.
+  zh-TW:
   zh-CN: |-
     侍奉着紫炎的影武者，持有锋利的名刀。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 2
 atk: 800

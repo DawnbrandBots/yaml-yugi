@@ -1,20 +1,21 @@
 konami_id: 17420
 password: 62133026
 name:
-  en: Vernalizer Fairy of Flowers and Fields
+  en: Vernusylph of the Flowering Fields
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby><rb>花</rb><rp>（</rp><rt>はな</rt><rp>）</rp></ruby>と<ruby><rb>野</rb><rp>（</rp><rt>の</rt><rp>）</rp></ruby><ruby><rb>原</rb><rp>（</rp><rt>はら</rt><rp>）</rp></ruby>の<ruby><rb>春</rb><rp>（</rp><rt>はる</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>け</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>花</rb><rt>はな</rt></ruby>と<ruby><rb>野</rb><rt>の</rt></ruby><ruby><rb>原</rb><rt>はら</rt></ruby>の<ruby><rb>春</rb><rt>はる</rt></ruby><ruby><rb>化</rb><rt>け</rt></ruby><ruby><rb>精</rb><rt>しょう</rt></ruby>
   ja_romaji: Hana to Nohara no Harukeshō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 花与原野的春化精
 text:
   en: |-
-    You can discard this card and 1 other monster or "Vernalizer Fairy" card; add 1 EARTH monster from your GY to your hand, except "Vernalizer Fairy of Flowers and Fields", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate monster effects for the rest of this turn, except EARTH monsters'. You can only use this effect of "Vernalizer Fairy of Flowers and Fields" once per turn. Your opponent cannot target "Vernalizer Fairy" monsters you control with card effects.
+    Your opponent cannot target "Vernusylph" monsters you control with card effects. You can discard this card, and 1 monster or "Vernusylph" card; add 1 EARTH monster from your GY to your hand, except "Vernusylph of the Flowering Fields", then you can Special Summon 1 EARTH monster from your GY, also you cannot activate non-EARTH monster effects for the rest of this turn. You can only use this effect of "Vernusylph of the Flowering Fields" once per turn.
   de:
   es:
   fr:
@@ -23,17 +24,48 @@ text:
   ja: |-
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードと、モンスター１体または「春化精」カード１枚を手札から捨てて発動できる。自分の墓地から「花と野原の春化精」以外の地属性モンスター１体を選んで手札に加える。その後、自分の墓地から地属性モンスター１体を選んで特殊召喚できる。このターン、自分は地属性以外のモンスターの効果を発動できない。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「春化精」モンスターは相手の効果の対象にならない。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①效果1回合只能使用1次。①：可以将这张卡和1只怪兽或者1张「春化精」卡从手牌舍弃发动。从自己的墓地选1只「花と野原の春化精／花与原野的春化精」以外的地属性怪兽加入手牌。那之后，可以从自己的墓地选1只地属性怪兽特殊召唤。这个回合，自己不能发动地属性以外的怪兽的效果。②：只要这张卡在怪兽区存在，自己场上的「春化精」怪兽就不会成为对手的效果的对象。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: EARTH
 level: 3
 atk: 600
 def: 1600
 sets:
+  en:
+  - set_number: POTE-EN018
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE018
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR018
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT018
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT018
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: POTE-JP018
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  ko:
+  - set_number: POTE-KR018
     set_name: Power of the Elements
     rarities:
     - Common

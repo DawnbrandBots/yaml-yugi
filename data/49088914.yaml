@@ -7,10 +7,11 @@ name:
   fr: Mai-Hime du Monde Virtuel - Lulu
   it: Mai-Hime Mondo Virtuale - Lulu
   pt: Mai-Hime do Mundo Virtual - Lulu
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>脳</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby><rb>堺</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>媛</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>－<ruby><rb>瑞</rb><rp>（</rp><rt>ルゥ</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>ルゥ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>脳</rb><rt>のう</rt></ruby><ruby><rb>堺</rb><rt>かい</rt></ruby><ruby><rb>媛</rb><rt>えん</rt></ruby>－<ruby><rb>瑞</rb><rt>ルゥ</rt></ruby><ruby><rb>々</rb><rt>ルゥ</rt></ruby>
   ja_romaji: Dennōkaien - Ruru
   ko: 전뇌계원-루루
   ko_rr:
+  zh-TW:
   zh-CN: 电脑堺媛-瑞瑞
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分フィールドの「電脳堺」カード１枚を対象として発動できる。そのカードとは種類（モンスター・魔法・罠）が異なる「電脳堺」カード１枚をデッキから墓地へ送り、このカードを特殊召喚する。その後、対象のカード及び墓地へ送ったカードとは種類が異なる「電脳堺媛－瑞々」以外の「電脳堺」カード１枚をデッキから手札に加える事ができる。このターン、自分はレベルまたはランクが３以上のモンスターしか特殊召喚できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 존재할 경우, 자신 필드의 "전뇌계" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드와는 종류(몬스터 / 마법 / 함정)가 다른 "전뇌계" 카드 1장을 덱에서 묘지로 보내고, 이 카드를 특수 소환한다. 그 후, 대상의 카드 및 묘지로 보낸 카드와는 종류가 다른 "전뇌계원-루루" 이외의 "전뇌계" 카드 1장을 덱에서 패에 넣을 수 있다. 이 턴에, 자신은 레벨 또는 랭크가 3 이상인 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。
     ①：这张卡在手卡存在的场合，以自己场上1张「电脑堺」卡为对象才能发动。和那张卡种类（怪兽·魔法·陷阱）不同的1张「电脑堺」卡从卡组送去墓地，这张卡特殊召唤。那之后，可以把和作为对象的卡以及送去墓地的卡种类不同的1张「电脑堺媛-瑞瑞」以外的「电脑堺」卡从卡组加入手卡。这个回合，自己若非等级或者阶级是3以上的怪兽则不能特殊召唤。
-type: Monster
-typeline: Psychic / Tuner / Effect
+card_type: Monster
+monster_type_line: Psychic / Tuner / Effect
 attribute: WIND
 level: 3
 atk: 1600

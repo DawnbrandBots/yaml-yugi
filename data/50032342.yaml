@@ -7,10 +7,11 @@ name:
   fr: Stratège de la Barrière de Glace
   it: Stratega della Barriera di Ghiaccio
   pt: Estrategista da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Hyōkekkai no Gunshi
   ko: 빙결계의 군사
   ko_rr: Binggyeolgye-ui Gunsa
+  zh-TW:
   zh-CN: 冰结界的军师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、手札から「氷結界」モンスター１体を墓地へ送って発動できる。自分はデッキから１枚ドローする。
   ko: |-
     ①: 1턴에 1번, 패에서 "빙결계" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     1回合1次，从手卡把1只名字带有「冰结界」的怪兽送去墓地才能发动。从卡组抽1张卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 4
 atk: 1600

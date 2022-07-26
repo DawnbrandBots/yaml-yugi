@@ -7,10 +7,11 @@ name:
   fr: Cocyte l'Invokhé
   it: Cocito Invokato
   pt: Cócito, o Invokado
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>コキュートス
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>コキュートス
   ja_romaji: Shōkanjū Kokyūtosu
   ko: 소환수 코키토스
   ko_rr:
+  zh-TW:
   zh-CN: 召唤兽 科库托斯
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "소환사 알레이스터" + 물 속성 몬스터
     ①: 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 공격력의 수치를 적용하고 데미지 계산을 실행한다.
+  zh-TW:
   zh-CN: |-
     「召唤师 阿莱斯特」＋水属性怪兽
     ①：这张卡不会成为对方的效果的对象，不会被对方的效果破坏。②：这张卡可以用表侧守备表示的状态作出攻击。那个场合，攻击力数值适用进行伤害计算。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: WATER
 level: 6
 atk: 1800

@@ -7,11 +7,12 @@ name:
   fr: Zefraniu, Secret du Yang Zing
   it: Zefraniu, Segreto dello Yang Zing
   pt: Zefraniu, Segredo de Yang Zing
-  ja: <ruby><rb>秘</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>－セフィラシウゴ
+  ja: <ruby><rb>秘</rb><rt>ひ</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>－セフィラシウゴ
   ja_romaji: Hiryūsei - Sefira Shiugo
   ko: 비룡성-세피라시우고
   ko_rr:
-  zh-CN: 秘龙星-神数囚牛
+  zh-TW:
+  zh-CN: 秘龙星－源质囚牛
 text:
   en: |-
     When this card is Pendulum Summoned, or when this card is destroyed by battle or card effect while in your Monster Zone: You can add 1 "Yang Zing" or "Zefra" Spell/Trap from your Deck to your hand. You can only use this effect of "Zefraniu, Secret of the Yang Zing" once per turn.
@@ -29,10 +30,11 @@ text:
     このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがＰ召喚に成功した時、または自分のモンスターゾーンのこのカードが戦闘・効果で破壊された時に発動できる。デッキから「竜星」魔法・罠カードまたは「セフィラ」魔法・罠カード１枚を手札に加える。
   ko: |-
     "비룡성-세피라시우고"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 펜듈럼 소환에 성공했을 때, 또는 자신 몬스터 존의 카드가 전투 / 효과로 파괴되었을 때에 발동할 수 있다. 덱에서 "룡성" 마법 / 함정 카드 또는 "세피라" 마법 / 함정 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    「秘龙星-神数囚牛」的怪兽效果1回合只能使用1次。①：这张卡灵摆召唤成功时或者自己的怪兽区域的这张卡被战斗·效果破坏时才能发动。从卡组把1张「龙星」魔法·陷阱卡或者「神数」魔法·陷阱卡加入手卡。
-type: Monster
-typeline: Wyrm / Pendulum / Effect
+    此卡名的怪兽效果1回合仅可使用1次。①：此卡灵摆召唤成功时，或自己的怪兽区域的此卡因战斗・效果被破坏时可以发动。从牌组将1张"龙星"魔法・陷阱卡或"源质"魔法・陷阱卡加入手牌。
+card_type: Monster
+monster_type_line: Wyrm / Pendulum / Effect
 attribute: EARTH
 level: 6
 atk: 0
@@ -55,8 +57,9 @@ pendulum_effect:
     ①：自分は「竜星」モンスター及び「セフィラ」モンスターしかＰ召喚できない。この効果は無効化されない。
   ko: |-
     ① : 자신은 "룡성" 몬스터 및 "세피라" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
+  zh-TW:
   zh-CN: |-
-    ①：自己不是「龙星」怪兽以及「神数」怪兽不能灵摆召唤。这个效果不会被无效化。
+    ①：自己仅可灵摆召唤"龙星"怪兽以及"源质"怪兽。此效果不会被无效化。
 sets:
   en:
   - set_number: CROS-EN025

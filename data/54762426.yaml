@@ -7,10 +7,11 @@ name:
   fr: Carte au Trésor
   it: Mappa del Tesoro
   pt:
-  ja: <ruby><rb>埋</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>蔵</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby><ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>の<ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>図</rb><rp>（</rp><rt>ず</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>埋</rb><rt>まい</rt></ruby><ruby><rb>蔵</rb><rt>ぞう</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby>の<ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>図</rb><rt>ず</rt></ruby>
   ja_romaji: Maizōkin no Chizu
   ko: 보물지도
   ko_rr:
+  zh-TW:
   zh-CN: 埋藏金的地图
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     セットされたこのカードを手札に戻す効果が発動した時に発動する事ができる。自分のデッキからカードを２枚ドローし、その後手札を１枚捨てる。
   ko: |-
     필드 위의 이 카드를 패로 되돌리는 효과에 대하여 발동할 수 있다. 자신의 덱에서 카드를 2장 드로우하고, 그 후 패에서 카드를 1장 버린다.
+  zh-TW:
   zh-CN: |-
     让盖放的这张卡回到手卡的效果发动时才能发动。从自己卡组抽2张卡，那之后丢弃1张手卡。
-type: Trap
+card_type: Trap
 property: Normal

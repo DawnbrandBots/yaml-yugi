@@ -7,11 +7,12 @@ name:
   fr: 'Numéro 103: Ragnazéro'
   it: 'Numero 103: Ragnazero'
   pt: 'Número 103: Ragnazero'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１０３ <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>葬</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>零</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>嬢</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>ラグナ・ゼロ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１０３ <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>葬</rb><rt>そう</rt></ruby><ruby><rb>零</rb><rt>れい</rt></ruby><ruby><rb>嬢</rb><rt>じょう</rt></ruby>ラグナ・ゼロ
   ja_romaji: Nanbāzu Hyakusan Shinsōreijō Raguna Zero
   ko: No.103 신장령양 라그나 제로
   ko_rr:
-  zh-CN: No.103 神葬零娘 暮零
+  zh-TW:
+  zh-CN: 编号103 神葬零娘 诸神零
 text:
   en: |-
     2 Level 4 monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위에 앞면 공격 표시로 존재하는, 원래 공격력과 다른 공격력을 가진 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터를 파괴하고, 덱에서 카드를 1장 드로우한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    4星怪兽×2
-    1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧攻击表示存在的1只持有和原本攻击力不同攻击力的怪兽才能发动。选择的怪兽破坏，从卡组抽1张卡。这个效果在对方回合也能发动。
-type: Monster
-typeline: Fairy / Xyz / Effect
+    等级4怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材，以对手场上1只拥有与原本攻击力不同攻击力的攻击表示的怪兽为对象可以发动。破坏该怪兽，自己从牌组抽1张。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Fairy / Xyz / Effect
 attribute: WATER
 rank: 4
 atk: 2400

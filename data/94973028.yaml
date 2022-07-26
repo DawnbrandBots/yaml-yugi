@@ -7,10 +7,11 @@ name:
   fr: Bête Fantôme Méca Coltaile
   it: Bestia Fantasma Meccanica Coltrotoala
   pt: Besta Fantasma Mecha Colt-wing
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>コルトウィング
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby>コルトウィング
   ja_romaji: Genjūki Korutowingu
   ko: 환상수기 콜트윙
   ko_rr: Hwansangsugi Kolteuwing
+  zh-TW:
   zh-CN: 幻兽机 倾转翼马
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドに他の「幻獣機」モンスターが存在し、このカードが特殊召喚に成功した場合に発動する。自分フィールドに「幻獣機トークン」（機械族・風・星３・攻／守０）２体を特殊召喚する。②：このカードのレベルは自分フィールドの「幻獣機トークン」のレベルの合計分だけ上がる。③：自分フィールドにトークンが存在する限り、このカードは戦闘・効果では破壊されない。④：１ターンに１度、自分フィールドのトークン２体をリリースし、相手フィールドのカード１枚を対象として発動できる。その相手のカードを破壊し除外する。
   ko: |-
     ①: 자신 필드에 다른 "환상수기" 몬스터가 존재하고, 이 카드가 특수 소환에 성공했을 경우에 발동한다. 자신 필드에 "환상수기 토큰"(기계족 / 바람 / 레벨 3 / 공 0 / 수 0) 2장을 특수 소환한다. ②: 이 카드의 레벨은 자신 필드의 "환상수기 토큰"의 레벨의 합계만큼만 올라간다. ③: 자신 필드에 토큰이 존재하는 한, 이 카드는 전투 / 효과로는 파괴되지 않는다. ④: 1턴에 1번, 자신 필드의 토큰 2장을 릴리스하고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 상대의 카드를 파괴하고 제외한다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上有其他「幻兽机」怪兽存在，这张卡特殊召唤成功的场合发动。在自己场上把2只「幻兽机衍生物」（机械族·风·3星·攻/守0）特殊召唤。②：这张卡的等级上升自己场上的「幻兽机衍生物」的等级的合计数值。③：只要自己场上有衍生物存在，这张卡不会被战斗·效果破坏。④：1回合1次，把自己场上2只衍生物解放，以对方场上1张卡为对象才能发动。那张对方的卡破坏并除外。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: WIND
 level: 4
 atk: 1600

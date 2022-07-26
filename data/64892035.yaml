@@ -7,10 +7,11 @@ name:
   fr: Orc en Retard
   it: Orco Ritardatario
   pt: Orc Tardio
-  ja: <ruby><rb>遅</rb><rp>（</rp><rt>おそ</rt><rp>）</rp></ruby>すぎたオーク
+  ja: <ruby><rb>遅</rb><rt>おそ</rt></ruby>すぎたオーク
   ja_romaji: Ososugita Ōku
   ko: 늑장 오크
   ko_rr:
+  zh-TW:
   zh-CN: 过迟的兽人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは召喚したターンには攻撃できない。
   ko: |-
     이 카드는 일반 소환한 턴에는 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡在召唤的回合不能攻击。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 4
 atk: 2200

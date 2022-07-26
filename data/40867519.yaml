@@ -7,10 +7,11 @@ name:
   fr: Insecte Silencieux
   it: Insetto Silente
   pt:
-  ja: <ruby><rb>静寂虫</rb><rp>（</rp><rt>サイレント・インセクト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>静寂虫</rb><rt>サイレント・インセクト</rt></ruby>
   ja_romaji: Seijaku Mushi
   ko: 사일런트 인섹트
   ko_rr:
+  zh-TW:
   zh-CN: 静寂虫
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは召喚・反転召喚に成功した場合守備表示になる。このカードがフィールド上に表側表示で存在する限り、永続魔法・永続罠カードの効果を無効にする。
   ko: |-
     이 카드는 소환·반전 소환에 성공했던 경우 수비 표시가 된다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 영속 마법·영속함정 카드의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转召唤成功的场合变成守备表示。只要这张卡在场上表侧表示存在，永续魔法·永续陷阱卡的效果无效。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 2
 atk: 200

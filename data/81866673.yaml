@@ -7,11 +7,12 @@ name:
   fr: Fonceur - HÉROS de la Destinée
   it: Dasher - EROE del Destino
   pt: HERÓI do Destino - Arremetedor
-  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rp>（</rp><rt>デステニーヒーロー</rt><rp>）</rp></ruby> ダッシュガイ
+  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rt>デステニーヒーロー</rt></ruby> ダッシュガイ
   ja_romaji: Desutenī Hīrō Dasshugai
   ko: 데스티니 히어로 대시 가이
   ko_rr:
-  zh-CN: 命运英雄 冲刺人
+  zh-TW:
+  zh-CN: 命运－英雄 冲刺魔侠
 text:
   en: |-
     Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the end of this turn. If this card attacks, change it to Defense Position at the end of the Battle Phase. Once, while this card is in your GY, when you draw a monster during your Draw Phase: You can reveal it; Special Summon it. This card must be in the GY to activate and to resolve this effect.
@@ -29,10 +30,11 @@ text:
     １ターンに１度、自分フィールド上のモンスター１体をリリースして発動できる。このカードの攻撃力はエンドフェイズ時まで１０００ポイントアップする。このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。また、このカードが墓地に存在する限り１度だけ、自分のドローフェイズ時にカードをドローした時、そのカードがモンスターだった場合、その１体をお互いに確認して自分フィールド上に特殊召喚できる。
   ko: |-
     1턴에 1번, 자신 필드 위의 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드의 공격력은 엔드 페이즈시까지 1000 포인트 올린다. 이 카드는 공격했을 경우, 배틀 페이즈 종료시에 수비 표시가 된다. 또한, 이 카드가 묘지에 존재하는 한, 1번만 자신의 드로우 페이즈시에 카드를 드로우했을 때, 그 카드가 몬스터였을 경우, 그 1장을 서로 확인하고 자신 필드 위에 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
-    1回合1次，把自己场上1只怪兽解放才能发动。这张卡的攻击力直到结束阶段时上升1000。这张卡攻击的场合，战斗阶段结束时变成守备表示。此外，这张卡只在这张卡在墓地存在才有1次，自己的抽卡阶段时抽卡时，那张卡是怪兽的场合，可以把那1只给双方确认在自己场上特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+    ①：1回合1次，解放自己场上的1只怪兽可以发动。此卡的攻击力直至回合结束时为止上升1000。②：此卡攻击过的情况下，战斗阶段结束时变为守备表示。③：只要此卡存在于墓地，仅限1次，自己在自己的抽牌阶段抽卡时，抽到的卡为怪兽的情况下，将该1只怪兽给双方确认可以发动。此卡存在于墓地的情况下，将该确认的怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 6
 atk: 2100

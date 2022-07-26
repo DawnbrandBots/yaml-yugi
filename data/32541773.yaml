@@ -7,10 +7,11 @@ name:
   fr: Le Secret du Portrait
   it: Il Ritratto Segreto
   pt: O Segredo do Retrato
-  ja: <ruby><rb>絵</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>画</rb><rp>（</rp><rt>が</rt><rp>）</rp></ruby>に<ruby><rb>潜</rb><rp>（</rp><rt>ひそ</rt><rp>）</rp></ruby>む<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>絵</rb><rt>かい</rt></ruby><ruby><rb>画</rb><rt>が</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>む<ruby><rb>者</rb><rt>もの</rt></ruby>
   ja_romaji: Kaiga ni Hisomu Mono
   ko: 그림에 숨은 자
   ko_rr:
+  zh-TW:
   zh-CN: 绘画中的潜藏者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     描いた者の呪いの込められた絵。この絵を所持した者は全て不幸に陥ると言われている。
   ko: |-
     화가의 저주에 걸린 그림. 이 그림을 소유한 자는 모두 불행을 짊어지게 된다고 한다.
+  zh-TW:
   zh-CN: |-
     寄宿着作者的诅咒的画，据说持有它的人都将陷入不幸之中。
-type: Monster
-typeline: Fiend
+card_type: Monster
+monster_type_line: Fiend
 attribute: EARTH
 level: 4
 atk: 1200

@@ -7,10 +7,11 @@ name:
   fr: Iyvanne le Chevalier Noble
   it: Nobile Cavaliere Yvain
   pt: Nobre Cavaleiro Iyvanne
-  ja: <ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>イヴァン
+  ja: <ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>イヴァン
   ja_romaji: Seikishi Ivan
   ko: 성기사 이반
   ko_rr: Seong-gisa Iban
+  zh-TW:
   zh-CN: 圣骑士 伊文
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが「聖剣」装備魔法カードを装備した場合に発動できる。自分フィールドに「聖騎士トークン」（戦士族・光・星４・攻／守１０００）１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は「聖騎士」モンスターしか特殊召喚できない。②：このカードが「聖剣」装備魔法カードを装備している限り、このカード以外の自分フィールドの「聖騎士」モンスターの攻撃力は５００アップする。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 "성검" 장착 마법 카드를 장착했을 경우에 발동할 수 있다. 자신 필드에 "성기사 토큰"(전사족 / 빛 / 레벨 4 / 공 1000 / 수 1000) 1장을 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 "성기사" 몬스터밖에 특수 소환할 수 없다. ②: 이 카드가 "성검" 장착 마법 카드를 장착하고 있는 한, 이 카드 이외의 자신 필드의 "성기사" 몬스터의 공격력은 500 올린다.
+  zh-TW:
   zh-CN: |-
     「圣剑」装备魔法卡给这张卡装备的场合：可以把1只「圣骑士衍生物」（战士族·光·4星·攻1000/守1000）特殊召唤，直到这个效果的发动后的回合结束时自己不是「圣骑士」怪兽不能特殊召唤。「圣骑士 伊文」的这个效果1回合只能使用1次。只要这张卡有「圣剑」装备魔法卡装备，其他的自己场上的「圣骑士」怪兽的攻击力上升500。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

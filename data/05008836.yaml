@@ -7,10 +7,11 @@ name:
   fr: Éxodia, le Défenseur Légendaire
   it: Exodia, il Difensore Leggendario
   pt: Exodia, o Defensor Lendário
-  ja: <ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>エクゾディア
+  ja: <ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>エクゾディア
   ja_romaji: Shugoshin Ekuzodia
   ko: 수호신 엑조디아
   ko_rr: Suhosin Ekjodia
+  zh-TW:
   zh-CN: 守护神 艾克佐迪亚
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカードは特殊召喚できない。このカードの①の方法で召喚したこのカードが、元々の持ち主が相手となる悪魔族・闇属性モンスターを戦闘で破壊した時、自分はデュエルに勝利する。①：このカードはモンスター５体をリリースして召喚する事もできる。②：このカードの攻撃力・守備力は、このカードを召喚するためにリリースしたモンスターの元々の攻撃力・守備力をそれぞれ合計した数値になる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 이 카드의 ①의 방법으로 일반 소환한 이 카드가, 원래의 주인이 상대가 되는 악마족 / 어둠 속성 몬스터를 전투로 파괴했을 때, 자신은 듀얼에서 승리한다. ①: 이 카드는 몬스터 5장을 릴리스하고 일반 소환할 수도 있다. ②: 이 카드의 공격력 / 수비력은, 이 카드를 일반 소환하기 위해 릴리스한 몬스터의 원래의 공격력 / 수비력을 각각 합계한 수치가 된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。这张卡的①的方法召唤的这张卡战斗破坏原本持有者是对方的恶魔族·暗属性怪兽时，自己决斗胜利。
     ①：这张卡也能把5只怪兽解放作召唤。
     ②：这张卡的攻击力·守备力变成因为这张卡召唤而解放的怪兽的原本的攻击力·守备力各自合计数值。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 10
 atk: '?'

@@ -7,10 +7,11 @@ name:
   fr: Coccinelle des Damnés à 4 Étoiles
   it: Coccinella del Destino
   pt: Ladybug de 4 Estrelas da Condenação
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の４つ<ruby><rb>星</rb><rp>（</rp><rt>ほし</rt><rp>）</rp></ruby>てんとう<ruby><rb>虫</rb><rp>（</rp><rt>ムシ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby>の４つ<ruby><rb>星</rb><rt>ほし</rt></ruby>てんとう<ruby><rb>虫</rb><rt>ムシ</rt></ruby>
   ja_romaji: Shi no Yottsu Hoshi Tentō Mushi
   ko: 죽음의 4성 무당벌레
   ko_rr:
+  zh-TW: 死亡四星瓢蟲
   zh-CN: 死之四星瓢虫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：相手フィールド上に表側表示で存在するレベル４モンスターを全て破壊する。
   ko: |-
     리버스: 상대 필드 위에 앞면 표시로 존재하는 레벨 4 몬스터를 전부 파괴한다.
+  zh-TW: 反转：破坏全部对手场上以表侧表示存在的等级4怪兽。
   zh-CN: |-
     对方场上表侧表示存在的4星怪兽全部破坏。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: WIND
 level: 3
 atk: 800

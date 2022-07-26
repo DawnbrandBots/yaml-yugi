@@ -7,11 +7,12 @@ name:
   fr: Alembertien Primathmech
   it: Primatemech Dalembertiano
   pt: Primechamático Alembertiano
-  ja: <ruby><rb>塊</rb><rp>（</rp><rt>カイ</rt><rp>）</rp></ruby><ruby><rb>斬</rb><rp>（</rp><rt>ザン</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>キ</rt><rp>）</rp></ruby>ダランベルシアン
+  ja: <ruby><rb>塊</rb><rt>カイ</rt></ruby><ruby><rb>斬</rb><rt>ザン</rt></ruby><ruby><rb>機</rb><rt>キ</rt></ruby>ダランベルシアン
   ja_romaji: Kaizanki Daranberushian
   ko: 괴참기 달랑베르시안
   ko_rr: Goechamgi Dallambereusian
-  zh-CN: 块斩机 算子达朗贝尔
+  zh-TW:
+  zh-CN: 块斩机达朗贝尔算子
 text:
   en: |-
     2+ Level 4 monsters
@@ -61,16 +62,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우, 이 카드의 엑시즈 소재를 이하의 수만큼 제거하고, 그 효과를 발동할 수 있다. ●2개: 덱에서 "참기" 카드 1장을 패에 넣는다. ●3개: 덱에서 레벨 4 몬스터 1장을 패에 넣는다. ●4개: 덱에서 마법 / 함정 카드 1장을 패에 넣는다. ②: 자신 필드의 몬스터 1장을 릴리스하고 발동할 수 있다. 자신의 패 / 묘지에서 레벨 4 의 "참기" 몬스터 1장을 고르고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    4星怪兽×2只以上
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡超量召唤成功的场合，可以把这张卡的超量素材的以下数量取除，那个效果发动。
-    ●2个：从卡组把1张「斩机」卡加入手卡。
-    ●3个：从卡组把1只4星怪兽加入手卡。
-    ●4个：从卡组把1张魔法·陷阱卡加入手卡。
-    ②：把自己场上1只怪兽解放才能发动。从自己的手卡·墓地选1只4星「斩机」怪兽特殊召唤。
-type: Monster
-typeline: Cyberse / Xyz / Effect
+    等级4怪兽×2只以上
+    此卡名的①②效果1回合仅可各使用1次。①：此卡超量召唤成功的情况下，去除以下数量的此卡的超量素材可以发动该效果。●2个：从牌组将1张"斩机"卡加入手牌。●3个：从牌组将1只等级4怪兽加入手牌。●4个：从牌组将1张魔法・陷阱卡加入手牌。②：解放自己场上的1只怪兽可以发动。从自己的手牌・墓地挑选1只等级4"斩机"怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2000

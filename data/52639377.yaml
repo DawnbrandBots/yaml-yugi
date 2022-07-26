@@ -7,11 +7,12 @@ name:
   fr: Balmung Combattant des Enfers
   it: Balmung Guerriero del Mondo Sotterraneo
   pt: Guerreiro do Submundo Balmung
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>闘</rb><rt>とう</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     バルムンク
   ja_romaji: Makaitōshi Barumunku
   ko: 마계투사 발뭉
   ko_rr:
+  zh-TW:
   zh-CN: 魔界斗士 屠龙之剑
 text:
   en: |-
@@ -39,10 +40,11 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드가 카드의 효과에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 묘지에서 이 카드 이외 레벨 4 이하의 몬스터 1장을 선택하고 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上。这张卡被卡的效果破坏送去墓地时，可以从自己墓地选择这张卡以外的1只4星以下的怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Synchro / Effect
+card_type: Monster
+monster_type_line: Warrior / Synchro / Effect
 attribute: DARK
 level: 4
 atk: 2100

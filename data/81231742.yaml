@@ -7,10 +7,11 @@ name:
   fr: Mur de Magie Enchanteur
   it: Muro Magia della Stregoneria
   pt: Barreira Mágica da Feitiçaria
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>壁</rb><rp>（</rp><rt>へき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>邪</rb><rt>じゃ</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby><ruby><rb>壁</rb><rt>へき</rt></ruby>
   ja_romaji: Haja no Mahōheki
   ko: 파사의 마법벽
   ko_rr:
+  zh-TW:
   zh-CN: 破邪之魔法壁
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分フィールドのモンスターは、自分ターンの間は攻撃力が３００アップし、相手ターンの間は守備力が３００アップする。
   ko: |-
     ①: 자신 필드의 몬스터는, 자신 턴 동안은 공격력을 300 올리고, 상대 턴 동안은 수비력을 300 올린다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上的怪兽在自己回合内攻击力上升300，对方回合内守备力上升300。
-type: Spell
+card_type: Spell
 property: Field

@@ -1,21 +1,22 @@
 konami_id: 17450
 password: 80993256
 name:
-  en: Subspecies King Asura-Oh
+  en: Ashura King
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby><rb>亜種羅王</rb><rp>（</rp><rt>アシュラオウ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>亜種羅王</rb><rt>アシュラオウ</rt></ruby>
   ja_romaji: Ashuraou
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 亚种罗王
 text:
   en: |-
     3+ Level 3 monsters
-    While this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. At the start of the Damage Step, if this card battles: It gains 200 ATK. When another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that monster. You can only use this effect of "Subspecies King Asura-Oh" once per turn.
+    While this card has material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. At the start of the Damage Step, if this card battles: It gains 200 ATK. When another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that card. You can only use this effect of "Ashura King" once per turn.
   de:
   es:
   fr:
@@ -25,19 +26,50 @@ text:
     レベル３モンスター×３体以上
     このカード名の③の効果は１ターンに１度しか使用できない。①：Ｘ素材を持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。②：このカードが戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力は２００アップする。③：このカード以外のモンスターの効果が発動した時、このカードのＸ素材を１つ取り除いて発動できる。その発動を無効にし破壊する。
   ko:
+  zh-TW:
   zh-CN: |-
     等级3怪兽×3只以上
     这个卡名的③效果1回合只能使用1次。①：拥有多维素材的这张卡在1次战斗阶段里可以作最多为那个数量的次数的攻击。②：这张卡进行战斗的伤害步骤开始时必定发动。这张卡的攻击力上升200。③：这张卡以外的怪兽的效果发动时，可以将这张卡的1个多维素材取除发动。使其发动无效并破坏。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: EARTH
 rank: 3
 atk: 2100
 def: 0
 materials: 3 or more Level 3 monsters
 sets:
+  en:
+  - set_number: POTE-EN048
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: POTE-DE048
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: POTE-FR048
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: POTE-IT048
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: POTE-PT048
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
   ja:
   - set_number: POTE-JP048
+    set_name: Power of the Elements
+    rarities:
+    - Rare
+  ko:
+  - set_number: POTE-KR048
     set_name: Power of the Elements
     rarities:
     - Rare

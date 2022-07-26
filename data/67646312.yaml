@@ -11,6 +11,7 @@ name:
   ja_romaji: Sāchiraitomen
   ko: 서치라이트맨
   ko_rr:
+  zh-TW:
   zh-CN: 探照灯人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：このターン相手プレイヤーはフィールド上にカードをセットする事ができない。
   ko: |-
     리버스 : 이 턴에 상대 플레이어는 필드 위에 카드를 세트할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个回合对方玩家不能把卡在场上盖放。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 3
 atk: 1000

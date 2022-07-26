@@ -7,10 +7,11 @@ name:
   fr: Appel Chaleureux
   it: Appello Accorato
   pt: Apelo Sincero
-  ja: <ruby><rb>痛</rb><rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby><rb>恨</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby>の<ruby><rb>訴</rb><rp>（</rp><rt>うった</rt><rp>）</rp></ruby>え
+  ja: <ruby><rb>痛</rb><rt>つう</rt></ruby><ruby><rb>恨</rb><rt>こん</rt></ruby>の<ruby><rb>訴</rb><rt>うった</rt></ruby>え
   ja_romaji: Tsūkon no Uttae
   ko: 통한의 호소
   ko_rr:
+  zh-TW:
   zh-CN: 痛恨的诉苦
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手モンスターの直接攻撃によって自分が戦闘ダメージを受けた時に発動する事ができる。相手フィールド上に表側表示で存在する守備力が一番高いモンスター１体のコントロールを次の自分のエンドフェイズ時まで得る。この効果でコントロールを得たモンスターの効果は無効化され、攻撃宣言をする事もできない。
   ko: |-
     상대 몬스터의 직접 공격에 의해서 자신이 전투 데미지를 받았을 때 발동할 수 있다. 상대 필드 위에 앞면 표시로 존재하는 수비력이 가장 높은 몬스터 1장의 컨트롤을 다음 자신의 엔드 페이즈시까지 얻는다. 이 효과로 컨트롤을 얻은 몬스터의 효과는 무효화되어, 공격 선언을 할 수도 없다.
+  zh-TW:
   zh-CN: |-
     对方怪兽的直接攻击让自己受到战斗伤害时才能发动。对方场上表侧表示存在的1只守备力最高的怪兽的控制权直到下次的自己的结束阶段时得到。这个效果得到控制权的怪兽的效果无效化，也不能攻击宣言。
-type: Trap
+card_type: Trap
 property: Normal

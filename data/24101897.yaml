@@ -7,10 +7,11 @@ name:
   fr: Nekomusume Fantôruse
   it: Nekomusune Fantasmatrucco
   pt: Nekomusume Fantardil
-  ja: ゴーストリックの<ruby><rb>猫</rb><rp>（</rp><rt>ねこ</rt><rp>）</rp></ruby><ruby><rb>娘</rb><rp>（</rp><rt>むすめ</rt><rp>）</rp></ruby>
+  ja: ゴーストリックの<ruby><rb>猫</rb><rt>ねこ</rt></ruby><ruby><rb>娘</rb><rt>むすめ</rt></ruby>
   ja_romaji: Gōsutorikku no Nekomusume
   ko: 고스트릭의 고양이 아가씨
   ko_rr:
+  zh-TW:
   zh-CN: 鬼计猫娘
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に「ゴーストリック」と名のついたモンスターが存在する場合のみ、このカードは表側表示で召喚できる。このカードは１ターンに１度だけ裏側守備表示にする事ができる。また、フィールド上にこのカード以外の「ゴーストリック」と名のついたモンスターが存在する限り、レベル４以上のモンスターが召喚・特殊召喚に成功した時、そのモンスターを裏側守備表示にする。
   ko: |-
     자신 필드 위에 "고스트릭"이라는 이름이 붙는 몬스터가 존재하는 경우에만, 이 카드는 앞면 표시로 일반 소환할 수 있다. 이 카드는 1턴에 1번만 뒷면 수비 표시로 할 수 있다. 또한, 필드 위에 이 카드 이외의 "고스트릭"이라는 이름이 붙는 몬스터가 존재하는 한, 레벨 4 이상의 몬스터가 일반 소환 / 특수 소환에 성공했을 때, 그 몬스터를 뒷면 수비 표시로 한다.
+  zh-TW:
   zh-CN: |-
     自己场上有名字带有「鬼计」的怪兽存在的场合才能让这张卡表侧表示召唤。这张卡1回合只有1次可以变成里侧守备表示。此外，只要场上有这张卡以外的名字带有「鬼计」的怪兽存在，4星以上的怪兽召唤·特殊召唤成功时，那些怪兽变成里侧守备表示。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 2
 atk: 400

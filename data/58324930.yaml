@@ -7,11 +7,12 @@ name:
   fr: Ranshin le Prêtre Anarchiste
   it: Monaco Anarchico Ranshin
   pt: Monge Anarquista Ranshin
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>戒</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>僧</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>戒</rb><rt>かい</rt></ruby><ruby><rb>僧</rb><rt>そう</rt></ruby>
     ランシン
   ja_romaji: Hakaisō Ranshin
   ko: 파계승 란신
   ko_rr:
+  zh-TW:
   zh-CN: 破戒僧 鸾亲
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードが相手によってフィールド上から墓地へ送られた時、相手の墓地に存在するモンスター１体を選択してゲームから除外する。
   ko: |-
     이 카드가 상대에 의해서 필드 위에서 묘지로 보내졌을 때, 상대의 묘지에 존재하는 몬스터 1장을 선택하고 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     这张卡被对方从场上送去墓地时，选择对方墓地存在的1只怪兽从游戏中除外。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: EARTH
 level: 4
 atk: 1800

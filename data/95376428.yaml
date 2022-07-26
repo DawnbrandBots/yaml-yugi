@@ -7,10 +7,11 @@ name:
   fr: Extra Filet
   it: Rete Extra
   pt: Rede Adicional
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>限</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>－エクストラネット
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>制</rb><rt>せい</rt></ruby><ruby><rb>限</rb><rt>げん</rt></ruby>－エクストラネット
   ja_romaji: Shōkan Seigen - Ekusutora Netto
   ko: 소환제한-엑스트라넷
   ko_rr:
+  zh-TW:
   zh-CN: 召唤限制-额外之网
 text:
   en: |-
@@ -36,8 +37,9 @@ text:
     ●デッキから１枚ドローする。
   ko: |-
     ① : 자신 또는 상대가 엑스트라 덱에서 몬스터를 특수 소환했을 경우에 이 효과를 발동한다. 그 몬스터를 특수 소환한 플레이어의 상대는 이하의 효과를 적용할 수 있다. ● 덱에서 1장 드로우 한다.
+  zh-TW:
   zh-CN: |-
     ①：自己或者对方从额外卡组把怪兽特殊召唤的场合把这个效果发动。从把那些怪兽特殊召唤的玩家来看的对方可以让以下效果适用。
     ●从卡组抽1张。
-type: Spell
+card_type: Spell
 property: Field

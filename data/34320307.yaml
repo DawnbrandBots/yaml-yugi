@@ -7,10 +7,11 @@ name:
   fr: Vase Vivant
   it:
   pt: Vaso Vivo
-  ja: <ruby><rb>命</rb><rp>（</rp><rt>いのち</rt><rp>）</rp></ruby>ある<ruby><rb>花</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>瓶</rb><rp>（</rp><rt>びん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>命</rb><rt>いのち</rt></ruby>ある<ruby><rb>花</rb><rt>か</rt></ruby><ruby><rb>瓶</rb><rt>びん</rt></ruby>
   ja_romaji: Inochi-aru Kabin
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 有生命的花瓶
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     生けてある花から、花粉を飛ばし噛みついてくる生きている花瓶。
   ko:
+  zh-TW:
   zh-CN: |-
     利用花散发花粉并咬向对方的活花瓶。
-type: Monster
-typeline: Plant
+card_type: Monster
+monster_type_line: Plant
 attribute: EARTH
 level: 3
 atk: 900

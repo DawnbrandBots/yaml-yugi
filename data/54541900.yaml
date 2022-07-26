@@ -7,10 +7,11 @@ name:
   fr: Guerrier Karbonala
   it: Guerriero Karbonala
   pt: Guerreiro Karbonala
-  ja: カルボナーラ<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: カルボナーラ<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Karubonāra Senshi
   ko: 카르보나라 전사
   ko_rr:
+  zh-TW:
   zh-CN: 炭烧战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「マグネッツ１号」＋「マグネッツ２号」
   ko: |-
     "마그넷 1호" + "마그넷 2호"
+  zh-TW:
   zh-CN: |-
     「磁力战士1号」＋「磁力战士2号」。
-type: Monster
-typeline: Warrior / Fusion
+card_type: Monster
+monster_type_line: Warrior / Fusion
 attribute: EARTH
 level: 4
 atk: 1500

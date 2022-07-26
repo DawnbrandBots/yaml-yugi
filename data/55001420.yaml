@@ -7,10 +7,11 @@ name:
   fr: L'Archer Obscur de la Forêt
   it: Arciere Arcano della Foresta
   pt: Arqueiro Arcano do Bosque
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>緑</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>弓</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>緑</rb><rt>りょく</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>弓</rb><rt>きゅう</rt></ruby><ruby><rb>使</rb><rt>つか</rt></ruby>い
   ja_romaji: Shinryoku no Makyūtsukai
   ko: 심록의 마궁수
   ko_rr:
+  zh-TW:
   zh-CN: 深绿之魔弓使
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に植物族モンスターが存在する場合、このカードを攻撃する事はできない。自分フィールド上の植物族モンスターを生け贄に捧げる度に、フィールド上に存在する魔法・罠カード１枚を破壊する。
   ko: |-
     자신 필드 위에 식물족 몬스터가 존재할 경우, 이 카드를 공격할 수 없다. 자신 필드 위의 식물족 몬스터 1장을 제몰로 바칠 때마다, 필드 위에 존재하는 마법 / 함정 카드 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己场上有植物族怪兽存在的场合，不能向这张卡攻击。每把自己场上1只植物族怪兽作为祭品，场上存在的1张魔法·陷阱卡破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 900

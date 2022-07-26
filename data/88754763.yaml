@@ -7,10 +7,11 @@ name:
   fr: Seigneur Ultimentraîneur CXyz
   it: CXyz Signore Allenatore Finalistruttore
   pt: CXyz Senhor Técnico Treinador Definitivo
-  ja: <ruby><rb>ＣＸ</rb><rp>（</rp><rt>カオスエクシーズ</rt><rp>）</rp></ruby> <ruby><rb>熱</rb><rp>（</rp><rt>ねっ</rt><rp>）</rp></ruby><ruby><rb>血</rb><rp>（</rp><rt>けつ</rt><rp>）</rp></ruby><ruby><rb>指</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>アルティメットレーナー
+  ja: <ruby><rb>ＣＸ</rb><rt>カオスエクシーズ</rt></ruby> <ruby><rb>熱</rb><rt>ねっ</rt></ruby><ruby><rb>血</rb><rt>けつ</rt></ruby><ruby><rb>指</rb><rt>し</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>アルティメットレーナー
   ja_romaji: Kaosu Ekushīzu Nekketsu Shidōshin Arutimettorēnā
-  ko: <ruby><rb>CX</rb><rp>（</rp><rt>카오스 엑시즈</rt><rp>）</rp></ruby> 열혈지도신 얼티미트 트레이너
+  ko: <ruby><rb>CX</rb><rt>카오스 엑시즈</rt></ruby> 열혈지도신 얼티미트 트레이너
   ko_rr:
+  zh-TW:
   zh-CN: 混沌XYZ 热血指导神 究极教练
 text:
   en: |-
@@ -46,10 +47,11 @@ text:
     필드 위의 이 카드는 카드 효과의 대상이 되지 않는다. 또한, 이 카드가 엑시즈 몬스터를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다.
 
     ● 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 덱에서 카드를 1장 드로우하고, 서로 확인한다. 확인한 카드가 몬스터였을 경우, 다시 상대 라이프에 800 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     9星怪兽×4。场上的这张卡不会成为卡的效果的对象。此外，这张卡有XYZ怪兽在作为XYZ素材的场合，得到以下效果。●1回合1次，把这张卡1个XYZ素材取除才能发动。从卡组抽1张卡，给双方确认。确认的卡是怪兽的场合，再给与对方基本分800分伤害。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
 rank: 9
 atk: 3800

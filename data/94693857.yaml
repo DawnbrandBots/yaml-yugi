@@ -7,10 +7,11 @@ name:
   fr: Robobureau 001
   it: Deskbot 001
   pt: Robô-secretário 001
-  ja: ブンボーグ<ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>１</rb><rp>（</rp><rt>ワン</rt><rp>）</rp></ruby>
+  ja: ブンボーグ<ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>１</rb><rt>ワン</rt></ruby>
   ja_romaji: Bunbōgu Zero Zero Wan
-  ko: 분보그<ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>1</rb><rp>（</rp><rt>원</rt><rp>）</rp></ruby>
+  ko: 분보그<ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>1</rb><rt>원</rt></ruby>
   ko_rr: Bunbogeu Jero Jero Won
+  zh-TW:
   zh-CN: 文具电子人001
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃力・守備力は、自分フィールドの機械族モンスターの数×５００アップする。②：このカードが墓地に存在し、フィールドに機械族モンスターが２体以上同時に特殊召喚された場合に発動できる。このカードを特殊召喚する。
   ko: |-
     ①: 이 카드의 공격력 / 수비력은, 자신 필드의 기계족 몬스터의 수 × 500 올린다. ②: 이 카드가 묘지에 존재하고, 필드에 기계족 몬스터가 2장 이상 동시에 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击力·守备力上升自己场上的机械族怪兽数量×500。②：这张卡在墓地存在，场上有机械族怪兽2只以上同时特殊召唤的场合才能发动。这张卡特殊召唤。
-type: Monster
-typeline: Machine / Tuner / Effect
+card_type: Monster
+monster_type_line: Machine / Tuner / Effect
 attribute: EARTH
 level: 1
 atk: 500

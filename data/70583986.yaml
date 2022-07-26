@@ -7,11 +7,12 @@ name:
   fr: Dewloren, Tigre-Roi de la Barrière de Glace
   it: Dewloren, Re Tigre della Barriera di Ghiaccio
   pt: Dewloren, o Rei Tigre da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>虎</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>虎</rb><rt>こ</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
     ドゥローレン
   ja_romaji: Hyōkekkai no Ko'ō Durōren
   ko: 빙결계의 범왕 듀로렌
   ko_rr: Binggyeolgye-ui Beomwang Dyuroren
+  zh-TW:
   zh-CN: 冰结界的虎王 雪虎
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 물 속성 몬스터 1장 이상
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드 이외의 자신 필드의 앞면 표시의 카드를 임의의 수만큼 대상으로 하고 발동할 수 있다. 그 자신의 앞면 표시의 카드를 주인의 패로 되돌린다. 이 카드의 공격력은 턴 종료시까지, 이 효과로 패로 되돌아간 카드의 수 × 500 올린다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的水属性怪兽1只以上
     1回合1次，可以选择自己场上表侧表示存在的卡任意数量回到持有者手卡。这张卡的攻击力直到结束阶段时上升这个效果回到手卡的卡数量×500的数值。
-type: Monster
-typeline: Beast / Synchro / Effect
+card_type: Monster
+monster_type_line: Beast / Synchro / Effect
 attribute: WATER
 level: 6
 atk: 2000

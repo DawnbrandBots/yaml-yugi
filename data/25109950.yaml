@@ -7,10 +7,11 @@ name:
   fr: Le Petit Spadassin d'Aile
   it: Piccolo Spadaccino di Aile
   pt: O Pequeno Espadachim de Aile
-  ja: アイルの<ruby><rb>小</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: アイルの<ruby><rb>小</rb><rt>しょう</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Airu no Shōkenshi
   ko: 아일의 꼬마검사
   ko_rr:
+  zh-TW:
   zh-CN: 艾尔的小剑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分のフィールド上に存在するこのカードを除くモンスター１体を生け贄に捧げる度に、このカードの攻撃力はターン終了時まで７００ポイントアップする。
   ko: |-
     이 카드 이외의 자신의 필드 위에 존재하는 몬스터 1장을 제물로 바칠때마다, 이 카드의 공격력은 턴 종료시까지 700 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     每把自己场上存在的除这张卡外的1只怪兽作为祭品，这张卡的攻击力直到回合结束时上升700。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 3
 atk: 800

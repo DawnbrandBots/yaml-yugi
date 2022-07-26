@@ -7,10 +7,11 @@ name:
   fr: Jeune Protectrice, Soldat de l'Épée Destructrice
   it: Protettore Cucciolo del Soldato Spada della Distruzione
   pt: Filhote Protetor do Soldado da Espada da Destruição
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>絆</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>の<ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>絆</rb><rt>ばん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Hakaikenshi no Shugobanryū
   ko: 파괴검사의 수호반룡
   ko_rr: Pagoegeomsa-ui Suhobannyong
+  zh-TW:
   zh-CN: 破坏剑士的守护绊龙
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "파괴검" 카드 1장을 묘지로 보낸다. 그 후, 패에서 "버스터 블레이더" 몬스터 1장을 특수 소환할 수 있다. ②: 상대 필드에 몬스터가 존재하지 않는 자신 배틀 페이즈 종료시에, 이 턴에 공격 선언을 하고 있지 않은 자신 필드의 "버스터 블레이더" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력만큼의 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     怪兽2只
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「破坏剑」卡送去墓地。那之后，可以从手卡把1只「破坏之剑士」怪兽特殊召唤。
     ②：对方场上没有怪兽存在的自己战斗阶段结束时，以这个回合没有攻击宣言的自己场上1只「破坏之剑士」怪兽为对象才能发动。给与对方那只怪兽的攻击力数值的伤害。
-type: Monster
-typeline: Dragon / Link / Effect
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 400
 materials: 2 monsters
 sets:

@@ -11,6 +11,7 @@ name:
   ja_romaji: Metamorupotto
   ko: 메타모르 포트
   ko_rr:
+  zh-TW: 變形壺
   zh-CN: 变形壶
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合に発動する。手札があるプレイヤーは、その手札を全て捨てる。お互いにデッキから５枚ドローする。
   ko: |-
     ①: 이 카드가 리버스했을 경우에 발동한다. 서로의 패를 전부 버린다. 그 후, 서로 덱에서 5장 드로우한다.
+  zh-TW: 反轉：雙方丟棄全部手牌。然後，各自從牌組中抽取5張卡。
   zh-CN: |-
-    ①：这张卡反转的场合发动。双方手卡全部丢弃。那之后，双方从卡组抽5张。
-type: Monster
-typeline: Rock / Flip / Effect
+    ①：此卡反转的情况下发动。双方将手牌全部舍弃。然后，双方从牌组各抽5张。
+card_type: Monster
+monster_type_line: Rock / Flip / Effect
 attribute: EARTH
 level: 2
 atk: 700

@@ -7,10 +7,11 @@ name:
   fr: Simorgh, Oiseau de la Divinité
   it: Simorgh, Volatile della Divinità
   pt: Simorgh, o Pássaro da Divindade
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>シムルグ
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>鳥</rb><rt>ちょう</rt></ruby>シムルグ
   ja_romaji: Shinchō Shimurugu
   ko: 신조 시무르그
   ko_rr:
+  zh-TW:
   zh-CN: 神鸟 斯摩夫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。このカードを生け贄召喚する場合の生け贄は風属性モンスターでなければならない。このカードがフィールド上に表側表示で存在する限り、お互いのプレイヤーはエンドフェイズ毎に１０００ポイントダメージを受ける。この時、それぞれのプレイヤーが受けるダメージは魔法・罠カードをコントロールしている数×５００ポイント少なくなる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 이 카드를 제물 소환할 경우의 제물은 바람 속성 몬스터이어야 한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 양쪽 플레이어는 엔드 페이즈마다 1000 포인트 데미지를 받는다. 이때, 각각의 플레이어가 받는 데미지는 마법 / 함정 카드를 컨트롤하고 있는 수 x 500 포인트 줄어든다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。这张卡上级召唤的场合，解放的怪兽必须是风属性怪兽。只要这张卡在场上表侧表示存在，双方玩家在每次双方的结束阶段受到1000分伤害。这个时候，各自玩家受到的伤害减少魔法·陷阱卡的控制数量×500的数值。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: WIND
 level: 7
 atk: 2700

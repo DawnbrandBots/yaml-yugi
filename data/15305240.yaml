@@ -7,10 +7,11 @@ name:
   fr: Échangeur de Créatures
   it: Inverti Creatura
   pt: Captura da Criatura
-  ja: <ruby><rb>鹵</rb><rp>（</rp><rt>ろ</rt><rp>）</rp></ruby><ruby><rb>獲</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>置</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>鹵</rb><rt>ろ</rt></ruby><ruby><rb>獲</rb><rt>かく</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>置</rb><rt>ち</rt></ruby>
   ja_romaji: Rokaku Sōchi
   ko: 노획장치
   ko_rr:
+  zh-TW:
   zh-CN: 虏获装置
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     お互いが自分フィールド上モンスターを１体ずつ選択し、そのモンスターのコントロールを入れ替える。ただしこのカードのコントローラーは自分フィールド上に表側表示で存在する通常モンスターを選択しなければならない。
   ko: |-
     서로가 자신 필드 위 몬스터를 1장씩 선택하고, 그 몬스터의 컨트롤을 맞바꾼다. 단, 이 카드의 컨트롤러는 자신 필드 위에 앞면 표시로 존재하는 일반 몬스터를 선택해야 한다.
+  zh-TW:
   zh-CN: |-
     双方选择自己场上怪兽各1只，那些怪兽的控制权交换。但是这张卡的控制者必须选择自己场上表侧表示存在的通常怪兽。
-type: Spell
+card_type: Spell
 property: Normal

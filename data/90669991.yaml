@@ -7,10 +7,11 @@ name:
   fr: Ananas Explosif
   it: Ananas Esplosivo
   pt: Explosão do Ananás
-  ja: パイナップル<ruby><rb>爆</rb><rp>（</rp><rt>ボ</rt><rp>）</rp></ruby><ruby><rb>弾</rb><rp>（</rp><rt>ム</rt><rp>）</rp></ruby>
+  ja: パイナップル<ruby><rb>爆</rb><rt>ボ</rt></ruby><ruby><rb>弾</rb><rt>ム</rt></ruby>
   ja_romaji: Painappuru Bomu
   ko: 파인애플 폭탄
   ko_rr:
+  zh-TW:
   zh-CN: 菠萝爆弹
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分がモンスターの召喚に成功した時に発動する事ができる。相手フィールド上のモンスターの數が自分のコントロールするモンスターの數より多い場合、同じ數になるように相手のカードを破壞する。破壞するカードは相手が選擇する。
   ko: |-
     자신이 몬스터의 일반 소환에 성공했을 때, 발동할 수 있다. 상대 필드 위의 몬스터의 수가 자신이 컨트롤하는 몬스터의 수보다 많을 경우, 같은 수가 되도록 상대의 카드를 파괴한다. 파괴하는 카드는 상대가 선택한다.
+  zh-TW:
   zh-CN: |-
     自己对怪兽的召唤成功时才能发动。对方场上的怪兽数量比自己控制的怪兽数量多的场合，直到变成数量相同把对方的卡破坏。破坏的卡由对方选择。
-type: Trap
+card_type: Trap
 property: Normal

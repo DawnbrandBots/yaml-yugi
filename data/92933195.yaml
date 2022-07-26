@@ -7,10 +7,11 @@ name:
   fr: Maître du Vent de la Vallée de Brume
   it: Signore del Vento della Valle delle Nebbie
   pt: Mestre do Vento do Vale Nebuloso
-  ja: <ruby><rb>霞の谷</rb><rp>（</rp><rt>ミスト・バレー</rt><rp>）</rp></ruby>の<ruby><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い
+  ja: <ruby><rb>霞の谷</rb><rt>ミスト・バレー</rt></ruby>の<ruby><rb>風</rb><rt>かぜ</rt></ruby><ruby><rb>使</rb><rt>つか</rt></ruby>い
   ja_romaji: Misuto Barē no Kazetsukai
   ko: 안개 골짜기의 풍사
   ko_rr:
+  zh-TW:
   zh-CN: 霞之谷的风使
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     お互いの手札が５枚以上の場合に発動する事ができる。お互いのプレイヤーは手札が４枚になるように手札を墓地に送る。この効果は１ターンに１度しか使用できない。
   ko: |-
     ①: 1턴에 1번, 서로의 패가 5장 이상일 경우에 발동할 수 있다. 양쪽 플레이어는, 각각 패가 4장이 되도록 패를 골라 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     1回合1次，双方手卡是5张以上的场合才能发动。双方玩家直到手卡变成4张把手卡送去墓地。
-type: Monster
-typeline: Winged Beast / Tuner
+card_type: Monster
+monster_type_line: Winged Beast / Tuner
 attribute: WIND
 level: 2
 atk: 400

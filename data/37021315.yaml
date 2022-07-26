@@ -7,10 +7,11 @@ name:
   fr: Mandrargifort Priminéral
   it: Priminerale Mandforte
   pt: Primineral Mandrilorte
-  ja: <ruby><rb>泥</rb><rp>（</rp><rt>でい</rt><rp>）</rp></ruby><ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby>の<ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>長</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>－マンドストロング
+  ja: <ruby><rb>泥</rb><rt>でい</rt></ruby><ruby><rb>岩</rb><rt>がん</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>長</rb><rt>ちょう</rt></ruby>－マンドストロング
   ja_romaji: Deigan no Reichō - Mandosutorongu
   ko: 이암의 영장-맨드스트롱
   ko_rr:
+  zh-TW:
   zh-CN: 砾岩之灵长 强壮山魈
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは魔法カード扱いとして手札から魔法＆罠ゾーンにセットできる。②：セットされているこのカードが相手の効果で破壊され墓地へ送られたターンのエンドフェイズに発動できる。このカードを特殊召喚する。その後、自分の墓地から「泥岩の霊長－マンドストロング」以外のモンスター１体を選んで手札に加える事ができる。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 마법 카드로 취급하여 패에서 마법 & 함정 존에 세트할 수 있다. ②: 세트되어 있는 이 카드가 상대의 효과로 파괴되어 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 이 카드를 특수 소환한다. 그 후, 자신 묘지에서 "이암의 영장-맨드스트롱" 이외의 몬스터 1장을 고르고 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以当作魔法卡使用从手牌盖放到自己的魔法陷阱区。
     盖放在场上的这张卡被对手的效果破坏的回合的结束阶段，这张卡在墓地存在的场合可以发动。将这张卡特殊召唤。那之后，可以从自己的墓地选1只「Primineral Mandstrong／砾岩之灵长 强壮山魈」以外的怪兽加入手牌。这个卡名的这个效果1回合只能使用1次。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 8
 atk: 2000

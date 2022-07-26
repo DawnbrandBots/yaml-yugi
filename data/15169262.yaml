@@ -7,10 +7,11 @@ name:
   fr: Esprit de la Forêt Laval
   it: Folletto della Foresta Laval
   pt:
-  ja: ラヴァル<ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>樹</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: ラヴァル<ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>樹</rb><rt>じゅ</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>
   ja_romaji: Ravaru Enjukai no Yōjo
   ko: 라바르 염수해의 요녀
   ko_rr:
+  zh-TW:
   zh-CN: 熔岩炎树海的妖女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上から墓地へ送られた時、自分フィールド上に表側表示で存在する「ラヴァル」と名のついたモンスターの攻撃力はエンドフェイズ時まで、自分の墓地に存在する「ラヴァル」と名のついたモンスターの数×２００ポイントアップする。
   ko: |-
     이 카드가 필드 위에서 묘지로 보내졌을 때, 자신 필드 위에 앞면 표시로 존재하는 "라바르" 라는 이름이 붙은 몬스터의 공격력은 엔드 페이즈시까지, 자신의 묘지에 존재하는 "라바르" 라는 이름이 붙은 몬스터의 수 x 200 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡从场上送去墓地时，自己场上的全部名字带有「熔岩」的怪兽的攻击力直到结束阶段时上升自己墓地的名字带有「熔岩」的怪兽数量×200的数值。
-type: Monster
-typeline: Pyro / Tuner
+card_type: Monster
+monster_type_line: Pyro / Tuner
 attribute: FIRE
 level: 2
 atk: 300

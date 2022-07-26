@@ -7,10 +7,11 @@ name:
   fr: Limite de Niveau - Zone A
   it: Livello Limite - Area A
   pt: Limite de Nível - Área A
-  ja: レベル<ruby><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>限</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>Ａ<ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>区</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>
+  ja: レベル<ruby><rb>制</rb><rt>せい</rt></ruby><ruby><rb>限</rb><rt>げん</rt></ruby>Ａ<ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>区</rb><rt>く</rt></ruby>
   ja_romaji: Reberu Seigen A Chiku
   ko: 레벨 제한 A 구역
   ko_rr:
+  zh-TW:
   zh-CN: 等级限制A地区
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に表側表示で存在するレベル３以下のモンスターは全て攻撃表示になる。
   ko: |-
     필드상에 겉표시로 존재하는 레벨 3 이하의 몬스터는 모두 공격 표시가 된다.
+  zh-TW:
   zh-CN: |-
     场上表侧表示存在的3星以下的怪兽全部变成攻击表示。
-type: Trap
+card_type: Trap
 property: Continuous

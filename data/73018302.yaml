@@ -7,10 +7,11 @@ name:
   fr: Chasseur Plumes Noires
   it: Cacciatore delle Piume Nere
   pt: Caçador de Penas Pretas
-  ja: <ruby><rb>黒羽を狩る者</rb><rp>（</rp><rt>ダークネス・ハンター</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒羽を狩る者</rb><rt>ダークネス・ハンター</rt></ruby>
   ja_romaji: Dākunesu Hantā
   ko: 다크니스 헌터
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽狩猎者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手フィールド上に表側表示でモンスターが２体以上存在し、そのモンスターの種族が全て同じ場合、手札を１枚墓地へ送る事で相手フィールド上に表側表示で存在するモンスター１体を選択して破壊する。
   ko: |-
     상대 필드 위에 앞면 표시로 몬스터가 2장 이상 존재하고, 그 몬스터의 종족이 모두 같을 경우, 패를 1장 묘지로 보내는 것으로 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     对方场上有怪兽表侧表示2只以上存在，那些怪兽的种族全部相同的场合，可以通过把1张手卡送去墓地，选择对方场上表侧表示存在的1只怪兽破坏。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

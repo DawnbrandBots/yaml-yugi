@@ -7,10 +7,11 @@ name:
   fr: Anti-Magie
   it: Anti-Magia
   pt: Anti-Magia
-  ja: <ruby><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>抗</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>抗</rb><rt>こう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby>
   ja_romaji: Taikōmajutsu
   ko: 대항 마술
   ko_rr:
+  zh-TW:
   zh-CN: 对抗魔术
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上に存在する魔力カウンターを２つ取り除いて発動する。魔法カードの発動を無効にし破壊する。
   ko: |-
     자신 필드 위의 마력 카운터를 2개 제거한다. 마법의 발동을 무효로 하여, 그것을 파괴한다.
+  zh-TW:
   zh-CN: |-
     把自己场上存在的2个魔力指示物取除发动。魔法卡的发动无效并破坏。
-type: Trap
+card_type: Trap
 property: Counter

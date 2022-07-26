@@ -7,10 +7,11 @@ name:
   fr: Dragon Fusolaire aux Yeux Galactiques
   it: Drago Vampatasolare Occhi Galattici
   pt: Dragão Explosolar de Olhos das Galáxias
-  ja: <ruby><rb>銀河眼の煌星竜</rb><rp>（</rp><rt>ギャラクシーアイズ・ソルフレア・ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>銀河眼の煌星竜</rb><rt>ギャラクシーアイズ・ソルフレア・ドラゴン</rt></ruby>
   ja_romaji: Gyarakushīaizu Sorufurea Doragon
   ko: 갤럭시아이즈 솔플레어 드래곤
   ko_rr: Gaelleoksi-aijeu Solpeulle-eo Deuraegon
+  zh-TW:
   zh-CN: 银河眼煌星龙
 text:
   en: |-
@@ -37,17 +38,16 @@ text:
   ko: |-
     공격력 2000 이상의 몬스터를 포함하는 빛 속성 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 자신 묘지의 "포톤" 몬스터 또는 "갤럭시" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. ②: 상대 메인 페이즈에, "포톤" 카드 1장과 "갤럭시" 카드 1장, 또는 "갤럭시아이즈 포톤 드래곤" 1장을 패에서 버리고, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    包含攻击力2000以上的怪兽的光属性怪兽2只
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡连接召唤成功的场合，以自己墓地1只「光子」怪兽或者「银河」怪兽为对象才能发动。那只怪兽加入手卡。
-    ②：对方主要阶段，把「光子」卡和「银河」卡共2张或者「银河眼光子龙」1只从手卡丢弃，以对方场上1只特殊召唤的怪兽为对象才能发动。那只怪兽破坏。
-type: Monster
-typeline: Dragon / Link / Effect
+    包括攻击力2000以上怪兽在内的光属性怪兽2只
+    此卡名的①②效果1回合仅可各使用1次。①：此卡连接召唤成功的情况下，以自己墓地的1只“光子”怪兽或“银河”怪兽为对象可以发动。将该怪兽加入手牌。②：对手的主要阶段，将“光子”卡和“银河”卡各1张，或1只“银河眼光子龙”从手牌舍弃，以对手场上1只被特殊召唤的怪兽为对象可以发动。将该怪兽破坏。
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 2000
 sets:
   en:

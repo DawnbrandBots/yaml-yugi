@@ -7,10 +7,11 @@ name:
   fr: Poussin Dragon Noir
   it: Cucciolo di Occhi-Rossi
   pt: Filhote do Dragão Negro
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby><rb>雛</rb><rp>（</rp><rt>ひな</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>の<ruby><rb>雛</rb><rt>ひな</rt></ruby>
   ja_romaji: Kokuryū no Hina
   ko: 아기 흑룡
   ko_rr:
+  zh-TW:
   zh-CN: 黑龙之雏
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に表側表示で存在するこのカードを墓地へ送って発動できる。手札から「真紅眼の黒竜」１体を特殊召喚する。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 이 카드를 묘지로 보내고 발동할 수 있다. 패에서 "붉은 눈의 흑룡" 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     把自己场上表侧表示存在的这张卡送去墓地才能发动。从手卡把1只「真红眼黑龙」特殊召唤。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: DARK
 level: 1
 atk: 800

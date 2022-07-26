@@ -7,11 +7,12 @@ name:
   fr: Nécrolancer, le Seigneur-Temps
   it: Necrolancer il Tempo-Signore
   pt: Necrolancer, o Senhor do Tempo
-  ja: <ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>時</rb><rt>とき</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>
     ネクロランサ
   ja_romaji: Toki no Majin Nekuroransa
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 时间魔人 独眼死灵师
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     好きな所へ行けるという時空リングから出てくる、一つ目の魔人。
   ko:
+  zh-TW:
   zh-CN: |-
     从时空环出来的可以去任何自己想去的地方的独眼魔人。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: DARK
 level: 3
 atk: 800

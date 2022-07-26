@@ -7,10 +7,11 @@ name:
   fr: Omotics Aquatique
   it: Trasforma-Acque
   pt: Omotics da Água
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>みず</rt><rp>）</rp></ruby>の<ruby><rb>踊</rb><rp>（</rp><rt>おど</rt><rp>）</rp></ruby>り<ruby><rb>子</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>踊</rb><rt>おど</rt></ruby>り<ruby><rb>子</rb><rt>こ</rt></ruby>
   ja_romaji: Mizu no Odoriko
   ko: 물의무희
   ko_rr:
+  zh-TW:
   zh-CN: 水之舞女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     かめから次々とあふれでる水を、竜に変えて攻撃してくる。
   ko: |-
     물병에서 계속해서 흘러 넘치는 물을 용으로 바꿔 공격해온다.
+  zh-TW:
   zh-CN: |-
     从瓶中不断流淌的水，变成龙的形状发动攻击。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 4
 atk: 1400

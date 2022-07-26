@@ -7,10 +7,11 @@ name:
   fr: Garmr, Bête Nordique
   it: Garmr delle Bestie Nordic
   pt: Gamr das Bestas Nórdicas
-  ja: <ruby><rb>極</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>ガルム
+  ja: <ruby><rb>極</rb><rt>きょく</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>ガルム
   ja_romaji: Kyokuseijū Garumu
   ko: 극성수 가름
   ko_rr:
+  zh-TW:
   zh-CN: 极星兽 加尔姆
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがレベル４以下のモンスターと戦闘を行ったダメージ計算後、そのモンスターを手札に戻す事ができる。
   ko: |-
     이 카드가 레벨 4이하의 몬스터와 전투를 실행한 데미지 계산 후, 그 몬스터를 패로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡和4星以下的怪兽进行战斗的伤害计算后，可以让那只怪兽回到手卡。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: DARK
 level: 4
 atk: 800

@@ -7,11 +7,12 @@ name:
   fr: Enishi, Chancelier de Shien
   it: Enishi, Cancelliere di Shien
   pt:
-  ja: <ruby><rb>紫</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby>の<ruby><rb>老</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby><ruby><rb>中</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>紫</rb><rt>シ</rt></ruby><ruby><rb>炎</rb><rt>エン</rt></ruby>の<ruby><rb>老</rb><rt>ろう</rt></ruby><ruby><rb>中</rb><rt>じゅう</rt></ruby>
     エニシ
   ja_romaji: Shien no Rōjū Enishi
   ko: 시엔의 노중 에니시
   ko_rr: Sien-ui Nojung Enisi
+  zh-TW:
   zh-CN: 紫炎的老中 缘
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分の墓地の「六武衆」と名のついたモンスター２体をゲームから除外した場合のみ特殊召喚できる。１ターンに１度、フィールド上に表側表示で存在するモンスター１体を選択して破壊できる。この効果を発動するターン、このカードは攻撃宣言できない。
   ko: |-
     이 카드는 일반소환 / 세트할 수 없다. 자신 묘지의 "여섯 무사" 라는 이름이 붙은 몬스터 2장을 게임에서 제외하는 것으로만 특수 소환할 수 있다. 필드 위에 앞면 표시로 존재하는 몬스터 1장을 파괴할 수 있다. 이 효과를 발동할 경우, 이 턴에는 이 카드는 공격선언을 할 수 없다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己墓地2只名字带有「六武众」的怪兽从游戏中除外的场合才能特殊召唤。1回合1次，可以选择场上表侧表示存在的1只怪兽破坏。这个效果发动的回合，这张卡不能攻击宣言。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 6
 atk: 2200

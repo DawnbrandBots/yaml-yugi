@@ -7,10 +7,11 @@ name:
   fr: Pièce Structure-PSY Delta
   it: PSI-Strutturattrezzatura Delta
   pt: PSÍ-Armação Equipamento Delta
-  ja: <ruby><rb>ＰＳＹ</rb><rp>（</rp><rt>サイ</rt><rp>）</rp></ruby>フレームギア・<ruby><rb>δ</rb><rp>（</rp><rt>デルタ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>ＰＳＹ</rb><rt>サイ</rt></ruby>フレームギア・<ruby><rb>δ</rb><rt>デルタ</rt></ruby>
   ja_romaji: Saifurēmu Gia Deruta
-  ko: <ruby><rb>PSY</rb><rp>（</rp><rt>싸이</rt><rp>）</rp></ruby>프레임기어 <ruby><rb>δ</rb><rp>（</rp><rt>델타</rt><rp>）</rp></ruby>
+  ko: <ruby><rb>PSY</rb><rt>싸이</rt></ruby>프레임기어 <ruby><rb>δ</rb><rt>델타</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: PSY骨架装备·δ
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：自分フィールドにモンスターが存在せず、相手の魔法カードが発動した時に発動できる。手札のこのカードと自分の手札・デッキ・墓地の「ＰＳＹフレーム・ドライバー」１体を選んで特殊召喚し、その発動を無効にし破壊する。この効果で特殊召喚したモンスターは全てエンドフェイズに除外される。
   ko: |-
     이 카드는 통상 소환할 수 없고, 카드의 효과로만 특수 소환할 수 있다. ①: 자신 필드에 몬스터가 존재하지 않고, 상대의 마법 카드가 발동되었을 때에 발동할 수 있다. 패의 이 카드와 자신의 패 / 덱 / 묘지의 "PSY(싸이)프레임 드라이버" 1장을 고르고 특수 소환하여, 그 발동을 무효로 하여 파괴한다. 이 효과로 특수 소환한 몬스터는 전부 엔드 페이즈에 제외된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤，用卡的效果才能特殊召唤。①：自己场上没有怪兽存在，对方的魔法卡发动时才能发动。选手卡的这张卡和自己的手卡·卡组·墓地1只「PSY骨架驱动者」特殊召唤，那个发动无效并破坏。这个效果特殊召唤的怪兽全部在结束阶段除外。
-type: Monster
-typeline: Psychic / Tuner / Effect
+card_type: Monster
+monster_type_line: Psychic / Tuner / Effect
 attribute: LIGHT
 level: 2
 atk: 1200

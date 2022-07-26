@@ -7,11 +7,12 @@ name:
   fr: Décimeur de Terreur, HÉROS Xtra
   it: Terrore Decimatore EROE Xtra
   pt: Dizimador Horrífico, o HERÓI Xtra
-  ja: <ruby><rb>Ｘ・ＨＥＲＯ</rb><rp>（</rp><rt>エクストラヒーロー</rt><rp>）</rp></ruby> ドレッドバスター
+  ja: <ruby><rb>Ｘ・ＨＥＲＯ</rb><rt>エクストラヒーロー</rt></ruby> ドレッドバスター
   ja_romaji: Ekusutora Hīrō Doreddo Basutā
   ko: 엑스트라 히어로 드레드 버스터
   ko_rr: Ekseuteura Hieoro Deuredeu Beoseuteo
-  zh-CN: 特异英雄 恐惧杀戮人
+  zh-TW:
+  zh-CN: 特异－英雄 恐惧破坏者
 text:
   en: |-
     2+ "HERO" monsters
@@ -37,16 +38,17 @@ text:
   ko: |-
     "히어로" 몬스터 2장 이상
     ①: 이 카드 및 이 카드의 링크 앞의 "히어로" 몬스터의 공격력은, 자신 묘지의 "히어로" 몬스터의 종류 × 100 올린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
-    「英雄」怪兽2只以上
-    这张卡以及这张卡所连接区的「英雄」怪兽的攻击力上升自己墓地的「英雄」怪兽种类×100。这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。
-type: Monster
-typeline: Warrior / Link / Effect
+    "－英雄"怪兽2只以上
+    ①：此卡及此卡连接端的"－英雄"怪兽的攻击力上升相当于自己墓地"－英雄"怪兽种类×100的数值。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予战斗伤害。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 2500
 materials: 2+ "HERO" monsters
 sets:

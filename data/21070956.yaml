@@ -7,10 +7,11 @@ name:
   fr: Autel Sacrificiel
   it: Altare dei Tributi
   pt: Altar para Tributos
-  ja: <ruby><rb>生</rb><rp>（</rp><rt>いけ</rt><rp>）</rp></ruby><ruby><rb>贄</rb><rp>（</rp><rt>にえ</rt><rp>）</rp></ruby>の<ruby><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>壇</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>生</rb><rt>いけ</rt></ruby><ruby><rb>贄</rb><rt>にえ</rt></ruby>の<ruby><rb>祭</rb><rt>さい</rt></ruby><ruby><rb>壇</rb><rt>だん</rt></ruby>
   ja_romaji: Ikenie no Saidan
   ko: 제물의 제단
   ko_rr:
+  zh-TW:
   zh-CN: 牲祭的祭坛
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上のモンスターを１体選択して墓地に送る。このモンスターの元々の攻撃力分のライフポイントを回復する。
   ko: |-
     자신 필드 위의 몬스터를 1장 선택하고 묘지로 보낸다. 이 몬스터의 원래 공격력만큼의 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     选择自己场上1只怪兽送去墓地。回复那只怪兽的原本攻击力数值的基本分。
-type: Trap
+card_type: Trap
 property: Normal

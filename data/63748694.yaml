@@ -1,20 +1,22 @@
 konami_id: 17428
 password: 63748694
 name:
-  en: Gunkan Suship Aka-Shari
+  en: Gunkan Suship Shari Red
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby><rb>赤</rb><rp>（</rp><rt>あか</rt><rp>）</rp></ruby>しゃりの<ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>貫</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>赤</rb><rt>あか</rt></ruby>しゃりの<ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>貫</rb><rt>かん</rt></ruby>
   ja_romaji: Akashari no Gunkan
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 红舍利饭军贯
 text:
   en: |-
-    This card's name becomes "Gunkan Suship Shari" while on the field or in the hand, Deck, or GY. You can reveal 1 other "Gunkan Suship Shari" in your hand; Special Summon this card from your hand, then you can Special Summon 1 "Gunkan" monster from your Deck, except "Gunkan Suship Shari" (but negate its effects), and if you do, Special Summon 1 Xyz Monster that mentions that monster from your Extra Deck, by using it and this card as material. (This is treated as an Xyz Summon.) You can only use this effect of "Gunkan Suship Aka-Shari" once per turn.
+    This card's name becomes "Gunkan Suship Shari" while in the hand, Deck, GY, or on the field. You can only use the following effect of "Gunkan Suship Shari Red" once per turn. You can reveal 1 other "Gunkan Suship Shari" in your hand; Special Summon this card from your hand, then you can apply this effect.
+    ● Special Summon 1 "Gunkan" monster from your Deck, except "Gunkan Suship Shari", but negate its effects (if any), then, Special Summon from your Extra Deck, 1 Xyz Monster that mentions that Special Summoned monster's name, using that monster and this card as material. (This is treated as an Xyz Summon.)
   de:
   es:
   fr:
@@ -23,17 +25,48 @@ text:
   ja: |-
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードのカード名は、手札・デッキ・フィールド・墓地に存在する限り「しゃりの軍貫」として扱う。②：手札の他の「しゃりの軍貫」１体を相手に見せて発動できる。このカードを手札から特殊召喚する。その後、以下を適用できる。●「しゃりの軍貫」以外の「軍貫」モンスター１体を効果を無効にしてデッキから特殊召喚し、そのモンスターとこのカードを素材として、そのモンスターのカード名が記されたＸモンスター１体をＸ召喚扱いとしてＥＸデッキから特殊召喚する。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的②效果1回合只能使用1次。①：这张卡只要在手牌、卡组、场上或墓地存在，卡名就当作「しゃりの軍貫／舍利饭军贯」使用。②：可以向对手展示手牌的1只其他的「しゃりの軍貫／舍利饭军贯」发动。将这张卡从手牌特殊召唤。那之后，可以适用以下的效果。●从卡组将1只「しゃりの軍貫／舍利饭军贯」以外的「軍貫／军贯」怪兽效果无效地特殊召唤，将那只怪兽和这张卡作为素材，从额外卡组当作多维召唤地特殊召唤1只记述了那只怪兽的卡名的多维怪兽。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: FIRE
 level: 4
 atk: 0
 def: 2000
 sets:
+  en:
+  - set_number: POTE-EN026
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE026
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR026
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT026
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT026
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: POTE-JP026
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  ko:
+  - set_number: POTE-KR026
     set_name: Power of the Elements
     rarities:
     - Common

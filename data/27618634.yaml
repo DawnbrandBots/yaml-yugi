@@ -7,10 +7,11 @@ name:
   fr: La Jeune Fille Malheureuse
   it: La Ragazza Infelice
   pt: A Rapariga Infeliz
-  ja: <ruby><rb>薄</rb><rp>（</rp><rt>はっ</rt><rp>）</rp></ruby><ruby><rb>幸</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>の<ruby><rb>乙女</rb><rp>（</rp><rt>おとめ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>薄</rb><rt>はっ</rt></ruby><ruby><rb>幸</rb><rt>こう</rt></ruby>の<ruby><rb>乙女</rb><rt>おとめ</rt></ruby>
   ja_romaji: Hakkō no Otome
   ko: 불행한 걸
   ko_rr:
+  zh-TW:
   zh-CN: 不幸的少女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは表側攻撃表示で存在する限り戦闘によっては破壊されない。このカードが表側攻撃表示でフィールド上に存在する限り、このカードと戦闘を行ったモンスターは表示形式の変更と攻撃ができなくなる。
   ko: |-
     이 카드는 앞면 공격 표시로 존재하는 한, 전투에 의해서는 파괴되지 않는다. 이 카드가 앞면 공격 표시로 필드 위에 존재하는 한, 이 카드와 전투를 실행한 몬스터는 표시 형식의 변경과 공격을 할 수 없게 된다.
+  zh-TW:
   zh-CN: |-
     这张卡只要表侧攻击表示存在就不会被战斗破坏。只要这张卡表侧攻击表示在场上存在，和这张卡进行过战斗的怪兽变成不能作表示形式的变更和攻击。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 2
 atk: 400

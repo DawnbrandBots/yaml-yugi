@@ -7,10 +7,11 @@ name:
   fr: Maître des Épées Dragon de Feu
   it: Maestro delle Dragospade Fiammeggianti
   pt:
-  ja: <ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>の<ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い<ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>龍</rb><rt>りゅう</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby>の<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>
   ja_romaji: Ryū-en Ken no Tsukaite
   ko: 용염검 마스터
   ko_rr:
+  zh-TW:
   zh-CN: 使龙炎剑的高手
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     自分フィールド上に「龍炎剣の使い手」以外のモンスターが召喚された時、そのモンスターのレベルを１つ上げ、このカードの攻撃力をエンドフェイズ時まで３００ポイントアップする事ができる。
   ko: |-
     자신 필드 위에 "용염검 마스터" 이외의 몬스터가 일반 소환되었을 때, 그 몬스터의 레벨을 1개 올리고, 이 카드의 공격력을 엔드 페이즈시까지 300 포인트 올릴 수 있다.
+  zh-TW:
   zh-CN: |-
     自己场上有「使龙炎剑的高手」以外的怪兽召唤时，可以让那只怪兽的等级上升1星，这张卡的攻击力直到结束阶段时上升300。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: FIRE
 level: 4
 atk: 1800

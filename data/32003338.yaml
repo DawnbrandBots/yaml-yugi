@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 34 : Terreur-Byte'
   it: 'Numero 34: Terror-Byte'
   pt: 'Número 34: Terror-Byte'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>３４ <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>算</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>テラ・バイト
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>３４ <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>算</rb><rt>さん</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>テラ・バイト
   ja_romaji: Nanbāzu Sanjūyon Densankijū Tera Baito
   ko: No.34 전산기야수 테라바이트
   ko_rr: Neombeojeu Samsipsa Jeonsan-giyasu Terabaiteu
+  zh-TW:
   zh-CN: No.34 电算机兽 太字节
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 3 몬스터 × 3
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 레벨 4 이하의 공격 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
+  zh-TW:
   zh-CN: |-
     3星怪兽×3
     1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧攻击表示存在的1只4星以下的怪兽才能发动。选择的怪兽的控制权直到结束阶段时得到。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: DARK
 rank: 3
 atk: 0

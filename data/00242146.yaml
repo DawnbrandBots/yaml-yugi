@@ -7,10 +7,11 @@ name:
   fr: Baliste Brise-Murailles
   it: Balista d'Assedio
   pt: Balista de Destruição de Defesas
-  ja: <ruby><rb>城</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby><rb>壁</rb><rp>（</rp><rt>へき</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>しの<ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>槍</rb><rp>（</rp><rt>やり</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>城</rb><rt>じょう</rt></ruby><ruby><rb>壁</rb><rt>へき</rt></ruby><ruby><rb>壊</rb><rt>こわ</rt></ruby>しの<ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>槍</rb><rt>やり</rt></ruby>
   ja_romaji: Jōhekikowashi no Ōyari
   ko: 성벽 파괴의 대창
   ko_rr:
+  zh-TW:
   zh-CN: 破坏城壁的大枪
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     装備モンスターが裏側守備表示モンスターを攻撃する場合、装備モンスターの攻撃力は１５００ポイントアップする
   ko: |-
     장착 몬스터가 뒷면 수비 표시 몬스터를 공격할 경우, 장착 몬스터의 공격력은 1500포인트올린다.
+  zh-TW:
   zh-CN: |-
     装备怪兽向里侧守备怪兽攻击的场合，装备怪兽的攻击力上升1500。
-type: Spell
+card_type: Spell
 property: Equip

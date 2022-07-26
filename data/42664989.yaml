@@ -7,10 +7,11 @@ name:
   fr: Carte d'Inviolabilité
   it: Carta di Santità
   pt: Card da Santidade
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby>よりの<ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby>よりの<ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>札</rb><rt>さつ</rt></ruby>
   ja_romaji: Ten yori no Hōsatsu
   ko: 하늘의 선물
   ko_rr: Haneul-ui Seonmul
+  zh-TW:
   zh-CN: 天降的宝札
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分の手札・フィールドのカードを全て除外して発動できる。自分は手札が２枚になるようにデッキからドローする。
   ko: |-
     ①: 자신의 패 / 필드의 카드를 전부 제외하고 발동할 수 있다. 자신은 패가 2장이 되도록 덱에서 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：把自己的手卡·场上的卡全部除外才能发动。自己直到手卡变成2张从卡组抽卡。
-type: Spell
+card_type: Spell
 property: Normal

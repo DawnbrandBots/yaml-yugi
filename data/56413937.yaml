@@ -7,10 +7,11 @@ name:
   fr: Guerrier de la Tradition
   it: Guerriera della Tradizione
   pt:
-  ja: <ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>場</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>の<ruby><rb>死</rb><rp>（</rp><rt>しに</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>束</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>場</rb><rt>じょう</rt></ruby>の<ruby><rb>死</rb><rt>しに</rt></ruby><ruby><rb>装</rb><rt>しょう</rt></ruby><ruby><rb>束</rb><rt>ぞく</rt></ruby>
   ja_romaji: Senjō no Shinishōzoku
   ko: 전장의 수의
   ko_rr:
+  zh-TW:
   zh-CN: 战场的死装束
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     「音女」＋「斬首の美女」
   ko: |-
     "소리의 여인" + "참수의 미녀"
+  zh-TW:
   zh-CN: |-
     「音女」＋「斩首的美女」。
-type: Monster
-typeline: Warrior / Fusion
+card_type: Monster
+monster_type_line: Warrior / Fusion
 attribute: EARTH
 level: 6
 atk: 1900

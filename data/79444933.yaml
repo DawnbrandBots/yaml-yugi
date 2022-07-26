@@ -7,10 +7,11 @@ name:
   fr: Ignis l'Esprit des Flammes
   it: Ignis Spirito della Fiamma
   pt: Ignis, O Espírito das Chamas
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>イグニス
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>イグニス
   ja_romaji: Honō no Masei Igunisu
   ko: 화염의 마정령 이그니스
   ko_rr:
+  zh-TW:
   zh-CN: 炎之魔精 伊格尼斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に表側表示で存在する炎属性モンスター１体をリリースして発動する。自分の墓地に存在する炎属性モンスターの数×１００ポイントダメージを相手ライフに与える。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 화염 속성 몬스터 1장을 릴리스하고 발동한다. 자신의 묘지에 존재하는 화염 속성 몬스터 수 x 100 포인트 데미지를 상대 라이프에 준다.
+  zh-TW:
   zh-CN: |-
     把自己场上表侧表示存在的1只炎属性怪兽解放发动。给与对方基本分自己墓地存在的炎属性怪兽数量×100的数值的伤害。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1500

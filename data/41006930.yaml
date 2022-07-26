@@ -7,10 +7,11 @@ name:
   fr: Ninja d'Intervention
   it: Ninja Fulmineo
   pt: Ninja Atacante
-  ja: <ruby><rb>速</rb><rp>（</rp><rt>そっ</rt><rp>）</rp></ruby><ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>の<ruby><rb>黒い</rb><rp>（</rp><rt>ブラック</rt><rp>）</rp></ruby><ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>速</rb><rt>そっ</rt></ruby><ruby><rb>攻</rb><rt>こう</rt></ruby>の<ruby><rb>黒い</rb><rt>ブラック</rt></ruby><ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>
   ja_romaji: Sokkō no Burakku Ninja
   ko: 속공의 검은 첩자
   ko_rr:
+  zh-TW:
   zh-CN: 速攻的黑衣忍者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：自分の墓地から闇属性モンスター２体を除外して発動できる。表側表示のこのカードをエンドフェイズまで除外する。この効果は相手ターンでも発動できる。
   ko: |-
     자신 묘지의 어둠 속성 몬스터 2장을 게임에서 제외하고 발동할 수 있다. 앞면 표시의 이 카드를 엔드 페이즈까지 게임에서 제외한다. 이 효과는 상대 턴에도 발동할 수 있다. "속공의 검은 첩자"의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。①：从自己墓地把2只暗属性怪兽除外才能发动。表侧表示的这张卡直到结束阶段除外。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1700

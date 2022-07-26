@@ -7,10 +7,11 @@ name:
   fr: Lutte de l'Héritage du Monde
   it: Lotta Eredità del Mondo
   pt: Luta do Legado Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>への<ruby><rb>抵</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>抗</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>遺</rb><rt>い</rt></ruby><ruby><rb>物</rb><rt>ぶつ</rt></ruby>への<ruby><rb>抵</rb><rt>てい</rt></ruby><ruby><rb>抗</rb><rt>こう</rt></ruby>
   ja_romaji: Sei'ibutsu e no Teikō
   ko: 성유물을 향한 저항
   ko_rr:
+  zh-TW:
   zh-CN: 对星遗物的抵抗
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：フィールドの相互リンク状態のモンスターの数まで、フィールドの魔法・罠カードを対象として発動できる。そのカードを破壊する。
   ko: |-
     ① : 필드의 상호 링크 상태의 몬스터의 수까지, 필드의 마법 / 함정 카드를 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    ①：以最多有场上的互相连接状态的怪兽数量的场上的魔法·陷阱卡为对象才能发动。那些卡破坏。
-type: Trap
+    ①：以场上的魔法・陷阱卡为对象可以发动，数量最多为场上相互连接状态的怪兽数量。将该卡破坏。
+card_type: Trap
 property: Normal

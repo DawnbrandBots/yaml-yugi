@@ -7,11 +7,12 @@ name:
   fr: Assaut de l'Air - As - Kaina
   it: Assaltatrice del Cielo Asso - Kaina
   pt: Força Celeste - Ás - Kaina
-  ja: <ruby><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>刀</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>姫</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>－カイナ
+  ja: <ruby><rb>閃</rb><rt>せん</rt></ruby><ruby><rb>刀</rb><rt>とう</rt></ruby><ruby><rb>姫</rb><rt>き</rt></ruby>－カイナ
   ja_romaji: Sentōki - Kaina
   ko: 섬도희－카이나
   ko_rr: Seomdohui - Kaina
-  zh-CN: 闪刀姬-魁奈
+  zh-TW:
+  zh-CN: 闪刀姬－腕
 text:
   en: |-
     1 non-EARTH "Sky Striker Ace" monster
@@ -37,16 +38,15 @@ text:
   ko: |-
     땅 속성 이외의 "섬도희" 몬스터 1장
     자신은 "섬도희－카이나"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터는 상대 턴 종료시까지 공격할 수 없다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신이 "섬도" 마법 카드의 효과를 발동할 때마다, 자신은 100 LP 회복한다.
+  zh-TW:
   zh-CN: |-
-    地属性以外的「闪刀姬」怪兽1只
-    自己对「闪刀姬-魁奈」1回合只能有1次特殊召唤。
-    ①：这张卡特殊召唤成功的场合，以对方场上1只表侧表示怪兽为对象才能发动。那只怪兽直到对方回合结束时不能攻击。
-    ②：只要这张卡在怪兽区域存在，每次自己把「闪刀」魔法卡的效果发动，自己回复100基本分。
-type: Monster
-typeline: Machine / Link / Effect
+    地属性以外的"闪刀姬"怪兽1只
+    自己1回合仅可特殊召唤1次"闪刀姬－腕"。①：此卡特殊召唤成功的情况下，以对手场上的1只表侧表示怪兽为对象可以发动。该怪兽直至对手回合结束时为止不可攻击。②：只要此卡存在于怪兽区域，自己每次发动"闪刀"魔法卡的效果，自己恢复100LP。
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Right
+- ↘
 atk: 1500
 materials: 1 non-EARTH "Sky Striker Ace" monster
 sets:

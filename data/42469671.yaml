@@ -7,11 +7,12 @@ name:
   fr: Attaque de la Force du Tonnerre
   it: Attacco Forza del Tuono
   pt: Ataque Força Trovão
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>波</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>サンダーフォース
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>波</rb><rt>は</rt></ruby>サンダーフォース
   ja_romaji: Chōdendōha Sandāfōsu
   ko:
   ko_rr:
-  zh-CN: 超电导波 雷击炮
+  zh-TW:
+  zh-CN: 超电导波雷击炮
 text:
   en: |-
     This card's activation and effect cannot be negated. If you control a monster whose original name is "Slifer the Sky Dragon": Destroy as many face-up monsters your opponent controls as possible, then, if you activated this card during your Main Phase, you can apply the following effect.
@@ -40,7 +41,9 @@ text:
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。このカードの発動と効果は無効化されない。①：自分フィールドに元々のカード名が「オシリスの天空竜」となるモンスターが存在する場合に発動できる。相手フィールドの表側表示モンスターを全て破壊する。このカードを自分メインフェイズに発動した場合、さらに以下の効果を適用できる。●この効果で破壊され相手の墓地へ送られたモンスターの数だけ、自分はデッキからドローする。このターン、自分はモンスター１体でしか攻撃できない。
   ko:
+  zh-TW:
   zh-CN: |-
-    这个卡名的卡1回合只能发动1张。这张卡的发动和效果不会被无效化。①：自己场上有原卡名是「オシリスの天空竜／欧西里斯之天空龙」的怪兽存在的场合可以发动。将对手场上的表侧表示怪兽全部破坏。这张卡是在自己的主要阶段发动的场合，可以再适用以下的效果。●按照被这个效果破坏并送入对手墓地的怪兽的数量，自己从卡组抽卡。这个回合，自己只能用1只怪兽攻击。
-type: Spell
+    此卡名的卡1回合仅可发动1张。此卡的发动和效果不会被无效化。①：自己场上有原本卡名为"欧西里斯之天空龙"的怪兽的情况下可以发动。将对手场上的表侧表示怪兽全部破坏。此卡在自己的主要阶段发动的情况下，进而可以适用以下效果。
+    ●根据以此效果被破坏并被送至对手墓地的怪兽数量，自己从牌组抽相同数量的牌。此回合，自己仅可用1只怪兽攻击。
+card_type: Spell
 property: Quick-Play

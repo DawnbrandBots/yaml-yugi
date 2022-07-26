@@ -7,10 +7,11 @@ name:
   fr: Dragon Ailé, Gardien de la Forteresse N°1
   it: 'Drago Alato #1'
   pt: Dragão Alado, Guardião da Fortaleza No1
-  ja: <ruby><rb>砦</rb><rp>（</rp><rt>とりで</rt><rp>）</rp></ruby>を<ruby><rb>守</rb><rp>（</rp><rt>まも</rt><rp>）</rp></ruby>る<ruby><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>砦</rb><rt>とりで</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>翼</rb><rt>よく</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Toride wo Mamoru Yokuryū
   ko: 요새를 지키는 익룡
   ko_rr:
+  zh-TW:
   zh-CN: 守城的翼龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     山の砦を守る竜。天空から急降下して敵を攻撃。
   ko: |-
     산의 요새를 지키는 용. 천공에서 급강하하여 적을 공격.
+  zh-TW:
   zh-CN: |-
     守护山寨的龙，从空中急速下降攻击敌人。
-type: Monster
-typeline: Dragon / Normal
+card_type: Monster
+monster_type_line: Dragon / Normal
 attribute: WIND
 level: 4
 atk: 1400

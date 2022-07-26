@@ -1,7 +1,7 @@
 konami_id: 16619
 password: 15613529
 name:
-  en: Mystical Elf White Lightning
+  en: Mystical Elf - White Lightning
   de: Mystische Elfe - Weißer Blitz
   es: Duende Místico - Relámpago Blanco
   fr: Elfe Mystique - Foudre Blanche
@@ -11,6 +11,7 @@ name:
   ja_romaji: Hōrī Erufu - Hōrī Bāsuto Sutorīmu
   ko: 홀리 엘프－홀리 버스트 스트림
   ko_rr: Holli Elpeu - Holli Beoseuteu Seuteurim
+  zh-TW:
   zh-CN:
 text:
   en: |-
@@ -29,9 +30,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにレベル５以上の通常モンスターが存在し、相手フィールドのモンスターが効果を発動した時に発動できる。このカードを手札から特殊召喚し、その効果を無効にする。②：相手バトルフェイズに、自分または相手の墓地の通常モンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。このターン、そのモンスターが自分フィールドに存在する限り、攻撃可能な相手モンスターはそのモンスターを攻撃しなければならない。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 레벨 5 이상의 일반 몬스터가 존재하고, 상대 필드의 몬스터가 효과를 발동했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 그 효과를 무효로 한다. ②: 상대 배틀 페이즈에, 자신 또는 상대 묘지의 일반 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 자신 필드에 특수 소환한다. 이 턴에, 그 몬스터가 자신 필드에 존재하는 한, 공격 가능한 상대 몬스터는 그 몬스터를 공격해야 한다.
+  zh-TW:
   zh-CN:
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 800
@@ -67,3 +69,10 @@ sets:
     set_name: Legendary Monsters Pack
     rarities:
     - Prismatic Secret Rare
+  ko:
+  - set_number: PP17-KR025
+    set_name: Premium Pack Vol.17
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Secret Rare

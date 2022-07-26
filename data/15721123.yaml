@@ -7,10 +7,11 @@ name:
   fr: Confrontation avec les Cancrelats
   it: Confronto di "C"
   pt: Confrontar a "B"
-  ja: <ruby><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>峙</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>する<ruby><rb>Ｇ</rb><rp>（</rp><rt>ジー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>峙</rb><rt>じ</rt></ruby>する<ruby><rb>Ｇ</rb><rt>ジー</rt></ruby>
   ja_romaji: Taiji-suru Jī
   ko: 대치의 G
   ko_rr: Daechi-ui Ji
+  zh-TW: 對峙的Z
   zh-CN: 对峙的G
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手がＥＸデッキからモンスターを特殊召喚した時に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードは、このカードを対象とするモンスターの効果を受けない。
   ko: |-
     ①: 상대가 엑스트라 덱에서 몬스터를 특수 소환했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 이 카드를 대상으로 하는 몬스터의 효과를 받지 않는다.
+  zh-TW: 当对手从额外牌组特殊召唤怪兽时，可从手牌特殊召唤此卡。受此效果特殊召唤的此卡，将不受以此卡为对象的怪兽效果影响。
   zh-CN: |-
     ①：对方从额外卡组把怪兽特殊召唤时才能发动。这张卡从手卡特殊召唤。这个效果特殊召唤的这张卡不受以这张卡为对象的怪兽的效果影响。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 5
 atk: 1100

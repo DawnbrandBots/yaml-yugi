@@ -7,11 +7,12 @@ name:
   fr: Doma l'Ange du Silence
   it: Doma Angelo Silente
   pt: Doma, O Anjo do Silêncio
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>の<ruby><rb>沈</rb><rp>（</rp><rt>ちん</rt><rp>）</rp></ruby><ruby><rb>黙</rb><rp>（</rp><rt>もく</rt><rp>）</rp></ruby>の<ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby>の<ruby><rb>沈</rb><rt>ちん</rt></ruby><ruby><rb>黙</rb><rt>もく</rt></ruby>の<ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>使</rb><rt>し</rt></ruby>
     ドマ
   ja_romaji: Shi no Chinmoku no Tenshi Doma
   ko: 죽음의 침묵천사 도마
   ko_rr:
+  zh-TW:
   zh-CN: 死之沉默天使 多玛
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     死を司る天使。こいつに睨まれたら、死から逃れられない。
   ko: |-
     죽음을 담당하는 천사. 이 녀석에게 한번 찍히면, 죽음에서 벗어날 수 없다.
+  zh-TW:
   zh-CN: |-
     司职死亡的天使，若被这家伙盯上，难逃一死。
-type: Monster
-typeline: Fairy
+card_type: Monster
+monster_type_line: Fairy
 attribute: DARK
 level: 5
 atk: 1600

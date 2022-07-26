@@ -7,11 +7,12 @@ name:
   fr: Roi du Déclin Balerdroch
   it: Re Destino Balerdroch
   pt: Rei da Condenação Balerdroch
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>霊</rb><rt>りょう</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
     ドーハスーラ
   ja_romaji: Shiryōō Dōhasūra
   ko: 사령왕 도하스라
   ko_rr: Saryeongwang Dohaseura
+  zh-TW:
   zh-CN: 死灵王 恶眼
 text:
   en: |-
@@ -42,14 +43,15 @@ text:
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "사령왕 도하스라" 이외의 언데드족 몬스터의 효과가 발동했을 때에 발동할 수 있다(동일한 체인 위에서는 1번까지). 이하의 효과에서 1개를 적용한다. 이 턴에, 자신의 "사령왕 도하스라"의 효과로 같은 효과를 적용할 수 없다. ●그 효과를 무효로 한다. ●자신 또는 상대의, 필드 / 묘지의 몬스터 1장을 제외한다.
     ②: 필드 존에 앞면 표시로 카드가 존재할 경우, 서로의 스탠바이 페이즈에 발동할 수 있다. 묘지의 이 카드를 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的②的效果1回合只能使用1次。
     ①：「死灵王 恶眼」以外的不死族怪兽的效果发动时才能发动。从以下效果选1个适用。这个回合，自己的「死灵王 恶眼」的效果不能有相同效果适用。
     ●那个效果无效。
     ●选自己或者对方的场上·墓地1只怪兽除外。
     ②：场地区域有表侧表示卡存在的场合，自己·对方的准备阶段才能发动。这张卡从墓地守备表示特殊召唤。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 8
 atk: 2800

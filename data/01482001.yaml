@@ -7,11 +7,12 @@ name:
   fr: Clara et Rushka, le Ventriloduo
   it: Clara & Rushka, il Ventriloduo
   pt: Clara & Rushka, o Ventrilodueto
-  ja: <ruby><rb>副</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby><ruby><rb>話</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>クララ<ruby><rb>＆</rb><rp>（</rp><rt>アンド</rt><rp>）</rp></ruby>ルーシカ
+  ja: <ruby><rb>副</rb><rt>ふく</rt></ruby><ruby><rb>話</rb><rt>わ</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>クララ<ruby><rb>＆</rb><rt>アンド</rt></ruby>ルーシカ
   ja_romaji: Fukuwajutsushi Kurara Ando Rūshika
   ko: 복화술사 클라라&루시카
   ko_rr:
-  zh-CN: 副语术士克拉拉与洛希卡
+  zh-TW:
+  zh-CN: 副话术士克拉拉&露西卡
 text:
   en: |-
     1 Normal Summoned/Set monster
@@ -37,14 +38,15 @@ text:
   ko: |-
     통상 소환된 몬스터 1장
     이 카드의 링크 소환은 메인 페이즈 2 에서밖에 할 수 없다.
+  zh-TW:
   zh-CN: |-
-    通常召唤的怪兽1只
-    这张卡的连接召唤不在主要阶段2不能进行。
-type: Monster
-typeline: Spellcaster / Link / Effect
+    被通常召唤的怪兽1只
+    此卡的连接召唤仅可在主要阶段2进行。
+card_type: Monster
+monster_type_line: Spellcaster / Link / Effect
 attribute: EARTH
 link_arrows:
-- Top-Center
+- ⬆
 atk: 0
 sets:
   en:

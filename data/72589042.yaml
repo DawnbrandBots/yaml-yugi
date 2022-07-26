@@ -7,10 +7,11 @@ name:
   fr: Déesse de la Douce Vengeance
   it: Dea della Dolce Vendetta
   pt: Deusa da Doce Vingança
-  ja: <ruby><rb>煌</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>たる<ruby><rb>逆</rb><rp>（</rp><rt>ぎゃく</rt><rp>）</rp></ruby><ruby><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>煌</rb><rt>こう</rt></ruby><ruby><rb>々</rb><rt>こう</rt></ruby>たる<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby><ruby><rb>転</rb><rt>てん</rt></ruby>の<ruby><rb>女</rb><rt>め</rt></ruby><ruby><rb>神</rb><rt>がみ</rt></ruby>
   ja_romaji: Kōkōtaru Gyakuten no Megami
   ko: 눈부신 역전의 여신
   ko_rr: Nunbusin Yeokjeon-ui Yeosin
+  zh-TW:
   zh-CN: 复仇之女神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドにカードが存在せず、自分の手札がこのカード１枚のみの場合、相手モンスターの攻撃宣言時にこのカードを手札から捨てて発動できる。相手フィールドのカードを全て破壊する。その後、自分はデッキからモンスター１体を特殊召喚できる。
   ko: |-
     ①: 자신 필드에 카드가 존재하지 않으며, 자신의 패가 이 카드 1장뿐일 경우, 상대 몬스터의 공격 선언시에 이 카드를 패에서 버리고 발동할 수 있다. 상대 필드의 카드를 전부 파괴한다. 그 후, 자신은 덱에서 몬스터 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己场上没有卡存在并且手卡只有这1张卡的场合，对方怪兽的攻击宣言时：可以把这张卡从手卡丢弃；对方场上的卡全部破坏，之后可以从卡组把1只怪兽特殊召唤。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 6
 atk: 1800

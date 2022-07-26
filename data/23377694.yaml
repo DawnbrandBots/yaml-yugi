@@ -7,10 +7,11 @@ name:
   fr: Coquillage de Crabe Potartiste
   it: Artistamico Conchiglia del Cancro
   pt: Camarartista Concha do Caranguejo
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>オオヤヤドカリ
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>オオヤヤドカリ
   ja_romaji: Entameito Ooyayadokari
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 집주인소라게
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 집주인소라게
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 房东寄居蟹
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、自分フィールドのＰモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、自分フィールドの「ＥＭ」モンスターの数×３００アップする。
   ko: |-
     ① : 1턴에 1번, 자신 필드의 펜듈럼 몬스터 1장를 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지, 자신 필드의 "EM(엔터메이트)" 몬스터의 수 × 300 올린다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，以自己场上1只灵摆怪兽为对象才能发动。那只怪兽的攻击力直到回合结束时上升自己场上的「娱乐伙伴」怪兽数量×300。
-type: Monster
-typeline: Aqua / Pendulum / Effect
+card_type: Monster
+monster_type_line: Aqua / Pendulum / Effect
 attribute: WATER
 level: 5
 atk: 500
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：１ターンに１度、自分の「ＥＭ」モンスターが戦闘で破壊された時、自分のＰゾーンの「ＥＭ」カードまたは「オッドアイズ」カード１枚を対象として発動できる。そのカードを特殊召喚する。
   ko: |-
     ① : 1턴에 1번, 자신의 "EM(엔터메이트)" 몬스터가 전투로 파괴되었을 때, 자신의 펜듈럼 존의 "EM(엔터메이트)" 카드 또는 "오드아이즈" 카드 1장을 대상으로 하고 발동할수 있다. 그 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己的「娱乐伙伴」怪兽被战斗破坏时，以自己的灵摆区域1张「娱乐伙伴」卡或者「异色眼」卡为对象才能发动。那张卡特殊召唤。
 sets:

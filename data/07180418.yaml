@@ -7,11 +7,11 @@ name:
   fr: Armure Exe
   it: Armatura Exe
   pt: Armadura Exe
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>アーマー
-    エグゼ
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby>アーマー エグゼ
   ja_romaji: Madō Āmā Eguze
   ko: 마도 아머 에그제
   ko_rr:
+  zh-TW:
   zh-CN: 魔导铠甲 执行者
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     このカードは召喚・反転召喚・特殊召喚したターンには攻擊できない。自分と相手のスタンバイフェイズ每に、自分のフィールド上の魔力カウンターを１個取り除く。取り除かない場合はこのカードを破壞する。
   ko: |-
     이 카드는 일반 소환 / 반전 소환 / 특수 소환한 턴에는 공격할 수 없다. 자신과 상대의 스텐바이 페이즈마다. 자신 필드 위의 마력 카운터를 1개 제거한다. 제거하지 않을 경우는 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡在召唤·反转召唤·特殊召唤的回合不能攻击。每次自己和对方的准备阶段，把自己场上1个魔力指示物取除。不取除的场合这张卡破坏。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: LIGHT
 level: 4
 atk: 2400

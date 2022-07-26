@@ -7,10 +7,11 @@ name:
   fr: Grand Magnus Roi Méca Super Quantique
   it: Super Quantal Re Mech Grande Magnus
   pt: Rei Mech Super Quantal Grande Magnus
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>量</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>グレート・マグナス
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>量</rb><rt>りょう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>グレート・マグナス
   ja_romaji: Chōryōkishin'ō Gurēto Magunasu
   ko: 초량기신왕 그레이트 매그너스
   ko_rr:
+  zh-TW:
   zh-CN: 超量机神王 大磁炎
 text:
   en: |-
@@ -45,15 +46,16 @@ text:
     Se este card for enviado para o Cemitério: você pode Invocar por Invocação-Especial 3 Monstros Xyz "Besta Mech Super Quantal" com nomes diferentes do seu Cemitério. Este card ganha esses efeitos, de acordo com o número de matérias com nomes diferentes associadas a ele. ● 2+: Uma vez por turno, durante a Fase Principal (Efeito Rápido): você pode desassociar 1 matéria deste card; embaralhe no Deck 1 card do campo. ● 4+: Ele não é afetado por efeitos de card, exceto cards "Super Quant". ● 6+: Seu oponente não pode adicionar cards do Deck à mão por efeitos de card.
   ja: |-
     レベル１２モンスター×３
-    ①：このカードの<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>素材の種類によって以下の効果を得る。●２種類以上：１ターンに１度、自分・相手のメインフェイズにこのカードの<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>素材を１つ取り除いて発動できる。フィールドのカード１枚を選んでデッキに戻す。●４種類以上：このカードは「超量」カード以外のカードの効果を受けない。●６種類以上：相手はカードの効果でデッキからカードを手札に加える事ができない。②：このカードが墓地へ送られた場合に発動できる。自分の墓地から「超量機獣」<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>モンスター３種類を１体ずつ選んで特殊召喚する。
+    ①：このカードの<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>素材の種類によって以下の効果を得る。●２種類以上：１ターンに１度、自分・相手のメインフェイズにこのカードの<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>素材を１つ取り除いて発動できる。フィールドのカード１枚を選んでデッキに戻す。●４種類以上：このカードは「超量」カード以外のカードの効果を受けない。●６種類以上：相手はカードの効果でデッキからカードを手札に加える事ができない。②：このカードが墓地へ送られた場合に発動できる。自分の墓地から「超量機獣」<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>モンスター３種類を１体ずつ選んで特殊召喚する。
   ko: |-
     레벨 12 몬스터 × 3
     ① : 이 카드의 엑시즈 소재의 종류에 따라 이하의 효과를 얻는다. ● 2종류 이상 : 1턴에 1번, 자신 / 상대의 메인 페이즈에 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 필드의 카드 1장을 고르고 덱으로 되돌린다. ● 4종류 이상 : 이 카드는 "초량" 카드 이외의 카드의 효과를 받지 않는다. ● 6종류 이상 : 상대는 카드의 효과로 덱에서 카드를 패에 넣을 수 없다. ② : 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 자신의 묘지에서 "초량기수" 엑시즈 몬스터 3종류를 1장씩 고르고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     12星怪兽×3
     ①：得到这张卡的XYZ素材种类的以下效果。●2种类以上：1回合1次，自己·对方的主要阶段把这张卡1个XYZ素材取除才能发动。选场上1张卡回到卡组。●4种类以上：这张卡不受「超量」卡以外的卡的效果影响。●6种类以上：对方不能用卡的效果从卡组把卡加入手卡。②：这张卡被送去墓地的场合才能发动。从自己墓地选「超量机兽」XYZ怪兽3种类各1只特殊召唤。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: LIGHT
 rank: 12
 atk: 3600

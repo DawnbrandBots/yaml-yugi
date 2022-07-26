@@ -7,10 +7,11 @@ name:
   fr: La Sentinelle Inflexible
   it: La Sentinella Potente
   pt: O Sentinela Inflexível
-  ja: <ruby><rb>強</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>引</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>な<ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>ぺい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>強</rb><rt>ごう</rt></ruby><ruby><rb>引</rb><rt>いん</rt></ruby>な<ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>兵</rb><rt>ぺい</rt></ruby>
   ja_romaji: Gōin na Banhei
   ko: 강인한 파수병
   ko_rr:
+  zh-TW:
   zh-CN: 强引的番兵
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手の手札を確認し、その中からカードを１枚デッキに戻す。
   ko: |-
     상대의 패를 본다. 그 중에서 카드를 1장 선택하여 상대의 덱으로 되돌리고, 덱을 셔플한다.
+  zh-TW:
   zh-CN: |-
     把对方手卡确认，从那之中让1张卡回到卡组。
-type: Spell
+card_type: Spell
 property: Normal

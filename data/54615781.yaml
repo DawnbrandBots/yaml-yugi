@@ -7,10 +7,11 @@ name:
   fr: Esprit des vents
   it: Spirito dei Venti
   pt:
-  ja: <ruby><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>風</rb><rt>かぜ</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
   ja_romaji: Kaze no Seirei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 风之精灵
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
   ja: |-
     気ままに飛び回る風の精霊。機嫌が悪いと嵐になる。
   ko:
+  zh-TW:
   zh-CN: |-
     自在飞翔的风之精灵。心情不好的时候就会变成狂风。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: WIND
 level: 5
 atk: 1700

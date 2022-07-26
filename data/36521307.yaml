@@ -7,14 +7,15 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>斬</rb><rp>（</rp><rt>ザン</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>キ</rt><rp>）</rp></ruby>サーキュラー
+  ja: <ruby><rb>斬</rb><rt>ザン</rt></ruby><ruby><rb>機</rb><rt>キ</rt></ruby>サーキュラー
   ja_romaji: Zanki Sākyurā
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 斩机 圆周士
 text:
   en: |-
-    You can send 1 "Mathmech" monster from your Deck to the GY, except "Mathmech Circular"; Special Summon this card from your hand, also you can only attack with 1 monster for the rest of this turn. If another "Mathmech" monster(s) is Normal or Special Summoned to your field while you control this monster (except during the Damage Step): You can add 1 "Mathmech" Spell/Trap from your Deck to your hand. You can only use each effect of "Mathmech Circular" once per turn.
+    You can send 1 "Mathmech" monster, except "Mathmech Circular", from your Deck to your GY; Special Summon this card from your hand, also you can only attack with 1 monster for the rest of this turn. If a "Mathmech" monster is Normal or Special Summoned to your field while you control this monster (except during the Damage Step): You can add 1 "Mathmech" Spell/Trap from your Deck to your hand. You can only use each effect of "Mathmech Circular" once per turn.
   de:
   es:
   fr:
@@ -23,17 +24,48 @@ text:
   ja: |-
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「斬機サーキュラー」以外の「斬機」モンスター１体を墓地へ送って発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスター１体でしか攻撃できない。②：このカードが既にモンスターゾーンに存在する状態で、自分フィールドに他の「斬機」モンスターが召喚・特殊召喚された場合に発動できる。デッキから「斬機」魔法・罠カード１枚を手札に加える。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①②效果1回合各能使用1次。①：可以从卡组将1只「斬機サーキュラー／斩机 圆周士」以外的「斬機／斩机」怪兽送入墓地发动。将这张卡从手牌特殊召唤。这个效果发动后，直到回合结束时自己只能用1只怪兽攻击。②：这张卡已在怪兽区存在的状态下，自己场上有其他的「斬機／斩机」怪兽被召唤或特殊召唤的场合可以发动。从卡组将1张「斬機／斩机」魔法陷阱卡加入手牌。
-type: Monster
-typeline: Cyberse / Effect
+card_type: Monster
+monster_type_line: Cyberse / Effect
 attribute: LIGHT
 level: 4
 atk: 1500
 def: 1500
 sets:
+  en:
+  - set_number: POTE-EN028
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  de:
+  - set_number: POTE-DE028
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: POTE-FR028
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  it:
+  - set_number: POTE-IT028
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: POTE-PT028
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
   ja:
   - set_number: POTE-JP028
+    set_name: Power of the Elements
+    rarities:
+    - Rare
+  ko:
+  - set_number: POTE-KR028
     set_name: Power of the Elements
     rarities:
     - Rare

@@ -7,10 +7,11 @@ name:
   fr: Maître du Cristal
   it: Maestro dei Cristalli
   pt: Mestre Cristalino
-  ja: <ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>玉</rb><rp>（</rp><rt>ぎょく</rt><rp>）</rp></ruby>の<ruby><rb>先</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>玉</rb><rt>ぎょく</rt></ruby>の<ruby><rb>先</rb><rt>せん</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Hōgyoku no Sendōsha
   ko: 보옥의 선도자
   ko_rr:
+  zh-TW:
   zh-CN: 宝玉的先导者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードをリリースして発動できる。「究極宝玉神」モンスター、「宝玉獣」モンスター、「宝玉」魔法・罠カードの内、いずれか１枚をデッキから手札に加える。
   ko: |-
     ①: 이 카드를 릴리스하고 발동할 수 있다. 덱에서 "궁극보옥신" 몬스터, "보옥수" 몬스터, "보옥" 마법 / 함정 카드 중, 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     ①：把这张卡解放才能发动。从卡组把「究极宝玉神」怪兽、「宝玉兽」怪兽、「宝玉」魔法·陷阱卡之内任意1张加入手卡。
-type: Monster
-typeline: Spellcaster / Pendulum / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Pendulum / Effect
 attribute: DARK
 level: 3
 atk: 1300
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：このカードがＰゾーンに存在する限り、自分フィールドの「究極宝玉神」モンスター及び「宝玉獣」カードは、相手の効果の対象にならない。
   ko: |-
     ①: 이 카드가 펜듈럼 존에 존재하는 한, 자신 필드의 "궁극보옥신" 몬스터 및 "보옥수" 카드는, 상대 효과의 대상이 되지 않는다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在灵摆区域存在，自己场上的「究極宝玉神」怪兽以及「宝玉獣」卡不会成为对方的效果的对象。
 sets:

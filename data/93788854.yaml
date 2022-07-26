@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: さまよえる<ruby><rb>亡</rb><rp>（</rp><rt>もう</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
+  ja: さまよえる<ruby><rb>亡</rb><rt>もう</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>
   ja_romaji: Samayoeru Mōja
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 彷徨的亡者
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     成仏できず、行くあてもなくフラフラとしているモンスター。
   ko:
+  zh-TW:
   zh-CN: |-
     因不能成佛，而只能漫无目的徘徊的怪兽。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 2
 atk: 800

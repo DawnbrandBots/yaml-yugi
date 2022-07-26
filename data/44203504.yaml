@@ -7,10 +7,11 @@ name:
   fr: Chevalier Robotisé
   it: Cavaliere Robotico
   pt: Cavaleiro Robótico
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>曹</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>曹</rb><rt>そう</rt></ruby>
   ja_romaji: Kikai Gunsō
   ko: 기계 군조
   ko_rr:
+  zh-TW:
   zh-CN: 机械军曹
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     機械王に仕える機械族の司令塔。機械の兵隊を統率する攻撃的な用兵で有名。
   ko: |-
     기계왕을 섬기는 기계족의 사령탑. 기계의 군대를 총솔하는 공격적인 용병으로 유명하다.
+  zh-TW:
   zh-CN: |-
     侍从机械王的机械族的司令官。统率机械部队的攻击性用兵而很有名。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: FIRE
 level: 4
 atk: 1600

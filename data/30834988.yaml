@@ -7,10 +7,11 @@ name:
   fr: Tous à l'Attaque !
   it: Attacco Totale
   pt: Ataque Total
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>限</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>－<ruby><rb>猛</rb><rp>（</rp><rt>もう</rt><rp>）</rp></ruby><ruby><rb>突</rb><rp>（</rp><rt>とつ</rt><rp>）</rp></ruby>するモンスター
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>制</rb><rt>せい</rt></ruby><ruby><rb>限</rb><rt>げん</rt></ruby>－<ruby><rb>猛</rb><rt>もう</rt></ruby><ruby><rb>突</rb><rt>とつ</rt></ruby>するモンスター
   ja_romaji: Shōkan Seigen - Mōtotsusuru Monsutā
   ko: 소환제한-맹렬한몬스터
   ko_rr:
+  zh-TW:
   zh-CN: 召唤限制-猛突的怪兽
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードがフィールド上に存在する場合にモンスターが特殊召喚に成功した時、そのモンスターを表側攻撃表示にする。そのターンそのモンスターが攻撃可能な場合には攻撃しなければならない。
   ko: |-
     특수 소환에 성공한 몬스터는 앞면 공격 표시가 된다. 그 몬스터가 공격 가능한 몬스터였을 경우, 그 턴에 공격해야 한다.
+  zh-TW:
   zh-CN: |-
     这张卡在场上存在的场合怪兽特殊召唤成功时，那些怪兽变成表侧攻击表示。那个回合那些怪兽可以攻击的场合必须作出攻击。
-type: Trap
+card_type: Trap
 property: Continuous

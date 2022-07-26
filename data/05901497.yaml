@@ -7,10 +7,11 @@ name:
   fr: Queen's Double
   it: Doppio della Regina
   pt: Sósia da Rainha
-  ja: <ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の<ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>女</rb><rt>じょ</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>の<ruby><rb>影</rb><rt>かげ</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Joō no Kagemusha
   ko: 여왕의 무사
   ko_rr:
+  zh-TW:
   zh-CN: 女王的影武者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは相手プレイヤーを直接攻撃する事ができる。
   ko: |-
     이 카드는 상대를 직접 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以直接攻击对方玩家。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 1
 atk: 350

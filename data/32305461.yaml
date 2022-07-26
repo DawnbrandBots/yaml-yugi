@@ -7,11 +7,12 @@ name:
   fr: Flammette, Sorcière de la Bonne Aventure
   it: En la Strega Indovina
   pt: Fada Fortuna En
-  ja: <ruby><rb>占</rb><rp>（</rp><rt>うらな</rt><rp>）</rp></ruby>い<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>占</rb><rt>うらな</rt></ruby>い<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>
     エンちゃん
   ja_romaji: Uranai Majo En-chan
   ko: 점쟁이 마녀 엔
   ko_rr: Jeomjaeng-i Manyeo En
+  zh-TW:
   zh-CN: 占卜魔女 小炎
 text:
   en: |-
@@ -30,12 +31,13 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードをドローした時、このカードを相手に見せて発動できる。このカードを手札から特殊召喚する。②：このカードが手札からの特殊召喚に成功した場合、相手フィールドにセットされたカード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 드로우했을 때, 이 카드를 상대에게 보여주고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 패에서의 특수 소환에 성공했을 경우, 상대 필드에 세트된 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：把这张卡抽到时，把这张卡给对方观看才能发动。这张卡从手卡特殊召唤。
     ②：这张卡从手卡的特殊召唤成功的场合，以对方场上盖放的1张卡为对象才能发动。那张卡破坏。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: FIRE
 level: 2
 atk: 0

@@ -7,10 +7,11 @@ name:
   fr: Chien Mécanique Marron
   it: Marron Cane Meccanico
   pt: Cão Máquina Marron
-  ja: <ruby><rb>機械犬</rb><rp>（</rp><rt>メカドッグ</rt><rp>）</rp></ruby>マロン
+  ja: <ruby><rb>機械犬</rb><rt>メカドッグ</rt></ruby>マロン
   ja_romaji: Meka Doggu Maron
   ko: 기계견마론
   ko_rr:
+  zh-TW:
   zh-CN: 机械犬 小栗子
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上のこのカードが戦闘によって破壊され墓地へ送られた時、お互いのライフに１０００ポイントダメージを与える。フィールド上のこのカードが戦闘以外によって破壊され墓地へ送られた時、相手ライフに１０００ポイントダメージを与える。
   ko: |-
     필드 위의 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 서로의 라이프에 1000 포인트 데미지를 준다. 필드 위의 이 카드가 전투 이외의 방법에 의해서 파괴되어 묘지로 보내졌을 때, 상대 라이프에 1000 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     场上的这张卡被战斗破坏送去墓地时，给与双方基本分1000分伤害。场上的这张卡因战斗以外被破坏送去墓地时，给与对方基本分1000分伤害。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 4
 atk: 1000

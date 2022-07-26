@@ -7,10 +7,11 @@ name:
   fr: Chat Noir à Queue Blanche
   it: Gatto Nero dalla Coda Bianca
   pt: Gato Preto com Cauda Branca
-  ja: <ruby><rb>尾</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>も<ruby><rb>白</rb><rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>い<ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby><rb>猫</rb><rp>（</rp><rt>ねこ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>尾</rb><rt>お</rt></ruby>も<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>黒</rb><rt>くろ</rt></ruby><ruby><rb>猫</rb><rt>ねこ</rt></ruby>
   ja_romaji: Omoshiroi Kuroneko
   ko: 흰꼬리의검은 고양이
   ko_rr:
+  zh-TW:
   zh-CN: 白尾黑猫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：相手フィールド上モンスター２体と自分フィールド上モンスター１体を持ち主の手札に戻す。
   ko: |-
     리버스 : 상대 필드 위의 몬스터 2장과 자신 필드 위의 몬스터 1장을 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     对方场上2只怪兽和自己场上1只怪兽回到持有者手卡。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 2
 atk: 800

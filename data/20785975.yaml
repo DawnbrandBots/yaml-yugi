@@ -7,13 +7,14 @@ name:
   fr: 'Numéro C103: Ragnafinité'
   it: 'Numero C103: Ragnainfinito'
   pt: 'Número C103: Ragnafinito'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１０３
-    <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>葬</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>零</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>嬢</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>ラグナ・インフィニティ
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１０３
+    <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>葬</rb><rt>そう</rt></ruby><ruby><rb>零</rb><rt>れい</rt></ruby><ruby><rb>嬢</rb><rt>じょう</rt></ruby>ラグナ・インフィニティ
   ja_romaji: Kaosu Nanbāzu Hyakusan Shinsōreijō Raguna Infiniti
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>103
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>103
     신장령양 라그나 인피니티
   ko_rr:
-  zh-CN: 混沌No.103 神葬零娘 暮永
+  zh-TW:
+  zh-CN: 混沌编号103 神葬零娘
 text:
   en: |-
     3 Level 5 monsters
@@ -39,11 +40,12 @@ text:
   ko: |-
     레벨 5 몬스터 × 3
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터의 공격력과, 그 원래 공격력의 차이만큼 데미지를 상대 라이프에 주고, 그 몬스터를 게임에서 제외한다. 이 효과는 상대 턴에도 발동할 수 있다. 또한, 엑시즈 소재를 가진 이 카드가 파괴되어 묘지로 보내졌을 때, 자신의 묘지에 "No.103 신장영양 라그나 제로" 가 존재할 경우, 이 카드를 묘지에서 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
-    5星怪兽×3
-    1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧表示存在的1只怪兽才能发动。给与对方基本分选择的怪兽的攻击力和那个原本攻击力的相差数值的伤害，那只怪兽从游戏中除外。这个效果在对方回合也能发动。此外，持有XYZ素材的这张卡被破坏送去墓地时，自己墓地有「No.103 神葬零娘 暮零」存在的场合，这张卡可以从墓地特殊召唤。
-type: Monster
-typeline: Fairy / Xyz / Effect
+    等级5怪兽×3
+    ①：1回合1次，去除此卡的1个超量素材，以对手场上的1只拥有与原本攻击力不同的攻击力的怪兽为对象可以发动。给予对手该怪兽的攻击力与其原本攻击力的差值的伤害，将该怪兽除外。此效果在对手回合中也可以发动。②：拥有超量素材的此卡被破坏并被送至墓地时可以发动。将此卡特殊召唤。此效果在自己墓地有"编号103 神葬零娘 诸神零"存在的情况下才能发动和处理。
+card_type: Monster
+monster_type_line: Fairy / Xyz / Effect
 attribute: WATER
 rank: 5
 atk: 2800

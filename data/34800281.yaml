@@ -1,7 +1,7 @@
 konami_id: 17425
 password: 34800281
 name:
-  en: Melffy Sealy
+  en: Melffy Pinny
   de:
   es:
   fr:
@@ -11,10 +11,11 @@ name:
   ja_romaji: Merufī Rasshī
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 奇妙毛毛兽 小海豹
 text:
   en: |-
-    If a face-up Beast monster(s) you control other than "Melffy Sealy" was returned to the hand this turn (Quick Effect): You can Special Summon this card from your hand, then, immediately after this effect resolves, you can Synchro Summon using only "Melffy" monsters in your hand and this card as material. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of "Melffy Sealy" once per turn.
+    If a face-up Beast monster you control was returned to the hand this turn, except "Melffy Pinny" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and "Melffy" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of "Melffy Pinny" once per turn.
   de:
   es:
   fr:
@@ -23,17 +24,48 @@ text:
   ja: |-
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：「メルフィー・ラッシィ」以外の自分フィールドの表側表示の獣族モンスターが手札に戻ったターンに発動できる。このカードを手札から特殊召喚する。その後、このカードと手札の「メルフィー」モンスターのみを素材としてＳ召喚できる。この効果は相手ターンでも発動できる。②：自分エンドフェイズにこのカードが墓地に存在する場合、自分フィールドの獣族Ｘモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてＸ素材とする。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①②效果1回合各能使用1次。①：「メルフィー・ラッシィ／奇妙毛毛兽 小海豹」以外的自己场上的表侧表示的兽族怪兽返回手牌的回合可以发动。将这张卡从手牌特殊召唤。那之后，可以只将这张卡和手牌的「メルフィー／奇妙毛毛兽」怪兽作为素材来同调召唤。②：自己的结束阶段这张卡在墓地存在的场合，可以以自己场上的1只兽族多维怪兽为对象发动。将这张卡叠放在那只怪兽下面作为多维素材。
-type: Monster
-typeline: Beast / Tuner / Effect
+card_type: Monster
+monster_type_line: Beast / Tuner / Effect
 attribute: WATER
 level: 2
 atk: 300
 def: 100
 sets:
+  en:
+  - set_number: POTE-EN023
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE023
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR023
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT023
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT023
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: POTE-JP023
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  ko:
+  - set_number: POTE-KR023
     set_name: Power of the Elements
     rarities:
     - Common

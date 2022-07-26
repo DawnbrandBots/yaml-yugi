@@ -7,11 +7,12 @@ name:
   fr: Lee la Fée du Calice du Monde
   it: Lee la Fata Calice del Mondo
   pt: Lee, a Fada do Cálice Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>杯</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>リース
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>杯</rb><rt>はい</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>リース
   ja_romaji: Seihai no Yōsei Rīsu
   ko: 성잔의 요정 리스
   ko_rr:
-  zh-CN: 星杯的妖精 莉丝
+  zh-TW:
+  zh-CN: 星杯妖精 丽丝
 text:
   en: |-
     If this card is Normal or Special Summoned: You can add 1 "World Chalice" monster from your Deck to your hand. If this card is in your GY: You can send 1 monster from your hand or field to the GY; add this card to your hand. You can only use each effect of "Lee the World Chalice Fairy" once per turn.
@@ -29,10 +30,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「星杯」モンスター１体を手札に加える。②：このカードが墓地に存在する場合、自分の手札・フィールドのモンスター１体を墓地へ送って発動できる。墓地のこのカードを手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "성잔" 몬스터 1장을 패에 넣는다. ② : 이 카드가 묘지에 존재할 경우, 자신의 패 / 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다. 묘지의 이 카드를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1只「星杯」怪兽加入手卡。②：这张卡在墓地存在的场合，把自己的手卡·场上1只怪兽送去墓地才能发动。墓地的这张卡加入手卡。
-type: Monster
-typeline: Fairy / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1只“星杯”怪兽加入手牌。②：此卡存在于墓地的情况下，将1只自己手牌・场上的怪兽送至墓地可以发动。将墓地的此卡加入手牌。
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 2
 atk: 100

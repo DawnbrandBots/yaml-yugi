@@ -7,10 +7,11 @@ name:
   fr: Masque de Dissipation
   it: Maschera dell' Antimagia
   pt: Máscara da Dissipação
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>の<ruby><rb>仮</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>面</rb><rp>（</rp><rt>めん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby><ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby><ruby><rb>化</rb><rt>か</rt></ruby>の<ruby><rb>仮</rb><rt>か</rt></ruby><ruby><rb>面</rb><rt>めん</rt></ruby>
   ja_romaji: Maryoku Muryokuka no Kamen
   ko: 마력무력화 가면
   ko_rr:
+  zh-TW:
   zh-CN: 魔力无力化之假面
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に表側表示で存在する魔法カード１枚を選択して発動する。自分のスタンバイフェイズ毎に、選択した魔法カードのコントローラーに５００ポイントダメージを与える。選択したカードがフィールド上に存在しなくなった時、このカードを破壊する。
   ko: |-
     필드 위의 앞면 표시의 마법 카드를 1장 지정한다. 그 마법의 컨트롤러는 자신의 스텐바이 페이즈마다 500 포인트의 데미지를 받는다. 지정한 카드가 필드 위에 존재하지 않게 되었을 때, 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     选择场上表侧表示存在的1张魔法卡发动。每次自己的准备阶段，给与选择的魔法卡的控制者500分伤害。选择的卡不在场上存在时，这张卡破坏。
-type: Spell
+card_type: Spell
 property: Continuous

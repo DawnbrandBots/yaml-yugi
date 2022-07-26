@@ -11,6 +11,7 @@ name:
   ja_romaji: Arukana Ekusutora Jōkā
   ko: 아르카나 엑스트라 조커
   ko_rr: Areukana Ekseuteura Jokeo
+  zh-TW:
   zh-CN: 天位准骑士
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     카드명이 다른 전사족 몬스터 3장
     ①: 1턴에 1번, 필드의 이 카드 또는 이 카드의 링크 앞의 몬스터를 대상으로 하는, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때, 그 카드와 같은 종류(몬스터 / 마법 / 함정)의 패를 1장 버리고 발동할 수 있다. 그 발동을 무효로 한다. ②: 링크 소환한 이 카드가 전투로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 덱에서 전사족 / 레벨 4 의 일반 몬스터 1장을 특수 소환하고, 덱에서 전사족 / 레벨 4 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     卡名不同的战士族怪兽3只
     ①：1回合1次，以场上的这张卡或者这张卡所连接区的怪兽为对象的怪兽的效果·魔法·陷阱卡发动时，把和那张卡相同种类（怪兽·魔法·陷阱）的1张手卡丢弃才能发动。那个发动无效。
     ②：连接召唤的这张卡被战斗破坏送去墓地时才能发动。从卡组把1只战士族·4星的通常怪兽特殊召唤，从卡组把1只战士族·4星怪兽加入手卡。
-type: Monster
-typeline: Warrior / Link / Effect
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Top-Center
-- Bottom-Left
-- Bottom-Right
+- ⬆
+- ↙
+- ↘
 atk: 2800
 materials: 3 Warrior monsters with different names
 sets:

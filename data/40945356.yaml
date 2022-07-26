@@ -7,10 +7,11 @@ name:
   fr: Nichirin le Chunin, Ninja du Crépuscule
   it: Ninja del Crepuscolo Nichirin, il Chunin
   pt: Ninja do Crepúsculo Nichirin, o Chunin
-  ja: <ruby><rb>黄</rb><rp>（</rp><rt>たそ</rt><rp>）</rp></ruby><ruby><rb>昏</rb><rp>（</rp><rt>がれ</rt><rp>）</rp></ruby>の<ruby><rb>中</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>－ニチリン
+  ja: <ruby><rb>黄</rb><rt>たそ</rt></ruby><ruby><rb>昏</rb><rt>がれ</rt></ruby>の<ruby><rb>中</rb><rt>ちゅう</rt></ruby><ruby><rb>忍</rb><rt>にん</rt></ruby>－ニチリン
   ja_romaji: Tasogare no Chūnin - Nichirin
   ko: 황혼의 중인-니치린
   ko_rr:
+  zh-TW:
   zh-CN: 黄昏之中忍-日轮
 text:
   en: |-
@@ -41,12 +42,13 @@ text:
     このカードはルール上「忍者」カードとしても扱う。①：１ターンに１度、手札から「忍者」モンスター１体を捨て、以下の効果から１つを選択して発動できる。この効果は相手ターンでも発動できる。●このターン、自分フィールドの「忍者」モンスター及び「忍法」カードは戦闘・効果では破壊されない。●自分フィールドの「忍者」モンスター１体を選び、その攻撃力をターン終了時まで１０００アップする。
   ko: |-
     이 카드는 룰 상 "첩자" 카드로서도 취급한다. ①: 1턴에 1번, 패에서 "첩자" 몬스터 1장을 버리고, 이하의 효가에서 1개를 선택하여 발동할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다. ●이 턴에, 자신 필드의 "첩자" 몬스터 및 "인법" 카드는 전투 / 효과로는 파괴되지 않는다. ●자신 필드의 "첩자" 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 1000 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡在规则上也当作「忍者」卡使用。①：1回合1次，可以从手卡丢弃1只「忍者」怪兽，从以下效果选择1个发动。这个效果在对方回合也能发动。
     ●这个回合，自己场上的「忍者」怪兽以及「忍法」卡不会被战斗·效果破坏。
     ●选自己场上1只「忍者」怪兽，那个攻击力直到回合结束时上升1000。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 6
 atk: 2300

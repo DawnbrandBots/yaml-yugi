@@ -7,11 +7,11 @@ name:
   fr: Forgeron Kotetsu
   it: Kotetsu Fabbro del Ferro
   pt: Ferreiro Kotetsu
-  ja: <ruby><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>工</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
-    <ruby><rb>虎</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>鉄</rb><rp>（</rp><rt>てつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>名</rb><rt>めい</rt></ruby><ruby><rb>工</rb><rt>こう</rt></ruby> <ruby><rb>虎</rb><rt>こ</rt></ruby><ruby><rb>鉄</rb><rt>てつ</rt></ruby>
   ja_romaji: Meikō Kotetsu
   ko: 명공 호철
   ko_rr:
+  zh-TW:
   zh-CN: 名匠 虎铁
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     ①：このカードがリバースした場合に発動する。デッキから装備魔法カード１枚を手札に加える。
   ko: |-
     리버스 : 자신의 덱에서 장착 마법 카드를 1장 선택하여, 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡反转的场合发动。从卡组把1张装备魔法卡加入手卡。
-type: Monster
-typeline: Beast-Warrior / Flip / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Flip / Effect
 attribute: FIRE
 level: 2
 atk: 500

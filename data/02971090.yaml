@@ -7,11 +7,11 @@ name:
   fr: Orion le Roi de Bataille
   it:
   pt:
-  ja: <ruby><rb>戦</rb><rp>（</rp><rt>たたか</rt><rp>）</rp></ruby>いの<ruby><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>
-    オリオン
+  ja: <ruby><rb>戦</rb><rt>たたか</rt></ruby>いの<ruby><rb>神</rb><rt>かみ</rt></ruby> オリオン
   ja_romaji: Tatakai no Kami Orion
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 战神 奥利安
 text:
   en: |-
@@ -25,10 +25,11 @@ text:
   ja: |-
     戦いの神と言われている天使。その戦いを見た者は誰もいない。
   ko:
+  zh-TW:
   zh-CN: |-
     被誉为战神的天使。不过谁也没见过那场战事。
-type: Monster
-typeline: Fairy
+card_type: Monster
+monster_type_line: Fairy
 attribute: LIGHT
 level: 5
 atk: 1800

@@ -7,10 +7,11 @@ name:
   fr: Violent Orage
   it: Tempesta Potente
   pt: Tempestade Pesada
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>嵐</rb><rp>（</rp><rt>あらし</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>嵐</rb><rt>あらし</rt></ruby>
   ja_romaji: Ōarashi
   ko: 태풍
   ko_rr:
+  zh-TW: 大嵐
   zh-CN: 大风暴
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：フィールドの魔法・罠カードを全て破壊する。
   ko: |-
     ①: 필드의 마법 / 함정 카드를 전부 파괴한다.
+  zh-TW: 破坏场上全部的魔法、陷阱卡。
   zh-CN: |-
     场上的魔法·陷阱卡全部破坏。
-type: Spell
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Chevalerie
   it: Cavalleria
   pt: Cavalaria
-  ja: <ruby><rb>威</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby><rb>堂</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>威</rb><rt>い</rt></ruby><ruby><rb>風</rb><rt>ふう</rt></ruby><ruby><rb>堂</rb><rt>どう</rt></ruby><ruby><rb>々</rb><rt>どう</rt></ruby>
   ja_romaji: Ifūdōdō
   ko: 위풍당당
   ko_rr:
+  zh-TW:
   zh-CN: 威风堂堂
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     バトルフェイズ中のみ発動する事ができる。相手が発動した効果モンスターの効果を無効にし破壊する。
   ko: |-
     배틀 페이즈 중에만 발동할 수 있다. 상대가 발동한 효과 몬스터의 효과를 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     战斗阶段中才能发动。对方发动的效果怪兽的效果无效并破坏。
-type: Trap
+card_type: Trap
 property: Counter

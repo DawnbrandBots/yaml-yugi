@@ -7,10 +7,11 @@ name:
   fr: Chien Mary Exceptionnel
   it: Mary Cane Fantastico
   pt: Cadela Mary Fantástica
-  ja: <ruby><rb>迷</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>犬</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>メリー
+  ja: <ruby><rb>迷</rb><rt>めい</rt></ruby><ruby><rb>犬</rb><rt>けん</rt></ruby>メリー
   ja_romaji: Meiken Merī
   ko: 미아견 멜리
   ko_rr: Miagyeon Melli
+  zh-TW:
   zh-CN: 迷犬小梅丽
 text:
   en: |-
@@ -49,10 +50,11 @@ text:
     ●デッキから「迷犬マロン」１体を手札に加え、このカードをデッキの一番上に戻す。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 묘지로 보내졌을 경우, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●이 카드를 덱 맨 아래로 되돌린다. ●덱에서 "미아견 마론" 1장을 패에 넣고, 이 카드를 덱 맨 위로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。①：这张卡被送入墓地的场合，可以从以下的效果中选择1个发动。●使这张卡返回卡组最下面。●从卡组将1只「迷犬マロン／迷犬小栗子」加入手牌，使这张卡返回卡组最上面。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: LIGHT
 level: 1
 atk: 100

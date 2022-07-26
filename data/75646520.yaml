@@ -7,10 +7,11 @@ name:
   fr: Détecteur de Métaux
   it: Metal Detector
   pt:
-  ja: <ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>属</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby><ruby><rb>探</rb><rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby><rb>知</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>金</rb><rt>きん</rt></ruby><ruby><rb>属</rb><rt>ぞく</rt></ruby><ruby><rb>探</rb><rt>たん</rt></ruby><ruby><rb>知</rb><rt>ち</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>
   ja_romaji: Kinzoku Tanchi-ki
   ko: 금속 탐지기
   ko_rr:
+  zh-TW:
   zh-CN: 金属探知器
 text:
   en: |-
@@ -27,7 +28,8 @@ text:
     永続罠カードが発動されたときに発動する事ができる。ターン終了時までフィールド上の全ての永続罠カードの効果を無効にする。
   ko: |-
     지속 함정 카드가 발동되었을 때 발동할 수 있다. 턴 종료시까지 필드 위의 모든 지속 함정 카드의 효과는 무효로 한다.
+  zh-TW:
   zh-CN: |-
     永续陷阱卡发动时才能发动。直到回合结束时场上全部永续陷阱卡的效果无效。
-type: Trap
+card_type: Trap
 property: Normal

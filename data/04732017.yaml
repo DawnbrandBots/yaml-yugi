@@ -7,10 +7,11 @@ name:
   fr: Zombie en Fusion
   it: Zombie Fuso
   pt: Zumbi Fundido
-  ja: <ruby><rb>灼</rb><rp>（</rp><rt>しゃく</rt><rp>）</rp></ruby><ruby><rb>熱</rb><rp>（</rp><rt>ねつ</rt><rp>）</rp></ruby>ゾンビ
+  ja: <ruby><rb>灼</rb><rt>しゃく</rt></ruby><ruby><rb>熱</rb><rt>ねつ</rt></ruby>ゾンビ
   ja_romaji: Shakunetsu Zonbī
   ko: 작열 좀비
   ko_rr:
+  zh-TW: 灼熱殭屍
   zh-CN: 灼热僵尸
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが墓地からの特殊召喚に成功した時、自分はデッキからカードを１枚ドローする。
   ko: |-
     이 카드가 묘지에서 특수 소환에 성공 했을 때, 자신은 덱에서 카드를 1장 드로우한다.
+  zh-TW: 此卡从墓地特殊召唤成功时，我方从牌组抽取1张卡牌。
   zh-CN: |-
     这张卡从墓地的特殊召唤成功时，自己从卡组抽1张卡。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1600

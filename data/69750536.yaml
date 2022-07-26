@@ -7,10 +7,11 @@ name:
   fr: Guerrier Ouah
   it: Guerriero Wow
   pt:
-  ja: <ruby><rb>魚</rb><rp>（</rp><rt>ギョ</rt><rp>）</rp></ruby>ギョ<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魚</rb><rt>ギョ</rt></ruby>ギョ<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Gyogyo Senshi
   ko: 어류전사
   ko_rr:
+  zh-TW:
   zh-CN: 鱼战士
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     魚に手足が生えた魚人獣。鋭い歯でかみついてくる。
   ko: |-
     물고기에 손과 발이 생겨난 어인짐승. 날카로운 이빨로 씹어 온다.
+  zh-TW:
   zh-CN: |-
     拥有手和脚的鱼人兽，用尖锐的牙齿撕咬敌人。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: WATER
 level: 4
 atk: 1250

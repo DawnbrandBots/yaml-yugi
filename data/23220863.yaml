@@ -7,10 +7,11 @@ name:
   fr: Cavalerie Magique de Cxulub
   it: Cavalleria Magica di Cxulub
   pt: Cavalaria Mágica de Cxulub
-  ja: シュルブの<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: シュルブの<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Shurubu no Madōkihei
   ko: 슈르브의 마도기병
   ko_rr:
+  zh-TW:
   zh-CN: 苏鲁伯的魔导骑兵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードはモンスターゾーンに存在する限り、Ｐモンスター以外のモンスターが発動した効果を受けない。
   ko: |-
     ①: 이 카드는 몬스터 존에 존재하는 한, 펜듈럼 몬스터 이외의 몬스터가 발동한 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡只要在怪兽区域存在，不受灵摆怪兽以外的怪兽发动的效果影响。
-type: Monster
-typeline: Dinosaur / Pendulum / Effect
+card_type: Monster
+monster_type_line: Dinosaur / Pendulum / Effect
 attribute: EARTH
 level: 4
 atk: 1500
@@ -47,6 +49,7 @@ pendulum_effect:
   pt:
   ja:
   ko:
+  zh-TW:
   zh-CN:
 sets:
   en:

@@ -7,10 +7,11 @@ name:
   fr: Le Chasseur avec 7 Armes
   it: Il Cacciatore dalle 7 Armi
   pt: O Caçador com Sete Armas
-  ja: <ruby><rb>７</rb><rp>（</rp><rt>なな</rt><rp>）</rp></ruby>つの<ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby><rb>持</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby>つハンター
+  ja: <ruby><rb>７</rb><rt>なな</rt></ruby>つの<ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つハンター
   ja_romaji: Nanatsu no Buki wo Motsu Hantā
   ko: 7가지 무기를 가진 헌터
   ko_rr:
+  zh-TW:
   zh-CN: 有7种武器的猎人
 text:
   en: |-
@@ -26,10 +27,11 @@ text:
     このカードが召喚に成功した時、種族を１つ宣言して発動する。このカードが、宣言した種族のモンスターと戦闘を行う場合、このカードの攻撃力はダメージ計算時のみ１０００ポイントアップする
   ko: |-
     이 카드를 일반 소환했을 때 종족을 1개 선언한다. 그 종족과 전투를 할 경우, 이 카드. 의 공:은 데미지 계산시에만 1000포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，宣言1个种族发动。这张卡和宣言的种族的怪兽进行战斗的场合，这张卡的攻击力只在伤害计算时上升1000。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 1000

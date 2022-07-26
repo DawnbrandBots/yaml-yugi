@@ -7,10 +7,11 @@ name:
   fr: Balance du Jugement
   it: Bilancia del Giudizio
   pt: Balança do Julgamento
-  ja: <ruby><rb>裁</rb><rp>（</rp><rt>さば</rt><rp>）</rp></ruby>きの<ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>秤</rb><rp>（</rp><rt>びん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>裁</rb><rt>さば</rt></ruby>きの<ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>秤</rb><rt>びん</rt></ruby>
   ja_romaji: Sabaki no Tenbin
   ko: 심판의 천평칭
   ko_rr: Simpan-ui Cheonpyeongching
+  zh-TW:
   zh-CN: 裁决的天秤
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドのカードの数が自分の手札・フィールドのカードの合計数より多い場合に発動できる。自分はその差の数だけデッキからドローする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대 필드의 카드의 수가 자신의 패 / 필드의 카드의 합계수보다 많을 경우에 발동할 수 있다. 자신은 그 차의 수만큼 덱에서 드로우한다.
+  zh-TW:
   zh-CN: |-
     「裁决的天秤」在1回合只能发动1张。①：对方场上的卡数量比自己的手卡·场上的卡合计数量多的场合才能发动。自己从卡组抽出那个相差的数量。
-type: Trap
+card_type: Trap
 property: Normal

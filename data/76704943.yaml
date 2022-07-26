@@ -7,10 +7,11 @@ name:
   fr: Rouleau de Dragon de Yamatano
   it:
   pt:
-  ja: ヤマタノ<ruby><rb>竜</rb><rp>（</rp><rt>ドラゴン</rt><rp>）</rp></ruby><ruby><rb>絵</rb><rp>（</rp><rt>え</rt><rp>）</rp></ruby><ruby><rb>巻</rb><rp>（</rp><rt>まき</rt><rp>）</rp></ruby>
+  ja: ヤマタノ<ruby><rb>竜</rb><rt>ドラゴン</rt></ruby><ruby><rb>絵</rb><rt>え</rt></ruby><ruby><rb>巻</rb><rt>まき</rt></ruby>
   ja_romaji: Yamatano Doragon Emaki
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 八俣龙绘卷
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     絵巻のドラゴンが実体化して攻撃する。守備はかなり低い。
   ko:
+  zh-TW:
   zh-CN: |-
     画卷龙实体他的产物。守备力相当低。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: WIND
 level: 2
 atk: 900

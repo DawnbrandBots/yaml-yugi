@@ -7,10 +7,11 @@ name:
   fr: Duradark, Allié Genex
   it: Genex Alleato Duradark
   pt:
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アーリー</rt><rp>）</rp></ruby>・ジェネクス・ドゥルダーク
+  ja: <ruby><rb>Ａ</rb><rt>アーリー</rt></ruby>・ジェネクス・ドゥルダーク
   ja_romaji: Ārī Jenekusu Durudāku
   ko: A • 제넥스 둘다크
   ko_rr:
+  zh-TW:
   zh-CN: 盟军·次世代同暗兵
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     １ターンに１度、自分のメインフェイズ時に発動する事ができる。このカードと同じ属性を持つ、相手フィールド上に表側攻撃表示で存在するモンスター１体を選択して破壊する。この効果を発動するターンこのカードは攻撃する事ができない。
   ko: |-
     1 턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 이 카드와 같은 속성을 가진, 상대 필드 위에 존재하는 앞면 공격 표시로 존재하는 몬스터 1장을 선택해 파괴한다. 이 효과를 발동한 턴에 이 카드는 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
     1回合1次，自己的主要阶段时才能发动。选择持有和这张卡相同属性的对方场上表侧攻击表示存在的1只怪兽破坏。这个效果发动的回合这张卡不能攻击。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 1800

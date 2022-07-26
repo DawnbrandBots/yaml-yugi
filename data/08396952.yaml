@@ -7,11 +7,11 @@ name:
   fr: Force Arcane I - Le Magicien
   it: Energia Arcana I - Il Mago
   pt:
-  ja: アルカナフォース<ruby><rb>Ｉ</rb><rp>（</rp><rt>ワン</rt><rp>）</rp></ruby>－<ruby><rb>ＴＨＥ
-    ＭＡＧＩＣＩＡＮ</rb><rp>（</rp><rt>ザ・マジシャン</rt><rp>）</rp></ruby>
+  ja: アルカナフォース<ruby><rb>Ｉ</rb><rt>ワン</rt></ruby>－<ruby><rb>ＴＨＥ ＭＡＧＩＣＩＡＮ</rb><rt>ザ・マジシャン</rt></ruby>
   ja_romaji: Arukana Fōsu Wan - Za Majishan
   ko: 아르카나 포스 Ⅰ-더 매지션
   ko_rr:
+  zh-TW:
   zh-CN: 秘仪之力1-魔术师
 text:
   en: |-
@@ -43,10 +43,11 @@ text:
     이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을때, 코인 토스를 1회 실시해 이하의 효과를 얻는다.
     ● 앞면 : 마법 카드가 발동되었을 때, 그 턴의 엔드 페이즈시까지 이 카드의 원래 공격력은 2배가 된다.
     ● 뒷면 : 마법 카드가 발동할 때마다 상대는 500 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转召唤·特殊召唤成功时，进行1次投掷硬币得到以下效果。●表：魔法卡发动时，直到那个回合的结束阶段时这张卡的原本攻击力变成2倍。●里：每次魔法卡发动对方回复500基本分。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 4
 atk: 1100

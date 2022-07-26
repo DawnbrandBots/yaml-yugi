@@ -7,10 +7,11 @@ name:
   fr: 'Probabilité de Succès : 0%'
   it: Probabilità di Successo 0%
   pt: Probabilidade de Sucesso 0%
-  ja: <ruby><rb>成</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>功</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>確</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>率</rb><rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>０％
+  ja: <ruby><rb>成</rb><rt>せい</rt></ruby><ruby><rb>功</rb><rt>こう</rt></ruby><ruby><rb>確</rb><rt>かく</rt></ruby><ruby><rb>率</rb><rt>りつ</rt></ruby>０％
   ja_romaji: Seikō Kakuritsu Zero Pāsento
   ko: 성공확률 0%
   ko_rr:
+  zh-TW:
   zh-CN: 成功确率0%
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手の融合デッキから融合モンスター２体をランダムに墓地に送る。
   ko: |-
     상대의 융합 덱으로부터 융합 몬스터 2채를 랜덤하게 묘지에 보낸다.
+  zh-TW:
   zh-CN: |-
     从对方的融合卡组把2只融合怪兽随机送去墓地。
-type: Trap
+card_type: Trap
 property: Normal

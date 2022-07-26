@@ -7,10 +7,11 @@ name:
   fr: Chevalier Shogi
   it: Cavaliere Shogi
   pt: Cavaleiro Shogi
-  ja: ラインモンスター <ruby><rb>Ｋ</rb><rp>（</rp><rt>ケイ</rt><rp>）</rp></ruby>ホース
+  ja: ラインモンスター <ruby><rb>Ｋ</rb><rt>ケイ</rt></ruby>ホース
   ja_romaji: Rain Monsutā Kei Hōsu
-  ko: 라인몬스터 <ruby><rb>K</rb><rp>（</rp><rt>케이</rt><rp>）</rp></ruby>호스
+  ko: 라인몬스터 <ruby><rb>K</rb><rt>케이</rt></ruby>호스
   ko_rr: Rainmonseuteo Kei Hoseu
+  zh-TW:
   zh-CN: 行列怪兽 骑士之桂马
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ●手札から地属性・レベル３モンスター１体を表側守備表示で特殊召喚する。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때, 상대의 마법 & 함정 존에 세트된 카드 1장을 대상으로 하고 발동할 수 있다. 세트되어 있는 그 카드를 확인하고, 함정 카드였을 경우, 그 카드를 파괴한다. 다를 경우, 원래대로 되돌린다. ②: 이 카드의 ①의 효과로 함정 카드를 파괴했을 때에 발동할 수 있다. 패에서 땅 속성 / 레벨 3 몬스터 1장을 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，选择对方的魔法与陷阱卡区域盖放的1张卡才能发动。把盖放的那张卡确认，陷阱卡的场合，那张卡破坏。不是的场合，回到原状。这个效果把陷阱卡破坏时，可以把以下效果发动。●从手卡把1只地属性·3星怪兽表侧守备表示特殊召唤。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 800

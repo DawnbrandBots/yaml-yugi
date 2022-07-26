@@ -7,10 +7,11 @@ name:
   fr: Chevalier du Flamboiement des Ténèbres
   it: Cavaliere Fiamma Oscura
   pt: Cavaleiro da Chama Negra
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>－ブラック・フレア・ナイト－
+  ja: <ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>－ブラック・フレア・ナイト－
   ja_romaji: Kokuen no Kishi - Burakku Furea Naito -
   ko: 블랙 플레어 나이트
   ko_rr:
+  zh-TW:
   zh-CN: 黑炎之骑士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "블랙 매지션" + "화염의 검사"
     전투에 의해서 발생한 이 카드의 컨트롤러에게로의 데미지는 0 이 된다. 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱 또는 패에서 "미라지 나이트"를 1장 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「黑魔术师」＋「炎之剑士」
     战斗发生的对这张卡的控制者的伤害变成0。这张卡被战斗破坏送去墓地时，从自己的卡组或者手卡把1只「幻影之骑士」特殊召唤。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
 level: 6
 atk: 2200

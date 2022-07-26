@@ -7,10 +7,11 @@ name:
   fr: Chameaunigo Potartiste
   it: Artistamico Gobbacammello
   pt: Camarartista Camededor
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>ラクダウン
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>ラクダウン
   ja_romaji: Entameito Rakudaun
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby>낙다운
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby>낙다운
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 降落驼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが戦闘で破壊された場合に発動できる。このカードを破壊したモンスターの攻撃力は８００ダウンする。
   ko: |-
     ① : 이 카드가 전투로 파괴되었을 경우에 발동할 수 있다. 이 카드를 파괴한 몬스터의 공격력을 800 내린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被战斗破坏的场合才能发动。让把这张卡破坏的怪兽的攻击力下降800。
-type: Monster
-typeline: Beast / Pendulum / Effect
+card_type: Monster
+monster_type_line: Beast / Pendulum / Effect
 attribute: EARTH
 level: 4
 atk: 800
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：１ターンに１度、自分フィールドの表側表示モンスター１体を対象として発動できる。相手フィールドの全てのモンスターの守備力はターン終了時まで８００ダウンし、このターン対象のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が越えた分だけ相手に戦闘ダメージを与える。
   ko: |-
     ① : 1턴에 1번, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 상대 필드의 모든 몬스터의 수비력은 턴 종료시까지 800 내리고, 이 턴 대상의 몬스터가 수비 표시 몬스터를 공격할 경우, 그 수비력을 공격력이 넘은 만큼 상대에게 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，以自己场上1只表侧表示怪兽为对象才能发动。对方场上的全部怪兽的守备力直到回合结束时下降800，这个回合作为对象的怪兽向守备表示怪兽攻击的场合，给与对方为攻击力超过那个守备力的数值的战斗伤害。
 sets:

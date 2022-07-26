@@ -7,10 +7,11 @@ name:
   fr: Moineau vermillon
   it: Passero Vermiglio
   pt: Pardal Vermillion
-  ja: <ruby><rb>朱</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby><rb>雀</rb><rp>（</rp><rt>ざく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>朱</rb><rt>す</rt></ruby><ruby><rb>雀</rb><rt>ざく</rt></ruby>
   ja_romaji: Suzaku
   ko: 주작
   ko_rr:
+  zh-TW:
   zh-CN: 朱雀
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「赤き剣のライムンドス」＋「炎の魔神」
   ko: |-
     "붉은 검의 라이문도스" + "화염의 마신"
+  zh-TW:
   zh-CN: |-
     「赤剑之莱蒙多斯」＋「炎之魔神」。
-type: Monster
-typeline: Pyro / Fusion
+card_type: Monster
+monster_type_line: Pyro / Fusion
 attribute: FIRE
 level: 5
 atk: 1900

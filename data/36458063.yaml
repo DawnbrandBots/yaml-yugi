@@ -7,10 +7,11 @@ name:
   fr: Assaut de la Sorcière
   it: Colpo della Strega
   pt: Golpe da Bruxa
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>の<ruby><rb>一</rb><rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>女</rb><rt>じょ</rt></ruby>の<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>
   ja_romaji: Majo no Ichigeki
   ko: 마녀의 일격
   ko_rr: Manyeo-ui Ilgyeok
+  zh-TW:
   zh-CN: 魔女的一击
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：相手がモンスターの召喚・特殊召喚を無効にした場合、または相手が魔法・罠・モンスターの効果の発動を無効にした場合に発動できる。相手の手札・フィールドのカードを全て破壊する。
   ko: |-
     ①: 상대가 몬스터의 일반 소환 / 특수 소환을 무효로 했을 경우, 또는 상대가 마법 / 함정 / 몬스터의 효과의 발동을 무효로 했을 경우에 발동할 수 있다. 상대의 패 / 필드의 카드를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
-    ①：对方把怪兽的召唤·特殊召唤无效的场合或者对方把魔法·陷阱·怪兽的效果的发动无效的场合才能发动。对方的手卡·场上的卡全部破坏。
-type: Trap
+    ①：对手将怪兽的召唤・特殊召唤无效的情况下，或对手将魔法・陷阱・怪兽效果的发动无效的情况下可以发动。将对手手牌・场上的卡全部破坏。
+card_type: Trap
 property: Normal

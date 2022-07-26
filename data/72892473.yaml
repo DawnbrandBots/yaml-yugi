@@ -7,11 +7,12 @@ name:
   fr: Destruction de Carte
   it: Distruggi-Carte
   pt: Destruição de Cards
-  ja: <ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>ふだ</rt><rp>）</rp></ruby><ruby><rb>抹</rb><rp>（</rp><rt>まっ</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>手</rb><rt>て</rt></ruby><ruby><rb>札</rb><rt>ふだ</rt></ruby><ruby><rb>抹</rb><rt>まっ</rt></ruby><ruby><rb>殺</rb><rt>さつ</rt></ruby>
   ja_romaji: Tefuda Massatsu
   ko: 카드 파괴
   ko_rr: Kadeu Pagoe
-  zh-CN: 手札抹杀
+  zh-TW: 手牌抹殺
+  zh-CN: 手牌抹杀
 text:
   en: |-
     Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.
@@ -29,7 +30,8 @@ text:
     ①：手札があるプレイヤーは、その手札を全て捨てる。その後、それぞれ自身が捨てた枚数分デッキからドローする。
   ko: |-
     ①: 패가 있는 플레이어는, 그 패를 전부 버린다. 그 후, 각각 자신이 버린 매수만큼 덱에서 드로우한다.
+  zh-TW: 舍弃双方的全部手牌，并各自从我方牌组中抽取与舍弃卡牌相同张数的卡牌。
   zh-CN: |-
-    ①：有手卡的玩家把那些手卡全部丢弃。那之后，各自从卡组抽出自身丢弃的数量。
-type: Spell
+    ①：有手牌的玩家舍弃所有手牌。然后各自从牌组抽自身舍弃张数的牌。
+card_type: Spell
 property: Normal

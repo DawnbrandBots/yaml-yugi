@@ -11,7 +11,8 @@ name:
   ja_romaji: Kōdo Tōkā Invāto
   ko: 코드 토커 인버트
   ko_rr: Kodeu Tokeo Inbeoteu
-  zh-CN: 码语者·翻转
+  zh-TW:
+  zh-CN: 码语者・倒置
 text:
   en: |-
     2 Cyberse monsters
@@ -37,16 +38,16 @@ text:
   ko: |-
     사이버스족 몬스터 2장
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 패에서 사이버스족 몬스터 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     电子界族怪兽2只
-    这个卡名的效果1回合只能使用1次。
-    ①：这张卡连接召唤成功的场合才能发动。从手卡把1只电子界族怪兽在作为这张卡所连接区的自己场上特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    此卡名的效果1回合仅可使用1次。①：此卡连接召唤成功的情况下可以发动。从手牌将1只电子界族怪兽特殊召唤至此卡连接端的自己场上。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Middle-Left
-- Middle-Right
+- ⬅
+- ➡
 atk: 1300
 materials: 2 Cyberse monsters
 sets:

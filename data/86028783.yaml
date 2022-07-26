@@ -7,10 +7,11 @@ name:
   fr: Dame Guerrière Novice
   it: Signora Guerriera Recluta
   pt: Lady Guerreira Novata
-  ja: <ruby><rb>新</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>鋭</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>おんな</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>新</rb><rt>しん</rt></ruby><ruby><rb>鋭</rb><rt>えい</rt></ruby>の<ruby><rb>女</rb><rt>おんな</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Shin'ei no Onna Senshi
   ko: 신예의 여전사
   ko_rr: Sinyeo-ui Yeojeonsa
+  zh-TW:
   zh-CN: 新锐的女战士
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の他の戦士族モンスターが相手の表側表示モンスターと戦闘を行う攻撃宣言時に、手札・フィールドのこのカードを墓地へ送って発動できる。その相手モンスターの攻撃力はターン終了時まで、その元々の攻撃力分ダウンする。②：墓地のこのカードを除外し、自分の墓地の戦士族・地属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신의 다른 전사족 몬스터가 상대의 앞면 표시 몬스터와 전투를 실행하는 공격 선언시에, 패 / 필드의 이 카드를 묘지로 보내고 발동할 수 있다. 그 상대 몬스터의 공격력은 턴 종료시까지, 그 원래 공격력만큼 내린다. ②: 묘지의 이 카드를 제외하고, 자신 묘지의 전사족 / 땅 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：自己的其他的战士族怪兽和对方的表侧表示怪兽进行战斗的攻击宣言时，把手卡·场上的这张卡送去墓地才能发动。那只对方怪兽的攻击力直到回合结束时下降那自身原本攻击力数值。
     ②：把墓地的这张卡除外，以自己墓地1只战士族·地属性怪兽为对象才能发动。那只怪兽加入手卡。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 1000
@@ -70,3 +72,10 @@ sets:
     set_name: V Jump November 2021 promotional card
     rarities:
     - Ultra Rare
+  ko:
+  - set_number: PP17-KR033
+    set_name: Premium Pack Vol.17
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Secret Rare

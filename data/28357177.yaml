@@ -7,10 +7,11 @@ name:
   fr: Hade-Hane
   it: Hade-Hane
   pt: Hade-Hane
-  ja: <ruby><rb>派</rb><rp>（</rp><rt>ハ</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>デ</rt><rp>）</rp></ruby>ハネ
+  ja: <ruby><rb>派</rb><rt>ハ</rt></ruby><ruby><rb>手</rb><rt>デ</rt></ruby>ハネ
   ja_romaji: Hade Hane
   ko: 하데 하네
   ko_rr:
+  zh-TW:
   zh-CN: 华丽哈尼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：フィールド上のモンスターを３体まで持ち主の手札に戻す事ができる。
   ko: |-
     리버스 : 필드 위의 몬스터를 3장까지 주인의 패로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     可以让场上最多3只怪兽回到持有者手卡。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 5
 atk: 900

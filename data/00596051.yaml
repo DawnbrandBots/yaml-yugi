@@ -7,10 +7,11 @@ name:
   fr: Crochet de Serpent
   it: Zanna del Serpente
   pt:
-  ja: <ruby><rb>毒</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby><rb>蛇</rb><rp>（</rp><rt>へび</rt><rp>）</rp></ruby>の<ruby><rb>牙</rb><rp>（</rp><rt>きば</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>毒</rb><rt>どく</rt></ruby><ruby><rb>蛇</rb><rt>へび</rt></ruby>の<ruby><rb>牙</rb><rt>きば</rt></ruby>
   ja_romaji: Dokuhebi no Kiba
   ko: 독사의 이
   ko_rr:
+  zh-TW:
   zh-CN: 毒蛇之牙
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択したモンスターの守備力はエンドフェイズ時まで５００ポイントダウンする。
   ko: |-
     지정한 몬스터 1장의 수비력을 턴 종료시까지 500 포인트 내린다.
+  zh-TW:
   zh-CN: |-
     选择场上表侧表示存在的1只怪兽发动。选择的怪兽的守备力直到结束阶段时下降500。
-type: Trap
+card_type: Trap
 property: Normal

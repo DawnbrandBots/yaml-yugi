@@ -7,12 +7,12 @@ name:
   fr: Raidraptor - Arsenal Faucon
   it: Raidraptor - Falco Arsenale
   pt: Ataqueraptor - Falcão Arsenal
-  ja: <ruby><rb>ＲＲ</rb><rp>（</rp><rt>レイド・ラプターズ</rt><rp>）</rp></ruby>－アーセナル・ファルコン
+  ja: <ruby><rb>ＲＲ</rb><rt>レイド・ラプターズ</rt></ruby>－アーセナル・ファルコン
   ja_romaji: Reido Raputāzu - Āsenaru Farukon
-  ko: <ruby><rb>R</rb><rp>（</rp><rt>레이드</rt><rp>）</rp></ruby><ruby><rb>R</rb><rp>（</rp><rt>랩터즈</rt><rp>）</rp></ruby>-아스날
-    팔콘
+  ko: <ruby><rb>R</rb><rt>레이드</rt></ruby><ruby><rb>R</rb><rt>랩터즈</rt></ruby>-아스날 팔콘
   ko_rr:
-  zh-CN: 急袭猛禽-武库猎鹰
+  zh-TW:
+  zh-CN: 急袭猛禽－武库猎鹰
 text:
   en: |-
     2 Level 7 monsters
@@ -38,11 +38,12 @@ text:
   ko: |-
     레벨 7 몬스터 × 2
     ① : 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 덱에서 비행야수족 / 레벨 4 몬스터 1장을 특수 소환한다. ② : "RR(레이드 랩터즈)" 몬스터를 엑시즈 소재로서 가지고 있는 이 카드는, 그 수까지 1번의 배틀 페이즈 중에 공격할 수 있다. ③ : "RR(레이드 랩터즈)" 몬스터를 엑시즈 소재로서 가지고 있는 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 엑스트라 덱에서 "RR(레이드 랩터즈)-아스날 팔콘" 이외의 "RR(레이드 랩터즈)" 몬스터 1장을 특수 소환하고, 묘지의 이 카드를 그 엑시즈 몬스터의 아래에 겹쳐서 엑시즈 소재로 한다.
+  zh-TW:
   zh-CN: |-
-    7星怪兽×2
-    ①：1回合1次，把这张卡1个XYZ素材取除才能发动。从卡组把1只鸟兽族·4星怪兽特殊召唤。②：持有「急袭猛禽」怪兽作为XYZ素材的这张卡在同1次的战斗阶段中可以作出最多有那个数量的攻击。③：持有「急袭猛禽」怪兽作为XYZ素材的这张卡被送去墓地的场合才能发动。从额外卡组把「急袭猛禽-武库猎鹰」以外的1只「急袭猛禽」XYZ怪兽特殊召唤，把墓地的这张卡在那只XYZ怪兽下面重叠作为XYZ素材。
-type: Monster
-typeline: Winged Beast / Xyz / Effect
+    等级7怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材可以发动。从牌组将1只鸟兽族・等级4的怪兽特殊召唤。②：持有"急袭猛禽"怪兽作为超量素材的此卡在1次战斗阶段中最多可以攻击相当于素材数量的次数。③：持有"急袭猛禽"怪兽作为超量素材的此卡在被送至墓地的情况下可以发动。从额外牌组将1只"急袭猛禽－武库猎鹰"以外的"急袭猛禽"超量怪兽特殊召唤，将墓地的此卡重叠在该超量怪兽下方作为超量素材。
+card_type: Monster
+monster_type_line: Winged Beast / Xyz / Effect
 attribute: DARK
 rank: 7
 atk: 2500

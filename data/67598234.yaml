@@ -7,11 +7,12 @@ name:
   fr: Sabre Gaïa, l'Ombre de l'Éclair
   it: Sciabola Gaia, l'Ombra Fulmine
   pt: Sabre Gaia, a Sombra Relâmpago
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ガイアセイバー
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ガイアセイバー
   ja_romaji: Den'ei no Kishi Gaiaseibā
   ko: 전영의 기사 가이아세이버
   ko_rr:
-  zh-CN: 电影之骑士 盖亚剑士
+  zh-TW:
+  zh-CN: 电光骑士盖亚军刀士
 text:
   en: |-
     2+ monsters
@@ -29,15 +30,16 @@ text:
     モンスター２体以上
   ko: |-
     몬스터 2장 이상
+  zh-TW:
   zh-CN: |-
     怪兽2只以上
-type: Monster
-typeline: Machine / Link
+card_type: Monster
+monster_type_line: Machine / Link
 attribute: EARTH
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ⬇
+- ➡
 atk: 2600
 materials: 2+ monsters
 sets:

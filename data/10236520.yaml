@@ -7,10 +7,11 @@ name:
   fr: Goe Goe, le Ninja Courageux
   it: Goe Goe, il Ninja Valoroso
   pt: Goe Goe, o Ninja Galan
-  ja: <ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>義</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby><rb>賊</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>ゴエゴエ
+  ja: <ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby><ruby><rb>義</rb><rt>ぎ</rt></ruby><ruby><rb>賊</rb><rt>ぞく</rt></ruby>ゴエゴエ
   ja_romaji: Ninja Gizoku Goe Goe
   ko: 첩자 의적 고에고에
   ko_rr:
+  zh-TW:
   zh-CN: 忍者义贼 五卫五卫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手の手札が５枚以上の場合、このカードが相手ライフに戦闘ダメージを与えた時、相手の手札をランダムに２枚捨てる。
   ko: |-
     상대의 패가 5장 이상일 경우, 이 카드가 상대 라이프에 전투 데미지를 주었을 때, 상대의 패를 무작위로 2장 버린다.
+  zh-TW:
   zh-CN: |-
     对方手卡是5张以上的场合，这张卡给与对方基本分战斗伤害时，对方手卡随机丢弃2张。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WIND
 level: 4
 atk: 1500

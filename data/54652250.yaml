@@ -7,10 +7,11 @@ name:
   fr: Insecte Mangeur d'Hommes
   it: Insetto Mangia-Uomini
   pt: Inseto Devorador de Homens
-  ja: <ruby><rb>人</rb><rp>（</rp><rt>ひと</rt><rp>）</rp></ruby><ruby><rb>喰</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>い<ruby><rb>虫</rb><rp>（</rp><rt>ムシ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>人</rb><rt>ひと</rt></ruby><ruby><rb>喰</rb><rt>く</rt></ruby>い<ruby><rb>虫</rb><rt>ムシ</rt></ruby>
   ja_romaji: Hitokui Mushi
   ko: 식인 곤충
   ko_rr:
+  zh-TW: 食人蟲
   zh-CN: 食人虫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、フィールドのモンスター１体を対象として発動する。そのモンスターを破壊する。
   ko: |-
     리버스：필드 위의 몬스터 1장을 선택하여 파괴한다.
+  zh-TW: 反转：选择场上1只怪兽并破坏。
   zh-CN: |-
     ①：这张卡反转的场合，以场上1只怪兽为对象发动。那只怪兽破坏。
-type: Monster
-typeline: Insect / Flip / Effect
+card_type: Monster
+monster_type_line: Insect / Flip / Effect
 attribute: EARTH
 level: 2
 atk: 450

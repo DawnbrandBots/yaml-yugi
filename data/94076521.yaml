@@ -1,20 +1,21 @@
 konami_id: 17438
 password: 94076521
 name:
-  en: Hidden Jewel of the Hydrosphere - Katrin
+  en: Cartorhyn the Hidden Gem of the Seafront
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>秘</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>－カトリン
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>秘</rb><rt>ひ</rt></ruby><ruby><rb>石</rb><rt>せき</rt></ruby>－カトリン
   ja_romaji: Suikai no Hiseki - Katorin
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 水界的秘之石-卡特林
 text:
   en: |-
-    You can discard this card; during your Main Phase this turn, you can Normal Summon 1 EARTH or WATER monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you control an EARTH monster and a WATER monster, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Hidden Jewel of the Hydrosphere - Katrin" once per turn.
+    You can discard this card; you can Normal Summon 1 EARTH or WATER monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you control an EARTH and WATER monster(s), while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Cartorhyn the Hidden Gem of the Seafront" once per turn.
   de:
   es:
   fr:
@@ -23,17 +24,48 @@ text:
   ja: |-
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに地・水属性モンスター１体を召喚できる。②：このカードが墓地に存在し、自分フィールドに地属性モンスター及び水属性モンスターが存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①②效果1回合各能使用1次。①：可以将这张卡从手牌舍弃发动。这个回合，自己可以在通常召唤外追加仅1次，在自己的主要阶段召唤1只地或水属性怪兽。②：这张卡在墓地存在，自己场上有地属性怪兽以及水属性怪兽存在的场合可以发动。将这张卡特殊召唤。用这个效果特殊召唤的这张卡从场上离开的场合除外。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: WATER
 level: 2
 atk: 500
 def: 1600
 sets:
+  en:
+  - set_number: POTE-EN036
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE036
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR036
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT036
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT036
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: POTE-JP036
+    set_name: Power of the Elements
+    rarities:
+    - Rare
+  ko:
+  - set_number: POTE-KR036
     set_name: Power of the Elements
     rarities:
     - Rare

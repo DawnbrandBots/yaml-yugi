@@ -7,10 +7,11 @@ name:
   fr: Intrusion Imprudente
   it: Intrusione Imprudente
   pt: Intrusão Imprudente
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>償</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>不</rb><rp>（</rp><rt>ふ</rt><rp>）</rp></ruby><ruby><rb>知</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>償</rb><rt>しょう</rt></ruby><ruby><rb>不</rb><rt>ふ</rt></ruby><ruby><rb>知</rb><rt>ち</rt></ruby>
   ja_romaji: Shishōfuchi
   ko: 사상부지
   ko_rr: Sasangbuji
+  zh-TW:
   zh-CN: 死偿不知
 text:
   en: |-
@@ -49,9 +50,10 @@ text:
     ●その差の数値以下の攻撃力を持つモンスター１体を自分の墓地から選んで特殊召喚する。
   ko: |-
     ①: 자신의 LP가 상대보다 적을 경우에, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●그 차의 수치 이하의 공격력을 가지는 상대 필드의 몬스터 1장을 고르고 파괴한다. ●그 차의 수치 이하의 공격력을 가지는 몬스터 1장을 자신 묘지에서 고르고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：自己基本分比对方少的场合，可以从以下效果选择1个发动。
     ●选持有那个相差数值以下的攻击力的对方场上1只怪兽破坏。
     ●从自己墓地选持有那个相差数值以下的攻击力的1只怪兽特殊召唤。
-type: Trap
+card_type: Trap
 property: Normal

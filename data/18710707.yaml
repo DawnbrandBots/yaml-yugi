@@ -7,10 +7,11 @@ name:
   fr: Le Furieux Roi des Mers
   it: Furioso Re dei Mari
   pt: O Furioso Rei dos Mares
-  ja: <ruby><rb>怒</rb><rp>（</rp><rt>いか</rt><rp>）</rp></ruby>りの<ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>怒</rb><rt>いか</rt></ruby>りの<ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
   ja_romaji: Ikari no Kaiō
   ko: 분노의 해왕
   ko_rr:
+  zh-TW:
   zh-CN: 愤怒的海王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     偉大な海の王。終ることのない大津波を呼び、 敵を飲み込む。
   ko: |-
     위대한 바다의 왕. 거대한 해일을 일으켜 적을 삼켜버린다.
+  zh-TW:
   zh-CN: |-
     伟大的海之王。唤起永不停息的大海啸将敌人吞没。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 3
 atk: 800

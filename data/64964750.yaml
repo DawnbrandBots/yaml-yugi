@@ -7,10 +7,11 @@ name:
   fr: Interdiction de Vente
   it: Divieto di Vendita
   pt: Banir Vendas
-  ja: <ruby><rb>発</rb><rp>（</rp><rt>はっ</rt><rp>）</rp></ruby><ruby><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>発</rb><rt>はっ</rt></ruby><ruby><rb>禁</rb><rt>きん</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby>
   ja_romaji: Hakkinrei
   ko: 발금령
   ko_rr: Balgeunnyeong
+  zh-TW:
   zh-CN: 禁发令
 text:
   en: |-
@@ -29,8 +30,9 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：カード名を１つ宣言して発動できる。このターン、相手は宣言されたカードと元々のカード名が同じカードの効果を発動できない。このデュエル中、自分は宣言したカードと元々のカード名が同じカードの効果を発動できない。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 카드명을 1개 선언하고 발동할 수 있다. 이 턴에, 상대는 선언된 카드와 원래의 카드명이 같은 카드의 효과를 발동할 수 없다. 이 듀얼 중, 자신은 선언한 카드와 원래의 카드명이 같은 카드의 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的卡在1回合只能发动1张。
     ①：宣言1个卡名才能发动。这个回合，对方不能把原本卡名和宣言的卡相同的卡的效果发动。这次决斗中，自己不能把原本卡名和宣言的卡相同的卡的效果发动。
-type: Spell
+card_type: Spell
 property: Normal

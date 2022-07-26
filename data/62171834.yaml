@@ -7,11 +7,12 @@ name:
   fr: Spectres du Miroir des Rêves
   it: Fantasmi Specchio dei Sogni
   pt: Fantasmas do Espelho Onírico
-  ja: <ruby><rb>夢</rb><rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby><ruby><rb>幻</rb><rp>（</rp><rt>まぼろし</rt><rp>）</rp></ruby>の<ruby><rb>夢</rb><rp>（</rp><rt>ゆめ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>鏡</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>夢</rb><rt>ゆめ</rt></ruby><ruby><rb>幻</rb><rt>まぼろし</rt></ruby>の<ruby><rb>夢</rb><rt>ゆめ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>鏡</rb><rt>きょう</rt></ruby>
   ja_romaji: Yumemaboroshi no Yumemakyō
   ko: 몽환의 몽마경
   ko_rr:
-  zh-CN: 梦镜幻影
+  zh-TW:
+  zh-CN: 梦幻之梦魔镜
 text:
   en: |-
     When this card is activated: You can add 1 "Dream Mirror" monster from your Deck to your hand. If "Dream Mirror of Joy" is in a Field Zone, all monsters you control gain 500 ATK/DEF. If "Dream Mirror of Terror" is in a Field Zone, all monsters your opponent controls lose 500 ATK/DEF. You can only activate 1 "Dream Mirror Phantasms" per turn.
@@ -29,10 +30,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「夢魔鏡」モンスター１体を手札に加える事ができる。②：フィールドゾーンに「聖光の夢魔鏡」が存在する限り、自分フィールドの全てのモンスターの攻撃力・守備力は５００アップする。③：フィールドゾーンに「闇黒の夢魔鏡」が存在する限り、相手フィールドの全てのモンスターの攻撃力・守備力は５００ダウンする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 카드의 발동시의 효과 처리로서, 덱에서 "몽마경" 몬스터 1장을 패에 넣을 수 있다. ②: 필드 존에 "성광의 몽마경"이 존재하는 한, 자신 필드의 모든 몬스터의 공격력 / 수비력은 500 올린다. ②: 필드 존에 "암흑의 몽마경"이 존재하는 한, 상대 필드의 모든 몬스터의 공격력 / 수비력은 500 내린다.
+  zh-TW:
   zh-CN: |-
-    作为这张卡发动时的效果处理，可以从卡组将1只「Dream Mirror／梦镜」怪兽加入手牌。
-    场地区有「Dream Mirror of Joy／欢悦的梦镜」存在的场合，自己场上的怪兽的攻击力、守备力上升500。
-    场地区有「Dream Mirror of Terror／恐惧的梦镜」存在的场合，对手场上的怪兽的攻击力、守备力下降500。
-    这个卡名的卡1回合只能发动1张。
-type: Spell
+    此卡名的卡1回合仅可发动1张。①：作为此卡发动时的效果处理，可从牌组将1只"梦魔镜"怪兽加入手牌。②：只要场地区域有"圣光之梦魔镜"存在，自己场上的所有怪兽的攻击力・守备力上升500。③：只要场地区域有"暗黑之梦魔镜"存在，对手场上所有怪兽的攻击力・守备力下降500。
+card_type: Spell
 property: Continuous

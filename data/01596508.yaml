@@ -7,10 +7,11 @@ name:
   fr: Forteresse Arsenal Dimensionnelle
   it: Arma Fortezza Dimensionale
   pt: Arma Fortaleza Dimensional
-  ja: <ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>要</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>塞</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>要</rb><rt>よう</rt></ruby><ruby><rb>塞</rb><rt>さい</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>
   ja_romaji: Jigen Yōsai Heiki
   ko: 차원요새 병기
   ko_rr:
+  zh-TW:
   zh-CN: 次元要塞兵器
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、お互いにデッキからカードを墓地へ送る事ができない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 덱에서 카드를 묘지로 보낼 수 없다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，双方不能从卡组把卡送去墓地。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 1700

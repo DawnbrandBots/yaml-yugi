@@ -7,10 +7,11 @@ name:
   fr: Shaman Amazonesse
   it: Saggio Amazoness
   pt: Sábia Amazoness
-  ja: アマゾネスの<ruby><rb>賢</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
+  ja: アマゾネスの<ruby><rb>賢</rb><rt>けん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>
   ja_romaji: Amazonesu no Kenja
   ko: 아마조네스의 현자
   ko_rr:
+  zh-TW:
   zh-CN: 亚马逊贤者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードガ攻撃した場合, そのダメージステップ終了時に相手フィルド上に存在する魔法・罠カード1枚を選択して破壊する.
   ko: |-
     이 카드가 공격했을 경우 그 데미지 스텝 종료시에 상대 필드 위에 존재하는 마법 / 함정 카드 1장을 선택하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡攻击的场合，那次伤害步骤结束时选择对方场上存在的1张魔法·陷阱卡破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1400

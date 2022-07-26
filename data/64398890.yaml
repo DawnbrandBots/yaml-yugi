@@ -7,10 +7,11 @@ name:
   fr: Les Six Samouraïs - Yaichi
   it: I Sei Samurai - Yaichi
   pt:
-  ja: <ruby><rb>六</rb><rp>（</rp><rt>ろく</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>衆</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>－ヤイチ
+  ja: <ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>衆</rb><rt>しゅう</rt></ruby>－ヤイチ
   ja_romaji: Roku Bushū - Yaichi
   ko: 여섯 무사-야이치
   ko_rr:
+  zh-TW:
   zh-CN: 六武众-矢一
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     自分フィールド上に「六武衆－ヤイチ」以外の「六武衆」と名のついたモンスターが存在する場合、１ターンに１度、フィールド上にセットされた魔法・罠カード１枚を選択して破壊できる。この効果を発動するターン、このカードは攻撃宣言できない。また、フィールド上に表側表示で存在するこのカードが破壊される場合、代わりにこのカード以外の自分フィールド上に表側表示で存在する「六武衆」と名のついたモンスター１体を破壊できる。
   ko: |-
     자신 필드 위에 "여섯 무사-야이치" 이외의 "여섯 무사" 라는 이름이 붙은 몬스터가 존재하는 한, 1턴에 1번만 세트된 마법 또는 함정 카드 1장을 파괴할 수 있다. 이 효과를 사용한 턴에 이 몬스터는 공격 선언을 할 수 없다. 이 카드가 파괴될 경우, 대신에 이 카드 이외의 "여섯 무사" 라는 이름이 붙은 몬스터를 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己场上有「六武众-矢一」以外的名字带有「六武众」的怪兽存在的场合，1回合1次，可以选择场上盖放的1张魔法·陷阱卡破坏。这个效果发动的回合，这张卡不能攻击宣言。此外，场上表侧表示存在的这张卡被破坏的场合，可以作为代替把这张卡以外的自己场上表侧表示存在的1只名字带有「六武众」的怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 3
 atk: 1300

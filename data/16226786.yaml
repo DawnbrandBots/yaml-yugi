@@ -7,10 +7,11 @@ name:
   fr: Agresseur Nocturne
   it: Assalitore Notturno
   pt: Assaltante Noturno
-  ja: <ruby><rb>深淵の暗殺者</rb><rp>（</rp><rt>ナイト・アサシン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>深淵の暗殺者</rb><rt>ナイト・アサシン</rt></ruby>
   ja_romaji: Naito Asashin
   ko: 심연의 암살자
   ko_rr:
+  zh-TW:
   zh-CN: 深渊的暗杀者
 text:
   en: |-
@@ -35,10 +36,11 @@ text:
     ①：このカードがリバースした場合、相手フィールドのモンスター１体を対象として発動する。その相手モンスターを破壊する。②：このカードが手札から墓地へ送られた場合、「深淵の暗殺者」以外の自分の墓地のリバースモンスター１体を対象として発動する。そのモンスターを手札に加える。
   ko: |-
     리버스 : 상대 필드 위의 몬스터 1장을 선택하고 파괴한다. 이 카드가 패에서 묘지로 보내졌을 때, 자신의 묘지에 존재하는 리버스 효과 몬스터 1장을 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     选择对方场上存在的1只怪兽破坏。此外，这张卡从手卡送去墓地时，自己墓地存在的1只反转效果怪兽回到手卡。
-type: Monster
-typeline: Fiend / Flip / Effect
+card_type: Monster
+monster_type_line: Fiend / Flip / Effect
 attribute: DARK
 level: 3
 atk: 200

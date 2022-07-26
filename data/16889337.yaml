@@ -7,10 +7,11 @@ name:
   fr: Aratama
   it: Aratama
   pt: Aratama
-  ja: <ruby><rb>荒</rb><rp>（</rp><rt>アラ</rt><rp>）</rp></ruby><ruby><rb>魂</rb><rp>（</rp><rt>タマ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>荒</rb><rt>アラ</rt></ruby><ruby><rb>魂</rb><rt>タマ</rt></ruby>
   ja_romaji: Aratama
   ko: 아라타마
   ko_rr:
+  zh-TW:
   zh-CN: 荒魂
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。①：このカードが召喚・リバースした時に発動できる。デッキから「荒魂」以外のスピリットモンスター１体を手札に加える。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。
   ko: |-
     이 카드는 특수 소환할 수 없다. 일반 소환 / 리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌아간다. 이 카드가 일반 소환 / 리버스했을 때, 덱에서 "아라타마" 이외의 스피릿 몬스터 1장을 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。①：这张卡召唤·反转时才能发动。从卡组把「荒魂」以外的1只灵魂怪兽加入手卡。②：这张卡召唤·反转的回合的结束阶段发动。这张卡回到持有者手卡。
-type: Monster
-typeline: Fiend / Spirit
+card_type: Monster
+monster_type_line: Fiend / Spirit
 attribute: DARK
 level: 4
 atk: 800

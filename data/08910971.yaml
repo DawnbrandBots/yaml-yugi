@@ -7,10 +7,11 @@ name:
   fr: Seigneur Gaïa le Chevalier Implacable
   it: Signore Gaia il Cavaliere
   pt: Senhor Gaia, o Cavaleiro Impetuoso
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ガイアロード
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ガイアロード
   ja_romaji: Ankoku Kishi Gaia Rōdo
   ko: 암흑 기사 가이아로드
   ko_rr: Amheuk Gisa Gaiarodeu
+  zh-TW:
   zh-CN: 暗黑骑士 盖亚王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。②：１ターンに１度、このカードより攻撃力が高いモンスターが相手フィールドに特殊召喚された場合に発動できる。このカードの攻撃力はターン終了時まで７００アップする。
   ko: |-
     ①: 상대 필드에만 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 1턴에 1번, 이 카드보다 공격력이 높은 몬스터가 상대 필드에 특수 소환되었을 경우에 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지 700 올린다.
+  zh-TW:
   zh-CN: |-
     ①：对方场上有怪兽存在，自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。②：1回合1次，比这张卡攻击力高的怪兽在对方场上特殊召唤的场合才能发动。这张卡的攻击力直到回合结束时上升700。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 7
 atk: 2300

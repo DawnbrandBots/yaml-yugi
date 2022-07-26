@@ -7,10 +7,11 @@ name:
   fr: Robobureau 008
   it: Deskbot 008
   pt: Robô-secretário 008
-  ja: ブンボーグ<ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>８</rb><rp>（</rp><rt>エイト</rt><rp>）</rp></ruby>
+  ja: ブンボーグ<ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>８</rb><rt>エイト</rt></ruby>
   ja_romaji: Bunbōgu Zero Zero Eito
-  ko: 분보그<ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>8</rb><rp>（</rp><rt>에이트</rt><rp>）</rp></ruby>
+  ko: 분보그<ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>8</rb><rt>에이트</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 文具电子人008
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃力は、自分の墓地の「ブンボーグ」カードの数×５００アップする。②：このカードがモンスターゾーンに存在する限り、相手は他の「ブンボーグ」カードを効果の対象にできない。③：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   ko: |-
     ①: 이 카드의 공격력은, 자신 묘지의 "분보그" 카드의 수 × 500 올린다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 "분보그" 카드를 효과의 대상으로 할 수 없다. ③: 이 카드는 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击力上升自己墓地的「文具电子人」卡数量×500。②：只要这张卡在怪兽区域存在，对方不能把其他的「文具电子人」卡作为效果的对象。③：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。
-type: Monster
-typeline: Machine / Pendulum / Effect
+card_type: Monster
+monster_type_line: Machine / Pendulum / Effect
 attribute: EARTH
 level: 8
 atk: 500
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：自分は「ブンボーグ」モンスターしかＰ召喚できない。この効果は無効化されない。
   ko: |-
     자신은 "분보그" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
+  zh-TW:
   zh-CN: |-
     ①：自己不是「文具电子人」怪兽不能灵摆召唤。这个效果不会被无效化。
 sets:

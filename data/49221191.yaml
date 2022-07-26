@@ -7,12 +7,13 @@ name:
   fr: 'Numéro C32 : Requin Drakonien Veiss'
   it: 'Numero C32: Draghetto Squalo Veiss'
   pt:
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>３２
-    <ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>咬</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>シャーク・ドレイク・バイス
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>３２
+    <ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>咬</rb><rt>こう</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>シャーク・ドレイク・バイス
   ja_romaji: Kaosu Nanbāzu Sanjūni Kaikōryū Shāku Doreiku Baisu
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>32
-    샤크 드레이크 바이스
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>32 샤크
+    드레이크 바이스
   ko_rr:
+  zh-TW: CNo.32 海咬龍 鯊魚龍 白煞
   zh-CN: 混沌No.32 海咬龙 鲨龙兽·白煞
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     물 속성 레벨 4 몬스터 × 4
     이 카드는 자신 필드 위의 "No.32 샤크 드레이크" 위에 이 카드를 겹쳐 엑시즈 소환할 수도 있다. 자신의 라이프 포인트가 1000 이하일 경우, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 묘지의 몬스터 1장을 게임에서 제외하여 발동할 수 있다. 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고, 그 공격력 / 수비력을 자신의 엔드 페이즈시까지 0 으로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW: "水属性等级4怪兽×4\n此卡也可重叠至我方场上的「No.32 海咬龍 鯊魚龍」的上方超量召唤。我方生命点数在1000或以下的场合，可移除此卡的1个超量素材，将我方墓地的1只怪兽从游戏中除外并发动。选择场上1只以表侧表示存在的怪兽，使其攻击力、守备力直至我方回合结束时变为0。此效果也可于对手回合发动。"
   zh-CN: |-
     水属性4星怪兽×4
     这张卡也能在自己场上的「No.32 海咬龙 鲨龙兽」上面把这张卡重叠来XYZ召唤。自己基本分是1000以下的场合，把这张卡1个XYZ素材取除，把自己墓地1只怪兽从游戏中除外才能发动。选择场上表侧表示存在的1只怪兽，那个攻击力·守备力直到自己的结束阶段时变成0。这个效果在对方回合也能发动。
-type: Monster
-typeline: Sea Serpent / Xyz / Effect
+card_type: Monster
+monster_type_line: Sea Serpent / Xyz / Effect
 attribute: WATER
 rank: 4
 atk: 2800

@@ -7,15 +7,16 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディフォーマー</rt><rp>）</rp></ruby>・イヤホン
+  ja: <ruby><rb>Ｄ</rb><rt>ディフォーマー</rt></ruby>・イヤホン
   ja_romaji: Difōmā Iyahon
   ko:
   ko_rr:
+  zh-TW:
   zh-CN:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    A monster equipped with this card can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of "Morphtronic Earfon" once per turn. If this card is Special Summoned: You can target 1 face-up monster on the field; it is treated as a Tuner this turn. You can target 1 Synchro Monster on the field; equip this card from your field or GY to it.
+    While this card is an Equip Card, the equipped monster can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of "Morphtronic Earfon" once per turn. If this card is Special Summoned: You can target 1 face-up monster on the field; treat it as a Tuner until the end of this turn. You can target 1 Synchro Monster on the field; equip this card from your field or GY to it.
   de:
   es:
   fr:
@@ -25,15 +26,41 @@ text:
     チューナー＋チューナー以外のモンスター１体以上
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターをターン終了時までチューナーとして扱う。②：フィールドのＳモンスター１体を対象として発動できる。自分のフィールド・墓地からこのカードを装備カード扱いとしてそのモンスターに装備する。③：このカードを装備したモンスターは１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   ko:
+  zh-TW:
   zh-CN:
-type: Monster
-typeline: Machine / Synchro / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: EARTH
 level: 4
 atk: 1200
 def: 1800
 materials: 1 Tuner + 1 or more non-Tuner monsters
 sets:
+  en:
+  - set_number: POTE-EN096
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  de:
+  - set_number: POTE-DE096
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  fr:
+  - set_number: POTE-FR096
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  it:
+  - set_number: POTE-IT096
+    set_name: Power of the Elements
+    rarities:
+    - Common
+  pt:
+  - set_number: POTE-PT096
+    set_name: Power of the Elements
+    rarities:
+    - Common
   ja:
   - set_number: DP27-JP004
     set_name: 'Duelist Pack: Duelists of Pyroxene'

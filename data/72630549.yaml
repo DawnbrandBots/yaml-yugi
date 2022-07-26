@@ -11,28 +11,30 @@ name:
   ja_romaji: Kaosu Majishan
   ko: 카오스 매지션
   ko_rr:
+  zh-TW:
   zh-CN: 混沌魔导师
 text:
   en: |-
-    Negate the effect of a Monster Card that targets this 1 card.
+    Negate any monster effects that target this 1 card.
   de: |-
-    Annulliere den Effekt einer Monsterkarte, die diese 1 Karte als Ziel bestimmt.
+    Annulliere alle Monstereffekte, die diese 1 Karte als Ziel wählen.
   es: |-
-    Niega el efecto de un monstruo que designe esta 1 carta como objetivo.
+    Niega cualquier efecto de monstruo que seleccione esta 1 carta como objetivo.
   fr: |-
-    Annulez l'effet d'un monstre qui désigne cette unique carte.
+    Annulez les effets de monstre qui ciblent cette unique carte.
   it: |-
-    Annulla l'effetto di un mostro che designa questa carta come bersaglio.
+    Annulla qualsiasi effetto di mostro che sceglie questa 1 carta come bersaglio.
   pt: |-
-    Anule o efeito de um Card de Monstro que designe este 1 card como alvo.
+    Negue quaisquer efeitos de monstro que escolham este 1 card como alvo.
   ja: |-
     ①：このカードがモンスターゾーンに存在する限り、このカード１枚のみを対象とするモンスターの効果は無効化される。
   ko: |-
     이 카드 1장을 대상으로 하는 몬스터의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     以这张卡1张为对象的怪兽的效果无效。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 6
 atk: 2400

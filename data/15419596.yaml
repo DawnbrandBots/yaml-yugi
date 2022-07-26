@@ -7,10 +7,11 @@ name:
   fr: Oiseau Fantôme de l'Enchantement
   it: Uccello Fantasma dell'Incantamento
   pt: Pássaro Fantasma da Fascinação
-  ja: <ruby><rb>魅</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>幽</rb><rp>（</rp><rt>くら</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>とり</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魅</rb><rt>み</rt></ruby><ruby><rb>幽</rb><rt>くら</rt></ruby><ruby><rb>鳥</rb><rt>とり</rt></ruby>
   ja_romaji: Mikuratori
   ko: 매유조
   ko_rr:
+  zh-TW:
   zh-CN: 魅幽鸟
 text:
   en: |-
@@ -53,14 +54,15 @@ text:
     ①：このカードはメインモンスターゾーンに存在する限り、その位置によって以下の効果を得る。●左端：このカードの攻撃力・守備力は１０００アップする。●右端：このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。●中央：このカードは相手の効果の対象にならず、相手の効果では破壊されない。●それ以外：このカードと同じ縦列のモンスターは効果を発動できない。
   ko: |-
     ① : 이 카드가 메인 몬스터 존에 존재하는 한, 그 위치에 따라 이하의 효과를 얻는다. ● 왼쪽 끝 : 이 카드의 공격력 / 수비력은 1000 올린다. ● 오른쪽 끝 : 이 카드는 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다. ● 중앙 : 이 카드는 상대의 효과의 대상이 되지 않고, 상대 효과로는 파괴되지 않는다. ● 그 이외 : 이 카드와 같은 세로열인 몬스터는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡只要在主要怪兽区域存在，得到那个位置的以下效果。
-    ●左端：这张卡的攻击力·守备力上升1000。
-    ●右端：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。
-    ●中央：这张卡不会成为对方的效果的对象，不会被对方的效果破坏。
-    ●那以外：和这张卡相同纵列的怪兽不能把效果发动。
-type: Monster
-typeline: Winged Beast / Effect
+    ①：此卡只要存在于主要怪兽区域，根据其位置获得以下效果。
+    ●左端：此卡的攻击力・守备力上升1000。
+    ●右端：此卡在1次战斗阶段中最多可攻击怪兽2次。
+    ●中央：此卡不会成为对手效果的对象，也不会因对手的效果而被破坏。
+    ●其他：与此卡同一纵列的怪兽不可发动效果。
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: DARK
 level: 4
 atk: 1300

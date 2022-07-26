@@ -11,6 +11,7 @@ name:
   ja_romaji: Karateman
   ko: 당수
   ko_rr:
+  zh-TW:
   zh-CN: 空手道家
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、自分のメインフェイズ時に発動する事ができる。このカードの攻撃力はエンドフェイズ時まで、元々の攻撃力を倍にした数値になる。この効果を使用した場合、このカードはエンドフェイズ時に破壊される。
   ko: |-
     1턴에 1번만 이 카드의 원래 공격력을 배로 할 수 있다. 이 효과를 사용한 경우. 턴 종료시에 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     1回合1次，自己的主要阶段时才能发动。这张卡的攻击力直到结束阶段时变成原本攻击力2倍的数值。这个效果使用的场合，这张卡在结束阶段时破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 3
 atk: 1000

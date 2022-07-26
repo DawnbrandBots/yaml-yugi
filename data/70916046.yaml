@@ -7,10 +7,11 @@ name:
   fr: Canon en Équation Linéaire
   it: Cannone Equazione Lineare
   pt: Canhão da Equação Linear
-  ja: <ruby><rb>壱</rb><rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby><rb>時</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>固</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>定</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>壱</rb><rt>いち</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>砲</rb><rt>ほう</rt></ruby><ruby><rb>固</rb><rt>こ</rt></ruby><ruby><rb>定</rb><rt>てい</rt></ruby><ruby><rb>式</rb><rt>しき</rt></ruby>
   ja_romaji: Ichiji Hōkoteishiki
   ko: 일시포고정식
   ko_rr: Ilsipogojeongsik
+  zh-TW:
   zh-CN: 一时炮固定式
 text:
   en: |-
@@ -49,10 +50,11 @@ text:
     ●相手フィールドのカードの数
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 / 상대의 배틀 페이즈에 1 / 2 / 3 / 4 / 5 / 6 중 어느 숫자를 선언하고 발동할 수 있다. 상대 필드의 효과 몬스터 1장을 골라, 이하의 수치를 합계한 수가 자신 묘지의 카드의 수와 같을 경우, 선언한 수까지 자신의 덱 위에서 카드를 묘지로 보내고, 묘지로 보낸 수까지 상대 필드의 카드를 골라 주인의 덱으로 되돌린다. 다를 경우, 자신은 선언한 수 × 500 LP를 상실한다. ●고른 몬스터의 레벨 × 선언한 수 ●상대 필드의 카드의 수
+  zh-TW:
   zh-CN: |-
     这个卡名的卡在1回合只能发动1张。
     ①：自己·对方的战斗阶段，宣言1·2·3·4·5·6的其中任意数字才能发动。选对方场上1只效果怪兽，以下数值的合计数字和自己墓地的卡数量相同的场合，把最多有宣言的数字数量的卡从自己卡组上面送去墓地，选最多有送去墓地的数量的对方场上的卡回到持有者卡组。不是的场合，自己失去宣言的数字×500基本分。
     ●选的怪兽的等级×宣言的数字
     ●对方场上的卡数量
-type: Trap
+card_type: Trap
 property: Normal

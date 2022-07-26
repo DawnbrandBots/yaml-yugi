@@ -7,10 +7,11 @@ name:
   fr: Méch-Soldat Géant
   it: Mech-Soldato Gigante
   pt: Mecha-Soldado Gigante
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>巨</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby>の<ruby><rb>巨</rb><rt>きょ</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Kikai no Kyohei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 机械巨兵
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     巨大なオノの攻撃は、大地が割れるほど強力な一撃だ。
   ko:
+  zh-TW:
   zh-CN: |-
     巨斧的一击可以割开大地。
-type: Monster
-typeline: Machine / Normal
+card_type: Monster
+monster_type_line: Machine / Normal
 attribute: EARTH
 level: 6
 atk: 1750

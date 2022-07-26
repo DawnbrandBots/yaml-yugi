@@ -7,10 +7,11 @@ name:
   fr: Zone de Neutralisation des Sorts
   it: Zona Anti-Magia
   pt: Area de Não Lançamento de Magias
-  ja: <ruby><rb>絶</rb><rp>（</rp><rt>ぜっ</rt><rp>）</rp></ruby><ruby><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>止</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>区</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>絶</rb><rt>ぜっ</rt></ruby><ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby><ruby><rb>禁</rb><rt>きん</rt></ruby><ruby><rb>止</rb><rt>し</rt></ruby><ruby><rb>区</rb><rt>く</rt></ruby><ruby><rb>域</rb><rt>いき</rt></ruby>
   ja_romaji: Zettai Mahō Kinshi Kuiki
   ko: 절대 마법 금지구역
   ko_rr:
+  zh-TW:
   zh-CN: 绝对魔法禁止区域
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に表側表示で存在する全ての効果モンスター以外のモンスターは魔法の効果を受けない。
   ko: |-
     필드 위에 앞면 표시로 존재하는 모든 효과 몬스터 이외의 몬스터는 이 카드 이외의 마법의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
     场上表侧表示存在的全部效果怪兽以外的怪兽不受魔法的效果影响。
-type: Spell
+card_type: Spell
 property: Continuous

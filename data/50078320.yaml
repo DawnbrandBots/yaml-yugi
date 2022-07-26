@@ -7,10 +7,11 @@ name:
   fr: Graveur de la Marque
   it: Incisore del Marchio
   pt: Gravador da Máscara
-  ja: <ruby><rb>刻</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>印</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>の<ruby><rb>調</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>停</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>刻</rb><rt>こく</rt></ruby><ruby><rb>印</rb><rt>いん</rt></ruby>の<ruby><rb>調</rb><rt>ちょう</rt></ruby><ruby><rb>停</rb><rt>てい</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Kokuin no Chōteisha
   ko: 각인의 조정자
   ko_rr:
+  zh-TW:
   zh-CN: 刻印之调停者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手がカード名を１つ宣言して発動する効果を発動した時、このカードを手札から墓地へ送って発動できる。カード名を１つ宣言する。相手が宣言したカード名はこの効果で宣言したカード名になる。②：１ターンに１度、フィールドの表側表示のカード１枚を対象として発動できる。次のターンのエンドフェイズにそのカードを破壊する。この効果は相手ターンでも発動できる。
   ko: |-
     ①: 상대가 카드명을 1개 선언하고 발동하는 효과를 발동했을 때, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 카드명을 1개 선언한다. 상대가 선언한 카드명은 이 효과로 선언한 카드명이 된다. ②: 1턴에 1번, 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 다음 턴의 엔드 페이즈에 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：对方把宣言1个卡名发动的效果发动时，把这张卡从手卡送去墓地才能发动。宣言1个卡名。对方宣言的卡名变成这个效果宣言的卡名。②：1回合1次，以场上1张表侧表示的卡为对象才能发动。下个回合的结束阶段把那张卡破坏。这个效果在对方回合也能发动。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1800

@@ -7,10 +7,11 @@ name:
   fr: Unité de Ravitaillement
   it: Squadra di Rifornimento
   pt: Suprir o Pelotão
-  ja: <ruby><rb>補</rb><rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby><rb>給</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>部</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>補</rb><rt>ほ</rt></ruby><ruby><rb>給</rb><rt>きゅう</rt></ruby><ruby><rb>部</rb><rt>ぶ</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Hokyūbutai
   ko: 보급 부대
   ko_rr: Bogeup Budae
+  zh-TW: 補給部隊
   zh-CN: 补给部队
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：１ターンに１度、自分フィールドのモンスターが戦闘・効果で破壊された場合にこの効果を発動する。自分はデッキから１枚ドローする。
   ko: |-
     ①: 1턴에 1번, 자신 필드의 몬스터가 전투 / 효과로 파괴되었을 경우에 이 효과를 발동한다. 자신은 덱에서 1장 드로우한다.
+  zh-TW: 1回合1次，我方场上的怪兽因战斗或卡牌效果被破坏时发动。从我方牌组抽取1张卡牌。
   zh-CN: |-
-    ①：1回合1次，自己场上的怪兽被战斗·效果破坏的场合把这个效果发动。自己从卡组抽1张。
-type: Spell
+    ①：1回合1次，自己场上的怪兽因战斗・效果破坏的情况下发动。自己从牌组中抽1张。
+card_type: Spell
 property: Continuous

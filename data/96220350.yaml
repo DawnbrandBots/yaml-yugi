@@ -7,10 +7,11 @@ name:
   fr: Idaten, l'Étoile du Conquérant
   it: Idaten la Stella del Conquistatore
   pt: Iadaten, a Estrela Conquistadora
-  ja: <ruby><rb>覇</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>勝</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>イダテン
+  ja: <ruby><rb>覇</rb><rt>は</rt></ruby><ruby><rb>勝</rb><rt>しょう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>イダテン
   ja_romaji: Hashōsei Idaten
   ko: 패승성 이다텐
   ko_rr: Paeseungseong Idaten
+  zh-TW:
   zh-CN: 霸胜星 韦驮天
 text:
   en: |-
@@ -37,14 +38,15 @@ text:
   ko: |-
     레벨 5 이상의 전사족 몬스터 × 2
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 덱에서 전사족 / 레벨 5 몬스터 1장을 패에 넣는다. ②: 1턴에 1번, 패를 임의의 매수 버리고 발동할 수 있다. 이 카드의 공격력은 버린 수 × 200 올린다. ③: 이 카드가 이 카드의 레벨 이하의 레벨을 가지는 상대 몬스터와 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 그 상대 몬스터의 공격력을 그 데미지 계산시에만 0 으로 한다.
+  zh-TW:
   zh-CN: |-
     5星以上的战士族怪兽×2
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡融合召唤成功的场合才能发动。从卡组把1只战士族·5星怪兽加入手卡。
     ②：1回合1次，把手卡任意数量丢弃才能发动。这张卡的攻击力上升丢弃数量×200。
     ③：这张卡和持有这张卡的等级以下的等级的对方怪兽进行战斗的伤害计算时才能发动1次。那只对方怪兽的攻击力只在那次伤害计算时变成0。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
 level: 10
 atk: 3000

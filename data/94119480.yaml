@@ -7,10 +7,11 @@ name:
   fr: Adreus, Gardien de l'Armageddon
   it: Adreus, Custode dell'Armageddon
   pt:
-  ja: <ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>焉</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>アドレウス
+  ja: <ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>焉</rb><rt>えん</rt></ruby>の<ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>アドレウス
   ja_romaji: Shūen no Shugosha Adoreusu
   ko: 종언의 수호자 아드레우스
   ko_rr:
+  zh-TW:
   zh-CN: 终焉守护者 阿德琉斯
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
   ko: |-
     레벨 5 몬스터 x 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위에 앞면 표시로 존재하는 카드 1장을 선택하고 발동할 수 있다. 선택한 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     5星怪兽×2
     1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧表示存在的1张卡才能发动。选择的卡破坏。
-type: Monster
-typeline: Fiend / Xyz / Effect
+card_type: Monster
+monster_type_line: Fiend / Xyz / Effect
 attribute: DARK
 rank: 5
 atk: 2600

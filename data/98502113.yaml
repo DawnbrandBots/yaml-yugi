@@ -7,10 +7,11 @@ name:
   fr: Paladin des Ténèbres
   it: Paladino Oscuro
   pt: Paladino Negro
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>－ブラック・パラディン
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>－ブラック・パラディン
   ja_romaji: Chōmadōkenshi - Burakku Paradin
   ko: 초마도검사 블랙 파라딘
   ko_rr: Chomadogeomsa Beullaek Paradin
+  zh-TW:
   zh-CN: 超魔导剑士-黑暗帕拉丁
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "블랙 매지션" ＋ "버스터 블레이더"
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드의 공격력은, 서로의 필드 / 묘지의 드래곤족 몬스터의 수 × 500 올린다. ②: 마법 카드가 발동했을 때, 패를 1장 버리고 발동할 수 있다. 이 카드가 필드에 앞면 표시로 존재할 경우, 그 발동을 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
     「黑魔术师」＋「破坏剑士」
     这张卡不用融合召唤不能特殊召唤。①：这张卡的攻击力上升双方的场上·墓地的龙族怪兽数量×500。②：魔法卡发动时，丢弃1张手卡才能发动。这张卡在场上表侧表示存在的场合，那个发动无效并破坏。
-type: Monster
-typeline: Spellcaster / Fusion / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2900
@@ -232,7 +234,7 @@ sets:
     - Secret Rare
     - Ultimate Rare
   - set_number: LE5-001
-    set_name: Limited Edition 5
+    set_name: 'Limited Edition 5: Yugi Pack'
     rarities:
     - Ultra Rare
   - set_number: SY2-001

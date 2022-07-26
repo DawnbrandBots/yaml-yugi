@@ -7,10 +7,11 @@ name:
   fr: Triforce, Allié Genex
   it: Genex Alleato Triforza
   pt:
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アーリー</rt><rp>）</rp></ruby>・ジェネクス・トライフォース
+  ja: <ruby><rb>Ａ</rb><rt>アーリー</rt></ruby>・ジェネクス・トライフォース
   ja_romaji: Ārī Jenekusu Toraifōsu
   ko: A·제넥스 트라이포스
   ko_rr:
+  zh-TW:
   zh-CN: 盟军·次世代三力人
 text:
   en: |-
@@ -44,11 +45,12 @@ text:
   ko: |-
     '제넥스' 라는 이름이 붙은 튜너 + 튜너 이외의 몬스터 1장 이상
     이 카드의 싱크로 소재로 한 튜너 이외의 몬스터의 속성에 의해서, 이 카드는 이하의 효과를 얻는다. ● 땅 속성 : 이 카드가 공격할 경우, 상대는 에미지 스텝 종료시까지 마법 / 함정 카드를 발동할 수 없다. ● 화염 속성 : 이 카드가 전투에 의해서 몬스터를 파괴했을 경우, 그 몬스터의 공격력만큼의 데미지를 상대 라이프에 준다. ● 빛 속성 : 1턴에 1번, 자신 묘지의 빛 속성 몬스터 1장을 선택하고, 자신 필드 위에 세트할 수 있다.
+  zh-TW:
   zh-CN: |-
     名字带有「次世代」的调整＋调整以外的怪兽1只以上
     作为这张卡的同调素材的调整以外的怪兽属性让这张卡得到以下效果。●地属性：这张卡攻击的场合，对方直到伤害步骤结束时不能把魔法·陷阱卡发动。●炎属性：这张卡战斗破坏怪兽的场合，给与对方基本分那只怪兽的原本攻击力数值的伤害。●光属性：1回合1次，可以选择自己墓地1只光属性怪兽里侧守备表示特殊召唤。
-type: Monster
-typeline: Machine / Synchro / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: DARK
 level: 7
 atk: 2500

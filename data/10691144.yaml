@@ -7,10 +7,11 @@ name:
   fr: Miroir de la Barrière de Glace
   it: Specchio della Barriera di Ghiaccio
   pt: Espelho da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>鏡</rb><rp>（</rp><rt>かがみ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>鏡</rb><rt>かがみ</rt></ruby>
   ja_romaji: Hyōkekkai no Kagami
   ko: 빙결계의 거울
   ko_rr: Binggyeolgye-ui Geoul
+  zh-TW:
   zh-CN: 冰结界之镜
 text:
   en: |-
@@ -47,7 +48,8 @@ text:
     ①：このターン相手が発動したモンスターの効果で、自分の手札・フィールド・墓地のカードが除外される度に、以下の効果を適用する。●手札：相手の手札をランダムに２枚まで選んで除外する。●フィールド：相手フィールドのカードを２枚まで選んで除外する。●墓地：相手の墓地のカードを２枚まで選んで除外する。
   ko: |-
     ①: 이 턴에 상대가 발동한 몬스터의 효과로, 자신의 패 / 필드 / 묘지의 카드가 제외될 때마다, 이하의 효과를 적용한다. ●패: 상대의 패를 무작위로 2장까지 고르고 제외한다. ●필드: 상대 필드의 카드를 2장까지 고르고 제외한다. ●묘지: 상대 묘지의 카드를 2장까지 고르고 제외한다.
+  zh-TW:
   zh-CN: |-
     这个回合，每次对方发动的效果怪兽的效果让自己的手卡·场上·墓地的卡从游戏中除外，以下效果适用。●手卡的卡被除外的场合，对方手卡随机最多2张从游戏中除外。●自己场上存在的卡被除外的场合，对方场上存在的最多2张卡从游戏中除外。●墓地存在的卡被除外的场合，对方墓地存在的最多2张卡从游戏中除外。
-type: Spell
+card_type: Spell
 property: Quick-Play

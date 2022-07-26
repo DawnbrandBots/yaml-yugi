@@ -7,10 +7,11 @@ name:
   fr: Statue-Barrière de la Sécheresse
   it: Statua Barriera della Siccità
   pt: Estátua Barreira da Seca
-  ja: <ruby><rb>干</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>ばつの<ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>像</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>干</rb><rt>かん</rt></ruby>ばつの<ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>像</rb><rt>ぞう</rt></ruby>
   ja_romaji: Kanbatsu no Kekkaizō
   ko: 가뭄의 결계상
   ko_rr:
+  zh-TW:
   zh-CN: 干旱之结界像
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いは地属性モンスターしか特殊召喚できない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 땅 속성 이외의 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，双方不是地属性怪兽不能特殊召唤。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 4
 atk: 1000

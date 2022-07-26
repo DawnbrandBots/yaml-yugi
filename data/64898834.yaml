@@ -7,10 +7,11 @@ name:
   fr: Catapulte Dragon T.G.
   it: T.G. Drago Catapulta
   pt: T.G. Dragão Catapulta
-  ja: <ruby><rb>ＴＧ</rb><rp>（</rp><rt>テックジーナス</rt><rp>）</rp></ruby> カタパルト・ドラゴン
+  ja: <ruby><rb>ＴＧ</rb><rt>テックジーナス</rt></ruby> カタパルト・ドラゴン
   ja_romaji: Tekkujīnasu Kataparuto Doragon
-  ko: <ruby><rb>TG</rb><rp>（</rp><rt>테크지너스</rt><rp>）</rp></ruby> 중강갑 드래곤
+  ko: <ruby><rb>TG</rb><rt>테크지너스</rt></ruby> 중강갑 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 科技属 弹射龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、手札からレベル３以下の「ＴＧ」と名のついたチューナー１体を特殊召喚する事ができる。
   ko: |-
     1턴에 1번, 패에서 레벨 3 이하의 "TG(테크지너스) 라는 이름이 붙은 튜너 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     1回合1次，可以从手卡把1只3星以下的名字带有「科技属」的调整特殊召唤。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: EARTH
 level: 2
 atk: 900

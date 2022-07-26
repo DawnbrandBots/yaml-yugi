@@ -7,11 +7,11 @@ name:
   fr: Karakuri 7749 "Nanashick" le Ninja
   it: Karakuri Ninja mod. 7749 "Nanashick"
   pt:
-  ja: カラクリ<ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
-    <ruby><rb>七</rb><rp>（</rp><rt>ナ</rt><rp>）</rp></ruby><ruby><rb>七</rb><rp>（</rp><rt>ナ</rt><rp>）</rp></ruby><ruby><rb>四</rb><rp>（</rp><rt>シッ</rt><rp>）</rp></ruby><ruby><rb>九</rb><rp>（</rp><rt>ク</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby> <ruby><rb>七</rb><rt>ナ</rt></ruby><ruby><rb>七</rb><rt>ナ</rt></ruby><ruby><rb>四</rb><rt>シッ</rt></ruby><ruby><rb>九</rb><rt>ク</rt></ruby>
   ja_romaji: Karakuri Ninja Nanashikku
   ko: 자동기계첩자 7749 "칠칠사십구"
   ko_rr:
+  zh-TW:
   zh-CN: 机巧忍者 七七四九
 text:
   en: |-
@@ -29,10 +29,11 @@ text:
     このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を変更する。このカードが召喚に成功した時、自分フィールド上に表側守備表示で存在する「カラクリ」と名のついたモンスターの数だけ、自分のデッキからカードをドローする事ができる。
   ko: |-
     이 카드는 공격이 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 변경한다. 이 카드가 일반 소환에 성공했을 때, 자신 필드 위에 앞면 표시로 존재하는 "자동 기계" 라는 이름이 붙은 몬스터의 수만큼, 자신의 덱에서 카드를 드로우할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以攻击的场合必须作出攻击。场上表侧表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变更。这张卡召唤成功时，可以从自己卡组抽出自己场上表侧守备表示存在的名字带有「机巧」的怪兽数量的卡。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 5
 atk: 2200

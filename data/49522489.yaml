@@ -7,10 +7,11 @@ name:
   fr: Grenouille Maléfique
   it: RANA Beelze
   pt: Sapo Belze
-  ja: <ruby><rb>悪</rb><rp>（</rp><rt>あ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby>ガエル
+  ja: <ruby><rb>悪</rb><rt>あ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby>ガエル
   ja_romaji: Amagaeru
   ko: 악마 개구리
   ko_rr:
+  zh-TW:
   zh-CN: 恶魔青蛙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの攻撃力は、自分の墓地に存在する「悪魂邪苦止」の枚数×３００ポイントアップする。
   ko: |-
     이 카드의 공격력은, 자신의 묘지에 존재하는 "올챙이"의 매수×300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡的攻击力上升自己墓地存在的「恶魂邪苦止」数量×300的数值。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 3
 atk: 1200

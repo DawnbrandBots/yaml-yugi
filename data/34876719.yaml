@@ -7,10 +7,11 @@ name:
   fr: Chevalier N.As.H.
   it: Cavaliere N.As.H.
   pt: Cavaleiro N.As.H.
-  ja: <ruby><rb>Ｎ・Ａｓ・Ｈ Ｋｎｉｇｈｔ</rb><rp>（</rp><rt>ネフィル・アサイラム・ヘット・ナイト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｎ・Ａｓ・Ｈ Ｋｎｉｇｈｔ</rb><rt>ネフィル・アサイラム・ヘット・ナイト</rt></ruby>
   ja_romaji: Nefiru Asairamu Hetto Naito
   ko: 네필 어사일럼 헤트 나이트
   ko_rr: Nepil Eosailleom Heseu Naiteu
+  zh-TW:
   zh-CN: 伟人庇护战车骑士
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     레벨 5 몬스터 × 2
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드에 "No." 몬스터가 존재하는 한, 이 카드는 전투로는 파괴되지 않는다. ②: 자신 / 상대의 메인 페이즈에, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 엑스트라 덱에서 "No.101"~"No.107" 중 어느 "No." 엑시즈 몬스터 1장을 고르고, 이 카드 아래에 겹쳐 엑시즈 소재로 한다. 그 후, 이 카드 이외의 필드의 앞면 표시 몬스터 1장을 고르고 이 카드 아래에 겹쳐 엑시즈 소재로 할 수 있다.
+  zh-TW:
   zh-CN: |-
     5星怪兽×2
     这个卡名的②的效果1回合只能使用1次。
     ①：只要场上有「No.」怪兽存在，这张卡不会被战斗破坏。
     ②：自己·对方的主要阶段，把这张卡2个超量素材取除才能发动。从额外卡组选1只「No.101」～「No.107」其中任意种的「No.」超量怪兽在这张卡下面重叠作为超量素材。那之后，可以选这张卡以外的场上1只表侧表示怪兽在这张卡下面重叠作为超量素材。
-type: Monster
-typeline: Aqua / Xyz / Effect
+card_type: Monster
+monster_type_line: Aqua / Xyz / Effect
 attribute: WATER
 rank: 5
 atk: 1700

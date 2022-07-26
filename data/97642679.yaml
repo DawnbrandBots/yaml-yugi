@@ -7,10 +7,11 @@ name:
   fr: Zorc - Maître des Ténèbres
   it: Maestro Oscuro - Zorc
   pt: Mestre das Trevas - Zorc
-  ja: <ruby><rb>闇の支配者</rb><rp>（</rp><rt>ダーク・マスター</rt><rp>）</rp></ruby>－ゾーク
+  ja: <ruby><rb>闇の支配者</rb><rt>ダーク・マスター</rt></ruby>－ゾーク
   ja_romaji: Dāku Masutā Zōku
   ko: 어둠의 지배자-조크
   ko_rr:
+  zh-TW:
   zh-CN: 暗之支配者-佐克
 text:
   en: |-
@@ -35,13 +36,14 @@ text:
     ●1, 2: 상대 필드의 몬스터를 전부 파괴한다.
     ●3, 4, 5: 상대 필드의 몬스터 1장을 고르고 파괴한다.
     ●6: 자신 필드의 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     「与暗之支配者的契约」降临。①：1回合1次，自己主要阶段才能发动。掷1次骰子，出现的数目的效果适用。
     ●1·2：对方场上的怪兽全部破坏
     ●3·4·5：选对方场上1只怪兽破坏。
     ●6：自己场上的怪兽全部破坏。
-type: Monster
-typeline: Fiend / Ritual / Effect
+card_type: Monster
+monster_type_line: Fiend / Ritual / Effect
 attribute: DARK
 level: 8
 atk: 2700

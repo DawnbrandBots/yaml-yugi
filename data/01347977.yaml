@@ -7,10 +7,11 @@ name:
   fr: Gardien Mystérieux
   it: Guardia Misteriosa
   pt: Guarda Misterioso
-  ja: <ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>なる<ruby><rb>守</rb><rp>（</rp><rt>まも</rt><rp>）</rp></ruby>り<ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖</rb><rt>せい</rt></ruby>なる<ruby><rb>守</rb><rt>まも</rt></ruby>り<ruby><rb>手</rb><rt>て</rt></ruby>
   ja_romaji: Seinaru Mamorite
   ko: 성스러운 파수꾼
   ko_rr:
+  zh-TW:
   zh-CN: 神圣守卫者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、以下の効果から１つを選択して発動する。●フィールドの表側表示モンスター１体を対象として発動する。その表側表示モンスターを持ち主のデッキの一番上に戻す。●自分フィールドに戦士族モンスターが存在する場合、フィールドの表側表示モンスター２体を対象として発動する。その表側表示モンスター１体を持ち主のデッキの一番上に戻す。その後、自分フィールドに戦士族モンスターが存在する場合、もう１体の表側表示モンスターを持ち主の手札に戻す。
   ko: |-
     리버스 : 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 덱의 맨 위로 되돌린다. 자신 필드 위에 전사족 몬스터가 존재하는 경우, 다시 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 주인의 패로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     选择场上表侧表示存在的1只怪兽回到持有者卡组最上面。自己场上有战士族怪兽存在的场合，可以再选择场上表侧表示存在的1只怪兽回到持有者手卡。
-type: Monster
-typeline: Spellcaster / Flip / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Flip / Effect
 attribute: EARTH
 level: 3
 atk: 800

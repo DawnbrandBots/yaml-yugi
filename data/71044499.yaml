@@ -7,10 +7,11 @@ name:
   fr: Seigneur de la Suppression
   it: Nobiluomo dello Scambio
   pt: O Nobre de Crossout
-  ja: <ruby><rb>抹</rb><rp>（</rp><rt>まっ</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>の<ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>徒</rb><rp>（</rp><rt>と</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>抹</rb><rt>まっ</rt></ruby><ruby><rb>殺</rb><rt>さつ</rt></ruby>の<ruby><rb>使</rb><rt>し</rt></ruby><ruby><rb>徒</rb><rt>と</rt></ruby>
   ja_romaji: Massatsu no Shito
   ko: 말살의사도
   ko_rr:
+  zh-TW: 抹殺之使徒
   zh-CN: 抹杀之使徒
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に裏側表示で存在するモンスター１体を選択して破壊し、ゲームから除外する。それがリバース効果モンスターだった場合、お互いのデッキを確認し、同名カードを全てゲームから除外する。
   ko: |-
     뒷면 표시의 몬스터 1장을 파괴하여 게임에서 제외한다. 만약 그것이 리버스 효과 몬스터였을 경우, 서로의 덱을 확인하여, 파괴한 몬스터와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
+  zh-TW: 选择场上以里侧表示存在的1只怪兽并破坏，从游戏中除外。反转效果怪兽的场合，确认双方牌组，并将同名卡牌全部从游戏中除外。
   zh-CN: |-
     选择场上里侧表示存在的1只怪兽破坏并从游戏中除外。那是反转效果怪兽的场合，把双方卡组确认，同名卡全部从游戏中除外。
-type: Spell
+card_type: Spell
 property: Normal

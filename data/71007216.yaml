@@ -7,11 +7,12 @@ name:
   fr: Sorcièrevent - Verre Clochette
   it: Ventostrega - Campanella di Vetro
   pt: Ventobruxa - Sino de Vidro
-  ja: <ruby><rb>ＷＷ</rb><rp>（</rp><rt>ウィンド・ウィッチ</rt><rp>）</rp></ruby>－グラス・ベル
+  ja: <ruby><rb>ＷＷ</rb><rt>ウィンド・ウィッチ</rt></ruby>－グラス・ベル
   ja_romaji: Windo Wicchi - Gurasu Beru
-  ko: <ruby><rb>WW</rb><rp>（</rp><rt>윈드 위치</rt><rp>）</rp></ruby>－글라스 벨
+  ko: <ruby><rb>WW</rb><rt>윈드 위치</rt></ruby>－글라스 벨
   ko_rr:
-  zh-CN: 风魔女-玻璃铃
+  zh-TW:
+  zh-CN: 风魔女－玻璃铃
 text:
   en: |-
     If this card is Normal or Special Summoned: You can add 1 "Windwitch" monster from your Deck to your hand, except "Windwitch - Glass Bell", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of "Windwitch - Glass Bell" once per turn.
@@ -29,10 +30,11 @@ text:
     「ＷＷ－グラス・ベル」の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ＷＷ－グラス・ベル」以外の「ＷＷ」モンスター１体を手札に加える。この効果の発動後、ターン終了時まで自分は風属性モンスターしか特殊召喚できない。
   ko: |-
     "WW(윈드 위치)-글라스 벨"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "WW(윈드 위치)-글라스 벨" 이외의 "WW(윈드 위치)" 몬스터 1장을 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 바람 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    「风魔女-玻璃铃」的效果1回合只能使用1次。①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把「风魔女-玻璃铃」以外的1只「风魔女」怪兽加入手卡。这个效果的发动后，直到回合结束时自己不是风属性怪兽不能特殊召唤。
-type: Monster
-typeline: Spellcaster / Tuner / Effect
+    此卡名的效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1只"风魔女－玻璃铃"以外的"风魔女"怪兽加入手牌。此效果发动后，直至回合结束时为止自己仅可特殊召唤风属性怪兽。
+card_type: Monster
+monster_type_line: Spellcaster / Tuner / Effect
 attribute: WIND
 level: 4
 atk: 1500

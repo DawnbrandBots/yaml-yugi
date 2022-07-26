@@ -7,11 +7,11 @@ name:
   fr: Winda, Prêtresse Gusto
   it: Winda, Pretessa di Gusto
   pt: Wynnda, Sacerdotisa de Gusto
-  ja: ガスタの<ruby><rb>巫</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>
-    ウィンダ
+  ja: ガスタの<ruby><rb>巫</rb><rt>み</rt></ruby><ruby><rb>女</rb><rt>こ</rt></ruby> ウィンダ
   ja_romaji: Gasuta no Miko Winda
   ko: 가스타의 무녀 윈다
   ko_rr:
+  zh-TW:
   zh-CN: 薰风的巫女 薇茵妲
 text:
   en: |-
@@ -27,13 +27,14 @@ text:
   pt: |-
     Quando este é destruído em batalha e enviado para o seu Cemitério: Você pode Invocar por Invocação-Especial, do seu Deck, 1 monstro "Gusto" Regulador.
   ja: |-
-    このカードが<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>モンスターの<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>によって<ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>され<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>へ<ruby><rb>送</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>られた<ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>のデッキから「ガスタ」と<ruby><rb>名</rb><rp>（</rp><rt>な</rt><rp>）</rp></ruby>のついたチューナー１<ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>を<ruby><rb>特</rb><rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby><rb>殊</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>する<ruby><rb>事</rb><rp>（</rp><rt>こと</rt><rp>）</rp></ruby>ができる。
+    このカードが<ruby><rb>相</rb><rt>あい</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>モンスターの<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>によって<ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby>され<ruby><rb>墓</rb><rt>ぼ</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby>へ<ruby><rb>送</rb><rt>おく</rt></ruby>られた<ruby><rb>時</rb><rt>とき</rt></ruby>、<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>のデッキから「ガスタ」と<ruby><rb>名</rb><rt>な</rt></ruby>のついたチューナー１<ruby><rb>体</rb><rt>たい</rt></ruby>を<ruby><rb>特</rb><rt>とく</rt></ruby><ruby><rb>殊</rb><rt>しゅ</rt></ruby><ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby>する<ruby><rb>事</rb><rt>こと</rt></ruby>ができる。
   ko: |-
     이 카드가 상대 몬스터의 공격에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 "가스타"라는 이름이 붙은 튜너 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡被对方怪兽的攻击破坏送去墓地时，可以从卡组把1只名字带有「薰风」的调整特殊召唤。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 2
 atk: 1000

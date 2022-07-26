@@ -7,10 +7,11 @@ name:
   fr: Thor, Seigneur des Ases
   it: Thor, Signore degli Aesir
   pt: Thor, Senhor dos Aesir
-  ja: <ruby><rb>極</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>トール
+  ja: <ruby><rb>極</rb><rt>きょく</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>トール
   ja_romaji: Kyokushin'ō Tōru
   ko: 극신황 토르
   ko_rr:
+  zh-TW:
   zh-CN: 极神皇 托尔
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "극성수"라는 이름이 붙은 튜너 + 튜너 이외의 몬스터 2장 이상
     1턴에 1번, 상대 필드 위에 앞면 표시로 존재하는 몬스터의 효과를 엔드 페이즈시까지 무효화할 수 있다. 필드 위에 앞면 표시로 존재하는 이 카드가 상대에 의해서 파괴되어 묘지로 보내졌을 경우, 그 턴의 엔드 페이즈시에 자신의 묘지에 존재하는 "극성수"라는 이름이 붙은 튜너 1장을 게임에서 제외하는 것으로, 이 카드를 묘지에서 특수 소환한다. 이 효과로 특수 소환에 성공했을 때, 상대 라이프에 800 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     名字带有「极星兽」的调整＋调整以外的怪兽2只以上
     1回合1次，可以把对方场上表侧表示存在的怪兽的效果直到结束阶段时无效化。场上表侧表示存在的这张卡被对方破坏送去墓地的场合，那个回合的结束阶段时可以通过把自己墓地存在的1只名字带有「极星兽」的调整从游戏中除外，这张卡从墓地特殊召唤。这个效果特殊召唤成功时，给与对方基本分800分伤害。
-type: Monster
-typeline: Beast-Warrior / Synchro / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Synchro / Effect
 attribute: EARTH
 level: 10
 atk: 3500

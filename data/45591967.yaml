@@ -7,10 +7,11 @@ name:
   fr: Frondeur Extra Potartiste
   it: Artistamico Fiondatore Extra
   pt: Camarartista Lançador Adicional
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>エクストラ・シューター
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>エクストラ・シューター
   ja_romaji: Entameito Ekusutora Shūtā
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 엑스트라 슈터
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 엑스트라 슈터
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 额外射手
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、自分のエクストラデッキからモンスター１体を除外し、自分または相手のＰゾーンのカード１枚を対象として発動できる。そのカードを破壊し、相手に３００ダメージを与える。
   ko: |-
     ①: 1턴에 1번, 자신의 엑스트라 덱에서 몬스터 1장을 제외하고, 자신 또는 상대의 펜듈럼 존의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴하고, 상대에게 300 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，从自己的额外卡组把1只怪兽除外，以自己或者对方的灵摆区域1张卡为对象才能发动。那张卡破坏，给与对方300伤害。
-type: Monster
-typeline: Spellcaster / Pendulum / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Pendulum / Effect
 attribute: DARK
 level: 3
 atk: 800
@@ -55,6 +57,7 @@ pendulum_effect:
     「ＥＭエクストラ・シューター」のＰ効果は１ターンに１度しか使用できず、この効果を発動するターン、自分はＰ召喚できない。①：自分メインフェイズに発動できる。自分のエクストラデッキの表側表示のＰモンスターの数×３００ダメージを相手に与える。
   ko: |-
     "EM(엔터메이트) 엑스트라 슈터"의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없으며, 이 효과를 발동하는 턴에, 자신은 펜듈럼 소환할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신 엑스트라 덱의 앞면 표시 펜듈럼 몬스터의 수 × 300 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     「娱乐伙伴 额外射手」的灵摆效果1回合只能使用1次，这个效果发动的回合，自己不能灵摆召唤。①：自己主要阶段才能发动。给与对方为自己的额外卡组的表侧表示的灵摆怪兽数量×300伤害。
 sets:

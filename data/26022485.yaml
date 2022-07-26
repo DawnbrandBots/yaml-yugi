@@ -7,10 +7,11 @@ name:
   fr: Brouillard Érosif
   it: Nebbia del Crollo
   pt: Névoa do Desarranjo
-  ja: <ruby><rb>衰</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>弱</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby>の<ruby><rb>霧</rb><rp>（</rp><rt>きり</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>衰</rb><rt>すい</rt></ruby><ruby><rb>弱</rb><rt>じゃく</rt></ruby>の<ruby><rb>霧</rb><rt>きり</rt></ruby>
   ja_romaji: Suijaku no Kiri
   ko: 쇠약의 안개
   ko_rr:
+  zh-TW:
   zh-CN: 衰弱之雾
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手の手札枚数制限は５枚までになる。
   ko: |-
     상대의 패 제한 매수는 5장까지가 된다.
+  zh-TW:
   zh-CN: |-
     对方的手卡限制数量变成最多5张。
-type: Trap
+card_type: Trap
 property: Continuous

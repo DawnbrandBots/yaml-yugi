@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>牛</rb><rp>（</rp><rt>うし</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>おに</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>牛</rb><rt>うし</rt></ruby><ruby><rb>鬼</rb><rt>おに</rt></ruby>
   ja_romaji: Ushioni
   ko: 도깨비소
   ko_rr:
+  zh-TW:
   zh-CN: 牛鬼
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
     黒魔術で蘇ったウシの悪魔。壺の中から現れる。
   ko: |-
     흑마술로 소생한 소의 악마, 항아리 속에서 나타난다.
+  zh-TW:
   zh-CN: |-
     通过黑魔术苏醒的牛之恶魔。从壶中现身。
-type: Monster
-typeline: Fiend
+card_type: Monster
+monster_type_line: Fiend
 attribute: DARK
 level: 6
 atk: 2150

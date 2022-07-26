@@ -7,10 +7,11 @@ name:
   fr: Chevalier du Littoral
   it: Cavaliere della Costa
   pt: Cavaleiro do Litoral
-  ja: <ruby><rb>絶</rb><rp>（</rp><rt>ぜっ</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>絶</rb><rt>ぜっ</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Zekkai no Kishi
   ko: 절해의 기사
   ko_rr:
+  zh-TW: 絕海騎士
   zh-CN: 绝海之骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側表示で存在するこのカードの表示形式が変更された時、デッキから水属性モンスター１体を墓地へ送る。この効果は１ターンに１度しか使用できない。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드의 표시 형식이 변경되었을 때, 덱에서 물 속성 몬스터 1장을 묘지로 보낸다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW: 场上以表侧表示存在的此卡被变更表示形式时，从牌组将1只水属性怪兽送入墓地。此效果1回合只可使用1次。
   zh-CN: |-
     场上表侧表示存在的这张卡的表示形式变更时，从卡组把1只水属性怪兽送去墓地。这个效果1回合只能使用1次。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 1400

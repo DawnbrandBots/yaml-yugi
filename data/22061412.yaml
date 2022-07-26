@@ -7,12 +7,13 @@ name:
   fr: L'Illumination, HÉROS Élémentaire
   it: Il Brillante EROE Elementale
   pt:
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> <ruby><rb>Ｔｈｅ</rb><rp>（</rp><rt>ザ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> <ruby><rb>Ｔｈｅ</rb><rt>ザ</rt></ruby>
     シャイニング
   ja_romaji: Erementaru Hīrō Za Shainingu
   ko: 엘리멘틀 히어로 더 샤이닝
   ko_rr:
-  zh-CN: 元素英雄 闪光侠
+  zh-TW:
+  zh-CN: 元素－英雄 闪耀
 text:
   en: |-
     1 "Elemental HERO" monster + 1 LIGHT monster
@@ -36,11 +37,12 @@ text:
   ko: |-
     '엘리멘틀 히어로' 라는 이름이 붙은 몬스터 + 빛 속성 몬스터
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드의 공격력은, 게임에서 제외되어 있는 자신의 "엘리멘틀 히어로" 라는 이름이 붙은 몬스터의 수 x 300 포인트 올린다. 이 카드가 필드 위에서 묘지로 보내졌을 때, 게임에서 제외되어 있는 자신의 "엘리멘틀 히어로" 라는 이름이 붙은 몬스터를 2장까지 선택하고, 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
-    名字带有「元素英雄」的怪兽＋光属性怪兽
-    这张卡不用融合召唤不能特殊召唤。这张卡的攻击力上升从游戏中除外的自己的名字带有「元素英雄」的怪兽数量×300的数值。这张卡从场上送去墓地时，可以选择从游戏中除外的最多2只自己的名字带有「元素英雄」的怪兽加入手卡。
-type: Monster
-typeline: Warrior / Fusion / Effect
+    "元素－英雄"怪兽＋光属性怪兽
+    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于自己被除外的"元素－英雄"怪兽数量×300的数值。②：此卡从场上被送至墓地时，以最多2只自己被除外的"元素－英雄"怪兽为对象可以发动。将该怪兽加入手牌。
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
 level: 8
 atk: 2600

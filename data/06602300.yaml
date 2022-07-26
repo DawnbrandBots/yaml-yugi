@@ -7,11 +7,12 @@ name:
   fr: Phénix de Flammes, l'Oiseau de Bombardement
   it: Fenice Fiammeggiante, l'Uccello Bombardiere Bruciante
   pt:
-  ja: <ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>撃禽</rb><rp>（</rp><rt>げきん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>撃禽</rb><rt>げきん</rt></ruby>
     ボム・フェネクス
   ja_romaji: Jūbakugekin Bomu Fenekusu
   ko: 중폭격금 폭탄 페넥스
   ko_rr:
+  zh-TW:
   zh-CN: 重爆击禽 炸弹不死魔鸟
 text:
   en: |-
@@ -36,11 +37,12 @@ text:
   ko: |-
     기계족 몬스터 + 화염족 몬스터
     자신의 메인 페이즈시, 필드 위에 존재하는 카드 1장당 300 포인트 데미지를 상대 라이프에 줄 수 있다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     机械族怪兽＋炎族怪兽
     自己的主要阶段时，可以给与对方基本分场上存在的卡每1张300分伤害。这个效果发动的回合这张卡不能攻击。这个效果1回合只能使用1次。
-type: Monster
-typeline: Pyro / Fusion / Effect
+card_type: Monster
+monster_type_line: Pyro / Fusion / Effect
 attribute: FIRE
 level: 8
 atk: 2800

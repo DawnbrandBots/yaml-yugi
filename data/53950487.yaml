@@ -7,10 +7,11 @@ name:
   fr: Guêpe de Bataille - Halberd la Charge
   it: Vespabattaglia - Halberd la Carica
   pt: Vespabatalha - Halberd, a Carga
-  ja: <ruby><rb>Ｂ・Ｆ</rb><rp>（</rp><rt>ビー・フォース</rt><rp>）</rp></ruby>－<ruby><rb>突</rb><rp>（</rp><rt>とつ</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>のヴォウジェ
+  ja: <ruby><rb>Ｂ・Ｆ</rb><rt>ビー・フォース</rt></ruby>－<ruby><rb>突</rb><rt>とつ</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>のヴォウジェ
   ja_romaji: Bī Fōsu - Totsugeki no Vōje
-  ko: <ruby><rb>B・F</rb><rp>（</rp><rt>비 포스</rt><rp>）</rp></ruby>－돌격의 보우제
+  ko: <ruby><rb>B・F</rb><rt>비 포스</rt></ruby>－돌격의 보우제
   ko_rr: Bi Poseu - Dolgyeok-ui Bouje
+  zh-TW:
   zh-CN: 蜂军-突击之钩镰枪蜂
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     곤충족 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 이 카드의 공격력 이상의 공격력을 가지는 상대 몬스터에 공격하는 데미지 계산시에 1번, 발동할 수 있다. 그 상대 몬스터의 공격력은 데미지 계산시에만 절반이 된다. ②: 이 카드가 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 자신 필드의 "B·F(비 포스)" 몬스터의 수 × 200 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     昆虫族调整＋调整以外的怪兽1只以上
     这个卡名的②的效果1回合只能使用1次。
     ①：这张卡向持有这张卡的攻击力以上的攻击力的对方怪兽攻击的伤害计算时才能发动1次。那只对方怪兽的攻击力只在伤害计算时变成一半。
     ②：这张卡给与对方战斗伤害时才能发动。给与对方为自己场上的「蜂军」怪兽数量×200伤害。
-type: Monster
-typeline: Insect / Synchro / Effect
+card_type: Monster
+monster_type_line: Insect / Synchro / Effect
 attribute: WIND
 level: 6
 atk: 2500

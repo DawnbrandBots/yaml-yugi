@@ -7,11 +7,12 @@ name:
   fr: LANphorhynchus
   it: LANforinco
   pt: LANforrinco
-  ja: <ruby><rb>ＬＡＮ</rb><rp>（</rp><rt>ラン</rt><rp>）</rp></ruby>フォリンクス
+  ja: <ruby><rb>ＬＡＮ</rb><rt>ラン</rt></ruby>フォリンクス
   ja_romaji: Ranforinkusu
-  ko: <ruby><rb>LAN</rb><rp>（</rp><rt>런</rt><rp>）</rp></ruby> 포링쿠스
+  ko: <ruby><rb>LAN</rb><rt>런</rt></ruby> 포링쿠스
   ko_rr:
-  zh-CN: LAN喙嘴龙
+  zh-TW:
+  zh-CN: 局域网喙嘴龙
 text:
   en: |-
     2 monsters
@@ -29,14 +30,15 @@ text:
     モンスター２体
   ko: |-
     몬스터 2장
+  zh-TW:
   zh-CN: |-
     怪兽2只
-type: Monster
-typeline: Cyberse / Link
+card_type: Monster
+monster_type_line: Cyberse / Link
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1200
 materials: 2 monsters
 sets:

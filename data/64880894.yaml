@@ -11,6 +11,7 @@ name:
   ja_romaji: Sutādasuto Chāji Woriā
   ko: 스타더스트 차지 워리어
   ko_rr:
+  zh-TW:
   zh-CN: 星尘充能战士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     "스타더스트 차지 워리어"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 이 카드는 특수 소환된 상대 몬스터 전부에 1회씩 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    「星尘充能战士」的①的效果1回合只能使用1次。①：这张卡同调召唤成功时才能发动。自己从卡组抽1张。②：这张卡可以向特殊召唤的对方怪兽全部各作1次攻击。
-type: Monster
-typeline: Warrior / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    此卡名的①效果1回合仅可使用1次。①：此卡同步召唤成功时可以发动。自己从牌组抽1张。②：此卡可攻击被特殊召唤的所有对手怪兽各1次。
+card_type: Monster
+monster_type_line: Warrior / Synchro / Effect
 attribute: WIND
 level: 6
 atk: 2000
@@ -104,3 +106,8 @@ sets:
     set_name: Premium Pack Vol.11
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: SD28-SCP04
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
+    - Secret Rare

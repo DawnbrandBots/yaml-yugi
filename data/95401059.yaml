@@ -11,7 +11,8 @@ name:
   ja_romaji: Oru Shadōru - Sefirarūtsu
   ko: 올섀도르－세피라르츠
   ko_rr: Olsyaedoreu - Zepirareucheu
-  zh-CN: 绊影依-神数原核
+  zh-TW:
+  zh-CN: 羁绊影依－源质原核
 text:
   en: |-
     If this card is Pendulum Summoned or sent to the GY: You can target 1 "Zefra" card in your Pendulum Zone, except "Shaddoll Zefracore"; Special Summon it. You can only use this effect of "Shaddoll Zefracore" once per turn.
@@ -29,10 +30,11 @@ text:
     このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがＰ召喚に成功した場合、またはこのカードが墓地へ送られた場合、「オルシャドール－セフィラルーツ」以外の自分のＰゾーンの「セフィラ」カード１枚を対象として発動できる。そのカードを特殊召喚する。
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 펜듈럼 소환에 성공했을 경우, 또는 이 카드가 묘지로 보내졌을 경우, "올섀도르－세피라르츠" 이외의 자신 펜듈럼 존의 "세피라" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    「绊影依-神数原核」的怪兽效果1回合只能使用1次。①：这张卡灵摆召唤成功的场合或者这张卡被送去墓地的场合，以「绊影依-神数原核」以外的自己的灵摆区域1张「神数」卡为对象才能发动。那张卡特殊召唤。
-type: Monster
-typeline: Rock / Pendulum / Effect
+    此卡名的怪兽效果1回合仅可使用1次。①：在此卡灵摆召唤成功的情况下，或在此卡被送至墓地的情况下，可以自己灵摆区域的1张“羁绊影依－源质原核”以外的“源质”卡为对象发动。将该卡特殊召唤。
+card_type: Monster
+monster_type_line: Rock / Pendulum / Effect
 attribute: DARK
 level: 4
 atk: 450
@@ -55,8 +57,9 @@ pendulum_effect:
     ①：自分は「シャドール」モンスター及び「セフィラ」モンスターしかＰ召喚できない。この効果は無効化されない。
   ko: |-
     ①: 자신은 "섀도르" 몬스터 및 "세피라" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
+  zh-TW:
   zh-CN: |-
-    ①：自己不是「影依」怪兽以及「神数」怪兽不能灵摆召唤。这个效果不会被无效化。
+    ①：自己仅可将“影依”怪兽及“源质”怪兽灵摆召唤。此效果不会被无效。
 sets:
   en:
   - set_number: CROS-EN023

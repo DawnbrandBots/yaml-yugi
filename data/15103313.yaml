@@ -7,10 +7,11 @@ name:
   fr: Auto-Momification
   it: Auto-Mummificazione
   pt: Auto-Mumificação
-  ja: <ruby><rb>即</rb><rp>（</rp><rt>そく</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>仏</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>即</rb><rt>そく</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>仏</rb><rt>ぶつ</rt></ruby>
   ja_romaji: Sokushinbutsu
   ko: 육신보살
   ko_rr:
+  zh-TW:
   zh-CN: 即神佛
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     自分フィールド上に存在するモンスター１体を選択して墓地へ送る。
   ko: |-
     자신 필드 위에 존재하는 몬스터 1장을 선택하고 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     选择自己场上存在的1只怪兽送去墓地。
-type: Spell
+card_type: Spell
 property: Quick-Play

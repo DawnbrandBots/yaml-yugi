@@ -7,10 +7,11 @@ name:
   fr: Zenmaister Automate
   it: Zenmaister a Molla
   pt: Zenmaister de Corda
-  ja: <ruby><rb>発</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>条</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>甲</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>ゼンマイスター
+  ja: <ruby><rb>発</rb><rt>ぜん</rt></ruby><ruby><rb>条</rb><rt>まい</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>甲</rb><rt>こう</rt></ruby>ゼンマイスター
   ja_romaji: Zenmai Kikō Zenmaisutā
   ko: 태엽 젠마이스터
   ko_rr:
+  zh-TW:
   zh-CN: 发条机甲 发条大师
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 x 2장
     이 카드의 공격력은, 이 카드의 엑시즈 소재의 수 x 300 포인트 올린다. 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 뒷면 수비 표시로 한다. 이 턴의 엔드 페이즈시, 선택한 몬스터는 앞면 공격 표시가 된다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×2
     这张卡的攻击力上升这张卡的XYZ素材数量×300的数值。1回合1次，把这张卡1个XYZ素材取除，选择自己场上表侧表示存在的1只怪兽才能发动。选择的怪兽变成里侧守备表示。这个回合的结束阶段时，选择的怪兽变成表侧攻击表示。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 1900

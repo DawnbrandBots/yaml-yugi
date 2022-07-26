@@ -7,10 +7,11 @@ name:
   fr: Fréquence de Perturbation
   it: Onda Intercettatrice
   pt: Interceptar Onda
-  ja: <ruby><rb>妨</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>害</rb><rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>波</rb><rp>（</rp><rt>ぱ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>妨</rb><rt>ぼう</rt></ruby><ruby><rb>害</rb><rt>がい</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>波</rb><rt>ぱ</rt></ruby>
   ja_romaji: Bōgai Denpa
   ko: 방해전파
   ko_rr:
+  zh-TW:
   zh-CN: 妨害电波
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     お互いのフィールド上に存在するシンクロモンスターは全て守備表示になり、エンドフェイズ時にフィールド上に表側表示で存在するシンクロモンスターを全てエクストラデッキに戻す。
   ko: |-
     서로의 필드 위에 존재하는 싱크로 몬스터는 전부 수비 표시가 되어, 엔드 페이즈시에 필드 위에 앞면 표시로 존재하는 싱크로 몬스터를 전부 엑스트라 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     场上有同调怪兽表侧攻击表示存在的场合才能发动。场上的同调怪兽全部变成表侧守备表示。这个回合的结束阶段时场上的同调怪兽全部回到额外卡组。
-type: Spell
+card_type: Spell
 property: Quick-Play

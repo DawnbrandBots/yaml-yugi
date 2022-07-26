@@ -7,10 +7,11 @@ name:
   fr: Gobelin de Robbin
   it: Goblin Ladro
   pt: Goblin Larápio
-  ja: <ruby><rb>追</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>い<ruby><rb>剥</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>ぎゴブリン
+  ja: <ruby><rb>追</rb><rt>お</rt></ruby>い<ruby><rb>剥</rb><rt>は</rt></ruby>ぎゴブリン
   ja_romaji: Oihagi Goburin
   ko: 로빈 고블린
   ko_rr:
+  zh-TW:
   zh-CN: 哥布林拦路贼
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上のモンスターが相手プレイヤーに戦闘ダメージを与える度に、相手はランダムに手札を１枚捨てる。
   ko: |-
     자신 필드 위의 몬스터가 상대에게 전투 데미지를 줄때마다. 상대는 무작위로 패를 １장 버린다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的怪兽给与对方基本分战斗伤害时，对方手卡随机丢弃1张。
-type: Trap
+card_type: Trap
 property: Continuous

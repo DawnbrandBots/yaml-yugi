@@ -7,10 +7,11 @@ name:
   fr: Verdict de la Norne Urd
   it: Verdetto delle Dea Urd
   pt: Veredito da Deusa Urd
-  ja: <ruby><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>ウルドの<ruby><rb>裁</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>女</rb><rt>め</rt></ruby><ruby><rb>神</rb><rt>がみ</rt></ruby>ウルドの<ruby><rb>裁</rb><rt>さい</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby>
   ja_romaji: Megami Urudo no Saidan
   ko: 여신 우르드의 재단
   ko_rr: Yeosin Ureudeu-ui Jaedan
+  zh-TW:
   zh-CN: 女神乌尔德的裁断
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分フィールドの「ワルキューレ」モンスターは相手の効果の対象にならず、相手の効果では破壊されない。②：１ターンに１度、カード名を１つ宣言し、相手フィールドにセットされたカード１枚を対象として発動できる。そのセットされたカードをお互いに確認し、宣言したカードだった場合、そのカードを除外する。違った場合、自分フィールドのカード１枚を選んで除外する。
   ko: |-
     ①: 자신 필드의 "왈큐레" 몬스터는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 1턴에 1번, 카드명을 1개 선언하고, 상대 필드에 세트된 카드 1장을 대상으로 하여 발동할 수 있다. 그 세트된 카드를 서로 확인하고, 선언한 카드였을 경우, 그 카드를 제외한다. 다를 경우, 자신 필드의 카드 1장을 고르고 제외한다.
+  zh-TW:
   zh-CN: |-
     自己场上的「女武神」怪兽不会成为对方的卡的效果的对象，不会被对方的卡的效果破坏。1回合1次：可以宣言1个卡名，之后选择对方场上1张盖放的卡；那张盖放的卡翻开，翻开的卡是宣言的卡的场合，那张卡除外。不是的场合，把自己场上1张卡除外。
-type: Spell
+card_type: Spell
 property: Continuous

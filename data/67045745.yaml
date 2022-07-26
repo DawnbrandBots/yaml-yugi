@@ -7,11 +7,12 @@ name:
   fr: Maître Sonique F.A.
   it: F.A. Padrone Sonico
   pt: F.A. Amo Sônico
-  ja: <ruby><rb>Ｆ．Ａ．</rb><rp>（</rp><rt>フォーミュラアスリート</rt><rp>）</rp></ruby>ソニックマイスター
+  ja: <ruby><rb>Ｆ．Ａ．</rb><rt>フォーミュラアスリート</rt></ruby>ソニックマイスター
   ja_romaji: Fōmyura Asurīto Sonikku Maisutā
-  ko: <ruby><rb>F.A.</rb><rp>（</rp><rt>포뮬러 애슬리트</rt><rp>）</rp></ruby> 소닉마이스터
+  ko: <ruby><rb>F.A.</rb><rt>포뮬러 애슬리트</rt></ruby> 소닉마이스터
   ko_rr: Pomyulleo Aeseulliteu Soningmaiseuteo
-  zh-CN: 方程式运动员 音速赛道名手
+  zh-TW:
+  zh-CN: 方程式运动员 音速大师
 text:
   en: |-
     Gains ATK equal to its Level x 300. Cannot be destroyed by battle with an opponent's monster whose original Level/Rank is lower than this card's Level. Each time a "F.A." Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, it can make up to 2 attacks on monsters during each Battle Phase.
@@ -29,12 +30,11 @@ text:
     ①：このカードの攻撃力はこのカードのレベル×３００アップし、このカードのレベルよりも元々のレベルまたはランクが低い相手モンスターとの戦闘では破壊されない。②：「Ｆ．Ａ．」魔法・罠カードの効果が発動した場合に発動できる（ダメージステップでも発動可能）。このカードのレベルを１つ上げる。③：このカードのレベルが７以上の場合、このカードは１度のバトルフェイズ中に２回までモンスターに攻撃できる。
   ko: |-
     ①: 이 카드의 공격력은 이 카드의 레벨 × 300 올리고, 이 카드의 레벨보다도 원래의 레벨 또는 랭크가 낮은 상대 몬스터와의 전투로는 파괴되지 않는다. ②: "F.A.(포뮬러 애슬리트)" 마법 / 함정 카드의 효과가 발동했을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 이 카드의 레벨을 1개 올린다. ③: 이 카드의 레벨이 7 이상일 경우, 이 카드는 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡的攻击力上升这张卡的等级×300，不会被和原本的等级或者阶级比这张卡的等级低的对方怪兽的战斗破坏。
-    ②：「方程式运动员」魔法·陷阱卡的效果发动的场合才能发动（伤害步骤也能发动）。这张卡的等级上升1星。
-    ③：这张卡的等级是7星以上的场合，这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。
-type: Monster
-typeline: Machine / Effect
+    ①：此卡的攻击力上升相当于此卡等级×300的数值，不会因与原本等级或阶级低于此卡等级的对手怪兽的战斗被破坏。②：“方程式运动员”魔法・陷阱卡的效果发动的情况下可以发动（伤害步骤也可以发动）。此卡的等级上升1。③：此卡的等级为7以上的情况下，此卡在1次战斗阶段中最多可攻击怪兽2次。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: WIND
 level: 4
 atk: 0

@@ -7,11 +7,12 @@ name:
   fr: Équipe d'Intervention Danger !
   it: Squadra di Risposta Pericolo!
   pt: Perigo! Equipe de Resposta
-  ja: <ruby><rb>未</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>域</rb><rp>（</rp><rt>いき</rt><rp>）</rp></ruby><ruby><rb>調</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>査</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby><rb>報</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>告</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>未</rb><rt>み</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>域</rb><rt>いき</rt></ruby><ruby><rb>調</rb><rt>ちょう</rt></ruby><ruby><rb>査</rb><rt>さ</rt></ruby><ruby><rb>報</rb><rt>ほう</rt></ruby><ruby><rb>告</rb><rt>こく</rt></ruby>
   ja_romaji: Mikai'iki Chōsa Hōkoku
   ko: 미계역조사보고
   ko_rr: Migyeyeokjosabogo
-  zh-CN: 危险！应对小组
+  zh-TW:
+  zh-CN: 未界域调查报告
 text:
   en: |-
     Target 1 "Danger!" monster you control and 1 monster on the field; return them to the hand. If this card is in the GY: You can discard 1 "Danger!" monster; place this card on the bottom of the Deck, then draw 1 card. You can only use each effect of "Danger! Response Team" once per turn.
@@ -29,7 +30,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの「未界域」モンスター１体とフィールドのモンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻す。②：このカードが墓地に存在する場合、手札から「未界域」モンスター１体を捨てて発動できる。このカードをデッキの一番下に戻す。その後、自分はデッキから１枚ドローする。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 "미계역" 몬스터 1장과 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 주인의 패로 되돌린다. ②: 이 카드가 묘지에 존재할 경우, 패에서 "미계역" 몬스터 1장을 버리고 발동할 수 있다. 이 카드를 덱 맨 아래로 되돌린다. 그 후, 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
-    选择自己场上1只「危险！」怪兽和场上1只怪兽；那些怪兽回到持有者手卡。这张卡在墓地存在的场合：可以从手卡丢弃1只「危险！」怪兽；这张卡回到卡组最下面，之后自己从卡组抽1张卡。「危险！应对小组」的每个效果1回合各能使用1次。
-type: Spell
+    此卡名的①②效果1回合仅可各使用1次。①：以自己场上的1只“未界域”怪兽和场上的1只怪兽为对象可以发动。将该怪兽放回持有者的手牌。②：此卡存在于墓地的情况下，从手牌将1只“未界域”怪兽舍弃可以发动。将此卡放回牌组最下面。然后自己从牌组抽1张。
+card_type: Spell
 property: Normal

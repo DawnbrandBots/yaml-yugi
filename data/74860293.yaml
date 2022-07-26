@@ -11,7 +11,8 @@ name:
   ja_romaji: Janku Desutoroiyā
   ko: 정크 디스트로이어
   ko_rr:
-  zh-CN: 废品破坏王
+  zh-TW:
+  zh-CN: 废品破坏神
 text:
   en: |-
     "Junk Synchron" + 1 or more non-Tuner monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     "정크 싱크론" + " 튜너 이외의 몬스터 1장이상
     이 카드가 싱크로 소환에 성공했을 때, 이 카드를 싱크로 소재로 한 튜너 이외의 몬스터의 수까지 필드 위에 존재하는 카드를 선택하고 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「废品同调士」＋调整以外的怪兽1只以上
-    ①：这张卡同调召唤成功时，以最多有那些作为同调素材的怪兽之内除调整以外的怪兽数量的场上的卡为对象才能发动。那些卡破坏。
-type: Monster
-typeline: Warrior / Synchro / Effect
+    "废品同步士"＋1只以上协调以外的怪兽
+    ①：此卡同步召唤成功时，以场上的卡为对象可以发动，数量最多为作为该同步素材的怪兽中协调以外的怪兽数量。将该卡破坏。
+card_type: Monster
+monster_type_line: Warrior / Synchro / Effect
 attribute: EARTH
 level: 8
 atk: 2600

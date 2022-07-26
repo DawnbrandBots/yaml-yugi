@@ -7,12 +7,13 @@ name:
   fr: 'Numéro C73 : Splash Supra des Abysses'
   it: "Numero C73: Super Spruzzo dell'Abisso"
   pt: 'Número C73: Suprassuntuoso do Abismo'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>７３
-    <ruby><rb>激</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>瀧</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby><ruby><rb>瀑</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>アビス・スープラ
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>７３
+    <ruby><rb>激</rb><rt>げき</rt></ruby><ruby><rb>瀧</rb><rt>ろう</rt></ruby><ruby><rb>瀑</rb><rt>ばく</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>アビス・スープラ
   ja_romaji: Kaosu Nanbāzu Nanajūsan Gekirōbakushin Abisu Sūpura
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>73
-    격롱폭신 어비스 수프라
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>73 격롱폭신
+    어비스 수프라
   ko_rr:
+  zh-TW:
   zh-CN: 混沌No.73 激泷瀑神 渊涌
 text:
   en: |-
@@ -45,13 +46,14 @@ text:
   ko: |-
     레벨 6 몬스터 × 3
     ① : 자신 필드의 몬스터가 상대 몬스터와 전투를 실행하는 그 데미지 계산시에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 자신 몬스터의 공격력은, 그 데미지 계산시에만 전투를 실행하는 상대 몬스터의 공격력만큼 올린다. ② : 이 카드가 "No.73 격롱신 어비스 스플래시"를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다. ● 이 카드는 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     XYZ:6星怪兽×3
     ①：自己场上的怪兽和对方怪兽进行战斗的那次伤害计算时1次，把这张卡1个XYZ素材取除才能发动。那只自己怪兽的攻击力只在那次伤害计算时上升进行战斗的对方怪兽的攻击力数值。
     ②：这张卡有「No.73 激泷神 渊涛」在作为XYZ素材的场合，得到以下效果。
     ●这张卡不会被效果破坏。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: WATER
 rank: 6
 atk: 3000

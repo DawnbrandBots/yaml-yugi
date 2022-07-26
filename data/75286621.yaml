@@ -7,10 +7,11 @@ name:
   fr: Mechaba l'Invokhé
   it: Mechaba Invokata
   pt: Mechaba, o Invokado
-  ja: <ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>メルカバー
+  ja: <ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>メルカバー
   ja_romaji: Shōkanjū Merukabā
   ko: 소환수 메르카바
   ko_rr:
+  zh-TW:
   zh-CN: 召唤兽 梅尔卡巴
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "소환사 알레이스터" + 빛 속성 몬스터
     ①: 1턴에 1번, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때, 그 카드와 같은 종류(몬스터 / 마법 / 함정)의 패를 1장 묘지로 보내고 발동할 수 있다. 그 발동을 무효로 하고 제외한다.
+  zh-TW:
   zh-CN: |-
     「召唤师 阿莱斯特」＋光属性怪兽
     ①：1回合1次，怪兽的效果·魔法·陷阱卡发动时，把和那张卡相同种类（怪兽·魔法·陷阱）的1张手卡送去墓地才能发动。那个发动无效并除外。
-type: Monster
-typeline: Machine / Fusion / Effect
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
 attribute: LIGHT
 level: 9
 atk: 2500

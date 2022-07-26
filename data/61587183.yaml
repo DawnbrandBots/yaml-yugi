@@ -7,10 +7,11 @@ name:
   fr: Chick le Jaune - Scorpion Noir
   it: Dark Scorpion - Chick il Codardo
   pt: Escorpião das Trevas - Chick o Cobarde
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby><rb>蠍</rb><rp>（</rp><rt>さそり</rt><rp>）</rp></ruby>－<ruby><rb>逃</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby>げ<ruby><rb>足</rb><rp>（</rp><rt>あし</rt><rp>）</rp></ruby>のチック
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby><ruby><rb>蠍</rb><rt>さそり</rt></ruby>－<ruby><rb>逃</rb><rt>に</rt></ruby>げ<ruby><rb>足</rb><rt>あし</rt></ruby>のチック
   ja_romaji: Kurosasori - Nigeashi no Chikku
   ko: 전갈-도주하는 치크
   ko_rr:
+  zh-TW:
   zh-CN: 黑蝎-飞速逃跑的齐克
 text:
   en: |-
@@ -45,12 +46,13 @@ text:
     이 카드가 상대 플레이어에게 전투데미지를 주었을 때, 다음 효과에서 1개를 선택하고 발동할 수 있다.
     ●필드위의 카드 1장을 주인의 패로 되돌린다.
     ●상대의 덱의 맨위의 카드를 1장 넘긴다.(상대는확인할수없다). 덱의 맨 위나 맨 아래를 선택하고 그 카드를 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡给与对方玩家战斗伤害时，可以从下面效果选择1个发动。
     ●场上1张卡回到持有者手卡。
     ●把对方卡组最上面的1张卡翻开（对方不能确认）。选择让那张卡回到对方卡组最上面或最下面。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 3
 atk: 1000

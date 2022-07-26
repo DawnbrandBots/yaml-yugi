@@ -7,10 +7,11 @@ name:
   fr: Dragon Chevalier
   it: Cavaliere Draconico
   pt: Cavaleiro Dragônico
-  ja: <ruby><rb>竜の騎士</rb><rp>（</rp><rt>ドラゴン・ナイト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜の騎士</rb><rt>ドラゴン・ナイト</rt></ruby>
   ja_romaji: Doragon Naito
   ko: 용의 기사
   ko_rr:
+  zh-TW:
   zh-CN: 龙之骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上のカードを破壊する効果を相手モンスターが発動させた時、対象となったカードを墓地へ送る事で手札からこのカードを特殊召喚する事ができる。
   ko: |-
     자신 필드 위의 카드를 파괴하는 효과를 상대 몬스터가 발동했을 때, 대상이 된 자신의 카드를 전부 묘지로 보내고 발동할 수 있다. 이 카드를 패에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     要把自己场上的卡破坏的效果由对方怪兽发动时，把成为对象的自己的卡全部送去墓地才能发动。这张卡从手卡特殊召唤。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: FIRE
 level: 7
 atk: 2800

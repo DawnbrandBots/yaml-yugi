@@ -7,11 +7,12 @@ name:
   fr: Trishula, Dragon Zéro de la Barrière de Glace
   it: Trishula, Zero Drago della Barriera di Ghiaccio
   pt: Trishula, o Dragão Zero da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>零</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>還</rb><rt>かん</rt></ruby><ruby><rb>零</rb><rt>れい</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
     トリシューラ
   ja_romaji: Hyōkekkai no Kanreiryū Torishūra
   ko: 빙결계의 환영룡 트리슈라
   ko_rr: Binggyeolgye-ui Hwan-yongnong Teurisyura
+  zh-TW:
   zh-CN: 冰结界的还零龙 三叉龙
 text:
   en: |-
@@ -38,13 +39,14 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 카드를 3장까지 고르고 제외한다. ②: 싱크로 소환한 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 자신의 엑스트라 덱 / 묘지에서 "빙결계의 용 트리슈라" 1장을 고르고, 공격력을 3300 으로 하여 특수 소환한다. 상대 필드에 앞면 표시 몬스터가 존재할 경우, 추가로 그 몬스터들은, 공격력이 절반이 되고 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽2只以上
     这个卡名的②的效果1回合只能使用1次。
     ①：这张卡同调召唤成功时才能发动。选对方场上最多3张卡除外。
     ②：同调召唤的这张卡被对方破坏的场合才能发动。从自己的额外卡组·墓地选1只「冰结界之龙 三叉龙」，攻击力变成3300特殊召唤。对方场上有表侧表示怪兽存在的场合，再让那些怪兽攻击力变成一半，效果无效化。
-type: Monster
-typeline: Dragon / Synchro / Effect
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: Water
 level: 11
 atk: 2700

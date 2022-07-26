@@ -7,10 +7,11 @@ name:
   fr: Désignateur D.D.
   it: Designatore D.D.
   pt: Designador D.D.
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby><rb>指</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>の<ruby><rb>指</rb><rt>し</rt></ruby><ruby><rb>名</rb><rt>めい</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Ijigen no Shimeisha
   ko: 이차원의 지명자
   ko_rr:
+  zh-TW:
   zh-CN: 异次元的指名者
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     カード名を１つ宣言する。相手の手札を確認し、宣言したカードが相手の手札に存在する場合、そのカード１枚をゲームから除外する。宣言したカードが相手の手札に存在しなかった場合、自分の手札をランダムに１枚ゲームから除外する。
   ko: |-
     카드명을 1개 선언한다. 상대의 패를 확인하여, 그 선언한 카드가 상대의 패에 존재할 경우, 그 카드 1장을 게임에서 제외한다. 선언한 카드가 상대의 패에 존재하지 않았을 경우, 자신의 패를 무작위로 1장 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     宣言1个卡名。把对方手卡确认，宣言的卡在对方手卡存在的场合，那1张卡从游戏中除外。宣言的卡没有在对方手卡存在的场合，自己手卡随机1张从游戏中除外。
-type: Spell
+card_type: Spell
 property: Normal

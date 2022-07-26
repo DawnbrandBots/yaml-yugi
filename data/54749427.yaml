@@ -7,10 +7,11 @@ name:
   fr: Défenseur - HÉROS de la Destinée
   it: Difensore - EROE del Destino
   pt: HERÓI do Destino - Defensor
-  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rp>（</rp><rt>デステニーヒーロー</rt><rp>）</rp></ruby> ディフェンドガイ
+  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rt>デステニーヒーロー</rt></ruby> ディフェンドガイ
   ja_romaji: Desutenī Hīrō Difendogai
   ko: 데스티니 히어로 디펜드 가이
   ko_rr:
+  zh-TW:
   zh-CN: 命运英雄 防御人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手のスタンバイフェイズ時、このカードがフィールド上に表側守備表示で存在する場合、相手はデッキからカードを１枚ドローする。
   ko: |-
     상대의 스텐바이 페이즈시, 이 카드가 필드 위에 앞면 수비 표시로 존재할 경우, 상대는 덱에서 카드를 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     对方的准备阶段时，这张卡在场上表侧守备表示存在的场合，对方从卡组抽1张卡。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 100

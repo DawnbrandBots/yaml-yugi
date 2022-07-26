@@ -7,11 +7,12 @@ name:
   fr: Kahkki, Guérilla Du Monde Ténèbreux
   it: Kahkki, Guerrigliero del Mondo Oscuro
   pt: Kahkki, Guerrilheiro do Mundo Escuro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>刺</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>客</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>刺</rb><rt>し</rt></ruby><ruby><rb>客</rb><rt>かく</rt></ruby>
     カーキ
   ja_romaji: Ankokukai no Shikaku Kāki
   ko: 암흑계의 자객 카키
   ko_rr:
+  zh-TW: 暗黑界之刺客 土黃其
   zh-CN: 暗黑界的刺客 卡其
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがカードの効果によって手札から墓地へ捨てられた場合、フィールド上のモンスター１体を選択して破壊する。
   ko: |-
     이 카드가 다른 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 필드 위의 몬스터 1장을 파괴한다.
+  zh-TW: 此卡因卡牌效果从手牌被舍弃至墓地的场合，选择场上的1只怪兽破坏。
   zh-CN: |-
     这张卡被卡的效果从手卡丢弃去墓地的场合，选择场上1只怪兽破坏。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 2
 atk: 300

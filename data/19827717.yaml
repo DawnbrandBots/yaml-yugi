@@ -7,10 +7,11 @@ name:
   fr: Le Retour Du Damné
   it: Ritorno del Condannato
   pt:
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>の<ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>還</rb><rt>かん</rt></ruby>
   ja_romaji: Shisha no Seikan
   ko: 죽은 자의 생환
   ko_rr:
+  zh-TW:
   zh-CN: 死者生还
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分の手札からモンスターカード１枚を墓地に捨てる。このターン戦闘によって破壊され自分の墓地へ送られたモンスター１体を、ターン終了時に手札に戻す。
   ko: |-
     자신의 패에서 몬스터 카드 1장을 묘지에 버린다. 이 턴에 전투에 의해서 파괴된 자신의 몬스터 1장을 턴 종료시에 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     从自己手卡把1张怪兽卡丢弃去墓地。这个回合被战斗破坏送去自己墓地的1只怪兽在回合结束时回到手卡。
-type: Spell
+card_type: Spell
 property: Normal

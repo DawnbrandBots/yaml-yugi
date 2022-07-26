@@ -7,10 +7,11 @@ name:
   fr: Transe le Spadassin Magique
   it: Trance lo Spadaccino Magico
   pt: Trance, o Espadachim Mágico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>法</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>トランス
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>トランス
   ja_romaji: Mahō Kenshi Toransu
   ko: 마법 검사 트랜스
   ko_rr:
+  zh-TW: 魔法劍士特蘭斯
   zh-CN: 魔法剑士 特兰斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     かなりの実力を持った風変わりな魔法使い。異空間の旅から帰還したらしい。
   ko: |-
     꽤 쓸만한 실력의 특이한 마법사. 이공간 여행으로부터 귀환한 듯하다.
+  zh-TW: 拥有很强实力而且与众不同的魔法师。听说是从异空间之旅归来的。
   zh-CN: |-
     实力相当强的奇特魔法师。好像从异空间旅行归来了。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: EARTH
 level: 6
 atk: 2600

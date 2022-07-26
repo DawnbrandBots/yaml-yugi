@@ -7,10 +7,11 @@ name:
   fr: Statue-Barrière des Enfers
   it: Statua Barriera dell'Inferno
   pt: Estátua Barreira do Inferno
-  ja: <ruby><rb>業</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>の<ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>像</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>業</rb><rt>ごう</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby>の<ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>像</rb><rt>ぞう</rt></ruby>
   ja_romaji: Gōka no Kekkaizō
   ko: 업화의 결계상
   ko_rr: Yeophwa-ui Gyeolgesang
+  zh-TW:
   zh-CN: 业火之结界像
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いは炎属性モンスターしか特殊召喚できない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 양쪽 플레이어는 화염 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，双方不是炎属性怪兽不能特殊召唤。
-type: Monster
-typeline: Pyro / Effect
+    ①：只要这张卡存在于怪兽区域，双方只能对炎属性怪兽进行特殊召唤。
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1000

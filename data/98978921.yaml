@@ -11,6 +11,7 @@ name:
   ja_romaji: Rinku Supaidā
   ko: 링크 스파이더
   ko_rr: Ringkeu Seupaideo
+  zh-TW:
   zh-CN: 连接蜘蛛
 text:
   en: |-
@@ -37,14 +38,15 @@ text:
   ko: |-
     일반 몬스터 1장
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 레벨 4 이하의 일반 몬스터 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     通常怪兽1只
-    ①：1回合1次，自己主要阶段才能发动。从手卡把1只4星以下的通常怪兽在这张卡所连接区特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    ①：1回合1次，在自己的主要阶段可以发动。从手牌将1只等级4以下的通常怪兽特殊召唤至此卡连接端的自己场上。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Center
+- ⬇
 atk: 1000
 sets:
   en:

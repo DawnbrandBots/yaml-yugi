@@ -7,10 +7,11 @@ name:
   fr: Canon Dragon Catapulte VWXYZ
   it: VWXYZ-Cannone Drago Catapulta
   pt: VWXYZ-Dragão Catapulta Canhão
-  ja: <ruby><rb>ＶＷＸＹＺ</rb><rp>（</rp><rt>ヴィトゥズィ</rt><rp>）</rp></ruby>－ドラゴン・カタパルトキャノン
+  ja: <ruby><rb>ＶＷＸＹＺ</rb><rt>ヴィトゥズィ</rt></ruby>－ドラゴン・カタパルトキャノン
   ja_romaji: Vi tu Zi - Doragon Kataparuto Kyanon
   ko: VWXYZ-드래곤 캐터펄트 캐논
   ko_rr:
+  zh-TW:
   zh-CN: VWXYZ-神龙强击炮
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     "VW-타이거 캐터펄트" + "XYZ-드래곤 캐논"
     자신 필드 위에 존재하는 상기의 카드를 게임에서 제외했을 경우에만, 융합 덱에서 특수 소환이 가능("융합" 마법 카드는 필요로 하지 않는다). 1턴에 1번, 상대 필드 위의 카드 1장을 게임에서 제외한다. 이 카드가 공격할 때, 공격 대상이 되는 몬스터의 표시 형식을 변경할 수 있다(이때, 리버스 효과 몬스터의 효과는 발동하지 않는다).
+  zh-TW:
   zh-CN: |-
     「VW-强击虎」＋「XYZ-神龙炮」
     把自己场上的上记卡除外的场合才能从额外卡组特殊召唤（不需要「融合」）。①：1回合1次，以对方场上1张卡为对象才能发动。那张对方的卡除外。②：这张卡向对方怪兽攻击宣言时，以那1只攻击对象怪兽为对象才能发动。那只攻击对象怪兽的表示形式变更。这个时候，反转怪兽的效果不发动。
-type: Monster
-typeline: Machine / Fusion / Effect
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
 attribute: LIGHT
 level: 8
 atk: 3000

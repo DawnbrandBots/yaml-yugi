@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 87 : Reine de la Nuit'
   it: 'Numero 87: Regina della Notte'
   pt: 'Número 87: Rainha da Noite'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８７ <ruby><rb>雪</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby><rb>月</rb><rp>（</rp><rt>げっ</rt><rp>）</rp></ruby><ruby><rb>花</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>クイーン・オブ・ナイツ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８７ <ruby><rb>雪</rb><rt>せつ</rt></ruby><ruby><rb>月</rb><rt>げっ</rt></ruby><ruby><rb>花</rb><rt>か</rt></ruby><ruby><rb>美</rb><rt>び</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>クイーン・オブ・ナイツ
   ja_romaji: Nanbāzu Hachijūnana Setsugekka Bishin Kuīn Obu Naitsu
   ko: No.87 설월화미신 퀸 오브 나이츠
   ko_rr:
+  zh-TW:
   zh-CN: No.87 雪月花美神 月下美人
 text:
   en: |-
@@ -55,10 +56,11 @@ text:
   ko: |-
     레벨 8 몬스터 × 3
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다. ●상대 필드 위에 세트된 마법 / 함정 카드 1장을 선택하고 발동할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택된 카드는 발동할 수 없다. ●필드 위의 식물족 몬스터 1장을 선택하고 뒷면 수비 표시로 한다. ●필드 위의 몬스터 1장을 선택하고, 그 공격력을 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×3。1回合1次，可以把这张卡1个XYZ素材取除，从以下效果选择1个发动。这个效果在对方回合也能发动。●选择对方场上盖放的1张魔法·陷阱卡才能发动。只要这张卡在场上表侧表示存在，选择的卡不能发动。●选择场上1只植物族怪兽变成里侧守备表示。●选择场上1只怪兽，那个攻击力上升300。
-type: Monster
-typeline: Plant / Xyz / Effect
+card_type: Monster
+monster_type_line: Plant / Xyz / Effect
 attribute: WATER
 rank: 8
 atk: 3200

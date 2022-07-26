@@ -7,10 +7,11 @@ name:
   fr: Shinobi Vengeur
   it: Vendicatore Shinobi
   pt:
-  ja: <ruby><rb>悪</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>シノビ
+  ja: <ruby><rb>悪</rb><rt>お</rt></ruby>シノビ
   ja_romaji: O Shinobi
   ko: 악시노비
   ko_rr:
+  zh-TW:
   zh-CN: 恶忍
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、自分のデッキからカードを１枚ドローする。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상이 되었을 때, 자신은 덱에서 카드를 1장 드로우 한다.
+  zh-TW:
   zh-CN: |-
     场上表侧攻击表示存在的这张卡被选择作为攻击对象时，从自己卡组抽1张卡。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 2
 atk: 400

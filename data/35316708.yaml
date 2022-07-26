@@ -7,10 +7,11 @@ name:
   fr: Sceau Temporel
   it: Sigillo del Tempo
   pt:
-  ja: <ruby><rb>刻</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby><rb>封</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby><rb>印</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>刻</rb><rt>とき</rt></ruby>の<ruby><rb>封</rb><rt>ふう</rt></ruby><ruby><rb>印</rb><rt>いん</rt></ruby>
   ja_romaji: Toki no Fūin
   ko: 시간봉인
   ko_rr:
+  zh-TW:
   zh-CN: 刻之封印
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     次の相手ターンのドローフェイズをスキップする。
   ko: |-
     다음 상대 턴의 드로우 페이즈를 스킵한다.
+  zh-TW:
   zh-CN: |-
     下次的对方回合的抽卡阶段跳过。
-type: Trap
+card_type: Trap
 property: Normal

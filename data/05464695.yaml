@@ -7,10 +7,11 @@ name:
   fr: Inpachi Ardent
   it: Inpachi Fiammeggiante
   pt: Inpachi em Chamas
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>木</rb><rp>（</rp><rt>もく</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>１</rb><rp>（</rp><rt>イン</rt><rp>）</rp></ruby><ruby><rb>８</rb><rp>（</rp><rt>パチ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>木</rb><rt>もく</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>１</rb><rt>イン</rt></ruby><ruby><rb>８</rb><rt>パチ</rt></ruby>
   ja_romaji: Kaen Mokujin Inpachi
   ko: 화염목인18
   ko_rr:
+  zh-TW: 火炎木人18
   zh-CN: 火炎木人18
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     全身が灼熱の炎に包まれた巨木の化身。炎の攻撃は強力だが、自身が燃えているため先は長くない。
   ko: |-
     전신이 작열하는 화염으로 휩싸인 거목의 화신. 화염의 공격력은 강력하지만, 자신이 타오르고 있기 때문에 그리 오래가지는 못한다.
+  zh-TW: 由全身包覆灼热火焰的巨木化身。火焰的攻击力强大，但由于同时也会灼伤自身，命不久矣。
   zh-CN: |-
     全身被灼热火焰吞没的巨木化身。火焰攻击虽然强力，但由于自身着火所以时日不多了。
-type: Monster
-typeline: Pyro / Normal
+card_type: Monster
+monster_type_line: Pyro / Normal
 attribute: FIRE
 level: 4
 atk: 1850

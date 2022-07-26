@@ -7,10 +7,11 @@ name:
   fr: Désignateur de la Suppression
   it: Designatore del Depennamento
   pt: Designador de Crossout
-  ja: <ruby><rb>抹</rb><rp>（</rp><rt>まっ</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>の<ruby><rb>指</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>抹</rb><rt>まっ</rt></ruby><ruby><rb>殺</rb><rt>さつ</rt></ruby>の<ruby><rb>指</rb><rt>し</rt></ruby><ruby><rb>名</rb><rt>めい</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Massatsu no Shimeisha
   ko: 말살의 지명자
   ko_rr: Malsal-ui Jimyeongja
+  zh-TW:
   zh-CN: 抹杀之指名者
 text:
   en: |-
@@ -29,8 +30,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：カード名を１つ宣言して発動できる。宣言したカード１枚をデッキから除外する。ターン終了時まで、この効果で除外したカード及びそのカードと元々のカード名が同じカードの効果は無効化される。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 카드명을 1개 선언하고 발동할 수 있다. 선언한 카드 1장을 덱에서 제외한다. 턴 종료시까지, 이 효과로 제외한 카드 및 그 카드와 원래의 카드명이 같은 카드의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。
-    ①：宣言1个卡名才能发动。宣言的1张卡从卡组除外。直到回合结束时，这个效果除外的卡以及原本卡名和那张卡相同的卡的效果无效化。
-type: Spell
+    此卡名的卡1回合仅可发动1张。①：宣言1个卡名可以发动。将1张宣言的卡从牌组除外。直至回合结束时为止，以此效果除外的卡及与该卡原本卡名相同的卡之效果均被无效化。
+card_type: Spell
 property: Quick-Play

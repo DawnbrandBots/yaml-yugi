@@ -7,10 +7,11 @@ name:
   fr: Risebell l'Influenceur des Étoiles
   it: Risebell lo Psycher di Stelle
   pt: Risebell, a Estrela Psiquica
-  ja: <ruby><rb>覚</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ライズベルト
+  ja: <ruby><rb>覚</rb><rt>かく</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>ライズベルト
   ja_romaji: Kakuseishi Raizuberuto
   ko: 각성사 라이즈벨트
   ko_rr:
+  zh-TW:
   zh-CN: 觉星师 莱斯贝尔特
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、フィールド上に表側表示で存在するモンスター１体を選択して発動できる。選択したモンスターのレベルを１つ上げる。この効果は相手ターンでも発動できる。
   ko: |-
     1턴에 1번, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터의 레벨을 1개 올린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     1回合1次，选择场上表侧表示存在的1只怪兽才能发动。选择的怪兽的等级上升1星。这个效果在对方回合也能发动。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 4
 atk: 1500

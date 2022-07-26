@@ -7,12 +7,13 @@ name:
   fr: Motocycliste Aile Claire Grande Vitesseroid
   it: Alta-Velociroid Ala Chiara Pilota
   pt: Alta-Velocidaroide Piloto de Asas Transparentes
-  ja: <ruby><rb>ＨＳＲ</rb><rp>（</rp><rt>ハイスピードロイド</rt><rp>）</rp></ruby>／<ruby><rb>ＣＷ</rb><rp>（</rp><rt>クリアウィング</rt><rp>）</rp></ruby>ライダー
+  ja: <ruby><rb>ＨＳＲ</rb><rt>ハイスピードロイド</rt></ruby>／<ruby><rb>ＣＷ</rb><rt>クリアウィング</rt></ruby>ライダー
   ja_romaji: Haisupīdoroido/Kuria Wingu Raidā
-  ko: <ruby><rb>HSR</rb><rp>（</rp><rt>하이스피드로이드</rt><rp>）</rp></ruby> / <ruby><rb>CW</rb><rp>（</rp><rt>클리어윙</rt><rp>）</rp></ruby>
+  ko: <ruby><rb>HSR</rb><rt>하이스피드로이드</rt></ruby> / <ruby><rb>CW</rb><rt>클리어윙</rt></ruby>
     라이더
   ko_rr: Haiseupideuroideu / Keulli-eowing Raideo
-  zh-CN: 超高速拟人机/水晶翼坐骑
+  zh-TW:
+  zh-CN: 高速疾行机人 遥控清透翼骑手
 text:
   en: |-
     1 WIND Tuner + 1 non-Tuner WIND Synchro Monster
@@ -38,11 +39,12 @@ text:
   ko: |-
     바람 속성 튜너 ＋ 튜너 이외의 바람 속성 싱크로 몬스터 1장
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 주사위를 1회 던진다. 나온 눈의 수까지 자신 묘지의 바람 속성 몬스터를 고르고 덱으로 되돌린다. 그 후, 되돌린 수까지 상대 필드의 카드를 고르고 파괴할 수 있다. 이 카드의 공격력은 턴 종료시까지, 이 효과로 파괴한 수 × 500 올린다. ②: 상대 메인 페이즈에, 싱크로 소환한 이 카드를 릴리스하고 발동할 수 있다. 엑스트라 덱에서 레벨 7 의 바람 속성 싱크로 몬스터를 2장까지 특수 소환한다(같은 이름의 카드는 1장까지).
+  zh-TW:
   zh-CN: |-
-    风属性调整+1只以上调整以外的风属性同调怪兽
-    ①：1回合1次，自己的主要阶段可以发动。掷1次骰子。选最多为掷出的数的数量的自己墓地的风属性怪兽返回卡组。那之后，可以选最多为返回的数量的对手场上的卡破坏。这张卡的攻击力直到回合结束时上升用这个效果破坏的数量×500。②：对手的主要阶段，可以将同调召唤的这张卡解放发动。从额外卡组特殊召唤最多2只等级7的风属性同调怪兽（同名卡最多1张）。
-type: Monster
-typeline: Machine / Synchro / Effect
+    风属性协调＋1只协调以外的风属性同步怪兽
+    ①：1回合1次，在自己的主要阶段可以发动。掷1次骰子。挑选自己墓地的风属性怪兽放回牌组，数量最多为掷出的数字。然后，可以挑选对手场上的卡破坏，数量最多为放回的数量。此卡的攻击力直至回合结束时为止，上升相当于以此效果破坏的数量×500的数值。②：在对手的主要阶段，解放同步召唤的此卡可以发动。从额外牌组将最多2只等级7的风属性同步怪兽特殊召唤（同名卡最多1张）。
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: WIND
 level: 11
 atk: 3500

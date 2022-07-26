@@ -7,10 +7,11 @@ name:
   fr: Vector Pendule, le Dracosseigneur
   it: Vector Pendulum, il Dracosovrano
   pt: Pêndulo Vector, o Dracosuserano
-  ja: <ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ベクター<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ベクター<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>
   ja_romaji: Ryūmaō Bekutā Pendyuramu
-  ko: 용마왕 벡터<ruby><rb>P</rb><rp>（</rp><rt>펜듈럼</rt><rp>）</rp></ruby>
+  ko: 용마왕 벡터<ruby><rb>P</rb><rt>펜듈럼</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 龙魔王 魔道矢·灵摆
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     この世界に突如として現れ、瞬く間に世界を蹂躙し尽くした竜魔族の大群を率いる魔王。"竜化の秘法"によって万物を悪しきドラゴンの姿に変えてしまうと言われているが、その力の正体はよく分かっていない。強大な魔力の源泉はこの次元のものではないとまで噂されている。
   ko: |-
     이 세계에 갑자기 나타나 순식간에 세계를 유린한 용마족의 대군을 이끄는 마왕. "용화의 비법"에 의해 만물을 사악한 드래곤의 모습으로 바꾸어 버린다고 전해지지만, 그 힘의 정체는 잘 모른다. 막강한 마력의 원천은 이 자원의 것이 아니라는 소문까지 떠돌고 있다.
+  zh-TW:
   zh-CN: |-
     统率着突然出现在这个世上并转眼就彻底蹂躏了世界的大群龙魔族的魔王。据说他是以“龙化秘法(竜化の秘法)”转变了万物成为邪恶的龙形，不过那种力量的真面目还不怎么清楚。强大魔力的源泉甚至有传闻说是不属于这个次元的。
-type: Monster
-typeline: Dragon / Pendulum
+card_type: Monster
+monster_type_line: Dragon / Pendulum
 attribute: DARK
 level: 4
 atk: 1850
@@ -52,9 +54,10 @@ pendulum_effect:
   pt: |-
     Negue todos os efeitos de card nas Zonas de Pêndulo do seu oponente.
   ja: |-
-    ①：このカードが<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンに存在する限り、相手の<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンのカードの効果は無効化される。
+    ①：このカードが<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>ゾーンに存在する限り、相手の<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>ゾーンのカードの効果は無効化される。
   ko: |-
     ①：이 카드가 펜듈럼 존에 존재하는 한, 상대의 펜듈럼 존의 카드의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在灵摆区域存在，对方的灵摆区域的卡的效果无效化。
 sets:

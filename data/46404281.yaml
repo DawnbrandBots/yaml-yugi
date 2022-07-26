@@ -7,10 +7,11 @@ name:
   fr: Artilleur Magma Laval
   it: Cannoniere Magma Laval
   pt:
-  ja: ラヴァルのマグマ<ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: ラヴァルのマグマ<ruby><rb>砲</rb><rt>ほう</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Ravaru no Maguma Hōhei
   ko: 라바르의 마그마 포병
   ko_rr:
+  zh-TW:
   zh-CN: 熔岩人岩浆炮兵
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     手札から炎属性モンスター１体を墓地へ送って発動する。相手ライフに５００ポイントダメージを与える。この効果は１ターンに２度まで使用できる。
   ko: |-
     패에서 화염 속성 몬스터 1장을 묘지로 보내고 발동한다. 상대 라이프에 500 포인트 데미지를 준다. 이 효과는 1턴에 2번까지 사용할 수 있다.
+  zh-TW:
   zh-CN: |-
     从手卡把1只炎属性怪兽送去墓地发动。给与对方基本分500分伤害。这个效果1回合可以使用最多2次。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1700

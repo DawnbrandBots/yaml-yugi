@@ -7,10 +7,11 @@ name:
   fr: Abacus Fatal
   it: Pallottoliere Fatale
   pt: Ábaco Fatal
-  ja: <ruby><rb>死の演算盤</rb><rp>（</rp><rt>デス・カリキュレーター</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死の演算盤</rb><rt>デス・カリキュレーター</rt></ruby>
   ja_romaji: Desu Karikyurētā
   ko: 죽음의 주판
   ko_rr:
+  zh-TW:
   zh-CN: 死之演算盘
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に存在するモンスターが墓地へ送られる度に、そのモンスターの持ち主は１枚につき５００ポイントダメージを受ける。
   ko: |-
     필드 위의 몬스터가 묘지로 보내질 때마다, 그 카드의 주인은 1장당 500 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     每次场上存在的怪兽被送去墓地，那些怪兽的持有者受到每1只500分伤害。
-type: Trap
+card_type: Trap
 property: Continuous

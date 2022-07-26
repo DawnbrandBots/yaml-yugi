@@ -7,11 +7,12 @@ name:
   fr: Démiurge Théurgéquipe des Équipements du Monde
   it: Ingranaggio del Mondo della Demiurgia Teurgiologica
   pt: Mecanismo Mundial da Teurlógica Demiúrgica
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>デミウルギア
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>デミウルギア
   ja_romaji: Seishinki Demiurugia
   ko: 성신기 데미우르기어
   ko_rr: Seongsin-gi Demiureugieo
-  zh-CN: 星神器 造物主机构
+  zh-TW:
+  zh-CN: 星神器 造神巨匠
 text:
   en: |-
     3 Level 5 or higher monsters
@@ -49,19 +50,17 @@ text:
   ko: |-
     레벨 5 이상의 몬스터 3장
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. 이 카드는 링크 소재로 할 수 없다. ①: 링크 소환한 이 카드는 다른 몬스터의 효과를 받지 않는다. ②: 종족과 속성이 다른 몬스터 3장을 소재로서 이 카드가 링크 소환되어 있을 경우, 자신 메인 페이즈에 발동할 수 있다. 이 카드 이외의 필드의 카드를 전부 파괴한다. ③: 상대가 엑스트라 덱에서 몬스터를 특수 소환했을 경우에 발동할 수 있다. 덱에서 "성유물" 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    5星以上的怪兽3只
-    这个卡名的②③的效果1回合各能使用1次。这张卡不能作为连接素材。
-    ①：连接召唤的这张卡不受其他怪兽的效果影响。
-    ②：已用种族和属性不同的怪兽3只为素材让这张卡连接召唤的场合，自己主要阶段才能发动。这张卡以外的场上的卡全部破坏。
-    ③：对方从额外卡组把怪兽特殊召唤的场合才能发动。从卡组把1只「星遗物」怪兽特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    等级5以上的怪兽3只
+    此卡名的②③效果1回合仅可各使用1次。此卡不可作为连接素材。①：连接召唤的此卡不受其他怪兽的效果影响。②：此卡是以3只种族与属性不同的怪兽作为素材被连接召唤的情况下，在自己的主要阶段可以发动。将此卡以外的场上的卡全部破坏。③：对手从额外牌组特殊召唤怪兽的情况下可以发动。从牌组将1只"星遗物"怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ⬇
+- ➡
 atk: 3500
 sets:
   en:

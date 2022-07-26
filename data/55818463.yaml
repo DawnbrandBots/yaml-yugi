@@ -7,10 +7,11 @@ name:
   fr: Seigneur Liche, Roi des Enfers
   it: Lich Lord, Re del Mondo Sotterraneo
   pt: Senhor dos Liches, o Rei do Submundo
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>リッチーロード
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>リッチーロード
   ja_romaji: Shiō Ritchīrōdo
   ko: 사왕 리치로드
   ko_rr: Sawang Richirodeu
+  zh-TW:
   zh-CN: 死王 巫妖大君
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードをアドバンス召喚する場合、リリースするモンスターは闇属性モンスターでなければならない。①：このカードが効果でリリースされ墓地へ送られた場合に発動する。墓地のこのカードを手札に加える。
   ko: |-
     이 카드를 어드밴스 소환할 경우, 릴리스하는 몬스터는 어둠 속성 몬스터이어야 한다. ①: 이 카드가 효과로 릴리스되어 묘지로 보내졌을 경우에 발동한다. 묘지의 이 카드를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这张卡上级召唤的场合，解放的怪兽必须是暗属性怪兽。①：这张卡被效果解放送去墓地的场合发动。墓地的这张卡加入手卡。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 6
 atk: 2400

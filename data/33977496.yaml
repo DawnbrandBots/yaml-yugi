@@ -7,10 +7,11 @@ name:
   fr: Mille Aiguilles
   it: Mille Punte
   pt: Mil Agulhas
-  ja: <ruby><rb>針千本</rb><rp>（</rp><rt>サウザンド・ニードル</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>針千本</rb><rt>サウザンド・ニードル</rt></ruby>
   ja_romaji: Sauzando Nīdoru
   ko: 천개가시 고슴도치
   ko_rr:
+  zh-TW:
   zh-CN: 千根针
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     守備表示のこのカードが攻撃を受けた時、このカードの守備力が相手攻撃モンスターの攻撃力を越えていれば、ダメージステップ終了時にその攻撃モンスターを破壊する。
   ko: |-
     수비 표시의 이 카드가 공격을 받았을 때, 이 카드의 수비력이 상대 공격 몬스터의 공격력을 넘었으면, 데미지 스텝 종료시에 그 공격 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     守备表示的这张卡受到攻击时，若这张卡的守备力超过对方攻击怪兽的攻击力，伤害步骤结束时那只攻击怪兽破坏。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 4
 atk: 1000

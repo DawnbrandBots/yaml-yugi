@@ -7,10 +7,11 @@ name:
   fr: Présent de la Fée
   it: Dono della Fata
   pt: Fada Madrinha
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby><rb>贈</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>りもの
+  ja: <ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>の<ruby><rb>贈</rb><rt>おく</rt></ruby>りもの
   ja_romaji: Yōsei no Okurimono
   ko: 요정의 선물
   ko_rr:
+  zh-TW:
   zh-CN: 妖精的赠礼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     誰もが幸せになれるという魔法をふりまきながら飛びまわる。
   ko: |-
     누구나 행복해질 수 있는 마법을 뿌리면서 날아다닌다.
+  zh-TW:
   zh-CN: |-
     边飞边散发令谁都幸福的魔法。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: LIGHT
 level: 4
 atk: 1400

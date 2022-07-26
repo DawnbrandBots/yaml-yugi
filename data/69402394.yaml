@@ -7,10 +7,11 @@ name:
   fr: Combine Ténébreuse
   it: Piano Oscuro
   pt:
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>の<ruby><rb>謀</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby><rb>略</rb><rp>（</rp><rt>りゃく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby>の<ruby><rb>謀</rb><rt>ぼう</rt></ruby><ruby><rb>略</rb><rt>りゃく</rt></ruby>
   ja_romaji: Ankoku no Bōryaku
   ko: 암흑의 모략
   ko_rr:
+  zh-TW: 暗黑的謀略
   zh-CN: 暗黑的谋略
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     お互いのプレイヤーは手札を２枚選択して捨て、デッキからカードを２枚ドローする。相手は手札を１枚捨ててこのカードの効果を無効にする事ができる。
   ko: |-
     양쪽의 플레이어는 패를 2장 선택하여 버리고, 덱에서 카드를 2장 드로우한다. 상대는 패를 1장 버리고 이 카드의 효과를 무효로 할 수 있다.
+  zh-TW: 对手可舍弃1张手牌使此卡效果无效化。不舍弃的场合，双方玩家各自挑选己方手牌2张并舍弃。之后，双方玩家各自从己方牌组中抽取2张卡牌。
   zh-CN: |-
     双方玩家选择2张手卡丢弃，从卡组抽2张卡。对方可以丢弃1张手卡让这张卡的效果无效。
-type: Trap
+card_type: Trap
 property: Normal

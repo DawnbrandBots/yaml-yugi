@@ -7,10 +7,11 @@ name:
   fr: Chevalier Mystique du Chacal
   it: Cavaliere Mistico dello Sciacallo
   pt: Cavaleiro Místico do Chacal
-  ja: ジャッカルの<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: ジャッカルの<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Jakkaru no Seisenshi
   ko: 자칼의 성전사
   ko_rr:
+  zh-TW:
   zh-CN: 胡狼圣战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手フィールド上モンスター１体を戦闘によって破壊し相手の墓地に送った時、そのカードを相手のデッキの一番上に戻す事ができる。
   ko: |-
     이 카드가 상대 필드 위 몬스터 1장을 전투에 의해서 파괴하여 상대의 묘지로 보냈을 때, 그 카드를 상대의 덱의 맨 위로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡战斗破坏对方场上1只怪兽送去对方墓地时，可以让那张卡回到对方卡组最上面。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: LIGHT
 level: 7
 atk: 2700

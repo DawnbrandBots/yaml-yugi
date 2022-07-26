@@ -7,10 +7,11 @@ name:
   fr: Zone de Non Fusion
   it: Area di Non-Fusione
   pt: Área de Não-Fusão
-  ja: <ruby><rb>融</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>禁</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>止</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>エリア
+  ja: <ruby><rb>融</rb><rt>ゆう</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby><ruby><rb>禁</rb><rt>きん</rt></ruby><ruby><rb>止</rb><rt>し</rt></ruby>エリア
   ja_romaji: Yūgō Kinshi Eria
   ko: 융합 금지 구역
   ko_rr:
+  zh-TW:
   zh-CN: 融合禁止地区
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     お互いのプレイヤーは融合召喚をする事ができない。
   ko: |-
     서로의 플레이어는 융합 소환할 수가 할 수 없다.
+  zh-TW:
   zh-CN: |-
     双方玩家不能融合召唤。
-type: Trap
+card_type: Trap
 property: Continuous

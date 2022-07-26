@@ -7,10 +7,11 @@ name:
   fr: Tonneau Secret
   it: Arma Segreta
   pt: Barril Secreto
-  ja: <ruby><rb>仕</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>込</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>みマシンガン
+  ja: <ruby><rb>仕</rb><rt>し</rt></ruby><ruby><rb>込</rb><rt>こ</rt></ruby>みマシンガン
   ja_romaji: Shikomi Mashingan
   ko: 비밀병기 머신건
   ko_rr:
+  zh-TW: 內置式機槍
   zh-CN: 内置式机枪
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：相手の手札・フィールドのカードの数×２００ダメージを相手に与える。
   ko: |-
     상대 필드 위의 카드와 상대의 패를 합계한 수 × 200 포인트 데미지를 상대 라이프에 준다.
+  zh-TW: 给对手生命造成其手牌、场上卡牌的合计总数×200点的伤害。
   zh-CN: |-
     ①：给与对方为对方的手卡·场上的卡数量×200伤害。
-type: Trap
+card_type: Trap
 property: Normal

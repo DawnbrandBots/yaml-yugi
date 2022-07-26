@@ -7,10 +7,11 @@ name:
   fr: Habitant des Profondeurs
   it: Abitatore degli Abissi
   pt: Habitante das Profundezas
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>魚</rb><rp>（</rp><rt>ぎょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>魚</rb><rt>ぎょ</rt></ruby>
   ja_romaji: Shingyo
   ko: 어신
   ko_rr:
+  zh-TW:
   zh-CN: 神鱼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     水中を優雅に泳ぐ魚の神様。怒らせると危険。
   ko: |-
     물 속을 우아하게 헤엄치는 어류의 신. 한번 분노하면 매우 위험하다.
+  zh-TW:
   zh-CN: |-
     在水中幽雅游动的鱼神，若它发怒会很危险。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: WATER
 level: 5
 atk: 1650

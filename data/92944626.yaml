@@ -7,10 +7,11 @@ name:
   fr: Ailes de la Flamme Malfaisante
   it: Ali di Fiamma Malvagia
   pt: Asas da Chama Malvada
-  ja: <ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>翼</rb><rp>（</rp><rt>つばさ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby>の<ruby><rb>翼</rb><rt>つばさ</rt></ruby>
   ja_romaji: Jaen no Tsubasa
   ko: 사염의 날개
   ko_rr:
+  zh-TW:
   zh-CN: 邪炎之翼
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     赤黒く燃える翼。全身から炎を吹き出し攻撃する。
   ko: |-
     검붉게 타오르는 날개. 전신에서 화염을 뿜어내어 공격한다.
+  zh-TW:
   zh-CN: |-
     原形是红黑色燃烧着的翅膀。从全身喷出火焰进行攻击。
-type: Monster
-typeline: Pyro
+card_type: Monster
+monster_type_line: Pyro
 attribute: FIRE
 level: 2
 atk: 700

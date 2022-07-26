@@ -7,10 +7,11 @@ name:
   fr: Guerrier Panthère
   it: Pantera Guerriera
   pt: Guerreiro Pantera
-  ja: <ruby><rb>漆</rb><rp>（</rp><rt>しっ</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>の<ruby><rb>豹</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>パンサーウォリアー
+  ja: <ruby><rb>漆</rb><rt>しっ</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby>の<ruby><rb>豹</rb><rt>ひょう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>パンサーウォリアー
   ja_romaji: Shikkoku no Hyōsenshi Pansā Woriā
   ko: 칠흑의 표범전사 팬서 워리어
   ko_rr: Chilheuk-ui Pyobeomjeonsa Paenseo Worieo
+  zh-TW:
   zh-CN: 漆黑之豹战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、このカードの攻撃宣言の際に、自分はこのカード以外の自分フィールドのモンスター１体をリリースしなければならない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 공격 선언 시기에, 자신은 이 카드 이외의 자신 필드의 몬스터 1장을 릴리스해야 한다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，这张卡的攻击宣言之际，自己必须把这张卡以外的自己场上1只怪兽解放。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 2000

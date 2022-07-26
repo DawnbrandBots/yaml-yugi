@@ -11,6 +11,7 @@ name:
   ja_romaji: Kōdo Tōkā
   ko: 코드 토커
   ko_rr: Kodeu Tokeo
+  zh-TW:
   zh-CN: 码语者
 text:
   en: |-
@@ -37,16 +38,16 @@ text:
   ko: |-
     효과 몬스터 2장
     ①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ②: 이 카드의 링크 앞에 몬스터가 존재하는 한, 이 카드는 전투 및 상대 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     效果怪兽2只
-    ①：这张卡的攻击力上升这张卡所连接区的怪兽数量×500。
-    ②：只要这张卡所连接区有怪兽存在，这张卡不会被战斗以及对方的效果破坏。
-type: Monster
-typeline: Cyberse / Link / Effect
+    ①：此卡的攻击力上升相当于此卡连接端的怪兽数量×500的数值。②：只要此卡连接端有怪兽存在，此卡不会因战斗及对手的效果被破坏。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Top-Center
-- Bottom-Center
+- ⬆
+- ⬇
 atk: 1300
 materials: 2 Effect Monsters
 sets:

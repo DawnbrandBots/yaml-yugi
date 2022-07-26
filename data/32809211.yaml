@@ -7,10 +7,11 @@ name:
   fr: Jinzo N°7
   it: 'Jinzo #7'
   pt: Jinzo Nº 7
-  ja: <ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>造</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>間</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>７<ruby><rb>号</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>人</rb><rt>じん</rt></ruby><ruby><rb>造</rb><rt>ぞう</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby><ruby><rb>間</rb><rt>げん</rt></ruby>７<ruby><rb>号</rb><rt>ごう</rt></ruby>
   ja_romaji: Jinzōningen Nana-gō
   ko: 인조인간7호
   ko_rr:
+  zh-TW:
   zh-CN: 人造人7号
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは相手プレイヤーを直接攻撃する事ができる。
   ko: |-
     이 카드는 상대를 직접 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡可以直接攻击对方玩家。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 2
 atk: 500

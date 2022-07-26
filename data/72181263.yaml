@@ -7,11 +7,11 @@ name:
   fr: D/D Orthros
   it: D/D Orthros
   pt: D/D Orthros
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>オルトロス
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>オルトロス
   ja_romaji: Dīdī Orutorosu
-  ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
-    오르트로스
+  ko: <ruby><rb>D</rb><rt>디</rt></ruby><ruby><rb>D</rb><rt>디</rt></ruby> 오르트로스
   ko_rr:
+  zh-TW:
   zh-CN: DD 俄耳托斯
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     ①：自分が戦闘・効果でダメージを受けた時に発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚に成功したターン、自分は悪魔族モンスターしか特殊召喚できない。
   ko: |-
     ①: 자신이 전투 / 효과로 데미지를 받았을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 특수 소환에 성공한 턴에, 자신은 악마족 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：自己因战斗·效果受到伤害时才能发动。这张卡从手卡特殊召唤。②：这张卡特殊召唤成功的回合，自己不是恶魔族怪兽不能特殊召唤。
-type: Monster
-typeline: Fiend / Pendulum / Tuner / Effect
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Tuner / Effect
 attribute: DARK
 level: 4
 atk: 600
@@ -56,6 +57,7 @@ pendulum_effect:
     ①：１ターンに１度、フィールドの魔法・罠カード１枚とこのカード以外の自分フィールドの「ＤＤ」カードまたは「契約書」カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 1턴에 1번, 필드의 마법 / 함정 카드 1장과, 이 카드 이외의 자신 필드의 "DD(디디)" 카드 또는 "계약서" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，以场上1张魔法·陷阱卡和这张卡以外的自己场上1张「DD」卡或者「契约书」卡为对象才能发动。那些卡破坏。
 sets:

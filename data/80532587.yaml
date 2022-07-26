@@ -7,11 +7,12 @@ name:
   fr: N'tss, Ancienne Entité
   it: Entità Maggiore N'tss
   pt: Entidade Anciã N'tss
-  ja: <ruby><rb>旧</rb><rp>（</rp><rt>キュウ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>シン</rt><rp>）</rp></ruby>ヌトス
+  ja: <ruby><rb>旧</rb><rt>キュウ</rt></ruby><ruby><rb>神</rb><rt>シン</rt></ruby>ヌトス
   ja_romaji: Kyūshin Nutosu
   ko: 구신 누토스
   ko_rr: Gusin Nutoseu
-  zh-CN: 旧神 努茨
+  zh-TW:
+  zh-CN: 旧神努茨
 text:
   en: |-
     1 Synchro Monster + 1 Xyz Monster
@@ -37,11 +38,12 @@ text:
   ko: |-
     싱크로 몬스터 ＋ 엑시즈 몬스터
     자신 필드의 상기 카드를 묘지로 보냈을 경우에만 특수 소환할 수 있다("융합"은 필요로 하지 않는다). 자신은 "구신 누토스"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 레벨 4 몬스터 1장을 특수 소환한다. ②: 이 카드가 묘지로 보내졌을 경우, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    同调怪兽＋XYZ怪兽
-    把自己场上的上记卡送去墓地的场合才能特殊召唤（不需要「融合」）。自己对「旧神 努茨」1回合只能有1次特殊召唤。①：1回合1次，自己主要阶段才能发动。从手卡把1只4星怪兽特殊召唤。②：这张卡被送去墓地的场合，以场上1张卡为对象才能发动。那张卡破坏。
-type: Monster
-typeline: Fairy / Fusion / Effect
+    同步怪兽＋超量怪兽
+    仅在将自己场上的上述卡送至墓地的情况下可以特殊召唤。自己1回合仅可特殊召唤1次"旧神努茨"。①：1回合1次，在自己的主要阶段可以发动。从手牌将1只等级4怪兽特殊召唤。②：此卡被送至墓地的情况下，以场上的1张卡为对象可以发动。将该卡破坏。
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
 attribute: LIGHT
 level: 4
 atk: 2500

@@ -7,10 +7,11 @@ name:
   fr: Six Samouraïs Légendaires - Enishi
   it: Enishi - Sei Samurai Leggendario
   pt: Seis Samurai Lendários - Enishi
-  ja: <ruby><rb>真</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>六</rb><rp>（</rp><rt>ろく</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>衆</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>－エニシ
+  ja: <ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>衆</rb><rt>しゅう</rt></ruby>－エニシ
   ja_romaji: Shin Roku Bushū - Enishi
   ko: 진 여섯 무사-에니시
   ko_rr:
+  zh-TW:
   zh-CN: 真六武众-缘
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に「真六武衆－エニシ」以外の「六武衆」と名のついたモンスターが表側表示で存在する場合、１ターンに１度、自分の墓地に存在する「六武衆」と名のついたモンスター２体をゲームから除外する事で、フィールド上に表側表示で存在するモンスター１体を選択して手札に戻す。この効果は相手ターンでも発動する事ができる。また、自分フィールド上に「真六武衆－エニシ」以外の「六武衆」と名のついたモンスターが表側表示で２体以上存在する場合、このカードの攻撃力・守備力は５００ポイントアップする。
   ko: |-
     자신 필드 위에 "진 여섯 무사 - 에니시" 이외의 "여섯 무사" 라는 이름이 붙은 몬스터가 앞면 표시로 존재할 경우, 1턴에 1번, 자신의 묘지에 존재하는 "여섯 무사" 라는 이름이 붙은 몬스터 2장을 게임에서 제외하는 것으로, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 패로 되돌린다. 이 효과는 상대 턴에도 발동할 수 있다. 또한, 자신 필드 위에 "진 여섯 무사 - 에니시" 이외의 "여섯 무사" 라는 이름이 붙은 몬스터가 앞면 표시로 2장 이상 존재할 경우, 이 카드의 공격력 / 수비력은 500 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     自己场上有「真六武众-缘」以外的名字带有「六武众」的怪兽表侧表示存在的场合，1回合1次，可以通过把自己墓地存在的2只名字带有「六武众」的怪兽从游戏中除外，选择场上表侧表示存在的1只怪兽回到手卡。这个效果在对方回合也能发动。此外，自己场上有「真六武众-缘」以外的名字带有「六武众」的怪兽表侧表示2只以上存在的场合，这张卡的攻击力·守备力上升500。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

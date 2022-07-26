@@ -7,10 +7,11 @@ name:
   fr: Soldat Sentinelle de Pierre
   it: Soldato Sentinella di Pietra
   pt: Soldado de Pedra Sentinela
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>の<ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>ぺい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>岩</rb><rt>がん</rt></ruby><ruby><rb>石</rb><rt>せき</rt></ruby>の<ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>兵</rb><rt>ぺい</rt></ruby>
   ja_romaji: Ganseki no Banpei
   ko: 암석의 파수병
   ko_rr: Amseok-ui Pasubyeong
+  zh-TW:
   zh-CN: 岩石番兵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在し、自分フィールドのモンスターが岩石族モンスターのみの場合に発動できる。このカードを特殊召喚する。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 묘지에 존재하고, 자신 필드의 몬스터가 암석족 몬스터뿐일 경우에 발동할 수 있다. 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「岩石番兵」的效果1回合只能使用1次。①：这张卡在墓地存在，自己场上的怪兽只有岩石族怪兽的场合才能发动。这张卡从墓地特殊召唤。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 3
 atk: 1300

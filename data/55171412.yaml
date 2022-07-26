@@ -7,10 +7,11 @@ name:
   fr: Néos Aquatique, HÉROS Élémentaire
   it: Neos Aqua Eroe Elementale
   pt:
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> アクア・ネオス
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> アクア・ネオス
   ja_romaji: Erementaru Hīrō Akua Neosu
   ko: 엘리멘틀 히어로 아쿠아 네오스
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 水波新宇侠
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
   ko: |-
     엘리멘틀 히어로 네오스" + "네오 스페이시언 아쿠아 돌핀"
     자신 필드 위 상기의 카드를 덱으로 되돌린 경우에만, 엑스트라 덱에서 특수 소환할 수 있다("융합" 마법 카드는 필요로 하지 않는다). 1턴에 1번, 패를 1장 버리는 것으로, 상대의 패를 무작위로 1장 고르고 파괴한다. 또한, 엔드 페이즈시, 이 카드는 엑스트라 덱으로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 新宇侠」＋「新宇宙侠·水波海豚」
     让自己场上的上记的卡回到卡组的场合才能从额外卡组特殊召唤（不需要「融合」魔法卡）。1回合1次，可以通过丢弃1张手卡，对方手卡随机选1张破坏。此外，结束阶段时，这张卡回到额外卡组。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: WATER
 level: 7
 atk: 2500

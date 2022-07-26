@@ -7,10 +7,11 @@ name:
   fr: Fixétoileur
   it: Storno Studia Stelle
   pt: Estorno Encara Estrela
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>ほし</rt><rp>）</rp></ruby><ruby><rb>向</rb><rp>（</rp><rt>むく</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>どり</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>ほし</rt></ruby><ruby><rb>向</rb><rt>むく</rt></ruby><ruby><rb>鳥</rb><rt>どり</rt></ruby>
   ja_romaji: Hoshimukudori
   ko: 별향새
   ko_rr: Byeolhyangsae
+  zh-TW:
   zh-CN: 星向鸟
 text:
   en: |-
@@ -61,14 +62,15 @@ text:
     ●오른쪽 끝: 이 카드의 레벨은 3개 올라간다.
     ●중앙: 이 카드의 레벨은 2개 올라간다.
     ●그 이외: 이 카드의 레벨은 1개 올라간다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡只要在主要怪兽区域存在，得到那个位置的以下效果。
     ●左端：这张卡的等级上升4星。
     ●右端：这张卡的等级上升3星。
     ●中央：这张卡的等级上升2星。
     ●那以外：这张卡的等级上升1星。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: WIND
 level: 4
 atk: 1000

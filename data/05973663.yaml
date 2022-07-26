@@ -7,10 +7,11 @@ name:
   fr: L'Arbre du Monde
   it: L'Albero del Mondo
   pt: A Árvore do Mundo
-  ja: <ruby><rb>世</rb><rp>（</rp><rt>せ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>樹</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>世</rb><rt>せ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>樹</rb><rt>じゅ</rt></ruby>
   ja_romaji: Sekaiju
   ko: 세계수
   ko_rr:
+  zh-TW:
   zh-CN: 世界树
 text:
   en: |-
@@ -49,10 +50,11 @@ text:
     ●1개：이 턴의 엔드 페이즈시까지, 필드 위에 앞면 표시로 존재하는 식물족 몬스터 1장의 공격력 / 수비력은 400포인트 올린다.
     ●2개：필드 위의 카드 1장을 파괴한다.
     ●3개：자신의 묘지에 존재하는 식물족 몬스터 1장을 선택하고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     每次场上的植物族怪兽被破坏，给这张卡放置1个花指示物。此外，可以把这张卡放置的花指示物任意数量取除把以下效果发动。
     ●1个：选择场上1只植物族怪兽，那个攻击力·守备力直到结束阶段时上升400。
     ●2个：选择场上1张卡破坏。
     ●3个：选择自己墓地1只植物族怪兽特殊召唤。
-type: Spell
+card_type: Spell
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr: Batosushi Gunkan Classe Uni Super-Neredouterien
   it: Gunkan Sushinave Uni-classe Super-Corazzata
   pt: Naviushi Gunkan Supercouraçado Classe Uni
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>弩</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>級</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>貫</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－うに<ruby><rb>型</rb><rp>（</rp><rt>がた</rt><rp>）</rp></ruby><ruby><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>艦</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>弩</rb><rt>ど</rt></ruby><ruby><rb>級</rb><rt>きゅう</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>貫</rb><rt>かん</rt></ruby>－うに<ruby><rb>型</rb><rt>がた</rt></ruby><ruby><rb>二</rb><rt>に</rt></ruby><ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>艦</rb><rt>かん</rt></ruby>
   ja_romaji: Chōdokyū Gunkan - Uni-gata Nibankan
   ko: 초노급군관－우니형이번함
   ko_rr: Chonogeupgun-gwan - Unihyeong-ibeonham
+  zh-TW:
   zh-CN: 超重型军贯-海胆型二番舰
 text:
   en: |-
@@ -54,11 +55,12 @@ text:
   ko: |-
     레벨 5 몬스터 × 2
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우에 발동할 수 있다. 그 엑시즈 소환의 소재로 한 몬스터에 따라 이하의 효과를 적용한다. ●"샤리 군관": 자신은 덱에서 1장 드로우한다. ●"우니 군관": 이 카드는 직접 공격할 수 있다. ②: 자신 메인 페이즈 및 상대 배틀 페이즈에 1번, 엑스트라 덱에서 특수 소환된 자신의 "군관" 몬스터의 수까지 상대 필드의 앞면 표시의 카드를 대상으로 하고 발동할 수 있다. 그 카드의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     等级5怪兽×2
     这个卡名的①效果1回合只能使用1次。①：这张卡多维召唤成功的场合可以发动。根据那些作为多维召唤的素材的怪兽适用以下的效果。●「しゃりの軍貫／舍利饭军贯」：自己从卡组抽1张。●「うにの軍貫／海胆军贯」：这张卡可以直接攻击。②：自己的主要阶段以及对手的战斗阶段有1次，可以以最多为从额外卡组特殊召唤的自己的「軍貫／军贯」怪兽的数量的、对手场上的表侧表示的卡为对象发动。那些卡的效果无效。
-type: Monster
-typeline: Aqua / Xyz / Effect
+card_type: Monster
+monster_type_line: Aqua / Xyz / Effect
 attribute: FIRE
 rank: 5
 atk: 2900

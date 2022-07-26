@@ -7,12 +7,13 @@ name:
   fr: Dragon Arc-en-Ciel des Ténèbres
   it: Drago Arcobaleno Oscuro
   pt: Dragão Negro Arco-Íris
-  ja: <ruby><rb>究</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>極</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>玉</rb><rp>（</rp><rt>ぎょく</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>究</rb><rt>きゅう</rt></ruby><ruby><rb>極</rb><rt>きょく</rt></ruby><ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>玉</rb><rt>ぎょく</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
     レインボー・ダーク・ドラゴン
   ja_romaji: Kyūkyoku Hōgyokushin Reinbō Dāku Doragon
   ko: 궁극보옥신 레인보우 다크 드래곤
   ko_rr: Gunggeukbo-oksin Reinbou Dakeu Deuraegon
-  zh-CN: 究极宝玉神 虹暗龙
+  zh-TW:
+  zh-CN: 究极宝玉神 彩虹暗黑龙
 text:
   en: |-
     (This card is always treated as an "Ultimate Crystal" card.)
@@ -36,10 +37,11 @@ text:
     このカードは通常召喚できない。自分の墓地から闇属性モンスター７種類を１体ずつ除外した場合のみ特殊召喚できる。①：自分の墓地及び自分フィールドの表側表示モンスターの中から、このカード以外の闇属性モンスターを全て除外して発動できる。このカードの攻撃力は除外した数×５００アップする。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 어둠 속성 몬스터 7종류를 1장씩 제외했을 경우에만 특수 소환할 수 있다. ①: 자신 묘지 및 자신 필드의 앞면 표시 몬스터 중에서, 이 카드 이외의 어둠 속성 몬스터를 전부 제외하고 발동할 수 있다. 이 카드의 공격력은 제외한 수 × 500 올린다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。从自己墓地把暗属性怪兽7种类各1只除外的场合才能特殊召唤。①：从自己墓地以及自己场上的表侧表示怪兽之中，把这张卡以外的暗属性怪兽全部除外才能发动。这张卡的攻击力上升除外数量×500
-type: Monster
-typeline: Dragon / Effect
+    此卡不可通常召唤。仅可在从自己墓地将7种暗属性怪兽各1只除外的情况下特殊召唤。①：从自己墓地及自己场上的表侧表示怪兽中，将此卡以外的暗属性怪兽全部除外可以发动。此卡的攻击力上升除外数量×500。
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: DARK
 level: 10
 atk: 4000

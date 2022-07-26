@@ -11,6 +11,7 @@ name:
   ja_romaji: Furesshu Madoruche Shisutaruto
   ko: 프레시마돌체 시스타르트
   ko_rr:
+  zh-TW:
   zh-CN: 魔偶甜点新人·水果挞修女
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     "마돌체" 몬스터 2장
     ①: 이 카드의 링크 앞에 "마돌체" 몬스터가 존재하는 한, 자신 필드의 "마돌체" 마법 / 함정 카드는 효과의 대상이 되지 않으며, 효과로는 파괴되지 않는다. ②: 필드의 이 카드가 전투 / 효과로 파괴될 경우, 대신에 자신 묘지의 "마돌체" 몬스터 1장을 덱으로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     「魔偶甜点」怪兽2只
     ①：只要这张卡所连接区有「魔偶甜点」怪兽存在，自己场上的「魔偶甜点」魔法·陷阱卡不会成为效果的对象，不会被效果破坏。
     ②：场上的这张卡被战斗·效果破坏的场合，可以作为代替让自己墓地1只「魔偶甜点」怪兽回到卡组。
-type: Monster
-typeline: Fairy / Link / Effect
+card_type: Monster
+monster_type_line: Fairy / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1500
 materials: 2 "Madolche" monsters
 sets:

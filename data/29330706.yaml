@@ -7,10 +7,11 @@ name:
   fr: Dragon Protecteur Cuirassé
   it: Drago Protettore Armato
   pt: Dragão Protetor Armado
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>プロテクト・ドラゴン
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>プロテクト・ドラゴン
   ja_romaji: Busōshinryū Purotekuto Doragon
   ko: 무장신룡 프로텍트 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 武装神龙 护甲龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃力は、このカードに装備された装備カードの数×５００アップする。②：このカードがモンスターゾーンに存在する限り、自分フィールドの表側表示の装備カードは効果では破壊されない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 앞면 표시로 존재하는 장착 카드는 카드의 효과로는 파괴되지 않는다. 이 카드의 공격력은, 이 카드에 장착된 장착 카드의 수 × 500 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击力上升这张卡装备的装备卡数量×500。②：只要这张卡在怪兽区域存在，自己场上的表侧表示的装备卡不会被效果破坏。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 8
 atk: 2000

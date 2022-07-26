@@ -7,10 +7,11 @@ name:
   fr: Garde Celte des Armes Nobles
   it: Guardia Celtica delle Nobili Armi
   pt: Guarda Celta das Armas Nobres
-  ja: エルフの<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: エルフの<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Erufu no Seikenshi
   ko: 엘프의 성검사
   ko_rr: Elpeu-ui Seong-geomsa
+  zh-TW:
   zh-CN: 精灵圣剑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードはルール上「エルフの剣士」カードとしても扱う。①：自分の手札がある場合、このカードは攻撃できない。②：１ターンに１度、自分メインフェイズに発動できる。手札から「エルフの剣士」モンスター１体を特殊召喚する。③：このカードの攻撃で相手に戦闘ダメージを与えた時に発動できる。自分フィールドの「エルフの剣士」モンスターの数だけ、自分はデッキからドローする。
   ko: |-
     이 카드는 룰상 "엘프 검사" 카드로도 취급한다. ①: 자신의 패가 있을 경우, 이 카드는 공격할 수 없다. ②: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 "엘프 검사" 몬스터 1장을 특수 소환한다. ③: 이 카드의 공격으로 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 자신 필드의 "엘프 검사" 몬스터의 수만큼, 자신은 덱에서 드로우한다.
+  zh-TW:
   zh-CN: |-
     这张卡在规则上也当作「精灵剑士」卡使用。①：自己手卡是1张以上的场合，这张卡不能攻击。②：1回合1次，自己主要阶段才能发动。从手卡把1只「精灵剑士」怪兽特殊召唤。③：这张卡的攻击给与对方战斗伤害时才能发动。自己从卡组抽出自己场上的「精灵剑士」怪兽的数量。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 2100

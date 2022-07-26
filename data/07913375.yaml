@@ -7,10 +7,11 @@ name:
   fr: Artillerie Tortue Catapulte
   it: Tartaruga Catapulta Artiglieria
   pt: Artilharia Tartaruga Catapulta
-  ja: <ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>のカタパルト・タートル
+  ja: <ruby><rb>砲</rb><rt>ほう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>のカタパルト・タートル
   ja_romaji: Hōgeki no Kataparuto Tātoru
   ko: 포격의 중강갑 거북
   ko_rr: Pogyeok-ui Jungganggap Geobuk
+  zh-TW:
   zh-CN: 炮击的弹射龟
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスター１体をリリースして発動できる。手札・デッキから「暗黒騎士ガイア」モンスターまたはドラゴン族・レベル５モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 몬스터 1장을 릴리스하고 발동할 수 있다. 패 / 덱에서 "암흑 기사 가이아" 몬스터 또는 드래곤족 / 레벨 5 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。
     ①：把自己场上1只怪兽解放才能发动。从手卡·卡组把1只「暗黑骑士 盖亚」怪兽或者龙族·5星怪兽特殊召唤。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 4
 atk: 1000

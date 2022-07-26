@@ -7,10 +7,11 @@ name:
   fr: Cartes Célestes
   it: Carte dal Cielo
   pt: Cards dos Céus
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby>の<ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby>の<ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>札</rb><rt>さつ</rt></ruby>
   ja_romaji: Tenkū no Hōsatsu
   ko: 천공의 패
   ko_rr: Cheon-gong-ui Pae
+  zh-TW:
   zh-CN: 天空的宝札
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードを発動するターン、自分はモンスターを特殊召喚できず、バトルフェイズを行えない。①：手札から天使族・光属性モンスター１体を除外し、自分はデッキから２枚ドローする。
   ko: |-
     이 카드를 발동하는 턴에, 자신은 몬스터를 특수 소환할 수 없으며, 배틀 페이즈를 실행할 수 없다. ①: 패에서 천사족 / 빛 속성 몬스터 1장을 제외하고, 자신은 덱에서 2장 드로우한다.
+  zh-TW:
   zh-CN: |-
     这张卡发动的回合，自己不能把怪兽特殊召唤，不能进行战斗阶段。①：从手卡把1只天使族·光属性怪兽除外，自己从卡组抽2张。
-type: Spell
+card_type: Spell
 property: Normal

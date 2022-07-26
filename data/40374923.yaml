@@ -7,10 +7,11 @@ name:
   fr: Cimetière de Mammouth
   it: Mammuth delle Tombe
   pt: Cemitério de Mamutes
-  ja: マンモスの<ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>場</rb><rp>（</rp><rt>ば</rt><rp>）</rp></ruby>
+  ja: マンモスの<ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>場</rb><rt>ば</rt></ruby>
   ja_romaji: Manmosu no Hakaba
   ko: 맘모스의 무덤
   ko_rr:
+  zh-TW:
   zh-CN: 猛犸的墓场
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     仲間のお墓を守るマンモス。墓荒らしを容赦なく攻撃。
   ko: |-
     동료들의 무덤을 지키는 맘모스. 도굴꾼은 절대 용서치 않고 공격한다.
+  zh-TW:
   zh-CN: |-
     守护着伙伴墓地的猛犸，对于任何胆敢践踏墓地的盗墓者进行毫不客气的攻击。
-type: Monster
-typeline: Dinosaur
+card_type: Monster
+monster_type_line: Dinosaur
 attribute: EARTH
 level: 3
 atk: 1200

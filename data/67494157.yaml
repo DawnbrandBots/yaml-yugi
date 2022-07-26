@@ -7,10 +7,11 @@ name:
   fr: Dragon Rampant
   it: Drago Strisciante
   pt: Dragão Rastejante
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>を<ruby><rb>這</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>うドラゴン
+  ja: <ruby><rb>地</rb><rt>ち</rt></ruby>を<ruby><rb>這</rb><rt>は</rt></ruby>うドラゴン
   ja_romaji: Chi wo Hau Doragon
   ko: 땅을 기는 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 伏地龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     力が弱り、空を飛べなくなったドラゴン。しかしまだ攻撃は強い。
   ko: |-
     힘이 약해서 날 수 없게 된 드래곤. 하지만 아직 공격은 강하다.
+  zh-TW:
   zh-CN: |-
     力量弱小无法飞天的龙，但攻击还是很强的。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: EARTH
 level: 5
 atk: 1600

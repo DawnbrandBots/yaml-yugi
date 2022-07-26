@@ -7,10 +7,11 @@ name:
   fr: Cachecolion de Feu Potartiste
   it: Artistamico Sciarpaleone di Fuoco
   pt: Camarartista Mufflion de Fogo
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>ファイア・マフライオ
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>ファイア・マフライオ
   ja_romaji: Entameito Faia Mafuraio
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 파이어 머플라이오
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 파이어 머플라이오
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 火围巾狮
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、自分のＰモンスターが相手モンスターを戦闘で破壊したダメージ計算後に発動できる。その自分のモンスターは、バトルフェイズ終了時まで攻撃力が２００アップし、もう１度だけ続けて攻撃できる。
   ko: |-
     ①: 1턴에 1번, 자신의 펜듈럼 몬스터가 상대 몬스터를 전투로 파괴한 데미지 계산 후에 발동할 수 있다. 그 자신 몬스터는, 배틀 페이즈 종료시까지 공격력이 200 올리고, 1번 더 이어서 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，自己的灵摆怪兽战斗破坏对方怪兽的伤害计算后才能发动。那只自己怪兽直到战斗阶段结束时攻击力上升200，只再1次可以继续攻击。
-type: Monster
-typeline: Beast / Pendulum / Effect
+card_type: Monster
+monster_type_line: Beast / Pendulum / Effect
 attribute: FIRE
 level: 3
 atk: 800
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：自分フィールドのＰモンスターが戦闘で破壊された時に発動できる。Ｐゾーンのこのカードを特殊召喚する。
   ko: |-
     ①: 자신 필드의 펜듈럼 몬스터가 전투로 파괴되었을 때에 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上的灵摆怪兽被战斗破坏时才能发动。灵摆区域的这张卡特殊召唤。
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Maître des Armures
   it: Maestro Armatura Alanera
   pt: Mestre de Armaduras Asanegra
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－アーマード・ウィング
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－アーマード・ウィング
   ja_romaji: Burakku Fezā - Āmādo Wingu
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－아머드 윙
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－아머드 윙
   ko_rr:
+  zh-TW: BF－鎧甲之翼
   zh-CN: 黑羽-铠翼鸦
 text:
   en: |-
@@ -32,16 +33,17 @@ text:
     1 Regulador "Asanegra" + 1 ou mais monstros não-Reguladores
     Não pode ser destruído em batalha e você não sofre dano de batalha de batalhas que envolvam este card. No final da Etapa de Dano, se este card atacou um monstro: você pode colocar 1 Marcador de Cunha nesse monstro (máx. 1). Você pode remover todos os Marcadores de Cunha dos monstros do seu oponente; o ATK e a DEF dos monstros que tinham um Marcador de Cunha se tornam 0 até a Fase Final.
   ja: |-
-    「<ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>」チューナー＋チューナー以外のモンスター１体以上
-    ①：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターを攻撃したダメージステップ終了時に発動できる。そのモンスターに<ruby><rb>楔</rb><rp>（</rp><rt>くさび</rt><rp>）</rp></ruby>カウンターを１つ置く（最大１つまで）。③：相手フィールドの楔カウンターを全て取り除いて発動できる。楔カウンターが置かれていた全てのモンスターの攻撃力・守備力をターン終了時まで０にする。
+    「<ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>」チューナー＋チューナー以外のモンスター１体以上
+    ①：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターを攻撃したダメージステップ終了時に発動できる。そのモンスターに<ruby><rb>楔</rb><rt>くさび</rt></ruby>カウンターを１つ置く（最大１つまで）。③：相手フィールドの楔カウンターを全て取り除いて発動できる。楔カウンターが置かれていた全てのモンスターの攻撃力・守備力をターン終了時まで０にする。
   ko: |-
     "BF(블랙 페더)" 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드는 전투로는 파괴되지 않으며, 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ②: 이 카드가 몬스터를 공격한 데미지 스텝 종료시에 발동할 수 있다. 그 몬스터에 쐐기 카운터를 1개 놓는다(최대 1개까지). ③: 상대 필드의 쐐기 카운터를 전부 제거하고 발동할 수 있다. 쐐기 카운터가 얹혀 있는 모든 몬스터의 공격력 / 수비력을 턴 종료시까지 0 으로 한다.
+  zh-TW: "冠有「BF」之名的协调＋协调以外的怪兽1只或以上\n此卡不因战斗而破坏，因此卡的战斗发生的对我方造成的战斗伤害变为0。此卡攻击怪兽的伤害步骤结束时，可将1个楔子计数物放置至该怪兽（最多1个）。此外，透过移除对手怪兽上放置的所有楔子计数物，放置了楔子计数物的全部怪兽的攻击力、守备力直至回合结束时变为0。"
   zh-CN: |-
     「黑羽」调整＋调整以外的怪兽1只以上
     ①：这张卡不会被战斗破坏，这张卡的战斗发生的对自己的战斗伤害变成0。②：这张卡向怪兽攻击的伤害步骤结束时才能发动。给那只怪兽放置1个楔指示物（最多1个）。③：把对方场上的楔指示物全部取除才能发动。有楔指示物放置过的全部怪兽的攻击力·守备力直到回合结束时变成0。
-type: Monster
-typeline: Winged Beast / Synchro / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Synchro / Effect
 attribute: DARK
 level: 7
 atk: 2500

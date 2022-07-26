@@ -7,10 +7,11 @@ name:
   fr: Magicien Étoile de la Mort
   it: Mago Destinostella
   pt: Mago da Destrela
-  ja: <ruby><rb>凶</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>凶</rb><rt>きょう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Kyōsei no Majutsushi
   ko: 흉성의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 凶星之魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、手札を１枚捨て、自分または相手のＰゾーンのカード１枚を対象として発動できる。そのカードを破壊し、自分のデッキら１枚ドローする。
   ko: |-
     ① : 1턴에 1번, 패를 1장 버리고, 자신 또는 상대의 펜듈럼 존의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴하고, 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，丢弃1张手卡，以自己或者对方的灵摆区域1张卡为对象才能发动。那张卡破坏，自己从卡组抽1张。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1800

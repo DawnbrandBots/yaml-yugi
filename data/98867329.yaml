@@ -7,10 +7,11 @@ name:
   fr: Armements Maudits
   it: Armamenti Maledetti
   pt: Armamentos Amaldiçoados
-  ja: <ruby><rb>災</rb><rp>（</rp><rt>わざわ</rt><rp>）</rp></ruby>いの<ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>備</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>品</rb><rp>（</rp><rt>ひん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>災</rb><rt>わざわ</rt></ruby>いの<ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>備</rb><rt>び</rt></ruby><ruby><rb>品</rb><rt>ひん</rt></ruby>
   ja_romaji: Wazawai no Sōbihin
   ko: 재앙의 장착도구
   ko_rr:
+  zh-TW:
   zh-CN: 灾厄的装备品
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     装備モンスターの攻撃力は、自分フィールド上に存在するモンスターの数×６００ポイントダウンする。このカードがフィールド上から墓地へ送られた時、相手フィールド上に表側表示で存在するモンスター１体を選択してこのカードを装備する事ができる。
   ko: |-
     장착 몬스터의 공격력은 자신 필드 위에 존재하는 몬스터의 수 X 600 포인트 내린다. 이 카드가 필드 위에서 묘지로 보내졌을 때, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 이 카드를 장착할 수 있다.
+  zh-TW:
   zh-CN: |-
     装备怪兽的攻击力下降自己场上存在的怪兽数量×600的数值。这张卡从场上送去墓地时，可以选择对方场上表侧表示存在的1只怪兽把这张卡装备。
-type: Spell
+card_type: Spell
 property: Equip

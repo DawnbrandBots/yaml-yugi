@@ -7,11 +7,12 @@ name:
   fr: 'Numéro 42 : Tomahawk Galactique'
   it: 'Numero 42: Tomahawk Galattico'
   pt: 'Número 42: Tomahawk das Galáxias'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>４２ スターシップ・ギャラクシー・トマホーク
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>４２ スターシップ・ギャラクシー・トマホーク
   ja_romaji: Nanbāzu Yonjūni Sutāshippu Gyarakushī Tomahōku
   ko: No.42 스타쉽 갤럭시 토마호크
   ko_rr: Neombeojeu Sasip-i Seutaswip Gaelleoksi Tomahokeu
-  zh-CN: No.42 星舰·银河战斧鹰
+  zh-TW:
+  zh-CN: 编号42 星舰・银河战斧
 text:
   en: |-
     2 Level 7 monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 7 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 자신 필드에 "배틀 이글 토큰"(기계족 / 바람 / 레벨 6 / 공 2000 / 수 0)을 가능한 한 특수 소환한다. 이 효과로 특수 소환한 토큰은 이 턴의 엔드 페이즈에 파괴된다. 이 효과의 발동 후, 턴 종료시까지 상대가 받는 전투 데미지는 0 이 된다.
+  zh-TW:
   zh-CN: |-
-    7星怪兽×2
-    ①：1回合1次，把这张卡2个XYZ素材取除才能发动。在自己场上把「战鹰衍生物」（机械族·风·6星·攻2000/守0）尽可能特殊召唤。这个效果特殊召唤的衍生物在这个回合的结束阶段破坏。这个效果的发动后，直到回合结束时对方受到的战斗伤害变成0。
-type: Monster
-typeline: Machine / Xyz / Effect
+    等级7怪兽×2
+    ①：1回合1次，去除此卡的2个超量素材可以发动。将尽可能多的"战鹰衍生物"（机械族・风・星6・攻2000／守0）特殊召唤至自己场上。以此效果特殊召唤的衍生物将在此回合的结束阶段被破坏。此效果发动后，直至回合结束时为止，对手受到的战斗伤害变为0。
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: WIND
 rank: 7
 atk: 0

@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 23 : Lancelot, Chevalier Noir des Enfers'
   it: 'Numero 23: Lancillotto, Oscuro Cavaliere del Mondo Sotterraneo'
   pt: 'Número 23: Lancelot, Cavaleiro Negro do Submundo'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>２３ <ruby><rb>冥</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ランスロット
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>２３ <ruby><rb>冥</rb><rt>めい</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ランスロット
   ja_romaji: Nanbāzu Nijūsan Meikai no Reikishi Ransurotto
   ko: No.23 명계의 영기사 란슬롯
   ko_rr:
+  zh-TW:
   zh-CN: No.23 冥界的灵骑士 兰斯洛特
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 8 몬스터 X 2
     ①: 엑시즈 소재를 가지고 있는 이 카드는 직접 공격할 수 있다. ②: 이 카드가 상대에게 전투 데미지를 주었을 때, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. ③: 1턴에 1번, 이 카드 이외의 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때, 이 카드의 엑시즈 소재를 1개 제거하고 발동한다. 그 발동을 무효로 한다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×2
     ①：持有XYZ素材的这张卡可以直接攻击。②：这张卡给与对方战斗伤害时，以对方场上1只表侧表示怪兽为对象才能发动。那只怪兽破坏。③：1回合1次，这张卡以外的怪兽的效果·魔法·陷阱卡发动时，把这张卡1个XYZ素材取除发动。那个发动无效。
-type: Monster
-typeline: Zombie / Xyz / Effect
+card_type: Monster
+monster_type_line: Zombie / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 2000

@@ -7,10 +7,11 @@ name:
   fr: Chevalier Mirage
   it: Cavaliere Miraggio
   pt: Cavaleiro Miragem
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>－ミラージュ・ナイト－
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>－ミラージュ・ナイト－
   ja_romaji: Gen'ei no Kishi - Mirāju Naito -
   ko: 미라지 나이트
   ko_rr:
+  zh-TW:
   zh-CN: 幻影之骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは「黒炎の騎士－ブラック・フレア・ナイト－」の効果でのみ特殊召喚が可能。ダメージ計算時、このカードの攻撃力に相手モンスターの元々の攻撃力を加える。戦闘を行ったターンのエンドフェイズ時に、このカードをゲームから除外する。
   ko: |-
     이 카드는 패에서 일반 소환 / 세트할 수 없다. 이 카드는 "블랙 플레어 나이트"의 효과로만 특수 소환이 가능. 데미지 계산 시, 이 카드의 공격력에 상대 몬스터의 원래 공격력을 더한다. 전투를 실행한 턴의 엔드 페이즈시에, 이 카드를 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     这张卡用「黑炎之骑士」的效果才能特殊召唤。伤害计算时，在这张卡的攻击力外加上对方怪兽的原本攻击力。进行战斗的回合的结束阶段时，这张卡从游戏中除外。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 8
 atk: 2800

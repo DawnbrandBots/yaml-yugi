@@ -7,10 +7,11 @@ name:
   fr: Cartes Illimitées
   it: Carte Infinite
   pt: Cards Infinitos
-  ja: <ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>限</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>ふだ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>限</rb><rt>げん</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby><ruby><rb>札</rb><rt>ふだ</rt></ruby>
   ja_romaji: Mugen no Tefuda
   ko: 무한의 패
   ko_rr:
+  zh-TW:
   zh-CN: 无限的手札
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードがフィールド上に存在する限り、お互いのプレイヤーは手札枚数制限が無くなる。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 양쪽 플레이어의 패의 매수 제한은 없어진다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上存在，双方玩家没有手卡数量限制。
-type: Spell
+card_type: Spell
 property: Continuous

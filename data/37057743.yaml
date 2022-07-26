@@ -7,10 +7,11 @@ name:
   fr: Confrérie du Poing de Feu - Empereur Lion
   it: Fratellanza del Pugno di Fuoco - Imperatore Leone
   pt: Irmandade do Punho de Fogo - Imperador Leão
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>－チョウライオ
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>－チョウライオ
   ja_romaji: Enseiō - Chouraio
   ko: 염성황－초우라이오
   ko_rr: Yeomseonghwang - Chouraio
+  zh-TW: 炎星皇－晁怒獅
   zh-CN: 炎星皇-晁狮
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     화염 속성 레벨 3 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 묘지의 화염 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 화염 속성 몬스터를 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 대상 몬스터 및 그와 같은 이름의 몬스터를 일반 소환 / 특수 소환할 수 없다.
+  zh-TW: "炎属性等级3怪兽×2\n1回合1次，可移除此卡的1个超量素材并发动。选择我方墓地的1只炎属性怪兽加入手牌。此回合，不可召唤、特殊召唤被选择怪兽及其同名怪兽。"
   zh-CN: |-
     炎属性3星怪兽×2
     ①：1回合1次，把这张卡1个XYZ素材取除，以自己墓地1只炎属性怪兽为对象才能发动。那只炎属性怪兽加入手卡。这个效果的发动后，直到回合结束时自己不能把作为对象的怪兽以及那些同名怪兽召唤·特殊召唤。
-type: Monster
-typeline: Beast-Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Xyz / Effect
 attribute: FIRE
 rank: 3
 atk: 2200

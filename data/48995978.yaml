@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 88 : Poupée Truquée de Lion'
   it: 'Numero 88: Burattino Arnese del Leone'
   pt: 'Número 88: Engenhoca Marionete de Leão'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８８ ギミック・パペット－デステニー・レオ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８８ ギミック・パペット－デステニー・レオ
   ja_romaji: Nanbāzu Hachijūhachi Gimmikku Papetto - Desutenī Reo
   ko: No.88 기믹 퍼핏-데스티니 레오
   ko_rr:
+  zh-TW:
   zh-CN: No.88 机关傀儡-命运狮子
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 8 몬스터 × 3
     1턴에 1번, 자신의 마법 & 함정 카드 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 이 카드의 엑시즈 소재를 1개 제거하고, 이 카드에 데스티니 카운터를 1개 놓는다. 이 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다. 이 카드에 데스티니 카운터가 3개 얹혔을 때, 이 카드의 컨트롤러는 듀얼에서 승리한다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×3。1回合1次，自己的魔法与陷阱卡区域没有卡存在的场合才能发动。把这张卡1个XYZ素材取除，给这张卡放置1个「命运指示物」。这个效果发动的回合，自己不能进行战斗阶段。这张卡有3个「命运指示物」放置时，这张卡的控制者决斗胜利。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 3200

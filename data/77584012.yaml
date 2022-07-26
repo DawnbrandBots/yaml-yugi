@@ -7,10 +7,11 @@ name:
   fr: Pseudo Espace
   it: Pseudo Spazio
   pt: Pseudo Espaço
-  ja: <ruby><rb>擬</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby><rb>似</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby><ruby><rb>間</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>擬</rb><rt>ぎ</rt></ruby><ruby><rb>似</rb><rt>じ</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby><ruby><rb>間</rb><rt>かん</rt></ruby>
   ja_romaji: Gijikūkan
   ko: 유사공간
   ko_rr:
+  zh-TW:
   zh-CN: 拟似空间
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：１ターンに１度、自分の墓地からフィールド魔法カード１枚を除外して発動できる。エンドフェイズまで、このカードは除外したカードと同名カードとして扱い、同じ効果を得る。
   ko: |-
     ①: 1턴에 1번, 자신의 묘지에서 필드 마법 카드 1장을 제외하고 발동할 수 있다. 엔드 페이즈까지, 이 카드는 제외한 카드와 같은 이름의 카드로 취급하고, 같은 효과를 얻는다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，从自己墓地把1张场地魔法卡除外才能发动。直到结束阶段，这张卡当作和除外的卡同名卡使用，得到相同效果。
-type: Spell
+card_type: Spell
 property: Field

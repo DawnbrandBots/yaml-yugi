@@ -7,10 +7,11 @@ name:
   fr: Garde-à-Vous!
   it: Attenzione!
   pt: Atenção!
-  ja: <ruby><rb>統</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>制</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>訓</rb><rp>（</rp><rt>くん</rt><rp>）</rp></ruby><ruby><rb>練</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>統</rb><rt>とう</rt></ruby><ruby><rb>制</rb><rt>せい</rt></ruby><ruby><rb>訓</rb><rt>くん</rt></ruby><ruby><rb>練</rb><rt>れん</rt></ruby>
   ja_romaji: Tōsei Kunren
   ko: 통제 훈련
   ko_rr:
+  zh-TW:
   zh-CN: 统制训练
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手フィールド上に表側表示で存在するレベル５以下のモンスター１体を選択して発動する。フィールド上に表側表示で存在する、それ以外のレベルを持つモンスターを全て破壊する。
   ko: |-
     상대 필드 위에 앞면 표시로 존재하는 레벨 5 이하의 몬스터 1장을 선택하고 발동한다. 필드 위에 앞면 표시로 존재하는, 그 이외의 레벨을 가진 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     选择对方场上表侧表示存在的1只5星以下的怪兽发动。场上表侧表示存在的持有那以外的等级的怪兽全部破坏。
-type: Trap
+card_type: Trap
 property: Normal

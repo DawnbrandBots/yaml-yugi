@@ -7,10 +7,11 @@ name:
   fr: Iris, la Mère de la Terre
   it: Iris, la Madre Terra
   pt:
-  ja: <ruby><rb>地母神</rb><rp>（</rp><rt>アースマザー</rt><rp>）</rp></ruby>アイリス
+  ja: <ruby><rb>地母神</rb><rt>アースマザー</rt></ruby>アイリス
   ja_romaji: Āsu Mazā Airisu
   ko: 어스 마더 아이리스
   ko_rr:
+  zh-TW:
   zh-CN: 地母神 艾莉丝
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     チェーンが３つ積まれた場合、自分のデッキからカードを１枚ドローする。同一チェーン上に複数回同名カードの効果が発動されている場合、この効果は発動できない。
   ko: |-
     체인이 3개 이상 쌓였을 경우, 자신의 덱에서 카드를 1장 드로우한다. 동일한 체인 위에 여러 번 같은 이름의 카드 효과가 발동되고 있을 경우, 이 효과는 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     连锁有3个积累的场合，从自己卡组抽1张卡。同一连锁上有复数次同名卡的效果发动的场合，这个效果不能发动。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 6
 atk: 2400

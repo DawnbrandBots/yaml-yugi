@@ -7,11 +7,12 @@ name:
   fr: Les Chevaliers Fantômes de l'Épée Brisée
   it: I Cavalieri Fantasma della Spada Infranta
   pt: Os Cavaleiros Fantasmas da Espada Quebrada
-  ja: <ruby><rb>幻影騎士団</rb><rp>（</rp><rt>ファントム・ナイツ</rt><rp>）</rp></ruby>ブレイクソード
+  ja: <ruby><rb>幻影騎士団</rb><rt>ファントム・ナイツ</rt></ruby>ブレイクソード
   ja_romaji: Fantomu Naitsu Bureiku Sōdo
   ko: 팬텀 나이츠 브레이크스워드
   ko_rr: Paenteom Naicheu Beureikeuseuwodeu
-  zh-CN: 幻影骑士团 断碎剑
+  zh-TW:
+  zh-CN: 魅影骑士团断碎剑
 text:
   en: |-
     2 Level 3 monsters
@@ -33,15 +34,16 @@ text:
     Uma vez por turno: você pode desassociar 1 matéria deste card e, depois, escolha 1 card que você controla e 1 card que seu oponente controla; destrua-os. Se este card Invocado por Invocação-Xyz for destruído: você pode escolher 2 monstros "Os Cavaleiros Fantasmas" com o mesmo Nível no seu Cemitério; Invoque-os por Invocação-Especial e aumente o Nível deles em 1 e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros de TREVAS.
   ja: |-
     レベル３モンスター×２
-    ①：１ターンに１度、このカードの<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>素材を１つ取り除き、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。②：<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>召喚されたこのカードが破壊された場合、自分の墓地の同じレベルの「幻影騎士団」モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターのレベルは１つ上がる。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
+    ①：１ターンに１度、このカードの<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>素材を１つ取り除き、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。②：<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>召喚されたこのカードが破壊された場合、自分の墓地の同じレベルの「幻影騎士団」モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターのレベルは１つ上がる。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
   ko: |-
     레벨 3 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 및 상대 필드의 카드를 1장씩 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. ②: 엑시즈 소환된 이 카드가 파괴되었을 경우, 자신 묘지의 같은 레벨의 "팬텀 나이츠" 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터의 레벨은 1개 올라간다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    3星怪兽×2
-    ①：1回合1次，把这张卡1个XYZ素材取除，以自己以及对方场上的卡各1张为对象才能发动。那些卡破坏。②：XYZ召唤的这张卡被破坏的场合，以自己墓地2只相同等级的「幻影骑士团」怪兽为对象才能发动。那些怪兽特殊召唤。这个效果特殊召唤的怪兽的等级上升1星。这个效果的发动后，直到回合结束时自己不是暗属性怪兽不能特殊召唤。
-type: Monster
-typeline: Warrior / Xyz / Effect
+    等级3怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材，以自己以及对手场上的卡各1张为对象可以发动。将该卡破坏。②：超量召唤的此卡被破坏的情况下，以自己墓地2只相同等级的"魅影骑士团"怪兽为对象可以发动。将该怪兽特殊召唤。以此效果特殊召唤的怪兽的等级上升1。此效果发动后，直至回合结束时为止自己仅可特殊召唤暗属性怪兽。
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: DARK
 rank: 3
 atk: 2000

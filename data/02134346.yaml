@@ -7,10 +7,11 @@ name:
   fr: Prêtre d'Asura
   it: Prete Asura
   pt: Sacerdote Asura
-  ja: <ruby><rb>阿</rb><rp>（</rp><rt>ア</rt><rp>）</rp></ruby><ruby><rb>修</rb><rp>（</rp><rt>ス</rt><rp>）</rp></ruby><ruby><rb>羅</rb><rp>（</rp><rt>ラ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>阿</rb><rt>ア</rt></ruby><ruby><rb>修</rb><rt>ス</rt></ruby><ruby><rb>羅</rb><rt>ラ</rt></ruby>
   ja_romaji: Asura
   ko: 아수라
   ko_rr:
+  zh-TW:
   zh-CN: 阿修罗
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。このカードは相手フィールド上に存在する全てのモンスターに１回ずつ攻撃をする事ができる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 일반 소환 / 리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌아 간다. 상대 필드 위의 모든 몬스터에 1회씩 공격을 할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。召唤·反转的回合的结束阶段时回到持有者手卡。这张卡可以向对方场上存在的全部怪兽各作1次攻击。
-type: Monster
-typeline: Fairy / Spirit
+card_type: Monster
+monster_type_line: Fairy / Spirit
 attribute: LIGHT
 level: 4
 atk: 1700

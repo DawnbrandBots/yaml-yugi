@@ -7,10 +7,11 @@ name:
   fr: Acquéreur de Compétence à un Œil
   it: Guadagna Abilità Occhio-Solo
   pt:
-  ja: <ruby><rb>隻</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby><ruby><rb>眼</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby>のスキル・ゲイナー
+  ja: <ruby><rb>隻</rb><rt>せき</rt></ruby><ruby><rb>眼</rb><rt>がん</rt></ruby>のスキル・ゲイナー
   ja_romaji: Sekigan no Sukiru Geinā
   ko: 애꾸눈의 스킬 게이너
   ko_rr:
+  zh-TW: 獨眼學藝者
   zh-CN: 独眼学艺者
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 4 몬스터 × 3
     이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 엑시즈 몬스터 1장을 선택하여 발동할 수 있다. 이 카드는 선택한 몬스터와 같은 이름의 카드로 취급하고, 같은 효과를 얻는다. 이 효과는 이 카드가 필드 위에 앞면 표시로 존재하는 한, 1번밖에 사용할 수 없다.
+  zh-TW: "等级4怪兽×3\n可移除此卡的1个超量素材，选择对手场上的1只超量怪兽并发动。此卡被视为与被选择怪兽的同名卡，获得相同效果。只要此卡以表侧表示存在于场上，此效果只可使用1次。"
   zh-CN: |-
     4星怪兽×3。把这张卡1个XYZ素材取除，选择对方场上1只XYZ怪兽才能发动。这张卡当作和选择的怪兽同名卡使用，得到相同效果。这个效果只在这张卡在场上表侧表示存在能使用1次。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 4
 atk: 2500

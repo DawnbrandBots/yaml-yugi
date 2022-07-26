@@ -7,10 +7,11 @@ name:
   fr: Guerrier de Bataille
   it: Guerriero da Battaglia
   pt: Guerreiro Batalhador
-  ja: <ruby><rb>格</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>アルティメーター
+  ja: <ruby><rb>格</rb><rt>かく</rt></ruby><ruby><rb>闘</rb><rt>とう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>アルティメーター
   ja_romaji: Kakutō Senshi Arutimētā
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 格斗战士 阿提米特
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     武器をいっさい使わず、素手で戦いぬく格闘戦士。
   ko:
+  zh-TW:
   zh-CN: |-
     不使用任何武器，空手战斗的格斗战士。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 3
 atk: 700

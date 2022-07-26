@@ -7,11 +7,12 @@ name:
   fr: Ruée sur Rails du Pégase Volant
   it: Assalto Ferroviario Pegaso Volante
   pt: Ferrovia Célere Pégaso Alado
-  ja: <ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>走</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>軌</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>フライング・ペガサス
+  ja: <ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>走</rb><rt>そう</rt></ruby><ruby><rb>軌</rb><rt>き</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby>フライング・ペガサス
   ja_romaji: Bakusō Kidō Furaingu Pegasasu
   ko: 폭주궤도 플라잉 페가수스
   ko_rr: Pokjugwedo Peullaing Pegasuseu
-  zh-CN: 爆走轨道 冲天飞马
+  zh-TW:
+  zh-CN: 爆走轨道飞翔天马
 text:
   en: |-
     If this card is Normal or Special Summoned: You can target 1 EARTH Machine monster in your GY, except "Flying Pegasus Railroad Stampede"; Special Summon it in Defense Position, but negate its effects. You can target 1 other face-up monster you control; the Level of that monster or this card becomes the Level of the other. You cannot declare attacks the turn you activate this effect, except with Xyz Monsters. You can only use each effect of "Flying Pegasus Railroad Stampede" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、「爆走軌道フライング・ペガサス」以外の自分の墓地の機械族・地属性モンスター１体を対象として発動できる。そのモンスターを効果を無効にして守備表示で特殊召喚する。②：このカード以外の自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのレベルは、その内の１体のレベルと同じになる。この効果を発動するターン、自分はＸモンスターでしか攻撃宣言できない。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, "폭주궤도 플라잉 페가수스" 이외의 자신 묘지의 기계족 / 땅 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 효과를 무효로 하고 수비 표시로 특수 소환한다. ②: 이 카드 이외의 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와 이 카드의 레벨은, 그 중의 1장의 레벨과 같아진다. 이 효과를 발동하는 턴에, 자신은 엑시즈 몬스터로밖에 공격 선언할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡召唤·特殊召唤成功的场合，以「爆走轨道 冲天飞马」以外的自己墓地1只机械族·地属性怪兽为对象才能发动。那只怪兽效果无效守备表示特殊召唤。
-    ②：以这张卡以外的自己场上1只表侧表示怪兽为对象才能发动。那只怪兽和这张卡的等级变成和那之内的1只的等级相同。这个效果发动的回合，自己不用超量怪兽不能攻击宣言。
-type: Monster
-typeline: Machine / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤成功的情况下，可以“爆走轨道飞翔天马”以外的自己墓地的1只机械族・地属性怪兽为对象发动。将该怪兽的效果无效，以守备表示特殊召唤。②：可以此卡以外的自己场上的1只表侧表示怪兽为对象发动。该怪兽和此卡的等级变为和其中1只的等级相同。发动此效果的回合中，自己仅可用超量怪兽进行攻击宣言。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1800

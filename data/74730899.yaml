@@ -7,10 +7,11 @@ name:
   fr: Homme-Batterie à Combustible
   it: Uomo Batteria Cella Carburante
   pt: Homem-Bateria Célula Combustível
-  ja: <ruby><rb>燃</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby><ruby><rb>料</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>池</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>メン
+  ja: <ruby><rb>燃</rb><rt>ねん</rt></ruby><ruby><rb>料</rb><rt>りょう</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>池</rb><rt>ち</rt></ruby>メン
   ja_romaji: Nenryō Denchimen
   ko: 연료전지맨
   ko_rr:
+  zh-TW:
   zh-CN: 燃料电池人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に「電池メン」と名のついたモンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。１ターンに１度、このカード以外の自分フィールド上の「電池メン」と名のついたモンスター１体をリリースして発動できる。相手フィールド上のカード１枚を選択して持ち主の手札に戻す。
   ko: |-
     자신 필드 위에 "전지맨"이라는 이름이 붙은 몬스터가 앞면 표시로 2장 이상 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. 1턴에 1번, 이 카드 이외의 자신 필드 위에 존재하는 "전지맨"이라는 이름이 붙은 몬스터 1장을 릴리스하는 것으로, 상대 필드 위에 존재하는 카드 1장을 선택하고, 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     自己场上有名字带有「电池人」的怪兽2只以上存在的场合，这张卡可以从手卡特殊召唤。1回合1次，把这张卡以外的自己场上1只名字带有「电池人」的怪兽解放才能发动。选择对方场上1张卡回到持有者手卡。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 6
 atk: 2100

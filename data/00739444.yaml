@@ -11,7 +11,8 @@ name:
   ja_romaji: Magajin Doramugon
   ko: 매거진드럼곤
   ko_rr: Maegeojindereomgon
-  zh-CN: 弹鼓龙
+  zh-TW:
+  zh-CN: 弹匣龙
 text:
   en: |-
     3 DARK Dragon monsters
@@ -37,18 +38,17 @@ text:
   ko: |-
     드래곤족 / 어둠 속성 몬스터 3장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 이 카드의 ①의 효과를 적용한 턴에 이 카드가 몬스터 존에 존재하는 한, 이 카드의 링크 앞이 되는 사용하고 있지 않은 몬스터 존은 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
-    龙族·暗属性怪兽3只
-    这个卡名的①的效果1回合只能使用1次。
-    ①：这张卡特殊召唤成功的场合才能发动。自己从卡组抽1张。
-    ②：这张卡的①的效果适用的回合只要这张卡在怪兽区域存在，作为这张卡所连接区的没有使用的怪兽区域不能使用。
-type: Monster
-typeline: Dragon / Link / Effect
+    龙族・暗属性怪兽3只
+    此卡名的①效果1回合仅可使用1次。①：此卡特殊召唤成功的情况下可以发动。自己从牌组抽1张。②：适用此卡的①效果的回合，只要此卡存在于怪兽区域，此卡连接端的未使用的怪兽区域不可使用。
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ⬇
+- ➡
 atk: 1000
 materials: 3 DARK Dragon monsters
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Archère Amazonesse
   it: Imboscata Amazoness
   pt: Arqueiros Amazoness
-  ja: アマゾネスの<ruby><rb>弩</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>弓</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: アマゾネスの<ruby><rb>弩</rb><rt>ど</rt></ruby><ruby><rb>弓</rb><rt>きゅう</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Amazonesu no Dokyūtai
   ko: 아마조네스의 궁수대
   ko_rr:
+  zh-TW:
   zh-CN: 亚马逊弩弓队
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手の攻撃宣言時に、自分フィールド上に「アマゾネス」という名のついたモンスターが存在する場合のみ発動する事ができる。相手フィールド上の全てのモンスターは表側攻撃表示になり（リバース効果は発動しない）、攻撃力は５００ポイントダウンする。相手は全てのモンスターで攻撃しなければならない。
   ko: |-
     상대가 공격 선언시, 자신 필드 위에 "아마조네스"라는 이름이 붙은 몬스터가 존재할 경우에만 발동할 수 있다. 상대 필드 위의 모든 몬스터는 앞면 공격 표시가 되어(리버스 효과는 발동하지 않는다), 공격력은 500 포인트 내린다. 상대는 모든 몬스터로 공격해야 한다.
+  zh-TW:
   zh-CN: |-
     对方的攻击宣言时，自己场上有名字带有「亚马逊」的怪兽存在的场合才能发动。对方场上的全部怪兽变成表侧攻击表示（反转效果不发动），攻击力下降500。对方必须让全部怪兽作出攻击。
-type: Trap
+card_type: Trap
 property: Normal

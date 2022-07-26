@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 11 : Gros Œil'
   it: 'Numero 11: Grande Occhio'
   pt: 'Número 11: Grande Olho'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１１ ビッグ・アイ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１１ ビッグ・アイ
   ja_romaji: Nanbāzu Jūichi Biggu Ai
   ko: No.11 빅 아이
   ko_rr:
+  zh-TW:
   zh-CN: No.11 巨眼
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 7 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드 위에 존재하는 몬스터 1장의 컨트롤을 얻는다. 이 효과를 사용한 턴, 이 카드는 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
     7星怪兽×2
     1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只怪兽才能发动。得到选择的怪兽的控制权。这个效果发动的回合，这张卡不能攻击。
-type: Monster
-typeline: Spellcaster / Xyz / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Xyz / Effect
 attribute: DARK
 rank: 7
 atk: 2600

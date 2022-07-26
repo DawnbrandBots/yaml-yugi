@@ -7,11 +7,12 @@ name:
   fr: Homme-Batterie 9V
   it: Uomo Batteria 9-Volt
   pt: Homem-Bateria 9-Volts
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>池</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>メン－<ruby><rb>角</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>型</rb><rp>（</rp><rt>がた</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>池</rb><rt>ち</rt></ruby>メン－<ruby><rb>角</rb><rt>かく</rt></ruby><ruby><rb>型</rb><rt>がた</rt></ruby>
   ja_romaji: Denchimen - Kakugata
   ko: 전지맨-9볼트
   ko_rr:
-  zh-CN: 电池人-角型
+  zh-TW:
+  zh-CN: 电池人－角型
 text:
   en: |-
     When this card is Summoned: You can add 1 "Batteryman" monster from your Deck to your hand, and if you do, this card's ATK and DEF become double its original ATK and DEF. You can only use this effect of "Batteryman 9-Volt" once per turn. During your End Phase: Destroy this card.
@@ -29,12 +30,11 @@ text:
     「電池メン－角型」の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・反転召喚・特殊召喚に成功した時に発動できる。デッキから「電池メン」モンスター１体を手札に加え、このカードの攻撃力・守備力は元々の倍になる。②：自分のエンドフェイズに発動する。このカードを破壊する。
   ko: |-
     "전지맨-9볼트" 의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때 발동할 수 있다. 덱에서 "전지맨" 몬스터 1장을 패에 넣고, 이 카드의 공격력 / 수비력을 원래의 2배로 한다. ② : 자신의 엔드 페이즈에 발동한다. 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    「电池人-角型」的①的效果一回合只能使用一次。
-    ①：这张卡召唤·反转召唤·特殊召唤成功时才能发动。从卡组把1只「电池人」怪兽加入手卡，这张卡的攻击力·守备力变成原本的2倍。
-    ②：自己结束阶段发动。这张卡破坏。
-type: Monster
-typeline: Thunder / Effect
+    此卡名的①效果1回合仅可使用1次。①：此卡召唤・反转召唤・特殊召唤成功时可以发动。从牌组将1只"电池人"怪兽加入手牌，此卡的攻击力・守备力改成原本的两倍。②：在自己的结束阶段发动。将此卡破坏。
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 1000

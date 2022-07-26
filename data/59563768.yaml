@@ -7,10 +7,11 @@ name:
   fr: Tenshin
   it: Tenshin
   pt:
-  ja: <ruby><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>身</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>テンシーン
+  ja: <ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>身</rb><rt>しん</rt></ruby>テンシーン
   ja_romaji: Tenshin Tenshīn
   ko: 턴오버 텐신
   ko_rr:
+  zh-TW:
   zh-CN: 转身天使
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードの攻撃力は、自分フィールド上に表側表示で存在するレベル２のモンスターの数×４００ポイントアップする。
   ko: |-
     이 카드의 공격력은, 자신 필드 위에 앞면 표시로 존재하는 레벨 2 몬스터의 수 X 400 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     这张卡的攻击力上升自己场上表侧表示存在的2星怪兽数量×400的数值。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 2
 atk: 800

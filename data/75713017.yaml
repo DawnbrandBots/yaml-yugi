@@ -7,10 +7,11 @@ name:
   fr: Prométéore, l'Étoile Brûlante
   it: Prometeor, la Stella Bruciante
   pt: Prometeoro, a Estrela Ardente
-  ja: <ruby><rb>燎</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>のプロメテオロン
+  ja: <ruby><rb>燎</rb><rt>りょう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>のプロメテオロン
   ja_romaji: Ryōsei no Purometeoron
   ko: 요성의 프로메테오론
   ko_rr: Yoseong-ui Peuromete-oron
+  zh-TW:
   zh-CN: 燎星之天火流星神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃でメインモンスターゾーンの相手モンスターを破壊した時、手札を１枚捨てて発動できる。このカードは続けて攻撃できる。次のターンの終了時まで、そのモンスターが存在していたゾーンは使用できない。
   ko: |-
     ①: 이 카드의 공격으로 메인 몬스터 존의 상대 몬스터를 파괴했을 때, 패를 1장 버리고 발동할 수 있다. 이 카드는 이어서 공격할 수 있다. 다음 턴의 종료시까지, 그 몬스터가 존재하고 있던 존은 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击破坏主要怪兽区域的对方怪兽时，丢弃1张手卡才能发动。这张卡可以继续攻击。直到下个回合的结束时，那只怪兽存在过的区域不能使用。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: FIRE
 level: 8
 atk: 2800

@@ -7,10 +7,11 @@ name:
   fr: Esprit du Vent d'Automne
   it: Spirito del Vento d'Autunno
   pt: Espírito do Vento de Outono
-  ja: <ruby><rb>裏</rb><rp>（</rp><rt>うら</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>裏</rb><rt>うら</rt></ruby><ruby><rb>風</rb><rt>かぜ</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
   ja_romaji: Urakaze no Seirei
   ko: 이풍의 정령
   ko_rr:
+  zh-TW:
   zh-CN: 里风之精灵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚に成功した場合に発動できる。デッキからリバースモンスター１体を手札に加える。
   ko: |-
     ① : 이 카드가 일반 소환에 성공했을 경우에 발동할 수 있다. 덱에서 리버스 몬스터 1장를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合才能发动。从卡组把1只反转怪兽加入手卡。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: WIND
 level: 4
 atk: 1800

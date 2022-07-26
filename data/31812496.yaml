@@ -7,10 +7,11 @@ name:
   fr: Statue de Pierre des Aztèques
   it: Statua di Pietra degli Aztechi
   pt: Estátua de Pedra dos Astecas
-  ja: アステカの<ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby><ruby><rb>像</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>
+  ja: アステカの<ruby><rb>石</rb><rt>せき</rt></ruby><ruby><rb>像</rb><rt>ぞう</rt></ruby>
   ja_romaji: Asuteka no Sekizō
   ko: 아즈텍의 석상
   ko_rr:
+  zh-TW:
   zh-CN: 阿兹特克石像
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが攻撃された場合、その戦闘で発生する相手への戦闘ダメージは倍になる。
   ko: |-
     이 몬스터를 공격했을 때 상대 플레이어가 전투 데미지를 받을 경우, 그 수치는 배가 된다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被攻击的场合，那次战斗发生的对对方的战斗伤害变成2倍。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 4
 atk: 300

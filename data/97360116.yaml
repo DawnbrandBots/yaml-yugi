@@ -7,10 +7,11 @@ name:
   fr: Guerrier Inconnu du Démon
   it: Guerriero Sconosciuto
   pt: Guerreiro Demoníaco Desconhecido
-  ja: <ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby>の<ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>名</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>悪</rb><rt>あく</rt></ruby>の<ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>名</rb><rt>めい</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Aku no Mumei Senshi
   ko: 악의 무명전사
   ko_rr:
+  zh-TW:
   zh-CN: 恶之无名战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     素早い動きで真空を作り出し、相手を切り刻む戦士。
   ko: |-
     재빠른 움직임과 검술로 눈깜짝할 사이에 상대를 베는 전사.
+  zh-TW:
   zh-CN: |-
     用敏捷的动作产生真空、切碎对方的战士。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: DARK
 level: 3
 atk: 1000

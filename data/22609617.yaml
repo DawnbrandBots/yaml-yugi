@@ -7,10 +7,11 @@ name:
   fr: Mataza le Zappeur
   it: Mataza l'Assassino Fulmineo
   pt: Mataza, o Surpreendente
-  ja: <ruby><rb>不</rb><rp>（</rp><rt>ふ</rt><rp>）</rp></ruby><ruby><rb>意</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>打</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby>ち<ruby><rb>又</rb><rp>（</rp><rt>また</rt><rp>）</rp></ruby><ruby><rb>佐</rb><rp>（</rp><rt>ざ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>不</rb><rt>ふ</rt></ruby><ruby><rb>意</rb><rt>い</rt></ruby><ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>又</rb><rt>また</rt></ruby><ruby><rb>佐</rb><rt>ざ</rt></ruby>
   ja_romaji: Fuiuchi Mataza
   ko: 기습 공격 마타자
   ko_rr:
+  zh-TW:
   zh-CN: 奇袭的又佐
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは１度のバトルフェイズ中に２回攻撃する事ができる。このカードは表側表示でフィールド上に存在する限り、コントロールを変更する事はできない。
   ko: |-
     이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. 이 카드는 앞면 표시로 필드 위에 존재하는 한, 컨트롤을 변경할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡在同1次的战斗阶段中可以作2次攻击。这张卡只要表侧表示在场上存在，控制权不能变更。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 3
 atk: 1300

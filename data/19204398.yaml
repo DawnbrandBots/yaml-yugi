@@ -7,10 +7,11 @@ name:
   fr: Contemplateur de Lumière, Allié de la Justice
   it: Osservatore Luminoso Alleato della Giustizia
   pt:
-  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rp>（</rp><rt>アーリー・オブ・ジャスティス</rt><rp>）</rp></ruby> ライト・ゲイザー
+  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rt>アーリー・オブ・ジャスティス</rt></ruby> ライト・ゲイザー
   ja_romaji: Ārī obu Jasutisu Raito Geizā
   ko: A·O·J 라이트 게이저
   ko_rr:
+  zh-TW:
   zh-CN: 正义盟军 灯眼怪
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장 이상
     ①: 이 카드의 공격력은, 상대 묘지의 빛 속성 몬스터의 수 × 200 올린다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这张卡的攻击力上升对方墓地的光属性怪兽数量×200的数值。
-type: Monster
-typeline: Machine / Synchro / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: DARK
 level: 8
 atk: 2400

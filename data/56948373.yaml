@@ -7,10 +7,11 @@ name:
   fr: Masque du Maudit
   it: Maschera del Maledetto
   pt: Máscara dos Amaldiçoados
-  ja: <ruby><rb>呪</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby><rb>魂</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby>の<ruby><rb>仮</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>面</rb><rp>（</rp><rt>めん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>呪</rb><rt>じゅ</rt></ruby><ruby><rb>魂</rb><rt>こん</rt></ruby>の<ruby><rb>仮</rb><rt>か</rt></ruby><ruby><rb>面</rb><rt>めん</rt></ruby>
   ja_romaji: Jukon no Kamen
   ko: 저주의 가면
   ko_rr:
+  zh-TW:
   zh-CN: 咒魂之假面
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     装備モンスターは攻撃する事ができない。また、自分のスタンバイフェイズ毎に、装備モンスターのコントローラーに５００ポイントダメージを与える。
   ko: |-
     이 카드를 장착한 몬스터는 공격할 수 없다. 장착 몬스터의 컨트롤러는 자신의 스텐바이 페이즈마다 500 포인트의 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     装备怪兽不能攻击。此外，每次自己的准备阶段，给与装备怪兽的控制者500分伤害。
-type: Spell
+card_type: Spell
 property: Equip

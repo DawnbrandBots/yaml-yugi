@@ -7,11 +7,12 @@ name:
   fr: Fée Mystique Elfuria
   it: Fata Mistica Elfuria
   pt: Fada Mística Elfuria
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>秘</rb><rp>（</rp><rt>ぴ</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>秘</rb><rt>ぴ</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>
     エルフィリア
   ja_romaji: Shinpi no Yōsei Erufiria
   ko: 신비의 요정 엘피리아
   ko_rr:
+  zh-TW: 神秘妖精 艾爾芙莉亞
   zh-CN: 神秘之妖精 艾尔菲莉娅
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     １ターンに１度、手札の風属性モンスター１体を相手に見せて発動できる。次の相手のエンドフェイズまで、お互いのプレイヤーは、見せたモンスターのレベル以外のレベルを持つモンスターを素材としてエクシーズ召喚する事はできない。
   ko: |-
     1턴에 1번, 패의 바람 속성 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 다음 상대의 엔드 페이즈시까지 양쪽 플레이어는 보여준 몬스터의 레벨 이외의 레벨을 가지는 몬스터를 소재로서 엑시즈 소환할 수 없다.
+  zh-TW: 1回合1次，可向对手展示手牌的1只风属性怪兽并发动。直至下一个对手的回合结束时，双方玩家不可将拥有展示怪兽的等级以外等级的怪兽作为素材超量召唤。
   zh-CN: |-
     1回合1次，把手卡1只风属性怪兽给对方观看才能发动。直到下次的对方的结束阶段时，双方玩家不能用持有给人观看的怪兽的等级以外的等级的怪兽为素材作XYZ召唤。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 3
 atk: 1500

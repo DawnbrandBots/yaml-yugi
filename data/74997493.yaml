@@ -7,11 +7,12 @@ name:
   fr: Saryuja Terreur du Crâne
   it: Teschio Terrore Saryuja
   pt: Caveira Ameaçadora Saryuja
-  ja: <ruby><rb>鎖</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>蛇</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>－スカルデット
+  ja: <ruby><rb>鎖</rb><rt>さ</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby><ruby><rb>蛇</rb><rt>じゃ</rt></ruby>－スカルデット
   ja_romaji: Saryūja - Sukarudetto
   ko: 쇄룡사-스컬데드
   ko_rr:
-  zh-CN: 锁龙蛇-骷髅四面鬼
+  zh-TW:
+  zh-CN: 锁龙蛇－骷髅四尸
 text:
   en: |-
     2+ monsters with different names
@@ -55,20 +56,19 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장 이상
     ①: 이 카드는, 이 카드의 링크 소재로 한 몬스터의 수에 따라 이하의 효과를 얻는다. ●2장 이상: 이 카드의 링크 앞에 몬스터가 일반 소환 / 특수 소환되었을 경우에 발동한다. 그 몬스터의 공격력 / 수비력은 300 올린다. ●3장 이상: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 몬스터 1장을 특수 소환한다. ●4장: 이 카드가 링크 소환에 성공했을 때에 발동할 수 있다. 자신은 덱에서 4장 드로우하고, 그 후 패를 3장 골라 좋아하는 순서대로 덱의 아래로 되돌린다.
+  zh-TW:
   zh-CN: |-
     卡名不同的怪兽2只以上
-    ①：这张卡得到作为这张卡的连接素材的怪兽数量的以下效果。
-    ●2只以上：这张卡所连接区有怪兽召唤·特殊召唤的场合发动。那些怪兽的攻击力·守备力上升300。
-    ●3只以上：1回合1次，自己主要阶段才能发动。从手卡把1只怪兽特殊召唤。
-    ●4只：这张卡连接召唤成功时才能发动。自己从卡组抽4张，那之后选3张手卡用喜欢的顺序回到卡组下面。
-type: Monster
-typeline: Dragon / Link / Effect
+    ①：根据作为此卡的连接素材的怪兽数量，此卡获得以下效果。
+    ●2只以上：怪兽被召唤・特殊召唤至此卡连接端的情况下发动。该怪兽的攻击力・守备力上升300。●3只以上：1回合1次，在自己的主要阶段可以发动。从手牌将1只怪兽特殊召唤。●4只：此卡连接召唤成功时可以发动。自己从牌组抽4张，然后挑选3张手牌以喜欢的顺序放回牌组下面。
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
-- Top-Center
+- ↙
+- ⬇
+- ↘
+- ⬆
 atk: 2800
 sets:
   en:

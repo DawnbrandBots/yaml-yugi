@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 49 : Mélodie de Chance'
   it: 'Numero 49: Sintonia della Fortuna'
   pt: 'Número 49: Melovidente'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>４９ <ruby><rb>秘</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>フォーチュンチュン
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>４９ <ruby><rb>秘</rb><rt>ひ</rt></ruby><ruby><rb>鳥</rb><rt>ちょう</rt></ruby>フォーチュンチュン
   ja_romaji: Nanbāzu Yonjūkyū Hichō Fōchun Chun
   ko: No.49 비조 포츈츈
   ko_rr:
+  zh-TW:
   zh-CN: No.49 秘鸟 幸运啾啾鸟
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 3 몬스터 × 2
     자신의 스텐바이 페이즈마다 자신은 500 라이프 포인트를 회복한다. 필드 위의 이 카드는 카드 효과의 대상이 되지 않는다. 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 또한, 이 카드가 필드 위에서 묘지로 보내졌을 때, 자신 묘지의 레벨 3 몬스터 2장을 선택하고 발동한다. 선택한 2장을 덱으로 되돌리고, 묘지의 이 카드를 엑스트라 덱으로 되돌린다. "No.49 비조 포츈츈" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     3星怪兽×2。每次自己的准备阶段自己回复500基本分。场上的这张卡不会成为卡的效果的对象。这张卡被破坏的场合，可以作为代替把这张卡1个XYZ素材取除。此外，这张卡从场上送去墓地时，选择自己墓地2只3星怪兽发动。选择的2只回到卡组，墓地的这张卡回到额外卡组。「No.49 秘鸟 幸运啾啾鸟」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Winged Beast / Xyz / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Xyz / Effect
 attribute: LIGHT
 rank: 3
 atk: 400

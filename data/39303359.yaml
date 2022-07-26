@@ -7,10 +7,11 @@ name:
   fr: Chevalier Rouages Ancients
   it: Cavaliere-Ingranaggio Antico
   pt: Cavaleiro do Mecanismo Antigo
-  ja: <ruby><rb>古代の機械騎士</rb><rp>（</rp><rt>アンティーク・ギアナイト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>古代の機械騎士</rb><rt>アンティーク・ギアナイト</rt></ruby>
   ja_romaji: Antīku Gianaito
   ko: 앤틱 기어 나이트
   ko_rr:
+  zh-TW:
   zh-CN: 古代的机械骑士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     ① : 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ② : 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되고, 이하의 효과를 얻는다.
     ● 이 카드가 공격할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡只要在场上·墓地存在，当作通常怪兽使用。②：可以把场上的当作通常怪兽使用的这张卡当作通常召唤作再1次召唤。那个场合这张卡变成当作效果怪兽使用并得到以下效果。
     ●这张卡攻击的场合，对方直到伤害步骤结束时不能把魔法·陷阱卡发动。
-type: Monster
-typeline: Machine / Gemini / Effect
+card_type: Monster
+monster_type_line: Machine / Gemini / Effect
 attribute: EARTH
 level: 4
 atk: 1800

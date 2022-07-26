@@ -7,10 +7,11 @@ name:
   fr: Guêpe de Bataille - Arbalest le Feurapide
   it: Vespabattaglia - Arbalest il Fuocorapido
   pt: Vespabatalha - Arbalest, o Fogorápido
-  ja: <ruby><rb>Ｂ・Ｆ</rb><rp>（</rp><rt>ビー・フォース</rt><rp>）</rp></ruby>－<ruby><rb>早</rb><rp>（</rp><rt>はや</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby>ちのアルバレスト
+  ja: <ruby><rb>Ｂ・Ｆ</rb><rt>ビー・フォース</rt></ruby>－<ruby><rb>早</rb><rt>はや</rt></ruby><ruby><rb>撃</rb><rt>う</rt></ruby>ちのアルバレスト
   ja_romaji: Bī Fōsu - Hayauchi no Arubaresuto
-  ko: <ruby><rb>B・F</rb><rp>（</rp><rt>비 포스</rt><rp>）</rp></ruby>－속사의 알바레스트
+  ko: <ruby><rb>B・F</rb><rt>비 포스</rt></ruby>－속사의 알바레스트
   ko_rr: Bi Poseu - Soksa-ui Albareseuteu
+  zh-TW:
   zh-CN: 蜂军-急射之钢弩蜂
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時、自分の墓地のレベル３以下の昆虫族モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。②：このカードが相手によって破壊された場合に発動できる。手札・デッキから「Ｂ・Ｆ」モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때, 자신 묘지의 레벨 3 이하의 곤충족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. ②: 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 패 / 덱에서 "B·F(비 포스)" 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的②的效果1回合只能使用1次。
     ①：这张卡召唤成功时，以自己墓地1只3星以下的昆虫族怪兽为对象才能发动。那只怪兽守备表示特殊召唤。
     ②：这张卡被对方破坏的场合才能发动。从手卡·卡组把1只「蜂军」怪兽特殊召唤。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: WIND
 level: 4
 atk: 1800

@@ -7,10 +7,11 @@ name:
   fr: Fin de la Ligne
   it: Fine della Corsa
   pt: Fim da Linha
-  ja: <ruby><rb>走</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>灯</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>走</rb><rt>そう</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>灯</rb><rt>とう</rt></ruby>
   ja_romaji: Sōmatō
   ko: 주마등
   ko_rr: Jumadeung
+  zh-TW:
   zh-CN: 走魔灯
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分のＬＰが１００未満の場合に発動できる。自分はデッキから２枚ドローする。自分のＬＰが１０未満の場合、さらに自分はデッキから２枚ドローする。
   ko: |-
     ①: 자신의 LP가 100 미만일 경우에 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 자신의 LP가 10 미만일 경우, 추가로 자신은 덱에서 2장 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：自己基本分未满100的场合才能发动。自己从卡组抽2张。自己基本分未满10的场合，再让自己从卡组抽2张。
-type: Trap
+card_type: Trap
 property: Normal

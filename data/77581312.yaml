@@ -7,10 +7,11 @@ name:
   fr: Clown Masqué
   it:
   pt: Palhaço Mascarado
-  ja: <ruby><rb>仮</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>面</rb><rp>（</rp><rt>めん</rt><rp>）</rp></ruby><ruby><rb>道</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>化</rb><rp>（</rp><rt>け</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>仮</rb><rt>か</rt></ruby><ruby><rb>面</rb><rt>めん</rt></ruby><ruby><rb>道</rb><rt>どう</rt></ruby><ruby><rb>化</rb><rt>け</rt></ruby>
   ja_romaji: Kamendōke
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 假面道化
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     死のおどりを踊りながら、手にするカマで相手を切りきざむ戦士。
   ko:
+  zh-TW:
   zh-CN: |-
     一边跳着死亡的舞蹈、一边用手上的镰刀切碎敌人的战士。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: DARK
 level: 2
 atk: 500

@@ -7,10 +7,11 @@ name:
   fr: Roi des Fées Truesdale
   it: Truesdale, Re delle Fate
   pt: Rei das Fadas Truesdale
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>オベロン
+  ja: <ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>オベロン
   ja_romaji: Yōsei'ō Oberon
   ko: 요정왕 오베론
   ko_rr: Yojeongwang Oberon
+  zh-TW:
   zh-CN: 妖精王 奥布朗
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     ①：このカードがモンスターゾーンに守備表示で存在する限り、自分フィールドの植物族モンスターの攻撃力・守備力は５００アップする。
   ko: |-
     ①: 이 카드가 몬스터 존에 수비 표시로 존재하는 한, 자신 필드의 식물족 몬스터의 공격력 / 수비력은 500 올린다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域守备表示存在，自己场上的植物族怪兽的攻击力·守备力上升500。
-type: Monster
-typeline: Plant / Effect
+card_type: Monster
+monster_type_line: Plant / Effect
 attribute: WATER
 level: 6
 atk: 2200

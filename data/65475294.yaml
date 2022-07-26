@@ -7,10 +7,11 @@ name:
   fr: L'Amazone Hostile
   it: L'Amazzone Scorbutica
   pt:
-  ja: <ruby><rb>味</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>方</rb><rp>（</rp><rt>かた</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>ごろ</rt><rp>）</rp></ruby>しの<ruby><rb>女</rb><rp>（</rp><rt>おんな</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>味</rb><rt>み</rt></ruby><ruby><rb>方</rb><rt>かた</rt></ruby><ruby><rb>殺</rb><rt>ごろ</rt></ruby>しの<ruby><rb>女</rb><rt>おんな</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Mikatagoroshi no Onnakishi
   ko: 배신의 여기사
   ko_rr:
+  zh-TW:
   zh-CN: 杀戮同伴的女骑士
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     自分のスタンバイフェイズ毎に、このカードを除く自分のフィールド上モンスター１体を生け贄に捧げなければ、このカードを破壊する。
   ko: |-
     자신의 스텐바이 페이즈마다 이 카드 이외의 자신 필드 위에 몬스터 1장을 제물로 바치지 않으면 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     每次自己的准备阶段，若不把除这张卡外的自己场上1只怪兽作为祭品，这张卡破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 2000

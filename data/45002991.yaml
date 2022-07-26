@@ -11,7 +11,8 @@ name:
   ja_romaji: Ākurōdo Paradion
   ko: 아크로드 파라디온
   ko_rr: Akeurodeu Paradion
-  zh-CN: 大君主之圣像骑士
+  zh-TW:
+  zh-CN: 穹弧主宰・圣骑联盟
 text:
   en: |-
     2+ Effect Monsters, including a Link Monster
@@ -37,18 +38,17 @@ text:
   ko: |-
     링크 몬스터를 포함하는 효과 몬스터 2장 이상
     ①: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 원래 공격력만큼 올린다. ②: 이 카드의 링크 앞의 몬스터는 공격할 수 없다. ③: 1턴에 1번, 이 카드의 링크 앞의 자신의, "파라디온" 몬스터 또는 "성유물" 몬스터 1장을 릴리스하고, 상대 필드의 앞면 표시의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    包含连接怪兽的效果怪兽2只以上
-    ①：这张卡的攻击力上升这张卡所连接区的怪兽的原本攻击力数值。
-    ②：这张卡所连接区的怪兽不能攻击。
-    ③：1回合1次，把这张卡所连接区的自己1只「圣像骑士」怪兽或者「星遗物」怪兽解放，以对方场上1张表侧表示的卡为对象才能发动。那张卡的效果直到回合结束时无效。这个效果在对方回合也能发动。
-type: Monster
-typeline: Cyberse / Link / Effect
+    包括连接怪兽在内的效果怪兽2只以上
+    ①：此卡的攻击力上升相当于此卡连接端的怪兽原本攻击力的数值。②：此卡连接端的怪兽不可攻击。③：1回合1次，解放此卡连接端的自己的1只“圣骑联盟”怪兽或“星遗物”怪兽，以对手场上的1张表侧表示的卡为对象可以发动。将该卡的效果直至回合结束时为止无效。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Right
-- Top-Center
+- ↙
+- ↘
+- ⬆
 atk: 2000
 materials: 2+ Effect Monsters, including a Link Monster
 sets:

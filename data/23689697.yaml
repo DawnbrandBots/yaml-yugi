@@ -7,10 +7,11 @@ name:
   fr: Mobius le Méga Monarque
   it: Mobius il Mega Monarca
   pt: Mobius, o Mega Monarca
-  ja: <ruby><rb>凍</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby>メビウス
+  ja: <ruby><rb>凍</rb><rt>とう</rt></ruby><ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>帝</rb><rt>てい</rt></ruby>メビウス
   ja_romaji: Tōhyōtei Mebiusu
   ko: 차가운 얼음 제왕 뫼비우스
   ko_rr:
+  zh-TW:
   zh-CN: 冻冰帝 美比乌斯
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     이 카드는 어드밴스 소환한 몬스터 1장을 릴리스하고 어드밴스 소환할 수 있다. 이 카드가 어드밴스 소환에 성공했을 때, 필드 위의 마법 / 함정 카드를 3장까지 선택하고 파괴할 수 있다. 이 카드가 물 속성 몬스터를 릴리스하고 어드밴스 소환에 성공했을 경우, 그때의 효과에 이하의 효과를 넣는다.
     ● 이 효과의 발동에 대하여 상대는 선택된 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡可以把1只上级召唤的怪兽解放作上级召唤。这张卡上级召唤成功时，可以选择场上最多3张魔法·陷阱卡破坏。这张卡把水属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。●对方不能对应这个效果的发动把选择的卡发动。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 8
 atk: 2800

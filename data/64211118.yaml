@@ -11,6 +11,7 @@ name:
   ja_romaji: Faiawōru Doragon Dākufurūdo - Neo Tenpesuto
   ko: 파이어월 드래곤 다크플루이드－네오템피스트
   ko_rr: Paieowol Deuraegon Dakeupeulluideu - Ne-otempiseuteu
+  zh-TW:
   zh-CN: 防火墙龙·暗流体-新暴风
 text:
   en: |-
@@ -27,18 +28,19 @@ text:
   ko: |-
     사이버스족 몬스터 3장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 배틀 페이즈 중에 상대가 발동한 몬스터의 효과는 무효화된다. ②: 자신 / 상대 턴에 발동할 수 있다. 덱 / 엑스트라 덱에서 사이버스족 몬스터 1장을 묘지로 보낸다. 이 카드는, 묘지로 보낸 그 몬스터와 같은 속성으로도 취급하고, 공격력을 2500 올린다. ③: 이 카드는 1번의 배틀 페이즈 중에, 이 카드 속성의 종류의 수까지 몬스터에 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     电子空间族怪兽3只以上
     这个卡名的②效果1回合只能使用1次。①：只要这张卡在怪兽区存在，在战斗阶段中对手发动的怪兽的效果就无效化。②：自己或对手的回合可以发动。从卡组或额外卡组将1只电子空间族怪兽送入墓地。这张卡也当作与送入墓地的那只怪兽相同的属性使用，攻击力上升2500。③：这张卡在1次战斗阶段中，可以对怪兽作最多为这张卡的属性的种类数量的次数的攻击。
-type: Monster
-typeline: Cyberse / Link / Effect
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Left
-- Bottom-Left
-- Bottom-Right
-- Middle-Right
-- Top-Center
+- ⬅
+- ↙
+- ↘
+- ➡
+- ⬆
 atk: 3000
 materials: 3+ Cyberse monsters
 sets:

@@ -7,11 +7,12 @@ name:
   fr: Uria, Seigneur des Flammes Aveuglantes
   it: Uria, Signore delle Fiamme Ardenti
   pt: Uria, o Senhor das Chamas Cortantes
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ウリア
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>ウリア
   ja_romaji: Shin'en'ō Uria
   ko: 신염황제 우리아
   ko_rr: Sin-yeomhwangje Yuria
-  zh-CN: 神炎皇 乌利亚
+  zh-TW:
+  zh-CN: 神炎皇乌利亚
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 face-up Traps you control to the GY. This card gains 1000 ATK for each Continuous Trap in your GY. Once per turn: You can target 1 Set Spell/Trap your opponent controls; destroy that target. Neither player can activate Spell/Trap Cards in response to this effect's activation.
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分フィールドの表側表示の罠カード３枚を墓地へ送った場合のみ特殊召喚できる。①：このカードの攻撃力は、自分の墓地の永続罠カードの数×１０００アップする。②：１ターンに１度、相手フィールドにセットされた魔法・罠カード１枚を対象として発動できる。セットされたそのカードを破壊する。この効果の発動に対して魔法・罠カードは発動できない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드의 앞면 표시의 함정 카드 3장을 묘지로 보냈을 경우에만 특수 소환할 수 있다. ①: 이 카드의 공격력은, 자신 묘지의 지속 함정 카드의 수 × 1000 올린다. ②: 1턴에 1번, 상대 필드에 세트된 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 세트된 그 카드를 파괴한다. 이 효과의 발동에 대하여 마법 / 함정 카드는 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。把自己场上3张表侧表示的陷阱卡送去墓地的场合才能特殊召唤。①：这张卡的攻击力上升自己墓地的永续陷阱卡数量×1000。②：1回合1次，以对方场上盖放的1张魔法·陷阱卡为对象才能发动。盖放的那张卡破坏。不能对应这个效果的发动让魔法·陷阱卡发动。
-type: Monster
-typeline: Pyro / Effect
+    此卡不可通常召唤。仅可在将自己场上的3张表侧表示的陷阱卡送至墓地的情况下特殊召唤。①：此卡的攻击力上升自己墓地永续陷阱卡数量×1000。②：1回合1次，可以对手场上被放置的1张魔法・陷阱卡为对象发动。将被放置的该卡破坏。应对此效果的发动，魔法・陷阱卡不可发动。
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 10
 atk: 0

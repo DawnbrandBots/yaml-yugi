@@ -7,11 +7,12 @@ name:
   fr: B.E.S. Cœur Protégé
   it: B.E.S. Nucleo Protetto
   pt:
-  ja: <ruby><rb>巨</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>艦</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>巨</rb><rt>きょ</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>艦</rb><rt>かん</rt></ruby>
     カバード・コア
   ja_romaji: Kyodai Senkan Kabādo Koa
   ko: 거대전함 커버드 코어
   ko_rr:
+  zh-TW:
   zh-CN: 巨大战舰 盖核
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの召喚時にカウンターを２つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にコイントスで裏表を当てる。ハズレの場合、カードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。
   ko: |-
     이 카드의 일반 소환시에 카운터를 2개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 코인 토스로 앞뒷면을 맞춘다. 못 맞춘 경우, 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡的召唤时放置2个指示物。这张卡不会被战斗破坏。进行战斗的场合，伤害步骤结束时投掷硬币并对里表作猜测。猜错的场合，把卡的1个指示物取除。没有指示物的状态进行战斗的场合，伤害步骤结束时这张卡破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 7
 atk: 2500

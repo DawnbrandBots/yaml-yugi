@@ -7,10 +7,11 @@ name:
   fr: Barrière Dimensionnelle
   it: Barriera Dimensionale
   pt: Barragem Dimensional
-  ja: <ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>障</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>壁</rb><rp>（</rp><rt>へき</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>障</rb><rt>しょう</rt></ruby><ruby><rb>壁</rb><rt>へき</rt></ruby>
   ja_romaji: Jigen Shōheki
   ko: 차원 장벽
   ko_rr: Chiwon Jangbyeok
+  zh-TW:
   zh-CN: 次元障壁
 text:
   en: |-
@@ -31,7 +32,9 @@ text:
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 몬스터의 종류(의식 / 융합 / 싱크로 / 엑시즈 / 펜듈럼)를 1개 선언하고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다.
     ●서로 선언한 종류의 몬스터를 특수 소환할 수 없으며, 필드의 선언한 종류의 몬스터 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
-    「次元障壁」在1回合只能发动1张。①：宣言1个怪兽的种类（仪式·融合·同调·XYZ·灵摆）才能发动。这个回合，双方不能把宣言的种类的怪兽特殊召唤，场上的宣言种类的怪兽的效果无效化。
-type: Trap
+    此卡名的卡1回合仅可发动1张。①：宣言怪兽的1个种类（仪式・融合・同步・超量・灵摆）可以发动。在此回合中适用以下效果。
+    ●双方不可特殊召唤所宣言种类的怪兽，场上所宣言种类的怪兽的效果无效化。
+card_type: Trap
 property: Normal

@@ -7,11 +7,12 @@ name:
   fr: 'Numéro 105 : Boxeur Indomptable Étoile Cestus'
   it: 'Numero 105: Pugile Indomito Star Cestus'
   pt: 'Número 105: Boxeador Obstinado Estrela Cestus'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１０５ <ruby><rb>ＢＫ</rb><rp>（</rp><rt>バーニングナックラー</rt><rp>）</rp></ruby>
-    <ruby><rb>流</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>のセスタス
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１０５ <ruby><rb>ＢＫ</rb><rt>バーニングナックラー</rt></ruby>
+    <ruby><rb>流</rb><rt>りゅう</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>のセスタス
   ja_romaji: Nanbāzu Hyakugo Bāningu Nakkurā Ryūsei no Sesutasu
-  ko: No.105 <ruby><rb>BK</rb><rp>（</rp><rt>버닝나쿠라</rt><rp>）</rp></ruby> 유성의 세스터스
+  ko: No.105 <ruby><rb>BK</rb><rt>버닝나쿠라</rt></ruby> 유성의 세스터스
   ko_rr:
+  zh-TW: No.105 燃燒拳鬥士 流星手帶
   zh-CN: No.105 燃烧拳击手 流星之指套拳士
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     레벨 4 몬스터 × 3
     자신 필드 위의 "BK(버닝나쿠라)" 라는 이름이 붙은 몬스터가 상대 몬스터와 전투를 실행하는 배틀 스텝시에 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 상대 몬스터의 효과는 턴 종료시까지 무효화되고, 그 자신의 몬스터는 전투로는 파괴되지 않으며, 그 전투에 의해서 발생하는 자신에게로의 전투 데미지는 대신에 상대가 받는다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW: "等级4怪兽×3\n我方场上冠有「燃燒拳鬥士」之名的怪兽与对方怪兽进行战斗的战斗步骤时，可移除此卡的1个超量素材并发动。该对手怪兽的效果直至回合结束时被无效化，该我方怪兽在该战斗中不被破坏，因该战斗而发生的对我方的战斗伤害由对手代为承受。此效果也可于对手回合发动。"
   zh-CN: |-
     4星怪兽×3。自己场上的名字带有「燃烧拳击手」的怪兽和对方怪兽进行战斗的战斗步骤时把这张卡1个XYZ素材取除才能发动。那只对方怪兽的效果直到回合结束时无效化，那只自己怪兽不会被那次战斗破坏，那次战斗发生的对自己的战斗伤害由对方代受。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
 rank: 4
 atk: 2500

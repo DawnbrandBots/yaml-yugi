@@ -7,11 +7,12 @@ name:
   fr: Yeux d'Hésitation
   it: Occhi Esitanti
   pt: Olhos Hesitantes
-  ja: <ruby><rb>揺</rb><rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby>れる<ruby><rb>眼</rb><rp>（</rp><rt>まな</rt><rp>）</rp></ruby><ruby><rb>差</rb><rp>（</rp><rt>ざ</rt><rp>）</rp></ruby>し
+  ja: <ruby><rb>揺</rb><rt>ゆ</rt></ruby>れる<ruby><rb>眼</rb><rt>まな</rt></ruby><ruby><rb>差</rb><rt>ざ</rt></ruby>し
   ja_romaji: Yureru Manazashi
   ko: 흔들리는 눈빛
   ko_rr: Heundeulli-neun Nunbit
-  zh-CN: 摇晃的目光
+  zh-TW:
+  zh-CN: 摇摆的视线
 text:
   en: |-
     Destroy as many cards in each player's Pendulum Zones as possible, then apply these effects, in sequence, depending on the number of cards destroyed by this effect.
@@ -50,9 +51,9 @@ text:
     ● 3+: Você pode banir 1 card no campo.
     ● 4: Você pode adicionar 1 "Olhos Hesitantes" do seu Deck à sua mão.
   ja: |-
-    ①：お互いの<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンのカードを全て破壊する。その後、この効果で破壊したカードの数によって以下の効果を適用する。
+    ①：お互いの<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>ゾーンのカードを全て破壊する。その後、この効果で破壊したカードの数によって以下の効果を適用する。
     ●１枚以上：相手に５００ダメージを与える。
-    ●２枚以上：デッキから<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>モンスター１体を手札に加える事ができる。
+    ●２枚以上：デッキから<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>モンスター１体を手札に加える事ができる。
     ●３枚以上：フィールドのカード１枚を選んで除外できる。
     ●４枚：デッキから「揺れる眼差し」１枚を手札に加える事ができる。
   ko: |-
@@ -61,11 +62,12 @@ text:
     ●2장 이상: 덱에서 펜듈럼 몬스터 1장을 패에 넣을 수 있다.
     ●3장 이상: 필드의 카드 1장을 고르고 제외할 수 있다.
     ●4장: 덱에서 "흔들리는 눈빛" 1장을 패에 넣을 수 있다.
+  zh-TW:
   zh-CN: |-
-    ①：双方的灵摆区域的卡全部破坏。那之后，这个效果破坏的卡数量的以下效果适用。
-    ●1张以上：给与对方500伤害。
-    ●2张以上：可以从卡组把1只灵摆怪兽加入手卡。
-    ●3张以上：可以选场上1张卡除外。
-    ●4张：可以从卡组把1张「摇晃的目光」加入手卡。
-type: Spell
+    ①：将双方灵摆区域的卡全部破坏。然后，依以此效果破坏的卡的数量适用以下效果。
+    ●1张以上：给予对手500伤害。
+    ●2张以上：可从牌组将1只灵摆怪兽加入手牌。
+    ●3张以上：可挑选场上的1张卡除外。
+    ●4张：可从牌组将1张"摇摆的视线"加入手牌。
+card_type: Spell
 property: Quick-Play

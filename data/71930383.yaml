@@ -11,6 +11,7 @@ name:
   ja_romaji: Patoroido
   ko: 패트로이드
   ko_rr:
+  zh-TW:
   zh-CN: 警车机人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     相手フィールド上にセットされているカードを１枚めくり、確認した後元に戻す。この効果は１ターンに１度だけ自分のメインフェイズに発動する事ができる。
   ko: |-
     상대 필드상에 세트 되고 있는 카드를 1매 넘겨, 확인한 후 원래대로 되돌린다. 이 효과는 1 턴에 1번만 자신의 메인페이즈에 발동할 수가 있다.
+  zh-TW:
   zh-CN: |-
     把对方场上盖放的1张卡翻开，确认后回到原状。这个效果1回合只有1次在自己的主要阶段才能发动。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1200

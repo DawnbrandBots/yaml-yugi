@@ -7,10 +7,11 @@ name:
   fr: Chariot Samouraï Supralourd
   it: Samurai Superpesante Carro
   pt: Samurai Superpesado Vagão
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>ダイ－<ruby><rb>８</rb><rp>（</rp><rt>ハチ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>ダイ－<ruby><rb>８</rb><rt>ハチ</rt></ruby>
   ja_romaji: Chōjūmusha Dai-Hachi
-  ko: 초중무사 다이－<ruby><rb>8</rb><rp>（</rp><rt>하치</rt><rp>）</rp></ruby>
+  ko: 초중무사 다이－<ruby><rb>8</rb><rt>하치</rt></ruby>
   ko_rr: Chojungmusa Dai-Hachi
+  zh-TW:
   zh-CN: 超重武者 大八-8
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「超重武者ダイ－８」の③の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した時に発動できる。このカードの表示形式を変更する。②：このカードは表側守備表示のままで攻撃できる。その場合、このカードは守備力を攻撃力として扱いダメージ計算を行う。③：自分の墓地に魔法・罠カードが存在しない場合に発動できる。自分フィールドの表側守備表示のこのカードを攻撃表示にし、デッキから「超重武者装留」モンスター１体を手札に加える。
   ko: |-
     "초중무사 다이－8(하치)"의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 이 카드의 표시 형식을 변경한다. ②: 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 이 카드는 수비력을 공격력으로 취급하고 데미지 계산을 실행한다. ③: 자신의 묘지에 마법 / 함정 카드가 존재하지 않을 경우에 발동할 수 있다. 자신 필드의 앞면 수비 표시의 이 카드를 공격 표시로 하고, 덱에서 "초중무사소울" 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     「超重武者 大八-8」的③的效果1回合只能使用1次。①：这张卡召唤·特殊召唤成功时才能发动。这张卡的表示形式变更。②：这张卡可以用表侧守备表示的状态作出攻击。那个场合，这张卡用守备力当作攻击力使用进行伤害计算。③：自己墓地没有魔法·陷阱卡存在的场合才能发动。自己场上的表侧守备表示的这张卡变成攻击表示，从卡组把1只「超重武者装留」怪兽加入手卡。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1200

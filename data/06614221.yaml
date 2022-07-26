@@ -7,10 +7,11 @@ name:
   fr: Roi de Brume
   it: Re Nebbia
   pt: Rei Neblina
-  ja: <ruby><rb>霧の王</rb><rp>（</rp><rt>キングミスト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>霧の王</rb><rt>キングミスト</rt></ruby>
   ja_romaji: Kingu Misuto
   ko: 킹 미스트
   ko_rr:
+  zh-TW:
   zh-CN: 雾之王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードを召喚する場合、生け贄１体または生け贄なしで召喚する事ができる。このカードの攻撃力は、生け贄召喚時に生け贄に捧げたモンスターの元々の攻撃力を合計した数値になる。このカードがフィールド上に表側表示で存在する限り、いかなる場合による生け贄も行う事ができなくなる。
   ko: |-
     이 카드를 일반 소환할 경우, 릴리스 1장 또는 릴리스 없이 소환할 수 있다. 이 카드의 공격력은 어드밴스 소환시에 릴리스한 몬스터의 원래 공격력을 합한 수치가 된다. 이 카드가 필드위에 앞면 표시로 전재하는 한, 어떤 경우에 의한 릴리스도 실행할 수 없게 된다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤的场合，可以用1只祭品或者不用祭品作召唤。这张卡的攻击力变成祭品召唤时作为祭品的怪兽的原本攻击力的合计数值。只要这张卡在场上表侧表示存在，任何场合的祭品都变成不能进行。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WATER
 level: 7
 atk: 0

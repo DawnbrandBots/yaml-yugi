@@ -7,10 +7,11 @@ name:
   fr: Dragong
   it: Dragong
   pt: Dragongo
-  ja: <ruby><rb>銅</rb><rp>（</rp><rt>ド</rt><rp>）</rp></ruby><ruby><rb>鑼</rb><rp>（</rp><rt>ラ</rt><rp>）</rp></ruby>ドラゴン
+  ja: <ruby><rb>銅</rb><rt>ド</rt></ruby><ruby><rb>鑼</rb><rt>ラ</rt></ruby>ドラゴン
   ja_romaji: Dora Doragon
   ko: 징 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 铜锣龙
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Este gongo abriga a alma de um dragão indomado. Ele plana pelos céus com um incrível rugido, recrutando para a batalha todos os que escutam seu grito de guerra.
   ja: |-
-    <ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>新</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>鋭</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>技</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>を<ruby><rb>駆</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>し、<ruby><rb>飛</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>が<ruby><rb>可</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>能</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby>になった<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>用</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>の<ruby><rb>銅</rb><rp>（</rp><rt>ド</rt><rp>）</rp></ruby><ruby><rb>鑼</rb><rp>（</rp><rt>ラ</rt><rp>）</rp></ruby>。マッハ０.７で<ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby>を<ruby><rb>翔</rb><rp>（</rp><rt>かけ</rt><rp>）</rp></ruby>るその<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>に<ruby><rb>驚</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>愕</rb><rp>（</rp><rt>がく</rt><rp>）</rp></ruby>せざるを<ruby><rb>得</rb><rp>（</rp><rt>え</rt><rp>）</rp></ruby>ない。
+    <ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>新</rb><rt>しん</rt></ruby><ruby><rb>鋭</rb><rt>えい</rt></ruby>の<ruby><rb>技</rb><rt>ぎ</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby>を<ruby><rb>駆</rb><rt>く</rt></ruby><ruby><rb>使</rb><rt>し</rt></ruby>し、<ruby><rb>飛</rb><rt>ひ</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby>が<ruby><rb>可</rb><rt>か</rt></ruby><ruby><rb>能</rb><rt>のう</rt></ruby>になった<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>闘</rb><rt>とう</rt></ruby><ruby><rb>用</rb><rt>よう</rt></ruby>の<ruby><rb>銅</rb><rt>ド</rt></ruby><ruby><rb>鑼</rb><rt>ラ</rt></ruby>。マッハ０.７で<ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby>を<ruby><rb>翔</rb><rt>かけ</rt></ruby>るその<ruby><rb>存</rb><rt>そん</rt></ruby><ruby><rb>在</rb><rt>ざい</rt></ruby>に<ruby><rb>驚</rb><rt>きょう</rt></ruby><ruby><rb>愕</rb><rt>がく</rt></ruby>せざるを<ruby><rb>得</rb><rt>え</rt></ruby>ない。
   ko: |-
     최신예 기술을 구사하며, 비행이 가능한 전투용 징. 마하 0.7로 하늘을 나는 그 존재에 경악하지 않을 수 없다.
+  zh-TW:
   zh-CN: |-
     驱使最新锐的技术，变得能飞的战斗用铜锣。不得不对以0.7马赫飞翔于天空的其存在而感到惊愕。
-type: Monster
-typeline: Machine / Pendulum
+card_type: Monster
+monster_type_line: Machine / Pendulum
 attribute: EARTH
 level: 4
 atk: 500
@@ -47,6 +49,7 @@ pendulum_effect:
   pt:
   ja:
   ko:
+  zh-TW:
   zh-CN:
 sets:
   en:

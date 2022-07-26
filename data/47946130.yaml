@@ -7,11 +7,12 @@ name:
   fr: Gouki L'Ogre Géant
   it: Gouki Il Gigante Orco
   pt: Gouki, O Ogro Gigante
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ザ・ジャイアント・オーガ
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>ザ・ジャイアント・オーガ
   ja_romaji: Gōki Za Jaianto Ōga
   ko: 강귀 더 자이언트 오우거
   ko_rr: Ganggwi Deo Jaieonteu Ougeo
-  zh-CN: 刚鬼 大巨人食人魔
+  zh-TW:
+  zh-CN: 刚鬼 巨人食人魔
 text:
   en: |-
     3+ "Gouki" monsters
@@ -37,19 +38,18 @@ text:
   ko: |-
     "강귀" 몬스터 3장 이상
     ①: 필드의 이 카드는, 전투로는 파괴되지 않으며, 이 카드의 공격력 이하의 공격력을 가지는 상대 몬스터의 발동한 효과를 받지 않는다. ②: 필드의 이 카드 또는 이 카드의 링크 앞의 몬스터를 대상으로 하는 상대 효과가 발동했을 때에 발동할 수 있다. 이 카드의 공격력을 500 내리고, 그 발동을 무효로 한다. ③: 1턴에 1번, 이 카드의 공격력이 원래 공격력과 다를 경우에 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지 1000 올린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「刚鬼」怪兽3只以上
-    ①：场上的这张卡不会被战斗破坏，不受持有这张卡的攻击力以下的攻击力的对方怪兽的所发动的效果影响。
-    ②：以场上的这张卡或者这张卡所连接区的怪兽为对象的对方的效果发动时才能发动。这张卡的攻击力下降500，那个发动无效。
-    ③：1回合1次，这张卡的攻击力和原本攻击力不同的场合才能发动。这张卡的攻击力直到回合结束时上升1000。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Link / Effect
+    “刚鬼”怪兽3只以上
+    ①：场上的此卡不会因战斗被破坏，不受拥有此卡的攻击力以下攻击力的对手怪兽发动的效果影响。②：以场上的此卡或此卡连接端的怪兽为对象的对手的效果发动时可以发动。此卡的攻击力下降500，将该发动无效。③：1回合1次，此卡的攻击力与原本攻击力不同的情况下可以发动。此卡的攻击力直至回合结束时为止上升1000。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: EARTH
 link_arrows:
-- Middle-Left
-- Bottom-Left
-- Bottom-Right
-- Middle-Right
+- ⬅
+- ↙
+- ↘
+- ➡
 atk: 3000
 materials: 3+ "Gouki" monsters
 sets:

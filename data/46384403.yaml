@@ -7,10 +7,11 @@ name:
   fr: Manta Agile
   it: L'Agile Manta
   pt:
-  ja: <ruby><rb>素</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby><rb>早</rb><rp>（</rp><rt>ばや</rt><rp>）</rp></ruby>いマンタ
+  ja: <ruby><rb>素</rb><rt>す</rt></ruby><ruby><rb>早</rb><rt>ばや</rt></ruby>いマンタ
   ja_romaji: Subayai Manta
   ko: 재빠른 맨터
   ko_rr:
+  zh-TW:
   zh-CN: 迅捷蝠鲼
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     フィールド上に存在するこのカードがカードの効果によって墓地へ送られた時、自分のデッキから「素早いマンタ」を任意の数だけ特殊召喚する事ができる。
   ko: |-
     필드 위의 이 카드가 카드의 효과에 의해서 묘지로 보내졌을 때, 덱에서 "재빠른 맨터"를 임의의 수만큼 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     场上存在的这张卡被卡的效果送去墓地时，可以从自己卡组把「迅捷蝠鲼」任意数量特殊召唤。
-type: Monster
-typeline: Fish / Effect
+card_type: Monster
+monster_type_line: Fish / Effect
 attribute: WATER
 level: 2
 atk: 800

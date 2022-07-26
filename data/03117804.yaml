@@ -7,10 +7,11 @@ name:
   fr: Grand Benkei Samouraï Supralourd
   it: Samurai Superpesante Grande Benkei
   pt: Samurai Superpesado Grande Benkei
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>ビッグベン－<ruby><rb>Ｋ</rb><rp>（</rp><rt>ケー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>ビッグベン－<ruby><rb>Ｋ</rb><rt>ケー</rt></ruby>
   ja_romaji: Chōjūmusha Bigguben-Kē
-  ko: 초중무사 빅벤-<ruby><rb>K</rb><rp>（</rp><rt>케이</rt><rp>）</rp></ruby>
+  ko: 초중무사 빅벤-<ruby><rb>K</rb><rt>케이</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 超重武者 大弁庆-K
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：このカードが召喚・特殊召喚に成功した時に発動できる。このカードの表示形式を変更する。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「超重武者」モンスターは、表側守備表示のままで攻撃できる。その場合、そのモンスターは、守備力を攻撃力として扱いダメージ計算を行う。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 이 카드의 표시 형식을 변경한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 "초중무사" 몬스터는, 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 그 몬스터는 수비력을 공격력으로 취급하고, 데미지 계산을 실행한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功时才能发动。这张卡的表示形式变更。
     ②：只要这张卡在怪兽区域存在，自己场上的「超重武者」怪兽可以用表侧守备表示的状态作出攻击。那个场合，那怪兽用守备力当作攻击力使用进行伤害计算。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 8
 atk: 1000

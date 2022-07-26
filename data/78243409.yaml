@@ -7,10 +7,11 @@ name:
   fr: La Chose dans le Cratère
   it: La Cosa nel Cratere
   pt: A Coisa na Cratera
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>口</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>に<ruby><rb>潜</rb><rp>（</rp><rt>ひそ</rt><rp>）</rp></ruby>む<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>口</rb><rt>こう</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>む<ruby><rb>者</rb><rt>もの</rt></ruby>
   ja_romaji: Kakō ni Hisomu mono
   ko: 분화구에 숨은 자
   ko_rr:
+  zh-TW:
   zh-CN: 火山口的潜伏者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが破壊されフィールド上から墓地に送られた時、手札から炎族モンスター１体を特殊召喚する事ができる。
   ko: |-
     이 카드가 파괴되어 필드 위에서 묘지로 보내졌을 때, 패에서 화염족 몬스터 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡被破坏从场上送去墓地时，可以从手卡把1只炎族怪兽特殊召唤。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1000

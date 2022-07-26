@@ -7,10 +7,11 @@ name:
   fr: Super Méga Agile Hamster
   it: Criceto Gigante Super Agile
   pt: Mega Hamster Super-Ágil
-  ja: <ruby><rb>素</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby><rb>早</rb><rp>（</rp><rt>ばや</rt><rp>）</rp></ruby>いビッグハムスター
+  ja: <ruby><rb>素</rb><rt>す</rt></ruby><ruby><rb>早</rb><rt>ばや</rt></ruby>いビッグハムスター
   ja_romaji: Subayai Biggu Hamusutā
   ko: 재빠른 빅햄스터
   ko_rr:
+  zh-TW:
   zh-CN: 迅捷大仓鼠
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：自分のデッキからレベル３以下の獣族モンスター１体を裏側守備表示で特殊召喚する事ができる。
   ko: |-
     리버스：자신의 덱에서 레벨 3 이하의 야수족 몬스터 1장을 뒷면 수비 표시로 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
-    可以从自己卡组把1只3星以下的兽族怪兽里侧守备表示特殊召唤。
-type: Monster
-typeline: Beast / Flip / Effect
+    ①：此卡反转的情况下可以发动。从牌组将1只等级3以下的兽族怪兽以里侧守备表示特殊召唤。
+card_type: Monster
+monster_type_line: Beast / Flip / Effect
 attribute: EARTH
 level: 4
 atk: 1100

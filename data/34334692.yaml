@@ -7,10 +7,11 @@ name:
   fr: Corbeau Rituel
   it: Corvo Rituale
   pt: Corvo Ritual
-  ja: <ruby><rb>儀</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby><rb>式</rb><rp>（</rp><rt>しき</rt><rp>）</rp></ruby>の<ruby><rb>供</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>もつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>儀</rb><rt>ぎ</rt></ruby><ruby><rb>式</rb><rt>しき</rt></ruby>の<ruby><rb>供</rb><rt>く</rt></ruby><ruby><rb>物</rb><rt>もつ</rt></ruby>
   ja_romaji: Gishiki no Kumotsu
   ko: 의식의 공물
   ko_rr:
+  zh-TW:
   zh-CN: 仪式的供物
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     闇属性の儀式モンスターを特殊召喚する場合、このカード１枚で儀式召喚のための生け贄として使用する事ができる。
   ko: |-
     어둠 속성의 의식 몬스터를 특수 소환할 경우, 이 카드 1장으로 의식 소환을 위한 제물로 사용할 수 있다.
+  zh-TW:
   zh-CN: |-
     暗属性的仪式怪兽特殊召唤的场合，可以用这1张卡作为仪式召唤的祭品使用。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 1
 atk: 300

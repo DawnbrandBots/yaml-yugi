@@ -7,11 +7,12 @@ name:
   fr: Tranchant Sauvage, HÉROS Élémentaire
   it: Fendente Selvaggio Edge Eroe Elementale
   pt: Herói Elementar Navalha Selvagem
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> ワイルドジャギーマン
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> ワイルドジャギーマン
   ja_romaji: Erementaru Hīrō Wairudojagīman
   ko: 엘리멘틀 히어로 와일드 쟤기맨
   ko_rr:
-  zh-CN: 元素英雄 锯齿荒野侠
+  zh-TW:
+  zh-CN: 元素－英雄 狂野锯刃人
 text:
   en: |-
     "Elemental HERO Wildheart" + "Elemental HERO Bladedge"
@@ -37,11 +38,12 @@ text:
   ko: |-
     "엘리멘틀 히어로 와일드맨" + "엘리멘틀 히어로 에지맨"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 상대 필드 위의 모든 몬스터에 1회씩 공격을 할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「元素英雄 荒野侠」＋「元素英雄 金刃侠」
-    这只怪兽不用融合召唤不能特殊召唤。可以向对方场上的全部怪兽各作1次攻击。
-type: Monster
-typeline: Warrior / Fusion / Effect
+    "元素－英雄 狂野人"＋"元素－英雄 刀锋人"
+    此卡仅可以融合召唤方式特殊召唤。①：此卡可攻击所有对手怪兽各1次。
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: EARTH
 level: 8
 atk: 2600

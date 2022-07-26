@@ -7,10 +7,11 @@ name:
   fr: Plaines Marécageuses
   it: Acquitrini
   pt: Terras Molhadas
-  ja: <ruby><rb>湿</rb><rp>（</rp><rt>しっ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>草</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>原</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>湿</rb><rt>しっ</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>草</rb><rt>そう</rt></ruby><ruby><rb>原</rb><rt>げん</rt></ruby>
   ja_romaji: Shicchisōgen
   ko: 습지초원
   ko_rr:
+  zh-TW:
   zh-CN: 湿地草原
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上の水族・水属性・レベル２以下のモンスターの攻撃力は１２００ポイントアップする。
   ko: |-
     모든 물족 / 물속성 / 레벨 2 이하 몬스터의 공격력은 1200 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     场上的水族·水属性·2星以下的怪兽的攻击力上升1200。
-type: Spell
+card_type: Spell
 property: Field

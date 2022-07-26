@@ -7,10 +7,11 @@ name:
   fr: Troupe de Reconnaissance Gobeline
   it: Squadra di Ricognizione Goblin
   pt: Esquadrão de Reconhecimento Goblin
-  ja: ゴブリン<ruby><rb>偵</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>察</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby><rb>部</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: ゴブリン<ruby><rb>偵</rb><rt>てい</rt></ruby><ruby><rb>察</rb><rt>さつ</rt></ruby><ruby><rb>部</rb><rt>ぶ</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Goburin Teisatsu Butai
   ko: 고블린정찰부대
   ko_rr:
+  zh-TW:
   zh-CN: 哥布林侦察部队
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手プレイヤーの直接攻撃に成功した場合、相手の手札をランダムに１枚確認する事ができる。確認したカードが魔法カードだった場合、そのカードを墓地に送る。このカードが攻撃した場合、バトルフェイズ終了時に守備表示になる。次の自分のターン終了時までこのカードは表示形式を変更できない。
   ko: |-
     이 카드가 상대 플레이어에게로의 직접 공격에 성공했을 경우, 상대의 패를 무작위로 1장 확인할 수 있다. 확인한 카드가 마법 카드였을 경우, 그 카드를 묘지로 보낸다. 이 카드는 공격했을 경우, 배틀 페이즈 종료시에 수비 표시가 된다. 다음 자신의 턴 종료시까지 이 카드는 표시 형식을 변경할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡对对方玩家的直接攻击成功的场合，可以把对方手卡随机1张确认。确认的卡是魔法卡的场合，那张卡送去墓地。这张卡攻击的场合，战斗阶段结束时变成守备表示。直到下次的自己回合结束时这张卡不能把表示形式变更。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WIND
 level: 4
 atk: 1700

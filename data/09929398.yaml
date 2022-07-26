@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Gofu la Vague de l'Ombre
   it: Alanera - Gofu l'Ombra Vaga
   pt: Asanegra - Gofu, a Sombra Oscilante
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>朧</rb><rp>（</rp><rt>おぼろ</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>のゴウフウ
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>朧</rb><rt>おぼろ</rt></ruby><ruby><rb>影</rb><rt>かげ</rt></ruby>のゴウフウ
   ja_romaji: Burakku Fezā - Oborokage no Gōfū
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－농그림자의 고우후우
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－농그림자의 고우후우
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽-胧影之业风
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分フィールドにモンスターが存在しない場合に特殊召喚できる。①：このカードが手札からの特殊召喚に成功した時に発動できる。自分フィールドに「朧影トークン」（鳥獣族・闇・星１・攻／守０）２体を特殊召喚する。このトークンはリリースできず、Ｓ素材にできない。②：このカードとチューナー以外のモンスター１体以上を自分フィールドから除外し、そのレベルの合計と同じレベルを持つ自分の墓地の「ＢＦ」Ｓモンスター１体を対象として発動できる。そのモンスターをチューナー扱いとして特殊召喚する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드에 몬스터가 존재하지 않을 경우에 특수 소환할 수 있다. ①: 이 카드가 패에서 특수 소환에 성공했을 때에 발동할 수 있다. 자신 필드에 "농그림자 토큰"(비행야수족 / 어둠 / 레벨 1 / 공 0 / 수 0) 2장을 특수 소환한다. 이 토큰은 릴리스할 수 없으며, 싱크로 소재로 할 수 없다. ②: 이 카드와 튜너 이외의 몬스터 1장 이상을 자신 필드에서 제외하고, 그 레벨의 합계와 같은 레벨을 가지는 자신 묘지의 "BF(블랙 페더)" 싱크로 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 튜너로 취급하여 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。自己场上没有怪兽存在的场合可以特殊召唤。①：这张卡从手卡的特殊召唤成功时才能发动。在自己场上把2只「胧影衍生物」（鸟兽族·暗·1星·攻/守0）特殊召唤。这衍生物不能解放，不能作为同调素材。②：把这张卡和除调整以外的怪兽1只以上从自己场上除外，以持有和那个等级合计相同等级的自己墓地1只「黑羽」同调怪兽为对象才能发动。那只怪兽当作调整使用特殊召唤。
-type: Monster
-typeline: Winged Beast / Tuner / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Tuner / Effect
 attribute: DARK
 level: 5
 atk: 0

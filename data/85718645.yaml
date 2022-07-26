@@ -7,11 +7,12 @@ name:
   fr: Delg le Monarque des Ténèbres
   it: Delg, il Monarca Oscuro
   pt: Delg, o Monarca Negro
-  ja: <ruby><rb>闇</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby>ディルグ
+  ja: <ruby><rb>闇</rb><rt>あん</rt></ruby><ruby><rb>帝</rb><rt>てい</rt></ruby>ディルグ
   ja_romaji: Antei Dirugu
   ko: 어둠 제왕 딜그
   ko_rr:
-  zh-CN: 暗帝 迪尔格
+  zh-TW:
+  zh-CN: 暗帝迪尔格
 text:
   en: |-
     When this card is Normal or Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish that target(s), then send the same number of cards from the top of their Deck to the Graveyard. This card cannot attack during the turn it is Normal or Special Summoned.
@@ -29,10 +30,11 @@ text:
     このカードが召喚・特殊召喚に成功した時、相手の墓地に存在するカードを２枚までゲームから除外する事ができる。さらに、除外した数だけ相手のデッキの上からカードを墓地へ送る。このカードは召喚・特殊召喚したターンには攻撃する事ができない。
   ko: |-
     이 카드가 일반 소환 / 특수 소환에 성공했을 때, 상대의 묘지에 존재하는 카드를 2장까지 게임에서 제외할 수 있다. 또한, 제외한 수만큼 상대 덱 위에서 카드를 묘지로 보낸다. 이 카드는 일반 소환 / 특수 소환한 턴에는 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这张卡召唤·特殊召唤成功时，可以把对方墓地存在的最多2张卡从游戏中除外。并且，除外数量的卡从对方卡组上面送去墓地。这张卡在召唤·特殊召唤的回合不能攻击。
-type: Monster
-typeline: Spellcaster / Effect
+    ①：此卡召唤・特殊召唤成功时，以对手墓地的最多2张卡为对象可以发动。将该卡除外。然后，将除外张数的卡从对手牌组上面送至墓地。②：此卡召唤·特殊召唤的回合不可攻击。
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 6
 atk: 2400

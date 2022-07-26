@@ -7,10 +7,11 @@ name:
   fr: Sphinx Gardien
   it: Sfinge Guardiana
   pt: Esfinge Guardiã
-  ja: <ruby><rb>守護者</rb><rp>（</rp><rt>ガーディアン</rt><rp>）</rp></ruby>スフィンクス
+  ja: <ruby><rb>守護者</rb><rt>ガーディアン</rt></ruby>スフィンクス
   ja_romaji: Gādian Sufinkusu
   ko: 가디언 스핑크스
   ko_rr:
+  zh-TW:
   zh-CN: 守护者斯芬克斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは１ターンに１度だけ裏側守備表示にする事ができる。このカードが反転召喚に成功した時、相手フィールド上に存在するモンスターを全て持ち主の手札に戻す。
   ko: |-
     이 카드는 1턴에 1번만 뒷면 수비 표시로 할 수 있다. 이 카드가 반전 소환에 성공했을 때, 상대 필드 위의 몬스터는 전부 주인의 패로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     这张卡1回合只有1次可以变成里侧守备表示。这张卡反转召唤成功时，对方场上存在的怪兽全部回到持有者手卡。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 5
 atk: 1700

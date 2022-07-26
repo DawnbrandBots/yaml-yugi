@@ -7,10 +7,11 @@ name:
   fr: Sundae au Jeton
   it: Gelati Segna-Mostro
   pt: Sundae de Fichas
-  ja: トークン<ruby><rb>復</rb><rp>（</rp><rt>ふっ</rt><rp>）</rp></ruby><ruby><rb>活</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby><rb>祭</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby>
+  ja: トークン<ruby><rb>復</rb><rt>ふっ</rt></ruby><ruby><rb>活</rb><rt>かつ</rt></ruby><ruby><rb>祭</rb><rt>さい</rt></ruby>
   ja_romaji: Tōkun Fukkatsusai
   ko: 토큰 부활제
   ko_rr:
+  zh-TW:
   zh-CN: 衍生物复活祭
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上に存在するトークンを全て破壊する。この効果で破壊したトークンの数まで、フィールド上に存在するカードを破壊する。
   ko: |-
     자신 필드 위에 존재하는 토큰을 전부 파괴한다. 이 효과로 파괴한 토큰의 수만큼, 필드 위에 존재하는 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的衍生物全部破坏。最多有这个效果破坏的衍生物数量的场上存在的卡破坏。
-type: Spell
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 84 : Prise-Douleur'
   it: 'Numero 84: Acquisitore di Dolore'
   pt: 'Número 84: Acumuladora de Dor'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８４ ペイン・ゲイナー
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８４ ペイン・ゲイナー
   ja_romaji: Nanbāzu Hachijūyon Pein Geinā
   ko: No.84 페인 게이너
   ko_rr:
+  zh-TW:
   zh-CN: No.84 增痛蛛
 text:
   en: |-
@@ -33,11 +34,12 @@ text:
   ko: |-
     레벨 11 몬스터 × 2
     이 카드는 자신 필드의 엑시즈 소재를 2개 이상 가진 랭크 8~10 의 어둠 속성 엑시즈 몬스터의 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드의 수비력은, 자신 필드의 엑시즈 몬스터 랭크의 합계 × 200 올린다. ②: 엑시즈 소재를 가진 이 카드가 몬스터 존에 존재하는 한, 상대가 마법 / 함정 카드를 발동할 때마다 상대에게 600 데미지를 준다. ③: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 수비력 이하의 수비력을 가지는 상대 필드의 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     11星怪兽×2
     这张卡也能在自己场上的持有XYZ素材2个以上的8～10阶的暗属性XYZ怪兽上面重叠来XYZ召唤。①：这张卡的守备力上升自己场上的XYZ怪兽的阶级合计×200。②：只要持有XYZ素材的这张卡在怪兽区域存在，每次对方把魔法·陷阱卡发动给与对方600伤害。③：1回合1次，把这张卡1个XYZ素材取除才能发动。持有这张卡的守备力以下的守备力的对方场上的怪兽全部破坏。
-type: Monster
-typeline: Insect / Xyz / Effect
+card_type: Monster
+monster_type_line: Insect / Xyz / Effect
 attribute: DARK
 rank: 11
 atk: 0

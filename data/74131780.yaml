@@ -7,10 +7,11 @@ name:
   fr: La Troupe Exilée
   it: Forza Esiliata
   pt: Força Exilada
-  ja: ならず<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby><ruby><rb>傭</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>部</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: ならず<ruby><rb>者</rb><rt>もの</rt></ruby><ruby><rb>傭</rb><rt>よう</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby><ruby><rb>部</rb><rt>ぶ</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Narazumono Yōheibutai
   ko: 반란 용병 부대
   ko_rr:
+  zh-TW: 無賴者傭兵部隊
   zh-CN: 流氓佣兵部队
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードをリリースし、フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
   ko: |-
     이 카드를 릴리스하고 발동한다. 필드 위에 존재하는 몬스터 1장을 선택하고 파괴한다.
+  zh-TW: 可以释放此卡进行发动。选择并破坏场上的1只怪兽。
   zh-CN: |-
     把这张卡解放才能发动。选择场上1只怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1000

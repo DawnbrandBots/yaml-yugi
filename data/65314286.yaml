@@ -7,10 +7,11 @@ name:
   fr: Sadion le Seigneur du Temps
   it: Sadion, il Signore del Tempo
   pt: Sadion, o Senhor do Tempo
-  ja: <ruby><rb>時</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>サディオン
+  ja: <ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>サディオン
   ja_romaji: Jikaishin Sadion
   ko: 시계신 사디온
   ko_rr:
+  zh-TW:
   zh-CN: 时械神 然迪恩
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードはデッキから特殊召喚できない。①：自分フィールドにモンスターが存在しない場合、このカードはリリースなしで召喚できる。②：このカードは戦闘・効果では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。③：このカードが戦闘を行ったバトルフェイズ終了時、自分のＬＰが４０００より少ない場合に発動する。自分のＬＰは４０００になる。④：自分スタンバイフェイズに発動する。このカードを持ち主のデッキに戻す。
   ko: |-
     이 카드는 덱에서 특수 소환할 수 없다. ① : 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다. ② : 이 카드는 전투 / 효과로는 파괴되지 않으며, 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ③ : 이 카드가 전투를 실행한 배틀 페이즈 종료시, 자신의 LP가 4000 보다 적을 경우에 발동한다. 자신의 LP는 4000 이 된다. ④ : 자신 스탠바이 페이즈에 발동한다. 이 카드를 주인의 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡不能从卡组特殊召唤。①：自己场上没有怪兽存在的场合，这张卡可以不用解放作召唤。②：这张卡不会被战斗·效果破坏，这张卡的战斗发生的对自己的战斗伤害变成0。③：这张卡进行战斗的战斗阶段结束时，自己基本分比4000少的场合发动。自己基本分变成4000。④：自己准备阶段发动。这张卡回到持有者卡组。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: WIND
 level: 10
 atk: 0

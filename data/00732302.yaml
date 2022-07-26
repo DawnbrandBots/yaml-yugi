@@ -7,10 +7,11 @@ name:
   fr: Temple des Crânes
   it: Tempio dei Teschi
   pt: Templo de Crânios
-  ja: <ruby><rb>髑髏</rb><rp>（</rp><rt>ドクロ</rt><rp>）</rp></ruby>の<ruby><rb>寺</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>院</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>髑髏</rb><rt>ドクロ</rt></ruby>の<ruby><rb>寺</rb><rt>じ</rt></ruby><ruby><rb>院</rb><rt>いん</rt></ruby>
   ja_romaji: Dokuro no Ji'in
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 骷髅寺院
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     ドクロと骨ばかりの、気味の悪いお寺。近づく者を吸い込む。
   ko:
+  zh-TW:
   zh-CN: |-
     全部由骷髅和骨头建立而成的寺院。会吸收接近的人的灵魂。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 4
 atk: 900

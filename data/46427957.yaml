@@ -7,10 +7,11 @@ name:
   fr: Ruine, Reine de l'Oubli
   it: Ruin, Regina dell'Oblio
   pt: Ruína, a Rainha do Esquecimento
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>滅</rb><rp>（</rp><rt>めつ</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>ルイン
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>滅</rb><rt>めつ</rt></ruby>の<ruby><rb>女</rb><rt>め</rt></ruby><ruby><rb>神</rb><rt>がみ</rt></ruby>ルイン
   ja_romaji: Hametsu no Megami Ruin
   ko: 파멸의 여신 루인
   ko_rr:
+  zh-TW:
   zh-CN: 破灭之女神 露茵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「エンド・オブ・ザ・ワールド」により降臨。①：このカードの攻撃で相手モンスターを破壊した時に発動できる。このカードはもう１度だけ続けて攻撃できる。
   ko: |-
     "엔드 오브 더 월드"에 의해 의식 소환. 필드나 패에서 레벨의 합계가 8이 되도록 카드를 제물로 바쳐야 한다. 이 카드가 전투에 의해서 상대 몬스터를 파괴했을 경우, 1번더 이어서 공격을 실행할 수 있다.
+  zh-TW:
   zh-CN: |-
     「世界末日」降临。①：这张卡的攻击破坏对方怪兽时才能发动。这张卡只再1次可以继续攻击。
-type: Monster
-typeline: Fairy / Ritual / Effect
+card_type: Monster
+monster_type_line: Fairy / Ritual / Effect
 attribute: LIGHT
 level: 8
 atk: 2300

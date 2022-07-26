@@ -7,10 +7,11 @@ name:
   fr: Fée Hystérique
   it: Fata Isterica
   pt: Fada Histérica
-  ja: ヒステリック<ruby><rb>天使</rb><rp>（</rp><rt>エンジェル</rt><rp>）</rp></ruby>
+  ja: ヒステリック<ruby><rb>天使</rb><rt>エンジェル</rt></ruby>
   ja_romaji: Hisuterikku Enjeru
   ko: 히스테릭 천사
   ko_rr:
+  zh-TW:
   zh-CN: 歇斯底里的天使
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に存在するモンスター２体をリリースして発動する。自分は１０００ライフポイント回復する。
   ko: |-
     자신의 필드상 몬스터 2체를 제물로 바칠 때, 자신은 1000 라이프 포인트 회복한다.
+  zh-TW:
   zh-CN: |-
     把自己场上存在的2只怪兽解放发动。自己回复1000基本分。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

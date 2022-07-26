@@ -7,10 +7,11 @@ name:
   fr: Chien Marron Exceptionnel
   it: Marron Cane Fantastico
   pt: Cão Marron Fantástico
-  ja: <ruby><rb>迷</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>犬</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>マロン
+  ja: <ruby><rb>迷</rb><rt>めい</rt></ruby><ruby><rb>犬</rb><rt>けん</rt></ruby>マロン
   ja_romaji: Meiken Maron
   ko: 미아견 마론
   ko_rr: Miagyeon Maron
+  zh-TW:
   zh-CN: 迷犬 小栗子
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが墓地へ送られた時、このカードをデッキに加えてシャッフルする。
   ko: |-
     ①: 이 카드가 묘지로 보내졌을 경우에 발동한다. 이 카드를 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡被送去墓地时，这张卡加入卡组洗切。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: LIGHT
 level: 1
 atk: 100

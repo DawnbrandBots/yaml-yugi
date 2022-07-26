@@ -7,10 +7,11 @@ name:
   fr: Chevalier Unicorne D.D.
   it: D.D. Cavliere Unicorno
   pt:
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby><rb>一角戦士</rb><rp>（</rp><rt>ユニコーンナイト</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>の<ruby><rb>一角戦士</rb><rt>ユニコーンナイト</rt></ruby>
   ja_romaji: Ijigen no Yunikōn Naito
   ko: 이차원의 유니콘 나이트
   ko_rr:
+  zh-TW:
   zh-CN: 异次元的独角战士
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは通常召喚できず、このカードを特殊召喚するターン自分は通常召喚できない。このカードは相手フィールド上にモンスターが存在し、自分フィールド上にチューナーが表側表示で存在する場合に特殊召喚する事ができる。この方法で特殊召喚に成功した時、ゲームから除外されているチューナー以外のレベル３以下の自分のモンスター１体を選択して特殊召喚する事ができる。この効果で特殊召喚したモンスターの効果は無効化される。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없으며, 이 카드를 특수 소환한 턴에 자신은 일반 소환 / 세트할 수 없다. 이 카드는 상대 필드 위에 몬스터가 존재하고, 자신 필드 위에 튜너가 앞면 표시로 존재할 경우에 특수 소환할 수 있다. 이 방법으로 특수 소환에 성공했을 때, 게임에서 제외되어 있는 튜너 이외의 레벨 3 이하의 자신 몬스터 1장을 선택하고 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤，这张卡特殊召唤的回合自己不能通常召唤。这张卡在对方场上有怪兽存在，自己场上有调整表侧表示存在的场合可以特殊召唤。这个方法特殊召唤成功时，可以选择从游戏中除外的1只调整以外的3星以下的自己怪兽特殊召唤。这个效果特殊召唤的怪兽的效果无效化。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

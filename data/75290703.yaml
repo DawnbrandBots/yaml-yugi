@@ -11,10 +11,11 @@ name:
   ja_romaji: Serionzu Iregyurā
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 猛兽战团非正式战斗员
 text:
   en: |-
-    You can target up to 3 "Therion" monsters in your GY; Special Summon this card from your hand, and if you do, equip the targeted monsters to this card. You can discard 1 "Endless Engine Argyro System"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip to this card the monster it was equipped to. You can only use each effect of "Therion Irregular" once per turn.
+    You can target up to 3 "Therion" monsters in your GY; Special Summon this card from your hand, and if you do, equip them to this card. You can discard 1 "Endless Engine Argyro System"; destroy all cards your opponent controls. While this card is equipped to a monster: You can Special Summon this card, then equip the monster this card was equipped to, to this card. You can only use each effect of "Therion Irregular" once per turn.
   de:
   es:
   fr:
@@ -23,15 +24,41 @@ text:
   ja: |-
     このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地の「セリオンズ」モンスターを３体まで対象として発動できる。このカードを手札から特殊召喚し、対象のモンスターを装備カード扱いとしてこのカードに装備する。②：手札から「無尽機関アルギロ・システム」１枚を捨てて発動できる。相手フィールドのカードを全て破壊する。③：このカードが装備されている場合に発動できる。このカードを特殊召喚する。その後、このカードを装備していたモンスターを装備カード扱いとしてこのカードに装備する。
   ko:
+  zh-TW:
   zh-CN: |-
     这个卡名的①②③效果1回合各能使用1次。①：可以以自己墓地的最多3只「セリオンズ／猛兽战团」怪兽为对象发动。将这张卡从手牌特殊召唤，将对象怪兽当作装备卡使用装备给这张卡。②：可以从手牌舍弃1张「無尽機関アルギロ・システム／永动机 银星系统」发动。将对手场上的卡全部破坏。③：这张卡装备中的场合可以发动。将这张卡特殊召唤。那之后，将这张卡装备过的怪兽当作装备卡使用装备给这张卡。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 10
 atk: 1600
 def: 2800
 sets:
+  en:
+  - set_number: POTE-EN009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: POTE-DE009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: POTE-FR009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: POTE-IT009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: POTE-PT009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: POTE-JP009
     set_name: Power of the Elements
@@ -41,6 +68,19 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
   - set_number: POTE-JP009
+    set_name: Power of the Elements +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: POTE-KR009
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: POTE-KR009
     set_name: Power of the Elements +1 Bonus Pack
     rarities:
     - Ultra Rare

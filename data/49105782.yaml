@@ -7,11 +7,12 @@ name:
   fr: Hraesvelgr, l'Aigle Désespéré de la Mort
   it: Hraesvelgr, l'Aquila del Destino Disperato
   pt: Hraesvelgr, a Terrível Águia da Perdição
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby>のフレスヴェイス
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>翼</rb><rt>よく</rt></ruby>のフレスヴェイス
   ja_romaji: Shiyoku no Furesuveisu
   ko: 사익의 흐레스베이스
   ko_rr:
-  zh-CN: 毁灭巨鹰 赫拉斯瓦尔格
+  zh-TW:
+  zh-CN: 死翼之赫拉斯瓦虎钳鹰
 text:
   en: |-
     2+ WIND monsters
@@ -37,16 +38,17 @@ text:
   ko: |-
     바람 속성 몬스터 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 묘지에 몬스터가 존재하지 않을 경우, 이 카드의 공격력은 2400 올린다. ②: 상대 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱으로 되돌린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     风属性怪兽2只以上
-    只要对方墓地没有怪兽存在，这张卡的攻击力上升2400。（在自己或者对方回合）：可以以对方墓地1只怪兽为对象；那只怪兽回到卡组。「毁灭巨鹰 赫拉斯瓦尔格」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Winged Beast / Link / Effect
+    此卡名的②效果1回合仅可使用1次。①：对手墓地没有怪兽存在的情况下，此卡的攻击力上升2400。②：以对手墓地的1只怪兽为对象可以发动。将该怪兽放回牌组。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Winged Beast / Link / Effect
 attribute: WIND
 link_arrows:
-- Bottom-Left
-- Bottom-Right
-- Top-Center
+- ↙
+- ↘
+- ⬆
 atk: 2400
 materials: 2+ WIND monsters
 sets:

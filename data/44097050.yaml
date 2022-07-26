@@ -7,10 +7,11 @@ name:
   fr: Bête Fantôme Méca Auroradon
   it: Bestia Fantasma Meccanica Auroradon
   pt: Besta Fantasma Mecha Auroradon
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>アウローラドン
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby>アウローラドン
   ja_romaji: Genjūki Aurōradon
   ko: 환상수기 아우로라돈
   ko_rr: Hwansangsugi Auroradon
+  zh-TW:
   zh-CN: 幻兽机 曙光女神百头龙
 text:
   en: |-
@@ -55,6 +56,7 @@ text:
   ko: |-
     기계족 몬스터 2장 이상
     ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 자신 필드에 "환상수기 토큰"(기계족 / 바람 / 레벨 3 / 공 0 / 수 0) 3장을 특수 소환한다. 이 턴에, 자신은 링크 소환할 수 없다. ②: 1턴에 1번, 자신 필드의 몬스터를 3장까지 릴리스하고 발동할 수 있다. 릴리스한 몬스터의 수에 따라 이하의 효과를 적용한다. ●1장: 필드의 카드 1장을 골라 파괴한다. ●2장: 덱에서 "환상수기" 몬스터 1장을 특수 소환한다. ●3장: 자신 묘지에서 함정 카드 1장을 골라 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     机械族怪兽2只以上
     ①：这张卡连接召唤成功的场合才能发动。在自己场上把3只「幻兽机衍生物」（机械族·风·3星·攻/守0）特殊召唤。这个回合，自己不能连接召唤。
@@ -62,13 +64,13 @@ text:
     ●1只：选场上1张卡破坏。
     ●2只：从卡组把1只「幻兽机」怪兽特殊召唤。
     ●3只：从自己墓地选1张陷阱卡加入手卡。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: WIND
 link_arrows:
-- Middle-Left
-- Bottom-Right
-- Bottom-Center
+- ⬅
+- ↘
+- ⬇
 atk: 2100
 materials: 2+ Machine monsters
 sets:

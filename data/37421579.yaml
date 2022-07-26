@@ -7,11 +7,12 @@ name:
   fr: Charubin le Chevalier de Feu
   it: Cavaliere di Fuoco
   pt: Charubin, O Cavaleiro do Fogo
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     キラー
   ja_romaji: Honō no Kishi Kirā
   ko: 화염의 기사
   ko_rr:
+  zh-TW:
   zh-CN: 炎之骑士 基拉
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     「モンスター・エッグ」＋「スティング」
   ko: |-
     "몬스터 에그" + "불의 영혼
+  zh-TW:
   zh-CN: |-
     「怪兽蛋」＋「史汀」
-type: Monster
-typeline: Pyro / Fusion
+card_type: Monster
+monster_type_line: Pyro / Fusion
 attribute: FIRE
 level: 3
 atk: 1100

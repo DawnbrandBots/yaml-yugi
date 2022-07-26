@@ -7,10 +7,11 @@ name:
   fr: Robobureau 002
   it: Deskbot 002
   pt: Robô-secretário 002
-  ja: ブンボーグ<ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>０</rb><rp>（</rp><rt>ゼロ</rt><rp>）</rp></ruby><ruby><rb>２</rb><rp>（</rp><rt>ツー</rt><rp>）</rp></ruby>
+  ja: ブンボーグ<ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>０</rb><rt>ゼロ</rt></ruby><ruby><rb>２</rb><rt>ツー</rt></ruby>
   ja_romaji: Bunbōgu Zero Zero Tsū
-  ko: 분보그<ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>0</rb><rp>（</rp><rt>제로</rt><rp>）</rp></ruby><ruby><rb>2</rb><rp>（</rp><rt>투</rt><rp>）</rp></ruby>
+  ko: 분보그<ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>0</rb><rt>제로</rt></ruby><ruby><rb>2</rb><rt>투</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 文具电子人002
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：このカードが特殊召喚に成功した場合に発動できる。デッキから「ブンボーグ」カード１枚を手札に加える。②：このカードがモンスターゾーンに存在する限り、このカード以外の自分フィールドの機械族モンスターの攻撃力・守備力は５００アップする。
   ko: |-
     ① : 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "분보그" 카드 1장을 패에 넣는다. ② : 이 카드가 몬스터 존에 존재하는 한, 이 카드 이외의 자신 필드의 기계족 몬스터의 공격력 / 수비력은 500 올린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡特殊召唤成功的场合才能发动。从卡组把1张「文具电子人」卡加入手卡。
     ②：只要这张卡在怪兽区域存在，这张卡以外的自己场上的机械族怪兽的攻击力·守备力上升500。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 2
 atk: 500

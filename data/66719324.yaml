@@ -7,10 +7,11 @@ name:
   fr: Pluie de Compassion
   it: Pioggia Misericordiosa
   pt: Chuva da Misericórdia
-  ja: <ruby><rb>恵</rb><rp>（</rp><rt>めぐ</rt><rp>）</rp></ruby>みの<ruby><rb>雨</rb><rp>（</rp><rt>あめ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>恵</rb><rt>めぐ</rt></ruby>みの<ruby><rb>雨</rb><rt>あめ</rt></ruby>
   ja_romaji: Megumi no Ame
   ko: 은혜의 단비
   ko_rr:
+  zh-TW:
   zh-CN: 恩惠之雨
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     お互いのプレイヤーは１０００ライフポイント回復する。
   ko: |-
     양쪽의 플레이어는 1000 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     双方玩家回复1000基本分。
-type: Spell
+card_type: Spell
 property: Normal

@@ -7,11 +7,12 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>決</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>闘</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>決</rb><rt>けっ</rt></ruby><ruby><rb>闘</rb><rt>とう</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
     デュエル・リンク・ドラゴン
   ja_romaji: Kettōryū Dyueru Rinku Doragon
   ko: 결투룡 듀얼 링크 드래곤
   ko_rr: Gyeolturyong Dyueol Ringkeu Deuraegon
+  zh-TW:
   zh-CN: 决斗龙 决斗连接龙
 text:
   en: |-
@@ -28,19 +29,20 @@ text:
   ko: |-
     싱크로 몬스터를 포함하는 몬스터 2장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대의 메인 페이즈에, 엑스트라 덱에서 "파워 툴" 싱크로 몬스터 또는 레벨 7 / 8 의 드래곤족 싱크로 몬스터 1장을 제외하고 발동할 수 있다. 그 몬스터와 같은 종족 / 속성 / 레벨 / 공격력 / 수비력을 가지는 "결투룡 토큰" 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. ②: 자신 필드에 "결투룡 토큰"이 존재할 경우, 상대는 이 카드를 공격 대상으로 선택할 수 없으며, 효과의 대상으로도 할 수 없다.
+  zh-TW:
   zh-CN: |-
     包含同调怪兽的怪兽2只以上
     这个卡名的①的效果1回合只能使用1次。
     ①：自己·对方的主要阶段，从额外卡组把1只「动力工具」同调怪兽或者7·8星的龙族同调怪兽除外才能发动。把持有和那只怪兽相同种族·属性·等级·攻击力·守备力的1只「决斗龙衍生物」在作为这张卡所连接区的自己场上特殊召唤。
     ②：自己场上有「决斗龙衍生物」存在的场合，对方不能选择这张卡作为攻击对象，也不能作为效果的对象。
-type: Monster
-typeline: Dragon / Link / Effect
+card_type: Monster
+monster_type_line: Dragon / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Left
-- Bottom-Left
-- Bottom-Right
-- Middle-Right
+- ⬅
+- ↙
+- ↘
+- ➡
 atk: 0
 materials: 2+ monsters, including a Synchro Monster
 sets:

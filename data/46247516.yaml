@@ -7,11 +7,12 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>陰</rb><rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby><rb>陽</rb><rp>（</rp><rt>みょう</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>陰</rb><rt>おん</rt></ruby><ruby><rb>陽</rb><rt>みょう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
     タオ
   ja_romaji: Onmyōshi Tao
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 阴阳师 道
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     陰と陽の力を浸食させ、歪んだ力を生み出す魔導士。
   ko:
+  zh-TW:
   zh-CN: |-
     侵蚀阴与阳的力量、产生出邪恶力量的魔导师。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: EARTH
 level: 3
 atk: 1200

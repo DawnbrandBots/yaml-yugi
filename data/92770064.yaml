@@ -7,10 +7,11 @@ name:
   fr: Dryarbre Solairavalon
   it: Solaravalon Driadentia
   pt: Driatreantiay de Solaravalon
-  ja: <ruby><rb>聖天樹の大母神</rb><rp>（</rp><rt>サンアバロン・ドリュアトランティエ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖天樹の大母神</rb><rt>サンアバロン・ドリュアトランティエ</rt></ruby>
   ja_romaji: San Abaron Doryuatorantie
   ko: 생아발론 드리아트란티에
   ko_rr: Saeng-aballon Deuriateurantie
+  zh-TW:
   zh-CN: 圣天树之大母神
 text:
   en: |-
@@ -37,19 +38,20 @@ text:
   ko: |-
     링크 몬스터 2장 이상
     ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "생아발론" 마법 / 함정 카드 1장을 패에 넣는다. ②: 이 카드는 상대 효과로는 파괴되지 않으며, 공격 대상이 되지 않는다(이 효과가 적용된 몬스터밖에 자신 필드에 존재하지 않은 상태에서의 상대의 공격은 자신에게로의 직접 공격이 된다). ③: 1턴에 1번, 이 카드의 링크 앞의 자신의 링크 몬스터 1장을 릴리스하고 발동할 수 있다. 그 링크 마커의 수까지, 상대 필드의 카드를 고르고 파괴한다.
+  zh-TW:
   zh-CN: |-
     连接怪兽2只以上
     ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「圣天树」魔法·陷阱卡加入手卡。
     ②：这张卡不会被对方的效果破坏，不会被作为攻击对象（自己场上只有被这个效果适用的怪兽存在的状态中对方的攻击变成对自己的直接攻击）。
     ③：1回合1次，把这张卡所连接区1只自己的连接怪兽解放才能发动。选最多有那个连接标记数量的对方场上的卡破坏。
-type: Monster
-typeline: Plant / Link / Effect
+card_type: Monster
+monster_type_line: Plant / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
-- Top-Center
+- ↙
+- ⬇
+- ↘
+- ⬆
 atk: 0
 materials: 2+ Link Monsters
 sets:

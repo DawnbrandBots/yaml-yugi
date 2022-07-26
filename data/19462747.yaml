@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Décomposition le Vent Néfaste
   it: Alanera - Decay il Vento Malefico
   pt: Asanegra - Decadência do Vento Enfermo
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>弔</rb><rp>（</rp><rt>とむらい</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>のデス
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>弔</rb><rt>とむらい</rt></ruby><ruby><rb>風</rb><rt>かぜ</rt></ruby>のデス
   ja_romaji: Burakku Fezā - Tomurai Kaze no Desu
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－조풍의 데스
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－조풍의 데스
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽-吊风之戴思
 text:
   en: |-
@@ -50,10 +51,11 @@ text:
     ●대상 몬스터의 레벨을 1개 올린다.
     ●대상 몬스터의 레벨을 1개 내린다.
     ②: 이 카드가 묘지로 보내진 턴의 엔드 페이즈에 발동한다. 자신은 1000 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     「黑羽-吊风之戴思」的①的效果1回合只能使用1次。①：这张卡召唤·特殊召唤成功时，可以以自己场上1只「黑羽」怪兽为对象，从以下效果选择1个发动。●作为对象的怪兽的等级上升1星。●作为对象的怪兽的等级下降1星。②：这张卡被送去墓地的回合的结束阶段发动。自己受到1000伤害。
-type: Monster
-typeline: Winged Beast / Tuner / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Tuner / Effect
 attribute: DARK
 level: 4
 atk: 1000

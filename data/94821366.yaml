@@ -7,11 +7,11 @@ name:
   fr: Arlekino Administrateur de l'Incroyable
   it: Prodigioso Amministratore Arlekino
   pt: Arlekino, o Administrador da Diversão
-  ja: <ruby><rb>驚楽園の支配人</rb><rp>（</rp><rt>アメイズメント・アドミニストレーター</rt><rp>）</rp></ruby>
-    ＜<ruby><rb>Ɐｒｌｅｃｈｉｎｏ</rb><rp>（</rp><rt>アルレキーノ</rt><rp>）</rp></ruby>＞
+  ja: <ruby><rb>驚楽園の支配人</rb><rt>アメイズメント・アドミニストレーター</rt></ruby> ＜<ruby><rb>Ɐｒｌｅｃｈｉｎｏ</rb><rt>アルレキーノ</rt></ruby>＞
   ja_romaji: Ameizumento Adominisutorētā <Arurekīno>
-  ko: 어메이즈먼트 어드미니스트레이터 <ruby><rb>＜∀rlechino＞</rb><rp>（</rp><rt>아를래키노</rt><rp>）</rp></ruby>
+  ko: 어메이즈먼트 어드미니스트레이터 <ruby><rb>＜∀rlechino＞</rb><rt>아를래키노</rt></ruby>
   ko_rr: Eomeijeumeonteu Eodeuminiseuteureiteo Areullaekino
+  zh-TW:
   zh-CN: 惊乐园的支配人 ＜∀丑角＞
 text:
   en: |-
@@ -30,13 +30,14 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：罠カードが発動した場合に発動できる。このカードを手札から特殊召喚する。②：相手がモンスターの召喚・特殊召喚に成功した場合、その相手モンスター１体を対象として発動できる。デッキから「アトラクション」罠カード１枚を選び、その相手モンスターに装備する。③：１ターンに１度、自分の墓地から「アトラクション」罠カードを任意の数だけ除外し、その数だけ相手フィールドのカードを対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 함정 카드가 발동했을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 상대가 몬스터의 일반 소환 / 특수 소환에 성공했을 경우, 그 상대 몬스터 1장을 대상으로 하고 발동할 수 있다. 덱에서 "어트랙션" 함정 카드 1장을 고르고, 그 상대 몬스터에 장착한다. ③: 1턴에 1번, 자신 묘지에서 "어트랙션" 함정 카드를 임의의 수만큼 제외하고, 그 수만큼 상대 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：陷阱卡发动的场合才能发动。这张卡从手卡特殊召唤。
     ②：对方对怪兽的召唤·特殊召唤成功的场合，以那1只对方怪兽为对象才能发动。从卡组选1张「游乐设施」陷阱卡给那只对方怪兽装备。
     ③：1回合1次，从自己墓地把「游乐设施」陷阱卡任意数量除外，以那个数量的对方场上的卡为对象才能发动。那些卡破坏。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: DARK
 level: 7
 atk: 2600

@@ -7,10 +7,11 @@ name:
   fr: Absorption de l'Âme
   it: Assorbi Anime
   pt: Absorção de Alma
-  ja: <ruby><rb>魂</rb><rp>（</rp><rt>たましい</rt><rp>）</rp></ruby><ruby><rb>吸</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魂</rb><rt>たましい</rt></ruby><ruby><rb>吸</rb><rt>きゅう</rt></ruby><ruby><rb>収</rb><rt>しゅう</rt></ruby>
   ja_romaji: Tamashī Kyūshū
   ko: 영혼 흡수
   ko_rr:
+  zh-TW:
   zh-CN: 魂吸收
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカードのコントローラーはカードがゲームから除外される度に、１枚につき５００ライフを回復する。
   ko: |-
     이 카드의 콘트롤러는 카드가 게임에서 제외될 때마다, 1장당 500 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     这张卡的控制者每次卡从游戏中除外，回复每1张500基本分。
-type: Spell
+card_type: Spell
 property: Continuous

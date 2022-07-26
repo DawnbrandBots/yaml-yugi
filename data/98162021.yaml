@@ -7,10 +7,11 @@ name:
   fr: Légionnaire de Shien
   it: Temerario di Shien
   pt: Temerário do Shien
-  ja: <ruby><rb>紫</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby>の<ruby><rb>荒</rb><rp>（</rp><rt>あら</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>紫</rb><rt>シ</rt></ruby><ruby><rb>炎</rb><rt>エン</rt></ruby>の<ruby><rb>荒</rb><rt>あら</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Shien no Aramusha
   ko: 시엔의 황무자
   ko_rr:
+  zh-TW:
   zh-CN: 紫炎的荒武者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚に成功した時、このカードに武士道カウンターを１つ置く（最大１つまで）。このカードに武士道カウンターが乗っている場合、このカードの攻撃力は３００ポイントアップする。また、１ターンに１度、このカードに乗っている武士道カウンターを取り除き、フィールド上に表側表示で存在する武士道カウンターを置く事ができるカード１枚を選択して武士道カウンターを１つ置く事ができる。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 이 카드에 무사도 카운터를 1개 놓는다(최대 1개까지). 이 카드에 무사도 카운터가 얹혀 있을 경우, 이 카드의 공격력은 300 포인트 올린다. 또한, 1턴에 1번, 이 카드에 얹혀 있는 무사도 카운터를 제거하고, 필드 위에 앞면 표시로 존재하는 무사도 카운터를 놓을 수 있는 카드 1장을 선택하고 무사도 카운터를 1개 놓을 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，给这张卡放置1个武士道指示物（最多1个）。这张卡有武士道指示物放置的场合，这张卡的攻击力上升300。此外，1回合1次，可以把这张卡放置的武士道指示物取除，并选择场上表侧表示存在的1张可以放置武士道指示物的卡放置1个武士道指示物。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1600

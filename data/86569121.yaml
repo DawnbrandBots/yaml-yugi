@@ -7,10 +7,11 @@ name:
   fr: Melchid la Bête aux Quatre Visages
   it: Melchid la Bestia Quattro Facce
   pt: Melchid a Besta de Quatro Faces
-  ja: メルキド<ruby><rb>四</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>面</rb><rp>（</rp><rt>めん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: メルキド<ruby><rb>四</rb><rt>し</rt></ruby><ruby><rb>面</rb><rt>めん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
   ja_romaji: Merukido Shimenjū
   ko: 멜키드 사면수
   ko_rr:
+  zh-TW:
   zh-CN: 梅尔基多四面兽
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ４つの仮面を切り替えながら、４種類の攻撃をしてくる化け物。
   ko: |-
     4개의 가면을 바꿔가며, 4가지 공격을 해오는 괴물.
+  zh-TW:
   zh-CN: |-
     不断变化着四种面具并发动四种攻击的怪兽。
-type: Monster
-typeline: Fiend / Normal
+card_type: Monster
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1500

@@ -7,10 +7,11 @@ name:
   fr: Assaillant des Ténèbres
   it: Assalitore Oscuro
   pt: Assassino das Trevas
-  ja: <ruby><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby>の<ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>殺</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>闇</rb><rt>やみ</rt></ruby>の<ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>殺</rb><rt>さつ</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Yami no Ansatsusha
   ko: 어둠의 암살자
   ko_rr:
+  zh-TW:
   zh-CN: 暗之暗杀者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     サイコソードと呼ばれる剣を持ち、魔界に君臨する暗殺者。
   ko: |-
     사이코 검이라 불리는 검을 가지고 마계에 군림하는 암살자.
+  zh-TW:
   zh-CN: |-
     持有精神之剑、君临魔界的暗杀者。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 4
 atk: 1200

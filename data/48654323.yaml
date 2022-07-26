@@ -7,10 +7,11 @@ name:
   fr: Relique Blanche de Dogmatika
   it: Reliquia Bianca della Dogmatika
   pt: Relíquia Branca de Dogmatika
-  ja: <ruby><rb>凶導</rb><rp>（</rp><rt>ドラグマ</rt><rp>）</rp></ruby>の<ruby><rb>白聖骸</rb><rp>（</rp><rt>アルバス・セイント</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>凶導</rb><rt>ドラグマ</rt></ruby>の<ruby><rb>白聖骸</rb><rt>アルバス・セイント</rt></ruby>
   ja_romaji: Doraguma no Arubasu Seinto
   ko: 드래그마의 알버스 세인트
   ko_rr: Deuraegeuma-ui Albeoseu Seinteu
+  zh-TW:
   zh-CN: 凶导的白圣骸
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     「凶導の葬列」により降臨。このカード名の③の効果は１ターンに１度しか使用できない。①：このカードが儀式召喚に成功した場合、フィールドの表側表示モンスター２体を対象として発動できる。その内１体の攻撃力を、もう１体の攻撃力分アップする。②：レベル８以上の自分の「ドラグマ」モンスターは戦闘では破壊されない。③：相手のＥＸデッキからモンスターが特殊召喚された場合に発動できる。相手のＥＸデッキを確認し、その内のモンスター１体を選んで墓地へ送る。
   ko: |-
     "드래그마카브르"에 의해 의식 소환. 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 의식 소환에 성공했을 경우, 필드의 앞면 표시 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 중 1장의 공격력을, 나머지 1장의 공격력만큼 올린다. ②: 레벨 8 이상의 자신의 "드래그마" 몬스터는 전투로는 파괴되지 않는다. ③: 상대의 엑스트라 덱에서 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 상대의 엑스트라 덱을 확인하고, 그 중의 몬스터 1장을 골라 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     「凶导的葬列」降临。这个卡名的③的效果1回合只能使用1次。
     ①：这张卡仪式召唤成功的场合，以场上2只表侧表示怪兽为对象才能发动。那之内1只的攻击力上升另1只的攻击力数值。
     ②：8星以上的自己的「教导」怪兽不会被战斗破坏。
     ③：从对方的额外卡组有怪兽特殊召唤的场合才能发动。把对方的额外卡组确认，选那之内的1只怪兽送去墓地。
-type: Monster
-typeline: Spellcaster / Ritual / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Ritual / Effect
 attribute: LIGHT
 level: 4
 atk: 500

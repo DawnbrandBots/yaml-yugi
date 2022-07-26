@@ -7,10 +7,11 @@ name:
   fr: Gaiodiaz, Bête Gladiateur
   it: Gladiatore Bestia Gaiodiaz
   pt: Besta Gladiadora Gaiodiaz
-  ja: <ruby><rb>剣闘獣</rb><rp>（</rp><rt>グラディアルビースト</rt><rp>）</rp></ruby>ゲオルディアス
+  ja: <ruby><rb>剣闘獣</rb><rt>グラディアルビースト</rt></ruby>ゲオルディアス
   ja_romaji: Guradiaru Bīsuto Georudiasu
   ko: 검투수 게오르디어스
   ko_rr:
+  zh-TW:
   zh-CN: 剑斗兽 乔治
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     「검투수스파르티크스」＋「검투수」
     라고 이름이 붙은 몬스터 자신 필드상에 존재하는 상기의 카드를 데크에 되돌렸을 경우만, 융합 데크로부터 특수 소환이 가능(「융합」마법 카드는 필요로 하지 않는다). 이 카드가 전투에 의해서 몬스터를 파괴해 묘지에 보냈을 때, 파괴한 몬스터의 수비력 분의 데미지를 상대 라이프에게 준다. 이 카드가 전투를 실시한 배틀 페이즈 종료시에 이 카드를 융합 덱에 되돌리는 일로, 데크로부터 「검투수스파르티크스」이외의 「검투수」라고 이름이 붙은 몬스터 2체를 자신 필드상에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「剑斗兽 斯巴达克斯」＋名字带有「剑斗兽」的怪兽
     让自己场上存在的上记的卡回到卡组的场合才能从融合卡组特殊召唤（不需要「融合」魔法卡）。这张卡战斗破坏怪兽送去墓地时，给与对方基本分破坏的怪兽的守备力数值的伤害。这张卡进行战斗的战斗阶段结束时可以通过让这张卡回到融合卡组，从卡组把「剑斗兽 斯巴达克斯」以外的2只名字带有「剑斗兽」的怪兽在自己场上特殊召唤。
-type: Monster
-typeline: Dinosaur / Fusion / Effect
+card_type: Monster
+monster_type_line: Dinosaur / Fusion / Effect
 attribute: DARK
 level: 7
 atk: 2600

@@ -7,10 +7,11 @@ name:
   fr: "Numéro 89 : Diablosis le Pirate de l'Esprit"
   it: "Numero 89: Diablosis l'Hacker di Menti"
   pt: 'Número 89: Diablosis, o Hackeador de Mentes'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>８９ <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>脳</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>ディアブロシス
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>８９ <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>脳</rb><rt>のう</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>ディアブロシス
   ja_romaji: Nanbāzu Hachijūkyū Dennōjū Diaburoshisu
   ko: No.89 전뇌수 디아블로시스
   ko_rr:
+  zh-TW:
   zh-CN: No.89 电脑兽 系统破坏神
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 7 몬스터 × 2
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대의 엑스트라 덱을 확인하고, 그 중 1장을 골라 뒷면 표시로 제외한다. ② : 이 카드가 전투로 몬스터를 파괴한 배틀 페이즈 종료시, 상대 묘지의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 뒷면 표시로 제외한다. ③ : 상대의 카드가 뒷면 표시로 제외되었을 경우에 발동할 수 있다. 뒷면 표시로 제외되어 있는 상대 카드의 수만큼, 상대의 덱 위에서 카드를 뒷면 표시로 제외한다.
+  zh-TW:
   zh-CN: |-
     7星怪兽×2
     这个卡名的③的效果1回合只能使用1次。①：1回合1次，把这张卡1个XYZ素材取除才能发动。把对方的额外卡组确认，选那之内的1张里侧表示除外。②：这张卡战斗破坏怪兽的战斗阶段结束时，以对方墓地1张卡为对象才能发动。那张卡里侧表示除外。③：对方的卡被里侧表示除外的场合才能发动。把里侧表示除外中的对方的卡数量的卡从对方卡组上面里侧表示除外。
-type: Monster
-typeline: Psychic / Xyz / Effect
+card_type: Monster
+monster_type_line: Psychic / Xyz / Effect
 attribute: DARK
 rank: 7
 atk: 2800

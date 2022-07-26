@@ -7,10 +7,11 @@ name:
   fr: Gros Œil
   it: Grande Occhio
   pt: Grande Olho
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>目</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>玉</rb><rp>（</rp><rt>だま</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>目</rb><rt>め</rt></ruby><ruby><rb>玉</rb><rt>だま</rt></ruby>
   ja_romaji: Daiō Medama
   ko: 빅아이
   ko_rr:
+  zh-TW:
   zh-CN: 眼球大王
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     VIRE: Veja os 5 cards do topo do seu Deck e, depois, coloque-os no topo do Deck em qualquer ordem.
   ja: |-
-    リバース：<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>のデッキの上からカードを５<ruby><rb>枚</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby>まで<ruby><rb>確</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>認</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>し、<ruby><rb>好</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby>きな<ruby><rb>順</rb><rp>（</rp><rt>じゅん</rt><rp>）</rp></ruby><ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby>でデッキの上に<ruby><rb>戻</rb><rp>（</rp><rt>もど</rt><rp>）</rp></ruby>す。
+    リバース：<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>のデッキの上からカードを５<ruby><rb>枚</rb><rt>まい</rt></ruby>まで<ruby><rb>確</rb><rt>かく</rt></ruby><ruby><rb>認</rb><rt>にん</rt></ruby>し、<ruby><rb>好</rb><rt>す</rt></ruby>きな<ruby><rb>順</rb><rt>じゅん</rt></ruby><ruby><rb>番</rb><rt>ばん</rt></ruby>でデッキの上に<ruby><rb>戻</rb><rt>もど</rt></ruby>す。
   ko: |-
     리버스 : 자신의 덱의 카드를 위에서 부터 5장 보고, 그 카드를 좋아하는 순서대로 바꿀 수 있다.
+  zh-TW:
   zh-CN: |-
     从自己卡组上面把最多5张卡确认，用喜欢的顺序回到卡组上面。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 4
 atk: 1200

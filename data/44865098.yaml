@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby>の<ruby><rb>兵</rb><rt>へい</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Kikai no Heitai
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 机械士兵
 text:
   en: |-
@@ -23,10 +24,11 @@ text:
   ja: |-
     機械王を警護する兵隊。丸い体でゴロゴロ転がってくる。
   ko:
+  zh-TW:
   zh-CN: |-
     护卫机械王的兵队。圆圆的身体到处转动着进行巡逻。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: DARK
 level: 5
 atk: 1500

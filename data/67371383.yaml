@@ -7,10 +7,11 @@ name:
   fr: Bête Amphibie
   it: Bestia Anfibia
   pt:
-  ja: <ruby><rb>半</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby><rb>魚</rb><rp>（</rp><rt>ぎょ</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>・フィッシャービースト
+  ja: <ruby><rb>半</rb><rt>はん</rt></ruby><ruby><rb>魚</rb><rt>ぎょ</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>・フィッシャービースト
   ja_romaji: Hangyojū Fisshā Bīsuto
   ko: 인어 괴물 피셔 비스트
   ko_rr:
+  zh-TW:
   zh-CN: 半鱼兽
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     陸では獣のように、海では魚のように素早く攻撃する。
   ko: |-
     육지에서는 야수처럼, 바다에서는 물고기처럼 재빠르게 공격한다.
+  zh-TW:
   zh-CN: |-
     在陆地像兽一样，在海里像鱼一样都能快速攻击。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: WATER
 level: 6
 atk: 2400

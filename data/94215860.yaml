@@ -7,10 +7,11 @@ name:
   fr: Yasha
   it: Yaksha
   pt:
-  ja: <ruby><rb>夜</rb><rp>（</rp><rt>ヤ</rt><rp>）</rp></ruby><ruby><rb>叉</rb><rp>（</rp><rt>シャ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>夜</rb><rt>ヤ</rt></ruby><ruby><rb>叉</rb><rt>シャ</rt></ruby>
   ja_romaji: Yasha
   ko: 야차
   ko_rr:
+  zh-TW:
   zh-CN: 夜叉
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。このカードが召喚・リバースした時、相手フィールド上に存在する魔法・罠カード１枚を選択して持ち主の手札に戻す事ができる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 일반 소환 / 리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌아간다. 이 카드가 일반 소환 / 리버스했을 때, 상대 필드 위에 존재하는 마법 / 함정 카드 1장을 선택하고 주인의 패로 되돌릴 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。召唤·反转的回合的结束阶段时回到持有者手卡。这张卡召唤·反转时，可以选择对方场上存在的1张魔法·陷阱卡回到持有者手卡。
-type: Monster
-typeline: Fairy / Spirit
+card_type: Monster
+monster_type_line: Fairy / Spirit
 attribute: WATER
 level: 4
 atk: 1900

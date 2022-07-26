@@ -7,10 +7,11 @@ name:
   fr: Ryu Okami
   it: Ryu Okami
   pt: Ryu Okami
-  ja: <ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>龍</rb><rt>りゅう</rt></ruby><ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>神</rb><rt>かみ</rt></ruby>
   ja_romaji: Ryū Ōkami
   ko: 용대신
   ko_rr:
+  zh-TW:
   zh-CN: 龙大神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手がモンスターの特殊召喚に成功した場合に発動する。相手はエクストラデッキのカード１枚を選んで墓地へ送る。
   ko: |-
     ① : 상대가 몬스터의 특수 소환에 성공했을 경우에 발동한다. 상대는 엑스트라 덱의 카드 1장을 고르고 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     ①：对方对怪兽的特殊召唤成功的场合发动。对方选额外卡组1张卡送去墓地。
-type: Monster
-typeline: Wyrm / Effect
+card_type: Monster
+monster_type_line: Wyrm / Effect
 attribute: LIGHT
 level: 8
 atk: 2900

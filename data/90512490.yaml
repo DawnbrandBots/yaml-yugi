@@ -11,7 +11,8 @@ name:
   ja_romaji: Gurētofurai
   ko: 그레이트플라이
   ko_rr:
-  zh-CN: 巨蝇
+  zh-TW:
+  zh-CN: 超刃蝇
 text:
   en: |-
     2 WIND monsters
@@ -37,17 +38,16 @@ text:
   ko: |-
     바람 속성 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 몬스터 존에 존재하는 한, 필드의 바람 속성 몬스터의 공격력 / 수비력은 500 올리고, 땅 속성 몬스터의 공격력 / 수비력은 400 내린다. ② : 이 카드가 전투 / 효과로 파괴되었을 경우, 자신 묘지의 바람 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     风属性怪兽2只
-    这个卡名的②的效果1回合只能使用1次。
-    ①：场上的风属性怪兽的攻击力·守备力上升500，地属性怪兽的攻击力·守备力下降400。
-    ②：这张卡被战斗·效果破坏的场合，以自己墓地1只风属性怪兽为对象才能发动。那只怪兽加入手卡。
-type: Monster
-typeline: Insect / Link / Effect
+    此卡名的②效果1回合仅可使用1次。①：场上的风属性怪兽的攻击力・守备力上升500，地属性怪兽的攻击力・守备力下降400。②：此卡因战斗・效果被破坏的情况下，以自己墓地的1只风属性怪兽为对象可以发动。将该怪兽加入手牌。
+card_type: Monster
+monster_type_line: Insect / Link / Effect
 attribute: WIND
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1400
 materials: 2 WIND monsters
 sets:

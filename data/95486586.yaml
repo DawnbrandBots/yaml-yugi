@@ -7,10 +7,11 @@ name:
   fr: Core, HÉROS Élémentaire
   it: Core EROE Elementale
   pt: Núcleo, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> <ruby><rb>Ｃｏｒｅ</rb><rp>（</rp><rt>コア</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> <ruby><rb>Ｃｏｒｅ</rb><rt>コア</rt></ruby>
   ja_romaji: Erementaru Hīrō Koa
-  ko: 엘리멘틀 히어로 <ruby><rb>Core</rb><rp>（</rp><rt>코어</rt><rp>）</rp></ruby>
+  ko: 엘리멘틀 히어로 <ruby><rb>Core</rb><rt>코어</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 地核侠
 text:
   en: |-
@@ -37,14 +38,15 @@ text:
   ko: |-
     "엘리멘틀 히어로" 몬스터 × 3
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 1턴에 1번, 이 카드가 공격 대상이 되었을 때에 발동할 수 있다. 이 카드의 공격력은 그 데미지 스텝 종료시까지 배가 된다. ②: 이 카드가 전투를 실행한 배틀 페이즈 종료시, 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. ③: 이 카드가 전투 / 효과로 파괴되었을 때, 자신 묘지의 레벨 8 이하의 "엘리멘틀 히어로" 융합 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 소환 조건을 무시하고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「元素英雄」怪兽×3
     这张卡不用融合召唤不能特殊召唤。
     ①：1回合1次，这张卡成为攻击对象时才能发动。这张卡的攻击力直到那次伤害步骤结束时变成2倍。
     ②：这张卡进行战斗的战斗阶段结束时，以场上1只怪兽为对象才能发动。那只怪兽破坏。
     ③：这张卡被战斗·效果破坏时，以自己墓地1只8星以下的「元素英雄」融合怪兽为对象才能发动。那只怪兽无视召唤条件特殊召唤。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: EARTH
 level: 9
 atk: 2700

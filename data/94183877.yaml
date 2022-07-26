@@ -7,11 +7,12 @@ name:
   fr: Loptr, Ombre des Boss Genèraideur
   it: Loptr, Ombra dei Boss Generaider
   pt: Loptr, Sombra dos Chefes Generaidores
-  ja: <ruby><rb>王の影</rb><rp>（</rp><rt>ジェネレイド・シャドウ</rt><rp>）</rp></ruby> ロプトル
+  ja: <ruby><rb>王の影</rb><rt>ジェネレイド・シャドウ</rt></ruby> ロプトル
   ja_romaji: Jenereido Shadou Roputoru
   ko: 제너레이드 섀도우 로프톨
   ko_rr: Jeneoreideu Syaedou Ropeutol
-  zh-CN: 王战之影 洛普特
+  zh-TW:
+  zh-CN: 创王之影 洛普托尔
 text:
   en: |-
     You can only control 1 "Loptr, Shadow of the Generaider Bosses". All "Generaider" monsters you control gain 1000 ATK/DEF during your opponent's turn only. During the Main Phase (Quick Effect): You can Tribute 1 "Generaider" monster; Special Summon 1 Level 9 "Generaider" monster with a different name from your Deck. You can only use this effect of "Loptr, Shadow of the Generaider Bosses" once per turn.
@@ -29,13 +30,11 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：「王の影 ロプトル」は自分フィールドに１体しか表側表示で存在できない。②：自分フィールドの「ジェネレイド」モンスターの攻撃力・守備力は相手ターンの間１０００アップする。③：自分・相手のメインフェイズに、自分フィールドの「ジェネレイド」モンスター１体をリリースして発動できる。そのモンスターとはカード名が異なるレベル９の「ジェネレイド」モンスター１体をデッキから特殊召喚する。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "제너레이드 섀도우 로프톨"은 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 필드의 "제너레이드" 몬스터의 공격력 / 수비력은 상대 턴 동안 1000 올린다. ③: 자신 / 상대의 메인 페이즈에, 자신 필드의 "제너레이드" 몬스터 1장을 릴리스하고 발동할 수 있다. 그 몬스터와는 카드명이 다른 레벨 9 의 "제너레이드" 몬스터 1장을 덱에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的③的效果1回合只能使用1次。
-    ①：「王战之影 洛普特」在自己场上只能有1只表侧表示存在。
-    ②：自己场上的「王战」怪兽的攻击力·守备力在对方回合内上升1000。
-    ③：自己·对方的主要阶段，把自己场上1只「王战」怪兽解放才能发动。和那只怪兽卡名不同的1只9星「王战」怪兽从卡组特殊召唤。
-type: Monster
-typeline: Fairy / Effect
+    此卡名的③效果1回合仅可使用1次。①："创王之影 洛普托尔"在自己场上仅可有1只以表侧表示存在。②：自己场上的"创王"怪兽的攻击力・守备力在对手回合期间上升1000。③：在自己・对手的主要阶段，解放自己场上的1只"创王"怪兽可以发动。将1只与该怪兽卡名不同的等级9"创王"怪兽从牌组特殊召唤。
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: FIRE
 level: 4
 atk: 1500

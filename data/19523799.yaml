@@ -7,10 +7,11 @@ name:
   fr: Ookazi
   it: Ookazi
   pt: Ookazi
-  ja: <ruby><rb>昼</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby><rb>夜</rb><rp>（</rp><rt>や</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>事</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>昼</rb><rt>ちゅう</rt></ruby><ruby><rb>夜</rb><rt>や</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>事</rb><rt>じ</rt></ruby>
   ja_romaji: Chūya no Ōkaji
   ko: 대화재
   ko_rr:
+  zh-TW:
   zh-CN: 昼夜的大火事
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手ライフに８００ポイントダメージを与える。
   ko: |-
     상대의 라이프 포인트에 800 포인트의 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     给与对方基本分800分伤害。
-type: Spell
+card_type: Spell
 property: Normal

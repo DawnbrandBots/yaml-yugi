@@ -7,10 +7,11 @@ name:
   fr: Suppression du Monde
   it: Soppressione del Mondo
   pt:
-  ja: <ruby><rb>世</rb><rp>（</rp><rt>せ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>平</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>定</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>世</rb><rt>せ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>平</rb><rt>へい</rt></ruby><ruby><rb>定</rb><rt>てい</rt></ruby>
   ja_romaji: Sekai no Heitei
   ko: 세계 평정
   ko_rr:
+  zh-TW:
   zh-CN: 世界平定
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     フィールドカードが発動された時に発動する事ができる。ターン終了時までフィールドカードの効果を無効にする。
   ko: |-
     필드 카드가 발동되었을 때, 발동할 수 있다. 턴 종료시까지 필드 카드의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     场上卡发动时才能发动。直到回合结束时场上卡的效果无效。
-type: Trap
+card_type: Trap
 property: Normal

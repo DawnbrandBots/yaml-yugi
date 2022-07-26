@@ -7,10 +7,11 @@ name:
   fr: Le Souffle du Dragon
   it: Fiammata di Drago
   pt: Tiro do Dragão
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>弾</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>の<ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>弾</rb><rt>だん</rt></ruby>
   ja_romaji: Karyū no Kaendan
   ko: 화룡의 화염탄
   ko_rr:
+  zh-TW:
   zh-CN: 火龙的火炎弹
 text:
   en: |-
@@ -45,9 +46,10 @@ text:
     자신 필드 위에 앞면 표시의 드래곤족 몬스터가 존재할 때, 다음 효과에서 1개를 선택하고 발동한다.
     ●상대 플레이어에게 800 포인트 데미지를 준다.
     ●수비력이 800 포인트 이하의 앞면 표시 몬스터 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己场上有龙族怪兽表侧表示存在的场合，从下面效果中选择1个发动。
     ●给与对方基本分800分伤害。
     ●选择场上表侧表示存在的1只守备力800以下的怪兽破坏。
-type: Spell
+card_type: Spell
 property: Normal

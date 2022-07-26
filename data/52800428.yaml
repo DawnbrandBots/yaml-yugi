@@ -7,10 +7,11 @@ name:
   fr: Main de démon
   it: Mano del Demone
   pt: Mão do demônio
-  ja: <ruby><rb>死</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby><rb>腕</rb><rp>（</rp><rt>うで</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>死</rb><rt>し</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>の<ruby><rb>腕</rb><rt>うで</rt></ruby>
   ja_romaji: Shisha no Ude
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 死者之腕
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     混沌の沼から腕をのばし、生ける者を中へと引きずり込む。
   ko:
+  zh-TW:
   zh-CN: |-
     从混沌沼泽中伸出手腕，将生者拖入其中。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 2
 atk: 600

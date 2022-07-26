@@ -7,10 +7,11 @@ name:
   fr: Meunier Laval
   it: Trivellatore Laval
   pt:
-  ja: ラヴァルの<ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>車</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby><rb>回</rb><rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>し
+  ja: ラヴァルの<ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>車</rb><rt>しゃ</rt></ruby><ruby><rb>回</rb><rt>まわ</rt></ruby>し
   ja_romaji: Ravaru no Ensha Mawashi
   ko: 라바르의 회전하는 염차
   ko_rr:
+  zh-TW:
   zh-CN: 推炎车的熔岩人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが戦闘によって破壊され墓地へ送られた時、自分のデッキから「ラヴァル」と名のついたモンスター２体を選択して墓地へ送る事ができる。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 "라바르" 라는 이름이 붙은 몬스터 2장을 선택하고 묘지로 보낼 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡被战斗破坏送去墓地时，可以从卡组把2只名字带有「熔岩」的怪兽送去墓地。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 3
 atk: 300

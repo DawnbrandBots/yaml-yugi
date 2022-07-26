@@ -7,11 +7,12 @@ name:
   fr: Léviathan d'Eau @Ignister
   it: Leviatano Acquatico @Ignister
   pt: Leviatã Aquático @Ignister
-  ja: ウォーターリヴァイアサン<ruby><rb>＠</rb><rp>（</rp><rt>アット</rt><rp>）</rp></ruby>イグニスター
+  ja: ウォーターリヴァイアサン<ruby><rb>＠</rb><rt>アット</rt></ruby>イグニスター
   ja_romaji: Wōtā Rivaiasan Atto Igunisutā
-  ko: 워터 리바이어던<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
+  ko: 워터 리바이어던<ruby><rb>＠</rb><rt>엣</rt></ruby>이그니스터
   ko_rr: Woteo Ribaieodeon Aet Igeuniseuteu
-  zh-CN: 水海龙@火灵天星
+  zh-TW:
+  zh-CN: 水勒维亚坦@伊格尼斯者
 text:
   en: |-
     You can Ritual Summon this card with "A.I.'s Ritual". If this card is Ritual Summoned: You can return all monsters your opponent control with 2300 or less ATK to the hand. You can target 1 face-up monster your opponent controls; return all Link Monsters from your GY to the Extra Deck, and if you do, change that targeted monster's ATK to 0. You can only use this effect of "Water Leviathan @Ignister" once per turn. Once per battle, during damage calculation, if this card battles an opponent's monster (Quick Effect): You can halve the ATK of that opponent's monster, during that damage calculation only.
@@ -29,13 +30,11 @@ text:
     「Ａｉの儀式」により降臨。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが儀式召喚に成功した場合に発動できる。相手フィールドの攻撃力２３００以下のモンスターを全て持ち主の手札に戻す。②：相手フィールドの表側表示モンスター１体を対象として発動できる。自分の墓地のリンクモンスターを全てＥＸデッキに戻し、対象のモンスターの攻撃力を０にする。③：このカードが相手モンスターと戦闘を行うダメージ計算時に１度、発動できる。その相手モンスターの攻撃力はそのダメージ計算時のみ半分になる。
   ko: |-
     "Ai(아이)의 의식"에 의해 의식 소환. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 의식 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 공격력 2300 이하의 몬스터를 전부 주인의 패로 되돌린다. ②: 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신 묘지의 링크 몬스터를 전부 엑스트라 덱으로 되돌리고, 대상 몬스터의 공격력을 0 으로 한다. ③: 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 그 상대 몬스터의 공격력은 그 데미지 계산시에만 절반이 된다.
+  zh-TW:
   zh-CN: |-
-    「“艾”之仪式」降临。这个卡名的②的效果1回合只能使用1次。
-    ①：这张卡仪式召唤成功的场合才能发动。对方场上的攻击力2300以下的怪兽全部回到持有者手卡。
-    ②：以对方场上1只表侧表示怪兽为对象才能发动。自己墓地的连接怪兽全部回到额外卡组，作为对象的怪兽的攻击力变成0。
-    ③：这张卡和对方怪兽进行战斗的伤害计算时才能发动1次。那只对方怪兽的攻击力只在那次伤害计算时变成一半。
-type: Monster
-typeline: Cyberse / Ritual / Effect
+    以"-艾-爱之仪式"降临。此卡名的②效果1回合仅可使用1次。①：此卡仪式召唤成功的情况下可以发动。将对手场上攻击力2300以下的怪兽全部放回持有者的手牌。②：以对手场上的1只表侧表示怪兽为对象可以发动。将自己墓地的连接怪兽全部放回额外牌组，将对象怪兽的攻击力改为0。③：每次此卡与对手怪兽进行战斗的伤害计算时可以发动1次。该对手怪兽的攻击力仅在该伤害计算时变为一半。
+card_type: Monster
+monster_type_line: Cyberse / Ritual / Effect
 attribute: WATER
 level: 7
 atk: 2300

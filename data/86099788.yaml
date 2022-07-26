@@ -7,10 +7,11 @@ name:
   fr: L'Ultime Guerrier d'une Autre Planète
   it: L'Ultimo Guerriero da un Altro Pianeta
   pt: O Último Guerreiro de Outro Planeta
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>の<ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>の<ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Isei no Saishū Senshi
   ko: 혹성의 마지막 전사
   ko_rr:
+  zh-TW:
   zh-CN: 异星的最终战士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "다크 히어로 존바이어" + "마력흡수구체"
     이 카드가 특수 소환되었을 때, 다른 자신의 필드 위의 몬스터를 전부 파괴한다. 이 카드가 필드 위에 존재하는 한, 양쪽의 플레이어는 다른 몬스터를 일반 소환 / 반전 소환 / 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     「暗黑英雄 尸魔侠」＋「魔力吸收球体」
     这张卡特殊召唤成功时，这张卡以外的自己场上存在的怪兽全部破坏。只要这张卡在场上存在，双方不能把怪兽召唤·反转召唤·特殊召唤。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: EARTH
 level: 7
 atk: 2350

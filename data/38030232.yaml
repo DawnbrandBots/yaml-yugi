@@ -7,11 +7,12 @@ name:
   fr: Esprit Tenyi - Sahasrara
   it: Spirito Tenyi - Sahasrara
   pt: Espírito Tenyi - Sahasrara
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>威</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>－サハスラーラ
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>威</rb><rt>い</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>－サハスラーラ
   ja_romaji: Ten'iryū - Sahasurāra
   ko: 천위룡－사하스라라
   ko_rr: Cheonwiryong - Sahaseurara
-  zh-CN: 天威龙-自觉蟠龙
+  zh-TW:
+  zh-CN: 天威龙－萨哈司剌剌
 text:
   en: |-
     2+ Wyrm monsters
@@ -37,19 +38,18 @@ text:
   ko: |-
     환룡족 몬스터 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 효과 몬스터 이외의 앞면 표시 몬스터가 존재할 경우, 상대는 필드의 효과 몬스터를 공격 대상으로 할 수 없으며, 효과의 대상으로도 할 수 없다. ②: 상대 필드의 효과 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신 필드에 "천위룡 토큰"(환룡족 / 빛 / 레벨 4 / 공 ? / 수 0) 1장을 특수 소환한다. 이 토큰의 공격력은, 대상 몬스터의 원래 공격력과 같아진다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     幻龙族怪兽2只以上
-    这个卡名的②的效果1回合只能使用1次。
-    ①：自己场上有效果怪兽以外的表侧表示怪兽存在的场合，对方不能把场上的效果怪兽作为攻击对象，也不能作为效果的对象。
-    ②：以对方场上1只效果怪兽为对象才能发动。在自己场上把1只「天威龙衍生物」（幻龙族·光·4星·攻?/守0）特殊召唤。这衍生物的攻击力变成和作为对象的怪兽的原本攻击力相同。这个效果在对方回合也能发动。
-type: Monster
-typeline: Wyrm / Link / Effect
+    此卡名的②效果1回合仅可使用1次。①：自己场上有效果怪兽以外的表侧表示怪兽存在的情况下，对手不可将场上的效果怪兽作为攻击对象，也不可作为效果的对象。②：以对手场上的1只效果怪兽为对象可以发动。将1只"天威龙衍生物"（幻龙族・光・星4・攻?／守0）特殊召唤至自己场上。此衍生物的攻击力变为与对象怪兽原本的攻击力相同。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Wyrm / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Top-Center
-- Top-Right
-- Bottom-Right
-- Bottom-Center
+- ⬆
+- ↗
+- ↘
+- ⬇
 atk: 3000
 materials: 2+ Wyrm monsters
 sets:

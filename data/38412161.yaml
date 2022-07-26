@@ -7,11 +7,12 @@ name:
   fr: Chow Sai le Stoppeur de Fantômes
   it: Chow Sai il Ferma Fantasmi
   pt: Chow Sai, o Interrompe Fantasmas
-  ja: <ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>塞</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>塞</rb><rt>さい</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
     チョウサイ
   ja_romaji: Reisaijutsushi Chōsai
   ko: 영새술사 쵸우사이
   ko_rr: Yeomsaesulsa Chyousai
+  zh-TW:
   zh-CN: 灵塞术师 澄最
 text:
   en: |-
@@ -30,11 +31,12 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、お互いに墓地の魔法・罠カードの効果を発動できない。②：このカードがフィールドから墓地へ送られた場合、相手の墓地の魔法・罠カード１枚を対象として発動できる。そのカードを除外する。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 서로 묘지의 마법 / 함정 카드의 효과를 발동할 수 없다. ②: 이 카드가 필드에서 묘지로 보내졌을 경우, 상대 묘지의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 제외한다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在怪兽区域存在，双方不能把墓地的魔法·陷阱卡的效果发动。
     ②：这张卡从场上送去墓地的场合，以对方墓地1张魔法·陷阱卡为对象才能发动。那张卡除外。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1900

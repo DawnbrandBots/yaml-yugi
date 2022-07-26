@@ -7,10 +7,11 @@ name:
   fr: Confrérie du Poing de Feu - Serpent
   it: Fratellanza del Pugno di Fuoco - Serpente
   pt: Irmandade do Punho de Fogo - Serpente
-  ja: <ruby><rb>雄</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>－スネイリン
+  ja: <ruby><rb>雄</rb><rt>ゆう</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>－スネイリン
   ja_romaji: Yūensei Suneirin
   ko: 웅염성-스네이린
   ko_rr:
+  zh-TW: 雄炎星－蛇仲
   zh-CN: 雄炎星-蛇林
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、「炎舞」と名のついた魔法・罠カードが自分の墓地へ送られた場合、デッキから「炎舞」と名のついた罠カード１枚を選んで自分フィールド上にセットできる。また、自分フィールド上にこのカード以外のモンスターが存在しない場合、１ターンに１度、自分フィールド上に表側表示で存在する「炎舞」と名のついた魔法・罠カード２枚を墓地へ送って発動できる。デッキからカードを１枚ドローする。
   ko: |-
     1턴에 1번, "염무" 라는 이름이 붙은 마법 / 함정 카드가 자신의 묘지로 보내졌을 경우, 덱에서 "염무" 라는 이름이 붙은 함정 카드 1장을 고르고 자신 필드 위에 세트할 수 있다. 또한, 자신 필드 위에 이 카드 이외의 몬스터가 존재하지 않을 경우, 1턴에 1번, 자신 필드 위에 앞면 표시로 존재하는 "염무" 라는 이름이 붙은 마법 / 함정 카드 2장을 묘지로 보내고 발동할 수 있다. 덱에서 카드를 1장 드로우한다.
+  zh-TW: 1回合1次，冠有「炎舞」之名的魔法、陷阱卡被送入我方墓地的场合，可从牌组挑选1张冠有「炎舞」之名的陷阱卡盖牌至我方场上。此外，我方场上除此卡以外不存在怪兽的场合，1回合1次，可将我方场上以表侧表示存在的2张冠有「炎舞」之名的魔法、陷阱卡送入墓地并发动。从牌组抽取1张卡牌。
   zh-CN: |-
     1回合1次，名字带有「炎舞」的魔法·陷阱卡被送去自己墓地的场合，可以从卡组选1张名字带有「炎舞」的陷阱卡在自己场上盖放。此外，自己场上没有这张卡以外的怪兽存在的场合，1回合1次，把自己场上表侧表示存在的2张名字带有「炎舞」的魔法·陷阱卡送去墓地才能发动。从卡组抽1张卡。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: FIRE
 level: 4
 atk: 1800

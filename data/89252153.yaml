@@ -7,10 +7,11 @@ name:
   fr: Nécrombre, HÉROS Élémentaire
   it: Necro-Ombra EROE Elementale
   pt: Necrosombra, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> ネクロダークマン
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> ネクロダークマン
   ja_romaji: Erementaru Hīrō Nekurodākuman
   ko: 엘리멘틀 히어로 네크로다크맨
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 死灵暗侠
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが墓地に存在する限り１度だけ、自分はレベル５以上の「Ｅ・ＨＥＲＯ」モンスター１体をリリースなしで召喚できる。
   ko: |-
     이 카드가 묘지에 존재하는 한, 자신은 "엘리멘틀 히어로"라는 이름이 붙은 몬스터 1장을 릴리스 없이 소환 할 수 있다. 이 효과는 이 카드가 묘지에 존재하는 한 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：只在这张卡在墓地存在才有1次，自己可以把1只5星以上的名字带「元素英雄」怪兽不用解放作召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 5
 atk: 1600

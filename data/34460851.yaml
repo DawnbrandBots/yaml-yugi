@@ -7,10 +7,11 @@ name:
   fr: Manipulateur de Flammes
   it: Signore delle Fiamme
   pt: Manipulador de Chamas
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>を<ruby><rb>操</rb><rp>（</rp><rt>あやつ</rt><rp>）</rp></ruby>る<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>を<ruby><rb>操</rb><rt>あやつ</rt></ruby>る<ruby><rb>者</rb><rt>もの</rt></ruby>
   ja_romaji: Honō wo Ayatsurumono
   ko: 화염의 조정자
   ko_rr:
+  zh-TW:
   zh-CN: 火焰操纵者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     炎の海や炎の壁を自在につくり出し攻撃する。
   ko: |-
     화염의 바다와 화염의 벽을 자유자재로 만들어 내어 공격한다.
+  zh-TW:
   zh-CN: |-
     游刃有余地穿梭在火海中发动攻击。
-type: Monster
-typeline: Spellcaster / Normal
+card_type: Monster
+monster_type_line: Spellcaster / Normal
 attribute: FIRE
 level: 3
 atk: 900

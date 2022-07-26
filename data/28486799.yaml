@@ -7,10 +7,11 @@ name:
   fr: Unité de Réserve
   it: Squadra di Riserva
   pt: Pelotão de Reforço
-  ja: <ruby><rb>補</rb><rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby><rb>充</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>部</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>補</rb><rt>ほ</rt></ruby><ruby><rb>充</rb><rt>じゅう</rt></ruby><ruby><rb>部</rb><rt>ぶ</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Hojū Butai
   ko: 보충 부대
   ko_rr:
+  zh-TW:
   zh-CN: 补充部队
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：相手モンスターの攻撃または相手の効果で自分が１０００以上のダメージを受ける度に発動する。そのダメージ１０００につき１枚、自分はデッキからドローする。
   ko: |-
     ①: 상대 몬스터의 공격 또는 상대 효과로 자신이 1000 이상의 데미지를 받을 때마다 발동한다. 그 데미지 1000 당 1장, 자신은 덱에서 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：每次对方怪兽的攻击或者对方的效果让自己受到1000以上的伤害发动。那次伤害每有1000，自己从卡组抽1张。
-type: Spell
+card_type: Spell
 property: Continuous

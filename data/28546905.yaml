@@ -7,10 +7,11 @@ name:
   fr: Mage Illusionniste Anonyme
   it: Mago Senza Volto Illusionista
   pt: Mago Ilusionista Sem Rosto
-  ja: <ruby><rb>幻想師</rb><rp>（</rp><rt>イリュージョニスト</rt><rp>）</rp></ruby>・ノー・フェイス
+  ja: <ruby><rb>幻想師</rb><rt>イリュージョニスト</rt></ruby>・ノー・フェイス
   ja_romaji: Iryūjonisuto Nō Feisu
   ko: 환술사 노페이스
   ko_rr:
+  zh-TW:
   zh-CN: 无脸幻想师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     幻影を見せ、ひらりと攻撃をかわす。
   ko: |-
     상대에게 환영을 비춰 가뿐하게 공격을 피한다.
+  zh-TW:
   zh-CN: |-
     制造幻影，能轻易地躲避敌人的攻击。
-type: Monster
-typeline: Spellcaster / Normal
+card_type: Monster
+monster_type_line: Spellcaster / Normal
 attribute: DARK
 level: 5
 atk: 1200

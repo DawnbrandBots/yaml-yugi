@@ -7,10 +7,11 @@ name:
   fr: Gorille Narcissique
   it: Scimmia Egotistica
   pt: Macaco Egoísta
-  ja: <ruby><rb>虚</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>栄</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>猿</rb><rp>（</rp><rt>ざる</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>虚</rb><rt>きょ</rt></ruby><ruby><rb>栄</rb><rt>えい</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>猿</rb><rt>ざる</rt></ruby>
   ja_romaji: Kyoei no Ōzaru
   ko: 허영의 큰 원숭이
   ko_rr:
+  zh-TW:
   zh-CN: 虚荣的大猿
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは通常召喚できない。手札から獣族モンスター１体を墓地へ送った場合に特殊召喚する事ができる。この方法で特殊召喚に成功した時、墓地へ送ったその獣族モンスターのレベルを確認し、次の効果から１つを選択して発動する事ができる。●そのレベルの数だけこのカードのレベルを上げる。●そのレベルの数だけこのカードのレベルを下げる。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 패에서 야수족 몬스터 1장을 묘지로 보냈을 경우에 특수 소환할 수 있다. 이 방법으로 특수 소환에 성공했을 때, 묘지로 보낸 그 야수족 몬스터의 레벨을 확인하고, 다음 효과에서 1개를 선택하여 발동할 수 있다. ● 그 레벨의 수만큼 이 카드의 레벨을 올린다. ● 그 레벨의 수만큼 이 카드의 레벨을 내린다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。从手卡把1只兽族怪兽送去墓地的场合可以特殊召唤。这个方法特殊召唤成功时，可以把送去墓地的那只兽族怪兽的等级确认，从下面效果选择1个发动。●这张卡的等级上升那个等级数值。●这张卡的等级下降那个等级数值。
-type: Monster
-typeline: Beast / Tuner
+card_type: Monster
+monster_type_line: Beast / Tuner
 attribute: EARTH
 level: 5
 atk: 1200

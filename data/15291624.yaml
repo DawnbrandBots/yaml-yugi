@@ -7,11 +7,12 @@ name:
   fr: Colosse, Dragon du Tonnerre
   it: Colosso Drago del Tuono
   pt: Colosso Dragão do Trovão
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>雷</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>－サンダー・ドラゴン
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>雷</rb><rt>らい</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>－サンダー・ドラゴン
   ja_romaji: Chōrairyū - Sandā Doragon
   ko: 초뇌룡－썬더 드래곤
   ko_rr: Chonoeryong - Sseondeo Deuraegon
-  zh-CN: 超雷龙-雷龙
+  zh-TW:
+  zh-CN: 超雷龙
 text:
   en: |-
     "Thunder Dragon" + 1 Thunder monster
@@ -37,14 +38,12 @@ text:
   ko: |-
     "썬더 드래곤" ＋ 번개족 몬스터
     이 카드는 융합 소환 및 이하의 방법으로만 특수 소환할 수 있다. ●번개족 몬스터의 효과가 패에서 발동한 턴에, 융합 몬스터 이외의 자신 필드의 번개족 효과 몬스터 1장을 릴리스했을 경우에 엑스트라 덱에서 특수 소환할 수 있다("융합"은 필요로 하지 않는다). ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 드로우 이외의 방법으로 덱에서 카드를 패에 넣을 수 없다. ②: 이 카드가 전투 / 효과로 파괴될 경우, 대신에 자신 묘지의 번개족 몬스터 1장을 제외할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「雷龙」＋雷族怪兽
-    这张卡用融合召唤以及以下方法才能特殊召唤。
-    ●雷族怪兽的效果在手卡发动的回合，把融合怪兽以外的自己场上1只雷族效果怪兽解放的场合可以从额外卡组特殊召唤（不需要「融合」）。
-    ①：只要这张卡在怪兽区域存在，对方不能用抽卡以外的方法从卡组把卡加入手卡。
-    ②：这张卡被战斗·效果破坏的场合，可以作为代替把自己墓地1只雷族怪兽除外。
-type: Monster
-typeline: Thunder / Fusion / Effect
+    "雷龙"＋雷族怪兽
+    此卡仅可用融合召唤及以下方法特殊召唤。●有雷族怪兽的效果在手牌发动过的回合，解放1只融合怪兽以外的自己场上的雷族效果怪兽的情况下可从额外牌组特殊召唤（无需"融合"）。①：只要此卡存在于怪兽区域，对手不可用抽牌以外的方法从牌组将卡加入手牌。②：此卡将被战斗・效果破坏的情况下，作为代替可将自己墓地的1只雷族怪兽除外。
+card_type: Monster
+monster_type_line: Thunder / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2600

@@ -7,10 +7,11 @@ name:
   fr: Dragon de la Tornade
   it: Drago Tornado
   pt: Dragão Tornado
-  ja: <ruby><rb>竜巻竜</rb><rp>（</rp><rt>トルネードラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜巻竜</rb><rt>トルネードラゴン</rt></ruby>
   ja_romaji: Torunēdoragon
   ko: 토네이드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 龙卷龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    4星怪兽×2
-    1回合1次，在自己或者对方回合：可以把这张卡1个Xyz素材取除，之后选择场上1张魔法/陷阱卡；破坏那张卡。
-type: Monster
-typeline: Wyrm / Xyz / Effect
+    等级4怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材，以场上1张魔法・陷阱卡为对象可以发动。将该卡破坏。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Wyrm / Xyz / Effect
 attribute: WIND
 rank: 4
 atk: 2100

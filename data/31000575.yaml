@@ -7,10 +7,11 @@ name:
   fr: Conscription
   it: Coscrizione
   pt: Serviço Militar
-  ja: <ruby><rb>徴</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>徴</rb><rt>ちょう</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby>
   ja_romaji: Chōheirei
   ko: 징병령
   ko_rr:
+  zh-TW:
   zh-CN: 征兵令
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手のデッキの一番上のカードを１枚めくる。めくったカードが通常召喚可能なモンスターだった場合、自分フィールド上に特殊召喚する。それ以外のカードだった場合、そのカードを相手の手札に加える。
   ko: |-
     상대 덱의 맨 위 카드를 1장 넘긴다. 넘긴 카드가 일반 소환이 가능한 몬스터였을 경우, 자신 필드 위에 특수 소환한다. 그 이외의 카드였을 경우, 그 카드를 상대의 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     把对方卡组最上面的1张卡翻开。翻开的卡是可以通常召唤的怪兽的场合，在自己场上特殊召唤。是那以外的卡的场合，那张卡加入对方手卡。
-type: Trap
+card_type: Trap
 property: Normal

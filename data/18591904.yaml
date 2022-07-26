@@ -7,10 +7,11 @@ name:
   fr: Destin Final
   it: Destino Finale
   pt: Destino Final
-  ja: <ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>争</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>争</rb><rt>そう</rt></ruby>
   ja_romaji: Saishūsensō
   ko: 마지막 전쟁
   ko_rr:
+  zh-TW:
   zh-CN: 最终战争
 text:
   en: |-
@@ -26,10 +27,11 @@ text:
   pt: |-
     Descarte 5 cards da sua mão. Destrua todas as cartas no campo.
   ja: |-
-    <ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>ふだ</rt><rp>）</rp></ruby>を５<ruby><rb>枚</rb><rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby><rb>捨</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby>てて<ruby><rb>発</rb><rp>（</rp><rt>はつ</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>する。フィールド<ruby><rb>上</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>に<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ぢい</rt><rp>）</rp></ruby>するカードを<ruby><rb>全</rb><rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>て<ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>する。
+    手札を５枚捨てて発動する。フィールド上に存在するカードを全て破壊する。
   ko: |-
     패를 5장 버리고 발동한다. 필드 위의 모든 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     丢弃5张手卡发动。场上存在的卡全部破坏。
-type: Spell
+card_type: Spell
 property: Normal

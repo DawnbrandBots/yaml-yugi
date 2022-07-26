@@ -7,10 +7,11 @@ name:
   fr: Chevalier sans Tête
   it: Il Cavaliere Senza Testa
   pt: Cavaleiro Sem Cabeça
-  ja: <ruby><rb>首</rb><rp>（</rp><rt>くび</rt><rp>）</rp></ruby>なし<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>首</rb><rt>くび</rt></ruby>なし<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Kubinashi Kishi
   ko: 목없는 기사
   ko_rr:
+  zh-TW:
   zh-CN: 无头骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     反逆者に仕立て上げられ処刑された騎士の亡霊。失ったものを求め、出会った者に襲いかかる。
   ko: |-
     반역자로 몰려 처형당한 기사의 망령. 잃어버린 것을 찾아서, 마주치는 자를 덮친다.
+  zh-TW:
   zh-CN: |-
     被判决为反叛者遭处刑的骑士的亡灵，为寻找失去的东西，无论遇到谁都会受到他的攻击。
-type: Monster
-typeline: Fiend / Normal
+card_type: Monster
+monster_type_line: Fiend / Normal
 attribute: EARTH
 level: 4
 atk: 1450

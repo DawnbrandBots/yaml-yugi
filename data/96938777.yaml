@@ -7,10 +7,11 @@ name:
   fr: Ür le Seigneur des Machines
   it: Ür Signore delle Macchine
   pt: Senhor da Máquina Ür
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ウル
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ウル
   ja_romaji: Shinkiō Uru
   ko: 신기왕 우르
   ko_rr: Sin-giwang Ureu
+  zh-TW:
   zh-CN: 神机王 乌尔
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードは相手モンスター全てに１回ずつ攻撃できる。②：このカードが戦闘を行う場合、相手が受ける戦闘ダメージは０になる。
   ko: |-
     ①: 이 카드는 상대 몬스터 전부에 1회씩 공격할 수 있다. ②: 이 카드가 전투를 실행할 경우, 상대가 받는 전투 데미지는 0 이 된다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡可以向对方怪兽全部各作1次攻击。②：这张卡进行战斗的场合，对方受到的战斗伤害变成0。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1600

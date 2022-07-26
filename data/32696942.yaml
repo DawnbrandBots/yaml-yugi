@@ -7,10 +7,11 @@ name:
   fr: Chevalier au Gros Ventre
   it: Cavaliere Grande Pancia
   pt: Cavaleiro Barrigão
-  ja: <ruby><rb>三</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby><rb>段</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>腹</rb><rp>（</rp><rt>ばら</rt><rp>）</rp></ruby>ナイト
+  ja: <ruby><rb>三</rb><rt>さん</rt></ruby><ruby><rb>段</rb><rt>だん</rt></ruby><ruby><rb>腹</rb><rt>ばら</rt></ruby>ナイト
   ja_romaji: Sandanbara Naito
   ko: 삼겹뱃살 나이트
   ko_rr:
+  zh-TW:
   zh-CN: 三段腹骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     エクシーズ素材のこのカードがエクシーズモンスターの効果を発動するために取り除かれ墓地へ送られた場合、手札からレベル３以下のモンスター１体を特殊召喚できる。
   ko: |-
     엑시즈 소재의 이 카드가 엑시즈 몬스터의 효과를 발동하기 위해서 제거되어 묘지로 보내졌을 경우, 패에서 레벨 3 이하의 몬스터 1장을 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     XYZ素材的这张卡为让XYZ怪兽的效果发动而被取除送去墓地的场合，可以从手卡把1只3星以下的怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1000

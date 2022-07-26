@@ -7,10 +7,11 @@ name:
   fr: Tortue Île
   it: Tarta-Isola
   pt: Tartaruga Ilha
-  ja: <ruby><rb>島</rb><rp>（</rp><rt>しま</rt><rp>）</rp></ruby><ruby><rb>亀</rb><rp>（</rp><rt>ガメ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>島</rb><rt>しま</rt></ruby><ruby><rb>亀</rb><rt>ガメ</rt></ruby>
   ja_romaji: Shima Game
   ko: 아일랜드 터틀
   ko_rr:
+  zh-TW:
   zh-CN: 岛龟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     小島ほどの大きさがある巨大ガメ。海中に潜ることはなく、甲羅の上には木や生物が住みついている。
   ko: |-
     작은 섬 만한 크기의 거대 거북. 바다 속으로는 절대 숨지 않으며, 갑옷 위에는 나무나 생물이 정착해 살고 있다.
+  zh-TW:
   zh-CN: |-
     小岛般大的海龟，从不潜入海中，在其龟壳上栖息着树木与动物。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 4
 atk: 1100

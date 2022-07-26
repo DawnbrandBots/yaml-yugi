@@ -7,11 +7,12 @@ name:
   fr: Bouclier Divin, le Chevalier Magique
   it: Difensore, il Cavaliere Magico
   pt: Defensor, o Cavaleiro Mágico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     ディフェンダー
   ja_romaji: Madō Kishi Difendā
   ko: 마법 기사 디펜더
   ko_rr: Mabeop Gisa Dipendeo
+  zh-TW:
   zh-CN: 魔导骑士 防御者
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：１ターンに１度、フィールドの魔法使い族モンスターが破壊される場合、代わりにその数だけ自分フィールドの魔力カウンターを取り除く事ができる。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다(최대 1개까지). ②: 1턴에 1번, 필드의 마법사족 몬스터가 파괴될 경우, 대신에 그 수만큼 자신 필드의 마력 카운터를 제거할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合发动。给这张卡放置1个魔力指示物（最多1个）。②：1回合1次，场上的魔法师族怪兽被破坏的场合，可以作为代替把那个数量的自己场上的魔力指示物取除。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1600

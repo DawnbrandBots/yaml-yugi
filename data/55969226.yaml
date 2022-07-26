@@ -7,10 +7,11 @@ name:
   fr: Invocateur Dragon Bleu
   it: Evocatore Drago Blu
   pt: Invocador do Dragão Azul
-  ja: <ruby><rb>青</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby><rb>召</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>喚</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>青</rb><rt>せい</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>の<ruby><rb>召</rb><rt>しょう</rt></ruby><ruby><rb>喚</rb><rt>かん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Seiryū no Shōkanshi
   ko: 청룡의 소환사
   ko_rr:
+  zh-TW:
   zh-CN: 青龙召唤士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがフィールドから墓地へ送られた場合に発動できる。デッキからドラゴン族・戦士族・魔法使い族の通常モンスター１体を手札に加える。
   ko: |-
     ① : 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 드래곤족 / 전사족 / 마법사족의 일반 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡从场上送去墓地的场合才能发动。从卡组把1只龙族·战士族·魔法师族的通常怪兽加入手卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: WIND
 level: 4
 atk: 1500

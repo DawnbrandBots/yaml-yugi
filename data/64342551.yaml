@@ -7,11 +7,12 @@ name:
   fr: Amphibien Bugroth MK-3
   it: Bugroth Anfibio MK-3
   pt: Bugroth Anfíbio MK-3
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>陸</rb><rp>（</rp><rt>りく</rt><rp>）</rp></ruby><ruby><rb>両</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>用</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>バグロス
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>陸</rb><rt>りく</rt></ruby><ruby><rb>両</rb><rt>りょう</rt></ruby><ruby><rb>用</rb><rt>よう</rt></ruby>バグロス
     Ｍｋ－３
   ja_romaji: Suirikuryō-yō Bagurosu Māku Surī
   ko: 수륙양용 버그로스 MK-3
   ko_rr:
+  zh-TW:
   zh-CN: 水陆两用战斗艇MK-3
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     「海」がフィールド上に存在する限り、このカードは相手プレイヤーに直接攻撃する事ができる。
   ko: |-
     "바다" 가 필드 위에 존재하는 한, 이 카드는 상대 플레이어에게 직접 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     只要「海」在场上存在，这张卡可以直接攻击对方玩家。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: WATER
 level: 4
 atk: 1500

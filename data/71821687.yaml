@@ -7,10 +7,11 @@ name:
   fr: Ascator, Marchaube
   it: Ascator, Camminatore dell'Alba
   pt: Ascator, o Andarilho da Aurora
-  ja: <ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>官</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－アスカトル
+  ja: <ruby><rb>使</rb><rt>し</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>官</rb><rt>かん</rt></ruby>－アスカトル
   ja_romaji: Shishinkan - Asukatoru
   ko: 사역의 신관－아스카톨
   ko_rr: Sayeok-ui Sin-gwan - Aseukatol
+  zh-TW:
   zh-CN: 使神官-赤蚁
 text:
   en: |-
@@ -18,7 +19,7 @@ text:
   de: |-
     Du kannst 1 Karte abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand in die Verteidigungsposition, dann kannst du 1 „Feuerameise Ascator“ als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Du kannst in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Synchromonstern. Du kannst diesen Effekt von „Ascator, Morgendämmerungsläufer“ nur einmal pro Spielzug verwenden.
   es: |-
-    Puedes descartar 1 carta; Invoca esta carta de Modo Especial, desde tu mano, en Posición de Defensa, y después puedes Invocar de Modo Especial, desde tu mano o Deck, 1 "Hormiga de Fuego Ascator". El turno en el que activas este efecto no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Sólo puedes usar este efecto de "Ascator, Caminante del Amanecer" una vez por turno.
+    Puedes descartar 1 carta; Invoca esta carta de Modo Especial desde tu mano, en Posición de Defensa, y después puedes Invocar de Modo Especial, desde tu mano o Deck, 1 "Hormiga de Fuego Ascator". El turno en el que activas este efecto no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Sólo puedes usar este efecto de "Ascator, Caminante del Amanecer" una vez por turno.
   fr: |-
     Vous pouvez défausser 1 carte ; Invoquez Spécialement cette carte depuis votre main en Position de Défense, puis vous pouvez Invoquer Spécialement 1 "Fourmi de Feu Ascator" depuis votre main ou Deck. Vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Synchro exclus) depuis l'Extra Deck le tour où vous activez cet effet. Vous ne pouvez utiliser cet effet de "Ascator, Marchaube" qu'une fois par tour.
   it: |-
@@ -29,11 +30,12 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカード以外の手札を１枚捨てて発動できる。このカードを手札から守備表示で特殊召喚する。その後、手札・デッキから「赤蟻アスカトル」１体を特殊召喚できる。この効果を発動するターン、自分はＳモンスターしかＥＸデッキから特殊召喚できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드 이외의 패를 1장 버리고 발동할 수 있다. 이 카드를 패에서 수비 표시로 특수 소환한다. 그 후, 패 / 덱에서 "붉은 개미 아스카톨" 1장을 특수 소환할 수 있다. 이 효과를 발동하는 턴에, 자신은 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。
     ①：把这张卡以外的1张手卡丢弃才能发动。这张卡从手卡守备表示特殊召唤。那之后，可以从手卡·卡组把1只「赤蚁」特殊召唤。这个效果发动的回合，自己不是同调怪兽不能从额外卡组特殊召唤。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: EARTH
 level: 5
 atk: 2300

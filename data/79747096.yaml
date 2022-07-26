@@ -7,11 +7,12 @@ name:
   fr: 'Numéro C1 : Porte du Chaos Numeron Sunya'
   it: 'Numero C1: Cancello del Chaos Numeron Sunya'
   pt: 'Número C1: Portão do Caos Numeron Sunya'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１
     ゲート・オブ・カオス・ヌメロン－シニューニャ
   ja_romaji: Kaosu Nanbāzu Ichi Gēto Obu Kaosu Numeron - Shinyūnya
-  ko: <ruby><rb>CNo.</rb><rp>（</rp><rt>카오스 넘버즈</rt><rp>）</rp></ruby>1 게이트 오브 카오스 누메론－시뉴니아
+  ko: <ruby><rb>CNo.</rb><rt>카오스 넘버즈</rt></ruby>1 게이트 오브 카오스 누메론－시뉴니아
   ko_rr: Kaoseu Neombeojeu Il Geiteu Obeu Kaoseu Numeron - Sinyunia
+  zh-TW:
   zh-CN: 混沌No.1 混沌源数门-空
 text:
   en: |-
@@ -38,13 +39,14 @@ text:
   ko: |-
     레벨 2 몬스터 × 4
     이 카드는 자신 필드의 "No.1 게이트 오브 누메론－에캄" 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드가 엑시즈 소환에 성공했을 경우에 발동한다. 필드의 몬스터를 전부 제외한다. ②: 이 카드가 제외되었을 경우, 다음 자신 스탠바이 페이즈에 발동할 수 있다. 제외되어 있는 이 카드를 특수 소환한다. 자신의 필드 존에 "누메론 네트워크"가 존재할 경우, 추가로 제외되어 있는 자신 / 상대의 엑시즈 몬스터 공격력의 합계만큼의 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     2星怪兽×4
     这张卡也能在自己场上的「No.1 源数之门-壹」上面重叠来超量召唤。
     ①：这张卡超量召唤成功的场合发动。场上的怪兽全部除外。
     ②：这张卡被除外的场合，下次的自己准备阶段才能发动。除外的这张卡特殊召唤。自己的场地区域有「源数网络」存在的场合，再给与对方为除外的自己·对方的超量怪兽的攻击力合计数值的伤害。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: DARK
 rank: 2
 atk: 2000

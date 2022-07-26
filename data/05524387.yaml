@@ -7,11 +7,12 @@ name:
   fr: Roche Marbrée Marincesse
   it: Marincipessa Roccia Marmorea
   pt: Marincesa Pedra Marmoreada
-  ja: <ruby><rb>海晶乙女</rb><rp>（</rp><rt>マリンセス</rt><rp>）</rp></ruby>マーブルド・ロック
+  ja: <ruby><rb>海晶乙女</rb><rt>マリンセス</rt></ruby>マーブルド・ロック
   ja_romaji: Marinsesu Māburudo Rokku
   ko: 마린세스 마블드 록
   ko_rr: Marinseseu Mabeuldeu Rok
-  zh-CN: 海晶少女 石狗公
+  zh-TW:
+  zh-CN: 海晶少女 褐菖鲉
 text:
   en: |-
     2+ WATER monsters
@@ -37,18 +38,17 @@ text:
   ko: |-
     물 속성 몬스터 2장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "마린세스 마블드 록" 이외의 자신 묘지의 "마린세스" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. ②: 상대 몬스터의 공격 선언시에, 패에서 "마린세스" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 몬스터는 그 전투로는 파괴되지 않으며, 그 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다.
+  zh-TW:
   zh-CN: |-
     水属性怪兽2只以上
-    这个卡名的①的效果1回合只能使用1次。
-    ①：以「海晶少女 石狗公」以外的自己墓地1张「海晶少女」卡为对象才能发动。那张卡加入手卡。
-    ②：对方怪兽的攻击宣言时，从手卡把1只「海晶少女」怪兽送去墓地才能发动。怪兽不会被那次战斗破坏，那次战斗发生的对自己的战斗伤害变成0。
-type: Monster
-typeline: Cyberse / Link / Effect
+    此卡名的①效果1回合仅可使用1次。①：以自己墓地的1张"海晶少女 褐菖鲉"以外的"海晶少女"卡为对象可以发动。将该卡加入手牌。②：对手怪兽攻击宣言时，从手牌将1只"海晶少女"怪兽送至墓地可以发动。怪兽在该战斗中不会被破坏，因该战斗发生的对自己的战斗伤害变为0。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: WATER
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ⬇
+- ➡
 atk: 2500
 materials: 2+ WATER monsters
 sets:

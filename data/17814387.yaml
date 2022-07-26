@@ -7,10 +7,11 @@ name:
   fr: Renforts
   it: Rinforzi
   pt: Reforços
-  ja: <ruby><rb>援</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>援</rb><rt>えん</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby>
   ja_romaji: Engun
   ko: 지원군
   ko_rr: Jiwon-gun
+  zh-TW: 援軍
   zh-CN: 援军
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで５００アップする。
   ko: |-
     ①: 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 500 올린다.
+  zh-TW: 可选择场上以表侧表示存在的1只怪兽并发动。被选择怪兽的攻击力直至回合结束前提升500点。
   zh-CN: |-
     ①：以场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力直到回合结束时上升500。
-type: Trap
+card_type: Trap
 property: Normal

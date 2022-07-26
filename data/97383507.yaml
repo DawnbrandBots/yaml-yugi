@@ -7,11 +7,12 @@ name:
   fr: Templier des Ténèbres @Ignister
   it: Templare Nero @Ignister
   pt: Templário Negro @Ignister
-  ja: ダークナイト<ruby><rb>＠</rb><rp>（</rp><rt>アット</rt><rp>）</rp></ruby>イグニスター
+  ja: ダークナイト<ruby><rb>＠</rb><rt>アット</rt></ruby>イグニスター
   ja_romaji: Dāku Naito Atto Igunisutā
-  ko: 다크나이트<ruby><rb>＠</rb><rp>（</rp><rt>엣</rt><rp>）</rp></ruby>이그니스터
+  ko: 다크나이트<ruby><rb>＠</rb><rt>엣</rt></ruby>이그니스터
   ko_rr: Dakeunaiteu Aet Igeuniseuteu
-  zh-CN: 暗骑士@火灵天星
+  zh-TW:
+  zh-CN: 暗骑士@伊格尼斯者
 text:
   en: |-
     3 monsters with different names
@@ -37,18 +38,17 @@ text:
   ko: |-
     카드명이 다른 몬스터 3장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 링크 앞에 몬스터가 특수 소환되었을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 자신 묘지에서 레벨 4 이하의 "＠(앳)이그니스터" 몬스터를 가능한 한 이 카드의 링크 앞이 되는 자신 필드에 효과를 무효로 하고 특수 소환한다. ②: 이 카드가 전투로 상대 몬스터를 파괴했을 때에 발동할 수 있다. 자신 묘지에서 사이버스족 몬스터 1장을 고르고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     卡名不同的怪兽3只
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡所连接区有怪兽特殊召唤的场合才能发动（伤害步骤也能发动）。从自己墓地把4星以下的「@火灵天星」怪兽尽可能在作为这张卡所连接区的自己场上效果无效特殊召唤。
-    ②：这张卡战斗破坏对方怪兽时才能发动。从自己墓地选1只电子界族怪兽特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：怪兽被特殊召唤至此卡连接端的情况下可以发动（伤害步骤也可以发动）。从自己的墓地将尽可能多的等级4以下"@伊格尼斯者"怪兽，效果无效并特殊召唤至此卡连接端的自己场上。②：此卡战斗破坏对手怪兽时可以发动。从自己的墓地挑选1只电子界族怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 2300
 materials: 3 monsters with different names
 sets:

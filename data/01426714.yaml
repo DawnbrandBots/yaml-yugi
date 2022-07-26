@@ -7,10 +7,11 @@ name:
   fr: "Numéro 48 : Liche de l'Ombre"
   it: 'Numero 48: Lich Ombra'
   pt: 'Número 48: Lich Sombrio'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>４８ シャドー・リッチ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>４８ シャドー・リッチ
   ja_romaji: Nanbāzu Yonjūhachi Shadō Ritchi
   ko: No.48 섀도우 리치
   ko_rr:
+  zh-TW:
   zh-CN: No.48 暗影巫妖
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 3 몬스터 × 2
     상대의 턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신 필드 위에 "환영 토큰"(악마족 / 어둠 속성 / 레벨 3 / 공격력 500 / 수비력 500) 1장을 특수 소환한다. 또한, 자신 필드 위에 "환영 토큰" 이 존재하는 한, 상대는 이 카드를 공격 대상으로 할 수 없다. 이 카드의 공격력은, 자신 필드 위의 "환영 토큰" 의 수 × 500 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     3星怪兽×2。对方回合1次，把这张卡1个XYZ素材取除才能发动。在自己场上把1只「幻影衍生物」（恶魔族·暗·1星·攻/守500）特殊召唤。此外，只要自己场上有「幻影衍生物」存在，对方不能把这张卡作为攻击对象。这张卡的攻击力上升自己场上的「幻影衍生物」数量×500的数值。
-type: Monster
-typeline: Zombie / Xyz / Effect
+card_type: Monster
+monster_type_line: Zombie / Xyz / Effect
 attribute: DARK
 rank: 3
 atk: 1800

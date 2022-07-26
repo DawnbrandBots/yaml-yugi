@@ -7,10 +7,11 @@ name:
   fr: Thestalos, le Monarque de la Tempête de Feu
   it: Thestalos il Monarca della Tempesta di Fuoco
   pt: Thestalos, o Monarca da Tempestade de Fogo
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby>テスタロス
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>帝</rb><rt>てい</rt></ruby>テスタロス
   ja_romaji: Entei Tesutarosu
   ko: 화염 제왕 테스탈로스
   ko_rr:
+  zh-TW:
   zh-CN: 炎帝 泰斯塔罗斯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがアドバンス召喚に成功した場合に発動する。相手の手札をランダムに１枚選んで捨てる。捨てたカードがモンスターカードだった場合、そのモンスターのレベル×１００ダメージを相手に与える。
   ko: |-
     ①: 이 카드가 어드밴스 소환에 성공했을 경우에 발동한다. 상대의 패를 무작위로 1장 고르고 버린다. 버린 카드가 몬스터 카드였을 경우, 그 몬스터의 레벨 × 100 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡上级召唤成功的场合发动。对方手卡随机选1张丢弃。丢弃的卡是怪兽卡的场合，给与对方那只怪兽的等级×100伤害。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 6
 atk: 2400

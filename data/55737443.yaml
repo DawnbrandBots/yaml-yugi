@@ -7,10 +7,11 @@ name:
   fr: Exxod, Maître de la Garde
   it: Exxod, Maestro della Guardia
   pt: Exxod, Mestre da Guarda
-  ja: <ruby><rb>守</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>護</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>エクゾード
+  ja: <ruby><rb>守</rb><rt>しゅ</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>エクゾード
   ja_romaji: Shugoshin Ekuzōdo
   ko: 수호신 엑조드
   ko_rr:
+  zh-TW:
   zh-CN: 守护神 艾克佐德
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分フィールド上に存在する「スフィンクス」と名のついたモンスター１体をリリースした場合のみ特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、地属性モンスターが反転召喚に成功した時、相手ライフに１０００ポイントダメージを与える。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 자신 필드 위에 존재하는 "스핑크스"라는 이름이 붙은 몬스터 1장을 릴리스했을 경우에만 특수 소환할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 땅 속성 몬스터가 반전 소환에 성공했을 때, 상대 라이프에 1000 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己场上存在的1只名字带有「斯芬克斯」的怪兽解放的场合才能特殊召唤。只要这张卡在场上表侧表示存在，地属性怪兽反转召唤成功时，给与对方基本分1000分伤害。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 8
 atk: 0

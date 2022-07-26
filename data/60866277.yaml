@@ -7,10 +7,11 @@ name:
   fr: Secousse Sismique
   it: Scuoti-Terra
   pt:
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>殻</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby><ruby><rb>変</rb><rp>（</rp><rt>へん</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>殻</rb><rt>かく</rt></ruby><ruby><rb>変</rb><rt>へん</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby>
   ja_romaji: Chikakuhendō
   ko: 지각 변동
   ko_rr:
+  zh-TW:
   zh-CN: 地壳变动
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     自分は属性を２つ選択する。相手はその中から１つを選択する。フィールド上に表側表示で存在する選択された属性のモンスターを全て破壊する。
   ko: |-
     자신은 속성을 2개 선택한다. 상대는 그 중에서 1개를 선택한다. 필드 위에 앞면 표시로 존재하는 선택된 속성의 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己选择2个属性。对方从那之中选择1个。场上表侧表示存在的选择的属性的怪兽全部破坏。
-type: Trap
+card_type: Trap
 property: Normal

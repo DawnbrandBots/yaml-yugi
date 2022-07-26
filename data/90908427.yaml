@@ -7,10 +7,11 @@ name:
   fr: Ogre d'Acier Grotto N°2
   it: "Orco d'Acciaio #2"
   pt:
-  ja: <ruby><rb>鉄</rb><rp>（</rp><rt>てつ</rt><rp>）</rp></ruby><ruby><rb>腕</rb><rp>（</rp><rt>わん</rt><rp>）</rp></ruby>ゴーレム
+  ja: <ruby><rb>鉄</rb><rt>てつ</rt></ruby><ruby><rb>腕</rb><rt>わん</rt></ruby>ゴーレム
   ja_romaji: Tetsuwan Gōremu
   ko: 철완 골렘
   ko_rr:
+  zh-TW:
   zh-CN: 铁腕巨人
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     鋼鉄でできた機械人形。恐るべき怪力を誇る。
   ko: |-
     강철로 만들어진 기계인형. 공포스러운 괴력을 자랑한다.
+  zh-TW:
   zh-CN: |-
     用钢铁做成的机器人偶，拥有恐怖的怪力。
-type: Monster
-typeline: Machine
+card_type: Monster
+monster_type_line: Machine
 attribute: EARTH
 level: 6
 atk: 1900

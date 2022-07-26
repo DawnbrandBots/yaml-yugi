@@ -7,10 +7,11 @@ name:
   fr: Hélicelion Électroménageur
   it: Apparecchio Ventoleone
   pt: Utensilhor Ventileão
-  ja: <ruby><rb>扇</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>ぷう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>塊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>プロペライオン
+  ja: <ruby><rb>扇</rb><rt>せん</rt></ruby><ruby><rb>風</rb><rt>ぷう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>塊</rb><rt>かい</rt></ruby>プロペライオン
   ja_romaji: Senpūkikai Puroperaion
   ko: 선풍기괴 프로펠라이온
   ko_rr: Seonpunggigoe Peuropellaion
+  zh-TW:
   zh-CN: 扇风机块 螺旋桨狮子
 text:
   en: |-
@@ -37,14 +38,15 @@ text:
   ko: |-
     "기괴" 몬스터 1장
     이 카드는 링크 소환된 턴에는 링크 소재로 할 수 없다. ①: 이 카드는 직접 공격할 수 있다. ②: 1턴에 1번, 이 카드가 상호 링크 상태일 경우, 자신과 상대의 몬스터끼리가 전투를 실행하는 데미지 계산시에 발동할 수 있다. 그 상대 몬스터의 공격력은 그 데미지 계산시에만 0 이 된다. ③: 1턴에 1번, 상호 링크 상태가 아닌 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에 발동할 수 있다. 그 상대 몬스터의 공격력은 그 데미지 계산시에만 0 이 된다.
+  zh-TW:
   zh-CN: |-
     「機塊／机块」怪兽1只
     这张卡在链接召唤的回合不能作为链接素材。①：这张卡可以直接攻击。②：1回合1次，这张卡是相互链接状态的场合，自己和对手的怪兽之间进行战斗的伤害计算时可以发动。那只对手怪兽的攻击力只在那次伤害计算时变为0。③：1回合1次，不是相互链接状态的这张卡与对手怪兽进行战斗的伤害计算时可以发动。那只对手怪兽的攻击力只在那次伤害计算时变为0。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: WIND
 link_arrows:
-- Top-Center
+- ⬆
 atk: 1200
 materials: 1 "Appliancer" monster
 sets:

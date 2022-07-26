@@ -7,10 +7,11 @@ name:
   fr: Fleur Cardian Paulownia
   it: Fiore Cardian Paulownia
   pt: Flor Cardian Paulownia
-  ja: <ruby><rb>花札衛</rb><rp>（</rp><rt>カーディアン</rt><rp>）</rp></ruby>－<ruby><rb>桐</rb><rp>（</rp><rt>きり</rt><rp>）</rp></ruby>－
+  ja: <ruby><rb>花札衛</rb><rt>カーディアン</rt></ruby>－<ruby><rb>桐</rb><rt>きり</rt></ruby>－
   ja_romaji: Kādian - Kiri -
   ko: 카디언-오동-
   ko_rr:
+  zh-TW:
   zh-CN: 花札卫-桐-
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドにレベル１１以下の「花札衛」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は「花札衛」モンスターしか召喚・特殊召喚できない。②：このカードが攻撃対象に選択された時に発動できる。その攻撃を無効にし、バトルフェイズを終了する。その後、自分はデッキから１枚ドローする。
   ko: |-
     ①: 자신 필드에 레벨 11 이하의 "카디언" 몬스터가 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 "카디언" 몬스터밖에 일반 소환 / 특수 소환할 수 없다. ②: 이 카드가 공격 대상으로 선택되었을 때에 발동할 수 있다. 그 공격을 무효로 하고, 배틀 페이즈를 종료한다. 그 후, 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上有11星以下的「花札卫」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。这个效果的发动后，直到回合结束时自己不是「花札卫」怪兽不能召唤·特殊召唤。②：这张卡被选择作为攻击对象时才能发动。那次攻击无效，战斗阶段结束。那之后，自己从卡组抽1张。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 12
 atk: 100

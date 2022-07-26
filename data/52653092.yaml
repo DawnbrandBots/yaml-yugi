@@ -7,11 +7,12 @@ name:
   fr: 'Numéro S0 : ZEXAL Utopique'
   it: 'Numero S0: ZEXAL Utopico'
   pt: 'Número S0: ZEXAL Utópico'
-  ja: <ruby><rb>Ｓ</rb><rp>（</rp><rt>シャイニング</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>０
+  ja: <ruby><rb>Ｓ</rb><rt>シャイニング</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>０
     ホープ・ゼアル
   ja_romaji: Shainingu Nanbāzu Zero Hōpu Zearu
-  ko: <ruby><rb>SNo.</rb><rp>（</rp><rt>샤이닝 넘버즈</rt><rp>）</rp></ruby>0 호프 제알
+  ko: <ruby><rb>SNo.</rb><rt>샤이닝 넘버즈</rt></ruby>0 호프 제알
   ko_rr: Syaining Neombeojeu Jero Hopeu Jeal
+  zh-TW:
   zh-CN: 闪光No.0 希望之异热同心
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     같은 랭크의 "No." 엑시즈 몬스터 × 3
     룰상, 이 카드의 랭크는 1 로 취급한다. 이 카드는 패의 "RUM(랭크 업 매직)" 일반 마법 카드 1장을 버리고, 자신 필드의 "유토피아" 몬스터 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드의 엑시즈 소환은 무효화되지 않는다. ②: 이 카드의 엑시즈 소환 성공시에는, 상대는 효과를 발동할 수 없다. ③: 이 카드의 공격력 / 수비력은 이 카드의 엑시즈 소재의 수 × 1000 올린다. ④: 상대 턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 턴에 상대는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     相同阶级的「No.」XYZ怪兽×3
     规则上，这张卡的阶级当作1阶使用。这张卡也能把手卡1张「升阶魔法」通常魔法卡丢弃，在自己场上的「希望皇霍普」怪兽上面重叠来XYZ召唤。①：这张卡的XYZ召唤不会被无效化。②：在这张卡的XYZ召唤成功时，对方不能把效果发动。③：这张卡的攻击力·守备力上升这张卡的XYZ素材数量×1000。④：对方回合1次，把这张卡1个XYZ素材取除才能发动。这个回合对方不能把效果发动。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 0
 atk: '?'

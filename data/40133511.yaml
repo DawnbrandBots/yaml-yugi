@@ -7,12 +7,13 @@ name:
   fr: Bazoo le Mangeur d'Âmes
   it: Bazoo il Mangia-Anima
   pt: Bazoo, o Comedor de Almas
-  ja: <ruby><rb>魂</rb><rp>（</rp><rt>たましい</rt><rp>）</rp></ruby>を<ruby><rb>喰</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>らう<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魂</rb><rt>たましい</rt></ruby>を<ruby><rb>喰</rb><rt>く</rt></ruby>らう<ruby><rb>者</rb><rt>もの</rt></ruby>
     バズー
   ja_romaji: Tamashii wo Kuraumono Bazū
   ko: 혼을 먹는 바즈
   ko_rr:
-  zh-CN: 食魂者 巴祖
+  zh-TW:
+  zh-CN: 噬魂者 巴兹
 text:
   en: |-
     Once per turn: You can banish up to 3 monsters from your GY; this card gains 300 ATK for each, until the end of your opponent's turn.
@@ -30,10 +31,11 @@ text:
     １ターンに１度、自分の墓地に存在するモンスターを３体までゲームから除外して発動する事ができる。このカードの攻撃力は相手のエンドフェイズ時まで、除外したモンスター１体につき３００ポイントアップする。
   ko: |-
     자신의 묘지의 몬스터를 3장까지 게임에서 제외할 수 있다. 제외한 카드 1장당, 상대의 턴 종료시까지 이 카드의 공격력을 300 포인트 올린다. 이 효과는 자신의 턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
-    1回合1次，把自己墓地存在的最多3只怪兽从游戏中除外发动。这张卡的攻击力直到对方的结束阶段时上升除外的怪兽每1只300。
-type: Monster
-typeline: Beast / Effect
+    ①：1回合1次，从自己墓地将最多3只怪兽除外可以发动。此卡的攻击力直至对手回合结束时为止，上升相当于除外数量×300的数值。
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 4
 atk: 1600

@@ -7,10 +7,11 @@ name:
   fr: Muka Muka Enragé
   it: Muka Muka Infuriato
   pt: Muka Muka Enraivecido
-  ja: <ruby><rb>激</rb><rp>（</rp><rt>げっ</rt><rp>）</rp></ruby><ruby><rb>昂</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>のムカムカ
+  ja: <ruby><rb>激</rb><rt>げっ</rt></ruby><ruby><rb>昂</rb><rt>こう</rt></ruby>のムカムカ
   ja_romaji: Gekkō no Mukamuka
   ko: 격양한 무카무카
   ko_rr:
+  zh-TW:
   zh-CN: 激昂的姆卡姆卡
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分の手札１枚につき、このカードの攻撃力・守備力はそれぞれ４００ポイントアップする。
   ko: |-
     자신의 패 1장당, 이 카드의 공격력 / 수비력은 각각 400 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     自己手卡每有1张，这张卡的攻击力·守备力各上升400。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 5
 atk: 1200

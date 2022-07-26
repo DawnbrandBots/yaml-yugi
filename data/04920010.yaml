@@ -7,10 +7,11 @@ name:
   fr: Âmes des Oubliés
   it: Anime dei Dimenticati
   pt:
-  ja: <ruby><rb>怨</rb><rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby><rb>念</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby><ruby><rb>集</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>怨</rb><rt>おん</rt></ruby><ruby><rb>念</rb><rt>ねん</rt></ruby><ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby>
   ja_romaji: Onnenshū Yūgōtai
   ko: 원혼 집합체
   ko_rr:
+  zh-TW:
   zh-CN: 怨念集合体
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     恨みを持って死んでいった人の意識が集まってできた悪霊。人を襲いその意識をとりこんで巨大化していく。
   ko: |-
     원한을 풀지 못한채 죽은 사람들의 의식이 모여 생긴 악령. 사람을 습격한 후, 그 의식을 사로잡아 점점 거대화해 간다.
+  zh-TW:
   zh-CN: |-
     怀恨而死的人的意识集成的恶灵，袭击人的意识在不断的变大。
-type: Monster
-typeline: Fiend
+card_type: Monster
+monster_type_line: Fiend
 attribute: DARK
 level: 2
 atk: 900

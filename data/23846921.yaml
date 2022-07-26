@@ -7,11 +7,11 @@ name:
   fr: Force Arcane XXI - Le Monde
   it: Energia Arcana XXI - Il Mondo
   pt: Força Arcana XXI - O Mundo
-  ja: アルカナフォース<ruby><rb>ⅩⅩⅠ</rb><rp>（</rp><rt>トゥエンティーワン</rt><rp>）</rp></ruby>－<ruby><rb>ＴＨＥ
-    ＷＯＲＬＤ</rb><rp>（</rp><rt>ザ・ワールド</rt><rp>）</rp></ruby>
+  ja: アルカナフォース<ruby><rb>ⅩⅩⅠ</rb><rt>トゥエンティーワン</rt></ruby>－<ruby><rb>ＴＨＥ ＷＯＲＬＤ</rb><rt>ザ・ワールド</rt></ruby>
   ja_romaji: Arukana Fōsu Tuentīwan - Za Wārudo
   ko: 아르카나 포스 ⅩⅩⅠ-더 월드
   ko_rr:
+  zh-TW:
   zh-CN: 秘仪之力21-世界
 text:
   en: |-
@@ -32,12 +32,13 @@ text:
     このカードが召喚・反転召喚・特殊召喚に成功した時、コイントスを１回行い、その裏表によって以下の効果を得る。● 表：自分のエンドフェイズ時に自分フィールド上のモンスター２体を墓地へ送って発動できる。次の相手ターンをスキップする。● 裏：相手のドローフェイズ毎に、相手の墓地の一番上のカードを相手の手札に加える。
   ko: |-
     이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 코인 토스를 1회 실행하고 이하의 효과를 얻는다. ● 앞 : 자신의 엔드 페이즈시에 자신의 필드 위에 존재하는 몬스터 2장을 묘지로 보내는 것으로 다음의 상대 턴을 스킵한다. ● 뒤 : 상대의 드로우 페이즈시에 상대의 묘지의 맨 위의 카드 1장을 상대의 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转召唤·特殊召唤成功时，进行1次投掷硬币，得到那个里表的以下效果。
     ●表：自己的结束阶段时把自己场上2只怪兽送去墓地才能发动。下次的对方回合跳过。
     ●里：每次对方的抽卡阶段，对方墓地最上面的卡加入对方手卡。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 8
 atk: 3100

@@ -7,10 +7,11 @@ name:
   fr: Wok Mystique
   it: Wok Mistico
   pt: Wok Místico
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>秘</rb><rp>（</rp><rt>ぴ</rt><rp>）</rp></ruby>の<ruby><rb>中</rb><rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>なべ
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>秘</rb><rt>ぴ</rt></ruby>の<ruby><rb>中</rb><rt>ちゅう</rt></ruby><ruby><rb>華</rb><rt>か</rt></ruby>なべ
   ja_romaji: Shinpi no Chūka Nabe
   ko: 신비의 중화냄비
   ko_rr:
+  zh-TW:
   zh-CN: 神秘的中华锅
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上のモンスター１体を生け贄に捧げる。生け贄に捧げたモンスターの攻撃力か守備力を選択し、その数値だけ自分のライフポイントを回復する。
   ko: |-
     자신 필드 위의 몬스터 1장을 제물로 바친다. 제물로 바친 몬스터의 공격력이나 수비력을 선택하여, 그 수치만큼 자신의 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     把自己场上1只怪兽作为祭品。选择作为祭品的怪兽攻击力或守备力，自己基本分回复那个数值。
-type: Spell
+card_type: Spell
 property: Quick-Play

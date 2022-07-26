@@ -7,10 +7,11 @@ name:
   fr: Commandant des Protecteurs du Tombeau
   it: Comandante dei Custode di Tombe
   pt: Comandante do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>司</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>官</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>司</rb><rt>し</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby><ruby><rb>官</rb><rt>かん</rt></ruby>
   ja_romaji: Hakamori no Shireikan
   ko: 묘지기의사령관
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的司令官
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードを手札から墓地へ捨てて発動できる。デッキから「王家の眠る谷－ネクロバレー」１枚を手札に加える。
   ko: |-
     이 카드를 패에서 묘지에 버린다. 덱에서 "왕가의골짜기-네크로밸리" 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     把这张卡从手卡丢弃去墓地才能发动。从卡组把1张「王家长眠之谷」加入手卡。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: EARTH
 level: 4
 atk: 1600

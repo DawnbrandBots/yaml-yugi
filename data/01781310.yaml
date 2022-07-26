@@ -7,10 +7,11 @@ name:
   fr: Fuh-Rin-Ka-Zan
   it: Fuh-Rin-Ka-Zan
   pt: Fuh-Rin-Ka-Zan
-  ja: <ruby><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby><rb>林</rb><rp>（</rp><rt>りん</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>山</rb><rp>（</rp><rt>ざん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>風</rb><rt>ふう</rt></ruby><ruby><rb>林</rb><rt>りん</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>山</rb><rt>ざん</rt></ruby>
   ja_romaji: Fūrinkazan
   ko: 풍림화산
   ko_rr:
+  zh-TW:
   zh-CN: 风林火山
 text:
   en: |-
@@ -61,11 +62,12 @@ text:
     ●상대 필드상의 마법, 함정 카드를 전부 파괴한다.
     ●상대의 수찰을 2장 랜덤히 버린다.
     ●카드를 2장 드로우 한다
+  zh-TW:
   zh-CN: |-
     ①：风·水·炎·地属性怪兽在场上全部存在的场合才能发动。从以下效果选1个适用。
     ●对方场上的怪兽全部破坏。
     ●对方场上的魔法·陷阱卡全部破坏。
     ●对方手卡随机选2张丢弃。
     ●自己从卡组抽2张。
-type: Trap
+card_type: Trap
 property: Normal

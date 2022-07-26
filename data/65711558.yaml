@@ -7,10 +7,11 @@ name:
   fr: Serment des Guerriers Anciens - Seigneurs Double Dragon
   it: Giuramento Antichi Guerrieri - Signori Doppio Drago
   pt: Juramento dos Guerreiros Antigos - Senhores Dragão
-  ja: <ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>盟</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>将</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>－<ruby><rb>双</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>華</rb><rt>か</rt></ruby><ruby><rb>盟</rb><rt>めい</rt></ruby><ruby><rb>将</rb><rt>しょう</rt></ruby>－<ruby><rb>双</rb><rt>そう</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
   ja_romaji: Senka Meishō - Sōryū
   ko: 전황맹장－쌍룡
   ko_rr: Jeonhwangmaengjang - Ssangnyong
+  zh-TW:
   zh-CN: 战华盟将-双龙
 text:
   en: |-
@@ -37,18 +38,19 @@ text:
   ko: |-
     바람 속성의 "전황" 몬스터를 포함하는 야수전사족 몬스터 2장
     이 카드명의 ①③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "전황" 카드 1장을 패에 넣는다. ②: 자신 필드의 "전황" 몬스터의 공격력 / 수비력은 500 올린다. ③: 자신의 패 / 필드에서 카드 1장을 묘지로 보내고, 상대 필드의 앞면 표시의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 주인의 패로 되돌린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     包含风属性「战华」怪兽的兽战士族怪兽2只
     这个卡名的①③的效果1回合各能使用1次。
     ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「战华」卡加入手卡。
     ②：自己场上的「战华」怪兽的攻击力·守备力上升500。
     ③：从自己的手卡·场上把1张卡送去墓地，以对方场上1张表侧表示的卡为对象才能发动。那张卡回到持有者手卡。这个效果在对方回合也能发动。
-type: Monster
-typeline: Beast-Warrior / Link / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Link / Effect
 attribute: WIND
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1100
 materials: 2 Beast-Warrior monsters, including a WIND "Ancient Warriors" monster
 sets:

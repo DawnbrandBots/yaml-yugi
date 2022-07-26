@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Ouragan de la Tornade
   it: Alanera - Hurricane il Tornado
   pt: Asanegra - Furacão, o Tornado
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>竜</rb><rp>（</rp><rt>たつ</rt><rp>）</rp></ruby><ruby><rb>巻</rb><rp>（</rp><rt>まき</rt><rp>）</rp></ruby>のハリケーン
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>竜</rb><rt>たつ</rt></ruby><ruby><rb>巻</rb><rt>まき</rt></ruby>のハリケーン
   ja_romaji: Burakku Fezā - Tatsumaki no Harikēn
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－회오리 허리케인
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－회오리 허리케인
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽-龙卷之哈里肯
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、フィールドのＳモンスター１体を対象として発動できる。このカードの攻撃力はターン終了時まで、対象のモンスターの攻撃力と同じになる。
   ko: |-
     ①: 1턴에 1번, 필드의 싱크로 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 대상 몬스터의 공격력과 같아진다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，以场上1只同调怪兽为对象才能发动。这张卡的攻击力直到回合结束时变成和作为对象的怪兽的攻击力相同。
-type: Monster
-typeline: Winged Beast / Tuner / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Tuner / Effect
 attribute: DARK
 level: 1
 atk: 0

@@ -7,12 +7,12 @@ name:
   fr: Champion Héroïque - Claivesolish
   it: Campione Eroico - Claivesolish
   pt: Campeão Heroico - Claivesolish
-  ja: <ruby><rb>Ｈ</rb><rp>（</rp><rt>ヒロイック</rt><rp>）</rp></ruby>－<ruby><rb>Ｃ</rb><rp>（</rp><rt>チャンピオン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｈ</rb><rt>ヒロイック</rt></ruby>－<ruby><rb>Ｃ</rb><rt>チャンピオン</rt></ruby>
     クレイヴソリッシュ
   ja_romaji: Hiroikku Chanpion Kureivu Sorisshu
-  ko: <ruby><rb>H</rb><rp>（</rp><rt>히로익</rt><rp>）</rp></ruby>－<ruby><rb>C</rb><rp>（</rp><rt>챔피언</rt><rp>）</rp></ruby>
-    크레이브솔리시
+  ko: <ruby><rb>H</rb><rt>히로익</rt></ruby>－<ruby><rb>C</rb><rt>챔피언</rt></ruby> 크레이브솔리시
   ko_rr: Hiroik Chaempieon Keureibeusollisi
+  zh-TW:
   zh-CN: 英豪冠军 辉之剑
 text:
   en: |-
@@ -39,11 +39,12 @@ text:
   ko: |-
     전사족 레벨 4 몬스터 × 2
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대는 다른 몬스터를 공격 대상으로 선택할 수 없다. ②: 500 LP가 되도록 LP를 지불하고 발동할 수 있다. 이 턴의 배틀 페이즈 개시시, 자신 필드의 몬스터 1장을 고르고 공격력을 배로 한다. ③: 상대 몬스터가 전투를 실행하는 공격 선언시, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 그 몬스터의 공격력만큼 올린다.
+  zh-TW:
   zh-CN: |-
     战士族等级4怪兽×2
     这个卡名的②③效果1回合各能使用1次。①：对手不能选择其他的怪兽作为攻击对象。②：可以将LP支付到只剩500LP发动。这个回合的战斗阶段开始时，选自己场上的1只怪兽的攻击力变为2倍。③：对手怪兽进行战斗的攻击宣言时，可以将这张卡的1个多维素材取除，以对手场上的1只表侧表示怪兽为对象发动。这张卡的攻击力直到回合结束时上升那只怪兽的攻击力数值。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
 rank: 4
 atk: 2500

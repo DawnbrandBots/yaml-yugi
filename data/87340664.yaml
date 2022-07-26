@@ -7,10 +7,11 @@ name:
   fr: Luciole Atomique
   it: Libellula Atomica
   pt: Vagalume Atômico
-  ja: <ruby><rb>原</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>子</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ホタル
+  ja: <ruby><rb>原</rb><rt>げん</rt></ruby><ruby><rb>子</rb><rt>し</rt></ruby>ホタル
   ja_romaji: Genshi Hotaru
   ko: 원자 반딧불
   ko_rr:
+  zh-TW:
   zh-CN: 原子萤火虫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上の表側表示で存在するこのカードを戦闘で破壊したプレイヤーは、１０００ポイントダメージを受ける。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드를 전투로 파괴한 플레이어는 1000 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     把场上表侧表示存在的这张卡战斗破坏的玩家受到1000分伤害。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: LIGHT
 level: 1
 atk: 100

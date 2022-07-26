@@ -7,10 +7,11 @@ name:
   fr: Golem Sentinelle
   it: Golem Guardiano
   pt: Golem Sentinela
-  ja: <ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>ぺい</rt><rp>）</rp></ruby>ゴーレム
+  ja: <ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>兵</rb><rt>ぺい</rt></ruby>ゴーレム
   ja_romaji: Banpei Gōremu
   ko: 파수병 골렘
   ko_rr:
+  zh-TW:
   zh-CN: 番兵石人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは１ターンに１度だけ裏側守備表示にする事ができる。このカードが反転召喚に成功した時、フィールド上のモンスターカード１枚を持ち主の手札に戻す。
   ko: |-
     이 카드는 1턴에 1번만 뒷면 수비 표시로 할 수 있다. 이 카드가 반전 소환에 성공했을 때, 상대 필드 위의 몬스터 1장을 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡1回合只有1次可以变成里侧守备表示。这张卡反转召唤成功时，对方场上1只怪兽回到持有者手卡。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 4
 atk: 800

@@ -7,12 +7,13 @@ name:
   fr: Sifr Poussière d'Étoile Dragon Divin
   it: Drago Divino Sirf Polvere di Stelle
   pt: Dragão Divino Sifr da Poeira Estelar
-  ja: <ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>珖</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>珖</rb><rt>こう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
     スターダスト・シフル
   ja_romaji: Seikōshinryū Sutādasuto Shifuru
   ko: 성광신룡 스타더스트 쉬프르
   ko_rr:
-  zh-CN: 圣珖神龙 星尘·零
+  zh-TW:
+  zh-CN: 圣珖神龙 星尘零
 text:
   en: |-
     1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
@@ -38,11 +39,12 @@ text:
   ko: |-
     싱크로 몬스터의 튜너 + 튜너 이외의 싱크로 몬스터 2장 이상
     이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다.① : 자신 필드의 카드는 각각 1턴에 1번만 전투 / 효과로는 파괴되지 않는다.② : 1턴에 1번, 상대가 몬스터의 효과를 발동했을 때에 발동할 수 있다.그 효과를 무효로 하고, 필드의 카드 1장을 골라 파괴한다.③ : 묘지의 이 카드를 제외하고, 자신 묘지의 레벨 8 이하의 "스타더스트" 몬스터 1장을 대상으로 하여 발동할 수 있다.그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    同调怪兽调整＋调整以外的同调怪兽2只以上
-    这张卡不用同调召唤不能特殊召唤。①：自己场上的卡在1回合各有1次不会被战斗·效果破坏。②：1回合1次，对方把怪兽的效果发动时才能发动。那个效果无效，选场上1张卡破坏。③：把墓地的这张卡除外，以自己墓地1只8星以下的「スターダスト」怪兽为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Dragon / Synchro / Effect
+    同步怪兽的协调＋2只以上协调以外的同步怪兽
+    此卡仅可以同步召唤方式特殊召唤。①：自己场上的每张卡1回合仅1次，不会因战斗・效果被破坏。②：1回合1次，对手发动怪兽的效果时可以发动。将该效果无效，挑选场上的1张卡破坏。③：将墓地的此卡除外，以自己墓地的1只等级8以下的"星尘"怪兽为对象可以发动。将该怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT
 level: 12
 atk: 4000
@@ -104,4 +106,9 @@ sets:
     set_name: Shining Victories
     rarities:
     - Super Rare
+    - Secret Rare
+  zh-CN:
+  - set_number: SD28-SCP02
+    set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
+    rarities:
     - Secret Rare

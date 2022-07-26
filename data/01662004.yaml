@@ -7,10 +7,11 @@ name:
   fr: Confrérie du Poing de Feu - Esprit
   it: Fratellanza del Pugno di Fuoco - Spirito
   pt: Irmandade do Punho de Fogo - Espírito
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>－チョウテン
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>－チョウテン
   ja_romaji: Enseishi - Chōten
   ko: 염성사－초우텐
   ko_rr: Yeomseongsa - Chouten
+  zh-TW: 炎星師－張天
   zh-CN: 炎星师-张天
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。このカードをＳ素材とする場合、獣戦士族モンスターのＳ召喚にしか使用できない。①：このカードが召喚に成功した時、自分の墓地の守備力２００以下の炎属性・レベル３モンスター１体を対象として発動できる。その炎属性モンスターを守備表示で特殊召喚する。この効果で特殊召喚に成功したターン、獣戦士族以外の自分のモンスターは攻撃できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. 이 카드를 싱크로 소재로 할 경우, 야수전사족 몬스터의 싱크로 소환으로밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때, 자신 묘지의 수비력 200 이하의 화염 속성 / 레벨 3 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 화염 속성 몬스터를 수비 표시로 특수 소환한다. 이 효과로 특수 소환에 성공한 턴에, 야수전사족 이외의 자신 몬스터는 공격할 수 없다.
+  zh-TW: 将此卡作为同步素材的场合，仅限兽战士族怪兽的同步召唤可使用。此卡召唤成功时，可从我方墓地选择1只守备力200或以下的炎属性、等级3怪兽以表侧守备表示特殊召唤。以此效果特殊召唤的场合，此回合我方兽战士族以外的怪兽不可攻击。「炎星師－張天」的效果1回合只可使用1次。
   zh-CN: |-
     这个卡名的效果1回合只能使用1次。把这张卡作为同调素材的场合，不是兽战士族怪兽的同调召唤不能使用。①：这张卡召唤成功时，以自己墓地1只守备力200以下的炎属性·3星怪兽为对象才能发动。那只炎属性怪兽守备表示特殊召唤。这个效果特殊召唤成功的回合，兽战士族以外的自己怪兽不能攻击。
-type: Monster
-typeline: Beast-Warrior / Tuner / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Tuner / Effect
 attribute: FIRE
 level: 3
 atk: 500

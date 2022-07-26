@@ -7,10 +7,11 @@ name:
   fr: Ange Déchu Edeh Ahraeh
   it: Signore Oscuro Edeh Arae
   pt: Senhor Obscuro Edeh Arae
-  ja: <ruby><rb>堕</rb><rp>（</rp><rt>だ</rt><rp>）</rp></ruby><ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>エデ・アーラエ
+  ja: <ruby><rb>堕</rb><rt>だ</rt></ruby><ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>使</rb><rt>し</rt></ruby>エデ・アーラエ
   ja_romaji: Datenshi Ede Ārae
   ko: 타락천사 에데 아라에
   ko_rr:
+  zh-TW:
   zh-CN: 堕天使 埃地·阿拉耶
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     ①: 묘지에서 특수 소환한 이 카드는 이하의 효과를 얻는다.
     ●이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     ①：从墓地特殊召唤的这张卡得到以下效果。
     ●这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: DARK
 level: 5
 atk: 2300

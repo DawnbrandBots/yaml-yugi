@@ -7,11 +7,11 @@ name:
   fr: Caam, Sérénité Gusto
   it: Caam, Serenità di Gusto
   pt: Caam, Serenidade de Gusto
-  ja: ガスタの<ruby><rb>静</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>寂</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby>
-    カーム
+  ja: ガスタの<ruby><rb>静</rb><rt>せい</rt></ruby><ruby><rb>寂</rb><rt>じゃく</rt></ruby> カーム
   ja_romaji: Gasuta no Seijaku Kāmu
   ko: 가스타의 정적 캄
   ko_rr:
+  zh-TW:
   zh-CN: 薰风的静寂 卡姆
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     １ターンに１度、自分の墓地に存在する「ガスタ」と名のついたモンスター２体をデッキに戻す事で、自分のデッキからカードを１枚ドローする。
   ko: |-
     1턴에1번, 자신의 묘지에 존재하는 '가스타' 라는 이름이 붙은 몬스터 2장을 덱으로 되돌리는 것으로, 자신의 덱에서 카드를 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     1回合1次，让自己墓地2只名字带有「薰风」的怪兽回到卡组才能发动。从卡组抽1张卡。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 4
 atk: 1700

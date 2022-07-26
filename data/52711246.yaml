@@ -7,10 +7,11 @@ name:
   fr: Saga-Écuyère Shiranui
   it: Shiranui Scudierosaga
   pt: Shiranui Escudeirosaga
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>あやかし</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>－<ruby><rb>不知火</rb><rp>（</rp><rt>しらぬい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>妖</rb><rt>あやかし</rt></ruby><ruby><rb>神</rb><rt>がみ</rt></ruby>－<ruby><rb>不知火</rb><rt>しらぬい</rt></ruby>
   ja_romaji: Ayakashigami - Shiranui
   ko: 요신－시라누이
   ko_rr: Yosin - Siranui
+  zh-TW:
   zh-CN: 妖神-不知火
 text:
   en: |-
@@ -57,10 +58,11 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     자신은 "요신－시라누이"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신 묘지 및 자신 필드의 앞면 표시 몬스터 중에서, 몬스터 1장을 골라 제외한다. 그 후, 그 종류에 따라, 이하의 효과를 각각 적용할 수 있다. ●언데드족: 자신 필드의 모든 몬스터의 공격력은 300 올린다. ●화염 속성: 필드의 마법 / 함정 카드 1장을 골라 파괴한다. ●싱크로: 필드의 몬스터 1장을 골라 파괴한다.
+  zh-TW:
   zh-CN: |-
     选场上1只怪兽破坏。
-type: Monster
-typeline: Zombie / Synchro / Effect
+card_type: Monster
+monster_type_line: Zombie / Synchro / Effect
 attribute: FIRE
 level: 7
 atk: 2100

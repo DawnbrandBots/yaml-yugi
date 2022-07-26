@@ -7,10 +7,11 @@ name:
   fr: Armure Complète - Lancier Cristalzéro
   it: Lanciere Crystalzero Armatura Completa
   pt: Lanceiro Cristalzero de Armadura Completa
-  ja: <ruby><rb>ＦＡ</rb><rp>（</rp><rt>フルアーマード</rt><rp>）</rp></ruby>－クリスタル・ゼロ・ランサー
+  ja: <ruby><rb>ＦＡ</rb><rt>フルアーマード</rt></ruby>－クリスタル・ゼロ・ランサー
   ja_romaji: Furu Āmādo - Kurisutaru Zero Ransā
-  ko: <ruby><rb>FA</rb><rp>（</rp><rt>풀아머드</rt><rp>）</rp></ruby>-크리스탈 제로 랜서
+  ko: <ruby><rb>FA</rb><rt>풀아머드</rt></ruby>-크리스탈 제로 랜서
   ko_rr:
+  zh-TW:
   zh-CN: 重铠装-晶零枪兵
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     물 속성 레벨 6 몬스터 × 3
     이 카드는 자신 필드 위의 물 속성 / 랭크 5의 엑시즈 몬스터 위에 이 카드를 겹쳐 엑시즈 소환할 수도. 이 카드의 공격력은, 이 카드의 엑시즈 소재의 수 × 500 포인트 올린다. 필드 위의 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 또한, 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드 위의 모든 몬스터의 효과를 턴 종료시까지 무효로 한다.
+  zh-TW:
   zh-CN: |-
     水属性6星怪兽×3。这张卡也能在自己场上的水属性·5阶的XYZ怪兽上面把这张卡重叠来XYZ召唤。这张卡的攻击力上升这张卡的XYZ素材数量×500的数值。场上的这张卡被破坏的场合，可以作为代替把这张卡1个XYZ素材取除。此外，1回合1次，把这张卡1个XYZ素材取除才能发动。对方场上的全部怪兽的效果直到回合结束时无效。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: WATER
 rank: 6
 atk: 2200

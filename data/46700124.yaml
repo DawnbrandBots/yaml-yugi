@@ -7,10 +7,11 @@ name:
   fr: Roi Machine
   it: Re delle Macchine
   pt: Rei Máquina
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
   ja_romaji: Kikaiō
   ko: 기계왕
   ko_rr:
+  zh-TW:
   zh-CN: 机械王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側表示で存在する機械族モンスター１体につき、このカードの攻撃力は１００ポイントアップする。
   ko: |-
     필드 위에 앞면 표시로 존재하는 기계족 몬스터 1장당, 이 카드의 공격력은 100 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     场上表侧表示存在的机械族怪兽每有1只，这张卡的攻击力上升100。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 6
 atk: 2200

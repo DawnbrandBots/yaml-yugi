@@ -7,10 +7,11 @@ name:
   fr: Lutin Onirique
   it: Folletto dei Sogni
   pt:
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>の<ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>影</rb><rt>えい</rt></ruby>の<ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby>
   ja_romaji: Gen'ei no Yōsei
   ko: 환영의 요정
   ko_rr:
+  zh-TW:
   zh-CN: 幻影妖精
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     このカードが相手モンスターから攻撃を受けた場合、他の自分のフィールド上モンスター１体が攻撃を受けた事にし、ダメージ計算を行う。
   ko: |-
     이 카드가 상대 몬스터로부터 공격을 받은 경우, 다른 자신의 몬스터 1장이 공격을 받은 것으로 하여 데미지 계산을 실행한다.
+  zh-TW:
   zh-CN: |-
     这张卡受到从对方怪兽来的攻击的场合，让其他的自己场上1只怪兽承受攻击，进行伤害计算。
-type: Monster
-typeline: Plant / Effect
+card_type: Monster
+monster_type_line: Plant / Effect
 attribute: LIGHT
 level: 2
 atk: 300

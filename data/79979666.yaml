@@ -7,11 +7,12 @@ name:
   fr: Bubbleman, HÉROS Élémentaire
   it: Bubbleman EROE Elementale
   pt: Homem Bolha, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> バブルマン
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> バブルマン
   ja_romaji: Erementaru Hīrō Baburuman
   ko: 엘리멘틀 히어로 버블맨
   ko_rr:
-  zh-CN: 元素英雄 水泡侠
+  zh-TW:
+  zh-CN: 元素－英雄 泡沫人
 text:
   en: |-
     If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.
@@ -29,10 +30,11 @@ text:
     ①：手札がこのカード１枚のみの場合、このカードは手札から特殊召喚できる。②：このカードが召喚・反転召喚・特殊召喚に成功した時に発動できる。自分はデッキから２枚ドローする。この効果は自分の手札・フィールドに他のカードが無い場合に発動と処理ができる。
   ko: |-
     ①: 패가 이 카드 1장뿐일 경우, 이 카드를 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 이 효과는 자신의 패 / 필드에 다른 카드가 없을 경우에 발동과 처리를 할 수 있다.
+  zh-TW:
   zh-CN: |-
-    ①：手卡只有这1张卡的场合，这张卡可以从手卡特殊召唤。②：这张卡召唤·反转召唤·特殊召唤成功时才能发动。自己从卡组抽2张。这个效果在自己的手卡·场上没有其他卡的场合才能发动和处理。
-type: Monster
-typeline: Warrior / Effect
+    ①：手牌仅有此1张卡的情况下，此卡可从手牌中特殊召唤。②：此卡召唤・反转召唤・特殊召唤成功时可以发动。自己从牌组抽2张。此效果在自己的手牌・场上没有其他卡的情况下才能发动和处理。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 800

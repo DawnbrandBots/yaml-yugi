@@ -7,10 +7,11 @@ name:
   fr: Pleine Lune d'Or
   it: Moneta Lunare D'Oro
   pt: Moeda de Ouro da Lua
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>ほし</rt><rp>）</rp></ruby>の<ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby><rb>貨</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>ほし</rt></ruby>の<ruby><rb>金</rb><rt>きん</rt></ruby><ruby><rb>貨</rb><rt>か</rt></ruby>
   ja_romaji: Hoshi no Kinka
   ko: 별의 금화
   ko_rr: Byeol-ui Geumhwa
+  zh-TW:
   zh-CN: 星星金币
 text:
   en: |-
@@ -29,8 +30,9 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札を２枚選んで相手の手札に加える。その後、自分はデッキから２枚ドローする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패를 2장 골라 상대의 패에 넣는다. 그 후, 자신은 덱에서 2장 드로우한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的卡在1回合只能发动1张。
     ①：选自己2张手卡加入对方手卡。那之后，自己从卡组抽2张。
-type: Spell
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 26 : Voie Spatiale Pieuvration'
   it: 'Numero 26: Rotta Spaziale Polpodeviazione'
   pt: 'Número 26: Octopassagem Espacial'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>２６ <ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>孔</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>路</rb><rp>（</rp><rt>ろ</rt><rp>）</rp></ruby>オクトバイパス
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>２６ <ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>孔</rb><rt>こう</rt></ruby><ruby><rb>路</rb><rt>ろ</rt></ruby>オクトバイパス
   ja_romaji: Nanbāzu Nijūroku Jigen Kōro Okutobaipasu
   ko: No.26 차원공로 옥토바이패스
   ko_rr: Neombeojeu Seumulyeoseot Chawon-gongno Oktobaipaeseu
+  zh-TW:
   zh-CN: No.26 次元孔路 绕道章鱼
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     레벨 3 몬스터 × 2
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대의 배틀 페이즈 개시시에, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 배틀 페이즈 중, 몬스터 1장으로밖에 공격할 수 없으며, 그 몬스터의 공격은 직접 공격이 된다. ②: 몬스터가 직접 공격으로 전투 데미지를 준 데미지 스텝 종료시에 발동한다. 그 공격한 몬스터의 컨트롤을 턴 플레이어의 상대에게 옮긴다.
+  zh-TW:
   zh-CN: |-
     3星怪兽×2
     这个卡名的①的效果1回合只能使用1次。
     ①：自己·对方的战斗阶段开始时，把这张卡1个超量素材取除才能发动。这次战斗阶段中，只能用1只怪兽攻击，那只怪兽的攻击变成直接攻击。
     ②：怪兽直接攻击给与战斗伤害的伤害步骤结束时发动。那只攻击的怪兽的控制权移给从回合玩家来看的对方。
-type: Monster
-typeline: Psychic / Xyz / Effect
+card_type: Monster
+monster_type_line: Psychic / Xyz / Effect
 attribute: LIGHT
 rank: 3
 atk: 800

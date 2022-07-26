@@ -7,10 +7,11 @@ name:
   fr: Malédiction des Protecteurs du Tombeau
   it: Maledizione - Custode di Tombe
   pt: Maldição do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>呪</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>呪</rb><rt>じゅ</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Hakamori no Jujutsushi
   ko: 묘지기의 주술사
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的咒术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚・反転召喚・特殊召喚された時、相手プレイヤーに５００ポイントダメージを与える。
   ko: |-
     이 카드가 소환ㆍ반전소환ㆍ특수 소환되었을 때, 상대 플레이어에 500 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·反转召唤·特殊召唤时，给与对方玩家500分伤害。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 3
 atk: 800

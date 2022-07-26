@@ -7,10 +7,11 @@ name:
   fr: Arachnée Souterraine
   it: Aracnide Sotterraneo
   pt: Aracnídeo Subterrâneo
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>底</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby>のアラクネー
+  ja: <ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>底</rb><rt>てい</rt></ruby>のアラクネー
   ja_romaji: Chitei no Arakunē
   ko: 대저의 아라크네
   ko_rr:
+  zh-TW:
   zh-CN: 地底之阿剌克涅
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     어둠 속성 튜너 + 튜너 이외의 곤충족 몬스터 1장
     이 카드가 공격할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 카드를 발동할 수 없다. 1턴에 1번, 상대 필드 위에 앞면 표시로 존재하는 몬스터를 장착 카드로 취급하고 이 카드 1장만 장착할 수 있다. 이 카드가 전투에 의해서 파괴될 경우, 대신에 이 효과로 장착한 몬스터를 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     暗属性调整＋调整以外的昆虫族怪兽1只
     这张卡攻击的场合，对方直到伤害步骤结束时不能把魔法·陷阱卡发动。1回合1次，可以选择对方场上表侧表示存在的怪兽当作装备卡使用只有1只给这张卡装备。这张卡被战斗破坏的场合，可以作为代替把这个效果装备的怪兽破坏。
-type: Monster
-typeline: Insect / Synchro / Effect
+card_type: Monster
+monster_type_line: Insect / Synchro / Effect
 attribute: EARTH
 level: 6
 atk: 2400

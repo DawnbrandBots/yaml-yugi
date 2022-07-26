@@ -7,10 +7,11 @@ name:
   fr: Essai et Châtiment
   it: Prova e Patimento
   pt: Julgamento e Tribulação
-  ja: <ruby><rb>招</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>来</rb><rp>（</rp><rt>らい</rt><rp>）</rp></ruby>の<ruby><rb>対</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>価</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>招</rb><rt>しょう</rt></ruby><ruby><rb>来</rb><rt>らい</rt></ruby>の<ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>価</rb><rt>か</rt></ruby>
   ja_romaji: Shōrai no Taika
   ko: 초래의 대가
   ko_rr:
+  zh-TW:
   zh-CN: 招来的对价
 text:
   en: |-
@@ -46,7 +47,8 @@ text:
     ● 1장 : 덱에서 카드를 1장 드로우한다.
     ● 2장 : 자신 묘지의 몬스터 2장을 고르고 패에 넣는다.
     ● 3장 : 필드 위에 앞면 표시로 존재하는 카드를 3장까지 고르고 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡发动的回合的结束阶段时，这个回合自己从手卡·场上解放的衍生物以外的怪兽数量的以下效果适用。「招来的对价」在1回合只能发动1张。●1只：从卡组抽1张卡。●2只：选自己墓地2只怪兽加入手卡。●3只以上：选场上表侧表示存在的最多3张卡破坏。
-type: Spell
+card_type: Spell
 property: Normal

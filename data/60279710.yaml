@@ -11,6 +11,7 @@ name:
   ja_romaji: Saibāsu Enchantā
   ko: 사이버스 인챈터
   ko_rr: Saibeoseu Inchaenteo
+  zh-TW:
   zh-CN: 电子界魔法师
 text:
   en: |-
@@ -37,18 +38,19 @@ text:
   ko: |-
     몬스터 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 "사이버스 위저드"를 소재로서 링크 소환되어 있을 경우, 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 표시 형식을 변경하고, 그 효과는 턴 종료시까지 무효화된다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 패 / 덱 / 묘지에서 "사이버스 위저드" 1장을 골라 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     怪兽2只以上
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡是已用「电子界男巫」为素材作连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽的表示形式变更，那个效果直到回合结束时无效化。这个效果在对方回合也能发动。
     ②：这张卡被战斗或者对方的效果破坏的场合才能发动。从自己的手卡·卡组·墓地选1只「电子界男巫」特殊召唤。
-type: Monster
-typeline: Cyberse / Link / Effect
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Middle-Right
+- ⬅
+- ⬇
+- ➡
 atk: 2400
 sets:
   en:

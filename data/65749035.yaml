@@ -7,11 +7,12 @@ name:
   fr: Gungnir, Dragon de la Barrière de Glace
   it: Gungnir, Drago della Barriera di Ghiaccio
   pt: Gungnir, o Dragão da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>龍</rb><rt>りゅう</rt></ruby>
     グングニール
   ja_romaji: Hyōkekkai no Ryū Gungunīru
   ko: 빙결계의 용 궁니르
   ko_rr: Binggyeolgye-ui Yong Gungnireu
+  zh-TW: 冰結界之龍 天槍
   zh-CN: 冰结界之龙 天枪龙
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 물 속성 몬스터 1장 이상
     ①: 1턴에 1번, 패를 2장까지 묘지로 버리고, 버린 수만큼 상대 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW: "协调＋协调以外的水属性怪兽1只或以上\n1回合1次，最多可舍弃2张手牌至墓地，并可选择对手场上与舍弃卡牌相同数量的卡牌发动。破坏选择的卡牌。"
   zh-CN: |-
     调整＋调整以外的水属性怪兽1只以上
     1回合1次，把最多2张手卡丢弃去墓地，选择丢弃数量的对方场上的卡才能发动。选择的卡破坏。
-type: Monster
-typeline: Dragon / Synchro / Effect
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: WATER
 level: 7
 atk: 2500

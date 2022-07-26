@@ -7,10 +7,11 @@ name:
   fr: Mille Bras, Allié de la Justice
   it: Mille Braccia Alleato della Giustizia
   pt:
-  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rp>（</rp><rt>アーリー・オブ・ジャスティス</rt><rp>）</rp></ruby> サウザンド・アームズ
+  ja: <ruby><rb>Ａ・Ｏ・Ｊ</rb><rt>アーリー・オブ・ジャスティス</rt></ruby> サウザンド・アームズ
   ja_romaji: Ārī obu Jasutisu Sauzando Āmuzu
   ko: A·O·J 사우전드 암즈
   ko_rr:
+  zh-TW:
   zh-CN: 正义盟军 千械鬼
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは相手フィールド上に表側表示で存在する光属性モンスターに１回ずつ攻撃をする事ができる。光属性以外のモンスターと戦闘を行う場合、そのダメージ計算前にこのカードを破壊する。
   ko: |-
     이 카드는 상대 필드 위에 앞면 표시로 존재하는 빛 속성 몬스터에 1번씩 공격할 수 있다. 빛 속성 이외의 몬스터와 전투를 실행할 경우, 그 데미지 계산 전에 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡可以向对方场上的全部光属性怪兽各作1次攻击。这张卡和光属性以外的怪兽进行战斗的场合，那次伤害计算前这张卡破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 1700

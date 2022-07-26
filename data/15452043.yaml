@@ -7,10 +7,11 @@ name:
   fr: Poisson Épée Potartiste
   it: Artistamico Pesce Spada
   pt: Peixe-espada Camarartista
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>ソード・フィッシュ
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>ソード・フィッシュ
   ja_romaji: Entameito Sōdo Fisshu
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 스워드 피시
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 스워드 피시
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 宝剑鱼
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：このカードが召喚・特殊召喚に成功した場合に発動する。相手フィールドのモンスター全ての攻撃力・守備力は６００ダウンする。②：このカードがモンスターゾーンに存在し、自分がモンスターの特殊召喚に成功した場合に発動する。相手フィールドのモンスター全ての攻撃力・守備力は６００ダウンする。
   ko: |-
     ① : 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 상대 필드의 모든 몬스터의 공격력 / 수비력은 600 내린다. ② : 이 카드가 몬스터 존에 존재하고, 자신이 몬스터의 특수 소환에 성공했을 경우에 발동한다. 상대 필드의 모든 몬스터의 공격력 / 수비력은 600 내린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功的场合发动。对方场上的全部怪兽的攻击力·守备力下降600。
     ②：这张卡在怪兽区域存在，自己对怪兽的特殊召唤成功的场合发动。对方场上的全部怪兽的攻击力·守备力下降600。
-type: Monster
-typeline: Fish / Effect
+card_type: Monster
+monster_type_line: Fish / Effect
 attribute: WATER
 level: 2
 atk: 600

@@ -11,6 +11,7 @@ name:
   ja_romaji: Dekōdo Tōkā Ekusutendo
   ko: 디코드 토커 익스텐드
   ko_rr: Dikodeu Tokeo Ikseutendeu
+  zh-TW:
   zh-CN: 解码语者·扩展
 text:
   en: |-
@@ -37,18 +38,19 @@ text:
   ko: |-
     효과 몬스터 2장 이상
     ①: 이 카드는 몬스터 존에 존재하는 한, 카드명을 "디코드 토커"로 취급한다. ②: 이 카드의 공격력은, 이 카드의 링크 앞의 몬스터의 수 × 500 올린다. ③: 자신 배틀 페이즈에, 이 카드의 링크 앞의 몬스터가, 전투로 파괴되었을 경우, 또는 묘지로 보내졌을 경우에 발동할 수 있다. 이 턴에, 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     效果怪兽2只以上
     ①：这张卡只要在怪兽区域存在，卡名当作「解码语者」使用。
     ②：这张卡的攻击力上升这张卡所连接区的怪兽数量×500。
     ③：自己战斗阶段，这张卡所连接区的怪兽被战斗破坏的场合或者被送去墓地的场合才能发动。这个回合，这张卡在同1次的战斗阶段中可以作2次攻击。
-type: Monster
-typeline: Cyberse / Link / Effect
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
-- Top-Center
+- ↙
+- ↘
+- ⬆
 atk: 2300
 materials: 2+ Effect Monsters
 sets:

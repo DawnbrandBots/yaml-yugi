@@ -7,11 +7,12 @@ name:
   fr: Raidraptor - Faucon Canon Satellite
   it: Raidraptor - Falco Satellite Cannone
   pt: Ataqueraptor - Falcão Canhão Satélite
-  ja: <ruby><rb>ＲＲ</rb><rp>（</rp><rt>レイド・ラプターズ</rt><rp>）</rp></ruby>－サテライト・キャノン・ファルコン
+  ja: <ruby><rb>ＲＲ</rb><rt>レイド・ラプターズ</rt></ruby>－サテライト・キャノン・ファルコン
   ja_romaji: Reido Raputāzu - Sateraito Kyanon Farukon
-  ko: <ruby><rb>RR</rb><rp>（</rp><rt>레이드 랩터즈</rt><rp>）</rp></ruby>－새털라이트 캐논 팔콘
+  ko: <ruby><rb>RR</rb><rt>레이드 랩터즈</rt></ruby>－새털라이트 캐논 팔콘
   ko_rr: Reideu Raepteojeu - Saeteollaiteu Kaenon Palkon
-  zh-CN: 急袭猛禽-卫星炮猎鹰
+  zh-TW:
+  zh-CN: 急袭猛禽－卫星炮猎鹰
 text:
   en: |-
     2 Level 8 Winged Beast monsters
@@ -33,15 +34,16 @@ text:
     Se este card for Invocado por Invocação-Xyz ao usar um monstro "Ataqueraptor" como matéria: você pode destruir todas as Magias e Armadilhas que seu oponente controla. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito. Efeito Rápido: você pode desassociar 1 matéria deste card e, depois, escolher 1 monstro com a face para cima que seu oponente controla; ele perde 800 de ATK para cada monstro "Ataqueraptor" no seu Cemitério.
   ja: |-
     鳥獣族レベル８モンスター×２
-    ①：このカードが「ＲＲ」モンスターを素材として<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>召喚に成功した場合に発動できる。相手フィールドの魔法・罠カードを全て破壊する。この効果の発動に対して、相手は魔法・罠・モンスターの効果を発動できない。②：このカードの<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>素材を１つ取り除き、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は自分の墓地の「ＲＲ」モンスターの数×８００ダウンする。この効果は相手ターンでも発動できる。
+    ①：このカードが「ＲＲ」モンスターを素材として<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>召喚に成功した場合に発動できる。相手フィールドの魔法・罠カードを全て破壊する。この効果の発動に対して、相手は魔法・罠・モンスターの効果を発動できない。②：このカードの<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>素材を１つ取り除き、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は自分の墓地の「ＲＲ」モンスターの数×８００ダウンする。この効果は相手ターンでも発動できる。
   ko: |-
     비행야수족 레벨 8 몬스터 × 2
     ①: 이 카드가 "RR(레이드 랩터즈)" 몬스터를 소재로서 엑시즈 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 마법 / 함정 카드를 전부 파괴한다. 이 효과의 발동에 대하여, 상대는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ②: 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력은 자신 묘지의 "RR(레이드 랩터즈)" 몬스터의 수 × 800 내린다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    鸟兽族8星怪兽×2
-    ①：这张卡用「急袭猛禽」怪兽为素材作XYZ召唤成功的场合才能发动。对方场上的魔法·陷阱卡全部破坏。对方不能对应这个效果的发动把魔法·陷阱·怪兽的效果发动。②：把这张卡1个XYZ素材取除，以对方场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力下降自己墓地的「急袭猛禽」怪兽数量×800。这个效果在对方回合也能发动。
-type: Monster
-typeline: Winged Beast / Xyz / Effect
+    鸟兽族等级8怪兽×2
+    ①：此卡以"急袭猛禽"怪兽作为素材超量召唤成功的情况下可以发动。将对手场上的所有魔法・陷阱卡破坏。应对此效果的发动，对手不可发动魔法・陷阱・怪兽的效果。②：去除此卡的1个超量素材，以对手场上的1只表侧表示怪兽为对象可以发动。该怪兽的攻击力下降相当于自己墓地"急袭猛禽"怪兽的数量×800的数值。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Winged Beast / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 3000

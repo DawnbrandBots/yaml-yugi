@@ -7,10 +7,11 @@ name:
   fr: Le Spadassin de Landstar
   it: Spadaccino di Landstar
   pt: Espadachim de Landstar
-  ja: ランドスターの<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: ランドスターの<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Randosutā no Kenshi
   ko: 랜드스타의 검사
   ko_rr:
+  zh-TW:
   zh-CN: 地星剑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     剣の腕は未熟だが、不思議な能力を持つ妖精剣士。
   ko: |-
     검의팔은 미숙하지만, 신기한 능력을 지닌 요정검사
+  zh-TW:
   zh-CN: |-
     虽然剑术不太成熟，但却有不可思议力量的妖精剑士。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 3
 atk: 500

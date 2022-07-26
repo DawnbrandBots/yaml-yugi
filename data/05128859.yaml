@@ -7,10 +7,11 @@ name:
   fr: Néos Marin, HÉROS Élémentaire
   it: Neos Marino Eroe Elementale
   pt: Heroí Elementar Neos Marinho
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> マリン・ネオス
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> マリン・ネオス
   ja_romaji: Erementaru Hīrō Marin Neosu
   ko: 엘리멘틀 히어로 마린 네오스
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 海洋新宇侠
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     「E·HERO 네오스」＋「N·마린·돌핀」
     자신 필드상에 존재하는 상기의 카드를 덱에 되돌렸을 경우만, 융합 덱으로부터 특수 소환이 가능( 「융합」마법 카드는 필요로 하지 않는다). 상대의 패 1매를 랜덤으로 선택해 파괴한다. 이 효과는 1 턴에 1회 밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 新宇侠」＋「新宇宙侠·海洋海豚」
     让自己场上存在的上记的卡回到卡组的场合才能从融合卡组特殊召唤（不需要「融合」魔法卡）。随机选择1张对方手卡破坏。这个效果1回合只能使用1次。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: WATER
 level: 8
 atk: 2800

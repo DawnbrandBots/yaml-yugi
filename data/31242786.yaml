@@ -7,10 +7,11 @@ name:
   fr: Mangeur d’Âme
   it: Mangianima
   pt: Devorador de Almas
-  ja: <ruby><rb>魂</rb><rp>（</rp><rt>たま</rt><rp>）</rp></ruby><ruby><rb>喰</rb><rp>（</rp><rt>ぐ</rt><rp>）</rp></ruby>らい
+  ja: <ruby><rb>魂</rb><rt>たま</rt></ruby><ruby><rb>喰</rb><rt>ぐ</rt></ruby>らい
   ja_romaji: Tamagurai
   ko: 영혼 흡수자
   ko_rr:
+  zh-TW:
   zh-CN: 食魂鱼
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
     全てが謎に包まれている超生命體。
   ko: |-
     모든게 의문으로 감싸인 초생명체
+  zh-TW:
   zh-CN: |-
     一切都是迷的超生命体。
-type: Monster
-typeline: Fish
+card_type: Monster
+monster_type_line: Fish
 attribute: EARTH
 level: 4
 atk: 1200

@@ -7,10 +7,11 @@ name:
   fr: Exécution du Contrat
   it: Esecuzione del Contratto
   pt: Execução do Contrato
-  ja: <ruby><rb>契</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby><rb>約</rb><rp>（</rp><rt>やく</rt><rp>）</rp></ruby>の<ruby><rb>遂</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>契</rb><rt>けい</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>の<ruby><rb>遂</rb><rt>すい</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby>
   ja_romaji: Keiyaku no Suikō
   ko: 계약의 수행
   ko_rr:
+  zh-TW:
   zh-CN: 契约签订
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札の儀式モンスター１体を相手に見せて発動できる。装備モンスターのレベルはターン終了時まで、見せたモンスターのレベルと同じになる。②：装備モンスターがリリースされた事でこのカードが墓地へ送られた場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패의 의식 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 장착 몬스터의 레벨은 턴 종료시까지, 보여준 몬스터의 레벨과 같아진다. ②: 장착 몬스터가 릴리스된 것으로 이 카드가 묘지로 보내졌을 경우, 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     可以把手卡1只仪式怪兽给对方观看；装备怪兽的等级直到回合结束时变成和给人观看的怪兽的等级相同（即使这张卡从场上离开）。装备怪兽被解放让这张卡被送去墓地的场合：可以以对方场上1只怪兽为对象；那只怪兽破坏。「契约签订」的每个效果1回合各能使用1次。
-type: Spell
+card_type: Spell
 property: Equip

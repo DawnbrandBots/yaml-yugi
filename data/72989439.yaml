@@ -7,11 +7,12 @@ name:
   fr: Soldat du Lustre Noir - Emissaire du Commencement
   it: Glorioso Soldato Nero - Emissario dell'Inizio
   pt: Soldado do Lustro Negro - Enviado do Princípio
-  ja: カオス・ソルジャー －<ruby><rb>開</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>闢</rb><rp>（</rp><rt>びゃく</rt><rp>）</rp></ruby>の<ruby><rb>使</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>－
+  ja: カオス・ソルジャー －<ruby><rb>開</rb><rt>かい</rt></ruby><ruby><rb>闢</rb><rt>びゃく</rt></ruby>の<ruby><rb>使</rb><rt>し</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>－
   ja_romaji: Kaosu Sorujā - Kaibyaku no Shisha -
   ko: 카오스 솔저 －개벽－
   ko_rr: Kaoseu Soljeo - Gaebyeok
-  zh-CN: 混沌战士 -开辟的使者-
+  zh-TW:
+  zh-CN: 混沌士兵 －开辟的使者－
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.
@@ -41,10 +42,11 @@ text:
     このカードは通常召喚できない。自分の墓地から光属性と闇属性のモンスターを１体ずつ除外した場合に特殊召喚できる。このカードの①②の効果は１ターンに１度、いずれか１つしか使用できない。①：フィールドのモンスター１体を対象として発動できる。そのモンスターを除外する。この効果を発動するターン、このカードは攻撃できない。②：このカードの攻撃で相手モンスターを破壊した時に発動できる。このカードはもう１度だけ続けて攻撃できる。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지에서 빛 속성과 어둠 속성 몬스터를 1장씩 제외했을 경우에 특수 소환할 수 있다. 이 카드의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 제외한다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다. ②: 이 카드의 공격으로 상대 몬스터를 파괴했을 때에 발동할 수 있다. 이 카드는 1번만 더 이어서 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。从自己墓地把光属性和暗属性的怪兽各1只除外的场合可以特殊召唤。这张卡的①②的效果1回合只能有1次使用其中任意1个。①：以场上1只怪兽为对象才能发动。那只怪兽除外。这个效果发动的回合，这张卡不能攻击。②：这张卡的攻击破坏对方怪兽时才能发动。这张卡只再1次可以继续攻击。
-type: Monster
-typeline: Warrior / Effect
+    此卡不可通常召唤。将自己墓地中光属性与暗属性怪兽各1只除外的情况下可特殊召唤。此卡的①②效果1回合1次，仅可使用其中1个。①：可以场上1只怪兽为对象发动。将该怪兽除外。发动此效果的回合中，此卡不可攻击。②：此卡因攻击破坏对手怪兽时可以发动。之后此卡仅1次可继续攻击。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 8
 atk: 3000

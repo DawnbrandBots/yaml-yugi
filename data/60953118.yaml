@@ -7,10 +7,11 @@ name:
   fr: Force Arcane XIV - La Tempérance
   it: Energia Arcana XIV - La Temperanza
   pt: Força Arcana XIV - A Temperança
-  ja: アルカナフォース<ruby><rb>ⅩⅣ</rb><rp>（</rp><rt>フォーティーン</rt><rp>）</rp></ruby>－<ruby><rb>ＴＥＭＰＥＲＡＮＣＥ</rb><rp>（</rp><rt>テンパランス</rt><rp>）</rp></ruby>
+  ja: アルカナフォース<ruby><rb>ⅩⅣ</rb><rt>フォーティーン</rt></ruby>－<ruby><rb>ＴＥＭＰＥＲＡＮＣＥ</rb><rt>テンパランス</rt></ruby>
   ja_romaji: Arukana Fōsu Fōtīn - Tenparansu
   ko: 아르카나 포스 ⅩⅣ-템퍼런스
   ko_rr:
+  zh-TW:
   zh-CN: 秘仪之力14-节制
 text:
   en: |-
@@ -45,10 +46,11 @@ text:
     패에서 이 카드를 버리는 것으로, 자신이 받는 전투데미지를 1번만 0 으로 한다. 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 코인 토스를 1회 실행하고 이하의 효과를 얻는다.
     ● 앞 : 자신이 받는 전투 데미지는 절반이 된다.
     ● 뒤 : 상대가 받는 전투 데미지는 절반이 된다.
+  zh-TW:
   zh-CN: |-
     战斗伤害计算时，把这张卡从手卡丢弃才能发动。那次战斗发生的对自己的战斗伤害变成0。这张卡召唤·反转召唤·特殊召唤成功时，进行1次投掷硬币，得到那个里表的以下效果。●表：只要这张卡在场上表侧表示存在，自己受到的战斗伤害变成一半。●里：只要这张卡在场上表侧表示存在，对方受到的战斗伤害变成一半。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: LIGHT
 level: 6
 atk: 2400

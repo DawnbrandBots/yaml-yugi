@@ -7,10 +7,11 @@ name:
   fr: Sonnez la Retraite !
   it: Suonare la Ritirata!
   pt:
-  ja: <ruby><rb>撤</rb><rp>（</rp><rt>てっ</rt><rp>）</rp></ruby><ruby><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>撤</rb><rt>てっ</rt></ruby><ruby><rb>収</rb><rt>しゅう</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby>
   ja_romaji: Tesshū Meirei
   ko: 철수 명령
   ko_rr:
+  zh-TW:
   zh-CN: 撤收命令
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     自分フィールド上に存在するモンスターを全て持ち主の手札に戻す。
   ko: |-
     자신 필드 위에 존재하는 몬스터를 전부 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的怪兽全部回到持有者手卡。
-type: Trap
+card_type: Trap
 property: Normal

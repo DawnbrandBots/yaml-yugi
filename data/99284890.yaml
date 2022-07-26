@@ -7,10 +7,11 @@ name:
   fr: Avatar du Pot
   it: Avatar dell'Anfora
   pt: Avatar do Pote
-  ja: <ruby><rb>壺</rb><rp>（</rp><rt>つぼ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>壺</rb><rt>つぼ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
   ja_romaji: Tsubo Mashin
   ko: 항아리 마신
   ko_rr:
+  zh-TW:
   zh-CN: 壶魔神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     手札から「強欲な壺」１枚を墓地へ送る。自分のデッキからカードを３枚ドローする。
   ko: |-
     패에서"욕망의 항아리"1장을 묘지로 보낸다, 자신의 덱에서 카드를 3장 드로우 한다.
+  zh-TW:
   zh-CN: |-
     从手卡把1张「强欲之壶」丢弃去墓地。从自己卡组抽3张卡。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 3
 atk: 1200

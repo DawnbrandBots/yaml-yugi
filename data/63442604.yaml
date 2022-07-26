@@ -7,10 +7,11 @@ name:
   fr: Clone Ephémère
   it: Doppione
   pt: Duplo Físico
-  ja: <ruby><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby><ruby><rb>理</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><ruby><rb>身</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>物</rb><rt>ぶつ</rt></ruby><ruby><rb>理</rb><rt>り</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby><ruby><rb>身</rb><rt>しん</rt></ruby>
   ja_romaji: Butsuri Bunshin
   ko: 물리분신
   ko_rr:
+  zh-TW:
   zh-CN: 物理分身
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手のターンでのみ発動する事ができる。指定した相手モンスターと同じレベル・種族・属性・攻撃力・守備力を持つ「ミラージュトークン」を１体特殊召喚する。ターン終了時にこのトークンを破壊する。
   ko: |-
     상대의 턴에만 발동할 수 있다. 지정한 상대 몬스터와 같은 레벨/종족/속성/공격력/수비력을 가진 "미라지 토큰"을 1장 특수 소환한다. 턴 종료시에 이 토큰을 파괴한다.
+  zh-TW:
   zh-CN: |-
     只能在对方回合发动。持有和指定的对方怪兽相同的等级·种族·属性·攻击力·守备力的1只「幻影衍生物」特殊召唤。回合结束时这衍生物破坏。
-type: Trap
+card_type: Trap
 property: Normal

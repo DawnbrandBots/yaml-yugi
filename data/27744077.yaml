@@ -7,10 +7,11 @@ name:
   fr: Issue Terminale
   it: Fine Definitiva
   pt: Final Absoluto
-  ja: <ruby><rb>絶</rb><rp>（</rp><rt>ぜっ</rt><rp>）</rp></ruby><ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>絶</rb><rt>ぜっ</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby><ruby><rb>絶</rb><rt>ぜつ</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby>
   ja_romaji: Zettai Zetsumei
   ko: 절체절명
   ko_rr:
+  zh-TW:
   zh-CN: 绝体绝命
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手ターンのみ発動する事ができる。このターン相手モンスターの攻撃は、全てプレイヤーへの直接攻撃になる。
   ko: |-
     상대 턴에만 발동할 수 있다. 이 턴 상대 몬스터의 공격은, 전부 플레이어에게로의 직접 공격이 된다.
+  zh-TW:
   zh-CN: |-
     对方回合才能发动。这个回合对方怪兽的攻击全部变成对玩家的直接攻击。
-type: Trap
+card_type: Trap
 property: Normal

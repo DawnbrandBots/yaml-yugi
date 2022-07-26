@@ -7,10 +7,11 @@ name:
   fr: Tornade Localisée
   it: Tornado Localizzato
   pt: Tornado Localizado
-  ja: <ruby><rb>局</rb><rp>（</rp><rt>きょく</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>的</rb><rp>（</rp><rt>てき</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby>ハリケーン
+  ja: <ruby><rb>局</rb><rt>きょく</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby>ハリケーン
   ja_romaji: Kyokuchiteki Dai Harikēn
   ko: 로컬 빅 허리케인
   ko_rr:
+  zh-TW:
   zh-CN: 局地性大飓风
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分の手札・墓地に存在するカードを全て持ち主のデッキに戻してシャッフルする。
   ko: |-
     자신의 패 / 묘지에 존재하는 카드를 모두 주인의 덱으로 되돌리고 셔플한다.
+  zh-TW:
   zh-CN: |-
     自己的手卡·墓地存在的卡全部回到持有者卡组洗切。
-type: Trap
+card_type: Trap
 property: Normal

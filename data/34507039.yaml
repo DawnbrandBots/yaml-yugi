@@ -11,7 +11,8 @@ name:
   ja_romaji: Gyakutan
   ko: 도청
   ko_rr:
-  zh-CN: 反查
+  zh-TW:
+  zh-CN: 发讯追踪
 text:
   en: |-
     When a Trap is activated: Negate the activation, and if you do, shuffle that card into the Deck.
@@ -29,7 +30,8 @@ text:
     ①：罠カードが発動した時に発動できる。その発動を無効にし、そのカードを持ち主のデッキに戻す。
   ko: |-
     ①: 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고, 그 카드를 주인의 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
-    ①：陷阱卡发动时才能发动。那个发动无效，那张卡回到持有者卡组。
-type: Trap
+    ①：陷阱卡发动时可以发动。将该发动无效，将该卡放回持有者的牌组。
+card_type: Trap
 property: Counter

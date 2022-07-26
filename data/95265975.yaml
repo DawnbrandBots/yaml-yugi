@@ -7,10 +7,11 @@ name:
   fr: Goule à l'appétit vorace
   it: Demone Affamato
   pt: Carniçal com um Apetite
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>おお</rt><rp>）</rp></ruby><ruby><rb>食</rb><rp>（</rp><rt>ぐ</rt><rp>）</rp></ruby>いグール
+  ja: <ruby><rb>大</rb><rt>おお</rt></ruby><ruby><rb>食</rb><rt>ぐ</rt></ruby>いグール
   ja_romaji: Ōgui Gūru
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 贪食的食尸鬼
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     どんなに食べても、おなかがいっぱいになることは無いというモンスター。
   ko:
+  zh-TW:
   zh-CN: |-
     无论怎么吃也不会饱的怪兽。
-type: Monster
-typeline: Zombie
+card_type: Monster
+monster_type_line: Zombie
 attribute: DARK
 level: 4
 atk: 1600

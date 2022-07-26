@@ -7,10 +7,11 @@ name:
   fr: Samouraï de la Barrière de Glace
   it: Samurai della Barriera di Ghiaccio
   pt: Samurai da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>武士</rb><rp>（</rp><rt>もののふ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>武士</rb><rt>もののふ</rt></ruby>
   ja_romaji: Hyōkekkai no Mononofu
   ko: 빙결계의 무사
   ko_rr:
+  zh-TW:
   zh-CN: 冰结界的武士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に表側攻撃表示で存在するこのカードが表側守備表示になった時、このカードを破壊し、自分のデッキからカードを１枚ドローする。
   ko: |-
     필드 위에 앞면 공격 표시로 존재하는 이 카드가 앞면 수비 표시로 되었을 때, 이 카드를 파괴하고 자신의 덱에서 카드를 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     场上表侧攻击表示存在的这张卡变成表侧守备表示时，这张卡破坏，从卡组抽1张卡。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 1800

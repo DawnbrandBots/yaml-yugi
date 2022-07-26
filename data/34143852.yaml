@@ -7,11 +7,12 @@ name:
   fr: Challenger Héroïque - Épée Extra
   it: Sfidante Eroico - Spada Extra
   pt: Desafiante Heroico - Espada Dupla
-  ja: <ruby><rb>Ｈ</rb><rp>（</rp><rt>ヒロイック</rt><rp>）</rp></ruby>・<ruby><rb>Ｃ</rb><rp>（</rp><rt>チャレンジャー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｈ</rb><rt>ヒロイック</rt></ruby>・<ruby><rb>Ｃ</rb><rt>チャレンジャー</rt></ruby>
     エクストラ・ソード
   ja_romaji: Hiroikku Charenjā Ekusutora Sōdo
-  ko: <ruby><rb>H·C</rb><rp>（</rp><rt>히로익 챌린저</rt><rp>）</rp></ruby> 엑스트라 스워드
+  ko: <ruby><rb>H·C</rb><rt>히로익 챌린저</rt></ruby> 엑스트라 스워드
   ko_rr:
+  zh-TW: 英豪挑戰者 額外之劍
   zh-CN: 英豪挑战者 赠剑兵
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
     ●このエクシーズ召喚に成功した時、このカードの攻撃力は１０００ポイントアップする。
   ko: |-
     이 카드를 소재로 한 엑시즈 몬스터는 이하의 효과를 얻는다. ● 이 엑시즈 소환에 성공했을 때, 이 카드의 공격력은 1000 포인트 올린다.
+  zh-TW: 以此卡为素材的超量怪兽获得以下效果。●此超量召唤成功时，此卡的攻击力上升1000点。
   zh-CN: |-
     这张卡为素材的XYZ怪兽得到以下效果。●这次XYZ召唤成功时，这张卡的攻击力上升1000。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1000

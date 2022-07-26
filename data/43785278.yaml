@@ -7,10 +7,11 @@ name:
   fr: Canon de Foucault
   it: Cannone di Foucault
   pt: Canhão de Foucault
-  ja: フーコーの<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>石</rb><rp>（</rp><rt>せき</rt><rp>）</rp></ruby>
+  ja: フーコーの<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>砲</rb><rt>ほう</rt></ruby><ruby><rb>石</rb><rt>せき</rt></ruby>
   ja_romaji: Fūkō no Mahōseki
   ko: 후코의 마포석
   ko_rr:
+  zh-TW:
   zh-CN: 傅科魔炮石
 text:
   en: |-
@@ -32,12 +33,13 @@ text:
   ko: |-
     몽환의 공간을 방황하는 기계 장치의 생명체였을 것이다. 최고의 수수께끼는 과거의 기록이 거의 남아 있지 않다..는 것이다.
     그 이유...인지...간섭...거부일까...?...삭제...
+  zh-TW:
   zh-CN: |-
     是彷徨于梦幻空间的机关生命体，本应是如此。最大的谜团是，过去的记录却几乎··留下来。
     那理由···吗，·····干涉···它在···拒··？
     ···消去···
-type: Monster
-typeline: Spellcaster / Pendulum / Normal
+card_type: Monster
+monster_type_line: Spellcaster / Pendulum / Normal
 attribute: DARK
 level: 5
 atk: 2200
@@ -60,6 +62,7 @@ pendulum_effect:
     ①：このカードを発動したターンのエンドフェイズに、フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 이 카드를 발동한 턴의 엔드 페이즈에, 필드의 앞면 표시의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡发动的回合的结束阶段，以场上1张表侧表示的魔法·陷阱卡为对象才能发动。那张卡破坏。
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Magna Exploseur Roi Méca Super Quantique Néo
   it: Neo Super Quantal Re Mech Esploditore Magno
   pt: Neo Rei Mech Super Quantal Destruidor Magna
-  ja: <ruby><rb>真</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>量</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ブラスター・マグナ
+  ja: <ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>量</rb><rt>りょう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ブラスター・マグナ
   ja_romaji: Shin Chōryō Kishin'ō Burasutā Maguna
   ko: 진초량기신왕 블래스터 매그너
   ko_rr: Jinchoryanggisinwang Beullaeseuteo Maegeuneo
+  zh-TW:
   zh-CN: 真超级量子机神王 烈辉大炎磁
 text:
   en: |-
@@ -37,19 +38,20 @@ text:
   ko: |-
     "초량" 몬스터를 포함하는 효과 몬스터 2장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 링크 소환한 이 카드는 상대 효과로는 파괴되지 않는다. ②: 같은 이름의 카드가 자신 필드에 존재하지 않는 "초량" 엑시즈 몬스터가 엑스트라 덱에서 이 카드의 링크 앞에 특수 소환될 때마다 발동한다. 자신은 덱에서 1장 드로우한다. ③: 이 카드의 링크 앞의 엑시즈 몬스터가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 그 엑시즈 몬스터와 원래 속성이 같은 "초량" 몬스터 1장을 덱에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     包含「超级量子」怪兽的效果怪兽2只以上
     这个卡名的③的效果1回合只能使用1次。
     ①：连接召唤的这张卡不会被对方的效果破坏。
     ②：每次有同名卡不在自己场上存在的「超级量子」超量怪兽从额外卡组往这张卡所连接区特殊召唤发动。自己从卡组抽1张。
     ③：这张卡所连接区的超量怪兽被战斗或者对方的效果破坏的场合才能发动。原本属性和那只超量怪兽相同的1只「超级量子」怪兽从卡组特殊召唤。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 2500
 sets:
   en:

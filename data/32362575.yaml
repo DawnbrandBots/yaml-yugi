@@ -7,10 +7,11 @@ name:
   fr: Marchand Ésotérique
   it: Mercante Magico
   pt: Mercador Mágico
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>雑</rb><rp>（</rp><rt>ざっ</rt><rp>）</rp></ruby><ruby><rb>貨</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>商</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>雑</rb><rt>ざっ</rt></ruby><ruby><rb>貨</rb><rt>か</rt></ruby><ruby><rb>商</rb><rt>しょう</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby>
   ja_romaji: Madō Zakkashōnin
   ko: 마도 잡화상인
   ko_rr:
+  zh-TW: 魔導雜貨商人
   zh-CN: 魔导杂货商人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合に発動する。魔法・罠カードが出るまで自分のデッキの上からカードをめくり、その魔法・罠カードを手札に加える。残りのめくったカードは全て墓地へ送る。
   ko: |-
     ① : 이 카드가 리버스했을 경우에 발동한다. 마법 / 함정 카드가 나올 때까지 자신의 덱 위에서 카드를 넘겨, 그 마법 / 함정 카드를 패에 넣는다. 남은 넘긴 카드는 전부 묘지로 보낸다.
+  zh-TW: 反转：翻阅我方卡牌，直到出现魔法、陷阱卡为止，将该卡加入手牌。除该卡以外翻出的卡牌全部送入墓地。
   zh-CN: |-
     ①：这张卡反转的场合发动。直到魔法·陷阱卡出现为止从自己卡组上面翻卡，那张魔法·陷阱卡加入手卡。剩下的翻开的卡全部送去墓地。
-type: Monster
-typeline: Insect / Flip / Effect
+card_type: Monster
+monster_type_line: Insect / Flip / Effect
 attribute: LIGHT
 level: 1
 atk: 200

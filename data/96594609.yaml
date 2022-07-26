@@ -7,11 +7,12 @@ name:
   fr: Avatar Roi du Feu Kirin
   it: Re del Fuoco Avatar Kirin
   pt: Avatar do Rei de Fogo Kirin
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
     キリン
   ja_romaji: En'ōjū Kirin
   ko: 염왕수 기린
   ko_rr:
+  zh-TW: 炎王獸 麒麟
   zh-CN: 炎王兽 麒麟
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     自分フィールド上に表側表示で存在する「炎王」と名のついたモンスターがカードの効果によって破壊された場合、このカードを手札から特殊召喚できる。また、このカードが破壊され墓地へ送られた場合、デッキから炎属性モンスター１体を墓地へ送る事ができる。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 "염왕"이라는 이름이 붙은 몬스터가 카드의 효과에 의해서 파괴되었을 경우, 이 카드를 패에서 특수 소환할 수 있다. 또한, 이 카드가 파괴되어 묘지로 보내졌을 경우, 덱에서 화염 속성 몬스터 1장을 묘지로 보낼 수 있다.
+  zh-TW: 我方场上以表侧表示存在的冠有「炎王」之名的怪兽因卡牌效果被破坏的场合，可从手牌特殊召唤此卡。此外，此卡被破坏并送入墓地的场合，可从牌组将1只炎属性怪兽送入墓地。
   zh-CN: |-
     自己场上表侧表示存在的名字带有「炎王」的怪兽被卡的效果破坏的场合，这张卡可以从手卡特殊召唤。此外，这张卡被破坏送去墓地的场合，可以从卡组把1只炎属性怪兽送去墓地。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: FIRE
 level: 3
 atk: 1000

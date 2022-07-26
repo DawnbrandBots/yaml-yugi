@@ -7,10 +7,11 @@ name:
   fr: Patineur de l'Eau Potartiste
   it: Artistamico Pattinatore
   pt: Aranha-d'água Camarartista
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>アメンボート
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>アメンボート
   ja_romaji: Entameito Amenbōto
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 아멘보트
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 아멘보트
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 小艇水黾
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：攻撃表示のこのカードが攻撃対象に選択された時に発動できる。このカードを表側守備表示にし、その攻撃を無効にする。
   ko: |-
     ① : 공격 표시의 이 카드가 공격 대상으로 선택되었을 때 발동할 수 있다. 이 카드를 앞면 수비 표시로 하고, 그 공격을 무효로 한다.
+  zh-TW:
   zh-CN: |-
     ①：攻击表示的这张卡被选择作为攻击对象时才能发动。这张卡变成表侧守备表示，那次攻击无效。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: WATER
 level: 4
 atk: 500

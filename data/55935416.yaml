@@ -7,10 +7,11 @@ name:
   fr: "Numéro 56 : Rat d'Or"
   it: "Numero 56: Ratto d'Oro"
   pt:
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>５６ ゴールドラット
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>５６ ゴールドラット
   ja_romaji: Nanbāzu Gojūroku Gōrudoratto
   ko: No.56 골드래트
   ko_rr:
+  zh-TW:
   zh-CN: No.56 金鼠
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
   ko: |-
     레벨 1 몬스터 x 3
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신의 덱에서 카드를 1장 드로우하고, 그 후 패를 1장 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     1星怪兽×3
     1回合1次，把这张卡1个XYZ素材取除才能发动。从自己卡组抽1张卡，那之后1张手卡回到卡组。
-type: Monster
-typeline: Beast / Xyz / Effect
+card_type: Monster
+monster_type_line: Beast / Xyz / Effect
 attribute: LIGHT
 rank: 1
 atk: 500

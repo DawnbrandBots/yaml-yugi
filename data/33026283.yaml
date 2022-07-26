@@ -7,11 +7,12 @@ name:
   fr: Double Avatar - Kon-Gyo Éveillé
   it: Duplice Avatar - Kon-Gyo Potenziato
   pt: Dois Avatares - Kon-Gyo Edificado
-  ja: <ruby><rb>双</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>将</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
-    <ruby><rb>金</rb><rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>双</rb><rt>そう</rt></ruby><ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>将</rb><rt>しょう</rt></ruby>
+    <ruby><rb>金</rb><rt>こん</rt></ruby><ruby><rb>剛</rb><rt>ごう</rt></ruby>
   ja_romaji: Sōtenshō Kongō
   ko: 쌍천장 금강
   ko_rr:
+  zh-TW:
   zh-CN: 双天将 金刚
 text:
   en: |-
@@ -38,14 +39,15 @@ text:
   ko: |-
     "쌍천권의 웅비" + "쌍천" 몬스터 × 2
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 몬스터의 효과를 발동할 수 없다. ②: 이 카드가 공격한 데미지 계산 후에 발동할 수 있다. 상대 필드의 몬스터 1장을 고르고 주인의 패로 되돌린다. ③: 자신 필드에 융합 몬스터가 2장 이상 존재하고, 필드의 이 카드를 대상으로 하는 상대의 마법 / 함정 카드의 효과가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 한다.
+  zh-TW:
   zh-CN: |-
     「双天拳之熊罴」＋「双天」怪兽×2
     这个卡名的③的效果1回合只能使用1次。
     ①：这张卡进行战斗的场合，对方直到伤害步骤结束时魔法·陷阱·怪兽的效果不能发动。
     ②：这张卡攻击的伤害计算后才能发动。选对方场上1只怪兽回到持有者手卡。
     ③：自己场上有融合怪兽2只以上存在，场上的这张卡为对象的对方的魔法·陷阱卡的效果发动时才能发动。那个发动无效。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
 level: 8
 atk: 3000

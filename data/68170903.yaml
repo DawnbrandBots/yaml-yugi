@@ -7,10 +7,11 @@ name:
   fr:
   it: Un Finto Piano
   pt: Simulação de Plano
-  ja: <ruby><rb>陽</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>作</rb><rp>（</rp><rt>さく</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>陽</rb><rt>よう</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>作</rb><rt>さく</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby>
   ja_romaji: Yōdō Sakusen
   ko: 양동 작전
   ko_rr:
+  zh-TW:
   zh-CN: 佯动作战
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     このターン、お互いは裏側表示モンスターを攻撃できない。
   ko: |-
     이 턴에 뒷면 표시 몬스터를 대상으로 공격 선언을 실행할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个回合，双方不能向里侧表示怪兽攻击。
-type: Trap
+card_type: Trap
 property: Normal

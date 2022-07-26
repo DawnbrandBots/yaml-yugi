@@ -7,10 +7,11 @@ name:
   fr: Parasite
   it: Mangiatore di Vita
   pt: A Bruxa que se Alimenta da Vida
-  ja: <ruby><rb>命</rb><rp>（</rp><rt>いのち</rt><rp>）</rp></ruby>を<ruby><rb>食</rb><rp>（</rp><rt>しょく</rt><rp>）</rp></ruby>する<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>食</rb><rt>しょく</rt></ruby>する<ruby><rb>者</rb><rt>もの</rt></ruby>
   ja_romaji: Inochi o Shokusuru Mono
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 食命者
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
   ja: |-
     あらゆる生き物の魂を喰い、己のエネルギーとする悪魔。
   ko:
+  zh-TW:
   zh-CN: |-
     嗜食所有生物的灵魂，将将其作为自己的能量。
-type: Monster
-typeline: Fiend / Normal
+card_type: Monster
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1200

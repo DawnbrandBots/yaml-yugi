@@ -7,10 +7,11 @@ name:
   fr: Pèlerin de la Barrière de Glace
   it: Pellegrino della Barriera di Ghiaccio
   pt: Peregrino da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>修</rb><rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby><rb>験</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>修</rb><rt>しゅ</rt></ruby><ruby><rb>験</rb><rt>げん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>
   ja_romaji: Hyōkekkai no Shugenja
   ko: 빙결계의 수험자
   ko_rr:
+  zh-TW:
   zh-CN: 冰结界的修验者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは攻撃力１９００以上のモンスターとの戦闘では破壊されない。
   ko: |-
     이 카드는 공격력 1900 이상의 몬스터와의 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这张卡不会被和攻击力1900以上的怪兽的战斗破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 1500

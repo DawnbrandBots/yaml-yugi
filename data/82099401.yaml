@@ -7,10 +7,11 @@ name:
   fr: Voyante à la Boule de Cristal
   it: Profeta Cristallo
   pt: Vidente de Cristal
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>晶</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>の<ruby><rb>占</rb><rp>（</rp><rt>うらな</rt><rp>）</rp></ruby>い<ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>晶</rb><rt>しょう</rt></ruby>の<ruby><rb>占</rb><rt>うらな</rt></ruby>い<ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Suishō no Uranaishi
   ko: 수정의 점술사
   ko_rr:
+  zh-TW:
   zh-CN: 水晶占卜师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：自分のデッキの上からカードを２枚めくり、その中から１枚を選んで手札に加える。その後、残りのカードをデッキの一番下に戻す。
   ko: |-
     리버스 : 자신 덱의 맨 위에서 2장을 넘겨, 그 중에 1장을 선택해서 패에 넣는다. 남은 카드는 덱의 맨 아래로 되돌린다.
+  zh-TW:
   zh-CN: |-
     从自己卡组上面把2张卡翻开，从那之中选1张加入手卡。那之后，剩下的卡回到卡组最下面。
-type: Monster
-typeline: Spellcaster / Flip / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Flip / Effect
 attribute: WATER
 level: 1
 atk: 100

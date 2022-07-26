@@ -7,10 +7,11 @@ name:
   fr: Flamme Ultime
   it: Fiamme Finali
   pt: Chama Final
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>あぶりの<ruby><rb>刑</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>ひ</rt></ruby>あぶりの<ruby><rb>刑</rb><rt>けい</rt></ruby>
   ja_romaji: Hiaburi no Kei
   ko: 화형
   ko_rr:
+  zh-TW:
   zh-CN: 火刑
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手ライフに６００ポイントダメージを与える。
   ko: |-
     상대의 라이프 포인트에 600 포인트의 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     给与对方基本分600分伤害。
-type: Spell
+card_type: Spell
 property: Normal

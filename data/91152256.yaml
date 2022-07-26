@@ -7,10 +7,11 @@ name:
   fr: Gardien Celte
   it: Guardiano Celtico
   pt: Guardião Celta
-  ja: エルフの<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: エルフの<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Erufu no Kenshi
   ko: 엘프 검사
   ko_rr: Elpeu Geomsa
+  zh-TW:
   zh-CN: 精灵剑士
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Um elfo que aprendeu a empunhar uma espada e confunde os inimigos com ataques relâmpagos.
   ja: |-
-    <ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>を<ruby><rb>学</rb><rp>（</rp><rt>まな</rt><rp>）</rp></ruby>んだエルフ。<ruby><rb>素</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby><rb>早</rb><rp>（</rp><rt>ばや</rt><rp>）</rp></ruby>い<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>で<ruby><rb>敵</rb><rp>（</rp><rt>てき</rt><rp>）</rp></ruby>を<ruby><rb>翻</rb><rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><ruby><rb>弄</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby>する。
+    <ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby>を<ruby><rb>学</rb><rt>まな</rt></ruby>んだエルフ。<ruby><rb>素</rb><rt>す</rt></ruby><ruby><rb>早</rb><rt>ばや</rt></ruby>い<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>で<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>翻</rb><rt>ほん</rt></ruby><ruby><rb>弄</rb><rt>ろう</rt></ruby>する。
   ko: |-
     뛰어난 검술 실력을 자랑하는 엘프. 재빠른 공격으로 적을 당황하게 만든다.
+  zh-TW:
   zh-CN: |-
     学会了剑术的精灵。以快速的攻击作弄敌人。
-type: Monster
-typeline: Warrior / Normal
+card_type: Monster
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 4
 atk: 1400

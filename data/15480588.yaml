@@ -7,10 +7,11 @@ name:
   fr: Lézard Cuirassé
   it: Lucertola Corazzata
   pt: Lagarto Encouraçado
-  ja: <ruby><rb>鎧蜥蜴</rb><rp>（</rp><rt>アーマー・リザード</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>鎧蜥蜴</rb><rt>アーマー・リザード</rt></ruby>
   ja_romaji: Āmā Rizādo
   ko: 아머 리저드
   ko_rr:
+  zh-TW:
   zh-CN: 铠蜥蜴
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     かたい体のトカゲ。大きな口で噛みつかれたら、ひとたまりもないぞ。
   ko: |-
     딱딱한 몸의 도마뱀. 큰 입으로 달려들어 물면, 잠시도 버틸 수 없는 신세가 된다.
+  zh-TW:
   zh-CN: |-
     拥有坚硬躯体的蜥蜴。如果被咬到会立即毙命。
-type: Monster
-typeline: Reptile
+card_type: Monster
+monster_type_line: Reptile
 attribute: EARTH
 level: 4
 atk: 1500

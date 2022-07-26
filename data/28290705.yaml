@@ -7,11 +7,12 @@ name:
   fr: Roi des Fées Albverdich
   it: Albverdich Re delle Fate
   pt: Albverdich Rei das Fadas
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
     アルヴェルド
   ja_romaji: Yōsei'ō Aruverudo
   ko: 요정왕 아르벨드
   ko_rr:
+  zh-TW: 妖精王 艾爾柏德
   zh-CN: 妖精王 阿尔维德
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     땅 속성 레벨 4 몬스터×2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 땅 속성 이외의 필드 위의 모든 몬스터의 공격력 / 수비력은 500 포인트 내린다.
+  zh-TW: "地属性等级4怪兽×2\n1回合1次，可移除此卡的1个超量素材并发动。场上地属性以外的全部怪兽的攻击力、守备力下降500点。"
   zh-CN: |-
     地属性4星怪兽×2。1回合1次，把这张卡1个XYZ素材取除才能发动。地属性以外的场上的全部怪兽的攻击力·守备力下降500。
-type: Monster
-typeline: Plant / Xyz / Effect
+card_type: Monster
+monster_type_line: Plant / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2300

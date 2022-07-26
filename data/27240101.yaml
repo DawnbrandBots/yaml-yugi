@@ -7,10 +7,11 @@ name:
   fr: Kikinagashi Fucho
   it: Kikinagashi Fucho
   pt: Kikinagashi Fucho
-  ja: キキナガシ<ruby><rb>風</rb><rp>（</rp><rt>フウ</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>チョウ</rt><rp>）</rp></ruby>
+  ja: キキナガシ<ruby><rb>風</rb><rt>フウ</rt></ruby><ruby><rb>鳥</rb><rt>チョウ</rt></ruby>
   ja_romaji: Kikinagashi Fūchō
   ko: 흘려듣는 풍조
   ko_rr:
+  zh-TW:
   zh-CN: 耳边风风鸟
 text:
   en: |-
@@ -37,12 +38,13 @@ text:
   ko: |-
     레벨 1 몬스터 × 2장
     ①: 이 카드는 몬스터 존에 존재하는 한, 다른 카드의 효과를 받지 않는다. ② : 1턴에 1번, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 이 턴에, 이 카드는 전투로는 파괴되지 않으며, 이 카드와 전투로 발생하는 자신에게로의 전투 데미지는 0이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     1星怪兽×2
     ①：这张卡只要在怪兽区域存在，不受其他卡的效果影响。
     ②：1回合1次，把这张卡2个超量素材取除才能发动。这个回合，这张卡不会被战斗破坏，这张卡的战斗发生的对自己的战斗伤害变成0。这个效果在对方回合也能发动。
-type: Monster
-typeline: Winged Beast / Xyz / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Xyz / Effect
 attribute: WIND
 rank: 1
 atk: 0

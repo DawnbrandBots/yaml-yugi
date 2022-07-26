@@ -7,11 +7,12 @@ name:
   fr: Highlander des Ténèbres
   it: Highlander Oscuro
   pt:
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>刑</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>刑</rb><rt>けい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
     ブラック・ハイランダー
   ja_romaji: Tenkeiō Burakku Hairandā
   ko: 천형왕 블랙 하이랜더
   ko_rr:
+  zh-TW:
   zh-CN: 天刑王 黑天
 text:
   en: |-
@@ -36,11 +37,12 @@ text:
   ko: |-
     악마족 튜너 + 튜너 이외의 악마족 몬스터 1장이상
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 싱크로 소환을 할 수 없다. 1턴에 1번, 장착 카드를 장착한 상대 몬스터 1장을 선택하고 발동 할 수 있다. 선택한 몬스터에 장착된 있는 장착 카드를 전부 파괴하고, 파괴한 수 X 400포인트 데미지를 상대 라이프에 준다.
+  zh-TW:
   zh-CN: |-
     恶魔族调整＋调整以外的恶魔族怪兽1只以上
     只要这张卡在场上表侧表示存在，双方不能同调召唤。1回合1次，选择有装备卡装备的1只对方怪兽才能发动。选择的怪兽装备的装备卡全部破坏，给与对方基本分破坏数量×400的数值的伤害。
-type: Monster
-typeline: Fiend / Synchro / Effect
+card_type: Monster
+monster_type_line: Fiend / Synchro / Effect
 attribute: DARK
 level: 7
 atk: 2800

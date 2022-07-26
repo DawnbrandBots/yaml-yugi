@@ -7,10 +7,11 @@ name:
   fr: Néos Aérien, HÉROS Élémentaire
   it: Neos Grandioso EROE Elementale
   pt: Herói Elementar, Neos do Ar
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> エアー・ネオス
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> エアー・ネオス
   ja_romaji: Erementaru Hīrō Eā Neosu
   ko: 엘리멘틀 히어로 에어 네오스
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 天空新宇侠
 text:
   en: |-
@@ -36,11 +37,12 @@ text:
   ko: |-
     "엘리멘틀 히어로 네오스" ＋ "네오 스페이시언 에어 허밍 버드"
     자신 필드 위에 존재하는 상기의 카드를 덱으로 되돌린 경우에만, 융합 덱에서 특수 소환이 가능 ("융합" 마법 카드는 필요로 하지 않는다). 자신의 라이프 포인트가 상대의 라이프 포인트 보다도 적을 경우, 그 수치만큼 이 카드의 공격력을 올린다. 엔드 페이즈시에 이 카드는 융합 덱으로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 新宇侠」＋「新宇宙侠·天空蜂鸟」
     让自己场上存在的上记的卡回到卡组的场合才能从融合卡组特殊召唤（不需要「融合」魔法卡）。自己基本分比对方基本分少的场合，这张卡的攻击力上升那个数值。结束阶段时这张卡回到融合卡组。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: WIND
 level: 7
 atk: 2500

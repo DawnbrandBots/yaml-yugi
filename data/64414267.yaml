@@ -7,10 +7,11 @@ name:
   fr: Noirtellchevalier Batlamyus
   it: Oscurtellcavaliere Batlamyus
   pt: Cavaleirostrelanegra Batlamyus
-  ja: <ruby><rb>煉獄の騎士</rb><rp>（</rp><rt>テラナイト</rt><rp>）</rp></ruby> ヴァトライムス
+  ja: <ruby><rb>煉獄の騎士</rb><rt>テラナイト</rt></ruby> ヴァトライムス
   ja_romaji: Teranaito Vatoraimusu
   ko: 테라나이트 바트라이무스
   ko_rr:
+  zh-TW:
   zh-CN: 炼狱之骑士 多禄某
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 "테라나이트" 몬스터 × 2
     ①: 이 카드가 몬스터 존에 존재하는 한, 필드의 모든 앞면 표시 몬스터는 어둠 속성이 된다. ②: 이 카드의 엑시즈 소재를 1개 제거하여, 패를 1장 버리고 발동할 수 있다. 빛 속성의 "테라나이트" 엑시즈 몬스터 1장을, 자신 필드의 이 카드 위에 겹쳐 엑시즈 소환으로 취급하여 엑스트라 덱에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터를 엑시즈 소환할 수 없다. 자신 묘지에 "테라나이트" 몬스터가 7종류 이상 존재할 경우, 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星「因士」怪兽×2
     ①：只要这张卡在怪兽区域存在，场上的全部表侧表示怪兽变成暗属性。②：把这张卡1个XYZ素材取除，丢弃1张手卡才能发动。把1只光属性「因士」XYZ怪兽在自己场上的这张卡上面重叠当作XYZ召唤从额外卡组特殊召唤。这个效果的发动后，直到回合结束时自己不能把怪兽XYZ召唤。自己墓地有「因士」怪兽7种类以上存在的场合，这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: DARK
 rank: 4
 atk: 2600

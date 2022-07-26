@@ -7,10 +7,11 @@ name:
   fr: Sentinelle des Mers
   it: Sentinella dei Mari
   pt: Sentinela dos Mares
-  ja: <ruby><rb>海</rb><rp>（</rp><rt>うみ</rt><rp>）</rp></ruby>を<ruby><rb>守</rb><rp>（</rp><rt>まも</rt><rp>）</rp></ruby>る<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Umi wo Mamoru Senshi
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 守卫海洋的战士
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
   ja: |-
     海を汚す奴等を徹底的に攻撃する、マーマン戦士。
   ko:
+  zh-TW:
   zh-CN: |-
     彻底的攻击玷污大海的家伙、人鱼战士。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 4
 atk: 1300

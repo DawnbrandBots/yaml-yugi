@@ -7,11 +7,11 @@ name:
   fr: Karakuri 00 "Burei" le Shogun
   it: Shogun Karakuri mod. 00 "Burei"
   pt: Shogun Karakuri mdl 00 "Burei"
-  ja: カラクリ<ruby><rb>将</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby>
-    <ruby><rb>無</rb><rp>（</rp><rt>ブ</rt><rp>）</rp></ruby><ruby><rb>零</rb><rp>（</rp><rt>レイ</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>将</rb><rt>しょう</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby> <ruby><rb>無</rb><rt>ブ</rt></ruby><ruby><rb>零</rb><rt>レイ</rt></ruby>
   ja_romaji: Karakuri Shōgun Burei
   ko: 자동기계장군 00 "무령"
   ko_rr:
+  zh-TW:
   zh-CN: 机巧将军 无零
 text:
   en: |-
@@ -38,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 기계족 몬스터 1장 이상
     이 카드가 싱크로 소환에 성공했을 때, 자신의 덱에서 "자동기계" 라는 이름이 붙은 몬스터 1장을 특수 소환 할 수 있다. 1턴에 1번, 필드 위에 존재하는 몬스터 1장을 선택하고, 표시 형식을 변경할 수 있다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的机械族怪兽1只以上
     这张卡同调召唤成功时，可以从自己卡组把1只名字带有「机巧」的怪兽特殊召唤。1回合1次，可以选择场上存在的1只怪兽，把表示形式变更。
-type: Monster
-typeline: Machine / Synchro / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: EARTH
 level: 7
 atk: 2600

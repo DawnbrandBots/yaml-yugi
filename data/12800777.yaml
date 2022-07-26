@@ -7,11 +7,12 @@ name:
   fr: Garuda l'Esprit du Vent
   it: Garuda lo Spirito del Vento
   pt: Garuda o Espírito do Vento
-  ja: <ruby><rb>風</rb><rp>（</rp><rt>かぜ</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>風</rb><rt>かぜ</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
     ガルーダ
   ja_romaji: Kaze no Seirei Garūda
   ko: 바람의 정령 가루다
   ko_rr:
+  zh-TW:
   zh-CN: 风之精灵 迦楼罗
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは通常召喚できない。自分の墓地から風属性モンスター１体を除外した場合に特殊召喚できる。①：相手エンドフェイズに、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手の表側表示モンスターの表示形式を変更する。
   ko: |-
     이 카드는 일반 소환/세트할 수 없다. 자신의 묘지의 바람 속성 몬스터 1장을 게임에서 제외하고 특수 소환한다. 상대 턴 종료시에 상대의 앞면 표시 몬스터 1장의 표시 형식을 변경할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己墓地存在的1只风属性怪兽从游戏中除外的场合可以特殊召唤。对方的结束阶段时，可以选择对方场上表侧表示存在的1只怪兽，把表示形式变更。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: WIND
 level: 4
 atk: 1600

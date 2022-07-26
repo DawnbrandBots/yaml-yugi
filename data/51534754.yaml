@@ -7,10 +7,11 @@ name:
   fr: Bateau Yomi
   it: Nave Yomi
   pt: Navio Yomi
-  ja: <ruby><rb>黄</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby><rb>泉</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby>へ<ruby><rb>渡</rb><rp>（</rp><rt>わた</rt><rp>）</rp></ruby>る<ruby><rb>船</rb><rp>（</rp><rt>ふね</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黄</rb><rt>よ</rt></ruby><ruby><rb>泉</rb><rt>み</rt></ruby>へ<ruby><rb>渡</rb><rt>わた</rt></ruby>る<ruby><rb>船</rb><rt>ふね</rt></ruby>
   ja_romaji: Yomi e Wataru Fune
   ko: 황천으로 건너는 배
   ko_rr:
+  zh-TW: 黃泉擺渡船
   zh-CN: 通向黄泉的渡船
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが戦闘で破壊され墓地へ送られた場合に発動する。このカードを破壊したモンスターを破壊する。
   ko: |-
     ①: 이 카드가 전투로 파괴되어 묘지로 보내졌을 경우에 발동한다. 이 카드를 파괴한 몬스터를 파괴한다.
+  zh-TW: 此卡因战斗遭到破坏并被送入墓地时，将使破坏此卡的怪兽遭破坏。
   zh-CN: |-
     ①：这张卡被战斗破坏送去墓地的场合发动。把让这张卡破坏的怪兽破坏。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 3
 atk: 800

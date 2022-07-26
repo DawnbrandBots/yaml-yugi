@@ -7,10 +7,11 @@ name:
   fr: Bugroth Amphibie
   it:
   pt: Bugroth Anfíbio
-  ja: <ruby><rb>水</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>陸</rb><rp>（</rp><rt>りく</rt><rp>）</rp></ruby><ruby><rb>両</rb><rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby><rb>用</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>バグロス
+  ja: <ruby><rb>水</rb><rt>すい</rt></ruby><ruby><rb>陸</rb><rt>りく</rt></ruby><ruby><rb>両</rb><rt>りょう</rt></ruby><ruby><rb>用</rb><rt>よう</rt></ruby>バグロス
   ja_romaji: Suirikuryō-yō Bagurosu
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 水陆两用战斗艇
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     「陸戦型 バグロス」＋「海を守る戦士」
   ko:
+  zh-TW:
   zh-CN: |-
     「陆战型战斗艇」＋「守卫海洋的战士」。
-type: Monster
-typeline: Aqua / Fusion
+card_type: Monster
+monster_type_line: Aqua / Fusion
 attribute: WATER
 level: 5
 atk: 1850

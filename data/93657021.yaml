@@ -7,10 +7,11 @@ name:
   fr: Ducrépustopique - HÉROS de la Destinée
   it: Dusktopia - EROE del Destino
   pt: HERÓI do Destino - Diluculotopia
-  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rp>（</rp><rt>デステニーヒーロー</rt><rp>）</rp></ruby> ダスクユートピアガイ
+  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rt>デステニーヒーロー</rt></ruby> ダスクユートピアガイ
   ja_romaji: Desutenī Hīrō Dasukuyūtopiagai
   ko: 데스티니 히어로 더스크토피아 가이
   ko_rr:
+  zh-TW:
   zh-CN: 命运英雄 暮托邦人
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "데스티니 히어로" 융합 몬스터 + "데스티니 히어로" 몬스터
     ① : 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 자신의 패 / 필드에서, 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. ② : 1턴에 1번, 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 몬스터는 전투 / 효과로는 파괴되지 않으며, 그 몬스터의 전투로 발생하는 서로의 전투 데미지는 0 이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     「命运英雄」融合怪兽＋「命运英雄」怪兽
     ①：这张卡融合召唤成功的场合才能发动。从自己的手卡·场上把融合怪兽卡决定的融合素材怪兽送去墓地，把那1只融合怪兽从额外卡组融合召唤。②：1回合1次，以场上1只怪兽为对象才能发动。这个回合，那只怪兽不会被战斗·效果破坏，那只怪兽的战斗发生的双方的战斗伤害变成0。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
 level: 10
 atk: 3000

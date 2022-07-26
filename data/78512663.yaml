@@ -7,10 +7,11 @@ name:
   fr: Néos Magma, HÉROS Élémentaire
   it: Neos Magma EROE Elementale
   pt: Neos Magma, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> マグマ・ネオス
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> マグマ・ネオス
   ja_romaji: Erementaru Hīrō Maguma Neosu
   ko: 엘리멘틀 히어로 마그마 네오스
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 熔岩新宇侠
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "엘리멘틀 히어로 네오스" + "네오 스페이시언 플레어 스캐럽" + "네오 스페이시언 그랜드 몰"
     자신 필드 위에 존재하는 상기의 카드를 덱으로 되돌렸을 경우에만, 융합 덱에서 특수 소환이 가능("융합" 마법 카드는 필요로 하지 않는다.) 이 카드의공격력은 필드 위 카드의 매수 x 400 포인트 올린다. 엔드 페이즈시에 이 카드는 융합 덱으로 되돌아간다. 이 효과에 의해서 융합 덱으로 되돌아갔을 때, 필드 위에 존재하는 모든 카드는 주인의 패로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 新宇侠」＋「新宇宙侠·火焰甲虫」＋「新宇宙侠·大地鼹鼠」
     让自己场上的上记的卡回到卡组的场合才能从额外卡组特殊召唤（不需要「融合」魔法卡）。这张卡的攻击力上升场上的卡数量×400的数值。此外，结束阶段时，这张卡回到额外卡组。这个效果让这张卡回到额外卡组时，场上的卡全部回到持有者手卡。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: FIRE
 level: 9
 atk: 3000

@@ -7,10 +7,11 @@ name:
   fr: Train Express Trolley Olley
   it: Treno Espresso Trolley Olley
   pt: Trem Expresso de Vagões Robustos
-  ja: <ruby><rb>豪</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>腕</rb><rp>（</rp><rt>わん</rt><rp>）</rp></ruby><ruby><rb>特</rb><rp>（</rp><rt>とっ</rt><rp>）</rp></ruby><ruby><rb>急</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>トロッコロッコ
+  ja: <ruby><rb>豪</rb><rt>ごう</rt></ruby><ruby><rb>腕</rb><rt>わん</rt></ruby><ruby><rb>特</rb><rt>とっ</rt></ruby><ruby><rb>急</rb><rt>きゅう</rt></ruby>トロッコロッコ
   ja_romaji: Gōwan Tokkyū Torokkorokko
   ko: 호완특급 트럭로코
   ko_rr:
+  zh-TW:
   zh-CN: 豪腕特急 矿车火车头
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
     ①：フィールドのこのカードを素材としてＸ召喚したモンスターは以下の効果を得る。●このＸ召喚に成功した場合に発動する。このカードの攻撃力は８００アップする。
   ko: |-
     ①: 필드의 이 카드를 소재로서 엑시즈 소환한 몬스터는 이하의 효과를 얻는다. ●이 엑시즈 소환에 성공했을 경우에 발동한다. 이 카드의 공격력은 800 올린다.
+  zh-TW:
   zh-CN: |-
     ①：场上的这张卡为素材作XYZ召唤的怪兽得到以下效果。
     ●这次XYZ召唤成功的场合发动。这张卡的攻击力上升800。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 4
 atk: 1800

@@ -7,10 +7,11 @@ name:
   fr: Rassemblement Cérébral
   it: Concentrazione
   pt: Junte a sua Mente
-  ja: <ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>統</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby><rb>一</rb><rp>（</rp><rt>いつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>統</rb><rt>とう</rt></ruby><ruby><rb>一</rb><rt>いつ</rt></ruby>
   ja_romaji: Seishin Tōitsu
   ko: 정신통일
   ko_rr:
+  zh-TW:
   zh-CN: 精神统一
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     デッキから「精神統一」を１枚手札に加える。このカードは１ターンに１枚しか使用できない。
   ko: |-
     덱에서 "정신통일"을 1장패에 넣는다. 이카드는 1턴에 1장밖에 사용할수 없다.
+  zh-TW:
   zh-CN: |-
     从卡组把1张「精神统一」加入手卡。这张卡1回合只能使用1张。
-type: Spell
+card_type: Spell
 property: Normal

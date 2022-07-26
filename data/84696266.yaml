@@ -7,10 +7,11 @@ name:
   fr: Canard Supersonique
   it: Papera Sonica
   pt: Pato Sônico
-  ja: <ruby><rb>音速</rb><rp>（</rp><rt>ソニック</rt><rp>）</rp></ruby>ダック
+  ja: <ruby><rb>音速</rb><rt>ソニック</rt></ruby>ダック
   ja_romaji: Sonikku Dakku
   ko: 음속 덕
   ko_rr:
+  zh-TW:
   zh-CN: 音速鸭
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     音速で歩く事ができるダック。そのすさまじいスピードに対応できず、コントロールを失う事が多い。
   ko: |-
     음속으로 걸을 수 있는 오리. 그 굉장한 스피드에 대응하지 못하고, 제어력을 잃을 때가 많다.
+  zh-TW:
   zh-CN: |-
     可以以音速步行的鸭子。由于不能适应其惊人的速度而经常失控。
-type: Monster
-typeline: Winged Beast / Normal
+card_type: Monster
+monster_type_line: Winged Beast / Normal
 attribute: WIND
 level: 3
 atk: 1700

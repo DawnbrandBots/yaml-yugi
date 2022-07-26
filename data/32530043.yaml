@@ -7,10 +7,11 @@ name:
   fr: Galant Granite
   it: Granito Valoroso
   pt: Valente de Granito
-  ja: <ruby><rb>御</rb><rp>（</rp><rt>ミ</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>カゲ</rt><rp>）</rp></ruby><ruby><rb>志</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>御</rb><rt>ミ</rt></ruby><ruby><rb>影</rb><rt>カゲ</rt></ruby><ruby><rb>志</rb><rt>シ</rt></ruby><ruby><rb>士</rb><rt>シ</rt></ruby>
   ja_romaji: Mikage Shishi
   ko: 어영지사
   ko_rr: Eoyeongjisa
+  zh-TW:
   zh-CN: 御影志士
 text:
   en: |-
@@ -59,14 +60,14 @@ text:
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.
     ●덱에서 암석족 몬스터 1장을 패에 넣는다.
     ●패에서 암석족 몬스터 1장을 뒷면 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    4星怪兽×2
-    这个卡名的效果1回合只能使用1次。
-    ①：可以把这张卡1个超量素材取除，从以下效果选择1个发动。
-    ●从卡组把1只岩石族怪兽加入手卡。
-    ●从手卡把1只岩石族怪兽里侧守备表示特殊召唤。
-type: Monster
-typeline: Rock / Xyz / Effect
+    等级4怪兽×2
+    此卡名的效果1回合仅可使用1次。①：去除此卡的1个超量素材，可从以下效果中选择1个发动。
+    ●从牌组将1只岩石族怪兽加入手牌。
+    ●从手牌将1只岩石族怪兽以里侧守备表示特殊召唤。
+card_type: Monster
+monster_type_line: Rock / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2300

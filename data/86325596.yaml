@@ -7,10 +7,11 @@ name:
   fr: Baron de l'Épée Infernale
   it: Barone Malaspada
   pt: Barão da Espada Demoníaca
-  ja: <ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>男</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>爵</rb><rp>（</rp><rt>しゃく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>男</rb><rt>だん</rt></ruby><ruby><rb>爵</rb><rt>しゃく</rt></ruby>
   ja_romaji: Jaken Danshaku
   ko: 마검 남작
   ko_rr:
+  zh-TW:
   zh-CN: 邪剑男爵
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     怨念のこもった剣をあやつる貴族。執念深く獲物を追いつめる。
   ko: |-
     원한이 잠들어 있는 검을 다루는 귀족. 강한 집념으로 사냥감을 끝까지 추적한다.
+  zh-TW:
   zh-CN: |-
     操纵着充满怨念之剑的贵族，对追逐猎物的信念十分的执着。
-type: Monster
-typeline: Fiend
+card_type: Monster
+monster_type_line: Fiend
 attribute: DARK
 level: 4
 atk: 1550

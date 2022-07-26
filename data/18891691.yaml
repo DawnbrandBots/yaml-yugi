@@ -7,10 +7,11 @@ name:
   fr: Roi-Machine Parfait
   it: Re delle Macchine Perfetto
   pt: Rei das Máquinas Perfeitas
-  ja: パーフェクト<ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>械</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>
+  ja: パーフェクト<ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>械</rb><rt>かい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>
   ja_romaji: Pāfekuto Kikaiō
   ko: 퍼펙트 기계왕
   ko_rr:
+  zh-TW:
   zh-CN: 完美机械王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に存在するこのカード以外の機械族モンスター１体につき、このカードの攻撃力は５００ポイントアップする。
   ko: |-
     이 카드 이외의 기계족몬스터 1체에 대해, 이 카드의 공격력은 500포인트 올라간다.
+  zh-TW:
   zh-CN: |-
     场上存在的这张卡以外的机械族怪兽每有1只，这张卡的攻击力上升500。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 8
 atk: 2700

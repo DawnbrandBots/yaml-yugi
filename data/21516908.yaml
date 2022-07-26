@@ -7,10 +7,11 @@ name:
   fr: Hagoita Grande Vitesseroid
   it: Alta-Velociroid Hagoita
   pt: Alta-Velocidaroide Hagoita
-  ja: <ruby><rb>ＨＳＲ</rb><rp>（</rp><rt>ハイスピードロイド</rt><rp>）</rp></ruby>マッハゴー・イータ
+  ja: <ruby><rb>ＨＳＲ</rb><rt>ハイスピードロイド</rt></ruby>マッハゴー・イータ
   ja_romaji: Haisupīdoroido Mahhagō Īta
-  ko: <ruby><rb>HSR</rb><rp>（</rp><rt>하이스피드로이드</rt><rp>）</rp></ruby> 마하고 이타
+  ko: <ruby><rb>HSR</rb><rt>하이스피드로이드</rt></ruby> 마하고 이타
   ko_rr: Haiseupideuroideu Mahago Ita
+  zh-TW:
   zh-CN: 高速疾行机人 马赫羽子板
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 릴리스하고 발동할 수 있다. 필드의 모든 앞면 표시 몬스터의 레벨은 턴 종료시까지 1개 올라간다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 묘지에 존재하고, 자신 필드에 "스피드로이드" 튜너가 존재할 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 바람 속성 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    「高速疾行机人 马赫羽子板」的②的效果1回合只能使用1次。①：把这张卡解放才能发动。场上的全部表侧表示怪兽的等级直到回合结束时上升1星。这个效果在对方回合也能发动。②：这张卡在墓地存在，自己场上有「疾行机人」调整存在的场合才能发动。这张卡从墓地特殊召唤。这个效果的发动后，直到回合结束时自己不是风属性怪兽不能特殊召唤。
-type: Monster
-typeline: Machine / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    此卡名的②效果1回合仅可使用1次。①：解放此卡可以发动。场上所有表侧表示怪兽的等级直至回合结束时为止上升1。此效果在对手回合中也可以发动。②：此卡存在于墓地，自己场上有"疾行机人"协调存在的情况下可以发动。将此卡特殊召唤。此效果发动后，直至回合结束时为止自己仅可特殊召唤风属性怪兽。
+card_type: Monster
+monster_type_line: Machine / Synchro / Effect
 attribute: WIND
 level: 5
 atk: 2000

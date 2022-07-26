@@ -7,10 +7,11 @@ name:
   fr: Âme Possédée
   it: Anima Oscura Posseduta
   pt: Alma Negra Possuída
-  ja: <ruby><rb>憑</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>依</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>するブラッド・ソウル
+  ja: <ruby><rb>憑</rb><rt>ひょう</rt></ruby><ruby><rb>依</rb><rt>い</rt></ruby>するブラッド・ソウル
   ja_romaji: Hyōi-suru Buraddo Sōru
   ko: 빙의하는 블러드 소울
   ko_rr:
+  zh-TW:
   zh-CN: 凭依的血魂
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードをリリースして発動する。相手フィールド上に表側表示で存在する全てのレベル３以下のモンスターのコントロールを得る。
   ko: |-
     이 카드를 제물로 바친다. 상대 필드 위에서 레벨 3 이하의 모든 앞면 표시 몬스터의 컨트롤을 얻는다.
+  zh-TW:
   zh-CN: |-
     把这张卡解放发动。得到对方场上表侧表示存在的全部3星以下的怪兽的控制权。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 3
 atk: 1200

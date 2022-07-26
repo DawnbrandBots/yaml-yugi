@@ -7,10 +7,11 @@ name:
   fr: Lunettes Inversées
   it: Occhiali Invertiti
   pt: Lentes Reversas
-  ja: <ruby><rb>逆</rb><rp>（</rp><rt>さか</rt><rp>）</rp></ruby>さ<ruby><rb>眼</rb><rp>（</rp><rt>め</rt><rp>）</rp></ruby><ruby><rb>鏡</rb><rp>（</rp><rt>がね</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>逆</rb><rt>さか</rt></ruby>さ<ruby><rb>眼</rb><rt>め</rt></ruby><ruby><rb>鏡</rb><rt>がね</rt></ruby>
   ja_romaji: Sakasa Megane
   ko: 거꾸로 안경
   ko_rr:
+  zh-TW:
   zh-CN: 颠倒眼镜
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に表側表示で存在する全てのモンスターの攻撃力をエンドフェイズ時まで半分にする。
   ko: |-
     필드 위에 앞면 표시로 존재하는 모든 몬스터의 공격력을 엔드 페이즈시까지 절반으로 한다.
+  zh-TW:
   zh-CN: |-
     场上表侧表示存在的全部怪兽的攻击力直到结束阶段时变成一半。
-type: Trap
+card_type: Trap
 property: Normal

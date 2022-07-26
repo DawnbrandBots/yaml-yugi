@@ -7,10 +7,11 @@ name:
   fr: Fleur Cardian Sanglicerpillon
   it: Fiore Cardian con Cincerfalla
   pt: Flor Cardian Javerveta
-  ja: <ruby><rb>花札衛</rb><rp>（</rp><rt>カーディアン</rt><rp>）</rp></ruby>－<ruby><rb>猪</rb><rp>（</rp><rt>いの</rt><rp>）</rp></ruby><ruby><rb>鹿</rb><rp>（</rp><rt>しか</rt><rp>）</rp></ruby><ruby><rb>蝶</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>－
+  ja: <ruby><rb>花札衛</rb><rt>カーディアン</rt></ruby>－<ruby><rb>猪</rb><rt>いの</rt></ruby><ruby><rb>鹿</rb><rt>しか</rt></ruby><ruby><rb>蝶</rb><rt>ちょう</rt></ruby>－
   ja_romaji: Kādian - Inoshikachō -
   ko: 카디언-이노시카쵸-
   ko_rr:
+  zh-TW:
   zh-CN: 花札卫-猪鹿蝶-
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 2장
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신의 "카디언" 몬스터가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 상대에게 전투 데미지를 준다. ②: 1턴에 1번, 자신 묘지의 "카디언" 몬스터 1장을 제외하고 발동할 수 있다. 다음 상대 턴 종료시까지, 상대는 묘지의 카드 효과를 발동할 수 없으며, 묘지에서 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽2只
     ①：只要这张卡在怪兽区域存在，自己的「花札卫」怪兽向守备表示怪兽攻击的场合，给与对方为攻击力超过那个守备力的数值的战斗伤害。②：1回合1次，把自己墓地1只「花札卫」怪兽除外才能发动。直到下次的对方回合结束时，对方不能把墓地的卡的效果发动，不能从墓地把怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Synchro / Effect
+card_type: Monster
+monster_type_line: Warrior / Synchro / Effect
 attribute: DARK
 level: 6
 atk: 2000

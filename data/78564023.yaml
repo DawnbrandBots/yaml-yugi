@@ -7,10 +7,11 @@ name:
   fr: Aile Noire - Etesia la Double Lame
   it: Alanera - Etesian delle Due Spade
   pt: Asanegra - Etesian, as Duas Espadas
-  ja: <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby>の<ruby><rb>太</rb><rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby><rb>刀</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>のエテジア
+  ja: <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>二</rb><rt>に</rt></ruby>の<ruby><rb>太</rb><rt>た</rt></ruby><ruby><rb>刀</rb><rt>ち</rt></ruby>のエテジア
   ja_romaji: Burakku Fezā - Ni no Tachi no Etejia
-  ko: <ruby><rb>BF</rb><rp>（</rp><rt>블랙 페더</rt><rp>）</rp></ruby>－두 칼의 에테지아
+  ko: <ruby><rb>BF</rb><rt>블랙 페더</rt></ruby>－두 칼의 에테지아
   ko_rr:
+  zh-TW:
   zh-CN: 黑羽-二太刀之厄特西安
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に存在する「ＢＦ」と名のついたモンスターが相手モンスターとの戦闘を行ったダメージステップ終了時にその相手モンスターがフィールド上に存在する場合、このカードを手札から墓地へ送って発動する事ができる。相手ライフに１０００ポイントダメージを与える。
   ko: |-
     자신 필드 위에 존재하는 "BF(블랙 페더)"라는 이름이 붙은 몬스터가 상대 몬스터와의 전투를 실행한 데미지 스텝 종료시에 그 상대 몬스터가 필드 위에 존재할 경우, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 상대 라이프에 1000 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的名字带有「黑羽」的怪兽进行和对方怪兽的战斗的伤害步骤结束时那只对方怪兽在场上存在的场合，把这张卡从手卡送去墓地才能发动。给与对方基本分1000分伤害。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: DARK
 level: 3
 atk: 400

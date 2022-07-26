@@ -7,10 +7,11 @@ name:
   fr: Bateau Fantôme
   it: Nave Fantasma
   pt: Barco Fantasma
-  ja: <ruby><rb>霊魂の護送船</rb><rp>（</rp><rt>ソウル・コンヴォイ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>霊魂の護送船</rb><rt>ソウル・コンヴォイ</rt></ruby>
   ja_romaji: Sōru Konvoi
   ko: 영혼의 호송선
   ko_rr:
+  zh-TW:
   zh-CN: 灵魂护送船
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは通常召喚できない。自分の墓地に存在する光属性モンスター１体をゲームから除外した場合に特殊召喚する事ができる。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 자신의 묘지에 존재하는 빛 속성 몬스터 1장을 게임에서 제외한 경우에 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡不能通常召唤。把自己墓地存在的1只光属性怪兽从游戏中除外的场合可以特殊召唤。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: LIGHT
 level: 5
 atk: 1900

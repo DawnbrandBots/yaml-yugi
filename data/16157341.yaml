@@ -7,10 +7,11 @@ name:
   fr: Bujingi Ibis
   it: Bujingi Ibis
   pt: Pernalta Bujingi
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>－オハバリ
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby><ruby><rb>器</rb><rt>ぎ</rt></ruby>－オハバリ
   ja_romaji: Bujingi - Ohabari
   ko: 무사신기-오하바리
   ko_rr:
+  zh-TW:
   zh-CN: 武神器-尾羽张
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分のメインフェイズ１で、このカードを手札から墓地へ送り、自分フィールド上の「武神」と名のついたモンスター１体を選択して発動できる。このターン、選択したモンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
   ko: |-
     자신의 메인 페이즈 1에서, 이 카드를 패에서 묘지로 보내고, 자신 필드 위의 "무사신" 이라는 이름이 붙은 몬스터 1장을 선택하여 발동할 수 있다. 이 턴에, 선택한 몬스터가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     自己的主要阶段1，把这张卡从手卡送去墓地，选择自己场上1只名字带有「武神」的怪兽才能发动。这个回合，选择的怪兽向守备表示怪兽攻击时，若攻击力超过那个守备力，给与对方基本分那个数值的战斗伤害。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: LIGHT
 level: 4
 atk: 1600

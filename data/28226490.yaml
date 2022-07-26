@@ -1,7 +1,7 @@
 konami_id: 17445
 password: 28226490
 name:
-  en: Tearalaments Kaleido-Heart
+  en: Tearlaments Kaleido-Heart
   de:
   es:
   fr:
@@ -11,11 +11,12 @@ name:
   ja_romaji: Tiaramentsu Kareidohāto
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 哀泪姬主 卡雷德哈特
 text:
   en: |-
-    "Tearalaments Reinoheart" + 2 Aqua monsters
-    Cannot be used as Fusion Material. If this card is Special Summoned, or an Aqua monster(s) is sent to your GY by card effect while this card is on the field: You can target 1 card your opponent controls; shuffle it into the Deck. If this card is sent to the GY by card effect: You can Special Summon this card, and if you do, send 1 "Tearalaments" card from your Deck to the GY. You can only use each effect of "Tearalaments Kaleido-Heart" once per turn.
+    "Tearlaments Reinoheart" + 2 Aqua monsters
+    Cannot be used as Fusion Material. If this card is Special Summoned, or if an Aqua monster is sent to your GY by card effect while this card is on the field: You can target 1 card your opponent controls; shuffle it into the Deck. If this card is sent to the GY by card effect: You can Special Summon this card, and if you do, send 1 "Tearlaments" card from your Deck to the GY. You can only use each effect of "Tearlaments Kaleido-Heart" once per turn.
   de:
   es:
   fr:
@@ -25,17 +26,43 @@ text:
     「ティアラメンツ・レイノハート」＋水族モンスター×２
     このカードは融合素材にできない。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、またはこのカードがフィールドに存在する状態で、水族モンスターが効果で自分の墓地へ送られた場合、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主のデッキに戻す。②：このカードが効果で墓地へ送られた場合に発動できる。このカードを特殊召喚し、デッキから「ティアラメンツ」カード１枚を墓地へ送る。
   ko:
+  zh-TW:
   zh-CN: |-
     「ティアラメンツ・レイノハート／哀泪姬主 雷诺哈特」怪兽+水族怪兽×2
     这张卡不能作为融合素材。这个卡名的①②效果1回合各能使用1次。①：这张卡特殊召唤成功的场合，或者这张卡在场上存在的状态下，水族怪兽被效果送入自己的墓地的场合，可以以对手场上的1张卡为对象发动。使那张卡返回持有者的卡组。②：这张卡被效果送入墓地的场合可以发动。将这张卡特殊召唤，从卡组将1张「ティアラメンツ／哀泪姬」卡送入墓地。
-type: Monster
-typeline: Fiend / Fusion / Effect
+card_type: Monster
+monster_type_line: Fiend / Fusion / Effect
 attribute: DARK
 level: 9
 atk: 3000
 def: 3000
-materials: '"Tearalaments Reino Heart" + 2 Aqua-Type monsters'
+materials: '"Tearlaments Reino Heart" + 2 Aqua-Type monsters'
 sets:
+  en:
+  - set_number: POTE-EN043
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: POTE-DE043
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: POTE-FR043
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: POTE-IT043
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: POTE-PT043
+    set_name: Power of the Elements
+    rarities:
+    - Secret Rare
   ja:
   - set_number: POTE-JP043
     set_name: Power of the Elements
@@ -45,6 +72,19 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
   - set_number: POTE-JP043
+    set_name: Power of the Elements +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: POTE-KR043
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: POTE-KR043
     set_name: Power of the Elements +1 Bonus Pack
     rarities:
     - Ultra Rare

@@ -7,11 +7,12 @@ name:
   fr: Acteur des Abysses - Superstar
   it: Attore dell'Abisso - Superstar
   pt: Ator do Abismo - Superstar
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>劇</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>団</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>－ビッグ・スター
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>劇</rb><rt>げき</rt></ruby><ruby><rb>団</rb><rt>だん</rt></ruby>－ビッグ・スター
   ja_romaji: Makai Gekidan - Biggu Sutā
   ko: 마계극단－빅 스타
   ko_rr: Magyegeukdan - Bik Seuta
-  zh-CN: 魔界剧团-大明星
+  zh-TW:
+  zh-CN: 魔界剧团－巨星
 text:
   en: |-
     When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 "Abyss Script" Spell directly from your Deck, but it is sent to the GY during the End Phase.
@@ -29,10 +30,11 @@ text:
     ①：このカードの召喚・特殊召喚成功時に相手は魔法・罠カードの効果を発動できない。②：１ターンに１度、自分メインフェイズに発動できる。デッキから「魔界台本」魔法カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはエンドフェイズに墓地へ送られる。
   ko: |-
     ①: 이 카드의 일반 소환 / 특수 소환 성공시에 상대는 마법 / 함정 카드의 효과를 발동할 수 없다. ②: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 덱에서 "마계대본" 마법 카드 1장을 고르고 자신 필드에 세트한다. 이 효과로 세트한 카드는 엔드 페이즈에 묘지로 보내진다.
+  zh-TW:
   zh-CN: |-
-    ①：在这张卡的召唤·特殊召唤成功时，对方不能把魔法·陷阱卡的效果发动。②：1回合1次，自己主要阶段才能发动。从卡组选1张「魔界台本」魔法卡在自己场上盖放。这个效果盖放的卡在结束阶段送去墓地。
-type: Monster
-typeline: Fiend / Pendulum / Effect
+    ①：此卡召唤・特殊召唤成功时，对手不可发动魔法・陷阱卡的效果。②：1回合1次，在自己主要阶段可以发动。从牌组挑选1张"魔界剧本"魔法卡放置在自己场上。以此效果放置的卡会在结束阶段被送至墓地。
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Effect
 attribute: DARK
 level: 7
 atk: 2500
@@ -55,8 +57,9 @@ pendulum_effect:
     ①：１ターンに１度、自分フィールドの「魔界劇団」モンスター１体をリリースし、自分の墓地の「魔界台本」魔法カード１枚を対象として発動できる。そのカードを手札に加える。
   ko: |-
     ①: 1턴에 1번, 자신 필드의 "마계극단" 몬스터 1장을 릴리스하고, 자신 묘지의 "마계대본" 마법 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    ①：1回合1次，把自己场上1只「魔界剧团」怪兽解放，以自己墓地1张「魔界台本」魔法卡为对象才能发动。那张卡加入手卡。
+    ①：1回合1次，可解放自己场上的1只"魔界剧团"怪兽，以自己墓地的1张"魔界剧本"魔法卡为对象发动。将该卡加入手牌。
 sets:
   en:
   - set_number: DESO-EN018

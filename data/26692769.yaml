@@ -7,11 +7,12 @@ name:
   fr: Les Chevaliers Fantômes de la Bardiche Rouillée
   it: I Cavalieri Fantasma della Berdica Rugginosa
   pt: Os Cavaleiros Fantasmas do Bardiche Enferrujado
-  ja: <ruby><rb>幻影騎士団</rb><rp>（</rp><rt>ファントム・ナイツ</rt><rp>）</rp></ruby>ラスティ・バルディッシュ
+  ja: <ruby><rb>幻影騎士団</rb><rt>ファントム・ナイツ</rt></ruby>ラスティ・バルディッシュ
   ja_romaji: Fantomu Naitsu Rasuti Barudisshu
   ko: 팬텀 나이츠 러스티 바르디시
   ko_rr: Paenteom Naicheu Reoseuti Bareudisi
-  zh-CN: 幻影骑士团 锈战斧
+  zh-TW:
+  zh-CN: 魅影骑士团锈蚀月刃斧
 text:
   en: |-
     2+ DARK monsters
@@ -37,16 +38,17 @@ text:
   ko: |-
     어둠 속성 몬스터 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. 이 카드는 링크 소재로 할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 덱에서 "팬텀 나이츠" 몬스터 1장을 묘지로 보낸다. 그 후, 덱에서 "팬텀" 마법 / 함정 카드 1장을 골라 자신의 마법 & 함정 존에 세트한다. ②: 이 카드가 이미 몬스터 존에 존재하는 상태에서, 이 카드의 링크 앞에 어둠 속성 엑시즈 몬스터가 특수 소환되었을 경우, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     暗属性怪兽2只以上
-    自己主要阶段时：可以从卡组把1只「幻影骑士团」怪兽送去墓地，之后从卡组选1张「幻影」魔法/陷阱卡在自己的魔法与陷阱区域盖放。只要这只怪兽在场上存在，这张卡所连接区有暗属性超量怪兽特殊召唤的场合（伤害步骤以外）：可以选择场上1张卡；破坏那张卡。「幻影骑士团 锈战斧」的每个效果1回合各能使用1次。这张卡不能作为连接素材。
-type: Monster
-typeline: Warrior / Link / Effect
+    此卡名的①②效果1回合仅可各使用1次。此卡不可作为连接素材。①：在自己的主要阶段可以发动。从牌组将1只"魅影骑士团"怪兽送至墓地。然后，从牌组挑选1张"魅影"魔法・陷阱卡放置在自己的魔法与陷阱区域。②：此卡已经存在于怪兽区域的状态下，此卡连接端有暗属性超量怪兽被特殊召唤的情况下，以场上的1张卡为对象可以发动。将该卡破坏。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Right
-- Middle-Right
+- ↙
+- ↘
+- ➡
 atk: 2100
 materials: 2+ DARK monsters
 sets:

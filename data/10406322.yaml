@@ -7,11 +7,12 @@ name:
   fr: Alsei, le Grand Protecteur Sylvan
   it: Alsei, l'Alto Protettore Silvano
   pt: Alsei, o Alto Protetor Silvestre
-  ja: <ruby><rb>森</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>羅</rb><rp>（</rp><rt>ら</rt><rp>）</rp></ruby>の<ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>がみ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>森</rb><rt>しん</rt></ruby><ruby><rb>羅</rb><rt>ら</rt></ruby>の<ruby><rb>守</rb><rt>もり</rt></ruby><ruby><rb>神</rb><rt>がみ</rt></ruby>
     アルセイ
   ja_romaji: Shinra no Morigami Arusei
   ko: 삼라의 수신 아르세이
   ko_rr:
+  zh-TW:
   zh-CN: 森罗的守神 森精
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     레벨 8 몬스터 × 2
     1턴에 1번, 카드명을 1개 선언하고 발동할 수 있다. 자신 덱의 맨 위의 카드를 넘겨, 선언한 카드였을 경우 패에 넣는다. 다를 경우, 넘긴 카드를 묘지로 보낸다. 또한, 카드의 효과에 의해서 자신의 덱에서 카드가 묘지로 보내졌을 경우, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 필드 위의 카드 1장을 선택하고 주인 덱의 맨 위 또는 맨 아래로 되돌린다. "삼라의 수신 아르세이"의 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×2。1回合1次，宣言1个卡名才能发动。自己卡组最上面的卡翻开，宣言的卡的场合，加入手卡。不是的场合，翻开的卡送去墓地。此外，卡的效果从自己卡组让卡送去墓地的场合，把这张卡1个XYZ素材取除才能发动。选择场上1张卡回到持有者卡组最上面或者最下面。「森罗的守神 森精」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Plant / Xyz / Effect
+card_type: Monster
+monster_type_line: Plant / Xyz / Effect
 attribute: LIGHT
 rank: 8
 atk: 2300

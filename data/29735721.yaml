@@ -7,10 +7,11 @@ name:
   fr: Dissipation de Magie
   it: Dissoluzione Magica
   pt: Limpeza de Spells
-  ja: <ruby><rb>呪</rb><rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>抹</rb><rp>（</rp><rt>まっ</rt><rp>）</rp></ruby><ruby><rb>消</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>呪</rb><rt>じゅ</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>抹</rb><rt>まっ</rt></ruby><ruby><rb>消</rb><rt>しょう</rt></ruby>
   ja_romaji: Jujutsu Masshō
   ko: 주술 말소
   ko_rr:
+  zh-TW:
   zh-CN: 咒术抹消
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     手札からカードを２枚捨てる。魔法カードの発動を無効にし、それを破壊する。さらに相手の手札とデッキを確認し、破壊した魔法カードと同名のカードがあった場合全て墓地へ送る。
   ko: |-
     패에서 카드를 2장 버린다. 마법 카드의 발동을 무효로 하여, 그것을 파괴한다. 다시 상대의 패와 덱을 확인하여, 파괴한 마법 카드와 같은 이름의 카드가 있을 경우 전부 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     从手卡把2张卡丢弃。魔法卡的发动无效，并把那破坏。再把对方的手卡和卡组确认，有和破坏的魔法卡同名的卡的场合全部送去墓地。
-type: Trap
+card_type: Trap
 property: Counter

@@ -7,10 +7,11 @@ name:
   fr: Périallis, Impératrice des Floraisons
   it: Periallis, Imperatrice delle Fioriture
   pt: Periallis, a Imperatriz de Florescência
-  ja: <ruby><rb>瓔</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>珞</rb><rp>（</rp><rt>らく</rt><rp>）</rp></ruby><ruby><rb>帝</rb><rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby><rb>華</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>－ペリアリス
+  ja: <ruby><rb>瓔</rb><rt>よう</rt></ruby><ruby><rb>珞</rb><rt>らく</rt></ruby><ruby><rb>帝</rb><rt>てい</rt></ruby><ruby><rb>華</rb><rt>か</rt></ruby>－ペリアリス
   ja_romaji: Yōrakuteika - Periarisu
   ko: 영락제화－페리얼리스
   ko_rr: Yeongnakjehwa - Peri-eolliseu
+  zh-TW:
   zh-CN: 花后 佩里亚丽斯
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드 이외의 자신 필드의 식물족 몬스터의 수 × 400 올린다. ②: 자신 메인 페이즈에 발동할 수 있다. 자신의 패 / 묘지에서 "영락제화－페리얼리스" 이외의 레벨 5 이상의 식물족 몬스터 1장을 고르고 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这张卡的攻击力上升这张卡以外的自己场上的植物族怪兽数量×400。自己主要阶段时：可以从自己的手卡·墓地选「花后 佩里亚丽斯」以外的1只5星以上的植物族怪兽守备表示特殊召唤。「花后 佩里亚丽斯」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Plant / Synchro / Effect
+card_type: Monster
+monster_type_line: Plant / Synchro / Effect
 attribute: LIGHT
 level: 7
 atk: 1600

@@ -7,11 +7,12 @@ name:
   fr: Couronnée par le Calice du Monde
   it: Coronato dal Calice del Mondo
   pt: Coroada pelo Cálice Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>杯</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby>を<ruby><rb>戴</rb><rp>（</rp><rt>いただ</rt><rp>）</rp></ruby>く<ruby><rb>巫</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>杯</rb><rt>はい</rt></ruby>を<ruby><rb>戴</rb><rt>いただ</rt></ruby>く<ruby><rb>巫</rb><rt>み</rt></ruby><ruby><rb>女</rb><rt>こ</rt></ruby>
   ja_romaji: Seihai o Itadaku Miko
   ko: 성잔을 받드는 무녀
   ko_rr:
-  zh-CN: 领取星杯的巫女
+  zh-TW:
+  zh-CN: 获得星杯的巫女
 text:
   en: |-
     With her magical staff, she can channel the living heart of her world to shield her people from the Mekk-Knights that have overrun it.
@@ -27,15 +28,17 @@ text:
     Com seu cajado mágico, ela pode canalizar o coração vivo do seu mundo para proteger seu povo dos Mekk-Cavaleiros que o devastaram.
   ja: |-
     星神に鎮魂の祈りを捧げる巫女。
-    手にした杖は代々受け継がれし祭器であり、力を結界に変えて<ruby><rb>機界騎士</rb><rp>（</rp><rt>ジャックナイツ</rt><rp>）</rp></ruby>による支配から森の民を守護している。森の守護竜が懐く程の神通力をその身に秘めているが、普段は兄と幼馴染を大切に想う、心優しい少女の顔を見せる。
+    手にした杖は代々受け継がれし祭器であり、力を結界に変えて<ruby><rb>機界騎士</rb><rt>ジャックナイツ</rt></ruby>による支配から森の民を守護している。森の守護竜が懐く程の神通力をその身に秘めているが、普段は兄と幼馴染を大切に想う、心優しい少女の顔を見せる。
   ko: |-
     성신에게 진혼의 기도를 올리는 무녀.
     손에 든 지팡이는 대대로 물려받은 제례도구로, 힘을 결계로 바꿔 잭나이츠에 의한 지배로부터 숲의 백성을 수호하고 있다. 숲의 수호룡이 따를 정도의 신통력을 그 몸에 간직하고 있지만, 평소에는 오빠와 소꿉친구를 소중하게 생각하는, 마음씨 고운 소녀의 면모를 보인다.
+  zh-TW:
   zh-CN: |-
     向星神献上镇魂祈祷的巫女。
-    手持之杖是世代继承的祭器，将力量变为结界从机界骑士(機界騎士)支配中守护着森之民。虽然她的身上隐藏有足以驯服森之守护龙的神通力，但平日所见的她却有着珍爱哥哥及童年玩伴的亲切少女一面。
-type: Monster
-typeline: Spellcaster / Normal
+    手中的杖是代代传承的祭器，她将力量变为结界，保护森林之民不受机界骑士支配。
+    虽然她身上隐藏着连森林守护龙都会亲近的神通力，但平时看上去只是个珍视哥哥和发小的善良少女。
+card_type: Monster
+monster_type_line: Spellcaster / Normal
 attribute: WATER
 level: 2
 atk: 0

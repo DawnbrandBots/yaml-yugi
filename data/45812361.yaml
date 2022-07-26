@@ -7,10 +7,11 @@ name:
   fr: Voiturcarte D
   it: Cartauto D
   pt: Autocard D
-  ja: カードカー・<ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>
+  ja: カードカー・<ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>
   ja_romaji: Kādokā Dī
-  ko: 카드카·<ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
+  ko: 카드카·<ruby><rb>D</rb><rt>디</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 卡片汽车·D
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードは特殊召喚できない。このカードの効果を発動するターン、自分はモンスターを特殊召喚できない。①：このカードが召喚に成功した自分メインフェイズ１にこのカードをリリースして発動できる。自分はデッキから２枚ドローする。その後、このターンのエンドフェイズになる。
   ko: |-
     이 카드는 특수 소환할 수 없다. 이 카드의 효과를 발동한 턴에, 자신은 몬스터를 특수 소환할 수 없다. ① : 이 카드가 일반 소환에 성공한 자신 메인 페이즈 1에 이 카드를 릴리스하고 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 그 후, 이 턴의 엔드 페이즈가 된다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。这张卡的效果发动的回合，自己不能把怪兽特殊召唤。①：这张卡召唤成功的自己主要阶段1把这张卡解放才能发动。自己从卡组抽2张。那之后，变成这个回合的结束阶段。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 2
 atk: 800

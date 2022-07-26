@@ -7,10 +7,11 @@ name:
   fr: Confiscation
   it: Confisca
   pt:
-  ja: <ruby><rb>押</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>収</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>押</rb><rt>おう</rt></ruby><ruby><rb>収</rb><rt>しゅう</rt></ruby>
   ja_romaji: Ōshū
   ko: 압수
   ko_rr:
+  zh-TW:
   zh-CN: 收押
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     １０００ライフポイントを払って発動する。相手の手札を確認し、その中からカードを１枚捨てる。
   ko: |-
     1000 라이프 포인트를 지불한다. 상대의 패를 확인하고, 그 중에서 카드를 1장 선택하여 묘지에 버린다.
+  zh-TW:
   zh-CN: |-
     支付1000基本分发动。把对方手卡确认，从那之中丢弃1张卡。
-type: Spell
+card_type: Spell
 property: Normal

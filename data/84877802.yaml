@@ -7,10 +7,11 @@ name:
   fr: Bouclier Magnum
   it: Scudo Magno
   pt: Escudo de Magnum
-  ja: <ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>強</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby><rb>盾</rb><rp>（</rp><rt>たて</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>強</rb><rt>きょう</rt></ruby>の<ruby><rb>盾</rb><rt>たて</rt></ruby>
   ja_romaji: Saikyō no Tate
   ko: 최강의 방패
   ko_rr: Choegang-ui Bangpae
+  zh-TW: 最强之盾
   zh-CN: 最强之盾
 text:
   en: |-
@@ -45,9 +46,10 @@ text:
     전사족 몬스터에만 장착 가능. ①: 장착 몬스터의 표시 형식에 따라 이하의 효과를 적용한다.
     ●공격 표시: 장착 몬스터의 공격력은, 그 원래 수비력만큼 올린다.
     ●수비 표시: 장착 몬스터의 수비력은, 그 원래 공격력만큼 올린다.
+  zh-TW: 仅限装备战士族怪兽。根据装备怪兽的表示形式，适用以下效果。●攻击表示：装备怪兽的攻击力上升相当于该原本守备力。●守备表示：装备怪兽的守备力上升相当于该原本攻击力。
   zh-CN: |-
     战士族怪兽才能装备。①：装备怪兽的表示形式的以下效果适用。
     ●攻击表示：装备怪兽的攻击力上升那个原本守备力数值。
     ●守备表示：装备怪兽的守备力上升那个原本攻击力数值。
-type: Spell
+card_type: Spell
 property: Equip

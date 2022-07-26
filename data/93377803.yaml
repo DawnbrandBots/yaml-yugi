@@ -7,10 +7,11 @@ name:
   fr: Épée Solitaire du Poison
   it: Spada Solitaria Avvelenata
   pt: Espada Venenosa Solitária
-  ja: <ruby><rb>孤</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>毒</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>つるぎ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>孤</rb><rt>こ</rt></ruby><ruby><rb>毒</rb><rt>どく</rt></ruby>の<ruby><rb>剣</rb><rt>つるぎ</rt></ruby>
   ja_romaji: Kodoku no Tsurugi
   ko: 고독의 검
   ko_rr: Godok-ui Geom
+  zh-TW:
   zh-CN: 孤毒之剑
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールドのモンスターにのみ装備可能。①：「孤毒の剣」は自分フィールドに１枚しか表側表示で存在できない。②：装備モンスターの元々の攻撃力・守備力は、相手モンスターと戦闘を行うダメージ計算時のみ倍になる。③：自分フィールドに装備モンスター以外のモンスターが存在する場合にこのカードは墓地へ送られる。
   ko: |-
     자신 필드의 몬스터에만 장착 가능. ①: "고독의 검"은 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 장착 몬스터의 원래의 공격력 / 수비력은, 상대 몬스터와 전투를 실행하는 데미지 계산시에만 배가 된다. ③: 자신 필드에 장착 몬스터 이외의 몬스터가 존재할 경우에 이 카드는 묘지로 보내진다.
+  zh-TW:
   zh-CN: |-
     自己场上的怪兽才能装备。
     ①：「孤毒之剑」在自己场上只能有1张表侧表示存在。
     ②：装备怪兽的原本的攻击力·守备力只在和对方怪兽进行战斗的伤害计算时变成2倍。
     ③：自己场上有装备怪兽以外的怪兽存在的场合这张卡送去墓地。
-type: Spell
+card_type: Spell
 property: Equip

@@ -7,10 +7,11 @@ name:
   fr: Unité Gobeline de Diversion
   it: Squadra Esca Goblin
   pt:
-  ja: ゴブリン<ruby><rb>陽</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>動</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>部</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>隊</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: ゴブリン<ruby><rb>陽</rb><rt>よう</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby><ruby><rb>部</rb><rt>ぶ</rt></ruby><ruby><rb>隊</rb><rt>たい</rt></ruby>
   ja_romaji: Goburin Yōdōbutai
   ko: 고블린 양동부대
   ko_rr:
+  zh-TW:
   zh-CN: 哥布林佯动部队
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手ライフに戦闘ダメージを与えた時、自分のデッキからカードを１枚ドローする事ができる。このカードは攻撃した場合、バトルフェイズ終了時に守備表示になり、次の自分のターンのエンドフェイズ時まで表示形式を変更する事ができない。
   ko: |-
     이 카드가 상대 라이프에 전투 데미지를 주었을 때, 자신의 덱에서 카드를 1장 드로우 할 수 있다. 이 카드는 공격했을 경우, 배틀 페이즈 종료시에 수비 표시가 되어, 다음의 자신 턴의 엔드 페이즈시까지 표시 형식을 변경할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡给与对方基本分战斗伤害时，可以从自己卡组抽1张卡。这张卡攻击的场合，战斗阶段结束时变成守备表示，直到下次的自己回合的结束阶段时不能把表示形式变更。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1000

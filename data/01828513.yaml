@@ -7,10 +7,11 @@ name:
   fr: Shien, Ombre des Six Samouraïs
   it: Shien - Ombra dei Sei Samurai
   pt: Sombra dos Seis Samurai - Shien
-  ja: <ruby><rb>六</rb><rp>（</rp><rt>ろく</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>衆</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby>の<ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>－<ruby><rb>紫</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>衆</rb><rt>しゅう</rt></ruby>の<ruby><rb>影</rb><rt>かげ</rt></ruby>－<ruby><rb>紫</rb><rt>シ</rt></ruby><ruby><rb>炎</rb><rt>エン</rt></ruby>
   ja_romaji: Roku Bushū no Kage - Shien
   ko: 여섯 무사의 그림자-시엔
   ko_rr:
+  zh-TW:
   zh-CN: 六武众之影-紫炎
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 "여섯 무사" 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 필드의 공격력 2000 미만의 "여섯 무사" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 원래 공격력은 턴 종료시까지 2000 이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星「六武众」怪兽×2
     ①：1回合1次，把这张卡1个XYZ素材取除，以自己场上1只攻击力未满2000的「六武众」怪兽为对象才能发动。那只怪兽的原本攻击力直到回合结束时变成2000。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2500

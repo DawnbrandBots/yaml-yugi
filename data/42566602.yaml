@@ -7,10 +7,11 @@ name:
   fr: Dragon Corail
   it: Drago Corallo
   pt: Dragão Coral
-  ja: <ruby><rb>瑚之龍</rb><rp>（</rp><rt>コーラル・ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>瑚之龍</rb><rt>コーラル・ドラゴン</rt></ruby>
   ja_romaji: Kōraru Doragon
   ko: 코랄 드래곤
   ko_rr: Koral Deuraegon
+  zh-TW:
   zh-CN: 瑚之龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 패를 1장 버리고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. ②: 싱크로 소환한 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    「瑚之龙」的②的效果1回合只能使用1次。①：1回合1次，丢弃1张手卡，以对方场上1张卡为对象才能发动。那张卡破坏。②：同调召唤的这张卡被送去墓地的场合才能发动。自己从卡组抽1张。
-type: Monster
-typeline: Dragon / Synchro / Tuner / Effect
+    协调＋1只以上协调以外的怪兽
+    此卡名的②效果1回合仅可使用1次。①：1回合1次，舍弃1张手牌，以对手场上的1张卡为对象可以发动。将该卡破坏。②：同步召唤的此卡被送至墓地的情况下可以发动。自己从牌组抽1张。
+card_type: Monster
+monster_type_line: Dragon / Synchro / Tuner / Effect
 attribute: WATER
 level: 6
 atk: 2400

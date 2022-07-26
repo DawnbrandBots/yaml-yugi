@@ -7,10 +7,11 @@ name:
   fr: Élévateur de Chaleur Corporelle
   it: Alza Calore Corporeo
   pt: Aumentar a Temperatura Corporal
-  ja: <ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>温</rb><rp>（</rp><rt>おん</rt><rp>）</rp></ruby>の<ruby><rb>上</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby><rb>昇</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>体</rb><rt>たい</rt></ruby><ruby><rb>温</rb><rt>おん</rt></ruby>の<ruby><rb>上</rb><rt>じょう</rt></ruby><ruby><rb>昇</rb><rt>しょう</rt></ruby>
   ja_romaji: Taion no Jōshō
   ko: 체온 상승
   ko_rr:
+  zh-TW:
   zh-CN: 体温上升
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     恐竜族のみ装備可能。装備モンスター１体の攻撃力と守備力は３００ポイントアップする。
   ko: |-
     공룡족만 장착 가능. 장착 몬스터 1장의 공격력과 수비력은 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     恐龙族才能装备。1只装备怪兽的攻击力和守备力上升300。
-type: Spell
+card_type: Spell
 property: Equip

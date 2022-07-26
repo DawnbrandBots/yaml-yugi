@@ -7,10 +7,11 @@ name:
   fr: Oiseau de Paradis Perdu
   it: Uccello del Paradiso Perduto
   pt: Pássaro do Paraíso Perdido
-  ja: <ruby><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby><ruby><rb>落</rb><rp>（</rp><rt>らく</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>獄</rb><rt>ごく</rt></ruby><ruby><rb>落</rb><rt>らく</rt></ruby><ruby><rb>鳥</rb><rt>ちょう</rt></ruby>
   ja_romaji: Gokurakuchō
   ko: 옥락조
   ko_rr:
+  zh-TW:
   zh-CN: 狱落鸟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃力・守備力は、自分の墓地のチューナーの数×１００アップする。②：１ターンに１度、手札のチューナー１体を墓地へ送り、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールをエンドフェイズまで得る。
   ko: |-
     ① : 이 카드의 공격력 / 수비력은, 자신 묘지의 튜너의 수 × 100 올린다. ② : 1턴에 1번, 패의 튜너 1장을 묘지로 보내고, 상대 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击力·守备力上升自己墓地的调整数量×100。②：1回合1次，把手卡1只调整送去墓地，以对方场上1只怪兽为对象才能发动。那只怪兽的控制权直到结束阶段得到。
-type: Monster
-typeline: Wyrm / Tuner / Effect
+card_type: Monster
+monster_type_line: Wyrm / Tuner / Effect
 attribute: DARK
 level: 8
 atk: 2700

@@ -11,6 +11,7 @@ name:
   ja_romaji: Pazuzuru
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 拼图帕祖祖
 text:
   en: |-
@@ -27,13 +28,14 @@ text:
     A Invocação-Pêndulo dos seus monstros não pode ser negada.
   ja:
   ko:
+  zh-TW:
   zh-CN: |-
     ←1 【灵摆】 1→
     1回合1次：可以以另一边的自己的灵摆区域的卡为对象；这张卡的灵摆刻度直到回合结束时变成和那张灵摆怪兽卡的等级相同，这个回合自己不能作灵摆召唤以外的特殊召唤。
     【怪兽效果】
     自己怪兽的灵摆召唤不会被无效化。
-type: Monster
-typeline: Fiend / Pendulum / Effect
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Effect
 attribute: DARK
 level: 1
 atk: 500
@@ -54,6 +56,7 @@ pendulum_effect:
     Uma vez por turno: você pode escolher 1 card na sua outra Zona de Pêndulo; até o final deste turno, a Escala de Pêndulo deste card se torna o Nível desse Card de Monstro Pêndulo e, além disso, você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto por Invocação-Pêndulo.
   ja:
   ko:
+  zh-TW:
   zh-CN:
 sets:
   en:

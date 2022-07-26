@@ -7,11 +7,12 @@ name:
   fr: Yosenju Shinchu D
   it: Yosenju Shinchu D
   pt: Yosenju Shinchu D
-  ja: <ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>仙</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
-    <ruby><rb>右鎌神柱</rb><rp>（</rp><rt>ウレンシンチュウ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>仙</rb><rt>せん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
+    <ruby><rb>右鎌神柱</rb><rt>ウレンシンチュウ</rt></ruby>
   ja_romaji: Yōsenjū Urenshinchuu
   ko: 요선수 우겸신주
   ko_rr:
+  zh-TW:
   zh-CN: 妖仙兽 右镰神柱
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚に成功した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、相手は他の「妖仙獣」モンスターを攻撃対象にできない。
   ko: |-
     ① : 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ② : 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 "요선수" 몬스터를 공격 대상으로 할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合发动。这张卡变成守备表示。②：只要这张卡在怪兽区域存在，对方不能把其他的「妖仙兽」怪兽作为攻击对象。
-type: Monster
-typeline: Rock / Pendulum / Effect
+card_type: Monster
+monster_type_line: Rock / Pendulum / Effect
 attribute: WIND
 level: 4
 atk: 0
@@ -56,6 +58,7 @@ pendulum_effect:
     ①：１ターンに１度、もう片方の自分のＰゾーンに「妖仙獣」カードが存在する場合に発動できる。このカードのＰスケールはターン終了時まで１１になる。この効果の発動後、ターン終了時まで自分は「妖仙獣」モンスターしか特殊召喚できない。
   ko: |-
     ① : 1턴에 1번, 다른 한 쪽의 자신의 P존에 "요선수" 카드가 존재할 경우에 발동할 수 있다. 이 카드의 P스케일은 턴 종료시까지 11이 된다. 이 효과의 발동후, 턴 종료시까지 자신은 "요선수" 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，另一边的自己的灵摆区域有「妖仙兽」卡存在的场合才能发动。这张卡的灵摆刻度直到回合结束时变成11。这个效果的发动后，直到回合结束时自己不是「妖仙兽」怪兽不能特殊召唤。
 sets:

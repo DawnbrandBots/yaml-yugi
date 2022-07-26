@@ -11,6 +11,7 @@ name:
   ja_romaji: Kwīnzu Naito
   ko: 퀸즈 나이트
   ko_rr: Kwinjeu Naiteu
+  zh-TW:
   zh-CN: 王后骑士
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Este cavaleiro apanha os seus adversários desprevenidos, dominando-os com ataques precisos, mas graciosos.
   ja: |-
-    しなやかな<ruby><rb>動</rb><rp>（</rp><rt>うご</rt><rp>）</rp></ruby>きで<ruby><rb>敵</rb><rp>（</rp><rt>てき</rt><rp>）</rp></ruby>を<ruby><rb>翻</rb><rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><ruby><rb>弄</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby>し、<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>のスキを<ruby><rb>突</rb><rp>（</rp><rt>つ</rt><rp>）</rp></ruby>いて<ruby><rb>素</rb><rp>（</rp><rt>す</rt><rp>）</rp></ruby><ruby><rb>早</rb><rp>（</rp><rt>ばや</rt><rp>）</rp></ruby>い<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>を<ruby><rb>繰</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby>り<ruby><rb>出</rb><rp>（</rp><rt>だ</rt><rp>）</rp></ruby>す。
+    しなやかな<ruby><rb>動</rb><rt>うご</rt></ruby>きで<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>翻</rb><rt>ほん</rt></ruby><ruby><rb>弄</rb><rt>ろう</rt></ruby>し、<ruby><rb>相</rb><rt>あい</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>のスキを<ruby><rb>突</rb><rt>つ</rt></ruby>いて<ruby><rb>素</rb><rt>す</rt></ruby><ruby><rb>早</rb><rt>ばや</rt></ruby>い<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>を<ruby><rb>繰</rb><rt>く</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す。
   ko: |-
     경쾌한 움직임으로 적을 희롱하고, 상대의 허를 찔러 재빠른 공격을 연이어 한다.
+  zh-TW:
   zh-CN: |-
     用优美的动作愚弄敌人，抓住对方的间隙陆续快速发出攻击。
-type: Monster
-typeline: Warrior / Normal
+card_type: Monster
+monster_type_line: Warrior / Normal
 attribute: LIGHT
 level: 4
 atk: 1500
@@ -234,7 +236,7 @@ sets:
     - Super Rare
   ja:
   - set_number: LE4-001
-    set_name: Limited Edition 4
+    set_name: 'Limited Edition 4: Yugi Pack'
     rarities:
     - Ultra Rare
   - set_number: EEN-JP004

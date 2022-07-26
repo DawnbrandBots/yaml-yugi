@@ -7,10 +7,11 @@ name:
   fr: Fleur Cardian Saule
   it: Fiore Cardian Salice
   pt: Flor Cardian Salgueiro
-  ja: <ruby><rb>花札衛</rb><rp>（</rp><rt>カーディアン</rt><rp>）</rp></ruby>－<ruby><rb>柳</rb><rp>（</rp><rt>やなぎ</rt><rp>）</rp></ruby>－
+  ja: <ruby><rb>花札衛</rb><rt>カーディアン</rt></ruby>－<ruby><rb>柳</rb><rt>やなぎ</rt></ruby>－
   ja_romaji: Kādian - Yanagi -
   ko: 카디언-버들-
   ko_rr:
+  zh-TW:
   zh-CN: 花札卫-柳-
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：自分フィールドにレベル１０以下の「花札衛」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。この効果の発動後、ターン終了時まで自分は「花札衛」モンスターしか召喚・特殊召喚できない。②：１ターンに１度、自分の墓地の「花札衛」モンスター１体を対象として発動できる。そのモンスターをデッキに加えてシャッフルする。その後、自分はデッキから１枚ドローする。
   ko: |-
     ①: 자신 필드에 레벨 10 이하의 "카디언" 몬스터가 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 "카디언" 몬스터밖에 일반 소환 / 특수 소환할 수 없다. ②: 1턴에 1번, 자신 묘지의 "카디언" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱에 넣고 셔플한다. 그 후, 자신은 덱에서 1장 드로우한다.
+  zh-TW:
   zh-CN: |-
     ①：自己场上有10星以下的「花札卫」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。这个效果的发动后，直到回合结束时自己不是「花札卫」怪兽不能召唤·特殊召唤。②：1回合1次，以自己墓地1只「花札卫」怪兽为对象才能发动。那只怪兽加入卡组洗切。那之后，自己从卡组抽1张。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 11
 atk: 100

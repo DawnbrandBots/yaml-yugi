@@ -7,10 +7,11 @@ name:
   fr: Anneau de Devastation
   it: Anello Distruttivo
   pt: Anel da Destruição
-  ja: <ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby><ruby><rb>壊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>指輪</rb><rp>（</rp><rt>リング</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby><ruby><rb>指輪</rb><rt>リング</rt></ruby>
   ja_romaji: Hakai Ringu
   ko: 파괴 반지
   ko_rr:
+  zh-TW:
   zh-CN: 破坏指轮
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     自分フィールド上の表側表示モンスター１体を破壊し、お互いに１０００ポイントダメージを受ける。
   ko: |-
     자신 필드 위의 앞면 표시 몬스터 1장을 파괴하여,서로 1000포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     自己场上1只表侧表示怪兽破坏，双方受到1000分伤害。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Isolde, Belle des Enfers
   it: Isolde, Bellezza del Mondo Sotterraneo
   pt: Isolda, Belle do Submundo
-  ja: <ruby><rb>冥</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>麗</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>イゾルデ
+  ja: <ruby><rb>冥</rb><rt>めい</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>麗</rb><rt>れい</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>イゾルデ
   ja_romaji: Meikai no Reijin Izorude
   ko: 명계의 미인 이졸데
   ko_rr: Myeong-gye-ui Mi-in Ijolde
+  zh-TW:
   zh-CN: 冥界的丽人 伊索德
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードはこのカードの①の方法でしか特殊召喚できない。このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドに「冥界騎士トリスタン」が存在する場合、このカードは手札から特殊召喚できる。②：自分フィールドのアンデット族モンスターを２体まで対象とし、５～８までの任意のレベルを宣言して発動できる。そのモンスターはターン終了時まで宣言したレベルになる。この効果の発動後、ターン終了時まで自分はアンデット族モンスターしか特殊召喚できない。
   ko: |-
     이 카드는 이 카드의 ①의 방법으로밖에 특수 소환할 수 없다. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 "명계기사 트리스탄"이 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 자신 필드의 언데드족 몬스터를 2장까지 대상으로 하고, 5~8 까지의 임의의 레벨을 선언하여 발동할 수 있다. 그 몬스터는 턴 종료시까지 선언한 레벨이 된다. 이 효과의 발동 후, 턴 종료시까지 자신은 언데드족 몬스터밖에 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡不用这张卡的①的方法不能特殊召唤。「冥界的丽人 伊索德」的②的效果1回合只能使用1次。①：自己场上有「冥界骑士 崔斯坦」存在的场合，这张卡可以从手卡特殊召唤。②：以自己场上最多2只不死族怪兽为对象，宣言5～8的任意等级才能发动。那些怪兽直到回合结束时变成宣言的等级。这个效果的发动后，直到回合结束时自己不是不死族怪兽不能特殊召唤。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 4
 atk: 1000

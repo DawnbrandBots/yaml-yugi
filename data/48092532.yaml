@@ -7,10 +7,11 @@ name:
   fr: Survivant D.D.
   it: Sopravvissuto D.D.
   pt: Sobrevivente D.D.
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>の<ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>還</rb><rt>かん</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
   ja_romaji: Ijigen no Seikansha
   ko: 이차원의 생환자
   ko_rr:
+  zh-TW:
   zh-CN: 异次元的生还者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に表側表示で存在するこのカードがゲームから除外された場合、このカードはエンドフェイズ時にフィールド上に特殊召喚される。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 이 카드가 게임에서 제외되었을 경우, 이 카드는 엔드 페이즈시에 필드 위에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     自己场上表侧表示存在的这张卡从游戏中除外的场合，这张卡在结束阶段时在场上特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1800

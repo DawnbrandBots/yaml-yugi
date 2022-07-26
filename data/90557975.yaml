@@ -7,10 +7,11 @@ name:
   fr: Courant Ascendant
   it: Vento Rivelatore
   pt: Corrente Ascendente
-  ja: <ruby><rb>上</rb><rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby><rb>昇</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>流</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>上</rb><rt>じょう</rt></ruby><ruby><rb>昇</rb><rt>しょう</rt></ruby><ruby><rb>気</rb><rt>き</rt></ruby><ruby><rb>流</rb><rt>りゅう</rt></ruby>
   ja_romaji: Jōshō Kiryū
   ko: 상승기류
   ko_rr:
+  zh-TW:
   zh-CN: 上升气流
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上に存在するフォッグカウンターを全て取り除いて発動する。取り除いたフォッグカウンターの数⨉３００ポイントダメージを相手ライフに与える。
   ko: |-
     필드 위에 존재하는 포그 카운터를 전부 제거하고 발동한다. 제거한 포그 카운터의 수 X 300포인트 데미지를 상대 라이프에 준다.
+  zh-TW:
   zh-CN: |-
     把场上存在的雾指示物全部取除发动。给与对方基本分取除的雾指示物数量×300的数值的伤害。
-type: Trap
+card_type: Trap
 property: Normal

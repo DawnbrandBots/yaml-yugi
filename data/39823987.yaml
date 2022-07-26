@@ -7,10 +7,11 @@ name:
   fr: Inti le Dragon du Soleil
   it: Inti, Drago del Sole
   pt: Dragão do Sol Inti
-  ja: <ruby><rb>太</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>陽</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>インティ
+  ja: <ruby><rb>太</rb><rt>たい</rt></ruby><ruby><rb>陽</rb><rt>よう</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>インティ
   ja_romaji: Taiyōryū Inti
   ko: 태양룡 인티
   ko_rr: Taeyangnyong Inti
+  zh-TW:
   zh-CN: 太阳龙 因蒂
 text:
   en: |-
@@ -18,7 +19,7 @@ text:
     If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. Once per turn, during the Standby Phase of the next turn after this card on the field was destroyed: You can target 1 "Moon Dragon Quilla" in your GY; Special Summon that target.
   de: |-
     „Feuerameise Ascator“ + 1+ Nicht-Empfänger-Monster
-    Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Zerstöre das Monster, das diese Karte zerstört hat, und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der ATK zu, die das Monster auf dem Spielfeld hatte. Einmal pro Spielzug, während der Standby Phase des nächsten Spielzugs, nachdem diese Karte auf dem Spielfeld zerstört wurde: Du kannst 1 „Monddrache Quilla“ in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.
+    Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Zerstöre das Monster, das diese Karte zerstört hat, und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der ATK zu, die jenes Monster auf dem Spielfeld hatte. Einmal pro Spielzug, während der Standby Phase des nächsten Spielzugs, nachdem diese Karte auf dem Spielfeld zerstört wurde: Du kannst 1 „Monddrache Quilla“ in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.
   es: |-
     "Hormiga de Fuego Ascator" + 1+ monstruos que no sean Cantantes
     Si esta carta es destruida en batalla y mandada al Cementerio: destruye al monstruo que destruyó esta carta y, si lo haces, inflige daño a tu adversario igual a la mitad del ATK que ese monstruo tenía en el Campo. Una vez por turno, durante la Standby Phase del próximo turno después de que esta carta en el Campo fuera destruida: puedes seleccionar 1 "Dragón de la Luna Quilla" en tu Cementerio; Invoca ese objetivo de Modo Especial.
@@ -37,11 +38,12 @@ text:
   ko: |-
     "붉은 개미 아스카톨" ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 전투로 파괴되어 묘지로 보내졌을 경우에 발동한다. 이 카드를 파괴한 몬스터를 파괴하고, 그 공격력 절반의 데미지를 상대에게 준다. ②: 필드의 이 카드가 파괴된 다음 턴의 스탠바이 페이즈에, 자신 묘지의 "월영룡 쿠이라" 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「赤蚁」＋调整以外的怪兽1只以上
     ①：这张卡被战斗破坏送去墓地的场合发动。把让这张卡破坏的怪兽破坏，给与对方那个攻击力一半数值的伤害。②：场上的这张卡被破坏的下个回合的准备阶段，以自己墓地1只「月影龙 基利亚」为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Dragon / Synchro / Effect
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT
 level: 8
 atk: 3000

@@ -7,10 +7,11 @@ name:
   fr: Orca, Méga Forteresse des Ténèbres
   it: Orca Mega-Fortezza dell'Oscurità
   pt: Orca Mega-Fortaleza das Trevas
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>要</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>塞</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>鯱</rb><rp>（</rp><rt>じゃち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>要</rb><rt>よう</rt></ruby><ruby><rb>塞</rb><rt>さい</rt></ruby><ruby><rb>鯱</rb><rt>じゃち</rt></ruby>
   ja_romaji: Ankoku Daiyōsai Jachi
   ko: 암흑 대요새호
   ko_rr: Amheuk Daeyosaeho
+  zh-TW:
   zh-CN: 暗黑大要塞鲸
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上の「魚雷魚」１体を生け贄に捧げる事で、フィールド上のモンスター１体を破壊する。自分フィールド上の「砲弾ヤリ貝」１体を生け贄に捧げる事で、フィールド上の魔法・罠カード１枚を破壊する。
   ko: |-
     자신 필드 위의 "어뢰어" 1장을 제물로 바치는 것으로, 필드 위의 몬스터 1장을 파괴한다. 자신 필드 위의 "포환 창조개" 1장을 제물로 바치는 것으로, 필드 위의 마법/함정 카드 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     可以通过把自己场上1只「鱼雷鱼」作为祭品，场上1只怪兽破坏。可以通过把自己场上1只「炮弹枪贝」作为祭品，场上1张魔法·陷阱卡破坏。
-type: Monster
-typeline: Sea Serpent / Effect
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
 attribute: WATER
 level: 5
 atk: 2100

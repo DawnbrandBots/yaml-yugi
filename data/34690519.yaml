@@ -7,10 +7,11 @@ name:
   fr: Esprit de la Montagne
   it:
   pt: Espírito da Montanha
-  ja: <ruby><rb>山</rb><rp>（</rp><rt>やま</rt><rp>）</rp></ruby>の<ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>山</rb><rt>やま</rt></ruby>の<ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby>
   ja_romaji: Yama no Seirei
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 山之精灵
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     手にする笛の音を聞いた者は、カが抜けてしまうと言われている。
   ko:
+  zh-TW:
   zh-CN: |-
     据说听了它的笛音的人会失去力量。
-type: Monster
-typeline: Spellcaster
+card_type: Monster
+monster_type_line: Spellcaster
 attribute: EARTH
 level: 5
 atk: 1300

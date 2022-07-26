@@ -11,14 +11,15 @@ name:
   ja_romaji: Nekurofeisu
   ko: 네크로페이스
   ko_rr:
+  zh-TW:
   zh-CN: 死灵之颜
 text:
   en: |-
     If this card is Normal Summoned: Shuffle all banished cards into the Deck. This card gains 100 ATK for each card shuffled into the Main Deck by this effect. If this card is banished: Each player banishes 5 cards from the top of their Deck (or their entire Deck, if less than 5).
   de: |-
-    Falls diese Karte als Normalbeschwörung beschworen wird: Mische alle verbannten Karten ins Deck. Diese Karte erhält 100 ATK für jede Karte, die durch diesen Effekt ins Main Deck gemischt wird. Falls diese Karte verbannt wird: Jeder Spieler verbannt die obersten 5 Karten seines Decks (oder sein gesamtes Deck, falls weniger als 5).
+    Falls diese Karte als Normalbeschwörung beschworen wird: Mische alle verbannten Karten ins Deck. Diese Karte erhält für jede Karte, die durch diesen Effekt ins Main Deck gemischt wird, 100 ATK. Falls diese Karte verbannt wird: Jeder Spieler verbannt die obersten 5 Karten seines Decks (oder sein gesamtes Deck, falls weniger als 5).
   es: |-
-    Si esta carta es Invocada de Modo Normal: baraja todas las cartas desterradas al Deck. Esta carta gana 100 ATK por cada carta barajada al Main Deck por este efecto. Si esta carta es desterrada: cada jugador destierra 5 cartas de la parte superior de su Deck (o todo su Deck, si son menos de 5).
+    Si esta carta es Invocada de Modo Normal: baraja todas las cartas desterradas al Deck. Esta carta gana 100 ATK por cada carta barajada al Deck Principal por este efecto. Si esta carta es desterrada: cada jugador destierra 5 cartas de la parte superior de su Deck (o todo su Deck, si son menos de 5).
   fr: |-
     Si cette carte est Invoquée Normalement : mélangez toutes les cartes bannies dans le Deck. Cette carte gagne 100 ATK pour chaque carte mélangée dans le Main Deck par cet effet. Si cette carte est bannie : chaque joueur bannit 5 cartes du dessus de son Deck (ou tout son Deck, s'il en a moins de 5).
   it: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚に成功した場合に発動する。除外されているお互いのカードを全て持ち主のデッキに戻す。このカードの攻撃力は、この効果でデッキに戻った数×１００アップする。②：このカードが除外された場合に発動する。お互いのプレイヤーは、それぞれ自身のデッキの上からカードを５枚除外する。
   ko: |-
     이 카드가 소환에 성공했을 때, 게임에서 제외되어 있는 카드를 전부 덱으로 되돌리고 셔플한다. 이 카드의 공격력은 이 효과로 덱에 되돌린 카드의 매수 x １００포인트 올린다. 이 카드가 게임에서 제외되었을 때, 양쪽 플레이어는 덱의 위에서 카드를 5장 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，从游戏中除外的卡全部回到卡组洗切。这张卡的攻击力上升这个效果回到卡组的卡数量×100的数值。这张卡从游戏中除外时，双方从卡组上面把5张卡从游戏中除外。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 4
 atk: 1200

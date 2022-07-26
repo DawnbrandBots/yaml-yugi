@@ -7,12 +7,13 @@ name:
   fr: Fracas, le Guerrier Magique des Ténèbres
   it: Breaker l'Oscuro Guerriero Magico
   pt: Breaker, o Guerreiro Mágico Negro
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     ブレイカー
   ja_romaji: Kuro Madō Senshi Bureikā
   ko: 흑마도전사 브레이커
   ko_rr:
-  zh-CN: 黑魔导战士 破坏者
+  zh-TW:
+  zh-CN: 黑之魔导战士 破坏者
 text:
   en: |-
     If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. Gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy it. You can only use this effect of "Breaker the Dark Magical Warrior" once per turn.
@@ -30,14 +31,11 @@ text:
     「黒魔導戦士 ブレイカー」の④の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを２つ置く。②：このカードがＰ召喚に成功した場合に発動する。このカードに魔力カウンターを３つ置く。③：このカードの攻撃力は、このカードの魔力カウンターの数×４００アップする。④：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     "흑마도전사 브레이커"의 ④의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 2개 놓는다. ② : 이 카드가 펜듈럼 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 3개 놓는다. ③ : 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 400 올린다. ④ : 이 카드의 마력 카운터를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    「黑魔导战士 破坏者」的④的效果1回合只能使用1次。
-    ①：这张卡召唤成功的场合发动。给这张卡放置2个魔力指示物。
-    ②：这张卡灵摆召唤成功的场合发动。给这张卡放置3个魔力指示物。
-    ③：这张卡的攻击力上升这张卡的魔力指示物数量×400。
-    ④：把这张卡1个魔力指示物取除，以场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。
-type: Monster
-typeline: Spellcaster / Effect
+    此卡名的④效果1回合仅可使用1次。①：此卡召唤成功的情况下发动。在此卡上放2个魔力计数物。②：此卡灵摆召唤成功的情况下发动。在此卡上放3个魔力计数物。③：此卡的攻击力上升相当于此卡魔力计数物数量×400的数值。④：去除此卡的1个魔力计数物，以场上的1张魔法・陷阱卡为对象可以发动。将该卡破坏。
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 6
 atk: 1600

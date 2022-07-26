@@ -7,11 +7,12 @@ name:
   fr: Sorcière de la Forêt Noire
   it: Strega della Foresta Nera
   pt: Bruxa da Floresta Negra
-  ja: <ruby><rb>黒</rb><rp>（</rp><rt>くろ</rt><rp>）</rp></ruby>き<ruby><rb>森</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>のウィッチ
+  ja: <ruby><rb>黒</rb><rt>くろ</rt></ruby>き<ruby><rb>森</rb><rt>もり</rt></ruby>のウィッチ
   ja_romaji: Kuroki Mori no Witchi
   ko: 검은 숲의 마녀
   ko_rr: Geom-eun Sup-ui Magyeo
-  zh-CN: 黑森林的魔女
+  zh-TW:
+  zh-CN: 黑森林女巫
 text:
   en: |-
     If this card is sent from the field to the GY: Add 1 monster with 1500 or less DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of "Witch of the Black Forest" once per turn.
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：このカードがフィールドから墓地へ送られた場合に発動する。デッキから守備力１５００以下のモンスター１体を手札に加える。このターン、自分はこの効果で手札に加えたカード及びその同名カードの効果を発動できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동한다. 덱에서 수비력 1500 이하의 몬스터 1장을 패에 넣는다. 이 턴에 자신은 이 효과로 패에 넣은 카드 및 그와 같은 이름의 카드의 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的效果1回合只能使用1次。①：这张卡从场上送去墓地的场合发动。从卡组把1只守备力1500以下的怪兽加入手卡。这个回合，自己不能作这个效果加入手卡的卡以及那些同名卡的发动。
-type: Monster
-typeline: Spellcaster / Effect
+    此卡名的效果1回合仅可使用1次。①：此卡从场上被送至墓地的情况下发动。从牌组将1只守备力1500以下的怪兽加入手牌。此回合，自己不可发动以此效果加入手牌的卡及该卡的同名卡的效果。
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1100

@@ -7,10 +7,11 @@ name:
   fr: Méduse
   it: Medusa
   pt: Alforreca
-  ja: <ruby><rb>海月</rb><rp>（</rp><rt>くらげ</rt><rp>）</rp></ruby>－ジェリーフィッシュ－
+  ja: <ruby><rb>海月</rb><rt>くらげ</rt></ruby>－ジェリーフィッシュ－
   ja_romaji: Kurage -Jerīfisshu-
   ko: 해파리
   ko_rr:
+  zh-TW:
   zh-CN: 水母
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     海を漂うクラゲ。半透明の身体で姿を確認しにくい。
   ko: |-
     바다를 표류하는 해파리. 반투명이라 모습을 확인하기 어렵다.
+  zh-TW:
   zh-CN: |-
     漂浮在海面上的海蜇，半透明的身体使人难以察觉。
-type: Monster
-typeline: Aqua
+card_type: Monster
+monster_type_line: Aqua
 attribute: WATER
 level: 4
 atk: 1200

@@ -7,10 +7,11 @@ name:
   fr: Effets Secondaires ?
   it: Effetti Collaterali?
   pt: Efeitos Colaterais?
-  ja: <ruby><rb>副</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby><ruby><rb>作</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby><rb>用</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby>？
+  ja: <ruby><rb>副</rb><rt>ふく</rt></ruby><ruby><rb>作</rb><rt>さ</rt></ruby><ruby><rb>用</rb><rt>よう</rt></ruby>？
   ja_romaji: Fukusayō?
   ko: 부작용?
   ko_rr:
+  zh-TW:
   zh-CN: 副作用？
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：相手はデッキから１～３枚までの任意の枚数ドローする。その後、自分はこの効果で相手がドローした数×２０００ＬＰ回復する。
   ko: |-
     ① : 상대는 덱에서 1~3장까지 임의의 장수 드로우한다. 그 후, 자신은 이 효과로 상대가 드로우한 수 × 2000 라이프 회복한다.
+  zh-TW:
   zh-CN: |-
     ①：对方从卡组抽出1～3张的任意数量。那之后，自己回复这个效果让对方抽出的数量×2000基本分。
-type: Trap
+card_type: Trap
 property: Normal

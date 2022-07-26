@@ -7,11 +7,12 @@ name:
   fr: Terre, Agent du Mystère
   it: L'Agente del Mistero - Terra
   pt: O Representante do Mistério - Terra
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>秘</rb><rp>（</rp><rt>ぴ</rt><rp>）</rp></ruby>の<ruby><rb>代</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>行</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>秘</rb><rt>ぴ</rt></ruby>の<ruby><rb>代</rb><rt>だい</rt></ruby><ruby><rb>行</rb><rt>こう</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>
     アース
   ja_romaji: Shinpi no Daikōsha Āsu
   ko: 신비의 대행자 어스
   ko_rr: Sinbi-ui Daehaengja Eoseu
+  zh-TW:
   zh-CN: 神秘之代行者 厄斯
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが召喚に成功した時に発動できる。デッキから「神秘の代行者 アース」以外の「代行者」モンスター１体を手札に加える。フィールドに「天空の聖域」が存在する場合、手札に加えるモンスターを「マスター・ヒュペリオン」１体にできる。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "신비의 대행자 어스" 이외의 "대행자" 몬스터 1장을 패에 넣는다. 필드에 "천공의 성역"이 존재할 경우, 패에 넣을 몬스터를 "마스터 히페리온" 1장으로 할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤成功时，可以从自己卡组把「神秘之代行者 厄斯」以外的1只名字带有「代行者」的怪兽加入手卡。场上有「天空的圣域」表侧表示存在的场合，可以作为代替把1只「主宰者·许珀里翁」加入手卡。
-type: Monster
-typeline: Fairy / Tuner / Effect
+card_type: Monster
+monster_type_line: Fairy / Tuner / Effect
 attribute: LIGHT
 level: 2
 atk: 1000

@@ -7,11 +7,12 @@ name:
   fr: Escuridao, HÉROS Élémentaire
   it: Escuridao EROE Elementale
   pt: Escuridão, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> エスクリダオ
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> エスクリダオ
   ja_romaji: Erementaru Hīrō Esukuridao
   ko: 엘리멘틀 히어로 에스크리다오
   ko_rr:
-  zh-CN: 元素英雄 幽冥女郎
+  zh-TW:
+  zh-CN: 元素－英雄 幽冥
 text:
   en: |-
     1 "Elemental HERO" monster + 1 DARK monster
@@ -37,11 +38,12 @@ text:
   ko: |-
     "엘리멘틀 히어로"라는 이름이 붙은 몬스터 ＋ 어둠 속성 몬스터
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드의 공격력은 자신의 묘지에 존재하는 "엘리멘틀 히어로"라는 이름이 붙은 몬스터의 수 × 100 포인트 올린다.
+  zh-TW:
   zh-CN: |-
-    名字带有「元素英雄」的怪兽＋暗属性怪兽
-    这张卡不用融合召唤不能特殊召唤。这张卡的攻击力上升自己墓地存在的名字带有「元素英雄」的怪兽数量×100的数值。
-type: Monster
-typeline: Warrior / Fusion / Effect
+    "元素－英雄"怪兽＋暗属性怪兽
+    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于自己墓地的"元素－英雄"怪兽数量×100的数值。
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2500

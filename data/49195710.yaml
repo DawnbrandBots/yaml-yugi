@@ -7,12 +7,13 @@ name:
   fr: 'Numéro C65 : Roi Supradémon'
   it: 'Numero C65: Re Overdemone'
   pt: 'Número C65: Rei Suprademônio'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>６５
-    <ruby><rb>裁</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ジャッジ・デビル
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>６５
+    <ruby><rb>裁</rb><rt>さい</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>ジャッジ・デビル
   ja_romaji: Kaosu Nanbāzu Rokujūgo Saidan Maō Jajji Debiru
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>65
-    재단마왕 저지 데블
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>65 재단마왕
+    저지 데블
   ko_rr:
+  zh-TW:
   zh-CN: 混沌No.65 裁断魔王
 text:
   en: |-
@@ -45,10 +46,11 @@ text:
   ko: |-
     어둠 속성 레벨 3 몬스터 × 3
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 공격력 / 수비력을 1000 포인트 내린다. 또한, 이 카드가 "No.65 재단마인 저지 버스터" 를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다. ● 이 카드가 필드 위에 앞면 표시로 존재하는 한, 상대 필드 위의 효과 몬스터는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     暗属性3星怪兽×3。1回合1次，把这张卡1个XYZ素材取除，选择对方场上表侧表示存在的1只怪兽才能发动。选择的怪兽的攻击力·守备力下降1000。此外，这张卡有「No.65 裁断魔人」在作为XYZ素材的场合，得到以下效果。●只要这张卡在场上表侧表示存在，对方场上的效果怪兽不能把效果发动。
-type: Monster
-typeline: Fiend / Xyz / Effect
+card_type: Monster
+monster_type_line: Fiend / Xyz / Effect
 attribute: DARK
 rank: 3
 atk: 1600

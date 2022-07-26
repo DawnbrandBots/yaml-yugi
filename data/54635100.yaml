@@ -11,6 +11,7 @@ name:
   ja_romaji: Rinkuruberu
   ko: 링크르벨
   ko_rr:
+  zh-TW:
   zh-CN: 叮当铃连接星
 text:
   en: |-
@@ -37,15 +38,16 @@ text:
   ko: |-
     몬스터 2장
     이 카드의 링크 소환은 자신의 엑스트라 덱의 매수가 상대보다도 3장 이상 많을 경우밖에 실행할 수 없다.
+  zh-TW:
   zh-CN: |-
     怪兽2只
     这张卡的连接召唤不在自己的额外卡组的数量比对方多3张以上的场合不能进行。
-type: Monster
-typeline: Fairy / Link / Effect
+card_type: Monster
+monster_type_line: Fairy / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1500
 materials: 2 monsters
 sets:

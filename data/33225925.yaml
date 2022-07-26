@@ -7,10 +7,11 @@ name:
   fr: Milla la Magicienne Temporelle
   it: Milla la Maga Temporale
   pt:
-  ja: <ruby><rb>久</rb><rp>（</rp><rt>く</rt><rp>）</rp></ruby><ruby><rb>遠</rb><rp>（</rp><rt>おん</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ミラ
+  ja: <ruby><rb>久</rb><rt>く</rt></ruby><ruby><rb>遠</rb><rt>おん</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>ミラ
   ja_romaji: Kuon no Majutsushi Mira
   ko: 구원의 마술사 거울
   ko_rr:
+  zh-TW:
   zh-CN: 久远之魔术师 米拉
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     ①：このカードが召喚に成功した場合、相手フィールドの裏側表示のカード１枚を対象として発動する。その相手のカードを確認する。この効果の発動に対して、相手は魔法・罠カードを発動できない。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 상대 필드 위에 세트된 카드 1장을 선택하고 확인한다. 이 효과의 발동에 대해서, 상대는 마법 / 함정 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤成功的场合，以对方场上1张里侧表示的卡为对象发动。把那张对方的卡确认。对方不能对应这个效果的发动把魔法·陷阱卡发动。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 4
 atk: 1800

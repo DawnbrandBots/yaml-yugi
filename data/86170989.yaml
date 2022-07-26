@@ -7,11 +7,12 @@ name:
   fr: Fauchon β
   it: Scimitarra Beta
   pt: Alfanjeβ
-  ja: ファルシオン<ruby><rb>β</rb><rp>（</rp><rt>ベータ</rt><rp>）</rp></ruby>
+  ja: ファルシオン<ruby><rb>β</rb><rt>ベータ</rt></ruby>
   ja_romaji: Farushion Bēta
   ko: 팔시온β
   ko_rr:
-  zh-CN: 大刀β
+  zh-TW:
+  zh-CN: 大刀贝塔
 text:
   en: |-
     If this card destroys an opponent's monster by battle: Activate 1 of these effects.
@@ -43,12 +44,13 @@ text:
     ●自分の墓地から機械族・光属性・攻撃力１２００以下のモンスター１体を選択して特殊召喚する。
   ko: |-
     이 카드가 전투에 의해서 상대 몬스터를 파괴했을 경우, 이하의 효과에서 1개를 선택하고 발동한다. ●덱에서 기계족 / 빛 속성 / 공격력 1200 이하의 몬스터 1장을 묘지로 보낸다. ●자신의 묘지에서 기계족 / 빛 속성 / 공격력 1200 이하의 몬스터 1장을 선택하고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    这张卡战斗破坏对方怪兽的场合，从以下效果选择1个发动。
-    ●从卡组把1只机械族·光属性·攻击力1200以下的怪兽送去墓地。
-    ●从自己墓地选择1只机械族·光属性·攻击力1200以下的怪兽特殊召唤。
-type: Monster
-typeline: Machine / Effect
+    ①：在此卡因战斗破坏了对手怪兽的情况下，从以下效果中选择1个发动。
+    ●将牌组中1只攻击力为1200以下的机械族・光属性怪兽送至墓地。
+    ●可以自己墓地的1只攻击力为1200以下的机械族・光属性怪兽为对象发动。将该机械族・光属性怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 4
 atk: 1200

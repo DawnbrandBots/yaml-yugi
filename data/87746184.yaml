@@ -7,10 +7,11 @@ name:
   fr: Albion le Dragon Marqué
   it: Albion il Drago Marchiato
   pt: Albion, o Dragão Marcado
-  ja: <ruby><rb>烙</rb><rp>（</rp><rt>らく</rt><rp>）</rp></ruby><ruby><rb>印</rb><rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>アルビオン
+  ja: <ruby><rb>烙</rb><rt>らく</rt></ruby><ruby><rb>印</rb><rt>いん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>アルビオン
   ja_romaji: Rakuinryū Arubion
   ko: 낙인룡 알비온
   ko_rr: Nak-innong Albion
+  zh-TW:
   zh-CN: 烙印龙 白界龙
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     "알버스의 낙윤" ＋ 빛 속성 몬스터
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 자신의 패 / 필드 / 묘지에서, "낙인룡 알비온"이 아닌 레벨 8 이하의 융합 몬스터 카드에 기재된 융합 소재 몬스터를 제외하고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. ②: 이 카드가 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 "낙인" 마법 / 함정 카드 1장을 고르고 패에 넣거나 자신 필드에 세트한다.
+  zh-TW:
   zh-CN: |-
     「阿不思的落胤」＋光属性怪兽
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡融合召唤成功的场合才能发动。从自己的手卡·场上·墓地把除「烙印龙 白界龙」外的8星以下的融合怪兽卡决定的融合素材怪兽除外，把那1只融合怪兽从额外卡组融合召唤。
     ②：这张卡被送去墓地的回合的结束阶段才能发动。从卡组选1张「烙印」魔法·陷阱卡加入手卡或在自己场上盖放。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2500

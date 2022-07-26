@@ -7,11 +7,12 @@ name:
   fr: Djinn Céleste Invicil
   it: Invincil Flagello del Cielo
   pt: Flagelo dos Céus Invicil
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
     インヴィシル
   ja_romaji: Tenmashin Inbishiru
   ko: 천마신인비실
   ko_rr:
+  zh-TW:
   zh-CN: 天魔神 因维希尔
 text:
   en: |-
@@ -46,12 +47,13 @@ text:
     이카드는 특수 소환할 수 없다. 제물 소환시의 제물에 의해서 이하의 효과를 얻는다.
     ●빛 속성 / 천사족 : 이 카드가 필드 위에 앞면 표시로 존재하는 한, 마법 카드의 효과를 무효로 한다.
     ●어둠속성 / 악마족 : 이 카드가 필드 위에 앞면 표시로 존재하는 한, 함정 카드의 효과를 무효로 한다.
+  zh-TW:
   zh-CN: |-
     这张卡不能特殊召唤。为这张卡的上级召唤而解放的怪兽的种族和属性让这张卡得到以下效果。
     ●天使族·光属性：只要这张卡在场上表侧表示存在，场上的魔法卡的效果无效。
     ●恶魔族·暗属性：只要这张卡在场上表侧表示存在，场上的陷阱卡的效果无效。
-type: Monster
-typeline: Fairy / Effect
+card_type: Monster
+monster_type_line: Fairy / Effect
 attribute: EARTH
 level: 6
 atk: 2200

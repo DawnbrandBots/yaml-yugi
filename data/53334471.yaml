@@ -7,11 +7,12 @@ name:
   fr: Combat en Présence de l'Emperreur
   it: Scontro Gozen
   pt: Duelo Gozen
-  ja: <ruby><rb>御</rb><rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby><rb>前</rb><rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby><rb>試</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>御</rb><rt>ご</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>試</rb><rt>じ</rt></ruby><ruby><rb>合</rb><rt>あい</rt></ruby>
   ja_romaji: Gozen Jiai
   ko: 어전시합
   ko_rr: Eojeonsihap
-  zh-CN: 御前试合
+  zh-TW:
+  zh-CN: 御前比试
 text:
   en: |-
     Each player can only control 1 Attribute of monster. Send all other face-up monsters they control to the GY.
@@ -29,7 +30,8 @@ text:
     ①：このカードが魔法＆罠ゾーンに存在する限り、お互いのフィールドにそれぞれ１種類の属性のモンスターしか表側表示で存在できない。お互いのプレイヤーは自身のフィールドの表側表示モンスターの属性が２種類以上の場合には１種類になるように墓地へ送らなければならない。
   ko: |-
     ①: 이 카드가 마법 & 함정 존에 존재하는 한, 서로의 필드에 각각 1종류의 속성인 몬스터밖에 앞면 표시로 존재할 수 없다. 양쪽 플레이어는 자신 필드의 앞면 표시 몬스터의 속성이 2종류 이상일 경우에는 1종류가 되도록 묘지로 보내야 한다.
+  zh-TW:
   zh-CN: |-
-    ①：只要这张卡在魔法与陷阱区域存在，双方场上各自只能有1种类的属性的怪兽表侧表示存在。双方玩家在自身场上的表侧表示怪兽的属性是2种类以上的场合直到变成1种类为止必须送去墓地。
-type: Trap
+    ①：只要这张卡存在于魔法与陷阱区域，双方场上各自只能有1种属性的怪兽以表侧表示形式存在。双方玩家在自身场上的表侧表示怪兽的属性为2种以上的情况下，必须将其送至墓地直到变成1种为止。
+card_type: Trap
 property: Continuous

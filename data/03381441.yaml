@@ -7,10 +7,11 @@ name:
   fr: Prêtresse des Protecteurs du Tombeau
   it: Sacerdotessa - Custode di Tombe
   pt: Sacerdotisa do Coveiro
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>巫</rb><rp>（</rp><rt>み</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>巫</rb><rt>み</rt></ruby><ruby><rb>女</rb><rt>こ</rt></ruby>
   ja_romaji: Hakamori no Miko
   ko: 묘지기의 무녀
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的巫女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、フィールドは「王家の眠る谷－ネクロバレー」になる。フィールド魔法カードが表側表示で存在する場合、この効果は適用されない。また、このカードがフィールド上に表側表示で存在する限り、フィールド上の「墓守」と名のついたモンスターの攻撃力・守備力は２００ポイントアップする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 필드는 "왕가의 골짜기-네크로밸리" 가 된다. 필드 마법 카드가 앞면 표시로 존재할 경우, 이 효과는 적용되지 않는다. 또한, 이 카드가 필드 위에 앞면 표시로 존재하는 한, 필드 위에 앞면 표시로 존재하는 "묘지기의" 라는 이름이 붙은 몬스터의 공격력 / 수비력은 200 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，场上变成「王家长眠之谷」。有场地魔法卡表侧表示存在的场合，这个效果不适用。此外，只要这张卡在场上表侧表示存在，场上的名字带有「守墓」的怪兽的攻击力·守备力上升200。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 3
 atk: 1000

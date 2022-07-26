@@ -7,10 +7,11 @@ name:
   fr: Phénix du Monde Virtuel - Fanfan
   it: Fenice Mondo Virtuale - Fanfan
   pt: Fênix do Mundo Virtual - Fanfan
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>脳</rb><rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby><rb>堺</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>凰</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>－<ruby><rb>凰</rb><rp>（</rp><rt>ファン</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>ファン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>脳</rb><rt>のう</rt></ruby><ruby><rb>堺</rb><rt>かい</rt></ruby><ruby><rb>凰</rb><rt>おう</rt></ruby>－<ruby><rb>凰</rb><rt>ファン</rt></ruby><ruby><rb>々</rb><rt>ファン</rt></ruby>
   ja_romaji: Dennōkaiō - Fanfan
   ko: 전뇌계황-판판
   ko_rr:
+  zh-TW:
   zh-CN: 电脑堺凰-凰凰
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     레벨 6 몬스터 × 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 이 카드의 엑시즈 소재를 2개 제거하고, 상대 필드의 앞면 표시의 카드 1장과 자신 또는 상대 묘지의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 제외한다. ②: 엑시즈 소환한 이 카드가 상대의 효과로 파괴되었을 경우에 발동할 수 있다. 종족 / 속성이 같은 "전뇌계" 몬스터 2장을 덱에서 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     6星怪兽×2只以上
     这个卡名的②的效果1回合只能使用1次。
     ①：1回合1次，把这张卡2个超量素材取除，以对方场上1张表侧表示的卡和自己或者对方的墓地1张卡为对象才能发动。那些卡除外。
     ②：超量召唤的这张卡被对方怪兽的攻击或者对方的效果破坏的场合才能发动。把2只种族·属性相同的「电脑堺」怪兽从卡组特殊召唤。
-type: Monster
-typeline: Wyrm / Xyz / Effect
+card_type: Monster
+monster_type_line: Wyrm / Xyz / Effect
 attribute: EARTH
 rank: 6
 atk: 2600

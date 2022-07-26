@@ -7,10 +7,11 @@ name:
   fr: Cadeau de l'Elfe Mystique
   it: Dono dell'Elfo Mistico
   pt: Presente do Elfo Místico
-  ja: ホーリー・エルフの<ruby><rb>祝</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby><rb>福</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>
+  ja: ホーリー・エルフの<ruby><rb>祝</rb><rt>しゅく</rt></ruby><ruby><rb>福</rb><rt>ふく</rt></ruby>
   ja_romaji: Hōrī Erufu no Shukufuku
   ko: 홀리 엘프의 축복
   ko_rr:
+  zh-TW:
   zh-CN: 圣精灵的祝福
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分はフィールドのモンスターの数×３００ＬＰ回復する。
   ko: |-
     필드 위에 존재하는 몬스터 1장당 300 라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     自己回复场上存在的怪兽数量×300基本分。
-type: Trap
+card_type: Trap
 property: Normal

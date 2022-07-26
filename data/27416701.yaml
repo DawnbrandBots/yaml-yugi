@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>柴</rb><rp>（</rp><rt>しば</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>タロ
+  ja: <ruby><rb>柴</rb><rt>しば</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>タロ
   ja_romaji: Shiba Senshi Taro
   ko: 시바전사 타로
   ko_rr:
+  zh-TW:
   zh-CN: 柴战士 太郎
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
     このカードは戦闘では破壊されない。フィールド上に存在するカードが戦闘またはカードの効果によって破壊された時、自分フィールド上に表側表示で存在するこのカードを持ち主の手札に戻す。
   ko: |-
     이 카드는 전투로는 파괴되지 않는다. 필드 위에 존재하는 카드가 전투 또는 카드의 효과에 의해서 파괴되었을 때, 자신 필드 위에 앞면 표시로 존재하는 이 카드를 주인의 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡不会被战斗破坏。场上存在的卡被战斗或者卡的效果破坏时，自己场上表侧表示存在的这张卡回到持有者手卡。
-type: Monster
-typeline: Beast-Warrior / Tuner
+card_type: Monster
+monster_type_line: Beast-Warrior / Tuner
 attribute: EARTH
 level: 2
 atk: 800

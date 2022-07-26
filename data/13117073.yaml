@@ -7,10 +7,11 @@ name:
   fr: Bloqueur Barricadeborg
   it: Bloccatore Barricataborg
   pt: Bloqueador Barricadaborg
-  ja: <ruby><rb>警</rb><rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby><rb>衛</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>バリケイドベルグ
+  ja: <ruby><rb>警</rb><rt>けい</rt></ruby><ruby><rb>衛</rb><rt>えい</rt></ruby>バリケイドベルグ
   ja_romaji: Keiei Barikeidoberugu
   ko: 경위 바리케이드베르그
   ko_rr:
+  zh-TW:
   zh-CN: 电动路障封锁人
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우, 패를 1장 버리고 발동할 수 있다. 이 턴의 엔드 페이즈에, 자신 묘지에서 지속 마법 카드 또는 필드 마법 카드 1장을 고르고 패에 넣는다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 앞면 표시의 마법 카드는 상대 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     卡名不同的怪兽2只
     这张卡链接召唤成功的场合，可以舍弃1张手牌发动。这个回合的结束阶段，从自己的墓地将1张永续魔法卡或者场地魔法卡加入手牌。这个卡名的这个效果1回合只能使用1次。
     只要这张卡在怪兽区存在，自己的表侧表示的魔法卡就不会被对手的效果破坏。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: DARK
 link_arrows:
-- Middle-Left
-- Bottom-Center
+- ⬅
+- ⬇
 atk: 1000
 materials: 2 monsters with different names
 sets:

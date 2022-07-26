@@ -7,10 +7,11 @@ name:
   fr: Destructeur D.D.
   it: D.D. Distruttore
   pt:
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>．<ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>．デストロイヤー
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>．<ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>．デストロイヤー
   ja_romaji: Dī Dī Desutoroiyā
   ko: D.D. 디스트로이어
   ko_rr:
+  zh-TW:
   zh-CN: D.D.破坏王
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     フィールド上に存在するこのカードがゲームから除外された時、相手フィールド上に表側表示で存在するカード１枚を選択して破壊する事ができる。
   ko: |-
     필드 위에 존재하는 이 카드가 게임에서 제외되었을 때, 상대 필드 위에 앞면 표시로 존재하는 카드 1장을 선택하고 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
     场上存在的这张卡从游戏中除外时，可以选择对方场上表侧表示存在的1张卡破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1000

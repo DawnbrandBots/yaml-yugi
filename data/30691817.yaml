@@ -7,11 +7,12 @@ name:
   fr: Ange des Mers Marincesse
   it: Marincipessa Angelo Marino
   pt: Marincesa Anjo Marinho
-  ja: <ruby><rb>海晶乙女</rb><rp>（</rp><rt>マリンセス</rt><rp>）</rp></ruby>シーエンジェル
+  ja: <ruby><rb>海晶乙女</rb><rt>マリンセス</rt></ruby>シーエンジェル
   ja_romaji: Marinsesu Shī Enjeru
   ko: 마린세스 씨엔젤
   ko_rr: Marinseseu Ssienjel
-  zh-CN: 海晶少女 海天使
+  zh-TW:
+  zh-CN: 海晶少女 海洋天使
 text:
   en: |-
     1 Level 4 or lower "Marincess" monster
@@ -37,15 +38,15 @@ text:
   ko: |-
     레벨 4 이하의 "마린세스" 몬스터 1장
     자신은 "마린세스 씨엔젤"을 1턴에 1번밖에 링크 소환할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "마린세스" 마법 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    4星以下的「海晶少女」怪兽1只
-    自己对「海晶少女 海天使」1回合只能有1次连接召唤。
-    ①：这张卡连接召唤成功的场合才能发动。从卡组把1张「海晶少女」魔法卡加入手卡。
-type: Monster
-typeline: Cyberse / Link / Effect
+    等级4以下的"海晶少女"怪兽1只
+    自己1回合仅可连接召唤1次"海晶少女 海洋天使"。①：此卡连接召唤成功的情况下可以发动。从牌组将1张"海晶少女"魔法卡加入手牌。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: WATER
 link_arrows:
-- Middle-Left
+- ⬅
 atk: 1000
 materials: 1 Level 4 or lower "Marincess" monster
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Lys, Navire de la Patroll du Pillage
   it: Nave di ConTrollo Bottino Lys
   pt: Navio Saquepatrollha Lys
-  ja: <ruby><rb>海造賊</rb><rp>（</rp><rt>プランドロール</rt><rp>）</rp></ruby>－<ruby><rb>双</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby>のリュース<ruby><rb>号</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>海造賊</rb><rt>プランドロール</rt></ruby>－<ruby><rb>双</rb><rt>そう</rt></ruby><ruby><rb>翼</rb><rt>よく</rt></ruby>のリュース<ruby><rb>号</rb><rt>ごう</rt></ruby>
   ja_romaji: Purandorōru - Sōyoku no Ryūsu-Gō
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 巡掠海魔船 利斯号
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
     「海造賊」モンスター×２
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。手札及び自分の魔法＆罠ゾーンの表側表示のカードの中から、「海造賊」モンスターカード１枚を選んで特殊召喚する。②：相手がモンスターの効果を発動した時、手札から「海造賊」カード１枚を捨てて発動できる。その発動を無効にし破壊する。このカードが「海造賊」カードを装備している場合、さらにデッキから「海造賊」カード１枚を手札に加える事ができる。
   ko:
+  zh-TW:
   zh-CN: |-
     「巡掠海魔」怪兽×2
     主要阶段时（在自己或者对方回合）：可以从手卡以及自己的魔法与陷阱区域的表侧表示的卡之中把1张「巡掠海魔」怪兽卡特殊召唤。对方把怪兽的效果发动时（在自己或者对方回合）：可以从手卡丢弃1张「巡掠海魔」卡；那个发动无效并破坏，那之后，这张卡有「巡掠海魔」卡装备的场合，可以从卡组把1张「巡掠海魔」卡加入手卡。「巡掠海魔船 利斯号」的每个效果1回合各能使用1次。
-type: Monster
-typeline: Fiend / Fusion / Effect
+card_type: Monster
+monster_type_line: Fiend / Fusion / Effect
 attribute: LIGHT
 level: 8
 atk: 2000

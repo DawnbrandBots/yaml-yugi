@@ -7,10 +7,11 @@ name:
   fr: Bahalutiya, le Grand Éclat
   it: Bahalutiya, la Grandiosa Radianza
   pt: Bahalutiya, a Grande Radiância
-  ja: <ruby><rb>光</rb><rp>（</rp><rt>ひかり</rt><rp>）</rp></ruby>の<ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>穿</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby>バハルティヤ
+  ja: <ruby><rb>光</rb><rt>ひかり</rt></ruby>の<ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>穿</rb><rt>せん</rt></ruby>バハルティヤ
   ja_romaji: Hikari no Tensen Baharutiya
   ko: 빛의 천천 바하루티야
   ko_rr: Bit-ui Cheoncheon Baharutiya
+  zh-TW:
   zh-CN: 光之天穿 巴哈路蒂亚
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカードは効果モンスター１体をリリースしてアドバンス召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが手札に存在し、相手メインフェイズに相手がドロー以外の方法でデッキからカードを手札に加えた場合に発動できる。このカードをアドバンス召喚する。②：このカードが手札からの召喚・特殊召喚に成功した場合に発動できる。相手は自身の手札の数だけデッキの上からカードを裏側表示で除外する。その後、相手は手札を全てデッキに戻し、この効果で除外したカードを手札に加える。
   ko: |-
     이 카드는 효과 몬스터 1장을 릴리스하고 어드밴스 소환할 수 있다. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 존재하고, 상대 메인 페이즈에 상대가 드로우 이외의 방법으로 덱에서 카드를 패에 넣었을 경우에 발동할 수 있다. 이 카드를 어드밴스 소환한다. ②: 이 카드가 패에서의 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 상대는 자신 패의 수만큼 덱 위에서 카드를 뒷면 표시로 제외한다. 그 후, 상대는 패를 전부 덱으로 되돌리고, 이 효과로 제외한 카드를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这张卡可以把1只效果怪兽解放作上级召唤。这个卡名的②的效果1回合只能使用1次。
     ①：这张卡在手卡存在，对方主要阶段对方用抽卡以外的方法从卡组把卡加入手卡的场合才能发动。这张卡上级召唤。
     ②：这张卡从手卡的召唤·特殊召唤成功的场合才能发动。对方把自身手卡数量的卡从卡组上面里侧表示除外。那之后，对方让手卡全部回到卡组，这个效果除外的卡加入手卡。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 7
 atk: 2000

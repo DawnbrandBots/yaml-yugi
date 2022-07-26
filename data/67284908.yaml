@@ -7,10 +7,11 @@ name:
   fr: Mur du Labyrinthe
   it: Mura Labirintiche
   pt: Paredes do Labirinto
-  ja: <ruby><rb>迷</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>壁</rb><rp>（</rp><rt>へき</rt><rp>）</rp></ruby>－ラビリンス・ウォール－
+  ja: <ruby><rb>迷</rb><rt>めい</rt></ruby><ruby><rb>宮</rb><rt>きゅう</rt></ruby><ruby><rb>壁</rb><rt>へき</rt></ruby>－ラビリンス・ウォール－
   ja_romaji: Meikyū Heki - Rabirinsu Wōru
   ko: 미궁출현－래버린스 월－
   ko_rr: Migungchulhyeon - Raebeorinseu Wol
+  zh-TW:
   zh-CN: 迷宫壁
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールドに壁を出現させ、出口のない迷宮をつくる。
   ko: |-
     필드에 벽을 출현시켜, 출구가 없는 미궁을 만든다.
+  zh-TW:
   zh-CN: |-
     使场上出现墙壁，形成没有出口的迷宫。
-type: Monster
-typeline: Rock
+card_type: Monster
+monster_type_line: Rock
 attribute: EARTH
 level: 5
 atk: 0

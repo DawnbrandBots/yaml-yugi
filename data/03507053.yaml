@@ -7,10 +7,11 @@ name:
   fr: Canard Séchoir Électroménageur
   it: Apparecchio Asciuga Draghetto
   pt: Utensilhor Secadragonete
-  ja: <ruby><rb>乾</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby><rb>燥</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>塊</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>ドライドレイク
+  ja: <ruby><rb>乾</rb><rt>かん</rt></ruby><ruby><rb>燥</rb><rt>そう</rt></ruby><ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>塊</rb><rt>かい</rt></ruby>ドライドレイク
   ja_romaji: Kansōkikai Dorai Doreiku
   ko: 건조기괴 드라이드레이크
   ko_rr: Geonjugigoe Deuraideureikeu
+  zh-TW:
   zh-CN: 干燥机块 烘干龙兽
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     "기괴" 몬스터 1장
     이 카드는 링크 소환된 턴에는 링크 소재로 할 수 없다. ①: 링크 상태의 이 카드의 공격력은 1000 올린다. ②: 자신 배틀 페이즈에 1번, 이 카드가 상호 링크 상태일 경우에 발동할 수 있다. 이 카드를 포함하는 자신 메인 몬스터 존의 "기괴" 몬스터 2장을 고르고, 그 위치를 맞바꾼다. 이 턴에, 그 나머지 1장의 몬스터는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ③: 1턴에 1번, 상호 링크 상태가 아닌 이 카드가 공격 대상이 되었을 때에 발동할 수 있다. 그 공격을 무효로 한다.
+  zh-TW:
   zh-CN: |-
     「机块」怪兽1只
     这张卡在连接召唤的回合不能作为连接素材。
     ①：连接状态的这张卡的攻击力上升1000。
     ②：自己战斗阶段1次，这张卡是互相连接状态的场合才能发动。选包含这张卡的自己的主要怪兽区域2只「机块」怪兽，那些位置交换。这个回合，那另1只怪兽在同1次的战斗阶段中可以作2次攻击。
     ③：1回合1次，不在互相连接状态的这张卡成为攻击对象时才能发动。那次攻击无效。
-type: Monster
-typeline: Machine / Link / Effect
+card_type: Monster
+monster_type_line: Machine / Link / Effect
 attribute: FIRE
 link_arrows:
-- Top-Right
+- ↗
 atk: 0
 materials: 1 "Appliancer" monster
 sets:

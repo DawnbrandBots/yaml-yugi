@@ -7,11 +7,12 @@ name:
   fr: 'Équipe A: Unité de Désamorçage'
   it: 'A-Team: Unità Disponi-Trappole'
   pt: 'Equipa-A: Unidade de Desativação de Armadilhas'
-  ja: トラップ<ruby><rb>処</rb><rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby><rb>理</rb><rp>（</rp><rt>り</rt><rp>）</rp></ruby><ruby><rb>班</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby>
+  ja: トラップ<ruby><rb>処</rb><rt>しょ</rt></ruby><ruby><rb>理</rb><rt>り</rt></ruby><ruby><rb>班</rb><rt>はん</rt></ruby>
     Ａチーム
   ja_romaji: Torappu Shorihan Ē-Chīmu
   ko: 함정 처리반 A팀
   ko_rr:
+  zh-TW:
   zh-CN: 陷阱处理班 A组
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     この効果は相手ターンでも使用する事ができる。相手が罠カードを発動した時、表側表示のこのカードを生け贄に捧げる事で罠カードの発動を無効にし、それを破壊する。
   ko: |-
     이 효과는 상대 턴에도 사용할 수 있다. 상대가 함정 카드를 발동 했을 때, 앞면 표시의 이 카드를 제물로 바치는 것으로 함정 카드의 발동을 무효로 하여, 그것을 파괴한다,
+  zh-TW:
   zh-CN: |-
     这个效果在对方回合也可以使用。对方把陷阱卡发动时，可以通过把表侧表示的这张卡作为祭品让陷阱卡的发动无效，并把那破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: FIRE
 level: 2
 atk: 300

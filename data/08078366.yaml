@@ -7,10 +7,11 @@ name:
   fr: Escouade d'Attaque de l'Atlantide
   it: Squadra d'Attacco Atlantica
   pt:
-  ja: <ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>の<ruby><rb>突</rb><rp>（</rp><rt>とつ</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>兵</rb><rp>（</rp><rt>へい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>の<ruby><rb>突</rb><rt>とつ</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>兵</rb><rt>へい</rt></ruby>
   ja_romaji: Kaiō no Totsugekihei
   ko: 해황의 돌격병
   ko_rr:
+  zh-TW: 海皇突擊兵
   zh-CN: 海皇的突击兵
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     自分フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合、このカードの攻撃力は８００ポイントアップする。
   ko: |-
     자신 필드 위에 이 카드 이외의 어류족 / 해룡족 / 물족 몬스터가 존재할 경우, 이 카드의 공격력은 800포인트 올린다.
+  zh-TW: 我方场上存在除此卡以外的鱼族、海龙族、水族怪兽的场合，此卡的攻击力上升800点。
   zh-CN: |-
     自己场上有这张卡以外的鱼族·海龙族·水族怪兽存在的场合，这张卡的攻击力上升800。
-type: Monster
-typeline: Sea Serpent / Effect
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
 attribute: WATER
 level: 3
 atk: 1400

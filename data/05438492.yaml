@@ -7,10 +7,11 @@ name:
   fr: Dame Guerrière des Terres Désolées
   it: Signora Guerriera delle Terre Desolate
   pt: Guerreira das Terras Ermas
-  ja: <ruby><rb>荒</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>野</rb><rp>（</rp><rt>や</rt><rp>）</rp></ruby>の<ruby><rb>女</rb><rp>（</rp><rt>おんな</rt><rp>）</rp></ruby><ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>荒</rb><rt>こう</rt></ruby><ruby><rb>野</rb><rt>や</rt></ruby>の<ruby><rb>女</rb><rt>おんな</rt></ruby><ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Kōya no Onna Senshi
   ko: 황야의 여전사
   ko_rr:
+  zh-TW:
   zh-CN: 荒野的女战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の戦士族・地属性モンスター１体を攻撃表示で特殊召喚する。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 공격력 1500 이하의 전사족 / 땅 속성 몬스터 1장을 자신 필드 위에 앞면 공격 표시로 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被战斗破坏送去墓地时才能发动。从卡组把1只攻击力1500以下的战士族·地属性怪兽攻击表示特殊召唤。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1100

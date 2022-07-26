@@ -7,11 +7,12 @@ name:
   fr: Kalantosa, Bête Mystique de la Forêt
   it: Kalantosa, Bestia Mistica della Foresta
   pt: Kalantosa, Besta Mística da Floresta
-  ja: <ruby><rb>森</rb><rp>（</rp><rt>もリ</rt><rp>）</rp></ruby>の<ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>森</rb><rt>もリ</rt></ruby>の<ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
     カラントーサ
   ja_romaji: Mori no Seijū Karantōsa
   ko: 숲의 성수 카란토사
   ko_rr:
+  zh-TW:
   zh-CN: 森之圣兽 月兔耳兽
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     ①：このカードが獣族モンスターの効果で特殊召喚に成功した場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 이 카드가 야수족 몬스터의 효과로 특수 소환에 성공했을 경우, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡用兽族怪兽的效果特殊召唤成功的场合，以场上1张卡为对象才能发动。那张卡破坏。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 2
 atk: 200

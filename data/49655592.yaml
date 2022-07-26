@@ -7,11 +7,12 @@ name:
   fr: Crosseur Whip F.A.
   it: F.A. Frusta Cross
   pt: F.A. Whip Crosser
-  ja: <ruby><rb>Ｆ．Ａ．</rb><rp>（</rp><rt>フォーミュラアスリート</rt><rp>）</rp></ruby>ウィップクロッサー
+  ja: <ruby><rb>Ｆ．Ａ．</rb><rt>フォーミュラアスリート</rt></ruby>ウィップクロッサー
   ja_romaji: Fōmyura Asurīto Wippu Kurossā
-  ko: <ruby><rb>F.A.</rb><rp>（</rp><rt>포뮬러 애슬리트</rt><rp>）</rp></ruby> 윕크로서
+  ko: <ruby><rb>F.A.</rb><rt>포뮬러 애슬리트</rt></ruby> 윕크로서
   ko_rr: Pomyulleo Aeseulliteu Wipkeuroseo
-  zh-CN: 方程式运动员 空中摆尾骑手
+  zh-TW:
+  zh-CN: 方程式运动员 激摆越野骑手
 text:
   en: |-
     Gains ATK equal to its Level x 300. Your opponent must pay 300 LP to activate the effect of a monster whose original Level/Rank is lower than this card's Level. Each time a "F.A." Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If this card is Level 7 or higher, your opponent cannot discard or send cards from their hand to the GY to activate a card effect.
@@ -29,10 +30,11 @@ text:
     ①：このカードの攻撃力はこのカードのレベル×３００アップし、相手は３００ＬＰを払わなければ、このカードのレベルよりも元々のレベルまたはランクが低いモンスターの効果を発動できない。②：「Ｆ．Ａ．」魔法・罠カードの効果が発動した場合に発動できる（ダメージステップでも発動可能）。このカードのレベルを１つ上げる。③：このカードのレベルが７以上の場合、相手は手札を捨てて発動する効果及び手札を墓地へ送って発動する効果を発動できない。
   ko: |-
     ①: 이 카드의 공격력은 이 카드의 레벨 × 300 올리고, 상대는 300 LP를 지불하지 않으면, 이 카드의 레벨보다도 원래의 레벨 또는 랭크가 낮은 몬스터의 효과를 발동할 수 없다. ②: "F.A.(포뮬러 애슬리트)" 마법 / 함정 카드의 효과가 발동했을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 이 카드의 레벨을 1개 올린다. ③: 이 카드의 레벨이 7 이상일 경우, 상대는 패를 버리고 발동하는 효과 및 패를 묘지로 보내고 발동하는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这张卡的攻击力上升这张卡的等级×300。对方必需支付300基本分才能把原本的等级或者阶级比这张卡的等级低的怪兽的效果发动。每次「方程式运动员」魔法/陷阱卡的效果或者卡的发动：可以把这张卡的等级上升1星。这张卡是7星以上的场合，对方不能把手卡丢弃或者送去墓地来让卡的效果发动。
-type: Monster
-typeline: Machine / Effect
+    ①：此卡的攻击力上升相当于此卡等级×300的数值，对手如果不支付300LP，就不可发动原本的等级或阶级低于此卡等级的怪兽效果。②：“方程式运动员”魔法・陷阱卡的效果发动的情况下可以发动（伤害步骤也可以发动）。此卡的等级上升1。③：此卡等级为7以上的情况下，对手不可发动舍弃手牌发动的效果，及将手牌送至墓地发动的效果。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: WIND
 level: 4
 atk: 0

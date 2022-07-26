@@ -7,10 +7,11 @@ name:
   fr: Menko Vitesseroid
   it: Velociroid Menko
   pt: Velocidaroide Menko
-  ja: <ruby><rb>ＳＲ</rb><rp>（</rp><rt>スピードロイド</rt><rp>）</rp></ruby>メンコート
+  ja: <ruby><rb>ＳＲ</rb><rt>スピードロイド</rt></ruby>メンコート
   ja_romaji: Supīdoroido Menkōto
-  ko: <ruby><rb>SR</rb><rp>（</rp><rt>스피드로이드</rt><rp>）</rp></ruby> 멘코트
+  ko: <ruby><rb>SR</rb><rt>스피드로이드</rt></ruby> 멘코트
   ko_rr:
+  zh-TW:
   zh-CN: 疾行机人 出局画片
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：相手モンスターの直接攻撃宣言時に発動できる。このカードを手札から攻撃表示で特殊召喚し、相手フィールドの表側表示モンスターを全て守備表示にする。
   ko: |-
     ① : 상대 몬스터의 직접 공격 선언시에 발동할 수 있다. 이 카드를 패에서 공격 표시로 특수 소환하고, 상대 필드의 앞면 표시 몬스터를 전부 수비 표시로 한다.
+  zh-TW:
   zh-CN: |-
     ①：对方怪兽的直接攻击宣言时才能发动。这张卡从手卡攻击表示特殊召唤，对方场上的表侧表示怪兽全部变成守备表示。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: WIND
 level: 4
 atk: 100

@@ -7,10 +7,11 @@ name:
   fr: Chimère, Bête Mythique Volante
   it: Chimera, la Mitica Bestia Volante
   pt: Quimera, a Besta Mística Voadora
-  ja: <ruby><rb>有</rb><rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby><rb>翼</rb><rp>（</rp><rt>よく</rt><rp>）</rp></ruby><ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>キマイラ
+  ja: <ruby><rb>有</rb><rt>ゆう</rt></ruby><ruby><rb>翼</rb><rt>よく</rt></ruby><ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>キマイラ
   ja_romaji: Yūyoku Genjū Kimaira
   ko: 유익환상수 키메라
   ko_rr: Yu-ikhwansangsu Kimera
+  zh-TW:
   zh-CN: 有翼幻兽 奇美拉
 text:
   en: |-
@@ -43,11 +44,12 @@ text:
   ko: |-
     "환상수왕 가젤" ＋ "바포메트"
     ①: 이 카드가 파괴되었을 때, 자신 묘지의, "바포메트" 또는 "환상수왕 가젤" 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「幻兽王 加泽尔」＋「巴风特」
     ①：这张卡被破坏时，以自己墓地1只「巴风特」或者「幻兽王 加泽尔」为对象才能发动。那只怪兽特殊召唤。
-type: Monster
-typeline: Beast / Fusion / Effect
+card_type: Monster
+monster_type_line: Beast / Fusion / Effect
 attribute: WIND
 level: 6
 atk: 2100

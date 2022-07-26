@@ -7,10 +7,11 @@ name:
   fr: Requin Démon, Roi des Abysses
   it: Squalo Reale degli Abissi
   pt:
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>海</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>デビルシャーク
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>海</rb><rt>かい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby>デビルシャーク
   ja_romaji: Shinkaiō Debiru Shāku
   ko: 심해왕 데블 샤크
   ko_rr:
+  zh-TW:
   zh-CN: 深海王 恶魔鲨
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードは１ターンに１度だけ、対象を指定しないカードの効果では破壊されない。
   ko: |-
     이 카드는 1턴에 1번만, 대상을 지정하지 않은 카드의 효과로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     这张卡1回合只有1次不会被不指定对象的卡的效果破坏。
-type: Monster
-typeline: Fish / Effect
+card_type: Monster
+monster_type_line: Fish / Effect
 attribute: WATER
 level: 4
 atk: 1700

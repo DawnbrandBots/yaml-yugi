@@ -7,10 +7,11 @@ name:
   fr: Kojikocy
   it: Kojikocy
   pt: Kojicocy
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の<ruby><rb>狩人</rb><rp>（</rp><rt>かりうど</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>狩人</rb><rt>かりうど</rt></ruby>
   ja_romaji: Mamono no Kariudo
   ko: 마물 사냥꾼
   ko_rr:
+  zh-TW:
   zh-CN: 魔物狩人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     人を狩る凶悪な狩人。岩をも砕く強い力を持つ。
   ko: |-
     사람을 사냥하는 흉악한 사냥꾼. 암석도 부수는 강한 힘을 갖고 있다.
+  zh-TW:
   zh-CN: |-
     猎杀人类的猎手，具有连岩石都能击碎的力量。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 4
 atk: 1500

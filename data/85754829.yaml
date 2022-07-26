@@ -11,6 +11,7 @@ name:
   ja_romaji: Worm Gurusu
   ko: 웜 그루스
   ko_rr:
+  zh-TW:
   zh-CN: 格鲁斯异虫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     フィールド上に裏側守備表示で存在するモンスターがリバースする度に、このカードにワームカウンターを１つ置く。このカードの攻撃力は、このカードに乗っているワームカウンターの数×３００ポイントアップする。
   ko: |-
     필드 위에 뒷면 수비 표시로 존재하는 몬스터가 리버스할 때마다, 이 카드에 웜 카운터를 1개 놓는다. 이 카드에 얹혀 있는 웜 카운터 1개당, 이 카드의 공격력은 300 포인트 올린다.
+  zh-TW:
   zh-CN: |-
     每次场上里侧守备表示存在的怪兽反转，给这张卡放置1个虫指示物。这张卡的攻击力上升这张卡放置的虫指示物数量×300的数值。
-type: Monster
-typeline: Reptile / Effect
+card_type: Monster
+monster_type_line: Reptile / Effect
 attribute: LIGHT
 level: 4
 atk: 1500

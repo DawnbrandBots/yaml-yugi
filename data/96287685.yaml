@@ -7,10 +7,11 @@ name:
   fr: Tortue Jarre
   it: Tartaruga Giara
   pt: Tartaruga Jarro
-  ja: <ruby><rb>瓶</rb><rp>（</rp><rt>かめ</rt><rp>）</rp></ruby><ruby><rb>亀</rb><rp>（</rp><rt>がめ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>瓶</rb><rt>かめ</rt></ruby><ruby><rb>亀</rb><rt>がめ</rt></ruby>
   ja_romaji: Kame Game
   ko: 단지 거북
   ko_rr:
+  zh-TW: 瓶龜
   zh-CN: 瓶龟
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、「強欲な瓶」が発動する度に自分のデッキからカードを１枚ドローする。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, "욕망의 단지" 가 발동할 때마다 자신의 덱에서 카드를 1장 드로우한다.
+  zh-TW: 只要此卡在场上以表侧表示存在，每次发动「强欲之瓶」，就从我方牌组抽1张卡牌。
   zh-CN: |-
     只要这张卡在场上表侧表示存在，每次「强欲之瓶」发动从自己卡组抽1张卡。
-type: Monster
-typeline: Reptile / Effect
+card_type: Monster
+monster_type_line: Reptile / Effect
 attribute: WATER
 level: 4
 atk: 200

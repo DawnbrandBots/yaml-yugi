@@ -7,10 +7,11 @@ name:
   fr: Magicien du Temps du Lendemain
   it: Stregone del Tempo di Domani
   pt: Mago do Tempo do Amanhã
-  ja: <ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>時</rb><rt>とき</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Toki no Madōshi
   ko: 시간의 마도사
   ko_rr: Sigan-ui Madosa
+  zh-TW:
   zh-CN: 时间魔导士
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "시간의 마술사" ＋ 효과 몬스터
     ①: 1턴에 1번, 이 카드가 융합 소환되어 있을 경우에 발동할 수 있다. 코인 토스를 1회 실행하고, 앞뒷면을 맞힌다. 맞힌 경우, 필드의 몬스터를 전부 파괴하고, 상대는 앞면 표시로 파괴된 몬스터의 원래 공격력을 합계한 수치의 절반의 데미지를 받는다. 맞히지 못한 경우, 필드의 몬스터를 전부 파괴하고, 자신은 앞면 표시로 파괴된 몬스터의 원래 공격력을 합계한 수치의 절반의 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     「时间魔术师」＋效果怪兽
     ①：1回合1次，这张卡是已融合召唤的场合才能发动。进行1次投掷硬币，对里表作猜测。猜中的场合，场上的怪兽全部破坏，对方受到表侧表示破坏的怪兽的原本攻击力合计数值一半的伤害。猜错的场合，场上的怪兽全部破坏，自己受到表侧表示破坏的怪兽的原本攻击力合计数值一半的伤害。
-type: Monster
-typeline: Spellcaster / Fusion / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Fusion / Effect
 attribute: LIGHT
 level: 5
 atk: 2000

@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 73 : Splash des Abysses'
   it: "Numero 73: Spruzzo dell'Abisso"
   pt: 'Número 73: Suntuoso do Abismo'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>７３ <ruby><rb>激</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>瀧</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>アビス・スプラッシュ
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>７３ <ruby><rb>激</rb><rt>げき</rt></ruby><ruby><rb>瀧</rb><rt>ろう</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>アビス・スプラッシュ
   ja_romaji: Nanbāzu Nanajūsan Gekirōshin Abisu Supurasshu
   ko: No.73 격롱신 어비스 스플래시
   ko_rr:
+  zh-TW:
   zh-CN: No.73 激泷神 渊涛
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     물 속성 레벨 5 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드의 공격력은, 상대의 엔드 페이즈시까지 배가 된다. 이 턴에, 이 카드가 상대 라이프에 주는 전투 데미지는 절반이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     水属性5星怪兽×2。
     1回合1次，把这张卡1个XYZ素材取除才能发动。这张卡的攻击力直到对方的结束阶段时变成2倍。这个回合这张卡给与对方基本分的战斗伤害变成一半。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: WATER
 rank: 5
 atk: 2400

@@ -7,10 +7,11 @@ name:
   fr: Magicien Nobledragon
   it: Maga Nobildrago
   pt: Mago do Dragão Nobre
-  ja: <ruby><rb>貴</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>貴</rb><rt>き</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Kiryū no Majutsushi
   ko: 귀룡의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 贵龙之魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードをＳ素材とする場合、ドラゴン族モンスターのＳ召喚にしか使用できず、他のＳ素材に「オッドアイズ」モンスター以外のモンスターを使用した場合、このカードを持ち主のデッキの一番下に戻す。①：このカードが手札・墓地に存在する場合、自分フィールドのレベル７以上の「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターのレベルを３つ下げ、このカードを特殊召喚する。
   ko: |-
     이 카드를 싱크로 소재로할 경우, 드래곤족 몬스터의 싱크로 소환으로밖에 사용할 수 없으며, 다른 싱크로 소재에 "오드아이즈" 몬스터 이외의 몬스터를 사용했을 경우, 이 카드를 주인의 덱 맨 아래로 되돌린다. ① : 이 카드가 패 / 묘지에 존재할 경우, 자신 필드의 레벨 7 이상의 "오드아이즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 레벨을 3개 내리고, 이 카드를 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     把这张卡作为同调素材的场合，不是龙族怪兽的同调召唤不能使用，其他的同调素材有使用除「异色眼」怪兽以外的怪兽的场合，这张卡回到持有者卡组最下面。①：这张卡在手卡·墓地存在的场合，以自己场上1只7星以上的「异色眼」怪兽为对象才能发动。那只怪兽的等级下降3星，这张卡特殊召唤。
-type: Monster
-typeline: Spellcaster / Pendulum / Tuner / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Pendulum / Tuner / Effect
 attribute: FIRE
 level: 3
 atk: 700
@@ -55,6 +57,7 @@ pendulum_effect:
     ①：もう片方の自分のＰゾーンに「魔術師」カードが存在しない場合にこのカードは破壊される。
   ko: |-
     ① : 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드가 존재하지 않을 경우에 이 카드는 파괴된다.
+  zh-TW:
   zh-CN: |-
     ①：另一边的自己的灵摆区域没有「魔术师」卡存在的场合这张卡破坏。
 sets:

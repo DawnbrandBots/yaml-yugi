@@ -7,10 +7,11 @@ name:
   fr: Luster Pendule, le Dracossassin
   it: Lustro Pendulum, il Dracoassassino
   pt: Pêndulo Luster, o Dracossassino
-  ja: <ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>ラスター<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>ラスター<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>
   ja_romaji: Ryūkenshi Rasutā Pendyuramu
-  ko: 룡검사 라스터<ruby><rb>P</rb><rp>（</rp><rt>펜듈럼</rt><rp>）</rp></ruby>
+  ko: 룡검사 라스터<ruby><rb>P</rb><rt>펜듈럼</rt></ruby>
   ko_rr:
+  zh-TW:
   zh-CN: 龙剑士 光辉星·灵摆
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Você não pode Invocar Monstros de Fusão, Sincro ou Xyz por Invocação-Especial usando este card como matéria, exceto monstros "Dracossassino".
   ja: |-
-    このカードを素材として、「竜剣士」モンスター以外の融合・<ruby><rb>Ｓ</rb><rp>（</rp><rt>シンクロ</rt><rp>）</rp></ruby>・<ruby><rb>Ｘ</rb><rp>（</rp><rt>エクシーズ</rt><rp>）</rp></ruby>モンスターを特殊召喚する事はできない。
+    このカードを素材として、「竜剣士」モンスター以外の融合・<ruby><rb>Ｓ</rb><rt>シンクロ</rt></ruby>・<ruby><rb>Ｘ</rb><rt>エクシーズ</rt></ruby>モンスターを特殊召喚する事はできない。
   ko: |-
     이 카드를 소재로서, "룡검사" 몬스터 이외의 융합 / 싱크로 / 엑시즈 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     不能用这张卡为素材把「竜剣士」怪兽以外的融合·同调·XYZ怪兽特殊召唤。
-type: Monster
-typeline: Dragon / Pendulum / Tuner / Effect
+card_type: Monster
+monster_type_line: Dragon / Pendulum / Tuner / Effect
 attribute: LIGHT
 level: 4
 atk: 1850
@@ -52,9 +54,10 @@ pendulum_effect:
   pt: |-
     Uma vez por turno, se você tiver um card na sua outra Zona de Pêndulo: você pode destruir esse card e, se isso acontecer, adicione 1 card do seu Deck à sua mão, com o mesmo nome que esse card.
   ja: |-
-    ①：１ターンに１度、もう片方の自分の<ruby><rb>Ｐ</rb><rp>（</rp><rt>ペンデュラム</rt><rp>）</rp></ruby>ゾーンにカードが存在する場合に発動できる。そのカードを破壊し、そのカードの同名カード１枚をデッキから手札に加える。
+    ①：１ターンに１度、もう片方の自分の<ruby><rb>Ｐ</rb><rt>ペンデュラム</rt></ruby>ゾーンにカードが存在する場合に発動できる。そのカードを破壊し、そのカードの同名カード１枚をデッキから手札に加える。
   ko: |-
     ①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 카드가 존재할 경우에 발동할 수 있다. 그 카드를 파괴하고, 그 카드의 같은 이름의 카드 1장을 덱에서 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     ①：1回合1次，另一边的自己的灵摆区域有卡存在的场合才能发动。那张卡破坏，把1张那张卡的同名卡从卡组加入手卡。
 sets:

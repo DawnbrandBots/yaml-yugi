@@ -7,12 +7,12 @@ name:
   fr: Nidhogg, Boss Genèraideur de la Glace
   it: Nidhogg, Boss Generaider del Ghiaccio
   pt: Nidhogg, Chefe Generaidor do Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>こおり</rt><rp>）</rp></ruby>の<ruby><rb>王</rb><rp>（</rp><rt>ジェネレイド</rt><rp>）</rp></ruby>
-    ニードヘッグ
+  ja: <ruby><rb>氷</rb><rt>こおり</rt></ruby>の<ruby><rb>王</rb><rt>ジェネレイド</rt></ruby> ニードヘッグ
   ja_romaji: Koori no Jenereido Nīdoheggu
   ko: 얼음의 제너레이드 니드헥
   ko_rr: Eol-eum-ui Jenereideu Nideuhek
-  zh-CN: 冰界王战 尼德霍格王
+  zh-TW:
+  zh-CN: 冰之创王 尼多格
 text:
   en: |-
     You can only control 1 "Nidhogg, Generaider Boss of Ice". When your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute 1 "Generaider" monster or 1 Wyrm monster; negate the Summon, and if you do, destroy that monster(s). You can only use this effect of "Nidhogg, Generaider Boss of Ice" once per turn.
@@ -30,12 +30,11 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：「氷の王 ニードヘッグ」は自分フィールドに１体しか表側表示で存在できない。②：相手がモンスターを特殊召喚する際に、自分フィールドの「ジェネレイド」モンスターまたは幻竜族モンスター１体をリリースして発動できる。その特殊召喚を無効にし、そのモンスターを破壊する。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: "얼음의 제너레이드 니드헥"은 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 상대가 몬스터를 특수 소환할 시기에, 자신 필드의 "제너레이드" 몬스터 또는 환룡족 몬스터 1장을 릴리스하고 발동할 수 있다. 그 특수 소환을 무효로 하고, 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的②的效果1回合只能使用1次。
-    ①：「冰界王战 尼德霍格王」在自己场上只能有1只表侧表示存在。
-    ②：对方把怪兽特殊召唤之际，把自己场上1只「王战」怪兽或者幻龙族怪兽解放才能发动。那次特殊召唤无效，那些怪兽破坏。
-type: Monster
-typeline: Wyrm / Effect
+    此卡名的②效果1回合仅可使用1次。①：“冰之创王 尼多格”在自己场上仅可有1只以表侧表示存在。②：对手要将怪兽特殊召唤之际，解放自己场上的1只“创王”怪兽或者是幻龙族怪兽可以发动。将该特殊召唤无效，并将该怪兽破坏。
+card_type: Monster
+monster_type_line: Wyrm / Effect
 attribute: WATER
 level: 9
 atk: 2100

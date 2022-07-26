@@ -7,10 +7,11 @@ name:
   fr: Aimant Morphtronique
   it: Ago della Bussola Morfotronico
   pt: Morfotronica do Magnetismo Bar
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディフォーマー</rt><rp>）</rp></ruby>・マグネン<ruby><rb>Ｉ</rb><rp>（</rp><rt>アイ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｄ</rb><rt>ディフォーマー</rt></ruby>・マグネン<ruby><rb>Ｉ</rb><rt>アイ</rt></ruby>
   ja_romaji: Difōmā Magunen Ai
-  ko: <ruby><rb>D</rb><rp>（</rp><rt>디포머</rt><rp>）</rp></ruby> • 마그넨
+  ko: <ruby><rb>D</rb><rt>디포머</rt></ruby> • 마그넨
   ko_rr:
+  zh-TW:
   zh-CN: 变形斗士·磁铁I
 text:
   en: |-
@@ -31,10 +32,11 @@ text:
     このカードはこのカードの表示形式によって以下の効果を得る。●攻撃表示：自分フィールド上にこのカード以外のモンスターが表側攻撃表示で２体存在する場合、１ターンに１度、このカードの攻撃力はこのターンのエンドフェイズ時までそのモンスターの攻撃力を合計した数値分アップする事ができる。この効果を発動するターン、他のモンスターは攻撃できない。●守備表示：このカードがフィールド上に表側表示で存在する限り、自分フィールド上に存在するモンスターは攻撃できない。
   ko: |-
     이 카드는 이 카드의 표시 형식에 의해서 이하의 효과를 얻는다. ● 공격 표시：자신 필드 위에 이 카드 이외의 몬스터가 앞면 공격 표시로 2장 존재할 경우, 1턴에 1번, 이 카드의 공격력은 이 턴의 엔드 페이즈시까지 그 몬스터의 공격력을 합계한 수치만큼 올릴 수 있다. 이 효과를 발동한 턴에, 다른 몬스터는 공격할 수 없다. ● 수비 표시：이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 존재하는 몬스터는 공격할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡得到这张卡的表示形式的以下效果。●攻击表示：自己场上有这张卡以外的怪兽表侧攻击表示2只存在的场合，1回合1次，可以让这张卡的攻击力直到这个回合的结束阶段时上升那些怪兽的攻击力的合计数值。这个效果发动的回合，其他怪兽不能攻击。●守备表示：只要这张卡在场上表侧表示存在，自己场上存在的怪兽不能攻击。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: EARTH
 level: 1
 atk: 100

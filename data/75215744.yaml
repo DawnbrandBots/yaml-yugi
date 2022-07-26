@@ -7,10 +7,11 @@ name:
   fr: Batosushi Gunkan Classe Ikura Neredouterien
   it: Gunkan Sushinave Ikura-classe Corazzata
   pt: Naviushi Gunkan Couraçado Classe Ikura
-  ja: <ruby><rb>弩</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>級</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>貫</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>－いくら<ruby><rb>型</rb><rp>（</rp><rt>がた</rt><rp>）</rp></ruby><ruby><rb>一</rb><rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby><rb>番</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>艦</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>弩</rb><rt>ど</rt></ruby><ruby><rb>級</rb><rt>きゅう</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>貫</rb><rt>かん</rt></ruby>－いくら<ruby><rb>型</rb><rt>がた</rt></ruby><ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>番</rb><rt>ばん</rt></ruby><ruby><rb>艦</rb><rt>かん</rt></ruby>
   ja_romaji: Dokyū Gunkan - Ikura-gata Ichibankan
   ko: 노급군관－이쿠라형일번함
   ko_rr: Nogeupgun-gwan - Ikurahyeong-ilbeonhap
+  zh-TW:
   zh-CN: 无畏军贯-鲑鱼子级一号舰
 text:
   en: |-
@@ -55,6 +56,7 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑시즈 소환에 성공했을 경우에 발동할 수 있다. 그 엑시즈 소환의 소재로 한 몬스터에 따라 이하의 효과를 적용한다. ●"샤리 군관": 자신은 덱에서 1장 드로우한다. ●"이쿠라 군관": 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ②: 1턴에 1번, 엑스트라 덱에서 특수 소환된 자신의 "군관" 몬스터가 상대에게 전투 데미지를 주었을 때, 상대 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×2
     这个卡名的①的效果1回合只能使用1次。
@@ -62,8 +64,8 @@ text:
     ●「舍利军贯」：自己从卡组抽1张。
     ●「鲑鱼子军贯」：这张卡在同1次的战斗阶段中可以作2次攻击。
     ②：1回合1次，从额外卡组特殊召唤的自己的「军贯」怪兽给与对方战斗伤害时，以对方场上1张卡为对象才能发动。那张卡破坏。
-type: Monster
-typeline: Aqua / Xyz / Effect
+card_type: Monster
+monster_type_line: Aqua / Xyz / Effect
 attribute: FIRE
 rank: 4
 atk: 2200

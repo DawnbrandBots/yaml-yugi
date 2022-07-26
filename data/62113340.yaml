@@ -7,11 +7,11 @@ name:
   fr: Dragon Divin Ragnarok
   it: Drago Ragnarok Divino
   pt: Ragnarok, Dragão Sagrado
-  ja: <ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
-    ラグナロク
+  ja: <ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby> ラグナロク
   ja_romaji: Shinryū Ragunaroku
   ko: 신룡 라그나로크
   ko_rr:
+  zh-TW:
   zh-CN: 神龙 末日龙
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     その怒りに触れた時、世界は海に沈むと言われている。
   ko: |-
     신의 사자라고 전해지고 있는 전설의 용. 그를 분노케 할 때, 세계는 바다에 잠긴다고 한다.
+  zh-TW:
   zh-CN: |-
     传言是神的使者的传说之龙。据说触怒它时，世界将沉入大海。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: LIGHT
 level: 4
 atk: 1500

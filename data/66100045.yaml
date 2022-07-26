@@ -7,10 +7,11 @@ name:
   fr: Rupture de Transmigration
   it: Trasmigrazione Interrotta
   pt:
-  ja: <ruby><rb>転</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby><ruby><rb>絶</rb><rt>ぜつ</rt></ruby>
   ja_romaji: Tensei Danzetsu
   ko: 전생단절
   ko_rr:
+  zh-TW:
   zh-CN: 转生断绝
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     このカードがフィールド上に存在する限り、墓地からデッキに戻るカードはデッキに戻らずゲームから除外される。
   ko: |-
     묘지에서 덱으로 되돌아가는 카드는 덱으로 되돌아가지 않고 게임에서 제외된다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上存在，从墓地回到卡组的卡不回到卡组从游戏中除外。
-type: Trap
+card_type: Trap
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr: Maillet Magique
   it: Maglio Magico
   pt: Marreta Mágica
-  ja: <ruby><rb>打</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby>ち<ruby><rb>出</rb><rp>（</rp><rt>で</rt><rp>）</rp></ruby>の<ruby><rb>小</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>槌</rb><rp>（</rp><rt>づち</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>で</rt></ruby>の<ruby><rb>小</rb><rt>こ</rt></ruby><ruby><rb>槌</rb><rt>づち</rt></ruby>
   ja_romaji: Uchide no Kozuchi
   ko: 요술망치
   ko_rr:
+  zh-TW:
   zh-CN: 万宝槌
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分の手札を任意の数だけデッキに戻してシャッフルする。その後、自分はデッキに戻した数だけドローする。
   ko: |-
     자신의 패를 임의의 매수만큼 선택하여, 덱에 넣고 셔플한다. 그 후, 덱에 넣은 매수 만큼의 카드를 드로우 한다.
+  zh-TW:
   zh-CN: |-
     ①：自己手卡任意数量回到卡组洗切。那之后，自己抽出回到卡组的数量。
-type: Spell
+card_type: Spell
 property: Normal

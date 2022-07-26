@@ -7,11 +7,12 @@ name:
   fr: Cœur Farouche, HÉROS Élémentaire
   it: Wildheart EROE Elementale
   pt: Coração Selvagem, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> ワイルドマン
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> ワイルドマン
   ja_romaji: Erementaru Hīrō Wairudoman
   ko: 엘리멘틀 히어로 와일드맨
   ko_rr:
-  zh-CN: 元素英雄 荒野侠
+  zh-TW:
+  zh-CN: 元素－英雄 狂野人
 text:
   en: |-
     Unaffected by Trap effects.
@@ -29,10 +30,11 @@ text:
     ①：このカードはモンスターゾーンに存在する限り、罠カードの効果を受けない。
   ko: |-
     이 카드는 함정의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡只要在怪兽区域存在，不受陷阱卡的效果影响。
-type: Monster
-typeline: Warrior / Effect
+    ①：此卡只要存在于怪兽区域，不受陷阱卡的效果影响。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1500

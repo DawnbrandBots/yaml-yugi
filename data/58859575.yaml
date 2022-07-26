@@ -7,10 +7,11 @@ name:
   fr: Tigre Catapulte VW
   it: VW-Catapulta Tigre
   pt: VW-Catapulta Tigre
-  ja: <ruby><rb>ＶＷ</rb><rp>（</rp><rt>ヴィダブル</rt><rp>）</rp></ruby>－タイガー・カタパルト
+  ja: <ruby><rb>ＶＷ</rb><rt>ヴィダブル</rt></ruby>－タイガー・カタパルト
   ja_romaji: Vi Daburu - Taigā Kataparuto
   ko: VW-타이거 캐터펄트
   ko_rr:
+  zh-TW:
   zh-CN: VW-强击虎
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "V-타이거 제트" + "W-윙 캐터펄트"
     자신 필드 위에 존재하는 상기의 카드를 게임에서 제외했을 경우에만, 융합 덱에서 특수 소환이 가능합니다.("융합" 마법 카드는 필요로 하지 않는다. 패를 1장 버리는 것으로, 상대 필드 위의 몬스터 1장의 표시 형식을 변경한다(이때, 리버스 효과 몬스터의 효과는 발동하지 않는다.
+  zh-TW:
   zh-CN: |-
     「V-喷气虎」＋「W-弹射飞翼」
     把自己场上的上记卡除外的场合才能从额外卡组特殊召唤（不需要「融合」）。①：丢弃1张手卡，以对方场上1只怪兽为对象才能发动。那只对方怪兽的表示形式变更。这个时候，反转怪兽的效果不发动。
-type: Monster
-typeline: Machine / Fusion / Effect
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
 attribute: LIGHT
 level: 6
 atk: 2000

@@ -7,11 +7,12 @@ name:
   fr: Héritage du Monde - "Calice du Monde"
   it: Eredità del Mondo - "Calice del Mondo"
   pt: Legado Mundial - "Cálice Mundial"
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>－『<ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>杯</rb><rp>（</rp><rt>はい</rt><rp>）</rp></ruby>』
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>遺</rb><rt>い</rt></ruby><ruby><rb>物</rb><rt>ぶつ</rt></ruby>－『<ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>杯</rb><rt>はい</rt></ruby>』
   ja_romaji: Sei'ibutsu - "Seihai"
   ko: 성유물-『성잔』
   ko_rr:
-  zh-CN: 星遗物-『星杯』
+  zh-TW:
+  zh-CN: 星遗物－星杯－
 text:
   en: |-
     If a monster(s) is Special Summoned from the Extra Deck (except during the Damage Step): You can Tribute this card; send that monster(s) to the GY. You can only use each of the following effects of "World Legacy - "World Chalice"" once per turn.
@@ -41,10 +42,11 @@ text:
     このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：ＥＸデッキからモンスターが特殊召喚された場合、このカードをリリースして発動できる。そのモンスターを墓地へ送る。②：通常召喚した表側表示のこのカードがフィールドから離れた場合に発動できる。デッキから「星遺物－『星杯』」以外の「星杯」モンスター２体を特殊召喚する。③：墓地のこのカードを除外して発動できる。デッキから「星遺物」カード１枚を手札に加える。この効果はこのカードが墓地へ送られたターンには発動できない。
   ko: |-
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ① : 엑스트라 덱에서 몬스터가 특수 소환되었을 경우, 이 카드를 릴리스하고 발동할 수 있다. 그 몬스터를 묘지로 보낸다. ② : 통상 소환한 앞면 표시의 이 카드가 필드에서 벗어났을 경우에 발동할 수 있다. 덱에서 "성유물-「성잔」" 이외의 "성잔" 몬스터 2장을 특수 소환한다. ③ : 묘지의 이 카드를 제외하고 발동할 수 있다. 덱에서 "성유물" 카드 1장을 패에 넣는다. 이 효과는 이 카드가 묘지로 보내진 턴에는 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的②③的效果1回合各能使用1次。①：从额外卡组有怪兽特殊召唤的场合，把这张卡解放才能发动。那些怪兽送去墓地。②：通常召唤的表侧表示的这张卡从场上离开的场合才能发动。从卡组把「星遗物-『星杯』」以外的2只「星杯」怪兽特殊召唤。③：把墓地的这张卡除外才能发动。从卡组把1张「星遗物」卡加入手卡。这个效果在这张卡送去墓地的回合不能发动。
-type: Monster
-typeline: Machine / Effect
+    此卡名的②③效果1回合仅可各使用1次。①：怪兽从额外牌组被特殊召唤的情况下，解放此卡可以发动。将该怪兽送至墓地。②：通常召唤的表侧表示的此卡从场上离开的情况下可以发动。从牌组将2只“星遗物－星杯－”以外的“星杯”怪兽特殊召唤。③：将墓地的此卡除外可以发动。从牌组将1张“星遗物”卡加入手牌。此效果在此卡被送至墓地的回合不可发动。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 5
 atk: 0

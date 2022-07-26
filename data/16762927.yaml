@@ -7,10 +7,11 @@ name:
   fr: Serviteur des Protecteurs du Tombeau
   it: Servo del Custode di Tombe
   pt: Servo do Guardião da Tumba
-  ja: <ruby><rb>墓</rb><rp>（</rp><rt>はか</rt><rp>）</rp></ruby><ruby><rb>守</rb><rp>（</rp><rt>もり</rt><rp>）</rp></ruby>の<ruby><rb>使</rb><rp>（</rp><rt>つか</rt><rp>）</rp></ruby>い<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>墓</rb><rt>はか</rt></ruby><ruby><rb>守</rb><rt>もり</rt></ruby>の<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>魔</rb><rt>ま</rt></ruby>
   ja_romaji: Hakamori no Tsukaima
   ko: 묘지기의 마법
   ko_rr:
+  zh-TW:
   zh-CN: 守墓的使魔
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手はデッキの一番上のカード１枚を墓地へ送らなければ、攻撃宣言をする事ができない。
   ko: |-
     상대는 덱의 맨 위의 카드를 1장 묘지로 보내지 않으면, 공격 선언을 실행할 수 없다.
+  zh-TW:
   zh-CN: |-
     对方若不把卡组最上面1张卡送去墓地，不能攻击宣言。
-type: Spell
+card_type: Spell
 property: Continuous

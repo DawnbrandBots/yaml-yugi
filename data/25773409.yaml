@@ -7,10 +7,11 @@ name:
   fr: Maître Légendaire du Jiu-Jitsu
   it: Maestro Leggendario Jujitsu
   pt: O Lendário Mestre de Jujitsu
-  ja: <ruby><rb>伝</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>説</rb><rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>の<ruby><rb>柔</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>家</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>伝</rb><rt>でん</rt></ruby><ruby><rb>説</rb><rt>せつ</rt></ruby>の<ruby><rb>柔</rb><rt>じゅう</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>家</rb><rt>か</rt></ruby>
   ja_romaji: Densetsu no Jūjutsuka
   ko: 전설의 유술가
   ko_rr:
+  zh-TW:
   zh-CN: 传说的柔术家
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     守備表示のこのカードと戦闘を行ったモンスターは、ダメージステップ終了時に持ち主のデッキの一番上に戻る。
   ko: |-
     수비 표시의 이 카드와 전투를 실행한 몬스터는 데미지 스템 종료시에 주인의 덱의맨 위로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     和场上守备表示存在的这张卡进行过战斗的怪兽在伤害步骤结束时回到持有者卡组最上面。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 3
 atk: 1300

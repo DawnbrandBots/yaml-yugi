@@ -11,6 +11,7 @@ name:
   ja_romaji: Torafikku Gōsuto
   ko: 트래픽고스트
   ko_rr:
+  zh-TW:
   zh-CN: 流量幽灵
 text:
   en: |-
@@ -29,15 +30,16 @@ text:
     モンスター３体
   ko: |-
     몬스터 3장
+  zh-TW:
   zh-CN: |-
     怪兽3只
-type: Monster
-typeline: Cyberse / Link
+card_type: Monster
+monster_type_line: Cyberse / Link
 attribute: DARK
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 1800
 materials: 3 monsters
 sets:

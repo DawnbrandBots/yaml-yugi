@@ -7,10 +7,11 @@ name:
   fr: Titaniklad le Dragon des Cendres
   it: Titaniklad il Drago di Cenere
   pt: Titaniklad, o Dragão das Cinzas
-  ja: <ruby><rb>灰</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>燼</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>バスタード
+  ja: <ruby><rb>灰</rb><rt>かい</rt></ruby><ruby><rb>燼</rb><rt>じん</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>バスタード
   ja_romaji: Kaijinryū Basutādo
   ko: 회신룡 배스터드
   ko_rr: Hwisinnyong Baeseuteodeu
+  zh-TW:
   zh-CN: 灰烬龙 落胤龙
 text:
   en: |-
@@ -37,14 +38,15 @@ text:
   ko: |-
     "알버스의 낙윤" ＋ 공격력 2500 이상의 몬스터
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 이 카드의 융합 소재로 한 몬스터의 원래 레벨의 합계 × 100 올린다. ②: 이 카드가 융합 소환에 성공한 턴에, 이 카드는 엑스트라 덱에서 특수 소환된 다른 몬스터가 발동한 효과를 받지 않는다. ③: 이 카드가 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 "드래그마" 몬스터 또는 "알버스의 낙윤" 1장을 고르고, 패에 넣거나 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「阿不思的落胤」＋攻击力2500以上的怪兽
     这个卡名的③的效果1回合只能使用1次。
     ①：这张卡的攻击力上升作为这张卡的融合素材的怪兽的原本等级合计×100。
     ②：这张卡融合召唤成功的回合，这张卡不受从额外卡组特殊召唤的其他怪兽发动的效果影响。
     ③：这张卡被送去墓地的回合的结束阶段才能发动。从卡组选1只「教导」怪兽或者「阿不思的落胤」加入手卡或特殊召唤。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2500

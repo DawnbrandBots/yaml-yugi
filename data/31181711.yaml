@@ -7,10 +7,11 @@ name:
   fr: Mur Bouclierâme Samouraï Supralourd
   it: Samurai Superpesante Animascudo Muro
   pt: Muralha Samurai Superpesado Escudo da Alma
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>武</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>留</rb><rp>（</rp><rt>る</rt><rp>）</rp></ruby>グレート・ウォール
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>武</rb><rt>む</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>留</rb><rt>る</rt></ruby>グレート・ウォール
   ja_romaji: Chōjūmusha Sōru Gurēto Wōru
   ko: 초중무사소울 그레이트 월
   ko_rr:
+  zh-TW:
   zh-CN: 超重武者装留 巨壁
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
     ①：自分メインフェイズに自分フィールドの「超重武者」モンスター１体を対象として発動できる。自分の手札・フィールドからこのモンスターを守備力１２００アップの装備カード扱いとしてその自分のモンスターに装備する。②：このカードの効果でこのカードを装備したモンスターが攻撃対象に選択された時、装備されているこのカードを墓地へ送って発動できる。その攻撃を無効にし、装備モンスターの守備力を０にする。
   ko: |-
     ① : 자신 메인 페이즈에 자신 필드의 "초중무사" 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신의 패 / 필드에서 이 몬스터를 수비력을 1200 올리는 장착 카드 취급하여 그 자신의 몬스터에 장착한다. ② : 이 카드의 효과로 이 카드를 장착한 몬스터가 공격 대상으로 선택되었을 때, 장착되어 있는 이 카드를 묘지로 보내고 발동할 수 있다. 그 공격을 무효로 하고, 장착 몬스터의 수비력을 0으로 한다.
+  zh-TW:
   zh-CN: |-
     ①：自己主要阶段以自己场上1只「超重武者」怪兽为对象才能发动。从自己的手卡·场上把这只怪兽当作守备力上升1200的装备卡使用给那只自己怪兽装备。
     ②：用这张卡的效果把这张卡装备的怪兽被选择作为攻击对象时，把装备的这张卡送去墓地才能发动。那次攻击无效，装备怪兽的守备力变成0。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 3
 atk: 1200

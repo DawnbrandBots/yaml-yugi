@@ -7,11 +7,12 @@ name:
   fr: L'Herbe a l'Air plus Verte
   it: Quell'Erba Sembra Più Verde
   pt: Esse Jardim Parece Mais Verde
-  ja: <ruby><rb>隣</rb><rp>（</rp><rt>となり</rt><rp>）</rp></ruby>の<ruby><rb>芝</rb><rp>（</rp><rt>しば</rt><rp>）</rp></ruby><ruby><rb>刈</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>り
+  ja: <ruby><rb>隣</rb><rt>となり</rt></ruby>の<ruby><rb>芝</rb><rt>しば</rt></ruby><ruby><rb>刈</rb><rt>か</rt></ruby>り
   ja_romaji: Tonari no Shibakari
   ko: 이웃집 잔디깎기
   ko_rr: Iutjip Jandikkakgi
-  zh-CN: 邻家割草
+  zh-TW:
+  zh-CN: 邻人割草
 text:
   en: |-
     If you have more cards in your Deck than your opponent does: Send cards from the top of your Deck to the Graveyard so you have the same number of cards in the Deck as your opponent.
@@ -29,7 +30,8 @@ text:
     ①：自分のデッキの枚数が相手よりも多い場合に発動できる。デッキの枚数が相手と同じになるように、自分のデッキの上からカードを墓地へ送る。
   ko: |-
     ①: 자신의 덱의 매수가 상대보다도 많을 경우에 발동할 수 있다. 덱의 매수가 상대와 같아지도록, 자신의 덱 위에서 카드를 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
-    ①：自己卡组的数量比对方多的场合才能发动。直到卡组数量变成和对方相同为止，从自己卡组上面把卡送去墓地。
-type: Spell
+    ①：自己牌组的张数多于对手的情况下可以发动。从自己牌组上面将卡送至墓地，直至牌组的张数变为与对手相同。
+card_type: Spell
 property: Normal

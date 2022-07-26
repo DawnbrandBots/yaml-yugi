@@ -7,10 +7,11 @@ name:
   fr: Nyarla, Entité Éloignée
   it: Entità Esterna Nyarla
   pt: Entidade Exterior Nyarla
-  ja: <ruby><rb>外</rb><rp>（</rp><rt>ガイ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>シン</rt><rp>）</rp></ruby>ナイアルラ
+  ja: <ruby><rb>外</rb><rt>ガイ</rt></ruby><ruby><rb>神</rb><rt>シン</rt></ruby>ナイアルラ
   ja_romaji: Gaishin Naiarura
   ko: 외신 나이알라
   ko_rr:
+  zh-TW:
   zh-CN: 外神 奈亚拉
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     이 카드가 엑시즈 소환에 성공했을 때, 패를 임의의 매수만큼 버리고 발동할 수 있다. 이 카드의 랭크는, 버린 패의 매수만큼 올라간다. 또한, 1턴에 1번, 자신 묘지의 몬스터 1장을 선택하고 발동할 수 있다. 이 카드의 엑시즈 소재를 전부 제거하고, 선택한 몬스터를 이 카드의 아래에 겹쳐 엑시즈 소재로 한다. 이 카드의 종족 / 속성은, 이 효과로 엑시즈 소재로 한 몬스터의 원래 종족 / 속성과 같아진다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×2
     ①：这张卡XYZ召唤成功时，把手卡任意数量丢弃才能发动。这张卡的阶级上升丢弃数量的数值。②：1回合1次，这张卡持有XYZ素材的场合以自己墓地1只怪兽为对象才能发动。这张卡的XYZ素材全部取除，把作为对象的怪兽在这张卡下面重叠作为XYZ素材。这张卡的种族·属性变成和这个效果作为XYZ素材的怪兽的原本的种族·属性相同。
-type: Monster
-typeline: Fiend / Xyz / Effect
+card_type: Monster
+monster_type_line: Fiend / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 0

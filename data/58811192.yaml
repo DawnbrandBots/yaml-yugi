@@ -7,11 +7,12 @@ name:
   fr: Kimunfalcos, Bête Spirituelle Ultime
   it: Bestia Spirito Ulti-Kimunfalcos
   pt: Besta Espiritual Ulti-Kimunfalcos
-  ja: <ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby>
     キムンファルコス
   ja_romaji: Seireijūki Kimunfarukosu
   ko: 성령수기 키문팔코스
   ko_rr:
+  zh-TW:
   zh-CN: 圣灵兽骑 山飞隼
 text:
   en: |-
@@ -38,18 +39,19 @@ text:
   ko: |-
     "령수" 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드의 링크 앞의 "령수" 몬스터의 공격력 / 수비력은 600 올린다. ② : 자신의 묘지에서 "령수" 카드 1장을 제외하고 발동할 수 있다. 패에서 "령수" 몬스터 1장을 일반 소환한다. ③ : 이 카드를 주인의 엑스트라 덱으로 되돌리고,제외되어 있는 자신의, "령수사" 몬스터 1장과 "정령수" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     「灵兽」怪兽2只
     这个卡名的②的效果1回合只能使用1次。
     ①：这张卡所连接区的「灵兽」怪兽的攻击力·守备力上升600。
     ②：从自己墓地把1张「灵兽」卡除外才能发动。从手卡把1只「灵兽」怪兽召唤。
     ③：让这张卡回到持有者的额外卡组，以除外的自己1只「灵兽使」怪兽和1只「精灵兽」怪兽为对象才能发动。那些怪兽守备表示特殊召唤。这个效果在对方回合也能发动。
-type: Monster
-typeline: Psychic / Link / Effect
+card_type: Monster
+monster_type_line: Psychic / Link / Effect
 attribute: WIND
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1800
 materials: 2 "Ritual Beast" monsters
 sets:

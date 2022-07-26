@@ -7,10 +7,11 @@ name:
   fr: Feu Foudroyant
   it: Fuoco Tremendo
   pt: Fogo Medonho
-  ja: <ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>獄</rb><rp>（</rp><rt>ごく</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>地</rb><rt>じ</rt></ruby><ruby><rb>獄</rb><rt>ごく</rt></ruby>
   ja_romaji: Kaen Jigoku
   ko: 화염 지옥
   ko_rr:
+  zh-TW:
   zh-CN: 火炎地狱
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手ライフに１０００ポイントダメージを与え、自分は５００ポイントダメージを受ける。
   ko: |-
     상대 라이프에 1000 포인트 데미지를 주고, 자신은 500 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     给与对方基本分1000分伤害，自己受到500分伤害。
-type: Spell
+card_type: Spell
 property: Normal

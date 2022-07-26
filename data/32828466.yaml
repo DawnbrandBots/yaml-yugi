@@ -7,12 +7,13 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>Ｗａｋｅ</rb><rp>（</rp><rt>ウェイク</rt><rp>）</rp></ruby> <ruby><rb>Ｕｐ</rb><rp>（</rp><rt>アップ</rt><rp>）</rp></ruby>
-    <ruby><rb>Ｙｏｕｒ</rb><rp>（</rp><rt>ユア</rt><rp>）</rp></ruby> <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｗａｋｅ</rb><rt>ウェイク</rt></ruby> <ruby><rb>Ｕｐ</rb><rt>アップ</rt></ruby>
+    <ruby><rb>Ｙｏｕｒ</rb><rt>ユア</rt></ruby> <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby>
   ja_romaji: Weiku Appu Yua Erementaru Hīrō
-  ko: <ruby><rb>Wake</rb><rp>（</rp><rt>웨이크</rt><rp>）</rp></ruby> <ruby><rb>Up</rb><rp>（</rp><rt>업</rt><rp>）</rp></ruby>
-    <ruby><rb>Your</rb><rp>（</rp><rt>유어</rt><rp>）</rp></ruby> 엘리멘틀 히어로
+  ko: <ruby><rb>Wake</rb><rt>웨이크</rt></ruby> <ruby><rb>Up</rb><rt>업</rt></ruby> <ruby><rb>Your</rb><rt>유어</rt></ruby>
+    엘리멘틀 히어로
   ko_rr: Weikeu Eop Yu-eo Ellimenteul Hieoro
+  zh-TW:
   zh-CN: 唤醒你的E・HERO
 text:
   en: |-
@@ -29,11 +30,12 @@ text:
   ko: |-
     "엘리멘틀 히어로" 융합 몬스터 ＋ 전사족 몬스터 1장 이상
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드의 공격력은 이 카드의 융합 소재로 한 몬스터의 수 × 300 올리고, 그 중의 융합 몬스터의 수까지 1번의 배틀 페이즈 중에 몬스터에 공격할 수 있다. ②: 이 카드가 몬스터와 전투를 실행한 데미지 계산 후에 발동한다. 그 몬스터를 파괴하고, 그 원래 공격력만큼의 데미지를 상대에게 준다. ③: 융합 소환한 이 카드가 파괴되었을 경우에 발동한다. 패 / 덱에서 전사족 몬스터 1장을 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     「E·HERO」融合怪兽+战士族怪兽1只以上
     这张卡只能用融合召唤来特殊召唤。①：这张卡的攻击力上升作为这张卡的融合素材的怪兽的数量×300，在1次战斗阶段中可以对怪兽作最多为那之中的融合怪兽的数量的次数的攻击。②：这张卡与怪兽进行战斗的战斗伤害计算后必定发动。将那只怪兽破坏，给予对手其原攻击力数值的伤害。③：融合召唤的这张卡被破坏的场合必定发动。从手牌或卡组特殊召唤1只战士族怪兽。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
 level: 10
 atk: 2500

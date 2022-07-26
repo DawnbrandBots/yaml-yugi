@@ -7,12 +7,13 @@ name:
   fr: 'Numéro C105 : Boxeur Indomptable Comète Cestus'
   it: 'Numero C105: Pugile Indomito Comet Cestus'
   pt: 'Número C105: Boxeador Obstinado Cometa Cestus'
-  ja: <ruby><rb>Ｃ</rb><rp>（</rp><rt>カオス</rt><rp>）</rp></ruby><ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>１０５
-    <ruby><rb>ＢＫ</rb><rp>（</rp><rt>バーニングナックラー</rt><rp>）</rp></ruby> <ruby><rb>彗</rb><rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>のカエストス
+  ja: <ruby><rb>Ｃ</rb><rt>カオス</rt></ruby><ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>１０５
+    <ruby><rb>ＢＫ</rb><rt>バーニングナックラー</rt></ruby> <ruby><rb>彗</rb><rt>すい</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby>のカエストス
   ja_romaji: Kaosu Nanbāzu Hyakugo Bāningu Nakkurā Suisei no Kaesutosu
-  ko: <ruby><rb>C</rb><rp>（</rp><rt>카오스</rt><rp>）</rp></ruby><ruby><rb>No.</rb><rp>（</rp><rt>넘버즈</rt><rp>）</rp></ruby>105
-    <ruby><rb>BK</rb><rp>（</rp><rt>버닝나쿠라</rt><rp>）</rp></ruby> 혜성의 카에스토스
+  ko: <ruby><rb>C</rb><rt>카오스</rt></ruby><ruby><rb>No.</rb><rt>넘버즈</rt></ruby>105
+    <ruby><rb>BK</rb><rt>버닝나쿠라</rt></ruby> 혜성의 카에스토스
   ko_rr:
+  zh-TW: CNo.105 燃燒拳鬥士 彗星拳帶
   zh-CN: 混沌No.105 燃烧拳击手 彗星之指套拳王
 text:
   en: |-
@@ -45,10 +46,12 @@ text:
   ko: |-
     레벨 5 몬스터 × 4
     이 카드가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 파괴한 몬스터의 원래 공격력의 절반의 데미지를 상대 라이프에 준다. 또한, 이 카드가 "No.105 BK(버닝나쿠라) 유성의 세스터스" 를 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다. ● 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 몬스터 1장을 선택하고 발동할 수 있다. 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 파괴하고, 파괴한 몬스터의 원래 공격력만큼 데미지를 상대 라이프에 준다.
+  zh-TW: "等级5怪兽×4\n此卡因战斗破坏怪兽并将其送入墓地时，给予对手生命相当于被破坏怪兽原本攻击力一半点数的伤害。此外，此卡将「No.105 燃燒拳鬥士\
+    \ 流星手帶」作为超量素材的场合，获得以下效果。●1回合1次，可移除此卡的1个超量素材，选择对手场上的1只怪兽并发动。破坏被选择怪兽，给予对手生命相当于被破坏怪兽原本攻击力的点数的伤害。"
   zh-CN: |-
     5星怪兽×4。这张卡战斗破坏怪兽送去墓地时，给与对方基本分破坏的怪兽的原本攻击力一半数值的伤害。此外，这张卡有「No.105 燃烧拳击手 流星之指套拳士」在作为XYZ素材的场合，得到以下效果。●1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只怪兽才能发动。选择的怪兽破坏，给与对方基本分破坏的怪兽的攻击力数值的伤害。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
 rank: 5
 atk: 2800

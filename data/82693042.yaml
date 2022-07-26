@@ -7,10 +7,11 @@ name:
   fr: Sphère du Chaos
   it: Sfera del Chaos
   pt: Esfera do Caos
-  ja: <ruby><rb>混沌球体</rb><rp>（</rp><rt>スフィア・オブ・カオス</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>混沌球体</rb><rt>スフィア・オブ・カオス</rt></ruby>
   ja_romaji: Sufia obu Kaosu
   ko: 혼돈구체
   ko_rr:
+  zh-TW:
   zh-CN: 混沌球体
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードの属性は「光」としても扱う。このカードは１ターンに１度だけ、戦闘では破壊されない。このカードがアドバンス召喚に成功した時、自分のデッキからレベル３のモンスター１体を手札に加える事ができる。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 속성은 "빛"으로도 취급한다. ②: 이 카드는 1턴에 1번만 전투로는 파괴되지 않는다. ③: 이 카드가 어드밴스 소환에 성공했을 때에 발동할 수 있다. 덱에서 레벨 3 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这张卡只要在场上表侧表示存在，也当作光属性使用。这张卡1回合只有1次不会被战斗破坏。这张卡上级召唤成功时，可以从卡组把1只3星怪兽加入手卡。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 5
 atk: 1600

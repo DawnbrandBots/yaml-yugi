@@ -7,10 +7,11 @@ name:
   fr: Sakuzi, l'Homme Cobra
   it: Uomo Cobra Sakuzy
   pt:
-  ja: <ruby><rb>半</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby><rb>蛇</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>サクズィー
+  ja: <ruby><rb>半</rb><rt>はん</rt></ruby><ruby><rb>蛇</rb><rt>じゃ</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>サクズィー
   ja_romaji: Hanjajin Sakuzī
   ko: 코브라맨 사쿠지
   ko_rr:
+  zh-TW:
   zh-CN: 半蛇人 萨库兹
 text:
   en: |-
@@ -26,10 +27,11 @@ text:
     このカードは１ターンに１度だけ裏側守備表示にする事ができる。このカードがリバースした時、相手フィールド上にセットされている魔法・罠カードを全てめくり、確認した後元に戻す。
   ko: |-
     이카드는 1턴에 1번만 뒷면 수비 표시로 할수 있다. 이 카드가 리버스 했을때, 상대 필드위에 세트되어있는 마법/함정 카드를 전부 넘겨서., 확인한후 원래대로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这张卡1回合只有1次可以变成里侧守备表示。这张卡反转时，对方场上盖放的魔法·陷阱卡全部翻开，确认后回到原状。
-type: Monster
-typeline: Reptile / Effect
+card_type: Monster
+monster_type_line: Reptile / Effect
 attribute: EARTH
 level: 3
 atk: 800

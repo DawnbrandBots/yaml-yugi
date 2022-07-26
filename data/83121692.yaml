@@ -7,10 +7,11 @@ name:
   fr: Tempête, HÉROS Élémentaire
   it: Tempesta EROE Elementale
   pt: Heroí Elementar Tempestade
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> テンペスター
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> テンペスター
   ja_romaji: Erementaru Hīrō Tenpesutā
   ko: 엘리멘틀 히어로 템페스터
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 暴风侠
 text:
   en: |-
@@ -32,16 +33,17 @@ text:
     "Elemental HERO Avian" + "Elemental HERO Sparkman" + "Elemental HERO Bubbleman"
     Esta carta não pode ser Special Summoned, exceto por Fusion Summon. Você pode enviar 1 outra que você controla ao Cemitério para selecionar 1 monstro que você controla. Enquanto esta carta estiver virada para cima no campo, o monstro selecionado não pode ser destruído em batalha.
   ja: |-
-    「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> フェザーマン」＋「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> スパークマン」＋「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> バブルマン」
+    「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> フェザーマン」＋「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> スパークマン」＋「<ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> バブルマン」
     このモンスターは融合召喚でしか特殊召喚できない。このカード以外の自分フィールド上のカード１枚を墓地に送り、自分フィールド上のモンスター１体を選択する。このカードがフィールド上に表側表示で存在する限り、選択したモンスターは戦闘によっては破壊されない。(ダメージ計算は適用する)
   ko: |-
     "엘리멘틀 히어로 페더맨" + "엘리멘틀 히어로 스파크맨" + "엘리멘틀 히어로 버블맨"
     이 몬스터는 융합 소환으로밖에 소환할 수 없다. 특수 소환은 할 수 없다. 이 카드 이외의 자신 필드 위의 카드 1장을 묘지로 보내고, 자신 필드 위의 몬스터 1장을 선택한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택한 몬스터는 전투에 의해서는 파괴되지 않는다 (데미지 계산은 적용한다).
+  zh-TW:
   zh-CN: |-
     「元素英雄 羽翼侠」＋「元素英雄 电光侠」＋「元素英雄 水泡侠」
     这只怪兽不用融合召唤不能特殊召唤。把这张卡以外的自己场上1张卡送去墓地，选择自己场上1只怪兽。只要这张卡在场上表侧表示存在，选择的怪兽不会被战斗破坏。（伤害计算适用）
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: WIND
 level: 8
 atk: 2800

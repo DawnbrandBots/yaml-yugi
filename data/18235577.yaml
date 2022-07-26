@@ -7,10 +7,11 @@ name:
   fr: Arpenteur Silencieux
   it: Camminatore Silenzioso
   pt:
-  ja: <ruby><rb>寂</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby><ruby><rb>々</rb><rp>（</rp><rt>じゃく</rt><rp>）</rp></ruby><ruby><rb>虫</rb><rp>（</rp><rt>むし</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>寂</rb><rt>じゃく</rt></ruby><ruby><rb>々</rb><rt>じゃく</rt></ruby><ruby><rb>虫</rb><rt>むし</rt></ruby>
   ja_romaji: Shakushaku Mushi
   ko: 조용한 소금쟁이
   ko_rr:
+  zh-TW:
   zh-CN: 寂寂虫
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードを手札から墓地へ送って発動する。フィールド上に存在するモンスター１体のレベルをエンドフェイズ時まで１つ下げる。
   ko: |-
     이 카드를 패로부터 묘지에 보내 발동한다. 필드 위에 존재하는 몬스터 1장의 레벨을 엔드 페이즈까지 1개 내린다.
+  zh-TW:
   zh-CN: |-
     把这张卡从手卡送去墓地发动。场上存在的1只怪兽的等级直到结束阶段时下降1星。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 2
 atk: 300

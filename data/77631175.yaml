@@ -7,10 +7,11 @@ name:
   fr: Héros de BD Roi Arthur
   it: Eroe dei Fumetti Re Artù
   pt: Rei Arthur, Héroi dos Quadrinhos
-  ja: <ruby><rb>ＣＨ</rb><rp>（</rp><rt>コミックヒーロー</rt><rp>）</rp></ruby>キング・アーサー
+  ja: <ruby><rb>ＣＨ</rb><rt>コミックヒーロー</rt></ruby>キング・アーサー
   ja_romaji: Komikku Hīro Kingu Āsā
-  ko: <ruby><rb>CH</rb><rp>（</rp><rt>코믹 히어로</rt><rp>）</rp></ruby> 킹 아서
+  ko: <ruby><rb>CH</rb><rt>코믹 히어로</rt></ruby> 킹 아서
   ko_rr:
+  zh-TW:
   zh-CN: 漫画英雄 亚瑟王
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     전사족 레벨 4 몬스터 × 2
     이 카드가 전투에 의해서 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 이 효과로 엑시즈 소재가 제거되었을 때, 이 카드의 공격력은 500 포인트 올리고, 상대 라이프에 500 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     战士族4星怪兽×2
     这张卡被战斗破坏的场合，可以作为代替把这张卡1个XYZ素材取除。这个效果让XYZ素材被取除时，这张卡的攻击力上升500，给与对方基本分500分伤害。
-type: Monster
-typeline: Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Warrior / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2400

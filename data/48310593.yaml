@@ -7,10 +7,11 @@ name:
   fr: Cartes Limitées
   it: Carte Finite
   pt: Cards Finitos
-  ja: <ruby><rb>無</rb><rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby><rb>念</rb><rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>の<ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>ふだ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>無</rb><rt>む</rt></ruby><ruby><rb>念</rb><rt>ねん</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby><ruby><rb>札</rb><rt>ふだ</rt></ruby>
   ja_romaji: Munen no Tefuda
   ko: 무념 의 패
   ko_rr:
+  zh-TW:
   zh-CN: 无念的手札
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：このカードが魔法＆罠ゾーンに存在する限り、お互いの手札制限枚数は３枚になる。
   ko: |-
     ①: 이 카드가 마법 & 함정 존에 존재하는 한, 서로 패 제한 매수는 3장이 된다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在魔法与陷阱区域存在，双方的手卡限制数量变成3张。
-type: Spell
+card_type: Spell
 property: Continuous

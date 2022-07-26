@@ -7,10 +7,11 @@ name:
   fr: Guerrier de Minomushi
   it:
   pt: Guerreiro Minomushi
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>いわ</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>岩</rb><rt>いわ</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Iwa no Senshi
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 岩之战士
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
   ja: |-
     非常に重たい岩石の剣を振り回す、岩石の戦士。
   ko:
+  zh-TW:
   zh-CN: |-
     岩石战士。挥舞着非常重的石头剑。
-type: Monster
-typeline: Rock
+card_type: Monster
+monster_type_line: Rock
 attribute: EARTH
 level: 4
 atk: 1300

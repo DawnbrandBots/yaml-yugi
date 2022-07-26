@@ -7,11 +7,12 @@ name:
   fr: Miyabi, Artiste du Vent Spirituel
   it: Arte Spirituale del Vento - Miyabi
   pt: Miyabi - Arte Espiritual do Vento
-  ja: <ruby><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby>－「<ruby><rb>雅</rb><rp>（</rp><rt>みやび</rt><rp>）</rp></ruby>」
+  ja: <ruby><rb>風</rb><rt>ふう</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby>－「<ruby><rb>雅</rb><rt>みやび</rt></ruby>」
   ja_romaji: Fūreijutsu - "Miyabi"
   ko: 풍령술－「아」
   ko_rr: Pungnyeongsul - "A"
-  zh-CN: 风灵术-「雅」
+  zh-TW:
+  zh-CN: 风灵术－「雅」
 text:
   en: |-
     Tribute 1 WIND monster, then target 1 card your opponent controls; place that opponent's card on the bottom of the Deck.
@@ -29,7 +30,8 @@ text:
     ①：自分フィールドの風属性モンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。その相手のカードを持ち主のデッキの一番下に戻す。
   ko: |-
     ①: 자신 필드의 바람 속성 몬스터 1장을 릴리스하고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 상대의 카드를 주인의 덱 맨 아래로 되돌린다.
+  zh-TW:
   zh-CN: |-
-    把自己场上存在的1只风属性怪兽解放，选择对方场上存在的1张卡发动。选择的对方的卡回到持有者卡组最下面。
-type: Trap
+    ①：解放自己场上的1只风属性怪兽，以对手场上的1张卡为对象可以发动。将该对手的卡放回持有者牌组的最下面。
+card_type: Trap
 property: Normal

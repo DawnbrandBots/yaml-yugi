@@ -7,10 +7,11 @@ name:
   fr: Roi Rex à Deux Têtes
   it: Tirannosauro Rex a Due Teste
   pt: Rei Rex de Duas Cabeças
-  ja: <ruby><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby><rb>頭</rb><rp>（</rp><rt>とう</rt><rp>）</rp></ruby>を<ruby><rb>持</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby>つキング・レックス
+  ja: <ruby><rb>二</rb><rt>に</rt></ruby><ruby><rb>頭</rb><rt>とう</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つキング・レックス
   ja_romaji: Nitō o Motsu Kingu Rekkusu
   ko: 두 머리의 킹렉스
   ko_rr: Du Meori-ui Kingrekseu
+  zh-TW:
   zh-CN: 双头恐龙王
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Um monstro poderoso cujas duas cabeças atacam como uma só.
   ja: |-
-    <ruby><rb>恐</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>の<ruby><rb>中</rb><rp>（</rp><rt>なか</rt><rp>）</rp></ruby>では<ruby><rb>強</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>なカード。２つの<ruby><rb>頭</rb><rp>（</rp><rt>あたま</rt><rp>）</rp></ruby>で<ruby><rb>同</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>時</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby>。
+    <ruby><rb>恐</rb><rt>きょう</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>族</rb><rt>ぞく</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>では<ruby><rb>強</rb><rt>きょう</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>なカード。２つの<ruby><rb>頭</rb><rt>あたま</rt></ruby>で<ruby><rb>同</rb><rt>どう</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby><ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby>。
   ko: |-
     공룡족 중에서는 강력한 카드. 두 개의 머리로 동시 공격.
+  zh-TW:
   zh-CN: |-
     恐龙族中的强力怪兽，两只头同时攻击。
-type: Monster
-typeline: Dinosaur / Normal
+card_type: Monster
+monster_type_line: Dinosaur / Normal
 attribute: EARTH
 level: 4
 atk: 1600

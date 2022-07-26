@@ -7,10 +7,11 @@ name:
   fr: Rosée des Ténèbres de la Barrière de Glace
   it: Rugiada Oscura della Barriera di Ghiaccio
   pt: Umbrorvalho da Barreira de Gelo
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>水</rb><rp>（</rp><rt>みず</rt><rp>）</rp></ruby><ruby><rb>影</rb><rp>（</rp><rt>かげ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>氷</rb><rt>ひょう</rt></ruby><ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>水</rb><rt>みず</rt></ruby><ruby><rb>影</rb><rt>かげ</rt></ruby>
   ja_romaji: Hyōkekkai no Mizukage
   ko: 빙결계의 수영
   ko_rr:
+  zh-TW:
   zh-CN: 冰结界的水影
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     自分フィールド上に表側表示で存在するモンスターがレベル２以下のモンスターのみの場合、このカードは相手プレイヤーに直接攻撃する事ができる。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 몬스터가 레벨 2 이하의 몬스터뿐일 경우, 이 카드는 상대 플레이어에게 직접 공격할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己场上表侧表示存在的怪兽只有2星以下的怪兽的场合，这张卡可以直接攻击对方玩家。
-type: Monster
-typeline: Aqua / Tuner / Effect
+card_type: Monster
+monster_type_line: Aqua / Tuner / Effect
 attribute: WATER
 level: 2
 atk: 1200

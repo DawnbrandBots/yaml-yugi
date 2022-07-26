@@ -7,10 +7,11 @@ name:
   fr: Ordre Royal de Taxation
   it: Ordinanza Reale della Tassazione
   pt: Ordem Real de Taxas
-  ja: <ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>宮</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>の<ruby><rb>重</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>税</rb><rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>宮</rb><rt>きゅう</rt></ruby>の<ruby><rb>重</rb><rt>じゅう</rt></ruby><ruby><rb>税</rb><rt>ぜい</rt></ruby>
   ja_romaji: Ōkyū no Jūzei
   ko: 왕궁의 중과세
   ko_rr:
+  zh-TW:
   zh-CN: 王宫的重税
 text:
   en: |-
@@ -28,7 +29,8 @@ text:
     相手のスタンバイフェイズ時に発動できる。相手の手札をランダムに１枚確認する。選択したカードまたは同名カードが次の自分のエンドフェイズ終了時まで召喚または発動されなかった場合、相手ライフに１０００ポイントダメージを与える。召喚または発動された場合、自分は１０００ポイントダメージを受ける。
   ko: |-
     상태 턴의 스텐바이 페이즈시에 발동할 수 있다. 상대의 패 1장을 무작위로 선택하고 확인한다. 선택된 카드 또는 같은 이름의 카드가 다음 자신의 엔드 페이즈 종료시까지 일반 소환 또는 발동되지 않았을 경우, 상대 라이프에 1000 포인트 데미지를 준다. 일반 소환 또는 발동되었을 경우, 자신은 1000 포인트 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     对方的准备阶段时才能发动。把对方手卡随机1张确认。选择的卡或者同名卡直到下次的自己的结束阶段结束时没有召唤或者发动的场合，给与对方基本分1000分伤害。召唤或者发动的场合，自己受到1000分伤害。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Chopman, le Hors-la-loi Épouvantable
   it: Chopman il Fuorilegge Disperato
   pt: Chopman, o Fora-da-Lei Desesperado
-  ja: <ruby><rb>凶</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby><ruby><rb>犯</rb><rp>（</rp><rt>はん</rt><rp>）</rp></ruby>－チョップマン
+  ja: <ruby><rb>凶</rb><rt>きょう</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby><ruby><rb>犯</rb><rt>はん</rt></ruby>－チョップマン
   ja_romaji: Kyōakuhan Choppuman
   ko: 흉악범-촙맨
   ko_rr:
+  zh-TW:
   zh-CN: 凶恶犯-开膛手
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが反転召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。
   ko: |-
     이 카드가 반전 소환에 성공했을 때, 자신의 묘지의 장착 마법 카드 1장을 이카드에 장착할 수 있다.
+  zh-TW:
   zh-CN: |-
     这张卡反转召唤成功时，可以把自己墓地1张装备魔法卡给这张卡装备。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 3
 atk: 1100

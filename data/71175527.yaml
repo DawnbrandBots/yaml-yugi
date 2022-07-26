@@ -7,11 +7,11 @@ name:
   fr: Pilica, Descendant de Gusto
   it: Pilica, Discendente di Gusto
   pt: Pilica, Descendente de Gusto
-  ja: ガスタの<ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>裔</rb><rp>（</rp><rt>えい</rt><rp>）</rp></ruby>
-    ピリカ
+  ja: ガスタの<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>裔</rb><rt>えい</rt></ruby> ピリカ
   ja_romaji: Gasuta no Shin'ei Pirika
   ko: 가스타의 신예 피리카
   ko_rr:
+  zh-TW:
   zh-CN: 薰风的神裔 皮莉佳
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     このカードが召喚・特殊召喚に成功した時、自分の墓地から風属性のチューナー１体を選択して表側守備表示で特殊召喚できる。この効果で特殊召喚したモンスターの効果は無効される。この効果を発動したターン、自分は風属性以外のモンスターを特殊召喚できない。「ガスタの神裔　ピリカ」の効果は１ターンに１度しか使用できない。
   ko: |-
     이 카드가 일반 소환 / 특수 소환에 성공했을 때, 자신의 묘지에서 바람 속성의 튜너 1장을 선택하고 앞면 수비 표시로 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다. 이 효과를 발동한 턴, 자신은 바람 속성 이외의 몬스터를 특수 소환할 수 없다. "가스타의 신예 피리카" 의 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     这张卡召唤·特殊召唤成功时，可以从自己墓地选择1只风属性的调整表侧守备表示特殊召唤。这个效果特殊召唤的怪兽的效果无效化。这个效果发动过的回合，自己不能把风属性以外的怪兽特殊召唤。「薰风的神裔 皮莉佳」的效果1回合只能使用1次。
-type: Monster
-typeline: Psychic / Effect
+card_type: Monster
+monster_type_line: Psychic / Effect
 attribute: WIND
 level: 3
 atk: 1000

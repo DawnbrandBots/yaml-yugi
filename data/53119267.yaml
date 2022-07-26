@@ -7,10 +7,11 @@ name:
   fr: Epine Magique
   it: Spina Magica
   pt:
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>の<ruby><rb>棘</rb><rp>（</rp><rt>とげ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>の<ruby><rb>棘</rb><rt>とげ</rt></ruby>
   ja_romaji: Maryoku no Toge
   ko: 마력의 가시
   ko_rr:
+  zh-TW:
   zh-CN: 魔力之棘
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手の手札が墓地へ捨てられた時、捨てたカードの数×５００ポイントダメージを相手ライフに与える。
   ko: |-
     상대의 패가 묘지에 버려졌을 때, 버린 카드 1장당 500 포인트 데미지를 상대 라이프에 준다.
+  zh-TW:
   zh-CN: |-
     对方手卡被丢弃去墓地时，给与对方基本分丢弃的卡数量×500的数值的伤害。
-type: Trap
+card_type: Trap
 property: Continuous

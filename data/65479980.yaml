@@ -7,10 +7,11 @@ name:
   fr: Double Chien de la Force-S
   it: S-Forza Cane Piastrina
   pt: Força-S Cão de Patrulha
-  ja: <ruby><rb>Ｓ－Ｆｏｒｃｅ</rb><rp>（</rp><rt>セキュリティ・フォース</rt><rp>）</rp></ruby> ドッグ・タッグ
+  ja: <ruby><rb>Ｓ－Ｆｏｒｃｅ</rb><rt>セキュリティ・フォース</rt></ruby> ドッグ・タッグ
   ja_romaji: Sekyuriti Fōsu Doggu Taggu
-  ko: <ruby><rb>S－Force</rb><rp>（</rp><rt>시큐리티 포스</rt><rp>）</rp></ruby> 도그 태그
+  ko: <ruby><rb>S－Force</rb><rt>시큐리티 포스</rt></ruby> 도그 태그
   ko_rr: Sikyuriti Poseu Dogeu Taegeu
+  zh-TW:
   zh-CN: 治安战警队 组队双犬
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに「Ｓ－Ｆｏｒｃｅ」モンスターが存在し、相手がモンスターの召喚・特殊召喚に成功した場合に発動できる。このカードを手札から特殊召喚する。②：このカードがモンスターゾーンに存在する限り、自分メインフェイズ中に、自分の「Ｓ－Ｆｏｒｃｅ」モンスターの正面の相手モンスターは効果を発動できない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 "S－Force(시큐리티 포스)" 몬스터가 존재하고, 상대가 몬스터의 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 메인 페이즈 중에, 자신의 "S－Force(시큐리티 포스)" 몬스터 정면의 상대 몬스터는 효과를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①的效果1回合只能使用1次。
     ①：自己场上有「治安战警队」怪兽存在，对方对怪兽的召唤·特殊召唤成功的场合才能发动。这张卡从手卡特殊召唤。
     ②：只要这张卡在怪兽区域存在，自己主要阶段中，自己的「治安战警队」怪兽的正对面的对方怪兽不能把效果发动。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 5
 atk: 1600

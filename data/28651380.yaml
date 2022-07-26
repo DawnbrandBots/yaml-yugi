@@ -7,11 +7,12 @@ name:
   fr: Raviel, Empereur des Phantasmes - Frappe Chatoyante
   it: Raviel, il Signore dei Fantasmi - Colpo Lucente
   pt: Raviel, o Senhor dos Fantasmas - Destruidor Cintilante
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>皇</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby>ラビエル－<ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>蹂</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>躙</rb><rp>（</rp><rt>りん</rt><rp>）</rp></ruby><ruby><rb>拳</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>皇</rb><rt>おう</rt></ruby>ラビエル－<ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>蹂</rb><rt>じゅう</rt></ruby><ruby><rb>躙</rb><rt>りん</rt></ruby><ruby><rb>拳</rb><rt>けん</rt></ruby>
   ja_romaji: Genmaō Rabieru - Tenkai Jūrinken
   ko: 환마황제 라비엘－천계유린권
   ko_rr: Hwanmahwangje Rabiel - Cheon-gyeyurin-gwon
-  zh-CN: 幻魔皇 拉比艾尔-天界蹂躏拳
+  zh-TW:
+  zh-CN: 幻魔皇拉比艾尔－天界蹂躏拳
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of "Raviel, Lord of Phantasms - Shimmering Scraper" once per turn.
@@ -41,12 +42,11 @@ text:
     このカードは通常召喚できない。自分フィールドのモンスター３体をリリースした場合のみ特殊召喚できる。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨て、自分フィールドの「幻魔皇ラビエル」１体を対象として発動できる。このターン、そのモンスターの攻撃力は倍になり、相手モンスター全てに１回ずつ攻撃できる。この効果は相手ターンでも発動できる。②：このカードが墓地に存在する場合、自分フィールドのモンスター１体をリリースして発動できる。このカードを手札に加える。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드의 몬스터 3장을 릴리스했을 경우에만 특수 소환할 수 있다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 패에서 버리고, 자신 필드의 "환마황제 라비엘" 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 몬스터의 공격력은 배가 되고, 상대 몬스터 전부에 1회씩 공격할 수 있다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 묘지에 존재할 경우, 자신 필드의 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드를 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。把自己场上3只怪兽解放的场合才能特殊召唤。这个卡名的①②的效果1回合各能使用1次。
-    ①：把这张卡从手卡丢弃，以自己场上1只「幻魔皇 拉比艾尔」为对象才能发动。这个回合，那只怪兽的攻击力变成2倍，可以向对方怪兽全部各作1次攻击。这个效果在对方回合也能发动。
-    ②：这张卡在墓地存在的场合，把自己场上1只怪兽解放才能发动。这张卡加入手卡。
-type: Monster
-typeline: Fiend / Effect
+    此卡不可通常召唤。仅可在解放自己场上3只怪兽的情况下特殊召唤。此卡名的①②效果1回合仅可各使用1次。①：可从手牌将此卡扔掉，以自己场上的1只“幻魔皇拉比艾尔”为对象发动。此回合中，该怪兽的攻击力变为两倍，可攻击所有对手怪兽各1次。此效果在对手回合中也可以发动。②：此卡存在于墓地的情况下，解放自己场上的1只怪兽可以发动。将此卡加入手牌。
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 10
 atk: 4000

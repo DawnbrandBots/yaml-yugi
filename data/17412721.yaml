@@ -7,10 +7,11 @@ name:
   fr: Norden, Ancienne Entité
   it: Entità Maggiore Norden
   pt: Entidade Anciã Norden
-  ja: <ruby><rb>旧</rb><rp>（</rp><rt>キュウ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>シン</rt><rp>）</rp></ruby>ノーデン
+  ja: <ruby><rb>旧</rb><rt>キュウ</rt></ruby><ruby><rb>神</rb><rt>シン</rt></ruby>ノーデン
   ja_romaji: Kyūshin Nōden
   ko: 구신 노덴
   ko_rr:
+  zh-TW:
   zh-CN: 旧神 诺登
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     싱크로 또는 엑시즈 몬스터 + 싱크로 또는 엑시즈 몬스터
     이 카드가 특수 소환에 성공했을 때, 자신의 묘지에서 레벨 4 이하의 몬스터 1장을 선택하고 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터의 효과는 무효화되고, 이 카드가 필드 위에서 벗어났을 때, 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     同调怪兽或者XYZ怪兽＋同调怪兽或者XYZ怪兽
     ①：这张卡特殊召唤成功时，以自己墓地1只4星以下的怪兽为对象才能发动。那只怪兽效果无效特殊召唤。这张卡从场上离开时那只怪兽除外。
-type: Monster
-typeline: Fairy / Fusion / Effect
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
 attribute: WATER
 level: 4
 atk: 2000

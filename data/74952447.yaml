@@ -7,10 +7,11 @@ name:
   fr: Testudo erat Numen
   it: Testudo erat Numen
   pt: A Tartaruga Uma Vez Chamada de Deus
-  ja: かつて<ruby><rb>神</rb><rp>（</rp><rt>かみ</rt><rp>）</rp></ruby>と<ruby><rb>呼</rb><rp>（</rp><rt>よ</rt><rp>）</rp></ruby>ばれた<ruby><rb>亀</rb><rp>（</rp><rt>かめ</rt><rp>）</rp></ruby>
+  ja: かつて<ruby><rb>神</rb><rt>かみ</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれた<ruby><rb>亀</rb><rt>かめ</rt></ruby>
   ja_romaji: Katsute Kami to Yobareta Kame
   ko: 일찍이 신이라 불린 거북이
   ko_rr:
+  zh-TW:
   zh-CN: 曾被称为神的龟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、お互いに攻撃力１８００以上のモンスターを特殊召喚する事はできない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 공격력 1800 이상의 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，双方不能把攻击力1800以上的怪兽特殊召唤。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 1
 atk: 0

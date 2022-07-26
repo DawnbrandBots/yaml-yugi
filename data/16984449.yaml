@@ -7,10 +7,11 @@ name:
   fr: Papillon aux Ailes Ardentes
   it: Farfalla di Fiamma
   pt: Borboleta Asas em Chamas
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>妖</rb><rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby><rb>蝶</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>ウィルプス
+  ja: <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>妖</rb><rt>よう</rt></ruby><ruby><rb>蝶</rb><rt>ちょう</rt></ruby>ウィルプス
   ja_romaji: En'yōchō Wirupusu
   ko: 블레이즈윙 버터플라이 윌프스
   ko_rr: Beulleijeuwing Beoteopeullai Wilpeuseu
+  zh-TW:
   zh-CN: 炎妖蝶 维尔普斯
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     ①: 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ②: 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되어 이하의 효과를 얻는다.
     ●이 카드를 릴리스하고, "블레이즈윙 버터플라이 윌프스" 이외의 자신 묘지의 듀얼 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터는 1번 더 일반 소환된 상태로 취급한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡只要在场上·墓地存在，当作通常怪兽使用。②：可以把场上的当作通常怪兽使用的这张卡当作通常召唤作再1次召唤。那个场合这张卡变成当作效果怪兽使用并得到以下效果。
     ●把这张卡解放，以「炎妖蝶 维尔普斯」以外的自己墓地1只二重怪兽为对象才能发动。那只怪兽特殊召唤。这个效果特殊召唤的怪兽变成再1次召唤的状态。
-type: Monster
-typeline: Insect / Gemini / Effect
+card_type: Monster
+monster_type_line: Insect / Gemini / Effect
 attribute: FIRE
 level: 4
 atk: 1500

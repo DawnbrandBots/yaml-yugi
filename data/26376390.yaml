@@ -7,10 +7,11 @@ name:
   fr: Copiechat
   it: Copiatore
   pt: Imitador
-  ja: ものマネ<ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>想</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: ものマネ<ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>想</rb><rt>そう</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Monomane Gensōshi
   ko: 흉내쟁이 환술사
   ko_rr:
+  zh-TW: 模仿幻想師
   zh-CN: 模仿的幻想师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが召喚・反転召喚・特殊召喚に成功した時、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。このカードの攻撃力・守備力は、選択したモンスターの元々の攻撃力・守備力と同じ数値になる。
   ko: |-
     이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때, 이카드의 공격력 / 수비력은 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장의 원래 공격력 / 수비력이 된다.
+  zh-TW: 此卡召唤、反转召唤、特殊召唤成功时，选择以表侧表示存在于对手场上的1只怪兽发动。此卡的攻击力、守备力变为选择怪兽的原本的攻击力、守备力相同数值。
   zh-CN: |-
     这张卡召唤·反转召唤·特殊召唤成功时，选择对方场上表侧表示存在的1只怪兽发动。这张卡的攻击力·守备力变成和选择的怪兽的原本攻击力·守备力相同的数值。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: LIGHT
 level: 1
 atk: 0

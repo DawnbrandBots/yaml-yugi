@@ -7,10 +7,11 @@ name:
   fr: Belette Tournoyante
   it: Donnola Turbine
   pt: Doninha do Remoinho de Vento
-  ja: <ruby><rb>真</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>空</rb><rp>（</rp><rt>くう</rt><rp>）</rp></ruby>イタチ
+  ja: <ruby><rb>真</rb><rt>しん</rt></ruby><ruby><rb>空</rb><rt>くう</rt></ruby>イタチ
   ja_romaji: Shinkū Itachi
   ko: 진공 족제비
   ko_rr:
+  zh-TW:
   zh-CN: 真空鼬鼠
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     リバース：このターン相手プレイヤーは魔法・罠カードを発動できない。
   ko: |-
     리버스:이 턴 상대는 마법·함정 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
     这个回合对方玩家不能把魔法·陷阱卡发动。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: WIND
 level: 3
 atk: 500

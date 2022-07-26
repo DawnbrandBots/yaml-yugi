@@ -7,10 +7,11 @@ name:
   fr: Rugissement Menaçant
   it: Ruggito Minaccioso
   pt: Rugido Ameaçador
-  ja: <ruby><rb>威</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>嚇</rb><rp>（</rp><rt>かく</rt><rp>）</rp></ruby>する<ruby><rb>咆</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>哮</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>威</rb><rt>い</rt></ruby><ruby><rb>嚇</rb><rt>かく</rt></ruby>する<ruby><rb>咆</rb><rt>ほう</rt></ruby><ruby><rb>哮</rb><rt>こう</rt></ruby>
   ja_romaji: Ikakusuru Hōkō
   ko: 위협하는 포효
   ko_rr: Wihyeopha-neun Pohyu
+  zh-TW: 威嚇咆哮
   zh-CN: 威吓之咆哮
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：このターン相手は攻撃宣言できない。
   ko: |-
     ①: 이 턴에, 상대는 공격 선언할 수 없다.
+  zh-TW: 此回合对手不可进行攻击宣言。
   zh-CN: |-
-    ①：这个回合对方不能攻击宣言。
-type: Trap
+    ①：这个回合对手不能进行攻击宣言。
+card_type: Trap
 property: Normal

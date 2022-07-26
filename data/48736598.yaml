@@ -11,7 +11,8 @@ name:
   ja_romaji: Kōdobureikā Uirusu Bāsākā
   ko: 코드브레이커 바이러스버서커
   ko_rr: Kodeubeureikeo Baireoseubeoseokeo
-  zh-CN: 代码破坏者·病毒狂战士
+  zh-TW:
+  zh-CN: 码破者・病毒狂战士
 text:
   en: |-
     2+ monsters, including a "Codebreaker" monster
@@ -37,18 +38,17 @@ text:
   ko: |-
     "코드브레이커" 몬스터를 포함하는 몬스터 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 때, 이 카드가 상호 링크 상태일 경우에 발동할 수 있다. 자신의 패 / 묘지에서 "코드브레이커" 몬스터를 2장까지 고르고, 링크 몬스터의 링크 앞이 되는 자신 / 상대 필드에 특수 소환한다. ②: 자신 메인 페이즈에 발동할 수 있다. 자신 / 상대 필드의 링크 상태의 "코드브레이커" 몬스터의 수까지, 상대 필드의 마법 / 함정 카드를 고르고 파괴한다.
+  zh-TW:
   zh-CN: |-
-    包含「代码破坏者」怪兽的怪兽2只以上
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡特殊召唤成功时，这张卡是互相连接状态的场合才能发动。从自己的手卡·墓地选最多2只「代码破坏者」怪兽在作为连接怪兽所连接区的自己·对方场上特殊召唤。
-    ②：自己主要阶段才能发动。选最多有自己·对方场上的连接状态的「代码破坏者」怪兽数量的对方场上的魔法·陷阱卡破坏。
-type: Monster
-typeline: Warrior / Link / Effect
+    包括"码破者"怪兽在内的怪兽2只以上
+    此卡名的①②效果1回合仅可各使用1次。①：此卡特殊召唤成功时，此卡为相互连接状态的情况下可以发动。从自己的手牌・墓地挑选最多2只"码破者"怪兽，特殊召唤至连接怪兽连接端的自己·对手场上。②：在自己的主要阶段可以发动。挑选对手场上的魔法・陷阱卡破坏，数量最多为自己·对手场上连接状态的"码破者"怪兽数量。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: DARK
 link_arrows:
-- Bottom-Center
-- Middle-Right
-- Top-Center
+- ⬇
+- ➡
+- ⬆
 atk: 2800
 materials: 2+ monsters, including a "Codebreaker" monster
 sets:

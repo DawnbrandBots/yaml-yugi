@@ -7,10 +7,11 @@ name:
   fr: Guêpe de Bataille - Azusa l'Arc Fantôme
   it: Vespabattaglia - Azusa l'Arco Fantasma
   pt: Vespabatalha - Azusa, o Arco Fantasma
-  ja: <ruby><rb>Ｂ・Ｆ</rb><rp>（</rp><rt>ビー・フォース</rt><rp>）</rp></ruby>－<ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>弓</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby>のアズサ
+  ja: <ruby><rb>Ｂ・Ｆ</rb><rt>ビー・フォース</rt></ruby>－<ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>弓</rb><rt>きゅう</rt></ruby>のアズサ
   ja_romaji: Bī Fōsu - Reikyū no Azusa
-  ko: <ruby><rb>B・F</rb><rp>（</rp><rt>비 포스</rt><rp>）</rp></ruby>－영궁의 아즈사
+  ko: <ruby><rb>B・F</rb><rt>비 포스</rt></ruby>－영궁의 아즈사
   ko_rr: Bi Poseu - Yeong-gung-ui Ajeusa
+  zh-TW:
   zh-CN: 蜂军-灵弓之梓弓蜂
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드 이외의 "B·F(비 포스)" 몬스터의 효과로 상대가 데미지를 받았을 때에 발동할 수 있다(데미지 스텝에도 발동 가능). 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다. ②: 이 카드가 묘지에 존재하는 상태에서, 자신의 "B·F(비 포스)" 몬스터의 전투로 몬스터가 파괴되었을 때에 발동할 수 있다. 이 카드를 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡以外的「蜂军」怪兽的效果让对方受到伤害时才能发动（伤害步骤也能发动）。给与对方那只怪兽的原本攻击力数值的伤害。
     ②：这张卡在墓地存在的状态，自己的「蜂军」怪兽的战斗让怪兽被破坏时才能发动。这张卡守备表示特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-type: Monster
-typeline: Insect / Synchro / Tuner / Effect
+card_type: Monster
+monster_type_line: Insect / Synchro / Tuner / Effect
 attribute: WIND
 level: 5
 atk: 2200

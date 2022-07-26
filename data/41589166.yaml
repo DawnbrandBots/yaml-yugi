@@ -7,11 +7,12 @@ name:
   fr: Tenkabito Shien
   it: Tenkabito Shien
   pt: Tenkabito Shien
-  ja: <ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>下</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>びと</rt><rp>）</rp></ruby>
-    <ruby><rb>紫</rb><rp>（</rp><rt>シ</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>下</rb><rt>か</rt></ruby><ruby><rb>人</rb><rt>びと</rt></ruby>
+    <ruby><rb>紫</rb><rt>シ</rt></ruby><ruby><rb>炎</rb><rt>エン</rt></ruby>
   ja_romaji: Tenkabito Shien
   ko: 천하인 시엔
   ko_rr:
+  zh-TW:
   zh-CN: 天下人 紫炎
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードは罠の効果を受けない。
   ko: |-
     이카드는 함정의 효과를 받지 않는다.
+  zh-TW:
   zh-CN: |-
     这张卡不受陷阱的效果影响。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 1500

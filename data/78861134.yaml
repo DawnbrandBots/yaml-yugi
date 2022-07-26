@@ -7,10 +7,11 @@ name:
   fr: Soldat du Feu Noir N°2
   it: 'Soldato di Fuoco #2'
   pt:
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>豪</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>炎</rb><rt>ほのお</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>豪</rb><rt>ごう</rt></ruby>
   ja_romaji: Honō no Kengō
   ko: 화염의 검객
   ko_rr:
+  zh-TW:
   zh-CN: 炎之剑豪
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     火山に落ちて、炎を身にまとう能力を身につけた武士。
   ko: |-
     화산에 떨어져, 화염으로 몸을 감싸는 능력을 몸에 익힌 무사.
+  zh-TW:
   zh-CN: |-
     传说不幸的剑豪跌入了火山，从此便拥有了散发出火焰的能力。
-type: Monster
-typeline: Pyro
+card_type: Monster
+monster_type_line: Pyro
 attribute: FIRE
 level: 4
 atk: 1700

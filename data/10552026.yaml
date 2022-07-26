@@ -7,10 +7,11 @@ name:
   fr: Talon d'Ogre Gouki
   it: Gouki Malvagio Orco
   pt: Gouki, Ogro Vilão
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ジャドウ・オーガ
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>ジャドウ・オーガ
   ja_romaji: Gōki Jadou Ōga
   ko: 강귀 쟈도우 오우거
   ko_rr: Ganggwi Jyadou Ougeo
+  zh-TW:
   zh-CN: 刚鬼 邪道食人魔
 text:
   en: |-
@@ -37,15 +38,16 @@ text:
   ko: |-
     "강귀" 몬스터 2장
     ①: 1턴에 1번, 이 카드의 링크 앞의 몬스터의 효과가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. 그 후, 자신 묘지에서 "강귀 쟈도우 오우거" 이외의 "강귀" 몬스터 1장을 고르고 특수 소환할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「刚鬼」怪兽2只
-    ①：1回合1次，这张卡所连接区的怪兽的效果发动时才能发动。那个发动无效并破坏。那之后，可以从自己墓地选「刚鬼 邪道食人魔」以外的1只「刚鬼」怪兽特殊召唤。
-type: Monster
-typeline: Warrior / Link / Effect
+    “刚鬼”怪兽2只
+    ①：1回合1次，此卡连接端的怪兽的效果发动时可以发动。将该发动无效并破坏。然后可从自己的墓地挑选1只“刚鬼 邪道食人魔”以外的“刚鬼”怪兽特殊召唤。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: EARTH
 link_arrows:
-- Top-Center
-- Bottom-Center
+- ⬆
+- ⬇
 atk: 1000
 materials: 2 "Gouki" monsters
 sets:

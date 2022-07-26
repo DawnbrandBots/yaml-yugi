@@ -7,10 +7,11 @@ name:
   fr: Marcheur Métallique Militaire
   it: Musicista Marziale Marciante Metallico
   pt: Marchador Marcial de Metal
-  ja: <ruby><rb>武力</rb><rp>（</rp><rt>ブリキ</rt><rp>）</rp></ruby>の<ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby><ruby><rb>奏</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>武力</rb><rt>ブリキ</rt></ruby>の<ruby><rb>軍</rb><rt>ぐん</rt></ruby><ruby><rb>奏</rb><rt>そう</rt></ruby>
   ja_romaji: Buriki no Gunsō
   ko: 양절의 군주
   ko_rr:
+  zh-TW:
   zh-CN: 武力军奏
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우, 자신 묘지의 튜너 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다. ②: 이 카드를 싱크로 소재로 한 싱크로 몬스터는, 필드에 앞면 표시로 존재하는 한 튜너로 취급한다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只以上
     这个卡名的①的效果1回合只能使用1次。
     ①：这张卡同调召唤成功的场合，以自己墓地1只调整为对象才能发动。那只怪兽守备表示特殊召唤。这个效果特殊召唤的怪兽的效果无效化。
     ②：这张卡为同调素材的同调怪兽只要在场上表侧表示存在当作调整使用。
-type: Monster
-typeline: Machine / Synchro / Tuner / Effect
+card_type: Monster
+monster_type_line: Machine / Synchro / Tuner / Effect
 attribute: WIND
 level: 3
 atk: 500

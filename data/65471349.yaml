@@ -7,10 +7,11 @@ name:
   fr: Bounder Psychique
   it: Mascalzone Psichico
   pt: Fronteira Psíquica
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>鏡</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>サイコ・バウンダー
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>鏡</rb><rt>きょう</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>サイコ・バウンダー
   ja_romaji: Makyōdōshi Saiko Baundā
   ko: 마경도사 사이코 바운더
   ko_rr: Magyeongdosa Saiko Baundeo
+  zh-TW:
   zh-CN: 魔镜导士 念界反弹者
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。「人造人間－サイコ・ショッカー」１体またはそのカード名が記された魔法・罠カード１枚をデッキから手札に加える。②：このカード以外の自分のモンスターが相手モンスターに攻撃されたダメージ計算前に発動できる。攻撃モンスターとこのカードを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. "인조인간 －사이코 쇼커－" 1장 또는 그 카드명이 쓰여진 마법 / 함정 카드 1장을 덱에서 패에 넣는다. ②: 이 카드 이외의 자신 몬스터가 상대 몬스터에 공격받은 데미지 계산 전에 발동할 수 있다. 공격 몬스터와 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：这张卡召唤·特殊召唤成功的场合才能发动。把1只「人造人-念力震慑者」或者1张有那个卡名记述的魔法·陷阱卡从卡组加入手卡。
     ②：这张卡以外的自己怪兽被对方怪兽攻击的伤害计算前才能发动。攻击怪兽和这张卡破坏。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

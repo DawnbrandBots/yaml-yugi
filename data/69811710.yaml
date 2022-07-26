@@ -7,11 +7,12 @@ name:
   fr: Girsu, le Mekk-Chevalier Orcust
   it: Girsu, l'Orcusestra Meck-Cavaliere
   pt: Girsu, o Mekk-Cavaleiro Orcust
-  ja: <ruby><rb>宵星の騎士</rb><rp>（</rp><rt>ジャックナイツ・オルフェゴール</rt><rp>）</rp></ruby>ギルス
+  ja: <ruby><rb>宵星の騎士</rb><rt>ジャックナイツ・オルフェゴール</rt></ruby>ギルス
   ja_romaji: Jakkunaitsu Orufegōru Girusu
   ko: 잭나이츠 오르페골 기르수
   ko_rr: Jaeknaicheu Oreupegol Gireusu
-  zh-CN: 宵星之骑士 吉尔苏
+  zh-TW:
+  zh-CN: 宵星之自鸣天琴・机界骑士
 text:
   en: |-
     If this card is Normal or Special Summoned: You can send 1 "Orcust" or "World Legacy" card from your Deck to the GY, then, if there are 2 or more other cards in this card's column, treat this card as a Tuner this turn. If you control no other monsters: You can Special Summon 1 "World Legacy Token" (Machine/DARK/Level 1/ATK 0/DEF 0) to both players' fields in Defense Position. You can only use each effect of "Girsu, the Orcust Mekk-Knight" once per turn.
@@ -29,12 +30,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「オルフェゴール」カードまたは「星遺物」カード１枚を墓地へ送る。このカードと同じ縦列に他のカードが２枚以上存在する場合、さらにこのターン、このカードをチューナーとして扱う。②：自分フィールドに他のモンスターが存在しない場合に発動できる。お互いのフィールドに「星遺物トークン」（機械族・闇・星１・攻／守０）を１体ずつ守備表示で特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "오르페골" 카드 또는 "성유물" 카드 1장을 묘지로 보낸다. 이 카드와 같은 세로열에 다른 카드가 2장 이상 존재할 경우, 추가로 이 턴에, 이 카드를 튜너로서 취급한다. ②: 자신 필드에 다른 몬스터가 존재하지 않을 경우에 발동할 수 있다. 서로의 필드에 "성유물 토큰"(기계족 / 어둠 / 레벨 1 / 공 0 / 수 0)을 1장씩 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把1张「自奏圣乐」卡或者「星遗物」卡送去墓地。和这张卡相同纵列有其他卡2张以上存在的场合，再在这个回合把这张卡当作调整使用。
-    ②：自己场上没有其他怪兽存在的场合才能发动。在双方场上把「星遗物衍生物」（机械族·暗·1星·攻/守0）各1只守备表示特殊召唤。
-type: Monster
-typeline: Machine / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张"自鸣天琴"卡或"星遗物"卡送至墓地。有2张以上的卡与此卡存在于同一纵列的情况下，进而在此回合将此卡视为协调。②：自己场上没有其他怪兽存在的情况下可以发动。将各1只"星遗物衍生物"（机械族・暗・星1・攻／守0）以守备表示特殊召唤至双方场上。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: DARK
 level: 4
 atk: 1800

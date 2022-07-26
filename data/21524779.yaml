@@ -7,10 +7,11 @@ name:
   fr: Matonerre
   it: Matuono
   pt: Mãetrovão
-  ja: <ruby><rb>ＯＫａ</rb><rp>（</rp><rt>オカ</rt><rp>）</rp></ruby>サンダー
+  ja: <ruby><rb>ＯＫａ</rb><rt>オカ</rt></ruby>サンダー
   ja_romaji: Okasandā
-  ko: <ruby><rb>OKa</rb><rp>（</rp><rt>오카</rt><rp>）</rp></ruby> 썬더
+  ko: <ruby><rb>OKa</rb><rt>오카</rt></ruby> 썬더
   ko_rr:
+  zh-TW: 雷電媽媽
   zh-CN: 雷电妈妈
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     １ターンに１度、自分のメインフェイズ時に発動できる。手札から「ＯＫａサンダー」以外の雷族・光属性・レベル４のモンスター１体を召喚する。
   ko: |-
     1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 패에서 "OKa(오카)썬더" 이외의 번개족 / 빛 속성 / 레벨 4의 몬스터 1장을 일반 소환한다.
+  zh-TW: 1回合1次，我方主要阶段时可发动。从手牌召唤「雷電媽媽」以外的1只雷族、光属性、等级4怪兽。
   zh-CN: |-
     1回合1次，自己的主要阶段时才能发动。从手卡把「雷电妈妈」以外的1只雷族·光属性·4星的怪兽召唤。
-type: Monster
-typeline: Thunder / Effect
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 4
 atk: 1400

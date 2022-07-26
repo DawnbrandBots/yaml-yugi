@@ -7,11 +7,12 @@ name:
   fr: Dingirsu, l'Orcust de l'Étoile du Berger
   it: Dingirsu, l'Orcusestra della Stella della Sera
   pt: Dingirsu, o Orcust da Estrela da Noite
-  ja: <ruby><rb>宵星の機神</rb><rp>（</rp><rt>シーオルフェゴール</rt><rp>）</rp></ruby>ディンギルス
+  ja: <ruby><rb>宵星の機神</rb><rt>シーオルフェゴール</rt></ruby>ディンギルス
   ja_romaji: Shīorufegōru Dingirusu
   ko: 시오르페골 딩기르수
   ko_rr: Sioreupegol Dinggireusu
-  zh-CN: 宵星之机神 丁吉尔苏
+  zh-TW:
+  zh-CN: 宵星之自鸣天琴 丁吉尔苏
 text:
   en: |-
     2 Level 8 monsters
@@ -49,15 +50,12 @@ text:
   ko: |-
     레벨 8 몬스터 × 2
     자신은 "시오르페골 딩기르수"를 1턴에 1번밖에 특수 소환할 수 없으며, 자신 필드의 "오르페골" 링크 몬스터의 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드가 특수 소환에 성공했을 경우, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●상대 필드의 카드 1장을 골라 묘지로 보낸다. ●제외되어 있는 자신의 기계족 몬스터 1장을 골라, 이 카드의 아래에 겹쳐 엑시즈 소재로 한다. ②: 자신 필드의 카드가 전투 / 효과로 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다.
+  zh-TW:
   zh-CN: |-
-    8星怪兽×2
-    自己对「宵星之机神 丁吉尔苏」1回合只能有1次特殊召唤，也能在自己场上的「自奏圣乐」连接怪兽上面重叠来超量召唤。
-    ①：这张卡特殊召唤成功的场合，可以从以下效果选择1个发动。
-    ●选对方场上1张卡送去墓地。
-    ●选除外的1只自己的机械族怪兽在这张卡下面重叠作为超量素材。
-    ②：自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡1个超量素材取除。
-type: Monster
-typeline: Machine / Xyz / Effect
+    等级8怪兽×2
+    自己1回合仅可特殊召唤"宵星之自鸣天琴 丁吉尔苏"1次，也可重叠在自己场上的"自鸣天琴"连接怪兽上面进行超量召唤。①：此卡特殊召唤成功的情况下，可从以下效果中选择1个发动。●挑选对手场上的1张卡送至墓地。●挑选1只被除外的自己的机械族怪兽，重叠在此卡下方作为超量素材。②：自己场上的卡将被战斗・效果破坏的情况下，可去除此卡的1个超量素材作为代替。
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 2600

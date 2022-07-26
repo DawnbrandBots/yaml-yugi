@@ -7,11 +7,12 @@ name:
   fr: Monstruosité de l'Héritage du Monde
   it: Mostruosità dell'Eredità del Mondo
   pt: Monstruosidade do Legado Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>遺</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>物</rb><rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>の<ruby><rb>胎</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>導</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>遺</rb><rt>い</rt></ruby><ruby><rb>物</rb><rt>ぶつ</rt></ruby>の<ruby><rb>胎</rb><rt>たい</rt></ruby><ruby><rb>導</rb><rt>どう</rt></ruby>
   ja_romaji: Sei'ibutsu no Taidō
   ko: 성유물의 태도
   ko_rr: Seong-yumul-ui Taedo
-  zh-CN: 星遗物的胎导
+  zh-TW:
+  zh-CN: 星遗物之胎导
 text:
   en: |-
     Activate 1 of these effects.
@@ -47,10 +48,8 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。●手札からレベル９モンスター１体を特殊召喚する。●自分フィールドのレベル９モンスター１体を対象として発動できる。そのモンスターとは元々の種族・属性が異なるレベル９モンスター２体をデッキから特殊召喚する（同名カードは１枚まで）。この効果で特殊召喚したモンスターは攻撃できず、エンドフェイズに破壊される。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●패에서 레벨 9 몬스터 1장을 특수 소환한다. ●자신 필드의 레벨 9 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와는 원래의 종족 / 속성이 다른 레벨 9 몬스터 2장을 덱에서 특수 소환한다(같은 이름의 카드는 1장까지). 이 효과로 특수 소환한 몬스터는 공격할 수 없으며, 엔드 페이즈에 파괴된다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。
-    ①：可以从以下效果选择1个发动。
-    ●从手卡把1只9星怪兽特殊召唤。
-    ●以自己场上1只9星怪兽为对象才能发动。和那只怪兽是原本的种族·属性不同的2只9星怪兽从卡组特殊召唤（同名卡最多1张）。这个效果特殊召唤的怪兽不能攻击，结束阶段破坏。
-type: Spell
+    此卡名的卡1回合仅可发动1张。①：可从以下效果中选择1个发动。●从手牌将1只等级9怪兽特殊召唤。●以自己场上的1只等级9怪兽为对象可以发动。将2只与该怪兽原本种族・属性不同的等级9怪兽从牌组特殊召唤（同名卡最多1张）。以此效果特殊召唤的怪兽不可攻击，将在结束阶段被破坏。
+card_type: Spell
 property: Quick-Play

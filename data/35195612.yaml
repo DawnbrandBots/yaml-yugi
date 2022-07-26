@@ -7,10 +7,11 @@ name:
   fr: Chevalier de Poussière
   it: Cavaliere di Polvere
   pt: Cavaleiro da Poeira
-  ja: <ruby><rb>砂</rb><rp>（</rp><rt>さ</rt><rp>）</rp></ruby><ruby><rb>塵</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>砂</rb><rt>さ</rt></ruby><ruby><rb>塵</rb><rt>じん</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Sajin no Kishi
   ko: 모래 먼지의 기사
   ko_rr:
+  zh-TW: 砂塵騎士
   zh-CN: 沙尘之骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：自分のデッキから地属性モンスター1体を墓地に送る。
   ko: |-
     리버스 : 덱에서 땅 속성 몬스터 1장을 묘지로 보낸다.
+  zh-TW: 反转：从牌组将1只地属性怪兽送入墓地。
   zh-CN: |-
     从卡组把1只地属性怪兽送去墓地。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1400

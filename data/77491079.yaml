@@ -7,10 +7,11 @@ name:
   fr: Lézard de Grand Vent
   it: Lucertola Folata
   pt: Lagarto Gale
-  ja: <ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>風</rb><rp>（</rp><rt>ふう</rt><rp>）</rp></ruby>トカゲ
+  ja: <ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>風</rb><rt>ふう</rt></ruby>トカゲ
   ja_romaji: Bakufū Tokage
   ko: 폭풍 도마뱀
   ko_rr: Pokpung Domabaem
+  zh-TW: 爆風蜥蜴
   zh-CN: 爆风蜥蜴
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがリバースした場合、相手フィールドのモンスター１体を対象として発動する。その相手モンスターを持ち主の手札に戻す。
   ko: |-
     ①: 이 카드가 리버스했을 경우, 상대 필드의 몬스터 1장을 대상으로 하고 발동한다. 그 상대 몬스터를 주인의 패로 되돌린다.
+  zh-TW: 反转：从对手场上选择1只怪兽，返回至持有者的手牌当中。
   zh-CN: |-
     ①：这张卡反转的场合，以对方场上1只怪兽为对象发动。那只对方怪兽回到持有者手卡。
-type: Monster
-typeline: Reptile / Flip / Effect
+card_type: Monster
+monster_type_line: Reptile / Flip / Effect
 attribute: WATER
 level: 4
 atk: 1400

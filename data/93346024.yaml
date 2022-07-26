@@ -7,10 +7,11 @@ name:
   fr: Le Dragon Tapi dans la Caverne
   it: Il Drago Abitante nella Caverna
   pt: O Dragão Vivendo na Caverna
-  ja: <ruby><rb>洞</rb><rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby><rb>窟</rb><rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>に<ruby><rb>潜</rb><rp>（</rp><rt>ひそ</rt><rp>）</rp></ruby>む<ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>洞</rb><rt>どう</rt></ruby><ruby><rb>窟</rb><rt>くつ</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>む<ruby><rb>竜</rb><rt>りゅう</rt></ruby>
   ja_romaji: Dōkutsu ni Hisomu Ryū
   ko: 동굴에 숨은 용
   ko_rr: Dong-gul-e Sum-eun Yong
+  zh-TW:
   zh-CN: 洞穴的潜龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     洞窟に潜む巨大なドラゴン。普段はおとなしいが、怒ると恐ろしい。財宝を守っていると伝えられている。
   ko: |-
     동굴에 숨어있는 거대한 드래곤. 평소에는 온순하다가도 일단 화가 나면 무섭다. 보물을 지키고 있다고 전해진다.
+  zh-TW:
   zh-CN: |-
     潜伏在洞窟的巨龙。平时很温顺、一旦生气就很恐怖。传说其在守着巨大的财富。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: WIND
 level: 4
 atk: 1300

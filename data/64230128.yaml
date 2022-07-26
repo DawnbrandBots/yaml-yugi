@@ -7,11 +7,12 @@ name:
   fr: Zaralaam le Palais des Ténèbres
   it: Zaralaam il Palazzo Oscuro
   pt: Zaralaam, o Palácio Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>殿</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby>ザララーム
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>殿</rb><rt>でん</rt></ruby>ザララーム
   ja_romaji: Ankokushinden Zararāmu
   ko: 암흑신전 자라람
   ko_rr: Amheuksinjeon Jararam
-  zh-CN: 暗黑神殿 扎拉拉姆
+  zh-TW:
+  zh-CN: 骑龙 多拉贡巴克
 text:
   en: |-
     While you control a monster equipped with "Dunnell, the Noble Arms of Light", your opponent cannot activate cards or effects during the Battle Phase. Once per turn, when your "Adventurer Token" destroys an opponent's monster by battle: You can inflict damage to your opponent equal to that destroyed monster's original ATK. Once per turn, during your Main Phase, if the previous effect was activated this turn: You can add 1 Field Spell that mentions "Adventurer Token" from your Deck or GY to your hand, except "Zaralaam the Dark Palace".
@@ -29,9 +30,8 @@ text:
     ①：自分フィールドに「光の聖剣ダンネル」を装備したモンスターが存在する限り、相手はバトルフェイズに効果を発動できない。②：１ターンに１度、自分の「勇者トークン」が戦闘で相手モンスターを破壊した時に発動できる。その相手モンスターの元々の攻撃力分のダメージを相手に与える。③：このカードの②の効果を発動したターンの自分メインフェイズに１度、発動できる。自分のデッキ・墓地から「暗黒神殿ザララーム」以外の「勇者トークン」のトークン名が記されたフィールド魔法カード１枚を選んで手札に加える。
   ko: |-
     ①: 자신 필드에 "빛의 성검 단넬"을 장착한 몬스터가 존재하는 한, 상대는 배틀 페이즈에 효과를 발동할 수 없다. ②: 1턴에 1번, 자신의 "용사 토큰"이 전투로 상대 몬스터를 파괴했을 때에 발동할 수 있다. 그 상대 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다. ③: 이 카드의 ②의 효과를 발동한 턴의 자신 메인 페이즈에 1번, 발동할 수 있다. 자신의 덱 / 묘지에서 "암흑신전 자라람" 이외의 "용사 토큰"의 토큰명이 쓰여진 필드 마법 카드 1장을 고르고 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    ①：只要自己场上有把「光之圣剑 丹内尔」装备的怪兽存在，对方在战斗阶段不能把效果发动。
-    ②：1回合1次，自己的「勇者衍生物」战斗破坏对方怪兽时才能发动。给与对方那只对方怪兽的原本攻击力数值的伤害。
-    ③：这张卡的②的效果发动的回合的自己主要阶段才能发动1次。从自己的卡组·墓地选「暗黑神殿 扎拉拉姆」以外的1张有「勇者衍生物」的衍生物名记述的场地魔法卡加入手卡。
-type: Spell
+    仅可装备于自己场上的怪兽。此卡名的②③效果1回合仅可各使用1次。①："骑龙 多拉贡巴克"在自己场上仅可有1张以表侧表示形式存在。②：此卡装备于效果怪兽以外的怪兽的情况下，以对手场上的1张卡为对象可以发动。将该卡放回持有者的手牌。③：此卡被送至墓地的情况下，以自己场上的1只"勇者衍生物"为对象可以发动。将此卡装备于自己的该怪兽。
+card_type: Spell
 property: Field

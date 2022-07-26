@@ -7,10 +7,11 @@ name:
   fr: Magicienne du Réglage
   it: Maga Sintonizzatrice
   pt: Mago Regulador
-  ja: <ruby><rb>調</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>律</rb><rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>調</rb><rt>ちょう</rt></ruby><ruby><rb>律</rb><rt>りつ</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Chōritsu no Majutsushi
   ko: 조율의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 调律之魔术师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「調律の魔術師」の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、自分のＰゾーンに「魔術師」カードが２枚存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが召喚・特殊召喚に成功した場合に発動する。相手は４００ＬＰ回復し、その後自分は４００ダメージを受ける。
   ko: |-
     "조율의 마술사"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 자신의 펜듈럼 존에 "마술사" 카드가 2장 존재할 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 상대는 400 LP 회복하고, 그 후 자신은 400 데미지를 받는다.
+  zh-TW:
   zh-CN: |-
     「调律之魔术师」的①的效果1回合只能使用1次。①：这张卡在手卡·墓地存在，自己的灵摆区域有2张「魔术师」卡存在的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。②：这张卡召唤·特殊召唤成功的场合发动。对方回复400基本分，那之后自己受到400伤害。
-type: Monster
-typeline: Spellcaster / Tuner / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Tuner / Effect
 attribute: DARK
 level: 1
 atk: 0

@@ -7,10 +7,11 @@ name:
   fr: Assaut Aile Noire - Sayo le Dissimulateur de Pluie
   it: Alanera d'Assalto - Sayo il Nascondi Pioggia
   pt: Asanegra Agressor - Sayo, o que se Esconde na Chuva
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アサルト</rt><rp>）</rp></ruby> <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>雨</rb><rp>（</rp><rt>あま</rt><rp>）</rp></ruby><ruby><rb>隠</rb><rp>（</rp><rt>がく</rt><rp>）</rp></ruby>れのサヨ
+  ja: <ruby><rb>Ａ</rb><rt>アサルト</rt></ruby> <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>雨</rb><rt>あま</rt></ruby><ruby><rb>隠</rb><rt>がく</rt></ruby>れのサヨ
   ja_romaji: Asaruto Burakku Fezā - Amagakure no Sayo
-  ko: <ruby><rb>A BF</rb><rp>（</rp><rt>어썰트 블랙 페더</rt><rp>）</rp></ruby>－비를 긋는 사요
+  ko: <ruby><rb>A BF</rb><rt>어썰트 블랙 페더</rt></ruby>－비를 긋는 사요
   ko_rr:
+  zh-TW:
   zh-CN: 强袭黑羽-雨隐之小夜刀鸟
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장
     ①: "BF(블랙 페더)" 몬스터를 소재로 하고 싱크로 소환한 이 카드는 튜너로 취급한다. ②: 이 카드는 1턴에 2번까지 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     调整＋调整以外的怪兽1只
     ①：「黑羽」怪兽为素材作同调召唤的这张卡当作调整使用。②：这张卡1回合最多2次不会被战斗破坏。
-type: Monster
-typeline: Winged Beast / Synchro / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Synchro / Effect
 attribute: DARK
 level: 2
 atk: 800

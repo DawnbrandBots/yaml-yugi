@@ -11,6 +11,7 @@ name:
   ja_romaji:
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 深渊看守者
 text:
   en: |-
@@ -33,18 +34,19 @@ text:
     Não pode ser usado como Matéria Link no turno em que for Invocado por Invocação-Link. Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial 1 monstro Peixe da sua mão em uma zona sua para a qual este card apontar. Você pode escolher 1 outro monstro Peixe que você controla e 1 card que seu oponente controla; bana esses cards. Você só pode usar cada efeito de "Defensor do Abismo" uma vez por turno.
   ja:
   ko:
+  zh-TW:
   zh-CN: |-
     水属性怪兽2只
     这张卡在链接召唤的回合不能作为链接素材。
     这张卡连接召唤成功的场合可以发动。从手牌将1只鱼族怪兽特殊召唤到是这张卡的链接端的自己场上。
     可以以这张卡以外的自己场上的1只鱼族怪兽和对手场上的1张卡为对象发动。将那些卡除外。
     这个卡名的每个效果1回合各能使用1次。
-type: Monster
-typeline: Fish / Link / Effect
+card_type: Monster
+monster_type_line: Fish / Link / Effect
 attribute: WATER
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1500
 materials: 2 WATER monsters
 sets:

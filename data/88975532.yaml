@@ -7,12 +7,13 @@ name:
   fr: Loup de Guerre Noir-d'Encre
   it: Lupo da Guerra Nero-Pece
   pt: Lobo de Guerra Negro como Azeviche
-  ja: <ruby><rb>漆</rb><rp>（</rp><rt>しっ</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>漆</rb><rt>しっ</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     ワーウルフ
   ja_romaji: Shikkoku no Senshi Wāurufu
   ko: 칠흑의 전사 워울프
   ko_rr:
-  zh-CN: 漆黑的战士 狼人
+  zh-TW:
+  zh-CN: 漆黑战士 战狼
 text:
   en: |-
     Your opponent cannot activate Trap Cards during the Battle Phase.
@@ -30,10 +31,11 @@ text:
     ①：このカードがモンスターゾーンに存在する限り、相手はバトルフェイズに罠カードを発動できない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 배틀 페이즈에 함정 카드를 발동할 수 없다.
+  zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，对方在战斗阶段不能把陷阱卡发动。
-type: Monster
-typeline: Beast-Warrior / Effect
+    ①：只要此卡存在于怪兽区域，对手在战斗阶段不可发动陷阱卡。
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: DARK
 level: 4
 atk: 1600

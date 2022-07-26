@@ -7,10 +7,11 @@ name:
   fr: Éruption du Champ de Mines
   it: Esplosione Del Campo Minato
   pt: Erupção do Campo de Minas
-  ja: <ruby><rb>岩</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby><ruby><rb>盤</rb><rp>（</rp><rt>ばん</rt><rp>）</rp></ruby><ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>破</rb><rp>（</rp><rt>は</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>岩</rb><rt>がん</rt></ruby><ruby><rb>盤</rb><rt>ばん</rt></ruby><ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>破</rb><rt>は</rt></ruby>
   ja_romaji: Ganban Bakuha
   ko: 암반폭파
   ko_rr:
+  zh-TW:
   zh-CN: 岩盘爆破
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上に表側表示で存在する「マイン・ゴーレム」１体につき、相手ライフに１０００ポイントダメージを与える。その後自分フィールド上に表側表示で存在する「マイン・ゴーレム」を全て破壊する。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 "마인 골렘" 1장당, 상대 라이프에 1000 포인트 데미지를 준다. 그 후, 자신 필드 위에 앞면 표시로 존재하는 "마인 골렘" 을 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
     自己场上表侧表示存在的「地雷石人」每有1只，给与对方基本分1000分伤害。那之后自己场上表侧表示存在的「地雷石人」全部破坏。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Li Potartiste
   it: Artistamico Uni
   pt: Camarartista Uni
-  ja: <ruby><rb>ＥＭ</rb><rp>（</rp><rt>エンタメイト</rt><rp>）</rp></ruby>ユニ
+  ja: <ruby><rb>ＥＭ</rb><rt>エンタメイト</rt></ruby>ユニ
   ja_romaji: Entameito Yuni
-  ko: <ruby><rb>EM</rb><rp>（</rp><rt>엔터메이트</rt><rp>）</rp></ruby> 유니
+  ko: <ruby><rb>EM</rb><rt>엔터메이트</rt></ruby> 유니
   ko_rr:
+  zh-TW:
   zh-CN: 娱乐伙伴 小独
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに１度だけ発動できる。手札からレベル３以下の「ＥＭ」モンスター１体を攻撃表示で特殊召喚する。②：相手ターンに、自分の墓地からこのカードと「ＥＭユニ」以外の「ＥＭ」モンスター１体を除外して発動できる。このターン自分が受ける戦闘ダメージを１度だけ０にする。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공한 턴의 자신 메인 페이즈에 1번만 발동할 수 있다. 패에서 레벨 3 이하의 "EM(엔터메이트)" 몬스터 1장을 공격 표시로 특수 소환한다. ②: 상대 턴에, 자신의 묘지에서 이 카드와 "EM(엔터메이트) 유니" 이외의 "EM(엔터메이트)" 몬스터 1장을 제외하고 발동할 수 있다. 이 턴에 자신이 받는 전투 데미지를 1번만 0 으로 한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡召唤·特殊召唤成功的回合的自己主要阶段才能发动1次。从手卡把1只3星以下的「娱乐伙伴」怪兽攻击表示特殊召唤。②：对方回合，从自己墓地把这张卡和1只「娱乐伙伴 小独」以外的「娱乐伙伴」怪兽除外才能发动。这个回合自己受到的战斗伤害只有1次变成0。
-type: Monster
-typeline: Beast-Warrior / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 800

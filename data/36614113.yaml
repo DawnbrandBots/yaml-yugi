@@ -7,11 +7,11 @@ name:
   fr: D/D Arche
   it: D/D Arca
   pt: D/D Arca
-  ja: <ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby><ruby><rb>Ｄ</rb><rp>（</rp><rt>ディー</rt><rp>）</rp></ruby>アーク
+  ja: <ruby><rb>Ｄ</rb><rt>ディー</rt></ruby><ruby><rb>Ｄ</rb><rt>ディー</rt></ruby>アーク
   ja_romaji: Dīdī Āku
-  ko: <ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby><ruby><rb>D</rb><rp>（</rp><rt>디</rt><rp>）</rp></ruby>
-    아크
+  ko: <ruby><rb>D</rb><rt>디</rt></ruby><ruby><rb>D</rb><rt>디</rt></ruby> 아크
   ko_rr: Di Di Akeu
+  zh-TW:
   zh-CN: DD 方舟
 text:
   en: |-
@@ -30,6 +30,7 @@ text:
     このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが効果で破壊された場合に発動できる。自分のＥＸデッキから「ＤＤアーク」以外の表側表示の「ＤＤ」Ｐモンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 엑스트라 덱에서 "DD(디디) 아크" 이외의 앞면 표시 "DD(디디)" 펜듈럼 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     ←1 【灵摆】 1→
     这个卡名的灵摆效果1回合只能使用1次。
@@ -37,8 +38,8 @@ text:
     【怪兽效果】
     这个卡名的怪兽效果1回合只能使用1次。
     ①：这张卡被效果破坏的场合才能发动。从自己的额外卡组把「DD 方舟」以外的1只表侧表示的「DD」灵摆怪兽特殊召唤。这个效果特殊召唤的怪兽的效果无效化。
-type: Monster
-typeline: Fiend / Pendulum / Effect
+card_type: Monster
+monster_type_line: Fiend / Pendulum / Effect
 attribute: DARK
 level: 4
 atk: 0
@@ -61,6 +62,7 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：相手フィールドのＰ召喚されたモンスター１体を対象として発動できる。そのモンスターとこのカードを破壊する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 펜듈럼 소환된 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와 이 카드를 파괴한다.
+  zh-TW:
   zh-CN:
 sets:
   en:

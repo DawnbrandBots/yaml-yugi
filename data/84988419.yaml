@@ -7,10 +7,11 @@ name:
   fr: Diva Fleur de la Choriste de la Musique
   it: Diva Fioritura la Corista Melodiosa
   pt: Diva Florescente, a Coral Melodiosa
-  ja: <ruby><rb>幻</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>奏</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby>の<ruby><rb>華</rb><rp>（</rp><rt>はな</rt><rp>）</rp></ruby><ruby><rb>歌</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>聖</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby>ブルーム・ディーヴァ
+  ja: <ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>奏</rb><rt>そう</rt></ruby>の<ruby><rb>華</rb><rt>はな</rt></ruby><ruby><rb>歌</rb><rt>か</rt></ruby><ruby><rb>聖</rb><rt>せい</rt></ruby>ブルーム・ディーヴァ
   ja_romaji: Gensō no Hanakasei Burūmu Dīva
   ko: 환주의 화가성블룸 디바
   ko_rr:
+  zh-TW:
   zh-CN: 幻奏的华歌圣 花之蒂娃
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "환주의 음희" 몬스터 + "환주" 몬스터
     ① : 이 카드는 전투 / 효과로는 파괴되지 않으며, 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. ② : 이 카드가 특수 소환된 몬스터와 전투를 실행한 데미지 계산 후에 발동할 수 있다. 그 상대 몬스터와 이 카드의, 원래 공격력의 차만큼 데미지를 상대에게 주고, 그 상대 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     「幻奏的音姬」怪兽＋「幻奏」怪兽
     ①：这张卡不会被战斗·效果破坏，这张卡的战斗发生的对自己的战斗伤害变成0。②：这张卡和特殊召唤的怪兽进行战斗的伤害计算后才能发动。给与对方那只对方怪兽和这张卡的原本攻击力差的数值的伤害，那只对方怪兽破坏。
-type: Monster
-typeline: Fairy / Fusion / Effect
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
 attribute: LIGHT
 level: 6
 atk: 1000

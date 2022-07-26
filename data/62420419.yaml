@@ -7,11 +7,12 @@ name:
   fr: Reshef, l'Être des Ténèbres
   it: Reshef l'Entità Oscura
   pt: Reshef, o Ser das Trevas
-  ja: <ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
     レシェフ
   ja_romaji: Daijashin Reshefu
   ko: 대사신 레세프
   ko_rr:
+  zh-TW:
   zh-CN: 大邪神 雷瑟夫
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     「大邪神の儀式」により降臨。手札の魔法カードを１枚捨てる。相手フィールド上モンスター１体のコントロールをエンドフェイズ時まで得る。この効果は１ターンに１度だけ使用する事ができる。
   ko: |-
     "대사신의 의식"에 의해 의식 소환. 패의 마법 카드를 1장 버린다. 상대 필드 위 몬스터 1장의 컨트롤을 엔드 페이즈시까지 얻는다. 이 효과는 1턴에 1번만 사용할 수 있다.
+  zh-TW:
   zh-CN: |-
     「大邪神的仪式」降临。丢弃手卡1张魔法卡。直到结束阶段时得到对方场上1只怪兽的控制权。这个效果1回合只能使用1次。
-type: Monster
-typeline: Fiend / Ritual / Effect
+card_type: Monster
+monster_type_line: Fiend / Ritual / Effect
 attribute: LIGHT
 level: 8
 atk: 2500

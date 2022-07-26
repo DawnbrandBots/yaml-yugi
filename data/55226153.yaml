@@ -11,7 +11,8 @@ name:
   ja_romaji: Dodoremikōdo Kyūtia
   ko: 도도레미코드 큐티아
   ko_rr: Dodoremikodeu Kyutia
-  zh-CN: 多之七音服·丘蒂娅
+  zh-TW:
+  zh-CN: 哆音服和弦・秋迪娅
 text:
   en: |-
     While you have an even Pendulum Scale in your Pendulum Zone, "Solfachord" Pendulum Monsters you control gain ATK equal to 100 x their own Pendulum Scale. If this card is Normal or Special Summoned: You can add 1 "Solfachord" Pendulum Monster from your Deck to your hand, except "DoSolfachord Cutia". You can only use this effect of "DoSolfachord Cutia" once per turn.
@@ -29,15 +30,11 @@ text:
     このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ドドレミコード・キューティア」以外の「ドレミコード」Ｐモンスター１体を手札に加える。②：自分のＰゾーンに偶数のＰスケールが存在する限り、自分フィールドの「ドレミコード」Ｐモンスターの攻撃力は自身のＰスケール×１００アップする。
   ko: |-
     이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "도도레미코드 큐티아" 이외의 "도레미코드" 펜듈럼 몬스터 1장을 패에 넣는다. ②: 자신의 펜듈럼 존에 짝수의 펜듈럼 스케일이 존재하는 한, 자신 필드의 "도레미코드" 펜듈럼 몬스터의 공격력은 자신의 펜듈럼 스케일 × 100 올린다.
+  zh-TW:
   zh-CN: |-
-    ←8 【灵摆】 8→
-    ①：自己的「七音服」灵摆怪兽的灵摆召唤不会被无效化。
-    【怪兽效果】
-    这个卡名的①的怪兽效果1回合只能使用1次。
-    ①：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把「多之七音服·丘蒂娅」以外的1只「七音服」灵摆怪兽加入手卡。
-    ②：只要自己的灵摆区域有偶数的灵摆刻度存在，自己场上的「七音服」灵摆怪兽的攻击力上升自身的灵摆刻度×100。
-type: Monster
-typeline: Fairy / Pendulum / Effect
+    此卡名的①怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将"哆音服和弦・秋迪娅"以外的1只"音服和弦"灵摆怪兽加入手牌。②：只要自己的灵摆区域有偶数的灵摆刻度存在，自己场上的"音服和弦"灵摆怪兽的攻击力上升相当于自身灵摆刻度×100的数值。
+card_type: Monster
+monster_type_line: Fairy / Pendulum / Effect
 attribute: EARTH
 level: 1
 atk: 100
@@ -60,7 +57,9 @@ pendulum_effect:
     ①：自分の「ドレミコード」ＰモンスターのＰ召喚は無効化されない。
   ko: |-
     ①: 자신의 "도레미코드" 펜듈럼 몬스터의 펜듈럼 소환은 무효화되지 않는다.
-  zh-CN:
+  zh-TW:
+  zh-CN: |-
+    ①：自己的"音服和弦"灵摆怪兽的灵摆召唤不会被无效化。
 sets:
   en:
   - set_number: ANGU-EN014

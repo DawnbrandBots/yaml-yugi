@@ -7,10 +7,11 @@ name:
   fr: Boxeur Indomptable au Coup du Lapin
   it: Pugile Indomito Coniglio Picchiatore
   pt: Boxeador Obstinado Pegador de Nuca
-  ja: <ruby><rb>ＢＫ</rb><rp>（</rp><rt>バーニングナックラー</rt><rp>）</rp></ruby> ラビット・パンチャー
+  ja: <ruby><rb>ＢＫ</rb><rt>バーニングナックラー</rt></ruby> ラビット・パンチャー
   ja_romaji: Bāningu Nakkurā Rabitto Panchā
-  ko: <ruby><rb>BK</rb><rp>（</rp><rt>버닝나쿠라</rt><rp>）</rp></ruby> 래빗 펀처
+  ko: <ruby><rb>BK</rb><rt>버닝나쿠라</rt></ruby> 래빗 펀처
   ko_rr:
+  zh-TW:
   zh-CN: 燃烧拳击手 击后脑勺拳手
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが守備表示モンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。
   ko: |-
     이 카드가 수비 표시 몬스터를 공격했을 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     这张卡向守备表示怪兽攻击的场合，不进行伤害计算把那只怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: FIRE
 level: 3
 atk: 800

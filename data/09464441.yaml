@@ -7,11 +7,12 @@ name:
   fr: Éveillé Inflexcipateur - Dragite
   it: Irremovibilatore Risvegliato - Draghite
   pt: Ressurgido Adamancipador - Dragita
-  ja: <ruby><rb>魔救の奇跡</rb><rp>（</rp><rt>アダマシア・ライズ</rt><rp>）</rp></ruby>－ドラガイト
+  ja: <ruby><rb>魔救の奇跡</rb><rt>アダマシア・ライズ</rt></ruby>－ドラガイト
   ja_romaji: Adamashia Raizu - Doragaito
   ko: 아다마시아 라이즈－드라가이트
   ko_rr: Adamasia Raijeu - Deuragaiteu
-  zh-CN: 魔救之奇迹-巨龙晶石
+  zh-TW:
+  zh-CN: 魔救奇迹－龙石
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -37,13 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신의 덱 위에서 카드를 5장 넘긴다. 그 중의 암석족 몬스터의 수까지 상대 필드의 카드를 고르고 주인의 패로 되돌릴 수 있다. 넘긴 카드는 좋아하는 순서대로 덱 맨 아래로 되돌린다. ②: 자신 묘지에 물 속성 몬스터가 존재하고, 상대가 마법 / 함정 카드의 효과를 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：自己主要阶段才能发动。从自己卡组上面把5张卡翻开。可以选最多有那之中的岩石族怪兽数量的对方场上的卡回到持有者手卡。翻开的卡用喜欢的顺序回到卡组最下面。
-    ②：自己墓地有水属性怪兽存在，对方把魔法·陷阱卡的效果发动时才能发动。那个发动无效并破坏。
-type: Monster
-typeline: Rock / Synchro / Effect
+    协调＋协调以外的怪兽1只以上
+    此卡名的①②效果1回合仅可各使用1次。①：自己的主要阶段可以发动。从自己牌组上面翻开5张卡。根据其中岩石族怪兽的数量，可以从对手场上挑选最多为相同数量的卡放回持有者手牌。翻开的卡以喜欢的顺序放回牌组最下面。②：自己墓地存在水属性怪兽，且对手发动魔法・陷阱卡的效果时可以发动。将该发动无效并破坏。
+card_type: Monster
+monster_type_line: Rock / Synchro / Effect
 attribute: WATER
 level: 8
 atk: 3000

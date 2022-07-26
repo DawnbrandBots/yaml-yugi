@@ -11,6 +11,7 @@ name:
   ja_romaji: Debiru Doragon
   ko: 데블 드래곤
   ko_rr:
+  zh-TW:
   zh-CN: 恶魔龙
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Um dragão maligno que cospe fogo. As suas chamas maléficas corrompem as almas de suas vítimas.
   ja: |-
-    <ruby><rb>凶</rb><rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby>なドラゴン。<ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby>な<ruby><rb>炎</rb><rp>（</rp><rt>ほのお</rt><rp>）</rp></ruby>をはき、<ruby><rb>心</rb><rp>（</rp><rt>こころ</rt><rp>）</rp></ruby>を<ruby><rb>邪</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby><ruby><rb>悪</rb><rp>（</rp><rt>あく</rt><rp>）</rp></ruby>にする。
+    <ruby><rb>凶</rb><rt>きょう</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby>なドラゴン。<ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby>な<ruby><rb>炎</rb><rt>ほのお</rt></ruby>をはき、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby>にする。
   ko: |-
     흉악한 드래곤. 사악한 화염을 뿜어내 상대의 마음을 약으로 물들인다.
+  zh-TW:
   zh-CN: |-
     凶恶的龙。吐出邪恶的火焰使人变得邪恶。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: DARK
 level: 4
 atk: 1500

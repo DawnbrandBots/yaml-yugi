@@ -7,10 +7,11 @@ name:
   fr: Roc de la Vallée des Brumes
   it: Roc dalla Valle della Nebbia
   pt: Roca do Vale da Neblina
-  ja: <ruby><rb>霞</rb><rp>（</rp><rt>かすみ</rt><rp>）</rp></ruby>の<ruby><rb>谷</rb><rp>（</rp><rt>たに</rt><rp>）</rp></ruby>の<ruby><rb>大</rb><rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby><rb>怪</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>鳥</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>霞</rb><rt>かすみ</rt></ruby>の<ruby><rb>谷</rb><rt>たに</rt></ruby>の<ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>怪</rb><rt>かい</rt></ruby><ruby><rb>鳥</rb><rt>ちょう</rt></ruby>
   ja_romaji: Kasumi no Tani no Daikaichō
   ko: 안개 계곡의 대괴조
   ko_rr: An-gae Gyegok-ui Daegoejo
+  zh-TW:
   zh-CN: 霞之谷的大怪鸟
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが手札から墓地に送られた時、このカードをデッキに加えてシャッフルする。
   ko: |-
     이 카드가 카드패로부터 묘지로 보내졌을 때, 이 카드를 덱에 넣고 셔플한다.
+  zh-TW:
   zh-CN: |-
     这张卡从手卡送去墓地时，这张卡加入卡组洗切。
-type: Monster
-typeline: Winged Beast / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Effect
 attribute: WIND
 level: 6
 atk: 2400

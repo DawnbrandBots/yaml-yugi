@@ -7,11 +7,12 @@ name:
   fr: Goldd, Wu-Lord du Monde Ténébreux
   it: Goldd, Signore-Wu del Mondo Oscuro
   pt: Dourado, Wu-Lorde do Mundo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>神</rb><rt>しん</rt></ruby>
     ゴルド
   ja_romaji: Ankokukai no Bushin Gorudo
   ko: 암흑계의 무신 골드
   ko_rr:
+  zh-TW: 暗黑界之武神 金爾多
   zh-CN: 暗黑界的武神 高尔德
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードがカードの効果によって手札から墓地へ捨てられた場合、このカードを墓地から特殊召喚する。相手のカードの効果によって捨てられた場合、さらに相手フィールド上に存在するカードを２枚まで選択して破壊する事ができる。
   ko: |-
     이 카드가 다른 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 이 카드를 자신 필드 위에 특수 소환한다. 상대 카드의 효과에 의해서 버려졌을 경우, 다시 상대 필드 위에 존재하는 카드를 2장까지 선택하고 파괴할 수 있다.
+  zh-TW: 此卡因卡牌效果从手牌被舍弃至墓地的场合，从墓地特殊召唤此卡。因对手卡牌效果被舍弃的场合，可另选择对手场上的最多2张卡牌破坏。
   zh-CN: |-
     这张卡被卡的效果从手卡丢弃去墓地的场合，这张卡从墓地特殊召唤。被对方的卡的效果丢弃的场合，可以再选择对方场上存在的最多2张卡破坏。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 5
 atk: 2300

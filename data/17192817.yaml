@@ -7,10 +7,11 @@ name:
   fr: Béhémoth en Fusion
   it: Behemoth Fuso
   pt:
-  ja: <ruby><rb>溶岩大巨人</rb><rp>（</rp><rt>マグマ・ギガント</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>溶岩大巨人</rb><rt>マグマ・ギガント</rt></ruby>
   ja_romaji: Maguma Giganto
   ko: 용암 대거인
   ko_rr:
+  zh-TW:
   zh-CN: 熔岩大巨人
 text:
   en: |-
@@ -24,10 +25,11 @@ text:
     マグマの大地から生まれた巨人。マグマパンチで攻撃をする。
   ko: |-
     마그마의 대지에서 탄생한 거인. 마그마 펀치로 공격을 한다.
+  zh-TW:
   zh-CN: |-
     从熔岩大地诞生的巨人。使用熔岩拳击攻击。
-type: Monster
-typeline: Pyro
+card_type: Monster
+monster_type_line: Pyro
 attribute: FIRE
 level: 5
 atk: 1000

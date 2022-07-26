@@ -7,10 +7,11 @@ name:
   fr: Algue Brûlante
   it: Algae Infuocate
   pt: Alga Ardente
-  ja: <ruby><rb>燃</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby>える<ruby><rb>藻</rb><rp>（</rp><rt>も</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>燃</rb><rt>も</rt></ruby>える<ruby><rb>藻</rb><rt>も</rt></ruby>
   ja_romaji: Moeru Mo
   ko: 타오르는 수초
   ko_rr:
+  zh-TW:
   zh-CN: 燃藻
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが墓地に送られた時、相手は１０００ライフポイント回復する。
   ko: |-
     이 카드가 묘지로 보내졌을 때, 상대는 1000라이프 포인트를 회복한다
+  zh-TW:
   zh-CN: |-
     这张卡被送去墓地时，对方回复1000基本分。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 3
 atk: 500

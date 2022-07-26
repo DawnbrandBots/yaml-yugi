@@ -7,10 +7,11 @@ name:
   fr: Sort d'Épuisement
   it: Magia Spossante
   pt: Mágica Exaustiva
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby><ruby><rb>枯</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby><rb>渇</rb><rp>（</rp><rt>かつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby><ruby><rb>枯</rb><rt>こ</rt></ruby><ruby><rb>渇</rb><rt>かつ</rt></ruby>
   ja_romaji: Maryoku Kokatsu
   ko: 마력고갈
   ko_rr:
+  zh-TW:
   zh-CN: 魔力枯竭
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分と相手フィールド上に存在する魔力カウンターを全て取り除く。
   ko: |-
     자신과 상대 필드 위에 존재하는 마력 카운터를 전부 제거한다.
+  zh-TW:
   zh-CN: |-
     把自己和对方场上存在的魔力指示物全部取除。
-type: Trap
+card_type: Trap
 property: Normal

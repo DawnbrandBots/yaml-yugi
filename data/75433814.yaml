@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 40 : Poupée Truquée de Cordes'
   it: 'Numero 40: Burattino Arnese delle Corde'
   pt: 'Número 40: Engenhoca Marionete das Cordas'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>４０ ギミック・パペット－ヘブンズ・ストリングス
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>４０ ギミック・パペット－ヘブンズ・ストリングス
   ja_romaji: Nanbāzu Yonjū Gimikku Papetto - Hebunzu Sutoringusu
   ko: No.40 기믹 퍼핏－헤븐즈 스트링스
   ko_rr: Neombeomjeu Maheun Gimik Peopit - Haebeunjeu Seuteuringseu
+  zh-TW:
   zh-CN: No.40 机关傀儡-天堂弦乐手
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 8 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 카드 이외의 필드의 앞면 표시 몬스터 전부에 스트링 카운터를 1개씩 놓는다. ②: 이 카드의 ①의 효과로 스트링 카운터를 놓았을 경우, 다음 상대 엔드 페이즈에 발동한다. 필드의 스트링 카운터가 놓여 있는 몬스터를 전부 파괴하고, 파괴한 몬스터의 수 × 500 데미지를 상대에게 준다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×2
     ①：1回合1次，把这张卡1个XYZ素材取除才能发动。给这张卡以外的场上的表侧表示怪兽全部各放置1个线指示物。②：这张卡的①的效果把线指示物放置的场合，下次的对方结束阶段发动。场上的有线指示物放置的怪兽全部破坏，给与对方破坏的怪兽数量×500伤害。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 3000

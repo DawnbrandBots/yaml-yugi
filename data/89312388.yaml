@@ -7,11 +7,12 @@ name:
   fr: Prisme, HÉROS Élémentaire
   it: Prisma EROE Elementale
   pt: Prisma, o HERÓI do Elemento
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> プリズマー
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> プリズマー
   ja_romaji: Erementaru Hīrō Purizumā
   ko: 엘리멘틀 히어로 플리즈마
   ko_rr: Ellimenteul Hieoro Peullijeuma
-  zh-CN: 元素英雄 棱镜侠
+  zh-TW: E・HERO 稜鏡俠
+  zh-CN: 元素－英雄 棱镜侠
 text:
   en: |-
     Once per turn: You can reveal 1 Fusion Monster from your Extra Deck, then send 1 of the Fusion Materials whose name is specifically listed on that card from your Deck to the Graveyard; this card's name becomes the sent monster's until the End Phase.
@@ -29,10 +30,11 @@ text:
     ①：１ターンに１度、エクストラデッキの融合モンスター１体を相手に見せ、そのモンスターにカード名が記されている融合素材モンスター１体をデッキから墓地へ送って発動できる。エンドフェイズまで、このカードはこの効果を発動するために墓地へ送ったモンスターと同名カードとして扱う。
   ko: |-
     ①: 1턴에 1번, 엑스트라 덱의 융합 몬스터 1장을 상대에게 보여주고, 그 몬스터에 카드명이 쓰여 있는 융합 소재 몬스터 1장을 덱에서 묘지로 보내어 발동할 수 있다. 엔드 페이즈까지, 이 카드는 이 효과를 발동하기 위해 묘지로 보낸 몬스터와 같은 이름의 카드로 취급한다.
+  zh-TW: 每1回合1次，可将额外牌组中的1只融合怪兽亮牌给对手，并将记载有卡牌名称的该怪兽的1只融合素材怪兽从牌组送入墓地并发动。直到结束阶段为止，此卡将被作为送入墓地怪兽的同名卡。
   zh-CN: |-
-    ①：1回合1次，把额外卡组1只融合怪兽给对方观看，把那只怪兽有卡名记述的1只融合素材怪兽从卡组送去墓地才能发动。直到结束阶段，这张卡当作和为这个效果发动而送去墓地的怪兽同名卡使用。
-type: Monster
-typeline: Warrior / Effect
+    ①：1回合1次，将额外牌组的1只融合怪兽出示给对手，将1只卡名记载于该怪兽的融合素材怪兽从牌组送至墓地可以发动。直至结束阶段为止，此卡视为为发动此效果送至墓地的怪兽的同名卡。
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

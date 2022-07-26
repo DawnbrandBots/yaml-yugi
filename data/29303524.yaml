@@ -7,10 +7,11 @@ name:
   fr: Seleglare le Dragon Lunaire Lumineux
   it: Seleglare il Luminoso Drago Lunare
   pt: Seleglare, o Dragão Lunar Brilhante
-  ja: <ruby><rb>眩</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby><rb>月</rb><rp>（</rp><rt>げつ</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>セレグレア
+  ja: <ruby><rb>眩</rb><rt>げん</rt></ruby><ruby><rb>月</rb><rt>げつ</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>セレグレア
   ja_romaji: Gengetsuryū Seregurea
   ko: 현월룡 세레글레어
   ko_rr: Hyeonwollyong Seregeulle-eo
+  zh-TW:
   zh-CN: 眩月龙 塞勒格莱尔
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：このカードはリリースなしで通常召喚できる。②：このカードの①の方法で通常召喚したこのカードの元々の攻撃力は１５００になる。③：自分・相手のメインフェイズに、このカードの攻撃力以下の攻撃力を持つ相手フィールドのモンスター１体を対象として発動できる。このカードを持ち主の手札に戻し、対象のモンスターのコントロールをエンドフェイズまで得る。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 릴리스 없이 통상 소환할 수 있다. ②: 이 카드의 ①의 방법으로 통상 소환한 이 카드의 원래 공격력은 1500 이 된다. ③: 자신 / 상대의 메인 페이즈에, 이 카드의 공격력 이하의 공격력을 가지는 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 주인의 패로 되돌리고, 대상 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
+  zh-TW:
   zh-CN: |-
     这个卡名的③的效果1回合只能使用1次。
     ①：这张卡可以不用解放作通常召唤。
     ②：这张卡的①的方法通常召唤的这张卡的原本攻击力变成1500。
     ③：自己·对方的主要阶段，以持有这张卡的攻击力以下的攻击力的对方场上1只怪兽为对象才能发动。这张卡回到持有者手卡，作为对象的怪兽的控制权直到结束阶段得到。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 6
 atk: 2400

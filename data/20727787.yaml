@@ -7,10 +7,11 @@ name:
   fr: Désarmement
   it: Disarmo
   pt: Desarmamento
-  ja: <ruby><rb>武</rb><rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby><rb>装</rb><rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby><rb>解</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>除</rb><rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>武</rb><rt>ぶ</rt></ruby><ruby><rb>装</rb><rt>そう</rt></ruby><ruby><rb>解</rb><rt>かい</rt></ruby><ruby><rb>除</rb><rt>じょ</rt></ruby>
   ja_romaji: Busō Kaijo
   ko: 무장 해제
   ko_rr:
+  zh-TW:
   zh-CN: 武装解除
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     フィールド上の装備カードを全て破壊する。
   ko: |-
     필드 위의 장비 카드를 전부 파괴한다
+  zh-TW:
   zh-CN: |-
     场上的装备卡全部破坏。
-type: Trap
+card_type: Trap
 property: Normal

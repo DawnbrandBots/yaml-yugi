@@ -7,11 +7,12 @@ name:
   fr: Gouki L'Ogre Solide
   it: Gouki Il Solido Orco
   pt: Gouki, O Ogro Sólido
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ザ・ソリッド・オーガ
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>ザ・ソリッド・オーガ
   ja_romaji: Gōki Za Soriddo Ōga
   ko: 강귀 더 솔리드 오우거
   ko_rr: Ganggwi Deo Sollideu Ougeo
-  zh-CN: 刚鬼 硬铠食人魔
+  zh-TW:
+  zh-CN: 刚鬼 铠甲食人魔
 text:
   en: |-
     2+ "Gouki" monsters
@@ -37,17 +38,17 @@ text:
   ko: |-
     "강귀" 몬스터 2장 이상
     ①: 이 카드의 링크 앞에 "강귀" 몬스터가 존재하는 한, 이 카드는 전투 / 효과로는 파괴되지 않는다. ②: 1턴에 1번, "강귀 더 솔리드 오우거" 이외의 자신 메인 몬스터 존의 "강귀" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 자신 몬스터의 위치를, 이 카드의 링크 앞이 되는 자신 메인 몬스터 존으로 이동한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「刚鬼」怪兽2只以上
-    ①：只要这张卡所连接区有「刚鬼」怪兽存在，这张卡不会被战斗·效果破坏。
-    ②：1回合1次，以「刚鬼 硬铠食人魔」以外的自己的主要怪兽区域1只「刚鬼」怪兽为对象才能发动。那只自己怪兽的位置向作为这张卡所连接区的自己的主要怪兽区域移动。这个效果在对方回合也能发动。
-type: Monster
-typeline: Warrior / Link / Effect
+    "刚鬼"怪兽2只以上
+    ①：只要此卡的连接端有"刚鬼"怪兽存在，此卡不会因战斗・效果被破坏。②：1回合1次，以"刚鬼 铠甲食人魔"以外的、自己主要怪兽区域的1只"刚鬼"怪兽为对象可以发动。将自己的该怪兽的位置移动至此卡连接端的自己主要怪兽区域。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: EARTH
 link_arrows:
-- Middle-Left
-- Bottom-Center
-- Top-Center
+- ⬅
+- ⬇
+- ⬆
 atk: 2400
 sets:
   en:

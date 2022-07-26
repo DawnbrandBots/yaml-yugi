@@ -7,10 +7,11 @@ name:
   fr: Chaussures Mordantes
   it: Scarpe Voraci
   pt: Sapatos das Dentadas
-  ja: <ruby><rb>朱</rb><rp>（</rp><rt>あか</rt><rp>）</rp></ruby>い<ruby><rb>靴</rb><rp>（</rp><rt>くつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>朱</rb><rt>あか</rt></ruby>い<ruby><rb>靴</rb><rt>くつ</rt></ruby>
   ja_romaji: Akai Kutsu
   ko: 빨간 구두
   ko_rr:
+  zh-TW:
   zh-CN: 红靴子
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     リバース：表側表示モンスター１体の表示形式を変更する（裏側表示にはできない）。
   ko: |-
     리버스 : 앞면 표시 몬스터 1장의 표시 형식을 변경한다(뒷면 표시로는 할 수 없다).
+  zh-TW:
   zh-CN: |-
     把1只表侧表示怪兽的表示形式变更（不能变成里侧表示）。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 2
 atk: 500

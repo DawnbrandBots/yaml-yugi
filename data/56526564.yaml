@@ -7,10 +7,11 @@ name:
   fr: Trappe de Rupture
   it: Buco Trappola Staccamento
   pt: Livrar-se do Buraco Armadilha
-  ja: <ruby><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby><ruby><rb>縁</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>落</rb><rp>（</rp><rt>お</rt><rp>）</rp></ruby>とし<ruby><rb>穴</rb><rp>（</rp><rt>あな</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>絶</rb><rt>ぜつ</rt></ruby><ruby><rb>縁</rb><rt>えん</rt></ruby>の<ruby><rb>落</rb><rt>お</rt></ruby>とし<ruby><rb>穴</rb><rt>あな</rt></ruby>
   ja_romaji: Zetsuen no Otoshiana
   ko: 절연의 함정 속으로
   ko_rr: Jeolyeon-ui Hamjeong Sok-euro
+  zh-TW:
   zh-CN: 绝缘的落穴
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：リンクモンスターがリンク召喚に成功した時に発動できる。フィールドのリンク状態ではないモンスターを全て破壊する。
   ko: |-
     ①: 링크 몬스터가 링크 소환에 성공했을 때에 발동할 수 있다. 필드의 링크 상태가 아닌 몬스터를 전부 파괴한다.
+  zh-TW:
   zh-CN: |-
-    ①：连接怪兽连接召唤成功时才能发动。场上的不在连接状态的怪兽全部破坏。
-type: Trap
+    ①：连接怪兽连接召唤成功时可以发动。破坏场上的所有非连接状态的怪兽。
+card_type: Trap
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Gol'gar la Forteresse Cosmique
   it: Fortezza Cosmica Gol'gar
   pt: Fortaleza Cósmica Gol'gar
-  ja: <ruby><rb>宇</rb><rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby><rb>宙</rb><rp>（</rp><rt>ら</rt><rp>）</rp></ruby><ruby><rb>砦</rb><rp>（</rp><rt>とりで</rt><rp>）</rp></ruby>ゴルガー
+  ja: <ruby><rb>宇</rb><rt>そ</rt></ruby><ruby><rb>宙</rb><rt>ら</rt></ruby><ruby><rb>砦</rb><rt>とりで</rt></ruby>ゴルガー
   ja_romaji: Sora Toride Gorugā
   ko: 우주요새 고르가
   ko_rr: Ujuyosae Goruga
+  zh-TW:
   zh-CN: 宇宙城 哥尔加
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "에일리언 모나이트" ＋ 튜너 이외의 "에일리언" 몬스터 1장 이상
     ①: 1턴에 1번, 필드의 앞면 표시의 마법 / 함정 카드를 임의의 수만큼 대상으로 하고 발동할 수 있다. 그 앞면 표시의 카드를 주인의 패로 되돌린다. 그 후, 패로 되돌아간 수만큼 필드의 앞면 표시 몬스터에 A 카운터를 놓는다. ②: 1턴에 1번, 필드의 A 카운터를 2개 제거하고, 상대 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 상대의 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     「外星菊石」＋调整以外的「外星」怪兽1只以上
     ①：1回合1次，以场上的表侧表示的魔法·陷阱卡任意数量为对象才能发动。那些表侧表示的卡回到持有者手卡。那之后，回到手卡的数量的A指示物给场上的表侧表示怪兽放置。②：1回合1次，把场上2个A指示物取除，以对方场上1张卡为对象才能发动。那张对方的卡破坏。
-type: Monster
-typeline: Reptile / Synchro / Effect
+card_type: Monster
+monster_type_line: Reptile / Synchro / Effect
 attribute: LIGHT
 level: 5
 atk: 2600

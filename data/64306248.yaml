@@ -7,11 +7,11 @@ name:
   fr: Coccinelle à Marque de Crâne
   it: Coccinella dal Dorso a Teschio
   pt:
-  ja: <ruby><rb>髑髏</rb><rp>（</rp><rt>ドクロ</rt><rp>）</rp></ruby><ruby><rb>顔</rb><rp>（</rp><rt>がん</rt><rp>）</rp></ruby>
-    <ruby><rb>天道虫</rb><rp>（</rp><rt>レディバグ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>髑髏</rb><rt>ドクロ</rt></ruby><ruby><rb>顔</rb><rt>がん</rt></ruby> <ruby><rb>天道虫</rb><rt>レディバグ</rt></ruby>
   ja_romaji: Dokurogan Redibagu
   ko: 해골 무당벌레
   ko_rr:
+  zh-TW:
   zh-CN: 骷髅颜瓢虫
 text:
   en: |-
@@ -30,10 +30,11 @@ text:
     このカードが墓地に送られた時、自分は１０００ライフポイント回復する。
   ko: |-
     이 카드가 묘지로 보내졌을떄, 자신은 1000라이프 포인트를 회복한다.
+  zh-TW:
   zh-CN: |-
     这张卡被送去墓地时，自己回复1000基本分。
-type: Monster
-typeline: Insect / Effect
+card_type: Monster
+monster_type_line: Insect / Effect
 attribute: EARTH
 level: 4
 atk: 500

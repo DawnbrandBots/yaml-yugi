@@ -7,10 +7,11 @@ name:
   fr: Puce Géante
   it: Pulce Gigante
   pt: Pulga Gigante
-  ja: <ruby><rb>吸</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>血</rb><rp>（</rp><rt>けつ</rt><rp>）</rp></ruby>ノミ
+  ja: <ruby><rb>吸</rb><rt>きゅう</rt></ruby><ruby><rb>血</rb><rt>けつ</rt></ruby>ノミ
   ja_romaji: Kyūketsu Nomi
   ko: 흡혈벼룩
   ko_rr:
+  zh-TW:
   zh-CN: 吸血跳蚤
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     血を吸う巨大ノミ。攻撃はかなり強い。ノミとあなどると危険。
   ko: |-
     피를 마시는 거대 벼룩. 공격은 상당히 강하다. 벼룩이라고 얕보면 위험.
+  zh-TW:
   zh-CN: |-
     攻击力高强的巨型吸血跳蚤，轻视它会非常危险。
-type: Monster
-typeline: Insect
+card_type: Monster
+monster_type_line: Insect
 attribute: EARTH
 level: 4
 atk: 1500

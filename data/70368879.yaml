@@ -7,11 +7,12 @@ name:
   fr: Gobelin Parvenu
   it: Riccastro Goblin
   pt: Goblin Inexperiente
-  ja: <ruby><rb>成</rb><rp>（</rp><rt>なり</rt><rp>）</rp></ruby><ruby><rb>金</rb><rp>（</rp><rt>きん</rt><rp>）</rp></ruby>ゴブリン
+  ja: <ruby><rb>成</rb><rt>なり</rt></ruby><ruby><rb>金</rb><rt>きん</rt></ruby>ゴブリン
   ja_romaji: Narikin Goburin
   ko: 갑부 고블린
   ko_rr: Gapbu Gobeullin
-  zh-CN: 哥布林暴发户
+  zh-TW: 格布林暴發戶
+  zh-CN: 暴发户格布林
 text:
   en: |-
     Draw 1 card, then your opponent gains 1000 LP.
@@ -29,7 +30,8 @@ text:
     ①：自分はデッキから１枚ドローする。その後、相手は１０００ＬＰ回復する。
   ko: |-
     ①: 자신은 덱에서 1장 드로우한다. 그 후, 상대는 1000 LP 회복한다.
+  zh-TW: 從我方牌組中抽取1張卡牌。之後，對手回復1000生命點數。
   zh-CN: |-
-    ①：自己从卡组抽1张。那之后，对方回复1000基本分。
-type: Spell
+    ①：自己从牌组中抽1张。之后，对手恢复1000LP。
+card_type: Spell
 property: Normal

@@ -7,10 +7,11 @@ name:
   fr: Bihamut Aura Blanche
   it: Bihamut Aura Bianca
   pt: Bihamut de Aura Branca
-  ja: <ruby><rb>白闘気双頭神龍</rb><rp>（</rp><rt>ホワイト・オーラ・バイファムート</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>白闘気双頭神龍</rb><rt>ホワイト・オーラ・バイファムート</rt></ruby>
   ja_romaji: Howaito Ōra Baifamūto
   ko: 화이트 아우라 바이하무트
   ko_rr: Hwaiteu Aura Baihamuteu
+  zh-TW:
   zh-CN: 白斗气双头神龙
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     싱크로 몬스터의 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 자신 턴에 이 카드가 싱크로 소환에 성공했을 때에 발동할 수 있다. 자신 필드에 "신룡 토큰"(어류족 / 물 / 레벨 10 / 공 3300 / 수 3000) 1장을 수비 표시로 특수 소환한다. ②: 상대 턴에 1번, 자신 필드에 토큰이 없을 경우에 발동할 수 있다. 자신 필드에 "신룡 토큰" 1장을 특수 소환한다. ③: 이 카드가 상대 효과로 파괴되어 묘지로 보내졌을 경우에, 자신 필드에 "신룡 토큰"이 존재하고 있으면 발동할 수 있다. 이 카드를 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     同调怪兽调整＋调整以外的怪兽1只以上
     ①：自己回合这张卡同调召唤成功时才能发动。在自己场上把1只「神龙衍生物」（鱼族·水·10星·攻3300/守3000）守备表示特殊召唤。
     ②：对方回合1次，自己场上没有衍生物的场合才能发动。在自己场上把1只「神龙衍生物」特殊召唤。
     ③：这张卡被对方的效果破坏送去墓地的场合，若自己场上有「神龙衍生物」存在则能发动。这张卡守备表示特殊召唤。
-type: Monster
-typeline: Fish / Synchro / Effect
+card_type: Monster
+monster_type_line: Fish / Synchro / Effect
 attribute: WATER
 level: 10
 atk: 3300

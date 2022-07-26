@@ -7,11 +7,12 @@ name:
   fr: Apelio, Avatar Bête Spirituelle
   it: Avatar Bestia Spirito Apelio
   pt: Avatar da Besta Espiritual Apeleão
-  ja: <ruby><rb>精</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>霊</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>精</rb><rt>せい</rt></ruby><ruby><rb>霊</rb><rt>れい</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>
     アペライオ
   ja_romaji: Seireijū Aperaio
   ko: 정령수 아페라이오
   ko_rr:
+  zh-TW:
   zh-CN: 精灵兽 火狮
 text:
   en: |-
@@ -30,11 +31,12 @@ text:
     自分は「精霊獣 アペライオ」を１ターンに１度しか特殊召喚できない。①：１ターンに１度、自分の墓地の「霊獣」カード１枚を除外して発動できる。このターン中、以下の効果を適用する。この効果は相手ターンでも発動できる。●自分フィールドの「霊獣」モンスターの攻撃力・守備力は５００アップする。
   ko: |-
     자신은 "정령수 아페라이오"를 1턴에 1번밖에 특수 소환할 수 없다. ① : 1턴에 1번, 자신의 묘지의 "령수" 카드 1장을 제외하고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다. 이 효과는 상대 턴에도 발동할 수 있다. ● 자신 필드의 "령수" 몬스터의 공격력 / 수비력은 500 올린다.
+  zh-TW:
   zh-CN: |-
     自己对「精灵兽 火狮」1回合只能有1次特殊召唤。①：1回合1次，把自己墓地1张「灵兽」卡除外才能发动。这个回合中，以下效果适用。这个效果在对方回合也能发动。
     ●自己场上的「灵兽」怪兽的攻击力·守备力上升500
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: WIND
 level: 4
 atk: 1800

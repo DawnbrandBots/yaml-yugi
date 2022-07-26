@@ -7,10 +7,11 @@ name:
   fr: L'Ascensionné du Tonnerre
   it: Asceso del Tuono
   pt: O Ascensionado do Trovão
-  ja: <ruby><rb>雷</rb><rp>（</rp><rt>かみなり</rt><rp>）</rp></ruby><ruby><rb>仙</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>神</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>雷</rb><rt>かみなり</rt></ruby><ruby><rb>仙</rb><rt>せん</rt></ruby><ruby><rb>神</rb><rt>じん</rt></ruby>
   ja_romaji: Kaminari Senjin
   ko: 번개 선신
   ko_rr:
+  zh-TW:
   zh-CN: 雷仙神
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードは３０００ＬＰを払って手札から特殊召喚できる。②：このカードの①の方法で特殊召喚したこのカードが相手によって破壊された場合に発動する。自分は５０００ＬＰ回復する。
   ko: |-
     ① : 이 카드는 3000 LP를 지불하고 패에서 특수 소환할 수 있다. ② : 이 카드의 ①의 방법으로 특수 소환한 이 카드가 상대에 의해 파괴되었을 경우에 발동한다. 자신은 5000 LP 회복한다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡可以支付3000基本分从手卡特殊召唤。②：这张卡的①的方法特殊召唤的这张卡被对方破坏的场合发动。自己回复5000基本分。
-type: Monster
-typeline: Thunder / Effect
+    ①：支付3000LP可将此卡从手牌特殊召唤。②：用此卡的①方法特殊召唤的此卡因对手被破坏的情况下发动。自己恢复5000LP。
+card_type: Monster
+monster_type_line: Thunder / Effect
 attribute: LIGHT
 level: 7
 atk: 2700

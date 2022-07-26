@@ -7,10 +7,11 @@ name:
   fr: Dragon du Feu Noir
   it: Drago del Fuoco Nero
   pt: Dragão do Fogo Negro
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
   ja_romaji: Ankoku Kaenryū
   ko: 암흑의 화염룡
   ko_rr:
+  zh-TW:
   zh-CN: 暗黑火炎龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     「火炎草」＋「プチリュウ」
   ko: |-
     "화염초"+"꼬마용"
+  zh-TW:
   zh-CN: |-
     「火炎草」＋「小龙」。
-type: Monster
-typeline: Dragon / Fusion
+card_type: Monster
+monster_type_line: Dragon / Fusion
 attribute: DARK
 level: 4
 atk: 1500

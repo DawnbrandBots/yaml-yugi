@@ -7,10 +7,11 @@ name:
   fr: Batteuse Solairvigne
   it: Solarvite Distruttrice
   pt: Agressor de Solarvinhas
-  ja: <ruby><rb>聖蔓の剣士</rb><rp>（</rp><rt>サンヴァイン・スラッシャー</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>聖蔓の剣士</rb><rt>サンヴァイン・スラッシャー</rt></ruby>
   ja_romaji: San Vain Surasshā
   ko: 생바인 스래셔
   ko_rr: Saengbain Seuraesyeo
+  zh-TW:
   zh-CN: 圣蔓之剑士
 text:
   en: |-
@@ -37,16 +38,17 @@ text:
   ko: |-
     식물족 일반 몬스터 1장
     ①: 자신 필드의 "생아발론" 링크 몬스터가 효과로 필드에서 벗어났을 경우에 발동한다. 이 카드를 파괴한다. ②: 이 카드가 특수 소환에 성공했을 경우, 필드의 "생아발론" 링크 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드의 공격력은, 그 링크 마커의 수 × 800 올린다. ③: 이 카드가 전투로 상대 몬스터를 파괴하고 묘지로 보냈을 때에 발동할 수 있다. 그 몬스터를 링크 몬스터의 링크 앞이 되는 자신 필드에 효과를 무효로 하고 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     植物族通常怪兽1只
     ①：自己场上的「圣天树」连接怪兽因效果从场上离开的场合发动。这张卡破坏。
     ②：这张卡特殊召唤成功的场合，以场上1只「圣天树」连接怪兽为对象才能发动。这张卡的攻击力上升那个连接标记数量×800。
     ③：这张卡战斗破坏对方怪兽送去墓地时才能发动。那只怪兽在作为连接怪兽所连接区的自己场上效果无效特殊召唤。
-type: Monster
-typeline: Plant / Link / Effect
+card_type: Monster
+monster_type_line: Plant / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Center
+- ⬇
 atk: 800
 materials: 1 Plant Normal Monster
 sets:

@@ -7,10 +7,11 @@ name:
   fr: Bénédiction de Sebek
   it: Benedizione di Sebek
   pt: Bênção de Sebek
-  ja: セベクの<ruby><rb>祝</rb><rp>（</rp><rt>しゅく</rt><rp>）</rp></ruby><ruby><rb>福</rb><rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>
+  ja: セベクの<ruby><rb>祝</rb><rt>しゅく</rt></ruby><ruby><rb>福</rb><rt>ふく</rt></ruby>
   ja_romaji: Sebeku no Shukufuku
   ko: 세베크의 축복
   ko_rr: Sebekeu-ui Chukbok
+  zh-TW:
   zh-CN: 塞贝克的祝福
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：自分のモンスターが直接攻撃によって相手に戦闘ダメージを与えた時に発動できる。その数値分だけ自分のＬＰを回復する。
   ko: |-
     ①: 자신 몬스터가 직접 공격에 의해 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 그 수치만큼만 자신의 LP를 회복한다.
+  zh-TW:
   zh-CN: |-
     ①：自己怪兽直接攻击给与对方战斗伤害时才能发动。自己基本分回复那个数值。
-type: Spell
+card_type: Spell
 property: Quick-Play

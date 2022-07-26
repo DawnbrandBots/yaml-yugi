@@ -7,10 +7,11 @@ name:
   fr: Désespoir des Ténèbres
   it: Disperazione dall'Oscurità
   pt: Desespero do Escuro
-  ja: <ruby><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby>より<ruby><rb>出</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby>でし<ruby><rb>絶</rb><rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby><ruby><rb>望</rb><rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>闇</rb><rt>やみ</rt></ruby>より<ruby><rb>出</rb><rt>い</rt></ruby>でし<ruby><rb>絶</rb><rt>ぜつ</rt></ruby><ruby><rb>望</rb><rt>ぼう</rt></ruby>
   ja_romaji: Yami-yori Ideshi Zetsubō
   ko: 어둠에서 나온 절망
   ko_rr:
+  zh-TW:
   zh-CN: 出于黑暗的绝望
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードが相手の効果で手札・デッキから墓地へ送られた場合に発動する。このカードを特殊召喚する。
   ko: |-
     이카드가상대의카드의효과에의해서패또는덱에서묘지로보내졌을때, 이카드를필드위에특수소환한다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡被对方的效果从手卡·卡组送去墓地的场合发动。这张卡特殊召唤。
-type: Monster
-typeline: Zombie / Effect
+card_type: Monster
+monster_type_line: Zombie / Effect
 attribute: DARK
 level: 8
 atk: 2800

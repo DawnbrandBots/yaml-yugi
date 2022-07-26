@@ -7,11 +7,12 @@ name:
   fr: Gizmek Uka, le Renard Festif de la Fécondité
   it: Gizmeck Uka, la Festosa Volpe della Fecondità
   pt: Bugiganga Uka, a Raposa Festiva da Fecundidade
-  ja: <ruby><rb>機</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>巧</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>狐</rb><rp>（</rp><rt>こ</rt><rp>）</rp></ruby>－<ruby><rb>宇迦之御魂稲荷</rb><rp>（</rp><rt>ウカノミタマノイナリ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>機</rb><rt>き</rt></ruby><ruby><rb>巧</rb><rt>こう</rt></ruby><ruby><rb>狐</rb><rt>こ</rt></ruby>－<ruby><rb>宇迦之御魂稲荷</rb><rt>ウカノミタマノイナリ</rt></ruby>
   ja_romaji: Kikōko - Uka no Mitama no Inari
   ko: 기교호－우카노미타마노이나리
   ko_rr: Gigyoho - Ukanomitamanoinari
-  zh-CN: 机巧狐-宇迦之御魂稻荷
+  zh-TW:
+  zh-CN: 机巧狐－宇迦之御魂稻荷
 text:
   en: |-
     Each time your opponent Normal or Special Summons a monster(s): Inflict 300 damage to them. You can only use each of the following effects of "Gizmek Uka, the Festive Fox of Fecundity" once per turn.
@@ -41,13 +42,11 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキからモンスターが特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合、相手フィールドの表側表示モンスター１体を対象として発動できる。手札・デッキから、攻撃力と守備力の数値が同じで、属性が対象のモンスターと同じとなるモンスター１体を特殊召喚する。③：相手がモンスターの召喚・特殊召喚に成功する度に発動する。相手に３００ダメージを与える。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 덱에서 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 패 / 덱에서, 공격력과 수비력의 수치가 같고, 속성이 대상 몬스터와 같아지는 몬스터 1장을 특수 소환한다. ③: 상대가 몬스터의 일반 소환 / 특수 소환에 성공할 때마다 발동한다. 상대에게 300 데미지를 준다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：从卡组有怪兽特殊召唤的场合才能发动。这张卡从手卡特殊召唤。
-    ②：这张卡召唤·特殊召唤成功的场合，以对方场上1只表侧表示怪兽为对象才能发动。从手卡·卡组把攻击力和守备力的数值相同而属性是和作为对象的怪兽相同的1只怪兽特殊召唤。
-    ③：每次对方对怪兽的召唤·特殊召唤成功发动。给与对方300伤害。
-type: Monster
-typeline: Machine / Effect
+    此卡名的①②效果1回合仅可各使用1次。①：怪兽从牌组被特殊召唤的情况下可以发动。从手牌将此卡特殊召唤。②：此卡召唤・特殊召唤成功的情况下，以对手场上的1只表侧表示怪兽为对象可以发动。从手牌・牌组将1只攻击力与守备力数值相同、属性与对象怪兽相同的怪兽特殊召唤。③：每次对手召唤・特殊召唤怪兽成功发动。给予对手300伤害。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 7
 atk: 2250

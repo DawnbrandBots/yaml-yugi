@@ -7,10 +7,11 @@ name:
   fr: Guerrier D.D.
   it: Guerriero D.D.
   pt: Guerreiro D.D.
-  ja: <ruby><rb>異</rb><rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby><rb>次</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>元</rb><rp>（</rp><rt>げん</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>次</rb><rt>じ</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Ijigen no Senshi
   ko: 이차원의 전사
   ko_rr:
+  zh-TW:
   zh-CN: 异次元的战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     ①：このカードがモンスターと戦闘を行ったダメージ計算後に発動する。その戦闘を行ったそれぞれのモンスターを除外する。
   ko: |-
     이 카드가 몬스터와 전투를 실행했을 때, 그 몬스터와 이 카드를 게임에서 제외한다.
+  zh-TW:
   zh-CN: |-
     这张卡和怪兽进行过战斗时，那只怪兽和这张卡从游戏中除外。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 4
 atk: 1200

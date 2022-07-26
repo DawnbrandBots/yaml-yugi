@@ -7,10 +7,11 @@ name:
   fr: Crabe Carbo Chimicréa
   it: Chimicreatura Carbo Cancer
   pt: Criaquímica Carbo Caranguejo
-  ja: <ruby><rb>化</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby>カーボン・クラブ
+  ja: <ruby><rb>化</rb><rt>か</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby><ruby><rb>獣</rb><rt>じゅう</rt></ruby>カーボン・クラブ
   ja_romaji: Kagōjū Kābon Kurabu
   ko: 화합야수 카본 크랩
   ko_rr: Hwahap-yasu Kabon Keuraep
+  zh-TW:
   zh-CN: 化合兽 碳素蟹
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     ①: 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ②: 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되어 이하의 효과를 얻는다.
     ●자신 메인 페이즈에 발동할 수 있다. 덱에서 듀얼 몬스터 1장을 묘지로 보낸다. 그 후, 덱에서 듀얼 몬스터 1장을 패에 넣는다. 이 카드명의 이 효과는 1턴에 1번밖에 사용할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡只要在场上·墓地存在，当作通常怪兽使用。②：可以把场上的当作通常怪兽使用的这张卡作为通常召唤作再1次召唤。那个场合这张卡变成当作效果怪兽使用并得到以下效果。
     ●自己主要阶段才能发动。从卡组把1只二重怪兽送去墓地。那之后，从卡组把1只二重怪兽加入手卡。「化合兽 碳素蟹」的这个效果1回合只能使用1次。
-type: Monster
-typeline: Aqua / Gemini / Effect
+card_type: Monster
+monster_type_line: Aqua / Gemini / Effect
 attribute: FIRE
 level: 2
 atk: 700

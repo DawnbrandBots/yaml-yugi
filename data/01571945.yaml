@@ -7,10 +7,11 @@ name:
   fr: Ninja Blanc
   it: Ninja Bianco
   pt: Ninja Branco
-  ja: <ruby><rb>白い</rb><rp>（</rp><rt>ホワイト</rt><rp>）</rp></ruby><ruby><rb>忍</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>白い</rb><rt>ホワイト</rt></ruby><ruby><rb>忍</rb><rt>にん</rt></ruby><ruby><rb>者</rb><rt>じゃ</rt></ruby>
   ja_romaji: Howaito Ninja
   ko: 하얀 첩자
   ko_rr:
+  zh-TW:
   zh-CN: 白衣忍者
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     リバース：フィールド上の守備表示モンスター１体を破壊する。
   ko: |-
     리버스 : 필드 위의 수비 표시 몬스터 1장을 파괴한다.
+  zh-TW:
   zh-CN: |-
     场上1只守备表示的怪兽破坏。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: LIGHT
 level: 4
 atk: 1500

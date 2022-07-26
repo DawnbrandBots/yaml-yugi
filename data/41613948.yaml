@@ -7,10 +7,11 @@ name:
   fr: Seigneur de la Damnation - HÉROS de la Destinée
   it: Signore del Fato - EROE del Destino
   pt: HERÓI do Destino - Senhor da Condenação
-  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rp>（</rp><rt>デステニーヒーロー</rt><rp>）</rp></ruby> デビルガイ
+  ja: <ruby><rb>Ｄ－ＨＥＲＯ</rb><rt>デステニーヒーロー</rt></ruby> デビルガイ
   ja_romaji: Desutenī Hīrō Debirugai
   ko: 데스티니 히어로 데블 가이
   ko_rr:
+  zh-TW:
   zh-CN: 命运英雄 恶魔人
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが自分フィールド上に表側攻撃表示で存在する場合、１ターンに１度だけ相手モンスター１体をゲームから除外する事ができる。この効果を使用したプレイヤーはこのターン戦闘を行えない。この効果によって除外したモンスターは、２回目の自分のスタンバイフェイズ時に同じ表示形式で相手フィールド上に戻る。
   ko: |-
     이 카드가 자신 필드 위에 앞면 공격 표시로 존재할 경우, 1턴에 1번만 상대 몬스터 1장을 게임에서 제외할 수 있다. 이 효과를 사용한 플레이어는 이 턴에 전투를 실행할 수 없다. 이 효과에 의해서 제외한 몬스터는 2번째 자신의 스텐바이 페이즈시에 같은 표시 형식으로 상대 필드 위로 되돌아간다.
+  zh-TW:
   zh-CN: |-
     这张卡在自己场上表侧攻击表示存在的场合，1回合只有1次可以把1只对方怪兽从游戏中除外。这个效果使用的玩家在这个回合不能进行战斗。这个效果除外的怪兽在第2次的自己的准备阶段时以相同的表示形式回到对方场上。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: DARK
 level: 3
 atk: 600

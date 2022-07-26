@@ -7,11 +7,12 @@ name:
   fr: Gaia, Géant de Terre
   it: Corazza Gaia, il Gigante della Terra
   pt: Platina Gaia, o Gigante da Terra
-  ja: <ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby><rb>球</rb><rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby><rb>巨</rb><rp>（</rp><rt>きょ</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>じん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>地</rb><rt>ち</rt></ruby><ruby><rb>球</rb><rt>きゅう</rt></ruby><ruby><rb>巨</rb><rt>きょ</rt></ruby><ruby><rb>人</rb><rt>じん</rt></ruby>
     ガイア・プレート
   ja_romaji: Chikyū Kyojin Gaia Purēto
   ko: 지구거인 가이아 플레이트
   ko_rr:
+  zh-TW:
   zh-CN: 地球巨人
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     このカードのコントローラーは、自分スタンバイフェイズ毎に自分の墓地から岩石族モンスター１体を除外する。または除外せずにこのカードを墓地へ送る。①：このカードは自分の墓地の岩石族モンスター２体を除外し、手札から特殊召喚できる。②：このカードと戦闘を行う相手モンスターの攻撃力・守備力はダメージ計算時のみ半分になる。
   ko: |-
     이 카드의 컨트롤러는, 자신 스탠바이 페이즈마다 자신 묘지에서 암석족 몬스터 1장을 제외한다. 또는 제외하지 않고 이 카드를 묘지로 보낸다. ①: 이 카드는 자신 묘지의 암석족 몬스터 2장을 제외하고, 패에서 특수 소환할 수 있다. ②: 이 카드와 전투를 실행하는 상대 몬스터의 공격력 / 수비력은 데미지 계산시에만 절반이 된다.
+  zh-TW:
   zh-CN: |-
     这张卡的控制者在每次自己准备阶段从自己墓地把1只岩石族怪兽除外。或者不除外把这张卡送去墓地。①：这张卡可以把自己墓地2只岩石族怪兽除外，从手卡特殊召唤。②：和这张卡进行战斗的对方怪兽的攻击力·守备力只在伤害计算时变成一半。
-type: Monster
-typeline: Rock / Effect
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 8
 atk: 2800

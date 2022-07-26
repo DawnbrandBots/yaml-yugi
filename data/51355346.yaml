@@ -7,11 +7,12 @@ name:
   fr: Âme de Gaia, le Combustible Collectif
   it: L'Anima di Gaia il Combustibile Collettivo
   pt: Alma de Gaia, o Coletivo de Combustível
-  ja: <ruby><rb>爆</rb><rp>（</rp><rt>ばく</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>集</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>体</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>爆</rb><rt>ばく</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby>
     ガイヤ・ソウル
   ja_romaji: Bakuen Shūgōtai Gaiya Sōru
   ko: 폭염집합체 가이아 소울
   ko_rr:
+  zh-TW:
   zh-CN: 爆炎集合体 地球之魂
 text:
   en: |-
@@ -30,10 +31,11 @@ text:
     自分フィールド上の炎族モンスターを２体まで生け贄に捧げる事ができる。この効果で生け贄を捧げた場合、このモンスターの攻撃力は生け贄の数×１０００ポイントアップする。このカードが守備表示モンスターを攻撃した時、このカードの攻撃力が守備表示モンスターの守備力を越えていれば、その数値だけ相手ライフに戦闘ダメージを与える。エンドフェイズ時にこのカードを破壊する。
   ko: |-
     자신 필드 위에 화염족 몬스터를 2장까지 제물로 바칠 수 있다. 이 효과로 제물을 바친 경우, 이 몬스터의 공격력은 제물의 수 x 1000 포인트 올린다. 이 카드가 수비 표시 몬스터를 공격했을 때, 이 카드의 공격력이 수비 표시 몬스터의 수비력을 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다. 엔드 페이즈시에 이 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
     可以把自己场上最多2只炎族怪兽作为祭品。这个效果作为祭品的场合，这只怪兽的攻击力上升祭品数量×1000。这张卡向守备表示怪兽攻击时，若这张卡的攻击力超过守备表示怪兽的守备力，给与对方基本分那个数值的战斗伤害。结束阶段时这张卡破坏。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 4
 atk: 2000

@@ -11,6 +11,7 @@ name:
   ja_romaji: Basutā Bureidā
   ko: 버스터 블레이더
   ko_rr: Beoseuteo Beulleideo
+  zh-TW:
   zh-CN: 破坏剑士
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Ganha 500 de ATK para cada monstro Dragão que seu oponente controla ou no Cemitério dele.
   ja: |-
-    ①：このカードの<ruby><rb>攻</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>は、<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>のフィールド・<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>のドラゴン<ruby><rb>族</rb><rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>モンスターの<ruby><rb>数</rb><rp>（</rp><rt>かず</rt><rp>）</rp></ruby>×５００アップする。
+    ①：このカードの<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>は、<ruby><rb>相</rb><rt>あい</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>のフィールド・<ruby><rb>墓</rb><rt>ぼ</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby>のドラゴン<ruby><rb>族</rb><rt>ぞく</rt></ruby>モンスターの<ruby><rb>数</rb><rt>かず</rt></ruby>×５００アップする。
   ko: |-
     ①: 이 카드의 공격력은, 상대의 필드 / 묘지의 드래곤족 몬스터의 수 × 500 올린다.
+  zh-TW:
   zh-CN: |-
     ①：这张卡的攻击力上升对方的场上·墓地的龙族怪兽数量×500。
-type: Monster
-typeline: Warrior / Effect
+card_type: Monster
+monster_type_line: Warrior / Effect
 attribute: EARTH
 level: 7
 atk: 2600

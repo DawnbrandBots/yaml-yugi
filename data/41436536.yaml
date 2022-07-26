@@ -7,10 +7,11 @@ name:
   fr: Exécuteur Phœnix, HÉROS Élémentaire
   it: Fenice Sorvegliante EROE Elementale
   pt:
-  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rp>（</rp><rt>エレメンタルヒーロー</rt><rp>）</rp></ruby> フェニックスガイ
+  ja: <ruby><rb>Ｅ・ＨＥＲＯ</rb><rt>エレメンタルヒーロー</rt></ruby> フェニックスガイ
   ja_romaji: Erementaru Hīrō Fenikkusugai
   ko: 엘리멘틀 히어로 피닉스 가이
   ko_rr:
+  zh-TW:
   zh-CN: 元素英雄 凤凰人
 text:
   en: |-
@@ -35,11 +36,12 @@ text:
   ko: |-
     "엘리멘틀 히어로 페더맨" + "엘리멘틀 히어로 버스트 레이디"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드는 전투에 의해서는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     「元素英雄 羽翼侠」＋「元素英雄 爆热女郎」
     这只怪兽不用融合召唤不能特殊召唤。这张卡不会被战斗破坏。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: FIRE
 level: 6
 atk: 2100

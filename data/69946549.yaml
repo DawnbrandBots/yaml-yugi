@@ -7,10 +7,11 @@ name:
   fr: Dragostapelia Prédaplante
   it: Predapianta Dragostapelia
   pt: Predaplanta Dragostapelia
-  ja: <ruby><rb>捕食植物</rb><rp>（</rp><rt>プレデター・プランツ</rt><rp>）</rp></ruby>ドラゴスタペリア
+  ja: <ruby><rb>捕食植物</rb><rt>プレデター・プランツ</rt></ruby>ドラゴスタペリア
   ja_romaji: Puredetā Purantsu Doragosutaperia
   ko: 프레데터 플랜츠 드라고스타페리아
   ko_rr: Peuredeteo Peullaencheu Deuragoseutaperia
+  zh-TW:
   zh-CN: 捕食植物 犀角龙
 text:
   en: |-
@@ -21,7 +22,7 @@ text:
     Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; lege 1 Raubtier-Zählmarke darauf und falls es Stufe 2 oder höher ist, wird es zu Stufe 1, solange es eine Raubtier-Zählmarke hat. Annulliere die aktivierten Effekte von Monstern deines Gegners, die Raubtier-Zählmarken haben.
   es: |-
     1 Monstruo de Fusión + 1 monstruo de OSCURIDAD
-    Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Niega los efectos activados de los monstruos de tu adversario que tengan Contadores de Predador.
+    Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; pon 1 Contador de Predador en él, y si su Nivel es 2 o mayor, éste se convierte en Nivel 1 mientras tenga un Contador de Predador. Niega los efectos activados de los monstruos de tu adversario que tengan Contadores de Predador.
   fr: |-
     1 Monstre Fusion + 1 monstre TÉNÈBRES
     Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; placez 1 Compteur Prédateur sur celui-ci, et s'il est de min. Niveau 2, il devient Niveau 1 tant qu'il a un Compteur Prédateur. Annulez les effets activés des monstres de votre adversaire qui ont des Compteurs Prédateur.
@@ -37,11 +38,12 @@ text:
   ko: |-
     융합 몬스터 ＋ 어둠 속성 몬스터
     ①: 1턴에 1번, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터에 포식 카운터를 1개 놓는다. 포식 카운터가 놓여진 레벨 2 이상의 몬스터 레벨은 1 이 된다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대가 발동한 포식 카운터가 놓여 있는 몬스터의 효과는 무효화된다.
+  zh-TW:
   zh-CN: |-
     融合怪兽＋暗属性怪兽
     ①：1回合1次，以对方场上1只表侧表示怪兽为对象才能发动。给那只怪兽放置1个捕食指示物。有捕食指示物放置的2星以上的怪兽的等级变成1星。这个效果在对方回合也能发动。②：只要这张卡在怪兽区域存在，对方发动的有捕食指示物放置的怪兽的效果无效化。
-type: Monster
-typeline: Plant / Fusion / Effect
+card_type: Monster
+monster_type_line: Plant / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 2700

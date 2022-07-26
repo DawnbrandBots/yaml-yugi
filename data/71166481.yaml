@@ -7,10 +7,11 @@ name:
   fr: "Numéro 75 : Ombre de l'Embobineur de Rumeurs"
   it: 'Numero 75: Ombra Sussurri Ingannatori'
   pt: 'Número 75: Sombra Fofoqueira Enganadora'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>７５ <ruby><rb>惑</rb><rp>（</rp><rt>わく</rt><rp>）</rp></ruby><ruby><rb>乱</rb><rp>（</rp><rt>らん</rt><rp>）</rp></ruby>のゴシップ・シャドー
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>７５ <ruby><rb>惑</rb><rt>わく</rt></ruby><ruby><rb>乱</rb><rt>らん</rt></ruby>のゴシップ・シャドー
   ja_romaji: Nanbāzu Nanajūgo Wakuran no Goshippu Shadō
   ko: No.75 혹란의 가십 섀도우
   ko_rr: Neombeojeu Ilheun Daseot Hungnan-ui Gasip Syaedou
+  zh-TW:
   zh-CN: No.75 惑乱之风言暗影
 text:
   en: |-
@@ -37,13 +38,14 @@ text:
   ko: |-
     레벨 3 몬스터 × 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 상대 몬스터의 효과가 발동했을 때, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 그 효과는 "양쪽 플레이어는, 각각 덱에서 1장 드로우한다"가 된다. ②: 이 카드 이외의 자신 필드의 "No." 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 그 몬스터의 아래에 겹쳐 엑시즈 소재로 한다(이 카드가 엑시즈 소재를 가지고 있을 경우, 그것들도 전부 겹쳐 엑시즈 소재로 한다).
+  zh-TW:
   zh-CN: |-
     3星怪兽×2只以上
     这个卡名的②的效果1回合只能使用1次。
     ①：1回合1次，对方怪兽的效果发动时，把这张卡2个超量素材取除才能发动。那个效果变成「双方玩家各自从卡组抽1张」。
     ②：以这张卡以外的自己场上1只「No.」超量怪兽为对象才能发动。把这张卡在那只怪兽下面重叠作为超量素材（这张卡持有超量素材的场合，那些也全部重叠作为超量素材）。
-type: Monster
-typeline: Spellcaster / Xyz / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Xyz / Effect
 attribute: WIND
 rank: 3
 atk: 1000

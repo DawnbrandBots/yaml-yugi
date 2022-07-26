@@ -7,10 +7,11 @@ name:
   fr: Statue-Barrière de l'Abîme
   it: Statua Barriera dell'Abisso
   pt: Estátua Barreira do Abismo
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>淵</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>結</rb><rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby><rb>像</rb><rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>淵</rb><rt>えん</rt></ruby>の<ruby><rb>結</rb><rt>けっ</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby><ruby><rb>像</rb><rt>ぞう</rt></ruby>
   ja_romaji: Shin'en no Kekkaizō
   ko: 심연의 결계상
   ko_rr:
+  zh-TW:
   zh-CN: 深渊之结界像
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、お互いに闇属性以外のモンスターを特殊召喚できない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 어둠 속성 이외의 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，双方不能把暗属性以外的怪兽特殊召唤。
-type: Monster
-typeline: Fiend / Effect
+card_type: Monster
+monster_type_line: Fiend / Effect
 attribute: DARK
 level: 4
 atk: 1000
@@ -88,6 +90,9 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Common
+  - set_number: SR13-JP020
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
   ko:
   - set_number: CDIP-KR018
     set_name: Cyberdark Impact

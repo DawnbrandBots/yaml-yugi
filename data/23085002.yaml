@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 68 : Prison Céleste Sanaphond'
   it: 'Numero 68: Sanaphond la Prigione del Cielo'
   pt: 'Número 68: Sanaphond, a Prisão Celeste'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>６８ <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>天</rb><rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby><rb>牢</rb><rp>（</rp><rt>ろう</rt><rp>）</rp></ruby>サンダルフォン
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>６８ <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>天</rb><rt>てん</rt></ruby><ruby><rb>牢</rb><rt>ろう</rt></ruby>サンダルフォン
   ja_romaji: Nanbāzu Rokujūhachi Matenrō Sandarufon
   ko: No.68 마천뢰 산달폰
   ko_rr:
+  zh-TW:
   zh-CN: No.68 魔天牢 桑达尔丰
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 8 몬스터 × 2
     ①: 이 카드의 공격력 / 수비력은, 서로 묘지의 몬스터의 수 × 100 올린다. ②: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 턴 종료시까지, 이 카드는 효과로는 파괴되지 않으며, 서로 묘지의 몬스터를 특수 소환할 수 없다.
+  zh-TW:
   zh-CN: |-
     8星怪兽×2
     ①：这张卡的攻击力·守备力上升双方墓地的怪兽数量×100。②：1回合1次，把这张卡1个XYZ素材取除才能发动。直到对方回合结束时，这张卡不会被效果破坏，双方不能把墓地的怪兽特殊召唤。
-type: Monster
-typeline: Rock / Xyz / Effect
+card_type: Monster
+monster_type_line: Rock / Xyz / Effect
 attribute: DARK
 rank: 8
 atk: 2100

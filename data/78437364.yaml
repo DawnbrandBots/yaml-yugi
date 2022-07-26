@@ -7,11 +7,12 @@ name:
   fr: Gouki Le Grand Ogre
   it: Gouki Il Grande Orco
   pt: Gouki, O Grande Ogro
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>ザ・グレート・オーガ
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>ザ・グレート・オーガ
   ja_romaji: Gōki Za Gurēto Ōga
   ko: 강귀 더 그레이트 오우거
   ko_rr: Ganggwi Deo Geureiteu Ougeo
-  zh-CN: 刚鬼 巨人食人魔
+  zh-TW:
+  zh-CN: 刚鬼 巨型食人魔
 text:
   en: |-
     2+ "Gouki" monsters
@@ -37,16 +38,17 @@ text:
   ko: |-
     "강귀" 몬스터 2장 이상
     ①: 이 카드가 몬스터 존에 존재하는 한, 필드의 몬스터의 공격력은, 그 몬스터의 원래 수비력만큼 내린다. ②: 이 카드가 전투 / 효과로 파괴될 경우, 대신에 이 카드의 링크 앞의 자신 몬스터 1장을 파괴할 수 있다.
+  zh-TW:
   zh-CN: |-
-    「刚鬼」怪兽2只以上
-    ①：只要这张卡在怪兽区域存在，场上的怪兽的攻击力下降那怪兽的原本守备力数值。②：这张卡被战斗·效果破坏的场合，可以作为代替把这张卡所连接区1只自己怪兽破坏。
-type: Monster
-typeline: Warrior / Link / Effect
+    “刚鬼”怪兽2只以上
+    ①：只要此卡存在于怪兽区域，场上怪兽的攻击力下降相当于该怪兽原本守备力的数值。②：此卡将被战斗・效果破坏的情况下，可破坏此卡连接端的1只自己的怪兽作为代替。
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: EARTH
 link_arrows:
-- Bottom-Left
-- Bottom-Center
-- Bottom-Right
+- ↙
+- ⬇
+- ↘
 atk: 2600
 materials: 2+ "Gouki" monsters
 sets:

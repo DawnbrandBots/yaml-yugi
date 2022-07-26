@@ -7,10 +7,11 @@ name:
   fr: Anneau de Magnétisme
   it: Anello del Magnetismo
   pt: Anel do Magnetismo
-  ja: <ruby><rb>磁</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>力</rb><rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>の<ruby><rb>指</rb><rp>（</rp><rt>ゆび</rt><rp>）</rp></ruby><ruby><rb>輪</rb><rp>（</rp><rt>わ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>磁</rb><rt>じ</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>の<ruby><rb>指</rb><rt>ゆび</rt></ruby><ruby><rb>輪</rb><rt>わ</rt></ruby>
   ja_romaji: Jiryoku no Yubiwa
   ko: 자력의 반지
   ko_rr:
+  zh-TW:
   zh-CN: 磁力指轮
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上に存在するモンスターにのみ装備可能。装備モンスターの攻撃力・守備力は５００ポイントダウンする。相手はこのカードの装備モンスターしか攻撃する事ができない。
   ko: |-
     자신 필드 위의 몬스터만 장착 가능. 장착 몬스터의 공격력과 수비력은 500 포인트 내린다. 상대는 이 카드를 장착한 몬스터만 공격해야 한다.
+  zh-TW:
   zh-CN: |-
     自己场上存在的怪兽才能装备。装备怪兽的攻击力·守备力下降500。对方只能向这张卡的装备怪兽攻击。
-type: Spell
+card_type: Spell
 property: Equip

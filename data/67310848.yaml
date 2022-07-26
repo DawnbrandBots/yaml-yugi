@@ -7,12 +7,13 @@ name:
   fr: Dragon Étoile Naine Planeter
   it: Drago Planetario Stella Nana
   pt: Dragão da Estrela Anã Planeter
-  ja: <ruby><rb>矮</rb><rp>（</rp><rt>わい</rt><rp>）</rp></ruby><ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>矮</rb><rt>わい</rt></ruby><ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>
     プラネター
   ja_romaji: Waiseiryū Puranetā
   ko: 왜성룡 플래니터
   ko_rr:
-  zh-CN: 矮星龙 恒行星龙
+  zh-TW:
+  zh-CN: 矮星龙 普朗涅特
 text:
   en: |-
     Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Level 7 LIGHT or DARK monster from your Deck to your hand.
@@ -30,10 +31,11 @@ text:
     ①：このカードを召喚したターンのエンドフェイズに発動できる。デッキから光属性または闇属性のレベル７モンスター１体を手札に加える。
   ko: |-
     ①: 이 카드를 일반 소환한 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 빛 속성 또는 어둠 속성의 레벨 7 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    ①：这张卡召唤的回合的结束阶段才能发动。从卡组把1只光属性或者暗属性的7星怪兽加入手卡。
-type: Monster
-typeline: Dragon / Effect
+    ①：召唤此卡的回合的结束阶段可以发动。从牌组将1只光属性或者是暗属性的等级7怪兽加入手牌。
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: LIGHT
 level: 4
 atk: 1700

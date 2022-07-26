@@ -7,10 +7,11 @@ name:
   fr: Guerrier de la Vallée de Brume
   it: Soldato della Valle delle Nebbie
   pt: Soldado do Vale das Névoas
-  ja: <ruby><rb>霞の谷</rb><rp>（</rp><rt>ミスト・バレー</rt><rp>）</rp></ruby>の<ruby><rb>戦</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>霞の谷</rb><rt>ミスト・バレー</rt></ruby>の<ruby><rb>戦</rb><rt>せん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Misuto Barē No Senshi
   ko: 안개 골짜기의 전사
   ko_rr:
+  zh-TW: 霞之谷戰士
   zh-CN: 霞之谷的战士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが自分フィールド上に表側表示で存在する限り、このカードとの戦闘で破壊されなかった相手モンスターは、ダメージステップ終了時に持ち主の手札に戻る。
   ko: |-
     이 카드가 자신 필드 위에 앞면 표시로 존재하는 한, 이 카드와의 전투로 파괴되지 않은 상대 몬스터는, 데미지 스텝 종료시에 주인의 패로 되돌아간다.
+  zh-TW: 只要此卡以表侧表示存在于我方场上，在伤害步骤结束时，与此卡的战斗中未被破坏的对手怪兽返回至持有者手牌。
   zh-CN: |-
     只要这张卡在自己场上表侧表示存在，没被和这张卡的战斗破坏的对方怪兽在伤害步骤结束时回到持有者手卡。
-type: Monster
-typeline: Winged Beast / Tuner / Effect
+card_type: Monster
+monster_type_line: Winged Beast / Tuner / Effect
 attribute: WIND
 level: 4
 atk: 1700

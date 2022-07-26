@@ -11,6 +11,7 @@ name:
   ja_romaji: Damēji Meiji
   ko: 데미지 메이지
   ko_rr:
+  zh-TW: 傷害法師
   zh-CN: 伤害法师
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     カードの効果によって自分がダメージを受けた時に発動できる。このカードを手札から特殊召喚し、受けたダメージの数値分だけ自分のライフポイントを回復する。
   ko: |-
     카드의 효과에 의해서 자신이 데미지를 받았을 때 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 받은 데미지의 수치만큼 자신의 라이프 포인트를 회복한다.
+  zh-TW: 我方因卡牌效果受到伤害时可发动。从手牌特殊召唤此卡，回复相当于所受伤害点数的我方生命点数。
   zh-CN: |-
     卡的效果让自己受到伤害时才能发动。这张卡从手卡特殊召唤，自己基本分回复受到的伤害的数值。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 3
 atk: 600

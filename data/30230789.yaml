@@ -7,11 +7,11 @@ name:
   fr: Karakuri 177 "Inashichi" le Marchand
   it: Mercante Karakuri mod. 177 "Inashichi"
   pt: Mercador Karakuri mdl 177 "Inashichi"
-  ja: カラクリ<ruby><rb>商</rb><rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby><rb>人</rb><rp>（</rp><rt>にん</rt><rp>）</rp></ruby>
-    <ruby><rb>壱</rb><rp>（</rp><rt>イ</rt><rp>）</rp></ruby><ruby><rb>七</rb><rp>（</rp><rt>ナ</rt><rp>）</rp></ruby><ruby><rb>七</rb><rp>（</rp><rt>シチ</rt><rp>）</rp></ruby>
+  ja: カラクリ<ruby><rb>商</rb><rt>しょう</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby> <ruby><rb>壱</rb><rt>イ</rt></ruby><ruby><rb>七</rb><rt>ナ</rt></ruby><ruby><rb>七</rb><rt>シチ</rt></ruby>
   ja_romaji: Karakuri Shōnin Inashichi
   ko: 자동기계상인 177 "일칠칠"
   ko_rr:
+  zh-TW:
   zh-CN: 机巧商人 一七七
 text:
   en: |-
@@ -29,10 +29,11 @@ text:
     このカードは攻撃可能な場合には攻撃しなければならない。フィールド上に表側攻撃表示で存在するこのカードが攻撃対象に選択された時、このカードの表示形式を守備表示にする。このカードが召喚に成功した時、自分のデッキから「カラクリ」と名のついたカード１枚を手札に加える。
   ko: |-
     이 카드는 공격 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 공격 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 수비 표시로 한다. 이 카드가 일반 소환에 성공했을 때, 자신의 덱에서 "자동기계" 라는 이름이 붙은 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     这张卡可以攻击的场合必须作出攻击。场上表侧攻击表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变成守备表示。这张卡召唤成功时，从自己卡组把1张名字带有「机巧」的卡加入手卡。
-type: Monster
-typeline: Machine / Effect
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: EARTH
 level: 2
 atk: 500

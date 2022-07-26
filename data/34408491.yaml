@@ -7,11 +7,12 @@ name:
   fr: Beelze des Dragons Diaboliques
   it: Beelze dei Draghi Diabolici
   pt: Belze dos Dragões Diabólicos
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>龍</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>龍</rb><rt>りゅう</rt></ruby>
     ベエルゼ
-  ja_romaji: Maōryū Beeruze
+  ja_romaji: Maōryū Be'eruze
   ko: 마왕룡 베에르제
   ko_rr:
+  zh-TW:
   zh-CN: 魔王龙 蝇王
 text:
   en: |-
@@ -38,10 +39,11 @@ text:
   ko: |-
     어둠 속성 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드는 전투 및 카드의 효과로는 파괴되지 않는다. 또한, 이 카드의 전투 또는 상대 카드의 효과에 의해서 자신이 데미지를 받았을 때에 발동한다. 이 카드의 공격력은, 그 데미지의 수치만큼 올린다.
+  zh-TW:
   zh-CN: |-
     暗属性调整＋调整以外的怪兽1只以上。这张卡不会被战斗以及卡的效果破坏。此外，这张卡的战斗或者对方的卡的效果让自己受到伤害时发动。这张卡的攻击力上升那次伤害的数值。
-type: Monster
-typeline: Dragon / Synchro / Effect
+card_type: Monster
+monster_type_line: Dragon / Synchro / Effect
 attribute: DARK
 level: 8
 atk: 3000

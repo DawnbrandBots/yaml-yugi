@@ -7,10 +7,11 @@ name:
   fr: Gorille Enragé
   it: Gorilla Berserk
   pt: Gorila Enraivecido
-  ja: <ruby><rb>怒れる類人猿</rb><rp>（</rp><rt>バーサークゴリラ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>怒れる類人猿</rb><rt>バーサークゴリラ</rt></ruby>
   ja_romaji: Bāsāku Gorira
   ko: 분노 유인원
   ko_rr:
+  zh-TW:
   zh-CN: 愤怒的类人猿
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが表側守備表示でフィールド上に存在する場合、このカードを破壊する。このカードのコントローラーは、このカードが攻撃可能な状態であれば必ず攻撃しなければならない。
   ko: |-
     이 카드가 앞면 수비 표시로 필드 위에 존재할 경우. 이 카드를 파괴한다. 이 카드의 컨트롤러는 이 카드가 공격 가능한 상태이면 반드시 공격해야 한다.
+  zh-TW:
   zh-CN: |-
     这张卡表侧守备表示在场上存在的场合，这张卡破坏。这张卡的控制者若这张卡在可以攻击的状态则必须作出攻击。
-type: Monster
-typeline: Beast / Effect
+card_type: Monster
+monster_type_line: Beast / Effect
 attribute: EARTH
 level: 4
 atk: 2000

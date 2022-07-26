@@ -11,6 +11,7 @@ name:
   ja_romaji: Pengin Naito
   ko: 펭귄 기사
   ko_rr:
+  zh-TW:
   zh-CN: 企鹅骑士
 text:
   en: |-
@@ -26,13 +27,14 @@ text:
   pt: |-
     Quando esta carta é enviada diretamente do seu Deck ao Cemitério por um efeito de carta controlada pelo seu oponente, retorne todas as cartas do seu Cemitério para o seu Deck.
   ja: |-
-    このカードが<ruby><rb>相</rb><rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby><rb>手</rb><rp>（</rp><rt>て</rt><rp>）</rp></ruby>の<ruby><rb>効</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby><rb>果</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>によってデッキから<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>へ<ruby><rb>送</rb><rp>（</rp><rt>おく</rt><rp>）</rp></ruby>られた<ruby><rb>時</rb><rp>（</rp><rt>とき</rt><rp>）</rp></ruby>、<ruby><rb>自</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>の<ruby><rb>墓</rb><rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby><ruby><rb>地</rb><rp>（</rp><rt>ち</rt><rp>）</rp></ruby>に<ruby><rb>存</rb><rp>（</rp><rt>そん</rt><rp>）</rp></ruby><ruby><rb>在</rb><rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>するカードを<ruby><rb>全</rb><rp>（</rp><rt>すべ</rt><rp>）</rp></ruby>てデッキに<ruby><rb>戻</rb><rp>（</rp><rt>もど</rt><rp>）</rp></ruby>してシャッフルする。
+    このカードが<ruby><rb>相</rb><rt>あい</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>の<ruby><rb>効</rb><rt>こう</rt></ruby><ruby><rb>果</rb><rt>か</rt></ruby>によってデッキから<ruby><rb>墓</rb><rt>ぼ</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby>へ<ruby><rb>送</rb><rt>おく</rt></ruby>られた<ruby><rb>時</rb><rt>とき</rt></ruby>、<ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>墓</rb><rt>ぼ</rt></ruby><ruby><rb>地</rb><rt>ち</rt></ruby>に<ruby><rb>存</rb><rt>そん</rt></ruby><ruby><rb>在</rb><rt>ざい</rt></ruby>するカードを<ruby><rb>全</rb><rt>すべ</rt></ruby>てデッキに<ruby><rb>戻</rb><rt>もど</rt></ruby>してシャッフルする。
   ko: |-
     이 카드가 상대에 의해서 덱에서 묘지로 직접 보내졌을 때, 묘지와 덱을 합쳐서 셔플하여, 새로운 덱으로 한다.
+  zh-TW:
   zh-CN: |-
     这张卡被对方的卡的效果从卡组送去墓地时，自己墓地存在的卡全部回到卡组洗切。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 3
 atk: 900

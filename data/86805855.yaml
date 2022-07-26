@@ -7,11 +7,12 @@ name:
   fr: Lame des Ténèbres, le Dragon Chevalier
   it: Lama Oscura il Cavaliere del Drago
   pt: Lâmina das Trevas, o Cavaleiro Dragão
-  ja: <ruby><rb>闇</rb><rp>（</rp><rt>やみ</rt><rp>）</rp></ruby><ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>界</rb><rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>闇</rb><rt>やみ</rt></ruby><ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>界</rb><rt>かい</rt></ruby>の<ruby><rb>竜</rb><rt>りゅう</rt></ruby><ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
     ダークソード
   ja_romaji: Yamimakai no Ryūkishi Dāku Sōdo
   ko: 암흑 마계의 용기사 다크 스워드
   ko_rr:
+  zh-TW:
   zh-CN: 暗魔界的龙骑士 暗黑之剑
 text:
   en: |-
@@ -38,11 +39,12 @@ text:
   ko: |-
     "암흑 마계의 전사 다크 스워드" + "칠흑의 전투용"
     이 카드가 상대에게 전투 데미지를 줄 때마다, 상대의 묘지에서 3장까지 몬스터 카드를 선택하여, 게임에서 제외할 수 있다.
+  zh-TW:
   zh-CN: |-
     「暗魔界的战士 暗黑之剑」＋「漆黑的斗龙」
     每次这张卡给与对方战斗伤害，可以从对方墓地选择最多3张怪兽卡，从游戏中除外。
-type: Monster
-typeline: Warrior / Fusion / Effect
+card_type: Monster
+monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
 level: 6
 atk: 2200

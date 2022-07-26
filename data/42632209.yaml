@@ -7,11 +7,12 @@ name:
   fr: Sigma Final Géomathmech
   it: Geomatemech Finale Sigma
   pt: Geomechamático Sigma Final
-  ja: <ruby><rb>炎</rb><rp>（</rp><rt>エン</rt><rp>）</rp></ruby><ruby><rb>斬</rb><rp>（</rp><rt>ザン</rt><rp>）</rp></ruby><ruby><rb>機</rb><rp>（</rp><rt>キ</rt><rp>）</rp></ruby>ファイナルシグマ
+  ja: <ruby><rb>炎</rb><rt>エン</rt></ruby><ruby><rb>斬</rb><rt>ザン</rt></ruby><ruby><rb>機</rb><rt>キ</rt></ruby>ファイナルシグマ
   ja_romaji: Enzanki Fainaru Shiguma
   ko: 염참기 파이널시그마
   ko_rr: Yeomchamgi Paineolsigeuma
-  zh-CN: 炎斩机 终末西格马
+  zh-TW:
+  zh-CN: 炎斩机最终西格玛
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -37,14 +38,12 @@ text:
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 엑스트라 몬스터 존에 존재하는 한, "참기" 카드 이외의 카드의 효과를 받지 않는다. ②: 엑스트라 몬스터 존의 이 카드가 상대 몬스터와의 전투로 상대에게 주는 전투 데미지는 배가 된다. ③: 이 카드가 전투 또는 상대 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 "참기" 카드 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    这个卡名的③的效果1回合只能使用1次。
-    ①：这张卡只要在额外怪兽区域存在，不受「斩机」卡以外的卡的效果影响。
-    ②：额外怪兽区域的这张卡用和对方怪兽的战斗给与对方的战斗伤害变成2倍。
-    ③：这张卡被战斗或者对方的效果破坏的场合才能发动。从卡组把1张「斩机」卡加入手卡。
-type: Monster
-typeline: Cyberse / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    此卡名的③效果1回合仅可使用1次。①：只要此卡存在于额外怪兽区域，就不受“斩机”卡以外的卡的效果影响。②：额外怪兽区域的此卡在和对手怪兽的战斗中给对手的战斗伤害变为两倍。③：此卡因战斗或者是对手的效果被破坏的情况下可以发动。将牌组中的1张“斩机”卡加入手牌。
+card_type: Monster
+monster_type_line: Cyberse / Synchro / Effect
 attribute: FIRE
 level: 12
 atk: 3000

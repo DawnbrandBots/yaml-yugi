@@ -7,11 +7,12 @@ name:
   fr: Tortue Électromagnétique
   it: Tartaruga Elettromagnetica
   pt: Tartaruga Eletromagnética
-  ja: <ruby><rb>超</rb><rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>磁</rb><rp>（</rp><rt>じ</rt><rp>）</rp></ruby>タートル
+  ja: <ruby><rb>超</rb><rt>ちょう</rt></ruby><ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>磁</rb><rt>じ</rt></ruby>タートル
   ja_romaji: Chōdenji Tātoru
   ko: 초전자 터틀
   ko_rr: Chojeonja Teoteul
-  zh-CN: 超电磁龟
+  zh-TW:
+  zh-CN: 超电磁乌龟
 text:
   en: |-
     During your opponent's Battle Phase (Quick Effect): You can banish this card from your GY; end the Battle Phase. You can only use this effect of "Electromagnetic Turtle" once per Duel.
@@ -29,10 +30,11 @@ text:
     このカード名の効果はデュエル中に１度しか使用できない。①：相手バトルフェイズに墓地のこのカードを除外して発動できる。そのバトルフェイズを終了する。
   ko: |-
     이 카드명의 효과는 듀얼 중에 1번밖에 사용할 수 없다. ①: 상대 배틀 페이즈에 묘지의 이 카드를 제외하고 발동할 수 있다. 그 배틀 페이즈를 종료한다.
+  zh-TW:
   zh-CN: |-
-    这个卡名的效果在决斗中只能使用1次。①：对方战斗阶段把墓地的这张卡除外才能发动。那次战斗阶段结束。
-type: Monster
-typeline: Machine / Effect
+    此卡名的效果在决斗中仅可使用1次。①：在对手的战斗阶段将墓地的此卡除外可以发动。结束该战斗阶段。
+card_type: Monster
+monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 4
 atk: 0

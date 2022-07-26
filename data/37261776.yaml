@@ -7,11 +7,12 @@ name:
   fr: Salamangrande Chimère Violette
   it: Salamagna Chimera Viola
   pt: Salamagrande Quimera Violeta
-  ja: <ruby><rb>転生炎獣</rb><rp>（</rp><rt>サラマングレイト</rt><rp>）</rp></ruby>ヴァイオレットキマイラ
+  ja: <ruby><rb>転生炎獣</rb><rt>サラマングレイト</rt></ruby>ヴァイオレットキマイラ
   ja_romaji: Saramangureito Vaioretto Kimaira
   ko: 샐러맨그레이트 바이올렛키메라
   ko_rr: Saelleomaen-geureiteu Baiolletkimera
-  zh-CN: 转生炎兽 堇色奇美拉
+  zh-TW:
+  zh-CN: 转生炎兽 堇色客迈拉
 text:
   en: |-
     1 "Salamangreat" monster + 1 Link Monster
@@ -37,13 +38,12 @@ text:
   ko: |-
     "샐러맨그레이트" 몬스터 ＋ 링크 몬스터
     ①: 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 소재로 한 몬스터의 원래 공격력을 합계한 수치의 절반만큼 올린다. ②: 이 카드가 원래 공격력과 다른 공격력을 가지는 몬스터와 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 이 카드의 공격력은 그 데미지 계산시에만 배가 된다. ③: "샐러맨그레이트 바이올렛키메라"를 소재로서 융합 소환한 이 카드와 전투를 실행하는 몬스터의 공격력은 데미지 계산시에만 0 이 된다.
+  zh-TW:
   zh-CN: |-
-    「转生炎兽」怪兽＋连接怪兽
-    ①：这张卡融合召唤成功的场合才能发动。这张卡的攻击力直到回合结束时上升作为素材的怪兽的原本攻击力合计数值的一半。
-    ②：这张卡和持有和原本攻击力不同攻击力的怪兽进行战斗的伤害计算时才能发动1次。这张卡的攻击力只在那次伤害计算时变成2倍。
-    ③：和用「转生炎兽 堇色奇美拉」为素材作融合召唤的这张卡进行战斗的怪兽的攻击力只在伤害计算时变成0。
-type: Monster
-typeline: Cyberse / Fusion / Effect
+    "转生炎兽"怪兽＋连接怪兽
+    ①：此卡融合召唤成功的情况下可以发动。此卡的攻击力直至回合结束时为止，上升相当于作为素材的怪兽的原本攻击力合计数值一半的数值。②：每次此卡与拥有和原本攻击力不同的攻击力的怪兽进行战斗的伤害计算时可以发动1次。此卡的攻击力仅在该伤害计算时变为两倍。③：与以"转生炎兽 堇色客迈拉"作为素材融合召唤的此卡进行战斗的怪兽的攻击力仅在伤害计算时变为0。
+card_type: Monster
+monster_type_line: Cyberse / Fusion / Effect
 attribute: FIRE
 level: 8
 atk: 2800

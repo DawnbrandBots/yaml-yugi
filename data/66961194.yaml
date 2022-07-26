@@ -7,10 +7,11 @@ name:
   fr: Dictateur des D
   it: Dittatore di D.
   pt: Ditador dos Dragões
-  ja: ロード・オブ・ドラゴン－ドラゴンの<ruby><rb>独</rb><rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby><rb>裁</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>者</rb><rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>－
+  ja: ロード・オブ・ドラゴン－ドラゴンの<ruby><rb>独</rb><rt>どく</rt></ruby><ruby><rb>裁</rb><rt>さい</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>－
   ja_romaji: Rōdo Obu Doragon - Doragon no Dokusaisha -
   ko: 드래곤의 독재자
   ko_rr: Deuraegon-ui Dokjaeja
+  zh-TW:
   zh-CN: 龙之支配者-龙之独裁者-
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・デッキから「青眼の白龍」１体を墓地へ送って発動できる。このカードを手札から特殊召喚する。②：手札から「青眼の白龍」１体またはそのカード名が記されたカード１枚を捨て、自分の墓地の「ブルーアイズ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。③：自分フィールドに「ブルーアイズ」モンスターが存在する限り、相手モンスターの攻撃対象は自分が選択する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패 / 덱에서 "푸른 눈의 백룡" 1장을 묘지로 보내고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 패에서 "푸른 눈의 백룡" 1장 또는 그 카드명이 쓰여진 카드 1장을 버리고, 자신 묘지의 "푸른 눈" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다. ③: 자신 필드에 "푸른 눈" 몬스터가 존재하는 한, 상대 몬스터의 공격 대상은 자신이 선택한다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：从手卡·卡组把1只「青眼白龙」送去墓地才能发动。这张卡从手卡特殊召唤。
     ②：从手卡丢弃1只「青眼白龙」或者1张有那个卡名记述的卡，以自己墓地1只「青眼」怪兽为对象才能发动。那只怪兽特殊召唤。
     ③：只要自己场上有「青眼」怪兽存在，对方怪兽的攻击对象由自己选择。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1200

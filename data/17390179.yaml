@@ -7,10 +7,11 @@ name:
   fr: Chevalier Flash
   it: Cavaliere Lampo
   pt: Cavaleiro Brilhante
-  ja: <ruby><rb>閃</rb><rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby><rb>光</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>の<ruby><rb>騎</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>閃</rb><rt>せん</rt></ruby><ruby><rb>光</rb><rt>こう</rt></ruby>の<ruby><rb>騎</rb><rt>き</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Senkō no Kishi
   ko: 섬광의 기사
   ko_rr:
+  zh-TW:
   zh-CN: 闪光之骑士
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     神の振り子より新たな力を会得した騎士。今こそ覚醒し、その力を解放せよ！
   ko: |-
     신의 시계추에 의해 새로운 힘을 터득한 기사. 지금이야말로 각성하여 그 힘을 해방하라!
+  zh-TW:
   zh-CN: |-
     由于神之灵摆而掌握到新力量的骑士。现在是该觉醒过来，解放那股力量了！
-type: Monster
-typeline: Warrior / Pendulum / Normal
+card_type: Monster
+monster_type_line: Warrior / Pendulum / Normal
 attribute: LIGHT
 level: 4
 atk: 1800
@@ -47,6 +49,7 @@ pendulum_effect:
   pt:
   ja:
   ko:
+  zh-TW:
   zh-CN: |-
     无
 sets:

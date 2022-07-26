@@ -7,10 +7,11 @@ name:
   fr: Dragon des Ténèbres
   it: Drago Infuocato della Terra Nera
   pt: Dragão de Fogo da Terra Negra
-  ja: <ruby><rb>暗</rb><rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby>の<ruby><rb>竜王</rb><rp>（</rp><rt>ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>暗</rb><rt>あん</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby>の<ruby><rb>竜王</rb><rt>ドラゴン</rt></ruby>
   ja_romaji: Ankoku no Doragon
   ko: 암흑의 드래곤왕
   ko_rr:
+  zh-TW:
   zh-CN: 暗黑之龙王
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     暗闇の奥深くに生息するドラゴン。目はあまり良くない。
   ko: |-
     깊은 어둠 속에서 서식하는 드래곤, 시력은 별로 좋지 않다
+  zh-TW:
   zh-CN: |-
     生活在黑暗深处的龙，由于长期出活在暗处。视力不太好。
-type: Monster
-typeline: Dragon
+card_type: Monster
+monster_type_line: Dragon
 attribute: DARK
 level: 4
 atk: 1500

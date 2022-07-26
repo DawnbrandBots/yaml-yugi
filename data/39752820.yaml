@@ -7,11 +7,12 @@ name:
   fr: Lib le Maître des Épées de la Clé du Monde
   it: Lib la Spadaccina Chiave del Mondo
   pt: Lib a Espadachim da Chave Mundial
-  ja: <ruby><rb>星</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>鍵</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>リイヴ
+  ja: <ruby><rb>星</rb><rt>せい</rt></ruby><ruby><rb>鍵</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>リイヴ
   ja_romaji: Seikenshi Ri'ivu
   ko: 성건사 리이브
   ko_rr: Seonggeonsa Riibeu
-  zh-CN: 星键士 利娃
+  zh-TW:
+  zh-CN: 星键士 利伊布
 text:
   en: |-
     2 monsters
@@ -49,17 +50,16 @@ text:
   ko: |-
     몬스터 2장
     이 카드는 자신 묘지에 "성유물" 카드가 존재할 경우에만 링크 소환할 수 있다. 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 덱에서 "성유물" 마법 / 함정 카드 1장을 고르고 자신 필드에 세트한다. 이 턴에, 자신 묘지에 "성유물" 몬스터가 존재하지 않을 경우에는, 그 카드는 발동할 수 없다. ②: 링크 소환한 이 카드가 링크 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 필드의 카드 1장을 고르고 주인의 덱으로 되돌린다.
+  zh-TW:
   zh-CN: |-
     怪兽2只
-    这张卡在自己墓地有「星遗物」卡存在的场合才能连接召唤。这个卡名的①②的效果1回合各能使用1次。
-    ①：自己主要阶段才能发动。从卡组选1张「星遗物」魔法·陷阱卡在自己场上盖放。这个回合，自己墓地没有「星遗物」怪兽存在的场合，那张卡不能发动。
-    ②：连接召唤的这张卡作为连接素材送去墓地的场合才能发动。选场上1张卡回到持有者卡组。
-type: Monster
-typeline: Cyberse / Link / Effect
+    仅在自己的墓地有"星遗物"卡存在的情况下可连接召唤此卡。此卡名的①②效果1回合仅可各使用1次。①：在自己的主要阶段可以发动。从牌组挑选1张"星遗物"魔法・陷阱卡放置在自己场上。此回合，自己的墓地没有"星遗物"怪兽存在的情况下，不可发动该卡。②：连接召唤的此卡作为连接素材被送至墓地的情况下可以发动。挑选场上的1张卡放回持有者的牌组。
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
 link_arrows:
-- Middle-Left
-- Bottom-Left
+- ⬅
+- ↙
 atk: 2000
 materials: 2 monsters
 sets:

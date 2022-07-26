@@ -7,10 +7,11 @@ name:
   fr: Martin-Pêcheur de Création Jadeglace
   it: Ghiacciogiada Creazione Martin Pescatore
   pt: Gelojade Rei Pescador da Criação
-  ja: <ruby><rb>氷</rb><rp>（</rp><rt>ヒ</rt><rp>）</rp></ruby><ruby><rb>水</rb><rp>（</rp><rt>スイ</rt><rp>）</rp></ruby><ruby><rb>艇</rb><rp>（</rp><rt>テイ</rt><rp>）</rp></ruby>キングフィッシャー
+  ja: <ruby><rb>氷</rb><rt>ヒ</rt></ruby><ruby><rb>水</rb><rt>スイ</rt></ruby><ruby><rb>艇</rb><rt>テイ</rt></ruby>キングフィッシャー
   ja_romaji: Hisuitei Kingufisshā
   ko: 히스이테이 킹피셔
   ko_rr: Hiseu-itei Kingpisyeo
+  zh-TW:
   zh-CN: 冰水艇 翡翠灵翠鸟
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：自分フィールドの水属性モンスター１体を対象として発動できる。自分の手札・フィールドからこのカードを装備カード扱いとしてそのモンスターに装備する。②：このカードを装備した「氷水」モンスターは守備表示のままで攻撃できる。その場合、装備モンスターは守備力を攻撃力として扱いダメージ計算を行う。③：装備モンスターの守備力以下の攻撃力を持つ相手フィールドのモンスター１体を対象として発動できる。このカードを特殊召喚し、対象のモンスターを手札に戻す。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 물 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신의 패 / 필드에서 이 카드를 장착 카드로 취급하고 그 몬스터에 장착한다. ②: 이 카드를 장착한 "히스이" 몬스터는 수비 표시 그대로 공격할 수 있다. 그 경우, 장착 몬스터는 수비력을 공격력으로 취급하고 데미지 계산을 실행한다. ③: 장착 몬스터의 수비력 이하의 공격력을 가지는 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 특수 소환하고, 대상 몬스터를 패로 되돌린다.
+  zh-TW:
   zh-CN: |-
     这个卡名的③的效果1回合只能使用1次。
     ①：以自己场上1只水属性怪兽为对象才能发动。从自己的手卡·场上把这张卡当作装备卡使用给那只怪兽装备。
     ②：有这张卡装备的「冰水」怪兽可以用守备表示的状态作出攻击。那个场合，装备怪兽用守备力当作攻击力使用进行伤害计算。
     ③：以持有装备怪兽的守备力以下的攻击力的对方场上1只怪兽为对象才能发动。这张卡特殊召唤，作为对象的怪兽回到手卡。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 9
 atk: 2500

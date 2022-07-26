@@ -7,10 +7,11 @@ name:
   fr: Dragon Cyberténébreux
   it: Drago Cyberoscuro
   pt: Dragão Cibersombrio
-  ja: <ruby><rb>鎧</rb><rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby><rb>黒</rb><rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>－サイバー・ダーク・ドラゴン
+  ja: <ruby><rb>鎧</rb><rt>がい</rt></ruby><ruby><rb>黒</rb><rt>こく</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>－サイバー・ダーク・ドラゴン
   ja_romaji: Gaikokuryū - Saibā Dāku Doragon
   ko: 사이버 다크 드래곤
   ko_rr: Saibeo Dakeu Deuraegon
+  zh-TW:
   zh-CN: 铠黑龙-电子暗黑龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     "사이버 다크 혼" ＋ "사이버 다크 에지" ＋ "사이버 다크 킬"
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 자신 묘지의 드래곤족 몬스터 1장을 대상으로 하고 발동한다. 그 드래곤족 몬스터를 장착 카드로 취급하여 이 카드에 장착한다. ②: 이 카드의 공격력은, 이 카드의 효과로 장착한 몬스터의 공격력만큼, 및 자신 묘지의 몬스터의 수 × 100 올린다. ③: 이 카드가 전투로 파괴될 경우, 대신에 장착한 그 몬스터를 파괴한다.
+  zh-TW:
   zh-CN: |-
     「电子暗黑魔角」＋「电子暗黑刃翼」＋「电子暗黑龙骨」
     这张卡不用融合召唤不能特殊召唤。①：这张卡特殊召唤成功的场合，以自己墓地1只龙族怪兽为对象发动。那只龙族怪兽当作装备卡使用给这张卡装备。②：这张卡的攻击力上升这张卡的效果装备的怪兽的原本攻击力数值以及自己墓地的怪兽数量×100。③：这张卡被战斗破坏的场合，作为代替把装备的那只怪兽破坏。
-type: Monster
-typeline: Machine / Fusion / Effect
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
 attribute: DARK
 level: 8
 atk: 1000

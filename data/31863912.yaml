@@ -7,10 +7,11 @@ name:
   fr: Dé-nie
   it: Dado-negato
   pt: Nega-dado
-  ja: <ruby><rb>出</rb><rp>（</rp><rt>ダ</rt><rp>）</rp></ruby><ruby><rb>目</rb><rp>（</rp><rt>メ</rt><rp>）</rp></ruby><ruby><rb>出</rb><rp>（</rp><rt>だ</rt><rp>）</rp></ruby>し
+  ja: <ruby><rb>出</rb><rt>ダ</rt></ruby><ruby><rb>目</rb><rt>メ</rt></ruby><ruby><rb>出</rb><rt>だ</rt></ruby>し
   ja_romaji: Damedashi
   ko: 퇴짜
   ko_rr:
+  zh-TW: 失敗的骰子
   zh-CN: 指出出目
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     相手がモンスターの特殊召喚に成功した時、サイコロを１回振る。出た目がその特殊召喚されたモンスターのレベルと同じだった場合、そのモンスターを持ち主の手札に戻す。
   ko: |-
     상대가 몬스터의 특수 소환에 성공했을 때, 주사위를 1회 던진다. 나온 눈이 그 특수 소환된 몬스터의 레벨과 같은 경우, 그 몬스터를 주인의 패로 되돌린다.
+  zh-TW: 对手特殊召唤怪兽成功时，掷1次骰子。掷出的点数与被特殊召唤的该怪兽等级相同的场合，该怪兽返回至持有者手牌。
   zh-CN: |-
     对方对怪兽的特殊召唤成功时，掷1次骰子。出现的数目和那特殊召唤的怪兽的等级相同的场合，那怪兽回到持有者手卡。
-type: Trap
+card_type: Trap
 property: Continuous

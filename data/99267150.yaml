@@ -7,10 +7,11 @@ name:
   fr: Dragon à Cinq Têtes
   it: Drago a Cinque Teste
   pt: Dragão de Cinco Cabeças
-  ja: <ruby><rb>Ｆ・Ｇ・Ｄ</rb><rp>（</rp><rt>ファイブ・ゴッド・ドラゴン</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>Ｆ・Ｇ・Ｄ</rb><rt>ファイブ・ゴッド・ドラゴン</rt></ruby>
   ja_romaji: Faibu Goddo Doragon
   ko: F・G・D
   ko_rr: Paibeu Gat Deuraegon
+  zh-TW:
   zh-CN: 五神龙
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     드래곤족 몬스터 × 5
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드는 어둠 / 땅 / 물 / 화염 / 바람 속성 몬스터와의 전투로는 파괴되지 않는다.
+  zh-TW:
   zh-CN: |-
     龙族怪兽×5
     这张卡不用融合召唤不能特殊召唤。①：这张卡不会被和暗·地·水·炎·风属性怪兽的战斗破坏。
-type: Monster
-typeline: Dragon / Fusion / Effect
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
 attribute: DARK
 level: 12
 atk: 5000

@@ -7,11 +7,12 @@ name:
   fr: Résident des Abysses
   it: Abitante dell'Abisso
   pt: Habitante do Abismo
-  ja: <ruby><rb>深</rb><rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby><rb>淵</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>に<ruby><rb>潜</rb><rp>（</rp><rt>ひそ</rt><rp>）</rp></ruby>む<ruby><rb>者</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>深</rb><rt>しん</rt></ruby><ruby><rb>淵</rb><rt>えん</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>む<ruby><rb>者</rb><rt>もの</rt></ruby>
   ja_romaji: Shin'en ni Hisomumono
   ko: 심연에 숨은 자
   ko_rr: Sim-yeon-e Sum-eun Ja
-  zh-CN: 深渊的潜伏者
+  zh-TW: 深淵潛伏者
+  zh-CN: 深渊潜伏者
 text:
   en: |-
     2 Level 4 monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     ①: 이 카드가 물 속성 몬스터를 엑시즈 소재로 하고 있을 경우, 자신 필드의 물 속성 몬스터의 공격력은 500 올린다. ②: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 턴에, 상대는 묘지의 카드의 효과를 발동할 수 없다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW: "等級4怪獸×2\n此卡持有將水屬性怪獸作為超量素材的場合，我方場上的水屬性怪獸攻擊力上升500點。此外，1回合1次，可移除此卡的1個超量素材並發動。此回合，於對手墓地發動的魔法、陷阱、效果怪獸的效果不可發動。此效果也可於對手回合發動。"
   zh-CN: |-
-    4星怪兽×2
-    ①：这张卡有水属性怪兽在作为XYZ素材的场合，自己场上的水属性怪兽的攻击力上升500。②：1回合1次，把这张卡1个XYZ素材取除才能发动。这个回合，对方不能把墓地的卡的效果发动。这个效果在对方回合也能发动。
-type: Monster
-typeline: Sea Serpent / Xyz / Effect
+    等级4怪兽×2
+    ①：此卡以水属性怪兽作为超量素材的情况下，自己场上的水属性怪兽的攻击力上升500。②：1回合1次，去除此卡的1个超量素材可以发动。此回合中，对手不可发动墓地的卡的效果。此效果在对手回合中也可以发动。
+card_type: Monster
+monster_type_line: Sea Serpent / Xyz / Effect
 attribute: WATER
 rank: 4
 atk: 1700

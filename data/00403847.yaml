@@ -7,10 +7,11 @@ name:
   fr: Les Forces A.
   it: Le Truppe A.
   pt: A Força A.
-  ja: <ruby><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby><rb>合</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>軍</rb><rp>（</rp><rt>ぐん</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>連</rb><rt>れん</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby><ruby><rb>軍</rb><rt>ぐん</rt></ruby>
   ja_romaji: Rengōgun
   ko: 연합군
   ko_rr:
+  zh-TW: 連合軍
   zh-CN: 联合军
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分フィールド上の戦士族モンスターの攻撃力は、自分フィールド上の戦士族・魔法使い族モンスターの数×２００ポイントアップする。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 전사족ㆍ마법사족 몬스터 1장당, 자신 필드 위의 모든 전사족 몬스터의 공격력은 200포인트 올린다.
+  zh-TW: 提升我方场上战士族怪兽的攻击力，我方场上的战士族、魔法师族怪兽总数×200点。
   zh-CN: |-
     自己场上的战士族怪兽的攻击力上升自己场上的战士族·魔法师族怪兽数量×200的数值。
-type: Spell
+card_type: Spell
 property: Continuous

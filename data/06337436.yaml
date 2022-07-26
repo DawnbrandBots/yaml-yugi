@@ -7,10 +7,11 @@ name:
   fr: Magicien à Rafales
   it: Mago Fuoco-Rapido
   pt: Mago do Fogo Rápido
-  ja: <ruby><rb>連</rb><rp>（</rp><rt>れん</rt><rp>）</rp></ruby><ruby><rb>弾</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>の<ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>術</rb><rp>（</rp><rt>じゅつ</rt><rp>）</rp></ruby><ruby><rb>師</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>連</rb><rt>れん</rt></ruby><ruby><rb>弾</rb><rt>だん</rt></ruby>の<ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>術</rb><rt>じゅつ</rt></ruby><ruby><rb>師</rb><rt>し</rt></ruby>
   ja_romaji: Rendan no Majutsushi
   ko: 연속탄의 마술사
   ko_rr:
+  zh-TW:
   zh-CN: 连弹之魔术师
 text:
   en: |-
@@ -28,10 +29,11 @@ text:
     このカードがフィールド上に表側表示で存在する限り、自分が通常魔法を発動する度に、相手ライフに４００ポイントダメージを与える。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신이 일반 마법을 발동할 때마다, 상대 라이프에 400 포인트 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     只要这张卡在场上表侧表示存在，每次自己把通常魔法发动，给与对方基本分400分伤害。
-type: Monster
-typeline: Spellcaster / Effect
+card_type: Monster
+monster_type_line: Spellcaster / Effect
 attribute: DARK
 level: 4
 atk: 1600

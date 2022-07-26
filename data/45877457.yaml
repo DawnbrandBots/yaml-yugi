@@ -7,10 +7,11 @@ name:
   fr: Mécamortier de la Magiclé - Garesverre
   it: Magichiave Mechmortaio - Garespaccatore
   pt: Mechamorteiro Magichave - Garestilhaçar
-  ja: <ruby><rb>魔</rb><rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby><rb>鍵</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>砲</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>－ガレスヴェート
+  ja: <ruby><rb>魔</rb><rt>ま</rt></ruby><ruby><rb>鍵</rb><rt>けん</rt></ruby><ruby><rb>砲</rb><rt>ほう</rt></ruby>－ガレスヴェート
   ja_romaji: Makenhō - Garesuvēto
   ko: 마건포－가레스베트
   ko_rr: Mageonpo - Gareseubeteu
+  zh-TW:
   zh-CN: 魔键炮-加雷斯维特
 text:
   en: |-
@@ -29,13 +30,14 @@ text:
     「魔鍵－マフテア」により降臨。このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードの攻撃力は、自分の墓地のモンスターの属性の種類×３００アップする。②：このカードの儀式召喚に使用したモンスターの属性が２種類以上だった場合、自分の墓地のいずれかのモンスターと同じ属性を持つモンスターの効果を相手が発動した時に発動できる。その発動を無効にし破壊する。③：儀式召喚したこのカードが墓地へ送られた場合に発動できる。デッキから「魔鍵」モンスター１体を手札に加える。
   ko: |-
     "마건－마프테아"에 의해 의식 소환. 이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은, 자신 묘지의 몬스터의 속성의 종류 × 300 올린다. ②: 이 카드의 의식 소환에 사용한 몬스터의 속성이 2종류 이상이었을 경우, 자신 묘지 중 어느 몬스터와 같은 속성을 가지는 몬스터의 효과를 상대가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ③: 의식 소환한 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "마건" 몬스터 1장을 패에 넣는다.
+  zh-TW:
   zh-CN: |-
     「魔键-马夫提亚」降临。这个卡名的②③的效果1回合各能使用1次。
     ①：这张卡的攻击力上升自己墓地的怪兽的属性种类×300。
     ②：这张卡的仪式召唤使用的怪兽的属性是2种类以上的场合，持有和自己墓地的其中任意种的怪兽相同属性的怪兽的效果由对方发动时才能发动。那个发动无效并破坏。
     ③：仪式召唤的这张卡被送去墓地的场合才能发动。从卡组把1只「魔键」怪兽加入手卡。
-type: Monster
-typeline: Machine / Ritual / Effect
+card_type: Monster
+monster_type_line: Machine / Ritual / Effect
 attribute: EARTH
 level: 8
 atk: 2000

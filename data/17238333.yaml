@@ -7,10 +7,11 @@ name:
   fr: Misérable Fantôme du Grenier
   it: Fantasma Miserabile della Soffitta
   pt: Mísero Fantasma do Sotão
-  ja: <ruby><rb>屋</rb><rp>（</rp><rt>や</rt><rp>）</rp></ruby><ruby><rb>根</rb><rp>（</rp><rt>ね</rt><rp>）</rp></ruby><ruby><rb>裏</rb><rp>（</rp><rt>うら</rt><rp>）</rp></ruby>の<ruby><rb>物</rb><rp>（</rp><rt>もの</rt><rp>）</rp></ruby>の<ruby><rb>怪</rb><rp>（</rp><rt>け</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>屋</rb><rt>や</rt></ruby><ruby><rb>根</rb><rt>ね</rt></ruby><ruby><rb>裏</rb><rt>うら</rt></ruby>の<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>怪</rb><rt>け</rt></ruby>
   ja_romaji: Yaneura no Mononoke
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 阁楼上的妖怪
 text:
   en: |-
@@ -27,10 +28,11 @@ text:
   ja: |-
     どの家の屋根裏にも潜んでいるもののけ。特にわるさはしない。
   ko:
+  zh-TW:
   zh-CN: |-
     各家屋顶都有的冤魂。从不做坏事。
-type: Monster
-typeline: Fiend
+card_type: Monster
+monster_type_line: Fiend
 attribute: DARK
 level: 2
 atk: 550

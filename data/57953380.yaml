@@ -7,10 +7,11 @@ name:
   fr: Carte de Retour Sain & Sauf
   it: Carta del Ritorno Sicuro
   pt: Card do Regresso Seguro
-  ja: <ruby><rb>生</rb><rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby><rb>還</rb><rp>（</rp><rt>かん</rt><rp>）</rp></ruby>の<ruby><rb>宝</rb><rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby><rb>札</rb><rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>生</rb><rt>せい</rt></ruby><ruby><rb>還</rb><rt>かん</rt></ruby>の<ruby><rb>宝</rb><rt>ほう</rt></ruby><ruby><rb>札</rb><rt>さつ</rt></ruby>
   ja_romaji: Seikan no Hōsatsu
   ko: 생환의 패
   ko_rr:
+  zh-TW:
   zh-CN: 生还的宝札
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     自分の墓地からモンスターがフィールド上に特殊召喚された時、デッキからカードを１枚ドローする事ができる。
   ko: |-
     자신의 묘지에서 몬스터가 필드 위에 특수 소환되었을 때, 덱에서 카드를 1장 드로우 할 수 있다.
+  zh-TW:
   zh-CN: |-
     自己墓地存在的怪兽特殊召唤成功时，可以从自己卡组抽1张卡。
-type: Spell
+card_type: Spell
 property: Continuous

@@ -7,10 +7,11 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>Ｇ</rb><rp>（</rp><rt>ジー</rt><rp>）</rp></ruby>ゴーレム・クリスタルハート
+  ja: <ruby><rb>Ｇ</rb><rt>ジー</rt></ruby>ゴーレム・クリスタルハート
   ja_romaji: Jī Gōremu Kurisutaru Hāto
   ko:
   ko_rr:
+  zh-TW:
   zh-CN:
 text:
   en: |-
@@ -25,13 +26,14 @@ text:
     サイバース族モンスター２体
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分の墓地の地属性リンクモンスター１体を対象として発動できる。そのモンスターをこのカードのリンク先となる自分フィールドに特殊召喚し、このカードにＧＧカウンターを１つ置く。②：このカードの相互リンク先の地属性モンスターは、攻撃力がこのカードのＧＧカウンターの数×６００アップし、１度のバトルフェイズ中に２回攻撃でき、守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
   ko:
+  zh-TW:
   zh-CN:
-type: Monster
-typeline: Cyberse / Link / Effect
+card_type: Monster
+monster_type_line: Cyberse / Link / Effect
 attribute: WATER
 link_arrows:
-- Middle-Left
-- Bottom-Center
+- ⬅
+- ⬇
 atk: 0
 materials: 2 Cyberse monsters
 sets:

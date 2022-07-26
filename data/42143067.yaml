@@ -7,10 +7,11 @@ name:
   fr: Doki Doki
   it: Doki Doki
   pt: Doki Doki
-  ja: <ruby><rb>怒</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>土</rb><rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby><rb>器</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>怒</rb><rt>ど</rt></ruby><ruby><rb>気</rb><rt>き</rt></ruby><ruby><rb>土</rb><rt>ど</rt></ruby><ruby><rb>器</rb><rt>き</rt></ruby>
   ja_romaji: Doki Doki
   ko: 노기토기
   ko_rr: Gogitogi
+  zh-TW:
   zh-CN: 怒气土器
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカード名の効果は１ターンに１度しか使用できない。①：手札から岩石族モンスター１体を捨てて発動できる。そのモンスターと元々の属性・レベルが同じ岩石族モンスター１体を、デッキから表側攻撃表示または裏側守備表示で特殊召喚する。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패에서 암석족 몬스터 1장을 버리고 발동할 수 있다. 그 몬스터와 원래의 속성 / 레벨이 같은 암석족 몬스터 1장을, 덱에서 앞면 공격 표시 또는 뒷면 수비 표시로 특수 소환한다.
+  zh-TW:
   zh-CN: |-
-    「怒气土器」的效果1回合只能使用1次。①：把手卡1只岩石族怪兽丢弃才能发动。原本的属性·等级和那只怪兽相同的1只岩石族怪兽从卡组表侧攻击表示或者里侧守备表示特殊召唤。
-type: Monster
-typeline: Rock / Effect
+    此卡名的效果1回中仅可使用1次。①：从手牌扔掉1只岩石族怪兽后可以发动。将原本的属性・等级和该怪兽相同的1只岩石族怪兽从牌组以表侧攻击表示或者里侧守备表示形式进行特殊召唤。
+card_type: Monster
+monster_type_line: Rock / Effect
 attribute: EARTH
 level: 2
 atk: 500

@@ -7,10 +7,11 @@ name:
   fr: Van'Dalgyon le Seigneur du Dragon des Ténèbres
   it: Van'Dalgyon, il Signore dei Draghi Oscuri
   pt: Van'Dalgyon, o Senhor do Dragão Negro
-  ja: <ruby><rb>冥</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>王</rb><rp>（</rp><rt>おう</rt><rp>）</rp></ruby><ruby><rb>竜</rb><rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby>ヴァンダルギオン
+  ja: <ruby><rb>冥</rb><rt>めい</rt></ruby><ruby><rb>王</rb><rt>おう</rt></ruby><ruby><rb>竜</rb><rt>りゅう</rt></ruby>ヴァンダルギオン
   ja_romaji: Meiōryū Vandarugion
   ko: 명왕룡 반달기온
   ko_rr:
+  zh-TW:
   zh-CN: 冥王龙 断罪神
 text:
   en: |-
@@ -53,13 +54,14 @@ text:
     ● 마법 : 상대 라이프에 1500 포인트 데미지를 준다.
     ● 함정 : 상대 필드 위의 카드 1장을 선택하고 파괴한다.
     ● 효과 몬스터 : 자신의 묘지에서 몬스터 1장을 선택하고 자신 필드 위에 특수 소환한다.
+  zh-TW:
   zh-CN: |-
     把对方控制的卡的发动用反击陷阱无效的场合，可以把这张卡从手卡特殊召唤。这个方法特殊召唤成功时，无效的卡的种类的以下效果发动。
     ●魔法：给与对方基本分1500分伤害。
     ●陷阱：选择对方场上1张卡破坏。
     ●效果怪兽：从自己墓地选择1只怪兽在自己场上特殊召唤。
-type: Monster
-typeline: Dragon / Effect
+card_type: Monster
+monster_type_line: Dragon / Effect
 attribute: DARK
 level: 8
 atk: 2800

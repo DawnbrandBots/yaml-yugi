@@ -7,15 +7,16 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rp>（</rp><rt>パンク</rt><rp>）</rp></ruby><ruby><rb>ＪＡＭ</rb><rp>（</rp><rt>ジャム</rt><rp>）</rp></ruby>ドラゴン・ドライブ
+  ja: <ruby><rb>Ｐ．Ｕ．Ｎ．Ｋ．</rb><rt>パンク</rt></ruby><ruby><rb>ＪＡＭ</rb><rt>ジャム</rt></ruby>ドラゴン・ドライブ
   ja_romaji: Panku Jamu Doragon Doraibu
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 朋.克.合奏 舞龙
 text:
   en: |-
     1 Psychic Tuner + 1+ non-Tuner monsters
-    If this card is Synchro Summoned, or Special Summoned by a "P.U.N.K." card's effect: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck, and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to the activation of your "P.U.N.K." card or effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of "P.U.N.K. JAM Dragon Drive" once per turn.
+    If this card is Special Summoned by the effect of a "P.U.N.K." card, or Synchro Summoned: You can pay 600 LP; take 1 Level 3 Psychic monster from your Deck and either add it to your hand or send it to the GY. If your opponent activates a card or effect in response to your "P.U.N.K." card or effect activation, while this card is in your GY: You can Special Summon this card. You can only use each effect of "P.U.N.K. JAM Dragon Drive" once per turn.
   de:
   es:
   fr:
@@ -25,19 +26,50 @@ text:
     サイキック族チューナー＋チューナー以外のモンスター１体以上
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＳ召喚または「Ｐ．Ｕ．Ｎ．Ｋ．」カードの効果で特殊召喚に成功した場合、６００ＬＰを払って発動できる。デッキからサイキック族・レベル３モンスター１体を選び、手札に加えるか墓地へ送る。②：このカードが墓地に存在する状態で、自分の「Ｐ．Ｕ．Ｎ．Ｋ．」カードの効果の発動にチェーンして相手がカードの効果を発動した場合に発動できる。このカードを特殊召喚する。
   ko:
+  zh-TW:
   zh-CN: |-
     念动力族调整+1只以上调整以外的怪兽
     这个卡名的①②效果1回合各能使用1次。①：这张卡被同调召唤或者被「P.U.N.K.／朋.克.」卡的效果特殊召唤成功的场合，可以支付600LP发动。从卡组选1只念动力族·等级3怪兽加入手牌或送入墓地。②：这张卡在墓地存在的状态下，对手连锁自己的「P.U.N.K.／朋.克.」卡的效果的发动来发动卡的效果的场合可以发动。将这张卡特殊召唤。
-type: Monster
-typeline: Psychic / Synchro / Effect
+card_type: Monster
+monster_type_line: Psychic / Synchro / Effect
 attribute: EARTH
 level: 8
 atk: 2700
 def: 2400
 materials: 1 Psychic-Type Tuner + 1 or more non-Tuner monsters
 sets:
+  en:
+  - set_number: POTE-EN046
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  de:
+  - set_number: POTE-DE046
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: POTE-FR046
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  it:
+  - set_number: POTE-IT046
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: POTE-PT046
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
   ja:
   - set_number: POTE-JP046
+    set_name: Power of the Elements
+    rarities:
+    - Rare
+  ko:
+  - set_number: POTE-KR046
     set_name: Power of the Elements
     rarities:
     - Rare

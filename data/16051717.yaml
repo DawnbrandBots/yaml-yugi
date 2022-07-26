@@ -7,11 +7,12 @@ name:
   fr: Assaut Aile Noire - Raikiri du Déluge
   it: Alanera d'Assalto - Raikiri il Rovescio di Pioggia
   pt: Asanegra Agressor - Raikiri, o Banho de Chuva
-  ja: <ruby><rb>Ａ</rb><rp>（</rp><rt>アサルト</rt><rp>）</rp></ruby> <ruby><rb>ＢＦ</rb><rp>（</rp><rt>ブラックフェザー</rt><rp>）</rp></ruby>－<ruby><rb>驟</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>雨</rb><rp>（</rp><rt>う</rt><rp>）</rp></ruby>のライキリ
+  ja: <ruby><rb>Ａ</rb><rt>アサルト</rt></ruby> <ruby><rb>ＢＦ</rb><rt>ブラックフェザー</rt></ruby>－<ruby><rb>驟</rb><rt>しゅう</rt></ruby><ruby><rb>雨</rb><rt>う</rt></ruby>のライキリ
   ja_romaji: Asaruto Burakku Fezā - Shūu no Raikiri
-  ko: <ruby><rb>A BF</rb><rp>（</rp><rt>어썰트 블랙 페더</rt><rp>）</rp></ruby>－소나기의 라이키리
+  ko: <ruby><rb>A BF</rb><rt>어썰트 블랙 페더</rt></ruby>－소나기의 라이키리
   ko_rr:
-  zh-CN: 强袭黑羽-骤雨之雷切刀鸟
+  zh-TW:
+  zh-CN: 强袭黑羽－骤雨之雷切
 text:
   en: |-
     1 Tuner + 1 or more non-Tuner monsters
@@ -37,11 +38,12 @@ text:
   ko: |-
     튜너 + 튜너 이외의 몬스터 1장 이상
     ①: "BF (블랙 페더)" 몬스터를 소재로 하여 싱크로 소환한 이 카드는 튜너로 취급한다. ②: 1턴에 1번, 이 카드 이외의 자신 필드의 "BF (블랙 페더)" 몬스터의 수까지, 상대 필드의 카드를 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
+  zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    ①：「黑羽-」怪兽为素材作同调召唤的这张卡当作调整使用。②：1回合1次，以最多有这张卡以外的自己场上的「黑羽-」怪兽数量的对方场上的卡为对象才能发动。那些卡破坏。
-type: Monster
-typeline: Winged Beast / Synchro / Effect
+    协调＋1只以上协调以外的怪兽
+    ①：以“黑羽”怪兽为素材同步召唤的此卡视为协调。②：1回合1次，以对手场上的卡为对象可以发动，数量最多为此卡以外的自己场上的“黑羽”怪兽数量。将该卡破坏。
+card_type: Monster
+monster_type_line: Winged Beast / Synchro / Effect
 attribute: DARK
 level: 7
 atk: 2600

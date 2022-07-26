@@ -1,7 +1,7 @@
 konami_id: 17451
 password: 27381364
 name:
-  en: Splight Elf
+  en: Spright Elf
   de:
   es:
   fr:
@@ -11,11 +11,12 @@ name:
   ja_romaji: Supuraito Erufu
   ko:
   ko_rr:
+  zh-TW:
   zh-CN: 雷光妖灵 精灵
 text:
   en: |-
-    2 monsters, including a Level/Rank/Link-2 monster
-    Cannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link-2 monster instead; Special Summon it. You can only use this effect of "Splight Elf" once per turn.
+    2 monsters, including a Level/Rank/Link 2 monster
+    Cannot be used as Link Material the turn it is Link Summoned. Your opponent cannot target monsters this card points to with card effects. During the Main Phase (Quick Effect): You can target 1 Level 2 monster in your GY, or, if your opponent controls a monster, you can target 1 Rank/Link 2 monster instead; Special Summon it. You can only use this effect of "Spright Elf" once per turn.
   de:
   es:
   fr:
@@ -25,18 +26,44 @@ text:
     レベル２・ランク２・リンク２のモンスターを含むモンスター２体
     このカード名の②の効果は１ターンに１度しか使用できない。このカードはリンク召喚されたターンにはリンク素材にできない。①：このカードのリンク先のモンスターは相手の効果の対象にならない。②：自分・相手のメインフェイズに、自分の墓地のレベル２モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。相手フィールドにモンスターが存在する場合、代わりにランク２またはリンク２のモンスター１体を対象とする事もできる。
   ko:
+  zh-TW:
   zh-CN: |-
     包含等级2、阶级2或链接2怪兽的怪兽2只
     这个卡名的②效果1回合只能使用1次。这张卡在被链接召唤的回合不能作为链接素材。①：这张卡的链接端的怪兽不会成为对手的效果的对象。②：自己或对手的主要阶段，可以以自己墓地的1只等级2怪兽为对象发动。将那只怪兽特殊召唤。对手场上有怪兽存在的场合，作为代替也能将1只阶级2或者链接2的怪兽作为对象。
-type: Monster
-typeline: Thunder / Link / Effect
+card_type: Monster
+monster_type_line: Thunder / Link / Effect
 attribute: FIRE
 link_arrows:
-- Bottom-Left
-- Bottom-Right
+- ↙
+- ↘
 atk: 1400
-materials: 2 monsters, including a Level/Rank/Link-2 monster
+materials: 2 monsters, including a Level/Rank/Link 2 monster
 sets:
+  en:
+  - set_number: POTE-EN049
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: POTE-DE049
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: POTE-FR049
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: POTE-IT049
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: POTE-PT049
+    set_name: Power of the Elements
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: POTE-JP049
     set_name: Power of the Elements
@@ -45,6 +72,18 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
   - set_number: POTE-JP049
+    set_name: Power of the Elements +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: POTE-KR049
+    set_name: Power of the Elements
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: POTE-KR049
     set_name: Power of the Elements +1 Bonus Pack
     rarities:
     - Super Rare

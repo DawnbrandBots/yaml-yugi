@@ -7,10 +7,11 @@ name:
   fr: Stégo Noir
   it: Stegosauro Oscuro
   pt: Estego Negro
-  ja: <ruby><rb>暗黒</rb><rp>（</rp><rt>ブラック</rt><rp>）</rp></ruby>ステゴ
+  ja: <ruby><rb>暗黒</rb><rt>ブラック</rt></ruby>ステゴ
   ja_romaji: Burakku Sutego
   ko: 블랙 스테고
   ko_rr:
+  zh-TW:
   zh-CN: 暗黑剑龙
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     このカードが相手モンスターの攻撃対象に選択された時、このカードは守備表示になる。
   ko: |-
     이 카드가 상대 몬스터의 공격 대상으로 선택되었을 때, 이 카드는 수비 표시가 된다.
+  zh-TW:
   zh-CN: |-
     场上表侧攻击表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变成守备表示。
-type: Monster
-typeline: Dinosaur / Effect
+card_type: Monster
+monster_type_line: Dinosaur / Effect
 attribute: EARTH
 level: 4
 atk: 1200

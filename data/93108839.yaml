@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 58 : Visière de Brûleur'
   it: 'Numero 58: Visore Ardente'
   pt: 'Número 58: Visor Queimador'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>５８ <ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby><rb>圧</rb><rp>（</rp><rt>あっ</rt><rp>）</rp></ruby><ruby><rb>鬼</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby>バーナー・バイサー
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>５８ <ruby><rb>炎</rb><rt>えん</rt></ruby><ruby><rb>圧</rb><rt>あっ</rt></ruby><ruby><rb>鬼</rb><rt>き</rt></ruby>バーナー・バイサー
   ja_romaji: Nanbāzu Gojūhachi En'akki Bānā Baisā
   ko: No.58 염압귀 버너 바이서
   ko_rr:
+  zh-TW:
   zh-CN: No.58 炎压鬼
 text:
   en: |-
@@ -37,10 +38,11 @@ text:
   ko: |-
     레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●자신 필드의 엑시즈 몬스터 1장을 대상으로 하고 이 카드를 장착한다. ●이 카드의 효과로 장착되어 있는 이 카드를 공격 표시로 특수 소환한다. ②: 이 카드의 장착 몬스터는 상대에게 직접 공격할 수 있다. ③: 이 카드의 장착 몬스터가 상대에게 전투 데미지를 주었을 때, 패를 1장 버리고 발동할 수 있다. 상대에게 500 데미지를 준다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×2。1回合1次，自己的主要阶段时，这张卡可以当作装备卡使用给自己场上的XYZ怪兽装备，或者把装备解除以表侧攻击表示特殊召唤。这张卡的装备怪兽可以直接攻击对方玩家。此外，装备怪兽给与对方基本分战斗伤害时，丢弃1张手卡才能发动。给与对方基本分500分伤害。
-type: Monster
-typeline: Pyro / Xyz / Effect
+card_type: Monster
+monster_type_line: Pyro / Xyz / Effect
 attribute: FIRE
 rank: 4
 atk: 1000

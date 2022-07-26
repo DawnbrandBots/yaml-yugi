@@ -7,10 +7,11 @@ name:
   fr: Vierge Sonique
   it: Fanciulla del Suono
   pt: Dama Sônica
-  ja: <ruby><rb>音</rb><rp>（</rp><rt>オト</rt><rp>）</rp></ruby><ruby><rb>女</rb><rp>（</rp><rt>メ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>音</rb><rt>オト</rt></ruby><ruby><rb>女</rb><rt>メ</rt></ruby>
   ja_romaji: Otome
   ko: 소리의 여인
   ko_rr:
+  zh-TW:
   zh-CN: 音女
 text:
   en: |-
@@ -29,10 +30,11 @@ text:
     音を扱うのが得意なオトメ。音符のカマを使い攻撃する。
   ko: |-
     음을 다루는 것이 특기인 소녀. 음표를 사용해 공격한다.
+  zh-TW:
   zh-CN: |-
     擅长操纵声音的少女，能使音符变成镰刀攻击敌人。
-type: Monster
-typeline: Warrior
+card_type: Monster
+monster_type_line: Warrior
 attribute: EARTH
 level: 3
 atk: 1200

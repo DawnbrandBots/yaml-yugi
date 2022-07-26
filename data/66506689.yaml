@@ -7,10 +7,11 @@ name:
   fr: Archiduc Étain
   it: Arciduca di Latta
   pt: Arquiduque de Lata
-  ja: ブリキの<ruby><rb>大</rb><rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby><rb>公</rb><rp>（</rp><rt>こう</rt><rp>）</rp></ruby>
+  ja: ブリキの<ruby><rb>大</rb><rt>たい</rt></ruby><ruby><rb>公</rb><rt>こう</rt></ruby>
   ja_romaji: Buriki no Taikō
   ko: 양철 대공
   ko_rr:
+  zh-TW:
   zh-CN: 铁皮大公
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 X 3
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 표시 형식을 변경한다. 이때, 리버스 효과 몬스터의 효과는 발동하지 않는다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×3
     1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只怪兽才能发动。选择的怪兽的表示形式变更。这个时候，反转效果怪兽的效果不发动。这个效果在对方回合也能发动。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: 2200

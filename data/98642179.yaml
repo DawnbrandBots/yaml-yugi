@@ -7,10 +7,11 @@ name:
   fr: Spadassin des Flammes Féroces
   it: Spadaccino di Fuoco Feroce
   pt: Espadachim da Chama Feroz
-  ja: <ruby><rb>剛</rb><rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby><rb>炎</rb><rp>（</rp><rt>えん</rt><rp>）</rp></ruby>の<ruby><rb>剣</rb><rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby><rb>士</rb><rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>剛</rb><rt>ごう</rt></ruby><ruby><rb>炎</rb><rt>えん</rt></ruby>の<ruby><rb>剣</rb><rt>けん</rt></ruby><ruby><rb>士</rb><rt>し</rt></ruby>
   ja_romaji: Gōen no Kenshi
   ko: 강화염의 검사
   ko_rr: Ganghwayeom-ui Geomsa
+  zh-TW:
   zh-CN: 刚炎之剑士
 text:
   en: |-
@@ -37,17 +38,18 @@ text:
   ko: |-
     카드명이 다른 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 전사족 몬스터의 공격력은 500 올린다. ②: 링크 소환한 이 카드가 전투 또는 상대 효과로 파괴되었을 경우, 링크 몬스터 이외의 자신 묘지의 전사족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 필드에서 벗어났을 경우에 제외된다.
+  zh-TW:
   zh-CN: |-
     卡名不同的怪兽2只
     这个卡名的②的效果1回合只能使用1次。
     ①：场上的战士族怪兽的攻击力上升500。
     ②：连接召唤的这张卡被战斗或者对方的效果破坏的场合，以连接怪兽以外的自己墓地1只战士族怪兽为对象才能发动。那只怪兽特殊召唤。这个效果特殊召唤的怪兽从场上离开的场合除外。
-type: Monster
-typeline: Warrior / Link / Effect
+card_type: Monster
+monster_type_line: Warrior / Link / Effect
 attribute: FIRE
 link_arrows:
-- Middle-Left
-- Bottom-Left
+- ⬅
+- ↙
 atk: 1300
 sets:
   en:

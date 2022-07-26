@@ -7,10 +7,11 @@ name:
   fr: 'Numéro 25 : Force Focus'
   it: 'Numero 25: Focus Forza'
   pt: 'Número 25: Foco em Força'
-  ja: <ruby><rb>Ｎｏ．</rb><rp>（</rp><rt>ナンバーズ</rt><rp>）</rp></ruby>２５ <ruby><rb>重装光学撮影機</rb><rp>（</rp><rt>フルメタル・フォトグライド</rt><rp>）</rp></ruby>フォーカス・フォース
+  ja: <ruby><rb>Ｎｏ．</rb><rt>ナンバーズ</rt></ruby>２５ <ruby><rb>重装光学撮影機</rb><rt>フルメタル・フォトグライド</rt></ruby>フォーカス・フォース
   ja_romaji: Nanbāzu Nijūgo Furumetaru Fotoguraido Fōkasu Fōsu
   ko: No.25 포스 포커스
   ko_rr:
+  zh-TW:
   zh-CN: No.25 重装光学摄影机 焦点之力
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 6 몬스터 × 2
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 레벨 5 이상의 효과 몬스터 1장을 선택하고 발동할 수 있다. 선택한 상대 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     6星怪兽×2
     1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只5星以上的效果怪兽才能发动。选择的对方怪兽的效果直到回合结束时无效。这个效果在对方回合也能发动。
-type: Monster
-typeline: Machine / Xyz / Effect
+card_type: Monster
+monster_type_line: Machine / Xyz / Effect
 attribute: LIGHT
 rank: 6
 atk: 2800

@@ -7,10 +7,11 @@ name:
   fr: Hymniste en Feu
   it: Inneggiatrice Testa Calda
   pt: Hinista Inflamada
-  ja: <ruby><rb>讃</rb><rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby><rb>美</rb><rp>（</rp><rt>び</rt><rp>）</rp></ruby><ruby><rb>火</rb><rp>（</rp><rt>か</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>讃</rb><rt>さん</rt></ruby><ruby><rb>美</rb><rt>び</rt></ruby><ruby><rb>火</rb><rt>か</rt></ruby>
   ja_romaji: Sanbika
   ko: 찬미화
   ko_rr: Chanmahwa
+  zh-TW:
   zh-CN: 赞美火
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚に成功した時に発動できる。相手フィールドのカードの数だけ、相手のデッキの上からカードを墓地へ送る。②：このカードが特殊召喚に成功した場合に発動できる。相手フィールドのカードの数だけ、自分のデッキの上からカードを墓地へ送る。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 카드의 수만큼, 상대의 덱 위에서 카드를 묘지로 보낸다. ②: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 카드의 수만큼, 자신의 덱 위에서 카드를 묘지로 보낸다.
+  zh-TW:
   zh-CN: |-
     这个卡名的②的效果1回合只能使用1次。
     ①：这张卡召唤成功时才能发动。把对方场上的卡数量的卡从对方卡组上面送去墓地。
     ②：这张卡特殊召唤成功的场合才能发动。把对方场上的卡数量的卡从自己卡组上面送去墓地。
-type: Monster
-typeline: Pyro / Effect
+card_type: Monster
+monster_type_line: Pyro / Effect
 attribute: FIRE
 level: 3
 atk: 800

@@ -7,10 +7,11 @@ name:
   fr: Méduse Électrique
   it: Medusa Elettrica
   pt: Alforreca Elétrica
-  ja: <ruby><rb>電</rb><rp>（</rp><rt>でん</rt><rp>）</rp></ruby><ruby><rb>気</rb><rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby><rb>海月</rb><rp>（</rp><rt>くらげ</rt><rp>）</rp></ruby>－フィサリア－
+  ja: <ruby><rb>電</rb><rt>でん</rt></ruby><ruby><rb>気</rb><rt>き</rt></ruby><ruby><rb>海月</rb><rt>くらげ</rt></ruby>－フィサリア－
   ja_romaji: Denki Kurage - Fisaria -
   ko: 전기해파리－피살리아－
   ko_rr: Jeon-gihaepari - Pisallia
+  zh-TW:
   zh-CN: 电气水母
 text:
   en: |-
@@ -29,12 +30,13 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札・デッキ及び自分フィールドの表側表示のカードの中から、「海」１枚を墓地へ送って発動できる。手札から水属性モンスター１体を特殊召喚する。②：フィールドに「海」が存在し、相手が魔法・モンスターの効果を発動した時に発動できる。その効果を無効にする。その後、このカードの攻撃力・守備力を６００アップできる。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패 / 덱 및 자신 필드의 앞면 표시의 카드 중에서, "바다" 1장을 묘지로 보내고 발동할 수 있다. 패에서 물 속성 몬스터 1장을 특수 소환한다. ②: 필드에 "바다"가 존재하고, 상대가 마법 / 몬스터의 효과를 발동했을 때에 발동할 수 있다. 그 효과를 무효로 한다. 그 후, 이 카드의 공격력 / 수비력을 600 올릴 수 있다.
+  zh-TW:
   zh-CN: |-
     这个卡名的①②的效果1回合各能使用1次。
     ①：从手卡·卡组以及自己场上的表侧表示的卡之中把1张「海」送去墓地才能发动。从手卡把1只水属性怪兽特殊召唤。
     ②：场上有「海」存在，对方把魔法·怪兽的效果发动时才能发动。那个效果无效。那之后，可以让这张卡的攻击力·守备力上升600。
-type: Monster
-typeline: Aqua / Effect
+card_type: Monster
+monster_type_line: Aqua / Effect
 attribute: WATER
 level: 4
 atk: 1400

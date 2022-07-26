@@ -7,10 +7,11 @@ name:
   fr: Derniers Ordres de Combat
   it: Ordini di Attacco Finale
   pt: Ordens para o Ataque Final
-  ja: <ruby><rb>最</rb><rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby><rb>終</rb><rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby><rb>突</rb><rp>（</rp><rt>とつ</rt><rp>）</rp></ruby><ruby><rb>撃</rb><rp>（</rp><rt>げき</rt><rp>）</rp></ruby><ruby><rb>命</rb><rp>（</rp><rt>めい</rt><rp>）</rp></ruby><ruby><rb>令</rb><rp>（</rp><rt>れい</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>最</rb><rt>さい</rt></ruby><ruby><rb>終</rb><rt>しゅう</rt></ruby><ruby><rb>突</rb><rt>とつ</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>命</rb><rt>めい</rt></ruby><ruby><rb>令</rb><rt>れい</rt></ruby>
   ja_romaji: Saishū Totsugeki Meirei
   ko: 최후 돌격명령
   ko_rr:
+  zh-TW:
   zh-CN: 最终突击命令
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：このカードが魔法＆罠ゾーンに存在する限り、フィールドの表側表示モンスターは、攻撃表示になり、表示形式を変更できない。
   ko: |-
     ①: 이 카드가 마법 ＆ 함정 존에 존재하는 한, 필드의 앞면 표시 몬스터는, 공격 표시가 되어, 표시 형식을 변경할 수 없다.
+  zh-TW:
   zh-CN: |-
     ①：只要这张卡在魔法与陷阱区域存在，场上的表侧表示怪兽变成攻击表示，不能把表示形式变更。
-type: Trap
+card_type: Trap
 property: Continuous

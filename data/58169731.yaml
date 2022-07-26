@@ -7,10 +7,11 @@ name:
   fr: Mur de l'Interruption
   it: Muro di Disturbo
   pt: Parede da Disrupção
-  ja: <ruby><rb>分</rb><rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby><ruby><rb>断</rb><rp>（</rp><rt>だん</rt><rp>）</rp></ruby>の<ruby><rb>壁</rb><rp>（</rp><rt>かべ</rt><rp>）</rp></ruby>
+  ja: <ruby><rb>分</rb><rt>ぶん</rt></ruby><ruby><rb>断</rb><rt>だん</rt></ruby>の<ruby><rb>壁</rb><rt>かべ</rt></ruby>
   ja_romaji: Bundan no Kabe
   ko: 분단의 벽
   ko_rr:
+  zh-TW:
   zh-CN: 分断之壁
 text:
   en: |-
@@ -29,7 +30,8 @@ text:
     ①：相手モンスターの攻撃宣言時に発動できる。相手フィールドの全ての攻撃表示モンスターの攻撃力は、相手フィールドのモンスターの数×８００ダウンする。
   ko: |-
     ① : 상대 몬스터의 공격 선언시에 발동할 수 있다. 상대 필드의 모든 공격 표시 몬스터의 공격력은, 상대 필드의 몬스터의 수 × 800 내린다.
+  zh-TW:
   zh-CN: |-
     ①：对方怪兽的攻击宣言时才能发动。对方场上的全部攻击表示怪兽的攻击力下降对方场上的怪兽数量×800。
-type: Trap
+card_type: Trap
 property: Normal

@@ -7,11 +7,12 @@ name:
   fr: Rotation de Plateau
   it: Rotazione del Set
   pt: Rotação de Cenário
-  ja: <ruby><rb>盆</rb><rp>（</rp><rt>ぼん</rt><rp>）</rp></ruby><ruby><rb>回</rb><rp>（</rp><rt>まわ</rt><rp>）</rp></ruby>し
+  ja: <ruby><rb>盆</rb><rt>ぼん</rt></ruby><ruby><rb>回</rb><rt>まわ</rt></ruby>し
   ja_romaji: Bonmawashi
   ko: 무대회전
   ko_rr: Mudaehoejeon
-  zh-CN: 舞台旋转
+  zh-TW:
+  zh-CN: 布景旋转
 text:
   en: |-
     Set 2 Field Spells with different names from your Deck on the field (1 on your field, and 1 on your opponent's field). While either of those cards remain Set on the field, neither player can activate or Set other Field Spells.
@@ -29,7 +30,8 @@ text:
     ①：自分のデッキからカード名が異なるフィールド魔法カード２枚を選び、その内の１枚を自分フィールドにセットし、もう１枚を相手フィールドにセットする。この効果でセットしたカードのいずれかがフィールドゾーンにセットされている限り、お互いに他のフィールド魔法カードを発動・セットできない。
   ko: |-
     ①: 자신의 덱에서 카드명이 다른 필드 마법 카드 2장을 골라, 그 중의 1장을 자신 필드에 세트하고, 나머지 1장을 상대 필드에 세트한다. 이 효과로 세트한 카드 중 어느 것이 필드 존에 세트되어 있는 한, 서로 다른 필드 마법 카드를 발동 / 세트할 수 없다.
+  zh-TW:
   zh-CN: |-
-    ①：从自己卡组选2张卡名不同的场地魔法卡，那之内的1张在自己场上盖放，另1张在对方场上盖放。只要这个效果盖放的卡的其中任意张在场地区域盖放中，双方不能把其他的场地魔法卡发动·盖放。
-type: Spell
+    ①：从自己的牌组挑选2张卡名不同的场地魔法卡。将其中1张放置在自己场上，另1张放置在对手场上。只要有以此效果放置的卡被放置在场地区域，双方不可发动・放置其他的场地魔法卡。
+card_type: Spell
 property: Quick-Play

@@ -7,10 +7,11 @@ name:
   fr: Drident du Zoodiaque
   it: Zoodiaco Dridente
   pt: Dridente Zoodíaco
-  ja: <ruby><rb>十</rb><rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby><rb>二</rb><rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby><rb>獣</rb><rp>（</rp><rt>しし</rt><rp>）</rp></ruby>ドランシア
+  ja: <ruby><rb>十</rb><rt>じゅう</rt></ruby><ruby><rb>二</rb><rt>に</rt></ruby><ruby><rb>獣</rb><rt>しし</rt></ruby>ドランシア
   ja_romaji: Jūnishishi Doranshia
   ko: 십이수 드란시아
   ko_rr: Sip-isu Deuransia
+  zh-TW:
   zh-CN: 十二兽 龙枪
 text:
   en: |-
@@ -37,11 +38,12 @@ text:
   ko: |-
     레벨 4 몬스터 × 4
     "십이수 드란시아"는 1턴에 1번, 같은 이름의 카드 이외의 자신 필드의 "십이수" 몬스터 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드의 공격력 / 수비력은, 이 카드가 엑시즈 소재로 하고 있는 "십이수" 몬스터 각각의 수치만큼 올린다. ②: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 앞면 표시 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
+  zh-TW:
   zh-CN: |-
     4星怪兽×4
     「十二兽 龙枪」1回合1次也能在同名卡以外的自己场上的「十二兽」怪兽上面重叠来XYZ召唤。 ①：这张卡的攻击力·守备力上升这张卡作为XYZ素材中的「十二兽」怪兽的各自数值。 ②：1回合1次，把这张卡1个XYZ素材取除，以场上1张表侧表示的卡为对象才能发动。那张卡破坏。这个效果在对方回合也能发动。
-type: Monster
-typeline: Beast-Warrior / Xyz / Effect
+card_type: Monster
+monster_type_line: Beast-Warrior / Xyz / Effect
 attribute: EARTH
 rank: 4
 atk: '?'
