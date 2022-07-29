@@ -30,8 +30,399 @@ text:
     ①：手札を１枚捨てて発動できる。相手フィールドの表側表示モンスターを全て破壊する。
   ko: |-
     ①: 패를 1장 버리고 발동할 수 있다. 상대 필드의 앞면 표시 몬스터를 전부 파괴한다.
-  zh-TW: 可以舍弃1张手牌进行发动。破坏全部以表侧表示存在于对手场上的怪兽。
+  zh-TW: |-
+    可以舍弃1张手牌进行发动。破坏全部以表侧表示存在于对手场上的怪兽。
   zh-CN: |-
     ①：丢弃1张手卡才能发动。对方场上的表侧表示怪兽全部破坏。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: FET-EN040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-EN030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-EN028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-EN026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-EN026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: DR3-EN160
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSDS-EN030
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: YSDJ-EN029
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-EN029
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDDE-EN026
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS1-EN027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DLDI-EN005
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: YS14-EN023
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS16-EN026
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  de:
+  - set_number: FET-DE040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-DE030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-DE028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-DE026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-DE026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: DR3-DE160
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSDS-DE030
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: YSDJ-DE029
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-DE029
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDDE-DE026
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS1-DE027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DLDI-DE005
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: YS14-DE023
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS16-DE026
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  fr:
+  - set_number: FET-FR040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-FR030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-FR028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-FR026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-FR026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: DR3-FR160
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSDS-FR030
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: YSDJ-FR029
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-FR029
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDDE-FR026
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS1-FR027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DLDI-FR005
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: YS14-FR023
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS16-FR026
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  it:
+  - set_number: FET-IT040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-IT030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-IT028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-IT026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-IT026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: DR3-IT160
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSDS-IT030
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: YSDJ-IT029
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-IT029
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDDE-IT026
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS1-IT027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DLDI-IT005
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: YS14-IT023
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS16-IT026
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  pt:
+  - set_number: FET-PT040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YS14-PT023
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS16-PT026
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  ja:
+  - set_number: FET-JP040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-JP030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-JP028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: EE3-JP160
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Super Rare
+  - set_number: SD8-JP026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-JP026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: SD11-JP027
+    set_name: 'Structure Deck: Surge of Radiance'
+    rarities:
+    - Common
+  - set_number: SD13-JP027
+    set_name: 'Structure Deck: Revival of the Great Dragon'
+    rarities:
+    - Common
+  - set_number: YSD3-JP027
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: GS02-JP014
+    set_name: Gold Series 2010
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: DB12-JP032
+    set_name: Duelist Box 2012
+    rarities:
+    - Common
+  - set_number: GDB1-JP034
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: DS13-JPL30
+    set_name: 'Duelist Set: Version Lightning Star'
+    rarities:
+    - Common
+  - set_number: ST14-JP023
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: ST16-JP026
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  - set_number: DR01-JPA19
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: DR01-JPB16
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: DR01-JPC17
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: DR02-JPB15
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+  - set_number: DR02-JPD17
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+  ko:
+  - set_number: FET-KR040
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD5-KR030
+    set_name: "Structure Deck: Warrior's Triumph"
+    rarities:
+    - Common
+  - set_number: SD6-KR028
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-KR026
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD09-KR026
+    set_name: "Structure Deck: Dinosaur's Rage"
+    rarities:
+    - Common
+  - set_number: HGP3-KR160
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Super Rare
+  - set_number: SD13-KR027
+    set_name: 'Structure Deck: Revival of the Great Dragon'
+    rarities:
+    - Common
+  - set_number: YSD3-KR027
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: GS02-KR014
+    set_name: Gold Series 2010
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: XS12-KR035
+    set_name: 'X-Saber: Special Edition'
+    rarities:
+    - Common
+  - set_number: DS13-KRL30
+    set_name: 'Duelist Set: Version Lightning Star'
+    rarities:
+    - Common
+  - set_number: ST14-KR023
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: ST16-KR026
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC034
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Super Rare

@@ -30,8 +30,420 @@ text:
     フィールド上に裏側表示で存在するモンスター１体を選択して破壊し、ゲームから除外する。それがリバース効果モンスターだった場合、お互いのデッキを確認し、同名カードを全てゲームから除外する。
   ko: |-
     뒷면 표시의 몬스터 1장을 파괴하여 게임에서 제외한다. 만약 그것이 리버스 효과 몬스터였을 경우, 서로의 덱을 확인하여, 파괴한 몬스터와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
-  zh-TW: 选择场上以里侧表示存在的1只怪兽并破坏，从游戏中除外。反转效果怪兽的场合，确认双方牌组，并将同名卡牌全部从游戏中除外。
+  zh-TW: |-
+    选择场上以里侧表示存在的1只怪兽并破坏，从游戏中除外。反转效果怪兽的场合，确认双方牌组，并将同名卡牌全部从游戏中除外。
   zh-CN: |-
     选择场上里侧表示存在的1只怪兽破坏并从游戏中除外。那是反转效果怪兽的场合，把双方卡组确认，同名卡全部从游戏中除外。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: SKE-038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-EN088
+    set_name: Dark Beginning 1
+    rarities:
+    - Super Rare
+  - set_number: PSV-EN034
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SD1-EN012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-EN016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-EN017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-EN019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-EN020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: HL06-EN001
+    set_name: Hobby League 6 participation card A
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: SDDE-EN020
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-EN011
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: TU03-EN017
+    set_name: 'Turbo Pack: Booster Three'
+    rarities:
+    - Common
+  - set_number: DL14-EN015
+    set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: AP06-EN023
+    set_name: Astral Pack Six
+    rarities:
+    - Common
+  - set_number: SBCB-EN138
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+    - Secret Rare
+  - set_number: STP4-EN0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Common
+  de:
+  - set_number: PSV-G034
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-DE038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-DE088
+    set_name: Dark Beginning 1
+    rarities:
+    - Super Rare
+  - set_number: SD1-DE012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-DE016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-DE017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-DE019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-DE020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: HL06-DE001
+    set_name: Hobby League 6 participation card A
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: SDDE-DE020
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-DE011
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: TU03-DE017
+    set_name: 'Turbo Pack: Booster Three'
+    rarities:
+    - Common
+  - set_number: DL14-DE015
+    set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: AP06-DE023
+    set_name: Astral Pack Six
+    rarities:
+    - Common
+  - set_number: SBCB-DE138
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+    - Secret Rare
+  - set_number: STP4-DE0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Common
+  fr:
+  - set_number: SDP-F034
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-FR038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD1-FR012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-FR016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-FR017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-FR019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-FR020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: HL06-FR001
+    set_name: Hobby League 6 participation card A
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: SDDE-FR020
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-FR011
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: TU03-FR017
+    set_name: 'Turbo Pack: Booster Three'
+    rarities:
+    - Common
+  - set_number: DL14-FR015
+    set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: AP06-FR023
+    set_name: Astral Pack Six
+    rarities:
+    - Common
+  - set_number: SBCB-FR138
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+    - Secret Rare
+  - set_number: STP4-FR0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Common
+  it:
+  - set_number: SDF-I034
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-IT038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD1-IT012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-IT016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-IT017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-IT019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-IT020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: HL06-IT001
+    set_name: Hobby League 6 participation card A
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: SDDE-IT020
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-IT011
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: TU03-IT017
+    set_name: 'Turbo Pack: Booster Three'
+    rarities:
+    - Common
+  - set_number: DL14-IT015
+    set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: AP06-IT023
+    set_name: Astral Pack Six
+    rarities:
+    - Common
+  - set_number: SBCB-IT138
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+    - Secret Rare
+  - set_number: STP4-IT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Common
+  pt:
+  - set_number: SKE-PT038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD1-PT012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-PT016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-PT017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: AP06-PT023
+    set_name: Astral Pack Six
+    rarities:
+    - Common
+  - set_number: STP4-PT0??
+    set_name: Speed Duel Tournament Pack 4
+    rarities:
+    - Common
+  ja:
+  - set_number: CA-35
+    set_name: Curse of Anubis (set)
+    rarities:
+    - Rare
+  - set_number: YU-45
+    set_name: 'Structure Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: JY-47
+    set_name: 'Structure Deck: Joey'
+    rarities:
+    - Common
+  - set_number: KA-28
+    set_name: 'Structure Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DL1-123
+    set_name: Duelist Legacy Volume.1
+    rarities:
+    - Rare
+  - set_number: SK2-027
+    set_name: 'Structure Deck: Kaiba Volume 2'
+    rarities:
+    - Common
+  - set_number: BE1-JP088
+    set_name: Beginner's Edition 1
+    rarities:
+    - Super Rare
+  - set_number: SD1-JP012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-JP016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-JP017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-JP019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-JP020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD11-JP020
+    set_name: 'Structure Deck: Surge of Radiance'
+    rarities:
+    - Common
+  - set_number: SD12-JP021
+    set_name: 'Structure Deck: Curse of Darkness'
+    rarities:
+    - Common
+  - set_number: SD14-JP020
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: DT05-JP042
+    set_name: Duel Terminal - Champion of Chaos!!
+    rarities:
+    - Duel Terminal Normal Parallel Rare
+  - set_number: GS03-JP011
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: BE01-JP080
+    set_name: Beginner's Edition 1 (2011)
+    rarities:
+    - Super Rare
+  - set_number: GDB1-JP051
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  ko:
+  - set_number: PSV-K034
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: BP1-KR088
+    set_name: Beginner's Edition 1
+    rarities:
+    - Super Rare
+  - set_number: SKE-KR038
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD2-KR016
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD1-KR012
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD3-KR017
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD6-KR019
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: SD8-KR020
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD14-KR020
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: ESP1-KR032
+    set_name: Expansion Pack Vol.1
+    rarities:
+    - Rare
+  - set_number: GS03-KR011
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  zh-TW:
+  - set_number: SP02-TC043
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Common

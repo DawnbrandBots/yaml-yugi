@@ -46,10 +46,300 @@ text:
     ①: 이하의 효과에서 1개, 또는 양쪽을 선택하고 이 카드를 발동할 수 있다.
     ●상대 몬스터의 공격 선언시에, 그 공격 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 공격 몬스터를 수비 표시로 한다.
     ●자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 공격력 500 올리는 장착 카드로 취급하고, 그 자신 몬스터에 장착한다.
-  zh-TW: "可从以下效果之中选择1个或2个来发动。\n●可以在对手怪兽的攻击宣言时发动。将1只攻击怪兽变为守备表示。\n●发动后此卡变为使攻击力提升500点的装备卡，装备我方场上的1只怪兽。"
+  zh-TW: |-
+    可从以下效果之中选择1个或2个来发动。
+    ●可以在对手怪兽的攻击宣言时发动。将1只攻击怪兽变为守备表示。
+    ●发动后此卡变为使攻击力提升500点的装备卡，装备我方场上的1只怪兽。
   zh-CN: |-
     ①：从以下效果中选择1个或者两者，可以发动此卡。
     ●对手怪兽攻击宣言时，可以1只该攻击怪兽为对象发动。将该攻击怪兽变成守备表示。
     ●可以自己场上的1只表侧表示的怪兽为对象发动。此卡视为攻击力上升500的装备卡，装备该自己的怪兽。
 card_type: Trap
 property: Normal
+sets:
+  en:
+  - set_number: TDGS-EN098
+    set_name: The Duelist Genesis
+    rarities:
+    - Super Rare
+  - set_number: SDWS-EN033
+    set_name: Warriors' Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: BP01-EN087
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-EN198
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-EN035
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-EN081
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: BP03-EN210
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: MIL1-EN048
+    set_name: Millennium Pack
+    rarities:
+    - Rare
+  - set_number: LDK2-ENJ36
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SS02-ENB18
+    set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  de:
+  - set_number: TDGS-DE098
+    set_name: The Duelist Genesis
+    rarities:
+    - Super Rare
+  - set_number: SDWS-DE033
+    set_name: Warriors' Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: BP01-DE087
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-DE198
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-DE035
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-DE081
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: BP03-DE210
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: MIL1-DE048
+    set_name: Millennium Pack
+    rarities:
+    - Rare
+  - set_number: LDK2-DEJ36
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SS02-DEB18
+    set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  fr:
+  - set_number: TDGS-FR098
+    set_name: The Duelist Genesis
+    rarities:
+    - Super Rare
+  - set_number: SDWS-FR033
+    set_name: Warriors' Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: BP01-FR087
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-FR198
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-FR035
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-FR081
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: BP03-FR210
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: MIL1-FR048
+    set_name: Millennium Pack
+    rarities:
+    - Rare
+  - set_number: LDK2-FRJ36
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SS02-FRB18
+    set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  it:
+  - set_number: TDGS-IT098
+    set_name: The Duelist Genesis
+    rarities:
+    - Super Rare
+  - set_number: SDWS-IT033
+    set_name: Warriors' Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: BP01-IT087
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-IT198
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-IT035
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-IT081
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: BP03-IT210
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: MIL1-IT048
+    set_name: Millennium Pack
+    rarities:
+    - Rare
+  - set_number: LDK2-ITJ36
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SS02-ITB18
+    set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  pt:
+  - set_number: BP02-PT198
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-PT035
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-PT081
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: BP03-PT210
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: MIL1-PT048
+    set_name: Millennium Pack
+    rarities:
+    - Rare
+  - set_number: LDK2-PTJ36
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SS02-PTB18
+    set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  ja:
+  - set_number: ''
+    set_name: 'Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards'
+    rarities:
+    - Ultra Rare
+  - set_number: JY-31
+    set_name: 'Structure Deck: Joey'
+    rarities:
+    - Common
+  - set_number: P5-04
+    set_name: Premium Pack 5
+    rarities:
+    - Ultra Rare
+    - Ultra Parallel Rare
+  - set_number: SJ2-036
+    set_name: 'Structure Deck: Joey Volume 2'
+    rarities:
+    - Common
+  - set_number: TP03-JP011
+    set_name: Tournament Pack 2007 Vol.3
+    rarities:
+    - Common
+  - set_number: SD17-JP035
+    set_name: "Structure Deck: Warriors' Strike"
+    rarities:
+    - Common
+  - set_number: DT09-JP048
+    set_name: Duel Terminal - Vylon Descends!!
+    rarities:
+    - Duel Terminal Normal Parallel Rare
+  - set_number: SD25-JP036
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: 15AX-JPM50
+    set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'
+    rarities:
+    - Common
+    - Millennium Rare
+  - set_number: HD18-JPL20
+    set_name: 'Half Deck 2018: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD18-JPD20
+    set_name: 'Half Deck 2018: DARK'
+    rarities:
+    - Common
+  - set_number: DR01-JPC27
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  ko:
+  - set_number: TP03-KR011
+    set_name: Tournament Pack 2009 Vol.3 (Korean)
+    rarities:
+    - Common
+  - set_number: SD17-KR035
+    set_name: "Structure Deck: Warriors' Strike"
+    rarities:
+    - Common
+  - set_number: SD25-KR036
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: 15AX-KRM50
+    set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'
+    rarities:
+    - Common
+    - Millennium Rare
+  zh-TW:
+  - set_number: SD25-TC036
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD25-SC036
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common

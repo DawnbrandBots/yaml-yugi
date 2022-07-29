@@ -30,8 +30,531 @@ text:
     ①：相手モンスターの攻撃宣言時、攻撃モンスター１体を対象として発動できる。その攻撃モンスターの攻撃を無効にし、その攻撃力分のダメージを相手に与える。
   ko: |-
     ①: 상대 몬스터의 공격 선언시, 공격 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 공격 몬스터의 공격을 무효로 하고, 그 공격력만큼의 데미지를 상대에게 준다.
-  zh-TW: 对手怪兽的攻击宣言时可发动。选择1只攻击怪兽使该攻击无效，并给予对手生命相当于该怪兽攻击力的伤害。
+  zh-TW: |-
+    对手怪兽的攻击宣言时可发动。选择1只攻击怪兽使该攻击无效，并给予对手生命相当于该怪兽攻击力的伤害。
   zh-CN: |-
     ①：对手怪兽攻击宣言时，以1只攻击怪兽为对象可以发动。将该攻击怪兽的攻击无效，给予对手相当于该攻击力数值的伤害。
 card_type: Trap
 property: Normal
+sets:
+  en:
+  - set_number: LON-EN104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD6-EN036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: YSD-EN040
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-EN040
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-EN038
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDSC-EN038
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-EN050
+    set_name: Retro Pack 2
+    rarities:
+    - Rare
+  - set_number: DL12-EN019
+    set_name: Duelist League 3 participation cards
+    rarities:
+    - Rare
+  - set_number: YS12-EN034
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-EN091
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-EN099
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: YS13-ENV15
+    set_name: Super Starter Power-Up Pack
+    rarities:
+    - Super Rare
+  - set_number: YSYR-EN043
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-ENA14
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Common
+  - set_number: YGLD-ENB35
+    set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: LDK2-ENY37
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDMY-EN038
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: INCH-EN060
+    set_name: The Infinity Chasers
+    rarities:
+    - Super Rare
+  - set_number: SDRR-EN039
+    set_name: 'Structure Deck: Rokket Revolt'
+    rarities:
+    - Common
+  de:
+  - set_number: LON-G104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD6-DE036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: YSD-DE040
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-DE040
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-DE038
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDSC-DE038
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-DE050
+    set_name: Retro Pack 2
+    rarities:
+    - Rare
+  - set_number: DL12-DE019
+    set_name: Duelist League 3 participation cards
+    rarities:
+    - Rare
+  - set_number: YS12-DE034
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-DE091
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-DE099
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: YS13-DEV15
+    set_name: Super Starter Power-Up Pack
+    rarities:
+    - Super Rare
+  - set_number: YSYR-DE043
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-DEA14
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Common
+  - set_number: YS15-DED17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: YGLD-DEB35
+    set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: LDK2-DEY37
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDMY-DE038
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: INCH-DE060
+    set_name: The Infinity Chasers
+    rarities:
+    - Super Rare
+  - set_number: SDRR-DE039
+    set_name: 'Structure Deck: Rokket Revolt'
+    rarities:
+    - Common
+  fr:
+  - set_number: LDC-F104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD6-FR036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: YSD-FR040
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-FR040
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-FR038
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDSC-FR038
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-FR050
+    set_name: Retro Pack 2
+    rarities:
+    - Rare
+  - set_number: DL12-FR019
+    set_name: Duelist League 3 participation cards
+    rarities:
+    - Rare
+  - set_number: YS12-FR034
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-FR091
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-FR099
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: YS13-FRV15
+    set_name: Super Starter Power-Up Pack
+    rarities:
+    - Super Rare
+  - set_number: YSYR-FR043
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-FRA14
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Common
+  - set_number: YS15-FRD17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: YGLD-FRB35
+    set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: LDK2-FRY37
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDMY-FR038
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: INCH-FR060
+    set_name: The Infinity Chasers
+    rarities:
+    - Super Rare
+  - set_number: SDRR-FR039
+    set_name: 'Structure Deck: Rokket Revolt'
+    rarities:
+    - Common
+  it:
+  - set_number: LDI-I104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD6-IT036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: YSD-IT040
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-IT040
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-IT038
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDSC-IT038
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: RP02-IT050
+    set_name: Retro Pack 2
+    rarities:
+    - Rare
+  - set_number: DL12-IT019
+    set_name: Duelist League 3 participation cards
+    rarities:
+    - Rare
+  - set_number: YS12-IT034
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-IT091
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-IT099
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: YS13-ITV15
+    set_name: Super Starter Power-Up Pack
+    rarities:
+    - Super Rare
+  - set_number: YSYR-IT043
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-ITA14
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Common
+  - set_number: YS15-ITD17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: YGLD-ITB35
+    set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: LDK2-ITY37
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDMY-IT038
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: INCH-IT060
+    set_name: The Infinity Chasers
+    rarities:
+    - Super Rare
+  - set_number: SDRR-IT039
+    set_name: 'Structure Deck: Rokket Revolt'
+    rarities:
+    - Common
+  pt:
+  - set_number: YS13-PTV15
+    set_name: Super Starter Power-Up Pack
+    rarities:
+    - Super Rare
+  - set_number: YSYR-PT043
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-PTA14
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Common
+  - set_number: YS15-PTD17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: YGLD-PTB35
+    set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: LDK2-PTY37
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDMY-PT038
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: INCH-PT060
+    set_name: The Infinity Chasers
+    rarities:
+    - Super Rare
+  - set_number: SDRR-PT039
+    set_name: 'Structure Deck: Rokket Revolt'
+    rarities:
+    - Common
+  ja:
+  - set_number: P4-06
+    set_name: Premium Pack 4
+    rarities:
+    - Ultra Rare
+  - set_number: YU-31
+    set_name: 'Structure Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SY2-035
+    set_name: 'Structure Deck: Yugi Volume 2'
+    rarities:
+    - Common
+  - set_number: SD6-JP036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: YSD-JP040
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: SD12-JP029
+    set_name: 'Structure Deck: Curse of Darkness'
+    rarities:
+    - Common
+  - set_number: YSD2-JP039
+    set_name: Starter Deck 2007
+    rarities:
+    - Common
+  - set_number: SD16-JP038
+    set_name: 'Structure Deck: Lord of the Magician'
+    rarities:
+    - Common
+  - set_number: GS02-JP019
+    set_name: Gold Series 2010
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: BE02-JP210
+    set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Secret Rare
+  - set_number: DB12-JP039
+    set_name: Duelist Box 2012
+    rarities:
+    - Common
+  - set_number: ST12-JP034
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: GDB1-JP039
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: ST13-JPV15
+    set_name: Starter Deck 2013 Enhancement Pack
+    rarities:
+    - Super Rare
+  - set_number: DC01-JP028
+    set_name: Deck Custom Pack 01
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Ultra Parallel Rare
+  - set_number: 15AY-JPB35
+    set_name: 'Memories of the Duel King: Battle City Arc'
+    rarities:
+    - Ultra Rare
+  - set_number: VS15-JPS22
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Normal Parallel Rare
+  - set_number: VS15-JPD23
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Normal Parallel Rare
+  - set_number: MB01-JP037
+    set_name: Millennium Box Gold Edition
+    rarities:
+    - Millennium Rare
+  - set_number: SDMY-JP036
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: SD36-JP039
+    set_name: 'Structure Deck: Revolver'
+    rarities:
+    - Common
+  - set_number: DR01-JPA32
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  ko:
+  - set_number: LON-KR104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD6-KR036
+    set_name: "Structure Deck: Spellcaster's Judgment"
+    rarities:
+    - Common
+  - set_number: ESP2-KR050
+    set_name: Expansion Pack Vol.2
+    rarities:
+    - Gold Rare
+  - set_number: SD16-KR038
+    set_name: 'Structure Deck: Lord of the Magician'
+    rarities:
+    - Common
+  - set_number: DP00-KR010
+    set_name: 'Duelist Pack: Yugi (OCG)'
+    rarities:
+    - Common
+  - set_number: GS02-KR019
+    set_name: Gold Series 2010
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: ST12-KR034
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: ST13-KRV15
+    set_name: Starter Deck 2013 Enhancement Pack
+    rarities:
+    - Super Rare
+  - set_number: VS15-KRS22
+    set_name: 'Duelist Entry Deck VS: Saber Force'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: VS15-KRD23
+    set_name: 'Duelist Entry Deck VS: Dark Legion'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: MB01-KR037
+    set_name: Millennium Deck
+    rarities:
+    - Millennium Rare
+  - set_number: SDMY-KR036
+    set_name: 'Structure Deck: Yugi Muto'
+    rarities:
+    - Common
+  - set_number: 15AY-KRB35
+    set_name: 'Memories of the Duel King: Battle City Arc'
+    rarities:
+    - Ultra Rare
+  - set_number: SD36-KR039
+    set_name: 'Structure Deck: Revolver'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP03-TC050
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: ST21-SC033
+    set_name: Starter Deck 2021
+    rarities:
+    - Common

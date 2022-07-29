@@ -30,8 +30,350 @@ text:
     ①：罠カードが発動した時、１０００ＬＰを払って発動できる。その発動を無効にし破壊する。
   ko: |-
     ①: 함정 카드가 발동했을 때, 1000 LP를 지불하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
-  zh-TW: 当陷阱卡发动时，可透过支付1000点生命点数来进行发动。使该陷阱卡无效并破坏。
+  zh-TW: |-
+    当陷阱卡发动时，可透过支付1000点生命点数来进行发动。使该陷阱卡无效并破坏。
   zh-CN: |-
     ①：陷阱卡发动时，支付1000基本分才能发动。那个发动无效并破坏。
 card_type: Trap
 property: Counter
+sets:
+  en:
+  - set_number: SYE-044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: MRD-EN129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: DB2-EN075
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: YSDS-EN034
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-EN039
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: TU05-EN019
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Common
+  - set_number: YS11-EN035
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-EN038
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-EN089
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YS14-EN040
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SS01-ENA18
+    set_name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarities:
+    - Common
+  - set_number: SS04-ENB25
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  de:
+  - set_number: MRD-G129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: SDJ-G048
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-G045
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-DE044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: DB2-DE075
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: YSDS-DE034
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-DE047
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-DE039
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: TU05-DE019
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Common
+  - set_number: YS11-DE035
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-DE038
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-DE089
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YS14-DE040
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SS01-DEA18
+    set_name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarities:
+    - Common
+  - set_number: SS04-DEB25
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  fr:
+  - set_number: MRD-F129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: DDJ-F048
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DDP-F045
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-FR044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: DB2-FR075
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: YSDS-FR034
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-FR047
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-FR039
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: TU05-FR019
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Common
+  - set_number: YS11-FR035
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-FR038
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-FR089
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YS14-FR040
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SS01-FRA18
+    set_name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarities:
+    - Common
+  - set_number: SS04-FRB25
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  it:
+  - set_number: MIJ-I048
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: MIP-I045
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: PMT-I129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: SYE-IT044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: DB2-IT075
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: YSDS-IT034
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-IT047
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-IT039
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: TU05-IT019
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Common
+  - set_number: YS11-IT035
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-IT038
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-IT089
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YS14-IT040
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SS01-ITA18
+    set_name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarities:
+    - Common
+  - set_number: SS04-ITB25
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  pt:
+  - set_number: PMT-P129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: DIJ-P048
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DIP-P045
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-PT044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: YS14-PT040
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SS01-PTA18
+    set_name: 'Speed Duel Starter Decks: Destiny Masters'
+    rarities:
+    - Common
+  - set_number: SS04-PTB25
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  ja:
+  - set_number: ''
+    set_name: Vol.6
+    rarities:
+    - Ultra Rare
+  - set_number: ME-68
+    set_name: Metal Raiders (Japanese)
+    rarities:
+    - Super Rare
+  - set_number: DL4-058
+    set_name: Duelist Legacy Volume.4
+    rarities:
+    - Super Rare
+  - set_number: BE2-JP075
+    set_name: Beginner's Edition 2
+    rarities:
+    - Super Rare
+  - set_number: SD11-JP034
+    set_name: 'Structure Deck: Surge of Radiance'
+    rarities:
+    - Common
+  - set_number: YSD6-JP035
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: BE02-JP059
+    set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Super Rare
+  - set_number: ST12-JP038
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: ST14-JP040
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  ko:
+  - set_number: MRD-K129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: SDJ-KR048
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-KR045
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-KR044
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: BP2-KR075
+    set_name: Beginner's Edition 2
+    rarities:
+    - Super Rare
+  - set_number: ESP1-KR010
+    set_name: Expansion Pack Vol.1
+    rarities:
+    - Common
+  - set_number: YSD6-KR035
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: ST12-KR038
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: ST14-KR040
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC059
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Rare

@@ -30,8 +30,372 @@ text:
     ①：自分はデッキから２枚ドローし、その後手札の闇属性モンスター１体を除外する。手札に闇属性モンスターが無い場合、手札を全て墓地へ送る。
   ko: |-
     ①: 자신은 덱에서 2장 드로우하고, 그 후 패의 어둠 속성 몬스터 1장을 제외한다. 패에 어둠 속성 몬스터가 없을 경우, 패를 전부 묘지로 보낸다.
-  zh-TW: 從我方牌組中抽取2張卡牌，之後將手牌中的1隻暗屬性怪獸從遊戲中除外。我方手牌中沒有暗屬性怪獸的場合，將我方手牌全部送進墓地。
+  zh-TW: |-
+    從我方牌組中抽取2張卡牌，之後將手牌中的1隻暗屬性怪獸從遊戲中除外。我方手牌中沒有暗屬性怪獸的場合，將我方手牌全部送進墓地。
   zh-CN: |-
     ①：自己从牌组抽2张，然后将手牌的1只暗属性怪兽除外。手牌中没有暗属性怪兽的情况下，将手牌全部送至墓地。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: PTDN-EN084
+    set_name: Phantom Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: RGBT-ENSE2
+    set_name: 'Raging Battle: Special Edition'
+    rarities:
+    - Super Rare
+  - set_number: SDMA-EN028
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDGU-EN027
+    set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: OP01-EN025
+    set_name: OTS Tournament Pack 1
+    rarities:
+    - Common
+  - set_number: DESO-EN044
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: SDPD-EN029
+    set_name: Pendulum Domination Structure Deck
+    rarities:
+    - Common
+  - set_number: SR06-EN024
+    set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: DASA-EN054
+    set_name: Dark Saviors
+    rarities:
+    - Super Rare
+  - set_number: SDSH-EN028
+    set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SS05-ENA26
+    set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: BROL-EN088
+    set_name: Brothers of Legend
+    rarities:
+    - Ultra Rare
+  - set_number: STP3-EN005
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: PTDN-DE084
+    set_name: Phantom Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: RGBT-DESE2
+    set_name: 'Raging Battle: Special Edition'
+    rarities:
+    - Super Rare
+  - set_number: SDMA-DE028
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDGU-DE027
+    set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: OP01-DE025
+    set_name: OTS Tournament Pack 1
+    rarities:
+    - Common
+  - set_number: DESO-DE044
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: SDPD-DE029
+    set_name: Pendulum Domination Structure Deck
+    rarities:
+    - Common
+  - set_number: SR06-DE024
+    set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: DASA-DE054
+    set_name: Dark Saviors
+    rarities:
+    - Super Rare
+  - set_number: SDSH-DE028
+    set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SS05-DEA26
+    set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: BROL-DE088
+    set_name: Brothers of Legend
+    rarities:
+    - Ultra Rare
+  - set_number: STP3-DE005
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: PTDN-FR084
+    set_name: Phantom Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: RGBT-FRSE2
+    set_name: 'Raging Battle: Special Edition'
+    rarities:
+    - Super Rare
+  - set_number: SDMA-FR028
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDGU-FR027
+    set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: OP01-FR025
+    set_name: OTS Tournament Pack 1
+    rarities:
+    - Common
+  - set_number: DESO-FR044
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: SDPD-FR029
+    set_name: Pendulum Domination Structure Deck
+    rarities:
+    - Common
+  - set_number: SR06-FR024
+    set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: DASA-FR054
+    set_name: Dark Saviors
+    rarities:
+    - Super Rare
+  - set_number: SDSH-FR028
+    set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SS05-FRA26
+    set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: BROL-FR088
+    set_name: Brothers of Legend
+    rarities:
+    - Ultra Rare
+  - set_number: STP3-FR005
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: PTDN-IT084
+    set_name: Phantom Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: RGBT-ITSE2
+    set_name: 'Raging Battle: Special Edition'
+    rarities:
+    - Super Rare
+  - set_number: SDMA-IT028
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDGU-IT027
+    set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: OP01-IT025
+    set_name: OTS Tournament Pack 1
+    rarities:
+    - Common
+  - set_number: DESO-IT044
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: SDPD-IT029
+    set_name: Pendulum Domination Structure Deck
+    rarities:
+    - Common
+  - set_number: SR06-IT024
+    set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: DASA-IT054
+    set_name: Dark Saviors
+    rarities:
+    - Super Rare
+  - set_number: SDSH-IT028
+    set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SS05-ITA26
+    set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: BROL-IT088
+    set_name: Brothers of Legend
+    rarities:
+    - Ultra Rare
+  - set_number: STP3-IT005
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: OP01-PT025
+    set_name: OTS Tournament Pack 1
+    rarities:
+    - Common
+  - set_number: DESO-PT044
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: SDPD-PT029
+    set_name: Pendulum Domination Structure Deck
+    rarities:
+    - Common
+  - set_number: SR06-PT024
+    set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: DASA-PT054
+    set_name: Dark Saviors
+    rarities:
+    - Super Rare
+  - set_number: SDSH-PT028
+    set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SS05-PTA26
+    set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: BROL-PT088
+    set_name: Brothers of Legend
+    rarities:
+    - Ultra Rare
+  - set_number: STP3-PT005
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Ultra Rare
+  ja:
+  - set_number: EXP1-JP027
+    set_name: Extra Pack
+    rarities:
+    - Super Rare
+  - set_number: SD21-JP027
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: DS13-JPD25
+    set_name: 'Duelist Set: Version Dark Returner'
+    rarities:
+    - Common
+  - set_number: TRC1-JP042
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collectors Rare
+  - set_number: SD30-JP030
+    set_name: 'Structure Deck: Pendulum Domination'
+    rarities:
+    - Common
+  - set_number: SPDS-JP044
+    set_name: 'Booster SP: Destiny Soldiers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: SR06-JP024
+    set_name: 'Structure Deck R: Curse of the Dark'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: 20TH-JPC92
+    set_name: 20th Anniversary Legend Collection
+    rarities:
+    - Super Parallel Rare
+    - Secret Rare
+  - set_number: SD37-JP028
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  ko:
+  - set_number: EXP1-KR027
+    set_name: Extra Pack
+    rarities:
+    - Super Rare
+  - set_number: EV10-KR004
+    set_name: Winter Festival 2009 promotional cards
+    rarities:
+    - Secret Rare
+  - set_number: EV10-KR004
+    set_name: Spring Battle 2010 promotional cards
+    rarities:
+    - Secret Rare
+  - set_number: SD21-KR027
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: DS13-KRD25
+    set_name: 'Duelist Set: Version Dark Returner'
+    rarities:
+    - Common
+  - set_number: SD30-KR030
+    set_name: 'Structure Deck: Pendulum Domination'
+    rarities:
+    - Common
+  - set_number: SPDS-KR044
+    set_name: 'Booster SP: Destiny Soldiers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: SR06-KR024
+    set_name: 'Structure Deck R: Curse of the Dark'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: TRC1-KR042
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: LEC1-KR092
+    set_name: 20th Anniversary Legend Collection
+    rarities:
+    - Super Parallel Rare
+    - Secret Rare
+  - set_number: SD37-KR028
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD21-TC030
+    set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SCP15
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Super Rare
+  - set_number: SD37-SC028
+    set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  - set_number: TRC1-SC041
+    set_name: The Rarity Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare

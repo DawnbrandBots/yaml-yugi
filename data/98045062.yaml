@@ -46,10 +46,582 @@ text:
     ①: 이하의 효과에서 1개를 선택하고 발동할 수 있다.
     ●상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대의 앞면 표시 몬스터의 표시 형식을 변경한다.
     ●자신 필드의 몬스터 1장을 릴리스하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 앞면 표시 몬스터의 컨트롤을 엔드 페이즈까지 얻는다.
-  zh-TW: "可从以下效果之中选择1个进行发动。\n●选择以表侧表示存在于对手场上的1只怪兽，并变更表示形态。\n●可以释放我方场上的1只怪兽进行发动。选择以表侧表示存在于对手场上的1只怪兽，到结束阶段为止获得控制权。"
+  zh-TW: |-
+    可从以下效果之中选择1个进行发动。
+    ●选择以表侧表示存在于对手场上的1只怪兽，并变更表示形态。
+    ●可以释放我方场上的1只怪兽进行发动。选择以表侧表示存在于对手场上的1只怪兽，到结束阶段为止获得控制权。
   zh-CN: |-
     ①：可从以下效果中选择1个发动。
     ●可以对手场上的1只表侧表示的怪兽为对象发动。改变该对手的表侧表示怪兽的表示形式。
     ●解放自己场上的1只怪兽，可以对手场上的1只表侧表示的怪兽为对象发动。直至结束阶段为止获得该表侧表示怪兽的控制权。
 card_type: Spell
 property: Quick-Play
+sets:
+  en:
+  - set_number: DR2-EN149
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Super Rare
+  - set_number: CP01-EN010
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Rare
+  - set_number: SD10-EN027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: YSDS-EN027
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDDE-EN025
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SDSC-EN029
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: DLDI-EN004
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: 5DS3-EN025
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: GLD3-EN043
+    set_name: Gold Series 3
+    rarities:
+    - Gold Rare
+  - set_number: BP01-EN078
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-EN144
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-EN032
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: YSKR-EN035
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: BP03-EN149
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: PGL2-EN076
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DPBC-EN019
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-EN031
+    set_name: Emperor of Darkness Structure Deck
+    rarities:
+    - Common
+  - set_number: LDK2-ENK25
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDKS-EN026
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LCKC-EN032
+    set_name: Legendary Collection Kaiba Mega Pack
+    rarities:
+    - Secret Rare
+  - set_number: EGS1-EN025
+    set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
+    rarities:
+    - Common
+  - set_number: HAC1-EN025
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  de:
+  - set_number: AST-DE037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: DR2-DE149
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Super Rare
+  - set_number: CP01-DE010
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Rare
+  - set_number: SD10-DE027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: YSDS-DE027
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDDE-DE025
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SDSC-DE029
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: DLDI-DE004
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: 5DS3-DE025
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: GLD3-DE043
+    set_name: Gold Series 3
+    rarities:
+    - Gold Rare
+  - set_number: BP01-DE078
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-DE144
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-DE032
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: YSKR-DE035
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: BP03-DE149
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: PGL2-DE076
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DPBC-DE019
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-DE031
+    set_name: Emperor of Darkness Structure Deck
+    rarities:
+    - Common
+  - set_number: LDK2-DEK25
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDKS-DE026
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LCKC-DE032
+    set_name: Legendary Collection Kaiba Mega Pack
+    rarities:
+    - Secret Rare
+  - set_number: EGS1-DE025
+    set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
+    rarities:
+    - Common
+  - set_number: HAC1-DE025
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  fr:
+  - set_number: AST-FR037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: DR2-FR149
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Super Rare
+  - set_number: CP01-FR010
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Rare
+  - set_number: SD10-FR027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: YSDS-FR027
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SDDE-FR025
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SDSC-FR029
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: DLDI-FR004
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: 5DS3-FR025
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: GLD3-FR043
+    set_name: Gold Series 3
+    rarities:
+    - Gold Rare
+  - set_number: BP01-FR078
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-FR144
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-FR032
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: YSKR-FR035
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: BP03-FR149
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: PGL2-FR076
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DPBC-FR019
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-FR031
+    set_name: Emperor of Darkness Structure Deck
+    rarities:
+    - Common
+  - set_number: LDK2-FRK25
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDKS-FR026
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LCKC-FR032
+    set_name: Legendary Collection Kaiba Mega Pack
+    rarities:
+    - Secret Rare
+  - set_number: EGS1-FR025
+    set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
+    rarities:
+    - Common
+  - set_number: HAC1-FR025
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  it:
+  - set_number: AST-IT037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: DR2-IT149
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Super Rare
+  - set_number: CP01-IT010
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Rare
+  - set_number: YSDS-IT027
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: SD10-IT027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: SDDE-IT025
+    set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SDSC-IT029
+    set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: DLDI-IT004
+    set_name: Duelist League Demo 2010
+    rarities:
+    - Common
+  - set_number: 5DS3-IT025
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: GLD3-IT043
+    set_name: Gold Series 3
+    rarities:
+    - Gold Rare
+  - set_number: BP01-IT078
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: BP02-IT144
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-IT032
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: YSKR-IT035
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: BP03-IT149
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: PGL2-IT076
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DPBC-IT019
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-IT031
+    set_name: Emperor of Darkness Structure Deck
+    rarities:
+    - Common
+  - set_number: LDK2-ITK25
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDKS-IT026
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LCKC-IT032
+    set_name: Legendary Collection Kaiba Mega Pack
+    rarities:
+    - Secret Rare
+  - set_number: EGS1-IT025
+    set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
+    rarities:
+    - Common
+  - set_number: HAC1-IT025
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  pt:
+  - set_number: AST-PT037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: BP02-PT144
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: SDBE-PT032
+    set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: YSKR-PT035
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: BP03-PT149
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: PGL2-PT076
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DPBC-PT019
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-PT031
+    set_name: Emperor of Darkness Structure Deck
+    rarities:
+    - Common
+  - set_number: LDK2-PTK25
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: SDKS-PT026
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LCKC-PT032
+    set_name: Legendary Collection Kaiba Mega Pack
+    rarities:
+    - Secret Rare
+  - set_number: EGS1-PT025
+    set_name: 'Egyptian God Deck: Slifer the Sky Dragon'
+    rarities:
+    - Common
+  - set_number: HAC1-PT025
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  ja:
+  - set_number: 308-037
+    set_name: The Sanctuary in the Sky (set)
+    rarities:
+    - Super Rare
+  - set_number: SK2-030
+    set_name: 'Structure Deck: Kaiba Volume 2'
+    rarities:
+    - Common
+  - set_number: EE2-JP149
+    set_name: Expert Edition Volume.2
+    rarities:
+    - Super Rare
+  - set_number: SD10-JP027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: SD14-JP025
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: DT03-JP040
+    set_name: Duel Terminal - Justice Strikes Back!!
+    rarities:
+    - DRPR
+  - set_number: YSD5-JP025
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: GS04-JP014
+    set_name: Gold Series 2012
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: GDB1-JP074
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: SD25-JP033
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: DP16-JP018
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SR01-JP031
+    set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  - set_number: SDKS-JP028
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: LG02-JP012
+    set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional
+      cards'
+    rarities:
+    - Common
+  - set_number: KC01-JP049
+    set_name: 25th Anniversary Ultimate Kaiba Set
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: AST-KR037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: HGP2-KR149
+    set_name: Expert Edition Volume.2
+    rarities:
+    - Super Rare
+  - set_number: SD14-KR025
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: SD10-KR027
+    set_name: 'Structure Deck: Machine Re-Volt'
+    rarities:
+    - Common
+  - set_number: ESP3-KR040
+    set_name: Expansion Pack Vol.3
+    rarities:
+    - Gold Rare
+  - set_number: AST-KRPR2
+    set_name: Ancient Sanctuary promotional cards
+    rarities:
+    - Secret Rare
+  - set_number: GS04-KR014
+    set_name: Gold Series 2012
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: SD25-KR033
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SR01-KR031
+    set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  - set_number: DP16-KR018
+    set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  - set_number: SDKS-KR028
+    set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD25-TC033
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: SP03-TC046
+    set_name: Starter Pack Volume 3
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: SD25-SC033
+    set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: EGS1-SC025
+    set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk\
+      \ the Tormentor"
+    rarities:
+    - Common

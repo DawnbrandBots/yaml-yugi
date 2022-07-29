@@ -30,8 +30,480 @@ text:
     ①：お互いのプレイヤーは、それぞれ自身のフィールドのモンスター１体を選ぶ。そのモンスター２体のコントロールを入れ替える。このターン、そのモンスターは表示形式を変更できない。
   ko: |-
     ①: 양쪽 플레이어는, 각각 자신 필드의 몬스터 1장을 고른다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 이 턴에, 그 몬스터는 표시 형식을 변경할 수 없다.
-  zh-TW: 双方各自选取我方场上的1只怪兽，交换这2只怪兽的控制权。该怪兽在本回合中不可更改表示形式。
+  zh-TW: |-
+    双方各自选取我方场上的1只怪兽，交换这2只怪兽的控制权。该怪兽在本回合中不可更改表示形式。
   zh-CN: |-
     ①：双方玩家各自挑选1只自身场上的怪兽。该2只怪兽的控制权交换。此回合，不可更改该怪兽的表示形式。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: LOD-EN081
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
+  - set_number: SD1-EN018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-EN020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-EN021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DB2-EN190
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: HL03-EN002
+    set_name: Hobby League 3 participation card B
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: DP04-EN018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: SDZW-EN022
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-EN027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-EN063
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: SDMA-EN022
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDDL-EN027
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: TU06-EN015
+    set_name: 'Turbo Pack: Booster Six'
+    rarities:
+    - Common
+  - set_number: BP01-EN044
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: LCYW-EN269
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: SDOK-EN029
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP03-EN144
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDGR-EN027
+    set_name: Geargia Rampage Structure Deck
+    rarities:
+    - Common
+  - set_number: SBCB-EN159
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  de:
+  - set_number: SD1-DE018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-DE020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-DE021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DB2-DE190
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: DP04-DE018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: SDZW-DE022
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-DE027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-DE063
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: SDMA-DE022
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDDL-DE027
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: TU06-DE015
+    set_name: 'Turbo Pack: Booster Six'
+    rarities:
+    - Common
+  - set_number: BP01-DE044
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: LCYW-DE269
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: SDOK-DE029
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP03-DE144
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDGR-DE027
+    set_name: Geargia Rampage Structure Deck
+    rarities:
+    - Common
+  - set_number: SBCB-DE159
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  fr:
+  - set_number: SD1-FR018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-FR020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-FR021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DB2-FR190
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: DP04-FR018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: SDZW-FR022
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-FR027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-FR063
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: SDMA-FR022
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDDL-FR027
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: TU06-FR015
+    set_name: 'Turbo Pack: Booster Six'
+    rarities:
+    - Common
+  - set_number: BP01-FR044
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: LCYW-FR269
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: SDOK-FR029
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP03-FR144
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDGR-FR027
+    set_name: Geargia Rampage Structure Deck
+    rarities:
+    - Common
+  - set_number: SBCB-FR159
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  it:
+  - set_number: SD1-IT018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-IT020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-IT021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DB2-IT190
+    set_name: Dark Beginning 2
+    rarities:
+    - Super Rare
+  - set_number: DP04-IT018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: SDZW-IT022
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-IT027
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-IT063
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: SDMA-IT022
+    set_name: 'Structure Deck: Marik (TCG)'
+    rarities:
+    - Common
+  - set_number: SDDL-IT027
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: TU06-IT015
+    set_name: 'Turbo Pack: Booster Six'
+    rarities:
+    - Common
+  - set_number: BP01-IT044
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: LCYW-IT269
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Super Rare
+  - set_number: SDOK-IT029
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP03-IT144
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDGR-IT027
+    set_name: Geargia Rampage Structure Deck
+    rarities:
+    - Common
+  - set_number: SBCB-IT159
+    set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  pt:
+  - set_number: SD1-PT018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-PT020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-PT021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: SDOK-PT029
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP03-PT144
+    set_name: 'Battle Pack 3: Monster League'
+    rarities:
+    - Common
+    - Shatterfoil Rare
+  - set_number: SDGR-PT027
+    set_name: Geargia Rampage Structure Deck
+    rarities:
+    - Common
+  ja:
+  - set_number: MA-33
+    set_name: Mythological Age
+    rarities:
+    - Common
+  - set_number: DL5-072
+    set_name: Duelist Legacy Volume.5
+    rarities:
+    - Rare
+  - set_number: SDM-026
+    set_name: 'Structure Deck: Marik (OCG)'
+    rarities:
+    - Common
+  - set_number: PC5-JP003
+    set_name: 'World Ranking Promos: Series 5'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: SD1-JP018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-JP020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: BE2-JP190
+    set_name: Beginner's Edition 2
+    rarities:
+    - Super Rare
+  - set_number: SD4-JP021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DP04-JP018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: SD15-JP023
+    set_name: 'Structure Deck: Undead World'
+    rarities:
+    - Common
+  - set_number: YSD4-JP027
+    set_name: Starter Deck 2009
+    rarities:
+    - Common
+  - set_number: SD19-JP025
+    set_name: 'Structure Deck: Dragunity Drive'
+    rarities:
+    - Common
+  - set_number: BE02-JP156
+    set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Super Rare
+  - set_number: GS04-JP012
+    set_name: Gold Series 2012
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: GDB1-JP072
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: SD24-JP029
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  - set_number: DS14-JPM23
+    set_name: 'Duelist Set: Version Machine-Gear Troopers'
+    rarities:
+    - Ultra Rare
+  - set_number: SR12-JP028
+    set_name: 'Structure Deck R: Lost Sanctuary'
+    rarities:
+    - Common
+  - set_number: DR02-JPD20
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+    - Super Rare
+  ko:
+  - set_number: LOD-KR081
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
+  - set_number: BP2-KR190
+    set_name: Beginner's Edition 2
+    rarities:
+    - Super Rare
+  - set_number: SD1-KR018
+    set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SD2-KR020
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD4-KR021
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: DP04-KR018
+    set_name: 'Duelist Pack: Zane Truesdale'
+    rarities:
+    - Common
+  - set_number: ESP2-KR048
+    set_name: Expansion Pack Vol.2
+    rarities:
+    - Super Rare
+  - set_number: SD15-KR023
+    set_name: 'Structure Deck: Undead World'
+    rarities:
+    - Common
+  - set_number: YSD4-KR027
+    set_name: Starter Deck 2009
+    rarities:
+    - Common
+  - set_number: SD19-KR025
+    set_name: 'Structure Deck: Dragunity Drive'
+    rarities:
+    - Common
+  - set_number: GS04-KR012
+    set_name: Gold Series 2012
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: SD24-KR029
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  - set_number: DS14-KRM25
+    set_name: 'Duelist Set: Version Machine-Gear Troopers'
+    rarities:
+    - Ultra Rare
+  - set_number: SR12-KR028
+    set_name: 'Structure Deck R: Lost Sanctuary'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC040
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Common
+  - set_number: SD24-TC029
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SCP16
+    set_name: Starter Deck 2021 Special Pack
+    rarities:
+    - Super Rare

@@ -30,8 +30,581 @@ text:
     ①：<ruby><rb>相</rb><rt>あい</rt></ruby><ruby><rb>手</rb><rt>て</rt></ruby>が<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>１０００<ruby><rb>以</rb><rt>い</rt></ruby><ruby><rb>上</rb><rt>じょう</rt></ruby>のモンスターの<ruby><rb>召喚</rb><rt>しょうかん</rt></ruby>・<ruby><rb>反</rb><rt>はん</rt></ruby><ruby><rb>転</rb><rt>てん</rt></ruby><ruby><rb>召喚</rb><rt>しょうかん</rt></ruby>に<ruby><rb>成</rb><rt>せい</rt></ruby><ruby><rb>功</rb><rt>こう</rt></ruby>した<ruby><rb>時</rb><rt>とき</rt></ruby>、そのモンスター１<ruby><rb>体</rb><rt>たい</rt></ruby>を<ruby><rb>対</rb><rt>たい</rt></ruby><ruby><rb>象</rb><rt>しょう</rt></ruby>として<ruby><rb>発</rb><rt>はつ</rt></ruby><ruby><rb>動</rb><rt>どう</rt></ruby>できる。その<ruby><rb>攻</rb><rt>こう</rt></ruby><ruby><rb>撃</rb><rt>げき</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>１０００<ruby><rb>以</rb><rt>い</rt></ruby><ruby><rb>上</rb><rt>じょう</rt></ruby>のモンスターを<ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby>する。
   ko: |-
     ①: 상대가 공격력 1000 이상의 몬스터의 일반 소환 / 반전 소환에 성공했을 때, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 공격력 1000 이상의 몬스터를 파괴한다.
-  zh-TW: 對手攻擊力1000或以上的怪獸召喚／反轉召喚成功時，可選擇1隻該怪獸發動。破壞該攻擊力1000或以上的怪獸。
+  zh-TW: |-
+    對手攻擊力1000或以上的怪獸召喚／反轉召喚成功時，可選擇1隻該怪獸發動。破壞該攻擊力1000或以上的怪獸。
   zh-CN: |-
     ①：对方对攻击力1000以上的怪兽的召唤·反转召唤成功时，以那1只怪兽为对象才能发动。那只攻击力1000以上的怪兽破坏。
 card_type: Trap
 property: Normal
+sets:
+  en:
+  - set_number: SYE-041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-EN118
+    set_name: Dark Beginning 1
+    rarities:
+    - Rare
+  - set_number: LOB-EN058
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: HL03-EN003
+    set_name: Hobby League 3 participation card C
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: YSDJ-EN034
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-EN032
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-EN036
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DL09-EN017
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-EN030
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-EN034
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-EN032
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-EN177
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: LCJW-EN073
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: YSYR-EN038
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YSKR-EN042
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-EN031
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  de:
+  - set_number: LOB-G046
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-G025
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-G030
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDJ-G043
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-G041
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-DE041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-DE042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-DE118
+    set_name: Dark Beginning 1
+    rarities:
+    - Rare
+  - set_number: YSDJ-DE034
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-DE032
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-DE007
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-DE036
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DL09-DE017
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-DE030
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-DE034
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-DE032
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-DE177
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: LCJW-DE073
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: YSYR-DE038
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YSKR-DE042
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-DE031
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-DEY17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  fr:
+  - set_number: LDD-F046
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: DDY-F025
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: DDK-F030
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DDJ-F043
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DDP-F041
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-FR041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-FR042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: YSDJ-FR034
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-FR032
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-FR007
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-FR036
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DL09-FR017
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-FR030
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-FR034
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-FR032
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-FR177
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: LCJW-FR073
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: YSYR-FR038
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YSKR-FR042
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-FR031
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-FRY17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  it:
+  - set_number: LDD-I046
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: MIY-I025
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: MIK-I030
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MIJ-I043
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: MIP-I041
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-IT041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-IT042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: YSDJ-IT034
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: YSDS-IT032
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: RP01-IT007
+    set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: 5DS1-IT036
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: DL09-IT017
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-IT030
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-IT034
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-IT032
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: LCYW-IT177
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: LCJW-IT073
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: YSYR-IT038
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YSKR-IT042
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-IT031
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-ITY17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  pt:
+  - set_number: LDB-P058
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: DIY-P027
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: DIK-P033
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DIJ-P043
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DIP-P041
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-PT041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-PT042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: LCJW-PT073
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: YSYR-PT038
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YSKR-PT042
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-PT031
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-PTY17
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  ja:
+  - set_number: ''
+    set_name: Vol.1
+    rarities:
+    - Super Rare
+  - set_number: ''
+    set_name: EX Starter Box
+    rarities:
+    - Common
+  - set_number: LB-57
+    set_name: Legend of Blue Eyes White Dragon (Japanese)
+    rarities:
+    - Super Rare
+  - set_number: EX-27
+    set_name: EX-R Starter Box
+    rarities:
+    - Common
+  - set_number: JY-30
+    set_name: 'Structure Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DL2-039
+    set_name: Duelist Legacy Volume.2
+    rarities:
+    - Rare
+  - set_number: SY2-052
+    set_name: 'Structure Deck: Yugi Volume 2'
+    rarities:
+    - Common
+  - set_number: PC2-007
+    set_name: 'World Ranking Promos: Series 2'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: BE1-JP118
+    set_name: Beginner's Edition 1
+    rarities:
+    - Rare
+  - set_number: YSD2-JP034
+    set_name: Starter Deck 2007
+    rarities:
+    - Common
+  - set_number: YSD3-JP036
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: DT04-JP050
+    set_name: Duel Terminal - Demon Roar God Revival!!
+    rarities:
+    - Duel Terminal Normal Parallel Rare
+  - set_number: YSD5-JP033
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: GS03-JP018
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: YSD6-JP034
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: BE01-JP101
+    set_name: Beginner's Edition 1 (2011)
+    rarities:
+    - Rare
+  - set_number: ST12-JP032
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: GDB1-JP058
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: HD13-JPL17
+    set_name: 'Half-Deck: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD13-JPD17
+    set_name: 'Half-Deck: DARK'
+    rarities:
+    - Common
+  - set_number: ST14-JP031
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: VS15-JPS23
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Common
+  - set_number: VS15-JPD24
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Common
+  - set_number: HD18-JPL17
+    set_name: 'Half Deck 2018: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD18-JPD17
+    set_name: 'Half Deck 2018: DARK'
+    rarities:
+    - Common
+  - set_number: SSD2-JP017
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
+  ko:
+  - set_number: LOB-K058
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-K027
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-K033
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDJ-KR043
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-KR041
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-KR041
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: SKE-KR042
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: BP1-KR118
+    set_name: Beginner's Edition 1
+    rarities:
+    - Rare
+  - set_number: ESP1-KR005
+    set_name: Expansion Pack Vol.1
+    rarities:
+    - Common
+  - set_number: YSD3-KR036
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: YSD5-KR033
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: GS03-KR018
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: YSD6-KR034
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: ST12-KR032
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: ST14-KR031
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: VS15-KRS23
+    set_name: 'Duelist Entry Deck VS: Saber Force'
+    rarities:
+    - Common
+  - set_number: VS15-KRD24
+    set_name: 'Duelist Entry Deck VS: Dark Legion'
+    rarities:
+    - Common
+  - set_number: SSD2-KR017
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC033
+    set_name: Duel Starter Deck
+    rarities:
+    - Common
+  - set_number: HD13-TCL17
+    set_name: 'Half-Deck: LIGHT'
+    rarities:
+    - Common
+  - set_number: HD13-TCD17
+    set_name: 'Half-Deck: DARK'
+    rarities:
+    - Common

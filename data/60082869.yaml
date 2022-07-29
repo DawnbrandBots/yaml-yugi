@@ -30,8 +30,679 @@ text:
     ①：相手フィールドの魔法・罠カード１枚を対象として発動できる。その相手のカードを破壊する。その後、手札から魔法・罠カード１枚をセットできる。
   ko: |-
     ①: 상대 필드의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 상대의 카드를 파괴한다. 그 후, 패에서 마법 / 함정 카드 1장을 세트할 수 있다.
-  zh-TW: 选择对手场上的1张魔法/陷阱卡加以破坏。其后，可从我方手牌中取出1张魔法/陷阱卡进行盖牌。
+  zh-TW: |-
+    选择对手场上的1张魔法/陷阱卡加以破坏。其后，可从我方手牌中取出1张魔法/陷阱卡进行盖牌。
   zh-CN: |-
     ①：可以对手场上1张魔法・陷阱卡为对象发动。将该张对手的卡破坏。然后，可从手牌放置1张魔法・陷阱卡。
 card_type: Trap
 property: Normal
+sets:
+  en:
+  - set_number: SKE-045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-EN075
+    set_name: Dark Beginning 1
+    rarities:
+    - Rare
+  - set_number: PSV-EN011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SD2-EN024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-EN027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-EN026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: YSD-EN035
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: SD8-EN029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: YSDJ-EN033
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-EN033
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDZW-EN033
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-EN034
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-EN005
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: 5DS3-EN031
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-EN033
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-EN033
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-EN088
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-EN095
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: YS13-EN038
+    set_name: 'Super Starter: V for Victory'
+    rarities:
+    - Common
+  - set_number: YS14-EN034
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: SBAD-EN043
+    set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Super Rare
+  - set_number: SS04-ENB26
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: HAC1-EN027
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  - set_number: STP3-EN029
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Common
+  de:
+  - set_number: PSV-G011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-DE045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-DE075
+    set_name: Dark Beginning 1
+    rarities:
+    - Rare
+  - set_number: SD2-DE024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-DE027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-DE026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: YSD-DE035
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: SD8-DE029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: YSDJ-DE033
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-DE033
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDZW-DE033
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-DE034
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-DE005
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: 5DS3-DE031
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-DE033
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-DE033
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-DE088
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-DE095
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: YS13-DE038
+    set_name: 'Super Starter: V for Victory'
+    rarities:
+    - Common
+  - set_number: YS14-DE034
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-DED18
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SBAD-DE043
+    set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Super Rare
+  - set_number: SS04-DEB26
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: HAC1-DE027
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  - set_number: STP3-DE029
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Common
+  fr:
+  - set_number: SDP-F011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-FR045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD2-FR024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-FR027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-FR026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: YSD-FR035
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: SD8-FR029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: YSDJ-FR033
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-FR033
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDZW-FR033
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-FR034
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-FR005
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: 5DS3-FR031
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-FR033
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-FR033
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-FR088
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-FR095
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: YS13-FR038
+    set_name: 'Super Starter: V for Victory'
+    rarities:
+    - Common
+  - set_number: YS14-FR034
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-FRD18
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SBAD-FR043
+    set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Super Rare
+  - set_number: SS04-FRB26
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: HAC1-FR027
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  - set_number: STP3-FR029
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Common
+  it:
+  - set_number: SDF-I011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-IT045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD2-IT024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-IT027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-IT026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: YSD-IT035
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: SD8-IT029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: YSDJ-IT033
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: SDRL-IT033
+    set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SDZW-IT033
+    set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: 5DS2-IT034
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's 2009"
+    rarities:
+    - Common
+  - set_number: RP02-IT005
+    set_name: Retro Pack 2
+    rarities:
+    - Common
+  - set_number: 5DS3-IT031
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: YS11-IT033
+    set_name: 'Starter Deck: Dawn of the Xyz'
+    rarities:
+    - Common
+  - set_number: YS12-IT033
+    set_name: 'Starter Deck: Xyz Symphony'
+    rarities:
+    - Common
+  - set_number: BP01-IT088
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Common
+    - Starfoil Rare
+  - set_number: LCYW-IT095
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Ultra Rare
+  - set_number: YS13-IT038
+    set_name: 'Super Starter: V for Victory'
+    rarities:
+    - Common
+  - set_number: YS14-IT034
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-ITD18
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SBAD-IT043
+    set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Super Rare
+  - set_number: SS04-ITB26
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: HAC1-IT027
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  - set_number: STP3-IT029
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Common
+  pt:
+  - set_number: SKE-PT045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD2-PT024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-PT027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-PT026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: YS13-PT038
+    set_name: 'Super Starter: V for Victory'
+    rarities:
+    - Common
+  - set_number: YS14-PT034
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: YS15-PTD18
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SBAD-PT043
+    set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Super Rare
+  - set_number: SS04-PTB26
+    set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: HAC1-PT027
+    set_name: 'Hidden Arsenal: Chapter 1'
+    rarities:
+    - Common
+    - Duel Terminal Normal Parallel Rare
+  - set_number: STP3-PT029
+    set_name: Speed Duel Tournament Pack 3
+    rarities:
+    - Common
+  ja:
+  - set_number: CA-11
+    set_name: Curse of Anubis (set)
+    rarities:
+    - Common
+  - set_number: JY-34
+    set_name: 'Structure Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DL1-099
+    set_name: Duelist Legacy Volume.1
+    rarities:
+    - Rare
+  - set_number: PC1-003
+    set_name: 'World Ranking Promos: Series 1'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: SY2-041
+    set_name: 'Structure Deck: Yugi Volume 2'
+    rarities:
+    - Common
+  - set_number: SK2-032
+    set_name: 'Structure Deck: Kaiba Volume 2'
+    rarities:
+    - Common
+  - set_number: BE1-JP075
+    set_name: Beginner's Edition 1
+    rarities:
+    - Rare
+  - set_number: SD2-JP024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: SD3-JP027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-JP026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: SD8-JP029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: YSD-JP035
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSD2-JP032
+    set_name: Starter Deck 2007
+    rarities:
+    - Common
+  - set_number: SD14-JP032
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: DT01-JP046
+    set_name: Duel Terminal - Synchro Awakening!!
+    rarities:
+    - Duel Terminal Normal Parallel Rare
+  - set_number: YSD4-JP034
+    set_name: Starter Deck 2009
+    rarities:
+    - Common
+  - set_number: YSD5-JP032
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: GS03-JP016
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: YSD6-JP033
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: BE01-JP068
+    set_name: Beginner's Edition 1 (2011)
+    rarities:
+    - Super Rare
+  - set_number: DB12-JP035
+    set_name: Duelist Box 2012
+    rarities:
+    - Common
+  - set_number: ST12-JP033
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: GDB1-JP056
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: ST13-JP038
+    set_name: Starter Deck 2013
+    rarities:
+    - Common
+  - set_number: ST14-JP034
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: VS15-JPS24
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Common
+  - set_number: VS15-JPD25
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Common
+  - set_number: DR01-JPA35
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: DR01-JPB28
+    set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: DR02-JPB25
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+  - set_number: DR02-JPC27
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+  - set_number: DR02-JPD27
+    set_name: Duel Royale Deck Set EX Round 2
+    rarities:
+    - Common
+  ko:
+  - set_number: PSV-K011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: SKE-KR045
+    set_name: 'Starter Deck: Kaiba Evolution'
+    rarities:
+    - Common
+  - set_number: SD2-KR024
+    set_name: 'Structure Deck: Zombie Madness'
+    rarities:
+    - Common
+  - set_number: BP1-KR075
+    set_name: Beginner's Edition 1
+    rarities:
+    - Rare
+  - set_number: SD3-KR027
+    set_name: 'Structure Deck: Blaze of Destruction'
+    rarities:
+    - Common
+  - set_number: SD4-KR026
+    set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: SD8-KR029
+    set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: SD14-KR032
+    set_name: 'Structure Deck: Advent of the Emperor'
+    rarities:
+    - Common
+  - set_number: ESP1-KR027
+    set_name: Expansion Pack Vol.1
+    rarities:
+    - Gold Rare
+  - set_number: YSD4-KR034
+    set_name: Starter Deck 2009
+    rarities:
+    - Common
+  - set_number: YSD5-KR032
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: GS03-KR016
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: PSV-KRPR2
+    set_name: Pharaoh's Servant promotional cards
+    rarities:
+    - Secret Rare
+  - set_number: YSD6-KR033
+    set_name: Starter Deck 2011
+    rarities:
+    - Common
+  - set_number: XS12-KR038
+    set_name: 'X-Saber: Special Edition'
+    rarities:
+    - Common
+  - set_number: ST12-KR033
+    set_name: Starter Deck 2012
+    rarities:
+    - Common
+  - set_number: ST13-KR038
+    set_name: Starter Deck 2013
+    rarities:
+    - Common
+  - set_number: ST14-KR034
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: VS15-KRS24
+    set_name: 'Duelist Entry Deck VS: Saber Force'
+    rarities:
+    - Common
+  - set_number: VS15-KRD25
+    set_name: 'Duelist Entry Deck VS: Dark Legion'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: ST14-TC035
+    set_name: Duel Starter Deck
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SC033
+    set_name: Starter Deck 2020
+    rarities:
+    - Common

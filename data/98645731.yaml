@@ -30,8 +30,380 @@ text:
     このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はモンスターを特殊召喚できない。①：自分のデッキの上からカードを３枚めくり、その中から１枚を選んで手札に加え、その後残りのカードをデッキに戻す。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에, 자신은 몬스터를 특수 소환할 수 없다. ①: 자신의 덱 위에서 카드를 3장 넘겨, 그 중에서 1장을 골라 패에 넣고, 그 후 남은 카드를 덱으로 되돌린다.
-  zh-TW: 从我方牌组的上方依序翻阅3张卡牌，从中挑选1张加入手牌，之后将剩下的卡牌返回至牌组。「強欲而謙虛之壺」1回合只可发动1张，发动此卡的回合，我方不可特殊召唤怪兽。
+  zh-TW: |-
+    从我方牌组的上方依序翻阅3张卡牌，从中挑选1张加入手牌，之后将剩下的卡牌返回至牌组。「強欲而謙虛之壺」1回合只可发动1张，发动此卡的回合，我方不可特殊召唤怪兽。
   zh-CN: |-
     此卡名的卡1回合仅可发动1张，发动此卡的回合中，自己不可特殊召唤怪兽。①：从自己的牌组上面翻开3张卡，从其中挑选1张加入手牌，然后将剩下的卡放回牌组。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: DREV-EN062
+    set_name: Duelist Revolution
+    rarities:
+    - Secret Rare
+  - set_number: CT08-EN008
+    set_name: Collectible Tins 2011 Wave 1
+    rarities:
+    - Super Rare
+  - set_number: BP01-EN046
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: SDOK-EN027
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP02-EN160
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Rare
+    - Mosaic Rare
+  - set_number: AP05-EN003
+    set_name: Astral Pack Five
+    rarities:
+    - Ultimate Rare
+  - set_number: SDHS-EN034
+    set_name: HERO Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: PGL2-EN055
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: HSRD-EN056
+    set_name: High-Speed Riders
+    rarities:
+    - Rare
+  - set_number: LDK2-ENY34
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: DUSA-EN084
+    set_name: Duelist Saga
+    rarities:
+    - Ultra Rare
+  - set_number: YS17-EN028
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDD-ENA26
+    set_name: Legendary Dragon Decks
+    rarities:
+    - Common
+  - set_number: KICO-EN054
+    set_name: King's Court
+    rarities:
+    - Rare
+  de:
+  - set_number: DREV-DE062
+    set_name: Duelist Revolution
+    rarities:
+    - Secret Rare
+  - set_number: CT08-DE008
+    set_name: Collectible Tins 2011 Wave 1
+    rarities:
+    - Super Rare
+  - set_number: BP01-DE046
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: SDOK-DE027
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP02-DE160
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Rare
+    - Mosaic Rare
+  - set_number: AP05-DE003
+    set_name: Astral Pack Five
+    rarities:
+    - Ultimate Rare
+  - set_number: SDHS-DE034
+    set_name: HERO Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: PGL2-DE055
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: HSRD-DE056
+    set_name: High-Speed Riders
+    rarities:
+    - Rare
+  - set_number: LDK2-DEY34
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: DUSA-DE084
+    set_name: Duelist Saga
+    rarities:
+    - Ultra Rare
+  - set_number: YS17-DE028
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDD-DEA26
+    set_name: Legendary Dragon Decks
+    rarities:
+    - Common
+  - set_number: KICO-DE054
+    set_name: King's Court
+    rarities:
+    - Rare
+  fr:
+  - set_number: DREV-FR062
+    set_name: Duelist Revolution
+    rarities:
+    - Secret Rare
+  - set_number: CT08-FR008
+    set_name: Collectible Tins 2011 Wave 1
+    rarities:
+    - Super Rare
+  - set_number: BP01-FR046
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: SDOK-FR027
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP02-FR160
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Rare
+    - Mosaic Rare
+  - set_number: AP05-FR003
+    set_name: Astral Pack Five
+    rarities:
+    - Ultimate Rare
+  - set_number: SDHS-FR034
+    set_name: HERO Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: PGL2-FR055
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: HSRD-FR056
+    set_name: High-Speed Riders
+    rarities:
+    - Rare
+  - set_number: LDK2-FRY34
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: DUSA-FR084
+    set_name: Duelist Saga
+    rarities:
+    - Ultra Rare
+  - set_number: YS17-FR028
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDD-FRA26
+    set_name: Legendary Dragon Decks
+    rarities:
+    - Common
+  - set_number: KICO-FR054
+    set_name: King's Court
+    rarities:
+    - Rare
+  it:
+  - set_number: DREV-IT062
+    set_name: Duelist Revolution
+    rarities:
+    - Secret Rare
+  - set_number: CT08-IT008
+    set_name: Collectible Tins 2011 Wave 1
+    rarities:
+    - Super Rare
+  - set_number: BP01-IT046
+    set_name: 'Battle Pack: Epic Dawn'
+    rarities:
+    - Rare
+    - Starfoil Rare
+  - set_number: SDOK-IT027
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP02-IT160
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Rare
+    - Mosaic Rare
+  - set_number: AP05-IT003
+    set_name: Astral Pack Five
+    rarities:
+    - Ultimate Rare
+  - set_number: SDHS-IT034
+    set_name: HERO Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: PGL2-IT055
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: HSRD-IT056
+    set_name: High-Speed Riders
+    rarities:
+    - Rare
+  - set_number: LDK2-ITY34
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: DUSA-IT084
+    set_name: Duelist Saga
+    rarities:
+    - Ultra Rare
+  - set_number: YS17-IT028
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDD-ITA26
+    set_name: Legendary Dragon Decks
+    rarities:
+    - Common
+  - set_number: KICO-IT054
+    set_name: King's Court
+    rarities:
+    - Rare
+  pt:
+  - set_number: SDOK-PT027
+    set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: BP02-PT160
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Rare
+    - Mosaic Rare
+  - set_number: AP05-PT003
+    set_name: Astral Pack Five
+    rarities:
+    - Ultimate Rare
+  - set_number: SDHS-PT034
+    set_name: HERO Strike Structure Deck
+    rarities:
+    - Common
+  - set_number: PGL2-PT055
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: HSRD-PT056
+    set_name: High-Speed Riders
+    rarities:
+    - Rare
+  - set_number: LDK2-PTY34
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: DUSA-PT084
+    set_name: Duelist Saga
+    rarities:
+    - Ultra Rare
+  - set_number: YS17-PT028
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDD-PTA26
+    set_name: Legendary Dragon Decks
+    rarities:
+    - Common
+  - set_number: KICO-PT054
+    set_name: King's Court
+    rarities:
+    - Rare
+  ja:
+  - set_number: DREV-JP062
+    set_name: Duelist Revolution
+    rarities:
+    - Super Rare
+  - set_number: GS04-JP015
+    set_name: Gold Series 2012
+    rarities:
+    - Normal Rare
+    - Gold Rare
+  - set_number: GDB1-JP075
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: SD24-JP027
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  - set_number: SD27-JP033
+    set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
+  - set_number: SPHR-JP044
+    set_name: 'Booster SP: Highspeed Riders'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: 20AP-JP078
+    set_name: 20th Anniversary Pack 2nd Wave
+    rarities:
+    - Normal Parallel Rare
+  - set_number: ST17-JP029
+    set_name: Starter Deck 2017
+    rarities:
+    - Common
+  - set_number: ST18-JP030
+    set_name: Starter Deck 2018
+    rarities:
+    - Common
+  ko:
+  - set_number: DREV-KR062
+    set_name: Duelist Revolution
+    rarities:
+    - Super Rare
+  - set_number: GS04-KR015
+    set_name: Gold Series 2012
+    rarities:
+    - Normal Rare
+    - Gold Rare
+  - set_number: EV12-KR005
+    set_name: National Championship 2012 (Korean)
+    rarities:
+    - Secret Rare
+  - set_number: SD24-KR027
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  - set_number: SD27-KR033
+    set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
+  - set_number: SPHR-KR044
+    set_name: 'Booster SP: Highspeed Riders'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: 20AP-KR078
+    set_name: 20th Anniversary Pack 2nd Wave
+    rarities:
+    - Normal Parallel Rare
+  - set_number: ST17-KR029
+    set_name: Starter Deck 2017
+    rarities:
+    - Common
+  - set_number: ST18-KR030
+    set_name: Starter Deck 2018
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SD24-TC028
+    set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST21-SCP13
+    set_name: Starter Deck 2021 Special Pack
+    rarities:
+    - Super Rare

@@ -30,8 +30,340 @@ text:
     ①：このターン相手は攻撃宣言できない。
   ko: |-
     ①: 이 턴에, 상대는 공격 선언할 수 없다.
-  zh-TW: 此回合对手不可进行攻击宣言。
+  zh-TW: |-
+    此回合对手不可进行攻击宣言。
   zh-CN: |-
     ①：这个回合对手不能进行攻击宣言。
 card_type: Trap
 property: Normal
+sets:
+  en:
+  - set_number: FET-EN052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: CP01-EN020
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Common
+  - set_number: DR3-EN172
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Common
+  - set_number: YSDS-EN036
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-EN031
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: CP07-EN003
+    set_name: 'Champion Pack: Game Seven'
+    rarities:
+    - Super Rare
+  - set_number: DL09-EN020
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-EN036
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: DEM1-EN018
+    set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: LCYW-EN297
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: BP02-EN184
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: YSKR-EN046
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: DEM2-EN019
+    set_name: Demo Deck 2015
+    rarities:
+    - Common
+  - set_number: YS16-EN037
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: SDSB-EN036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  de:
+  - set_number: FET-DE052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: CP01-DE020
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Common
+  - set_number: DR3-DE172
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Common
+  - set_number: YSDS-DE036
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-DE031
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: CP07-DE003
+    set_name: 'Champion Pack: Game Seven'
+    rarities:
+    - Super Rare
+  - set_number: DL09-DE020
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-DE036
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: DEM1-DE018
+    set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: LCYW-DE297
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: BP02-DE184
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: YSKR-DE046
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS16-DE037
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: DEM2-DE019
+    set_name: Demo Deck 2015
+    rarities:
+    - Common
+  - set_number: SDSB-DE036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  fr:
+  - set_number: FET-FR052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: CP01-FR020
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Common
+  - set_number: DR3-FR172
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Common
+  - set_number: YSDS-FR036
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-FR031
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: CP07-FR003
+    set_name: 'Champion Pack: Game Seven'
+    rarities:
+    - Super Rare
+  - set_number: DL09-FR020
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-FR036
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: DEM1-FR018
+    set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: LCYW-FR297
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: BP02-FR184
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: YSKR-FR046
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS16-FR037
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: DEM2-FR019
+    set_name: Demo Deck 2015
+    rarities:
+    - Common
+  - set_number: SDSB-FR036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  it:
+  - set_number: FET-IT052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: CP01-IT020
+    set_name: 'Champion Pack: Game One'
+    rarities:
+    - Common
+  - set_number: DR3-IT172
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Common
+  - set_number: YSDS-IT036
+    set_name: 'Starter Deck: Syrus Truesdale'
+    rarities:
+    - Common
+  - set_number: 5DS1-IT031
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: CP07-IT003
+    set_name: 'Champion Pack: Game Seven'
+    rarities:
+    - Super Rare
+  - set_number: DL09-IT020
+    set_name: Duelist League 2010 participation cards
+    rarities:
+    - Rare
+  - set_number: 5DS3-IT036
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: DEM1-IT018
+    set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: LCYW-IT297
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: BP02-IT184
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: YSKR-IT046
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YS16-IT037
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: DEM2-IT019
+    set_name: Demo Deck 2015
+    rarities:
+    - Common
+  - set_number: SDSB-IT036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  pt:
+  - set_number: FET-PT052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: DEM1-PT018
+    set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: BP02-PT184
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  - set_number: YSKR-PT046
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: DEM2-PT019
+    set_name: Demo Deck 2015
+    rarities:
+    - Common
+  - set_number: YS16-PT037
+    set_name: 'Starter Deck: Yuya'
+    rarities:
+    - Common
+  - set_number: SDSB-PT036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  ja:
+  - set_number: FET-JP052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: EE3-JP172
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Common
+  - set_number: DT05-JP047
+    set_name: Duel Terminal - Champion of Chaos!!
+    rarities:
+    - Duel Terminal Rare Parallel Rare
+  - set_number: ST16-JP037
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  - set_number: SD35-JP036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  ko:
+  - set_number: FET-KR052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: HGP3-KR172
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Common
+  - set_number: AE02-KR020
+    set_name: Advanced Event Pack 2013 Vol.2
+    rarities:
+    - Common
+  - set_number: ST16-KR037
+    set_name: Starter Deck 2016
+    rarities:
+    - Common
+  - set_number: SD35-KR036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP02-TC054
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: SD35-SC036
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common

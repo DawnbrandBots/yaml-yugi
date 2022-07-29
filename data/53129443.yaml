@@ -30,8 +30,663 @@ text:
     ①：フィールドのモンスターを<ruby><rb>全</rb><rt>すベ</rt></ruby>て<ruby><rb>破</rb><rt>は</rt></ruby><ruby><rb>壊</rb><rt>かい</rt></ruby>する。
   ko: |-
     ①: 필드의 몬스터를 전부 파괴한다.
-  zh-TW: 破坏场上的全部怪兽。
+  zh-TW: |-
+    破坏场上的全部怪兽。
   zh-CN: |-
     ①：将场上的怪兽全部破坏。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: SYE-026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: DB1-EN113
+    set_name: Dark Beginning 1
+    rarities:
+    - Super Rare
+  - set_number: LOB-EN052
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: TU04-EN017
+    set_name: 'Turbo Pack: Booster Four'
+    rarities:
+    - Common
+  - set_number: TU05-EN001
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Ultra Rare
+  - set_number: GLD5-EN037
+    set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Gold Rare
+  - set_number: SDWA-EN023
+    set_name: Samurai Warlords Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-EN053
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: SDRE-EN031
+    set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-EN283
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YSKR-EN028
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YSYR-EN025
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-ENA10
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Ultra Rare
+  - set_number: NKRT-EN024
+    set_name: Noble Knights of the Round Table Box Set
+    rarities:
+    - Platinum Rare
+  - set_number: PGL2-EN089
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: DESO-EN042
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: YS17-EN023
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: YS18-EN025
+    set_name: 'Starter Deck: Codebreaker'
+    rarities:
+    - Common
+  - set_number: LEHD-ENB21
+    set_name: Legendary Hero Decks
+    rarities:
+    - Ultra Rare
+  - set_number: LEHD-ENC15
+    set_name: Legendary Hero Decks
+    rarities:
+    - Common
+  - set_number: OP12-EN022
+    set_name: OTS Tournament Pack 12
+    rarities:
+    - Common
+  de:
+  - set_number: LOB-G041
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-G020
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-G021
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDJ-G026
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-G026
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: DB1-DE113
+    set_name: Dark Beginning 1
+    rarities:
+    - Super Rare
+  - set_number: SYE-DE026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: TU04-DE017
+    set_name: 'Turbo Pack: Booster Four'
+    rarities:
+    - Common
+  - set_number: TU05-DE001
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Ultra Rare
+  - set_number: GLD5-DE037
+    set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Gold Rare
+  - set_number: SDWA-DE023
+    set_name: Samurai Warlords Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-DE053
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: SDRE-DE031
+    set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-DE283
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YSKR-DE028
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YSYR-DE025
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-DEA10
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Ultra Rare
+  - set_number: NKRT-DE024
+    set_name: Noble Knights of the Round Table Box Set
+    rarities:
+    - Platinum Rare
+  - set_number: PGL2-DE089
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: YS15-DEY12
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Super Rare
+  - set_number: DEM3-DE012
+    set_name: Demo Deck 2016
+    rarities:
+    - Common
+  - set_number: DESO-DE042
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: YS17-DE023
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: YS18-DE025
+    set_name: 'Starter Deck: Codebreaker'
+    rarities:
+    - Common
+  - set_number: LEHD-DEB21
+    set_name: Legendary Hero Decks
+    rarities:
+    - Ultra Rare
+  - set_number: LEHD-DEC15
+    set_name: Legendary Hero Decks
+    rarities:
+    - Common
+  - set_number: OP12-DE022
+    set_name: OTS Tournament Pack 12
+    rarities:
+    - Common
+  fr:
+  - set_number: LDD-F041
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: DDY-F020
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: DDK-F021
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DDJ-F026
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DDP-F026
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-FR026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: TU04-FR017
+    set_name: 'Turbo Pack: Booster Four'
+    rarities:
+    - Common
+  - set_number: TU05-FR001
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Ultra Rare
+  - set_number: GLD5-FR037
+    set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Gold Rare
+  - set_number: SDWA-FR023
+    set_name: Samurai Warlords Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-FR053
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: SDRE-FR031
+    set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-FR283
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YSKR-FR028
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YSYR-FR025
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-FRA10
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Ultra Rare
+  - set_number: NKRT-FR024
+    set_name: Noble Knights of the Round Table Box Set
+    rarities:
+    - Platinum Rare
+  - set_number: PGL2-FR089
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: YS15-FRY12
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Super Rare
+  - set_number: DEM3-FR012
+    set_name: Demo Deck 2016
+    rarities:
+    - Common
+  - set_number: DESO-FR042
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: YS17-FR023
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: YS18-FR025
+    set_name: 'Starter Deck: Codebreaker'
+    rarities:
+    - Common
+  - set_number: LEHD-FRB21
+    set_name: Legendary Hero Decks
+    rarities:
+    - Ultra Rare
+  - set_number: LEHD-FRC15
+    set_name: Legendary Hero Decks
+    rarities:
+    - Common
+  - set_number: OP12-FR022
+    set_name: OTS Tournament Pack 12
+    rarities:
+    - Common
+  it:
+  - set_number: LDD-I041
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: MIY-I020
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: MIK-I021
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MIJ-I026
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: MIP-I026
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-IT026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: TU04-IT017
+    set_name: 'Turbo Pack: Booster Four'
+    rarities:
+    - Common
+  - set_number: TU05-IT001
+    set_name: 'Turbo Pack: Booster Five'
+    rarities:
+    - Ultra Rare
+  - set_number: GLD5-IT037
+    set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Gold Rare
+  - set_number: SDWA-IT023
+    set_name: Samurai Warlords Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-IT053
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: SDRE-IT031
+    set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: LCJW-IT283
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YSKR-IT028
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YSYR-IT025
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-ITA10
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Ultra Rare
+  - set_number: NKRT-IT024
+    set_name: Noble Knights of the Round Table Box Set
+    rarities:
+    - Platinum Rare
+  - set_number: PGL2-IT089
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: YS15-ITY12
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Super Rare
+  - set_number: DEM3-IT012
+    set_name: Demo Deck 2016
+    rarities:
+    - Common
+  - set_number: DESO-IT042
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: YS17-IT023
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: YS18-IT025
+    set_name: 'Starter Deck: Codebreaker'
+    rarities:
+    - Common
+  - set_number: LEHD-ITB21
+    set_name: Legendary Hero Decks
+    rarities:
+    - Ultra Rare
+  - set_number: LEHD-ITC15
+    set_name: Legendary Hero Decks
+    rarities:
+    - Common
+  - set_number: OP12-IT022
+    set_name: OTS Tournament Pack 12
+    rarities:
+    - Common
+  pt:
+  - set_number: LDB-P052
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: DIY-P022
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: DIK-P022
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DIJ-P026
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: DIP-P026
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-PT026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: LCJW-PT283
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Secret Rare
+  - set_number: YSKR-PT028
+    set_name: 'Starter Deck: Kaiba Reloaded'
+    rarities:
+    - Common
+  - set_number: YSYR-PT025
+    set_name: 'Starter Deck: Yugi Reloaded'
+    rarities:
+    - Common
+  - set_number: YS14-PTA10
+    set_name: Space-Time Showdown Power-Up Pack
+    rarities:
+    - Ultra Rare
+  - set_number: NKRT-PT024
+    set_name: Noble Knights of the Round Table Box Set
+    rarities:
+    - Platinum Rare
+  - set_number: PGL2-PT089
+    set_name: 'Premium Gold: Return of the Bling'
+    rarities:
+    - Gold Rare
+  - set_number: YS15-PTY12
+    set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Super Rare
+  - set_number: DESO-PT042
+    set_name: Destiny Soldiers
+    rarities:
+    - Super Rare
+  - set_number: YS17-PT023
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: YS18-PT025
+    set_name: 'Starter Deck: Codebreaker'
+    rarities:
+    - Common
+  - set_number: LEHD-PTB21
+    set_name: Legendary Hero Decks
+    rarities:
+    - Ultra Rare
+  - set_number: LEHD-PTC15
+    set_name: Legendary Hero Decks
+    rarities:
+    - Common
+  - set_number: OP12-PT022
+    set_name: OTS Tournament Pack 12
+    rarities:
+    - Common
+  ja:
+  - set_number: ''
+    set_name: Vol.1
+    rarities:
+    - Super Rare
+  - set_number: ''
+    set_name: EX Starter Box
+    rarities:
+    - Common
+  - set_number: LB-51
+    set_name: Legend of Blue Eyes White Dragon (Japanese)
+    rarities:
+    - Super Rare
+  - set_number: EX-22
+    set_name: EX-R Starter Box
+    rarities:
+    - Common
+  - set_number: YU-28
+    set_name: 'Structure Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: JY-27
+    set_name: 'Structure Deck: Joey'
+    rarities:
+    - Common
+  - set_number: KA-29
+    set_name: 'Structure Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: DL2-033
+    set_name: Duelist Legacy Volume.2
+    rarities:
+    - Super Rare
+  - set_number: BE1-JP113
+    set_name: Beginner's Edition 1
+    rarities:
+    - Super Rare
+  - set_number: GS03-JP012
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: BE01-JP098
+    set_name: Beginner's Edition 1 (2011)
+    rarities:
+    - Ultra Rare
+  - set_number: SD23-JP030
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  - set_number: GDB1-JP052
+    set_name: The Gold Box
+    rarities:
+    - Gold Rare
+  - set_number: ST12-JPP02
+    set_name: Beginners' Class 2012 promotional cards
+    rarities:
+    - Normal Parallel Rare
+  - set_number: DS13-JPD30
+    set_name: 'Duelist Set: Version Dark Returner'
+    rarities:
+    - Common
+  - set_number: ST14-JPA06
+    set_name: Starter Deck 2014 Enhancement Pack
+    rarities:
+    - Common
+  - set_number: VS15-JPS14
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Normal Parallel Rare
+  - set_number: VS15-JPD15
+    set_name: Duelist Entry Deck VS
+    rarities:
+    - Normal Parallel Rare
+  - set_number: SPDS-JP042
+    set_name: 'Booster SP: Destiny Soldiers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: ST17-JP022
+    set_name: Starter Deck 2017
+    rarities:
+    - Common
+  - set_number: ST18-JP024
+    set_name: Starter Deck 2018
+    rarities:
+    - Normal Parallel Rare
+  - set_number: WP01-JP003
+    set_name: 20th Anniversary Legend Selection
+    rarities:
+    - Secret Rare
+  ko:
+  - set_number: LOB-K052
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-K022
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-K022
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: BP1-KR113
+    set_name: Beginner's Edition 1
+    rarities:
+    - Super Rare
+  - set_number: SDJ-KR026
+    set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: SDP-KR026
+    set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SYE-KR026
+    set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: GS03-KR012
+    set_name: Gold Series 2011
+    rarities:
+    - Common
+    - Gold Rare
+  - set_number: SD23-KR030
+    set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  - set_number: DS13-KRD30
+    set_name: 'Duelist Set: Version Dark Returner'
+    rarities:
+    - Common
+  - set_number: AE03-KR001
+    set_name: Advanced Event Pack 2014 Vol.1
+    rarities:
+    - Secret Rare
+  - set_number: ST14-KRA06
+    set_name: Starter Deck 2014 Enhancement Pack
+    rarities:
+    - Common
+  - set_number: VS15-KRS14
+    set_name: 'Duelist Entry Deck VS: Saber Force'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: VS15-KRD15
+    set_name: 'Duelist Entry Deck VS: Dark Legion'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: SPDS-KR042
+    set_name: 'Booster SP: Destiny Soldiers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: ST17-KR022
+    set_name: Starter Deck 2017
+    rarities:
+    - Common
+  - set_number: ST18-KR024
+    set_name: Starter Deck 2018
+    rarities:
+    - Normal Parallel Rare
+  zh-TW:
+  - set_number: SP02-TC037
+    set_name: Starter Pack Volume 2
+    rarities:
+    - Ultra Rare
+  zh-CN:
+  - set_number: ST20-SC022
+    set_name: Starter Deck 2020
+    rarities:
+    - Common

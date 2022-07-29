@@ -30,8 +30,390 @@ text:
     ①：手札を１枚捨て、自分の墓地のモンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     ①: 패를 1장 버리고, 자신 묘지의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 패에 넣는다.
-  zh-TW: 捨棄1張手牌，可以選擇我方墓地的1隻怪獸進行發動。將選擇的怪獸加入手牌。
+  zh-TW: |-
+    捨棄1張手牌，可以選擇我方墓地的1隻怪獸進行發動。將選擇的怪獸加入手牌。
   zh-CN: |-
     ①：扔掉1张手牌，可以自己墓地1只怪兽为对象发动。将该怪兽加入手牌。
 card_type: Spell
 property: Normal
+sets:
+  en:
+  - set_number: RDS-EN045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YSD-EN030
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: DR3-EN105
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSDJ-EN028
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: 5DS1-EN026
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: 5DS3-EN027
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: SDDL-EN028
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-EN142
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Rare
+  - set_number: SDLI-EN028
+    set_name: Realm of Light Structure Deck
+    rarities:
+    - Common
+  - set_number: YS14-EN028
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: LDK2-ENY32
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: YS17-EN022
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDU-EN048
+    set_name: Legendary Duelists
+    rarities:
+    - Common
+  - set_number: SDSB-EN027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  de:
+  - set_number: DR3-DE105
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: RDS-DE045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YSD-DE030
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-DE028
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: 5DS1-DE026
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: 5DS3-DE027
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: SDDL-DE028
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-DE142
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Rare
+  - set_number: SDLI-DE028
+    set_name: Realm of Light Structure Deck
+    rarities:
+    - Common
+  - set_number: YS14-DE028
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: LDK2-DEY32
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: YS17-DE022
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDU-DE048
+    set_name: Legendary Duelists
+    rarities:
+    - Common
+  - set_number: SDSB-DE027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  fr:
+  - set_number: DR3-FR105
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: RDS-FR045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YSD-FR030
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-FR028
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: 5DS1-FR026
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: 5DS3-FR027
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: SDDL-FR028
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-FR142
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Rare
+  - set_number: SDLI-FR028
+    set_name: Realm of Light Structure Deck
+    rarities:
+    - Common
+  - set_number: YS14-FR028
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: LDK2-FRY32
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: YS17-FR022
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDU-FR048
+    set_name: Legendary Duelists
+    rarities:
+    - Common
+  - set_number: SDSB-FR027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  it:
+  - set_number: DR3-IT105
+    set_name: Dark Revelation Volume 3
+    rarities:
+    - Super Rare
+  - set_number: RDS-IT045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YSD-IT030
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSDJ-IT028
+    set_name: 'Starter Deck: Jaden Yuki'
+    rarities:
+    - Common
+  - set_number: 5DS1-IT026
+    set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: 5DS3-IT027
+    set_name: 'Starter Deck: Duelist Toolbox'
+    rarities:
+    - Common
+  - set_number: SDDL-IT028
+    set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: LCYW-IT142
+    set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Rare
+  - set_number: SDLI-IT028
+    set_name: Realm of Light Structure Deck
+    rarities:
+    - Common
+  - set_number: YS14-IT028
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: LDK2-ITY32
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: YS17-IT022
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDU-IT048
+    set_name: Legendary Duelists
+    rarities:
+    - Common
+  - set_number: SDSB-IT027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  pt:
+  - set_number: RDS-PT045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SDLI-PT028
+    set_name: Realm of Light Structure Deck
+    rarities:
+    - Common
+  - set_number: YS14-PT028
+    set_name: 'Super Starter: Space-Time Showdown'
+    rarities:
+    - Common
+  - set_number: LDK2-PTY32
+    set_name: Legendary Decks II
+    rarities:
+    - Common
+  - set_number: YS17-PT022
+    set_name: 'Starter Deck: Link Strike'
+    rarities:
+    - Common
+  - set_number: LEDU-PT048
+    set_name: Legendary Duelists
+    rarities:
+    - Common
+  - set_number: SDSB-PT027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  ja:
+  - set_number: RDS-JP045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: EE3-JP105
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Super Rare
+  - set_number: YSD-JP030
+    set_name: Starter Deck 2006
+    rarities:
+    - Common
+  - set_number: YSD3-JP026
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: DT08-JP045
+    set_name: Duel Terminal - Pulse of the Trishula!!
+    rarities:
+    - Duel Terminal Normal Parallel Rare
+  - set_number: YSD5-JP027
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: SD19-JP026
+    set_name: 'Structure Deck: Dragunity Drive'
+    rarities:
+    - Common
+  - set_number: DB12-JP024
+    set_name: Duelist Box 2012
+    rarities:
+    - Common
+  - set_number: DS13-JPL32
+    set_name: 'Duelist Set: Version Lightning Star'
+    rarities:
+    - Common
+  - set_number: DS14-JPL38
+    set_name: 'Duelist Set: Version Lightlord Judgment Enhancement Pack'
+    rarities:
+    - Ultra Rare
+  - set_number: ST14-JP028
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: DP18-JP048
+    set_name: 'Duelist Pack: Legend Duelist'
+    rarities:
+    - Common
+  - set_number: SD35-JP027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  ko:
+  - set_number: HGP3-KR105
+    set_name: Expert Edition Volume 3
+    rarities:
+    - Super Rare
+  - set_number: RDS-KR045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: YSD3-KR026
+    set_name: Starter Deck 2008
+    rarities:
+    - Common
+  - set_number: YSD5-KR027
+    set_name: Starter Deck 2010
+    rarities:
+    - Common
+  - set_number: SD19-KR026
+    set_name: 'Structure Deck: Dragunity Drive'
+    rarities:
+    - Common
+  - set_number: XS12-KR028
+    set_name: 'X-Saber: Special Edition'
+    rarities:
+    - Common
+  - set_number: ESP4-KR024
+    set_name: Expansion Pack Vol.4
+    rarities:
+    - Gold Rare
+  - set_number: DS13-KRL32
+    set_name: 'Duelist Set: Version Lightning Star'
+    rarities:
+    - Common
+  - set_number: DS14-KRL29
+    set_name: 'Duelist Set: Version Lightlord Judgment'
+    rarities:
+    - Ultra Rare
+  - set_number: ST14-KR028
+    set_name: Starter Deck 2014
+    rarities:
+    - Common
+  - set_number: DP18-KR048
+    set_name: 'Duelist Pack: Legend Duelist'
+    rarities:
+    - Common
+  - set_number: SD35-KR027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
+  zh-TW:
+  - set_number: SP01-TC035
+    set_name: Starter Pack Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: ST20-SCP14
+    set_name: Starter Deck 2020 Deck Enhancement Pack
+    rarities:
+    - Super Rare
+  - set_number: SD35-SC027
+    set_name: 'Structure Deck: Soulburner'
+    rarities:
+    - Common
