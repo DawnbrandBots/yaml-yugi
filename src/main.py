@@ -177,29 +177,32 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
                 "zh-TW": str_or_none(wikitext.get("tc_pendulum_effect")),
                 "zh-CN": str_or_none(wikitext.get("sc_pendulum_effect") or wikitext.get("ourocg_pendulum"))
             }
+        # bonus derived fields
+        if "ritualcard" in wikitext:
+            document["ritual_spell"] = wikitext["ritualcard"]
         if "materials" in wikitext:
-            document["materials"] = wikitext["materials"]  # bonus derived field
-        document["sets"] = {}
-        if "en_sets" in wikitext:
-            document["sets"]["en"] = parse_sets(wikitext["en_sets"])
-        if "de_sets" in wikitext:
-            document["sets"]["de"] = parse_sets(wikitext["de_sets"])
-        if "es_sets" in wikitext:
-            document["sets"]["es"] = parse_sets(wikitext["sp_sets"])
-        if "fr_sets" in wikitext:
-            document["sets"]["fr"] = parse_sets(wikitext["fr_sets"])
-        if "it_sets" in wikitext:
-            document["sets"]["it"] = parse_sets(wikitext["it_sets"])
-        if "pt_sets" in wikitext:
-            document["sets"]["pt"] = parse_sets(wikitext["pt_sets"])
-        if "jp_sets" in wikitext:
-            document["sets"]["ja"] = parse_sets(wikitext["jp_sets"])
-        if "kr_sets" in wikitext:
-            document["sets"]["ko"] = parse_sets(wikitext["kr_sets"])
-        if "tc_sets" in wikitext:
-            document["sets"]["zh-TW"] = parse_sets(wikitext["tc_sets"])
-        if "sc_sets" in wikitext:
-            document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
+            document["materials"] = wikitext["materials"]
+    document["sets"] = {}
+    if "en_sets" in wikitext:
+        document["sets"]["en"] = parse_sets(wikitext["en_sets"])
+    if "de_sets" in wikitext:
+        document["sets"]["de"] = parse_sets(wikitext["de_sets"])
+    if "es_sets" in wikitext:
+        document["sets"]["es"] = parse_sets(wikitext["sp_sets"])
+    if "fr_sets" in wikitext:
+        document["sets"]["fr"] = parse_sets(wikitext["fr_sets"])
+    if "it_sets" in wikitext:
+        document["sets"]["it"] = parse_sets(wikitext["it_sets"])
+    if "pt_sets" in wikitext:
+        document["sets"]["pt"] = parse_sets(wikitext["pt_sets"])
+    if "jp_sets" in wikitext:
+        document["sets"]["ja"] = parse_sets(wikitext["jp_sets"])
+    if "kr_sets" in wikitext:
+        document["sets"]["ko"] = parse_sets(wikitext["kr_sets"])
+    if "tc_sets" in wikitext:
+        document["sets"]["zh-TW"] = parse_sets(wikitext["tc_sets"])
+    if "sc_sets" in wikitext:
+        document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
     # not all have passwords, change
     if password is not None:
         filename = wikitext["password"] + ".yaml"
