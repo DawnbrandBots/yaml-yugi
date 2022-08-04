@@ -13,7 +13,7 @@ def expand_templates(template: wtp.Template) -> str:
         ruby = template.arguments[1].value.strip()
         # <rp>（</rp>
         # <rp>）</rp>
-        return f"<ruby><rb>{base}</rb><rt>{ruby}</rt></ruby>"
+        return f"<ruby>{base}<rt>{ruby}</rt></ruby>"
     else:
         return ""
 
