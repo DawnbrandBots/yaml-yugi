@@ -20,10 +20,12 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia
+          token: ${{ secrets.TEST_TOKEN }}
       - uses: actions/checkout@v3
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
+          token: ${{ secrets.TEST_TOKEN }}
       - uses: actions/checkout@v3
         with:
           path: aggregate
