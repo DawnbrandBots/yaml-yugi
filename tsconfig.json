@@ -1,0 +1,8 @@
+{
+	"extends": "@alphakretin/essentials/tsconfig.json",
+	"include": ["src/**/*.ts"],
+	"compilerOptions": {
+		"rootDir": "./src",
+		"noEmit": true
+  }
+}

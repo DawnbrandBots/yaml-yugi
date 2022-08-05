@@ -1,0 +1,28 @@
+{
+  "name": "yaml-yugi-load-output-pipeline",
+  "version": "0.0.1",
+  "repository": "https://github.com/DawnbrandBots/yaml-yugi",
+  "author": "Kevin Lu",
+  "license": "AGPL-3.0-or-later",
+  "private": true,
+  "scripts": {
+    "load": "ts-node-dev src/load.ts"
+  },
+  "engines": {
+    "node": ">=16.9",
+    "yarn": "1.22.x"
+  },
+  "dependencies": {
+    "@opensearch-project/opensearch": "^2.0.0",
+    "htmlparser2": "^8.0.1",
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@alphakretin/essentials": "^4.0.0",
+    "@types/js-yaml": "^4.0.5"
+  },
+  "eslintConfig": {
+    "extends": "@alphakretin"
+  },
+  "prettier": "@alphakretin/essentials"
+}
