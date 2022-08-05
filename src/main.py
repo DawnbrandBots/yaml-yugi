@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
 import os
 import sys
 from typing import Dict, List, Optional, Union

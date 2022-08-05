@@ -1,3 +1,5 @@
+// SPDX-FileCopyrightText: © 2022 Kevin Lu
+// SPDX-Licence-Identifier: AGPL-3.0-or-later
 import fs from "fs";
 import yaml from "js-yaml";
 import { Client } from "@opensearch-project/opensearch";
@@ -9,8 +11,8 @@ if (process.argv.length < 3) {
 }
 
 if (process.env.OPENSEARCH_URL === undefined) {
-    console.error("Missing envvar OPENSEARCH_URL");
-    process.exit(1);
+	console.error("Missing envvar OPENSEARCH_URL");
+	process.exit(1);
 }
 
 // This loads the aggregate file exponentially faster than ruamel.yaml somehow
