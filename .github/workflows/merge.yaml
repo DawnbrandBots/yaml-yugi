@@ -35,7 +35,8 @@ jobs:
           python-version: "3.8"
           cache: pip
       - run: pip install -r src/requirements.txt
-      - run: cd data && python3 ../src/main.py ../../yaml-yugipedia/wikitext/cards ../../yaml-yugi-zh/zh-CN
+      - working-directory: yaml-yugi/data/cards
+        run: python3 ../../src/main.py ../../../yaml-yugipedia/wikitext/cards ../../../yaml-yugi-zh/zh-CN
       - name: Commit
         id: commit
         run: |
@@ -47,10 +48,12 @@ jobs:
           git push
       - name: Merge
         run: |
-          sed -s '1i---' data/*.yaml > ../aggregate/cards.yaml
+          sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
       - working-directory: aggregate
         name: Commit aggregate
         run: |
+          git config user.name GitHub Actions
+          git config user.email noreply@github.com
           git add .
           git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
           git pull --rebase
