@@ -27,7 +27,7 @@ text:
   pt: |-
     Nenhum duelista pode Invocar monstros por Invocação-Especial, exceto monstros de TREVAS.
   ja: |-
-    このカードがフィールド上に表側表示で存在する限り、お互いに闇属性以外のモンスターを特殊召喚できない。
+    ①：このカードがモンスターゾーンに存在する限り、お互いは闇属性モンスターしか特殊召喚できない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 서로 어둠 속성 이외의 몬스터를 특수 소환할 수 없다.
   zh-TW:
@@ -93,6 +93,7 @@ sets:
   - set_number: SR13-JP020
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
+    - Common
   ko:
   - set_number: CDIP-KR018
     set_name: Cyberdark Impact

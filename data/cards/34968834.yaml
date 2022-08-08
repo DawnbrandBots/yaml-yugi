@@ -28,9 +28,9 @@ text:
   pt: |-
     Se este card for descartado para o Cemitério por um efeito de card: Invoque-o por Invocação-Especial do Cemitério e, depois, se este card foi descartado da sua mão para o Cemitério por um efeito de card do oponente, você pode Invocar por Invocação-Especial em qualquer lado do campo 1 monstro do Tipo Demônio do seu Deck.
   ja: |-
-    このカードがカードの効果によって手札から墓地へ捨てられた場合、このカードを墓地から特殊召喚する。相手のカードの効果によって捨てられた場合、さらに自分のデッキから悪魔族モンスター１体を自分または相手フィールド上に特殊召喚できる。
+    ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、さらに自分はデッキから悪魔族モンスター１体を自分または相手フィールドに特殊召喚できる。
   ko: |-
-    이 카드가 카드의 효과에 의해 패에서 묘지로 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다. 상대 카드의 효과에 의해 버려졌을 경우, 다시 자신의 덱에서 악마족 몬스터 1장을 자신 또는 상대 필드 위에 특수 소환할 수 있다.
+    이 카드가 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다. 상대 카드의 효과에 의해서 버려졌을 경우, 다시 자신의 덱에서 악마족 몬스터 1장을 자신 또는 상대 필드 위에 특수 소환할 수 있다.
   zh-TW: |-
     此卡因卡牌效果从手牌被舍弃至墓地的场合，从墓地特殊召唤此卡。因对手卡牌效果被舍弃的场合，可另从我方牌组特殊召唤1只恶魔族怪兽至我方或对手场上。
   zh-CN: |-
@@ -70,6 +70,10 @@ sets:
   ja:
   - set_number: PRIO-JP031
     set_name: Primal Origin
+    rarities:
+    - Common
+  - set_number: SR13-JP005
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   ko:

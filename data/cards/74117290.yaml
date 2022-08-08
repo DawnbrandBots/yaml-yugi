@@ -27,7 +27,7 @@ text:
   pt: |-
     Cada duelista compra 1 card e, depois, cada duelista descarta 1 card.
   ja: |-
-    ①：お互いのプレイヤーはデッキから１枚ドローし、その後手札を１枚選んで捨てる。
+    ①：お互いはそれぞれデッキから１枚ドローする。その後、ドローしたプレイヤーは自身の手札を１枚選んで捨てる。
   ko: |-
     ①: 양쪽 플레이어는 덱에서 1장 드로우하고, 그 후 패를 1장 골라 버린다.
   zh-TW: |-
@@ -160,6 +160,7 @@ sets:
   - set_number: SR13-JP027
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: STON-KR038
     set_name: Strike of Neos

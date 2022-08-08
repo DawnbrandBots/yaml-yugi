@@ -27,7 +27,7 @@ text:
   pt: |-
     Todos os monstros do Tipo Demônio ganham 300 de ATK e DEF. Uma vez por turno: você pode banir 1 monstro do Tipo Demônio do seu Cemitério; descarte 1 monstro do Tipo Demônio e, depois, compre 1 card.
   ja: |-
-    フィールド上に表側表示で存在する悪魔族モンスターの攻撃力・守備力は３００ポイントアップする。１ターンに１度、自分の墓地に存在する悪魔族モンスター１体をゲームから除外する事で、手札から悪魔族モンスター１体を選択して捨てる。その後、自分のデッキからカードを１枚ドローする。
+    ①：フィールドの悪魔族モンスターの攻撃力・守備力は３００アップする。②：１ターンに１度、自分の墓地から悪魔族モンスター１体を除外して発動できる。手札から悪魔族モンスター１体を選んで捨てる。その後、自分はデッキから１枚ドローする。
   ko: |-
     필드 위에 앞면 표시로 존재하는 악마족 몬스터의 공격력 / 수비력은 300 포인트 올린다. 1턴에 1번, 자신의 묘지에 존재하는 악마족 몬스터 1장을 게임에서 제외하는 것으로, 패에서 악마족 몬스터 1장을 선택하고 버린다. 그 후, 자신의 덱에서 카드를 1장 드로우한다.
   zh-TW: |-
@@ -103,6 +103,11 @@ sets:
     set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common
+  - set_number: SR13-JPP05
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: SD21-KR022
     set_name: "Structure Deck: Devil's Gate"

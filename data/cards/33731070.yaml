@@ -28,9 +28,9 @@ text:
   pt: |-
     Se este card for descartado para o Cemitério por um efeito de card: Invoque-o por Invocação-Especial do Cemitério.
   ja: |-
-    このカードがカードの効果によって手札から墓地へ捨てられた場合、このカードを墓地から特殊召喚する。
+    ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。
   ko: |-
-    이 카드가 다른 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 이 카드를 자신 필드 위에 특수 소환한다.
+    이 카드가 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다.
   zh-TW: |-
     此卡因卡牌效果从手牌被舍弃至墓地的场合，从墓地特殊召唤此卡。
   zh-CN: |-
@@ -115,6 +115,7 @@ sets:
   - set_number: SR13-JP010
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
+    - Common
   ko:
   - set_number: EEN-KR020
     set_name: Elemental Energy

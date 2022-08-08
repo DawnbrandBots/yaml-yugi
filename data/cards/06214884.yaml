@@ -28,9 +28,9 @@ text:
   pt: |-
     Quando este card causar dano de batalha ao seu oponente: você pode descartar 1 card.
   ja: |-
-    このカードが相手ライフに戦闘ダメージを与えた時、自分は手札を１枚選択して捨てる事ができる。
+    ①：このカードが相手に戦闘ダメージを与えた時に発動できる。自分の手札を１枚選んで捨てる。
   ko: |-
-    이 카드가 상대 라이프에 전투 데미지를 주었을 때, 자신의 패에서 카드를 1장 선택하고 묘지에 버릴 수 있다.
+    이 카드가 상대 라이프에 전투 데미지를 주었을 때, 자신은 패를 1장 선택하고 버릴 수 있다.
   zh-TW: |-
     此卡给予对手生命战斗伤害时，我方可舍弃1张手牌。
   zh-CN: |-
@@ -114,6 +114,10 @@ sets:
     - Rare
   - set_number: SD21-JP009
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: SR13-JP009
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   ko:

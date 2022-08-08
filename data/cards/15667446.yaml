@@ -27,9 +27,10 @@ text:
     Se questa carta viene scartata al Cimitero dall'effetto di una carta: se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta del tuo avversario, scegli come bersaglio 1 mostro di Tipo Demone sul Terreno; Evoca Specialmente questa carta dal Cimitero, poi quel bersaglio (se lo hai scelto) guadagna 500 ATK.
   pt:
   ja: |-
-    このカードがカードの効果によって手札から墓地へ捨てられた場合、このカードを墓地から特殊召喚する。相手のカードの効果によって捨てられた場合、さらにフィールド上の悪魔族モンスター１体を選択して、攻撃力を５００ポイントアップする。
+    ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、発動時にフィールドの悪魔族モンスター１体を対象にする。その場合、さらに以下の効果を適用する。
+    ●対象の悪魔族モンスターの攻撃力は５００アップする。
   ko: |-
-    이 카드가 카드의 효과에 의해서 패에서 묘지로 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다. 상대 카드의 효과에 의해서 버려졌을 경우, 필드 위의 악마족 몬스터 1장을 선택하고, 공격력을 500 포인트 올린다.
+    이 카드가 카드의 효과에 의해서 패에서 묘지에 버려졌을 경우, 이 카드를 묘지에서 특수 소환한다. 상대 카드의 효과에 의해서 버려졌을 경우, 다시 필드 위의 악마족 몬스터 1장을 선택하고, 공격력을 500 포인트 올린다.
   zh-TW: |-
     此卡因卡牌效果从手牌被舍弃至墓地的场合，从墓地特殊召唤此卡。因对手卡牌效果被舍弃的场合，另选择场上的1只恶魔族怪兽，攻击力提升500点。
   zh-CN: |-
@@ -68,6 +69,10 @@ sets:
   ja:
   - set_number: EP12-JP026
     set_name: Extra Pack 2012
+    rarities:
+    - Common
+  - set_number: SR13-JP006
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   ko:
