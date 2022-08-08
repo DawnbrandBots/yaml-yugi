@@ -114,7 +114,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         # Not yet released
         wikitext["database_id"] == ""
     ):
-        print("Skip:", wikitext)
+        print("Skip:", wikitext, flush=True)
         return
     konami_id = int_or_none(wikitext["database_id"])
     password = int_or_none(wikitext.get("password") or "")
@@ -155,7 +155,9 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
     else:  # Monster
         document["card_type"] = "Monster"
         document["monster_type_line"] = wikitext["types"]
-        document["attribute"] = wikitext["attribute"]
+        document["attribute"] = wikitext["attribute"].upper()
+        if wikitext["attribute"] != document["attribute"]:
+            print("WARNING: Attribute casing", flush=True)
         if "rank" in wikitext:
             document["rank"] = int(wikitext["rank"])
         elif "link_arrows" in wikitext:
