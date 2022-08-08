@@ -14,14 +14,15 @@
   },
   "dependencies": {
     "@opensearch-project/opensearch": "^2.0.0",
+    "@sinclair/typebox": "^0.24.27",
+    "better-sqlite3": "^7.6.2",
     "htmlparser2": "^8.0.1",
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@alphakretin/essentials": "^4.0.0",
     "@types/better-sqlite3": "^7.6.0",
-    "@types/js-yaml": "^4.0.5",
-    "better-sqlite3": "^7.6.2"
+    "@types/js-yaml": "^4.0.5"
   },
   "eslintConfig": {
     "extends": "@alphakretin"
