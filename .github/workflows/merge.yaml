@@ -22,12 +22,10 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia
-          token: ${{ secrets.TEST_TOKEN }}
       - uses: actions/checkout@v3
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-          token: ${{ secrets.TEST_TOKEN }}
       - uses: actions/checkout@v3
         with:
           path: aggregate
@@ -60,3 +58,12 @@ jobs:
           git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
           git pull --rebase
           git push
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: yarn
+      - run: yarn
+      - name: Load (push)
+        env:
+          OPENSEARCH_URL: ${{ secrets.OPENSEARCH_URL }}
+        run: yarn ts-node-dev src/load.ts ../aggregate/cards.yaml
