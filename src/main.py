@@ -222,6 +222,7 @@ def main():
     wikitext_dir = sys.argv[1]
     zh_cn_dir = sys.argv[2]
     yaml = YAML()
+    yaml.width = sys.maxsize
     skip = True
     for filename in os.listdir(wikitext_dir):
         # if skip:

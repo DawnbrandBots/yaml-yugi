@@ -62,8 +62,9 @@ jobs:
         with:
           node-version: 16
           cache: yarn
+          cache-dependency-path: yaml-yugi/yarn.lock
       - run: yarn
       - name: Load (push)
         env:
           OPENSEARCH_URL: ${{ secrets.OPENSEARCH_URL }}
-        run: yarn ts-node-dev src/load.ts ../aggregate/cards.yaml
+        run: yarn ts-node src/load.ts ../aggregate/cards.yaml
