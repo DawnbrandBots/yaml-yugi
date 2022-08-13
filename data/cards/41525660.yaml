@@ -1,7 +1,7 @@
 konami_id: 17349
 password: 41525660
 name:
-  en: Nazuki, Ninja of the Vaylantz
+  en: Nazuki the Vaylantz Ninja
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 群豪之忍者-南月
 text:
   en: |-
-    You can target 1 other monster in the Main Monster Zone; move it to an adjacent Monster Zone. If this card is moved from a Monster Zone to another: You can target 1 "Vaylantz" Monster Card in your Spell & Trap Zone; Special Summon it to your Main Monster Zone in its column. You can only use each monster effect of "Nazuki, Ninja of the Vaylantz" once per turn.
+    You can target 1 other monster in either Main Monster Zone; move that monster to an adjacent (horizontal) Monster Zone. If this card in the Monster Zone moves to another Monster Zone: You can target 1 "Vaylantz" Monster Card in your Spell & Trap Zone; Special Summon it to your Main Monster Zone in its same column. You can only use each effect of "Nazuki the Vaylantz Ninja" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 1800
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    If "Vaylantz Vorld - Shinrabansho" is in a Field Zone, or you control a WATER "Vaylantz" monster: You can Special Summon this card to your Main Monster Zone in this card's column. You can only use this effect of "Nazuki, Ninja of the Vaylantz" once per turn.
+    If "Vaylantz World - Shinra Bansho" is in a Field Zone or if you control a WATER "Vaylantz" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of "Nazuki the Vaylantz Ninja" once per turn.
   de:
   es:
   fr:
@@ -51,6 +51,31 @@ pendulum_effect:
   zh-CN: |-
     这个卡名的灵摆效果1回合只能使用1次。①：场地区有「VV－真羅万象／群豪世界-真罗万象」存在的场合，或者自己场上有水属性的「ヴァリアンツ／群豪」怪兽存在的场合可以发动。将这张卡特殊召唤到正对面的自己的主要怪兽区。
 sets:
+  en:
+  - set_number: TAMA-EN003
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  de:
+  - set_number: TAMA-DE003
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  fr:
+  - set_number: TAMA-FR003
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  it:
+  - set_number: TAMA-IT003
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  pt:
+  - set_number: TAMA-PT003
+    set_name: Tactical Masters
+    rarities:
+    - Rare
   ja:
   - set_number: DBTM-JP003
     set_name: 'Deck Build Pack: Tactical Masters'

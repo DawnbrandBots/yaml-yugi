@@ -1,7 +1,7 @@
 konami_id: 17355
 password: 40680521
 name:
-  en: Vaylantz Assemble - Mamonaka
+  en: Mamonaka the Vaylantz United
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3 "Vaylantz" monsters
-    During the Main Phase (Quick Effect): You can target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up in their Spell & Trap Zone in that monster's column as a Continuous Spell (if a card is already in that zone, destroy it, and if it was a Monster Card, your opponent loses LP equal to its ATK). You can only use this effect of "Vaylantz Assemble - Mamonaka" once per turn. If this Special Summoned card in its owner's control is destroyed by an opponent's card effect: You can place this card in your Pendulum Zone.
+    During the Main Phase (Quick Effect): You can target 1 Effect Monster in your opponent's Main Monster Zone; place that opponent's monster face-up as a Continuous Spell in their Spell & Trap Zone in its same column. (If the zone is occupied, destroy the occupying card, and if it is a Monster Card, your opponent loses LP equal to its ATK). You can only use this effect of "Mamonaka the Vaylantz United" once per turn. If this Special Summoned card you control is destroyed by your opponent's card effect: You can place this card in your Pendulum Zone.
   de:
   es:
   fr:
@@ -41,10 +41,10 @@ def: 2800
 pendulum_scale: 10
 pendulum_effect:
   en: |-
-    During your Main Phase: You can activate 1 of these effects;
-    ● Special Summon this card to your Main Monster Zone in this card's column.
-    ● Move 1 monster in your Main Monster Zone to an adjacent Monster Zone.
-    You can only use this effect of "Vaylantz Assemble - Mamonaka" once per turn.
+    You can activate 1 of these effects;
+    ● Special Summon this card to your Main Monster Zone in its same column.
+    ● Move 1 monster in your Main Monster Zone to an adjacent (horizontal) Monster Zone.
+    You can only use this effect of "Mamonaka the Vaylantz United" once per turn.
   de:
   es:
   fr:
@@ -59,6 +59,31 @@ pendulum_effect:
     这个卡名的灵摆效果1回合只能使用1次。①：可以从以下的效果中选择1个发动。●将这张卡特殊召唤到正对面的自己的主要怪兽区。●选自己的主要怪兽区的1只怪兽，将其位置移动到其相邻的怪兽区。
 materials: 3 "Vaylantz" monsters
 sets:
+  en:
+  - set_number: TAMA-EN009
+    set_name: Tactical Masters
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: TAMA-DE009
+    set_name: Tactical Masters
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: TAMA-FR009
+    set_name: Tactical Masters
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: TAMA-IT009
+    set_name: Tactical Masters
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: TAMA-PT009
+    set_name: Tactical Masters
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DBTM-JP009
     set_name: 'Deck Build Pack: Tactical Masters'

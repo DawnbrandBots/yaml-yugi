@@ -12,7 +12,7 @@ name:
   ko: 피드 백
   ko_rr:
   zh-TW:
-  zh-CN: 魔兽的大饵
+  zh-CN: 魔兽之大饵
 text:
   en: |-
     Banish any number of cards from your Extra Deck face-down, and banish the same number of random face-down cards from your opponent's Extra Deck, face-up, until the End Phase. You can only activate 1 "Banquet of Millions" per turn.
@@ -32,7 +32,7 @@ text:
     ①: 자신의 엑스트라 덱의 카드를 임의의 수만큼 뒷면 표시로 제외하고, 그 수만큼 상대의 엑스트라 덱의 뒷면 표시의 카드를 무작위로 골라 엔드 페이즈까지 앞면 표시로 제외한다.
   zh-TW:
   zh-CN: |-
-    ①：自己的额外卡组的卡任意数量里侧表示除外，对方的额外卡组的里侧表示的卡随机选那个数量直到结束阶段表侧表示除外。
+    ①：将自己额外牌组任意数量的卡以里侧表示除外，依其数量随机挑选对手额外牌组的里侧表示卡，直至结束阶段为止以表侧表示除外。
 card_type: Trap
 property: Normal
 sets:
@@ -69,5 +69,10 @@ sets:
   ko:
   - set_number: PHRA-KR079
     set_name: Phantom Rage
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: MGP5-SC110
+    set_name: Mega Pack 05
     rarities:
     - Common

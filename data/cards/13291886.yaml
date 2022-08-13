@@ -1,7 +1,7 @@
 konami_id: 17354
 password: 13291886
 name:
-  en: Vaylantz Dominator - Duke
+  en: Vaylantz Dominator Duke
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 群豪之统治者-公爵
 text:
   en: |-
-    You can target 1 Set card in the Spell & Trap Zone; it cannot be activated this turn. If this card is moved from a Monster Zone to another: You can target 1 face-up monster in your opponent's Main Monster Zone; take control of that face-up monster, but it cannot declare an attack or activate its effects, also it is treated as a "Vaylantz" monster. You can only use each monster effect of "Vaylantz Dominator - Duke" once per turn.
+    You can target 1 Set card in the Spell & Trap Zone; that Set card cannot be activated this turn (even if this card leaves the field). If this card in the Monster Zone moves to another Monster Zone: You can target 1 face-up monster in your opponent's Main Monster Zone; take control of that face-up monster, but it cannot declare an attack nor activate its effects, also it is treated as a "Vaylantz" monster. You can only use each effect of "Vaylantz Dominator Duke" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 2000
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    If "Vaylantz Vorld - Koenig Wissen" is in a Field Zone, or you control a FIRE "Vaylantz" monster: You can Special Summon this card to your Main Monster Zone in this card's column. You can only use this effect of "Vaylantz Dominator - Duke" once per turn.
+    If "Vaylantz World - Konig Wissen" is in a Field Zone or if you control a FIRE "Vaylantz" monster: You can Special Summon this card to your Main Monster Zone in its same column. You can only use this effect of "Vaylantz Dominator Duke" once per turn.
   de:
   es:
   fr:
@@ -51,6 +51,31 @@ pendulum_effect:
   zh-CN: |-
     这个卡名的灵摆效果1回合只能使用1次。①：场地区有「VV－百識公国／群豪世界-百识公国」存在的场合，或者自己场上有炎属性的「ヴァリアンツ／群豪」怪兽存在的场合可以发动。将这张卡特殊召唤到正对面的自己的主要怪兽区。
 sets:
+  en:
+  - set_number: TAMA-EN008
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  de:
+  - set_number: TAMA-DE008
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  fr:
+  - set_number: TAMA-FR008
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  it:
+  - set_number: TAMA-IT008
+    set_name: Tactical Masters
+    rarities:
+    - Rare
+  pt:
+  - set_number: TAMA-PT008
+    set_name: Tactical Masters
+    rarities:
+    - Rare
   ja:
   - set_number: DBTM-JP008
     set_name: 'Deck Build Pack: Tactical Masters'
