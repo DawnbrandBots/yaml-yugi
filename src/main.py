@@ -40,7 +40,8 @@ def transform(yaml: YAML, yaml_file: str) -> Dict[str, str]:
     if "name" in properties:
         properties["en_name"] = properties.pop("name")
     else:
-        properties["en_name"] = document["title"]
+        # Make sure to remove page title additions like " (card)"
+        properties["en_name"] = document["title"].split("(")[0].strip()
     return properties
 
 
