@@ -187,6 +187,14 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             document["ritual_spell"] = wikitext["ritualcard"]
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]
+    if "archseries" in wikitext:
+        # Convert bulleted list to array and remove " (archetype)"
+        document["series"] = [
+            series.lstrip("* ").split("(")[0].rstrip()
+            for series in wikitext["archseries"].split("\n")
+        ]
+        # In Japanese marketing, "シリーズ" (shirīzu) is always used, regardless of whether a theme has support that
+        # referencescard names (an archetype), e.g. https://twitter.com/YuGiOh_OCG_INFO/status/690088046025445376
     document["sets"] = {}
     if "en_sets" in wikitext:
         document["sets"]["en"] = parse_sets(wikitext["en_sets"])
@@ -221,7 +229,7 @@ def main():
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} <path/to/wikitexts> [path/to/zh-CN]")
     wikitext_dir = sys.argv[1]
-    zh_cn_dir = sys.argv[2]
+    zh_cn_dir = sys.argv[2] if len(sys.argv) > 2 else None
     yaml = YAML()
     yaml.width = sys.maxsize
     skip = True
