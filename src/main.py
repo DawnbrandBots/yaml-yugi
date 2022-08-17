@@ -85,11 +85,18 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
         if "; " not in printing:
             # <!-- comment for missing language release
             continue
-        set_number, set_name, rarities, *rest = printing.split(";")
+        # There really should always be at least two semicolons in this wikitext field, even when the rarity is unknown,
+        # but it gets missed, so code defensively.
+        set_number, set_name, *rest = printing.split(";")
+        if len(rest):
+            rarities = rest[0].strip()
+        else:
+            rarities = None
+            print("WARNING: sets missing second semicolon", flush=True)
         result.append({
             "set_number": set_number.strip(),
             "set_name": set_name.strip(),
-            "rarities": rarities.strip().split(", ") if rarities else None
+            "rarities": rarities.split(", ") if rarities else None
         })
     return result
 
