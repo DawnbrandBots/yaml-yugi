@@ -61,13 +61,13 @@ jobs:
           git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
           git pull --rebase
           git push
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          cache: yarn
-          cache-dependency-path: yaml-yugi/yarn.lock
-      - run: yarn
-      - name: Load (push)
-        env:
-          OPENSEARCH_URL: ${{ secrets.OPENSEARCH_URL }}
-        run: yarn ts-node src/load.ts ../aggregate/cards.yaml
+#      - uses: actions/setup-node@v3
+#        with:
+#          node-version: 16
+#          cache: yarn
+#          cache-dependency-path: yaml-yugi/yarn.lock
+#      - run: yarn
+#      - name: Load (push)
+#        env:
+#          OPENSEARCH_URL: ${{ secrets.OPENSEARCH_URL }}
+#        run: yarn ts-node src/load.ts ../aggregate/cards.yaml
