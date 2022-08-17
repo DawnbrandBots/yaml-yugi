@@ -45,7 +45,9 @@ def transform(yaml: YAML, yaml_file: str) -> Dict[str, str]:
     return properties
 
 
-def int_or_none(val: str) -> Optional[int]:
+def int_or_none(val: Optional[str]) -> Optional[int]:
+    if val is None:
+        return None
     try:
         return int(val)
     except ValueError:
@@ -106,19 +108,17 @@ LINK_ARROW_MAPPING = {
 
 def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
     if (
-        # Pegasus/Monster B
-        "database_id" not in wikitext or
-        # BLS (Normal), OG Egyptian Gods
-        wikitext["database_id"] == "none" or
+        # Normal monster version OCG prize cards, Tyler, OG Egyptian Gods
+        wikitext.get("database_id") == "none" or
         # Match winners, Command Duel-Use Card (only one with dbid None), etc. have db ids but no passwords
         "limitation_text" in wikitext or
-        # Not yet released
-        wikitext["database_id"] == ""
+        # Boss Duel cards
+        wikitext.get("ocg_status") == "Illegal"
     ):
         print("Skip:", wikitext, flush=True)
         return
-    konami_id = int_or_none(wikitext["database_id"])
-    password = int_or_none(wikitext.get("password") or "")
+    konami_id = int_or_none(wikitext.get("database_id"))
+    password = int_or_none(wikitext.get("password"))
     document = {
         "konami_id": konami_id,
         "password": password,
@@ -194,7 +194,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
             for series in wikitext["archseries"].split("\n")
         ]
         # In Japanese marketing, "シリーズ" (shirīzu) is always used, regardless of whether a theme has support that
-        # referencescard names (an archetype), e.g. https://twitter.com/YuGiOh_OCG_INFO/status/690088046025445376
+        # references card names (an archetype), e.g. https://twitter.com/YuGiOh_OCG_INFO/status/690088046025445376
     document["sets"] = {}
     if "en_sets" in wikitext:
         document["sets"]["en"] = parse_sets(wikitext["en_sets"])
@@ -219,8 +219,10 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
     # not all have passwords, change
     if password is not None:
         filename = wikitext["password"] + ".yaml"
-    else:  # konami_id is not None:
+    elif konami_id is not None:
         filename = f"kdb{konami_id}.yaml"
+    else:
+        filename = f"yugipedia{wikitext['yugipedia_page_id']}.yaml"
     with open(filename, mode="w", encoding="utf-8") as out:
         yaml.dump(document, out)
 
@@ -243,6 +245,7 @@ def main():
         if os.path.isfile(filepath):
             print(filepath, flush=True)
             properties = transform(yaml, filepath)
+            properties["yugipedia_page_id"] = os.path.splitext(filename)[0]
             # if filename == "7747.yaml":
             #     properties.pop("sc_sets")  # bad formatting
             if zh_cn_dir:

@@ -35,8 +35,11 @@ jobs:
           python-version: "3.8"
           cache: pip
       - run: pip install -r src/requirements.txt
-      - working-directory: yaml-yugi/data/cards
-        run: python3 ../../src/main.py ../../../yaml-yugipedia/wikitext/cards ../../../yaml-yugi-zh/zh-CN
+      - name: Transform
+        working-directory: yaml-yugi/data/cards
+        run: |
+          git rm --ignore-unmatch data/cards/yugipedia*.yaml
+          python3 ../../src/main.py ../../../yaml-yugipedia/wikitext/cards ../../../yaml-yugi-zh/zh-CN
       - name: Commit
         id: commit
         run: |
