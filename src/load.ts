@@ -17,8 +17,10 @@ if (process.env.OPENSEARCH_URL === undefined) {
 
 // This loads the aggregate file exponentially faster than ruamel.yaml somehow
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-const cards: any[] = yaml.loadAll(fs.readFileSync(process.argv[2], "utf8"));
+let cards: any[] = yaml.loadAll(fs.readFileSync(process.argv[2], "utf8"));
 console.log(`Loaded ${cards.length} cards.`);
+cards = cards.filter(card => card.konami_id);
+console.log(`Preparing to insert ${cards.length} cards.`);
 
 // Constructs an array of every possible combination of ruby and base text
 function parseAndExpandRuby(html: string): string[] {
