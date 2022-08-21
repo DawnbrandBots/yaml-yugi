@@ -1,0 +1,31 @@
+# JSON Schema: schema.yaml
+## Official cards without passwords
+# Obelisk
+- yugipedia: 51188
+  fake_password: 10000000
+# Ra
+- yugipedia: 114581
+  fake_password: 10000010
+# Osiris
+- yugipedia: 186605
+  fake_password: 10000020
+# Magi Magi
+- yugipedia: 177011
+  fake_password: 10000030
+# Horakhty
+- yugipedia: 187739
+  fake_password: 10000040
+# Sphere
+- yugipedia: 347067
+  fake_password: 10000080
+# Phoenix
+- yugipedia: 371832
+  fake_password: 10000090
+## Prereleases
+- set_abbreviation: PHHY
+  fake_password_range:
+    - 101111000
+- set_abbreviation: DBAD
+  fake_password_range:
+    - 100429000
+    - 100419000

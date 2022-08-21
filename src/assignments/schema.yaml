@@ -1,0 +1,66 @@
+# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+$schema: https://json-schema.org/draft/2020-12/schema
+$id: https://github.com/DawnbrandBots/yaml-yugi/raw/master/src/assignments/schema.yaml
+title: YAML Yugi fake password assignments
+description: |-
+  Each array element is a pair of fields. One identifies the card(s) to match and the other identifies the fake password to assign.
+type: array
+items:
+  type: object
+  properties:
+    yugipedia:
+      type: integer
+      exclusiveMinimum: 0
+      description: Match a card based on Yugipedia page ID, the filename without extension in yaml-yugipedia.
+    set_abbreviation:
+      type: string
+      minLength: 1
+      description: |-
+        Match all cards from the specified set without passwords. The abbreviation is the first part of the Card Number,
+        without the hyphen, region code, or set position number. https://yugipedia.com/wiki/Card_Number
+## Could be supported in the future, but only recommended for prereleases from the corresponding region.
+#    ja_name:
+#      type: string
+#      minLength: 1
+#    en_name:
+#      type: string
+#      minLength: 1
+    fake_password:
+      anyOf:
+      - type: integer
+        exclusiveMinimum: 0
+      - type: array
+        items:
+          type: integer
+          exclusiveMinimum: 0
+        minItems: 1
+        uniqueItems: true
+        description: Multiple fake passwords may be assigned to the matched card. Babel should come first.
+      description: The fake password to assign the matched card. Must be used with the yugipedia matcher.
+    fake_password_range:
+      anyOf:
+      - type: integer
+        exclusiveMinimum: 0
+      - type: array
+        items:
+          type: integer
+          exclusiveMinimum: 0
+        minItems: 1
+        uniqueItems: true
+        description: Multiple fake passwords may be assigned to the matched cards. Babel should come first.
+      description: The number to add to the set position number for all matched cards. Must be used with set_abbreviation.
+  additionalProperties: false
+  oneOf:
+  - required:
+    - yugipedia
+    - fake_password
+  - required:
+    - set_abbreviation
+    - fake_password_range
+#  - required:
+#    - ja_name
+#    - fake_password
+#  - required:
+#    - en_name
+#    - fake_password
