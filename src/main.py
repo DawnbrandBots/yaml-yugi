@@ -223,7 +223,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         document["sets"]["zh-TW"] = parse_sets(wikitext["tc_sets"])
     if "sc_sets" in wikitext:
         document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
-    # not all have passwords, change
+    document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     if password is not None:
         filename = wikitext["password"] + ".yaml"
     elif konami_id is not None:

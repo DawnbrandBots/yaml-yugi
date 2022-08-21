@@ -17,10 +17,8 @@ if (process.env.OPENSEARCH_URL === undefined) {
 
 // This loads the aggregate file exponentially faster than ruamel.yaml somehow
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-let cards: any[] = yaml.loadAll(fs.readFileSync(process.argv[2], "utf8"));
+const cards: any[] = yaml.loadAll(fs.readFileSync(process.argv[2], "utf8"));
 console.log(`Loaded ${cards.length} cards.`);
-cards = cards.filter(card => card.konami_id);
-console.log(`Preparing to insert ${cards.length} cards.`);
 
 // Constructs an array of every possible combination of ruby and base text
 function parseAndExpandRuby(html: string): string[] {
@@ -101,8 +99,7 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 				body: partition
 					.map(
 						card =>
-							// eslint-disable-next-line prefer-template
-							JSON.stringify({ update: { _id: card.password || `kdb${card.konami_id}` } }) +
+							JSON.stringify({ update: { _id: card.yugipedia_page_id } }) +
 							"\n" +
 							JSON.stringify({ doc: card, doc_as_upsert: true }) +
 							"\n"
