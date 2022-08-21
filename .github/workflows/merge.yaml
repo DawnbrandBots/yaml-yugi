@@ -39,7 +39,7 @@ jobs:
       - name: Transform
         working-directory: yaml-yugi/data/cards
         run: |
-          git rm --ignore-unmatch data/cards/kdb*.yaml data/cards/yugipedia*.yaml
+          git rm --ignore-unmatch kdb*.yaml yugipedia*.yaml
           python3 ../../src/main.py ../../../yaml-yugipedia/wikitext/cards ../../../yaml-yugi-zh/zh-CN
       - name: Commit
         id: commit
