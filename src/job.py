@@ -234,31 +234,15 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         yaml.dump(document, out)
 
 
-def main():
-    if len(sys.argv) < 2:
-        print(f"Usage: {sys.argv[0]} <path/to/wikitexts> [path/to/zh-CN]")
-    wikitext_dir = sys.argv[1]
-    zh_cn_dir = sys.argv[2] if len(sys.argv) > 2 else None
+def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str]) -> None:
     yaml = YAML()
     yaml.width = sys.maxsize
-    skip = True
-    for filename in os.listdir(wikitext_dir):
-        # if skip:
-        #     if filename == "256277.yaml":
-        #         skip = False
-        #     else:
-        #         continue
+    for filename in filenames:
         filepath = os.path.join(wikitext_dir, filename)
-        if os.path.isfile(filepath):
-            print(filepath, flush=True)
-            properties = transform(yaml, filepath)
-            properties["yugipedia_page_id"] = os.path.splitext(filename)[0]
-            # if filename == "7747.yaml":
-            #     properties.pop("sc_sets")  # bad formatting
-            if zh_cn_dir:
-                annotate(yaml, zh_cn_dir, properties)
-            write_output(yaml, properties)
-
-
-if __name__ == "__main__":
-    main()
+        print(filepath, flush=True)
+        properties = transform(yaml, filepath)
+        # These should always be int, but support future changes to that repo structure
+        properties["yugipedia_page_id"] = int_or_og(os.path.splitext(filename)[0])
+        if zh_cn_dir:
+            annotate(yaml, zh_cn_dir, properties)
+        write_output(yaml, properties)
