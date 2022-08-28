@@ -3,7 +3,7 @@ import logging
 import math
 import os
 
-from job import job
+from job import job, load_assignments
 
 
 parser = ArgumentParser()
@@ -32,7 +32,7 @@ def main() -> None:
     ]
 
     if processes == 1:
-        job(args.wikitext_directory, files, args.zh_CN)
+        job(args.wikitext_directory, files, args.zh_CN, args.assignments)
     else:
         size = math.ceil(len(files) / processes)
         partitions = [files[i:i+size] for i in range(0, len(files), size)]
@@ -40,7 +40,7 @@ def main() -> None:
         from multiprocessing import Pool
         with Pool(processes) as pool:
             jobs = [
-                pool.apply_async(job, (args.wikitext_directory, partition, args.zh_CN))
+                pool.apply_async(job, (args.wikitext_directory, partition, args.zh_CN, args.assignments))
                 for partition in partitions
             ]
             for result in jobs:

@@ -40,7 +40,10 @@ jobs:
         working-directory: yaml-yugi/data/cards
         run: |
           git rm --ignore-unmatch kdb*.yaml yugipedia*.yaml
-          python3 ../../src/main.py ../../../yaml-yugipedia/wikitext/cards --zh-CN ../../../yaml-yugi-zh/zh-CN
+          python3 ../../src/main.py \
+            ../../../yaml-yugipedia/wikitext/cards \
+            --zh-CN ../../../yaml-yugi-zh/zh-CN \
+            --assignments ../../src/assignments/assignments.yaml
       - name: Commit
         id: commit
         run: |

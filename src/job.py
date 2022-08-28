@@ -4,7 +4,7 @@ import logging
 from multiprocessing import current_process
 import os
 import sys
-from typing import Any, Dict, List, Optional, Union
+from typing import Any, Dict, List, NamedTuple, Optional, Union
 
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
@@ -245,9 +245,58 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
         yaml.dump(document, out)
 
 
-def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str]) -> None:
+class Assignments(NamedTuple):
+    # values: fake_password
+    yugipedia: Dict[int, Union[int, List[int]]]
+    # values: fake_password_range
+    set_abbreviation: Dict[str, Union[int, List[int]]]
+
+
+def load_assignments(yaml: YAML, file: str) -> Assignments:
+    with open(file) as f:
+        document = yaml.load(f)
+    assignments = Assignments({}, {})
+    for item in document:
+        if "yugipedia" in item:
+            assignments.yugipedia[item["yugipedia"]] = item["fake_password"]
+        elif "set_abbreviation" in item:
+            assignments.set_abbreviation[item["set_abbreviation"]] = item["fake_password_range"]
+    return assignments
+
+
+def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> None:
+    # Direct assignment, may be used for certain passwordless cards or individual prereleases
+    page_id = document["yugipedia_page_id"]
+    if page_id in assignments.yugipedia:
+        document["fake_password"] = assignments.yugipedia[page_id]
+        return
+
+    # Prerelease password assignment by set
+    if document["password"] is None:
+        if "ja" in document["sets"] and len(document["sets"]["ja"]) == 1:
+            release = document["sets"]["ja"][0]
+        elif "en" in document["sets"] and len(document["sets"]["en"]) == 1:
+            release = document["sets"]["en"][0]
+        else:
+            return
+        # https://yugipedia.com/wiki/Card_Number
+        # one-character region codes and two-digit position numbers are no longer a thing
+        set_abbreviation, position = release["set_number"].split("-")
+        if set_abbreviation in assignments.set_abbreviation:
+            position = int(position[2:])
+            if isinstance(assignments.set_abbreviation[set_abbreviation], int):
+                document["fake_password"] = position + assignments.set_abbreviation[set_abbreviation]
+            else:  # list
+                document["fake_password"] = [
+                    position + fake_range for fake_range in
+                    assignments.set_abbreviation[set_abbreviation]
+                ]
+
+
+def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str], assignment_file: Optional[str]) -> None:
     yaml = YAML()
     yaml.width = sys.maxsize
+    assignments = load_assignments(yaml, assignment_file)
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
         # This should always be int, but code defensively and allow future changes to yaml-yugipedia's structure
@@ -262,4 +311,5 @@ def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str]) -> No
             annotate_zh_cn(yaml, logger, zh_cn_dir, properties)
         document = transform_structure(logger, properties)
         if document:
+            annotate_assignments(document, assignments)
             write_output(yaml, logger, document)
