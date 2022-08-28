@@ -1,4 +1,5 @@
 from argparse import ArgumentParser
+import logging
 import math
 import os
 
@@ -13,12 +14,16 @@ parser.add_argument("--ko", help="yaml-yugi-ko TBD")
 parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
 parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
 
+logger = logging.getLogger(__name__)
+
 
 def main() -> None:
+    logging.basicConfig(level=logging.INFO)
     args = parser.parse_args()
     processes = args.processes
     if processes == 0:
         processes = os.cpu_count()
+        logger.info(f"Using {processes} processes.")
 
     files = [
         filename for filename in

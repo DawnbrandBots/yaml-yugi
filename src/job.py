@@ -1,12 +1,17 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+import logging
+from multiprocessing import current_process
 import os
 import sys
-from typing import Dict, List, Optional, Union
+from typing import Any, Dict, List, Optional, Union
 
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 import wikitextparser as wtp
+
+
+module_logger = logging.getLogger(__name__)
 
 
 def expand_templates(template: wtp.Template) -> str:
@@ -20,7 +25,7 @@ def expand_templates(template: wtp.Template) -> str:
         return ""
 
 
-def transform(yaml: YAML, yaml_file: str) -> Dict[str, str]:
+def initial_parse(yaml: YAML, yaml_file: str) -> Dict[str, str]:
     with open(yaml_file) as f:
         document = yaml.load(f)
     properties = {}
@@ -66,11 +71,11 @@ def str_or_none(val: Optional[str]) -> Optional[LiteralScalarString]:
         return LiteralScalarString(val)
 
 
-def annotate(yaml: YAML, zh_cn_dir, wikitext: Dict[str, str]) -> None:
+def annotate_zh_cn(yaml: YAML, logger: logging.Logger, zh_cn_dir: str, wikitext: Dict[str, str]) -> None:
     password = int_or_none(wikitext.get("password") or "")
     zh_cn_path = os.path.join(zh_cn_dir, f"{password}.yaml")
     if os.path.isfile(zh_cn_path):
-        print(f"\t{zh_cn_path}", flush=True)
+        logger.info(f"zh-CN: {zh_cn_path}")
         with open(zh_cn_path) as f:
             document = yaml.load(f)
             wikitext["ourocg_name"] = document["name"]
@@ -92,7 +97,7 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
             rarities = rest[0].strip()
         else:
             rarities = None
-            print("WARNING: sets missing second semicolon", flush=True)
+            module_logger.warning(f"Sets missing second semicolon: {printing}")
         result.append({
             "set_number": set_number.strip(),
             "set_name": set_name.strip(),
@@ -113,7 +118,7 @@ LINK_ARROW_MAPPING = {
 }
 
 
-def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
+def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
     if (
         # Normal monster version OCG prize cards, Tyler, OG Egyptian Gods
         wikitext.get("database_id") == "none" or
@@ -122,7 +127,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         # Boss Duel cards
         wikitext.get("ocg_status") == "Illegal"
     ):
-        print("Skip:", wikitext, flush=True)
+        logger.info(f"Skip: {wikitext}")
         return
     konami_id = int_or_none(wikitext.get("database_id"))
     password = int_or_none(wikitext.get("password"))
@@ -165,7 +170,7 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
         document["monster_type_line"] = wikitext["types"]
         document["attribute"] = wikitext["attribute"].upper()
         if wikitext["attribute"] != document["attribute"]:
-            print("WARNING: Attribute casing", flush=True)
+            logger.warning(f"Attribute casing: {wikitext['attribute']}")
         if "rank" in wikitext:
             document["rank"] = int(wikitext["rank"])
         elif "link_arrows" in wikitext:
@@ -224,12 +229,18 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
     if "sc_sets" in wikitext:
         document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
-    if password is not None:
-        filename = wikitext["password"] + ".yaml"
-    elif konami_id is not None:
-        filename = f"kdb{konami_id}.yaml"
+    return document
+
+
+def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
+    if document["password"] is not None:
+        # Recreate eight-digit password with left-padded 0s
+        filename = str(document["password"]).rjust(8, "0") + ".yaml"
+    elif document["konami_id"] is not None:
+        filename = f"kdb{document['konami_id']}.yaml"
     else:
-        filename = f"yugipedia{wikitext['yugipedia_page_id']}.yaml"
+        filename = f"yugipedia{document['yugipedia_page_id']}.yaml"
+    logger.info(f"Write: {filename}")
     with open(filename, mode="w", encoding="utf-8") as out:
         yaml.dump(document, out)
 
@@ -237,12 +248,18 @@ def write_output(yaml: YAML, wikitext: Dict[str, str]) -> None:
 def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str]) -> None:
     yaml = YAML()
     yaml.width = sys.maxsize
-    for filename in filenames:
+    for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
-        print(filepath, flush=True)
-        properties = transform(yaml, filepath)
-        # These should always be int, but support future changes to that repo structure
-        properties["yugipedia_page_id"] = int_or_og(os.path.splitext(filename)[0])
+        # This should always be int, but code defensively and allow future changes to yaml-yugipedia's structure
+        basename = os.path.splitext(filename)[0]
+        page_id = int_or_og(basename)
+        logger = module_logger.getChild(current_process().name).getChild(basename)
+        logger.info(f"{i}/{len(filenames)} {filepath}")
+
+        properties = initial_parse(yaml, filepath)
+        properties["yugipedia_page_id"] = page_id
         if zh_cn_dir:
-            annotate(yaml, zh_cn_dir, properties)
-        write_output(yaml, properties)
+            annotate_zh_cn(yaml, logger, zh_cn_dir, properties)
+        document = transform_structure(logger, properties)
+        if document:
+            write_output(yaml, logger, document)
