@@ -1,9 +1,11 @@
+# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
 from argparse import ArgumentParser
 import logging
 import math
 import os
 
-from job import job, load_assignments
+from job import job
 
 
 parser = ArgumentParser()
