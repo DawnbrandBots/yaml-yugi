@@ -208,8 +208,17 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         # In Japanese marketing, "シリーズ" (shirīzu) is always used, regardless of whether a theme has support that
         # references card names (an archetype), e.g. https://twitter.com/YuGiOh_OCG_INFO/status/690088046025445376
     document["sets"] = {}
+    en = []
     if "en_sets" in wikitext:
-        document["sets"]["en"] = parse_sets(wikitext["en_sets"])
+        en.extend(parse_sets(wikitext["en_sets"]))
+    if "na_sets" in wikitext:
+        en.extend(parse_sets(wikitext["na_sets"]))
+    if "eu_sets" in wikitext:
+        en.extend(parse_sets(wikitext["eu_sets"]))
+    if "au_sets" in wikitext:
+        en.extend(parse_sets(wikitext["au_sets"]))
+    if len(en):
+        document["sets"]["en"] = en
     if "de_sets" in wikitext:
         document["sets"]["de"] = parse_sets(wikitext["de_sets"])
     if "es_sets" in wikitext:
