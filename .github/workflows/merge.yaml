@@ -43,7 +43,9 @@ jobs:
           python3 ../../src/main.py \
             ../../../yaml-yugipedia/wikitext/cards \
             --zh-CN ../../../yaml-yugi-zh/zh-CN \
-            --assignments ../../src/assignments/assignments.yaml
+            --assignments ../../src/assignments/assignments.yaml \
+            --tcg ../../data/limit-regulation/2022-05-17.vector.json \
+            --ocg ../../data/limit-regulation/2022-07-01.name.json
       - name: Commit
         id: commit
         run: |
