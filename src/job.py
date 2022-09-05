@@ -232,6 +232,8 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         "tcg": wikitext.get("tcg_status") or "Unlimited",
         "ocg": wikitext.get("ocg_status") or "Unlimited"
     }
+    if "tcg_speed_duel_status" in wikitext:
+        document["limit_regulation"]["speed"] = wikitext["tcg_speed_duel_status"]
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document
 
@@ -247,9 +249,9 @@ LIMIT_REGULATION_MAPPING = {
 def annotate_limit_regulation(document: Dict[str, Any],
                               tcg_vector: Optional[Dict[str, int]],
                               ocg_vector: Optional[Dict[str, int]]) -> None:
-    if tcg_vector and document["konami_id"] is not None:
+    if tcg_vector and document["konami_id"] and document["limit_regulation"]["tcg"] is None and "en" in document["sets"]:
         document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(document["konami_id"])]
-    if ocg_vector and document["name"]["en"]:
+    if ocg_vector and document["name"]["en"] and document["limit_regulation"]["ocg"] is None and "ja" in document["sets"]:
         document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[ocg_vector.get(document["name"]["en"])]
 
 
