@@ -259,7 +259,7 @@ def annotate_limit_regulation(document: Dict[str, Any],
                               tcg_vector: Optional[Dict[str, int]],
                               ocg_vector: Optional[Dict[str, int]]) -> None:
     if tcg_vector and document["konami_id"] and document["limit_regulation"]["tcg"] is None and "en" in document["sets"]:
-        document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(document["konami_id"])]
+        document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(str(document["konami_id"]))]
     if ocg_vector and document["name"]["en"] and document["limit_regulation"]["ocg"] is None and "ja" in document["sets"]:
         document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[ocg_vector.get(document["name"]["en"])]
 
@@ -335,7 +335,7 @@ def job(
 ) -> None:
     yaml = YAML()
     yaml.width = sys.maxsize
-    assignments = load_assignments(yaml, assignment_file)
+    assignments = load_assignments(yaml, assignment_file) if assignment_file else None
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
         # This should always be int, but code defensively and allow future changes to yaml-yugipedia's structure
@@ -351,5 +351,6 @@ def job(
         document = transform_structure(logger, properties)
         if document:
             annotate_limit_regulation(document, tcg_vector, ocg_vector)
-            annotate_assignments(document, assignments)
+            if assignments:
+                annotate_assignments(document, assignments)
             write_output(yaml, logger, document)
