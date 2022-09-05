@@ -228,8 +228,29 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         document["sets"]["zh-TW"] = parse_sets(wikitext["tc_sets"])
     if "sc_sets" in wikitext:
         document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
+    document["limit_regulation"] = {
+        "tcg": wikitext.get("tcg_status") or "Unlimited",
+        "ocg": wikitext.get("ocg_status") or "Unlimited"
+    }
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document
+
+
+LIMIT_REGULATION_MAPPING = {
+    0: "Forbidden",
+    1: "Limited",
+    2: "Semi-Limited",
+    None: "Unlimited"
+}
+
+
+def annotate_limit_regulation(document: Dict[str, Any],
+                              tcg_vector: Optional[Dict[str, int]],
+                              ocg_vector: Optional[Dict[str, int]]) -> None:
+    if tcg_vector and document["konami_id"] is not None:
+        document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(document["konami_id"])]
+    if ocg_vector and document["name"]["en"]:
+        document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[ocg_vector.get(document["name"]["en"])]
 
 
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
@@ -293,7 +314,14 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
                 ]
 
 
-def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str], assignment_file: Optional[str]) -> None:
+def job(
+    wikitext_dir: str,
+    filenames: List[str],
+    zh_cn_dir: Optional[str],
+    assignment_file: Optional[str],
+    tcg_vector: Optional[Dict[str, int]],
+    ocg_vector: Optional[Dict[str, int]]
+) -> None:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file)
@@ -311,5 +339,6 @@ def job(wikitext_dir: str, filenames: List[str], zh_cn_dir: Optional[str], assig
             annotate_zh_cn(yaml, logger, zh_cn_dir, properties)
         document = transform_structure(logger, properties)
         if document:
+            annotate_limit_regulation(document, tcg_vector, ocg_vector)
             annotate_assignments(document, assignments)
             write_output(yaml, logger, document)
