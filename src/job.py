@@ -229,8 +229,8 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
     if "sc_sets" in wikitext:
         document["sets"]["zh-CN"] = parse_sets(wikitext["sc_sets"])
     document["limit_regulation"] = {
-        "tcg": wikitext.get("tcg_status") or "Unlimited",
-        "ocg": wikitext.get("ocg_status") or "Unlimited"
+        "tcg": wikitext.get("tcg_status"),
+        "ocg": wikitext.get("ocg_status")
     }
     if "tcg_speed_duel_status" in wikitext:
         document["limit_regulation"]["speed"] = wikitext["tcg_speed_duel_status"]
