@@ -41,6 +41,11 @@ def: 1000
 series:
 - Penguin
 sets:
+  en:
+  - set_number: MP1-011
+    set_name: McDonald's Promotional Cards
+    rarities:
+    - Common
   ja:
   - set_number: ''
     set_name: 'Limited Edition: Yugi Pack'
@@ -56,6 +61,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 7314

@@ -40,6 +40,19 @@ level: 4
 atk: 1200
 def: 1200
 sets:
+  en:
+  - set_number: SDK-015
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDK-E014
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDK-A015
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   de:
   - set_number: SDK-G014
     set_name: 'Starter Deck: Kaiba'
@@ -79,6 +92,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 4201

@@ -40,6 +40,19 @@ level: 3
 atk: 1100
 def: 900
 sets:
+  en:
+  - set_number: TP1-004
+    set_name: 'Tournament Pack: 1st Season'
+    rarities:
+    - Super Rare
+  - set_number: TP3-008
+    set_name: 'Tournament Pack: 3rd Season'
+    rarities:
+    - Rare
+  - set_number: TP1-E004
+    set_name: 'Tournament Pack: 1st Season'
+    rarities:
+    - Super Rare
   de:
   - set_number: TP1-G004
     set_name: 'Tournament Pack: 1st Season'
@@ -90,6 +103,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 9857

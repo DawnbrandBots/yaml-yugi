@@ -40,6 +40,19 @@ level: 3
 atk: 1000
 def: 800
 sets:
+  en:
+  - set_number: SDY-018
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDY-E016
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDY-A018
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   de:
   - set_number: SDY-G016
     set_name: 'Starter Deck: Yugi'
@@ -79,6 +92,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 10235

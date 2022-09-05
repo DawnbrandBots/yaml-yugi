@@ -42,6 +42,19 @@ def: 500
 series:
 - Ryu-Kishin
 sets:
+  en:
+  - set_number: SDK-003
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDK-E002
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SDK-A003
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   de:
   - set_number: SDK-G002
     set_name: 'Starter Deck: Kaiba'
@@ -89,6 +102,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 7000

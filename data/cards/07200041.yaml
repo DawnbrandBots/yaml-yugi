@@ -40,6 +40,15 @@ level: 5
 atk: 800
 def: 800
 sets:
+  en:
+  - set_number: DLG1-EN102
+    set_name: Dark Legends
+    rarities:
+    - Rare
+  - set_number: YDB1-EN002
+    set_name: Yu-Gi-Oh! GX Card Almanac promotional cards
+    rarities:
+    - Super Rare
   de:
   - set_number: YDB1-DE002
     set_name: Yu-Gi-Oh! GX Card Almanac promotional cards
@@ -66,6 +75,6 @@ sets:
     rarities:
     - Ultra Rare
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 508315
