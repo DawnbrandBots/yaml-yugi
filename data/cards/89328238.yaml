@@ -7,8 +7,8 @@ name:
   fr: Équipe de Réserve
   it: Gruppo di Riserva
   pt: Equipe de Reforço
-  ja:
-  ja_romaji:
+  ja: <ruby>補<rt>ほ</rt></ruby><ruby>強<rt>きょう</rt></ruby><ruby>要<rt>よう</rt></ruby><ruby>員<rt>いん</rt></ruby>
+  ja_romaji: Hokyō Yōin
   ko:
   ko_rr:
   zh-TW:
@@ -57,6 +57,11 @@ sets:
   pt:
   - set_number: DIFO-PT085
     set_name: Dimension Force
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP3-JP049
+    set_name: World Premiere Pack 2022
     rarities:
     - Common
 limit_regulation:
