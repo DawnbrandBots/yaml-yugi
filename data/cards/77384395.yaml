@@ -26,7 +26,8 @@ text:
     Le Evocazioni Pendulum dei tuoi mostri non possono essere annullate.
   pt: |-
     A Invocação-Pêndulo dos seus monstros não pode ser negada.
-  ja:
+  ja: |-
+    ①：このカードがモンスターゾーンに存在する限り、自分のモンスターのＰ召喚は無効化されない。
   ko:
   zh-TW:
   zh-CN: |-
@@ -54,7 +55,8 @@ pendulum_effect:
     Una volta per turno: puoi scegliere come bersaglio 1 carta nella tua altra Zona Pendulum; il Valore Pendulum di questa carta diventa il Livello di quella Carta Mostro Pendulum fino alla fine di questo turno, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto tramite Evocazione Pendulum.
   pt: |-
     Uma vez por turno: você pode escolher 1 card na sua outra Zona de Pêndulo; até o final deste turno, a Escala de Pêndulo deste card se torna o Nível desse Card de Monstro Pêndulo e, além disso, você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto por Invocação-Pêndulo.
-  ja:
+  ja: |-
+    ①：１ターンに１度、もう片方の自分のＰゾーンのカード１枚を対象として発動できる。このカードのＰスケールはターン終了時まで、対象のＰモンスターカードのレベルの数値と同じになる。この効果の発動後、ターン終了時まで自分はＰ召喚以外の特殊召喚ができない。
   ko:
   zh-TW:
   zh-CN:
@@ -104,7 +106,12 @@ sets:
     set_name: 2022 Tin of the Pharaoh's Gods
     rarities:
     - Common
+  ja:
+  - set_number: WPP3-JP035
+    set_name: World Premiere Pack 2022
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 823978

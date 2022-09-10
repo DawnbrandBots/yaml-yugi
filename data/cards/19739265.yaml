@@ -44,7 +44,10 @@ text:
     ● Face para cima: Coloque-o com a face para baixo em Posição de Defesa.
     ● Face para baixo: Coloque-o com a face para cima em Posição de Defesa.
     Você só pode ativar 1 "Sol e Luna" por turno.
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分及び相手フィールドのモンスターを１体ずつ対象として発動できる。そのモンスターそれぞれに、その表示形式によって以下の効果を適用する。
+    ●表側表示：裏側守備表示にする。
+    ●裏側表示：表側守備表示にする。
   ko:
   zh-TW:
   zh-CN: |-
@@ -83,7 +86,8 @@ sets:
   - set_number: WPP3-JP045
     set_name: World Premiere Pack 2022
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 848970

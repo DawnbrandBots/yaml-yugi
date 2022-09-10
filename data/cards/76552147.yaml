@@ -26,7 +26,10 @@ text:
     Se controlli un mostro scoperto che è stato Evocato tramite Rituale utilizzando un Mostro Normale, o è stato Evocato tramite Fusione, Synchro, Xyz o Link utilizzando un Mostro Normale come materiale: puoi scegliere come bersaglio 1 carta sul Terreno; bandiscila.
   pt: |-
     Se você controlar um monstro com a face para cima que foi Invocado por Invocação-Ritual usando um Monstro Normal, ou foi Invocado por Invocação-Fusão, Sincro, Xyz ou Link usando um Monstro Normal como matéria: você pode escolher 1 card no campo; bana-o.
-  ja:
+  ja: |-
+    ①：以下のいずれかのモンスターが自分フィールドに表側表示で存在する場合、フィールドのカード１枚を対象として発動できる。そのカードを除外する。
+    ●通常モンスターを使用して儀式召喚したモンスター
+    ●通常モンスターを素材として融合・Ｓ・Ｘ・リンク召喚したモンスター
   ko:
   zh-TW:
   zh-CN: |-
@@ -65,7 +68,8 @@ sets:
   - set_number: WPP3-JP046
     set_name: World Premiere Pack 2022
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 823977
