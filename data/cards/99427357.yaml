@@ -12,7 +12,7 @@ name:
   ko: 사이버 엔젤-나사테이야-
   ko_rr:
   zh-TW:
-  zh-CN: 电子化天使-那沙帝弥-
+  zh-CN: 电子天使－那沙帝弥－
 text:
   en: |-
     You can Ritual Summon this card with "Machine Angel Ritual". Once per turn: You can target 1 face-up monster you control; gain LP equal to half its ATK. When a Ritual Monster you control is targeted for an attack: You can negate the attack. If this card is in the Graveyard: You can banish 1 other "Cyber Angel" monster from your Graveyard, then target 1 monster your opponent controls; Special Summon this card, and if you do, take control of that monster.
@@ -32,7 +32,7 @@ text:
     "기계천사의 의식"에 의해 의식 소환. ①: 1턴에 1번, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력의 절반만큼 자신의 LP를 회복한다. ②: 자신의 의식 몬스터가 공격 대상으로 선택되었을 때에 발동할 수 있다. 그 공격을 무효로 한다. ③: 아 카드가 묘지에 존재할 경우, 자신의 묘지에서 이 카드 이외의 "사이버 엔젤" 몬스터 1장을 제외하고, 상대 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 카드를 묘지에서 특수 소환하고, 대상 몬스터의 컨트롤을 얻는다.
   zh-TW:
   zh-CN: |-
-    效果·仪式：「机械天使的仪式」降临。①：1回合1次，以自己场上1只表侧表示怪兽为对象才能发动。自己基本分回复那只怪兽的攻击力一半的数值。②：自己的仪式怪兽被选择作为攻击对象时才能发动。那次攻击无效。③：这张卡在墓地存在的场合，从自己墓地把这张卡以外的1只「电子化天使」怪兽除外，以对方场上1只怪兽为对象才能发动。这张卡从墓地特殊召唤，得到作为对象的怪兽的控制权。
+    以"机械天使的仪式"降临。①：1回合1次，以自己场上的1只表侧表示怪兽为对象可以发动。依该怪兽攻击力的一半来恢复自己的LP。②：自己的仪式怪兽被选择为攻击对象时可以发动。将该攻击无效。③：此卡存在于墓地的情况下，从自己的墓地将此卡以外的1只"电子天使"怪兽除外，以对手场上的1只怪兽为对象可以发动。将此卡从墓地特殊召唤，获得对象怪兽的控制权。
 card_type: Monster
 monster_type_line: Fairy / Ritual / Effect
 attribute: LIGHT
@@ -80,6 +80,11 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Rare
+  zh-CN:
+  - set_number: DP21-SC022
+    set_name: 'Duelist Pack: Legend Duelist 4'
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
