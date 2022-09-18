@@ -18,6 +18,7 @@ parser.add_argument("--ocg", help="OCG Forbidden & Limited List, English name ve
 parser.add_argument("--ko", help="yaml-yugi-ko TBD")
 parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
 parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
+parser.add_argument("--aggregate", help="output aggregate JSON file")
 
 logger = logging.getLogger(__name__)
 
@@ -46,19 +47,28 @@ def main() -> None:
     ]
 
     if processes == 1:
-        job(args.wikitext_directory, files, args.zh_CN, args.assignments, tcg, ocg)
+        cards = job(args.wikitext_directory, files, args.zh_CN, args.assignments, tcg, ocg, args.aggregate is not None)
     else:
         size = math.ceil(len(files) / processes)
         partitions = [files[i:i+size] for i in range(0, len(files), size)]
+        cards = []
 
         from multiprocessing import Pool
         with Pool(processes) as pool:
             jobs = [
-                pool.apply_async(job, (args.wikitext_directory, partition, args.zh_CN, args.assignments, tcg, ocg))
+                pool.apply_async(job, (args.wikitext_directory, partition,
+                                       args.zh_CN, args.assignments, tcg, ocg, args.aggregate is not None))
                 for partition in partitions
             ]
             for result in jobs:
-                result.get()
+                chunk = result.get()
+                if args.aggregate is not None:
+                    cards.extend(chunk)
+
+    if args.aggregate is not None:
+        logger.info(f"Write: {args.aggregate}")
+        with open(args.aggregate, "w", encoding="utf-8") as out:
+            json.dump(cards, out)
 
 
 if __name__ == "__main__":

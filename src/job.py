@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+import json
 import logging
 from multiprocessing import current_process
 import os
@@ -267,14 +268,17 @@ def annotate_limit_regulation(document: Dict[str, Any],
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
     if document["password"] is not None:
         # Recreate eight-digit password with left-padded 0s
-        filename = str(document["password"]).rjust(8, "0") + ".yaml"
+        basename = str(document["password"]).rjust(8, "0")
     elif document["konami_id"] is not None:
-        filename = f"kdb{document['konami_id']}.yaml"
+        basename = f"kdb{document['konami_id']}"
     else:
-        filename = f"yugipedia{document['yugipedia_page_id']}.yaml"
-    logger.info(f"Write: {filename}")
-    with open(filename, mode="w", encoding="utf-8") as out:
+        basename = f"yugipedia{document['yugipedia_page_id']}"
+    logger.info(f"Write: {basename}.yaml")
+    with open(f"{basename}.yaml", mode="w", encoding="utf-8") as out:
         yaml.dump(document, out)
+    logger.info(f"Write: {basename}.json")
+    with open(f"{basename}.json", mode="w", encoding="utf-8") as out:
+        json.dump(document, out)
 
 
 class Assignments(NamedTuple):
@@ -331,11 +335,13 @@ def job(
     zh_cn_dir: Optional[str],
     assignment_file: Optional[str],
     tcg_vector: Optional[Dict[str, int]],
-    ocg_vector: Optional[Dict[str, int]]
-) -> None:
+    ocg_vector: Optional[Dict[str, int]],
+    return_results=False
+) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
+    results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
         # This should always be int, but code defensively and allow future changes to yaml-yugipedia's structure
@@ -354,3 +360,7 @@ def job(
             if assignments:
                 annotate_assignments(document, assignments)
             write_output(yaml, logger, document)
+            if return_results:
+                results.append(document)
+    if return_results:
+        return results

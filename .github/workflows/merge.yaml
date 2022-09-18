@@ -45,7 +45,8 @@ jobs:
             --zh-CN ../../../yaml-yugi-zh/zh-CN \
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../data/limit-regulation/tcg/2022-05-17.vector.json \
-            --ocg ../../data/limit-regulation/ocg/2022-07-01.name.json
+            --ocg ../../data/limit-regulation/ocg/2022-07-01.name.json \
+            --aggregate ../../../aggregate/cards.json
       - name: Commit
         id: commit
         run: |
