@@ -32,9 +32,7 @@ text:
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 튜너가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 묘지에 존재할 경우, 자신의 패 / 필드의 카드 1장을 묘지로 보내고 발동할 수 있다. 이 카드를 덱의 맨 위 또는 맨 아래로 되돌린다.
   zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：调整特殊召唤的场合才能发动。这张卡从手卡特殊召唤。
-    ②：这张卡在墓地存在的场合，把自己的手卡·场上1张卡送去墓地才能发动。这张卡回到卡组最上面或者最下面。
+    此卡名的①②效果1回合仅可各使用1次。①：协调被特殊召唤的情况下可以发动。从手牌将此卡特殊召唤。②：此卡存在于墓地的情况下，将自己手牌・场上的1张卡送至墓地可以发动。将此卡放回牌组最上面或最下面。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: DARK
@@ -99,6 +97,12 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: DP21-SC031
+    set_name: 'Duelist Pack: Legend Duelist 4'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
