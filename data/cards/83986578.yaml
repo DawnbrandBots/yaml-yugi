@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um monstro(s) de 1400 de ATK ou menos são Invocados por Invocação-Normal/Especial: Destrua esses monstros de 1400 de ATK ou menos. Este card deve estar de face para cima no campo para ativar e resolver este efeito.
   ja: |-
-    このカードがフィールド上に表側表示で存在する限り、攻撃力１４００以下のモンスターが召喚・特殊召喚に成功した時、その攻撃力１４００以下のモンスターを破壊する。
+    ①：このカードが既にモンスターゾーンに存在する状態で、攻撃力１４００以下のモンスターが召喚・特殊召喚される度に発動する。このカードがフィールドに表側表示で存在する場合、その攻撃力１４００以下のモンスターを破壊する。
   ko: |-
     이 카드가 앞면 표시로 필드 위에 존재하는 한, 일반 소환 / 특수 소환한 공격력 1400 이하의 몬스터를 파괴한다.
   zh-TW:
@@ -117,6 +117,10 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Super Rare
+  - set_number: 22TP-JP403
+    set_name: Tournament Pack 2022 Vol.4
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR004
     set_name: Pharaonic Guardian
