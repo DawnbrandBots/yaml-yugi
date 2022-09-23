@@ -40,6 +40,8 @@ attribute: DARK
 level: 3
 atk: 1100
 def: 1800
+series:
+- Koala
 sets:
   en:
   - set_number: DR1-EN132
@@ -52,6 +54,10 @@ sets:
     - Common
   - set_number: DEM1-EN010
     set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: SGX2-ENE01
+    set_name: 'Speed Duel GX: Midterm Paradox'
     rarities:
     - Common
   - set_number: MFC-077
@@ -71,6 +77,10 @@ sets:
     set_name: Demo Pack
     rarities:
     - Common
+  - set_number: SGX2-DEE01
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR132
     set_name: Dark Revelation Volume 1
@@ -82,6 +92,10 @@ sets:
     - Common
   - set_number: DEM1-FR010
     set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: SGX2-FRE01
+    set_name: 'Speed Duel GX: Midterm Paradox'
     rarities:
     - Common
   it:
@@ -97,6 +111,10 @@ sets:
     set_name: Demo Pack
     rarities:
     - Common
+  - set_number: SGX2-ITE01
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT132
     set_name: Dark Revelation Volume 1
@@ -104,6 +122,10 @@ sets:
     - Rare
   - set_number: DEM1-PT010
     set_name: Demo Pack
+    rarities:
+    - Common
+  - set_number: SGX2-PTE01
+    set_name: 'Speed Duel GX: Midterm Paradox'
     rarities:
     - Common
   ja:
@@ -157,4 +179,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Not yet released
 yugipedia_page_id: 8605

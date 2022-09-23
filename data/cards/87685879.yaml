@@ -39,6 +39,8 @@ attribute: EARTH
 level: 2
 atk: 100
 def: 1600
+series:
+- Koala
 sets:
   en:
   - set_number: PTDN-EN037
@@ -50,6 +52,10 @@ sets:
     rarities:
     - Common
     - Shatterfoil Rare
+  - set_number: SGX2-ENE05
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   de:
   - set_number: PTDN-DE037
     set_name: Phantom Darkness
@@ -60,6 +66,10 @@ sets:
     rarities:
     - Common
     - Shatterfoil Rare
+  - set_number: SGX2-DEE05
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   fr:
   - set_number: PTDN-FR037
     set_name: Phantom Darkness
@@ -70,6 +80,10 @@ sets:
     rarities:
     - Common
     - Shatterfoil Rare
+  - set_number: SGX2-FRE05
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   it:
   - set_number: PTDN-IT037
     set_name: Phantom Darkness
@@ -80,12 +94,20 @@ sets:
     rarities:
     - Common
     - Shatterfoil Rare
+  - set_number: SGX2-ITE05
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   pt:
   - set_number: BP03-PT038
     set_name: 'Battle Pack 3: Monster League'
     rarities:
     - Common
     - Shatterfoil Rare
+  - set_number: SGX2-PTE05
+    set_name: 'Speed Duel GX: Midterm Paradox'
+    rarities:
+    - Common
   ja:
   - set_number: PTDN-JP037
     set_name: Phantom Darkness
@@ -103,4 +125,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Not yet released
 yugipedia_page_id: 70124
