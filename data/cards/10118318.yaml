@@ -32,7 +32,7 @@ text:
     자신의 덱에서 레벨 2 이하의 전사족 몬스터 1장을 특수 소환한다. 이 카드를 발동하는 턴, 자신은 배틀 페이즈를 실행할 수 없다.
   zh-TW:
   zh-CN: |-
-    从卡组把1只2星以下的战士族怪兽特殊召唤。这张卡发动的回合，自己不能进行战斗阶段。
+    发动此卡的回合中，自己无法进行战斗阶段。①：从牌组将1只等级2以下的战士族怪兽特殊召唤。
 card_type: Trap
 property: Normal
 sets:
@@ -125,6 +125,11 @@ sets:
     - Common
   - set_number: YSD6-KR040
     set_name: Starter Deck 2011
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC147
+    set_name: Entry Pack Volume 9
     rarities:
     - Common
 limit_regulation:
