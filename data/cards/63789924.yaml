@@ -12,7 +12,7 @@ name:
   ko: 도둑의 연막탄
   ko_rr:
   zh-TW:
-  zh-CN: 盗贼的烟玉
+  zh-CN: 盗贼的烟雾弹
 text:
   en: |-
     When this card is destroyed by a card effect while equipped to a monster: Look at your opponent's hand and discard 1 card from their hand.
@@ -32,7 +32,7 @@ text:
     몬스터에 장착되어 있는 이 카드가 다른 카드의 효과에 의해서 파괴되었을 때, 상대의 패를 보고 카드를 1장 선택하여 버린다.
   zh-TW:
   zh-CN: |-
-    怪兽装备的这张卡被卡的效果破坏时，把对方手卡确认并丢弃1张。
+    ①：被装备于怪兽的此卡因效果被破坏的情况下发动。确认对手的手牌并挑选1张舍弃。
 card_type: Spell
 property: Equip
 sets:
@@ -111,6 +111,11 @@ sets:
     set_name: Beginner's Edition 2
     rarities:
     - Common
+  zh-CN:
+  - set_number: SCTP-SC133
+    set_name: Entry Pack Volume 9
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Forbidden
   ocg: Unlimited

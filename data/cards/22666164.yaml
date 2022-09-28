@@ -12,7 +12,7 @@ name:
   ko: 독전관 코빈톤
   ko_rr: Dokjeon-gwan Kobinton
   zh-TW: 督戰官柯賓頓
-  zh-CN: 督战官 科文顿
+  zh-CN: 督战官 科温顿
 text:
   en: |-
     You can send 1 face-up "Machina Soldier", "Machina Sniper", and "Machina Defender" you control to the GY; Special Summon 1 "Machina Force" from your hand or Deck.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可将我方场上表侧表示的「機甲士兵」「機甲狙擊兵」「機甲防衛兵」各1只送入墓地并发动。从手牌或牌组中特殊召唤1只「機甲武裝」。
   zh-CN: |-
-    ①：把自己场上表侧表示的「机甲士兵」「机甲狙击兵」「机甲卫兵」各1只送去墓地才能发动。从手卡·卡组把1只「机甲部队·武装力量」特殊召唤。
+    ①：将自己场上表侧表示的"机甲部队・士兵"、"机甲部队・狙击兵"、"机甲部队・防卫兵"各1只送至墓地可以发动。从手牌・牌组将1只"机甲部队・武力"特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -127,6 +127,11 @@ sets:
   zh-TW:
   - set_number: SD18-TC005
     set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC014
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

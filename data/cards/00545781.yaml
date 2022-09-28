@@ -12,7 +12,7 @@ name:
   ko: 요룡 마하마
   ko_rr: Yoryong Mahama
   zh-TW:
-  zh-CN: 妖精龙 玛哈玛
+  zh-CN: 妖龙 摩诃摩
 text:
   en: |-
     During your opponent's turn, when either player takes battle damage: You can Special Summon this card from your hand, then apply 1 of these effects.
@@ -48,9 +48,9 @@ text:
     ●그 전투 데미지의 수치만큼만 상대에게 데미지를 준다.
   zh-TW:
   zh-CN: |-
-    对方回合，自己或者对方受到战斗伤害时：可以从手卡把这张卡特殊召唤，那之后，从以下效果选1个适用。
-    ●自己基本分回复那个战斗伤害的数值。
-    ●给与对方为和那个战斗伤害相同数值的伤害。
+    ①：在对手回合中，自己或对手受到战斗伤害时可以发动。从手牌将此卡特殊召唤。然后从以下效果挑选1个适用。
+    ●依该战斗伤害的数值恢复自己的LP。
+    ●依该战斗伤害的数值给予对手伤害。
 card_type: Monster
 monster_type_line: Dragon / Tuner / Effect
 attribute: LIGHT
@@ -131,6 +131,11 @@ sets:
   ko:
   - set_number: WPP2-KR042
     set_name: World Premiere Pack 2021
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC136
+    set_name: Entry Pack Volume 9
     rarities:
     - Common
 limit_regulation:

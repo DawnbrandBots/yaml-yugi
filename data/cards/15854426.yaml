@@ -32,7 +32,7 @@ text:
     자신 필드 위에 앞면 표시로 존재하는 바람 속성 몬스터가 패로 되돌아갔을 경우, 자신의 덱에서 레벨 4 이하의 바람 속성 몬스터 1장을 특수 소환할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    自己场上表侧表示存在的风属性怪兽回到手卡的场合，可以从自己卡组把1只4星以下的风属性怪兽特殊召唤。这个效果1回合只能使用1次。
+    ①：1回合1次，自己场上表侧表示的风属性怪兽被放回手牌的情况下可以发动。从牌组将1只等级4以下的风属性怪兽特殊召唤。
 card_type: Spell
 property: Field
 series:
@@ -89,7 +89,12 @@ sets:
     set_name: Storm of Ragnarok
     rarities:
     - Common
+  zh-CN:
+  - set_number: SCTP-SC142
+    set_name: Entry Pack Volume 9
+    rarities:
+    - Common
 limit_regulation:
   tcg: Limited
-  ocg: Limited
+  ocg: Unlimited
 yugipedia_page_id: 158387
