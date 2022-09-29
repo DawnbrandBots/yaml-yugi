@@ -12,7 +12,7 @@ name:
   ko: 앤틱 기어 가젤 드래곤
   ko_rr:
   zh-TW:
-  zh-CN: 古代的机械巨龙
+  zh-CN: 古代机械齿轮巨龙
 text:
   en: |-
     If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.
@@ -50,7 +50,7 @@ text:
     ①: 이 카드의 일반 소환을 위해 릴리스한 몬스터에 의해 이하의 효과를 얻는다. ●그린 가제트: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ●레드 가제트: 이 카드가 상대에게 전투 데미지를 주었을 경우에 발동한다. 상대에게 400 데미지를 준다. ●옐로 가제트: 이 카드가 전투로 상대 몬스터를 파괴했을 경우에 발동한다. 상대에게 600 데미지를 준다. ②: 이 카드가 공격할 경우. 상대는 데미지 스텝 종료시까지 마법 / 함정 카드를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    ①：得到为这张卡的召唤而解放的怪兽的以下效果。●绿齿轮：这张卡向守备表示怪兽攻击的场合，给与攻击力超过那个守备力的数值的战斗伤害。●红齿轮：这张卡给与对方战斗伤害的场合发动。给与对方400伤害。●黄齿轮：这张卡战斗破坏对方怪兽的场合发动。给与对方600伤害。②：这张卡攻击的场合，对方直到伤害步骤结束时不能把魔法·陷阱卡发动。
+    ①：根据为召唤此卡而解放的怪兽获得以下效果。●绿色小工具：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予战斗伤害。●红色小工具：此卡给予对手战斗伤害的情况下发动。给予对手400伤害。●黄色小工具：此卡战斗破坏对手怪兽的情况下发动。给予对手600伤害。②：此卡攻击的情况下，对手直至伤害步骤结束时为止不可发动魔法・陷阱卡。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -163,6 +163,11 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TM01-SC044
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
