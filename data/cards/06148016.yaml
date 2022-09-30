@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     从牌组特殊召唤2只冠有「齒輪齒輪」之名的怪兽。以此效果特殊召唤的怪兽等级上升1。「齒輪齒輪齒輪」1回合只可发动1张。
   zh-CN: |-
-    从卡组把2只名字带有「齿轮齿轮人」的怪兽特殊召唤。这个效果特殊召唤的怪兽的等级上升1星。「齿轮齿轮齿轮」在1回合只能发动1张。
+    此卡名的卡1回合仅可发动1张。①：从牌组将2只"齿轮齿轮人"怪兽特殊召唤。以此效果特殊召唤的怪兽的等级上升1。
 card_type: Trap
 property: Normal
 series:
@@ -125,6 +125,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC077
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC067
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:
