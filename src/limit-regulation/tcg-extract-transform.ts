@@ -11,9 +11,8 @@ if (process.argv.length > 2) {
 	process.chdir(process.argv[2]);
 }
 
-const code = fs.readFileSync(process.stdin.fd, "utf8");
 const vm = new VM();
-vm.run(code);
+vm.runFile("/dev/stdin");
 const data = vm.getGlobal("jsonData");
 
 const [day, month, year] = data.from.split("/");
