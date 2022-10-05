@@ -12,7 +12,7 @@ name:
   ko: 분보그<ruby>0<rt>제로</rt></ruby><ruby>0<rt>제로</rt></ruby><ruby>9<rt>나인</rt></ruby>
   ko_rr:
   zh-TW:
-  zh-CN: 文具电子人009
+  zh-CN: 文具博格００９
 text:
   en: |-
     Once per turn, during your Main Phase 1: You can make this card gain ATK equal to the combined ATK of all "Deskbot" monsters you currently control, except "Deskbot 009", until the end of your opponent's turn. Only this card can attack the turn this effect is activated. If this card battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. If this card would be destroyed by battle or card effect, you can destroy 1 "Deskbot" card you control instead.
@@ -32,7 +32,7 @@ text:
     ① : 1턴에 1번, 자신 메인 페이즈 1 에 발동할 수 있다. 이 카드의 공격력은 상대 턴 종료시까지, "분보그 009(제로제로나인)" 이외의 자신 필드의 "분보그" 몬스터 공격력의 합계만큼 올린다. 이 효과를 발동하는 턴에, 이 카드밖에 공격할 수 없다. ② : 이 카드가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ③ : 이 카드가 전투 / 효과로 파괴되었을 경우, 대신에 자신 필드의 "분보그" 카드 1장을 파괴할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，自己主要阶段1才能发动。这张卡的攻击力直到对方回合结束时上升「文具电子人009」以外的自己场上的「文具电子人」怪兽的攻击力的合计数值。这个效果发动的回合，不用这张卡不能攻击。②：这张卡进行战斗的场合，对方直到伤害步骤结束时魔法·陷阱·怪兽的效果不能发动。③：这张卡被战斗·效果破坏的场合，可以作为代替把自己场上1张「文具电子人」卡破坏。
+    ①：1回合1次，在自己主要阶段1可以发动。此卡的攻击力直至对手回合结束时为止，上升相当于自己场上"文具博格００９"以外的"文具博格"怪兽的攻击力的合计数值。发动此效果的回合中，仅此卡可攻击。②：此卡进行战斗的情况下，对手直至伤害步骤结束时为止，不可发动魔法・陷阱・怪兽的效果。③：此卡将被战斗・效果破坏的情况下。可破坏自己场上的1张"文具博格"卡作为代替。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -95,6 +95,11 @@ sets:
   ko:
   - set_number: SHVI-KR042
     set_name: Shining Victories
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC081
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

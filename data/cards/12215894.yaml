@@ -12,7 +12,7 @@ name:
   ko: 분보그 베이스
   ko_rr:
   zh-TW:
-  zh-CN: 文具电子人基地
+  zh-CN: 文具博格・基地
 text:
   en: |-
     All "Deskbot" monsters on the field gain 500 ATK and DEF. Once per turn: You can reveal any number of "Deskbot" cards in your hand and shuffle them into the Deck, then draw the same number of cards. You can banish 9 "Deskbot" cards with different names from your field and/or Graveyard, except "Deskbot Base"; shuffle all cards from your opponent's hand, field and Graveyard into the Deck.
@@ -32,7 +32,7 @@ text:
     ① : 필드의 "분보그" 몬스터의 공격력 / 수비력은 500 올린다. ② : 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패의 "분보그" 카드를 임의의 수만큼 상대에게 보여주고, 덱으로 되돌려 셔플한다. 그 후, 자신은 덱으로 되돌린 수만큼 덱에서 드로우한다. ③ : "분보그 베이스" 이외의 자신 필드 / 묘지의 "분보그" 카드 9종류를 1장씩 제외하고 발동할 수 있다. 상대의 패 / 필드 / 묘지의 카드를 전부 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    ①：场上的「文具电子人」怪兽的攻击力·守备力上升500。②：1回合1次，自己主要阶段才能发动。手卡的「文具电子人」卡任意数量给对方观看，回到卡组洗切。那之后，自己从卡组抽出回到卡组的数量。③：把「文具电子人基地」以外的自己的场上·墓地的「文具电子人」卡9种类各1张除外才能发动。对方的手卡·场上·墓地的卡全部回到持有者卡组。
+    ①：场上的"文具博格"怪兽的攻击力・守备力上升500。②：1回合1次，在自己的主要阶段可以发动。将手牌任意数量的"文具博格"卡出示给对手，放回牌组洗牌。然后，自己依放回牌组的数量从牌组抽牌。③：将自己场上・墓地"文具博格・基地"以外的9种"文具博格"卡各1张除外可以发动。将对手的手牌・场上・墓地的所有卡放回持有者的牌组。
 card_type: Spell
 property: Field
 series:
@@ -91,6 +91,11 @@ sets:
   ko:
   - set_number: SHVI-KR068
     set_name: Shining Victories
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC083
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:
