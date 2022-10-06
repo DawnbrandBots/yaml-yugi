@@ -12,7 +12,7 @@ name:
   ko: 원샷 부스터
   ko_rr:
   zh-TW:
-  zh-CN: 一击推进士
+  zh-CN: 一击助推士
 text:
   en: |-
     If you have Normal Summoned a monster this turn, you can Special Summon this card from your hand. You can Tribute this card to destroy 1 monster your opponent controls that battled one of your monsters this turn.
@@ -32,7 +32,7 @@ text:
     자신이 몬스터의 소환에 성공한 턴, 이 카드를 로부터 특수 소환할 수 있다. 이 카드를 릴리스 하는 일로, 이 턴 자신의 몬스터와 전투를 실시한 상대 몬스터 １장을 파괴한다.
   zh-TW:
   zh-CN: |-
-    自己对怪兽的召唤成功的回合，这张卡可以从手卡特殊召唤。此外，把这张卡解放才能发动。选择这个回合和自己怪兽进行过战斗的1只对方怪兽破坏。
+    ①：自己成功召唤过怪兽的回合，此卡可从手牌中特殊召唤。②：解放此卡，以对手场上1只此回合与自己怪兽进行过战斗的怪兽为对象可以发动。将该对手的怪兽破坏。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -98,6 +98,11 @@ sets:
     - Common
   - set_number: DP08-KR003
     set_name: 'Duelist Pack: Yusei'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC085
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:
