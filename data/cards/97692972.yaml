@@ -15,7 +15,7 @@ name:
   zh-CN: 亚马逊的金鞭使
 text:
   en: |-
-    If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an "Amazoness" monster(s) is Special Summoned to your field while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each monster effect of "Amazoness Golden Whip Master" once per turn.
+    If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an "Amazoness" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of "Amazoness Golden Whip Master" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 1200
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    "Amazoness" monsters you control gain ATK equal to their Level x 100. When an attack is declared involving your "Amazoness" monster: You can target 1 Spell/Trap on the field; destroy it. You can only use this effect of "Amazoness Golden Whip Master" once per turn.
+    "Amazoness" monsters you control gain ATK equal to their own Level x 100. When an attack is declared involving your "Amazoness" monster: You can target 1 Spell/Trap on the field; destroy it. You can only use this effect of "Amazoness Golden Whip Master" once per turn.
   de:
   es:
   fr:
@@ -53,6 +53,31 @@ pendulum_effect:
 series:
 - Amazoness
 sets:
+  en:
+  - set_number: DABL-EN093
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  de:
+  - set_number: DABL-DE093
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  fr:
+  - set_number: DABL-FR093
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  it:
+  - set_number: DABL-IT093
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  pt:
+  - set_number: DABL-PT093
+    set_name: Darkwing Blast
+    rarities:
+    - Common
   ja:
   - set_number: DP27-JP030
     set_name: 'Duelist Pack: Duelists of Pyroxene'

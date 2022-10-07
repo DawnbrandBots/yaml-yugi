@@ -1,7 +1,7 @@
 konami_id: 17793
 password: 42932862
 name:
-  en: Nether Prediction Princess Tarotreith
+  en: Prediction Princess Tarotreith
   de:
   es:
   fr:
@@ -15,11 +15,10 @@ name:
   zh-CN: 冥占术姬 塔罗之幽魂
 text:
   en: |-
-    You can Ritual Summon this card with "Nether Prediction Ritual". Must be either Ritual Summoned, or Special Summoned with "Prediction Princess Tarotrei". You can only use each of the following effects of "Nether Prediction Princess Tarotreith" once per turn.
+    You can Ritual Summon this card with "Underworld Ritual of Prediction". Must be Ritual Summoned, or Special Summoned with "Prediction Princess Tarotrei". You can only use each of the following effects of "Prediction Princess Tarotreith" once per turn. (Quick Effect): You can activate 1 of these effects;
+    ● Flip any number of face-down monsters you control to face-up Defense Position.
+    ● Flip any number of face-up monsters you control to face-down Defense Position.
     FLIP: You can Special Summon 1 Flip monster from your Deck in face-down Defense Position.
-    (Quick Effect): You can activate 1 of these effects;
-    ● Change any number of face-down monsters you control to face-up Defense Position.
-    ● Change any number of face-up monsters you control to face-down Defense Position.
   de:
   es:
   fr:
@@ -37,10 +36,35 @@ attribute: DARK
 level: 9
 atk: 1200
 def: 2700
-ritual_spell: Nether Prediction Ritual
+ritual_spell: Underworld Ritual of Prediction
 series:
 - Prediction Princess
 sets:
+  en:
+  - set_number: DABL-EN038
+    set_name: Darkwing Blast
+    rarities:
+    - Super Rare
+  de:
+  - set_number: DABL-DE038
+    set_name: Darkwing Blast
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: DABL-FR038
+    set_name: Darkwing Blast
+    rarities:
+    - Super Rare
+  it:
+  - set_number: DABL-IT038
+    set_name: Darkwing Blast
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: DABL-PT038
+    set_name: Darkwing Blast
+    rarities:
+    - Super Rare
   ja:
   - set_number: DABL-JP038
     set_name: Darkwing Blast

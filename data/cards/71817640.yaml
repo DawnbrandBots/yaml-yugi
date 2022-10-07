@@ -15,7 +15,7 @@ name:
   zh-CN: 龙皇阵 灵摆P
 text:
   en: |-
-    All "Dracoslayer" monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of "Dragonic Pendulum" once per turn. If a Dragon "Dracoslayer" monster you control activates its effect: You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can take 1 "Dracoslayer" or "Dracoverlord" monster from your Deck, and either add it to your hand or Special Summon it.
+    All "Dracoslayer" monsters on the field gain 300 ATK/DEF. You can only use each of the following effects of "Dragonic Pendulum" once per turn. If a Dragon "Dracoslayer" monster you control activates its effect (except during the Damage Step): You can target 1 card on the field; destroy it. If this card on the field is destroyed: You can either add to your hand or Special Summon 1 "Dracoslayer" or "Dracoverlord" monster from your Deck.
   de:
   es:
   fr:
@@ -32,6 +32,31 @@ property: Field
 series:
 - Pendulum
 sets:
+  en:
+  - set_number: DABL-EN065
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  de:
+  - set_number: DABL-DE065
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  fr:
+  - set_number: DABL-FR065
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  it:
+  - set_number: DABL-IT065
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  pt:
+  - set_number: DABL-PT065
+    set_name: Darkwing Blast
+    rarities:
+    - Common
   ja:
   - set_number: DABL-JP065
     set_name: Darkwing Blast

@@ -15,7 +15,7 @@ name:
   zh-CN: 弓道魂 范士
 text:
   en: |-
-    When this card is Normal Summoned: You can return as many of your cards in the same columns as your cards in the Pendulum Zone as possible to the hand, then you can add 1 monster with 2400 ATK/1000 DEF from your Deck to your hand, except "Han-Shi Kyudo Spirit". Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.
+    When this card is Normal Summoned: You can return all cards you control in the same column as the cards in your Pendulum Zones to the hand (including the Pendulum Zone cards themselves), then you can add 1 monster with 2400 ATK/1000 DEF from your Deck to your hand, except "Han-Shi Kyudo Spirit". Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand.
   de:
   es:
   fr:
@@ -36,7 +36,7 @@ def: 1000
 pendulum_scale: 9
 pendulum_effect:
   en: |-
-    If a monster(s) is Pendulum Summoned: Return this card from the Pendulum Zone to the hand.
+    If a monster(s) is Pendulum Summoned: Return this card to the hand.
   de:
   es:
   fr:
@@ -51,6 +51,31 @@ pendulum_effect:
 series:
 - Martial Art Spirit
 sets:
+  en:
+  - set_number: DABL-EN032
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  de:
+  - set_number: DABL-DE032
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  fr:
+  - set_number: DABL-FR032
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  it:
+  - set_number: DABL-IT032
+    set_name: Darkwing Blast
+    rarities:
+    - Common
+  pt:
+  - set_number: DABL-PT032
+    set_name: Darkwing Blast
+    rarities:
+    - Common
   ja:
   - set_number: DABL-JP032
     set_name: Darkwing Blast
