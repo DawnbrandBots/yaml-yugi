@@ -12,7 +12,7 @@ name:
   ko: 스크랩 리사이클러
   ko_rr: Seukeuraep Risaikeulleo
   zh-TW: 廢鐵回收機
-  zh-CN: 废铁回收员
+  zh-CN: 废铁回收机
 text:
   en: |-
     When this card is Normal or Special Summoned: You can send 1 Machine monster from your Deck to the GY. Once per turn: You can shuffle 2 Level 4 EARTH Machine monsters from your GY into the Deck; draw 1 card.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡召唤、特殊召唤成功时可发动。从牌组中选择1只机械族怪兽送入墓地。1回合1次，可以将我方墓地中的2只机械族、地属性、等级4怪兽返回至牌组并发动。从牌组中抽取1张卡牌。
   zh-CN: |-
-    ①：这张卡召唤·特殊召唤成功时才能发动。从卡组把1只机械族怪兽送去墓地。②：1回合1次，让自己墓地2只机械族·地属性·4星怪兽回到卡组才能发动。自己从卡组抽1张。
+    ①：此卡召唤・特殊召唤成功时可以发动。从牌组将1只机械族怪兽送至墓地。②：1回合1次，将自己墓地的2只机械族・地属性・等级4怪兽放回牌组可以发动。自己从牌组抽1张。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -156,6 +156,11 @@ sets:
     set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Common
+  zh-CN:
+  - set_number: TM01-SC086
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
