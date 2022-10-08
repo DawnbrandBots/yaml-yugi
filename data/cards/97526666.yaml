@@ -12,7 +12,7 @@ name:
   ko: 플래닛 패스파인더
   ko_rr:
   zh-TW: 行星探查車
-  zh-CN: 惑星探查车
+  zh-CN: 行星探查车
 text:
   en: |-
     You can Tribute this card; add 1 Field Spell from your Deck to your hand.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可释放此卡并发动。从牌组将1张场地魔法卡加入手牌。
   zh-CN: |-
-    ①：把这张卡解放才能发动。从卡组把1张场地魔法卡加入手卡。
+    ①：解放此卡可以发动。从牌组将1张场地魔法卡加入手牌。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -129,6 +129,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Common
+  zh-CN:
+  - set_number: TM01-SC088
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
