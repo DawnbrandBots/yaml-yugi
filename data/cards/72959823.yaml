@@ -12,7 +12,7 @@ name:
   ko: 중장기갑팬저 드래곤
   ko_rr:
   zh-TW:
-  zh-CN: 重装机甲 装甲车龙
+  zh-CN: 重装机甲 战车龙
 text:
   en: |-
     1 Machine monster + 1 Dragon monster
@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     机械族怪兽＋龙族怪兽
-    ①：这张卡被破坏送去墓地的场合，以场上1张卡为对象才能发动。那张卡破坏。
+    ①：此卡被破坏并被送至墓地的情况下，以场上的1张卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Machine / Fusion / Effect
 attribute: LIGHT
@@ -139,6 +139,11 @@ sets:
     - Common
   - set_number: DP19-KR047
     set_name: 'Duelist Pack: Legend Duelist 2'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC089
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:
