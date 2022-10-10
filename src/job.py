@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+import csv
 import json
 import logging
 from multiprocessing import current_process
@@ -329,6 +330,20 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
                 ]
 
 
+def load_ko(ko_file: str) -> Dict[int, str]:
+    with open(ko_file, encoding="utf8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        return {
+            int(row["kid"]): row["name"]
+            for row in reader
+        }
+
+
+def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str]) -> None:
+    if document["konami_id"] and ko_overrides.get(document["konami_id"]):
+        document["name"]["ko"] = ko_overrides.get(document["konami_id"])
+
+
 def job(
     wikitext_dir: str,
     filenames: List[str],
@@ -336,11 +351,13 @@ def job(
     assignment_file: Optional[str],
     tcg_vector: Optional[Dict[str, int]],
     ocg_vector: Optional[Dict[str, int]],
+    ko_file: Optional[str],
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
+    ko_overrides = load_ko(ko_file) if ko_file else None
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
@@ -359,6 +376,8 @@ def job(
             annotate_limit_regulation(document, tcg_vector, ocg_vector)
             if assignments:
                 annotate_assignments(document, assignments)
+            if ko_overrides:
+                override_ko(document, ko_overrides)
             write_output(yaml, logger, document)
             if return_results:
                 results.append(document)
