@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    If you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.
+    If you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters from this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.
   de: |-
     1 Empfänger + 1+ Nicht-Empfänger-Monster
     Falls du Schaden von einem Karteneffekt erhalten würdest, lege stattdessen 1 Schwarzfeder-Zählmarke auf diese Karte. Diese Karte verliert für jede Schwarzfeder-Zählmarke auf ihr 700 ATK. Einmal pro Spielzug: Du kannst alle Schwarzfeder-Zählmarken von dieser Karte entfernen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; jenes gewählte Ziel verliert 700 ATK für jede entfernte Schwarzfeder-Zählmarke und falls es dies tut, füge deinem Gegner Schaden in Höhe der ATK zu, die durch diesen Effekt verloren wurden.
@@ -220,6 +220,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common
+  - set_number: DABL-KRS01
+    set_name: Darkwing Blast +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   zh-CN:
   - set_number: DP20-SC028
     set_name: 'Duelist Pack: Legend Duelist 3'

@@ -12,7 +12,7 @@ name:
   ko: 자동기계아가씨 224 "이이사"
   ko_rr:
   zh-TW:
-  zh-CN: 机巧小町 二二四
+  zh-CN: 机偶小町 贰贰四
 text:
   en: |-
     This card must attack if able. When this face-up card is selected as an attack target, change its battle position. While this card is face-up on the field, once per turn during your Main Phase, you can Normal Summon 1 "Karakuri" monster in addition to your Normal Summon or Set. (You can only gain this effect once per turn.)
@@ -32,7 +32,7 @@ text:
     이 카드는 공격이 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 변경한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신의 메인 페이즈시에 1번만, 자신은 일반 소환 / 세트 외에도 "자동 기계" 라는 이름이 붙은 몬스터 1장을 일반 소환할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡可以攻击的场合必须作出攻击。场上表侧表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变更。只要这张卡在场上表侧表示存在，自己的主要阶段时只有1次，自己在通常召唤外加上可以把1只名字带有「机巧」的怪兽召唤。
+    ①：只要此卡存在于怪兽区域，自己在通常召唤外仅可追加1次，在自己的主要阶段召唤1只"机偶"怪兽。②：此卡在可攻击的情况下必须攻击。③：此卡在被选择为攻击对象的情况下发动。变更此卡的表示形式。
 card_type: Monster
 monster_type_line: Machine / Tuner
 attribute: EARTH
@@ -77,6 +77,11 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  zh-CN:
+  - set_number: CL02-SC105
+    set_name: Classic Pack 02
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
