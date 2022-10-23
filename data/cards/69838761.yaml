@@ -12,7 +12,7 @@ name:
   ko: 머시너즈 메탈크런치
   ko_rr: Meosineojeu Metalkeureonchi
   zh-TW:
-  zh-CN: 机甲金属抓手兵
+  zh-CN: 机甲部队・金属粉碎爪
 text:
   en: |-
     If you control no face-up cards, you can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card is Normal or Special Summoned: You can reveal 3 EARTH Machine monsters from your Deck, then your opponent randomly adds 1 of them to your hand, and you shuffle the rest back into your Deck. You can only use this effect of "Machina Metalcruncher" once per turn.
@@ -32,10 +32,7 @@ text:
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 앞면 표시의 카드가 존재하지 않을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다. ②: 이 카드의 ①의 방법으로 일반 소환한 이 카드의 원래 공격력은 1800 이 된다. ③: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 기계족 / 땅 속성 몬스터 3장을 상대에게 보여주고, 상대는 그 중에서 무작위로 1장 고른다. 그 몬스터 1장을 자신의 패에 넣고, 남은 몬스터는 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    这个卡名的③的效果1回合只能使用1次。
-    ①：自己场上没有表侧表示的卡存在的场合，这张卡可以不用解放作召唤。
-    ②：这张卡的①的方法召唤的这张卡的原本攻击力变成1800。
-    ③：这张卡召唤·特殊召唤成功的场合才能发动。从卡组把3只机械族·地属性怪兽给对方观看，对方从那之中随机选1只。那1只怪兽加入自己手卡，剩下的怪兽回到卡组。
+    此卡名的③效果1回合仅可使用1次。①：自己场上没有表侧表示卡存在的情况下，此卡无需解放即可召唤。②：以此卡的①方法召唤的此卡的原本攻击力变为1800。③：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将3只机械族・地属性怪兽出示给对手，对手从其中随机挑选1只。将该1只怪兽加入自己的手牌，剩余的怪兽放回牌组。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -107,6 +104,11 @@ sets:
     - Super Rare
   - set_number: PP16-KR030
     set_name: Premium Pack Vol.16
+    rarities:
+    - Secret Rare
+  zh-CN:
+  - set_number: TM01-SC002
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Secret Rare
 limit_regulation:
