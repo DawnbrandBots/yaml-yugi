@@ -32,7 +32,7 @@ text:
     ①: 자신 필드의 기계족 몬스터 1장을 릴리스하고, 릴리스한 몬스터의 원래 공격력 1000 당 1장까지, 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
   zh-TW:
   zh-CN: |-
-    ①：把自己场上1只机械族怪兽解放，以解放的怪兽的原本攻击力每1000最多1张的场上的卡为对象才能发动。那些卡破坏。
+    ①：解放自己场上的1只机械族怪兽，以场上的卡为对象可以发动，对象数量最多为解放怪兽原本攻击力除以1000的整数位数值。将该卡破坏。
 card_type: Trap
 property: Normal
 sets:
@@ -91,6 +91,11 @@ sets:
     set_name: Blazing Vortex
     rarities:
     - Common
+  zh-CN:
+  - set_number: TM01-SC097
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
