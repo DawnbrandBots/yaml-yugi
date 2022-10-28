@@ -12,7 +12,7 @@ name:
   ko: 성각신룡－에네아드
   ko_rr: Seonggaksinnyong - Eneadeu
   zh-TW:
-  zh-CN: 圣刻神龙-九神龙
+  zh-CN: 圣刻神龙－九柱神
 text:
   en: |-
     2 Level 8 monsters
@@ -40,8 +40,8 @@ text:
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신의 패 / 필드의 몬스터를 임의의 수만큼 릴리스하고, 그 수만큼 필드의 카드를 골라 파괴한다.
   zh-TW:
   zh-CN: |-
-    8星怪兽×2
-    1回合1次，把这张卡1个XYZ素材取除才能发动。把自己的手卡·场上的怪兽任意数量解放，解放的怪兽数量的场上的卡破坏。
+    等级8怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材可以发动。解放自己手牌・场上任意数量的怪兽，挑选场上同数量的卡破坏。
 card_type: Monster
 monster_type_line: Dragon / Xyz / Effect
 attribute: LIGHT
@@ -129,6 +129,11 @@ sets:
     set_name: Selection 10
     rarities:
     - Common
+  zh-CN:
+  - set_number: CL02-SC143
+    set_name: Classic Pack 02
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
