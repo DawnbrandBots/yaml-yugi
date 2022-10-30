@@ -46,13 +46,13 @@ function parseAndExpandRuby(html: string): string[] {
 						.map(partial => `${partial}${base}`)
 						.concat(result.map(partial => `${partial}${ruby}`));
 				} else {
-					console.warn(`Unexpected <ruby> children properties`);
+					console.warn(`${html} | Unexpected <ruby> children properties`);
 				}
 			} else {
-				console.warn(`Unexpected number of <ruby> children: ${element.children.length}`);
+				console.warn(`${html} | Unexpected number of <ruby> children: ${element.children.length}`);
 			}
 		} else {
-			console.warn(`Unexpected element type ${element.type}`);
+			console.warn(`${html} | Unexpected element type ${element.type}`);
 		}
 	}
 	return result;
