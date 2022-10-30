@@ -79,4 +79,8 @@ jobs:
       - name: Load (push)
         env:
           OPENSEARCH_URL: ${{ secrets.OPENSEARCH_URL }}
-        run: yarn ts-node src/load.ts ../aggregate/cards.yaml
+        run: yarn ts-node src/load.ts ../aggregate/cards.yaml yaml-yugi
+      - name: Load (alter)
+        env:
+          OPENSEARCH_URL: ${{ secrets.OS_URL }}
+        run: yarn ts-node src/load.ts ../aggregate/cards.yaml yu-gi-oh_ocg-tcg

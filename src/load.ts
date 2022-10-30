@@ -5,8 +5,8 @@ import yaml from "js-yaml";
 import { Client } from "@opensearch-project/opensearch";
 import { parseDocument } from "htmlparser2";
 
-if (process.argv.length < 3) {
-	console.error(`Usage: ${process.argv[1]} <cards.yaml>`);
+if (process.argv.length < 4) {
+	console.error(`Usage: ${process.argv[1]} <cards.yaml> <index>`);
 	process.exit(1);
 }
 
@@ -15,9 +15,12 @@ if (process.env.OPENSEARCH_URL === undefined) {
 	process.exit(1);
 }
 
+const file = process.argv[2];
+const index = process.argv[3];
+
 // This loads the aggregate file exponentially faster than ruamel.yaml somehow
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-const cards: any[] = yaml.loadAll(fs.readFileSync(process.argv[2], "utf8"));
+const cards: any[] = yaml.loadAll(fs.readFileSync(file, "utf8"));
 console.log(`Loaded ${cards.length} cards.`);
 
 // Constructs an array of every possible combination of ruby and base text
@@ -95,7 +98,7 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 		const partition = cards.slice(i, i + 500);
 		const response = await retry(() =>
 			opensearch.bulk({
-				index: "yaml-yugi",
+				index,
 				body: partition
 					.map(
 						card =>
