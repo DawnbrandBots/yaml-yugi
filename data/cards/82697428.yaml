@@ -12,7 +12,7 @@ name:
   ko: 비전 히어로 위치 레이드
   ko_rr:
   zh-TW:
-  zh-CN: 幻影英雄 突袭魔女
+  zh-CN: 幻影－英雄 突袭魔女
 text:
   en: |-
     To Tribute Summon this card face-up, you can Tribute Trap(s) you control, as well as monsters. When this card is Normal Summoned: You can destroy all Spells and Traps your opponent controls. You cannot Special Summon monsters during the turn you activate this effect, except "HERO" monsters.
@@ -32,7 +32,7 @@ text:
     이 카드를 앞면 표시로 어드밴스 소환할 경우, 몬스터 대신에 자신 필드의 함정 카드를 릴리스할 수 있다. ① : 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 상대 필드의 마법 / 함정 카드를 전부 파괴한다. 이 효과를 발동하는 턴에, 자신은 "히어로" 몬스터밖에 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡表侧表示上级召唤的场合，可以作为怪兽的代替而把自己场上的陷阱卡解放。①：这张卡召唤成功时才能发动。对方场上的魔法·陷阱卡全部破坏。这个效果发动的回合，自己不是「英雄」怪兽不能特殊召唤。
+    以表侧表示上级召唤此卡的情况下，可解放自己场上的陷阱卡作为怪兽的代替。①：此卡召唤成功时可以发动。将对手场上的魔法・陷阱卡全部破坏。发动此效果的回合中，自己仅可特殊召唤"－英雄"怪兽。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -98,6 +98,11 @@ sets:
     set_name: Collectors Pack 2017
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CL02-SC025
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
