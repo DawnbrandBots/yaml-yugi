@@ -12,7 +12,7 @@ name:
   ko: 비전 히어로 트리니티
   ko_rr:
   zh-TW:
-  zh-CN: 幻影英雄 三一人
+  zh-CN: 幻影－英雄 三位一体
 text:
   en: |-
     3 "HERO" monsters
@@ -40,8 +40,8 @@ text:
     ① : 이 카드가 융합 소환에 성공한 턴에, 이 카드의 공격력은 원래 공격력의 배가 된다. ② : 융합 소환한 이 카드는 1번의 배틀 페이즈 중에 3회 공격할 수 있다. ③ : 이 카드는 직접 공격할 수 없다.
   zh-TW:
   zh-CN: |-
-    「英雄」怪兽×3
-    ①：这张卡融合召唤成功的回合，这张卡的攻击力变成原本攻击力的2倍。②：融合召唤的这张卡在同1次的战斗阶段中可以作3次攻击。③：这张卡不能直接攻击。
+    "－英雄"怪兽×3
+    ①：此卡不可直接攻击。②：此卡融合召唤成功的回合，此卡的攻击力变为原本攻击力的两倍。③：融合召唤的此卡在1次战斗阶段中可攻击3次。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
@@ -136,6 +136,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: CL02-SC030
+    set_name: Classic Pack 02
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
