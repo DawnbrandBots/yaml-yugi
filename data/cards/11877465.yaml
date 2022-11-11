@@ -12,7 +12,7 @@ name:
   ko: 이비리추어 마인드오우거스
   ko_rr:
   zh-TW:
-  zh-CN: 邪遗式心灵女食人魔
+  zh-CN: 禁咒仪・心灵女食人魔
 text:
   en: |-
     You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card is Ritual Summoned: Target up to 5 cards in any Graveyard(s); shuffle those targets into the Deck.
@@ -31,7 +31,7 @@ text:
     '리추어' 라는 이름이 붙은 의식 마법 카드에 의해 의식 소환. 이 카드가 의식 소환에 성공했을 때, 서로의 묘지에 존재하는 카드를 합계 5장까지 선택하고, 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    名字带有「遗式」的仪式魔法卡降临。这张卡仪式召唤成功时，选择双方墓地的卡合计最多5张回到持有者卡组。
+    以"咒仪"仪式魔法卡降临。①：此卡仪式召唤成功的情况下，以双方墓地合计最多5张卡为对象发动。将该卡放回持有者的牌组。
 card_type: Monster
 monster_type_line: Aqua / Ritual / Effect
 attribute: WATER
@@ -79,6 +79,11 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: CL02-SC084
+    set_name: Classic Pack 02
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
