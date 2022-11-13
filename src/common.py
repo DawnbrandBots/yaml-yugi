@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
 import logging
 from typing import Any, Dict, List, Optional, Union
 
@@ -20,15 +22,18 @@ def expand_templates(template: wtp.Template) -> str:
         return ""
 
 
-def initial_parse(yaml: YAML, yaml_file: str) -> Dict[str, str]:
+def initial_parse(yaml: YAML, yaml_file: str) -> Optional[Dict[str, str]]:
     with open(yaml_file) as f:
         document = yaml.load(f)
     properties = {}
     wikitext = wtp.parse(document["wikitext"])
-    assert len(wikitext.templates)
+    if not len(wikitext.templates):
+        return
     for template in wikitext.templates:
         if template.name.strip() == "CardTable2":
             break
+    if template.name.strip() != "CardTable2":
+        return
     for argument in template.arguments:
         name = argument.name.strip()
         value = argument.value.strip().replace("<br />", "\n").replace("<br/>", "\n")
