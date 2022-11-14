@@ -40,14 +40,9 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
         document["summoning_condition"] = transform_multilanguage(wikitext, "summoning_condition")
     if "requirement" in wikitext:  # everything except Normal Monsters
         document["requirement"] = transform_multilanguage(wikitext, "requirement")
-        effect_types = wikitext.get("effect_types", "")
-        if "Continuous" in effect_types:
-            key = "continuous_effect"
-        elif "Multi-Choice" in effect_types:
-            key = "multi_choice_effect"
-        else:
-            key = "effect"
-        document[key] = transform_texts(wikitext)
+        if wikitext.get("effect_types"):
+            document["effect_types"] = wikitext.get("effect_types", "").split(", ")
+        document["effect"] = transform_texts(wikitext)
     else:
         document["text"] = transform_texts(wikitext)
     annotate_shared(document, wikitext)
