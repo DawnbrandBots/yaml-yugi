@@ -10,7 +10,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 
 from ruamel.yaml import YAML
 
-from common import initial_parse, int_or_none, int_or_og, transform_sets, transform_names, transform_texts, annotate_shared
+from common import initial_parse, int_or_none, int_or_og, transform_sets, transform_names, transform_texts, transform_image, annotate_shared
 
 module_logger = logging.getLogger(__name__)
 
