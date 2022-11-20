@@ -52,6 +52,8 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
         document["maximum_atk"] = int_or_og(wikitext["maximum_atk"])
     if "Legend Card" in wikitext.get("misc", ""):
         document["legend"] = True
+    if wikitext.get("image"):
+        document["images"] = transform_image(wikitext.get("image"))
     document["sets"] = transform_sets(wikitext)
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document

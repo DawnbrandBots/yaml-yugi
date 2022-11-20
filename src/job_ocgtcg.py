@@ -48,6 +48,8 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         "text": transform_texts(wikitext, wikitext.get("ourocg_text"))
     }
     annotate_shared(document, wikitext)
+    if wikitext.get("image"):
+        document["images"] = transform_image(wikitext.get("image"))
     document["sets"] = transform_sets(wikitext)
     document["limit_regulation"] = {
         "tcg": wikitext.get("tcg_status"),

@@ -129,6 +129,18 @@ def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
     return sets
 
 
+def transform_image(image: str) -> List[Dict[str, str]]:
+    if "\n" not in image and "; " not in image:
+        return [{"index": 1, "image": image}]
+    tokens = [line.split("; ") for line in image.split("\n")]
+    return [
+        {"index": int_or_og(entry[0]), "image": entry[1], "illustration": entry[2]}
+        if len(entry) > 2
+        else {"index": int_or_og(entry[0]), "image": entry[1]}
+        for entry in tokens
+    ]
+
+
 def transform_names(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None) -> Dict[str, str]:
     return {
         "en": wikitext["en_name"],
