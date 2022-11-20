@@ -15,20 +15,20 @@ name:
   zh-CN: 死亡帝王龙
 text:
   en: |-
-    "Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters
-    When this card is Special Summoned: You can target 1 Zombie-Type monster in your opponent's Graveyard; Special Summon that target to your side of the field in face-up Attack Position, but destroy it when this card leaves the field.
+    "Plaguespreader Zombie" + 1+ non-Tuner Zombie monsters
+    When this card is Special Summoned: You can target 1 Zombie monster in your opponent's GY; Special Summon that target to your field in Attack Position, but destroy it when this card leaves the field.
   de: |-
-    „Seuchenverbreitender Zombie“ + 1 oder mehr Nicht-Empfänger-Monster vom Typ Zombie
-    Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster vom Typ Zombie im Friedhof deines Gegners wählen; beschwöre das gewählte Ziel als Spezialbeschwörung in offener Angriffsposition auf deine Spielfeldseite, aber zerstöre es, wenn diese Karte das Spielfeld verlässt.
+    „Seuchenverbreitender Zombie“ + 1+ Zombie-Nicht-Empfänger-Monster
+    Wenn diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Zombie-Monster im Friedhof deines Gegners wählen; beschwöre das gewählte Ziel als Spezialbeschwörung auf deine Spielfeldseite in die Angriffsposition, aber zerstöre es, wenn diese Karte das Spielfeld verlässt.
   es: |-
-    "Zombi Esparceplaga" + 1 o más monstruos de Tipo Zombi que no sean Cantantes
-    Cuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo de Tipo Zombi en el Cementerio de tu adversario; Invoca ese objetivo de Modo Especial a tu lado del Campo en Posición de Ataque boca arriba, pero destrúyelo cuando esta carta deja el Campo.
+    "Zombi Esparceplaga" + 1+ monstruos Zombi que no sean Cantantes
+    Cuando esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo Zombi en el Cementerio de tu adversario; Invoca ese objetivo de Modo Especial a tu Campo en Posición de Ataque, pero destrúyelo cuando esta carta deja el Campo.
   fr: |-
-    "Zombie Épidémique" + 1 monstre non-Syntoniseur de Type Zombie ou plus
-    Lorsque cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre de Type Zombie dans le Cimetière de votre adversaire ; Invoquez Spécialement la cible sur votre Terrain en Position d'Attaque face recto, mais détruisez-la lorsque cette carte quitte le Terrain.
+    "Zombie Épidémique" + 1+ monstre non-Syntoniseur Zombie
+    Lorsque cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre Zombie dans le Cimetière de votre adversaire ; Invoquez Spécialement la cible sur votre Terrain en Position d'Attaque, mais détruisez-la lorsque cette carte quitte le Terrain.
   it: |-
-    "Zombie Untore" + 1 o più mostri non-Tuner di Tipo Zombie
-    Quando questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro di Tipo Zombie nel Cimitero del tuo avversario; Evoca Specialmente quel bersaglio sul tuo Terreno scoperto in Posizione di Attacco, ma distruggilo quando questa carta lascia il Terreno.
+    "Zombie Untore" + 1+ mostri Zombie non-Tuner
+    Quando questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro Zombie nel Cimitero del tuo avversario; Evoca Specialmente quel bersaglio sul tuo Terreno in Posizione di Attacco, ma distruggilo quando questa carta lascia il Terreno.
   pt: |-
     "Zumbi Espalha-praga" + 1+ monstros Zumbi não-Reguladores
     Quando este card for Invocado por Invocação-Especial: você pode escolher 1 monstro Zumbi no Cemitério do seu oponente; Invoque o alvo por Invocação-Especial no seu campo em Posição de Ataque, mas destrua-o quando este card deixar o campo.
@@ -51,6 +51,9 @@ def: 1500
 materials: '"Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters'
 series:
 - Zombie counterpart
+images:
+- index: 1
+  image: DoomkaiserDragon-BLCR-EN-ScR-1E.png
 sets:
   en:
   - set_number: CSOC-EN043

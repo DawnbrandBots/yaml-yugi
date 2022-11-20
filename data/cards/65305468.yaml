@@ -12,7 +12,7 @@ name:
   ko: <ruby>FNo.<rt>퓨처 넘버즈</rt></ruby>0 미래황 호프
   ko_rr: Pyucheo Neombeojeu Jero Miraehwang Hopeu
   zh-TW:
-  zh-CN: 未来No.0 未来皇 霍普
+  zh-CN: 翼日编号0 未来皇霍普
 text:
   en: |-
     2 Xyz Monsters with the same Rank, except "Number" monsters
@@ -46,11 +46,8 @@ text:
     룰상, 이 카드의 랭크는 1 로 취급한다. ①: 이 카드는 전투로는 파괴되지 않으며, 이 카드의 전투로 발생하는 서로의 전투 데미지는 0 이 된다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에 발동할 수 있다. 그 상대 몬스터의 컨트롤을 배틀 페이즈 종료시까지 얻는다. ③: 필드의 이 카드가 효과로 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다.
   zh-TW:
   zh-CN: |-
-    「No.」怪兽以外的相同阶级的XYZ怪兽×2
-    规则上，这张卡的阶级当作1阶使用。
-    ①：这张卡不会被战斗破坏，这张卡的战斗发生的双方的战斗伤害变成0。
-    ②：这张卡和对方怪兽进行战斗的伤害步骤结束时才能发动。那只对方怪兽的控制权直到战斗阶段结束时得到。
-    ③：场上的这张卡被效果破坏的场合，可以作为代替把这张卡1个XYZ素材取除。
+    "编号"怪兽以外的相同阶级超量怪兽×2
+    规则上，此卡的阶级视为1。①：此卡不会因战斗被破坏，因此卡的战斗对双方造成的战斗伤害变为0。②：此卡与对手怪兽进行战斗的伤害步骤结束时可以发动。直至战斗阶段结束时为止，获得该对手怪兽的控制权。③：场上的此卡将被效果破坏的情况下，可去除此卡的1个超量素材作为代替。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
@@ -64,6 +61,9 @@ series:
 - Number F
 - Utopic
 - Utopic Future
+images:
+- index: 1
+  image: NumberF0UtopicFuture-KICO-EN-R-1E.png
 sets:
   en:
   - set_number: WSUP-EN026
@@ -154,6 +154,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Common
+  zh-CN:
+  - set_number: CL02-SC184
+    set_name: Classic Pack 02
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

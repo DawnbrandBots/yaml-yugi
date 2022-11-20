@@ -23,9 +23,9 @@ text:
   fr: |-
     Ne peut pas attaquer le tour où elle est Invoquée. Si vous contrôlez "Monde des Toons" : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis, si vous contrôlez un autre monstre Toon, vous pouvez détruire 1 Magie/Piège contrôlé par votre adversaire. Vous ne pouvez utiliser cet effet de "Dame Harpie Toon" qu'une fois par tour. Tant que vous contrôlez "Monde des Toons" et que votre adversaire ne contrôle aucun monstre Toon, cette carte peut attaquer directement.
   it: |-
-    Non può attaccare nel turno in cui viene Evocata. Se controlli "Mondo Toon": puoi Evocare Specialmente questa carta dalla tua mano, poi, se controlli un altro Mostro Toon, puoi distruggere 1 Magia/Trappola controllata dal tuo avversario. Puoi utilizzare questo effetto di "Lady Arpia Toon" una sola volta per turno. Mentre tu controlli "Mondo Toon" e il tuo avversario non controlla nessun mostro Toon, questa carta può attaccare direttamente.
+    Non può attaccare nel turno in cui viene Evocata. Se controlli "Mondo Toon": puoi Evocare Specialmente questa carta dalla tua mano, poi, se controlli un altro mostro Toon, puoi distruggere 1 Magia/Trappola controllata dal tuo avversario. Puoi utilizzare questo effetto di "Lady Arpia Toon" una sola volta per turno. Mentre tu controlli "Mondo Toon" e il tuo avversario non controlla nessun mostro Toon, questa carta può attaccare direttamente.
   pt: |-
-    Não pode atacar no turno em que for Invocado. Se você controlar "Mundo Toon": você pode Invocar este card por Invocação-Especial da sua mão e, depois, se você controlar outro Monstro Toon, você pode destruir 1 Magia/Armadilha que seu oponente controla. Você só pode usar este efeito de "Lady Harpia Toon" uma vez por turno. Enquanto você controlar "Mundo Toon" e seu oponente não controlar nenhum monstro Toon, este card pode atacar diretamente.
+    Não pode atacar no turno em que for Invocado. Se você controlar "Mundo Toon": você pode Invocar este card por Invocação-Especial da sua mão e, depois, se você controlar outro monstro Toon, você pode destruir 1 Magia/Armadilha que seu oponente controla. Você só pode usar este efeito de "Lady Harpia Toon" uma vez por turno. Enquanto você controlar "Mundo Toon" e seu oponente não controlar nenhum monstro Toon, este card pode atacar diretamente.
   ja: |-
     このカード名の①の効果は１ターンに１度しか使用できない。①：自分フィールドに「トゥーン・ワールド」が存在する場合に発動できる。このカードを手札から特殊召喚する。自分フィールドに他のトゥーンモンスターが存在する場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。②：このカードは召喚・反転召喚・特殊召喚したターンには攻撃できない。③：自分フィールドに「トゥーン・ワールド」が存在し、相手フィールドにトゥーンモンスターが存在しない場合、このカードは直接攻撃できる。
   ko: |-
@@ -42,6 +42,13 @@ def: 1400
 series:
 - Harpie
 - Toon
+images:
+- index: 1
+  image: '  ToonHarpieLady-WPP1-JP-R.png'
+  illustration: '    ToonHarpieLady-MADU-JP-VG-artwork.png'
+- index: '1.1'
+  image: ToonHarpieLady-BLCR-EN-UR-1E.png
+  illustration: ToonHarpieLady-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: TOCH-EN002

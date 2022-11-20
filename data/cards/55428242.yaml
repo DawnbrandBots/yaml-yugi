@@ -12,7 +12,7 @@ name:
   ko: 아트라의 충혹마
   ko_rr: Ateura-ui Chunghokma
   zh-TW:
-  zh-CN: 阿特拉之虫惑魔
+  zh-CN: 漏斗网之虫惑魔
 text:
   en: |-
     This card is unaffected by the effects of "Hole" Normal Trap Cards. You can activate "Hole" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드는 몬스터 존에 존재하는 한, "홀" 일반 함정 카드 및 "함정 속으로" 일반 함정 카드의 효과를 받지 않는다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신은 "홀" 일반 함정 카드 및 "함정 속으로" 일반 함정 카드를 패에서 발동할 수 있다. ③: 이 카드가 몬스터 존에 존재하는 한, 자신의 일반 함정 카드의 발동 및 그 발동한 효과는 무효화되지 않는다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡只要在怪兽区域存在，不受「洞」通常陷阱卡以及「落穴」通常陷阱卡的效果影响。②：只要这张卡在怪兽区域存在，自己可以把「洞」通常陷阱卡以及「落穴」通常陷阱卡从手卡发动。③：只要这张卡在怪兽区域存在，自己的通常陷阱卡的发动以及那些发动的效果不会被无效化。
+    ①：此卡只要存在于怪兽区域，不受"空洞"通常陷阱卡及"落穴"通常陷阱卡的效果影响。②：只要此卡存在于怪兽区域，自己可从手牌发动"空洞"通常陷阱卡及"落穴"通常陷阱卡。③：只要此卡存在于怪兽区域，自己的通常陷阱卡的发动及其发动的效果不会被无效化。
 card_type: Monster
 monster_type_line: Insect / Effect
 attribute: EARTH
@@ -41,6 +41,9 @@ atk: 1800
 def: 1000
 series:
 - Traptrix
+images:
+- index: 1
+  image: TraptrixAtrax-PGL2-EN-GUR-1E.png
 sets:
   en:
   - set_number: JOTL-EN032
@@ -128,6 +131,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  zh-CN:
+  - set_number: CL02-SC154
+    set_name: Classic Pack 02
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

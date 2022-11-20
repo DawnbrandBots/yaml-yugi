@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>御<rt>お</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby><ruby>女<rt>め</rt></ruby><ruby>邪<rt>じゃ</rt></ruby><ruby>神<rt>しん</rt></ruby>ヌヴィア
   ja_romaji: Ochamejashin Nuvia
-  ko:
+  ko: 어차여사신 누비아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（水族）が３体の場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(물족)가 3장일 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの全ての表側表示モンスター（水族）の攻撃力はターン終了時まで２００アップする。その後、自分の墓地の「アメガロポリス」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 필드의 모든 앞면 표시 몬스터(물족)의 공격력은 턴 종료시까지 200 올린다. 그 후, 자신 묘지의 "아메가로폴리스" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -46,9 +48,17 @@ atk: 1000
 def: 800
 series:
 - Bubble Actress
+images:
+- index: 1
+  image: NuviatheWickedMischiefMaker-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP029
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR029
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

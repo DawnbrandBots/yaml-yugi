@@ -15,17 +15,17 @@ name:
   zh-CN: 卡通书签
 text:
   en: |-
-    Add 1 "Toon World", or 1 card that specifically lists the card "Toon World" in its text, from your Deck to your hand, except "Toon Bookmark". If a "Toon World(s)" you control would be destroyed by card effect, you can banish this card from your GY instead. You can only activate 1 "Toon Bookmark" per turn.
+    Add 1 "Toon World", or 1 card that mentions it, from your Deck to your hand, except "Toon Bookmark". If a "Toon World(s)" you control would be destroyed by card effect, you can banish this card from your GY instead. You can only activate 1 "Toon Bookmark" per turn.
   de: |-
-    Füge deiner Hand 1 „Toon-Welt“ oder 1 Karte, die ausdrücklich die Karte „Toon-Welt“ in ihrem Text erwähnt, von deinem Deck hinzu, außer „Toon-Lesezeichen“. Falls ein oder mehr „Toon-Welt“, die du kontrollierst, durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst nur 1 „Toon-Lesezeichen“ pro Spielzug aktivieren.
+    Füge deiner Hand 1 „Toon-Welt“ oder 1 Karte, die sie erwähnt, von deinem Deck hinzu, außer „Toon-Lesezeichen“. Falls ein oder mehr „Toon-Welt“, die du kontrollierst, durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst nur 1 „Toon-Lesezeichen“ pro Spielzug aktivieren.
   es: |-
-    Añade a tu mano 1 "Mundo Toon", o 1 carta que específicamente liste la carta "Mundo Toon" en su texto, que estén en tu Deck, excepto "Marcalibros Toon". Si uno o más "Mundo Toon" que controlas fueran a ser destruidos por efecto de una carta, puedes desterrar esta carta en tu Cementerio en su lugar. Sólo puedes activar 1 "Marcalibros Toon" por turno.
+    Añade a tu mano 1 "Mundo Toon", o 1 carta que lo mencione, que estén en tu Deck, excepto "Marcalibros Toon". Si uno o más "Mundo Toon" que controlas fueran a ser destruidos por el efecto de una carta, puedes desterrar esta carta en tu Cementerio en su lugar. Sólo puedes activar 1 "Marcalibros Toon" por turno.
   fr: |-
-    Ajoutez 1 "Monde des Toons" ou 1 carte qui liste spécifiquement "Monde des Toons" dans son texte ("Marque-Page Toon" exclu) depuis votre Deck à votre main. Si un ou plusieurs "Monde des Toons" que vous contrôlez vont être détruits par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez activer qu'1 "Marque-Page Toon" par tour.
+    Ajoutez 1 "Monde des Toons" ou 1 carte qui le mentionne ("Marque-Page Toon" exclu) depuis votre Deck à votre main. Si un ou plusieurs "Monde des Toons" que vous contrôlez vont être détruits par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place. Vous ne pouvez activer qu'1 "Marque-Page Toon" par tour.
   it: |-
-    Aggiungi 1 "Mondo Toon", o 1 carta che indica specificamente la carta "Mondo Toon" nel suo testo, dal tuo Deck alla tua mano, eccetto "Segnalibro Toon". Se uno o più "Mondo Toon" che controlli stanno per essere distrutti dall'effetto di una carta, puoi invece bandire questa carta dal tuo Cimitero. Puoi attivare solo 1 "Segnalibro Toon" per turno.
+    Aggiungi 1 "Mondo Toon", o 1 carta che lo menziona, dal tuo Deck alla tua mano, eccetto "Segnalibro Toon". Se uno o più "Mondo Toon" che controlli stanno per essere distrutti dall'effetto di una carta, puoi invece bandire questa carta dal tuo Cimitero. Puoi attivare solo 1 "Segnalibro Toon" per turno.
   pt: |-
-    Adicione 1 "Mundo Toon", ou 1 card que liste especificamente o card "Mundo Toon" em seu texto, do seu Deck à sua mão, exceto "Marca-Páginas Toon". Se um ou mais "Mundo Toon" que você controla seriam destruídos por um efeito de card, em vez disso, você pode banir este card do seu Cemitério. Você só pode ativar 1 "Marca-Páginas Toon" por turno.
+    Adicione 1 "Mundo Toon", ou 1 card que o mencione, do seu Deck à sua mão, exceto "Marca-Páginas Toon". Se um ou mais "Mundo Toon" que você controla seriam destruídos por um efeito de card, em vez disso, você pode banir este card do seu Cemitério. Você só pode ativar 1 "Marca-Páginas Toon" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：「トゥーンのしおり」以外の「トゥーン・ワールド」のカード名が記されたカードまたは「トゥーン・ワールド」１枚をデッキから手札に加える。②：自分フィールドの「トゥーン・ワールド」が効果で破壊される場合、代わりに墓地のこのカードを除外できる。
   ko: |-
@@ -37,6 +37,9 @@ card_type: Spell
 property: Normal
 series:
 - Toon
+images:
+- index: 1
+  image: ToonBookmark-BLCR-EN-ScR-1E.png
 sets:
   en:
   - set_number: TOCH-EN003
@@ -54,7 +57,7 @@ sets:
     rarities:
     - Ultra Rare
     - Collector's Rare
-  - set_number: BLCR-EN067
+  - set_number: BLCR-DE067
     set_name: 'Battles of Legend: Crystal Revenge'
     rarities:
     - Secret Rare
@@ -74,7 +77,7 @@ sets:
     rarities:
     - Ultra Rare
     - Collector's Rare
-  - set_number: BLCR-EN067
+  - set_number: BLCR-IT067
     set_name: 'Battles of Legend: Crystal Revenge'
     rarities:
     - Secret Rare

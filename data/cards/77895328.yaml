@@ -15,7 +15,7 @@ name:
   zh-CN: 暗黑界的门番 真塔
 text:
   en: |-
-    You can discard this card to the GY; add 1 "The Gates of Dark World" from your Deck to your hand. If this card is banished, and you control a "Dark World" card: You can Special Summon this card. You can only Special Summon "Genta, Gatekeeper of Dark World(s)" once per turn.
+    You can only Special Summon "Genta, Gateman of Dark World" once per turn. You can discard this card to the GY; add 1 "The Gates of Dark World" from your Deck to your hand. If this card is banished and you control a "Dark World" card: You can Special Summon this card.
   de:
   es:
   fr:
@@ -39,9 +39,37 @@ def: 1800
 series:
 - Dark World
 - Field Searcher
+images:
+- index: 1
+  image: GentaGatemanofDarkWorld-SR13-JP-SR.png
 sets:
+  en:
+  - set_number: SR13-EN002
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  de:
+  - set_number: SR13-DE002
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  fr:
+  - set_number: SR13-FR002
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  it:
+  - set_number: SR13-IT002
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  pt:
+  - set_number: SR13-PT002
+    set_name: 'Structure Deck: Dark World'
+    rarities:
   ja:
   - set_number: SR13-JP002
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: SR13-KR002
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Super Rare

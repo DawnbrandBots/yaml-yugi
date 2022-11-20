@@ -39,6 +39,9 @@ attribute: DARK
 level: 7
 atk: 2000
 def: 2300
+images:
+- index: 1
+  image: SlotMachine-SBSC-EN-C-1E.png
 sets:
   en:
   - set_number: DB1-EN014
@@ -48,7 +51,7 @@ sets:
   - set_number: SRL-EN028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   - set_number: LCJW-EN172
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
@@ -60,20 +63,20 @@ sets:
   - set_number: MRL-028
     set_name: Magic Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   - set_number: SRL-028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Common
   - set_number: MRL-E028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   de:
   - set_number: SRL-G028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   - set_number: DB1-DE014
     set_name: Dark Beginning 1
     rarities:
@@ -90,7 +93,7 @@ sets:
   - set_number: MDM-F028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   - set_number: LCJW-FR172
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
@@ -103,7 +106,7 @@ sets:
   - set_number: SDM-I028
     set_name: Spell Ruler
     rarities:
-    - Super Short Print
+    - Short Print
   - set_number: LCJW-IT172
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
@@ -139,7 +142,7 @@ sets:
   - set_number: SRL-K028
     set_name: Spell Ruler
     rarities:
-    - Common
+    - Short Print
   - set_number: BP1-KR014
     set_name: Beginner's Edition 1
     rarities:

@@ -19,7 +19,7 @@ text:
   de: |-
     Falls eine Spielmarke als Spezialbeschwörung beschworen wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung vom Friedhof (falls sie dort lag, als die Spielmarke als Spezialbeschwörung beschworen wurde) oder der Hand (selbst falls nicht) beschwören. Du kannst diesen Effekt von „Spielmarken-Sammler“ nur einmal pro Spielzug verwenden. Falls diese Karte als Spezialbeschwörung beschworen wird: Zerstöre so viele Spielmarken auf dem Spielfeld wie möglich und falls du dies tust, erhält diese Karte für jede zerstörte Spielmarke 400 ATK. Kein Spieler kann Spielmarken als Spezialbeschwörung beschwören.
   es: |-
-    Si una Ficha es Invocada de Modo Especial (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde el Cementerio (si estaba ahí cuando la Ficha fue Invocada de Modo Especial) o mano (aun si no lo hacía). Sólo puedes usar este efecto de "Coleccionista de las Fichas" una vez por turno. Si esta carta es Invocada de Modo Especial: destruye tantas Fichas en el Campo como sea posible y, si lo haces, esta carta gana 400 ATK por cada Ficha destruida. Ningún jugador puede Invocar Fichas de Modo Especial.
+    Si una Ficha es Invocada de Modo Especial (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde el Cementerio (si estaba ahí cuando la Ficha fue Invocada de Modo Especial) o mano (aun si no lo estaba). Sólo puedes usar este efecto de "Coleccionista de las Fichas" una vez por turno. Si esta carta es Invocada de Modo Especial: destruye tantas Fichas en el Campo como sea posible y, si lo haces, esta carta gana 400 ATK por cada Ficha destruida. Ningún jugador puede Invocar Fichas de Modo Especial.
   fr: |-
     Si un Jeton est Invoqué Spécialement (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis le Cimetière (si elle y était lorsque le Jeton a été Invoqué Spécialement) ou la main (même si elle n'y était pas). Vous ne pouvez utiliser cet effet de "Collectionneur de Jetons" qu'une fois par tour. Si cette carte est Invoquée Spécialement : détruisez autant de Jetons sur le Terrain que possible, et si vous le faites, cette carte gagne 400 ATK pour chaque Jeton détruit. Aucun joueur ne peut Invoquer Spécialement de Jetons.
   it: |-
@@ -39,6 +39,9 @@ attribute: EARTH
 level: 4
 atk: 0
 def: 2000
+images:
+- index: 1
+  image: TokenCollector-BLCR-EN-UR-1E.png
 sets:
   en:
   - set_number: SOFU-ENSP1

@@ -8,7 +8,7 @@ name:
   pt:
   ja: メロメロメェ～グ☆ウ～ルトラビーム
   ja_romaji: Meromeromee~gu☆U~rutora Bīmu
-  ko:
+  ko: 멜로멜로메에~구☆울~트라빔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「魔法羊女メェ～グちゃん」がいる場合、手札の通常モンスター（獣族）２体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 "마법양녀 메에~구양"이 있을 경우, 패의 일반 몬스터(야수족) 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,14 +36,23 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）を全て破壊する。このターン、自分はモンスター（獣族以外）で攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하)를 전부 파괴한다. 이 턴에, 자신은 몬스터(야수족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
+images:
+- index: 1
+  image: MeloMeloMeeegUuultraBeam-RDKP10-JP-R.png
 sets:
   ja:
   - set_number: RD/KP10-JP046
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP10-KR046
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Rare

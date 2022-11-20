@@ -12,7 +12,7 @@ name:
   ko: 카즈라의 충혹마
   ko_rr: Kajeura-ui Chunghokma
   zh-TW:
-  zh-CN: 卡祖拉之虫惑魔
+  zh-CN: 蜜笼之虫惑魔
 text:
   en: |-
     This card is unaffected by the effects of "Hole" Normal Trap Cards. If you activate a "Hole" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 "Traptrix" monster from your Deck, except "Traptrix Nepenthes". You can only use this effect of "Traptrix Nepenthes" once per turn.
@@ -32,7 +32,7 @@ text:
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 몬스터 존에 존재하는 한, "홀" 일반 함정 카드 및 "함정 속으로" 일반 함정 카드의 효과를 받지 않는다. ②: 자신이 "홀" 일반 함정 카드 또는 "함정 속으로" 일반 함정 카드를 발동했을 경우에 발동할 수 있다. 덱에서 "카즈라의 충혹마" 이외의 "충혹마" 몬스터 1장을 고르고, 패에 넣거나 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的②的效果1回合只能使用1次。①：这张卡只要在怪兽区域存在，不受「洞」通常陷阱卡以及「落穴」通常陷阱卡的效果影响。②：自己把「洞」通常陷阱卡或者「落穴」通常陷阱卡发动的场合才能发动。从卡组选「卡祖拉之虫惑魔」以外的1只「虫惑魔」怪兽加入手卡或特殊召唤。
+    此卡名的②效果1回合仅可使用1次。①：此卡只要存在于怪兽区域，不受"空洞"通常陷阱卡及"落穴"通常陷阱卡的效果影响。②：自己发动"空洞"通常陷阱卡或"落穴"通常陷阱卡的情况下可以发动。从牌组挑选"蜜笼之虫惑魔"以外的1只"虫惑魔"怪兽，加入手牌或特殊召唤。
 card_type: Monster
 monster_type_line: Plant / Effect
 attribute: EARTH
@@ -41,6 +41,9 @@ atk: 800
 def: 2000
 series:
 - Traptrix
+images:
+- index: 1
+  image: TraptrixNepenthes-PGL2-EN-GUR-1E.png
 sets:
   en:
   - set_number: JOTL-EN034
@@ -126,6 +129,11 @@ sets:
     - Common
   - set_number: LVP2-KR064
     set_name: LINK VRAINS Pack 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC156
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

@@ -6,7 +6,7 @@ name:
   es: Ha Des Rey Resurrecto
   fr: Roi Ha Dès Ressuscité
   it: Re Ha Des Rinato
-  pt: Rei Revivido Ha Des
+  pt: Rei Ha Des Renascido
   ja: <ruby>蘇<rt>よみがえ</rt></ruby>りし<ruby>魔<rt>ま</rt></ruby><ruby>王<rt>おう</rt></ruby> ハ・デス
   ja_romaji: Yomigaerishi Maō Ha Desu
   ko: 소생 마왕 하데스
@@ -15,28 +15,28 @@ name:
   zh-CN: 苏生的魔王 哈·迪斯
 text:
   en: |-
-    "Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters
-    Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.
+    "Plaguespreader Zombie" + 1+ non-Tuner Zombie monsters
+    Negate the effects of Effect Monsters destroyed by battle with Zombie monsters you control.
   de: |-
-    "Seuchenverbreitender Zombie" + 1 oder mehr Nicht-Empfänger-Monster vom Typ Zombie.
-    Annulliere die Effekte von Effektmonstern, die durch Kampf mit Monstern vom Typ Zombie zerstört werden, die du kontrollierst.
+    „Seuchenverbreitender Zombie“ + 1+ Zombie-Nicht-Empfänger-Monster
+    Annulliere die Effekte von Effektmonstern, die durch Kampf mit Zombie-Monstern zerstört werden, die du kontrollierst.
   es: |-
-    "Zombi Esparceplaga" + 1 o más monstruos de Tipo Zombi que no sean Cantantes
-    Niega los efectos de Monstruos de Efecto destruidos en batalla con monstruos de Tipo Zombi que controles.
+    "Zombi Esparceplaga" + 1+ monstruos Zombi que no sean Cantantes
+    Niega los efectos de Monstruos de Efecto destruidos en batalla con monstruos Zombi que controles.
   fr: |-
-    "Zombie Épidémique" + 1 monstre non Syntoniseur de Type Zombie ou plus
-    Annulez les effets des Monstres à Effet détruits au combat par des monstres de Type Zombie que vous contrôlez.
+    "Zombie Épidémique" + 1+ monstre non-Syntoniseur Zombie
+    Annulez les effets des Monstres à Effet détruits au combat avec les monstres Zombie que vous contrôlez.
   it: |-
-    "Zombie Untore" + 1 o più mostri non-Tuner di Tipo Zombie
-    Annulla gli effetti dei Mostri con Effetto distrutti in battaglia da mostri di Tipo Zombie che controlli.
+    "Zombie Untore" + 1+ mostri Zombie non-Tuner
+    Annulla gli effetti dei Mostri con Effetto distrutti in battaglia da mostri Zombie che controlli.
   pt: |-
-    "Plaguespreader Zombie" + 1 ou mais monstros do Tipo Zumbi não-Reguladores
-    Negue os efeitos de Monstros de Efeito destruídos em batalha com monstros do Tipo Zumbi que você controla.
+    "Zumbi Espalha-praga" + 1+ monstros Zumbi não-Reguladores
+    Negue os efeitos de Monstros de Efeito destruídos em batalha com monstros Zumbi que você controla.
   ja: |-
     「ゾンビキャリア」＋チューナー以外のアンデット族モンスター１体以上
-    このカードがフィールド上に表側表示で存在する限り、自分フィールド上に存在するアンデット族モンスターが戦闘で破壊したモンスターの効果は無効化される。
+    このカードがフィールド上に表側表示で存在する限り、自分フィールド上のアンデット族モンスターが戦闘で破壊した効果モンスターの効果は無効化される。
   ko: |-
-    「좀비 캐리어」＋튜너 이외의 언데드족 몬스터 1장 이상
+    "좀비 캐리어" ＋ 튜너 이외의 언데드족 몬스터 1장 이상
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 존재하는 언데드족 몬스터가 전투로 파괴한 효과 몬스터의 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
@@ -51,6 +51,9 @@ def: 0
 materials: '"Plaguespreader Zombie" + 1 or more non-Tuner Zombie-Type monsters'
 series:
 - Zombie counterpart
+images:
+- index: 1
+  image: RevivedKingHaDes-BLCR-EN-ScR-1E.png
 sets:
   en:
   - set_number: CSOC-EN044

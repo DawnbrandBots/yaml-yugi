@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>三宮<rt>さんのみや</rt></ruby><ruby>金<rt>きん</rt></ruby><ruby>Ｇ<rt>ジー</rt></ruby>ロボⅢ<ruby>改<rt>かい</rt></ruby>
   ja_romaji: Sannomiya Kin Jī Robo Surī Kai
-  ko:
+  ko: 산노미야 킨G로보Ⅲ개
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ text:
   pt:
   ja: |-
     単三電池が動力源。散歩しながら動画鑑賞をするのが日課。働いていないし勉強もしていない。
-  ko:
+  ko: |-
+    AA 건전지가 동력원. 산책하면서 영상 감상을 하는 것이 일과다. 일하지도 않고 공부하지도 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -33,9 +34,17 @@ atk: 300
 def: 1500
 series:
 - Cosmic Urban Legend
+images:
+- index: 1
+  image: SannomiyaGoldenGRoboMKIII-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP011
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR011
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

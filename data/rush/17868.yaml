@@ -8,7 +8,7 @@ name:
   pt:
   ja: ケミカライズ・サラマンダー
   ja_romaji: Kemikaraizu Saramandā
-  ko:
+  ko: 케미컬라이즈 샐러맨더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（炎族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(화염족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［相手の墓地のモンスターの数］×１００ダウンする。
-  ko:
+  ko: |-
+    상대 필드의 모든 앞면 표시 몬스터의 공격력은 턴 종료시까지, [상대 묘지의 몬스터의 수] × 100 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -46,6 +48,11 @@ atk: 2500
 def: 1500
 series:
 - Chemistry
+images:
+- index: 1
+  image: ChemicalizeSalamander-RDKP10-JP-UR.png
+- index: 2
+  image: ChemicalizeSalamander-RD711B-JP-NPR.png
 sets:
   ja:
   - set_number: RD/KP10-JP020
@@ -57,4 +64,10 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! x 7-Eleven Collaboration Campaign
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP10-KR020
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Ultra Rare
+    - Rush Rare
 yugipedia_page_id: 881729

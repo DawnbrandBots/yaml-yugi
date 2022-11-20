@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>伯<rt>はく</rt></ruby><ruby>蜴<rt>しゃく</rt></ruby><ruby>参<rt>さん</rt></ruby><ruby>上<rt>じょう</rt></ruby>
   ja_romaji: Hakushaku Sanjō
-  ko:
+  ko: 백척참상
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル３以下／爬虫類族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 3 이하 / 파충류족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,16 +36,25 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（爬虫類族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(파충류족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
 series:
 - Cosmic Urban Legend
+images:
+- index: 1
+  image: ThirdComingoftheReptilianCount-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP052
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR052
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

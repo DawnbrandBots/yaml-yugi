@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>河<rt>かっ</rt></ruby><ruby>童<rt>ぱ</rt></ruby><ruby>大<rt>たい</rt></ruby><ruby>帝<rt>てい</rt></ruby>リバースライダー
   ja_romaji: Kappataitei Ribāsuraidā
-  ko:
+  ko: 캇파대제 리버스라이더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（水族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(물족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示の通常モンスター（レベル７以下）を２体まで選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 일반 몬스터(레벨 7 이하)를 2장까지 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -46,9 +48,17 @@ atk: 2500
 def: 1500
 series:
 - Kappa
+images:
+- index: 1
+  image: KappaEmperorRiverSlider-RDKP10-JP-UR.png
 sets:
   ja:
   - set_number: RD/KP10-JP028
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP10-KR028
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Ultra Rare

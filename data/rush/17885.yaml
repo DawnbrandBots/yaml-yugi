@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>陰<rt>おん</rt></ruby><ruby>陽<rt>みょう</rt></ruby><ruby>士<rt>し</rt></ruby>ミギナギ
   ja_romaji: Onmyōshi Miginagi
-  ko:
+  ko: 음양사 미기나기
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示モンスター（攻撃力１０００／守備力１０００）がいる場合、手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시 몬스터(공격력 1000 / 수비력 1000)가 있을 경우, 패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル８／攻撃力２５００）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 8 / 공격력 2500) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -46,9 +48,17 @@ atk: 1000
 def: 1000
 series:
 - Talismanic
+images:
+- index: 1
+  image: MiginagitheTalismanicWarrior-RDKP10-JP-R.png
 sets:
   ja:
   - set_number: RD/KP10-JP037
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP10-KR037
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Rare

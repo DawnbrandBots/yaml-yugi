@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>羊<rt>よう</rt></ruby><ruby>界<rt>かい</rt></ruby>アクアシープ
   ja_romaji: Yōkai Akuashīpu
-  ko:
+  ko: 양계 아쿠아시프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ text:
   pt:
   ja: |-
     羊界牧場ののんびり屋。慌てず騒がず成り行きを見守る。
-  ko:
+  ko: |-
+    양계 목장의 느긋한 녀석. 허둥대거나 난리 치지 않고 상황을 지켜본다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -33,9 +34,17 @@ atk: 1000
 def: 500
 series:
 - Ewekai
+images:
+- index: 1
+  image: EwekaiAquasheep-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP001
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR001
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

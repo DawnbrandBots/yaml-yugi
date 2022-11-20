@@ -8,7 +8,7 @@ name:
   pt:
   ja: イクチオステガード
   ja_romaji: Ikuchiosutegādo
-  ko:
+  ko: 이크티오스테가드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ text:
   pt:
   ja: |-
     驚くべきタフさを誇るイクチオステガの戦士。重く硬い鎧を着こんでいるため、動きが遅い。
-  ko:
+  ko: |-
+    놀라울 정도의 터프함을 자랑하는 이크티오스테가 전사. 무겁고 단단한 갑옷을 입고 있어 움직임이 느리다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -31,9 +32,17 @@ attribute: WATER
 level: 3
 atk: 0
 def: 1500
+images:
+- index: 1
+  image: Ichthyosteguard-RDKP10-JP-R.png
 sets:
   ja:
   - set_number: RD/KP10-JP015
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP10-KR015
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Rare

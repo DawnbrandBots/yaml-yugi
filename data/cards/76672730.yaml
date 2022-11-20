@@ -1,7 +1,7 @@
 konami_id: 17986
 password: 76672730
 name:
-  en: Dark World Library
+  en: Dark World Archives
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 暗黑界的文殿
 text:
   en: |-
-    During your Main Phase: You can discard 1 "Dark World" monster, and if you do, all "Dark World" monsters you currently control gain ATK equal to the discarded monster's Level x 100 until the end of this turn. If your monster(s) whose original Type is Fiend is discarded by the effect of a "Dark World" card or an opponent's card (even during the Damage Step): You can discard 1 card, then draw 2 cards. You can only use each effect of "Dark World Library" once per turn.
+    During your Main Phase: You can discard 1 "Dark World" monster, and if you do, "Dark World" monsters you currently control gain ATK equal to the Level the discarded monster had in the hand x 100, until the end of this turn. If a monster whose original Type is Fiend is discarded from your hand by the effect of a "Dark World" card or an opponent's card effect, even during the Damage Step: You can discard 1 card, then draw 2 cards. You can only use each effect of "Dark World Archives" once per turn.
   de:
   es:
   fr:
@@ -34,9 +34,37 @@ card_type: Spell
 property: Continuous
 series:
 - Dark World
+images:
+- index: 1
+  image: DarkWorldArchives-SR13-JP-SR.png
 sets:
+  en:
+  - set_number: SR13-EN026
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  de:
+  - set_number: SR13-DE026
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  fr:
+  - set_number: SR13-FR026
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  it:
+  - set_number: SR13-IT026
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+  pt:
+  - set_number: SR13-PT026
+    set_name: 'Structure Deck: Dark World'
+    rarities:
   ja:
   - set_number: SR13-JP026
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: SR13-KR026
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Super Rare

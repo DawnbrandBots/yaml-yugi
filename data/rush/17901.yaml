@@ -8,7 +8,7 @@ name:
   pt:
   ja: エリア３３
   ja_romaji: Eria Sanjūsan
-  ko:
+  ko: 에리어33
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードは、自分フィールドに表側表示の通常モンスター（レベル３以下／爬虫類族）が２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드는, 자신 필드에 앞면 표시의 일반 몬스터(레벨 3 이하 / 파충류족)가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,16 +36,25 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示の通常モンスター（爬虫類族）の攻撃力は６００アップする。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 앞면 표시 일반 몬스터(파충류족)의 공격력은 600 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Field
 series:
 - Cosmic Urban Legend
+images:
+- index: 1
+  image: Area33-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP053
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR053
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

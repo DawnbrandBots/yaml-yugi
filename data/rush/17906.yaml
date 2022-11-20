@@ -8,7 +8,7 @@ name:
   pt:
   ja: パワー・ショック
   ja_romaji: Pawā Shokku
-  ko:
+  ko: 파워 쇼크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手が魔法カードを発動した後に発動できる。
-  ko:
+  ko: |-
+    상대가 마법 카드를 발동한 후에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,14 +36,23 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで１０００アップする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Trap
 property: Normal
+images:
+- index: 1
+  image: PowerShock-RDKP10-JP-SR.png
 sets:
   ja:
   - set_number: RD/KP10-JP058
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/KP10-KR058
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Super Rare

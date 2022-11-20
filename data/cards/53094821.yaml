@@ -17,7 +17,7 @@ text:
   en: |-
     When a Spell/Trap Card, or monster effect, is activated, while you control both "Toon World" and a Toon monster(s): Negate the activation, and if you do, destroy that card. You can only activate 1 "Toon Terror" per turn.
   de: |-
-    Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird, solange du sowohl „Toon-Welt“ als auch ein oder mehr Toon-Monster kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre die Karte. Du kannst nur 1 „Toon-Schrecken“ pro Spielzug aktivieren.
+    Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird, solange du sowohl „Toon-Welt“ als auch ein oder mehr Toon-Monster kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre jene Karte. Du kannst nur 1 „Toon-Schrecken“ pro Spielzug aktivieren.
   es: |-
     Cuando es activada una Carta Mágica/de Trampa, o efecto de monstruo, mientras controles "Mundo Toon" y uno o más monstruos Toon: niega la activación y, si lo haces, destruye esa carta. Sólo puedes activar 1 "Terror Toon" por turno.
   fr: |-
@@ -37,6 +37,9 @@ card_type: Trap
 property: Counter
 series:
 - Toon
+images:
+- index: 1
+  image: ToonTerror-BLCR-EN-UR-1E.png
 sets:
   en:
   - set_number: TOCH-EN005

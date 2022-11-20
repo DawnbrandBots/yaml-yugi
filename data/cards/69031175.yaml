@@ -15,23 +15,23 @@ name:
   zh-CN: 黑羽-铠翼鸦
 text:
   en: |-
-    1 "Blackwing" Tuner + 1 or more non-Tuner monsters
+    1 "Blackwing" Tuner + 1+ non-Tuner monsters
     Cannot be destroyed by battle, and you take no battle damage from attacks involving this card. At the end of the Damage Step, if this card attacked a monster: You can place 1 Wedge Counter on that monster (max. 1). You can remove all Wedge Counters from your opponent's monsters; the ATK and DEF of those monsters that had Wedge Counters become 0 until the end of this turn.
   de: |-
-    1 „Schwarzflügel“-Empfänger- + 1 oder mehr Nicht-Empfänger-Monster
-    Kann nicht durch Kampf zerstört werden und du erhältst keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Am Ende des Damage Steps, falls diese Karte ein Monster angegriffen hat: Du kannst 1 Keilzählmarke auf das Monster legen (max. 1). Du kannst alle Keilzählmarken von den Monstern deines Gegners entfernen; die ATK und DEF der Monster, auf denen eine Keilzählmarke lag, werden bis zum Ende dieses Spielzugs zu 0.
+    1 „Schwarzflügel“-Empfänger + 1+ Nicht-Empfänger-Monster
+    Kann nicht durch Kampf zerstört werden und du erhältst keinen Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Am Ende des Damage Steps, falls diese Karte ein Monster angegriffen hat: Du kannst 1 Keilzählmarke auf jenes Monster legen (max. 1). Du kannst alle Keilzählmarken von den Monstern deines Gegners entfernen; die ATK und DEF jener Monster, auf denen Keilzählmarken lagen, werden bis zum Ende dieses Spielzugs zu 0.
   es: |-
-    1 Cantante "Alanegra" + 1 o más monstruos que no sean Cantantes
+    1 Cantante "Alanegra" + 1+ monstruos que no sean Cantantes
     No puede ser destruido en batalla, y tú no recibes daño de batalla de ataques que involucren a esta carta. Al final del Damage Step, si esta carta atacó a un monstruo: puedes poner 1 Contador de Cuña a ese monstruo (máx. 1). Puedes retirar todos los Contadores de Cuña de los monstruos de tu adversario; hasta el final de este turno, el ATK y la DEF de los monstruos que tenían Contadores de Cuña se convierten en 0.
   fr: |-
-    1 Syntoniseur "Aile Noire" + 1 monstre non-Syntoniseur ou plus
-    Non destructible au combat et vous ne recevez aucun dommage de combat de combats impliquant cette carte. À la fin de la Damage Step, si cette carte a attaqué un monstre : vous pouvez placer 1 Compteur Cuirasse sur le monstre (max. 1). Vous pouvez retirer tous les Compteurs Cuirasse des monstres de votre adversaire ; jusqu'à la fin de ce tour, l'ATK/DEF de ces monstres qui avaient des Compteurs Cuirasse deviennent 0.
+    1 Syntoniseur "Aile Noire" + 1+ monstre non-Syntoniseur
+    Non destructible au combat, et vous ne recevez aucun dommage de combat d'attaques impliquant cette carte. À la fin de la Damage Step, si cette carte a attaqué un monstre : vous pouvez placer 1 Compteur Cuirasse sur le monstre (max. 1). Vous pouvez retirer tous les Compteurs Cuirasse des monstres de votre adversaire ; jusqu'à la fin de ce tour, l'ATK/DEF de ces monstres qui avaient des Compteurs Cuirasse deviennent 0.
   it: |-
-    1 Tuner "Alanera" + 1 o più mostri non-Tuner
+    1 Tuner "Alanera" + 1+ mostri non-Tuner
     Non può essere distrutto in battaglia, e tu non subisci danno da combattimento da attacchi che coinvolgono questa carta. Alla fine del Damage Step, se questa carta ha attaccato un mostro: puoi mettere 1 Segnalino Cuneo su quel mostro (massimo 1). Puoi rimuovere tutti i Segnalini Cuneo dai mostri del tuo avversario; l'ATK e il DEF di quei mostri che avevano Segnalini Cuneo diventano 0 fino alla fine di questo turno.
   pt: |-
-    1 Regulador "Asanegra" + 1 ou mais monstros não-Reguladores
-    Não pode ser destruído em batalha e você não sofre dano de batalha de batalhas que envolvam este card. No final da Etapa de Dano, se este card atacou um monstro: você pode colocar 1 Marcador de Cunha nesse monstro (máx. 1). Você pode remover todos os Marcadores de Cunha dos monstros do seu oponente; o ATK e a DEF dos monstros que tinham um Marcador de Cunha se tornam 0 até a Fase Final.
+    1 Regulador "Asanegra" + 1+ monstros não-Reguladores
+    Não pode ser destruído em batalha e você não sofre dano de batalha dos ataques envolvendo este card. No final da Etapa de Dano, se este card atacou um monstro: você pode colocar 1 Marcador de Cunha nesse monstro (máx. 1). Você pode remover todos os Marcadores de Cunha dos monstros do seu oponente; o ATK e a DEF dos monstros que tinham Marcadores de Cunha se tornam 0 até o final deste turno.
   ja: |-
     「<ruby>ＢＦ<rt>ブラックフェザー</rt></ruby>」チューナー＋チューナー以外のモンスター１体以上
     ①：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。②：このカードがモンスターを攻撃したダメージステップ終了時に発動できる。そのモンスターに<ruby>楔<rt>くさび</rt></ruby>カウンターを１つ置く（最大１つまで）。③：相手フィールドの楔カウンターを全て取り除いて発動できる。楔カウンターが置かれていた全てのモンスターの攻撃力・守備力をターン終了時まで０にする。
@@ -53,6 +53,9 @@ def: 1500
 materials: 1 "Blackwing" Tuner + 1 or more non-Tuner monsters
 series:
 - Blackwing
+images:
+- index: 1
+  image: BlackwingArmorMaster-BLCR-EN-StR-1E.png
 sets:
   en:
   - set_number: CRMS-EN041

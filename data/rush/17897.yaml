@@ -8,7 +8,7 @@ name:
   pt:
   ja: バブル・キングダム
   ja_romaji: Baburu Kingudamu
-  ko:
+  ko: 버블 킹덤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,16 +36,25 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示の通常モンスター（水族）の攻撃力は５００アップする。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 앞면 표시 일반 몬스터(물족)의 공격력은 500 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Field
 series:
 - Bubble Actress
+images:
+- index: 1
+  image: BubbleKingdom-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP049
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR049
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common

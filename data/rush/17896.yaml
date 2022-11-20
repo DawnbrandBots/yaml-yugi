@@ -8,7 +8,7 @@ name:
   pt:
   ja: アメガロポリス
   ja_romaji: Amegaroporisu
-  ko:
+  ko: 아메가로폴리스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードは、自分フィールドに表側表示モンスター（水族）が２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드는, 자신 필드에 앞면 표시 몬스터(물족)가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,16 +36,25 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示モンスター（水族）の攻撃力は２００アップし、お互いのフィールドの表側表示モンスター（水族以外）の攻撃力は２００ダウンする。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 앞면 표시 몬스터(물족)의 공격력은 200 올리고, 서로의 필드의 앞면 표시 몬스터(물족 이외)의 공격력은 200 내린다.
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Field
 series:
 - Bubble Actress
+images:
+- index: 1
+  image: RainyMegalopolis-RDKP10-JP-C.png
 sets:
   ja:
   - set_number: RD/KP10-JP048
+    set_name: 'Deck Mod Pack: Requiem of Destruction!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP10-KR048
     set_name: 'Deck Mod Pack: Requiem of Destruction!!'
     rarities:
     - Common
