@@ -89,7 +89,13 @@ def job(
         logger.info(f"{i}/{len(filenames)} {filepath}")
 
         properties = initial_parse(yaml, filepath)
-        if not properties:
+        if not properties or (
+            # Details unavailable for a new leak
+            properties.get("level") == "???" or
+            properties.get("attribute") == "???" or
+            properties.get("atk") == "???" or
+            properties.get("def") == "???"
+        ):
             logger.info(f"Skip: {filepath}")
             continue
         properties["yugipedia_page_id"] = page_id

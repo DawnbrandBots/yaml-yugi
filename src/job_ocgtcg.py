@@ -35,7 +35,12 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         # Match winners, Command Duel-Use Card (only one with dbid None), etc. have db ids but no passwords
         "limitation_text" in wikitext or
         # Boss Duel cards
-        wikitext.get("ocg_status") == "Illegal"
+        wikitext.get("ocg_status") == "Illegal" or
+        # Details unavailable for a new leak
+        wikitext.get("level") == "???" or
+        wikitext.get("attribute") == "???" or
+        wikitext.get("atk") == "???" or
+        wikitext.get("def") == "???"
     ):
         logger.info(f"Skip: {wikitext}")
         return
