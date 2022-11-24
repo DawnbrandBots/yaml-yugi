@@ -82037,7 +82037,7 @@ level: 8
 atk: 2400
 def: 1600
 series:
-- Cyber
+- Cyber Dragon
 images:
 - index: 1
   image: CyberSearchDragon-RDSJMP-JP-OP.png
@@ -83718,3 +83718,233 @@ sets:
     rarities:
     - Super Rare
 yugipedia_page_id: 913016
+---
+konami_id:
+name:
+  en: Cyber Stealth Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバー・ステルス・ドラゴン
+  ja_romaji: Saibā Suterusu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 face-up "Cyber Dragon".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If you have "Cyber Dragon" in your Graveyard, this card gains 2000 DEF and cannot be destroyed by your opponent's monster effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 800
+series:
+- Cyber Dragon
+images:
+- index: 1
+  image: CyberStealthDragon-RDORP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP023
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+yugipedia_page_id: 913043
+---
+konami_id:
+name:
+  en: Cyber Serpent
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバー・サーペント
+  ja_romaji: Saibā Sāpento
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have another face-up LIGHT Attribute Machine Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, if you sent 2 or more LIGHT Attribute Machine Type monsters to the Graveyard by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 0
+series:
+- Cyber
+images:
+- index: 1
+  image: CyberSerpent-RDORP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP027
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+yugipedia_page_id: 913044
+---
+konami_id:
+name:
+  en: Evolution Rush Burst
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エヴォリューション・ラッシュ・バースト
+  ja_romaji: Evoryūshon Rasshu Bāsuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up Level 5 or higher Machine Type monster on your field, shuffle 5 LIGHT Attribute Machine Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: EvolutionRushBurst-RDORP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP028
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+yugipedia_page_id: 913045
+---
+konami_id:
+name:
+  en: Multiple Adapter Unit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マルチプル・アダプター・ユニット
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal Summons a monster, send 1 face-up Level 5 or higher Machine Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change that Normal Summoned monster to face-down Defense Position. Then, you can Special Summon 1 "Cyber Assault Dragon" or "Cyber Stealth Dragon" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: MultipleAdapterUnit-RDORP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP030
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+yugipedia_page_id: 913049
