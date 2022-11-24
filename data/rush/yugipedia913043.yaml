@@ -1,13 +1,13 @@
 konami_id:
 name:
-  en: Cyber Search Dragon
+  en: Cyber Stealth Dragon
   de:
   es:
   fr:
   it:
   pt:
-  ja: サイバー・サーチ・ドラゴン
-  ja_romaji: Saibā Sāchi Doragon
+  ja: サイバー・ステルス・ドラゴン
+  ja_romaji: Saibā Suterusu Doragon
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,7 @@ summoning_condition:
   zh-CN:
 requirement:
   en: |-
-    During your Main Phase that you Normal or Special Summoned this card, place 1 card from your hand on top of the Deck.
+    None
   de:
   es:
   fr:
@@ -36,9 +36,11 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
+    If you have "Cyber Dragon" in your Graveyard, this card gains 2000 DEF and cannot be destroyed by your opponent's monster effects.
   de:
   es:
   fr:
@@ -52,17 +54,17 @@ card_type: Monster
 monster_type_line: Machine / Effect
 attribute: LIGHT
 level: 8
-atk: 2400
-def: 1600
+atk: 2500
+def: 800
 series:
 - Cyber Dragon
 images:
 - index: 1
-  image: CyberSearchDragon-RDSJMP-JP-OP.png
+  image: CyberStealthDragon-RDORP1-JP-OP.png
 sets:
   ja:
-  - set_number: RD/SJMP-JP022
-    set_name: Saikyō Jump January 2023 promotional card
+  - set_number: RD/ORP1-JP023
+    set_name: Over Rush Pack
     rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 909123
+    - Common
+yugipedia_page_id: 913043
