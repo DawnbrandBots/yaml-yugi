@@ -82654,8 +82654,21 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
-text:
-  en:
+requirement:
+  en: |-
+    Send up to 3 EARTH Attribute Machine Type monsters from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy face-up monsters with 1600 or less DEF on your opponent's field equal to [the number of monsters sent to the Graveyard to meet the requirement].
   de:
   es:
   fr:
@@ -82675,12 +82688,13 @@ series:
 - Jointech
 images:
 - index: 1
-  image: JointechStegosilos-RDORP1-JP-OP.png
+  image: JointechStegosilos-RDORP1-JP-SR.png
 sets:
   ja:
-  - set_number: RD/ORP1-JP0??
+  - set_number: RD/ORP1-JP044
     set_name: Over Rush Pack
     rarities:
+    - Super Rare
     - Over Rush Rare
 yugipedia_page_id: 911503
 ---
@@ -84052,3 +84066,224 @@ sets:
     rarities:
     - Over Rush Rare
 yugipedia_page_id: 913056
+---
+konami_id:
+name:
+  en: Word Working
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はたらくことのは
+  ja_romaji: Hatarakukotonowa
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal Summons a Level 7 or higher monster, or after your opponent activates a Spell Card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle up to 5 monsters from your opponent's Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: WordWorking-RDORP1-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP067
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+yugipedia_page_id: 913092
+---
+konami_id:
+name:
+  en: H.D.D. - Hundred Divine Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>Ｈ・Ｄ・Ｄ<rt>ハンドレッド・ディバイン・ドラゴン</rt></ruby>
+  ja_romaji: Handoreddo Dibain Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    If you would normal draw until you have 5 cards in your hand during your Draw Phase, normal draw until you have 6 cards in your hand instead.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1500
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: HDDHundredDivineDragon-RDORP1-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/ORP1-JP045
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+yugipedia_page_id: 913095
+---
+konami_id:
+name:
+  en: Garnecia Elefantis
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A monster so heavy that each step rocks the earth.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    恐るべきパワーの持ち主。あまりの体重の重さに、歩くたびに地割れが起きてしまう。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast-Warrior / Normal
+attribute: EARTH
+level: 7
+atk: 2400
+def: 2000
+images:
+- index: 1
+  image: GarneciaElefantis-RD23PR-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/23PR-JP001
+    set_name: Rush Duel Promotion Pack 2023
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 913099
+---
+konami_id:
+name:
+  en: Nikotamabot
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ニコタマボット
+  ja_romaji: Nikotamabotto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent draws 1 card and shows it. Then, if that card is a monster, this card gains ATK equal to [the shown monster's ATK] until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: EARTH
+level: 2
+atk: 2000
+def: 2000
+materials:
+  en: |-
+    "Tamabot" + "Tamabot"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: Nikotamabot-RDORP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/23PR-JP003
+    set_name: Rush Duel Promotion Pack 2023
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 913101
