@@ -12,8 +12,21 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
-text:
-  en:
+requirement:
+  en: |-
+    Send up to 3 EARTH Attribute Machine Type monsters from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy face-up monsters with 1600 or less DEF on your opponent's field equal to [the number of monsters sent to the Graveyard to meet the requirement].
   de:
   es:
   fr:
@@ -33,11 +46,12 @@ series:
 - Jointech
 images:
 - index: 1
-  image: JointechStegosilos-RDORP1-JP-OP.png
+  image: JointechStegosilos-RDORP1-JP-SR.png
 sets:
   ja:
-  - set_number: RD/ORP1-JP0??
+  - set_number: RD/ORP1-JP044
     set_name: Over Rush Pack
     rarities:
+    - Super Rare
     - Over Rush Rare
 yugipedia_page_id: 911503
