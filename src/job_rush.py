@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional
 from ruamel.yaml import YAML
 
 from common import int_or_og, initial_parse, int_or_none, transform_names, transform_texts, annotate_shared, \
-    transform_sets, transform_image, str_or_none
+    transform_sets, transform_image, str_or_none, write
 
 module_logger = logging.getLogger(__name__)
 
@@ -64,12 +64,7 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
         basename = document['konami_id']
     else:
         basename = f"yugipedia{document['yugipedia_page_id']}"
-    logger.info(f"Write: {basename}.yaml")
-    with open(f"{basename}.yaml", mode="w", encoding="utf-8") as out:
-        yaml.dump(document, out)
-    logger.info(f"Write: {basename}.json")
-    with open(f"{basename}.json", mode="w", encoding="utf-8") as out:
-        json.dump(document, out)
+    write(document, basename, yaml, logger)
 
 
 def job(

@@ -10,7 +10,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 
 from ruamel.yaml import YAML
 
-from common import initial_parse, int_or_none, int_or_og, transform_sets, transform_names, transform_texts, transform_image, annotate_shared
+from common import initial_parse, int_or_none, int_or_og, transform_sets, transform_names, transform_texts, transform_image, annotate_shared, write
 
 module_logger = logging.getLogger(__name__)
 
@@ -91,12 +91,7 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
         basename = f"kdb{document['konami_id']}"
     else:
         basename = f"yugipedia{document['yugipedia_page_id']}"
-    logger.info(f"Write: {basename}.yaml")
-    with open(f"{basename}.yaml", mode="w", encoding="utf-8") as out:
-        yaml.dump(document, out)
-    logger.info(f"Write: {basename}.json")
-    with open(f"{basename}.json", mode="w", encoding="utf-8") as out:
-        json.dump(document, out)
+    write(document, basename, yaml, logger)
 
 
 class Assignments(NamedTuple):

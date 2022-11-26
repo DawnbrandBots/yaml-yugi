@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+import json
 import logging
 from typing import Any, Dict, List, Optional, Union
 
@@ -22,7 +23,7 @@ def expand_templates(template: wtp.Template) -> str:
         return ""
 
 
-def initial_parse(yaml: YAML, yaml_file: str) -> Optional[Dict[str, str]]:
+def initial_parse(yaml: YAML, yaml_file: str, target: str = "CardTable2") -> Optional[Dict[str, str]]:
     with open(yaml_file) as f:
         document = yaml.load(f)
     properties = {}
@@ -30,9 +31,9 @@ def initial_parse(yaml: YAML, yaml_file: str) -> Optional[Dict[str, str]]:
     if not len(wikitext.templates):
         return
     for template in wikitext.templates:
-        if template.name.strip() == "CardTable2":
+        if template.name.strip() == target:
             break
-    if template.name.strip() != "CardTable2":
+    if template.name.strip() != target:
         return
     for argument in template.arguments:
         name = argument.name.strip()
@@ -233,3 +234,12 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
         ]
         # In Japanese marketing, "シリーズ" (shirīzu) is always used, regardless of whether a theme has support that
         # references card names (an archetype), e.g. https://twitter.com/YuGiOh_OCG_INFO/status/690088046025445376
+
+
+def write(obj: Any, basename: str, yaml: YAML, logger: logging.Logger) -> None:
+    logger.info(f"Write: {basename}.yaml")
+    with open(f"{basename}.yaml", mode="w", encoding="utf-8") as out:
+        yaml.dump(obj, out)
+    logger.info(f"Write: {basename}.json")
+    with open(f"{basename}.json", mode="w", encoding="utf-8") as out:
+        json.dump(obj, out)
