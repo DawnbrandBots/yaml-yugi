@@ -25,7 +25,7 @@ text:
   it: |-
     Entrambi i giocatori rivelano la loro mano, selezionano 1 carta dalla mano del loro avversario, poi tu scarti le carte selezionate dalla mano di entrambi i giocatori, poi entrambi i giocatori pescano 1 carta.
   pt: |-
-    Os dois duelistas revelam suas mãos, cada um seleciona 1 card da mão do seu oponente e, depois, você descarta o card selecionado das mãos dos dois duelistas e, depois, cada duelista compra 1 card.
+    Os dois duelistas revelam suas mãos, cada um seleciona 1 card da mão do seu oponente e, depois, você descarta o card selecionado das mãos dos dois duelistas e, depois, os dois duelistas compram 1 card.
   ja: |-
     ①：お互いは、それぞれ相手の手札を確認し、その中からカードを１枚選んで捨てる。その後、お互いはそれぞれデッキから１枚ドローする。
   ko: |-
@@ -38,7 +38,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: DraggedDownintotheGrave-SR07-EN-C-1E.png
+  image: DraggedDownintotheGrave-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN246
@@ -201,6 +201,10 @@ sets:
     - Common
   - set_number: SR07-KR031
     set_name: 'Structure Deck R: Undead World'
+    rarities:
+    - Common
+  - set_number: SR13-KR031
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

@@ -6,7 +6,7 @@ name:
   es: Goldd, Dios de la Pelea del Mundo Oscuro
   fr: Goldd, Wu-Lord du Monde Ténébreux
   it: Goldd, Signore-Wu del Mondo Oscuro
-  pt: Dourado, Wu-Lorde do Mundo Negro
+  pt: Douraddo, Wu-Lorde do Mundo Negro
   ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>武<rt>ぶ</rt></ruby><ruby>神<rt>しん</rt></ruby> ゴルド
   ja_romaji: Ankokukai no Bushin Gorudo
   ko: 암흑계의 무신 골드
@@ -15,17 +15,17 @@ name:
   zh-CN: 暗黑界的武神 高尔德
 text:
   en: |-
-    If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).
+    If this card is discarded to the GY by card effect: If it was discarded from your hand to your GY by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card, then destroy those targets (if any).
   de: |-
-    Falls diese Karte durch den Effekt einer Karte aus der Hand auf den Friedhof abgeworfen wird, beschwöre diese Karte als Spezialbeschwörung auf deine Spielfeldseite. Falls diese Karte durch den Effekt einer Karte deines Gegners aus der Hand auf den Friedhof abgeworfen wird, kannst du bis zu 2 Karten auf der Spielfeldseite deines Gegners wählen und sie zerstören.
+    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Falls sie durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, kannst du bis zu 2 Karten wählen, die dein Gegner kontrolliert; beschwöre diese Karte als Spezialbeschwörung, dann zerstöre jene gewählten Ziele (falls es welche gibt).
   es: |-
-    Si esta carta es descartada al Cementerio por el efecto de una carta: si fue descartada de tu mano a tu Cementerio por el efecto de una carta de tu adversario, puedes seleccionar hasta 2 cartas que controle tu adversario; Invoca esta carta de Modo Especial desde el Cementerio, y después destruye esos objetivos (si los hay).
+    Si esta carta es descartada al Cementerio por efecto de una carta: si fue descartada de tu mano a tu Cementerio por efecto de una carta del adversario, puedes seleccionar hasta 2 cartas que controle tu adversario; Invoca esta carta de Modo Especial, y después destruye esos objetivos (si los hay).
   fr: |-
-    Si cette carte est défaussée au Cimetière par un effet de carte : si elle a été défaussée depuis votre main à votre Cimetière par un effet de carte de votre adversaire, vous pouvez cibler max. 2 cartes contrôlées par votre adversaire ; Invoquez Spécialement cette carte depuis le Cimetière, puis détruisez les cibles (s'il y en a).
+    Si cette carte est défaussée au Cimetière par un effet de carte : si elle a été défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire, vous pouvez cibler max. 2 cartes contrôlées par votre adversaire ; Invoquez Spécialement cette carte, puis détruisez les cibles (s'il y en a).
   it: |-
-    Se questa carta viene scartata al Cimitero dall'effetto di una carta: se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta del tuo avversario, puoi scegliere come bersaglio fino a 2 carte controllate dal tuo avversario; Evoca Specialmente questa carta dal Cimitero, poi distruggi quei bersagli (se li hai scelti).
+    Se questa carta viene scartata al Cimitero dall'effetto di una carta: se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario, puoi scegliere come bersaglio fino a 2 carte controllate dal tuo avversario; Evoca Specialmente questa carta, poi distruggi quei bersagli (se ci sono).
   pt: |-
-    Se este card for descartado para o Cemitério por um efeito de card: se ele foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente, você pode escolher até 2 cards que seu oponente controla; Invoque este card por Invocação-Especial do Cemitério e, depois, destrua esses alvos (se houver).
+    Se este card for descartado para o Cemitério por um efeito de card: se ele foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente, você pode escolher até 2 cards que seu oponente controla; Invoque este card por Invocação-Especial e, depois, destrua esses alvos (se houver).
   ja: |-
     ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、発動時に相手フィールドのカードを２枚まで対象にできる。その場合、さらに以下の効果を適用する。
     ●対象の相手のカードを破壊する。
@@ -45,7 +45,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: GolddWuLordofDarkWorld-PGLD-EN-GUR-1E.png
+  image: GolddWuLordofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: EEN-EN024
@@ -214,6 +214,10 @@ sets:
     - Ultra Rare
   - set_number: SD21-KR011
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: SR13-KR007
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

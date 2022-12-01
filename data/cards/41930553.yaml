@@ -6,7 +6,7 @@ name:
   es: Smog Oscuro
   fr: Brouillard des Ténèbres
   it: Smog Oscuro
-  pt: Névoa Negra
+  pt: Bruma Negra
   ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby>の<ruby>瘴<rt>しょう</rt></ruby><ruby>気<rt>き</rt></ruby>
   ja_romaji: Ankoku no Shōki
   ko: 암흑의 장기
@@ -17,7 +17,7 @@ text:
   en: |-
     Once per turn: You can target 1 monster in your opponent's GY; discard 1 Fiend monster, and if you do, banish that target.
   de: |-
-    Einmal pro Spielzug: Du kannst 1 Monster im Friedhof deines Gegners wählen; wirf 1 Unterweltler-Monster ab und falls du dies tust, verbanne das gewählte Ziel.
+    Einmal pro Spielzug: Du kannst 1 Monster im Friedhof deines Gegners wählen; wirf 1 Unterweltler-Monster ab und falls du dies tust, verbanne jenes gewählte Ziel.
   es: |-
     Una vez por turno: puedes seleccionar 1 monstruo en el Cementerio de tu adversario; descarta 1 monstruo Demonio y, si lo haces, destierra ese objetivo.
   fr: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Una volta per turno: puoi scegliere come bersaglio 1 mostro nel Cimitero del tuo avversario; scarta 1 mostro Demone e, se lo fai, bandisci quel bersaglio.
   pt: |-
-    Uma ver por turno: Você pode selecionar 1 monstro no Cemitério do seu oponente; descarte 1 monstro do tipo Fiend para banir a carta selecionada.
+    Uma vez por turno: você pode escolher 1 monstro no Cemitério do seu oponente; descarte 1 monstro Demônio e, se isso acontecer, bana o alvo.
   ja: |-
     １ターンに１度、相手の墓地のモンスター１体を選択して発動できる。手札から悪魔族モンスター１体を捨て、選択したモンスターをゲームから除外する。
   ko: |-
@@ -38,7 +38,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: DarkSmog-SBCB-EN-C-1E.png
+  image: DarkSmog-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: PHSW-EN089
@@ -105,6 +105,11 @@ sets:
     rarities:
     - Common
   - set_number: SR13-IT036
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+    - Common
+  pt:
+  - set_number: SR13-PT036
     set_name: 'Structure Deck: Dark World'
     rarities:
     - Common

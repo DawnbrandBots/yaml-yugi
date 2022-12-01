@@ -6,7 +6,7 @@ name:
   es: Reignbeaux, Señor Supremo del Mundo Oscuro
   fr: Règne-Galant, Chef Suprême du Monde Ténébreux
   it: Reign-Beaux, Signore del Mondo Oscuro
-  pt:
+  pt: Rei-Beaux, Suserano do Mundo Negro
   ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>神<rt>しん</rt></ruby> レイン
   ja_romaji: Ankokukai no Mashin Rein
   ko: 암흑계의 마신 레인
@@ -15,16 +15,17 @@ name:
   zh-CN: 暗黑界的魔神 雷恩
 text:
   en: |-
-    If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.
+    If this card is discarded from your hand to your GY by an opponent's card effect: Special Summon this card from the GY. If Summoned this way: Destroy all monsters your opponent controls OR all Spells/Traps they control.
   de: |-
-    Falls diese Karte durch einen Karteneffekt deines Gegners von deiner Hand auf deinen Friedhof abgeworfen wird: Beschwöre diese Karte als Spezialbeschwörung vom Friedhof. Wenn diese Karte auf diese Art als Spezialbeschwörung beschworen wird: Zerstöre alle Monster, die dein Gegner kontrolliert, ODER alle Zauber-/Fallenkarten, die er kontrolliert.
+    Falls diese Karte durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wird: Beschwöre diese Karte als Spezialbeschwörung vom Friedhof. Falls sie auf diese Art beschworen wird: Zerstöre alle Monster, die dein Gegner kontrolliert, ODER alle Zauber/Fallen, die er kontrolliert.
   es: |-
-    Si esta carta es descartada de tu mano a tu Cementerio por el efecto de una carta de tu adversario: Invoca esta carta de Modo Especial desde el Cementerio. Cuando esta carta es Invocada de Modo Especial de esta manera: destruye todos los monstruos que controle tu adversario O todas las cartas Mágicas/de Trampa que controle.
+    Si esta carta es descartada de tu mano a tu Cementerio por efecto de una carta del adversario: Invoca esta carta de Modo Especial desde el Cementerio. Si es Invocada de esta forma: destruye todos los monstruos que controle tu adversario O todas las Mágicas/Trampas que controle.
   fr: |-
-    Si cette carte est défaussée depuis votre main à votre Cimetière par un effet de carte de votre adversaire : Invoquez Spécialement cette carte depuis le Cimetière. Lorsque cette carte est Invoquée Spécialement de cette façon : détruisez tous les monstres contrôlés par votre adversaire OU toutes les Cartes Magie/Piège qu'il contrôle.
+    Si cette carte est défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire : Invoquez Spécialement cette carte depuis le Cimetière. Si elle est Invoquée de cette façon : détruisez tous les monstres contrôlés par votre adversaire OU toutes les Magies et tous les Pièges qu'il contrôle.
   it: |-
-    Se questa carta viene scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario: Evoca Specialmente questa carta dal Cimitero. Quando questa carta viene Evocata Specialmente in questo modo: distruggi tutti i mostri controllati dal tuo avversario OPPURE tutte le Carte Magia e Carte Trappola che controlla.
-  pt:
+    Se questa carta viene scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario: Evoca Specialmente questa carta dal Cimitero. Se viene Evocata in questo modo: distruggi tutti i mostri controllati dal tuo avversario OPPURE tutte le Magie/Trappole che controlla.
+  pt: |-
+    Se este card for descartado da sua mão para o seu Cemitério por um efeito de card do oponente: Invoque este card por Invocação-Especial do Cemitério. Se Invocado desta forma: destrua todos os monstros que seu oponente controla OU todas as Magias/Armadilhas que ele controla.
   ja: |-
     ①：このカードが相手の効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。②：このカードの①の効果で特殊召喚に成功した場合に発動する。以下の効果から１つを選んで適用する。
     ●相手フィールドのモンスターを全て破壊する。
@@ -45,7 +46,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: ReignBeauxOverlordofDarkWorld-SDGU-EN-C-1E.jpg
+  image: ReignBeauxOverlordofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: STON-EN017
@@ -103,6 +104,11 @@ sets:
     set_name: 'Structure Deck: Dark World'
     rarities:
     - Common
+  pt:
+  - set_number: SR13-PT004
+    set_name: 'Structure Deck: Dark World'
+    rarities:
+    - Common
   ja:
   - set_number: STON-JP017
     set_name: Strike of Neos
@@ -135,6 +141,10 @@ sets:
     set_name: Precious Pack Volume 2
     rarities:
     - Super Rare
+  - set_number: SR13-KR004
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Normal Parallel Rare
   zh-TW:
   - set_number: SD21-TC003
     set_name: "Structure Deck: Devil's Gate"

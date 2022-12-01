@@ -15,17 +15,17 @@ name:
   zh-CN: 连接暗黑界的结界通路
 text:
   en: |-
-    Target 1 "Dark World" monster in your Graveyard; Special Summon that target. You cannot Summon other monsters the turn you activate this card (but you can Set).
+    Target 1 "Dark World" monster in your GY; Special Summon that target. You cannot Summon monsters the turn you activate this card, except by this effect (but you can Normal Set).
   de: |-
-    Falls du diese Karte aktivierst, kannst du keine Normal-, Flipp- oder Spezialbeschwörungen während des Spielzugs durchführen, in dem diese Karte aktiviert wurde. Beschwöre 1 Monster von deinem Friedhof als Spezialbeschwörung, dessen Name "Finstere Welt" enthält.
+    Wähle 1 „Finsteren Welt“-Monster in deinem Friedhof; beschwöre jenes gewählte Ziel als Spezialbeschwörung. Du kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Monster beschwören, außer durch diesen Effekt (aber du kannst Normal setzen).
   es: |-
-    Selecciona 1 monstruo "Mundo Oscuro" en tu Cementerio; Invoca ese objetivo de Modo Especial. No puedes Invocar otros monstruos en el turno en el que activas esta carta (pero sí puedes Colocar).
+    Selecciona 1 monstruo "Mundo Oscuro" en tu Cementerio; Invoca ese objetivo de Modo Especial. No puedes Invocar monstruos en el turno en el que activas esta carta, excepto por este efecto (pero puedes Colocar de Modo Normal).
   fr: |-
-    Ciblez 1 monstre "Monde Ténébreux" dans votre Cimetière ; Invoquez Spécialement la cible. Vous ne pouvez pas Invoquer d'autres monstres le tour où vous activez cette carte (mais vous pouvez Poser).
+    Ciblez 1 monstre "Monde Ténébreux" dans votre Cimetière ; Invoquez Spécialement la cible. Vous ne pouvez pas Invoquer de monstres le tour où vous activez cette carte, sauf par cet effet (mais vous pouvez Poser Normalement).
   it: |-
-    Scegli come bersaglio 1 mostro "Mondo Oscuro" nel tuo Cimitero; Evoca Specialmente quel bersaglio. Non puoi Evocare altri mostri nel turno in cui attivi questa carta (ma puoi Posizionare).
+    Scegli come bersaglio 1 mostro "Mondo Oscuro" nel tuo Cimitero; Evoca Specialmente quel bersaglio. Non puoi Evocare mostri nel turno in cui attivi questa carta, eccetto che con questo effetto (ma puoi Posizionare Normalmente).
   pt: |-
-    Escolha 1 monstro "Mundo Negro" no seu Cemitério; Invoque o alvo por Invocação-Especial. Você não pode Invocar outros monstros no turno em que ativar este card (mas pode Baixá-los).
+    Escolha 1 monstro "Mundo Negro" no seu Cemitério; Invoque o alvo por Invocação-Especial. Você não pode Invocar monstros no turno em que ativar este card, exceto por este efeito (mas pode Baixá-los Normalmente).
   ja: |-
     このカードを発動するターン、自分はこのカードの効果以外ではモンスターを召喚・反転召喚・特殊召喚できない。①：自分の墓地の「暗黒界」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
@@ -40,7 +40,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: GatewaytoDarkWorld-LCJW-EN-ScR-1E.png
+  image: GatewaytoDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: EEN-EN048
@@ -151,6 +151,10 @@ sets:
     - Common
   - set_number: SD21-KR024
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: SR13-KR029
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

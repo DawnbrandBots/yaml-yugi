@@ -15,17 +15,17 @@ name:
   zh-CN: 暗黑界的鬼神 凯勒特
 text:
   en: |-
-    If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by an opponent's card effect, you can Special Summon 1 Fiend-Type monster from your Deck to either side of the field.
+    If this card is discarded to the GY by card effect: Special Summon this card, then, if this card was discarded from your hand to your GY by an opponent's card effect, you can Special Summon 1 Fiend monster from your Deck to either field.
   de: |-
-    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Beschwöre sie als Spezialbeschwörung vom Friedhof, dann, falls diese Karte durch einen Karteneffekt deines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, kannst du 1 Monster vom Typ Unterweltler als Spezialbeschwörung von deinem Deck auf eine beliebige Spielfeldseite beschwören.
+    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Beschwöre diese Karte als Spezialbeschwörung, dann, falls diese Karte durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, kannst du 1 Unterweltler-Monster als Spezialbeschwörung von deinem Deck auf eine beliebige Spielfeldseite beschwören.
   es: |-
-    Si esta carta es descartada al Cementerio por efecto de una carta: Invócala de Modo Especial desde el Cementerio y después, si esta carta fue descartada a tu Cementerio desde tu mano por el efecto de una carta de tu adversario, puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Tipo Demonio, en cualquier lado del Campo.
+    Si esta carta es descartada al Cementerio por efecto de una carta: Invoca esta carta de Modo Especial y después, si esta carta fue descartada de tu mano a tu Cementerio por efecto de una carta del adversario, puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Demonio a cualquier Campo.
   fr: |-
-    Si cette carte est défaussée au Cimetière par un effet de carte : Invoquez-la Spécialement depuis le Cimetière, puis, si cette carte a été défaussée depuis votre main à votre Cimetière par un effet de carte de votre adversaire, vous pouvez Invoquer Spécialement 1 monstre de Type Démon depuis votre Deck sur le Terrain.
+    Si cette carte est défaussée au Cimetière par un effet de carte : Invoquez Spécialement cette carte, puis, si cette carte a été défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire, vous pouvez Invoquer Spécialement 1 monstre Démon depuis votre Deck sur l'un des Terrains.
   it: |-
-    Se questa carta viene scartata al Cimitero dall'effetto di una carta: Evocala Specialmente dal Cimitero, poi, se questa carta è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario, puoi Evocare Specialmente 1 mostro Tipo Demone dal tuo Deck su qualsiasi Terreno.
+    Se questa carta viene scartata al Cimitero dall'effetto di una carta: Evoca Specialmente questa carta, poi, se questa carta è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario, puoi Evocare Specialmente 1 mostro Demone dal tuo Deck su qualsiasi Terreno.
   pt: |-
-    Se este card for descartado para o Cemitério por um efeito de card: Invoque-o por Invocação-Especial do Cemitério e, depois, se este card foi descartado da sua mão para o Cemitério por um efeito de card do oponente, você pode Invocar por Invocação-Especial em qualquer lado do campo 1 monstro do Tipo Demônio do seu Deck.
+    Se este card for descartado para o Cemitério por um efeito de card: Invoque este card por Invocação-Especial e, depois, se este card foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente, você pode Invocar por Invocação-Especial em qualquer campo 1 monstro Demônio do seu Deck.
   ja: |-
     ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、さらに自分はデッキから悪魔族モンスター１体を自分または相手フィールドに特殊召喚できる。
   ko: |-
@@ -44,7 +44,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: LucentNetherlordofDarkWorld-PRIO-EN-SR-1E.png
+  image: LucentNetherlordofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: PRIO-EN031
@@ -103,6 +103,10 @@ sets:
   ko:
   - set_number: PRIO-KR031
     set_name: Primal Origin
+    rarities:
+    - Common
+  - set_number: SR13-KR005
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

@@ -15,17 +15,17 @@ name:
   zh-CN: 暗黑界的狩人 布劳
 text:
   en: |-
-    If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.
+    If this card is discarded to the GY by card effect: Draw 1 card, or, if it was discarded from your hand to your GY by an opponent's card effect, draw 2 cards instead.
   de: |-
-    Falls diese Karte durch den Effekt einer Karte aus der Hand auf den Friedhof abgeworfen wird, ziehe 1 Karte von deinem Deck. Falls diese Karte durch den Effekt einer Karte deines Gegners aus der Hand auf den Friedhof abgeworfen wird, ziehe 1 Karte zusätzlich von deinem Deck.
+    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Ziehe 1 Karte oder, falls sie durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, ziehe stattdessen 2 Karten.
   es: |-
-    Si esta carta es descartada de la mano al Cementerio por efecto de una carta: roba 1 carta, más otra carta si esta carta fue descartada de tu mano a tu Cementerio por efecto de una carta de tu adversario.
+    Si esta carta es descartada al Cementerio por efecto de una carta: roba 1 carta o, si fue descartada de tu mano a tu Cementerio por efecto de una carta del adversario, roba 2 cartas en su lugar.
   fr: |-
-    Si cette carte est défaussée au Cimetière par un effet de carte : piochez 1 carte, et si cette carte a été défaussée depuis votre main à votre Cimetière par un effet de carte de votre adversaire, piochez 1 autre carte.
+    Si cette carte est défaussée au Cimetière par un effet de carte : piochez 1 carte, ou, si elle a été défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire, piochez 2 cartes à la place.
   it: |-
-    Se questa carta viene scartata al Cimitero dall'effetto di una carta: pesca 1 carta, più un'altra carta se questa carta è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta del tuo avversario.
+    Se questa carta viene scartata al Cimitero dall'effetto di una carta: pesca 1 carta, o, se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario, pesca invece 2 carte.
   pt: |-
-    Se este card for descartado para o Cemitério por um efeito de card: compre 1 card, mais um card se este card foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente.
+    Se este card for descartado para o Cemitério por um efeito de card: compre 1 card, ou, se ele foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente, em vez disso, compre 2 cards.
   ja: |-
     ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。自分はデッキから１枚ドローする。相手の効果で捨てられた場合、この効果でドローする枚数は２枚になる。
   ko: |-
@@ -44,7 +44,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: BrowwHuntsmanofDarkWorld-LCJW-EN-ScR-1E.png
+  image: BrowwHuntsmanofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: EEN-EN021
@@ -160,6 +160,10 @@ sets:
     - Rare
   - set_number: SD21-KR007
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  - set_number: SR13-KR011
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

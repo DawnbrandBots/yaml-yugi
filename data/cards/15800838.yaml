@@ -17,15 +17,15 @@ text:
   en: |-
     Declare 1 card name; if that card is in your opponent's hand, they must discard all copies of it, otherwise you discard 1 random card.
   de: |-
-    Deklariere 1 Kartennamen; falls sich die Karte in der Hand deines Gegners befindet, muss er alle Kopien davon abwerfen, andernfalls wirfst du 1 zufällige Karte ab.
+    Deklariere 1 Kartennamen; falls sich jene Karte in der Hand deines Gegners befindet, muss er alle Kopien davon abwerfen, andernfalls wirfst du 1 zufällige Karte ab.
   es: |-
-    Declara 1 nombre de carta; si esa carta está en la mano de tu adversario, debe descartar todas las copias que tenga, de otro modo tú descartas 1 carta al azar.
+    Declara 1 nombre de carta; si esa carta está en la mano de tu adversario, debe descartar todas las copias de ella que tenga, de otro modo tú descartas 1 carta al azar.
   fr: |-
     Déclarez 1 nom de carte ; si la carte est dans la main de votre adversaire, il doit en défausser tous les exemplaires, sinon vous défaussez 1 carte au hasard.
   it: |-
     Dichiara il nome di 1 carta; se quella carta è nella mano del tuo avversario, egli deve scartare tutte le copie di quella carta, altrimenti tu scarti 1 carta a caso.
   pt: |-
-    Declare o nome de 1 card; se esse card estiver na mão do seu oponente, ele deve descartar todas as cópias dele, caso contrário, você descarta 1 card aleatório da sua mão.
+    Declare 1 nome de card; se esse card estiver na mão do seu oponente, ele deve descartar todas as cópias dele, caso contrário, você descarta 1 card aleatório.
   ja: |-
     ①：カード名を１つ宣言して発動できる。宣言したカードが相手の手札にある場合、相手は手札のそのカードを全て捨てる。宣言したカードが相手の手札に無い場合、自分の手札をランダムに１枚選んで捨てる。
   ko: |-
@@ -38,7 +38,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MindCrush-SBCB-EN-C-1E.png
+  image: MindCrush-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: SOD-EN056
@@ -226,6 +226,10 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Common
+  - set_number: SR13-JP037
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR056
     set_name: Soul of the Duelist
@@ -245,6 +249,10 @@ sets:
     - Gold Rare
   - set_number: SR06-KR037
     set_name: 'Structure Deck R: Curse of the Dark'
+    rarities:
+    - Common
+  - set_number: SR13-KR037
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:

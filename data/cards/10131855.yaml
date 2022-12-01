@@ -15,17 +15,17 @@ name:
   zh-CN: 暗黑界的洗脑
 text:
   en: |-
-    When an opponent's monster activates its effect, if you have 3 or more cards in your hand (except during the Damage Step): You can target 1 "Dark World" monster on the field; return it to the hand, and if you do, the activated effect becomes "Discard 1 random card from your opponent's hand".
+    When your opponent activates a monster effect, if you have 3 or more cards in your hand (except during the Damage Step): You can target 1 "Dark World" monster on the field; return it to the hand, and if you do, the activated effect becomes "Your opponent randomly discards 1 card".
   de: |-
-    Wenn der Effekt eines Monsters deines Gegners aktiviert wird, falls du 3 oder mehr Karten in deiner Hand hast (außer während des Damage Steps): Du kannst 1 „Finsteren Welt“-Monster auf dem Spielfeld wählen; gib es auf die Hand zurück und falls du dies tust, wird der aktivierte Effekt zu „Wirf 1 zufällige Karte von der Hand deines Gegners ab.“
+    Wenn dein Gegner einen Monstereffekt aktiviert, falls du 3 oder mehr Karten in deiner Hand hast (außer während des Damage Steps): Du kannst 1 „Finsteren Welt“-Monster auf dem Spielfeld wählen; gib es auf die Hand zurück und falls du dies tust, wird der aktivierte Effekt zu „Dein Gegner wirft 1 zufällige Karte ab.“
   es: |-
-    Cuando un monstruo de tu adversario activa su efecto, si tú tienes 3 o más cartas en tu mano (excepto durante el Damage Step): puedes seleccionar 1 monstruo "Mundo Oscuro" en el Campo; devuélvelo a la mano y, si lo haces, el efecto activado se convierte en "Descarta 1 carta al azar de la mano de tu adversario".
+    Cuando tu adversario activa un efecto de monstruo, si tienes 3 o más cartas en tu mano (excepto durante el Damage Step): puedes seleccionar 1 monstruo "Mundo Oscuro" en el Campo; devuélvelo a la mano y, si lo haces, el efecto activado se convierte en "Tu adversario descarta 1 carta al azar".
   fr: |-
-    Lorsqu'un monstre de votre adversaire active son effet, si vous avez min. 3 cartes dans votre main (sauf durant la Damage Step) : vous pouvez cibler 1 monstre "Monde Ténébreux" sur le Terrain ; renvoyez-le à la main, et si vous le faites, l'effet activé devient "Défaussez 1 carte au hasard à votre adversaire".
+    Lorsque votre adversaire active un effet de monstre, si vous avez min. 3 cartes dans votre main (sauf durant la Damage Step) : vous pouvez cibler 1 monstre "Monde Ténébreux" sur le Terrain ; renvoyez-le à la main, et si vous le faites, l'effet activé devient "Votre adversaire défausse 1 carte au hasard".
   it: |-
-    Quando un mostro dell'avversario attiva i suoi effetti, se hai 3 o più carte nella tua mano (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro "Mondo Oscuro" sul Terreno; falla ritornare nella mano e, se lo fai, l'effetto attivato diventa "Scarta 1 carta a caso dalla mano del tuo avversario".
+    Quando il tuo avversario attiva l'effetto di un mostro, se hai 3 o più carte nella tua mano (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 mostro "Mondo Oscuro" sul Terreno; fallo ritornare nella mano e, se lo fai, l'effetto attivato diventa "Il tuo avversario scarta 1 carta a caso".
   pt: |-
-    Quando um monstro do oponente ativar seu efeito, se você tiver 3 ou mais cards na sua mão (exceto durante a Etapa de Dano): você pode escolher 1 monstro "Mundo Negro" no campo; devolva-o para a mão e, se isso acontecer, o efeito ativado se torna "Descarte 1 card aleatório da mão do seu oponente".
+    Quando seu oponente ativar um efeito de monstro, se você tiver 3 ou mais cards na sua mão (exceto durante a Etapa de Dano): você pode escolher 1 monstro "Mundo Negro" no campo; devolva-o para a mão e, se isso acontecer, o efeito ativado se torna "Seu oponente descarta 1 card aleatório".
   ja: |-
     ①：自分の手札が３枚以上存在し、相手がモンスターの効果を発動した時、フィールドの「暗黒界」モンスター１体を対象としてこの効果を発動できる。対象のモンスターを持ち主の手札に戻し、その相手の効果は「相手の手札をランダムに１枚選んで捨てる」となる。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: DarkWorldBrainwashing-MP18-EN-C-1E.png
+  image: DarkWorldBrainwashing-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: COTD-EN074
@@ -118,6 +118,10 @@ sets:
   ko:
   - set_number: COTD-KR074
     set_name: Code of the Duelist
+    rarities:
+    - Common
+  - set_number: SR13-KR036
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
 limit_regulation:

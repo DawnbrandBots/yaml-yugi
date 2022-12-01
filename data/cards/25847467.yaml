@@ -6,7 +6,7 @@ name:
   es: Kahkki, Guerrillero del Mundo Oscuro
   fr: Kahkki, Guérilla Du Monde Ténèbreux
   it: Kahkki, Guerrigliero del Mondo Oscuro
-  pt: Kahkki, Guerrilheiro do Mundo Escuro
+  pt: Kahkki, Guerrilheiro do Mundo Negro
   ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>刺<rt>し</rt></ruby><ruby>客<rt>かく</rt></ruby> カーキ
   ja_romaji: Ankokukai no Shikaku Kāki
   ko: 암흑계의 자객 카키
@@ -15,16 +15,17 @@ name:
   zh-CN: 暗黑界的刺客 卡其
 text:
   en: |-
-    If this card is discarded to the Graveyard by a card effect: Target 1 monster on the field; destroy that target.
+    If this card is discarded to the GY by card effect: Target 1 monster on the field; destroy it.
   de: |-
-    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Wähle 1 Monster auf dem Spielfeld; zerstöre das gewählte Ziel.
+    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Wähle 1 Monster auf dem Spielfeld; zerstöre es.
   es: |-
-    Si esta carta es descartada al Cementerio por el efecto de una carta: selecciona 1 monstruo en el Campo; destruye ese objetivo.
+    Si esta carta es descartada al Cementerio por efecto de una carta: selecciona 1 monstruo en el Campo; destrúyelo.
   fr: |-
-    Si cette carte est défaussée au Cimetière par un effet de carte : ciblez 1 monstre sur le Terrain ; détruisez la cible.
+    Si cette carte est défaussée au Cimetière par un effet de carte : ciblez 1 monstre sur le Terrain ; détruisez-le.
   it: |-
-    Se questa carta viene scartata al Cimitero dall'effetto di una carta: scegli come bersaglio 1 mostro sul Terreno; distruggi quel bersaglio.
-  pt:
+    Se questa carta viene scartata al Cimitero dall'effetto di una carta: scegli come bersaglio 1 mostro sul Terreno; distruggilo.
+  pt: |-
+    Se este card for descartado para o Cemitério por um efeito de card: escolha 1 monstro no campo; destrua-o.
   ja: |-
     ①：このカードが効果で手札から墓地へ捨てられた場合、フィールドのモンスター１体を対象として発動する。そのモンスターを破壊する。
   ko: |-
@@ -43,7 +44,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: KahkkiGuerillaofDarkWorld-SDGU-EN-C-1E.jpg
+  image: KahkkiGuerillaofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: STON-EN018
@@ -132,6 +133,10 @@ sets:
     set_name: Precious Pack Volume 2
     rarities:
     - Rare
+  - set_number: SR13-KR013
+    set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Common
   zh-TW:
   - set_number: SD21-TC012
     set_name: "Structure Deck: Devil's Gate"

@@ -6,7 +6,7 @@ name:
   es: Latinum, Exarca del Mundo Oscuro
   fr: Latinum, Exarque du Monde Ténébreux
   it: Latinum, Esarca del Mondo Oscuro
-  pt: Latinum, Governador do Mundo Escuro
+  pt: Latinum, Exarca do Mundo Negro
   ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>闘<rt>とう</rt></ruby><ruby>神<rt>しん</rt></ruby> ラチナ
   ja_romaji: Ankokukai no Tōshin Rachina
   ko: 암흑계의 투신 라티나
@@ -15,16 +15,17 @@ name:
   zh-CN: 暗黑界的斗神 拉提纳
 text:
   en: |-
-    If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, target 1 Fiend-Type monster on the field; Special Summon this card from the Graveyard, then that target (if any) gains 500 ATK.
+    If this card is discarded to the GY by card effect: If it was discarded from your hand to your GY by an opponent's card effect, target 1 Fiend monster on the field; Special Summon this card, then that target (if any) gains 500 ATK.
   de: |-
-    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Falls es durch einen Karteneffekt deines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, wähle 1 Monster vom Typ Unterweltler auf dem Spielfeld; beschwöre diese Karte als Spezialbeschwörung vom Friedhof, dann erhält das gewählte Ziel (falls es eins gibt) 500 ATK.
+    Falls diese Karte durch einen Karteneffekt auf den Friedhof abgeworfen wird: Falls sie durch einen Karteneffekt eines Gegners von deiner Hand auf deinen Friedhof abgeworfen wurde, wähle 1 Unterweltler-Monster auf dem Spielfeld; beschwöre diese Karte als Spezialbeschwörung, dann erhält jenes gewählte Ziel (falls es eins gibt) 500 ATK.
   es: |-
-    Si esta carta es descartada al Cementerio por el efecto de una carta: si fue descartada desde tu mano a tu Cementerio por el efecto de una carta de tu adversario, selecciona 1 monstruo de Tipo Demonio en el Campo; Invoca esta carta de Modo Especial desde el Cementerio, y después ese objetivo (si existe) gana 500 ATK.
+    Si esta carta es descartada al Cementerio por efecto de una carta: si fue descartada de tu mano a tu Cementerio por efecto de una carta del adversario, selecciona 1 monstruo Demonio en el Campo; Invoca esta carta de Modo Especial, y después ese objetivo (si lo hay) gana 500 ATK.
   fr: |-
-    Si cette carte est défaussée au Cimetière par un effet de carte : si cette carte a été défaussée depuis votre main à votre Cimetière par un effet de carte de votre adversaire, ciblez 1 montre de Type Démon sur le Terrain ; Invoquez Spécialement cette carte depuis le Cimetière, puis la cible (s'il y en a une) gagne 500 ATK.
+    Si cette carte est défaussée au Cimetière par un effet de carte : si elle a été défaussée depuis votre main à votre Cimetière par un effet de carte de l'adversaire, ciblez 1 monstre Démon sur le Terrain ; Invoquez Spécialement cette carte, puis la cible (s'il y en a une) gagne 500 ATK.
   it: |-
-    Se questa carta viene scartata al Cimitero dall'effetto di una carta: se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta del tuo avversario, scegli come bersaglio 1 mostro di Tipo Demone sul Terreno; Evoca Specialmente questa carta dal Cimitero, poi quel bersaglio (se lo hai scelto) guadagna 500 ATK.
-  pt:
+    Se questa carta viene scartata al Cimitero dall'effetto di una carta: se è stata scartata dalla tua mano al tuo Cimitero dall'effetto di una carta dell'avversario, scegli come bersaglio 1 mostro Demone sul Terreno; Evoca Specialmente questa carta, poi quel bersaglio (se c'è) guadagna 500 ATK.
+  pt: |-
+    Se este card for descartado para o Cemitério por um efeito de card: se ele foi descartado da sua mão para o seu Cemitério por um efeito de card do oponente, escolha 1 monstro Demônio no campo; Invoque este card por Invocação-Especial e, depois, o alvo (se houver) ganha 500 de ATK.
   ja: |-
     ①：このカードが効果で手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。相手の効果で捨てられた場合、発動時にフィールドの悪魔族モンスター１体を対象にする。その場合、さらに以下の効果を適用する。
     ●対象の悪魔族モンスターの攻撃力は５００アップする。
@@ -44,7 +45,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: LatinumExarchofDarkWorld-PHSW-EN-UR-1E.png
+  image: LatinumExarchofDarkWorld-SR13-EN-C-1E.png
 sets:
   en:
   - set_number: PHSW-EN085
@@ -103,6 +104,10 @@ sets:
   ko:
   - set_number: EXP5-KR026
     set_name: Extra Pack 2012
+    rarities:
+    - Common
+  - set_number: SR13-KR006
+    set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
   zh-TW:
