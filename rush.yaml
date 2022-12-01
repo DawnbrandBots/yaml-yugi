@@ -75552,6 +75552,234 @@ sets:
     - Common
 yugipedia_page_id: 893801
 ---
+konami_id: 17978
+name:
+  en: Greystorm Reverie
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: グレイストーム・レヴェリー
+  ja_romaji: Gureisutōmu Reverī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのこのカード以外のカード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 500 ATK until the end of this turn. Also, if no Spell/Trap Cards are on the field, this card can make up to 2 attacks on monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで５００アップする。お互いのフィールドに魔法・罠カードがない場合、さらにこのターン、このカードはモンスターに２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 2000
+images:
+- index: 1
+  image: GreystormReverie-RDG002-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/G002-JP001
+    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
+    rarities:
+    - Secret Rare
+yugipedia_page_id: 895392
+---
+konami_id: 17979
+name:
+  en: Magician's Valkyria
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    Your opponent cannot attack other face-up Spellcaster Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手はこのカード以外の表側表示モンスター（魔法使い族）に攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 4
+atk: 1600
+def: 1800
+legend: true
+images:
+- index: 1
+  image: MagiciansValkyria-RDG002-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/G002-JP002
+    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
+    rarities:
+    - Secret Rare
+yugipedia_page_id: 895389
+---
+konami_id: 17980
+name:
+  en: Heavy Storm
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Spell/Trap Cards on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドの魔法・罠カードを全て破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+legend: true
+images:
+- index: 1
+  image: HeavyStorm-RDG002-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/G002-JP003
+    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
+    rarities:
+    - Secret Rare
+yugipedia_page_id: 895390
+---
+konami_id: 17981
+name:
+  en: Cosmo Predictor
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: コスモ・プレデクター
+  ja_romaji: Kosumo Puredekutā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 8 Galaxy Type monster from your Graveyard to your hand. This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a "Greystorm Reverie" in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選んで手札に加える。このターン、「グレイストーム・レヴェリー」を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 2
+atk: 600
+def: 0
+images:
+- index: 1
+  image: CosmoPredictor-RDG002-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/G002-JPB01
+    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Galactica Victories promotional card"
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 911720
+---
 konami_id: 17990
 name:
   en: Voidvelgr Transi
@@ -83782,171 +84010,6 @@ yugipedia_page_id: 905613
 ---
 konami_id:
 name:
-  en: Magician's Valkyria
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    Your opponent cannot attack other face-up Spellcaster Type monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 4
-atk: 1600
-def: 1800
-legend: true
-images:
-- index: 1
-  image: MagiciansValkyria-RDG002-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/G002-JP002
-    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
-    rarities:
-    - Secret Rare
-yugipedia_page_id: 895389
----
-konami_id:
-name:
-  en: Heavy Storm
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all Spell/Trap Cards on the field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-legend: true
-images:
-- index: 1
-  image: HeavyStorm-RDG002-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/G002-JP003
-    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
-    rarities:
-    - Secret Rare
-yugipedia_page_id: 895390
----
-konami_id:
-name:
-  en: Greystorm Reverie
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: グレイストーム・レヴェリー
-  ja_romaji: Gureisutōmu Reverī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 other card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 500 ATK until the end of this turn. Also, if no Spell/Trap Cards are on the field, this card can make up to 2 attacks on monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 8
-atk: 2500
-def: 2000
-images:
-- index: 1
-  image: GreystormReverie-RDG002-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/G002-JP001
-    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
-    rarities:
-    - Secret Rare
-yugipedia_page_id: 895392
----
-konami_id:
-name:
   en: Magic Cylinder
   de:
   es:
@@ -84294,61 +84357,6 @@ sets:
     rarities:
     - Ultra Rare
 yugipedia_page_id: 909167
----
-konami_id:
-name:
-  en: Cosmo Predictor
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: コスモ・プレデクター
-  ja_romaji: Kosumo Puredekutā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no other monsters on your field during the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 8 Galaxy Type monster from your Graveyard to your hand. This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a "Greystorm Reverie" in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 2
-atk: 600
-def: 0
-images:
-- index: 1
-  image: CosmoPredictor-RDG002-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/G002-JPB01
-    set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Galactica Victories promotional card"
-    rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 911720
 ---
 konami_id:
 name:
