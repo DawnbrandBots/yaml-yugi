@@ -48,7 +48,7 @@ jobs:
             ../../../yaml-yugipedia/wikitext/cards \
             --zh-CN ../../../yaml-yugi-zh/zh-CN \
             --assignments ../../src/assignments/assignments.yaml \
-            --tcg ../../data/limit-regulation/tcg/2022-10-03.vector.json \
+            --tcg ../../data/limit-regulation/tcg/2022-12-01.vector.json \
             --ocg ../../data/limit-regulation/ocg/2022-10-01.name.json \
             --ko ../../../overrides.tsv \
             --aggregate ../../../aggregate/cards.json
