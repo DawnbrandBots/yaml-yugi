@@ -80044,6 +80044,65 @@ sets:
     - Normal Parallel Rare
 yugipedia_page_id: 897354
 ---
+konami_id: 18307
+name:
+  en: Galactica Reminiscence
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギャラクティカ・レミニセンス
+  ja_romaji: Gyarakutika Reminisensu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 Trap Card from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の罠カード１枚をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    All face-up Galaxy Type monsters on your field gain 400 ATK until the end of this turn. Then, if you have "Galactica Oblivion" face-up on your field, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの全ての表側表示モンスター（ギャラクシー族）の攻撃力をターン終了時まで４００アップする。自分フィールドに表側表示の「ギャラクティカ・オブリビオン」がいる場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで１０００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 7
+atk: 2400
+def: 2000
+series:
+- Galactica
+images:
+- index: 1
+  image: GalacticaReminiscence-RDCGR1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/CGR1-JP001
+    set_name: Yu-Gi-Oh! GO RUSH!! Volume 1 promotional card
+    rarities:
+    - Ultra Rare
+yugipedia_page_id: 909167
+---
 konami_id: 18333
 name:
   en: Jointech Raptor
@@ -84008,6 +84067,78 @@ sets:
     - Secret Rare
 yugipedia_page_id: 905613
 ---
+konami_id: 18463
+name:
+  en: Cyber Search Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバー・サーチ・ドラゴン
+  ja_romaji: Saibā Sāchi Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 face-up "Cyber Dragon".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase that you Normal or Special Summoned this card, place 1 card from your hand on top of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに、手札１枚をデッキの上に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「サイバー・ドラゴン」１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 8
+atk: 2400
+def: 1600
+series:
+- Cyber Dragon
+images:
+- index: 1
+  image: CyberSearchDragon-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP022
+    set_name: Saikyō Jump January 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 909123
+---
 konami_id:
 name:
   en: Magic Cylinder
@@ -84231,132 +84362,6 @@ sets:
     rarities:
     - Secret Rare
 yugipedia_page_id: 904875
----
-konami_id:
-name:
-  en: Cyber Search Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイバー・サーチ・ドラゴン
-  ja_romaji: Saibā Sāchi Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Tribute Summon this card in Attack Position by Tributing 1 face-up "Cyber Dragon".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase that you Normal or Special Summoned this card, place 1 card from your hand on top of the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: LIGHT
-level: 8
-atk: 2400
-def: 1600
-series:
-- Cyber Dragon
-images:
-- index: 1
-  image: CyberSearchDragon-RDSJMP-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/SJMP-JP022
-    set_name: Saikyō Jump January 2023 promotional card
-    rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 909123
----
-konami_id:
-name:
-  en: Galactica Reminiscence
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギャラクティカ・レミニセンス
-  ja_romaji: Gyarakutika Reminisensu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 Trap Card from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    All face-up Galaxy Type monsters on your field gain 400 ATK until the end of this turn. Then, if you have "Galactica Oblivion" face-up on your field, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 7
-atk: 2400
-def: 2000
-series:
-- Galactica
-images:
-- index: 1
-  image: GalacticaReminiscence-RDCGR1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/CGR1-JP001
-    set_name: Yu-Gi-Oh! GO RUSH!! Volume 1 promotional card
-    rarities:
-    - Ultra Rare
-yugipedia_page_id: 909167
 ---
 konami_id:
 name:
