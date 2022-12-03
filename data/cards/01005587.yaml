@@ -12,7 +12,7 @@ name:
   ko: 연옥의 함정 속으로
   ko_rr:
   zh-TW: 煉獄陷坑
-  zh-CN: 炼狱的落穴
+  zh-CN: 炼狱落穴
 text:
   en: |-
     When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.
@@ -27,13 +27,13 @@ text:
   pt: |-
     Quando seu oponente Invocar um ou mais monstros com 2000 ou mais de ATK por Invocação-Especial: negue os efeitos de 1 desses monstros com 2000 ou mais de ATK e, se isso acontecer, destrua-o.
   ja: |-
-    ①：相手が攻撃力２０００以上のモンスターを特殊召喚した時に発動できる。その攻撃力２０００以上のモンスター１体を選び、効果を無効にし破壊する。
+    ①：相手が攻撃力２０００以上のモンスターの特殊召喚に成功した時に発動できる。その攻撃力２０００以上のモンスター１体を選び、効果を無効にし破壊する。
   ko: |-
-    상대가 공격력 2000 이상의 몬스터를 특수 소환했을 때에 발동할 수 있다. 그 공격력 2000 이상의 몬스터 1장의 효과를 무효로 하고 파괴한다.
+    ①: 상대가 공격력 2000 이상의 몬스터를 특수 소환했을 때에 발동할 수 있다. 그 공격력 2000 이상의 몬스터 1장을 골라, 효과를 무효로 하고 파괴한다.
   zh-TW: |-
     对手特殊召唤攻击力2000或以上的怪兽时可发动。使该攻击力2000或以上的1只怪兽的效果无效并破坏。
   zh-CN: |-
-    对方把攻击力2000以上的怪兽特殊召唤时才能发动。那1只攻击力2000以上的怪兽的效果无效并破坏。
+    ①：对手特殊召唤攻击力２０００以上的怪兽时可以发动。挑选１只该攻击力２０００以上的怪兽，将其效果无效并破坏。
 card_type: Trap
 property: Normal
 series:
@@ -120,6 +120,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: CL02-SC161
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
