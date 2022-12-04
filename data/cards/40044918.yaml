@@ -12,7 +12,7 @@ name:
   ko: 엘리멘틀 히어로 에어맨
   ko_rr: Ellimenteul Hieoro Eeomaen
   zh-TW:
-  zh-CN: 元素英雄 天空侠
+  zh-CN: 元素－英雄 大气人
 text:
   en: |-
     When this card is Normal or Special Summoned: You can activate 1 of these effects.
@@ -44,7 +44,7 @@ text:
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●이 카드 이외의 자신 필드의 "히어로" 몬스터의 수까지, 필드의 마법 / 함정 카드를 고르고 파괴한다. ●덱에서 "히어로" 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡召唤·特殊召唤成功时，可以从以下效果选择1个发动。●选最多有这张卡以外的自己场上的「英雄」怪兽数量的场上的魔法·陷阱卡破坏。●从卡组把1只「英雄」怪兽加入手卡。
+    ①：此卡召唤・特殊召唤成功时，可从以下效果中选择1个发动。●挑选场上的魔法・陷阱卡破坏，数量最多为自己场上此卡以外的“－英雄”怪兽数量。●从牌组将1只“－英雄”怪兽加入手牌。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WIND
@@ -323,6 +323,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: SD27-SC002
+    set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
