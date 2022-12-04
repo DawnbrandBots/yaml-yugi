@@ -32,8 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 "No." 엑시즈 몬스터의 종류의 수만큼, 자신은 덱에서 드로우한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。
-    ①：自己从卡组抽出自己场上的「No.」超量怪兽种类的数量。
+    此卡名的卡1回合仅可发动1张。①：依自己场上"编号"超量怪兽种类的数量，自己从牌组抽牌。
 card_type: Spell
 property: Normal
 images:
@@ -106,7 +105,12 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  zh-CN:
+  - set_number: SD42-SC031
+    set_name: 'Structure Deck: Overlay Universe'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Semi-Limited
+  ocg: Unlimited
 yugipedia_page_id: 581534
