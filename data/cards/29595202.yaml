@@ -12,7 +12,7 @@ name:
   ko: 루닉의 속임수
   ko_rr: Runik-ui Sok-imsu
   zh-TW:
-  zh-CN: 神碑之诳
+  zh-CN: 神碑之诱骗
 text:
   en: |-
     Each time a Quick-Play Spell Card activates: Banish the top card of your opponent's Deck. You can only control 1 "Runick Allure".
@@ -32,7 +32,7 @@ text:
     ①: "루닉의 속임수"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 또는 상대가 속공 마법 카드를 발동할 때마다 발동한다. 상대의 덱 위에서 카드를 1장 제외한다.
   zh-TW:
   zh-CN: |-
-    ①：「神碑の誑かし／神碑之诳」在自己的场上只能有1张以表侧表示存在。②：每次自己或者对手发动速攻魔法卡就必定发动。从对手卡组上面将1张卡除外。
+    ①："神碑之诱骗"在自己场上仅可有1张以表侧表示形式存在。②：自己或对手每次发动速攻魔法卡则发动。从对手的牌组上面将1张卡除外。
 card_type: Spell
 property: Continuous
 series:
@@ -78,6 +78,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: DBTM-SC028
+    set_name: 'Deck Build Pack: Tactical Masters'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
