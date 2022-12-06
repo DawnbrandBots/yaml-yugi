@@ -174,6 +174,21 @@ def transform_texts(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = No
     }
 
 
+def transform_multilanguage(wikitext: Dict[str, str], basename: str) -> Dict[str, str]:
+    return {
+        "en": str_or_none(wikitext.get(basename)),
+        "de": str_or_none(wikitext.get(f"de_{basename}")),
+        "es": str_or_none(wikitext.get(f"es_{basename}")),
+        "fr": str_or_none(wikitext.get(f"fr_{basename}")),
+        "it": str_or_none(wikitext.get(f"it_{basename}")),
+        "pt": str_or_none(wikitext.get(f"pt_{basename}")),
+        "ja": str_or_none(wikitext.get(f"ja_{basename}")),
+        "ko": str_or_none(wikitext.get(f"ko_{basename}")),
+        "zh-TW": str_or_none(wikitext.get(f"tc_{basename}")),
+        "zh-CN": str_or_none(wikitext.get(f"sc_{basename}")),
+    }
+
+
 LINK_ARROW_MAPPING = {
     "Bottom-Left": "↙",
     "Bottom-Center": "⬇",  # YGOPRODECK: Bottom

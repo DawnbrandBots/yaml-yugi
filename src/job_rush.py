@@ -1,6 +1,5 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-import json
 import logging
 import os
 import sys
@@ -10,24 +9,9 @@ from typing import Any, Dict, List, Optional
 from ruamel.yaml import YAML
 
 from common import int_or_og, initial_parse, int_or_none, transform_names, transform_texts, annotate_shared, \
-    transform_sets, transform_image, str_or_none, write
+    transform_sets, transform_image, transform_multilanguage, write
 
 module_logger = logging.getLogger(__name__)
-
-
-def transform_multilanguage(wikitext: Dict[str, str], basename: str) -> Dict[str, str]:
-    return {
-        "en": str_or_none(wikitext.get(basename)),
-        "de": str_or_none(wikitext.get(f"de_{basename}")),
-        "es": str_or_none(wikitext.get(f"es_{basename}")),
-        "fr": str_or_none(wikitext.get(f"fr_{basename}")),
-        "it": str_or_none(wikitext.get(f"it_{basename}")),
-        "pt": str_or_none(wikitext.get(f"pt_{basename}")),
-        "ja": str_or_none(wikitext.get(f"ja_{basename}")),
-        "ko": str_or_none(wikitext.get(f"ko_{basename}")),
-        "zh-TW": str_or_none(wikitext.get(f"tc_{basename}")),
-        "zh-CN": str_or_none(wikitext.get(f"sc_{basename}")),
-    }
 
 
 def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
