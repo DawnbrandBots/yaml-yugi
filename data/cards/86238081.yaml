@@ -12,7 +12,7 @@ name:
   ko: 패왕열룡 오드아이즈 레이징 드래곤
   ko_rr: Paewang-yeollyong Odeu-aijeu Reijing Deuragon
   zh-TW:
-  zh-CN: 霸王烈龙 异色眼烈火龙
+  zh-CN: 霸王烈龙 异色眼狂怒龙
 text:
   en: |-
     2 Level 7 Dragon-Type monsters
@@ -51,8 +51,8 @@ text:
     레벨 7 이 펜듈럼 소환 가능한 경우에 엑스트라 덱 앞면 표시의 이 카드는 펜듈럼 소환할 수 있다. ①: 엑시즈 몬스터를 소재로서 엑시즈 소환한 이 카드는 이하의 효과를 얻는다. ●이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수다. ●1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드의 카드를 전부 파괴하고, 이 카드의 공격력은 턴 종료시까지, 파괴한 카드의 × 200 올린다. ②: 몬스터 존의 이 카드가 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
   zh-TW:
   zh-CN: |-
-    龙族7星怪兽×2
-    7星可以灵摆召唤的场合在额外卡组的表侧表示的这张卡可以灵摆召唤。①：XYZ怪兽为素材作XYZ召唤的这张卡得到以下效果。●这张卡在同1次的战斗阶段中可以作2次攻击。●1回合1次，把这张卡1个XYZ素材取除才能发动。对方场上的卡全部破坏，这张卡的攻击力直到回合结束时上升破坏的卡数量×200。②：怪兽区域的这张卡被破坏的场合才能发动。这张卡在自己的灵摆区域放置。
+    龙族等级7怪兽×2
+    在可灵摆召唤等级7的情况下，额外牌组表侧表示的此卡可以灵摆召唤。①：以超量怪兽为素材超量召唤的此卡获得以下效果。●此卡在1次战斗阶段中可攻击2次。●1回合1次，去除此卡的1个超量素材可以发动。将对手场上的卡全部破坏，此卡的攻击力直至回合结束时为止，上升相当于所破坏的卡的数量×200的数值。②：怪兽区域的此卡被破坏的情况下可以发动。将此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Dragon / Xyz / Pendulum / Effect
 attribute: DARK
@@ -79,7 +79,7 @@ pendulum_effect:
     ①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 고르고, 자신 펜듈럼 존에 놓는다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，另一边的自己的灵摆区域没有卡存在的场合才能发动。从卡组选1只灵摆怪兽在自己的灵摆区域放置。
+    ①：1回合1次，另一方自己的灵摆区域没有卡存在的情况下可以发动。从牌组挑选1只灵摆怪兽，放在自己的灵摆区域。
 materials: 2 Level 7 Dragon-Type monsters
 series:
 - -Eyes Dragon
@@ -150,6 +150,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Holographic Rare
+  zh-CN:
+  - set_number: SD29-SCP05
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
