@@ -12,7 +12,7 @@ name:
   ko: 패왕흑룡 오드아이즈 리벨리온 드래곤
   ko_rr: Paewangheungnyong Odeuaijeu Ribellion Deuraegon
   zh-TW:
-  zh-CN: 霸王黑龙 异色眼叛逆龙
+  zh-CN: 霸王黑龙 异色眼反叛龙
 text:
   en: |-
     2 Level 7 Dragon monsters
@@ -40,8 +40,8 @@ text:
     레벨 7 이 펜듈럼 소환 가능한 경우에 엑스트라 덱의 앞면 표시의 이 카드는 펜듈럼 소환할 수 있다. ①: 이 카드가 엑시즈 몬스터를 소재로서 엑시즈 소환에 성공했을 경우에 발동한다. 상대 필드의 레벨 7 이하의 몬스터를 전부 파괴하고, 파괴한 수 × 1000 데미지를 상대에게 준다. 이 턴에, 이 카드는 1번의 배틀 페이즈 중에 3회 공격할 수 있다. ②: 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 펜듈럼 존의 카드를 전부 파괴하고, 이 카드를 자신의 펜듈럼 존에 놓는다.
   zh-TW:
   zh-CN: |-
-    龙族7星怪兽×2
-    7星可以灵摆召唤的场合在额外卡组的表侧表示的这张卡可以灵摆召唤。①：这张卡用XYZ怪兽为素材作XYZ召唤成功的场合发动。对方场上的7星以下的怪兽全部破坏，给与对方破坏数量×1000伤害。这个回合这张卡在同1次的战斗阶段中可以作3次攻击。②：怪兽区域的这张卡被战斗·效果破坏的场合才能发动。自己的灵摆区域的卡全部破坏，这张卡在自己的灵摆区域放置。
+    龙族等级7怪兽×2
+    在可灵摆召唤等级7的情况下，额外牌组表侧表示的此卡可以灵摆召唤。①：此卡以超量怪兽为素材超量召唤成功的情况下发动。将对手场上等级7以下的怪兽全部破坏，给予对手相当于所破坏数量×1000的数值的伤害。此回合，此卡在1次战斗阶段中可攻击3次。②：怪兽区域的此卡因战斗・效果被破坏的情况下可以发动。将自己灵摆区域的卡全部破坏，将此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Dragon / Xyz / Pendulum / Effect
 attribute: DARK
@@ -68,7 +68,7 @@ pendulum_effect:
     ①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 고르고, 자신의 펜듈럼 존에 놓는다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，另一边的自己的灵摆区域没有卡存在的场合才能发动。从卡组选1只灵摆怪兽在自己的灵摆区域放置。
+    ①：1回合1次，另一方自己的灵摆区域没有卡存在的情况下可以发动。从牌组挑选1只灵摆怪兽，放在自己的灵摆区域。
 materials: 2 Level 7 Dragon-Type monsters
 series:
 - -Eyes Dragon
@@ -201,6 +201,11 @@ sets:
     set_name: Dimension Force +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: SD29-SCP04
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
