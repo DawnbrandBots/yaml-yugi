@@ -31762,7 +31762,7 @@ images:
   image: DarkMagicianGirl-RDEV01-KR-ScR.png
   illustration: DarkMagicianGirl-DBR-EN-VG-artwork.png
 - index: 2
-  image: '  DarkMagicianGirl-RDDD02-JP-OP.png'
+  image: '  DarkMagicianGirl-RDDD02-JP-ScR.png'
 sets:
   ja:
   - set_number: RD/G001-JP002
@@ -84124,7 +84124,7 @@ series:
 - Signature move
 images:
 - index: 1
-  image: TransamuRainacWarToZen-RDDD02-JP-OP.png
+  image: TransamuRainacWarToZen-RDDD02-JP-ScR.png
 sets:
   ja:
   - set_number: RD/DD02-JP001
@@ -84183,7 +84183,7 @@ series:
 - Jointech
 images:
 - index: 1
-  image: JointechLeo-RDDD02-JP-OP.png
+  image: JointechLeo-RDDD02-JP-ScR.png
 sets:
   ja:
   - set_number: RD/DD02-JP002
@@ -84242,7 +84242,7 @@ series:
 - High Tech Dragon
 images:
 - index: 1
-  image: LightwaveDragon-RDDD02-JP-OP.png
+  image: LightwaveDragon-RDDD02-JP-ScR.png
 sets:
   ja:
   - set_number: RD/DD02-JP003
@@ -84296,7 +84296,7 @@ property: Normal
 legend: true
 images:
 - index: 1
-  image: MagicCylinder-RDDD02-JP-OP.png
+  image: MagicCylinder-RDDD02-JP-ScR.png
 sets:
   ja:
   - set_number: RD/DD02-JP005
@@ -85131,7 +85131,7 @@ name:
   zh-CN:
 summoning_condition:
   en: |-
-    Cannot be Special Summoned.
+    This card cannot be Special Summoned.
   de:
   es:
   fr:
@@ -85732,3 +85732,84 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 921309
+---
+konami_id:
+name:
+  en: Five-Headed Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    Must be Fusion Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードはフュージョン召喚でしか特殊召喚できない。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND Attribute monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードはモンスター（闇属性・地属性・水属性・炎属性・風属性）との戦闘では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: DARK
+level: 12
+atk: 5000
+def: 5000
+materials:
+  en: |-
+    5 Dragon Type monsters
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター（ドラゴン族）×５
+  ko:
+  zh-TW:
+  zh-CN:
+sets:
+  ja:
+  - set_number: RD/????-JP0??
+    set_name: Legend Awakening Pack
+    rarities:
+yugipedia_page_id: 921329
