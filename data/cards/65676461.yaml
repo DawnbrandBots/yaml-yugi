@@ -12,7 +12,7 @@ name:
   ko: No.32 샤크 드레이크
   ko_rr: Neombeojeu Samsip-i Syakeu Deureikeu
   zh-TW: No.32 海咬龍 鯊魚龍
-  zh-CN: No.32 海咬龙 鲨龙兽
+  zh-CN: 编号32 海咬龙 鲨龙兽
 text:
   en: |-
     3 Level 4 monsters
@@ -42,8 +42,8 @@ text:
     等级4怪兽×3
     1回合1次，因此卡的攻击破坏对手怪兽并送入墓地时，可移除此卡的1个超量素材并发动。以表侧攻击表示特殊召唤被破坏的该怪兽至对手场上。以此效果特殊召唤的怪兽的攻击力下降1000点。并且，于此战斗阶段中，此卡仅可再攻击1次。
   zh-CN: |-
-    4星怪兽×3
-    1回合1次，这张卡的攻击破坏对方怪兽送去墓地时，把这张卡1个XYZ素材取除才能发动。破坏的那只怪兽在对方场上表侧攻击表示特殊召唤。这个效果特殊召唤的怪兽的攻击力下降1000。并且，这次战斗阶段中，这张卡只再1次可以攻击。
+    等级4怪兽×3
+    ①：1回合1次，以此卡的攻击破坏对手怪兽并送至墓地时，去除此卡的1个超量素材可以发动。将该怪兽以攻击表示特殊召唤至对手场上。以此效果特殊召唤的怪兽的攻击力下降1000。以此效果特殊召唤的情况下，此战斗阶段中，此卡可再攻击仅1次。
 card_type: Monster
 monster_type_line: Sea Serpent / Xyz / Effect
 attribute: WATER
@@ -163,6 +163,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SD42-SC042
+    set_name: 'Structure Deck: Overlay Universe'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
