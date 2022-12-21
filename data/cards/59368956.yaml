@@ -12,7 +12,7 @@ name:
   ko: 분보그<ruby>002<rt>제로제로투</rt></ruby>
   ko_rr:
   zh-TW:
-  zh-CN: 文具电子人002
+  zh-CN: 文具博格００２
 text:
   en: |-
     If this card is Special Summoned: You can add 1 "Deskbot" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.
@@ -32,8 +32,7 @@ text:
     ① : 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "분보그" 카드 1장을 패에 넣는다. ② : 이 카드가 몬스터 존에 존재하는 한, 이 카드 이외의 자신 필드의 기계족 몬스터의 공격력 / 수비력은 500 올린다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡特殊召唤成功的场合才能发动。从卡组把1张「文具电子人」卡加入手卡。
-    ②：只要这张卡在怪兽区域存在，这张卡以外的自己场上的机械族怪兽的攻击力·守备力上升500。
+    ①：此卡特殊召唤成功的情况下可以发动。从牌组将1张"文具博格"卡加入手牌。②：只要此卡存在于怪兽区域，自己场上此卡以外的机械族怪兽的攻击力・守备力上升500。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -119,6 +118,11 @@ sets:
   ko:
   - set_number: NECH-KR042
     set_name: The New Challengers
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC074
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

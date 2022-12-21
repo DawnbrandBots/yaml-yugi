@@ -12,7 +12,7 @@ name:
   ko: 스핀 턴
   ko_rr: Seupin Teon
   zh-TW:
-  zh-CN: 超信地旋回
+  zh-CN: 超原地转向
 text:
   en: |-
     Activate 1 of the following effects.
@@ -48,9 +48,9 @@ text:
     ●자신 필드의 수비 표시의 기계족 / 땅 속성 엑시즈 몬스터 1장과 상대 필드의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 자신 몬스터의 표시 형식을 변경하고, 그 상대의 마법 / 함정 카드를 파괴한다.
   zh-TW:
   zh-CN: |-
-    ①：可以从以下效果选择1个发动。
-    ●以自己场上1只攻击表示的机械族·地属性超量怪兽和对方场上1只怪兽为对象才能发动。那只自己怪兽的表示形式变更，那只对方怪兽破坏。
-    ●以自己场上1只守备表示的机械族·地属性超量怪兽和对方场上1张魔法·陷阱卡为对象才能发动。那只自己怪兽的表示形式变更，那张对方的魔法·陷阱卡破坏。
+    ①：可从以下效果中选择1个发动。
+    ●以自己场上的1只攻击表示的机械族・地属性超量怪兽和对手场上的1只怪兽为对象可以发动。变更该自己的怪兽的表示形式，将该对手的怪兽破坏。
+    ●以自己场上的1只守备表示的机械族・地属性超量怪兽和对手场上的1张魔法・陷阱卡为对象可以发动。变更该自己的怪兽的表示形式，将该对手的魔法・陷阱卡破坏。
 card_type: Trap
 property: Normal
 images:
@@ -114,6 +114,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TM01-SC038
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

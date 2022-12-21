@@ -12,7 +12,7 @@ name:
   ko: 머시너즈 솔저
   ko_rr: Meosineojeu Soljeo
   zh-TW: 機甲士兵
-  zh-CN: 机甲士兵
+  zh-CN: 机甲部队・士兵
 text:
   en: |-
     When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 "Machina" monster from your hand, except "Machina Soldier".
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上不存在怪兽的场合，当此卡召唤成功时可发动。从手牌中特殊召唤「機甲士兵」以外1只冠有的「機甲」之名的怪兽。
   zh-CN: |-
-    ①：自己场上没有其他怪兽存在，这张卡召唤成功时才能发动。从手卡把1只「机甲士兵」以外的「机甲」怪兽特殊召唤。
+    ①：自己场上没有其他怪兽存在，此卡召唤成功时可以发动。从手牌将"机甲部队・士兵"以外的1只"机甲部队"怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -132,6 +132,11 @@ sets:
   zh-TW:
   - set_number: SD18-TC006
     set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC011
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 분보그<ruby>008<rt>제로제로에이트</rt></ruby>
   ko_rr:
   zh-TW:
-  zh-CN: 文具电子人008
+  zh-CN: 文具博格００８
 text:
   en: |-
     This card gains 500 ATK for each "Deskbot" card in your Graveyard. Your opponent cannot target face-up "Deskbot" cards with card effects, except this one. This card can make up to 2 attacks on monsters during each Battle Phase.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 공격력은, 자신 묘지의 "분보그" 카드의 수 × 500 올린다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 다른 "분보그" 카드를 효과의 대상으로 할 수 없다. ③: 이 카드는 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡的攻击力上升自己墓地的「文具电子人」卡数量×500。②：只要这张卡在怪兽区域存在，对方不能把其他的「文具电子人」卡作为效果的对象。③：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。
+    ①：此卡的攻击力上升相当于自己墓地"文具博格"卡数量×500的数值。②：只要此卡存在于怪兽区域，对手不可将其他"文具博格"卡作为效果的对象。③：此卡在1次战斗阶段中最多可攻击怪兽2次。
 card_type: Monster
 monster_type_line: Machine / Pendulum / Effect
 attribute: EARTH
@@ -59,7 +59,7 @@ pendulum_effect:
     ①: 자신은 "분보그" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다.
   zh-TW:
   zh-CN: |-
-    ①：自己不是「文具电子人」怪兽不能灵摆召唤。这个效果不会被无效化。
+    ①：自己仅可灵摆召唤"文具博格"怪兽。此效果不会被无效化。
 series:
 - Deskbot
 images:
@@ -119,6 +119,11 @@ sets:
   ko:
   - set_number: BOSH-KR040
     set_name: Breakers of Shadow
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC080
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 무한기동 스크레이퍼
   ko_rr: Muhan-gidong Seukeureipeo
   zh-TW:
-  zh-CN: 无限起动 削石臂掘进机
+  zh-CN: 无限起动 削岩掘进机
 text:
   en: |-
     You can Tribute 1 EARTH Machine monster; Special Summon this card from your hand in Defense Position. You can banish this card from your GY, then target 5 EARTH Machine monsters in your GY; shuffle them into the Deck, then draw 2 cards. You can only use each effect of "Infinitrack Tunneller" once per turn.
@@ -32,9 +32,7 @@ text:
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 기계족 / 땅 속성 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드를 패에서 수비 표시로 특수 소환한다. ②: 묘지의 이 카드를 제외하고, 자신 묘지의 기계족 / 땅 속성 몬스터 5장을 대상으로 하여 발동할 수 있다. 그 몬스터를 덱으로 되돌리고 셔플한다. 그 후, 자신은 덱에서 2장 드로우한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：把自己场上1只机械族·地属性怪兽解放才能发动。这张卡从手卡守备表示特殊召唤。
-    ②：把墓地的这张卡除外，以自己墓地5只机械族·地属性怪兽为对象才能发动。那些怪兽回到卡组洗切。那之后，自己从卡组抽2张。
+    此卡名的①②效果1回合仅可各使用1次。①：解放自己场上的1只机械族・地属性怪兽可以发动。将此卡从手牌以守备表示特殊召唤。②：将墓地的此卡除外，以自己墓地的5只机械族・地属性怪兽为对象可以发动。将该怪兽放回牌组洗牌。然后自己从牌组抽2张。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -104,6 +102,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TM01-SC029
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

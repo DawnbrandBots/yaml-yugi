@@ -12,7 +12,7 @@ name:
   ko: 머시너즈 메가폼
   ko_rr: Meosineojeu Megapom
   zh-TW:
-  zh-CN: 机甲部队·超大变形
+  zh-CN: 机甲部队・超级型态
 text:
   en: |-
     You can Tribute this card; Special Summon 1 "Machina" monster from your hand or Deck, except "Machina Megaform". If a face-up "Machina Fortress" you control is sent to your GY while this card is in your GY (except during the Damage Step): You can banish that "Machina Fortress" from the GY; Special Summon this card. You can only use 1 "Machina Megaform" effect per turn, and only once that turn.
@@ -32,7 +32,7 @@ text:
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드를 릴리스하고 발동할 수 있다. 패 / 덱에서 "머시너즈 메가폼" 이외의 "머시너즈" 몬스터 1장을 특수 소환한다. ②: 이 카드가 묘지에 존재하는 상태에서, 자신 필드의 "머시너즈 포트리스"가 자신 묘지로 보내졌을 경우, 그 "머시너즈 포트리스" 1장을 묘지에서 제외하고 발동할 수 있다. 이 카드를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的①②的效果1回合只能有1次使用其中任意1个。①：把这张卡解放才能发动。从手卡·卡组把「机甲部队·超大变形」以外的1只「机甲」怪兽特殊召唤。②：这张卡在墓地存在的状态，自己场上的「机甲要塞」被送去自己墓地的场合，把那1只「机甲要塞」从墓地除外才能发动。这张卡特殊召唤。
+    此卡名的①②效果1回合1次，仅可使用其中1个。①：解放此卡可以发动。从手牌・牌组将1只"机甲部队・超级型态"以外的"机甲部队"怪兽特殊召唤。②：此卡存在于墓地的状态下，自己场上的"机甲部队・要塞"被送至自己墓地的情况下，将该1只"机甲部队・要塞"从墓地除外可以发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -114,6 +114,11 @@ sets:
     - Common
   - set_number: SR10-KR008
     set_name: 'Structure Deck R: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC006
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

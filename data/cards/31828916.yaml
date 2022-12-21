@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     当机械族怪兽因战斗破坏被送入我方墓地时，可从我方牌组中特殊召唤1只攻击力比该怪兽低，同属性的机械族怪兽。此效果1回合只可使用1次。
   zh-CN: |-
-    ①：1回合1次，机械族怪兽被战斗破坏送去自己墓地时才能发动。把比墓地的那只怪兽攻击力低的1只相同属性的机械族怪兽从卡组特殊召唤。
+    ①：1回合1次，机械族怪兽因战斗被破坏并被送至自己的墓地时可以发动。将1只攻击力低于墓地的该怪兽、属性与之相同的机械族怪兽从牌组特殊召唤。
 card_type: Spell
 property: Continuous
 series:
@@ -172,6 +172,11 @@ sets:
   zh-TW:
   - set_number: SD18-TC020
     set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC017
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

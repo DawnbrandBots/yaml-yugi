@@ -12,7 +12,7 @@ name:
   ko: 기아기아노 MK－Ⅱ
   ko_rr:
   zh-TW: 齒輪齒輪人 Mk–II
-  zh-CN: 齿轮齿轮人 Mk-2
+  zh-CN: 齿轮齿轮人 Mk－Ⅱ
 text:
   en: |-
     When this card is Normal or Flip Summoned: You can Special Summon 1 "Geargia" monster from your hand or Graveyard in Defense Position.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡召唤、反转召唤成功时，可从我方手牌、墓地挑选1只冠有「齒輪齒輪」之名的怪兽并以表侧守备表示特殊召唤。
   zh-CN: |-
-    这张卡召唤·反转召唤成功时，可以从自己的手卡·墓地选1只名字带有「齿轮齿轮」的怪兽表侧守备表示特殊召唤。
+    ①：此卡召唤・反转召唤成功时可以发动。从自己的手牌・墓地挑选1只"齿轮齿轮"怪兽以守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -129,6 +129,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC027
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC062
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

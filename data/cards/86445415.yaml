@@ -12,7 +12,7 @@ name:
   ko: 레드 가제트
   ko_rr: Redeu Gajeteu
   zh-TW: 紅色齒輪
-  zh-CN: 红色零件
+  zh-CN: 红色小工具
 text:
   en: |-
     When this card is Normal or Special Summoned: You can add 1 "Yellow Gadget" from your Deck to your hand.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡召唤、特殊召唤成功时，能够从牌组中将1只「黃色齒輪」加入手牌。
   zh-CN: |-
-    ①：这张卡召唤·特殊召唤成功时才能发动。从卡组把1只「黄色零件」加入手卡。
+    ①：此卡召唤・特殊召唤成功时可以发动。从牌组将1只"黄色小工具"加入手牌。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -300,6 +300,11 @@ sets:
   zh-TW:
   - set_number: SD18-TC016
     set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC041
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

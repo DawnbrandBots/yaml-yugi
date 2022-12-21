@@ -12,7 +12,7 @@ name:
   ko: 기아기아앙그라
   ko_rr: Giagia-ang-geura
   zh-TW:
-  zh-CN: 齿轮齿轮钻地人
+  zh-CN: 齿轮齿轮潜掘机
 text:
   en: |-
     When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except "Geargiauger", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "기아기아앙그라" 이외의 기계족 / 땅 속성 / 레벨 4 몬스터 1장을 패에 넣는다. 이 턴에, 자신은 공격 선언할 수 없으며, 기계족 몬스터밖에 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡召唤成功时才能发动。从卡组把「齿轮齿轮钻地人」以外的1只机械族·地属性·4星怪兽加入手卡。这个回合，自己不能攻击宣言，不是机械族怪兽不能特殊召唤。
+    ①：此卡召唤成功时可以发动。从牌组将"齿轮齿轮潜掘机"以外的1只机械族・地属性・等级4怪兽加入手牌。此回合，自己不可攻击宣言，仅可特殊召唤机械族怪兽。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -108,6 +108,11 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Common
+  zh-CN:
+  - set_number: TM01-SC065
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

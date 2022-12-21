@@ -12,7 +12,7 @@ name:
   ko: 머시너즈 디펜더
   ko_rr: Meosineojeu Dipendeo
   zh-TW: 機甲防衛兵
-  zh-CN: 机甲卫兵
+  zh-CN: 机甲部队・防卫兵
 text:
   en: |-
     FLIP: Add 1 "Commander Covington" from your Deck to your hand.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     反转：从牌组中将1只「督戰官柯賓頓」加入手牌。
   zh-CN: |-
-    ①：这张卡反转的场合发动。从卡组把1只「督战官 科文顿」加入手卡。
+    ①：此卡反转的情况下发动。从牌组将1只"督战官 科温顿"加入手牌。
 card_type: Monster
 monster_type_line: Machine / Flip / Effect
 attribute: EARTH
@@ -136,6 +136,11 @@ sets:
   zh-TW:
   - set_number: SD18-TC008
     set_name: 'Structure Deck: Machiners Command'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC012
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

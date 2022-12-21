@@ -12,7 +12,7 @@ name:
   ko: 분보그<ruby>004<rt>제로제로포</rt></ruby>
   ko_rr:
   zh-TW:
-  zh-CN: 文具电子人004
+  zh-CN: 文具博格００４
 text:
   en: |-
     If this card battles an opponent's monster, during damage calculation (in either player's turn): You can activate this effect once per battle; your opponent takes no battle damage for the rest of this turn, also send 1 "Deskbot" monster from your Deck to the Graveyard, except "Deskbot 004", and if you do, this card gains ATK and DEF equal to the sent monster's Level x 500, during damage calculation only. If this card destroys an opponent's monster by battle: You can Special Summon 2 "Deskbot" monsters with different Levels from your hand and/or Graveyard in Defense Position.
@@ -32,7 +32,7 @@ text:
     ① : 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에 발동할 수 있다. 덱에서 "분보그 004" 이외의 "분보그" 몬스터 1장을 묘지로 보내고, 이 카드의 공격력 / 수비력은 그 데미지 계산시에만, 묘지로 보낸 그 몬스터의 레벨 × 500 올린다. 이 효과의 발동 후, 턴 종료시까지 상대가 받는 전투 데미지는 0 이 된다. ② : 이 카드가 전투로 상대 몬스터를 파괴했을 경우에 발동할 수 있다. 자신의 패 / 묘지에서 레벨이 다른 "분보그" 몬스터 2장을 고르고 수비 표시로 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡和对方怪兽进行战斗的伤害计算时才能发动。从卡组把「文具电子人004」以外的1只「文具电子人」怪兽送去墓地，这张卡的攻击力·守备力只在那次伤害计算时上升送去墓地的那只怪兽的等级×500。这个效果的发动后，直到回合结束时对方受到的战斗伤害变成0。②：这张卡战斗破坏对方怪兽的场合才能发动。从自己的手卡·墓地选2只等级不同的「文具电子人」怪兽守备表示特殊召唤。
+    ①：此卡与对手怪兽进行战斗的伤害计算时可以发动。从牌组将"文具博格００４"以外的1只"文具博格"怪兽送至墓地，此卡的攻击力・守备力仅在该伤害计算时，上升相当于送至墓地怪兽等级×500的数值。此效果发动后，直至回合结束时为止，对手所受战斗伤害变为0。②：此卡战斗破坏对手怪兽的情况下可以发动。从自己的手牌・墓地挑选等级不同的2只"文具博格"怪兽，以守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -98,6 +98,11 @@ sets:
   ko:
   - set_number: CROS-KR035
     set_name: Crossed Souls
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: TM01-SC076
+    set_name: 'Theme Pack: War of Infinite Machine'
     rarities:
     - Common
 limit_regulation:

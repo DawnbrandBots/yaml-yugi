@@ -12,7 +12,7 @@ name:
   ko: 머시너즈 기어프레임
   ko_rr: Meosineojeu Gieopeureim
   zh-TW: 機甲結構體
-  zh-CN: 机甲机械骨架
+  zh-CN: 机甲部队・齿轮传动架
 text:
   en: |-
     When this card is Normal Summoned: You can add 1 "Machina" monster from your Deck to your hand, except "Machina Gearframe". Once per turn, you can either: Target 1 Machine monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡成功召唤时可发动。将我方牌组中「機甲結構體」以外1只冠有「機甲」之名的怪兽加入手牌。1回合1次，可在我方主要阶段时，作为装备卡装备于我方场上的机械族怪兽，或解除装备后以表侧攻击表示特殊召唤。（1只怪兽可装备最多1张联合怪兽。装备怪兽遭到破坏的场合，以此卡代替破坏。）
   zh-CN: |-
-    ①：这张卡召唤成功时才能发动。从卡组把「机甲机械骨架」以外的1只「机甲」怪兽加入手卡。②：1回合1次，可以从以下效果选择1个发动。●以自己场上1只机械族怪兽为对象，把这张卡当作装备卡使用给那只怪兽装备。装备怪兽被战斗·效果破坏的场合，作为代替把这张卡破坏。●装备的这张卡特殊召唤。
+    ①：此卡召唤成功时可以发动。从牌组将1只"机甲部队・齿轮传动架"以外的"机甲部队"怪兽加入手牌。②：1回合1次，可从以下效果中选择1个发动。●以自己场上的1只机械族怪兽为对象，将此卡视为装备卡装备于该怪兽。装备怪兽将被战斗・效果破坏的情况下，破坏此卡作为代替。●将被装备的此卡特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Union / Effect
 attribute: EARTH
@@ -126,6 +126,11 @@ sets:
     set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: TM01-SC008
+    set_name: 'Theme Pack: War of Infinite Machine'
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
