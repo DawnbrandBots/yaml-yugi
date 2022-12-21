@@ -27,7 +27,7 @@ requirement:
   ja: |-
     自分フィールドに表側表示モンスター（ドラゴン族）がいる場合に発動できる。
   ko: |-
-    자신 필드의 앞면 표시 몬스터(드래곤족) 가 있을 경우에 발동할 수 있다.
+    자신 필드에 앞면 표시 몬스터(드래곤족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -66,6 +66,10 @@ sets:
   ko:
   - set_number: RD/ST02-KR012
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
+    rarities:
+    - Common
+  - set_number: RD/SD03-KR025
+    set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
 yugipedia_page_id: 721010

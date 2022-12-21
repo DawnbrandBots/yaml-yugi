@@ -45,7 +45,7 @@ effect:
   ja: |-
     自分の墓地の「ドラゴンズ・アップセッター」１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（レベル６以下）で攻撃できない。
   ko: |-
-    자신 묘지의 "드래곤즈 업세터" 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 턴에 자신은 몬스터(레벨 6 이하)로 공격할 수 없다.
+    자신 묘지의 "드래곤즈 업세터" 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 턴에, 자신은 몬스터(레벨 6 이하)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -80,6 +80,10 @@ sets:
     - Rare
   - set_number: RD/SBD2-KR018
     set_name: Strongest Battle Deck Luke - Dragon's Dragons
+    rarities:
+    - Common
+  - set_number: RD/SD03-KR023
+    set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
 yugipedia_page_id: 735884

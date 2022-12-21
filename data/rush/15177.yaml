@@ -27,7 +27,7 @@ requirement:
   ja: |-
     自分のモンスター（ドラゴン族）が相手の攻撃で破壊された時、手札１枚を墓地へ送って発動できる。
   ko: |-
-    자신 필드의 몬스터 (드래곤족)가 상대 몬스터의 공격으로 파괴되었을 때, 패 1장을 묘지로 보내고 발동할 수 있다.
+    자신의 몬스터(드래곤족)가 상대의 공격으로 파괴되었을 때, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -66,6 +66,10 @@ sets:
   ko:
   - set_number: RD/ST02-KR014
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
+    rarities:
+    - Common
+  - set_number: RD/SD03-KR034
+    set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
 yugipedia_page_id: 720923

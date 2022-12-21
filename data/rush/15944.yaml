@@ -45,7 +45,7 @@ effect:
   ja: |-
     手札のモンスターを好きな数だけ選んで墓地へ送る。［この効果で墓地へ送ったモンスターのレベルの合計］が１０以上の場合、さらに自分は２枚ドローできる。
   ko: |-
-    패의 몬스터를 좋아하는 수만큼 고르고 묘지로 보낸다. [이 효과로 묘지로 보낸 몬스터의 레벨의 합계]가 10 이상일 경우, 자신은 2장 드로우할 수 있다.
+    패의 몬스터를 좋아하는 수만큼 고르고 묘지로 보낸다. [이 효과로 묘지로 보낸 몬스터의 레벨의 합계]가 10 이상일 경우, 추가로 자신은 2장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -76,6 +76,10 @@ sets:
     - Super Rare
   - set_number: RD/SBD6-KR018
     set_name: Strongest Battle Deck Nail - Maximum Haven
+    rarities:
+    - Common
+  - set_number: RD/SD05-KR022
+    set_name: Strongest Battle Deck Zuwijo - Voidvelgr of the Empty Sky
     rarities:
     - Common
 yugipedia_page_id: 781141

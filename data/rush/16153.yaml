@@ -45,7 +45,7 @@ effect:
   ja: |-
     相手フィールドの裏側表示モンスター１体を選んで破壊する。その後、このカードの攻撃力はターン終了時まで１０００アップする。
   ko: |-
-    상대 필드의 뒷면 수비 표시 몬스터 1장을 고르고 파괴한다. 이 효과로 몬스터를 파괴했을 경우, 이 카드의 공격력은 턴 종료시까지 1000 올린다.
+    상대 필드의 뒷면 표시 몬스터 1장을 고르고 파괴한다. 그 후, 이 카드의 공격력은 턴 종료시까지 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -78,6 +78,10 @@ sets:
     - Super Rare
   - set_number: RD/SBD7-KR005
     set_name: Strongest Battle Deck Asana - Pride of the Heavy Cavalry Style
+    rarities:
+    - Common
+  - set_number: RD/SD02-KR002
+    set_name: Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!
     rarities:
     - Common
 yugipedia_page_id: 792022

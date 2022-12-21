@@ -37,7 +37,7 @@ effect:
   ja: |-
     相手に３００ダメージを与える。このターン、自分は戦闘ダメージを受けない。
   ko: |-
-    상대에게 300 데미지를 준다. 이 효과로 상대에게 데미지를 주었을 경우, 추가로 이 턴에, 자신은 전투 데미지를 받지 않는다.
+    상대에게 300 데미지를 준다. 이 턴에, 자신은 전투 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -60,6 +60,10 @@ sets:
   ko:
   - set_number: RD/KP07-KR062
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
+    rarities:
+    - Common
+  - set_number: RD/SD02-KR028
+    set_name: Strongest Battle Deck Yuhi - Join and Explode! Join and Intensify!
     rarities:
     - Common
 yugipedia_page_id: 835770
