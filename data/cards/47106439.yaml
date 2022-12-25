@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você Invocar por Invocação-Ritual exatamente 1 monstro de Ritual de ÁGUA com um efeito de card que necessita a utilização de monstros, este card pode ser usado no lugar de todos os monstros necessários. Você pode descartar este card; adicione 1 Monstro de Ritual "Gishki" do seu deck à sua mão.
   ja: |-
-    水属性の儀式モンスターを特殊召喚する場合、このカード１枚で儀式召喚のためのリリースとして使用する事ができる。また、手札からこのカードを捨てる事で、自分のデッキから「リチュア」と名のついた儀式モンスター１体を手札に加える。
+    ①：水属性の儀式モンスター１体を儀式召喚する場合、このカード１枚で儀式召喚に必要な分のリリースとして使用できる。②：このカードを手札から捨てて発動できる。デッキから「リチュア」儀式モンスター１体を手札に加える。
   ko: |-
     물 속성의 의식 몬스터를 특수 소환할 경우, 이 카드 1장으로 의식 소환을 위한 릴리스로 사용할 수 있다. 또한, 패에서 이 카드를 버리고 발동할 수 있다. 덱에서 "리추어" 라는 이름이 붙은 의식 몬스터 1장을 패에 넣는다.
   zh-TW:
@@ -99,6 +99,10 @@ sets:
     set_name: Duel Terminal Chronicle 1 - Chapter of Awakening
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: SUB1-JP073
+    set_name: Secret Utility Box
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA06-KR040
     set_name: 'Hidden Arsenal 6: Omega Xyz'
