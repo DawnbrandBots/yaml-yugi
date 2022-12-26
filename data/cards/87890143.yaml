@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上存在超量怪兽的场合可发动。从牌组将1张冠有「超量」之名的卡牌加入手牌。
   zh-CN: |-
-    自己场上有XYZ怪兽存在的场合才能发动。从卡组把1张名字带有「XYZ」的卡加入手卡。
+    ①：自己场上有超量怪兽存在的情况下可以发动。从牌组将1张"超量"卡加入手牌。
 card_type: Spell
 property: Normal
 images:
@@ -83,6 +83,11 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Rare
+  zh-CN:
+  - set_number: SCTP-SC158
+    set_name: Entry Pack Volume 10
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
