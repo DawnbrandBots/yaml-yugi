@@ -9,8 +9,8 @@ name:
   pt:
   ja: <ruby>ＡＬＥＲＴ<rt>アラート</rt></ruby>！
   ja_romaji: Arāto!
-  ko:
-  ko_rr:
+  ko: <ruby>ALERT!<rt>얼러트</rt></ruby>
+  ko_rr: Eolleoteu!
   zh-TW:
   zh-CN: A警报！
 text:
@@ -24,7 +24,8 @@ text:
   pt:
   ja: |-
     このカード名はルール上「Ｒ－ＡＣＥ」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地から「Ｒ－ＡＣＥ」モンスター１体を選んで手札に加える。自分フィールドに「Ｒ－ＡＣＥハイドラント」が存在する場合、代わりにデッキから「Ｒ－ＡＣＥ」モンスター１体を加える事もできる。
-  ko:
+  ko: |-
+    이 카드명은 룰상 "R－ACE(레스큐 에이스)" 카드로도 취급한다. 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 묘지에서 "R－ACE(레스큐 에이스)" 몬스터 1장을 고르고 패에 넣는다. 자신 필드에 "R－ACE(레스큐 에이스) 하이드런트"가 존재할 경우, 대신에 덱에서 "R－ACE(레스큐 에이스)" 몬스터 1장을 넣을 수도 있다.
   zh-TW:
   zh-CN: |-
     这个卡名在规则上也当作「救援ACE队」卡使用。这个卡名的卡在1回合只能发动1张。
@@ -39,6 +40,12 @@ images:
 sets:
   ja:
   - set_number: DBAD-JP010
+    set_name: 'Deck Build Pack: Amazing Defenders'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  ko:
+  - set_number: DBAD-KR010
     set_name: 'Deck Build Pack: Amazing Defenders'
     rarities:
     - Common
