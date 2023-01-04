@@ -85201,6 +85201,63 @@ sets:
     - Secret Rare
 yugipedia_page_id: 904870
 ---
+konami_id: 18446
+name:
+  en: Star Tri-Leo
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スター・トライオ
+  ja_romaji: Sutā Toraio
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. Send all excavated Galaxy Type monsters to the Graveyard. Place the remaining cards on the bottom of your Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（ギャラクシー族）を全て墓地へ送る。残りのカードを好きな順番でデッキの下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 1300
+images:
+- index: 1
+  image: StarTrio-RDRLP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/RLP2-JP001
+    set_name: Yu-Gi-Oh! Rush Duel LP Volume 2 promotional card
+    rarities:
+    - Ultra Rare
+yugipedia_page_id: 928219
+---
 konami_id: 18463
 name:
   en: Cyber Search Dragon
@@ -85272,6 +85329,65 @@ sets:
     rarities:
     - Normal Parallel Rare
 yugipedia_page_id: 909123
+---
+konami_id: 18574
+name:
+  en: Hacking Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハッキング・ドラゴン
+  ja_romaji: Hakkingu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Dragon Type monster from your hand to your opponent's field in face-up Defense Position. Then, you can return 1 Level 8 or lower Attack Position monster from your opponent's field to the owner's hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札のモンスター（ドラゴン族）１体を相手フィールドに表側守備表示で特殊召喚する。その後、相手フィールドの攻撃表示モンスター（レベル８以下）１体を選んで持ち主の手札に戻す事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 2000
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: HackingDragon-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP023
+    set_name: Saikyō Jump February 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 913611
 ---
 konami_id: 18577
 name:
@@ -85789,63 +85905,6 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 923519
----
-konami_id:
-name:
-  en: Hacking Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハッキング・ドラゴン
-  ja_romaji: Hakkingu Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Dragon Type monster from your hand to your opponent's field in face-up Defense Position. Then, you can return 1 Level 8 or lower Attack Position monster from your opponent's field to the owner's hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 7
-atk: 2300
-def: 2000
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: HackingDragon-RDSJMP-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/SJMP-JP023
-    set_name: Saikyō Jump February 2023 promotional card
-    rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 913611
 ---
 konami_id:
 name:
@@ -87492,61 +87551,6 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 928193
----
-konami_id:
-name:
-  en: Star Tri-Leo
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スター・トライオ
-  ja_romaji: Sutā Toraio
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no other monsters on your field during the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 3 cards of your Deck. Send all excavated Galaxy Type monsters to the Graveyard. Place the remaining cards on the bottom of your Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 3
-atk: 300
-def: 1300
-images:
-- index: 1
-  image: StarTrio-RDRLP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/RLP2-JP001
-    set_name: Yu-Gi-Oh! Rush Duel LP Volume 2 promotional card
-    rarities:
-    - Ultra Rare
-yugipedia_page_id: 928219
 ---
 konami_id:
 name:
