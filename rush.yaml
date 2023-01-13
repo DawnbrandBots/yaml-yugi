@@ -87685,7 +87685,7 @@ name:
   it:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby> ソレイル
-  ja_romaji: Sōkyū Tenshi Soreiru
+  ja_romaji: Sōkyūtenshi Soreiru
   ko:
   ko_rr:
   zh-TW:
@@ -87742,7 +87742,7 @@ name:
   it:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby> ルーア
-  ja_romaji: Sōkyū Tenshi Rūa
+  ja_romaji: Sōkyūtenshi Rūa
   ko:
   ko_rr:
   zh-TW:
@@ -87799,7 +87799,7 @@ name:
   it:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> ダンクス
-  ja_romaji: Sōkyū Kishi Dankusu
+  ja_romaji: Sōkyūkishi Dankusu
   ko:
   ko_rr:
   zh-TW:
@@ -87907,6 +87907,7 @@ materials:
   zh-TW:
   zh-CN:
 series:
+- Celestial Warrior
 - Skysavior
 images:
 - index: 1
@@ -88885,8 +88886,8 @@ name:
   fr:
   it:
   pt:
-  ja: 蒼救騎士 ランガ
-  ja_romaji:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> ランガ
+  ja_romaji: Sōkyūkishi Ranga
   ko:
   ko_rr:
   zh-TW:
@@ -88942,8 +88943,8 @@ name:
   fr:
   it:
   pt:
-  ja: 蒼救騎士 セイル
-  ja_romaji:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> セイル
+  ja_romaji: Sōkyūkishi Seiru
   ko:
   ko_rr:
   zh-TW:
@@ -88999,8 +89000,8 @@ name:
   fr:
   it:
   pt:
-  ja: 蒼救騎士 シエーラ
-  ja_romaji:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> シエーラ
+  ja_romaji: Sōkyūkishi Shiēra
   ko:
   ko_rr:
   zh-TW:
@@ -89047,3 +89048,364 @@ sets:
     rarities:
     - Rare
 yugipedia_page_id: 929741
+---
+konami_id:
+name:
+  en: Solcier the Skysavior Lightflash
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>閃<rt>せん</rt></ruby><ruby>光<rt>こう</rt></ruby> ソルシュエール
+  ja_romaji: Sōkyū no Senkō Sorushuēru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 1 other card from your field on the bottom of the owner's Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Multi-Choice
+effect:
+  en: |-
+    ● Destroy Spell/Trap Cards on your opponent's field, up to [the number of face-up Celestial Warrior Type monsters on your field].
+    ● Add 1 "Skysavior Symbol" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Celestial Warrior / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 2200
+def: 2800
+materials:
+  en: |-
+    "Ciela the Skysavior Knight" + "Soleil the Skysavior Angel"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Skysavior
+images:
+- index: 1
+  image: SolciertheSkysaviorLightflash-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP038
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+yugipedia_page_id: 929745
+---
+konami_id:
+name:
+  en: Altierra the Skysavior Transience
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>泡<rt>ほう</rt></ruby><ruby>影<rt>えい</rt></ruby> アルティエラ
+  ja_romaji: Sōkyū no Hōei Arutiera
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    Your opponent cannot activate Normal Spell Cards, except "Fusion".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Celestial Warrior / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 2600
+def: 2400
+materials:
+  en: |-
+    "Ciela the Skysavior Knight" + "Lua the Skysavior Angel"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Skysavior
+images:
+- index: 1
+  image: AltierratheSkysaviorTransience-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP039
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+yugipedia_page_id: 929746
+---
+konami_id:
+name:
+  en: Skysavior Prayer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>祈<rt>いの</rt></ruby>り
+  ja_romaji: Sōkyū no Inori
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 LIGHT or DARK Attribute Celestial Warrior Type monster from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Skysavior
+images:
+- index: 1
+  image: SkysaviorPrayer-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP052
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+yugipedia_page_id: 929748
+---
+konami_id:
+name:
+  en: Skysavior Symbol
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>証<rt>あかし</rt></ruby>
+  ja_romaji: Sōkyū no Akashi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a face-up monster on their field, equip this card to 1 face-up Celestial Warrior, Warrior, or Fairy Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains ATK equal to [its Level] x 100.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Skysavior
+images:
+- index: 1
+  image: SkysaviorSymbol-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP054
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+yugipedia_page_id: 929751
+---
+konami_id:
+name:
+  en: The Clone
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ザ☆クローン
+  ja_romaji: Za☆Kurōn
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have "The Copy" or "Back To The Fusion" in your Graveyard, this card's name becomes "The Dragias" this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 0
+series:
+- The
+images:
+- index: 1
+  image: TheClone-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP012
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+yugipedia_page_id: 929756
+---
+konami_id:
+name:
+  en: Mirroring Wyvern
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ミラーリング・ワイバーン
+  ja_romaji: Mirāringu Waibān
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Normal Monster from your Graveyard face-up to your field. Then, this turn, this card's name becomes the same as the name of the monster Special Summoned by this effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 6
+atk: 1600
+def: 800
+images:
+- index: 1
+  image: MirroringWyvern-RDKP12-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP12-JP013
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+yugipedia_page_id: 929761
