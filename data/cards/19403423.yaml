@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18530
+password: 19403423
 name:
   en: Time-Rending Morganite
   de:
@@ -25,7 +25,12 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：このデュエル中、以下の効果をそれぞれ適用する。
+    ●自分は手札のモンスターの効果を発動できない。
+    ●自分ドローフェイズの通常のドローは２枚になる。
+    ●自分は通常召喚を１ターンに２回まで行う事ができる。
+    ②：墓地のこのカードを除外し、手札から「時を裂く魔瞳」１枚を捨てて発動できる。このターン、自分がモンスターの召喚に成功した時には、相手はモンスターの効果を発動できない。
   ko:
   zh-TW:
   zh-CN:
@@ -33,13 +38,14 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: TimeRendingMorganite-CYAC-JP-OP.png
+  image: TimeRendingMorganite-CYAC-JP-R.png
 sets:
   ja:
   - set_number: CYAC-JP067
     set_name: Cyberstorm Access
     rarities:
+    - Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 928344

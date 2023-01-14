@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18541
+password: 70825459
 name:
   en: Trap Track
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊し、デッキから「トラップトラック」以外の通常罠カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。このカードの発動後、ターン終了時まで自分は罠カードを１枚しか発動できない。
   ko:
   zh-TW:
   zh-CN:
@@ -29,13 +30,14 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: TrapTrack-CYAC-JP-OP.png
+  image: TrapTrack-CYAC-JP-C.png
 sets:
   ja:
   - set_number: CYAC-JP078
     set_name: Cyberstorm Access
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 929229

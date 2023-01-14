@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18528
+password: 56510115
 name:
   en: Solfachord Symphonia
   de:
@@ -25,7 +25,11 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分のＥＸデッキの表側表示の「ドレミコード」Ｐモンスターの種類によって以下の効果を適用する。
+    ●３種類以上：このターン、自分フィールドの「ドレミコード」Ｐモンスターの攻撃力は自身のＰスケール×３００アップする。
+    ●５種類以上：相手フィールドのカード１枚を選んで破壊できる。自分のＰゾーンに奇数のＰスケールが存在する場合、さらに自分はデッキから１枚ドローする。
+    ●７種類以上：ＥＸデッキから「グランドレミコード」モンスター１体を特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -35,13 +39,14 @@ series:
 - Solfachord
 images:
 - index: 1
-  image: SolfachordSymphonia-CYAC-JP-OP.png
+  image: SolfachordSymphonia-CYAC-JP-C.png
 sets:
   ja:
   - set_number: CYAC-JP065
     set_name: Cyberstorm Access
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 921242

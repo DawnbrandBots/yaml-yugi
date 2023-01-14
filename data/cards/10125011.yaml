@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18527
+password: 10125011
 name:
   en: Tellarknight Constellar
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、自分の手札・墓地から「テラナイト」、「セイクリッド」モンスター１体を選んで特殊召喚できる。②：自分フィールドの「テラナイト」、「セイクリッド」Ｘモンスター１体を対象として発動できる。その自分のモンスターとはランクが異なる「テラナイト」、「セイクリッド」Ｘモンスター１体を、対象のモンスターの上に重ねてＸ召喚扱いとしてＥＸデッキから特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -32,13 +33,14 @@ series:
 - tellarknight
 images:
 - index: 1
-  image: TellarknightConstellar-CYAC-JP-OP.png
+  image: TellarknightConstellar-CYAC-JP-C.png
 sets:
   ja:
   - set_number: CYAC-JP064
     set_name: Cyberstorm Access
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 921233

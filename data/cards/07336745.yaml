@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18539
+password: 7336745
 name:
   en: Dinomorphia Intact
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドに「ダイノルフィア」カードが存在し、モンスターの効果が発動した時、ＬＰを半分払って発動できる。その発動を無効にし破壊する。このターン、自分が受ける戦闘ダメージはその時の自分のＬＰの半分の数値になる。②：自分のＬＰが２０００以下で、自分が戦闘ダメージを受けるダメージ計算時に、墓地のこのカードを除外して発動できる。その戦闘で発生する自分への戦闘ダメージを０にする。
   ko:
   zh-TW:
   zh-CN:
@@ -31,13 +32,14 @@ series:
 - Dinomorphia
 images:
 - index: 1
-  image: DinomorphiaIntact-CYAC-JP-OP.png
+  image: DinomorphiaIntact-CYAC-JP-C.png
 sets:
   ja:
   - set_number: CYAC-JP076
     set_name: Cyberstorm Access
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 929414
