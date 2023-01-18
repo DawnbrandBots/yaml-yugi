@@ -87007,12 +87007,13 @@ materials:
   zh-CN:
 images:
 - index: 1
-  image: FiveHeadedDragon-OW-3.png
+  image: FiveHeadedDragon-RDLGP1-JP-OP.png
 sets:
   ja:
-  - set_number: RD/????-JP0??
+  - set_number: RD/LGP1-JP001
     set_name: Legend Awakening Pack
     rarities:
+    - Ultra Rare
 yugipedia_page_id: 921329
 ---
 konami_id:
@@ -89479,3 +89480,106 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 929875
+---
+konami_id:
+name:
+  en: Polymerization
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending monsters from your hand or field to the Graveyard as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+legend: true
+images:
+- index: 1
+  image: Polymerization-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP025
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 930466
+---
+konami_id:
+name:
+  en: Dragon Tribe Fusion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴン・トライブ・フュージョン
+  ja_romaji: Doragon Toraibu Fyūjon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 or higher Dragon Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by shuffling 1 face-up Dragon Type Normal Monster from your field and 1 or more Dragon Type monsters from your Graveyard into the owner's Deck as material. This turn, you can only attack with Fusion Monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DragonTribeFusion-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP024
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 930467
