@@ -1,7 +1,7 @@
 konami_id: 18223
 password: 39103226
 name:
-  en: Weight Measuring
+  en: Weighbridge
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 地磅计量
 text:
   en: |-
-    If your opponent controls at least 2 more monsters than you do: They must send monsters they control to the GY so they control only 1.
+    If your opponent controls 2 or more monsters than you do: Your opponent must send monsters they control to the GY so they only control 1 monster.
   de:
   es:
   fr:
@@ -32,10 +32,40 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: WeightMeasuring-PHHY-JP-C.png
+  image: Weighbridge-PHHY-JP-C.png
 sets:
+  en:
+  - set_number: PHHY-EN078
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: PHHY-DE078
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: PHHY-FR078
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: PHHY-IT078
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: PHHY-PT078
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
   ja:
   - set_number: PHHY-JP078
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  ko:
+  - set_number: PHHY-KR078
     set_name: Photon Hypernova
     rarities:
     - Common
