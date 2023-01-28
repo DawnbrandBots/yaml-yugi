@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 LIGHT Tuner + 1+ non-Tuner DARK monsters
-    Gains 1000 ATK during the turn a card(s) is banished. You can only use each of the following effects of "Chaos Beast" once per turn. You can target 1 of your banished LIGHT or DARK monsters; add it to your hand. If this card is in your GY, except the turn it was sent there: You can banish 1 LIGHT and 1 DARK monster from your hand and/or GY, except this card; Special Summon this card.
+    If any card(s) have been banished this turn, this card gains 1000 ATK. You can only use each of the following effects of "Chaos Beast" once per turn. You can target 1 of your banished LIGHT or DARK monsters; add it to your hand. During your Main Phase, except the turn this card was sent to the GY: You can banish 1 LIGHT and 1 DARK monster from your hand and/or GY, except this card; Special Summon this card from your GY.
   de:
   es:
   fr:
@@ -48,8 +48,38 @@ images:
 - index: 1
   image: ChaosBeast-PHHY-JP-R.png
 sets:
+  en:
+  - set_number: PHHY-EN040
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE040
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR040
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT040
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT040
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP040
+    set_name: Photon Hypernova
+    rarities:
+    - Rare
+  ko:
+  - set_number: PHHY-KR040
     set_name: Photon Hypernova
     rarities:
     - Rare
