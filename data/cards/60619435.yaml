@@ -1,7 +1,7 @@
 konami_id: 18207
 password: 60619435
 name:
-  en: Giant Ballshoot
+  en: Giant Ballgame
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 巨强投球
 text:
   en: |-
-    During your Main Phase, if this card was activated this turn: You can Special Summon 1 Level 6 or lower Insect monster from your GY. You can reveal 1 Insect monster in your hand, then target 1 face-up monster your opponent controls and 1 Insect monster you control with lower ATK than the revealed monster; switch control of both monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 "Giant Ballshoot" effect per turn, and only once that turn.
+    During your Main Phase, if this card was activated this turn: You can Special Summon 1 Level 6 or lower Insect monster from your GY. You can reveal 1 Insect monster in your hand, then target 1 face-up monster your opponent controls, and 1 Insect monster you control with less ATK than the revealed monster; switch control of those monsters, and if you do, the monster you took control of becomes an Insect monster. You can only use 1 "Giant Ballgame" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -34,10 +34,40 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: GiantBallshoot-PHHY-JP-C.png
+  image: GiantBallgame-PHHY-JP-C.png
 sets:
+  en:
+  - set_number: PHHY-EN062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP062
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  ko:
+  - set_number: PHHY-KR062
     set_name: Photon Hypernova
     rarities:
     - Common

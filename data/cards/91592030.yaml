@@ -1,7 +1,7 @@
 konami_id: 18225
 password: 91592030
 name:
-  en: Threatening Ore - Summonite
+  en: Intimidating Ore - Summonite
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 威迫矿石-迫选召唤石
 text:
   en: |-
-    Target 3 monsters in your GY; choose 1 of them, then your opponent chooses 1 of these effects for you to apply.
+    Target 3 monsters in your GY; you choose 1 of the 3, then your opponent chooses 1 of the following effects, and you apply that effect.
     ● Special Summon the chosen monster.
-    ● Special Summon as many of the targeted monsters as possible, except the chosen monster.
+    ● Special Summon as many of the other monsters as possible.
   de:
   es:
   fr:
@@ -36,10 +36,40 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ThreateningOreSummonite-PHHY-JP-NR.png
+  image: IntimidatingOreSummonite-PHHY-JP-NR.png
 sets:
+  en:
+  - set_number: PHHY-EN080
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE080
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR080
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT080
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT080
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP080
+    set_name: Photon Hypernova
+    rarities:
+    - Normal Rare
+  ko:
+  - set_number: PHHY-KR080
     set_name: Photon Hypernova
     rarities:
     - Normal Rare

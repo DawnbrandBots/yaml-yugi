@@ -1,7 +1,7 @@
 konami_id: 18206
 password: 34225426
 name:
-  en: Tearlaments Perlregia
+  en: Tearlaments Perlegia
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 袅袅涟歌姬的壹世坏
 text:
   en: |-
-    Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If an Aqua "Tearlaments" monster(s) is sent to your GY by card effect (except during the Damage Step): You can send 1 Level 4 or lower Aqua monster from your Deck to the GY, but if it is not a "Tearlaments" monster, you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of "Tearlaments Perlregia" once per turn.
+    Fusion Monsters and "Tearlaments" monsters you control gain 500 ATK. If an Aqua "Tearlaments" monster is sent to your GY by card effect (except during the Damage Step): You can send 1 Level 4 or lower Aqua monster from your Deck to the GY, but if you sent a non-"Tearlaments" monster to the GY, for the rest of this turn you cannot activate cards, or the effects of cards, with the same name as that sent card. You can only use this effect of "Tearlaments Perlegia" once per turn.
   de:
   es:
   fr:
@@ -36,10 +36,40 @@ series:
 - Tearlaments
 images:
 - index: 1
-  image: TearlamentsPerlregia-PHHY-JP-R.png
+  image: TearlamentsPerlegia-PHHY-JP-R.png
 sets:
+  en:
+  - set_number: PHHY-EN061
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE061
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR061
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT061
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT061
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP061
+    set_name: Photon Hypernova
+    rarities:
+    - Rare
+  ko:
+  - set_number: PHHY-KR061
     set_name: Photon Hypernova
     rarities:
     - Rare

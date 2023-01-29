@@ -1,7 +1,7 @@
 konami_id: 18157
 password: 30291086
 name:
-  en: Mind Tuner
+  en: Mental Tuner
   de:
   es:
   fr:
@@ -15,9 +15,10 @@ name:
   zh-CN: 精神调整员
 text:
   en: |-
-    You can activate 1 of these effects. You can only use this effect of "Mind Tuner" once per turn.
-    ● Banish up to 2 monsters from your hand and/or GY (1 LIGHT and 1 DARK); increase or decrease this card's Level by the number banished, until the end of this turn.
-    ● Target up to 2 of your banished monsters (1 LIGHT and 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the number returned, until the end of this turn.
+    You can activate 1 of these effects;
+    ● Banish up to 1 LIGHT and up to 1 DARK monster from your hand and/or GY; increase or decrease this card's Level by the exact number banished, until the end of this turn.
+    ● Target up to 2 of your banished monsters (1 LIGHT and/or 1 DARK); return them to the GY, and if you do, increase or decrease this card's Level by the exact number returned, until the end of this turn.
+    You can only use this effect of "Mental Tuner" once per turn.
   de:
   es:
   fr:
@@ -41,10 +42,40 @@ atk: 200
 def: 2100
 images:
 - index: 1
-  image: MindTuner-PHHY-JP-C.png
+  image: MentalTuner-PHHY-JP-C.png
 sets:
+  en:
+  - set_number: PHHY-EN012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP012
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  ko:
+  - set_number: PHHY-KR012
     set_name: Photon Hypernova
     rarities:
     - Common

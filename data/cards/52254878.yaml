@@ -1,7 +1,7 @@
 konami_id: 18173
 password: 52254878
 name:
-  en: Dimensional Isoallotope Varis
+  en: Dimensional Allotrope Varis
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 次元同异体 多变人
 text:
   en: |-
-    Cannot be destroyed by battle with a monster with the same Type or Attribute. You can declare 1 Type and 1 Attribute; this card becomes that Type and Attribute, until the end of your opponent's turn. You can only use this effect of "Dimensional Isoallotope Varis" once per turn.
+    Cannot be destroyed by battle with a monster with the same Type or Attribute as this card. You can declare 1 Monster Type and 1 Attribute; this card becomes that Type and Attribute until the end of your opponent's turn. You can only use this effect of "Dimensional Allotrope Varis" once per turn.
   de:
   es:
   fr:
@@ -38,10 +38,40 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: DimensionalIsoallotopeVaris-PHHY-JP-C.png
+  image: DimensionalAllotropeVaris-PHHY-JP-C.png
 sets:
+  en:
+  - set_number: PHHY-EN028
+    set_name: Photon Hypernova
+    rarities:
+    - Super Rare
+  de:
+  - set_number: PHHY-DE028
+    set_name: Photon Hypernova
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: PHHY-FR028
+    set_name: Photon Hypernova
+    rarities:
+    - Super Rare
+  it:
+  - set_number: PHHY-IT028
+    set_name: Photon Hypernova
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: PHHY-PT028
+    set_name: Photon Hypernova
+    rarities:
+    - Super Rare
   ja:
   - set_number: PHHY-JP028
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  ko:
+  - set_number: PHHY-KR028
     set_name: Photon Hypernova
     rarities:
     - Common

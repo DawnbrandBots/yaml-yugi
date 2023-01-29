@@ -1,7 +1,7 @@
 konami_id: 18215
 password: 61264008
 name:
-  en: Repeated Land Transaction
+  en: Land Flipping
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 炒土地
 text:
   en: |-
-    Target 1 face-up card in the Field Zone; banish it, then place it face-up in the Field Zone of the opponent of the player who controlled it, then you can choose 1 Field Spell with a different original name in the GY of the player who now controls the first card and place it face-up in the Field Zone of the player who controlled the first card when it was banished. You can only activate 1 "Repeated Land Transaction" per turn.
+    Target 1 face-up card in a Field Zone; banish it, then place it face-up in the other Field Zone, then, you can choose 1 Field Spell with a different original name in the current controller's GY, and place it face-up in the Field Zone of the player whose card was banished. You can only activate 1 "Land Flipping" per turn.
   de:
   es:
   fr:
@@ -33,10 +33,40 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: RepeatedLandTransaction-PHHY-JP-NR.png
+  image: LandFlipping-PHHY-JP-NR.png
 sets:
+  en:
+  - set_number: PHHY-EN070
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE070
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR070
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT070
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT070
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP070
+    set_name: Photon Hypernova
+    rarities:
+    - Normal Rare
+  ko:
+  - set_number: PHHY-KR070
     set_name: Photon Hypernova
     rarities:
     - Normal Rare

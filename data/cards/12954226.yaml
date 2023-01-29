@@ -1,7 +1,7 @@
 konami_id: 18187
 password: 12954226
 name:
-  en: Circle of Faerie
+  en: Circle of the Fairies
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    During your Main Phase, you can Normal Summon 1 Insect or Plant monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When a monster(s) is destroyed by a battle involving your Insect or Plant monster and sent to the GY: You can target 1 of those destroyed monsters; inflict damage to your opponent equal to half the ATK it had on the field, then you gain LP equal to the damage inflicted. You can only use this effect of "Circle of Faerie" once per turn.
+    During your Main Phase, you can Normal Summon 1 Insect or Plant monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When a monster is destroyed by battle involving your Insect or Plant monster, and sent to the GY: You can target 1 of those destroyed monsters; inflict damage to your opponent equal to half its ATK, then gain LP equal to the damage inflicted to your opponent. You can only use this effect of "Circle of the Fairies" once per turn.
   de:
   es:
   fr:
@@ -43,10 +43,40 @@ def: 2500
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: CircleofFaerie-PHHY-JP-R.png
+  image: CircleoftheFairies-PHHY-JP-R.png
 sets:
+  en:
+  - set_number: PHHY-EN042
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  de:
+  - set_number: PHHY-DE042
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  fr:
+  - set_number: PHHY-FR042
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  it:
+  - set_number: PHHY-IT042
+    set_name: Photon Hypernova
+    rarities:
+    - Common
+  pt:
+  - set_number: PHHY-PT042
+    set_name: Photon Hypernova
+    rarities:
+    - Common
   ja:
   - set_number: PHHY-JP042
+    set_name: Photon Hypernova
+    rarities:
+    - Rare
+  ko:
+  - set_number: PHHY-KR042
     set_name: Photon Hypernova
     rarities:
     - Rare
