@@ -1,7 +1,7 @@
 konami_id: 18214
 password: 35269904
 name:
-  en: Triple Tactic Tasking
+  en: Triple Tactics Thrust
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 三战之号
 text:
   en: |-
-    If your opponent has activated a monster effect this turn: Set 1 Normal Spell/Trap directly from your Deck, except "Triple Tactic Tasking" (it cannot be activated this turn), or, if your opponent controls a monster, you can add that card to your hand instead. You can only activate 1 "Triple Tactic Tasking" per turn.
+    If your opponent has activated a monster effect during this turn: Set 1 Normal Spell/Trap directly from your Deck, except "Triple Tactics Thrust", or if your opponent controls a monster, you can add it to your hand instead. That Set card cannot be activated this turn. You can only activate 1 "Triple Tactics Thrust" per turn.
   de:
   es:
   fr:
@@ -33,10 +33,40 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: TripleTacticTasking-PHHY-JP-R.png
+  image: TripleTacticsThrust-PHHY-JP-R.png
 sets:
+  en:
+  - set_number: PHHY-EN069
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: PHHY-DE069
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: PHHY-FR069
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: PHHY-IT069
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: PHHY-PT069
+    set_name: Photon Hypernova
+    rarities:
+    - Secret Rare
   ja:
   - set_number: PHHY-JP069
+    set_name: Photon Hypernova
+    rarities:
+    - Rare
+  ko:
+  - set_number: PHHY-KR069
     set_name: Photon Hypernova
     rarities:
     - Rare
