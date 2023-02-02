@@ -2,11 +2,11 @@ konami_id: 18186
 password: 85969517
 name:
   en: Plunder Patrollship Jord
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Plünderpatrouillen-Schiff Jord
+  es: Barco Patrulla Saqueo Jord
+  fr: Jord, Navire de la Patroll du Pillage
+  it: Nave di ConTrollo Bottino Jord
+  pt: Navio Saquepatrollha Jord
   ja: <ruby>海造賊<rt>プランドロール</rt></ruby>－<ruby>荘<rt>そう</rt></ruby><ruby>重<rt>ちょう</rt></ruby>のヨルズ<ruby>号<rt>ごう</rt></ruby>
   ja_romaji: Purandorōru - Sōchō no Yoruzu-gō
   ko: 플런드롤－장중의 요르즈호
@@ -17,11 +17,21 @@ text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
     If your opponent Special Summons a monster(s) (except during the Damage Step): You can add 1 "Plunder Patroll" card from your Deck to your hand, then if this card is equipped with a "Plunder Patroll" card, you can Special Summon 1 "Plunder Patroll" monster from your Deck. You can target 1 "Plunder Patroll" card in your GY; add it to your hand, and if you do, place this card in your Pendulum Zone. You can only use each effect of "Plunder Patrollship Jord" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    1 Empfänger + 1+ Nicht-Empfänger-Monster
+    Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst deiner Hand 1 „Plünderpatrouillen“-Karte von deinem Deck hinzufügen, dann, falls diese Karte mit einer „Plünderpatrouillen“-Karte ausgerüstet ist, kannst du 1 „Plünderpatrouillen“-Monster als Spezialbeschwörung von deinem Deck beschwören. Du kannst 1 „Plünderpatrouillen“-Karte in deinem Friedhof wählen; füge sie deiner Hand hinzu und falls du dies tust, lege diese Karte in deine Pendelzone. Du kannst jeden Effekt von „Plünderpatrouillen-Schiff Jord“ nur einmal pro Spielzug verwenden.
+  es: |-
+    1 Cantante + 1+ monstruos que no sean Cantantes
+    Si tu adversario Invoca uno o más monstruos de Modo Especial (excepto durante el Damage Step): puedes añadir a tu mano 1 carta "Patrulla Saqueo" en tu Deck y después, si esta carta está equipada con una carta "Patrulla Saqueo", puedes Invocar de Modo Especial 1 monstruo "Patrulla Saqueo" desde tu Deck. Puedes seleccionar 1 carta "Patrulla Saqueo" en tu Cementerio; añádela a tu mano y, si lo haces, pon esta carta en tu Zona de Péndulo. Sólo puedes usar cada efecto de "Barco Patrulla Saqueo Jord" una vez por turno.
+  fr: |-
+    1 Syntoniseur + 1+ monstre non-Syntoniseur
+    Si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez ajouter 1 carte "Patroll du Pillage" depuis votre Deck à votre main, puis si cette carte est équipée avec une carte "Patroll du Pillage", vous pouvez Invoquer Spécialement 1 monstre "Patroll du Pillage" depuis votre Deck. Vous pouvez cibler 1 carte "Patroll du Pillage" dans votre Cimetière ; ajoutez-la à votre main, et si vous le faites, placez cette carte dans votre Zone Pendule. Vous ne pouvez utiliser chaque effet de "Jord, Navire de la Patroll du Pillage" qu'une fois par tour.
+  it: |-
+    1 Tuner + 1+ mostri non-Tuner
+    Se il tuo avversario Evoca Specialmente uno o più mostri (eccetto durante il Damage Step): puoi aggiungere 1 carta "ConTrollo Bottino" dal tuo Deck alla tua mano, poi se questa carta è equipaggiata con una carta "ConTrollo Bottino", puoi Evocare Specialmente 1 mostro "ConTrollo Bottino" dal tuo Deck. Puoi scegliere come bersaglio 1 carta "ConTrollo Bottino" nel tuo Cimitero; aggiungila alla tua mano e, se lo fai, metti questa carta nella tua Zona Pendulum. Puoi utilizzare ogni effetto di "Nave di ConTrollo Bottino Jord" una sola volta per turno.
+  pt: |-
+    1 Regulador + 1+ monstros não-Reguladores
+    Se seu oponente Invocar um ou mais monstros por Invocação-Especial (exceto durante a Etapa de Dano): você pode adicionar 1 card "Saquepatrollha" do seu Deck à sua mão e, depois, se este card estiver equipado com um card "Saquepatrollha", você pode Invocar por Invocação-Especial 1 monstro "Saquepatrollha" do seu Deck. Você pode escolher 1 card "Saquepatrollha" no seu Cemitério; adicione-o à sua mão e, se isso acontecer, coloque este card na sua Zona de Pêndulo. Você só pode usar cada efeito de "Navio Saquepatrollha Jord" uma vez por turno.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
     このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：相手がモンスターの特殊召喚に成功した場合に発動できる。デッキから「海造賊」カード１枚を手札に加える。このカードが「海造賊」カードを装備している場合、さらにデッキから「海造賊」モンスター１体を特殊召喚できる。②：自分の墓地の「海造賊」カード１枚を対象として発動できる。そのカードを手札に加え、このカードを自分のＰゾーンに置く。
@@ -40,11 +50,16 @@ pendulum_scale: 1
 pendulum_effect:
   en: |-
     You can declare 1 Attribute; return this card to the Extra Deck, and if you do, Special Summon 1 "Plunder Patroll Token" (Fiend/Level 4/ATK 0/DEF 0) with that Attribute to both players' fields in Defense Position. You can only use this effect of "Plunder Patrollship Jord" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Du kannst 1 Eigenschaft deklarieren; lege diese Karte ins Extra Deck zurück und falls du dies tust, beschwöre 1 „Plünderpatrouillen-Spielmarke“ (Unterweltler/Stufe 4/ATK 0/DEF 0) mit jener Eigenschaft als Spezialbeschwörung auf die Spielfeldseiten beider Spieler in die Verteidigungsposition. Du kannst diesen Effekt von „Plünderpatrouillen-Schiff Jord“ nur einmal pro Spielzug verwenden.
+  es: |-
+    Puedes declarar 1 Atributo; devuelve al Deck Extra esta carta y, si lo haces, Invoca de Modo Especial 1 "Ficha Patrulla Saqueo" (Demonio/Nivel 4/ATK 0/DEF 0) con ese Atributo a los Campos de ambos jugadores en Posición de Defensa. Sólo puedes usar este efecto de "Barco Patrulla Saqueo Jord" una vez por turno.
+  fr: |-
+    Vous pouvez déclarer 1 Attribut ; renvoyez cette carte à l'Extra Deck, et si vous le faites, Invoquez Spécialement 1 "Jeton Patroll du Pillage" (Démon/Niveau 4/ATK 0/DEF 0) de cet Attribut sur chaque Terrain en Position de Défense. Vous ne pouvez utiliser cet effet de "Jord, Navire de la Patroll du Pillage" qu'une fois par tour.
+  it: |-
+    Puoi dichiarare 1 Attributo; fai ritornare questa carta nell'Extra Deck e, se lo fai, Evoca Specialmente 1 "Segna-ConTrollo Bottino" (Demone/Livello 4/ATK 0/DEF 0) con quell'Attributo sul Terreno di entrambi i giocatori in Posizione di Difesa. Puoi utilizzare questo effetto di "Nave di ConTrollo Bottino Jord" una sola volta per turno.
+  pt: |-
+    Você pode declarar 1 Atributo; devolva este card para o Deck Adicional e, se isso acontecer, Invoque por Invocação-Especial 1 "Ficha de Saquepatrollha" (Demônio/Nível 4/ATK 0/DEF 0) com esse Atributo em Posição de Defesa no campo dos dois duelistas. Você só pode usar este efeito de "Navio Saquepatrollha Jord" uma vez por turno.
   ja: |-
     このカード名のＰ効果は１ターンに１度しか使用できない。①：属性を１つ宣言して発動できる。このカードを持ち主のＥＸデッキに戻し、宣言した属性を持つ「海造賊トークン」（悪魔族・星４・攻／守０）をお互いのフィールドに１体ずつ守備表示で特殊召喚する。
   ko: |-
