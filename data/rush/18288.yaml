@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>吹<rt>ふ</rt></ruby>き<ruby>抜<rt>ぬ</rt></ruby>ける<ruby>風<rt>かぜ</rt></ruby>
   ja_romaji: Fukinukeru Kaze
-  ko:
+  ko: 스쳐가는 바람
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（風属性）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(바람 속성) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分フィールドに表側表示モンスター（風属性／攻撃力１８００以上）が２体以上いる場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 필드에 앞면 표시 몬스터(바람 속성 / 공격력 1800 이상)가 2장 이상 있을 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP11-JP056
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP11-KR056
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
     rarities:
     - Rare

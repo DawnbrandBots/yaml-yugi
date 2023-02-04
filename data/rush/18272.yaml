@@ -8,7 +8,7 @@ name:
   pt:
   ja: ギャラクティカ・サイフォス
   ja_romaji: Gyarakutika Saifosu
-  ko:
+  ko: 갤럭티카 사이포스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル７・８）がいる場合、自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 7 / 8)가 있을 경우, 자신 필드의 앞면 표시 몬스터(갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は［自分フィールドの表側表示の通常モンスターの数］×３００アップする。装備モンスターが「ギャラクティカ・オブリビオン」の場合、さらに攻撃力を１０００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 [자신 필드의 앞면 표시 일반 몬스터의 수] × 300 올린다. 장착 몬스터가 "갤럭티카 오블리비언"일 경우, 추가로 공격력을 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP11-JP040
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP11-KR040
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
     rarities:
     - Ultra Rare

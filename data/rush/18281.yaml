@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>花<rt>か</rt></ruby><ruby>牙<rt>げ</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>身<rt>しん</rt></ruby>
   ja_romaji: Kagebunshin
-  ko:
+  ko: 화아분신
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示の通常モンスター（植物族）１体を選ぶ。選んだモンスターのレベル以下のレベルを持つ、自分の墓地の通常モンスター（植物族）を２体まで選び、自分フィールドに表側表示で特殊召喚する。その後、自分フィールドに表側表示モンスター（レベル５）がいる場合、相手フィールドの表側表示の通常モンスター（レベル７以上）を全て破壊できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 일반 몬스터(식물족) 1장을 고른다. 고른 몬스터의 레벨 이하의 레벨을 가지는, 자신 묘지의 일반 몬스터(식물족)를 2장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 필드에 앞면 표시 몬스터(레벨 5)가 있을 경우, 상대 필드의 앞면 표시 일반 몬스터(레벨 7 이상)를 전부 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP11-JP049
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP11-KR049
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
     rarities:
     - Common

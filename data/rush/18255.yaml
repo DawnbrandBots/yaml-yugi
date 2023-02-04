@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヒール・ヒーラー
   ja_romaji: Hīru Hīrā
-  ko:
+  ko: 힐 힐러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の魔法カード１枚をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 마법 카드 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１０００ＬＰ回復する。
-  ko:
+  ko: |-
+    자신은 1000 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP11-JP023
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP11-KR023
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
     rarities:
     - Common
