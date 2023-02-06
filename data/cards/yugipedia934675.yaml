@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can only use each of the following effects of "Transcendrake Meteoros" once per turn. During your opponent's turn (Quick Effect): You can destroy 2 other Dinosaur monsters you control and/or in your hand, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can send 1 Dinosaur monster from your Deck to the GY. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card.
+    Cannot be Normal Summoned/Set. Must be Special Summoned by card effect. You can only use each of the following effects of "Transcendrake Meteoros" once per turn. During your opponent's turn (Quick Effect): You can destroy 2 other Dinosaur monsters you control and/or in your hand, and if you do, Special Summon this card from your hand. If this card is Special Summoned: You can send 1 Dinosaur monster from your Deck to the GY. If this card is destroyed: You can shuffle 1 Normal Monster from your GY into the Deck, then you can Special Summon this card.
   de:
   es:
   fr:
@@ -33,12 +33,16 @@ atk: 3500
 def: 700
 series:
 - Transcendrake
+images:
+- index: 1
+  image: TranscendrakeMeteoros-DBWS-JP-OP.png
 sets:
   ja:
-  - set_number: DPWS-JP002
+  - set_number: DBWS-JP002
     set_name: 'Deck Build Pack: Wild Survivors'
     rarities:
     - Ultra Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
