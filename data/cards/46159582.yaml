@@ -15,7 +15,7 @@ name:
   zh-CN: 咒仪之仪水镜
 text:
   en: |-
-    This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also Tribute monsters from the field or your hand whose total Levels equal the Level of the Ritual Monster you Ritual Summon. You can shuffle this card from the Graveyard into the Deck to target 1 "Gishki" Ritual Monster in your Graveyard; return that target to the hand.
+    This card can be used to Ritual Summon any "Gishki" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels exactly equal the Level of the Ritual Monster you Ritual Summon. You can shuffle this card from the GY into the Deck, then target 1 "Gishki" Ritual Monster in your GY; add it to your hand.
   de: |-
     Diese Karte kann verwendet werden um ein beliebiges "Gishki"-Ritualmonster als Ritualbeschwörung zu beschwören: Du musst zusätzlich Monster vom Spielfeld oder deiner Hand als Tribut anbieten, deren gemeinsame Stufe der Stufe des Ritualmonsters entspricht, das du als Ritualbeschwörung beschwörst. Du kannst diese Karte vom Friedhof ins Deck mischen, um 1 "Gishki"-Ritualmonster in deinem Friedhof zu wählen; gib das gewählte Ziel auf die Hand zurück.
   es: |-
@@ -40,13 +40,17 @@ series:
 - Gishki
 images:
 - index: 1
-  image: GishkiAquamirror-HA05-EN-SR-1E.jpg
+  image: GishkiAquamirror-OP21-EN-C-UE.png
 sets:
   en:
   - set_number: HA05-EN055
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: OP21-EN017
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   - set_number: DT05-EN091
     set_name: Duel Terminal 5b
     rarities:
@@ -56,16 +60,33 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: OP21-DE017
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   fr:
   - set_number: HA05-FR055
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: OP21-FR017
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   it:
   - set_number: HA05-IT055
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: OP21-IT017
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
+  pt:
+  - set_number: OP21-PT017
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   ja:
   - set_number: DT10-JP041
     set_name: Duel Terminal - Raid of the Inverz!!

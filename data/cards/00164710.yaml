@@ -15,7 +15,7 @@ name:
   zh-CN: 小人的恶作剧
 text:
   en: |-
-    This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).
+    This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the GY; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).
   de: |-
     Verringere während dieses Spielzugs die Stufen aller Monster in den Händen beider Spieler um 1 (selbst nachdem sie beschworen/gesetzt wurden). Du kannst diese Karte vom Friedhof verbannen; verringere während dieses Spielzugs die Stufen aller Monster in den Händen beider Spieler um 1 (selbst nachdem sie beschworen/gesetzt wurden).
   es: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MischiefoftheGnomes-SR03-EN-C-1E.png
+  image: MischiefoftheGnomes-OP21-EN-C-UE.png
 sets:
   en:
   - set_number: SECE-EN081
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: SR03-EN034
     set_name: Machine Reactor Structure Deck
+    rarities:
+    - Common
+  - set_number: OP21-EN023
+    set_name: OTS Tournament Pack 21
     rarities:
     - Common
   de:
@@ -57,6 +61,10 @@ sets:
     set_name: Machine Reactor Structure Deck
     rarities:
     - Common
+  - set_number: OP21-DE023
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   fr:
   - set_number: SECE-FR081
     set_name: Secrets of Eternity
@@ -64,6 +72,10 @@ sets:
     - Common
   - set_number: SR03-FR034
     set_name: Machine Reactor Structure Deck
+    rarities:
+    - Common
+  - set_number: OP21-FR023
+    set_name: OTS Tournament Pack 21
     rarities:
     - Common
   it:
@@ -75,6 +87,10 @@ sets:
     set_name: Machine Reactor Structure Deck
     rarities:
     - Common
+  - set_number: OP21-IT023
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   pt:
   - set_number: SECE-PT081
     set_name: Secrets of Eternity
@@ -82,6 +98,10 @@ sets:
     - Common
   - set_number: SR03-PT034
     set_name: Machine Reactor Structure Deck
+    rarities:
+    - Common
+  - set_number: OP21-PT023
+    set_name: OTS Tournament Pack 21
     rarities:
     - Common
   ja:

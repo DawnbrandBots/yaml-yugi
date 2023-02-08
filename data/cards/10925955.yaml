@@ -15,9 +15,9 @@ name:
   zh-CN: 与仪水镜之交讯
 text:
   en: |-
-    If you control a face-up WATER monster, activate 1 of these effects. If you control a face-up WATER Ritual Monster, you can activate both of these effects:
-    ● Look at all Set cards in your opponent's Spell & Trap Card Zones.
-    ● Look at the 2 top cards of either player's Deck and return them to the top of the Deck in any order.
+    If you control a WATER monster: Activate 1 of these effects, or if you control a WATER Ritual Monster, you can activate both of these effects, in sequence;
+    ● Look at all Set cards in your opponent's Spell & Trap Zone.
+    ● Look at the top 2 cards of either player's Deck, then place them on the top of the Deck in any order.
   de: |-
     Falls du ein offenes WASSER Monster kontrollierst, aktiviere 1 dieser Effekte. Falls du ein offenes WASSER Ritualmonster kontrollierst, kannst du beide dieser Effekte aktivieren:
     ● Sieh dir alle gesetzten Karten in der Zauber- & Fallenkartenzone deines Gegners an.
@@ -50,11 +50,15 @@ series:
 - Aquamirror
 images:
 - index: 1
-  image: ContactwiththeAquamirror-EXVC-EN-C-1E.png
+  image: ContactwiththeAquamirror-OP21-EN-C-UE.png
 sets:
   en:
   - set_number: EXVC-EN059
     set_name: Extreme Victory
+    rarities:
+    - Common
+  - set_number: OP21-EN018
+    set_name: OTS Tournament Pack 21
     rarities:
     - Common
   de:
@@ -62,14 +66,31 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  - set_number: OP21-DE018
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   fr:
   - set_number: EXVC-FR059
     set_name: Extreme Victory
     rarities:
     - Common
+  - set_number: OP21-FR018
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   it:
   - set_number: EXVC-IT059
     set_name: Extreme Victory
+    rarities:
+    - Common
+  - set_number: OP21-IT018
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
+  pt:
+  - set_number: OP21-PT018
+    set_name: OTS Tournament Pack 21
     rarities:
     - Common
   ja:
