@@ -6,7 +6,7 @@ name:
   es: Meditacion Aquaespejo
   fr: Méditation Aquamiroir
   it: Meditazione Acquaspecchio
-  pt:
+  pt: Meditação Aqua-espelhada
   ja: <ruby>儀<rt>ぎ</rt></ruby><ruby>水<rt>すい</rt></ruby><ruby>鏡<rt>きょう</rt></ruby>の<ruby>瞑<rt>めい</rt></ruby><ruby>想<rt>そう</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>
   ja_romaji: Gisuikyō no Meisōjutsu
   ko: 의수경의 명상술
@@ -24,7 +24,8 @@ text:
     Révélez 1 Carte Magie Rituelle dans votre main pour cibler 2 monstres "Gishki" dans votre Cimetière ; renvoyez-les à la main.
   it: |-
     Rivela 1 Carta Magia Rituale nella tua mano per scegliere come bersaglio 2 mostri "Gishki" nel tuo Cimitero; falli ritornare nella mano.
-  pt:
+  pt: |-
+    Revele 1 Magia de Ritual na sua mão e, depois, escolha 2 monstros "Gishki" no seu Cemitério; adicione-os à sua mão.
   ja: |-
     手札の儀式魔法カード１枚を相手に見せ、自分の墓地に存在する「リチュア」と名のついたモンスター２体を選択して発動する。選択した墓地のモンスターを手札に戻す。
   ko: |-
@@ -64,6 +65,11 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  pt:
+  - set_number: OP21-PT039
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   ja:
   - set_number: DT10-JP046
     set_name: Duel Terminal - Raid of the Inverz!!

@@ -2,11 +2,11 @@ konami_id: 8808
 password: 74952447
 name:
   en: Testudo erat Numen
-  de: Die Schildkröte war Göttlich
+  de: Die Schildkröte war göttlich
   es: Testudo erat Numen
   fr: Testudo erat Numen
   it: Testudo erat Numen
-  pt: A Tartaruga Uma Vez Chamada de Deus
+  pt: Testudo erat Numen
   ja: かつて<ruby>神<rt>かみ</rt></ruby>と<ruby>呼<rt>よ</rt></ruby>ばれた<ruby>亀<rt>かめ</rt></ruby>
   ja_romaji: Katsute Kami to Yobareta Kame
   ko: 일찍이 신이라 불린 거북이
@@ -21,11 +21,11 @@ text:
   es: |-
     Ningún jugador puede Invocar de Modo Especial monstruos con 1800 o más de ATK.
   fr: |-
-    Aucun joueur ne peut Invoquer Spécialement de monstres avec une ATK de 1800 points ou plus.
+    Aucun joueur ne peut Invoquer Spécialement de monstres avec min. 1800 ATK.
   it: |-
-    Nessun giocatore può Evocare Specialmente mostri con un ATK di 1800 o superiore.
+    Nessun giocatore può Evocare Specialmente mostri con ATK 1800 o superiore.
   pt: |-
-    Nenhum jogador pode Special Summon monstros com 1800 ou mais de ATK.
+    Nenhum duelista pode Invocar por Invocação-Especial monstros com 1800 ou mais de ATK.
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、お互いに攻撃力１８００以上のモンスターを特殊召喚する事はできない。
   ko: |-
@@ -48,21 +48,42 @@ sets:
     set_name: The Shining Darkness
     rarities:
     - Short Print
+  - set_number: OP21-EN014
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   de:
   - set_number: TSHD-DE032
     set_name: The Shining Darkness
     rarities:
     - Short Print
+  - set_number: OP21-DE014
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   fr:
   - set_number: TSHD-FR032
     set_name: The Shining Darkness
     rarities:
     - Short Print
+  - set_number: OP21-FR014
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   it:
   - set_number: TSHD-IT032
     set_name: The Shining Darkness
     rarities:
     - Short Print
+  - set_number: OP21-IT014
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
+  pt:
+  - set_number: OP21-PT014
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   ja:
   - set_number: TSHD-JP032
     set_name: The Shining Darkness

@@ -25,7 +25,7 @@ text:
   it: |-
     Questa Carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale "Gishki". Devi anche offrire come Tributo da qualsiasi Terreno mostri scoperti il cui Livello totale sia pari al Livello del Mostro Rituale che stai Evocando tramite Rituale. Dimezza l'ATK del mostro Evocato tramite Rituale da questo effetto. Non puoi effettuare la tua Battle Phase nel turno in cui attivi questa carta.
   pt: |-
-    Este card pode ser usado para a Invocação-Ritual de qualquer Monstro de Ritual "Gishki". Você também deve oferecer como Tributo monstros com a face para cima de qualquer lado do campo cuja soma dos Níveis seja igual ao Nível do Monstro de Ritual a ser Invocado. Diminua pela metade o ATK do monstro Invocado por Invocação-Ritual por este efeito. Você não pode conduzir sua Fase de Batalha no turno em que ativar este card.
+    Este card pode ser usado para a Invocação-Ritual de qualquer Monstro de Ritual "Gishki". Você também deve oferecer como Tributo monstros de qualquer parte do campo cuja soma dos Níveis seja exatamente igual ao Nível do Monstro de Ritual que você Invocar por Invocação-Ritual. Se isso acontecer, seu ATK é diminuído pela metade. Você não pode conduzir sua Fase de Batalha no turno em que ativar este card.
   ja: |-
     「リチュア」と名のついた儀式モンスターの降臨に必要。自分フィールド上及び相手フィールド上から、儀式召喚するモンスターと同じレベルになるように表側表示で存在するモンスターをリリースしなければならない。この効果で儀式召喚したモンスターの攻撃力は半分になる。このカードを発動するターン、自分はバトルフェイズを行う事ができない。
   ko: |-
@@ -65,6 +65,11 @@ sets:
     set_name: 'Hidden Arsenal 6: Omega Xyz'
     rarities:
     - Super Rare
+  pt:
+  - set_number: OP21-PT038
+    set_name: OTS Tournament Pack 21
+    rarities:
+    - Common
   ja:
   - set_number: DT11-JP045
     set_name: Duel Terminal - Judgment of Omega!!
