@@ -53,5 +53,19 @@ if __name__ == "__main__":
                         for template in section.templates:
                             if template.name == "status list name":
                                 limit_regulation[template.arguments[0].value] = 2
+            for template in wikitext.templates:
+                if template.name.strip() == "Limitation status list":
+                    for argument in template.arguments:
+                        if argument.name.strip() == "cards":
+                            for line in argument.value.strip().split("\n"):
+                                name, regulation = line.split("; ")
+                                if regulation == "Forbidden":
+                                    limit_regulation[name] = 0
+                                elif regulation == "Limited":
+                                    limit_regulation[name] = 1
+                                elif regulation == "Semi-Limited":
+                                    limit_regulation[name] = 2
+                                else:
+                                    print(f"{filepath} {line}")
             with open(effective_date.strftime("%Y-%m-%d.name.json"), "w") as f:
                 json.dump(limit_regulation, f, indent=2)
