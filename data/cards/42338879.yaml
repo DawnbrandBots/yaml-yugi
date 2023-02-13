@@ -32,7 +32,7 @@ text:
     ①: 서로의 필드에 몬스터가 존재하지 않을 경우, 이 카드는 레벨 3 몬스터로서 패에서 특수 소환할 수 있다. ②: 상대 필드에 몬스터가 존재하고, 자신 필드에 카드가 존재하지 않을 경우, 이 카드는 레벨 4 몬스터로서 패에서 특수 소환할 수 있다. ③: 앞면 표시의 이 카드는 필드에서 벗어났을 경우에 제외된다.
   zh-TW:
   zh-CN: |-
-    ①：双方场上没有怪兽存在的场合，这张卡可以作为3星怪兽从手卡特殊召唤。②：对方场上有怪兽存在，自己场上没有卡存在的场合，这张卡可以作为4星怪兽从手卡特殊召唤。③：表侧表示的这张卡从场上离开的场合除外。
+    ①：在双方场上不存在怪兽的情况下，可将此卡作为等级３怪兽从手牌特殊召唤。②：在对手场上存在怪兽，且自己场上不存在卡的情况下，可将此卡作为等级４怪兽从手牌特殊召唤。③：在表侧表示的此卡离开场上的情况下，将其除外。
 card_type: Monster
 monster_type_line: Winged Beast / Tuner / Effect
 attribute: WIND
@@ -142,6 +142,10 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  zh-CN:
+  - set_number: SD29-SC024
+    set_name: 'Structure Deck: Master of Pendulum'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

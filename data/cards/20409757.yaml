@@ -12,7 +12,7 @@ name:
   ko: 시간을 읽는 마술사
   ko_rr:
   zh-TW:
-  zh-CN: 时读之魔术师
+  zh-CN: 时读的魔术师
 text:
   en: |-
     Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.
@@ -27,12 +27,12 @@ text:
   pt: |-
     A cada turno, o(s) primeiro(s) card(s) nas suas Zonas de Pêndulo que seria(m) destruído(s) por um efeito de card do oponente, não é(são) destruído(s).
   ja: |-
-    ①：このカードがモンスターゾーンに<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>する<ruby>限<rt>かぎ</rt></ruby>り、１ターンに１<ruby>度<rt>ど</rt></ruby>、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンのカードは<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>では<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>されない。
+    ①：このカードがモンスターゾーンに存在する限り、１ターンに１度、自分のＰゾーンのカードは相手の効果では破壊されない。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 1턴에 1번, 자신의 펜듈럼 존의 카드는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，1回合1次，自己的灵摆区域的卡不会被对方的效果破坏。
+    ①：只要此卡存在于怪兽区域，１回合１次，自己灵摆区域的卡不会因对手的效果被破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Pendulum / Effect
 attribute: DARK
@@ -54,12 +54,12 @@ pendulum_effect:
   pt: |-
     Você não pode controlar nenhum monstro para ativar este card. Se um Monstro Pêndulo que você controla batalhar, seu oponente não pode ativar Cards de Armadilha até o final da Etapa de Dano. A não ser que você tenha um card "Mago" ou um card "Olhos Anômalos" na sua outra Zona de Pêndulo, a Escala de Pêndulo deste card se torna 4.
   ja: |-
-    <ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドにモンスターが<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>しない<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>にこのカードを<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。①：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>モンスターが<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>はダメージステップ<ruby>終<rt>しゅう</rt></ruby><ruby>了<rt>りょう</rt></ruby><ruby>時<rt>とき</rt></ruby>まで<ruby>罠<rt>トラップ</rt></ruby>カードを<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できない。②：もう<ruby>片<rt>かた</rt></ruby><ruby>方<rt>ほう</rt></ruby>の<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンに「<ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>」カードまたは「オッドアイズ」カードが<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>しない<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、このカードの<ruby>Ｐ<rt>ペンデュラム</rt></ruby>スケールは４になる。
+    自分フィールドにモンスターが存在しない場合にこのカードを発動できる。①：自分のＰモンスターが戦闘を行う場合、相手はダメージステップ終了時まで罠カードを発動できない。②：もう片方の自分のＰゾーンに「魔術師」カードまたは「オッドアイズ」カードが存在しない場合、このカードのＰスケールは４になる。
   ko: |-
     자신 필드에 몬스터가 존재하지 않을 경우에 이 카드를 발동할 수 있다. ①: 자신의 펜듈럼 몬스터가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 함정 카드를 발동할 수 없다. ②: 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드 또는 "오드아이즈" 카드가 존재하지 않을 경우, 이 카드의 펜듈럼 스케일은 4 가 된다.
   zh-TW:
   zh-CN: |-
-    自己场上没有怪兽存在的场合才能把这张卡发动。①：自己的灵摆怪兽进行战斗的场合，对方直到伤害步骤结束时陷阱卡不能发动。②：另一边的自己的摇摆区域没有「魔术师」卡或者「异色眼」卡存在的场合，这张卡的灵摆刻度变成4。
+    自己场上不存在怪兽的情况下可以发动此卡。①：自己的灵摆怪兽进行战斗的情况下，对手直至伤害步骤结束时为止，不可发动陷阱卡。②：另一方自己的灵摆区域没有“魔术师”卡或“异色眼”卡存在的情况下，此卡的灵摆刻度变为４。
 series:
 - Magician
 images:
@@ -228,6 +228,11 @@ sets:
     - Common
   - set_number: SD31-KR008
     set_name: 'Structure Deck: Pendulum Evolution'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SD29-SC007
+    set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Common
 limit_regulation:
