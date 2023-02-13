@@ -12,7 +12,7 @@ name:
   ko: 홀리 엘프－홀리 버스트 스트림
   ko_rr: Holli Elpeu - Holli Beoseuteu Seuteurim
   zh-TW:
-  zh-CN:
+  zh-CN: 圣精灵－圣爆裂疾风弹
 text:
   en: |-
     When a monster your opponent controls activates its effect, while you control a Level 5 or higher Normal Monster (Quick Effect): You can Special Summon this card from your hand, and if you do, negate that effect. During your opponent's Battle Phase (Quick Effect): You can target 1 Normal Monster in either GY; Special Summon it to your field, and if you do, all monsters your opponent controls must attack that monster this turn, if able, while you control it. You can only use each effect of "Mystical Elf - White Lightning" once per turn.
@@ -31,7 +31,8 @@ text:
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 레벨 5 이상의 일반 몬스터가 존재하고, 상대 필드의 몬스터가 효과를 발동했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 그 효과를 무효로 한다. ②: 상대 배틀 페이즈에, 자신 또는 상대 묘지의 일반 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 자신 필드에 특수 소환한다. 이 턴에, 그 몬스터가 자신 필드에 존재하는 한, 공격 가능한 상대 몬스터는 그 몬스터를 공격해야 한다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果１回合仅可各使用１次。①：自己场上有等级５以上的通常怪兽存在，对手场上的怪兽发动效果时可以发动。将此卡从手牌特殊召唤，将该效果无效。②：在对手战斗阶段，以自己或对手墓地的１只通常怪兽为对象可以发动。将该怪兽特殊召唤至自己场上。此回合，只要该怪兽存在于自己场上，可攻击的对手怪兽必须攻击该怪兽。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: LIGHT
@@ -81,6 +82,11 @@ sets:
     - Common
     - Normal Parallel Rare
     - Secret Rare
+  zh-CN:
+  - set_number: CL02-SC003
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

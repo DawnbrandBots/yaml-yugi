@@ -12,7 +12,7 @@ name:
   ko: 드래곤을 부르는 피리
   ko_rr:
   zh-TW: 喚龍笛
-  zh-CN: 呼龙笛
+  zh-CN: 唤龙笛
 text:
   en: |-
     Special Summon up to 2 Dragon monsters from your hand. "Lord of D." must be on the field to activate and to resolve this effect.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     场上存在「龍之支配者」的场合，最多从手牌特殊召唤2只龙族怪兽。
   zh-CN: |-
-    ①：从手卡把最多2只龙族怪兽特殊召唤。这个效果在场上有「龙之支配者」存在的场合才能发动和处理。
+    ①：从手牌将最多２只龙族怪兽特殊召唤。此效果在场上有“龙之主宰－龙的支配者”存在的情况下才能发动和处理。
 card_type: Spell
 property: Normal
 images:
@@ -330,6 +330,11 @@ sets:
   zh-TW:
   - set_number: SD22-TC024
     set_name: 'Structure Deck: Dragonic Legion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC015
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:
