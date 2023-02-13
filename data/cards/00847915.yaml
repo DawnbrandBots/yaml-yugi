@@ -12,7 +12,7 @@ name:
   ko: 넘버즈 월
   ko_rr:
   zh-TW:
-  zh-CN: №系之壁
+  zh-CN: 号数之壁
 text:
   en: |-
     Activate only if you control a "Number" monster. "Number" monsters on the field cannot be destroyed by card effects, and cannot be destroyed by battle except with another "Number" monster. When a "Number" monster you control is destroyed, destroy this card.
@@ -32,7 +32,7 @@ text:
     자신 필드 위에 "No."라는 이름이 붙은 몬스터가 존재할 경우에 발동할 수 있다. 이 카드가 필드 위에 존재하는 한, 서로의 필드 위 "No."라는 이름이 붙은 몬스터는 카드의 효과로는 파괴되지 않고, "No."라는 이름이 붙은 몬스터 이외와의 전투로는 파괴되지 않는다. 자신 필드 위의 "No."라는 이름이 붙은 몬스터가 파괴되었을 때, 이 카드를 파괴한다.
   zh-TW:
   zh-CN: |-
-    自己场上有名字带有「No.」的怪兽存在的场合才能发动。只要这张卡在场上存在，双方场上的名字带有「No.」的怪兽不会被卡的效果破坏，不会被和名字带有「No.」的怪兽以外的战斗破坏。自己场上的名字带有「No.」的怪兽被破坏时，这张卡破坏。
+    自己场上有“编号”怪兽存在的情况下可以发动此卡。①：只要此卡存在于魔法与陷阱区域，场上的“编号”怪兽不会因效果被破坏，不会因与“编号”怪兽以外的战斗被破坏。②：自己场上的表侧表示“编号”怪兽被破坏时，此卡将被破坏。
 card_type: Trap
 property: Continuous
 series:
@@ -74,6 +74,11 @@ sets:
   ko:
   - set_number: CPZ1-KR048
     set_name: 'Collectors Pack: ZEXAL Version'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SCTP-SC162
+    set_name: Entry Pack Volume 10
     rarities:
     - Common
 limit_regulation:

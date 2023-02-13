@@ -12,7 +12,7 @@ name:
   ko: 멘탈스피어 데몬
   ko_rr:
   zh-TW: 精神球惡魔
-  zh-CN: 精神界恶魔
+  zh-CN: 心灵领域恶魔
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
@@ -42,8 +42,8 @@ text:
     协调＋协调以外的怪兽1只或以上
     此卡因战斗被破坏并送入墓地时，恢复我方与已破坏怪兽原本攻击力数值相等的生命点数。此外，以1只超能族怪兽为对象的魔法、陷阱卡发动时，可支付1000点生命点数发动。该发动无效并破坏。
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    ①：这张卡战斗破坏怪兽送去墓地的场合发动。自己基本分回复那只怪兽的原本攻击力的数值。②：只以1只念动力族怪兽为对象的魔法·陷阱卡发动时，支付1000基本分才能发动。那个发动无效并破坏。
+    协调＋1只以上协调以外的怪兽
+    ①：此卡战斗破坏怪兽并将其送至墓地的情况下发动。依该怪兽原本的攻击力数值恢复自己的LP。②：仅以1只念动力族怪兽为对象的魔法·陷阱卡发动时，支付1000LP可以发动。将该发动无效并破坏。
 card_type: Monster
 monster_type_line: Psychic / Synchro / Effect
 attribute: DARK
@@ -171,6 +171,11 @@ sets:
     set_name: Starter Pack Volume 3
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SCTP-SC155
+    set_name: Entry Pack Volume 10
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

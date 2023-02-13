@@ -15,8 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    2+ monsters, including a Plant or Insect monster
-    This Link Summoned card is unaffected by Trap effects. "Traptrix" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can banish 1 Normal Trap from your GY, and if you do, destroy 1 of the face-up targeted cards.
+    2+ monsters, including an Insect or Plant monster
+    This Link Summoned card is unaffected by Trap effects. All "Traptrix" monsters you control gain 1000 ATK while you have a Normal Trap in your GY. Once per turn: You can target face-up cards your opponent controls, up to the number of Insect and Plant monsters you control; negate their effects (until the end of this turn), then you can apply this effect.
+     ● Banish 1 Normal Trap from your GY, and if you do, destroy 1 of those targeted face-up cards.
   de:
   es:
   fr:
@@ -36,13 +37,38 @@ link_arrows:
 - ⬇
 - ➡
 atk: 1800
-materials: 2+ monsters, including a Plant or Insect monster
+materials: 2+ monsters, including an Insect or Plant monster
 series:
 - Traptrix
 images:
 - index: 1
   image: TraptrixAtypus-SD45-JP-SR.png
 sets:
+  en:
+  - set_number: SDBT-EN043
+    set_name: 'Structure Deck: Beware of Traptrix'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: SDBT-DE043
+    set_name: 'Structure Deck: Beware of Traptrix'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: SDBT-FR043
+    set_name: 'Structure Deck: Beware of Traptrix'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: SDBT-IT043
+    set_name: 'Structure Deck: Beware of Traptrix'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: SDBT-PT043
+    set_name: 'Structure Deck: Beware of Traptrix'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: SD45-JPP02
     set_name: 'Structure Deck: Forest of the Traptrix Banquet Invitation Pack'
