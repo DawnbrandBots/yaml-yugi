@@ -12,7 +12,7 @@ name:
   ko: 리추어 디바이너
   ko_rr:
   zh-TW:
-  zh-CN: 遗式占卜师
+  zh-CN: 咒仪・占卜师
 text:
   en: |-
     Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, add it to your hand. Otherwise, return it to the top of the Deck.
@@ -31,7 +31,7 @@ text:
     1턴에 1번, 카드명을 1개 선언하고 발동할 수 있다. 자신 덱의 맨 위의 카드를 넘겨, 그것이 선언한 카드였을 경우 패에 넣는다. 다를 경우, 자신 덱의 맨 위로 되돌린다.
   zh-TW:
   zh-CN: |-
-    1回合1次，宣言1个卡名才能发动。把自己卡组最上面的卡翻开，那是宣言的卡的场合加入手卡。不是的场合，回到自己卡组最上面。
+    ①：１回合１次，宣言１个卡名可以发动。翻开自己牌组最上面的卡，是宣言的卡的情况下，将该卡加入手牌。不是的情况下，将该卡放回牌组最上面。
 card_type: Monster
 monster_type_line: Sea Serpent / Effect
 attribute: WATER
@@ -72,6 +72,11 @@ sets:
   ko:
   - set_number: GENF-KR027
     set_name: Generation Force
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC081
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

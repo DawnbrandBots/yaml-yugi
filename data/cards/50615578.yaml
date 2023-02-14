@@ -12,7 +12,7 @@ name:
   ko: 자동기계첩자 7749 "칠칠사십구"
   ko_rr:
   zh-TW:
-  zh-CN: 机巧忍者 七七四九
+  zh-CN: 机偶忍者 七七四九
 text:
   en: |-
     This card must attack if able. When this face-up card is selected as an attack target, change its battle position. When this card is Normal Summoned, you can draw a number of cards equal to the number of face-up Defense Position "Karakuri" monsters you control.
@@ -31,7 +31,7 @@ text:
     이 카드는 공격이 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 변경한다. 이 카드가 일반 소환에 성공했을 때, 자신 필드 위에 앞면 표시로 존재하는 "자동 기계" 라는 이름이 붙은 몬스터의 수만큼, 자신의 덱에서 카드를 드로우할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡可以攻击的场合必须作出攻击。场上表侧表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变更。这张卡召唤成功时，可以从自己卡组抽出自己场上表侧守备表示存在的名字带有「机巧」的怪兽数量的卡。
+    ①：此卡召唤成功时可以发动。依自己场上守备表示“机偶”怪兽的数量，自己从牌组抽牌。②：此卡在可攻击的情况下必须攻击。③：此卡在被选择为攻击对象的情况下发动。变更此卡的表示形式。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -73,6 +73,11 @@ sets:
   ko:
   - set_number: EXVC-KR031
     set_name: Extreme Victory
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC106
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

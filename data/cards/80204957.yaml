@@ -12,7 +12,7 @@ name:
   ko: 임대 자동기계 창고
   ko_rr:
   zh-TW:
-  zh-CN: 借机巧藏
+  zh-CN: 机偶借金藏
 text:
   en: |-
     Select 1 face-up "Karakuri" monster you control. Add 1 Level 4 or lower "Karakuri" monster from your Deck to your hand and change the battle position of the selected monster.
@@ -31,7 +31,7 @@ text:
     자신 필드 위에 앞면 표시로 존재하는 "자동기계" 라는 이름이 붙은 몬스터 1장을 선택하고 발동한다. 자신의 덱에서 레벨 4 이하의 "자동기계" 라는 이름이 붙은 몬스터 1장을 패에 넣고, 선택한 몬스터의 표시 형식을 변경한다.
   zh-TW:
   zh-CN: |-
-    选择自己场上表侧表示存在的1只名字带有「机巧」的怪兽发动。从自己卡组把1只4星以下的名字带有「机巧」的怪兽加入手卡，选择的怪兽的表示形式变更。
+    ①：以自己场上的１只“机偶”怪兽为对象可以发动。从牌组将１只等级４以下的“机偶”怪兽加入手牌，变更对象怪兽的表示形式。
 card_type: Spell
 property: Normal
 series:
@@ -68,6 +68,11 @@ sets:
   ko:
   - set_number: STOR-KR052
     set_name: Storm of Ragnarok
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC114
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

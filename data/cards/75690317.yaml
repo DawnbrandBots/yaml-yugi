@@ -12,7 +12,7 @@ name:
   ko: 자동기계두꺼비 4624 "사육이사"
   ko_rr: Jadonggigyedukkeobi Sa-Yuk-I-Sa "Sayuk-isa"
   zh-TW:
-  zh-CN: 机巧蛤蟆 四六二四
+  zh-CN: 机偶蛤蟆 四六贰四
 text:
   en: |-
     This card must attack, if able. If this card is targeted for an attack: Change the battle position of this card. (Quick Effect): You can banish this card from your GY, then target 1 "Karakuri" monster you control; change its battle position. You can only use this effect of "Karakuri Gama mdl 4624 "Shirokunishi"" once per turn.
@@ -32,10 +32,7 @@ text:
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 공격 가능한 경우에는 공격해야 한다. ②: 이 카드가 공격 대상으로 선택되었을 경우에 발동한다. 이 카드의 표시 형식을 변경한다. ③: 묘지의 이 카드를 제외하고, 자신 필드의 "자동기계" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 표시 형식을 변경한다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    这个卡名的③的效果1回合只能使用1次。
-    ①：这张卡可以攻击的场合必须作出攻击。
-    ②：这张卡被选择作为攻击对象的场合发动。这张卡的表示形式变更。
-    ③：把墓地的这张卡除外，以自己场上1只「机巧」怪兽为对象才能发动。那只怪兽的表示形式变更。这个效果在对方回合也能发动。
+    此卡名的③效果１回合仅可使用１次。①：此卡在可攻击的情况下必须攻击。②：此卡在被选择为攻击对象的情况下发动。变更此卡的表示形式。③：将墓地的此卡除外，以自己场上的１只“机偶”怪兽为对象可以发动。变更该怪兽的表示形式。此效果在对手回合中也可以发动。
 card_type: Monster
 monster_type_line: Machine / Tuner / Effect
 attribute: EARTH
@@ -81,6 +78,11 @@ sets:
   ko:
   - set_number: IGAS-KR015
     set_name: Ignition Assault
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: CL02-SC108
+    set_name: Classic Pack 02
     rarities:
     - Rare
 limit_regulation:

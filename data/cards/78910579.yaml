@@ -12,7 +12,7 @@ name:
   ko: 의수경의 반혼술
   ko_rr:
   zh-TW:
-  zh-CN: 仪水镜的返魂术
+  zh-CN: 仪水镜之反魂术
 text:
   en: |-
     Target 1 WATER monster you control and 2 WATER monsters in your Graveyard; shuffle the first target into the Deck, and if you do, add the second targets to your hand.
@@ -32,7 +32,7 @@ text:
     자신 필드 위의 물 속성 몬스터 1장을 선택하여 덱으로 되돌리고, 자신의 묘지에 존재하는 물 속성 몬스터 2장을 선택하여 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    选择自己场上1只水属性怪兽回到卡组，选择自己墓地存在的2只水属性怪兽加入手卡。
+    ①：以自己场上的１只水属性怪兽和自己墓地的２只水属性怪兽为对象可以发动。将该自己场上的水属性怪兽放回持有者的牌组，将该２只墓地的水属性怪兽加入手牌。
 card_type: Trap
 property: Normal
 series:
@@ -94,6 +94,11 @@ sets:
   ko:
   - set_number: GAOV-KR079
     set_name: Galactic Overlord
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC098
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

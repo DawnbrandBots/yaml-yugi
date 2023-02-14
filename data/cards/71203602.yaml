@@ -12,7 +12,7 @@ name:
   ko: 이비리추어 리바이아니마
   ko_rr:
   zh-TW:
-  zh-CN: 邪遗式双魂海龙
+  zh-CN: 禁咒仪・女相利维亚
 text:
   en: |-
     You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a "Gishki" monster, look at 1 random card in your opponent's hand.
@@ -32,7 +32,7 @@ text:
     '리추어' 라는 이름이 붙은 의식 마법 카드에 의해 강림. 이 카드의 공격 선언시, 자신의 덱에서 카드를 1장 드로우하고 서로 확인한다. 확인한 카드가 '리추어' 라는 이름이 붙은 몬스터였을 경우, 상대의 패를 무작위로 1장 확인한다.
   zh-TW:
   zh-CN: |-
-    名字带有「遗式」的仪式魔法卡降临。这张卡的攻击宣言时，从自己卡组抽1张卡，给双方确认。确认的卡是名字带有「遗式」的怪兽的场合，把对方手卡随机1张确认。
+    以“咒仪”仪式魔法卡降临。①：此卡的攻击宣言时发动。自己从牌组抽１张，双方确认。确认的卡是“咒仪”怪兽的情况下，随机挑选１张对手手牌确认。
 card_type: Monster
 monster_type_line: Aqua / Ritual / Effect
 attribute: WATER
@@ -88,6 +88,11 @@ sets:
     set_name: 'Hidden Arsenal 7: Knight of Stars'
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: CL02-SC088
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

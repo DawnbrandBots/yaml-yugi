@@ -12,7 +12,7 @@ name:
   ko: 자동기계상인 177 "일칠칠"
   ko_rr:
   zh-TW:
-  zh-CN: 机巧商人 一七七
+  zh-CN: 机偶商人 壹七七
 text:
   en: |-
     This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. When this card is Normal Summoned, add 1 "Karakuri" card from your Deck to your hand.
@@ -31,7 +31,7 @@ text:
     이 카드는 공격 가능한 경우에는 공격을 해야 한다. 필드 위에 앞면 공격 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 수비 표시로 한다. 이 카드가 일반 소환에 성공했을 때, 자신의 덱에서 "자동기계" 라는 이름이 붙은 카드 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    这张卡可以攻击的场合必须作出攻击。场上表侧攻击表示存在的这张卡被选择作为攻击对象时，这张卡的表示形式变成守备表示。这张卡召唤成功时，从自己卡组把1张名字带有「机巧」的卡加入手卡。
+    ①：此卡召唤成功的情况下发动。从牌组将１张“机偶”卡加入手牌。②：此卡在可攻击的情况下必须攻击。③：攻击表示的此卡在被选择为攻击对象的情况下发动。将此卡改成守备表示。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -74,6 +74,11 @@ sets:
     set_name: Starstrike Blast
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CL02-SC100
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

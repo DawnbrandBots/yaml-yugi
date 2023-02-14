@@ -12,7 +12,7 @@ name:
   ko: 임대 자동기계 정비소
   ko_rr:
   zh-TW:
-  zh-CN: 借机巧整备藏
+  zh-CN: 机偶借金整备藏
 text:
   en: |-
     Activate only if you control a "Karakuri" monster in face-up Defense Position. Negate the activation of an opponent's Spell/Trap Card and destroy it.
@@ -31,7 +31,7 @@ text:
     자신 필드 위에 "자동기계" 라는 이름이 붙은 몬스터가 앞면 수비 표시로 존재할 경우에 발동할 수 있다. 상대가 발동한 마법 / 함정 카드의 발동을 무효로 하고 파괴한다.
   zh-TW:
   zh-CN: |-
-    自己场上有名字带有「机巧」的怪兽表侧守备表示存在的场合才能发动。对方发动的魔法·陷阱卡的发动无效并破坏。
+    ①：“机偶”怪兽以守备表示存在于自己场上，对手发动魔法・陷阱卡时可以发动。将该发动无效并破坏。
 card_type: Trap
 property: Counter
 series:
@@ -68,6 +68,11 @@ sets:
   ko:
   - set_number: EXVC-KR074
     set_name: Extreme Victory
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC116
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

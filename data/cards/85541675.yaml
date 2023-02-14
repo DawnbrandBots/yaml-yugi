@@ -12,7 +12,7 @@ name:
   ko: 자동기계 해체신서
   ko_rr:
   zh-TW:
-  zh-CN: 机巧解体新书
+  zh-CN: 机偶解体新书
 text:
   en: |-
     Each time a "Karakuri" monster's battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.
@@ -31,7 +31,7 @@ text:
     "자동기계" 라는 이름이 붙은 몬스터의 표시 형식이 변경될 때마다, 이 카드에 자동기계 카운터를 1개 놓는다(최대 2개까지). 또한, 필드 위에 존재하는 이 카드를 묘지로 보내는 것으로, 이 카드에 얹혀 있는 자동기계 카운터의 수만큼 자신의 덱에서 카드를 드로우한다.
   zh-TW:
   zh-CN: |-
-    每次名字带有「机巧」的怪兽的表示形式变更，给这张卡放置1个机巧指示物（最多2个）。此外，可以通过把场上存在的这张卡送去墓地，从自己卡组抽出这张卡放置的机巧指示物数量的卡。
+    ①：每次“机偶”怪兽的表示形式被变更时，在此卡上放１个机偶计数物（最多２个）。②：将放有机偶计数物的此卡送至墓地可以发动。依被放在此卡上的机偶计数物的数量，自己从牌组抽牌。
 card_type: Spell
 property: Continuous
 series:
@@ -68,6 +68,11 @@ sets:
   ko:
   - set_number: STBL-KR048
     set_name: Starstrike Blast
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC113
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

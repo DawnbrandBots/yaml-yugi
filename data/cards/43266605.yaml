@@ -12,7 +12,7 @@ name:
   ko: <ruby>PSY<rt>싸이</rt></ruby>프레임 멀티스레더
   ko_rr:
   zh-TW:
-  zh-CN: PSY骨架多线人
+  zh-CN: 精神骨架 多线处理者
 text:
   en: |-
     This card's name becomes "PSY-Frame Driver" while it is in the hand or Graveyard. If a "PSY-Frame" card(s) you control would be destroyed by battle or card effect, you can discard this card instead. If a "PSY-Frame" Tuner is Special Summoned to your field, while this card is in your Graveyard (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "PSY-Frame Multi-Threader" once per turn.
@@ -32,7 +32,7 @@ text:
     "PSY(싸이)프레임 멀티스레더"의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 패 / 묘지에 존재하는 한, "PSY(싸이)프레임 드라이버"로 취급한다. ②: 자신 필드의 "PSY(싸이)프레임" 카드가 전투 / 효과로 파괴될 경우, 대신에 패의 이 카드를 버릴 수 있다. ③: 이 카드가 묘지에 존재하고, 자신 필드에 "PSY(싸이)프레임" 튜너가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
   zh-TW:
   zh-CN: |-
-    「PSY骨架多线人」的③的效果1回合只能使用1次。①：这张卡只要在手卡·墓地存在，当作「PSY骨架驱动者」使用。②：自己场上的「PSY骨架」卡被战斗·效果破坏的场合，可以作为代替把手卡的这张卡丢弃。③：这张卡在墓地存在，自己场上有「PSY骨架」调整特殊召唤的场合才能发动。这张卡从墓地特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
+    此卡名的③效果１回合仅可使用１次。①：此卡只要存在于手牌・墓地，视为“精神骨架 驱动者”。②：自己场上的“精神骨架”卡将被战斗・效果破坏的情况下，可将手牌的此卡舍弃作为代替。③：此卡存在于墓地，“精神骨架”协调被特殊召唤至自己场上的情况下可以发动。从墓地将此卡特殊召唤。以此效果特殊召唤的此卡离开场上的情况下，将其除外。
 card_type: Monster
 monster_type_line: Psychic / Effect
 attribute: LIGHT
@@ -98,6 +98,11 @@ sets:
   ko:
   - set_number: INOV-KR029
     set_name: 'Invasion: Vengeance'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC119
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:

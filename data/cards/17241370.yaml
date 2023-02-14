@@ -12,7 +12,7 @@ name:
   ko: 리추어 나탈리아
   ko_rr:
   zh-TW:
-  zh-CN: 遗式术师·纳塔莉娅
+  zh-CN: 咒仪・娜塔莉亚
 text:
   en: |-
     Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 "Gishki" monster in your Graveyard; return that target to the top of the Deck.
@@ -32,7 +32,7 @@ text:
     이 카드는 특수 소환할 수 없다. 일반 소환 / 리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌린다. 이 카드가 일반 소환 / 리버스했을 때, 자신 묘지의 "리추어" 라는 이름이 붙은 몬스터 1장을 선택하여 덱의 맨 위로 되돌릴 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡不能特殊召唤。召唤·反转的回合的结束阶段时回到持有者手卡。这张卡召唤·反转时，可以选择自己墓地1只名字带有「遗式」的怪兽回到卡组最上面。
+    此卡不可特殊召唤。①：此卡召唤・反转时，以自己墓地的１只“咒仪”怪兽为对象可以发动。将该怪兽放回牌组最上面。②：此卡召唤・反转的回合的结束阶段发动。将此卡放回持有者的手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Spirit
 attribute: WATER
@@ -88,6 +88,11 @@ sets:
     set_name: 'Hidden Arsenal 7: Knight of Stars'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: CL02-SC083
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
