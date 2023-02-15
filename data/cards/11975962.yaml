@@ -32,7 +32,7 @@ text:
     자신 필드 위의 "성각"이라는 이름이 붙은 몬스터 1장을 릴리스하고 발동할 수 있다. 상대 필드 위의 카드 1장을 선택하고 게임에서 제외한다.
   zh-TW:
   zh-CN: |-
-    把自己场上1只名字带有「圣刻」的怪兽解放才能发动。选择对方场上1张卡从游戏中除外。
+    ①：解放自己场上的１只“圣刻”怪兽，以对手场上的１张卡为对象可以发动。将该对手的卡除外。
 card_type: Trap
 property: Normal
 series:
@@ -92,6 +92,11 @@ sets:
     set_name: Galactic Overlord
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CL02-SC148
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
