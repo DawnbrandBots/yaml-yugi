@@ -38847,6 +38847,10 @@ sets:
     set_name: 'Deck Mod Pack: Fierce Thunder Storm!!'
     rarities:
     - Rare
+  - set_number: RD/LGP1-JP046
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP06-KR055
     set_name: 'Deck Mod Pack: Fierce Thunder Storm!!'
@@ -45550,6 +45554,11 @@ sets:
     set_name: Strongest Battle Deck Tournament 2022 prize card
     rarities:
     - Secret Rare
+  - set_number: RD/LGP1-JP014
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: RD/EXT1-KR049
     set_name: Extra Transcend Enhancement Pack
@@ -52120,6 +52129,10 @@ sets:
   ja:
   - set_number: RD/GRP1-JP035
     set_name: Gold Rush Pack
+    rarities:
+    - Common
+  - set_number: RD/LGP1-JP030
+    set_name: Legend Awakening Pack
     rarities:
     - Common
   ko:
@@ -90533,6 +90546,61 @@ yugipedia_page_id: 921329
 ---
 konami_id:
 name:
+  en: Flapun
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フラパン
+  ja_romaji: Furapan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have another face-up Beast Type monster on your field, place 1 Beast Type monster from your Graveyard on top of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses 400 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 1
+atk: 700
+def: 200
+images:
+- index: 1
+  image: Flapun-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP041
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 928488
+---
+konami_id:
+name:
   en: Polymerization
   de:
   es:
@@ -91655,3 +91723,234 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 935774
+---
+konami_id:
+name:
+  en: Behemoth the King of All Animals
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 monster. If you do, its original ATK becomes 2000.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add Beast Type monsters from your Graveyard to your hand equal to [the number of monsters Tributed for the Tribute Summon of this card].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 7
+atk: 2700
+def: 1500
+legend: true
+images:
+- index: 1
+  image: BehemoththeKingofAllAnimals-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP002
+    set_name: Legend Awakening Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+yugipedia_page_id: 935967
+---
+konami_id:
+name:
+  en: Great-Tusked Mammoth
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: グレートホーン・マンモス
+  ja_romaji: Gurētohōn Manmosu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Until the end of the opponent's next turn, while this card is face-up, neither player can activate the effects of face-up Level 4 or lower monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 1500
+images:
+- index: 1
+  image: GreatTuskedMammoth-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP003
+    set_name: Legend Awakening Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+yugipedia_page_id: 935970
+---
+konami_id:
+name:
+  en: Nimble Lemming
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>素<rt>す</rt></ruby><ruby>早<rt>ばや</rt></ruby>いレミング
+  ja_romaji: Subayai Remingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has a monster on their field during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 "Nimble Lemming" from among the cards sent to the Graveyard by this effect, face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 2
+atk: 900
+def: 100
+images:
+- index: 1
+  image: NimbleLemming-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP020
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 935971
+---
+konami_id:
+name:
+  en: Eve of the Big March
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>大<rt>だい</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>進<rt>しん</rt></ruby><ruby>前<rt>ぜん</rt></ruby><ruby>夜<rt>や</rt></ruby>
+  ja_romaji: Daikōshin Zen'ya
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 Level 7 or higher Beast Type monster in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. You can Special Summon up to 2 excavated Level 4 or lower Beast Type monsters to your field in face-down Defense Position. Send the remaining cards to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: EveoftheBigMarch-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP023
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 935972
