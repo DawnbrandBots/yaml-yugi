@@ -92005,3 +92005,289 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 936145
+---
+konami_id:
+name:
+  en: Magician's Curtain
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>黒魔術師<rt>マジシャン</rt></ruby>のカーテン
+  ja_romaji: Majishan no Kāten
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 700 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 4 cards of your Deck. You can add up to 2 excavated "Dark Magician" and/or "Dark Magician Girl" to your hand. Place the remaining cards on the bottom of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 2
+atk: 700
+def: 700
+images:
+- index: 1
+  image: MagiciansCurtain-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP012
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 936148
+---
+konami_id:
+name:
+  en: Final Destiny
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 5 cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all cards on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+legend: true
+images:
+- index: 1
+  image: FinalDestiny-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP022
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 936150
+---
+konami_id:
+name:
+  en: Malevolent Catastrophe
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Spell/Trap Cards on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+legend: true
+images:
+- index: 1
+  image: MalevolentCatastrophe-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP028
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 936151
+---
+konami_id:
+name:
+  en: Vanity's Fiend
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    This card cannot be Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    Neither player can Special Summon monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 6
+atk: 2400
+def: 1200
+legend: true
+images:
+- index: 1
+  image: VanitysFiend-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP008
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 936153
+---
+konami_id:
+name:
+  en: Malevolent Seller
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マレヴォレント・セラー
+  ja_romaji: Marevorento Serā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Malevolent Catastrophe" in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can add 1 Legend Card from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 2
+atk: 700
+def: 300
+images:
+- index: 1
+  image: MalevolentSeller-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP040
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 936159
