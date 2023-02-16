@@ -40,9 +40,9 @@ text:
     이 카드는 이 카드의 표시 형식에 따라서 이하의 효과를 얻는다. ● 공격 표시：자신 필드 위에 앞면 공격 표시로 존재하는 비행야수족 / 곤충족 / 식물족 몬스터는 전투로는 파괴되지 않는다. ● 수비 표시：자신 필드 위에 앞면 수비 표시로 존재하는 비행야수족 / 곤충족 / 식물족 몬스터는 카드의 효과의 대상이 되지 않으며, 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN: |-
-    这张卡得到这张卡的表示形式的以下效果。
-    ●攻击表示：自己场上表侧攻击表示存在的鸟兽族·昆虫族·植物族怪兽不会被战斗破坏。
-    ●守备表示：自己场上表侧守备表示存在的鸟兽族·昆虫族·植物族怪兽不会成为卡的效果的对象，不会被卡的效果破坏。
+    ①：此卡根据表示形式获得以下效果。
+    ●攻击表示：自己的攻击表示的鸟兽族・昆虫族・植物族怪兽不会因战斗被破坏。
+    ●守备表示：自己场上的守备表示的鸟兽族・昆虫族・植物族怪兽不会成为效果的对象，不会因效果被破坏。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -114,6 +114,10 @@ sets:
     set_name: Promotion Pack 2012 Vol.1
     rarities:
     - Super Rare
+  - set_number: CL02-SC175
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

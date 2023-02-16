@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方墓地的怪兽全部为兽族的场合，可释放此卡并发动。从我方手牌、墓地挑选1只「森之聖獸 綠葉獨角獸」以外的兽族怪兽特殊召唤。以此效果特殊召唤的怪兽此回合不可攻击。
   zh-CN: |-
-    自己墓地的怪兽只有　兽族　的场合，把这张卡解放才能发动。从自己的手卡·墓地选「森之圣兽 绿叶独角兽」以外的1只　兽族　怪兽特殊召唤。这个效果特殊召唤的怪兽在这个回合不能攻击。
+    ①：自己墓地的怪兽仅有兽族的情况下，解放此卡可以发动。从自己的手牌・墓地挑选“森之圣兽 绿叶独角兽”以外的１只兽族怪兽特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -84,6 +84,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC031
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC177
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:
