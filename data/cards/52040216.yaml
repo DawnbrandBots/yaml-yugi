@@ -12,7 +12,7 @@ name:
   ko: 해피의 애완 드래곤
   ko_rr: Haepi-ui Aewan Deuraegon
   zh-TW:
-  zh-CN: 鹰身女妖的宠物龙
+  zh-CN: 神鹰的宠物龙
 text:
   en: |-
     Gains 300 ATK/DEF for each "Harpie Lady" on the field.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 공격력 / 수비력은, 필드의 "해피 레이디"의 수 × 300 올린다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡的攻击力·守备力上升场上的「鹰身女郎」数量×300。
+    ①：此卡的攻击力・守备力上升相当于场上“神鹰女郎”数量×３００的数值。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: WIND
@@ -162,6 +162,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  zh-CN:
+  - set_number: CL02-SC165
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

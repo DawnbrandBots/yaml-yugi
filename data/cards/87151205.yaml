@@ -12,7 +12,7 @@ name:
   ko: 일렉테일 드래곤
   ko_rr:
   zh-TW: 電氣龍
-  zh-CN: 电气尾龙
+  zh-CN: 电力尾龙
 text:
   en: |-
     Capable of indefinite flight. Attacks by wrapping its body with electricity and ramming into opponents.
@@ -39,7 +39,7 @@ text:
   zh-TW: |-
     总是身缠电火花浮游于空中的龙。从古代开始就存在，其生态还有不少未解之谜，因古代的规则禁止对其进行捕获。
   zh-CN: |-
-    总有电气缠绕的空中浮游之龙。从古代就存在，其生态还有很多的谜，但由于古之规则而禁止捕获。
+    总是萦绕电力浮游于空中的龙。自古便存在于世间，其生态尚存大量谜团，但依古时规矩禁止对其进行捕获。
 card_type: Monster
 monster_type_line: Dragon
 attribute: LIGHT
@@ -146,6 +146,11 @@ sets:
     - Common
   - set_number: HD13-TCL01
     set_name: 'Half-Deck: LIGHT'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL02-SC151
+    set_name: Classic Pack 02
     rarities:
     - Common
 limit_regulation:
