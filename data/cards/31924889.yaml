@@ -12,7 +12,7 @@ name:
   ko: 아캐나이트 매지션
   ko_rr:
   zh-TW:
-  zh-CN: 奥金魔导师
+  zh-CN: 奥法魔术士
 text:
   en: |-
     1 Tuner + 1+ non-Tuner Spellcaster monsters
@@ -39,8 +39,8 @@ text:
     이 카드가 싱크로 소환에 성공했을 때, 이 카드에 마력 카운터를 2개 놓는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 1000 포인트 올린다. 또한, 자신 필드 위에 존재하는 마력 카운터를 1개 제거하는 것으로, 상대 필드 위에 존재하는 카드 1장을 파괴한다.
   zh-TW:
   zh-CN: |-
-    调整＋调整以外的魔法师族怪兽1只以上
-    ①：这张卡同调召唤成功的场合发动。给这张卡放置2个魔力指示物。②：这张卡的攻击力上升这张卡的魔力指示物数量×1000。③：把自己场上1个魔力指示物取除，以对方场上1张卡为对象才能发动。那张对方的卡破坏。
+    协调＋１只以上协调以外的魔法师族怪兽
+    ①：此卡同步召唤成功的情况下发动。在此卡上放２个魔力计数物。②：此卡的攻击力上升相当于此卡魔力计数物数量×１０００的数值。③：去除自己场上的１个魔力计数物，以对手场上的１张卡为对象可以发动。将该对手的卡破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Synchro / Effect
 attribute: LIGHT
@@ -155,6 +155,11 @@ sets:
     set_name: Spring Battle 2010 promotional cards
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: SD29-SCP12
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

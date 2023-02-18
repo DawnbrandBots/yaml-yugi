@@ -12,7 +12,7 @@ name:
   ko: 파티시엘 쿠베르
   ko_rr: Patisi-el Kuberu
   zh-TW:
-  zh-CN:
+  zh-CN: 圣果使 巧皮儿
 text:
   en: |-
     2 Pendulum Monsters
@@ -39,7 +39,9 @@ text:
     펜듈럼 몬스터 × 2
     ①: 몬스터 존의 이 카드가 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    灵摆怪兽×２
+    ①：怪兽区域的此卡被破坏的情况下可以发动。将此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Fairy / Fusion / Pendulum / Effect
 attribute: DARK
@@ -65,7 +67,8 @@ pendulum_effect:
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 자신의 엑스트라 덱에서 앞면 표시의 펜듈럼 몬스터 1장을 고르고 자신의 펜듈럼 존에 놓는다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的灵摆效果１回合仅可使用１次。①：另一方自己的灵摆区域没有卡存在的情况下可以发动。从自己的额外牌组挑选１只表侧表示灵摆怪兽，放在自己的灵摆区域。
 materials: 2 Pendulum Monsters
 images:
 - index: 1
@@ -111,6 +114,11 @@ sets:
     set_name: World Premiere Pack 2022
     rarities:
     - Rare
+  zh-CN:
+  - set_number: SD29-SCP09
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
