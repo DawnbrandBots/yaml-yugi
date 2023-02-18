@@ -12,7 +12,7 @@ name:
   ko: <ruby>EM<rt>엔터메이트</rt></ruby> 개틀링구울
   ko_rr:
   zh-TW:
-  zh-CN: 娱乐伙伴 机炮食尸鬼
+  zh-CN: 娱乐伙伴 加特林食尸鬼
 text:
   en: |-
     1 "Performapal" monster + 1 Level 5 or higher DARK monster
@@ -40,8 +40,8 @@ text:
     "EM(엔터메이트) 개틀링구울"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 필드의 카드의 수 × 200 데미지를 상대에게 준다. 이 카드가 펜듈럼 몬스터를 소재로서 융합 소환하고 있던 경우, 추가로 상대 필드의 몬스터 1장을 골라 파괴하고, 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다.
   zh-TW:
   zh-CN: |-
-    「娱乐伙伴」怪兽＋5星以上的暗属性怪兽
-    「娱乐伙伴 机炮食尸鬼」的效果1回合只能使用1次。①：这张卡融合召唤成功的场合才能发动。给与对方为场上的卡数量×200伤害。这张卡用灵摆怪兽为素材作融合召唤的场合，再选对方场上1只怪兽破坏，给与对方那只怪兽的原本攻击力数值的伤害。
+    “娱乐伙伴”怪兽＋等级５以上的暗属性怪兽
+    此卡名的效果１回合仅可使用１次。①：此卡融合召唤成功的情况下可以发动。给予对手相当于场上卡数量×２００的数值的伤害。此卡是以灵摆怪兽为素材融合召唤的情况下，进而挑选对手场上的１只怪兽破坏。给予对手该怪兽的原本攻击力数值的伤害。
 card_type: Monster
 monster_type_line: Fiend / Fusion / Effect
 attribute: DARK
@@ -111,6 +111,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SD29-SCP06
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
