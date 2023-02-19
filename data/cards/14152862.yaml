@@ -40,7 +40,8 @@ text:
     1턴에 1번, 상대가 마법 / 함정 카드를 발동했을 때에 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
   zh-TW:
   zh-CN: |-
-    魔法师族6星怪兽×2。1回合1次，对方把魔法·陷阱卡发动时把这张卡1个XYZ素材取除才能发动。那个发动无效并破坏。
+    魔法师族等级６怪兽×２
+    ①：１回合１次，对手发动魔法・陷阱卡时，去除此卡的１个超量素材可以发动。将该发动无效并破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Xyz / Effect
 attribute: LIGHT
@@ -133,6 +134,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SD29-SCP19
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

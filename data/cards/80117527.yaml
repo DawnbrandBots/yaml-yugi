@@ -12,7 +12,7 @@ name:
   ko: No.11 빅 아이
   ko_rr:
   zh-TW:
-  zh-CN: No.11 巨眼
+  zh-CN: 编号11 大眼
 text:
   en: |-
     2 Level 7 monsters
@@ -40,8 +40,8 @@ text:
     1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드 위에 존재하는 몬스터 1장의 컨트롤을 얻는다. 이 효과를 사용한 턴, 이 카드는 공격할 수 없다.
   zh-TW:
   zh-CN: |-
-    7星怪兽×2
-    1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只怪兽才能发动。得到选择的怪兽的控制权。这个效果发动的回合，这张卡不能攻击。
+    等级７怪兽×２
+    ①：１回合１次，去除此卡的１个超量素材，以对手场上的１只怪兽为对象可以发动。获得该怪兽的控制权。发动此效果的回合中，此卡不可攻击。
 card_type: Monster
 monster_type_line: Spellcaster / Xyz / Effect
 attribute: DARK
@@ -179,6 +179,11 @@ sets:
     set_name: The Valuable Book 14 promotional cards
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SD29-SCP17
+    set_name: 'Structure Deck: Master of Pendulum Deck Enhancement Pack'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
