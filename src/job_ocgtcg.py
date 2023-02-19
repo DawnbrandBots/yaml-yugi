@@ -8,6 +8,7 @@ import sys
 from typing import Any, Dict, List, NamedTuple, Optional, Union
 
 from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import LiteralScalarString
 
 from common import annotate_shared, initial_parse, int_or_none, int_or_og, transform_image, transform_names, transform_sets, transform_texts, write
 
@@ -182,10 +183,10 @@ def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_offic
         official_pendulum = official.get("pendulum")
         if official_text and (not yugipedia_text or "<ruby>" not in yugipedia_text) and yugipedia_text != official_text:
             module_logger.info(f"OVERRIDE TEXT FROM OFFICIAL {kid}: {official_name}")
-            document["text"]["ko"] = official_text
+            document["text"]["ko"] = LiteralScalarString(official_text)
         if official_pendulum and (not yugipedia_pendulum or "<ruby>" not in yugipedia_pendulum) and yugipedia_pendulum != official_pendulum:
             module_logger.info(f"OVERRIDE PENDULUM FROM OFFICIAL {kid}: {official_name}")
-            document["pendulum_effect"]["ko"] = official_pendulum
+            document["pendulum_effect"]["ko"] = LiteralScalarString(official_pendulum)
 
 
 def job(
