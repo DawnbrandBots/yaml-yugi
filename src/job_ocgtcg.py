@@ -1,7 +1,6 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import csv
-import json
 import logging
 from multiprocessing import current_process
 import os
@@ -10,7 +9,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 
 from ruamel.yaml import YAML
 
-from common import initial_parse, int_or_none, int_or_og, transform_sets, transform_names, transform_texts, transform_image, annotate_shared, write
+from common import annotate_shared, initial_parse, int_or_none, int_or_og, transform_image, transform_names, transform_sets, transform_texts, write
 
 module_logger = logging.getLogger(__name__)
 
@@ -142,7 +141,7 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
                 ]
 
 
-def load_ko(ko_file: str) -> Dict[int, str]:
+def load_ko_overrides(ko_file: str) -> Dict[int, str]:
     with open(ko_file, encoding="utf8") as f:
         reader = csv.DictReader(f, delimiter="\t")
         return {
@@ -151,9 +150,42 @@ def load_ko(ko_file: str) -> Dict[int, str]:
         }
 
 
-def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str]) -> None:
-    if document["konami_id"] and ko_overrides.get(document["konami_id"]):
-        document["name"]["ko"] = ko_overrides.get(document["konami_id"])
+def load_ko_official(ko_csv: str) -> Dict[int, Dict[str, str]]:
+    with open(ko_csv, encoding="utf8") as f:
+        reader = csv.DictReader(f, ["konami_id", "name", "text", "pendulum"])
+        return {
+            int(row["konami_id"]): row
+            for row in reader
+        }
+
+
+def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_official: Dict[int, Dict[str, str]]) -> None:
+    kid = document["konami_id"]
+    if kid:
+        yugipedia = document["name"]["ko"]
+        override = ko_overrides.get(kid)
+        official = ko_official.get(kid, {})
+        official_name = official.get("name")
+        if override:
+            if override == yugipedia or override == official_name:
+                module_logger.warn(f"OVERRIDE {kid}: {yugipedia} (unnecessary)")
+            else:
+                module_logger.info(f"OVERRIDE {kid}: {yugipedia} -> {override}")
+            document["name"]["ko"] = override
+        elif official_name and (not yugipedia or "<ruby>" not in yugipedia) and yugipedia != official_name:
+            module_logger.info(f"OVERRIDE FROM OFFICIAL {kid}: {yugipedia} -> {official_name}")
+            document["name"]["ko"] = official_name
+        
+        yugipedia_text = document["text"]["ko"]
+        yugipedia_pendulum = document.get("pendulum_effect", {}).get("ko")
+        official_text = official.get("text")
+        official_pendulum = official.get("pendulum")
+        if official_text and (not yugipedia_text or "<ruby>" not in yugipedia_text) and yugipedia_text != official_text:
+            module_logger.info(f"OVERRIDE TEXT FROM OFFICIAL {kid}: {official_name}")
+            document["text"]["ko"] = official_text
+        if official_pendulum and (not yugipedia_pendulum or "<ruby>" not in yugipedia_pendulum) and yugipedia_pendulum != official_pendulum:
+            module_logger.info(f"OVERRIDE PENDULUM FROM OFFICIAL {kid}: {official_name}")
+            document["pendulum_effect"]["ko"] = official_pendulum
 
 
 def job(
@@ -164,12 +196,14 @@ def job(
     tcg_vector: Optional[Dict[str, int]],
     ocg_vector: Optional[Dict[str, int]],
     ko_file: Optional[str],
+    ko_csv: Optional[str],
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
-    ko_overrides = load_ko(ko_file) if ko_file else None
+    ko_overrides = load_ko_overrides(ko_file) if ko_file else None
+    ko_official = load_ko_official(ko_csv) if ko_csv else None
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
@@ -189,7 +223,7 @@ def job(
             if assignments:
                 annotate_assignments(document, assignments)
             if ko_overrides:
-                override_ko(document, ko_overrides)
+                override_ko(document, ko_overrides, ko_official)
             write_output(yaml, logger, document)
             if return_results:
                 results.append(document)
