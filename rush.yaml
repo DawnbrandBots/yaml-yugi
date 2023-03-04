@@ -136,6 +136,10 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  - set_number: RD/ORP1-KR003
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 720202
 ---
 konami_id: 15151
@@ -2256,6 +2260,10 @@ sets:
     set_name: Secret Record Pack
     rarities:
     - Secret Rare
+  - set_number: RD/ORP1-KR001
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 722424
 ---
 konami_id: 15185
@@ -10880,6 +10888,59 @@ sets:
     - Common
 yugipedia_page_id: 771212
 ---
+konami_id: 15602
+name:
+  en: Return
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent adds a card from the Graveyard to the hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手が墓地のカードを手札に加えた時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle 1 random card from your opponent's hand into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の手札をランダムに１枚選んでデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: Return-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP027
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 937480
+---
 konami_id: 15603
 name:
   en: Beast Summoner
@@ -14669,7 +14730,7 @@ def: 1200
 legend: true
 images:
 - index: 1
-  image: SummonedSkull-RDKP03-JP-RR.png
+  image: SummonedSkull-RDLGP1-JP-R.png
 sets:
   ja:
   - set_number: RD/KP03-JP000
@@ -18021,6 +18082,10 @@ sets:
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
     rarities:
     - Common
+  - set_number: RD/ORP1-KR004
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 777989
 ---
 konami_id: 15898
@@ -18139,6 +18204,10 @@ sets:
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
     rarities:
     - Common
+  - set_number: RD/ORP1-KR005
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 777986
 ---
 konami_id: 15899
@@ -18237,6 +18306,10 @@ sets:
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
     rarities:
     - Common
+  - set_number: RD/ORP1-KR006
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 777991
 ---
 konami_id: 15900
@@ -27826,7 +27899,7 @@ def: 2300
 legend: true
 images:
 - index: 1
-  image: BusterBlader-RDKP05-JP-RR.png
+  image: BusterBlader-RDLGP1-JP-R.png
 sets:
   ja:
   - set_number: RD/KP05-JP000
@@ -38848,7 +38921,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: RageoftheWildBeasts-RDLGP1-JP-OP.png
+  image: RageoftheWildBeasts-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/KP06-JP055
@@ -45547,7 +45620,7 @@ property: Normal
 legend: true
 images:
 - index: 1
-  image: GracefulCharity-RDEXT1-JP-ScR.png
+  image: GracefulCharity-RDLGP1-JP-SR.png
   illustration: GracefulCharity-DBR-JP-VG-artwork.png
 - index: 2
   image: GracefulCharity-RDSD01-JP-OP.png
@@ -46862,7 +46935,7 @@ name:
   zh-CN:
 text:
   en: |-
-    The head of the Noodle Ninja Corps who have advanced Noodles, overcoming the odds, no matter how noodly things get. He'll gladly speak to people who know nothing of noodles, but he'll make sure neither his location nor his noodles are ever exposed in the process.
+    The head of the Noodle Ninja Corps who have advanced noodles, overcoming the odds, no matter how noodly things get. He'll gladly speak to people who know nothing of noodles, but he'll make sure neither his location nor his noodles are ever exposed in the process.
   de:
   es:
   fr:
@@ -49755,13 +49828,17 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: ShipofSevenTreasures-RDKP07-JP-UR.png
+  image: ShipofSevenTreasures-RDLGP1-JP-ScR.png
 sets:
   ja:
   - set_number: RD/KP07-JP052
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
     rarities:
     - Ultra Rare
+  - set_number: RD/LGP1-JP050
+    set_name: Legend Awakening Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP07-KR052
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
@@ -49937,11 +50014,15 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: CardDevastation-RDKP07-JP-C.png
+  image: CardDevastation-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/KP07-JP055
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
+    rarities:
+    - Common
+  - set_number: RD/LGP1-JP042
+    set_name: Legend Awakening Pack
     rarities:
     - Common
   ko:
@@ -51848,7 +51929,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: '  SecretOrder-RDGRP1-JP-SR.png'
+  image: '  SecretOrder-RDLGP1-JP-ScR.png'
 - index: '1.1'
   image: SecretOrder-RDGRP1-KR-OP.png
 sets:
@@ -51857,6 +51938,10 @@ sets:
     set_name: Gold Rush Pack
     rarities:
     - Super Rare
+  - set_number: RD/LGP1-JP049
+    set_name: Legend Awakening Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/GRP1-KR024
     set_name: Grand Rush Pack
@@ -52132,7 +52217,7 @@ atk: 1500
 def: 1200
 images:
 - index: 1
-  image: AlligatorsSword-RDGRP1-JP-C.png
+  image: AlligatorsSword-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/GRP1-JP035
@@ -56990,7 +57075,7 @@ name:
   it:
   pt:
   ja: パラレルバース・ゲート
-  ja_romaji: Parareru Bāsu Gēto
+  ja_romaji: Pararerubāsu Gēto
   ko: 패러렐버스 게이트
   ko_rr:
   zh-TW:
@@ -58135,6 +58220,10 @@ sets:
     set_name: Strongest Battle Deck Promotion Pack
     rarities:
     - Secret Rare
+  - set_number: RD/ORP1-KR002
+    set_name: Over Rush Pack
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 862270
 ---
 konami_id: 17489
@@ -61673,11 +61762,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: CardReprint-RDKP09-JP-C.png
+  image: CardReprint-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/KP09-JP057
     set_name: 'Deck Mod Pack: Galaxy of Fate!!'
+    rarities:
+    - Common
+  - set_number: RD/LGP1-JP048
+    set_name: Legend Awakening Pack
     rarities:
     - Common
   ko:
@@ -62224,7 +62317,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: DelightoftheMighty-RDB221-JP-C.png
+  image: DelightoftheMighty-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/B221-JP005
@@ -62232,6 +62325,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/LGP1-JP047
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
 yugipedia_page_id: 866549
 ---
 konami_id: 17555
@@ -75490,7 +75587,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Team "Firepower Max" Sub-Leader. Recently, he's been using an ultra-high power burner that he bought using everything he owns. LET'S FIRE!
+    Team "Firepower Max" Sub-Leader. Recently, he's been using an ultra-high-power burner that he bought using everything he owns. LET'S FIRE!
   de:
   es:
   fr:
@@ -81651,7 +81748,7 @@ name:
   pt:
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ディスペラシオン［<ruby>Ｌ<rt>エル</rt></ruby>］
   ja_romaji: Shūenmajin Disuperashion [Eru]
-  ko:
+  ko: 종염 마신 디스페라시온[L]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81665,7 +81762,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -81680,7 +81778,8 @@ effect:
   pt:
   ja: |-
     このカードは相手の罠カードの効果では破壊されない。このカードがマキシマムモードの場合、さらにこのカードは相手の魔法カードの効果では破壊されない。
-  ko:
+  ko: |-
+    이 카드는 상대의 함정 카드의 효과로는 파괴되지 않는다. 이 카드가 맥시멈 모드일 경우, 추가로 이 카드는 상대의 마법 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81701,6 +81800,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR007
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 908859
 ---
 konami_id: 18337
@@ -81713,7 +81818,7 @@ name:
   pt:
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ディスペラシオン
   ja_romaji: Shūenmajin Disuperashion
-  ko:
+  ko: 종염 마신 디스페라시온
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81727,7 +81832,8 @@ summoning_condition:
   pt:
   ja: |-
     「終焔魔神ディスペラシオン［Ｌ］」「終焔魔神ディスペラシオン［Ｒ］」と揃えてマキシマム召喚できる。
-  ko:
+  ko: |-
+    "종염 마신 디스페라시온[L]" "종염 마신 디스페라시온[R]"과 모아 맥시멈 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -81740,7 +81846,8 @@ requirement:
   pt:
   ja: |-
     手札のマキシマムモンスター２体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 맥시멈 몬스터 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -81756,7 +81863,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに自分は２枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다. 이 카드가 맥시멈 모드일 경우, 추가로 자신은 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81778,6 +81886,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR008
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 908857
 ---
 konami_id: 18338
@@ -81790,7 +81904,7 @@ name:
   pt:
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ディスペラシオン［<ruby>Ｒ<rt>アール</rt></ruby>］
   ja_romaji: Shūenmajin Disuperashion [Āru]
-  ko:
+  ko: 종염 마신 디스페라시온[R]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81804,7 +81918,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -81819,7 +81934,8 @@ effect:
   pt:
   ja: |-
     お互いは手札・墓地からモンスター（レベル７）を特殊召喚できない。このカードがマキシマムモードの場合、さらに相手は手札のモンスターをセットできない。
-  ko:
+  ko: |-
+    양쪽 플레이어는 패 / 묘지에서 몬스터(레벨 7)를 특수 소환할 수 없다. 이 카드가 맥시멈 모드일 경우, 추가로 상대는 패의 몬스터를 세트할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81840,6 +81956,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR009
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 908861
 ---
 konami_id: 18339
@@ -81852,7 +81974,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ベルシュドロス［<ruby>Ｌ<rt>エル</rt></ruby>］
   ja_romaji: Enmajin Berushudorosu [Eru]
-  ko:
+  ko: 염 마신 벨슈드로스[L]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81866,7 +81988,8 @@ requirement:
   pt:
   ja: |-
     マキシマムモード
-  ko:
+  ko: |-
+    맥시멈 모드
   zh-TW:
   zh-CN:
 effect_types:
@@ -81881,7 +82004,8 @@ effect:
   pt:
   ja: |-
     このカードは通常モンスターとの戦闘では破壊されない。
-  ko:
+  ko: |-
+    이 카드는 일반 몬스터와의 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81902,6 +82026,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR010
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 908851
 ---
 konami_id: 18340
@@ -81914,7 +82044,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ベルシュドロス
   ja_romaji: Enmajin Berushudorosu
-  ko:
+  ko: 염 마신 벨슈드로스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81928,7 +82058,8 @@ summoning_condition:
   pt:
   ja: |-
     「焔魔神ベルシュドロス［Ｌ］」「焔魔神ベルシュドロス［Ｒ］」と揃えてマキシマム召喚できる。
-  ko:
+  ko: |-
+    "염 마신 벨슈드로스[L]" "염 마신 벨슈드로스[R]"과 모아 맥시멈 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -81941,7 +82072,8 @@ requirement:
   pt:
   ja: |-
     マキシマムモード
-  ko:
+  ko: |-
+    맥시멈 모드
   zh-TW:
   zh-CN:
 effect_types:
@@ -81957,7 +82089,8 @@ effect:
   pt:
   ja: |-
     このカードのレベルは６つ上がり、相手の罠カードの効果では破壊されない。
-  ko:
+  ko: |-
+    이 카드의 레벨은 6개 올라가고, 상대의 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81979,6 +82112,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR011
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 908849
 ---
 konami_id: 18341
@@ -81991,7 +82130,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ベルシュドロス［<ruby>Ｒ<rt>アール</rt></ruby>］
   ja_romaji: Enmajin Berushudorosu [Āru]
-  ko:
+  ko: 염 마신 벨슈드로스[R]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82005,7 +82144,8 @@ requirement:
   pt:
   ja: |-
     マキシマムモード：デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    맥시멈 모드: 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82018,7 +82158,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードの攻撃力は６００アップし、その攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
-  ko:
+  ko: |-
+    이 턴에, 이 카드의 공격력은 600 올리고, 그 공격은 관통한다(수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82039,6 +82180,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR012
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 908852
 ---
 konami_id: 18342
@@ -82051,7 +82198,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>導<rt>どう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>
   ja_romaji: Enma no Dōsha
-  ko:
+  ko: 염 마의 도자
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82065,7 +82212,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82078,7 +82226,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル４以下）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はマキシマムモンスターでしか攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 4 이하) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 턴에, 자신은 맥시멈 몬스터로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82098,6 +82247,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR013
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 908845
 ---
 konami_id: 18343
@@ -82110,7 +82264,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>暴<rt>ぼう</rt></ruby><ruby>蛇<rt>じゃ</rt></ruby>
   ja_romaji: Enma no Bōja
-  ko:
+  ko: 염 마의 폭사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82124,7 +82278,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル７以上）がいて、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 7 이상)가 있고, 자신 필드에 이 카드 이외의 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82137,7 +82292,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル１０）１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はマキシマムモンスターでしか攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 10) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 턴에, 자신은 맥시멈 몬스터로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82157,6 +82313,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR014
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 908842
 ---
 konami_id: 18344
@@ -82169,7 +82330,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>帰<rt>き</rt></ruby><ruby>還<rt>かん</rt></ruby>
   ja_romaji: Enma no Kikan
-  ko:
+  ko: 염 마의 귀환
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82183,7 +82344,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -82196,7 +82358,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示のマキシマムモンスター（悪魔族）を２体まで選んで持ち主の手札に戻す。このターン、自分はマキシマムモンスターでしか攻撃できない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 맥시멈 몬스터(악마족)를 2장까지 고르고 주인의 패로 되돌린다. 이 턴에, 자신은 맥시멈 몬스터로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -82212,6 +82375,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR015
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 908839
 ---
 konami_id: 18345
@@ -82224,7 +82392,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>侵<rt>しん</rt></ruby><ruby>食<rt>しょく</rt></ruby>
   ja_romaji: Enma no Shinshoku
-  ko:
+  ko: 염 마의 침식
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82238,7 +82406,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル４以下／悪魔族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 4 이하 / 악마족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82251,7 +82420,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル１０／悪魔族）１体を選んで手札に加える。このターン、自分はマキシマムモンスターでしか攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 10 / 악마족) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 맥시멈 몬스터로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -82267,6 +82437,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR016
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 908837
 ---
 konami_id: 18346
@@ -82279,7 +82454,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>燃<rt>ねん</rt></ruby>
   ja_romaji: Enma no Sainen
-  ko:
+  ko: 염 마의 재연
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82293,7 +82468,8 @@ requirement:
   pt:
   ja: |-
     自分のマキシマムモンスター（炎属性）が相手の攻撃で破壊された時、６００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    자신의 맥시멈 몬스터(화염 속성)가 상대의 공격으로 파괴되었을 때, 600 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82306,7 +82482,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル４以下／炎属性）を２体まで選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 4 이하 / 화염 속성)를 2장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -82322,6 +82499,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR017
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 908834
 ---
 konami_id: 18347
@@ -82334,7 +82516,7 @@ name:
   pt:
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>焔<rt>えん</rt></ruby>の<ruby>絶<rt>ぜつ</rt></ruby><ruby>望<rt>ぼう</rt></ruby>
   ja_romaji: Shūen no Zetsubō
-  ko:
+  ko: 종염의 절망
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82348,7 +82530,8 @@ requirement:
   pt:
   ja: |-
     自分の表側表示のマキシマムモンスターが攻撃を受ける相手モンスター（レベル８以下）の攻撃宣言時、６００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    자신의 앞면 표시 맥시멈 몬스터가 공격을 받는 상대 몬스터(레벨 8 이하)의 공격 선언시, 600 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82361,7 +82544,8 @@ effect:
   pt:
   ja: |-
     攻撃してきたモンスターを持ち主のデッキに戻す。自分フィールドにマキシマムモードのモンスターがいる場合、さらに相手に６００ダメージを与える。
-  ko:
+  ko: |-
+    공격해 온 몬스터를 주인의 덱으로 되돌린다. 자신 필드에 맥시멈 모드의 몬스터가 있을 경우, 추가로 상대에게 600 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -82378,6 +82562,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR018
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
 yugipedia_page_id: 913054
 ---
 konami_id: 18348
@@ -82390,7 +82580,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 사이버 엔드 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82404,7 +82594,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -82419,7 +82610,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
-  ko:
+  ko: |-
+    이 카드의 공격은 관통한다(수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82438,7 +82630,8 @@ materials:
   pt:
   ja: |-
     「サイバー・ドラゴン」＋「サイバー・ドラゴン」＋「サイバー・ドラゴン」
-  ko:
+  ko: |-
+    "사이버 드래곤" ＋ "사이버 드래곤" ＋ "사이버 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -82449,6 +82642,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP019
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR019
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -82465,7 +82664,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 사이버 트윈 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82479,7 +82678,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -82494,7 +82694,8 @@ effect:
   pt:
   ja: |-
     このカードは１ターンに２回攻撃できる。
-  ko:
+  ko: |-
+    이 카드는 1턴에 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82513,7 +82714,8 @@ materials:
   pt:
   ja: |-
     「サイバー・ドラゴン」＋「サイバー・ドラゴン」
-  ko:
+  ko: |-
+    "사이버 드래곤" ＋ "사이버 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -82524,6 +82726,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP020
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR020
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -82540,7 +82748,7 @@ name:
   pt:
   ja: サイバー・ラッシュ・ドラゴン
   ja_romaji: Saibā Rasshu Doragon
-  ko:
+  ko: 사이버 러시 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82554,7 +82762,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82567,7 +82776,8 @@ effect:
   pt:
   ja: |-
     自分は手札が５枚になるようにドローする。その後、自分は手札４枚を選んで墓地へ送る。さらに、手札のモンスター（機械族）１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 패가 5장이 되도록 드로우한다. 그 후, 자신은 패 4장을 고르고 묘지로 보낸다. 추가로, 패의 몬스터(기계족) 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82586,7 +82796,8 @@ materials:
   pt:
   ja: |-
     「サイバー・ドラゴン」＋「サイバー・ドラゴン」
-  ko:
+  ko: |-
+    "사이버 드래곤" ＋ "사이버 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -82597,6 +82808,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP021
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR021
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -82613,7 +82830,7 @@ name:
   pt:
   ja: サイバー・アサルト・ドラゴン
   ja_romaji: Saibā Asaruto Doragon
-  ko:
+  ko: 사이버 어썰트 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82627,7 +82844,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시의 "사이버 드래곤" 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -82640,7 +82858,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の「サイバー・ドラゴン」１体をデッキの上に戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 "사이버 드래곤" 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82653,7 +82872,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下／攻撃力２４００以上）１体を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하 / 공격력 2400 이상) 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82674,6 +82894,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR022
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 905623
 ---
 konami_id: 18352
@@ -82686,7 +82912,7 @@ name:
   pt:
   ja: サイバー・ステルス・ドラゴン
   ja_romaji: Saibā Suterusu Doragon
-  ko:
+  ko: 사이버 스텔스 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82700,7 +82926,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시의 "사이버 드래곤" 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -82713,7 +82940,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -82728,7 +82956,8 @@ effect:
   pt:
   ja: |-
     自分の墓地に「サイバー・ドラゴン」がいる場合、このカードの守備力は２０００アップし、相手モンスターの効果では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지에 "사이버 드래곤"이 있을 경우, 이 카드의 수비력은 2000 올리고, 상대 몬스터의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82749,6 +82978,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR023
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 913043
 ---
 konami_id: 18353
@@ -82761,7 +82996,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 사이버 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82775,7 +83010,8 @@ summoning_condition:
   pt:
   ja: |-
     相手フィールドにのみモンスターがいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드에만 몬스터가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -82788,7 +83024,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -82803,7 +83040,8 @@ effect:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82824,6 +83062,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR024
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
 yugipedia_page_id: 905615
 ---
 konami_id: 18354
@@ -82836,7 +83080,7 @@ name:
   pt:
   ja: サイバー・グリフォン
   ja_romaji: Saibā Gurifon
-  ko:
+  ko: 사이버 그리폰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82850,7 +83094,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82863,7 +83108,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル５以上／機械族）１体を選ぶ。このターン、そのモンスターは相手の罠カードの効果では破壊されない。そのモンスターが光属性の場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 5 이상 / 기계족) 1장을 고른다. 이 턴에, 그 몬스터는 상대의 함정 카드의 효과로는 파괴되지 않는다. 그 몬스터가 빛 속성일 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82881,6 +83127,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR025
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 905626
 ---
 konami_id: 18355
@@ -82893,7 +83144,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 프로토 사이버 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82907,7 +83158,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -82922,7 +83174,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名は「サイバー・ドラゴン」になる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 "사이버 드래곤"이 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -82943,6 +83196,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR026
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 905617
 ---
 konami_id: 18356
@@ -82955,7 +83214,7 @@ name:
   pt:
   ja: サイバー・サーペント
   ja_romaji: Saibā Sāpento
-  ko:
+  ko: 사이버 서펜트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -82969,7 +83228,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示モンスター（光属性／機械族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시 몬스터(빛 속성 / 기계족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -82982,7 +83242,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。この効果でモンスター（光属性／機械族）が２体以上墓地へ送られた場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 이 효과로 몬스터(빛 속성 / 기계족)가 2장 이상 묘지로 보내졌을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83000,6 +83261,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR027
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 913044
 ---
 konami_id: 18357
@@ -83012,7 +83278,7 @@ name:
   pt:
   ja: エヴォリューション・ラッシュ・バースト
   ja_romaji: Evoryūshon Rasshu Bāsuto
-  ko:
+  ko: 에볼루션 러시 버스트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83026,7 +83292,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル５以上／機械族）がいる場合、自分の墓地のモンスター（光属性／機械族）５体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 5 이상 / 기계족)가 있을 경우, 자신 묘지의 몬스터(빛 속성 / 기계족) 5장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83039,7 +83306,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -83050,6 +83318,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP028
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP1-KR028
     set_name: Over Rush Pack
     rarities:
     - Common
@@ -83065,7 +83338,7 @@ name:
   pt:
   ja: サイバー・エントリー
   ja_romaji: Saibā Entorī
-  ko:
+  ko: 사이버 엔트리
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83079,7 +83352,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（光属性／機械族）が３体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(빛 속성 / 기계족)가 3장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83092,7 +83366,8 @@ effect:
   pt:
   ja: |-
     自分の手札または自分の墓地の「サイバー・ドラゴン」または「プロト・サイバー・ドラゴン」１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（光属性／機械族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신의 패 또는 자신 묘지의 "사이버 드래곤" 또는 "프로토 사이버 드래곤" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 턴에, 자신은 몬스터(빛 속성 / 기계족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -83103,6 +83378,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP029
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR029
     set_name: Over Rush Pack
     rarities:
     - Common
@@ -83119,7 +83400,7 @@ name:
   pt:
   ja: マルチプル・アダプター・ユニット
   ja_romaji: Maruchipuru Adaputā Yunitto
-  ko:
+  ko: 멀티플 어댑터 유닛
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83133,7 +83414,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時、自分フィールドの表側表示モンスター（レベル５以上／機械族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때, 자신 필드의 앞면 표시 몬스터(레벨 5 이상 / 기계족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83146,7 +83428,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを裏側守備表示にする。その後、自分の墓地の「サイバー・アサルト・ドラゴン」または「サイバー・ステルス・ドラゴン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 뒷면 수비 표시로 한다. 그 후, 자신 묘지의 "사이버 어썰트 드래곤" 또는 "사이버 스텔스 드래곤" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -83157,6 +83440,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP030
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP1-KR030
     set_name: Over Rush Pack
     rarities:
     - Common
@@ -83172,7 +83460,7 @@ name:
   pt:
   ja: エクスキューティー・リュミエル
   ja_romaji: Ekusukyūtī Ryumieru
-  ko:
+  ko: 엑스큐티 류미엘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83186,7 +83474,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 몬스터가 없을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -83199,7 +83488,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -83212,7 +83502,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル６）１体と相手フィールドの表側表示モンスター（レベル７・８）１体を選んで持ち主のデッキに戻す。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 6) 1장과 상대 필드의 앞면 표시 몬스터(레벨 7 / 8) 1장을 고르고 주인의 덱으로 되돌린다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83240,6 +83531,12 @@ sets:
     set_name: Excutie Duel Set
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR031
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 909127
 ---
 konami_id: 18361
@@ -83252,7 +83549,7 @@ name:
   pt:
   ja: エクスキューティー・レイア
   ja_romaji: Ekusukyūtī Reia
-  ko:
+  ko: 엑스큐티 레이아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83266,7 +83563,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル６／守備力５００）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 6 / 수비력 500)가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -83279,7 +83577,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -83294,7 +83593,8 @@ effect:
   pt:
   ja: |-
     お互いのフィールドの表側表示モンスター（レベル７以上）の攻撃力・守備力は３００ダウンする。
-  ko:
+  ko: |-
+    서로의 필드의 앞면 표시 몬스터(레벨 7 이상)의 공격력 / 수비력은 300 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83315,6 +83615,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR032
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 909132
 ---
 konami_id: 18362
@@ -83327,7 +83633,7 @@ name:
   pt:
   ja: エクスキューティー・フローア
   ja_romaji: Ekusukyūtī Furōa
-  ko:
+  ko: 엑스큐티 플로아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83341,7 +83647,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83354,7 +83661,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（水属性以外／レベル６／守備力５００）１体を選んで手札に加える。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(물 속성 이외 / 레벨 6 / 수비력 500) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83375,6 +83683,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR033
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 909130
 ---
 konami_id: 18363
@@ -83387,7 +83701,7 @@ name:
   pt:
   ja: エクスキューティー・リリウス
   ja_romaji: Ekusukyūtī Ririusu
-  ko:
+  ko: 엑스큐티 릴리우스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83401,7 +83715,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル６／守備力５００）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 6 / 수비력 500)가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -83414,7 +83729,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -83429,7 +83745,8 @@ effect:
   pt:
   ja: |-
     自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83450,6 +83767,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR034
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 911894
 ---
 konami_id: 18364
@@ -83462,7 +83785,7 @@ name:
   pt:
   ja: エクスキューティー・ルーシー
   ja_romaji: Ekusukyūtī Rūshī
-  ko:
+  ko: 엑스큐티 루시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83476,7 +83799,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル６／守備力５００）１体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 6 / 수비력 500) 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83489,7 +83813,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで表示形式を変更する（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 표시 형식을 변경한다(공격 표시는 앞면 수비 표시로, 수비 표시는 앞면 공격 표시로 한다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83509,6 +83834,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR035
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911895
 ---
 konami_id: 18365
@@ -83521,7 +83851,7 @@ name:
   pt:
   ja: エクスキューティー・ラム
   ja_romaji: Ekusukyūtī Ramu
-  ko:
+  ko: 엑스큐티 라무
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83535,7 +83865,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル６／守備力５００）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 6 / 수비력 500) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83548,7 +83879,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83568,6 +83900,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR036
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911896
 ---
 konami_id: 18366
@@ -83580,7 +83917,7 @@ name:
   pt:
   ja: エクスキューティー・プラウティ
   ja_romaji: Ekusukyūtī Purauti
-  ko:
+  ko: 엑스큐티 프라우티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83594,7 +83931,8 @@ summoning_condition:
   pt:
   ja: |-
     このカード以外の手札のモンスター（レベル６／守備力５００）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드 이외의 패의 몬스터(레벨 6 / 수비력 500) 1장을 상대에게 보여주고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -83607,7 +83945,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83620,7 +83959,8 @@ effect:
   pt:
   ja: |-
     自分は５００ＬＰ回復する。
-  ko:
+  ko: |-
+    자신은 500 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83640,6 +83980,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR037
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911897
 ---
 konami_id: 18367
@@ -83652,7 +83997,7 @@ name:
   pt:
   ja: エクスキューティー・スカウト！
   ja_romaji: Ekusukyūtī Sukauto!
-  ko:
+  ko: 엑스큐티 스카우트!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83666,7 +84011,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のカード名が異なるモンスター（レベル６／守備力５００）４体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 카드명이 다른 몬스터(레벨 6 / 수비력 500) 4장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83679,7 +84025,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -83696,6 +84043,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR038
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 911898
 ---
 konami_id: 18368
@@ -83708,7 +84061,7 @@ name:
   pt:
   ja: エクスキューティー・スクランブル！
   ja_romaji: Ekusukyūtī Sukuranburu!
-  ko:
+  ko: 엑스큐티 스크램블!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83722,7 +84075,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -83735,7 +84089,8 @@ effect:
   pt:
   ja: |-
     自分の手札または自分の墓地のモンスター（レベル６／守備力５００）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신의 패 또는 자신 묘지의 몬스터(레벨 6 / 수비력 500) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -83752,6 +84107,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR039
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
 yugipedia_page_id: 911899
 ---
 konami_id: 18369
@@ -83764,7 +84125,7 @@ name:
   pt:
   ja: エクスキューティー・エマージェンシー！
   ja_romaji: Ekusukyūtī Emājenshī!
-  ko:
+  ko: 엑스큐티 이멀전시!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83778,7 +84139,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル６）が相手の攻撃または相手の効果で破壊された時、自分フィールドに他のモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 6)가 상대의 공격 또는 상대의 효과로 파괴되었을 때, 자신 필드에 다른 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83791,7 +84153,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル６／守備力５００）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手フィールドのモンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 6 / 수비력 500) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 상대 필드의 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -83807,6 +84170,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR040
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911900
 ---
 konami_id: 18370
@@ -83819,7 +84187,7 @@ name:
   pt:
   ja: エクスキューティー・キャッチ！
   ja_romaji: Ekusukyūtī Kyacchi!
-  ko:
+  ko: 엑스큐티 캐치!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83833,7 +84201,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル６／守備力５００）がいる場合、相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 6 / 수비력 500)가 있을 경우, 상대가 몬스터를 앞면 표시로 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83846,7 +84215,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで裏側守備表示にする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 뒷면 수비 표시로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -83862,6 +84232,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR041
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911901
 ---
 konami_id: 18371
@@ -83874,7 +84249,7 @@ name:
   pt:
   ja: エクスキューティー・ブレイク！
   ja_romaji: Ekusukyūtī Bureiku!
-  ko:
+  ko: 엑스큐티 브레이크!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83888,7 +84263,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時、自分フィールドの表側表示モンスター（レベル６／守備力５００）１体を持ち主のデッキの上か下に戻して発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시, 자신 필드의 앞면 표시 몬스터(레벨 6 / 수비력 500) 1장을 주인의 덱 위나 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83901,7 +84277,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。自分フィールドに表側表示モンスター（レベル６／守備力５００）がいる場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 자신 필드에 앞면 표시 몬스터(레벨 6 / 수비력 500)가 있을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -83918,6 +84295,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR042
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 911902
 ---
 konami_id: 18372
@@ -83930,7 +84313,7 @@ name:
   pt:
   ja: ギャラクティアラ・イヴ
   ja_romaji: Gyarakutiara Ivu
-  ko:
+  ko: 갤럭티아라 이브
   ko_rr:
   zh-TW:
   zh-CN:
@@ -83944,7 +84327,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合、手札のモンスター（ギャラクシー族／攻撃力１６００以上）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 몬스터(갤럭시족 / 공격력 1600 이상) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -83957,7 +84341,8 @@ effect:
   pt:
   ja: |-
     自分フィールドのこのカードを墓地へ送り、自分は１枚ドローする。その後、自分の墓地のモンスターが３体以下の場合、自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신 필드의 이 카드를 묘지로 보내고, 자신은 1장 드로우한다. 그 후, 자신 묘지의 몬스터가 3장 이하일 경우, 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -83976,6 +84361,12 @@ sets:
     rarities:
     - Ultra Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR043
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
 yugipedia_page_id: 913056
 ---
 konami_id: 18373
@@ -83988,7 +84379,7 @@ name:
   pt:
   ja: ジョインテック・ステゴサイロス
   ja_romaji: Jointekku Sutegosairosu
-  ko:
+  ko: 조인테크 스테고사이로스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84002,7 +84393,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（地属性／機械族）を３体まで墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(땅 속성 / 기계족)를 3장까지 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84015,7 +84407,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（守備力１６００以下）を、［この効果の条件で墓地へ送ったモンスターの数］だけ選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(수비력 1600 이하)를, [이 효과의 조건으로 묘지로 보낸 몬스터의 수]만큼 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84036,6 +84429,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR044
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 911503
 ---
 konami_id: 18374
@@ -84048,7 +84447,7 @@ name:
   pt:
   ja: <ruby>Ｈ・Ｄ・Ｄ<rt>ハンドレッド・ディバイン・ドラゴン</rt></ruby>
   ja_romaji: Handoreddo Dibain Doragon
-  ko:
+  ko: H·D·D
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84062,7 +84461,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -84077,7 +84477,8 @@ effect:
   pt:
   ja: |-
     自分はドローフェイズに手札が５枚になるように通常のドローをする場合、代わりに手札が６枚になるように通常のドローをする。
-  ko:
+  ko: |-
+    자신은 드로우 페이즈에 패가 5장이 되도록 일반 드로우를 할 경우, 대신에 패가 6장이 되도록 일반 드로우를 한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84098,6 +84499,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR045
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 913095
 ---
 konami_id: 18375
@@ -84110,7 +84517,7 @@ name:
   pt:
   ja: ファイナライズ・フェニックス
   ja_romaji: Fainaraizu Fenikkusu
-  ko:
+  ko: 파이널라이즈 피닉스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84124,7 +84531,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスターが２体以上いる場合、自分の墓地のモンスター（炎族）４体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터가 2장 이상 있을 경우, 자신 묘지의 몬스터(화염족) 4장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84137,7 +84545,8 @@ effect:
   pt:
   ja: |-
     レベルの合計が［相手フィールドの表側表示モンスターのレベルの合計］と同じになるように、自分の墓地の効果モンスター（炎族）を２体まで選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    레벨의 합계가 [상대 필드의 앞면 표시 몬스터의 레벨의 합계]와 같아지도록, 자신 묘지의 효과 몬스터(화염족)를 2장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84158,6 +84567,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR046
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 912856
 ---
 konami_id: 18376
@@ -84170,7 +84585,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・アポカリプス
   ja_romaji: Voidoverugu Apokaripusu
-  ko:
+  ko: 보이드베르그 아포칼립스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84184,7 +84599,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84197,7 +84613,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードの攻撃力は１０００アップし、効果では破壊されない。このカードを特殊召喚した自分メインフェイズにこの効果を発動した場合、さらに自分の墓地の「ブラック・ホール」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드의 공격력은 1000 올리고, 효과로는 파괴되지 않는다. 이 카드를 특수 소환한 자신 메인 페이즈에 이 효과를 발동했을 경우, 추가로 자신 묘지의 "블랙홀" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84216,7 +84633,8 @@ materials:
   pt:
   ja: |-
     「ヴォイドヴェルグ・ペイルライダー」＋「ダーク・プロフェット」
-  ko:
+  ko: |-
+    "보이드베르그 페일라이더" ＋ "다크 프로페트"
   zh-TW:
   zh-CN:
 series:
@@ -84227,6 +84645,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP047
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR047
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -84243,7 +84667,7 @@ name:
   pt:
   ja: ダーク・プロフェット
   ja_romaji: Dāku Purofetto
-  ko:
+  ko: 다크 프로페트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84257,7 +84681,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスター（闇属性／ギャラクシー族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터(어둠 속성 / 갤럭시족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84270,7 +84695,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84288,6 +84714,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR048
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 912351
 ---
 konami_id: 18378
@@ -84300,7 +84731,7 @@ name:
   pt:
   ja: <ruby>破<rt>は</rt></ruby><ruby>滅<rt>めつ</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Hametsu no Ryūmadōshi
-  ko:
+  ko: 파멸의 용마도사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84314,7 +84745,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（魔法使い族またはドラゴン族）を合計４体デッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(마법사족 또는 드래곤족)를 합계 4장 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84327,7 +84759,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターは相手の罠カードの効果では破壊されない。さらに、自分の墓地の「ダーク・リベレイション」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고른다. 이 턴에, 그 몬스터는 상대의 함정 카드의 효과로는 파괴되지 않는다. 추가로, 자신 묘지의 "다크 레버레이션" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84346,6 +84779,12 @@ sets:
     rarities:
     - Ultra Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR049
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
 yugipedia_page_id: 910197
 ---
 konami_id: 18379
@@ -84358,7 +84797,7 @@ name:
   pt:
   ja: <ruby>最<rt>サイ</rt></ruby><ruby>強<rt>キョー</rt></ruby><ruby>旗<rt>キ</rt></ruby><ruby>獣<rt>ジュウ</rt></ruby>リードユニコーン
   ja_romaji: Saikyōkijuu Rīdo Yunikōn
-  ko:
+  ko: 최강기수 리드유니콘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84372,7 +84811,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（光属性／機械族）が３体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(빛 속성 / 기계족)가 3장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84385,7 +84825,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル４以下）１体を選んで裏側守備表示にする。その後、手札のモンスター（レベル５／機械族）１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 4 이하) 1장을 고르고 뒷면 수비 표시로 한다. 그 후, 패의 몬스터(레벨 5 / 기계족) 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84406,6 +84847,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR050
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 908417
 ---
 konami_id: 18380
@@ -84418,7 +84865,7 @@ name:
   pt:
   ja: ダブルツイン・ドラゴン
   ja_romaji: Daburutsuin Doragon
-  ko:
+  ko: 더블트윈 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84432,7 +84879,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84445,7 +84893,8 @@ effect:
   pt:
   ja: |-
     このターン、モンスター（レベル７／ドラゴン族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。このターン、自分はモンスター（ハイドラゴン族またはドラゴン族）でしか攻撃できない。
-  ko:
+  ko: |-
+    이 턴에, 몬스터(레벨 7 / 드래곤족)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다. 이 턴에, 자신은 몬스터(하이드래곤족 또는 드래곤족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84464,6 +84913,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR051
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 910038
 ---
 konami_id: 18381
@@ -84476,7 +84931,7 @@ name:
   pt:
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>将<rt>しょう</rt></ruby>ヤメルーラ－<ruby>武<rt>む</rt></ruby><ruby>槍<rt>そう</rt></ruby>
   ja_romaji: Mashō Yamerūra - Musō
-  ko:
+  ko: 마장 야메룰러－무창
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84490,7 +84945,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -84505,7 +84961,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル７以上／天界戦士族または戦士族）は相手の罠カードの効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 7 이상 / 천계전사족 또는 전사족)는 상대의 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84526,6 +84983,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR052
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 910869
 ---
 konami_id: 18382
@@ -84538,7 +85001,7 @@ name:
   pt:
   ja: <ruby>ＣＡＮ<rt>キャン</rt></ruby>－<ruby>Ｉ：Ｄ<rt>アイディー</rt></ruby>
   ja_romaji: Kyan-Aidī
-  ko:
+  ko: CAN－I:D
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84552,7 +85015,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがオメガサイキック族・サイキック族のみの場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 오메가사이킥족 / 사이킥족뿐일 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84565,7 +85029,8 @@ effect:
   pt:
   ja: |-
     手札のモンスター（レベル７／サイキック族）１体を自分フィールドに表側表示で特殊召喚する。自分の墓地に「ＣＡＮ：Ｄ」がいる場合、さらにこのカードの攻撃力はターン終了時まで７００アップする。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 7 / 사이킥족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 자신 묘지에 "CAN(캔):D(디)"가 있을 경우, 추가로 이 카드의 공격력은 턴 종료시까지 700 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84586,6 +85051,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR053
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 912984
 ---
 konami_id: 18383
@@ -84598,7 +85069,7 @@ name:
   pt:
   ja: <ruby>未<rt>み</rt></ruby><ruby>来<rt>らい</rt></ruby><ruby>風<rt>ふう</rt></ruby><ruby>師<rt>し</rt></ruby>
   ja_romaji: Miraifūshi
-  ko:
+  ko: 미래풍사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84612,7 +85083,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスター（風属性）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터(바람 속성) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84625,7 +85097,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、自分はこの効果で墓地へ送られたカードの中から装備魔法カード１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 자신은 이 효과로 묘지로 보내진 카드 중에서 장착 마법 카드 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84644,6 +85117,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR054
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 906360
 ---
 konami_id: 18384
@@ -84656,7 +85135,7 @@ name:
   pt:
   ja: <ruby>獣<rt>じゅう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>王<rt>おう</rt></ruby>グライダー・フォックス
   ja_romaji: Jūkikaiō Guraidā Fokkusu
-  ko:
+  ko: 수기계의 왕 글라이더 폭스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84670,7 +85149,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドの表側表示モンスター（獣戦士族／攻撃力１５００以上）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 앞면 표시 몬스터(야수전사족 / 공격력 1500 이상) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84683,7 +85163,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。このターン、自分はモンスター（獣戦士族以外）で攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 이 턴에, 자신은 몬스터(야수전사족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84703,6 +85184,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR055
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 906023
 ---
 konami_id: 18385
@@ -84715,7 +85201,7 @@ name:
   pt:
   ja: <ruby>憤<rt>ふん</rt></ruby><ruby>砕<rt>さい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>アンガーローグ
   ja_romaji: Funsairyū Angārōgu
-  ko:
+  ko: 분쇄룡 앵거로그
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84729,7 +85215,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示モンスター（恐竜族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시 몬스터(공룡족)가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84742,7 +85229,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃力が一番高い表側表示モンスター全ての攻撃力はターン終了時まで、［自分フィールドの守備力が一番高い表側表示モンスターの守備力］だけダウンする。
-  ko:
+  ko: |-
+    상대 필드의 공격력이 가장 높은 앞면 표시 몬스터 전부의 공격력은 턴 종료시까지, [자신 필드의 수비력이 가장 높은 앞면 표시 몬스터의 수비력]만큼 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84761,6 +85249,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR056
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 911606
 ---
 konami_id: 18386
@@ -84773,7 +85267,7 @@ name:
   pt:
   ja: アルマストラ<ruby>Ⅺ<rt>イレブン</rt></ruby>－アクエリアス
   ja_romaji: Arumasutora Irebun - Akueriasu
-  ko:
+  ko: 알마스트라Ⅺ－아쿠에리어스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84787,7 +85281,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスターが２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84800,7 +85295,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを４枚めくり、お互いに確認する。［めくったカードの中のモンスターのレベルの合計］が１１以上の場合、相手フィールドのモンスター１体を選んで破壊できる。めくったカードをデッキに戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. [넘긴 카드 중의 몬스터 레벨의 합계]가 11 이상일 경우, 상대 필드의 몬스터 1장을 고르고 파괴할 수 있다. 넘긴 카드를 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84819,6 +85315,12 @@ sets:
     rarities:
     - Ultra Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR057
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
 yugipedia_page_id: 904669
 ---
 konami_id: 18387
@@ -84831,7 +85333,7 @@ name:
   pt:
   ja: マジックミラー・ユース
   ja_romaji: Majikkumirā Yūsu
-  ko:
+  ko: 매직미러 유스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84845,7 +85347,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84858,7 +85361,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４／魔法使い族）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 / 마법사족) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84876,6 +85380,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR058
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 911474
 ---
 konami_id: 18388
@@ -84888,7 +85397,7 @@ name:
   pt:
   ja: ライジングソルジャー
   ja_romaji: Raijingu Sorujā
-  ko:
+  ko: 라이징솔저
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84902,7 +85411,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -84915,7 +85425,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。その後、相手フィールドの表側表示モンスター（レベル８以下）１体を選ぶ事ができる。選んだ場合、次の相手ターン、相手はそのモンスターで攻撃できない。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 그 후, 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고를 수 있다. 고른 경우, 다음 상대 턴에, 상대는 그 몬스터로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84934,6 +85445,12 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR059
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
 yugipedia_page_id: 911786
 ---
 konami_id: 18389
@@ -84946,7 +85463,7 @@ name:
   pt:
   ja: コバルト・コボルト
   ja_romaji: Kobaruto Koboruto
-  ko:
+  ko: 코발트 코볼트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -84960,7 +85477,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（悪魔族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(악마족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -84973,7 +85491,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -84991,6 +85510,11 @@ sets:
     set_name: Over Rush Pack
     rarities:
     - Common
+  ko:
+  - set_number: RD/ORP1-KR060
+    set_name: Over Rush Pack
+    rarities:
+    - Common
 yugipedia_page_id: 904995
 ---
 konami_id: 18390
@@ -85003,7 +85527,7 @@ name:
   pt:
   ja: <ruby>夢<rt>む</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のランビリス
   ja_romaji: Muchū no Ranbirisu
-  ko:
+  ko: 몽중의 람비리스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85017,7 +85541,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターが２体以上いる場合、自分フィールドの表側表示のこのカードと手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 2장 이상 있을 경우, 자신 필드의 앞면 표시의 이 카드와 패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85030,7 +85555,8 @@ effect:
   pt:
   ja: |-
     この効果の条件で手札から墓地へ送ったモンスターと同じ種族を持つ相手フィールドの表側表示モンスター（レベル５～８）１体を選んでそのコントロールを得る（自分フィールドに移動し、自分が使用する）。
-  ko:
+  ko: |-
+    이 효과의 조건으로 패에서 묘지로 보낸 몬스터와 같은 종족을 가지는 상대 필드의 앞면 표시 몬스터(레벨 5~8) 1장을 고르고 그 컨트롤을 얻는다(자신 필드로 이동하고, 자신이 사용한다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -85049,6 +85575,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR061
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 913016
 ---
 konami_id: 18391
@@ -85061,7 +85593,7 @@ name:
   pt:
   ja: ラヴ・エンジェル
   ja_romaji: Ravu Enjeru
-  ko:
+  ko: 라브 엔젤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85075,7 +85607,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -85090,7 +85623,8 @@ effect:
   pt:
   ja: |-
     このカードはモンスター（レベル７・８）との戦闘では破壊されない。
-  ko:
+  ko: |-
+    이 카드는 몬스터(레벨 7 / 8)와의 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -85109,6 +85643,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR062
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 908714
 ---
 konami_id: 18392
@@ -85121,7 +85661,7 @@ name:
   pt:
   ja: ヴァルキリアン・コール
   ja_romaji: Varukirian Kōru
-  ko:
+  ko: 발키리어언 콜
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85135,7 +85675,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -85148,7 +85689,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４／魔法使い族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分フィールドの表側表示の「マジシャンズ・ヴァルキリア」１体を選んでその攻撃力を次の相手ターン終了時まで１０００アップできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 / 마법사족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 필드의 앞면 표시의 "매지션즈 발키리어" 1장을 고르고 그 공격력을 다음 상대 턴 종료시까지 1000 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -85159,6 +85701,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP063
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR063
     set_name: Over Rush Pack
     rarities:
     - Common
@@ -85175,7 +85723,7 @@ name:
   pt:
   ja: サタニウスの<ruby>宝<rt>ほう</rt></ruby><ruby>珠<rt>じゅ</rt></ruby>
   ja_romaji: Sataniusu no Hōju
-  ko:
+  ko: 사타니우스의 보주
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85189,7 +85737,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル６）がいる場合、手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 6)가 있을 경우, 패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85202,7 +85751,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -85213,6 +85763,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP064
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR064
     set_name: Over Rush Pack
     rarities:
     - Ultra Rare
@@ -85229,7 +85785,7 @@ name:
   pt:
   ja: <ruby>天<rt>てん</rt></ruby>の<ruby>選<rt>せん</rt></ruby><ruby>別<rt>べつ</rt></ruby>
   ja_romaji: Ten no Senbetsu
-  ko:
+  ko: 하늘의 선별
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85243,7 +85799,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスターのレベルの合計が１０以上の場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터의 레벨의 합계가 10 이상일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85256,7 +85813,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。自分フィールドの表側表示モンスターが１体の場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１０００ダウンできる。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 자신 필드의 앞면 표시 몬스터가 1장일 경우, 추가로 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -85273,6 +85831,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR065
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
 yugipedia_page_id: 906562
 ---
 konami_id: 18395
@@ -85285,7 +85849,7 @@ name:
   pt:
   ja: ヴァルキリアン・ガード
   ja_romaji: Varukirian Gādo
-  ko:
+  ko: 발키리어언 가드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85299,7 +85863,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85312,7 +85877,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４／魔法使い族）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。その後、「マジシャンズ・ヴァルキリア」を含む自分フィールドの攻撃表示モンスターを３体まで選んで表側守備表示にできる。このターン、この効果で守備表示にしたモンスターは表側守備表示の間、戦闘では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 / 마법사족) 1장을 고르고, 자신 필드에 앞면 공격 표시로 특수 소환한다. 그 후, "매지션즈 발키리어"를 포함하는 자신 필드의 공격 표시 몬스터를 3장까지 고르고 앞면 수비 표시로 할 수 있다. 이 턴에, 이 효과로 수비 표시로 한 몬스터는 앞면 수비 표시인 동안, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -85323,6 +85889,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP066
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR066
     set_name: Over Rush Pack
     rarities:
     - Common
@@ -85339,7 +85911,7 @@ name:
   pt:
   ja: はたらくことのは
   ja_romaji: Hataraku Kotonoha
-  ko:
+  ko: 일하는 언어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85353,7 +85925,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル７以上）を召喚した時、または相手が魔法カードを発動した後に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 7 이상)를 일반 소환했을 때, 또는 상대가 마법 카드를 발동한 후에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85366,7 +85939,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のモンスターを５体まで選んでデッキに戻す。
-  ko:
+  ko: |-
+    상대 묘지의 몬스터를 5장까지 고르고 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -85377,6 +85951,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP067
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR067
     set_name: Over Rush Pack
     rarities:
     - Ultra Rare
@@ -85393,7 +85973,7 @@ name:
   pt:
   ja: <ruby>亜<rt>あ</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>地<rt>じ</rt></ruby><ruby>獄<rt>ごく</rt></ruby>
   ja_romaji: Aryūjigoku
-  ko:
+  ko: 아룡지옥
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85407,7 +85987,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分フィールドの表側表示モンスター（レベル５以上）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 필드의 앞면 표시 몬스터(레벨 5 이상) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -85420,7 +86001,8 @@ effect:
   pt:
   ja: |-
     お互いのフィールドの表側表示モンスターの内、レベルが一番高いモンスターを全て破壊する。
-  ko:
+  ko: |-
+    서로의 필드의 앞면 표시 몬스터 중, 레벨이 가장 높은 몬스터를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -85431,6 +86013,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP068
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR068
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -85447,7 +86035,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 블랙홀
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85461,7 +86049,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -85474,7 +86063,8 @@ effect:
   pt:
   ja: |-
     お互いのフィールドのモンスターを全て破壊する。
-  ko:
+  ko: |-
+    서로의 필드의 몬스터를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -85486,6 +86076,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP069
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR069
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -85502,7 +86098,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 파워 본드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -85516,7 +86112,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -85529,7 +86126,8 @@ effect:
   pt:
   ja: |-
     自分の手札・フィールドのモンスターを素材として墓地へ送り、モンスター（機械族）をフュージョン召喚する。そのモンスターの攻撃力は、［その元々の攻撃力］だけアップする。このターンのエンドフェイズに自分は［この効果でアップした数値］だけダメージを受ける。
-  ko:
+  ko: |-
+    자신의 패 / 필드의 몬스터를 소재로서 묘지로 보내고, 몬스터(기계족)를 퓨전 소환한다. 그 몬스터의 공격력은, [그 원래 공격력]만큼 올린다. 이 턴의 엔드 페이즈에 자신은 [이 효과로 올린 수치]만큼 데미지를 받는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -85541,6 +86139,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP070
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR070
     set_name: Over Rush Pack
     rarities:
     - Super Rare
@@ -87193,6 +87797,8 @@ series:
 images:
 - index: 1
   image: CatClawGirl-RDKP12-JP-SR.png
+- index: 2
+  image: CatClawGirl-RDBDG3-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP12-JP016
@@ -90467,7 +91073,122 @@ sets:
     - Normal Parallel Rare
 yugipedia_page_id: 928559
 ---
-konami_id:
+konami_id: 18678
+name:
+  en: Plectcrime of the Deadly Dirge
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>斬<rt>き</rt></ruby><ruby>奏<rt>そう</rt></ruby>のプレクトクライム
+  ja_romaji: Kisō no Purekutokuraimu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, pay 1000 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、１０００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Equip Spell Card from your Graveyard to your hand. Then, this card gains 400 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の装備魔法カード１枚を選んで手札に加える。その後、このカードの攻撃力はターン終了時まで４００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: WIND
+level: 7
+atk: 2500
+def: 1500
+series:
+- Shaman Bandit
+images:
+- index: 1
+  image: PlectcrimeoftheDeadlyDirge-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP025
+    set_name: Saikyō Jump April 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 934285
+---
+konami_id: 18680
+name:
+  en: Meteor Black Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    "Red-Eyes Black Dragon" + "Meteor Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「真紅眼の黒竜」＋「メテオ・ドラゴン」
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion
+attribute: FIRE
+level: 8
+atk: 3500
+def: 2000
+materials:
+  en: |-
+    "Red-Eyes Black Dragon" + "Meteor Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: MeteorBlackDragon-RDLGP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP000
+    set_name: Legend Awakening Pack
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 936517
+---
+konami_id: 18681
 name:
   en: Five-Headed Dragon
   de:
@@ -90543,7 +91264,7 @@ materials:
   zh-CN:
 images:
 - index: 1
-  image: FiveHeadedDragon-RDLGP1-JP-OP.png
+  image: FiveHeadedDragon-RDLGP1-JP-UR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP001
@@ -90552,1200 +91273,7 @@ sets:
     - Ultra Rare
 yugipedia_page_id: 921329
 ---
-konami_id:
-name:
-  en: Flapun
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: フラパン
-  ja_romaji: Furapan
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have another face-up Beast Type monster on your field, place 1 Beast Type monster from your Graveyard on top of the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up monster on your opponent's field loses 400 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast / Effect
-attribute: EARTH
-level: 1
-atk: 700
-def: 200
-images:
-- index: 1
-  image: Flapun-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP041
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 928488
----
-konami_id:
-name:
-  en: Polymerization
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by sending monsters from your hand or field to the Graveyard as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-legend: true
-images:
-- index: 1
-  image: Polymerization-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP025
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 930466
----
-konami_id:
-name:
-  en: Dragon Tribe Fusion
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴン・トライブ・フュージョン
-  ja_romaji: Doragon Toraibu Fyūjon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have a face-up Level 7 or higher Dragon Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by shuffling 1 face-up Dragon Type Normal Monster from your field and 1 or more Dragon Type monsters from your Graveyard into the owner's Deck as material. This turn, you can only attack with Fusion Monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Fusion
-images:
-- index: 1
-  image: DragonTribeFusion-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP024
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 930467
----
-konami_id:
-name:
-  en: Witness of Dragon Destroyer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>の<ruby>証<rt>しょう</rt></ruby><ruby>人<rt>にん</rt></ruby>
-  ja_romaji: Ryūhakai no Shōnin
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 "Buster Blader" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: LIGHT
-level: 3
-atk: 900
-def: 1200
-images:
-- index: 1
-  image: WitnessofDragonDestroyer-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP037
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 930745
----
-konami_id:
-name:
-  en: Legendary Swordsman - Buster Blader
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>伝<rt>でん</rt></ruby><ruby>説<rt>せつ</rt></ruby>の<ruby>戦<rt>せん</rt></ruby><ruby>士<rt>し</rt></ruby>－バスター・ブレイダー
-  ja_romaji: Densetsu no Senshi - Basutā Bureidā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    This card's name becomes "Buster Blader" while in the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card cannot attack directly. This card gains ATK equal to [the number of face-up Dragon Type monsters on your opponent's field] x 500.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 8
-atk: 2600
-def: 2300
-images:
-- index: 1
-  image: LegendarySwordsmanBusterBlader-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP007
-    set_name: Legend Awakening Pack
-    rarities:
-    - Super Rare
-yugipedia_page_id: 930747
----
-konami_id:
-name:
-  en: The Origin Stone of Legend
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: オリジン・オブ・レジェンド
-  ja_romaji: Orijin Obu Rejendo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 4 cards of your Deck. You can Special Summon 1 excavated Dragon Type Legend Normal Monster face-up to your field. Shuffle the remaining cards into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: EARTH
-level: 1
-atk: 0
-def: 0
-images:
-- index: 1
-  image: TheOriginStoneofLegend-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP013
-    set_name: Legend Awakening Pack
-    rarities:
-    - Super Rare
-yugipedia_page_id: 931057
----
-konami_id:
-name:
-  en: Primordial Slash
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>原<rt>げん</rt></ruby><ruby>初<rt>しょ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby><ruby>振<rt>ふ</rt></ruby>り
-  ja_romaji: Gensho no Hitofuri
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack, pay 400 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The attacking monster loses 700 ATK until the end of this turn. Then, if you have a face-up Legend Normal Monster on your field, you can destroy 1 monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: PrimordialSlash-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP026
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 931293
----
-konami_id:
-name:
-  en: Great Maju Garzett
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the original ATK of 1 monster Tributed for the Tribute Summon of this card in Attack Position] x 2.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 6
-atk: 0
-def: 0
-legend: true
-images:
-- index: 1
-  image: GreatMajuGarzett-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP019
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 931866
----
-konami_id:
-name:
-  en: Legend Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: レジェンド・マジシャン
-  ja_romaji: Rejendo Majishan
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 3 cards of your Deck. You can send 1 excavated monster to the Graveyard. Shuffle the remaining cards into the Deck. Then, you can add 1 Legend Normal Monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 4
-atk: 1100
-def: 300
-images:
-- index: 1
-  image: LegendMagician-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP005
-    set_name: Legend Awakening Pack
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-yugipedia_page_id: 931868
----
-konami_id:
-name:
-  en: Legend Saber
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: レジェンド・セイバー
-  ja_romaji: Rejendo Seibā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, place 1 monster from your Graveyard on the bottom of the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 300 ATK until the end of this turn. Then, you can add 1 Warrior Type Legend monster from your Graveyard to your hand. If you do, you can only attack with Celestial Warrior or Warrior Type monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: LIGHT
-level: 3
-atk: 1300
-def: 300
-images:
-- index: 1
-  image: LegendSaber-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP010
-    set_name: Legend Awakening Pack
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 931871
----
-konami_id:
-name:
-  en: Embryonic Dark Ruler
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>未<rt>み</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>な<ruby>魔<rt>ま</rt></ruby><ruby>王<rt>おう</rt></ruby>
-  ja_romaji: Mijuku na Maō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 5 cards of your Deck. You can add 1 excavated Fiend Type Legend monster to your hand. Place the remaining cards on the bottom of the Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 2
-atk: 500
-def: 700
-images:
-- index: 1
-  image: EmbryonicDarkRuler-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP021
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 931875
----
-konami_id:
-name:
-  en: Melchid the Four-Face Beast
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    This monster has four different masks for four different attacks.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ４つの仮面を切り替えながら、４種類の攻撃をしてくる化け物。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Normal
-attribute: DARK
-level: 4
-atk: 1500
-def: 1200
-images:
-- index: 1
-  image: MelchidtheFourFaceBeast-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP031
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 934225
----
-konami_id:
-name:
-  en: Grand Tiki Elder
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    A masked monster that wields the most deadly of curses.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    呪いの呪文で相手を念殺する、仮面モンスター。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Normal
-attribute: DARK
-level: 4
-atk: 1500
-def: 800
-images:
-- index: 1
-  image: GrandTikiElder-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP032
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 934227
----
-konami_id:
-name:
-  en: Rogue of Archfiend
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ローグ・オブ・デーモン－デーモンの<ruby>使<rt>し</rt></ruby><ruby>役<rt>えき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>
-  ja_romaji: Rōgu Obu Dēmon - Dēmon no Shiekisha
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 face-up Fiend Type monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Up to 2 face-up Fiend Type monsters on your field cannot be destroyed by your opponent's Trap Card effects this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 4
-atk: 1200
-def: 1100
-images:
-- index: 1
-  image: RogueofArchfiend-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP035
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 934278
----
-konami_id:
-name:
-  en: Plectcrime of the Deadly Dirge
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>斬<rt>き</rt></ruby><ruby>奏<rt>そう</rt></ruby>のプレクトクライム
-  ja_romaji: Kisō no Purekutokuraimu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, pay 1000 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Equip Spell Card from your Graveyard to your hand. Then, this card gains 400 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: WIND
-level: 7
-atk: 2500
-def: 1500
-series:
-- Shaman Bandit
-images:
-- index: 1
-  image: PlectcrimeoftheDeadlyDirge-RDSJMP-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/SJMP-JP025
-    set_name: Saikyō Jump April 2023 promotional card
-    rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 934285
----
-konami_id:
-name:
-  en: Slot Machine PG-7
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スロットマシーン <ruby>Ｐ<rt>ピー</rt></ruby><ruby>Ｇ<rt>ジー</rt></ruby>－７
-  ja_romaji: Surotto Mashīn Pī Jī Sebun
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 monster that has a coin tossing effect from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: DARK
-level: 3
-atk: 700
-def: 1000
-images:
-- index: 1
-  image: SlotMachinePG7-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP038
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 934484
----
-konami_id:
-name:
-  en: Pot of Arrogance
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>傲<rt>ごう</rt></ruby><ruby>慢<rt>まん</rt></ruby>な<ruby>壺<rt>つぼ</rt></ruby>
-  ja_romaji: Gōman na Tsubo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you have not activated a Spell Card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 2 cards. You cannot activate Spell Cards for the rest of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: PotofArrogance-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP006
-    set_name: Legend Awakening Pack
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-yugipedia_page_id: 934886
----
-konami_id:
-name:
-  en: Helmet of the Master Craftsman
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>名<rt>めい</rt></ruby><ruby>匠<rt>しょう</rt></ruby>の<ruby>兜<rt>かぶと</rt></ruby>
-  ja_romaji: Meishō no Kabuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains 200 ATK/DEF. Also, if the equipped monster is "Master Craftsman Kotetsu" or a Legend monster whose original Level is 4 or lower, it gains ATK equal to [its original ATK].
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-images:
-- index: 1
-  image: HelmetoftheMasterCraftsman-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP045
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 935229
----
-konami_id:
-name:
-  en: Master Craftsman Kotetsu
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>名<rt>めい</rt></ruby><ruby>匠<rt>しょう</rt></ruby> <ruby>虎<rt>こ</rt></ruby><ruby>鉄<rt>てつ</rt></ruby>
-  ja_romaji: Meishō Kotetsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Place 1 Level 4 or lower Normal Monster or 1 Equip Spell Card from your Graveyard on top of the Deck. Then, if you placed a Legend monster or "Helmet of the Master Craftsman", you can draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast-Warrior / Effect
-attribute: FIRE
-level: 3
-atk: 1000
-def: 1000
-images:
-- index: 1
-  image: MasterCraftsmanKotetsu-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP036
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 935230
----
-konami_id:
-name:
-  en: Steel Steed Martin Vinary
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>鋼<rt>こう</rt></ruby><ruby>鉄<rt>てつ</rt></ruby><ruby>馬<rt>ば</rt></ruby>マーチン・ヴァイナリー
-  ja_romaji: Kōtetsuba Māchin Vainarī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Toss a coin a number of times equal to [the number of face-up monsters on your opponent's field]. If at least 1 of the results is heads, this card can attack twice this turn. Also, if the 3 results are heads, this card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 7
-atk: 2400
-def: 1700
-images:
-- index: 1
-  image: SteelSteedMartinVinary-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP016
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 935689
----
-konami_id:
-name:
-  en: Trap Mole
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: トラップモール
-  ja_romaji: Torappu Mōru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have "Trap Hole" in your Graveyard during the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Set 1 Trap Card from your Graveyard in your Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast / Effect
-attribute: EARTH
-level: 3
-atk: 600
-def: 900
-images:
-- index: 1
-  image: TrapMole-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP039
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 935773
----
-konami_id:
-name:
-  en: Goblin Holedigger Captain
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ゴブリン<ruby>穴<rt>あな</rt></ruby><ruby>掘<rt>ほ</rt></ruby>り<ruby>隊<rt>たい</rt></ruby><ruby>長<rt>ちょう</rt></ruby>
-  ja_romaji: Goburin Anahori Taichō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have "The Warrior Returning Alive" or "Trap Hole" in your Graveyard, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up monster on your opponent's field loses ATK equal to [the total number of "The Warrior Returning Alive" and "Trap Hole" in your Graveyard] x 1000 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 900
-def: 400
-images:
-- index: 1
-  image: GoblinHolediggerCaptain-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP033
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 935774
----
-konami_id:
+konami_id: 18682
 name:
   en: Behemoth the King of All Animals
   de:
@@ -91767,7 +91295,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は２０００になる。
   ko:
   zh-TW:
   zh-CN:
@@ -91779,7 +91308,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -91791,7 +91321,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（獣族）を［このカードをアドバンス召喚する時にリリースしたモンスターの数］だけ選んで手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -91804,7 +91335,7 @@ def: 1500
 legend: true
 images:
 - index: 1
-  image: BehemoththeKingofAllAnimals-RDLGP1-JP-OP.png
+  image: BehemoththeKingofAllAnimals-RDLGP1-JP-UR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP002
@@ -91814,7 +91345,7 @@ sets:
     - Secret Rare
 yugipedia_page_id: 935967
 ---
-konami_id:
+konami_id: 18683
 name:
   en: Great-Tusked Mammoth
   de:
@@ -91836,7 +91367,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに、デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -91848,7 +91380,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    次の相手ターン終了時まで、このカードが表側表示の間、お互いは表側表示モンスター（レベル４以下）の効果を発動できない。
   ko:
   zh-TW:
   zh-CN:
@@ -91860,7 +91393,7 @@ atk: 2500
 def: 1500
 images:
 - index: 1
-  image: GreatTuskedMammoth-RDLGP1-JP-OP.png
+  image: GreatTuskedMammoth-RDLGP1-JP-UR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP003
@@ -91870,324 +91403,251 @@ sets:
     - Secret Rare
 yugipedia_page_id: 935970
 ---
-konami_id:
+konami_id: 18684
 name:
-  en: Nimble Lemming
+  en: Maju Garzett
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>素<rt>す</rt></ruby><ruby>早<rt>ばや</rt></ruby>いレミング
-  ja_romaji: Subayai Remingu
+  ja:
+  ja_romaji:
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Your opponent has a monster on their field during the turn you Normal Summoned this card.
+    None
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 "Nimble Lemming" from among the cards sent to the Graveyard by this effect, face-up to your field.
+    This card gains ATK equal to [the total original ATK of the 2 monsters Tributed for the Tribute Summon of this card in Attack Position].
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃力は、［このカードを攻撃表示でアドバンス召喚する時にリリースしたモンスター２体の元々の攻撃力の合計］だけアップする。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Beast / Effect
-attribute: EARTH
-level: 2
-atk: 900
-def: 100
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 7
+atk: 0
+def: 0
 images:
 - index: 1
-  image: NimbleLemming-RDLGP1-JP-OP.png
+  image: MajuGarzett-RDLGP1-JP-UR.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP020
+  - set_number: RD/LGP1-JP004
     set_name: Legend Awakening Pack
     rarities:
-    - Rare
-yugipedia_page_id: 935971
+    - Ultra Rare
+    - Secret Rare
+yugipedia_page_id: 937482
 ---
-konami_id:
+konami_id: 18685
 name:
-  en: Eve of the Big March
+  en: Legend Magician
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>大<rt>だい</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>進<rt>しん</rt></ruby><ruby>前<rt>ぜん</rt></ruby><ruby>夜<rt>や</rt></ruby>
-  ja_romaji: Daikōshin Zen'ya
+  ja: レジェンド・マジシャン
+  ja_romaji: Rejendo Majishan
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Reveal 1 Level 7 or higher Beast Type monster in your hand.
+    None
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Excavate the top 3 cards of your Deck. You can Special Summon up to 2 excavated Level 4 or lower Beast Type monsters to your field in face-down Defense Position. Send the remaining cards to the Graveyard.
+    Excavate the top 3 cards of your Deck. You can send 1 excavated monster to the Graveyard. Shuffle the remaining cards into the Deck. Then, you can add 1 Legend Normal Monster from your Graveyard to your hand.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: EveoftheBigMarch-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP023
-    set_name: Legend Awakening Pack
-    rarities:
-    - Rare
-yugipedia_page_id: 935972
----
-konami_id:
-name:
-  en: Masenkou, the Lashing Light
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>ま</rt></ruby><ruby>殲<rt>せん</rt></ruby><ruby>光<rt>こう</rt></ruby>
-  ja_romaji: Masenkō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have "Summoned Skull" face-up on your field, send 1 Fiend Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all Attack Position Level 8 or lower monsters on your opponent's field. This turn, your Effect Monsters cannot attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: MasenkoutheLashingLight-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP044
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 936145
----
-konami_id:
-name:
-  en: Magician's Curtain
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>黒魔術師<rt>マジシャン</rt></ruby>のカーテン
-  ja_romaji: Majishan no Kāten
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 700 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 4 cards of your Deck. You can add up to 2 excavated "Dark Magician" and/or "Dark Magician Girl" to your hand. Place the remaining cards on the bottom of the Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター１体を選んで墓地へ送る事ができる。残りのカードをデッキに戻す。その後、自分の墓地のレジェンド通常モンスター１体を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
 monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 2
-atk: 700
-def: 700
+attribute: LIGHT
+level: 4
+atk: 1100
+def: 300
 images:
 - index: 1
-  image: MagiciansCurtain-RDLGP1-JP-OP.png
+  image: LegendMagician-RDLGP1-JP-UR.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP012
+  - set_number: RD/LGP1-JP005
     set_name: Legend Awakening Pack
     rarities:
-    - Super Rare
+    - Ultra Rare
     - Secret Rare
-yugipedia_page_id: 936148
+yugipedia_page_id: 931868
 ---
-konami_id:
+konami_id: 18686
 name:
-  en: Final Destiny
+  en: Pot of Arrogance
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ja_romaji:
+  ja: <ruby>傲<rt>ごう</rt></ruby><ruby>慢<rt>まん</rt></ruby>な<ruby>壺<rt>つぼ</rt></ruby>
+  ja_romaji: Gōman na Tsubo
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Send 5 cards from your hand to the Graveyard.
+    During the turn you have not activated a Spell Card.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分が魔法カードを発動していないターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Destroy all cards on the field.
+    Draw 2 cards. You cannot activate Spell Cards for the rest of this turn.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は２枚ドローする。この効果の発動後、ターン終了時まで自分は魔法カードを発動できない。
   ko:
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
-legend: true
 images:
 - index: 1
-  image: FinalDestiny-RDLGP1-JP-OP.png
+  image: PotofArrogance-RDLGP1-JP-UR.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP022
+  - set_number: RD/LGP1-JP006
     set_name: Legend Awakening Pack
     rarities:
-    - Rare
-yugipedia_page_id: 936150
+    - Ultra Rare
+    - Secret Rare
+yugipedia_page_id: 934886
 ---
-konami_id:
+konami_id: 18687
 name:
-  en: Malevolent Catastrophe
+  en: Legendary Swordsman - Buster Blader
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ja_romaji:
+  ja: <ruby>伝<rt>でん</rt></ruby><ruby>説<rt>せつ</rt></ruby>の<ruby>戦<rt>せん</rt></ruby><ruby>士<rt>し</rt></ruby>－バスター・ブレイダー
+  ja_romaji: Densetsu no Senshi - Basutā Bureidā
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    This card's name becomes "Buster Blader" while in the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    墓地にいるこのカードのカード名は「バスター・ブレイダー」になる。
+  ko:
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
-    When an opponent's monster declares an attack.
+    None
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    Destroy all Spell/Trap Cards on the field.
+    This card cannot attack directly. This card gains ATK equal to [the number of face-up Dragon Type monsters on your opponent's field] x 500.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードは直接攻撃できない。このカードの攻撃力は、［相手フィールドの表側表示モンスター（ドラゴン族）の数］×５００アップする。
   ko:
   zh-TW:
   zh-CN:
-card_type: Trap
-property: Normal
-legend: true
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 8
+atk: 2600
+def: 2300
 images:
 - index: 1
-  image: MalevolentCatastrophe-RDLGP1-JP-OP.png
+  image: LegendarySwordsmanBusterBlader-RDLGP1-JP-SR.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP028
+  - set_number: RD/LGP1-JP007
     set_name: Legend Awakening Pack
     rarities:
-    - Rare
-yugipedia_page_id: 936151
+    - Super Rare
+yugipedia_page_id: 930747
 ---
-konami_id:
+konami_id: 18688
 name:
   en: Vanity's Fiend
   de:
@@ -92209,7 +91669,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードは特殊召喚できない。
   ko:
   zh-TW:
   zh-CN:
@@ -92221,7 +91682,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -92235,7 +91697,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    お互いはモンスターを特殊召喚できない。
   ko:
   zh-TW:
   zh-CN:
@@ -92248,7 +91711,7 @@ def: 1200
 legend: true
 images:
 - index: 1
-  image: VanitysFiend-RDLGP1-JP-OP.png
+  image: VanitysFiend-RDLGP1-JP-SR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP008
@@ -92258,62 +91721,7 @@ sets:
     - Secret Rare
 yugipedia_page_id: 936153
 ---
-konami_id:
-name:
-  en: Malevolent Seller
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: マレヴォレント・セラー
-  ja_romaji: Marevorento Serā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have "Malevolent Catastrophe" in your Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can add 1 Legend Card from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 2
-atk: 700
-def: 300
-images:
-- index: 1
-  image: MalevolentSeller-RDLGP1-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/LGP1-JP040
-    set_name: Legend Awakening Pack
-    rarities:
-    - Common
-yugipedia_page_id: 936159
----
-konami_id:
+konami_id: 18689
 name:
   en: Archfiend Warrior
   de:
@@ -92335,7 +91743,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドにこのカード以外の表側表示モンスター（悪魔族）がいる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -92347,7 +91756,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（レベル６／悪魔族）がいた場合、さらに自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -92359,7 +91769,7 @@ atk: 1300
 def: 900
 images:
 - index: 1
-  image: ArchfiendWarrior-RDLGP1-JP-OP.png
+  image: ArchfiendWarrior-RDLGP1-JP-SR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP009
@@ -92369,62 +91779,836 @@ sets:
     - Secret Rare
 yugipedia_page_id: 936511
 ---
-konami_id:
+konami_id: 18690
 name:
-  en: Class-Change Mirror
+  en: Legend Saber
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>昇<rt>しょう</rt></ruby><ruby>格<rt>かく</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>鏡<rt>きょう</rt></ruby>
-  ja_romaji: Shōkaku no Makyō
+  ja: レジェンド・セイバー
+  ja_romaji: Rejendo Seibā
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Place 1 other monster from your field on the bottom of the owner's Deck.
+    During the turn you Normal Summoned this card, place 1 monster from your Graveyard on the bottom of the Deck.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに、自分の墓地のモンスター１体をデッキの下に戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 "Summoned Skull" from your Graveyard face-up to your field.
+    This card gains 300 ATK until the end of this turn. Then, you can add 1 Warrior Type Legend monster from your Graveyard to your hand. If you do, you can only attack with Celestial Warrior or Warrior Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで３００アップする。その後、自分の墓地のレジェンドモンスター（戦士族）１体を選んで手札に加える事ができる。加えた場合、このターン、自分はモンスター（天界戦士族または戦士族）でしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: LIGHT
+level: 3
+atk: 1300
+def: 300
+images:
+- index: 1
+  image: LegendSaber-RDLGP1-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP010
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 931871
+---
+konami_id: 18691
+name:
+  en: Goddess of Whimsy
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>移<rt>うつ</rt></ruby>り<ruby>気<rt>き</rt></ruby>の<ruby>女<rt>め</rt></ruby><ruby>神<rt>がみ</rt></ruby>
+  ja_romaji: Utsuriki no Megami
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has a monster on their field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターがいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Toss a coin. If the result is heads, this card gains 1000 ATK until the end of this turn. If the result is tails, send this card from your field to the Graveyard and draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    コイントスを１回行う。表だった場合、このカードの攻撃力はターン終了時まで１０００アップする。裏だった場合、自分フィールドのこのカードを墓地へ送り、自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 700
+images:
+- index: 1
+  image: GoddessofWhimsy-RDLGP1-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP011
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 938053
+---
+konami_id: 18692
+name:
+  en: Magician's Curtain
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>黒魔術師<rt>マジシャン</rt></ruby>のカーテン
+  ja_romaji: Majishan no Kāten
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 700 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ７００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 4 cards of your Deck. You can add up to 2 excavated "Dark Magician" and/or "Dark Magician Girl" to your hand. Place the remaining cards on the bottom of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から「ブラック・マジシャン」「ブラック・マジシャン・ガール」を合計２体まで選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 2
+atk: 700
+def: 700
+images:
+- index: 1
+  image: MagiciansCurtain-RDLGP1-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP012
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 936148
+---
+konami_id: 18693
+name:
+  en: The Origin Stone of Legend
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: オリジン・オブ・レジェンド
+  ja_romaji: Orijin Obu Rejendo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 4 cards of your Deck. You can Special Summon 1 excavated Dragon Type Legend Normal Monster face-up to your field. Shuffle the remaining cards into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中からレジェンド通常モンスター（ドラゴン族）１体を選んで自分フィールドに表側表示で特殊召喚できる。残りのカードをデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: EARTH
+level: 1
+atk: 0
+def: 0
+images:
+- index: 1
+  image: TheOriginStoneofLegend-RDLGP1-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP013
+    set_name: Legend Awakening Pack
+    rarities:
+    - Super Rare
+yugipedia_page_id: 931057
+---
+konami_id: 18694
+name:
+  en: Steel Steed Martin Vinary
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>鋼<rt>こう</rt></ruby><ruby>鉄<rt>てつ</rt></ruby><ruby>馬<rt>ば</rt></ruby>マーチン・ヴァイナリー
+  ja_romaji: Kōtetsuba Māchin Vainarī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Toss a coin a number of times equal to [the number of face-up monsters on your opponent's field]. If at least 1 of the results is heads, this card can attack twice this turn. Also, if 3 of the results are heads, this card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ［相手フィールドの表側表示モンスターの数］だけコイントスを行う。その内１回以上が表だった場合、このターン、このカードは２回攻撃できる。その内３回とも表だった場合、さらにこのターン、このカードの攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 7
+atk: 2400
+def: 1700
+images:
+- index: 1
+  image: SteelSteedMartinVinary-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP016
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 935689
+---
+konami_id: 18695
+name:
+  en: Hyozanryu
   de:
   es:
   fr:
   it:
   pt:
   ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A dragon created from a massive diamond that sparkles with blinding light.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    全身がダイヤモンドでできたドラゴン。まばゆい光で敵の目をくらませる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Normal
+attribute: LIGHT
+level: 7
+atk: 2100
+def: 2800
+images:
+- index: 1
+  image: Hyozanryu-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP017
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 937612
+---
+konami_id: 18696
+name:
+  en: Great Maju Garzett
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the original ATK of 1 monster Tributed for the Tribute Summon of this card in Attack Position] x 2.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［このカードを攻撃表示でアドバンス召喚する時にリリースしたモンスター１体の元々の攻撃力］×２アップする。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
-level: 3
-atk: 1300
-def: 800
+level: 6
+atk: 0
+def: 0
+legend: true
 images:
 - index: 1
-  image: ClassChangeMirror-RDLGP1-JP-OP.png
+  image: GreatMajuGarzett-RDLGP1-JP-R.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP034
+  - set_number: RD/LGP1-JP019
     set_name: Legend Awakening Pack
     rarities:
-    - Common
-yugipedia_page_id: 936512
+    - Rare
+yugipedia_page_id: 931866
 ---
-konami_id:
+konami_id: 18697
+name:
+  en: Nimble Lemming
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>素<rt>す</rt></ruby><ruby>早<rt>ばや</rt></ruby>いレミング
+  ja_romaji: Subayai Remingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has a monster on their field during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、相手フィールドにモンスターがいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 "Nimble Lemming" from among the cards sent to the Graveyard by this effect, face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「素早いレミング」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 2
+atk: 900
+def: 100
+images:
+- index: 1
+  image: NimbleLemming-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP020
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 935971
+---
+konami_id: 18698
+name:
+  en: Embryonic Dark Ruler
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>未<rt>み</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>な<ruby>魔<rt>ま</rt></ruby><ruby>王<rt>おう</rt></ruby>
+  ja_romaji: Mijuku na Maō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 5 cards of your Deck. You can add 1 excavated Fiend Type Legend monster to your hand. Place the remaining cards on the bottom of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを５枚めくり、お互いに確認する。自分はめくったカードの中からレジェンドモンスター（悪魔族）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 2
+atk: 500
+def: 700
+images:
+- index: 1
+  image: EmbryonicDarkRuler-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP021
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 931875
+---
+konami_id: 18699
+name:
+  en: Final Destiny
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 5 cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札５枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all cards on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドのカードを全て破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+legend: true
+images:
+- index: 1
+  image: FinalDestiny-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP022
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 936150
+---
+konami_id: 18700
+name:
+  en: Eve of the Big March
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>大<rt>だい</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>進<rt>しん</rt></ruby><ruby>前<rt>ぜん</rt></ruby><ruby>夜<rt>や</rt></ruby>
+  ja_romaji: Daikōshin Zen'ya
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 Level 7 or higher Beast Type monster in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル７以上／獣族）１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. You can Special Summon up to 2 excavated Level 4 or lower Beast Type monsters to your field in face-down Defense Position. Send the remaining cards to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル４以下／獣族）を２体まで選んで自分フィールドに裏側守備表示で特殊召喚できる。残りのカードを墓地へ送る。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: EveoftheBigMarch-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP023
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 935972
+---
+konami_id: 18701
+name:
+  en: Dragon Tribe Fusion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴン・トライブ・フュージョン
+  ja_romaji: Doragon Toraibu Fyūjon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 or higher Dragon Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７以上／ドラゴン族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by shuffling 1 face-up Dragon Type Normal Monster from your field and 1 or more Dragon Type monsters from your Graveyard into the owner's Deck as material. This turn, you can only attack with Fusion Monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示の通常モンスター（ドラゴン族）１体と、自分の墓地のモンスター（ドラゴン族）１体以上を素材として持ち主のデッキに戻し、フュージョン召喚する。このターン、自分はフュージョンモンスターでしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Fusion
+images:
+- index: 1
+  image: DragonTribeFusion-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP024
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 930467
+---
+konami_id: 18702
+name:
+  en: Polymerization
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending monsters from your hand or field to the Graveyard as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札・フィールドのモンスターを素材として墓地へ送り、フュージョン召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+legend: true
+images:
+- index: 1
+  image: Polymerization-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP025
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 930466
+---
+konami_id: 18703
+name:
+  en: Primordial Slash
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>原<rt>げん</rt></ruby><ruby>初<rt>しょ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby><ruby>振<rt>ふ</rt></ruby>り
+  ja_romaji: Gensho no Hitofuri
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack, pay 400 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時、４００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The attacking monster loses 700 ATK until the end of this turn. Then, if you have a face-up Legend Normal Monster on your field, you can destroy 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃してきたモンスターの攻撃力はターン終了時まで７００ダウンする。自分フィールドに表側表示のレジェンド通常モンスターがいる場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: PrimordialSlash-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP026
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 931293
+---
+konami_id: 18704
+name:
+  en: Malevolent Catastrophe
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Spell/Trap Cards on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドの魔法・罠カードを全て破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+legend: true
+images:
+- index: 1
+  image: MalevolentCatastrophe-RDLGP1-JP-R.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP028
+    set_name: Legend Awakening Pack
+    rarities:
+    - Rare
+yugipedia_page_id: 936151
+---
+konami_id: 18705
 name:
   en: Meteor Dragon
   de:
@@ -92459,7 +92643,7 @@ atk: 1800
 def: 2000
 images:
 - index: 1
-  image: MeteorDragon-RDLGP1-JP-OP.png
+  image: MeteorDragon-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/LGP1-JP029
@@ -92468,9 +92652,9 @@ sets:
     - Common
 yugipedia_page_id: 936516
 ---
-konami_id:
+konami_id: 18706
 name:
-  en: Meteor Black Dragon
+  en: Melchid the Four-Face Beast
   de:
   es:
   fr:
@@ -92484,48 +92668,37 @@ name:
   zh-CN:
 text:
   en: |-
-    "Red-Eyes Black Dragon" + "Meteor Dragon"
+    This monster has four different masks for four different attacks.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ４つの仮面を切り替えながら、４種類の攻撃をしてくる化け物。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Dragon / Fusion
-attribute: FIRE
-level: 8
-atk: 3500
-def: 2000
-materials:
-  en: |-
-    "Red-Eyes Black Dragon" + "Meteor Dragon"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
+monster_type_line: Fiend / Normal
+attribute: DARK
+level: 4
+atk: 1500
+def: 1200
 images:
 - index: 1
-  image: MeteorBlackDragon-RDLGP1-JP-OP.png
+  image: MelchidtheFourFaceBeast-RDLGP1-JP-C.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP000
+  - set_number: RD/LGP1-JP031
     set_name: Legend Awakening Pack
     rarities:
-    - Over Rush Rare
-yugipedia_page_id: 936517
+    - Common
+yugipedia_page_id: 934225
 ---
-konami_id:
+konami_id: 18707
 name:
-  en: Return
+  en: Grand Tiki Elder
   de:
   es:
   fr:
@@ -92537,9 +92710,725 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+text:
+  en: |-
+    A masked monster that wields the most deadly of curses.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    呪いの呪文で相手を念殺する、仮面モンスター。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Normal
+attribute: DARK
+level: 4
+atk: 1500
+def: 800
+images:
+- index: 1
+  image: GrandTikiElder-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP032
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 934227
+---
+konami_id: 18708
+name:
+  en: Goblin Holedigger Captain
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ゴブリン<ruby>穴<rt>あな</rt></ruby><ruby>掘<rt>ほ</rt></ruby>り<ruby>隊<rt>たい</rt></ruby><ruby>長<rt>ちょう</rt></ruby>
+  ja_romaji: Goburin Anahori Taichō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
-    When your opponent adds a card from the Graveyard to the hand.
+    If you have "The Warrior Returning Alive" or "Trap Hole" in your Graveyard, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に「戦士の生還」または「落とし穴」がある場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses ATK equal to [the total number of "The Warrior Returning Alive" and "Trap Hole" in your Graveyard] x 1000 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分の墓地の「戦士の生還」「落とし穴」の数の合計］×１０００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 900
+def: 400
+images:
+- index: 1
+  image: GoblinHolediggerCaptain-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP033
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 935774
+---
+konami_id: 18709
+name:
+  en: Class-Change Mirror
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>昇<rt>しょう</rt></ruby><ruby>格<rt>かく</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>鏡<rt>きょう</rt></ruby>
+  ja_romaji: Shōkaku no Makyō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 1 other monster from your field on the bottom of the owner's Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドのモンスター１体を持ち主のデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Summoned Skull" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「デーモンの召喚」１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 3
+atk: 1300
+def: 800
+images:
+- index: 1
+  image: ClassChangeMirror-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP034
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 936512
+---
+konami_id: 18710
+name:
+  en: Rogue of Archfiend
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ローグ・オブ・デーモン－デーモンの<ruby>使<rt>し</rt></ruby><ruby>役<rt>えき</rt></ruby><ruby>者<rt>しゃ</rt></ruby>
+  ja_romaji: Rōgu Obu Dēmon - Dēmon no Shiekisha
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 face-up Fiend Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（悪魔族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Up to 2 face-up Fiend Type monsters on your field cannot be destroyed by your opponent's Trap Card effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（悪魔族）を２体まで選ぶ。このターン、そのモンスターは相手の罠カードの効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 4
+atk: 1200
+def: 1100
+images:
+- index: 1
+  image: RogueofArchfiend-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP035
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 934278
+---
+konami_id: 18711
+name:
+  en: Master Craftsman Kotetsu
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>名<rt>めい</rt></ruby><ruby>匠<rt>しょう</rt></ruby> <ruby>虎<rt>こ</rt></ruby><ruby>鉄<rt>てつ</rt></ruby>
+  ja_romaji: Meishō Kotetsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Place 1 Level 4 or lower Normal Monster or 1 Equip Spell Card from your Graveyard on top of the Deck. Then, if you placed a Legend monster or "Helmet of the Master Craftsman", you can draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の通常モンスター（レベル４以下）１体または装備魔法カード１枚を選んでデッキの上に戻す。この効果でレジェンドモンスターまたは「名匠の兜」を戻した場合、さらに自分は１枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
+attribute: FIRE
+level: 3
+atk: 1000
+def: 1000
+images:
+- index: 1
+  image: MasterCraftsmanKotetsu-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP036
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 935230
+---
+konami_id: 18712
+name:
+  en: Witness of Dragon Destroyer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>の<ruby>証<rt>しょう</rt></ruby><ruby>人<rt>にん</rt></ruby>
+  ja_romaji: Ryūhakai no Shōnin
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, you can add 1 "Buster Blader" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「バスター・ブレイダー」１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: LIGHT
+level: 3
+atk: 900
+def: 1200
+images:
+- index: 1
+  image: WitnessofDragonDestroyer-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP037
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 930745
+---
+konami_id: 18713
+name:
+  en: Slot Machine PG-7
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スロットマシーン <ruby>Ｐ<rt>ピー</rt></ruby><ruby>Ｇ<rt>ジー</rt></ruby>－７
+  ja_romaji: Surotto Mashīn Pī Jī Sebun
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 monster that has a coin tossing effect from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    コイントスを行う効果を持つ自分の墓地のモンスター１体を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: DARK
+level: 3
+atk: 700
+def: 1000
+images:
+- index: 1
+  image: SlotMachinePG7-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP038
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 934484
+---
+konami_id: 18714
+name:
+  en: Trap Mole
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: トラップモール
+  ja_romaji: Torappu Mōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Trap Hole" in your Graveyard during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分の墓地に「落とし穴」がある場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set 1 Trap Card from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の罠カード１枚を選んで自分の魔法＆罠ゾーンにセットする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 3
+atk: 600
+def: 900
+images:
+- index: 1
+  image: TrapMole-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP039
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 935773
+---
+konami_id: 18715
+name:
+  en: Malevolent Seller
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マレヴォレント・セラー
+  ja_romaji: Marevorento Serā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Malevolent Catastrophe" in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に「邪神の大災害」がある場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can add 1 Legend Card from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地のレジェンドカード１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 2
+atk: 700
+def: 300
+images:
+- index: 1
+  image: MalevolentSeller-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP040
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 936159
+---
+konami_id: 18716
+name:
+  en: Flapun
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フラパン
+  ja_romaji: Furapan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have another face-up Beast Type monster on your field, place 1 Beast Type monster from your Graveyard on top of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外の表側表示モンスター（獣族）がいる場合、自分の墓地のモンスター（獣族）１体をデッキの上に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses 400 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで４００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 1
+atk: 700
+def: 200
+images:
+- index: 1
+  image: Flapun-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP041
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 928488
+---
+konami_id: 18717
+name:
+  en: Cursed Sword of the East
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>東<rt>とう</rt></ruby><ruby>洋<rt>よう</rt></ruby>の<ruby>妖<rt>よう</rt></ruby><ruby>刀<rt>とう</rt></ruby>
+  ja_romaji: Tōyō no Yōtō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 or higher Celestial Warrior or Warrior Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７以上／天界戦士族または戦士族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Normal Monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示の通常モンスター１体を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: CursedSwordoftheEast-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP043
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 937721
+---
+konami_id: 18718
+name:
+  en: Masenkou, the Lashing Light
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>ま</rt></ruby><ruby>殲<rt>せん</rt></ruby><ruby>光<rt>こう</rt></ruby>
+  ja_romaji: Masenkō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have "Summoned Skull" face-up on your field, send 1 Fiend Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示の「デーモンの召喚」がいる場合、手札のモンスター（悪魔族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Attack Position Level 8 or lower monsters on your opponent's field. This turn, your Effect Monsters cannot attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの攻撃表示モンスター（レベル８以下）を全て破壊する。このターン、自分は効果モンスターで攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: MasenkoutheLashingLight-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP044
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 936145
+---
+konami_id: 18719
+name:
+  en: Helmet of the Master Craftsman
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>名<rt>めい</rt></ruby><ruby>匠<rt>しょう</rt></ruby>の<ruby>兜<rt>かぶと</rt></ruby>
+  ja_romaji: Meishō no Kabuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 200 ATK/DEF. Also, if the equipped monster is "Master Craftsman Kotetsu" or a Legend monster whose original Level is 4 or lower, it gains ATK equal to [its original ATK].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力・守備力は２００アップする。装備モンスターが「名匠 虎鉄」または元々のレべルが４以下のレジェンドモンスターの場合、さらに攻撃力を［そのモンスターの元々の攻撃力］だけアップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+images:
+- index: 1
+  image: HelmetoftheMasterCraftsman-RDLGP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/LGP1-JP045
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+yugipedia_page_id: 935229
+---
+konami_id:
+name:
+  en: Ascending Weather Eel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>気<rt>き</rt></ruby><ruby>昇<rt>しょう</rt></ruby>のウェザエール
+  ja_romaji: Kishō no Wezaēru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 monsters from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -92551,7 +93440,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Shuffle 1 random card from your opponent's hand into the Deck.
+    Excavate the top 2 cards of your Deck. You can add 1 excavated Level 10 monster to your hand. Shuffle the remaining cards into the Deck.
   de:
   es:
   fr:
@@ -92561,29 +93450,444 @@ effect:
   ko:
   zh-TW:
   zh-CN:
-card_type: Trap
-property: Normal
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 400
 images:
 - index: 1
-  image: Return-RDLGP1-JP-OP.png
+  image: AscendingWeatherEel-RDVSP1-JP-OP.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP027
-    set_name: Legend Awakening Pack
+  - set_number: RD/VSP1-JP039
+    set_name: Versus Pack Maximum Force
     rarities:
-    - Rare
-yugipedia_page_id: 937480
+    - Common
+yugipedia_page_id: 937885
 ---
 konami_id:
 name:
-  en: Maju Garzett
+  en: Deep Sea Dragon Bat Eel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>バットイール
+  ja_romaji: Shinkairyū Batto Īru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal up to 3 Level 10 monsters in your hand.
   de:
   es:
   fr:
   it:
   pt:
   ja:
-  ja_romaji:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw cards equal to [the number of monsters revealed to meet the requirement]. Then, shuffle cards from your hand into the Deck equal to [the number of cards drawn by this effect].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: DARK
+level: 3
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: DeepSeaDragonBatEel-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP041
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Super Rare
+yugipedia_page_id: 937886
+---
+konami_id:
+name:
+  en: Abyss Flash
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビス・フラッシュ
+  ja_romaji: Abisu Furasshu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 5 or more Sea Serpent Type monsters in your Graveyard, shuffle all monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change the battle positions of all monsters on your opponent's field (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: AbyssFlash-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP042
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Common
+yugipedia_page_id: 937887
+---
+konami_id:
+name:
+  en: Abyssal Sea Dragon Abyss Kraken
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>アビス・クラーケン
+  ja_romaji: Shin'enkairyū Abisu Kurāken
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Maximum Summon this card together with "Abyssal Sea Dragon Abyss Kraken [L]" and "Abyssal Dragon Lord Abyss Kraken [R]".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If you have no monsters in your Graveyard, this card cannot be destroyed by your opponent's card effects, also if this card is in Maximum Mode, your opponent cannot activate Trap Cards when it declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Maximum / Effect
+attribute: DARK
+level: 10
+atk: 2500
+def: 0
+maximum_atk: 4000
+images:
+- index: 1
+  image: AbyssalSeaDragonAbyssKraken-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP017
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 937888
+---
+konami_id:
+name:
+  en: Abyssal Sea Dragon Abyss Kraken [L]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>アビス・クラーケン［<ruby>Ｌ<rt>エル</rt></ruby>］
+  ja_romaji: Shin'enkairyū Abisu Kurāken [Eru]
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle up to 5 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses ATK/DEF equal to [the number of monsters shuffled into the Deck to meet the requirement] x 300 until the end of this turn. Then, if this card is in Maximum Mode and you have no monsters in your Graveyard, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Maximum / Effect
+attribute: DARK
+level: 10
+atk: 2300
+def: 0
+images:
+- index: 1
+  image: AbyssalSeaDragonAbyssKrakenL-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP016
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 937889
+---
+konami_id:
+name:
+  en: Abyssal Sea Dragon Abyss Kraken [R]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>アビス・クラーケン［<ruby>Ｒ<rt>アール</rt></ruby>］
+  ja_romaji: Shin'enkairyū Abisu Kurāken [Āru]
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change the battle position of 1 monster on your opponent's field. Also, if this card is in Maximum Mode, this card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Maximum / Effect
+attribute: DARK
+level: 10
+atk: 2300
+def: 0
+images:
+- index: 1
+  image: AbyssalSeaDragonAbyssKrakenR-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP018
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 937890
+---
+konami_id:
+name:
+  en: Abyssal Dragon Lord Abyss Poseidra
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>神<rt>じん</rt></ruby>アビス・ポセイドラ
+  ja_romaji: Shin'enryūjin Abisu Poseidora
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Maximum Summon this card together with "Abyssal Dragon Lord Abyss Poseidra [L]" and "Abyssal Dragon Lord Abyss Poseidra [R]".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If you have no monsters in your Graveyard, your opponent cannot activate Trap Cards when this card declares an attack, also if this card is in Maximum Mode, it cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Maximum / Effect
+attribute: DARK
+level: 10
+atk: 2500
+def: 0
+maximum_atk: 4000
+images:
+- index: 1
+  image: AbyssalDragonLordAbyssPoseidra-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP014
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 937893
+---
+konami_id:
+name:
+  en: Abyssal Dragon Lord Abyss Poseidra [L]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>神<rt>じん</rt></ruby>アビス・ポセイドラ［<ruby>Ｌ<rt>エル</rt></ruby>］
+  ja_romaji: Shin'enryūjin Abisu Poseidora [Eru]
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 5 or more Sea Serpent Type monsters in your Graveyard, place all monsters from your Graveyard on the bottom of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 monster on your opponent's field. Then, if this card is in Maximum Mode and you shuffled 3 or more Maximum Monsters into the Deck to meet the requirement, you can destroy all cards on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Maximum / Effect
+attribute: DARK
+level: 10
+atk: 2300
+def: 0
+images:
+- index: 1
+  image: AbyssalDragonLordAbyssPoseidraL-RDVSP1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VSP1-JP013
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 937894
+---
+konami_id:
+name:
+  en: Abyssal Dragon Lord Abyss Poseidra [R]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>深<rt>しん</rt></ruby><ruby>淵<rt>えん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>神<rt>じん</rt></ruby>アビス・ポセイドラ［<ruby>Ｒ<rt>アール</rt></ruby>］
+  ja_romaji: Shin'enryūjin Abisu Poseidora [Āru]
   ko:
   ko_rr:
   zh-TW:
@@ -92604,7 +93908,7 @@ effect_types:
 - Continuous
 effect:
   en: |-
-    This card gains ATK equal to [the total original ATK of the 2 monsters Tributed for the Tribute Summon of this card in Attack Position].
+    If you have no monsters in your Graveyard, your opponent cannot Set monsters from the hand, also if this card is in Maximum Mode and your opponent has a face-down Spell/Trap Card on their field, your opponent cannot Set Spell/Trap Cards from the hand.
   de:
   es:
   fr:
@@ -92615,19 +93919,61 @@ effect:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Fiend / Effect
+monster_type_line: Sea Serpent / Maximum / Effect
 attribute: DARK
-level: 7
-atk: 0
+level: 10
+atk: 2400
 def: 0
 images:
 - index: 1
-  image: MajuGarzett-RDLGP1-JP-OP.png
+  image: AbyssalDragonLordAbyssPoseidraR-RDVSP1-JP-OP.png
 sets:
   ja:
-  - set_number: RD/LGP1-JP004
-    set_name: Legend Awakening Pack
+  - set_number: RD/VSP1-JP015
+    set_name: Versus Pack Maximum Force
     rarities:
-    - Ultra Rare
-    - Secret Rare
-yugipedia_page_id: 937482
+    - Over Rush Rare
+yugipedia_page_id: 937895
+---
+konami_id:
+name:
+  en: Deepsea Hunter
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ディープシー・ハンター
+  ja_romaji: Dīpu Shī Hantā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: DARK
+level: 3
+atk: 1100
+def: 0
+images:
+- index: 1
+  image: DeepseaHunter-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP026
+    set_name: Saikyō Jump May 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 938050
