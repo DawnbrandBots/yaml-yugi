@@ -132,14 +132,19 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
         # one-character region codes and two-digit position numbers are no longer a thing
         set_abbreviation, position = release["set_number"].split("-")
         if set_abbreviation in assignments.set_abbreviation:
-            position = int(position[2:])
-            if isinstance(assignments.set_abbreviation[set_abbreviation], int):
-                document["fake_password"] = position + assignments.set_abbreviation[set_abbreviation]
-            else:  # list
-                document["fake_password"] = [
-                    position + fake_range for fake_range in
-                    assignments.set_abbreviation[set_abbreviation]
-                ]
+            try:
+                position = int(position[2:])
+                if isinstance(assignments.set_abbreviation[set_abbreviation], int):
+                    document["fake_password"] = position + assignments.set_abbreviation[set_abbreviation]
+                else:  # list
+                    document["fake_password"] = [
+                        position + fake_range for fake_range in
+                        assignments.set_abbreviation[set_abbreviation]
+                    ]
+            except ValueError as e:
+                # Typically unknown card number like 0??
+                module_logger.warn(document["yugipedia_page_id"], exc_info=e)
+
 
 
 def load_ko_overrides(ko_file: str) -> Dict[int, str]:
