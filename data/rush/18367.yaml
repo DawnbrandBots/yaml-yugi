@@ -8,7 +8,7 @@ name:
   pt:
   ja: エクスキューティー・スカウト！
   ja_romaji: Ekusukyūtī Sukauto!
-  ko:
+  ko: 엑스큐티 스카우트!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のカード名が異なるモンスター（レベル６／守備力５００）４体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 카드명이 다른 몬스터(레벨 6 / 수비력 500) 4장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。このターン、自分はモンスター（レベル７以上）で攻撃できない。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP038
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR038
     set_name: Over Rush Pack
     rarities:
     - Common

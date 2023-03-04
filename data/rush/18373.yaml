@@ -8,7 +8,7 @@ name:
   pt:
   ja: ジョインテック・ステゴサイロス
   ja_romaji: Jointekku Sutegosairosu
-  ko:
+  ko: 조인테크 스테고사이로스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（地属性／機械族）を３体まで墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(땅 속성 / 기계족)를 3장까지 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（守備力１６００以下）を、［この効果の条件で墓地へ送ったモンスターの数］だけ選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(수비력 1600 이하)를, [이 효과의 조건으로 묘지로 보낸 몬스터의 수]만큼 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP044
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR044
     set_name: Over Rush Pack
     rarities:
     - Super Rare

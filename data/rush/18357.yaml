@@ -8,7 +8,7 @@ name:
   pt:
   ja: エヴォリューション・ラッシュ・バースト
   ja_romaji: Evoryūshon Rasshu Bāsuto
-  ko:
+  ko: 에볼루션 러시 버스트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル５以上／機械族）がいる場合、自分の墓地のモンスター（光属性／機械族）５体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 5 이상 / 기계족)가 있을 경우, 자신 묘지의 몬스터(빛 속성 / 기계족) 5장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP028
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP1-KR028
     set_name: Over Rush Pack
     rarities:
     - Common

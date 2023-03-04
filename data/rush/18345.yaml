@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>侵<rt>しん</rt></ruby><ruby>食<rt>しょく</rt></ruby>
   ja_romaji: Enma no Shinshoku
-  ko:
+  ko: 염 마의 침식
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル４以下／悪魔族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 4 이하 / 악마족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル１０／悪魔族）１体を選んで手札に加える。このターン、自分はマキシマムモンスターでしか攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 10 / 악마족) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 맥시멈 몬스터로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP016
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP1-KR016
     set_name: Over Rush Pack
     rarities:
     - Common

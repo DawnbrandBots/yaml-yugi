@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>神<rt>じん</rt></ruby>ディスペラシオン
   ja_romaji: Shūenmajin Disuperashion
-  ko:
+  ko: 종염 마신 디스페라시온
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     「終焔魔神ディスペラシオン［Ｌ］」「終焔魔神ディスペラシオン［Ｒ］」と揃えてマキシマム召喚できる。
-  ko:
+  ko: |-
+    "종염 마신 디스페라시온[L]" "종염 마신 디스페라시온[R]"과 모아 맥시멈 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     手札のマキシマムモンスター２体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 맥시멈 몬스터 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -51,7 +53,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに自分は２枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다. 이 카드가 맥시멈 모드일 경우, 추가로 자신은 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,6 +72,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP008
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP1-KR008
     set_name: Over Rush Pack
     rarities:
     - Super Rare

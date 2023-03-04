@@ -8,7 +8,7 @@ name:
   pt:
   ja: サタニウスの<ruby>宝<rt>ほう</rt></ruby><ruby>珠<rt>じゅ</rt></ruby>
   ja_romaji: Sataniusu no Hōju
-  ko:
+  ko: 사타니우스의 보주
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル６）がいる場合、手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 6)가 있을 경우, 패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP064
+    set_name: Over Rush Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR064
     set_name: Over Rush Pack
     rarities:
     - Ultra Rare

@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヴァルキリアン・コール
   ja_romaji: Varukirian Kōru
-  ko:
+  ko: 발키리어언 콜
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４／魔法使い族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分フィールドの表側表示の「マジシャンズ・ヴァルキリア」１体を選んでその攻撃力を次の相手ターン終了時まで１０００アップできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 / 마법사족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 필드의 앞면 표시의 "매지션즈 발키리어" 1장을 고르고 그 공격력을 다음 상대 턴 종료시까지 1000 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP063
+    set_name: Over Rush Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR063
     set_name: Over Rush Pack
     rarities:
     - Common

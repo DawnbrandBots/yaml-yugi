@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>憤<rt>ふん</rt></ruby><ruby>砕<rt>さい</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>アンガーローグ
   ja_romaji: Funsairyū Angārōgu
-  ko:
+  ko: 분쇄룡 앵거로그
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示モンスター（恐竜族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시 몬스터(공룡족)가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃力が一番高い表側表示モンスター全ての攻撃力はターン終了時まで、［自分フィールドの守備力が一番高い表側表示モンスターの守備力］だけダウンする。
-  ko:
+  ko: |-
+    상대 필드의 공격력이 가장 높은 앞면 표시 몬스터 전부의 공격력은 턴 종료시까지, [자신 필드의 수비력이 가장 높은 앞면 표시 몬스터의 수비력]만큼 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP056
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR056
     set_name: Over Rush Pack
     rarities:
     - Super Rare

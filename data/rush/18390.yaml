@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>夢<rt>む</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のランビリス
   ja_romaji: Muchū no Ranbirisu
-  ko:
+  ko: 몽중의 람비리스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターが２体以上いる場合、自分フィールドの表側表示のこのカードと手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 2장 이상 있을 경우, 자신 필드의 앞면 표시의 이 카드와 패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     この効果の条件で手札から墓地へ送ったモンスターと同じ種族を持つ相手フィールドの表側表示モンスター（レベル５～８）１体を選んでそのコントロールを得る（自分フィールドに移動し、自分が使用する）。
-  ko:
+  ko: |-
+    이 효과의 조건으로 패에서 묘지로 보낸 몬스터와 같은 종족을 가지는 상대 필드의 앞면 표시 몬스터(레벨 5~8) 1장을 고르고 그 컨트롤을 얻는다(자신 필드로 이동하고, 자신이 사용한다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP1-JP061
+    set_name: Over Rush Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP1-KR061
     set_name: Over Rush Pack
     rarities:
     - Super Rare
