@@ -220,6 +220,9 @@ def job(
         logger.info(f"{i}/{len(filenames)} {filepath}")
 
         properties = initial_parse(yaml, filepath)
+        if not properties:
+            logger.info(f"Skip: {filepath}")
+            continue
         properties["yugipedia_page_id"] = page_id
         if zh_cn_dir:
             annotate_zh_cn(yaml, logger, zh_cn_dir, properties)
