@@ -6,7 +6,7 @@ name:
   es: Coro de Aqua
   fr: Aqua Chœur
   it: Coro Acquatico
-  pt:
+  pt: Aquarefrão
   ja: アクアの<ruby>合<rt>がっ</rt></ruby><ruby>唱<rt>しょう</rt></ruby>
   ja_romaji: Akua no Gasshō
   ko: 아쿠아의 합창
@@ -15,16 +15,17 @@ name:
   zh-CN: 水之合唱
 text:
   en: |-
-    If there are monsters with the same name on the field, increase the ATK and DEF of all of those monsters with the same name by 500 points.
+    If there are monsters with the same name on the field, those monsters gain 500 ATK/DEF.
   de: |-
-    Sollten sich Monster mit dem gleichen Namen auf dem Spielfeld befinden, erhöhe die ATK und DEF aller Monster desselben Namens um 500 Punkte.
+    Falls Monster mit demselben Namen auf dem Spielfeld liegen, erhalten jene Monster 500 ATK/DEF.
   es: |-
-    Si hay monstruos con el mismo nombre en el Campo, aumenta el ATK y la DEF de los monstruos con el mismo nombre en 500 puntos.
+    Si hay monstruos con el mismo nombre en el Campo, esos monstruos ganan 500 ATK/DEF.
   fr: |-
-    S'il y a des monstres portant le même nom sur le Terrain, augmentez l'ATK et la DEF de tous ces monstres de 500 points.
+    S'il y a des monstres de même nom sur le Terrain, ces monstres gagnent 500 ATK/DEF.
   it: |-
-    Se ci sono mostri con lo stesso nome sul Terreno, aumenta ATK e DEF di tutti quei mostri con lo stesso nome di 500 punti.
-  pt:
+    Se ci sono mostri con lo stesso nome sul Terreno, quei mostri guadagnano 500 ATK/DEF.
+  pt: |-
+    Se houver monstros com o mesmo nome no campo, esses monstros ganham 500 de ATK/DEF.
   ja: |-
     ①：フィールドに同名モンスターが存在する、フィールドのモンスターの攻撃力・守備力は５００アップする。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: AquaChorus-SD8-EN-C-1E.png
+  image: AquaChorus-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SD8-EN028
@@ -131,5 +132,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 3268

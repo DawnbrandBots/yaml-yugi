@@ -6,7 +6,7 @@ name:
   es: Rugido de Archidemonio
   fr: Rugissement de l'Archdémon
   it: Ruggito dell'Arcidemone
-  pt: Rugido do Archdemônio
+  pt: Rugido do Arquidemônio
   ja: デーモンの<ruby>雄<rt>お</rt></ruby><ruby>叫<rt>たけ</rt></ruby>び
   ja_romaji: Dēmon no Otakebi
   ko: 데몬의 포효
@@ -15,17 +15,17 @@ name:
   zh-CN: 恶魔的雄叫
 text:
   en: |-
-    Pay 500 Life Points, then target 1 "Archfiend" monster in your Graveyard; Special Summon that target. It cannot be Tributed. Destroy it during the End Phase of this turn.
+    Pay 500 LP, then target 1 "Archfiend" monster in your GY; Special Summon that target, but it cannot be Tributed, also it is destroyed during the End Phase of this turn.
   de: |-
-    Zahle 500 Life Points und wähle dann 1 „Erzunterweltler“-Monster in deinem Friedhof; beschwöre das gewählte Ziel als Spezialbeschwörung. Es kann nicht als Tribut angeboten werden. Zerstöre es während der End Phase dieses Spielzugs.
+    Zahle 500 LP und wähle dann 1 „Erzunterweltler“-Monster in deinem Friedhof; beschwöre jenes gewählte Ziel als Spezialbeschwörung, aber es kann nicht als Tribut angeboten werden, zusätzlich wird es während der End Phase dieses Spielzugs zerstört.
   es: |-
-    Paga 500 Life Points, y después selecciona 1 monstruo "Archidemonio" en tu Cementerio; Invoca ese objetivo de Modo Especial. Éste no puede ser Sacrificado. Destrúyelo durante la End Phase de este turno.
+    Paga 500 LP, y después selecciona 1 monstruo "Archidemonio" en tu Cementerio; Invoca ese objetivo de Modo Especial, pero éste no puede ser Sacrificado, y además es destruido durante la End Phase de este turno.
   fr: |-
-    Payez 500 Life Points, puis ciblez 1 monstre "Archdémon" dans votre Cimetière ; Invoquez Spécialement la cible. Il ne peut pas être Sacrifié. Durant la End Phase de ce tour, détruisez-le.
+    Payez 500 LP, puis ciblez 1 monstre "Archdémon" dans votre Cimetière ; Invoquez Spécialement la cible, mais elle ne peut pas être Sacrifiée, et aussi, elle est détruite durant la End Phase de ce tour.
   it: |-
-    Paga 500 Life Point, poi scegli come bersaglio 1 mostro "Arcidemone" nel tuo Cimitero; Evoca Specialmente quel bersaglio. Esso non può essere offerto come Tributo. Distruggilo durante la End Phase di questo turno.
+    Paga 500 LP, poi scegli come bersaglio 1 mostro "Arcidemone" nel tuo Cimitero; Evoca Specialmente quel bersaglio, ma esso non può essere offerto come Tributo, inoltre viene distrutto durante la End Phase di questo turno.
   pt: |-
-    Pague 500 Life Points para activar este card. Invoque, por Invocação-Especial, 1 Card de Monstro ARCHDEMÔNIO do seu Cemitério para o seu Campo. Este monstro não pode ser oferecido como Tributo sob nenhuma circunstância e é destruído durante a End Phase deste turno.
+    Pague 500 PV e, depois, escolha 1 monstro "Arquidemônio" no seu Cemitério; Invoque o alvo por Invocação-Especial, mas ele não pode ser oferecido como Tributo e, além disso, ele é destruído durante a Fase Final deste turno.
   ja: |-
     ５００ライフポイントを払い発動する。自分の墓地から「デーモン」という名のついたモンスターカード１枚を自分のフィールド上に特殊召喚する。このモンスターは、いかなる場合にも生け贄にする事はできず、このターンのエンドフェイズに破壊される。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendsRoar-AP03-EN-C-UE.png
+  image: ArchfiendsRoar-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN261
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: AP03-EN025
     set_name: Astral Pack Three
+    rarities:
+    - Common
+  - set_number: SGX3-ENE18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-099
@@ -71,6 +75,10 @@ sets:
     set_name: Astral Pack Three
     rarities:
     - Common
+  - set_number: SGX3-DEE18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR261
     set_name: Dark Revelation Volume 1
@@ -82,6 +90,10 @@ sets:
     - Common
   - set_number: AP03-FR025
     set_name: Astral Pack Three
+    rarities:
+    - Common
+  - set_number: SGX3-FRE18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -97,6 +109,10 @@ sets:
     set_name: Astral Pack Three
     rarities:
     - Common
+  - set_number: SGX3-ITE18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT261
     set_name: Dark Revelation Volume 1
@@ -104,6 +120,10 @@ sets:
     - Common
   - set_number: AP03-PT025
     set_name: Astral Pack Three
+    rarities:
+    - Common
+  - set_number: SGX3-PTE18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -127,4 +147,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 14523

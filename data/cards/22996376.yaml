@@ -27,7 +27,7 @@ text:
   pt: |-
     Este card pode ser Invocado, por Invocação-Normal, ou Baixado com 1 Monstro Tributo. Nesse caso, o ATK original deste card torna-se 2000. Quando este card é Invocado, por Invocação-Tributo, com sucesso, você pode devolver do seu Cemitério para a sua mão um número de monstros do Tipo Besta igual ao número de monstros oferecidos como Tributo.
   ja: |-
-    このカードは生け贄１体で通常召喚する事ができる。その場合、このカードの元々の攻撃力は２０００になる。生け贄召喚に成功した時、生け贄に捧げた数だけ 自分の墓地の獣族モンスターを持ち主の手札に戻す事ができる。
+    このカードはモンスター１体をリリースしてアドバンス召喚できる。①：この方法でアドバンス召喚したこのカードの元々の攻撃力は２０００になる。②：このカードがアドバンス召喚した時、このカードのアドバンス召喚のためにリリースしたモンスターの数だけ、自分の墓地の獣族モンスターを対象として発動できる。その獣族モンスターを手札に加える。
   ko: |-
     이 카드는 제물 1장으로 일반 소환/세트할 수 있다. 그 경우, 이 카드의 원래 공격력은 2000 이 된다. 제물 소환에 성공했을 때, 제물로 바친 수만큼 자신의 묘지의 야수족 몬스터를 주인의 패로 되돌릴 수 있다.
   zh-TW: |-
@@ -116,6 +116,10 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Super Rare
+  - set_number: 23TP-JP205
+    set_name: Tournament Pack 2023 Vol.2
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR014
     set_name: Flaming Eternity

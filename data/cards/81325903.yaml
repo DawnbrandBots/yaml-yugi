@@ -17,13 +17,13 @@ text:
   en: |-
     Target 1 "Amazoness" monster you control and 1 face-up monster your opponent controls; switch the original ATK of those targets until the end of this turn.
   de: |-
-    Wähle 1 „Amazonisch“-Monster, das du kontrollierst, und 1 offenes Monster, das dein Gegner kontrolliert; vertausche bis zum Ende dieses Spielzugs die Grund-ATK der gewählten Ziele.
+    Wähle 1 „Amazonisch“-Monster, das du kontrollierst, und 1 offenes Monster, das dein Gegner kontrolliert; vertausche bis zum Ende dieses Spielzugs die Grund-ATK jener gewählten Ziele.
   es: |-
-    Selecciona 1 monstruo "Amazoness" que controles y 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno intercambia el ATK original de esos monstruos.
+    Selecciona 1 monstruo "Amazoness" que controles y 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno intercambia el ATK original de esos objetivos.
   fr: |-
-    Ciblez 1 monstre "Amazonesse" que vous contôlez et 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, échangez l'ATK d'origine des cibles.
+    Ciblez 1 monstre "Amazonesse" que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire ; jusqu'à la fin de ce tour, échangez l'ATK d'origine des cibles.
   it: |-
-    Scegli come bersaglio 1 mostro "Amazoness" che controlli e 1 mostro scoperto controllato dal tuo avversario; scambio l'ATK originale di quei bersagli, fino alla fine di questo turno.
+    Scegli come bersaglio 1 mostro "Amazoness" che controlli e 1 mostro scoperto controllato dal tuo avversario; scambia l'ATK originale di quei bersagli, fino alla fine di questo turno.
   pt: |-
     Escolha 1 monstro "Amazoness" que você controla e 1 monstro com a face para cima que seu oponente controla; troque o ATK original desses alvos até o final deste turno.
   ja: |-
@@ -42,7 +42,7 @@ images:
   image: '  AmazonessSpellcaster-EE1-JP-C.jpg'
   illustration: '    AmazonessSpellcaster-TF04-JP-VG.png'
 - index: '1.1'
-  image: AmazonessSpellcaster-LCJW-EN-C-1E.png
+  image: AmazonessSpellcaster-SGX3-EN-C-1E.png
   illustration: AmazonessSpellcaster-TF04-EN-VG.jpg
 sets:
   en:
@@ -56,6 +56,10 @@ sets:
     - Common
   - set_number: LCJW-EN100
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-END15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MFC-084
@@ -75,6 +79,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-DED15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR139
     set_name: Dark Revelation Volume 1
@@ -86,6 +94,10 @@ sets:
     - Common
   - set_number: LCJW-FR100
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-FRD15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -101,6 +113,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-ITD15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT139
     set_name: Dark Revelation Volume 1
@@ -108,6 +124,10 @@ sets:
     - Common
   - set_number: LCJW-PT100
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-PTD15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -131,4 +151,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 16710

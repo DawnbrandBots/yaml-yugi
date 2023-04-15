@@ -15,7 +15,7 @@ name:
   zh-CN: 云魔物-雨云人
 text:
   en: |-
-    This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. When this card is Tribute Summoned, place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.
+    Cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. You can Tribute any number of WATER monsters for the Tribute Summon of this card. If this card is Tribute Summoned: Place 1 Fog Counter on it for each WATER monster you Tributed. This card gains 500 ATK for each Fog Counter on the field.
   de: |-
     Diese Karte kann nicht durch Kampf zerstört werden. Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Du kannst eine beliebige Anzahl WASSER Monster als Tribut für die Tributbeschwörung dieser Karte anbieten. Wenn diese Karte als Tributbeschwörung beschworen wird, lege 1 Nebel-Zählmarke darauf für jedes WASSER Monster, das du als Tribut angeboten hast. Diese Karte erhält 500 ATK für jede Nebel-Zählmarke auf dem Spielfeld.
   es: |-
@@ -42,11 +42,15 @@ series:
 - Cloudian
 images:
 - index: 1
-  image: CloudianNimbusman-GLAS-EN-C-1E.png
+  image: CloudianNimbusman-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN007
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ENH09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -54,14 +58,31 @@ sets:
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-DEH09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR007
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-FRH09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT007
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ITH09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -77,4 +98,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505245

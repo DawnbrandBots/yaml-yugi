@@ -41,7 +41,7 @@ atk: 800
 def: 500
 images:
 - index: 1
-  image: BlackDragonsChick-LDS1-EN-C-1E.png
+  image: BlackDragonsChick-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SOD-EN017
@@ -70,6 +70,10 @@ sets:
     - Common
   - set_number: LDS1-EN002
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-ENB05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -101,6 +105,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-DEB05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SOD-FR017
     set_name: Soul of the Duelist
@@ -128,6 +136,10 @@ sets:
     - Common
   - set_number: LDS1-FR002
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-FRB05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -159,6 +171,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-ITB05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SOD-PT017
     set_name: Soul of the Duelist
@@ -178,6 +194,10 @@ sets:
     - Common
   - set_number: LDS1-PT002
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-PTB05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -217,4 +237,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 36

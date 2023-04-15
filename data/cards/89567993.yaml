@@ -15,17 +15,17 @@ name:
   zh-CN: 亚马逊训练生
 text:
   en: |-
-    Monsters destroyed by battle with this card are returned to the bottom of the Deck instead of going to the GY. If this card destroys an opponent's monster by battle: It gains 200 ATK.
+    Monsters destroyed by battle with this card are placed on the bottom of the Deck instead of going to the GY. If this card destroys an opponent's monster by battle: It gains 200 ATK.
   de: |-
-    Monster, die durch Kampf mit dieser Karte zerstört werden, werden unter das Deck zurückgelegt, anstatt auf den Friedhof gelegt zu werden. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Sie erhält 200 ATK.
+    Monster, die durch Kampf mit dieser Karte zerstört werden, werden unter das Deck gelegt, anstatt auf den Friedhof gelegt zu werden. Falls diese Karte ein Monster eines Gegners durch Kampf zerstört: Sie erhält 200 ATK.
   es: |-
-    Los monstruos destruidos en batalla con esta carta se devuelven al fondo del Deck en vez de ir al Cementerio. Si esta carta destruye un monstruo del adversario en batalla: gana 200 ATK.
+    Los monstruos destruidos en batalla con esta carta se ponen en la parte inferior del Deck en vez de ir al Cementerio. Si esta carta destruye un monstruo del adversario en batalla: ésta gana 200 ATK.
   fr: |-
-    Les monstres détruits au combat avec cette carte sont renvoyés au-dessous du Deck au lieu d'être envoyés au Cimetière. Si cette carte détruit un monstre de l'adversaire au combat : il gagne 200 ATK.
+    Les monstres détruits au combat avec cette carte sont placés au-dessous du Deck au lieu d'aller au Cimetière. Si cette carte détruit un monstre de l'adversaire au combat : elle gagne 200 ATK.
   it: |-
-    I mostri distrutti in battaglia con questa carta vengono fatti ritornare in fondo al Deck invece di andare al Cimitero. Se questa carta distrugge un mostro dell'avversario in battaglia: essa guadagna 200 ATK.
+    I mostri distrutti in battaglia con questa carta vengono messi in fondo al Deck invece di andare al Cimitero. Se questa carta distrugge un mostro dell'avversario in battaglia: essa guadagna 200 ATK.
   pt: |-
-    Monstros destruídos em batalha com este card são devolvidos para o fundo do Deck em vez de serem colocados no Cemitério. Se este card destruir um monstro do oponente em batalha: ele ganha 200 de ATK.
+    Monstros destruídos em batalha com este card são colocados no fundo do Deck em vez de irem para o Cemitério. Se este card destruir um monstro do oponente em batalha: ele ganha 200 de ATK.
   ja: |-
     このカードが戦闘によって破壊したモンスターは墓地へ送らず持ち主のデッキの一番下に戻す。このカードが戦闘によって相手モンスターを破壊した場合、このカードの攻撃力は２００ポイントアップする。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Amazoness
 images:
 - index: 1
-  image: AmazonessTrainee-SBAD-EN-C-1E.png
+  image: AmazonessTrainee-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DREV-EN031
@@ -57,6 +57,10 @@ sets:
     - Starfoil Rare
   - set_number: SBAD-EN015
     set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Common
+  - set_number: SGX3-END07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -73,6 +77,10 @@ sets:
     set_name: 'Speed Duel: Attack from the Deep'
     rarities:
     - Common
+  - set_number: SGX3-DED07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DREV-FR031
     set_name: Duelist Revolution
@@ -85,6 +93,10 @@ sets:
     - Starfoil Rare
   - set_number: SBAD-FR015
     set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Common
+  - set_number: SGX3-FRD07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -101,9 +113,17 @@ sets:
     set_name: 'Speed Duel: Attack from the Deep'
     rarities:
     - Common
+  - set_number: SGX3-ITD07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SBAD-PT015
     set_name: 'Speed Duel: Attack from the Deep'
+    rarities:
+    - Common
+  - set_number: SGX3-PTD07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:

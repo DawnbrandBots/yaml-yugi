@@ -27,7 +27,7 @@ text:
   pt: |-
     Durante a Fase Principal (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; durante esta Fase Principal, monstros Dinossauro que você controla não são afetados pelos efeitos ativados do seu oponente. Você pode banir qualquer número de monstros Dinossauro no seu Cemitério, incluindo este card; Invoque por Invocação-Especial 1 monstro Dinossauro do seu Deck com um Nível igual ao número total de monstros banidos para ativar este efeito, mas destrua-o durante a Fase Final. Você só pode usar este efeito de "Miscelaneussauro" uma vez por turno.
   ja: |-
-    「幻創のミセラサウルス」の②の効果は１ターンに１度しか使用できない。①：自分・相手のメインフェイズにこのカードを手札から墓地へ送って発動できる。そのメインフェイズの間、自分フィールドの恐竜族モンスターは相手が発動した効果を受けない。②：自分の墓地からこのカードを含む恐竜族モンスターを任意の数だけ除外して発動できる。除外したモンスターの数と同じレベルの恐竜族モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、このカードを手札から墓地へ送って発動できる。このメインフェイズ中、自分フィールドの恐竜族モンスターは相手が発動した効果を受けない。②：自分の墓地からこのカードを含む恐竜族モンスターを任意の数だけ除外して発動できる。除外したモンスターの数と同じレベルを持つ恐竜族モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。
   ko: |-
     "환창의 미세라사우루스"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대의 메인 페이즈에 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 그 메인 페이즈 동안, 자신 필드의 공룡족 몬스터는 상대가 발동한 효과를 받지 않는다. ②: 자신 묘지에서 이 카드를 포함하는 공룡족 몬스터를 임의의 수만큼 제외하고 발동할 수 있다. 제외한 몬스터의 수와 같은 레벨의 공룡족 몬스터 1장을 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 파괴된다.
   zh-TW:
@@ -136,10 +136,12 @@ sets:
   - set_number: SR04-JP014
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
-    - NPR
+    - Normal Parallel Rare
   - set_number: DBWS-JP011
     set_name: 'Deck Build Pack: Wild Survivors'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: RATE-KR028
     set_name: Raging Tempest
@@ -148,7 +150,7 @@ sets:
   - set_number: SR04-KR014
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
-    - NPR
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Limited
   ocg: Unlimited

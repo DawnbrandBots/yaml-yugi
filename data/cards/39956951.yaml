@@ -6,7 +6,7 @@ name:
   es: Relámpago del Hechizo Prohibido
   fr: Éclair de la Magie Interdite
   it: Lampo della Magia Proibita
-  pt:
+  pt: Clarão da Magia Proibida
   ja: <ruby>封<rt>ふう</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>一<rt>いっ</rt></ruby><ruby>閃<rt>せん</rt></ruby>
   ja_romaji: Fūma Issen
   ko: 봉마일섬
@@ -15,16 +15,17 @@ name:
   zh-CN: 封魔一闪
 text:
   en: |-
-    Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.
+    If your opponent controls monsters in all of their Main Monster Zones: Destroy all monsters your opponent controls.
   de: |-
-    Aktiviere nur, wenn alle Monsterkartenzonen deines Gegners durch Monster belegt sind. Zerstöre alle Monster auf der Spielfeldseite deines Gegners.
+    Falls dein Gegner in all seinen Main-Monsterzonen Monster kontrolliert: Zerstöre alle Monster, die dein Gegner kontrolliert.
   es: |-
-    Activa esta carta sólo cuando todas las Zonas de Carta de Monstruo de tu adversario están ocupadas con monstruos. Destruye todos los monstruos en el Campo de tu adversario.
+    Si tu adversario controla monstruos en todas sus Zonas de Monstruos Principales: destruye todos los monstruos que controla tu adversario.
   fr: |-
-    Activable uniquement lorsque toutes les Zones Carte Monstre de votre adversaire sont occupées par un monstre. Détruisez tous les monstres sur le Terrain de votre adversaire.
+    Si votre adversaire contrôle des monstres dans toutes ses Zones Monstre Main : détruisez tous les monstres contrôlés par votre adversaire.
   it: |-
-    Attiva questa carta solo quando tutte le Zone Carte Mostro del tuo avversario sono occupate da mostri. Distruggi tutti i mostri sul Terreno del tuo avversario.
-  pt:
+    Se il tuo avversario controlla mostri in tutte le sue Zone Mostri Main: distruggi tutti i mostri controllati dal tuo avversario.
+  pt: |-
+    Se seu oponente controlar monstros em todas as Zonas de Monstros Principais dele: destrua todos os monstros que seu oponente controla.
   ja: |-
     相手フィールド上のモンスターカードゾーン全てにモンスターが存在している時に発動する事ができる。相手フィールド上に存在する全てのモンスターを破壊する。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: FlashoftheForbiddenSpell-CDIP-EN-R-1E.jpg
+  image: FlashoftheForbiddenSpell-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CDIP-EN038
@@ -44,24 +45,45 @@ sets:
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-ENI33
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: CDIP-DE038
     set_name: Cyberdark Impact
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-DEI33
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CDIP-FR038
     set_name: Cyberdark Impact
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-FRI33
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: CDIP-IT038
     set_name: Cyberdark Impact
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-ITI33
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTI33
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: CDIP-JP038
     set_name: Cyberdark Impact
@@ -76,4 +98,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 18527

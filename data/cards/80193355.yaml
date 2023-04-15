@@ -6,7 +6,7 @@ name:
   es: Rescate Dramático
   fr: Sauvetage Dramatique
   it: Salvataggio Drammatico
-  pt: Resgate Dramático
+  pt: Salvamento Dramático
   ja: <ruby>救<rt>きゅう</rt></ruby><ruby>出<rt>しゅつ</rt></ruby><ruby>劇<rt>げき</rt></ruby>
   ja_romaji: Kyūshutsugeki
   ko: 구출극
@@ -15,17 +15,17 @@ name:
   zh-CN: 救出剧
 text:
   en: |-
-    Activate only when a card is activated that targets an "Amazoness" monster. Return the targeted monster to its owner's hand and Special Summon 1 other monster from your hand.
+    When a card is activated that targets an "Amazoness" monster on the field: Return that targeted monster to the hand, and if you do, Special Summon 1 other monster from your hand.
   de: |-
-    Du kannst diese Karte nur aktivieren, wenn eine Karte, die ein Monster auf dem Spielfeld, dessen Name „Amazonische" enthält, als Ziel bestimmt, aktiviert wird. Gibt das als Ziel bestimmte Monster auf die Hand seines Besitzers zurück und beschwöre ein anderes Monster als Spezialbeschwörung aus deiner Hand.
+    Wenn eine Karte aktiviert wird, die ein „Amazonisch“-Monster auf dem Spielfeld als Ziel wählt: Gib jenes als Ziel gewählte Monster auf die Hand zurück und falls du dies tust, beschwöre 1 anderes Monster als Spezialbeschwörung von deiner Hand.
   es: |-
-    Sólo puedes activar esta carta cuando una carta es activada cuyo objetivo sea un monstruo "Amazoness". Devuelve el monstruo seleccionado como objetivo a la mano de su dueño e Invoca de Modo Especial 1 monstruo cualquiera desde tu mano.
+    Cuando se activa una carta que selecciona un monstruo "Amazoness" en el Campo: devuelve ese monstruo seleccionado a la mano y, si lo haces, Invoca otro monstruo de Modo Especial desde tu mano.
   fr: |-
-    Activable uniquement lorsqu'une carte qui cible un monstre "Amazonesse" est activée. Renvoyez le monstre ciblé dans la main de son propriétaire et Invoquez Spécialement 1 autre monstre depuis votre main.
+    Lorsqu'une carte qui cible un monstre "Amazonesse" sur le Terrain est activée : renvoyez le monstre ciblé à la main, et si vous le faites, Invoquez Spécialement 1 autre monstre depuis votre main.
   it: |-
-    Attiva solo quando viene attivata una carta che sceglie come bersaglio un mostro "Amazoness". Fa ritornare il mostro bersaglio in mano al proprietario ed Evoca Specialmente 1 altro mostro dalla tua mano.
+    Quando viene attivata una carta che sceglie come bersaglio un mostro "Amazoness" sul Terreno: fai ritornare quel mostro scelto come bersaglio nella mano e, se lo fai, Evoca Specialmente 1 altro mostro dalla tua mano.
   pt: |-
-    Ative somente quando um ou mais monstros "Amazoness" ou "Amazon Archer" são designados como alvo de um efeito de carta. Retorne aqueles monstros para a mão do dono e Special Summon 1 outro monstro da sua mão para o seu lado do campo.
+    Quando um card for ativado que escolha um monstro "Amazoness" no campo: devolva o monstro alvo para a mão e, se isso acontecer, Invoque por Invocação-Especial 1 outro monstro da sua mão.
   ja: |-
     フィールド上の「アマゾネス」という名のついたモンスターを対象にしたカードが発動した時に発動する事ができる。対象になったモンスターカードを手札に戻し、別のモンスター１体を手札から特殊召喚する。
   ko: |-
@@ -40,7 +40,7 @@ images:
   image: '  DramaticRescue-EE1-JP-R.jpg    '
   illustration: DramaticRescue-TF04-JP-VG.jpg
 - index: '1.1'
-  image: DramaticRescue-GLD3-EN-C-LE.png
+  image: DramaticRescue-SGX3-EN-C-1E.png
   illustration: DramaticRescue-TF04-EN-VG.jpg
 sets:
   en:
@@ -50,6 +50,10 @@ sets:
     - Rare
   - set_number: GLD3-EN047
     set_name: Gold Series 3
+    rarities:
+    - Common
+  - set_number: SGX3-END18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MFC-097
@@ -65,6 +69,10 @@ sets:
     set_name: Gold Series 3
     rarities:
     - Common
+  - set_number: SGX3-DED18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR152
     set_name: Dark Revelation Volume 1
@@ -72,6 +80,10 @@ sets:
     - Rare
   - set_number: GLD3-FR047
     set_name: Gold Series 3
+    rarities:
+    - Common
+  - set_number: SGX3-FRD18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -83,11 +95,19 @@ sets:
     set_name: Gold Series 3
     rarities:
     - Common
+  - set_number: SGX3-ITD18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT152
     set_name: Dark Revelation Volume 1
     rarities:
     - Rare
+  - set_number: SGX3-PTD18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 303-043
     set_name: Champion of Black Magic
@@ -109,4 +129,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 13179

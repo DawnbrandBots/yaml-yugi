@@ -6,7 +6,7 @@ name:
   es: Control de Niebla
   fr: Contrôle de Brume
   it: Controllo della Nebbia
-  pt: Controle de Neblina
+  pt: Controle de Nevoeiro
   ja: フォッグ・コントロール
   ja_romaji: Foggu Kontorōru
   ko: 포그 컨트롤
@@ -15,17 +15,17 @@ name:
   zh-CN: 雾气操控
 text:
   en: |-
-    Tribute 1 face-up "Cloudian" monster you control. Place 3 Fog Counters on 1 face-up monster.
+    Tribute 1 face-up "Cloudian" monster, then target 1 face-up monster on the field; place 3 Fog Counters on that target.
   de: |-
-    Biete 1 offenes „Wolkian“-Monster als Tribut an, das du kontrollierst. Lege 3 Nebel-Zählmarken auf 1 offenes Monster.
+    Biete 1 offenes „Wolkian“-Monster als Tribut an und wähle dann 1 offenes Monster auf dem Spielfeld; lege 3 Nebel-Zählmarken auf jenes gewählte Ziel.
   es: |-
-    Sacrifica 1 monstruo "Cloudian" boca arriba que tú controles. Pon 3 Contadores de Niebla en 1 monstruo boca arriba.
+    Sacrifica 1 monstruo "Cloudian" boca arriba, y después selecciona 1 monstruo boca arriba en el Campo; pon 3 Contadores de Niebla en ese objetivo.
   fr: |-
-    Sacrifiez 1 monstre "Nuagien" face recto que vous contrôlez. Placez 3 Compteurs Brume sur 1 monstre face recto.
+    Sacrifiez 1 monstre "Nuagien" face recto, puis ciblez 1 monstre face recto sur le Terrain ; placez 3 Compteurs Brume sur la cible.
   it: |-
-    Offri come Tributo un mostro "Nubiano" scoperto che controlli. Metti 3 Segnalini Nebbia su 1 mostro scoperto.
+    Offri come Tributo 1 mostro "Nubiano" scoperto, poi scegli come bersaglio 1 mostro scoperto sul Terreno; metti 3 Segnalini Nebbia su quel bersaglio.
   pt: |-
-    Ofereça como Tributo 1 monstro "Nuviano" com a face para cima que você controla. Coloque 3 Marcadores de Neblina em 1 monstro com a face para cima.
+    Ofereça como Tributo 1 monstro "Nuviano" com a face para cima e, depois, escolha 1 monstro com a face para cima no campo; coloque 3 Marcadores de Névoa no alvo.
   ja: |-
     自分フィールド上に表側表示で存在する「雲魔物」と名のついたモンスター１体を生け贄に捧げる事で、フィールド上に表側表示で存在するモンスター１体にフォッグカウンターを３つ置く。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: FogControl-GLAS-EN-C-1E.jpg
+  image: FogControl-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN051
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ENH17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -49,14 +53,31 @@ sets:
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-DEH17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR051
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-FRH17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT051
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ITH17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -72,4 +93,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 539958

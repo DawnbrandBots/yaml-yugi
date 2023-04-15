@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     虽然曾经拥有邪恶的心灵，但是由于遇见某个人物而觉醒了正义之心的年轻恶魔。
 card_type: Monster
-monster_type_line: Reptile
+monster_type_line: Reptile / Normal
 attribute: WATER
 level: 4
 atk: 1850
@@ -43,7 +43,7 @@ series:
 - Gigo
 images:
 - index: 1
-  image: Gagagigo-DR1-EN-C-UE.png
+  image: Gagagigo-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DCR-EN054
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: DR1-EN216
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-ENI09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-054
@@ -67,6 +71,10 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-DEI09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DCR-FR054
     set_name: Dark Crisis
@@ -74,6 +82,10 @@ sets:
     - Common
   - set_number: DR1-FR216
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-FRI09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -85,9 +97,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-ITI09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT216
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTI09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -111,4 +131,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 15194

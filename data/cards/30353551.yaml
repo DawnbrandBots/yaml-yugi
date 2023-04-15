@@ -15,17 +15,17 @@ name:
   zh-CN: 人海战术
 text:
   en: |-
-    During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.
+    Once per turn, during the End Phase, if your Level 2 or lower Normal Monster(s) was destroyed by battle this turn: Special Summon Level 2 or lower Normal Monsters from your Deck, equal to the number of your Level 2 or lower Normal Monsters destroyed by battle this turn.
   de: |-
-    Während der End Phase jedes Spielzugs, wähle eine Anzahl von normalen Monster der Stufe 2 oder niedriger aus deinem Deck, die der Anzahl deiner normalen Monsten der Stufe 2 oder niedriger, die in diesem Spielzug als Ergebnis eines Kampfes zerstört wurden, entspricht und beschwöre diese als Spezialbeschwörung auf deiner Spielfeldseite. Mische dein Deck anschließend.
+    Einmal pro Spielzug, während der End Phase, falls in diesem Spielzug ein oder mehr deiner Normalen Monster der Stufe 2 oder niedriger durch Kampf zerstört wurden: Beschwöre Normale Monster der Stufe 2 oder niedriger in Höhe der Anzahl deiner Normalen Monster der Stufe 2 oder niedriger, die in diesem Spielzug durch Kampf zerstört wurden, als Spezialbeschwörung von deinem Deck.
   es: |-
-    Durante la End Phase de cada turno, selecciona un número de Monstruos Normales de Nivel 2 o inferior de tu Deck igual al número de tus Monstruos Normales de Nivel 2 o inferior destruidos como resultado de una batalla durante ese turno, e Invócalos mediante una Invocación Especial a tu Campo. Luego baraja tu Deck.
+    Una vez por turno, durante la End Phase, si tu o tus Monstruos Normales de Nivel 2 o menor fueron destruidos en batalla este turno: Invoca de Modo Especial Monstruos Normales de Nivel 2 o menor desde tu Deck igual al número de tus Monstruos Normales de Nivel 2 o menor destruidos en batalla este turno.
   fr: |-
-    Durant la End Phase de chaque tour, sélectionnez dans votre Deck un nombre de Monstres Normaux de Niveau 2 ou moins égal au nombre de vos Monstres Normaux de Niveau 2 ou moins détruits à l'issue du combat durant ce tour et Invoquez les par Invocation Spéciale sur votre Terrain. Mélangez ensuite votre Deck.
+    Une fois par tour, durant la End Phase, si un ou plusieurs de vos Monstres Normaux de max. Niveau 2 ont été détruits au combat ce tour : Invoquez Spécialement un nombre de Monstres Normaux de max. Niveau 2 depuis votre Deck, égal au nombre de vos Monstres Normaux de max. Niveau 2 détruits au combat ce tour.
   it: |-
-    Durante l'End Phase di ogni turno, scegli un numero di Mostri Normali di Livello 2 o inferiore dal tuo Deck pari al numero di Mostri Normali di Livello 2 o inferiore distrutti in seguito ad una battaglia durante quel turno, ed Evocali tramite Evocazione Speciale sul tuo Terreno. Dopo di che, mischia il Deck.
+    Una volta per turno, durante la End Phase, se uno o più tuoi Mostri Normali di Livello 2 o inferiore sono stati distrutti in battaglia in questo turno: Evoca Specialmente Mostri Normali di Livello 2 o inferiore dal tuo Deck, pari al numero dei tuoi Mostri Normali di Livello 2 o inferiore distrutti in battaglia in questo turno.
   pt: |-
-    Durante a End Phase de cada turno, escolha um número de Monstros Normais de Nível 2 ou menos do seu Deck, igual ao número de Monstros Normais de Nível 2 ou menos destruídos como resultado de um combate durante esse turno, e Invoque-os, por Invocação Especial, no seu Campo. Em seguida, embaralhe o Deck.
+    Uma vez por turno, durante a Fase Final, se um ou mais dos seus Monstros Normais de Nível 2 ou menos foram destruídos em batalha neste turno: Invoque por Invocação-Especial Monstros Normais de Nível 2 ou menos do seu Deck, igual ao número dos seus Monstros Normais de Nível 2 ou menos destruídos em batalha neste turno.
   ja: |-
     各ターンのエンドフェイズ時、そのターン戦闘によって破壊された自分のレベル２以下の通常モンスターの数だけ、デッキからレベル２以下の通常モンスターを選択して自分フィールド上に特殊召喚する。その後デッキをシャッフルする。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: HumanWaveTactics-DR2-EN-C-UE.png
+  image: HumanWaveTactics-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR2-EN217
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: SGX3-ENI36
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: AST-104
@@ -57,6 +61,10 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: SGX3-DEI36
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: AST-FR104
     set_name: Ancient Sanctuary
@@ -64,6 +72,10 @@ sets:
     - Common
   - set_number: DR2-FR217
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: SGX3-FRI36
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: SGX3-ITI36
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: AST-PT104
     set_name: Ancient Sanctuary
+    rarities:
+    - Common
+  - set_number: SGX3-PTI36
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -101,4 +121,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 16499

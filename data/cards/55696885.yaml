@@ -19,7 +19,7 @@ text:
   de: |-
     Einmal pro Spielzug: Du kannst die ATK dieser Karte bis zum Ende dieses Spielzugs zum Doppelten ihrer Grund-ATK werden lassen. Einmal pro Spielzug, während der End Phase, falls dieser Effekt aktiviert wurde: Zerstöre diese Karte.
   es: |-
-    Una vez por turno: puedes hacer que el ATK de esta carta se convierta en el doble de su ATK original, hasta el final de este turno. Una vez por turno, durante la End Phase, si este efecto de esta carta fue activado: destruye esta carta.
+    Una vez por turno: puedes hacer que el ATK de esta carta se convierta en el doble de su ATK original hasta el final de este turno. Una vez por turno, durante la End Phase, si este efecto fue activado: destruye esta carta.
   fr: |-
     Une fois par tour : jusqu'à la fin de ce tour, vous pouvez faire devenir l'ATK de cette carte le double de son ATK d'origine. Une fois par tour, durant la End Phase, si cet effet a été activé : détruisez cette carte.
   it: |-
@@ -41,7 +41,7 @@ atk: 1000
 def: 1000
 images:
 - index: 1
-  image: PlagueWolf-SR06-EN-C-1E.png
+  image: PlagueWolf-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: FOTB-EN065
@@ -58,6 +58,10 @@ sets:
     - Common
   - set_number: SR06-EN016
     set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: SGX3-ENC11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -77,6 +81,10 @@ sets:
     set_name: 'Structure Deck: Lair of Darkness'
     rarities:
     - Common
+  - set_number: SGX3-DEC11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: FOTB-FR065
     set_name: Force of the Breaker
@@ -92,6 +100,10 @@ sets:
     - Common
   - set_number: SR06-FR016
     set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: SGX3-FRC11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -111,6 +123,10 @@ sets:
     set_name: 'Structure Deck: Lair of Darkness'
     rarities:
     - Common
+  - set_number: SGX3-ITC11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LCJW-PT200
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
@@ -118,6 +134,10 @@ sets:
     - Common
   - set_number: SR06-PT016
     set_name: 'Structure Deck: Lair of Darkness'
+    rarities:
+    - Common
+  - set_number: SGX3-PTC11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -141,4 +161,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 20387

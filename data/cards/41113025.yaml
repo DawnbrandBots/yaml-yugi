@@ -15,17 +15,17 @@ name:
   zh-CN: 圆盘骑手
 text:
   en: |-
-    Once per turn: You can target 1 Normal Trap Card in your Graveyard; banish that target, and if you do, this card gains 500 ATK until the end of your opponent's turn.
+    Once per turn: You can target 1 Normal Trap in your GY; banish that target, and if you do, this card gains 500 ATK until the end of your opponent's turn.
   de: |-
-    Einmal pro Spielzug kannst du 1 Normale Fallenkarte in deinem Friedhof aus dem Spiel entfernen. Diese Karte erhält bis zur End Phase des Spielzugs deines Gegners 500 ATK.
+    Einmal pro Spielzug: Du kannst 1 Normale Falle in deinem Friedhof wählen; verbanne jenes gewählte Ziel und falls du dies tust, erhält diese Karte bis zum Ende des Spielzugs deines Gegners 500 ATK.
   es: |-
-    Una vez por turno: puedes seleccionar 1 Carta de Trampa Normal en tu Cementerio; destierra ese objetivo y, si lo haces, esta carta gana 500 ATK hasta el final del turno de tu adversario.
+    Una vez por turno: puedes seleccionar 1 Trampa Normal en tu Cementerio; destierra ese objetivo y, si lo haces, esta carta gana 500 ATK hasta el final del turno de tu adversario.
   fr: |-
-    Une fois par tour : vous pouvez cibler 1 Carte Piège Normal dans votre Cimetière ; bannissez la cible, et si vous le faites, jusqu'à la fin du tour de votre adversaire, cette carte gagne 500 ATK.
+    Une fois par tour : vous pouvez cibler 1 Piège Normal dans votre Cimetière ; bannissez la cible, et si vous le faites, cette carte gagne 500 ATK jusqu'à la fin du tour de votre adversaire.
   it: |-
-    Una volta per turno: puoi scegliere come bersaglio 1 Carta Trappola Normale dal tuo Cimitero; bandisci quel bersaglio e, se lo fai, questa carta guadagna 500 ATK fino alla fine del turno del tuo avversario.
+    Una volta per turno: puoi scegliere come bersaglio 1 Trappola Normale nel tuo Cimitero; bandisci quel bersaglio e, se lo fai, questa carta guadagna 500 ATK fino alla fine del turno del tuo avversario.
   pt: |-
-    Uma vez por turno: você pode escolher 1 Card de Armadilha Normal no seu Cemitério; bana o alvo e, se isso acontecer, este card ganha 500 de ATK até o final do turno do seu oponente.
+    Uma vez por turno: você pode escolher 1 Armadilha Normal no seu Cemitério; bana o alvo e, se isso acontecer, este card ganha 500 de ATK até o final do turno do seu oponente.
   ja: |-
     １ターンに１度、自分の墓地の通常罠カード１枚を選択して発動できる。選択したカードをゲームから除外し、このカードの攻撃力を相手のエンドフェイズ時まで５００ポイントアップする。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Rider
 images:
 - index: 1
-  image: DiskbladeRider-BP03-EN-R-1E.png
+  image: DiskbladeRider-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: LODT-EN035
@@ -55,6 +55,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-ENF05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: LODT-DE035
     set_name: Light of Destruction
@@ -65,6 +69,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-DEF05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: LODT-FR035
     set_name: Light of Destruction
@@ -75,6 +83,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-FRF05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: LODT-IT035
     set_name: Light of Destruction
@@ -85,12 +97,20 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-ITF05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: BP03-PT043
     set_name: 'Battle Pack 3: Monster League'
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-PTF05
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: LODT-JP035
     set_name: Light of Destruction
@@ -108,4 +128,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 80396

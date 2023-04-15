@@ -15,17 +15,17 @@ name:
   zh-CN: 二重魔法
 text:
   en: |-
-    Discard 1 Spell Card, then target 1 Spell Card in your opponent's Graveyard; place that target in the appropriate Zone on your side of the field, and as this card's effect resolution, follow its card text as if you had used it yourself.
+    Discard 1 Spell, then target 1 Spell in your opponent's GY; place that target in the appropriate Zone on your field, and as this card's effect resolution, follow its card text as if you had used it yourself.
   de: |-
-    Wirf 1 Zauberkarte ab, dann wähle 1 Zauberkarte im Friedhof deines Gegners; lege das gewählte Ziel in die entsprechende Zone auf deiner Spielfeldseite und folge beim Auflösen des Effekts dieser Karte seinem Kartentext, als ob du es selbst verwendet hättest.
+    Wirf 1 Zauber ab und wähle dann 1 Zauber im Friedhof deines Gegners; lege jenes gewählte Ziel in die geeignete Zone auf deiner Spielfeldseite und folge als Auflösung des Effekts dieser Karte seinem Kartentext, als ob du es selbst verwendet hättest.
   es: |-
-    Descarta 1 Carta Mágica, y después selecciona 1 Carta Mágica en el Cementerio de tu adversario; pon ese objetivo en la Zona apropiada en tu lado del campo, y como resolución del efecto de esta carta, sigue el texto de la carta seleccionada como si la hubieras usado tú.
+    Descarta 1 Mágica, y después selecciona 1 Mágica en el Cementerio de tu adversario; pon ese objetivo en la zona apropiada en tu Campo y, como resolución del efecto de esta carta, sigue el texto de la carta seleccionada como si la hubieras usado tú.
   fr: |-
-    Défaussez 1 Carte Magie, puis ciblez 1 Carte Magie dans le Cimetière de votre adversaire ; placez cette cible dans la Zone appropriée de votre côté du Terrain, et comme résolution d'effet de cette carte, suivez le texte de la carte cible comme si vous l'aviez utilisée vous-même.
+    Défaussez 1 Magie, puis ciblez 1 Magie dans le Cimetière de votre adversaire ; placez la cible dans la zone appropriée sur votre Terrain, et comme résolution de l'effet de cette carte, suivez son texte de carte comme si vous l'aviez utilisée vous-même.
   it: |-
-    Scarta 1 Carta Magia, poi scegli come bersaglio 1 Carta Magia nel Cimitero del tuo avversario; metti quel bersaglio nella Zona appropriata sul tuo Terreno, e come risoluzione dell'effetto di questa carta, segui il testo di quella carta come se l'avessi utilizzata tu.
+    Scarta 1 Magia, poi scegli come bersaglio 1 Magia nel Cimitero del tuo avversario; metti quel bersaglio nella zona appropriata sul tuo Terreno e, come risoluzione dell'effetto di questa carta, segui il testo di quella carta come se l'avessi utilizzata tu.
   pt: |-
-    Descarte 1 Card de Magia e, depois, escolha 1 Card de Magia no Cemitério do seu oponente; coloque o alvo na Zona apropriada no seu lado do campo e como resolução do efeito deste card, siga o texto desse card como se você o tivesse usado você mesmo.
+    Descarte 1 Magia e, depois, escolha 1 Magia no Cemitério do seu oponente; coloque o alvo na zona apropriada no seu campo e, como parte da resolução deste efeito de card, siga seu texto do card como se você o tivesse usado.
   ja: |-
     手札から魔法カード１枚を捨て、相手の墓地の魔法カード１枚を選択して発動できる。選択した魔法カードを自分フィールド上の正しいカードゾーンに置き、使用する。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: DoubleSpell-YGLD-EN-C-1E.png
+  image: DoubleSpell-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN161
@@ -50,6 +50,10 @@ sets:
     - Super Rare
   - set_number: YGLD-ENB23
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: SGX3-ENE17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MFC-106
@@ -69,6 +73,10 @@ sets:
     set_name: Yugi's Legendary Decks
     rarities:
     - Common
+  - set_number: SGX3-DEE17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR161
     set_name: Dark Revelation Volume 1
@@ -80,6 +88,10 @@ sets:
     - Super Rare
   - set_number: YGLD-FRB23
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: SGX3-FRE17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -95,6 +107,10 @@ sets:
     set_name: Yugi's Legendary Decks
     rarities:
     - Common
+  - set_number: SGX3-ITE17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT161
     set_name: Dark Revelation Volume 1
@@ -102,6 +118,10 @@ sets:
     - Ultra Rare
   - set_number: YGLD-PTB23
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: SGX3-PTE17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -133,4 +153,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 4101

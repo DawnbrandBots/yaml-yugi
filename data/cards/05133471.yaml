@@ -19,13 +19,13 @@ text:
   de: |-
     Wähle 1 gesetzte/n Zauber/Falle auf dem Spielfeld; zerstöre ihn oder sie. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offene/n Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie. Du kannst diesen Effekt von „Galaxiezyklon“ nur einmal pro Spielzug verwenden.
   es: |-
-    Selecciona 1 Mágica/Trampa Colocada en el Campo; destrúyela. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Mágica/Trampa boca arriba en el Campo; destrúyela. Sólo puedes usar este efecto de "Ciclón de la Galaxia" una vez por turno.
+    Selecciona 1 Mágica/Trampa Colocada en el Campo; destrúyela. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Mágica/Trampa boca arriba en el Campo; destrúyela. Sólo puedes usar este efecto de "Ciclón de la Galaxia" una vez por turno.
   fr: |-
     Ciblez 1 Magie/Piège Posé sur le Terrain ; détruisez-le. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Magie/Piège face recto sur le Terrain ; détruisez-le. Vous ne pouvez utiliser cet effet de "Cyclone Galactique" qu'une fois par tour.
   it: |-
     Scegli come bersaglio 1 Magia/Trappola Posizionata sul Terreno; distruggila. Durante la tua Main Phase, eccetto nel turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Magia/Trappola scoperta sul Terreno; distruggila. Puoi utilizzare questo effetto di "Cyclone Galattico" una sola volta per turno.
   pt: |-
-    Escolha 1 Magia/Armadilha Baixada no campo; destrua-o. Durante sua Fase Principal, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério e, depois, escolha 1 Magia/Armadilha com a face para cima no campo; destrua-o. Você só pode usar este efeito de "Ciclone das Galáxias" uma vez por turno.
+    Escolha 1 Magia/Armadilha Baixada no campo; destrua-a. Durante sua Fase Principal, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério e, depois, escolha 1 Magia/Armadilha com a face para cima no campo; destrua-a. Você só pode usar este efeito de "Ciclone das Galáxias" uma vez por turno.
   ja: |-
     このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドにセットされた魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。②：墓地のこのカードを除外し、フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。この効果はこのカードが墓地へ送られたターンには発動できない。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Galaxy
 images:
 - index: 1
-  image: GalaxyCyclone-SESL-EN-SR-1E.png
+  image: GalaxyCyclone-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CROS-EN062
@@ -62,6 +62,10 @@ sets:
     set_name: Secret Slayers
     rarities:
     - Super Rare
+  - set_number: SGX3-ENF15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: CROS-DE062
     set_name: Crossed Souls
@@ -83,6 +87,10 @@ sets:
     set_name: Secret Slayers
     rarities:
     - Super Rare
+  - set_number: SGX3-DEF15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CROS-FR062
     set_name: Crossed Souls
@@ -104,6 +112,10 @@ sets:
     set_name: Secret Slayers
     rarities:
     - Super Rare
+  - set_number: SGX3-FRF15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: CROS-IT062
     set_name: Crossed Souls
@@ -125,6 +137,10 @@ sets:
     set_name: Secret Slayers
     rarities:
     - Super Rare
+  - set_number: SGX3-ITF15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: CROS-PT062
     set_name: Crossed Souls
@@ -146,6 +162,10 @@ sets:
     set_name: Secret Slayers
     rarities:
     - Super Rare
+  - set_number: SGX3-PTF15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: CROS-JP062
     set_name: Crossed Souls
@@ -185,4 +205,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 387477

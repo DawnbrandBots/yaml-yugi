@@ -15,17 +15,17 @@ name:
   zh-CN: 龙之尖兵
 text:
   en: |-
-    You can send 1 Dragon-Type monster from your hand to the Graveyard; this card gains 300 ATK. When this card you control is sent to your Graveyard by your opponent's card effect: You can target 1 Dragon-Type Normal Monster in either player's Graveyard; Special Summon that target.
+    You can send 1 Dragon monster from your hand to the GY; this card gains 300 ATK. When this card you control is sent to your GY by an opponent's card effect: You can target 1 Dragon Normal Monster in either GY; Special Summon that target.
   de: |-
-    Du kannst 1 Monster vom Typ Drache von deiner Hand auf den Friedhof legen; diese Karte erhält 300 ATK. Wenn diese Karte, die du kontrollierst, durch einen Karteneffekt deines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 Normales Monster vom Typ Drache im Friedhof eines beliebigen Spielers wählen; beschwöre das gewählte Ziel als Spezialbeschwörung.
+    Du kannst 1 Drache-Monster von deiner Hand auf den Friedhof legen; diese Karte erhält 300 ATK. Wenn diese Karte, die du kontrollierst, durch einen Karteneffekt eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 Normales Drache-Monster in einem beliebigen Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.
   es: |-
-    Puedes mandar al Cementerio 1 monstruo de Tipo Dragón en tu mano; esta carta gana 300 ATK. Cuando esta carta que controlas es mandada a tu Cementerio por el efecto de una carta de tu adversario: puedes seleccionar 1 Monstruo Normal de Tipo Dragón en el Cementerio de cualquier jugador; Invoca ese objetivo de Modo Especial.
+    Puedes mandar al Cementerio 1 monstruo Dragón en tu mano; esta carta gana 300 ATK. Cuando esta carta que controlas es mandada a tu Cementerio por efecto de una carta del adversario: puedes seleccionar 1 Monstruo Normal Dragón en cualquier Cementerio; Invoca ese objetivo de Modo Especial.
   fr: |-
-    Vous pouvez envoyer 1 monstre de Type Dragon depuis votre main au Cimetière ; cette carte gagne 300 ATK. Lorsque cette carte que vous contrôlez est envoyée à votre Cimetière par un effet de carte de votre adversaire : vous pouvez cibler 1 Monstre Normal de Type Dragon dans l'un des Cimetières ; Invoquez Spécialement la cible.
+    Vous pouvez envoyer 1 monstre Dragon depuis votre main au Cimetière ; cette carte gagne 300 ATK. Lorsque cette carte que vous contrôlez est envoyée à votre Cimetière par un effet de carte de l'adversaire : vous pouvez cibler 1 Monstre Normal Dragon dans l'un des Cimetières ; Invoquez Spécialement la cible.
   it: |-
-    Puoi mandare 1 mostro di Tipo Drago dalla tua mano al Cimitero; questa carta guadagna 300 ATK. Quando questa carta che controlli viene mandata al tuo Cimitero dall'effetto di una carta del tuo avversario: puoi scegliere come bersaglio 1 Mostro Normale di Tipo Drago nel Cimitero di qualsiasi giocatore; Evoca Specialmente quel bersaglio.
+    Puoi mandare 1 mostro Drago dalla tua mano al Cimitero; questa carta guadagna 300 ATK. Quando questa carta che controlli viene mandata al tuo Cimitero dall'effetto di una carta dell'avversario: puoi scegliere come bersaglio 1 Mostro Normale Drago in qualsiasi Cimitero; Evoca Specialmente quel bersaglio.
   pt: |-
-    Você pode enviar 1 monstro do Tipo Dragão da sua mão para o Cemitério; este card ganha 300 de ATK. Quando este card que você controla for enviado para o seu Cemitério por um efeito de card do oponente: você pode escolher 1 Monstro Normal do Tipo Dragão no Cemitério de qualquer duelista; Invoque o alvo por Invocação-Especial.
+    Você pode enviar 1 monstro Dragão da sua mão para o Cemitério; este card ganha 300 de ATK. Quando este card que você controla for enviado para o seu Cemitério por um efeito de card do oponente: você pode escolher 1 Monstro Normal Dragão em qualquer Cemitério; Invoque o alvo por Invocação-Especial.
   ja: |-
     ①：手札からドラゴン族モンスター１体を墓地へ送って発動できる。このカードの攻撃力は３００アップする。②：フィールドのこのカードが相手の効果で墓地へ送られた時、自分または相手の墓地のドラゴン族の通常モンスター１体を対象として発動できる。そのドラゴン族モンスターを特殊召喚する。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1700
 def: 1300
 images:
 - index: 1
-  image: VanguardoftheDragon-BP03-EN-R-1E.png
+  image: VanguardoftheDragon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: RGBT-EN038
@@ -57,6 +57,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-ENB11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: RGBT-DE038
     set_name: Raging Battle
@@ -71,6 +75,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-DEB11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: RGBT-FR038
     set_name: Raging Battle
@@ -85,6 +93,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-FRB11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: RGBT-IT038
     set_name: Raging Battle
@@ -99,6 +111,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-ITB11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: YSKR-PT025
     set_name: 'Starter Deck: Kaiba Reloaded'
@@ -109,6 +125,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: SGX3-PTB11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: RGBT-JP038
     set_name: Raging Battle
@@ -130,4 +150,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 59029

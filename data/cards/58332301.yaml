@@ -54,7 +54,7 @@ series:
 - HERO
 images:
 - index: 1
-  image: EvilHERODarkGaia-LDS3-EN-C-1E.png
+  image: EvilHERODarkGaia-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN040
@@ -71,6 +71,10 @@ sets:
     - Super Rare
   - set_number: LDS3-EN029
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-ENA24
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -90,6 +94,10 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-DEA24
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR040
     set_name: Gladiator's Assault
@@ -101,6 +109,10 @@ sets:
     - Common
   - set_number: LDS3-FR029
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-FRA24
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -120,9 +132,17 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-ITA24
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LDS3-PT029
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-PTA24
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -154,4 +174,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 536399

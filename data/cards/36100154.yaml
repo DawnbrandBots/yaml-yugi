@@ -6,7 +6,7 @@ name:
   es: Espíritu de Lucha Amazoness
   fr: Combativité Amazonesse
   it: Spirito Combattente Amazoness
-  pt:
+  pt: Espírito Lutador de Amazoness
   ja: アマゾネスの<ruby>闘<rt>とう</rt></ruby><ruby>志<rt>し</rt></ruby>
   ja_romaji: Amazonesu no Tōshi
   ko: 아마조네스의 투지
@@ -15,16 +15,17 @@ name:
   zh-CN: 亚马逊的斗志
 text:
   en: |-
-    If an "Amazoness" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.
+    If your "Amazoness" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.
   de: |-
-    Falls ein „Amazonisch“-Monster ein Monster mit höheren ATK angreift, erhält das angreifende Monster nur während der Schadensberechnung 1000 ATK.
+    Falls dein „Amazonisch“-Monster ein Monster mit höheren ATK angreift, erhält das angreifende Monster nur während der Schadensberechnung 1000 ATK.
   es: |-
-    Si un monstruo "Amazoness" ataca a un monstruo con mayor ATK, el monstruo atacante gana 1000 ATK sólo durante el cálculo de daño.
+    Si tu monstruo "Amazoness" ataca un monstruo con mayor ATK, el monstruo atacante gana 1000 ATK sólo durante el cálculo de daño.
   fr: |-
-    Si un monstre "Amazonesse" attaque un monstre avec une plus grande ATK, le monstre attaquant gagne 1000 points d'ATK durant le calcul des dommages uniquement.
+    Si votre monstre "Amazonesse" attaque un monstre avec une ATK supérieure, le monstre attaquant gagne 1000 ATK durant le calcul des dommages uniquement.
   it: |-
-    Se un mostro "Amazoness" attacca un mostro con ATK più alto, il mostro attaccante guadagna 1000 ATK solo durante il calcolo dei danni.
-  pt:
+    Se un tuo mostro "Amazoness" attacca un mostro con ATK più alto, il mostro attaccante guadagna 1000 ATK solamente durante il calcolo dei danni.
+  pt: |-
+    Se um monstro "Amazoness" seu atacar um monstro com maior ATK, o monstro atacante ganha 1000 de ATK apenas durante o cálculo de dano.
   ja: |-
     「アマゾネス」と名のついたモンスターが、その攻撃力よりも高い攻撃力を持つモンスターを攻撃する場合、ダメージ計算時のみ攻撃モンスターの攻撃力は１０００ポイントアップする。
   ko: |-
@@ -38,11 +39,15 @@ series:
 - Amazoness
 images:
 - index: 1
-  image: AmazonessFightingSpirit-DREV-EN-C-1E.jpg
+  image: AmazonessFightingSpirit-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DREV-EN054
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  - set_number: SGX3-END14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -50,14 +55,31 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Common
+  - set_number: SGX3-DED14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DREV-FR054
     set_name: Duelist Revolution
     rarities:
     - Common
+  - set_number: SGX3-FRD14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DREV-IT054
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  - set_number: SGX3-ITD14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTD14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -73,4 +95,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 123493

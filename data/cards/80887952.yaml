@@ -6,7 +6,7 @@ name:
   es: Helios Dúo Megistus
   fr: Duo Hélios Megistus
   it: Helios Duo Megistos
-  pt:
+  pt: Hélios Dismegisto
   ja: ヘリオス・デュオ・メギストス
   ja_romaji: Heriosu Dyuo Megisutosu
   ko: 헬리오스 듀오 메기스트스
@@ -15,16 +15,17 @@ name:
   zh-CN: 双子太阳 赫利俄斯
 text:
   en: |-
-    You can Special Summon this card by Tributing 1 "Helios - The Primordial Sun". This card's ATK and DEF are equal to the number of removed from play monsters x 200. If this card is destroyed by battle and sent to the Graveyard, Special Summon it during the End Phase, and it gains 300 ATK and DEF.
+    You can Special Summon this card (from your hand) by Tributing 1 "Helios - The Primordial Sun". This card's ATK/DEF become the number of banished monsters x 200. During the End Phase, if this card is in the GY because it was destroyed by battle and sent there this turn: You can Special Summon this card, and it gains 300 ATK/DEF.
   de: |-
-    Diese Karte kann als Spezialbeschwörung beschworen werden, indem du 1 "Helios - Die ursprüngliche Sonne" von deiner Spielfeldseite als Tribut anbietest. Die ATK und DEF dieser Karte werden zur Anzahl der aus dem Spiel entfernten Monster x 200 Punkte. Falls diese Karte als Ergebnis eines Kampfes zerstört und auf den Friedhof gelegt wird, wird diese Karte während der End Phase als Spezialbeschwörung beschworen mit den ATK und DEF um 300 Punkte erhöht.
+    Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 „Helios - Die ursprüngliche Sonne“ als Tribut anbietest. Die ATK/DEF dieser Karte werden gleich der Anzahl der verbannten Monster x 200. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug durch Kampf zerstört und dorthin gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören und sie erhält 300 ATK/DEF.
   es: |-
-    Esta carta puede ser Invocada mediante una Invocación Especial Sacrificando 1 "Helios - El Sol Primordial" en tu Campo. El ATK y la DEF de esta carta se convierte en el número de monstruos que hayan sido retirados del juego x 200 puntos. Si esta carta es destruida como resultado de una batalla y mandada al Cementerio, esta carta es Invocada mediante una Invocación Especial durante la End Phase, aumentando su ATK y DEF en 300 puntos.
+    Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 1 "Helios - El Sol Primordial". El ATK/DEF de esta carta se convierten en el número de monstruos desterrados x 200. Durante la End Phase, si esta carta está en el Cementerio porque fue destruida en batalla y mandada allí este turno: puedes Invocar esta carta de Modo Especial y ésta gana 300 ATK/DEF.
   fr: |-
-    Cette carte peut être Invoquée par Invocation Spéciale en sacrifiant 1 "Hélios, le Soleil Primordial" sur votre Terrain. L'ATK et la DEF de cette carte deviennent le nombre de monstres retirés du jeu x 200 points. Si cette carte est détruite à l'issue d'un combat et envoyée au Cimetière, cette carte sera Invoquée par Invocation Spéciale durant la End Phase, en augmentant son ATK et sa DEF de 300 points.
+    Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 "Hélios, le Soleil Primordial". L'ATK/DEF de cette carte deviennent le nombre de monstres bannis x 200. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite au combat et y a été envoyée ce tour : vous pouvez Invoquer Spécialement cette carte, et elle gagne 300 ATK/DEF.
   it: |-
-    Questa carta può essere Evocata tramite Evocazione Speciale offrendo come tributo 1 "Helios - Il Sole Primordiale" sul tuo Terreno. L'ATK e il DEF di questo mostro diventano il numero di mostri rimossi dal gioco x 200 punti. Se questa carta viene distrutta in seguito ad una battaglia e mandata al Cimitero, questa carta viene Evocata tramite Evocazione Speciale durante l' End Phase, aumentando l'ATK e il DEF di 300 punti.
-  pt:
+    Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 1 "Helios - Il Sole Primordiale". Gli ATK/DEF di questa carta diventano il numero di mostri banditi x 200. Durante la End Phase, se questa carta è nel Cimitero perché è stata distrutta in battaglia e mandata lì in questo turno: puoi Evocare Specialmente questa carta, ed essa guadagna 300 ATK/DEF.
+  pt: |-
+    Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 "Hélios - O Sol Primordial". O ATK/DEF deste card se torna o número de monstros banidos x 200. Durante a Fase Final, se este card estiver no Cemitério porque foi destruído em batalha e enviado para lá neste turno: você pode Invocar este card por Invocação-Especial e ele ganha 300 de ATK/DEF.
   ja: |-
     このカードは自分フィールド上の「原始太陽ヘリオス」１体を生け贄に捧げる事で特殊召喚する事ができる。このカードの攻撃力と守備力は、ゲームから除外されているモンスターカードの数×２００ポイントになる。このカードが戦闘によって破壊され墓地へ送られた場合、エンドフェイズ時に攻撃力・守備力を３００ポイントアップさせて特殊召喚される。
   ko: |-
@@ -42,7 +43,7 @@ series:
 - Helios
 images:
 - index: 1
-  image: HeliosDuoMegistus-CP06-EN-R-UE.png
+  image: HeliosDuoMegistus-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: WC6-EN003
@@ -53,6 +54,10 @@ sets:
     set_name: 'Champion Pack: Game Six'
     rarities:
     - Rare
+  - set_number: SGX3-ENI22
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: WC6-DE003
     set_name: 'Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards'
@@ -62,6 +67,10 @@ sets:
     set_name: 'Champion Pack: Game Six'
     rarities:
     - Rare
+  - set_number: SGX3-DEI22
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: WC6-FR003
     set_name: 'Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards'
@@ -71,6 +80,10 @@ sets:
     set_name: 'Champion Pack: Game Six'
     rarities:
     - Rare
+  - set_number: SGX3-FRI22
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: WC6-IT003
     set_name: 'Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards'
@@ -80,6 +93,15 @@ sets:
     set_name: 'Champion Pack: Game Six'
     rarities:
     - Rare
+  - set_number: SGX3-ITI22
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTI22
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: E06-JP003
     set_name: 'Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 promotional cards'
@@ -93,4 +115,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 7815

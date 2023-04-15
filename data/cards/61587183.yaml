@@ -15,29 +15,29 @@ name:
   zh-CN: 黑蝎-飞速逃跑的齐克
 text:
   en: |-
-    When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:
+    When this card inflicts battle damage to your opponent: You can activate 1 of these effects.
     ● Target 1 card on the field; return that target to the hand.
-    ● Look at the top card of their Deck, then return it to the top or bottom of the Deck.
+    ● Look at the top card of their Deck, then place it on the top or bottom of the Deck.
   de: |-
-    Wenn diese Karte deinem Gegner Kampfschaden zufügt, kannst du 1 dieser Effekte aktivieren:
-    ●Wähle 1 Karte auf dem Spielfeld; gib das gewählte Ziel auf die Hand zurück.
-    ●Sieh dir die oberste Karte seines Decks an und lege sie dann auf oder unter das Deck zurück.
+    Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 dieser Effekte aktivieren.
+    ● Wähle 1 Karte auf dem Spielfeld; gib jenes gewählte Ziel auf die Hand zurück.
+    ● Sieh dir die oberste Karte seines Decks an, dann lege sie auf oder unter das Deck.
   es: |-
-    Cuando esta carta inflige daño de batalla a tu adversario, puedes activar 1 de estos efectos:
-    ●Selecciona 1 carta en el Campo; devuelve ese objetivo a la mano.
-    ●Mira la carta superior de su Deck, y después devuélvela a la parte superior o la parte inferior del Deck.
+    Cuando esta carta inflige daño de batalla a tu adversario: puedes activar 1 de estos efectos.
+    ● Selecciona 1 carta en el Campo; devuelve ese objetivo a la mano.
+    ● Mira la carta de la parte superior de su Deck, y después ponla en la parte superior o inferior del Deck.
   fr: |-
-    Lorsque cette carte inflige des dommages de combat à votre adversaire, vous pouvez activer 1 de ces effets :
-    ●Ciblez 1 carte sur le Terrain ; renvoyez la cible à la main.
-    ●Regardez la carte du dessus de son Deck, puis renvoyez-la au-dessus ou au-dessous du Deck.
+    Lorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez activer 1 de ces effets.
+    ● Ciblez 1 carte sur le Terrain ; renvoyez la cible à la main.
+    ● Regardez la carte du dessus de son Deck, puis placez-la au-dessus ou au-dessous du Deck.
   it: |-
-    Quando questa carta infligge danno da combattimento al tuo avversario, puoi attivare 1 di questi effetti:
-    ●Scegli come bersaglio 1 carta sul Terreno; fai ritornare quel bersaglio nella mano.
-    ●Guarda la prima carta del suo Deck, poi falla ritornare in cima o in fondo al Deck.
+    Quando questa carta infligge danno da combattimento al tuo avversario: puoi attivare 1 di questi effetti.
+    ● Scegli come bersaglio 1 carta sul Terreno; fai ritornare quel bersaglio nella mano.
+    ● Guarda la prima carta del suo Deck, poi mettila in cima o in fondo al Deck.
   pt: |-
-    Quando este card inflige dano de batalha aos Life Points do seu adversário, você pode escolher e activar 1 dos seguintes efeitos:
-    ● Devolva 1 card no Campo para a mão do seu dono.
-    ● Veja 1 card no topo do Deck do seu adversário (o seu adversário não vê esse card). Em seguida, devolva-o para o topo ou fundo do Deck do seu adversário.
+    Quando este card causar dano de batalha ao seu oponente: você pode ativar 1 desses efeitos.
+    ● Escolha 1 card no campo; devolva o alvo para a mão.
+    ● Olhe o card do topo do Deck dele e, depois, coloque-o no topo ou no fundo do Deck.
   ja: |-
     このカードが相手プレイヤーに戦闘ダメージを与えた時、次の効果から１つを選択して発動する事ができる。
     ●フィールド上のカード１枚を持ち主の手札に戻す。
@@ -61,7 +61,7 @@ series:
 - Dark Scorpion
 images:
 - index: 1
-  image: DarkScorpionChicktheYellow-GLD5-EN-C-LE.png
+  image: DarkScorpionChicktheYellow-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN188
@@ -74,6 +74,10 @@ sets:
     - Common
   - set_number: GLD5-EN010
     set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Common
+  - set_number: SGX3-ENI01
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-026
@@ -93,6 +97,10 @@ sets:
     set_name: 'Gold Series: Haunted Mine'
     rarities:
     - Common
+  - set_number: SGX3-DEI01
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR188
     set_name: Dark Revelation Volume 1
@@ -104,6 +112,10 @@ sets:
     - Common
   - set_number: GLD5-FR010
     set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Common
+  - set_number: SGX3-FRI01
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -119,9 +131,17 @@ sets:
     set_name: 'Gold Series: Haunted Mine'
     rarities:
     - Common
+  - set_number: SGX3-ITI01
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT188
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTI01
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -149,4 +169,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 508193

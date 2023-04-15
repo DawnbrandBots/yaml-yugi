@@ -15,17 +15,17 @@ name:
   zh-CN: 吸血鬼女郎
 text:
   en: |-
-    When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard.
+    If this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the GY.
   de: |-
-    Wenn diese Karte deinem Gegner Kampfschaden zufügt: Benenne 1 Kartentyp (Monster, Zauber oder Falle); dein Gegner legt 1 Karte des benannten Typs von seinem Deck auf den Friedhof.
+    Falls diese Karte deinem Gegner Kampfschaden zufügt: Deklariere 1 Kartentyp (Monster, Zauber oder Falle); dein Gegner legt 1 Karte jenes Typs von seinem Deck auf den Friedhof.
   es: |-
-    Cuando esta carta inflige daño de batalla a tu adversario: declara 1 tipo de carta (Monstruo, Mágica o Trampa); tu adversario manda al Cementerio, desde su Deck, 1 carta de ese tipo.
+    Si esta carta inflige daño de batalla a tu adversario: declara 1 tipo de carta (Monstruo, Mágica o Trampa); tu adversario manda al Cementerio 1 carta de ese tipo en su Deck.
   fr: |-
-    Lorsque cette carte inflige des dommages de combat à votre adversaire : déclarez 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire envoie 1 carte de ce type depuis son Deck au Cimetière.
+    Si cette carte inflige des dommages de combat à votre adversaire : déclarez 1 type de carte (Monstre, Magie ou Piège) ; votre adversaire envoie 1 carte de ce type depuis son Deck au Cimetière.
   it: |-
-    Quando questa carta infligge danno da combattimento al tuo avversario: dichiara 1 tipo di carta (Mostro, Magia o Trappola); il tuo avversario manda 1 carta di quel tipo dal suo Deck al Cimitero.
+    Se questa carta infligge danno da combattimento al tuo avversario: dichiara 1 tipo di carta (Mostro, Magia o Trappola); il tuo avversario manda 1 carta di quel tipo dal suo Deck al Cimitero.
   pt: |-
-    Quando este card causar dano de batalha ao seu oponente: declare 1 tipo de card (Monstro, Magia ou Armadilha); seu oponente envia 1 card desse tipo do Deck dele para o Cemitério.
+    Se este card causar dano de batalha ao seu oponente: declare 1 tipo de card (Monstro, Magia ou Armadilha); seu oponente envia 1 card desse tipo do Deck dele para o Cemitério.
   ja: |-
     このカードが相手プレイヤーに戦闘ダメージを与える度に、カードの種類（モンスター、魔法、罠）を宣言する。相手はデッキからその種類のカード１枚を選択して墓地に送る。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Vampire
 images:
 - index: 1
-  image: VampireLady-LCJW-EN-C-1E.png
+  image: VampireLady-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SD2-EN010
@@ -60,6 +60,10 @@ sets:
     - Common
   - set_number: LCJW-EN196
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-ENC04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: AST-013
@@ -87,6 +91,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-DEC04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: AST-FR013
     set_name: Ancient Sanctuary
@@ -106,6 +114,10 @@ sets:
     - Common
   - set_number: LCJW-FR196
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-FRC04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -129,6 +141,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-ITC04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: AST-PT013
     set_name: Ancient Sanctuary
@@ -140,6 +156,10 @@ sets:
     - Common
   - set_number: LCJW-PT196
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-PTC04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -171,4 +191,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505795

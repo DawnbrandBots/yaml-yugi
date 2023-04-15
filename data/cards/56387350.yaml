@@ -15,17 +15,17 @@ name:
   zh-CN: 吸血鬼婴儿
 text:
   en: |-
-    At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the Graveyard this turn: You can Special Summon that monster to your side of the field.
+    At the end of the Battle Phase, if this card destroyed a monster by battle and sent it to the GY this turn: You can Special Summon that monster to your field.
   de: |-
-    Am Ende der Battle Phase, falls diese Karte in diesem Spielzug ein Monster durch Kampf zerstört und auf den Friedhof gelegt hat: Du kannst das Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören.
+    Am Ende der Battle Phase, falls diese Karte in diesem Spielzug ein Monster durch Kampf zerstört und auf den Friedhof gelegt hat: Du kannst jenes Monster als Spezialbeschwörung auf deine Spielfeldseite beschwören.
   es: |-
-    Al final de la Battle Phase, si este turno esta carta destruyó un monstruo en batalla y lo mandó al Cementerio: puedes Invocar ese monstruo de Modo Especial a tu lado del Campo.
+    Al final de la Battle Phase, si esta carta destruyó un monstruo en batalla y lo mandó al Cementerio este turno: puedes Invocar ese monstruo de Modo Especial a tu Campo.
   fr: |-
     À la fin de la Battle Phase, si cette carte a détruit un monstre au combat et l'a envoyé au Cimetière ce tour : vous pouvez Invoquer Spécialement le monstre sur votre Terrain.
   it: |-
     Alla fine della Battle Phase, se questa carta ha distrutto un mostro in battaglia e l'ha mandato al Cimitero in questo turno: puoi Evocare Specialmente quel mostro sul tuo Terreno.
   pt: |-
-    No final da Fase de Batalha, se este card destruiu um monstro em batalha e o enviou para o Cemitério neste turno: você pode Invocar esse monstro por Invocação-Especial no seu lado do campo.
+    No final da Fase de Batalha, se este card destruiu um monstro em batalha e o enviou para o Cemitério neste turno: você pode Invocar esse monstro por Invocação-Especial no seu campo.
   ja: |-
     このカードが戦闘によってモンスターを破壊したバトルフェイズ終了時、墓地に存在するそのモンスターを自分フィールド上に特殊召喚する事ができる。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Vampire
 images:
 - index: 1
-  image: VampireBaby-LCJW-EN-C-1E.png
+  image: VampireBaby-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DB1-EN200
@@ -60,6 +60,10 @@ sets:
     - Rare
   - set_number: LCJW-EN186
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-ENC02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: PSV-090
@@ -87,6 +91,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-DEC02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F090
     set_name: Pharaoh's Servant
@@ -98,6 +106,10 @@ sets:
     - Rare
   - set_number: LCJW-FR186
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-FRC02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -113,6 +125,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-ITC02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DL16-PT002
     set_name: Duelist League 16 participation cards
@@ -120,6 +136,10 @@ sets:
     - Rare
   - set_number: LCJW-PT186
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-PTC02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -159,4 +179,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 8425

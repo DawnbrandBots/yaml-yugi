@@ -6,7 +6,7 @@ name:
   es: Cloudian - Niebla Fantasma
   fr: Nuagien - Brume de Fantôme
   it: Nubiano - Nebbia Spettrale
-  pt:
+  pt: Nuviano - Nevoeiro Fantasma
   ja: <ruby>雲魔物<rt>クラウディアン</rt></ruby>－ゴースト・フォッグ
   ja_romaji: Kuraudian - Gōsuto Foggu
   ko: 운마물－고스트 포그
@@ -15,16 +15,17 @@ name:
   zh-CN: 云魔物-鬼雾
 text:
   en: |-
-    This card cannot be Special Summoned. All Battle Damage to either player from a battle involving this monster becomes 0. If this card is destroyed by battle, distribute new Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.
+    Cannot be Special Summoned. Neither player takes battle damage from attacks involving this card. If this card is destroyed by battle: Distribute Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.
   de: |-
-    Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Jeglicher Kampfschaden, den ein beliebiger Spieler aus einem Kampf mit diesem Monster erhält, wird zu 0. Falls diese Karte durch Kampf zerstört wird, verteile neue Nebel-Zählmarken in Höhe der Stufe des Monsters, das es zerstört hat, auf offene Monster.
+    Kann nicht als Spezialbeschwörung beschworen werden. Kein Spieler erhält Kampfschaden aus Angriffen, an denen diese Karte beteiligt ist. Falls diese Karte durch Kampf zerstört wird: Verteile Nebel-Zählmarken in Höhe der Stufe des Monsters, das sie zerstört hat, auf offene Monster.
   es: |-
-    Esta carta no puede ser Invocada de Modo Especial. Todo el daño de batalla a cada jugador de una batalla que involucre a este monstruo se transforma en 0. Si esta carta es destruida en batalla, distribuye entre monstruos que estén boca arriba una cantidad de Contadores de Niebla igual al Nivel del monstruo que la destruyó.
+    No puede ser Invocado de Modo Especial. Ningún jugador recibe daño de batalla de ataques que involucren esta carta. Si esta carta es destruida en batalla: distribuye Contadores de Niebla igual al Nivel del monstruo que la destruyó, entre los monstruos boca arriba.
   fr: |-
-    Cette carte ne peut pas être Invoquée Spécialement. Tous les dommages de combat infligés aux joueurs à l'issue d'un combat impliquant cette carte deviennent 0. Si cette carte est détruite au combat, distribuez entre les monstres face recto un nombre de nouveaux Compteurs Brume égal au Niveau du monstre qui a détruit cette carte.
+    Non Invocable Spécialement. Aucun joueur ne reçoit de dommages de combat d'attaques impliquant cette carte. Si cette carte est détruite au combat : distribuez un nombre de Compteurs Brume égal au Niveau du monstre qui l'a détruite parmi les monstres face recto.
   it: |-
-    Questa carta non può essere Evocata tramite Evocazione Speciale. Tutto il danno da combattimento che entrambi i giocatori ricevono da una battaglia che coinvolge questo mostro diventa 0. Se questa carta è distrutta in battaglia, distribuisci un numero di Segnalini Nebbia pari al Livello del mostro che ha distrutto questa carta fra i mostri scoperti.
-  pt:
+    Non può essere Evocato Specialmente. Nessun giocatore subisce danno da combattimento da attacchi che coinvolgono questa carta. Se questa carta viene distrutta in battaglia: distribuisci Segnalini Nebbia pari al Livello del mostro che l'ha distrutto tra i mostri scoperti.
+  pt: |-
+    Não pode ser Invocado por Invocação-Especial. Nenhum duelista sofre dano de batalha dos ataques envolvendo este card. Se este card for destruído em batalha: distribua Marcadores de Névoa igual ao Nível do monstro que o destruiu entre monstros com a face para cima.
   ja: |-
     このカードは特殊召喚できない。このカードの戦闘によって発生するお互いのプレイヤーへの戦闘ダメージは０になる。このカードが戦闘によって破壊された場合、このカードを破壊したモンスターのレベルの数だけフォッグカウンターをフィールド上に表側表示で存在するモンスターに置く。
   ko: |-
@@ -42,11 +43,15 @@ series:
 - Cloudian
 images:
 - index: 1
-  image: CloudianGhostFog-GLAS-EN-C-1E.png
+  image: CloudianGhostFog-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN006
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ENH06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -54,14 +59,31 @@ sets:
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-DEH06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR006
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-FRH06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT006
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ITH06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -77,4 +99,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505281

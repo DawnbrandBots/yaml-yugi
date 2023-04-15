@@ -15,17 +15,17 @@ name:
   zh-CN: 异次元之主
 text:
   en: |-
-    Once per turn, you can discard 1 Spell Card to Special Summon 1 of your removed from play monsters.
+    Once per turn: You can discard 1 Spell, then target 1 of your banished monsters; Special Summon that target.
   de: |-
-    Einmal pro Spielzug kannst du 1 Zauberkarte abwerfen, um 1 deiner aus dem Spiel entfernten Monster als Spezialbeschwörung zu beschwören.
+    Einmal pro Spielzug: Du kannst 1 Zauber abwerfen und dann 1 deiner verbannten Monster wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung.
   es: |-
-    Descarta 1 Carta Mágica de tu mano. Invoca de Modo Especial 1 de tus monstruos que estén actualmente retirados del juego. Sólo puedes activar este efecto una vez por turno, durante tu Main Phase.
+    Una vez por turno: puedes descartar 1 Mágica, y después selecciona 1 de tus monstruos desterrados; Invoca ese objetivo de Modo Especial.
   fr: |-
-    Défaussez 1 Carte Magie de votre main. Faites l'Invocation Spéciale d'1 de vos monstres qui est actuellement retiré du jeu. Cet effet ne peut être activé qu'une fois par tour, durant votre Main Phase.
+    Une fois par tour : vous pouvez défausser 1 Magie, puis ciblez 1 de vos monstres bannis ; Invoquez Spécialement la cible.
   it: |-
-    Una volta per turno, puoi scartare 1 Carta Magia per Evocare tramite Evocazione Speciale 1 dei tuoi mostri rimossi dal gioco.
+    Una volta per turno: puoi scartare 1 Magia, poi scegliere come bersaglio 1 dei tuoi mostri banditi; Evoca Specialmente quel bersaglio.
   pt: |-
-    Descarte um 1 Card de Magia da sua mão. Invoque, por Invocação-Especial, 1 dos seus monstros que esteja removido de jogo. Você só pode ativar este efeito uma vez por turno, durante a sua Main Phase.
+    Uma vez por turno: você pode descartar 1 Magia e, depois, escolha 1 dos seus monstros banidos; Invoque o alvo por Invocação-Especial.
   ja: |-
     手札の魔法カードを１枚捨てる。ゲームから除外された自分が持ち主のモンスター１体を特殊召喚する。この効果は１ターンに１度だけ自分のメインフェイズに発動する事ができる。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - D.D.
 images:
 - index: 1
-  image: DDMDifferentDimensionMaster-SDDE-EN-C-1E.png
+  image: DDMDifferentDimensionMaster-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CRV-EN032
@@ -53,6 +53,10 @@ sets:
     - Ultimate Rare
   - set_number: SDDE-EN015
     set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENF08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DR04-EN032
@@ -69,6 +73,10 @@ sets:
     set_name: The Dark Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEF08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CRV-FR032
     set_name: Cybernetic Revolution
@@ -77,6 +85,10 @@ sets:
     - Ultimate Rare
   - set_number: SDDE-FR015
     set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-FRF08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -89,12 +101,20 @@ sets:
     set_name: The Dark Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-ITF08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: CRV-PT032
     set_name: Cybernetic Revolution
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-PTF08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: CRV-JP032
     set_name: Cybernetic Revolution
@@ -124,4 +144,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 2405

@@ -6,7 +6,7 @@ name:
   es: Cloudian - Altus
   fr: Nuagien - Altus
   it: Nubiano - Altus
-  pt: Nuviano - Altus
+  pt: Nuviano - Altostratus
   ja: <ruby>雲魔物<rt>クラウディアン</rt></ruby>－アルトス
   ja_romaji: Kuraudian Arutosu
   ko: 운마물－알토스
@@ -15,17 +15,17 @@ name:
   zh-CN: 云魔物-高层云
 text:
   en: |-
-    This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each "Cloudian" monster on the field. You can remove 3 Fog Counters from anywhere on the field to discard 1 random card from your opponent's hand.
+    Cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. If this card is Normal Summoned: Place 1 Fog Counter on it for each "Cloudian" monster on the field. You can remove 3 Fog Counters from anywhere on the field; discard 1 random card from your opponent's hand.
   de: |-
-    Diese Karte kann nicht durch Kampf zerstört werden. Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Wenn du diese Karte als Normalbeschwörung beschwörst, lege 1 Nebel-Zählmarke darauf für jedes "Wolkian"-Monster auf dem Spielfeld. Du kannst 3 Nebel-Zählmarken von irgendwo auf dem Spielfeld entfernen, um 1 zufällige Karte von der Hand deines Gegners abzuwerfen.
+    Kann nicht durch Kampf zerstört werden. Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Falls diese Karte als Normalbeschwörung beschworen wird: Lege 1 Nebel-Zählmarke für jedes „Wolkian“-Monster auf dem Spielfeld darauf. Du kannst 3 Nebel-Zählmarken von irgendwo auf dem Spielfeld entfernen; wirf 1 zufällige Karte von der Hand deines Gegners ab.
   es: |-
-    Esta carta no puede ser destruida en batalla. Si esta carta está en Posición de Defensa boca arriba, destrúyela. Cuando Invoques de Modo Normal a esta carta, ponle 1 Contador de Niebla por cada monstruo "Cloudian" en el Campo. Puede retirar 3 Contadores de Niebla de cualquier lugar del Campo para hacer descartar 1 carta al azar de la mano de tu adversario.
+    No puede ser destruido en batalla. Si esta carta está en Posición de Defensa boca arriba, destrúyela. Si esta carta es Invocada de Modo Normal: ponle 1 Contador de Niebla por cada monstruo "Cloudian" en el Campo. Puedes retirar 3 Contadores de Niebla de cualquier lugar del Campo; descarta 1 carta al azar de la mano de tu adversario.
   fr: |-
-    Cette carte ne peut pas être détruite au combat. Si cette carte est en Position de Défense face recto, détruisez-la. Lorsque cette carte est Invoquée Normalement, placez 1 Compteur Brume sur elle pour chaque monstre "Nuagien" sur le Terrain. Vous pouvez retirer 3 Compteurs Brume du Terrain pour défausser 1 carte au hasard de la main de votre adversaire.
+    Non destructible au combat. Si cette carte est en Position de Défense face recto, détruisez-la. Si cette carte est Invoquée Normalement : placez 1 Compteur Brume sur elle pour chaque monstre "Nuagien" sur le Terrain. Vous pouvez retirer 3 Compteurs Brume depuis le Terrain ; défaussez 1 carte au hasard à votre adversaire.
   it: |-
-    Questa carta non può essere distrutta in battaglia. Se questa carta è scoperta in Posizione di Difesa, distruggila. Quando Evochi tramite Evocazione Normale questa carta, metti 1 Segnalino Nebbia su di essa per ogni mostro "Nubiano" presente sul Terreno. Puoi rimuovere 3 Segnalini Nebbia sul Terreno per far scartare una carta a caso al tuo avversario.
+    Non può essere distrutto in battaglia. Se questa carta è scoperta in Posizione di Difesa, distruggila. Se questa carta viene Evocata Normalmente: metti 1 Segnalino Nebbia su di essa per ogni mostro "Nubiano" sul Terreno. Puoi rimuovere 3 Segnalini Nebbia da ovunque sul Terreno; scarta 1 carta a caso dalla mano del tuo avversario.
   pt: |-
-    Este card não pode ser destruído em batalha. Se este card estiver com a face para cima em Posição de Defesa, destrua-o. Quando você Invocar este card por Invocação-Normal, coloque 1 Marcador de Neblina nele para cada monstro "Nuviano" no campo. Você pode remover 3 Marcadores de Neblina de qualquer lugar no campo para descartar aleatoriamente 1 card da mão do seu oponente.
+    Não pode ser destruído em batalha. Se este card estiver com a face para cima em Posição de Defesa, destrua-o. Se este card for Invocado por Invocação-Normal: coloque 1 Marcador de Névoa nele para cada monstro "Nuviano" no campo. Você pode remover 3 Marcadores de Névoa de qualquer parte do campo; descarte 1 card aleatório da mão do seu oponente.
   ja: |-
     このカードは戦闘によって破壊されない。このカードが表側守備表示でフィールド上に存在する場合、このカードを破壊する。このカードの召喚に成功した時、フィールド上に存在する「雲魔物」と名のついたモンスターの数だけこのカードにフォッグカウンターを置く。フィールド上に存在するフォッグカウンターを３つ取り除く事で、相手の手札をランダムに１枚捨てる。
   ko: |-
@@ -43,28 +43,49 @@ series:
 - Cloudian
 images:
 - index: 1
-  image: CloudianAltus-GLAS-EN-R-1E.png
+  image: CloudianAltus-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN012
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-ENH04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: GLAS-DE012
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-DEH04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR012
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-FRH04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT012
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-ITH04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: GLAS-JP012
     set_name: Gladiator's Assault
@@ -78,4 +99,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 536999

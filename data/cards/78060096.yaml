@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     暗黑之海的主人，可怕的巨型大马哈鱼。其卵可是暗黑界第一的美食。
 card_type: Monster
-monster_type_line: Fish
+monster_type_line: Fish / Normal
 attribute: WATER
 level: 5
 atk: 2400
 def: 1000
 images:
 - index: 1
-  image: TerrorkingSalmon-DR2-EN-C-UE.png
+  image: TerrorkingSalmon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: IOC-EN060
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: DR2-EN061
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: SGX3-ENI25
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: IOC-060
@@ -65,6 +69,10 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: SGX3-DEI25
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: IOC-FR060
     set_name: Invasion of Chaos
@@ -72,6 +80,10 @@ sets:
     - Common
   - set_number: DR2-FR061
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: SGX3-FRI25
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -83,9 +95,17 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: SGX3-ITI25
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: OP20-PT028
     set_name: OTS Tournament Pack 20
+    rarities:
+    - Common
+  - set_number: SGX3-PTI25
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -113,4 +133,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 1794

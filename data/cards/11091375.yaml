@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     全身都被蓝宝石覆盖着，异常美丽的龙。虽然不喜欢竞争。但却具备着非常高的攻击力。
 card_type: Monster
-monster_type_line: Dragon
+monster_type_line: Dragon / Normal
 attribute: WIND
 level: 4
 atk: 1900
@@ -43,7 +43,7 @@ series:
 - Gem Dragon
 images:
 - index: 1
-  image: LusterDragon-SDKS-EN-C-1E.png
+  image: LusterDragon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: TP5-EN004
@@ -86,6 +86,10 @@ sets:
     - Common
   - set_number: SDKS-EN019
     set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: SGX3-ENB03
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MFC-058
@@ -135,6 +139,10 @@ sets:
     set_name: 'Structure Deck: Seto Kaiba'
     rarities:
     - Common
+  - set_number: SGX3-DEB03
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: TP5-FR004
     set_name: Tournament Pack 5
@@ -176,6 +184,10 @@ sets:
     - Common
   - set_number: SDKS-FR019
     set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: SGX3-FRB03
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -221,6 +233,10 @@ sets:
     set_name: 'Structure Deck: Seto Kaiba'
     rarities:
     - Common
+  - set_number: SGX3-ITB03
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SD1-PT003
     set_name: "Structure Deck: Dragon's Roar"
@@ -249,6 +265,10 @@ sets:
     - Common
   - set_number: SDKS-PT019
     set_name: 'Structure Deck: Seto Kaiba'
+    rarities:
+    - Common
+  - set_number: SGX3-PTB03
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -304,4 +324,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 2918

@@ -6,7 +6,7 @@ name:
   es: Chillido Cloudian
   fr: Bourrasque Nuagien
   it: Acquazzone Nubiano
-  pt: Aguaceiro Nuviano
+  pt: Ventania Nuviana
   ja: <ruby>雲魔物のスコール<rt>クラウディアン・スコール</rt></ruby>
   ja_romaji: Kuraudian Sukōru
   ko: 운마물의 스콜
@@ -15,17 +15,17 @@ name:
   zh-CN: 云魔物的阵雨
 text:
   en: |-
-    During each of your Standby Phases, place 1 Fog Counter on every face-up monster.
+    Once per turn, during your Standby Phase: Place 1 Fog Counter on each face-up monster on the field.
   de: |-
-    Während jeder deiner Standby Phasen, lege 1 Nebel-Zählmarke auf jedes offene Monster.
+    Einmal pro Spielzug, während deiner Standby Phase: Lege 1 Nebel-Zählmarke auf jedes offene Monster auf dem Spielfeld.
   es: |-
-    Durante cada una de tus Standby Phases, pon 1 Contador de Niebla en cada monstruo boca arriba.
+    Una vez por turno, durante tu Standby Phase: pon 1 Contador de Niebla en cada monstruo boca arriba en el Campo.
   fr: |-
-    Durant chacune de vos Standby Phases, placez 1 Compteur Brume sur chaque monstre face recto.
+    Une fois par tour, durant votre Standby Phase : placez 1 Compteur Brume sur chaque monstre face recto sur le Terrain.
   it: |-
-    Durante ogni tua Standby Phase, metti 1 Segnalino Nebbia su ogni mostro scoperto.
+    Una volta per turno, durante la tua Standby Phase: metti 1 Segnalino Nebbia su ogni mostro scoperto sul Terreno.
   pt: |-
-    Durante cada uma das suas Fases de Apoio, coloque 1 Marcador de Neblina em cada monstro com a face para cima.
+    Uma vez por turno, durante sua Fase de Apoio: coloque 1 Marcador de Névoa em cada monstro com a face para cima no campo.
   ja: |-
     自分のスタンバイフェイズ毎にフィールド上に表側表示で存在する全てのモンスターに、フォッグカウンターを１つ置く。
   ko: |-
@@ -39,11 +39,15 @@ series:
 - Cloudian
 images:
 - index: 1
-  image: CloudianSquall-GLAS-EN-C-1E.png
+  image: CloudianSquall-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN052
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ENH14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -51,14 +55,31 @@ sets:
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-DEH14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR052
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-FRH14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT052
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ITH14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -74,4 +95,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 539962

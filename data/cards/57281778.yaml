@@ -15,17 +15,17 @@ name:
   zh-CN: 龙骨鬼
 text:
   en: |-
-    At the end of the Damage Step, if this card battled a Warrior or Spellcaster-Type monster: Destroy that monster.
+    At the end of the Damage Step, if this card battled a Warrior or Spellcaster monster: Destroy that monster.
   de: |-
-    Am Ende des Damage Steps, falls diese Karte gegen ein Monster vom Typ Krieger oder Hexer gekämpft hat: Zerstöre das Monster.
+    Am Ende des Damage Steps, falls diese Karte gegen ein Krieger- oder Hexer-Monster gekämpft hat: Zerstöre jenes Monster.
   es: |-
-    Al final del Damage Step, si esta carta batalló con un monstruo de Tipo Guerrero o Lanzador de Conjuros: destruye ese monstruo.
+    Al final del Damage Step, si esta carta batalló con un monstruo Guerrero o Lanzador de Conjuros: destruye ese monstruo.
   fr: |-
-    À la fin de la Damage Step, si cette carte a combattu un monstre de Type Guerrier ou Magicien : détruisez le monstre.
+    À la fin de la Damage Step, si cette carte a combattu un monstre Guerrier ou Magicien : détruisez le monstre.
   it: |-
-    Alla fine del Damage Step, se questa carta ha combattuto con un mostro di Tipo Guerriero o Incantatore: distruggi quel mostro.
+    Alla fine del Damage Step, se questa carta ha combattuto con un mostro Guerriero o Incantatore: distruggi quel mostro.
   pt: |-
-    No final da Etapa de Dano, se este card batalhou um monstro do Tipo Guerreiro ou Mago: destrua esse monstro.
+    No final da Etapa de Dano, se este card batalhou um monstro Guerreiro ou Mago: destrua esse monstro.
   ja: |-
     このカードと戦闘を行ったモンスターが戦士族・魔法使い族の場合、ダメージステップ終了時にそのモンスターを破壊する。
   ko: |-
@@ -41,7 +41,7 @@ atk: 2400
 def: 2000
 images:
 - index: 1
-  image: RyuKokki-LCJW-EN-C-1E.png
+  image: RyuKokki-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SD2-EN008
@@ -66,6 +66,10 @@ sets:
     - Common
   - set_number: LCJW-EN194
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-ENC13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: IOC-090
@@ -97,6 +101,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-DEC13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SD2-FR008
     set_name: 'Structure Deck: Zombie Madness'
@@ -120,6 +128,10 @@ sets:
     - Common
   - set_number: LCJW-FR194
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-FRC13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -147,6 +159,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-ITC13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SD2-PT008
     set_name: 'Structure Deck: Zombie Madness'
@@ -154,6 +170,10 @@ sets:
     - Common
   - set_number: LCJW-PT194
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-PTC13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -197,4 +217,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 1888

@@ -44,7 +44,7 @@ series:
 - Dark World
 images:
 - index: 1
-  image: ZureKnightofDarkWorld-SR13-EN-C-1E.png
+  image: ZureKnightofDarkWorld-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: EEN-EN001
@@ -61,6 +61,10 @@ sets:
     - Common
   - set_number: SR13-EN016
     set_name: 'Structure Deck: Dark World'
+    rarities:
+    - Common
+  - set_number: SGX3-ENI12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DR04-EN061
@@ -84,6 +88,10 @@ sets:
     set_name: 'Structure Deck: Dark World'
     rarities:
     - Common
+  - set_number: SGX3-DEI12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: EEN-FR001
     set_name: Elemental Energy
@@ -99,6 +107,10 @@ sets:
     - Common
   - set_number: SR13-FR016
     set_name: 'Structure Deck: Dark World'
+    rarities:
+    - Common
+  - set_number: SGX3-FRI12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -118,9 +130,17 @@ sets:
     set_name: 'Structure Deck: Dark World'
     rarities:
     - Common
+  - set_number: SGX3-ITI12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SR13-PT016
     set_name: 'Structure Deck: Dark World'
+    rarities:
+    - Common
+  - set_number: SGX3-PTI12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -165,4 +185,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505041

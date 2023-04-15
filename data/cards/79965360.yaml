@@ -15,17 +15,17 @@ name:
   zh-CN: 亚马逊的秘宝
 text:
   en: |-
-    Equip only to an "Amazoness" monster. Once per turn, that monster cannot be destroyed by battle. After damage calculation, if the equipped monster attacks a monster: Destroy the attacked monster.
+    Equip only to an "Amazoness" monster. The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. After damage calculation, if the equipped monster attacked a monster: Destroy the attacked monster.
   de: |-
-    Rüste nur ein „Amazonisch“-Monster mit dieser Karte aus. Einmal pro Spielzug kann das ausgerüstete Monster nicht durch Kampf zerstört werden. Nach der Schadensberechnung, falls das ausgerüstete Monster ein Monster angreift: Zerstöre das angegriffene Monster.
+    Rüste nur ein „Amazonisch“-Monster mit dieser Karte aus. Das erste Mal in jedem Spielzug, dass das ausgerüstete Monster durch Kampf zerstört würde, wird es nicht zerstört. Nach der Schadensberechnung, falls das ausgerüstete Monster ein Monster angegriffen hat: Zerstöre das angegriffene Monster.
   es: |-
-    Sólo puedes equipar esta carta a un monstruo "Amazoness". Una vez por turno, ese monstruo no puede ser destruido en batalla. Después del cálculo de daño, si el monstruo equipado ataca a un monstruo: destruye al monstruo atacado.
+    Sólo puedes equipar esta carta a un monstruo "Amazoness". La primera vez que el monstruo equipado fuera a ser destruido en batalla cada turno, no es destruido. Después del cálculo de daño, si el monstruo equipado atacó un monstruo: destruye el monstruo atacado.
   fr: |-
-    Équipable uniquement à un monstre "Amazonesse". Une fois par tour, le monstre ne peut pas être détruit au combat. Après le calcul des dommages, si le monstre équipé attaque un monstre : détruisez le monstre attaqué.
+    Équipable uniquement à un monstre "Amazonesse". La première fois que le monstre équipé va être détruit au combat chaque tour, il n'est pas détruit. Après le calcul des dommages, si le monstre équipé a attaqué un monstre : détruisez le monstre attaqué.
   it: |-
-    Equipaggia solo ad un mostro "Amazoness". Una volta per turno, quel mostro non può essere distrutto in battaglia. Dopo il calcolo dei danni, se il mostro equipaggiato ha attaccato un mostro: distruggi il mostro attaccato.
+    Equipaggia solo ad un mostro "Amazoness". La prima volta che il mostro equipaggiato sta per essere distrutto in battaglia ogni turno, non viene distrutto. Dopo il calcolo dei danni, se il mostro equipaggiato ha attaccato un mostro: distruggi il mostro attaccato.
   pt: |-
-    Só pode ser equipado a um monstro "Amazoness". Uma vez por turno, esse monstro não pode ser destruído em batalha. Depois do cálculo de dano, se o monstro equipado atacar um monstro: destrua o monstro atacado.
+    Só pode ser equipado a um monstro "Amazoness". Na primeira vez que o monstro equipado seria destruído em batalha a cada turno, ele não é destruído. Depois do cálculo de dano, se o monstro equipado atacou um monstro: destrua o monstro atacado.
   ja: |-
     「アマゾネス」と名のついたモンスターにのみ装備可能。装備モンスターは１ターンに１度だけ、戦闘では破壊されない。装備モンスターが攻撃した場合、その攻撃を受けたモンスターをダメージ計算後に破壊する。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Amazoness
 images:
 - index: 1
-  image: AmazonessHeirloom-SS02-EN-C-1E.png
+  image: AmazonessHeirloom-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DREV-EN087
@@ -48,6 +48,10 @@ sets:
     - Super Rare
   - set_number: SS02-ENC14
     set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  - set_number: SGX3-END12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -59,6 +63,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
     rarities:
     - Common
+  - set_number: SGX3-DED12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DREV-FR087
     set_name: Duelist Revolution
@@ -66,6 +74,10 @@ sets:
     - Super Rare
   - set_number: SS02-FRC14
     set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  - set_number: SGX3-FRD12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -77,9 +89,17 @@ sets:
     set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
     rarities:
     - Common
+  - set_number: SGX3-ITD12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SS02-PTC14
     set_name: 'Speed Duel Starter Decks: Duelists of Tomorrow'
+    rarities:
+    - Common
+  - set_number: SGX3-PTD12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:

@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um Regulador, você pode Invocar este card por Invocação-Especial (da sua mão) em Posição de Defesa. Todos os monstros Guerreiro que você controla ganham 300 de ATK.
   ja: |-
-    自分フィールド上にチューナーが表側表示で存在する場合、このカードは手札から表側守備表示で特殊召喚する事ができる。このカードがフィールド上に表側表示で存在する限り、自分フィールド上に表側表示で存在する戦士族モンスターの攻撃力は３００ポイントアップする。
+    ①：自分フィールドにチューナーが存在する場合、このカードは手札から守備表示で特殊召喚できる。②：このカードがモンスターゾーンに存在する限り、自分フィールドの戦士族モンスターの攻撃力は３００アップする。
   ko: |-
     자신 필드 위에 튜너가 앞면 표시로 존재할 경우, 이 카드는 패에서 앞면 수비 표시로 특수 소환할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위에 앞면 표시로 존재하는 전사족 몬스터의 공격력은 300 포인트 올린다.
   zh-TW:
@@ -91,6 +91,10 @@ sets:
     set_name: 'Duelist Pack: Yusei 3'
     rarities:
     - Super Rare
+  - set_number: 23TP-JP206
+    set_name: Tournament Pack 2023 Vol.2
+    rarities:
+    - Common
   ko:
   - set_number: DP10-KR012
     set_name: 'Duelist Pack: Yusei 3'

@@ -15,16 +15,17 @@ name:
   zh-CN: 咬噬龙
 text:
   en: |-
-    During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
+    If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
   de: |-
-    Während eines Kampfes zwischen dieser angreifenden Karte und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK dieser Karte, füge die Differenz den Life Points deines Gegners als Kampfschaden zu.
+    Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.
   es: |-
-    Durante una batalla en la que ésta carta esté atacando a un monstruo en Posición de Defensa cuya DEF sea inferior al ATK de esta carta, inflige la diferencia como daño de batalla a los Life Points de tu adversario.
+    Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.
   fr: |-
-    Durant un combat entre cette carte attaquant et un monstre en Position de Défense dont la DEF est inférieure à l'ATK de cette carte, infligez la différence en dommages de combat aux Life Points de votre adversaire.
+    Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.
   it: |-
-    Durante un combattimento tra questa carta attaccante ed un mostro in Posizione di Difesa il cui DEF sia inferiore all'ATK di questa carta, infliggi la differenza ai Life Points del tuo avversario come danno da combattimento.
-  pt:
+    Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.
+  pt: |-
+    Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.
   ja: |-
     このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。
   ko: |-
@@ -40,11 +41,15 @@ atk: 2400
 def: 1000
 images:
 - index: 1
-  image: Bitelon-POTD-EN-C-1E.jpg
+  image: Bitelon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: POTD-EN023
     set_name: Power of the Duelist
+    rarities:
+    - Common
+  - set_number: SGX3-ENI10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -52,14 +57,31 @@ sets:
     set_name: Power of the Duelist
     rarities:
     - Common
+  - set_number: SGX3-DEI10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: POTD-FR023
     set_name: Power of the Duelist
     rarities:
     - Common
+  - set_number: SGX3-FRI10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: POTD-IT023
     set_name: Power of the Duelist
+    rarities:
+    - Common
+  - set_number: SGX3-ITI10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTI10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -75,4 +97,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 11348

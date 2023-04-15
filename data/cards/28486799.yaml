@@ -19,7 +19,7 @@ text:
   de: |-
     Jedes Mal, wenn du durch einen Karteneffekt deines Gegners oder einen Angriff seines Monsters 1000 oder mehr Schaden erhältst: Ziehe 1 Karte pro 1000 Schaden, die du erhalten hast.
   es: |-
-    Cada vez que recibas 1000 o más puntos de daño a causa de un efecto de una carta de tu adversario o de un ataque de sus monstruos: roba 1 carta por cada 1000 puntos de daño que recibiste.
+    Cada vez que recibas 1000 o más puntos de daño por efecto de una carta de tu adversario o el ataque de su monstruo: roba 1 carta por cada 1000 puntos de daño que recibiste.
   fr: |-
     Chaque fois que vous recevez min. 1000 points de dommages par un effet de carte de votre adversaire ou son attaque de monstre : piochez 1 carte pour chaque 1000 points de dommages que vous avez reçus.
   it: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: BackupSquad-SS04-EN-C-1E.png
+  image: BackupSquad-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CIBR-EN065
@@ -50,6 +50,10 @@ sets:
     - Rare
   - set_number: SS04-ENA27
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-ENG13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -65,6 +69,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: SGX3-DEG13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CIBR-FR065
     set_name: Circuit Break
@@ -76,6 +84,10 @@ sets:
     - Rare
   - set_number: SS04-FRA27
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-FRG13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -91,6 +103,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
     rarities:
     - Common
+  - set_number: SGX3-ITG13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: CIBR-PT065
     set_name: Circuit Break
@@ -102,6 +118,10 @@ sets:
     - Rare
   - set_number: SS04-PTA27
     set_name: 'Speed Duel Starter Decks: Match of the Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-PTG13
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:

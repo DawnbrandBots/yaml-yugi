@@ -15,17 +15,17 @@ name:
   zh-CN: 巨大兽人
 text:
   en: |-
-    If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.
+    If this card attacks, it is changed to Defense Position at the end of the Battle Phase. It cannot change its battle position until the end of your next turn.
   de: |-
-    Wenn diese Karte angreift, bringe sie am Ende der Battle Phase in die Verteidigungsposition. Diese Position kann bis zum Ende deines nächsten Spielzugs nicht geändert werden.
+    Falls diese Karte angreift, wird sie am Ende der Battle Phase in die Verteidigungsposition geändert. Sie kann ihre Kampfposition bis zum Ende deines nächsten Spielzugs nicht ändern.
   es: |-
-    Cuando esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Esta posición no puede ser cambiada hasta el final de tu próximo turno.
+    Si esta carta ataca, se cambia a Posición de Defensa al final de la Battle Phase. Ésta no puede cambiar su posición de batalla hasta el final de tu próximo turno.
   fr: |-
-    Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase. Cette position ne peut pas être changée jusqu'à la fin de votre prochain tour.
+    Si cette carte attaque, elle est changée en Position de Défense à la fin de la Battle Phase. Jusqu'à la fin de votre prochain tour, elle ne peut pas changer sa position de combat.
   it: |-
-    Quando questa carta attacca, viene messa in Posizione di Difesa alla fine della Battle Phase. Questa posizione non può essere cambiata fino alla fine del tuo prossimo turno.
+    Se questa carta attacca, viene messa in Posizione di Difesa alla fine della Battle Phase. Essa non può cambiare la sua posizione fino alla fine del tuo prossimo turno.
   pt: |-
-    Quando este card ataca, é mudado para Posição de Defesa no final da Battle Phase. Esta posição não pode ser mudada até ao final do seu próximo turno.
+    Se este card atacar, ele é colocado em Posição de Defesa no final da Fase de Batalha. Ele não pode mudar sua posição de batalha até o final do seu próximo turno.
   ja: |-
     このカードは攻撃した場合、バトルフェイズ終了時に守備表示になる。次の自分ターン終了時までこのカードの表示形式は変更できない。
   ko: |-
@@ -41,11 +41,15 @@ atk: 2200
 def: 0
 images:
 - index: 1
-  image: GiantOrc-DR1-EN-C-UE.png
+  image: GiantOrc-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN067
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-ENE09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MFC-012
@@ -57,9 +61,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-DEE09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR067
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-FRE09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -67,9 +79,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-ITE09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT067
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTE09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -97,4 +117,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 2398

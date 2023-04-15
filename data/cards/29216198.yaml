@@ -6,7 +6,7 @@ name:
   es: Orbe Gravitacional
   fr: Orbe de Gravité
   it: Globo Gravitazionale
-  pt:
+  pt: Orbe Gravítica
   ja: グラビティ・ボール
   ja_romaji: Gurabiti Bōru
   ko: 그라비티 볼
@@ -19,13 +19,13 @@ text:
   de: |-
     FLIPP: Ändere die Kampfpositionen aller offenen Monster, die dein Gegner kontrolliert.
   es: |-
-    VOLTEO: Cambia las Posiciones de Batalla de todos los monstruos boca arriba que controle tu adversario.
+    VOLTEO: Cambia las posiciones de batalla de todos los monstruos boca arriba que controle tu adversario.
   fr: |-
     FLIP : Changez la position de combat de tous les monstres face recto contrôlés par votre adversaire.
   it: |-
     SCOPRI: Cambia la posizione di tutti i mostri scoperti controllati dal tuo avversario.
   pt: |-
-    Flip: Mude a Posição de Batalha de todos os monstros virados para cima no lado do campo do seu oponente.
+    VIRE: Mude as posições de batalha de todos os monstros com a face para cima que seu oponente controla.
   ja: |-
     リバース：相手フィールド上に存在する表側表示モンスター全ての表示形式を変更する。
   ko: |-
@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     反转：对方场上存在的表侧表示怪兽全部表示形式变更。
 card_type: Monster
-monster_type_line: Fiend / Effect
+monster_type_line: Fiend / Flip / Effect
 attribute: DARK
 level: 3
 atk: 1100
 def: 700
 images:
 - index: 1
-  image: GraviticOrb-BP01-EN-C-1E.png
+  image: GraviticOrb-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: TAEV-EN029
@@ -53,6 +53,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-ENG07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: TAEV-DE029
     set_name: Tactical Evolution
@@ -63,6 +67,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-DEG07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: TAEV-FR029
     set_name: Tactical Evolution
@@ -73,6 +81,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-FRG07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: TAEV-IT029
     set_name: Tactical Evolution
@@ -83,6 +95,15 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-ITG07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTG07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: TAEV-JP029
     set_name: Tactical Evolution
@@ -96,4 +117,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 512776

@@ -17,11 +17,11 @@ text:
   en: |-
     You can target 1 "Red-Eyes" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 "Red-Eyes" card from your Deck to your hand.
   de: |-
-    Du kannst 1 „Rotäugig“-Monster wählen, das du kontrollierst; rüste das gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Es erhält 600 ATK. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Rotäugig“-Karte von deinem Deck hinzufügen.
+    Du kannst 1 „Rotäugig“-Monster wählen, das du kontrollierst; rüste jenes gewählte Ziel mit diesem Monster von deiner Hand oder Spielfeldseite aus. Es erhält 600 ATK. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Rotäugig“-Karte von deinem Deck hinzufügen.
   es: |-
     Puedes seleccionar 1 monstruo "Ojos Rojos" que controles; equipa este monstruo en tu mano o Campo a ese objetivo. Éste gana 600 ATK. Si esta carta es mandada del Campo al Cementerio: puedes añadir a tu mano 1 carta "Ojos Rojos" en tu Deck.
   fr: |-
-    Vous pouvez cibler 1 monstre "Yeux Rouges" que vous contrôlez ; équipez ce monstre depuis votre main ou Terrain à la cible. Il gagne 600 ATK. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 carte "Yeux Rouges" depuis votre Deck à votre main.
+    Vous pouvez cibler 1 monstre "Yeux Rouges" que vous contrôlez ; équipez ce monstre depuis votre main ou Terrain à la cible. Elle gagne 600 ATK. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 carte "Yeux Rouges" depuis votre Deck à votre main.
   it: |-
     Puoi scegliere come bersaglio 1 mostro "Occhi Rossi" che controlli; equipaggia questo mostro dalla tua mano o Terreno a quel bersaglio. Esso guadagna 600 ATK. Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 carta "Occhi Rossi" dal tuo Deck alla tua mano.
   pt: |-
@@ -41,7 +41,7 @@ atk: 600
 def: 600
 images:
 - index: 1
-  image: BlackMetalDragon-LDS1-EN-C-1E.png
+  image: BlackMetalDragon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CORE-EN022
@@ -58,6 +58,10 @@ sets:
     - Super Rare
   - set_number: LDS1-EN008
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-ENB07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -77,6 +81,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-DEB07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CORE-FR022
     set_name: Clash of Rebellions
@@ -92,6 +100,10 @@ sets:
     - Super Rare
   - set_number: LDS1-FR008
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-FRB07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -111,6 +123,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-ITB07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: CORE-PT022
     set_name: Clash of Rebellions
@@ -128,6 +144,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-PTB07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: CORE-JP022
     set_name: Clash of Rebellions
@@ -141,4 +161,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 354781

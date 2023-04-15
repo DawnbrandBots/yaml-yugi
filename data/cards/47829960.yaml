@@ -6,7 +6,7 @@ name:
   es: Jinete del Caos Gustaph
   fr: Gustaph, Chevaucheur du Chaos
   it: Gustaph Predone del Chaos
-  pt: Motoqueiro do Caos Gustaph
+  pt: Gustaph, o Motoqueiro do Caos
   ja: カオスライダー グスタフ
   ja_romaji: Kaosuraidā Gusutafu
   ko: 카오스라이더 구스타프
@@ -15,17 +15,17 @@ name:
   zh-CN: 混沌骑手 古斯塔夫
 text:
   en: |-
-    Once per turn, you can remove from play up to 2 Spell Cards from your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent's next turn.
+    Once per turn: You can banish up to 2 Spells from your GY; this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.
   de: |-
-    Einmal pro Spielzug kannst du bis zu 2 Zauberkarten in deinem Friedhof aus dem Spiel entfernen. Diese Karte erhält bis zum Ende des nächsten gegnerischen Spielzugs 300 ATK für jede entfernte Karte.
+    Einmal pro Spielzug: Du kannst bis zu 2 Zauber von deinem Friedhof verbannen; diese Karte erhält bis zum Ende des Spielzugs deines Gegners für jede durch diesen Effekt verbannte Karte 300 ATK.
   es: |-
-    Puedes retirar del juego hasta 2 Cartas Mágicas en tu Cementerio para aumentar el ATK de esta carta en 300 puntos por cada carta retirada del juego por este efecto hasta el final del próximo turno de tu adversario. Puedes usar este efecto una vez por turno.
+    Una vez por turno: puedes desterrar hasta 2 Mágicas en tu Cementerio; esta carta gana 300 ATK por cada carta desterrada por este efecto, hasta el final del turno de tu adversario.
   fr: |-
-    Une fois par tour, vous pouvez retirer du jeu jusqu'à 2 Cartes Magie de votre Cimetière. Cette carte gagne 300 points d'ATK pour chaque carte retirée, jusqu'à la fin du prochain tour de votre adversaire.
+    Une fois par tour : vous pouvez bannir max. 2 Magies depuis votre Cimetière ; jusqu'à la fin du tour de votre adversaire, cette carte gagne 300 ATK pour chaque carte bannie par cet effet.
   it: |-
-    Una volta per turno, puoi rimuovere dal gioco fino a 2 Carte Magia nel tuo Cimitero. Questa carta guadagna 300 ATK e DEF per ogni carta rimossa dal gioco fino alla fine del prossimo turno del tuo avversario.
+    Una volta per turno: puoi bandire fino a 2 Magie dal tuo Cimitero; questa carta guadagna 300 ATK per ogni carta bandita da questo effetto, fino alla fine del turno del tuo avversario.
   pt: |-
-    Uma vez por turno, você pode remover de jogo até 2 Cards de Magia do seu Cemitério. Este card ganha 300 de ATK para cada card removido, até o final do próximo turno do seu oponente.
+    Uma vez por turno: você pode banir até 2 Magias do seu Cemitério; este card ganha 300 de ATK para cada card banido por este efeito, até o final do turno do seu oponente.
   ja: |-
     自分の墓地の魔法カードを２枚までゲームから除外する事ができる。この効果によって除外したカード１枚につき、相手ターン終了時までこのカードの攻撃力は３００ポイントアップする。この効果は１ターンに１度しか使用できない。
   ko: |-
@@ -44,7 +44,7 @@ series:
 - Chaos
 images:
 - index: 1
-  image: ChaosriderGustaph-SDDE-EN-C-1E.png
+  image: ChaosriderGustaph-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: IOC-EN018
@@ -57,6 +57,10 @@ sets:
     - Super Rare
   - set_number: SDDE-EN012
     set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENF04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: IOC-018
@@ -76,6 +80,10 @@ sets:
     set_name: The Dark Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEF04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR018
     set_name: Dark Revelation Volume 2
@@ -89,6 +97,10 @@ sets:
     set_name: The Dark Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-FRF04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT018
     set_name: Dark Revelation Volume 2
@@ -100,6 +112,15 @@ sets:
     - Super Rare
   - set_number: SDDE-IT012
     set_name: The Dark Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ITF04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTF04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -135,4 +156,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 13782

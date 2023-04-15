@@ -6,7 +6,7 @@ name:
   es: Ciclón de Polvo de Diamante
   fr: Cyclone de Diamant
   it: Ciclone di Polvere di Diamanti
-  pt: Ciclone de Pó de Diamante
+  pt: Ciclone de Poeira de Diamante
   ja: ダイヤモンドダスト・サイクロン
   ja_romaji: Daiyamondodasuto Saikuron
   ko: 다이아몬드더스트 싸이크론
@@ -15,17 +15,17 @@ name:
   zh-CN: 钻尘旋风
 text:
   en: |-
-    Select 1 monster with 4 or more Fog Counters. Destroy it and then draw 1 card for every 4 Fog Counters that were on it.
+    Target 1 monster with 4 or more Fog Counters; destroy it, and if you do, draw 1 card for every 4 Fog Counters that was on it.
   de: |-
-    Wähle 1 Monster mit 4 oder mehr Nebel-Zählmarken. Zerstöre es und ziehe dann 1 Karte für je 4 Nebel-Zählmarken, die darauf liegen.
+    Wähle 1 Monster mit 4 oder mehr Nebel-Zählmarken; zerstöre es und falls du dies tust, ziehe für jede 4 Nebel-Zählmarken, die darauf lagen, 1 Karte.
   es: |-
-    Selecciona 1 monstruo con 4 o más Contadores de Niebla. Destrúyelo y roba 1 carta por cada 4 Contadores de Niebla que tenía.
+    Selecciona 1 monstruo con 4 o más Contadores de Niebla; destrúyelo y, si lo haces, roba 1 carta por cada 4 Contadores de Niebla que había en él.
   fr: |-
-    Sélectionnez 1 monstre avec 4 Compteurs Brume ou plus sur lui. Détruisez-le puis piochez 1 carte pour chaque 4 Compteurs Brume qui étaient sur lui.
+    Ciblez 1 monstre avec min. 4 Compteurs Brume ; détruisez-le, et si vous le faites, piochez 1 carte pour tous les 4 Compteurs Brume qui étaient sur lui.
   it: |-
-    Scegli 1 mostro con 4 o più Segnalini Nebbia. Distruggilo e poi pesca 1 carta per ogni 4 Segnalini Nebbia presenti sul mostro.
+    Scegli come bersaglio 1 mostro con 4 o più Segnalini Nebbia; distruggilo e, se lo fai, pesca 1 carta per ogni 4 Segnalini Nebbia che c'erano su di esso.
   pt: |-
-    Selecione 1 monstro com 4 ou mais Marcadores de Neblina. Destrua-o e, depois, compre 1 card para cada 4 Marcadores de Neblina que havia nele.
+    Escolha 1 monstro com 4 ou mais Marcadores de Névoa; destrua-o e, se isso acontecer, compre 1 card para cada 4 Marcadores de Névoa que estavam nele.
   ja: |-
     フォッグカウンターが４つ以上乗っているモンスター１体を選択して発動する。選択したモンスターを破壊し、破壊したモンスターに乗っているフォッグカウンター４つにつき、自分のデッキからカードを１枚ドローする。
   ko: |-
@@ -37,28 +37,49 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: DiamondDustCyclone-GLAS-EN-R-UE.png
+  image: DiamondDustCyclone-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN048
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-ENH16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: GLAS-DE048
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-DEH16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR048
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-FRH16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT048
     set_name: Gladiator's Assault
     rarities:
     - Rare
+  - set_number: SGX3-ITH16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: GLAS-JP048
     set_name: Gladiator's Assault
@@ -72,4 +93,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505384

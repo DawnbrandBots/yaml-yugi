@@ -19,7 +19,7 @@ text:
   de: |-
     Während deiner Main Phase 1: Du kannst diese Karte vom Spielfeld verbannen und dann 1 Unterweltler-Monster wählen, das du kontrollierst; jenes gewählte Ziel kann während jeder Battle Phase einen zweiten Angriff durchführen, solange du es offen kontrollierst. Einmal pro Spielzug, während deiner zweiten Standby Phase, nachdem diese Karte verbannt wurde, um diesen Effekt zu aktivieren: Beschwöre diese Karte als Spezialbeschwörung in die Angriffsposition.
   es: |-
-    Durante tu Main Phase 1: puedes desterrar esta carta en el Campo, y después seleccionar 1 monstruo Demonio que controles; mientras lo controles boca arriba, ese objetivo puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, durante tu segunda Standby Phase después de que esta carta fuera desterrada para activar este efecto: Invoca esta carta de Modo Especial en Posición de Ataque.
+    Durante tu Main Phase 1: puedes desterrar esta carta en el Campo, y después selecciona 1 monstruo Demonio que controles; mientras lo controles boca arriba, ese objetivo puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, durante tu segunda Standby Phase después de que esta carta fuera desterrada para activar este efecto: Invoca esta carta de Modo Especial en Posición de Ataque.
   fr: |-
     Durant votre Main Phase 1 : vous pouvez bannir cette carte depuis le Terrain, puis ciblez 1 monstre Démon que vous contrôlez ; la cible peut faire une seconde attaque durant chaque Battle Phase tant que vous la contrôlez face recto. Une fois par tour, durant votre seconde Standby Phase après que cette carte a été bannie pour activer cet effet : Invoquez Spécialement cette carte en Position d'Attaque.
   it: |-
@@ -44,7 +44,7 @@ series:
 - HERO
 images:
 - index: 1
-  image: EvilHEROInfernalGainer-LDS3-EN-C-1E.png
+  image: EvilHEROInfernalGainer-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN004
@@ -70,6 +70,10 @@ sets:
     - Common
   - set_number: LDS3-EN023
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-ENA07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -98,6 +102,10 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-DEA07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR004
     set_name: Gladiator's Assault
@@ -118,6 +126,10 @@ sets:
     - Common
   - set_number: LDS3-FR023
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-FRA07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -146,6 +158,10 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-ITA07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: BP03-PT032
     set_name: 'Battle Pack 3: Monster League'
@@ -158,6 +174,10 @@ sets:
     - Common
   - set_number: LDS3-PT023
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-PTA07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -193,4 +213,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 536397

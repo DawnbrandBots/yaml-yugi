@@ -33,7 +33,7 @@ text:
     Você pode Invocar este card por Invocação-Tributo ao oferecer como Tributo 1 monstro Invocado por Invocação-Tributo. Se este card for Invocado por Invocação-Tributo: olhe a mão do seu oponente e descarte 1 card da mão dele e, depois, se esse era um Card de Monstro, cause dano ao seu oponente igual ao Nível original dele x 200. Se este card foi Invocado por Invocação-Tributo pelo Tributo de um monstro de FOGO, adicione este efeito adicional.
     ● Além disso, depois disso, cause 1000 de dano ao seu oponente.
   ja: |-
-    このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。このカードがアドバンス召喚に成功した時、相手の手札を確認して１枚捨てる。捨てたカードがモンスターカードだった場合、そのモンスターのレベル×２００ポイントダメージを相手ライフに与える。このカードが炎属性モンスターをリリースしてアドバンス召喚に成功した場合、その時の効果に以下の効果を加える。●相手ライフに１０００ポイントダメージを与える。
+    このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。①：このカードがアドバンス召喚した場合に発動する。相手の手札を確認し、その内の１枚を選んで捨てる。捨てたカードがモンスターだった場合、そのモンスターのレベル×２００ダメージを相手に与える。このカードが炎属性モンスターをリリースしてアドバンス召喚した場合、その時の効果に以下の効果を加える。●相手に１０００ダメージを与える。
   ko: |-
     이 카드는 어드밴스 소환한 몬스터 1장을 릴리스하고 어드밴스 소환할 수 있다. 이 카드가 어드밴스 소환에 성공했을 때, 상대의 패를 확인하고 1장 버린다. 버린 카드가 몬스터 카드였을 경우, 그 몬스터의 레벨 × 200 포인트 데미지를 상대 라이프에 준다. 이 카드가 화염 속성 몬스터를 릴리스하고 어드밴스 소환에 성공했을 경우, 그때의 효과에 이하의 효과를 얻는다.
     ●상대 라이프에 1000 포인트 데미지를 준다.
@@ -123,6 +123,10 @@ sets:
     set_name: Primal Origin
     rarities:
     - Rare
+  - set_number: 23TP-JP207
+    set_name: Tournament Pack 2023 Vol.2
+    rarities:
+    - Common
   ko:
   - set_number: PRIO-KR035
     set_name: Primal Origin

@@ -41,7 +41,7 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: DarkSummoningBeast-SDSA-EN-C-1E.png
+  image: DarkSummoningBeast-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DUSA-EN030
@@ -50,6 +50,10 @@ sets:
     - Ultra Rare
   - set_number: SDSA-EN005
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-ENG04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -61,6 +65,10 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts'
     rarities:
     - Common
+  - set_number: SGX3-DEG04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DUSA-FR030
     set_name: Duelist Saga
@@ -68,6 +76,10 @@ sets:
     - Ultra Rare
   - set_number: SDSA-FR005
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-FRG04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -79,6 +91,10 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts'
     rarities:
     - Common
+  - set_number: SGX3-ITG04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DUSA-PT030
     set_name: Duelist Saga
@@ -86,6 +102,10 @@ sets:
     - Ultra Rare
   - set_number: SDSA-PT005
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-PTG04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -114,4 +134,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 510879

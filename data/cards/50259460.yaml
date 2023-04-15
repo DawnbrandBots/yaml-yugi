@@ -6,7 +6,7 @@ name:
   es: Versago el Destructor
   fr: Versago, le Destructeur
   it: Versago il Distruttore
-  pt:
+  pt: Versago, o Destruidor
   ja: <ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>神<rt>しん</rt></ruby> ヴァサーゴ
   ja_romaji: Hakaishin Vasāgo
   ko: 파괴신 버사고
@@ -15,16 +15,17 @@ name:
   zh-CN: 破坏神 瓦沙克
 text:
   en: |-
-    You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).
+    This card can be used as a substitute for any 1 Fusion Material mentioned by name on the Fusion Monster Card, but the other material(s) must be correct.
   de: |-
-    Du kannst diese Karte an Stelle von 1 beliebigen Fusionsmaterialmonster verwenden. Wenn du dies tust, kannst du bei dieser Fusion keine anderen Fusionsmaterialmonster ersetzen.
+    Diese Karte kann anstelle von 1 beliebigen Fusionsmaterial verwendet werden, dessen Name auf der Fusionsmonsterkarte erwähnt wird, aber das andere Material muss das richtige sein.
   es: |-
-    Puedes sustituir esta carta por cualquier Monstruo Material de Fusión. Cuando haces esto, el o los otros Monstruos Material de Fusión deben ser los correctos.
+    Esta carta puede ser usada como sustituto de 1 Material de Fusión cuyo nombre se mencione en la Carta de Monstruo de Fusión, pero el o los otros materiales deben ser los correctos.
   fr: |-
-    Vous pouvez substituer cette carte à 1 Monstre-Matériel de Fusion. Lorsque vous le faites, le ou les autres Monstres-Matériel de Fusion doivent correspondre à ceux listés sur la carte.
+    Cette carte peut être utilisée comme substitut pour 1 Matériel Fusion dont le nom est mentionné sur la Carte Monstre Fusion, mais les autres Matériels doivent être corrects.
   it: |-
-    Puoi utilizzare questa carta come sostituto di 1 qualsiasi Mostro Materiale da Fusione. Quando fai questo, gli altri Mostri Materiale da Fusione devono essere quelli corretti.
-  pt:
+    Questa carta può essere utilizzata come sostituto per 1 qualsiasi Materiale da Fusione menzionato per nome sulla Carta Mostro Fusione, ma gli altri materiali devono essere quelli corretti.
+  pt: |-
+    Este card pode ser usado como um substituto para qualquer 1 Matéria de Fusão mencionada por nome no Card de Monstro de Fusão, mas a(s) outra(s) matéria(s) deve(m) estar correta(s).
   ja: |-
     このカードを融合素材モンスター１体の代わりにする事ができる。その際、他の融合素材モンスターは正規のものでなければならない。
   ko: |-
@@ -40,7 +41,7 @@ atk: 1100
 def: 900
 images:
 - index: 1
-  image: VersagotheDestroyer-GLD4-EN-C-LE.png
+  image: VersagotheDestroyer-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: TP5-EN015
@@ -49,6 +50,10 @@ sets:
     - Common
   - set_number: GLD4-EN006
     set_name: 'Gold Series 4: Pyramids Edition'
+    rarities:
+    - Common
+  - set_number: SGX3-ENA10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: TP1-015
@@ -72,6 +77,10 @@ sets:
     set_name: 'Gold Series 4: Pyramids Edition'
     rarities:
     - Common
+  - set_number: SGX3-DEA10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: TP1-F015
     set_name: 'Tournament Pack: 1st Season'
@@ -85,6 +94,10 @@ sets:
     set_name: 'Gold Series 4: Pyramids Edition'
     rarities:
     - Common
+  - set_number: SGX3-FRA10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: TP1-I015
     set_name: 'Tournament Pack: 1st Season'
@@ -96,6 +109,15 @@ sets:
     - Common
   - set_number: GLD4-IT006
     set_name: 'Gold Series 4: Pyramids Edition'
+    rarities:
+    - Common
+  - set_number: SGX3-ITA10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTA10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -131,4 +153,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505942

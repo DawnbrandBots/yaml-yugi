@@ -6,7 +6,7 @@ name:
   es: Macro Cosmos
   fr: Macro Cosmos
   it: Macro Cosmo
-  pt: Macro Cosmo
+  pt: Macrocosmo
   ja: マクロコスモス
   ja_romaji: Makurokosumosu
   ko: 매크로 코스모스
@@ -15,17 +15,17 @@ name:
   zh-CN: 宏观宇宙
 text:
   en: |-
-    When this card resolves: You can Special Summon 1 "Helios - The Primordial Sun" from your hand or Deck. While this card is face-up on the field, any card sent to the Graveyard is banished instead.
+    When this card is activated: You can Special Summon 1 "Helios - The Primordial Sun" from your hand or Deck. While this card is face-up on the field, any card sent to the GY is banished instead.
   de: |-
-    Wenn diese Karte aufgelöst wird: Du kannst 1 „Helios - Die ursprüngliche Sonne“ als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Solange diese Karte offen auf dem Spielfeld liegt, wird jede Karte, die auf den Friedhof gelegt wird, stattdessen verbannt.
+    Wenn diese Karte aktiviert wird: Du kannst 1 „Helios - Die ursprüngliche Sonne“ als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören. Solange diese Karte offen auf dem Spielfeld liegt, wird jede Karte, die auf den Friedhof gelegt wird, stattdessen verbannt.
   es: |-
-    Cuando se resuelve esta carta: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 "Helios - El Sol Primordial". Mientras esta carta esté en boca arriba el Campo, cualquier carta mandada al Cementerio es, en vez, desterrada.
+    Cuando esta carta es activada: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 "Helios - El Sol Primordial". Mientras esta carta esté boca arriba en el Campo, cualquier carta mandada al Cementerio es desterrada en su lugar.
   fr: |-
-    Lorsque cette carte est résolue : vous pouvez Invoquer Spécialement 1 "Hélios, le Soleil Primordial" depuis votre main ou Deck. Tant que cette carte est face recto sur le Terrain, les cartes envoyées au Cimetière sont bannies à la place.
+    Lorsque cette carte est activée : vous pouvez Invoquer Spécialement 1 "Hélios, le Soleil Primordial" depuis votre main ou Deck. Tant que cette carte est face recto sur le Terrain, les cartes envoyées au Cimetière sont bannies à la place.
   it: |-
-    Quando questa carta si risolve: puoi Evocare Specialmente 1 "Helios - Il Sole Primordiale" dalla tua mano o Deck. Mentre questa carta è scoperta sul Terreno, ogni carta mandata al Cimitero viene invece bandita.
+    Quando questa carta viene attivata: puoi Evocare Specialmente 1 "Helios - Il Sole Primordiale" dalla tua mano o Deck. Mentre questa carta è scoperta sul Terreno, qualsiasi carta mandata al Cimitero viene invece bandita.
   pt: |-
-    Quando este card resolver: você pode Invocar por Invocação-Especial 1 "Helios - O Sol Primordial" da sua mão ou Deck. Enquanto este card estiver no campo com a face para cima, qualquer card enviado para o Cemitério, em vez disso, é banido.
+    Quando este card for ativado: você pode Invocar por Invocação-Especial 1 "Hélios - O Sol Primordial" da sua mão ou do Deck. Enquanto este card estiver com a face para cima no campo, qualquer card enviado para o Cemitério, em vez disso, é banido.
   ja: |-
     ①：このカードの発動時の効果処理として、手札・デッキから「原始太陽ヘリオス」１体を特殊召喚できる。②：このカードが魔法＆罠ゾーンに存在する限り、墓地へ送られるカードは墓地へは行かず除外される。
   ko: |-
@@ -39,9 +39,9 @@ property: Continuous
 images:
 - index: 1
   image: '  MacroCosmos-RC02-JP-ScR.png'
-  illustration: '    MacroCosmos-TF05-JP-VG-artwork.png'
+  illustration: ' MacroCosmos-TF05-JP-VG-artwork.png'
 - index: '1.1'
-  image: MacroCosmos-DT06-EN-DRPR-DT.jpg
+  image: MacroCosmos-SGX3-EN-C-1E.png
   illustration: MacroCosmos-TF04-EN-VG-artwork.png
 sets:
   en:
@@ -136,6 +136,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  pt:
+  - set_number: SGX3-PTF19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+    - Secret Rare
   ja:
   - set_number: EOJ-JP057
     set_name: Enemy of Justice
@@ -204,5 +210,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 505003

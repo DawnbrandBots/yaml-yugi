@@ -6,7 +6,7 @@ name:
   es: Polilla de Arena
   fr: Phalène des Sables
   it: Falena di Sabbia
-  pt: Traça de Areia
+  pt: Mariposa de Areia
   ja: サンドモス
   ja_romaji: Sandomosu
   ko: 샌드 모스
@@ -15,16 +15,17 @@ name:
   zh-CN: 沙沼怪
 text:
   en: |-
-    When this face-down Defense Position card is destroyed and sent to the Graveyard, except by battle, switch the original ATK and DEF of this card and Special Summon it.
+    If this face-down Defense Position card is destroyed and sent to the GY: Special Summon it and switch its original ATK/DEF.
   de: |-
-    Wenn diese verdeckt Karte in Verteidigungsposition zerstört und auf den Friedhof gelegt wird, außer als Ergebnis eines Kampfes, tausche die Grund-ATK und -DEF dieser Karte und beschwöre sie als Spezialbeschwörung auf deine Spielfeldseite.
+    Falls diese Karte in verdeckter Verteidigungsposition zerstört und auf den Friedhof gelegt wird: Beschwöre sie als Spezialbeschwörung und vertausche ihre Grund-ATK/DEF.
   es: |-
-    Cuando esta carta en Posición de Defensa boca abajo es destruida y mandada al Cementerio, excepto como resultado de una batalla, intercambia el ATK y la DEF originales de esta carta e Invócala mediante una Invocación Especial en tu Campo.
+    Si esta carta en Posición de Defensa boca abajo es destruida y mandada al Cementerio: Invócala de Modo Especial e intercambia su ATK/DEF originales.
   fr: |-
-    Lorsque cette carte face verso en Position de Défense est détruite et envoyée au Cimetière, excepté à l'issue d'un combat, échangez l'ATK et la DEF d'origine de cette carte et Invoquez-la par Invocation Spéciale sur votre Terrain.
+    Si cette carte en Position de Défense face verso est détruite et envoyée au Cimetière : Invoquez-la Spécialement et échangez son ATK/DEF d'origine.
   it: |-
-    Quando questa carta coperta in Posizione di Difesa viene distrutta e mandata al Cimitero,eccetto che in seguito ad una battaglia, scambia ATK e DEF originali di questa carta ed Evocala tramite Evocazione Speciale sul tuo Terreno.
-  pt:
+    Se questa carta coperta in Posizione di Difesa viene distrutta e mandata al Cimitero: Evocala Specialmente, e scambia i suoi ATK/DEF originali.
+  pt: |-
+    Se este card com a face para baixo em Posição de Defesa for destruído e enviado para o Cemitério: Invoque-o por Invocação-Especial e troque seu ATK original pela DEF original, e vice-versa.
   ja: |-
     裏側守備表示のこのカードが戦闘以外によって破壊され墓地へ送られた時、元々の攻撃力と守備力を入れ替えて自分フィールド上に特殊召喚する。
   ko: |-
@@ -40,7 +41,7 @@ atk: 1000
 def: 2000
 images:
 - index: 1
-  image: SandMoth-DR04-NA-R-UE.png
+  image: SandMoth-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SOI-EN032
@@ -49,6 +50,10 @@ sets:
     - Common
   - set_number: SD7-EN015
     set_name: 'Structure Deck: Invincible Fortress'
+    rarities:
+    - Common
+  - set_number: SGX3-ENA09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DR04-EN152
@@ -64,6 +69,10 @@ sets:
     set_name: 'Structure Deck: Invincible Fortress'
     rarities:
     - Common
+  - set_number: SGX3-DEA09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SOI-FR032
     set_name: Shadow of Infinity
@@ -73,6 +82,10 @@ sets:
     set_name: 'Structure Deck: Invincible Fortress'
     rarities:
     - Common
+  - set_number: SGX3-FRA09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: SOI-IT032
     set_name: Shadow of Infinity
@@ -80,6 +93,15 @@ sets:
     - Common
   - set_number: SD7-IT015
     set_name: 'Structure Deck: Invincible Fortress'
+    rarities:
+    - Common
+  - set_number: SGX3-ITA09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTA09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -111,4 +133,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 11645

@@ -15,11 +15,11 @@ name:
   zh-CN: 业火之重骑士
 text:
   en: |-
-    This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
+    This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
     ● At the start of the Damage Step, if this card attacked a Special Summoned monster: You can banish that monster.
   de: |-
-    Diese Karte wird als ein Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.
-    ● Am Beginn des Damage Steps, falls diese Karte ein als Spezialbeschwörung beschworenes Monster angegriffen hat: Du kannst das Monster verbannen.
+    Diese Karte wird als Normales Monster behandelt, solange sie offen auf dem Spielfeld oder im Friedhof liegt. Solange diese Karte ein Normales Monster auf dem Spielfeld ist, kannst du sie als Normalbeschwörung beschwören, damit sie ein Effektmonster mit diesem Effekt wird.
+    ● Am Beginn des Damage Steps, falls diese Karte ein als Spezialbeschwörung beschworenes Monster angegriffen hat: Du kannst jenes Monster verbannen.
   es: |-
     Esta carta se trata como un Monstruo Normal mientras esté boca arriba en el Campo o en el Cementerio. Mientras esta carta sea un Monstruo Normal en el Campo, puedes Invocarla de Modo Normal para que se convierta en un Monstruo de Efecto con este efecto.
     ● Al comienzo del Damage Step, si esta carta atacó un monstruo Invocado de Modo Especial: puedes desterrar ese monstruo.
@@ -50,33 +50,53 @@ atk: 1800
 def: 200
 images:
 - index: 1
-  image: HeavyKnightoftheFlame-WSUP-EN-SR-1E.png
+  image: HeavyKnightoftheFlame-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: WSUP-EN047
     set_name: World Superstars
     rarities:
     - Super Rare
+  - set_number: SGX3-ENC12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: WSUP-DE047
     set_name: World Superstars
     rarities:
     - Super Rare
+  - set_number: SGX3-DEC12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: WSUP-FR047
     set_name: World Superstars
     rarities:
     - Super Rare
+  - set_number: SGX3-FRC12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: WSUP-IT047
     set_name: World Superstars
     rarities:
     - Super Rare
+  - set_number: SGX3-ITC12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: WSUP-PT047
     set_name: World Superstars
     rarities:
     - Super Rare
+  - set_number: SGX3-PTC12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: EP15-JP054
     set_name: Extra Pack 2015
@@ -98,4 +118,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 324987

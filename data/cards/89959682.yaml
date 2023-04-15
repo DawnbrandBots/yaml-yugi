@@ -6,7 +6,7 @@ name:
   es: Guardia Faraónico
   fr: Protecteur Pharaonique
   it: Guardia del Faraone
-  pt: Guardião Faraônico
+  pt: Protetor Faraônico
   ja: <ruby>王<rt>おう</rt></ruby><ruby>家<rt>け</rt></ruby>の<ruby>守<rt>しゅ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>者<rt>しゃ</rt></ruby>
   ja_romaji: Ōke no Shugosha
   ko: 왕가의 수호자
@@ -25,7 +25,7 @@ text:
   it: |-
     La mummia di un soldato che ha vegliato sulla famiglia reale per migliaia di anni. Anche adesso, il suo spirito non permette a nessuno di oltrepassarlo.
   pt: |-
-    A múmia de um soldado que tem guardado a familia real durante milhares de anos. Mesmo agora, o seu espírito não deixa ninguém passar.
+    A múmia de um soldado que tem guardado a família real durante milhares de anos. Mesmo agora, o seu espírito não deixa ninguém passar.
   ja: |-
     何千年もの間王家を守り続けている兵士のミイラ。その魂は今も侵入者を許す事はない。
   ko: |-
@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     守护王家几千年的兵士的木乃伊。其灵魂现在也决不饶恕任何入侵者。
 card_type: Monster
-monster_type_line: Zombie
+monster_type_line: Zombie / Normal
 attribute: EARTH
 level: 2
 atk: 900
@@ -43,11 +43,15 @@ series:
 - Sarcophagus
 images:
 - index: 1
-  image: PharaonicProtector-DR2-EN-C-UE.png
+  image: PharaonicProtector-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR2-EN174
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: SGX3-ENI04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: AST-061
@@ -59,21 +63,37 @@ sets:
     set_name: Ancient Sanctuary
     rarities:
     - Short Print
+  - set_number: SGX3-DEI04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: AST-FR061
     set_name: Ancient Sanctuary
     rarities:
     - Short Print
+  - set_number: SGX3-FRI04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: AST-IT061
     set_name: Ancient Sanctuary
     rarities:
     - Short Print
+  - set_number: SGX3-ITI04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: AST-PT061
     set_name: Ancient Sanctuary
     rarities:
     - Short Print
+  - set_number: SGX3-PTI04
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 309-006
     set_name: Pharaoh's Inheritance
@@ -95,4 +115,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 18238

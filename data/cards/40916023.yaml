@@ -17,7 +17,7 @@ text:
   en: |-
     Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WATER monster from your GY. Once per turn, during your opponent's Standby Phase: You can target 1 face-up monster your opponent controls; change that target's battle position, and if you do, it cannot change its battle position for the rest of this turn.
   de: |-
-    Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 WASSER Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der Standby Phase deines Gegners: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere die Kampfposition des gewählten Ziels und falls du dies tust, kann es seine Kampfposition für den Rest dieses Spielzugs nicht ändern.
+    Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 WASSER Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der Standby Phase deines Gegners: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere die Kampfposition jenes gewählten Ziels und falls du dies tust, kann es für den Rest dieses Spielzugs seine Kampfposition nicht ändern.
   es: |-
     No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de AGUA en tu Cementerio. Una vez por turno, durante la Standby Phase de tu adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; cambia la posición de batalla de ese objetivo y, si lo haces, por el resto de este turno éste no puede cambiar su posición de batalla.
   fr: |-
@@ -46,7 +46,7 @@ images:
   image: '  AquaSpirit-BE02-JP-C.jpg'
   illustration: '  AquaSpirit-TF04-JP-VG.png'
 - index: '1.1'
-  image: AquaSpirit-SDFC-EN-C-1E.png
+  image: AquaSpirit-SGX3-EN-C-1E.png
   illustration: AquaSpirit-TF04-EN-VG.png
 sets:
   en:
@@ -60,6 +60,10 @@ sets:
     - Common
   - set_number: SDFC-EN021
     set_name: 'Structure Deck: Freezing Chains'
+    rarities:
+    - Common
+  - set_number: SGX3-ENI20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: LON-068
@@ -83,6 +87,10 @@ sets:
     set_name: 'Structure Deck: Freezing Chains'
     rarities:
     - Common
+  - set_number: SGX3-DEI20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: LDC-F068
     set_name: Labyrinth of Nightmare
@@ -94,6 +102,10 @@ sets:
     - Common
   - set_number: SDFC-FR021
     set_name: 'Structure Deck: Freezing Chains'
+    rarities:
+    - Common
+  - set_number: SGX3-FRI20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -109,9 +121,17 @@ sets:
     set_name: 'Structure Deck: Freezing Chains'
     rarities:
     - Common
+  - set_number: SGX3-ITI20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SDFC-PT021
     set_name: 'Structure Deck: Freezing Chains'
+    rarities:
+    - Common
+  - set_number: SGX3-PTI20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -155,4 +175,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 10641

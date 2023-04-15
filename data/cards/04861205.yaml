@@ -37,7 +37,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: CalloftheMummy-SR07-EN-C-1E.png
+  image: CalloftheMummy-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SD2-EN022
@@ -71,6 +71,10 @@ sets:
     - Shatterfoil Rare
   - set_number: SR07-EN028
     set_name: 'Structure Deck: Zombie Horde'
+    rarities:
+    - Common
+  - set_number: SGX3-ENC14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: PGD-038
@@ -111,6 +115,10 @@ sets:
     set_name: 'Structure Deck: Zombie Horde'
     rarities:
     - Common
+  - set_number: SGX3-DEC14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SD2-FR022
     set_name: 'Structure Deck: Zombie Madness'
@@ -143,6 +151,10 @@ sets:
     - Shatterfoil Rare
   - set_number: SR07-FR028
     set_name: 'Structure Deck: Zombie Horde'
+    rarities:
+    - Common
+  - set_number: SGX3-FRC14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -179,6 +191,10 @@ sets:
     set_name: 'Structure Deck: Zombie Horde'
     rarities:
     - Common
+  - set_number: SGX3-ITC14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SD2-PT022
     set_name: 'Structure Deck: Zombie Madness'
@@ -199,6 +215,10 @@ sets:
     - Shatterfoil Rare
   - set_number: SR07-PT028
     set_name: 'Structure Deck: Zombie Horde'
+    rarities:
+    - Common
+  - set_number: SGX3-PTC14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -258,4 +278,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 2239

@@ -6,7 +6,7 @@ name:
   es: Limpiador de Contadores
   fr: Aspirateur à compteurs
   it: Spazza Segnalini
-  pt:
+  pt: Aspirador de Contadores
   ja: カウンタークリーナー
   ja_romaji: Kauntā Kurīnā
   ko: 카운터 클리너
@@ -15,16 +15,17 @@ name:
   zh-CN: 指示物吸除器
 text:
   en: |-
-    Pay 500 Life Points. Remove all counters from the field.
+    Pay 500 LP; remove all counters on the field.
   de: |-
-    Bezahle 500 Life Points. Entferne alle Zählmarken vom Spielfeld.
+    Zahle 500 LP; entferne alle Zählmarken auf dem Spielfeld.
   es: |-
-    Paga 500 Life Points. Retira todos los contadores del Campo.
+    Paga 500 LP; retira todos los contadores en el Campo.
   fr: |-
-    Payez 500 Life Points. Retirez tous les compteurs du Terrain.
+    Payez 500 LP ; retirez tous les Compteurs sur le Terrain.
   it: |-
-    Paga 500 Life Points. Rimuovi tutti i Segnalini dal Terreno.
-  pt:
+    Paga 500 LP; rimuovi tutti i segnalini sul Terreno.
+  pt: |-
+    Pague 500 PV; remova todos os marcadores no campo.
   ja: |-
     ５００ライフポイントを払う。フィールド上に存在する全てのカウンターを取り除く。
   ko: |-
@@ -34,13 +35,19 @@ text:
     支付500基本分。把场上存在的全部指示物取除。
 card_type: Spell
 property: Normal
+series:
+- Counter
 images:
 - index: 1
-  image: CounterCleaner-CDIP-EN-C-1E.png
+  image: CounterCleaner-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: CDIP-EN041
     set_name: Cyberdark Impact
+    rarities:
+    - Common
+  - set_number: SGX3-ENI32
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -48,14 +55,31 @@ sets:
     set_name: Cyberdark Impact
     rarities:
     - Common
+  - set_number: SGX3-DEI32
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: CDIP-FR041
     set_name: Cyberdark Impact
     rarities:
     - Common
+  - set_number: SGX3-FRI32
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: CDIP-IT041
     set_name: Cyberdark Impact
+    rarities:
+    - Common
+  - set_number: SGX3-ITI32
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTI32
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -75,4 +99,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 13160

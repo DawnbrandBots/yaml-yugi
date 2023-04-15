@@ -15,17 +15,17 @@ name:
   zh-CN: 血之刻印
 text:
   en: |-
-    Select 1 Archfiend monster on your side of the field to activate this card. Your opponent also pays the same Life Points that you pay for the selected monster during the Standby Phase. If this card is removed from the field, destroy the selected monster. When the selected monster is removed from the field, destroy this card.
+    Activate this card by targeting 1 "Archfiend" monster you control. Your opponent also pays the same LP that you pay for that monster during the Standby Phase. When this card leaves the field, destroy that monster. If that monster leaves the field, destroy this card.
   de: |-
-    Wähle 1 ERZUNTERWELTLER-Monster auf deiner Spielfeldseite, um diese Karte zu aktivieren. Wenn der Spieler, der das gewählte Monster kontrolliert, in der Standby Phase Life Points für das gewählte Monster zahlt, zahlt sein Gegner Life Points in gleicher Höhe. Wenn diese Karte vom Spielfeld entfernt wird, zerstöre das gewählte Monster. Wenn das gewählte Monster vom Spielfeld entfernt wird, zerstöre diese Karte.
+    Aktiviere diese Karte, indem du 1 „Erzunterweltler“-Monster wählst, das du kontrollierst. Dein Gegner zahlt auch dieselben LP, die du während der Standby Phase für jenes Monster zahlst. Wenn diese Karte das Spielfeld verlässt, zerstöre jenes Monster. Falls jenes Monster das Spielfeld verlässt, zerstöre diese Karte.
   es: |-
-    Selecciona 1 monstruo ARCHIDEMONIO en tu Campo para activar esta carta. Cuando el controlador del monstruo paga Life Points durante la Standby Phase para el monstruo seleccionado, el adversario de ese jugador también paga los mismos Life Points. Si esta carta es retirada del Campo, destruye el monstruo seleccionado. Cuando el monstruo seleccionado es retirado del Campo, destruye esta carta.
+    Activa esta carta seleccionando 1 monstruo "Archidemonio" que controles. Tu adversario también paga los mismos LP que tú pagas por ese monstruo durante la Standby Phase. Cuando esta carta deje el Campo, destruye ese monstruo. Si ese monstruo deja el Campo, destruye esta carta.
   fr: |-
-    Sélectionnez 1 monstre Archdémon sur votre Terrain pour activer cette carte. Votre adversaire paye également les mêmes Life Points que vous payez pour le monstre sélectionné durant la Standby Phase. Si cette carte est retirée du Terrain, détruisez le monstre sélectionné. Lorsque le monstre sélectionné est retiré du Terrain, détruisez cette carte.
+    Activez cette carte en ciblant 1 monstre "Archdémon" que vous contrôlez. Durant la Standby Phase, votre adversaire paye aussi les mêmes LP que vous payez pour le monstre. Lorsque cette carte quitte le Terrain, détruisez le monstre. Si le monstre quitte le Terrain, détruisez cette carte.
   it: |-
-    Scegli 1 mostro ARCIDEMONE sul tuo Terreno per attivare questa carta. Quando il controllore del mostro paga Life Points durante la Standby Phase per il mostro scelto, l'avversario di quel giocatore paga lo stesso ammontare di Life Points. Se questa carta viene rimossa dal Terreno, distruggi il mostro scelto. Quando il mostro scelto viene rimosso dal Terreno, distruggi questa carta.
+    Attiva questa carta scegliendo come bersaglio 1 mostro "Arcidemone" che controlli. Anche il tuo avversario paga gli stessi LP che paghi tu per quel mostro durante la Standby Phase. Quando questa carta lascia il Terreno, distruggi quel mostro. Se quel mostro lascia il Terreno, distruggi questa carta.
   pt: |-
-    Escolha 1 monstro ARCHDEMÔNIO no seu Campo para activar este card. Quando o controlador do monstro paga Life Points durante a Standby Phase para o monstro escolhido, o adversário desse jogador também paga os mesmos Life Points. Se este card é removido do Campo, destrúa o monstro escolhido. Quando o monstro escolhido é removido do Campo, destrúa este card.
+    Ative este card ao escolher 1 monstro "Arquidemônio" que você controla. Seu oponente também paga os mesmos PV que você paga para esse monstro durante a Fase de Apoio. Quando este card deixar o campo, destrua esse monstro. Se esse monstro deixar o campo, destrua este card.
   ja: |-
     自分フィールド上に存在する「デーモン」という名のついたモンスター１体を選択して発動する。選択したモンスターがスタンバイフェイズに払うライフポイントは相手プレイヤーも払う。このカードがフィールド上から離れた時、選択したモンスターを破壊する。選択したモンスターがフィールド上から離れた場合、このカードを破壊する。
   ko: |-
@@ -38,9 +38,9 @@ property: Continuous
 images:
 - index: 1
   image: '  BattleScarred-EE1-JP-C.jpg'
-  illustration: '   BattleScarred-TF05-JP-VG-artwork.png'
+  illustration: '    BattleScarred-TF05-JP-VG-artwork.png'
 - index: '1.1'
-  image: BattleScarred-DR1-EN-C-UE.jpg
+  image: BattleScarred-SGX3-EN-C-1E.png
   illustration: BattleScarred-TF04-EN-VG-artwork.png
 sets:
   en:
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: DCR-EN097
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: SGX3-ENE19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-097
@@ -65,6 +69,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: SGX3-DEE19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR259
     set_name: Dark Revelation Volume 1
@@ -72,6 +80,10 @@ sets:
     - Common
   - set_number: DCR-FR097
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: SGX3-FRE19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -83,9 +95,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: SGX3-ITE19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT259
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTE19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -109,4 +129,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 14514

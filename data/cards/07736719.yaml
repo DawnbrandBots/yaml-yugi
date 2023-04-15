@@ -41,7 +41,7 @@ atk: 0
 def: 600
 images:
 - index: 1
-  image: VortexTrooper-LED2-EN-C-1E.png
+  image: VortexTrooper-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-ENSE2
@@ -55,6 +55,10 @@ sets:
     - Common
   - set_number: LED2-EN046
     set_name: 'Legendary Duelists: Ancient Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-ENH11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -71,6 +75,10 @@ sets:
     set_name: 'Legendary Duelists: Ancient Millennium'
     rarities:
     - Common
+  - set_number: SGX3-DEH11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FRSE2
     set_name: "Gladiator's Assault: Special Edition"
@@ -83,6 +91,10 @@ sets:
     - Common
   - set_number: LED2-FR046
     set_name: 'Legendary Duelists: Ancient Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-FRH11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -99,9 +111,17 @@ sets:
     set_name: 'Legendary Duelists: Ancient Millennium'
     rarities:
     - Common
+  - set_number: SGX3-ITH11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LED2-PT046
     set_name: 'Legendary Duelists: Ancient Millennium'
+    rarities:
+    - Common
+  - set_number: SGX3-PTH11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -125,4 +145,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 539258

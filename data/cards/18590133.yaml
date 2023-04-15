@@ -15,17 +15,17 @@ name:
   zh-CN: 哥布林王
 text:
   en: |-
-    While you control another Fiend monster, this card cannot be attacked. This card's ATK/DEF become equal to the number of other Fiend monsters on the field x 1000.
+    While you control another Fiend monster, monsters cannot attack this card. This card's ATK/DEF become the number of other Fiend monsters on the field x 1000.
   de: |-
-    Solange du ein anderes Unterweltler-Monster kontrollierst, kann diese Karte nicht angegriffen werden. Die ATK/DEF dieser Karte werden gleich der Anzahl der anderen Unterweltler-Monster auf dem Spielfeld x 1000.
+    Solange du ein anderes Unterweltler-Monster kontrollierst, können Monster diese Karte nicht angreifen. Die ATK/DEF dieser Karte werden gleich der Anzahl der anderen Unterweltler-Monster auf dem Spielfeld x 1000.
   es: |-
-    Mientras controles otro monstruo de Tipo Demonio, esta carta no puede ser atacada. El ATK y DEF de esta carta se se convierten, cada uno, en el número de monstruos de Tipo Demonio en el Campo (excluyendo a esta carta) x 1000 puntos.
+    Mientras controles otro monstruo Demonio, los monstruos no pueden atacar esta carta. El ATK/DEF de esta carta se convierten en el número de otros monstruos Demonio en el Campo x 1000.
   fr: |-
-    Tant que vous contrôlez un autre monstre Démon, cette carte ne peut pas être attaquée. L'ATK/DEF de cette carte deviennent égales au nombre d'autres monstres Démon sur le Terrain x 1000.
+    Tant que vous contrôlez un autre monstre Démon, les monstres ne peuvent pas attaquer cette carte. L'ATK/DEF de cette carte deviennent le nombre d'autres monstres Démon sur le Terrain x 1000.
   it: |-
-    Mentre controlli un altro mostro di Tipo Demone, questa carta non può essere attaccata. L'ATK e il DEF di questa carta sono ciascuno pari al numero di mostri di Tipo Demone sul Terreno (esclusa questa carta) x 1000.
+    Mentre controlli un altro mostro Demone, i mostri non possono attaccare questa carta. L'ATK/DEF di questa carta diventano il numero di altri mostri Demone sul Terreno x 1000.
   pt: |-
-    Este card não pode ser atacado se existir outro monstro do Tipo Demônio no seu Campo. O ATK e o DEF deste card torna-se no número de monstros do Tipo Demônio no Campo (excluíndo este card) x 1000 pontos.
+    Enquanto você controlar outro monstro Demônio, monstros não podem atacar este card. O ATK/DEF deste card se tornam o número de outros monstros Demônio no campo x 1000.
   ja: |-
     自分フィールド上にこのカード以外の悪魔族モンスターが存在する場合、このカードを攻撃する事はできない。このカードの攻撃力・守備力は、フィールド上のこのカード以外の悪魔族モンスターの数×１０００ポイントになる。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Goblin
 images:
 - index: 1
-  image: GoblinKing-OP13-EN-C-UE.png
+  image: GoblinKing-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR2-EN143
@@ -56,6 +56,10 @@ sets:
     - Common
   - set_number: OP13-EN013
     set_name: OTS Tournament Pack 13
+    rarities:
+    - Common
+  - set_number: SGX3-ENG08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: AST-031
@@ -79,6 +83,10 @@ sets:
     set_name: OTS Tournament Pack 13
     rarities:
     - Common
+  - set_number: SGX3-DEG08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: AST-FR031
     set_name: Ancient Sanctuary
@@ -94,6 +102,10 @@ sets:
     - Common
   - set_number: OP13-FR013
     set_name: OTS Tournament Pack 13
+    rarities:
+    - Common
+  - set_number: SGX3-FRG08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -113,6 +125,10 @@ sets:
     set_name: OTS Tournament Pack 13
     rarities:
     - Common
+  - set_number: SGX3-ITG08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: AST-PT031
     set_name: Ancient Sanctuary
@@ -120,6 +136,10 @@ sets:
     - Common
   - set_number: OP13-PT013
     set_name: OTS Tournament Pack 13
+    rarities:
+    - Common
+  - set_number: SGX3-PTG08
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -143,4 +163,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 18176

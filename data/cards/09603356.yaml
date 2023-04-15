@@ -6,7 +6,7 @@ name:
   es: Archidemonio Caballero de la Sombra
   fr: Chevalier de l'Ombre - Archdémon
   it: Arcidemone Cavaliere Ombra
-  pt: Archdemônio Cavaleiro das Trevas
+  pt: Arquidemônio Cavaleiro das Trevas
   ja: シャドウナイトデーモン
   ja_romaji: Shadō Naito Dēmon
   ko: 섀도우 나이트 데몬
@@ -15,17 +15,17 @@ name:
   zh-CN: 暗影骑士恶魔
 text:
   en: |-
-    The controller of this card pays 900 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. The Battle Damage this card inflicts to your opponent is halved.
+    Once per turn, during your Standby Phase, you must pay 900 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets this card, roll a six-sided die and negate that effect if you roll a 3, and if you do, destroy that card. Any battle damage this card inflicts to your opponent is halved.
   de: |-
-    Der Spieler, der diese Karte kontrolliert, zahlt 900 Life Points in jeder seiner Standby Phasen. Wenn diese Karte als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 3 ist, annulliere den Effekt und zerstöre die Karte. Kampfschaden, den diese Karte den Life Points deines Gegners zufügt, wird halbiert.
+    Einmal pro Spielzug, während deiner Standby Phase, musst du 900 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der diese Karte als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 3 würfelst, und falls du dies tust, zerstöre jene Karte. Kampfschaden, den diese Karte deinem Gegner zufügt, wird halbiert.
   es: |-
-    El controlador de esta carta paga 900 Life Points durante cada una de sus Standby Phases. Cuando esta carta es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 3, niega el efecto y destruye la carta de tu adversario. El daño de batalla que esta carta inflige a los Life Points de tu adversario se divide a la mitad.
+    Una vez por turno, durante tu Standby Phase, debes pagar 900 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione esta carta, lanza un dado de seis caras y niega ese efecto si sale 3 y, si lo haces, destruye esa carta. Cualquier daño de batalla que esta carta inflige a tu adversario se divide a la mitad.
   fr: |-
-    Le contrôleur de cette carte paye 900 Life Points durant chacune de ses Standby Phases (ceci est obligatoire). Lorsque cette carte est désignée comme cible de l'effet d'une carte contrôlée par votre adversaire, lors de la résolution de l'effet, lancez un dé à six faces. Si le résultat est 3, annulez l'effet et détruisez la carte de votre adversaire. Les dommages de combat que cette carte inflige à votre adversaire sont divisés par deux.
+    Une fois par tour, durant votre Standby Phase, vous devez payer 900 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible cette carte, lancez un dé à six faces et annulez l'effet si le résultat est 3, et si vous le faites, détruisez la carte. Les dommages de combat infligés par cette carte à votre adversaire sont divisés par deux.
   it: |-
-    Il controllore di questa carta paga 900 Life Points durante ogni sua Standby Phase (non è opzionale). Quando questa carta viene designata come bersaglio dell'effetto di una carta controllata dal tuo avversario, quando l'effetto viene risolto, tira un dado. Se il risultato è 3, annulla l'effetto e distruggi la carta dell'avversario. Il danno da combattimento che questa carta infligge ai Life Points del tuo avversario viene dimezzato.
+    Una volta per turno, durante la tua Standby Phase, devi pagare 900 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio questa carta, tira un dado a sei facce e annulla quell'effetto se tiri un 3 e, se lo fai, distruggi quella carta. Qualsiasi danno da combattimento che questa carta infligge al tuo avversario viene dimezzato.
   pt: |-
-    O controlador deste card paga 500 Life Points durante cada uma das suas Standby Phases. Quando este card é designado como o alvo de um efeito de um card controlado pelo seu adversário, ao resolver o efeito, lance um dado de seis lados. Se o resultado for 3, anule o efeito e destrua o card de seu adversário. O dano de batalha que este card inflige aos Life Points do seu adversário é dividido por dois.
+    Uma vez por turno, durante sua Fase de Apoio, você deve pagar 900 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha este card como alvo, lance um dado de seis faces e negue esse efeito se o resultado for um 3 e, se isso acontecer, destrua esse card. Qualquer dano de batalha que este card causar ao seu oponente é diminuído pela metade.
   ja: |-
     このカードのコントローラーは自分のスタンバイフェイズ毎に９００ライフポイントを払う。このカードが相手のコントロールするカードの効果の対象になり、その処理を行う時にサイコロを１回振る。３が出た場合、その効果を無効にし破壊する。このカードが相手プレイヤーに与えるダメージは半分になる。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ShadowknightArchfiend-DR1-EN-C-UE.png
+  image: ShadowknightArchfiend-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN230
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: DCR-EN068
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: SGX3-ENE06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-068
@@ -67,6 +71,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: SGX3-DEE06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR230
     set_name: Dark Revelation Volume 1
@@ -74,6 +82,10 @@ sets:
     - Common
   - set_number: DCR-FR068
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: SGX3-FRE06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -85,9 +97,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: SGX3-ITE06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT230
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTE06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -111,4 +131,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 15327

@@ -6,7 +6,7 @@ name:
   es: D.D. Nave Exploradora
   fr: Avion de Reconnaissance D.D.
   it: Navicella Spia D.D.
-  pt: Sentinela de Outra Dimensão
+  pt: Avião de Reconhecimento de D. D.
   ja: <ruby>異<rt>い</rt></ruby><ruby>次<rt>じ</rt></ruby><ruby>元<rt>げん</rt></ruby>の<ruby>偵<rt>てい</rt></ruby><ruby>察<rt>さつ</rt></ruby><ruby>機<rt>き</rt></ruby>
   ja_romaji: Ijigen no Teisatsuki
   ko: 이차원의 정찰기
@@ -15,17 +15,17 @@ name:
   zh-CN: 异次元的侦察机
 text:
   en: |-
-    Once per turn, during the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position.
+    During the End Phase, if this card is currently banished, and was banished this turn: Special Summon it in face-up Attack Position. This effect can only activate once per turn.
   de: |-
-    Einmal pro Spielzug, während der End Phase, falls diese Karte derzeit verbannt ist und in diesem Spielzug verbannt wurde: Beschwöre sie als Spezialbeschwörung in die offene Angriffsposition.
+    Während der End Phase, falls diese Karte derzeit verbannt ist und in diesem Spielzug verbannt wurde: Beschwöre sie als Spezialbeschwörung in die offene Angriffsposition. Dieser Effekt kann nur einmal pro Spielzug aktiviert werden.
   es: |-
-    Una vez por turno, durante la End Phase, si esta carta fue desterrada este turno y está desterrada en este momento: Invócala de Modo Especial en Posición de Ataque boca arriba.
+    Durante la End Phase, si esta carta está desterrada en este momento y fue desterrada este turno: Invócala de Modo Especial en Posición de Ataque boca arriba. Este efecto sólo puede activarse una vez por turno.
   fr: |-
-    Une fois par tour, durant la End Phase, si cette carte est actuellement bannie et a été bannie ce tour : Invoquez-la Spécialement en Position d'Attaque face recto.
+    Durant la End Phase, si cette carte est actuellement bannie, et a été bannie ce tour : Invoquez-la Spécialement en Position d'Attaque face recto. Cet effet ne peut être activé qu'une fois par tour.
   it: |-
-    Una volta per turno, durante la End Phase, se questa carta è attualmente bandita ed è stata bandita in questo turno: Evocala Specialmente scoperta in Posizione di Attacco.
+    Durante la End Phase, se questa carta è attualmente bandita ed è stata bandita in questo turno: Evocala Specialmente scoperta in Posizione di Attacco. Questo effetto può attivarsi una sola volta per turno.
   pt: |-
-    Se esta carta é removida do jogo, a Special Summon para o seu lado do campo na Posição de Ataque durante a End Phase.
+    Durante a Fase Final, se este card atualmente estiver banido e foi banido neste turno: Invoque-o por Invocação-Especial com a face para cima em Posição de Ataque. Este efeito só pode ser ativado uma vez por turno.
   ja: |-
     ①：このカードが除外されたターンのエンドフェイズに発動する。除外されているこのカードを攻撃表示で特殊召喚する（１ターンに１度のみ）。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - D.D.
 images:
 - index: 1
-  image: DDScoutPlane-LCYW-EN-R-1E.jpg
+  image: DDScoutPlane-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR2-EN012
@@ -62,6 +62,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Rare
+  - set_number: SGX3-ENF07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   - set_number: IOC-012
     set_name: Invasion of Chaos
     rarities:
@@ -83,6 +87,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Rare
+  - set_number: SGX3-DEF07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR012
     set_name: Dark Revelation Volume 2
@@ -100,6 +108,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Rare
+  - set_number: SGX3-FRF07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT012
     set_name: Dark Revelation Volume 2
@@ -117,6 +129,15 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Rare
+  - set_number: SGX3-ITF07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTF07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 306-012
     set_name: Controller of Chaos
@@ -159,4 +180,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 10859

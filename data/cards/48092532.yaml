@@ -15,17 +15,17 @@ name:
   zh-CN: 异次元的生还者
 text:
   en: |-
-    During the End Phase, if this card was banished while face-up, on your side of the field, this turn: Special Summon this banished card. This effect can only activate once per turn.
+    During the End Phase, if this card was banished while face-up on your field, this turn: Special Summon this banished card. This effect can only activate once per turn.
   de: |-
     Während der End Phase, falls diese Karte in diesem Spielzug verbannt wurde, solange sie offen auf deiner Spielfeldseite lag: Beschwöre diese verbannte Karte als Spezialbeschwörung. Dieser Effekt kann nur einmal pro Spielzug aktiviert werden.
   es: |-
-    Durante la End Phase, si esta carta fue desterrada este turno mientras estaba boca arriba en tu lado del Campo: Invoca esta carta desterrada de Modo Especial. Este efecto sólo puede ser activado una vez por turno.
+    Durante la End Phase, si esta carta fue desterrada mientras estaba boca arriba en tu Campo, este turno: Invoca de Modo Especial esta carta desterrada. Este efecto sólo puede activarse una vez por turno.
   fr: |-
-    Durant la End Phase, si cette carte a été bannie tant qu'elle était face recto sur votre Terrain ce tour : Invoquez Spécialement cette carte bannie. Cet effet ne peut être activé qu'une fois par tour.
+    Durant la End Phase, si cette carte a été bannie tant qu'elle était face recto sur votre Terrain, ce tour : Invoquez Spécialement cette carte bannie. Cet effet ne peut être activé qu'une fois par tour.
   it: |-
-    Durante la End Phase, se questa carta è stata bandita mentre era scoperta sul tuo Terreno in questo turno: Evoca Specialmente questa carta bandita. Questo effetto si può attivare una sola volta per turno.
+    Durante la End Phase, se questa carta è stata bandita mentre era scoperta sul tuo Terreno, in questo turno: Evoca Specialmente questa carta bandita. Questo effetto si può attivare una sola volta per turno.
   pt: |-
-    Se este card no seu Campo com a face para cima for removido de jogo, este card é Invocado, por Invocação-Especial, no Campo do seu dono durante a End Phase.
+    Durante a Fase Final, se este card foi banido enquanto estava com a face para cima no seu campo, neste turno: Invoque este card banido por Invocação-Especial. Este efeito só pode ser ativado uma vez por turno.
   ja: |-
     自分フィールド上に表側表示で存在するこのカードがゲームから除外された場合、このカードはエンドフェイズ時にフィールド上に特殊召喚される。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - D.D.
 images:
 - index: 1
-  image: DDSurvivor-RYMP-EN-C-1E.png
+  image: DDSurvivor-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: TLM-EN023
@@ -69,6 +69,10 @@ sets:
     - Common
   - set_number: RYMP-EN086
     set_name: Ra Yellow Mega Pack
+    rarities:
+    - Common
+  - set_number: SGX3-ENF06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -97,6 +101,10 @@ sets:
     set_name: Ra Yellow Mega Pack
     rarities:
     - Common
+  - set_number: SGX3-DEF06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: TLM-FR023
     set_name: The Lost Millennium
@@ -117,6 +125,10 @@ sets:
     - Common
   - set_number: RYMP-FR086
     set_name: Ra Yellow Mega Pack
+    rarities:
+    - Common
+  - set_number: SGX3-FRF06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -145,12 +157,20 @@ sets:
     set_name: Ra Yellow Mega Pack
     rarities:
     - Common
+  - set_number: SGX3-ITF06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: TLM-PT023
     set_name: The Lost Millennium
     rarities:
     - Rare
     - Ultimate Rare
+  - set_number: SGX3-PTF06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: TLM-JP023
     set_name: The Lost Millennium
@@ -185,4 +205,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 2371

@@ -15,17 +15,17 @@ name:
   zh-CN: 老化的诅咒
 text:
   en: |-
-    Discard 1 card from your hand. Decrease the ATK and DEF of all monsters on your opponent's side of the field by 500 points until the end of the turn this card is activated.
+    Discard 1 card; all monsters your opponent currently controls lose 500 ATK/DEF until the end of this turn.
   de: |-
-    Wirf 1 Karte aus deiner Hand ab. Verringere die ATK und DEF aller Monster auf der Spielfeldseite deines Gegners um 500 Punkte bis zum Ende dieses Spielzugs.
+    Wirf 1 Karte ab; alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs 500 ATK/DEF.
   es: |-
-    Descarta 1 carta de tu mano. Disminuye el ATK y la DEF de todos los monstruos en el Campo de tu adversario en 500 puntos hasta el final del turno.
+    Descarta 1 carta; todos los monstruos que controla tu adversario en este momento pierden 500 ATK/DEF hasta el final de este turno.
   fr: |-
-    Défaussez 1 carte de votre main. Jusqu'à la fin du tour, diminuez l'ATK et la DEF de tous les monstres sur le Terrain de votre adversaire de 500 points.
+    Défaussez 1 carte ; jusqu'à la fin de ce tour, tous les monstres actuellement contrôlés par votre adversaire perdent 500 ATK/DEF.
   it: |-
-    Scarta 1 carta dalla tua mano. Diminuisci ATK e DEF di tutti i mostri sul Terreno del tuo avversario di 500 punti fino alla fine di questo turno.
+    Scarta 1 carta; tutti i mostri attualmente controllati dal tuo avversario perdono 500 ATK/DEF fino alla fine di questo turno.
   pt: |-
-    Descarte 1 card da sua mão. Diminua o ATK e DEF de todos os monstros no Campo do seu adversário em 500 pontos até o final deste turno.
+    Descarte 1 card; todos os monstros que seu oponente controla atualmente perdem 500 de ATK/DEF até o final deste turno.
   ja: |-
     手札からカードを１枚捨てる。ターン終了時まで相手フィールド上の全モンスターの攻撃力・守備力は５００ポイントダウンする。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: CurseofAging-DR1-EN-C-UE.png
+  image: CurseofAging-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN042
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-ENF20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: PGD-094
@@ -53,9 +57,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-DEF20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR042
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-FRF20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -63,9 +75,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: SGX3-ITF20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT042
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTF20
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -89,4 +109,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 15841

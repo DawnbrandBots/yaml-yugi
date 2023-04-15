@@ -19,7 +19,7 @@ text:
   de: |-
     Wenn ein Monster eines Gegners einen Angriff deklariert: Sieh dir die Hand deines Gegners an und falls sie eine Monsterkarte enthält, annulliere den Angriff, dann wirf 1 Monster von seiner Hand ab (du bestimmst).
   es: |-
-    Cuando un monstruo del adversario declara un ataque: mira la mano de tu adversario y, si tiene una Carta de Monstruo, niega el ataque, y después descarta 1 monstruo en su mano (de tu elección).
+    Cuando un monstruo del adversario declara un ataque: mira la mano de tu adversario y, si tiene una Carta de Monstruo, niega el ataque, y después descarta 1 monstruo en su mano (tu elección).
   fr: |-
     Lorsqu'un monstre de l'adversaire déclare une attaque : regardez la main de votre adversaire, et s'il y a une Carte Monstre, annulez l'attaque, puis défaussez-lui 1 monstre (vous choisissez).
   it: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: TheForcefulCheckpoint-SS05-EN-C-1E.png
+  image: TheForcefulCheckpoint-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: TDIL-EN080
@@ -50,6 +50,10 @@ sets:
     - Ultra Rare
   - set_number: SS05-ENA30
     set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: SGX3-ENC19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -65,6 +69,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
     rarities:
     - Common
+  - set_number: SGX3-DEC19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: TDIL-FR080
     set_name: The Dark Illusion
@@ -76,6 +84,10 @@ sets:
     - Ultra Rare
   - set_number: SS05-FRA30
     set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: SGX3-FRC19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -91,6 +103,10 @@ sets:
     set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
     rarities:
     - Common
+  - set_number: SGX3-ITC19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: TDIL-PT080
     set_name: The Dark Illusion
@@ -102,6 +118,10 @@ sets:
     - Ultra Rare
   - set_number: SS05-PTA30
     set_name: 'Speed Duel Starter Decks: Twisted Nightmares'
+    rarities:
+    - Common
+  - set_number: SGX3-PTC19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:

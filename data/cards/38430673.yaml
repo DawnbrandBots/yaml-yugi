@@ -6,7 +6,7 @@ name:
   es: Gran Convergencia
   fr: Convergence Majeure
   it: Grande Convergenza
-  pt: Grande Convergência
+  pt: Grã-Convergência
   ja: グランドクロス
   ja_romaji: Gurando Kurosu
   ko: 그랜드 크로스
@@ -15,17 +15,17 @@ name:
   zh-CN: 大十字
 text:
   en: |-
-    If you control "Macro Cosmos": Inflict 300 damage to your opponent and destroy all monsters on the field.
+    If you control "Macro Cosmos": Inflict 300 damage to your opponent, and if you do, destroy all monsters on the field.
   de: |-
-    Falls du „Makrokosmos“ kontrollierst: Füge deinem Gegner 300 Schaden zu und zerstöre alle Monster auf dem Spielfeld.
+    Falls du „Makrokosmos“ kontrollierst: Füge deinem Gegner 300 Schaden zu und falls du dies tust, zerstöre alle Monster auf dem Spielfeld.
   es: |-
-    Si controlas "Macro Cosmos": inflige 300 puntos de daño a tu adversario y destruye todos los monstruos en el Campo.
+    Si controlas "Macro Cosmos": inflige 300 puntos de daño a tu adversario y, si lo haces, destruye todos los monstruos en el Campo.
   fr: |-
-    Si vous contrôlez "Macro Cosmos" : infligez 300 points de dommages à votre adversaire et détruisez tous les monstres sur le Terrain.
+    Si vous contrôlez "Macro Cosmos" : infligez 300 points de dommages à votre adversaire, et si vous le faites, détruisez tous les monstres sur le Terrain.
   it: |-
-    Se controlli "Macro Cosmo": infliggi 300 danni al tuo avversario e distruggi tutti i mostri sul Terreno.
+    Se controlli "Macro Cosmo": infliggi 300 danni al tuo avversario e, se lo fai, distruggi tutti i mostri sul Terreno.
   pt: |-
-    Se você controla "Macro Cosmo": Inflija 300 pontos de dano à seu oponente e destrua todos os monstros no campo.
+    Se você controlar "Macrocosmo": cause 300 de dano ao seu oponente e, se isso acontecer, destrua todos os monstros no campo.
   ja: |-
     自分フィールド上に「マクロコスモス」が存在する時に発動する事ができる。相手ライフに３００ポイントダメージを与え、フィールド上のモンスターを全て破壊する。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: GrandConvergence-RYMP-EN-C-1E.png
+  image: GrandConvergence-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: EOJ-EN046
@@ -50,6 +50,10 @@ sets:
     - Rare
   - set_number: RYMP-EN080
     set_name: Ra Yellow Mega Pack
+    rarities:
+    - Common
+  - set_number: SGX3-ENF16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DR04-EN226
@@ -69,6 +73,10 @@ sets:
     set_name: Ra Yellow Mega Pack
     rarities:
     - Common
+  - set_number: SGX3-DEF16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: EOJ-FR046
     set_name: Enemy of Justice
@@ -76,6 +84,10 @@ sets:
     - Common
   - set_number: RYMP-FR080
     set_name: Ra Yellow Mega Pack
+    rarities:
+    - Common
+  - set_number: SGX3-FRF16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -89,6 +101,15 @@ sets:
     - Rare
   - set_number: RYMP-IT080
     set_name: Ra Yellow Mega Pack
+    rarities:
+    - Common
+  - set_number: SGX3-ITF16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTF16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -112,4 +133,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 16445

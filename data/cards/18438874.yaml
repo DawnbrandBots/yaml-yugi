@@ -71,7 +71,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: EvilMind-LDS3-EN-C-1E.png
+  image: EvilMind-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: LED5-EN016
@@ -80,6 +80,10 @@ sets:
     - Rare
   - set_number: LDS3-EN037
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-ENA15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -91,6 +95,10 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-DEA15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: LED5-FR016
     set_name: 'Legendary Duelists: Immortal Destiny'
@@ -98,6 +106,10 @@ sets:
     - Rare
   - set_number: LDS3-FR037
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-FRA15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -109,6 +121,10 @@ sets:
     set_name: 'Legendary Duelists: Season 3'
     rarities:
     - Common
+  - set_number: SGX3-ITA15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LED5-PT016
     set_name: 'Legendary Duelists: Immortal Destiny'
@@ -116,6 +132,10 @@ sets:
     - Rare
   - set_number: LDS3-PT037
     set_name: 'Legendary Duelists: Season 3'
+    rarities:
+    - Common
+  - set_number: SGX3-PTA15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -131,4 +151,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 627207

@@ -15,17 +15,17 @@ name:
   zh-CN: 母灰熊
 text:
   en: |-
-    When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in face-up Attack Position.
+    When this card is destroyed by battle and sent to the GY: You can Special Summon 1 WATER monster with 1500 or less ATK from your Deck, in Attack Position.
   de: |-
-    Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 WASSER Monster mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die offene Angriffsposition beschwören.
+    Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst 1 WASSER Monster mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören.
   es: |-
-    Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de AGUA con 1500 ATK o menos en Posición de Ataque boca arriba.
+    Cuando esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de AGUA con 1500 ATK o menos en Posición de Ataque.
   fr: |-
-    Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre EAU avec max. 1500 ATK depuis votre Deck en Position d'Attaque face recto.
+    Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre EAU avec max. 1500 ATK depuis votre Deck en Position d'Attaque.
   it: |-
-    Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro ACQUA con ATK di 1500 o inferiore dal tuo Deck, scoperto in Posizione di Attacco.
+    Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro ACQUA con ATK 1500 o inferiore dal tuo Deck, in Posizione di Attacco.
   pt: |-
-    Quando este card for destruído em batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro ÁGUA com 1500 de ATK ou menos do seu Deck em Posição de Ataque com a face para cima.
+    Quando este card for destruído em batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial do seu Deck 1 monstro da ÁGUA com 1500 ou menos de ATK, em Posição de Ataque.
   ja: |-
     ①：このカードが戦闘で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の水属性モンスター１体を攻撃表示で特殊召喚する。
   ko: |-
@@ -44,7 +44,7 @@ series:
 - Attribute Summoner
 images:
 - index: 1
-  image: MotherGrizzly-SDRE-EN-C-1E.png
+  image: MotherGrizzly-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DB1-EN053
@@ -73,6 +73,10 @@ sets:
     - Secret Rare
   - set_number: SDRE-EN021
     set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENH12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: MRL-090
@@ -128,6 +132,10 @@ sets:
     set_name: Realm of the Sea Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEH12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F090
     set_name: Spell Ruler
@@ -155,6 +163,10 @@ sets:
     - Secret Rare
   - set_number: SDRE-FR021
     set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-FRH12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -186,9 +198,17 @@ sets:
     set_name: Realm of the Sea Emperor Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-ITH12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SD4-PT005
     set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: SGX3-PTH12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -253,4 +273,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 4417

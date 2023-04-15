@@ -6,7 +6,7 @@ name:
   es: Guardia del Cementerio
   fr: Cerbère de la Sépulture
   it: Protettore di Tomba
-  pt: Guardião do Cemitério
+  pt: Protetor do Cemitério
   ja: グレイヴ・キーパー
   ja_romaji: Gureivu Kīpā
   ko: 그레이브 키퍼
@@ -15,17 +15,17 @@ name:
   zh-CN: 墓场看守者
 text:
   en: |-
-    Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.
+    Any monster destroyed by battle is shuffled into the Deck instead of going to the GY.
   de: |-
     Alle Monster, die durch Kampf zerstört werden, werden ins Deck gemischt, anstatt auf den Friedhof gelegt zu werden.
   es: |-
     Cualquier monstruo destruido en batalla se baraja al Deck en vez de ir al Cementerio.
   fr: |-
-    Les monstres détruits au combat sont mélangés dans le Deck au lieu d'être envoyés au Cimetière.
+    Les monstres détruits au combat sont mélangés dans le Deck au lieu d'aller au Cimetière.
   it: |-
     Qualsiasi mostro distrutto in battaglia viene mischiato nel Deck invece di andare al Cimitero.
   pt: |-
-    Enquanto este card permanecer no Campo com a face para cima, monstros destruídos como resultado de um combate são devolvidos para o Deck do dono em vez de enviados para o Cemitério. Em seguida, embaralhe o Deck.
+    Qualquer monstro destruído em batalha é embaralhado no Deck em vez de ser enviado para o Cemitério.
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、戦闘によって破壊されたモンスターは墓地へは行かず、持ち主のデッキに戻る。その後デッキをシャッフルする。
   ko: |-
@@ -41,7 +41,7 @@ atk: 0
 def: 2000
 images:
 - index: 1
-  image: GraveProtector-BP01-EN-C-1E.png
+  image: GraveProtector-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR2-EN190
@@ -53,6 +53,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-ENG09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   - set_number: AST-077
     set_name: Ancient Sanctuary
     rarities:
@@ -71,6 +75,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-DEG09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: AST-FR077
     set_name: Ancient Sanctuary
@@ -85,6 +93,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-FRG09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: AST-IT077
     set_name: Ancient Sanctuary
@@ -99,11 +111,19 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-ITG09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: AST-PT077
     set_name: Ancient Sanctuary
     rarities:
     - Rare
+  - set_number: SGX3-PTG09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 309-022
     set_name: Pharaoh's Inheritance
@@ -129,4 +149,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 18328

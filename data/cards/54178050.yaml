@@ -15,17 +15,17 @@ name:
   zh-CN: 龙之逆鳞
 text:
   en: |-
-    Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster.
+    If your Dragon monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
   de: |-
-    Während eines Kampfes zwischen einem angreifenden Monster vom Typ Drache, das du kontrollierst, und einem Monster in Verteidigungsposition, dessen DEF niedriger sind als die ATK des angreifenden Monsters, füge die Differenz deinem Gegner als Kampfschaden zu.
+    Falls dein Drache-Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.
   es: |-
-    Durante una batalla entre 1 monstruo atacante de Tipo Dragon1Dragón que controles y un monstruo en Posición de defensa cuya DEF sea menor al ATK del monstruo atacante, inflige la diferencia como daño de batalla a tu adversario.
+    Si tu monstruo Dragón ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.
   fr: |-
-    Durant un combat entre un monstre attaquant de Type Dragon que vous contrôlez et un monstre en Position de Défense dont la DEF est inférieure à l'ATK du monstre attaquant, infligez la différence en tant que dommages de combat à votre adversaire.
+    Si votre monstre Dragon attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.
   it: |-
-    Fino a quando questa carta resta scoperta sul Terreno, quando un Mostro di Tipo Drago sul tuo Terreno attacca con un ATK superiore al DEF del Mostro in Posizione di Difesa, infliggi la differenza ai Life Points del tuo avversario come danno da combattimento.
+    Se un tuo mostro Drago attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.
   pt: |-
-    Durante uma batalha entre um monstro Dragon-Type atacando que você controla e um monstro na Posição de Defesa cuja DEF é menor que o ATK do monstro atacante, inflija a diferença como Dano de Batalha ao seu oponente.
+    Se um monstro Dragão seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.
   ja: |-
     ①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドのドラゴン族モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: DragonsRage-SDDL-EN-C-1E.jpg
+  image: DragonsRage-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: LOD-EN048
@@ -54,6 +54,10 @@ sets:
     - Common
   - set_number: SDDL-EN036
     set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENB17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: LOD-048
@@ -73,6 +77,10 @@ sets:
     set_name: Dragunity Legion Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEB17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SD1-FR024
     set_name: "Structure Deck: Dragon's Roar"
@@ -84,6 +92,10 @@ sets:
     - Common
   - set_number: SDDL-FR036
     set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-FRB17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -99,9 +111,17 @@ sets:
     set_name: Dragunity Legion Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-ITB17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SD1-PT024
     set_name: "Structure Deck: Dragon's Roar"
+    rarities:
+    - Common
+  - set_number: SGX3-PTB17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -150,4 +170,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 9842

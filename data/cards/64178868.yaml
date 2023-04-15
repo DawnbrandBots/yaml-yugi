@@ -17,9 +17,9 @@ text:
   en: |-
     At the end of the Battle Phase: You can add 1 card from your GY to your hand, except "Battle Survivor", that was sent there during this Battle Phase while you controlled this face-up card. You can only use this effect of "Battle Survivor" once per turn.
   de: |-
-    Am Ende der Battle Phase: Du kannst deiner Hand 1 Karte, die während dieser Battle Phase auf deinen Friedhof gelegt wurde, solange du diese offene Karte kontrolliert hast, von deinem Friedhof hinzufügen, außer „Überlebender der Schlacht“. Du kannst diesen Effekt von „Überlebender der Schlacht“ nur einmal pro Spielzug verwenden.
+    Am Ende der Battle Phase: Du kannst deiner Hand 1 Karte von deinem Friedhof hinzufügen, die während dieser Battle Phase dorthin gelegt wurde, solange du diese offene Karte kontrolliert hast, außer „Überlebender der Schlacht“. Du kannst diesen Effekt von „Überlebender der Schlacht“ nur einmal pro Spielzug verwenden.
   es: |-
-    Al final de la Battle Phase: puedes añadir a tu mano 1 carta en tu Cementerio, excepto "Superviviente de Batalla", que fuera mandada ahí durante esta Battle Phase mientras controlabas esta carta boca arriba. Sólo puedes usar este efecto de "Superviviente de Batalla" una vez por turno.
+    Al final de la Battle Phase: puedes añadir a tu mano 1 carta en tu Cementerio que fuera mandada ahí durante esta Battle Phase mientras controlabas esta carta boca arriba, excepto "Superviviente de Batalla". Sólo puedes usar este efecto de "Superviviente de Batalla" una vez por turno.
   fr: |-
     À la fin de la Battle Phase : vous pouvez ajouter 1 carte ("Survivant de Combat" exclu) depuis votre Cimetière, qui y a été envoyée durant cette Battle Phase tant que vous contrôliez cette carte face recto, à votre main. Vous ne pouvez utiliser cet effet de "Survivant de Combat" qu'une fois par tour.
   it: |-
@@ -42,7 +42,7 @@ atk: 1600
 def: 800
 images:
 - index: 1
-  image: BattleSurvivor-MP21-EN-C-1E.png
+  image: BattleSurvivor-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: IGAS-EN032
@@ -51,6 +51,10 @@ sets:
     - Common
   - set_number: MP21-EN014
     set_name: 2021 Tin of Ancient Battles
+    rarities:
+    - Common
+  - set_number: SGX3-END10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -62,6 +66,10 @@ sets:
     set_name: 2021 Tin of Ancient Battles
     rarities:
     - Common
+  - set_number: SGX3-DED10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: IGAS-FR032
     set_name: Ignition Assault
@@ -69,6 +77,10 @@ sets:
     - Common
   - set_number: MP21-FR014
     set_name: 2021 Tin of Ancient Battles
+    rarities:
+    - Common
+  - set_number: SGX3-FRD10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -80,6 +92,10 @@ sets:
     set_name: 2021 Tin of Ancient Battles
     rarities:
     - Common
+  - set_number: SGX3-ITD10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: IGAS-PT032
     set_name: Ignition Assault
@@ -87,6 +103,10 @@ sets:
     - Common
   - set_number: MP21-PT014
     set_name: 2021 Tin of Ancient Battles
+    rarities:
+    - Common
+  - set_number: SGX3-PTD10
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -102,4 +122,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 669658

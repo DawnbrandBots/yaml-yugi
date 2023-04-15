@@ -15,17 +15,17 @@ name:
   zh-CN: 亚马逊童军
 text:
   en: |-
-    During either player's turn: You can Tribute this card; this turn, face-up "Amazoness" monsters you currently control cannot be targeted by monster effects, and cannot be destroyed by card effects.
+    (Quick Effect): You can Tribute this card; this turn, neither player can target "Amazoness" monsters you currently control with monster effects, also they cannot be destroyed by card effects.
   de: |-
-    Du kannst diese Karte während der Spielzüge beider Spieler als Tribut anbieten. Falls du dies tust, können während dieses Spielzugs offene "Amazonisch"-Monster, die du kontrollierst, weder als Ziel für Effekte von Effektmonstern gewählt noch durch die Effekte von Zaubern, Fallen oder Effektmonstern zerstört werden.
+    (Schnelleffekt): Du kannst diese Karte als Tribut anbieten; in diesem Spielzug kann kein Spieler „Amazonisch“-Monster, die du derzeit kontrollierst, als Ziel für Monstereffekte wählen, zusätzlich können sie nicht durch Karteneffekte zerstört werden.
   es: |-
-    Durante el turno de cualquier jugador: puedes Sacrificar esta carta; este turno, los monstruos "Amazoness" boca arriba que controles en este momento no pueden ser seleccionados como objetivos de efectos de monstruos y no pueden ser destruidos por efectos de cartas.
+    (Efecto Rápido): puedes Sacrificar esta carta; este turno, ningún jugador puede seleccionar monstruos "Amazoness" que controles en este momento con efectos de monstruos, y además no pueden ser destruidos por efectos de cartas.
   fr: |-
-    Durant le tour de chaque joueur : vous pouvez Sacrifier cette carte ; ce tour, les monstres "Amazonesse" face recto que vous contrôlez actuellement ne peuvent être ni ciblés par des effets de monstre ni détruits par des effets de carte.
+    (Effet Rapide) : vous pouvez Sacrifier cette carte ; ce tour, aucun joueur ne peut cibler de monstres "Amazonesse" que vous contrôlez actuellement avec des effets de monstre, et aussi, ils ne peuvent pas être détruits par des effets de carte.
   it: |-
-    Durante il turno di qualsiasi giocatore: puoi offrire come Tributo questa carta; in questo turno i mostri "Amazoness" scoperti che controlli attualmente non possono essere scelti come bersagli dagli effetti dei mostri e non possono essere distrutti dagli effetti delle carte.
+    (Effetto Rapido): puoi offrire come Tributo questa carta; in questo turno, nessun giocatore può scegliere come bersaglio i mostri "Amazoness" che controlli attualmente con gli effetti dei mostri, inoltre essi non possono essere distrutti dagli effetti delle carte.
   pt: |-
-    Durante o turno de qualquer duelista: você pode oferecer este card como Tributo; neste turno, os monstros "Amazoness" com a face para cima que você controla atualmente não podem ser alvo de efeitos de monstro e não podem ser destruídos por efeitos de card.
+    (Efeito Rápido): você pode oferecer este card como Tributo; neste turno, nenhum duelista pode escolher monstros "Amazoness" que você controla atualmente como alvo de efeitos de monstro e, além disso, eles não podem ser destruídos por efeitos de card.
   ja: |-
     このカードをリリースして発動する。自分フィールド上に表側表示で存在する「アマゾネス」と名のついたモンスターは、このターン効果モンスターの効果の対象にならず、魔法・罠・効果モンスターの効果では破壊されない。この効果は相手ターンでも発動する事ができる。
   ko: |-
@@ -46,7 +46,7 @@ images:
   image: '  AmazonessScouts-EXP4-JP-C.jpg   '
   illustration: AmazonessScouts-MADU-JP-VG-artwork.png
 - index: '1.1'
-  image: AmazonessScouts-LCJW-EN-C-1E.png
+  image: AmazonessScouts-SGX3-EN-C-1E.png
   illustration: AmazonessScouts-MADU-EN-VG-artwork.png
 sets:
   en:
@@ -58,6 +58,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-END09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: DREV-DE081
     set_name: Duelist Revolution
@@ -65,6 +69,10 @@ sets:
     - Rare
   - set_number: LCJW-DE095
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-DED09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   fr:
@@ -76,6 +84,10 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-FRD09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DREV-IT081
     set_name: Duelist Revolution
@@ -85,9 +97,17 @@ sets:
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
     rarities:
     - Common
+  - set_number: SGX3-ITD09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LCJW-PT095
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: SGX3-PTD09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -103,4 +123,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 140096

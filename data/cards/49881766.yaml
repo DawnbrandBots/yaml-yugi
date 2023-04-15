@@ -6,7 +6,7 @@ name:
   es: Archidemonio Soldado
   fr: Archdémon Soldat
   it: Arcidemone Soldato
-  pt: Soldado Archfiend
+  pt: Soldado Arquidemônio
   ja: デーモン・ソルジャー
   ja_romaji: Dēmon Sorujā
   ko: 데몬 솔저
@@ -26,9 +26,6 @@ text:
     Un esperto in battaglia che appartiene ad una unità diabolica di prim'ordine. È famoso per portare sempre a termine il suo lavoro.
   pt: |-
     Um perito em batalha que pertence a uma unidade diabólica. Ele é famoso porque faz sempre o seu trabalho.
-
-
-    (Este card deve ser sempre considerado como um card "Arquidemônio".)
   ja: |-
     デーモンの中でも精鋭だけを集めた部隊に所属する戦闘のエキスパート。与えられた任務を確実にこなす事で有名。
   ko: |-
@@ -37,7 +34,7 @@ text:
   zh-CN: |-
     聚集了恶魔精锐的部队所属的战斗专家。由于每次都能如实完成给予的任务而很有名。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1900
@@ -46,7 +43,7 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendSoldier-YS15-EU-C-1E.png
+  image: ArchfiendSoldier-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN219
@@ -66,6 +63,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: SGX3-ENE02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   - set_number: DCR-057
     set_name: Dark Crisis
     rarities:
@@ -100,6 +101,10 @@ sets:
     set_name: '2-Player Starter Deck: Yuya & Declan'
     rarities:
     - Common
+  - set_number: SGX3-DEE02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR219
     set_name: Dark Revelation Volume 1
@@ -120,6 +125,10 @@ sets:
     - Starfoil Rare
   - set_number: YS15-FRD02
     set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SGX3-FRE02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -144,6 +153,10 @@ sets:
     set_name: '2-Player Starter Deck: Yuya & Declan'
     rarities:
     - Common
+  - set_number: SGX3-ITE02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT219
     set_name: Dark Revelation Volume 1
@@ -151,6 +164,10 @@ sets:
     - Common
   - set_number: YS15-PTD02
     set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SGX3-PTE02
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -182,4 +199,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 15212

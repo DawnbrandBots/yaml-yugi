@@ -17,9 +17,9 @@ text:
   en: |-
     Once per turn, during your End Phase: You can banish this card from your GY, then target 1 "Red-Eyes" monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you activate this effect.
   de: |-
-    Einmal pro Spielzug, während deiner End Phase: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Rotäugig“-Monster in deinem Friedhof wählen; beschwöre das gewählte Ziel als Spezialbeschwörung. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Normalbeschwörung beschwören/setzen.
+    Einmal pro Spielzug, während deiner End Phase: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Rotäugig“-Monster in deinem Friedhof wählen; beschwöre jenes gewählte Ziel als Spezialbeschwörung. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Normalbeschwörung beschwören/setzen.
   es: |-
-    Una vez por turno, durante tu End Phase: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo "Ojos Rojos" en tu Cementerio; Invoca de Modo Especial ese objetivo. No puedes Invocar de Modo Normal/Colocar durante el turno en el que activaste este efecto.
+    Una vez por turno, durante tu End Phase: puedes desterrar esta carta en tu Cementerio, y después selecciona 1 monstruo "Ojos Rojos" en tu Cementerio; Invoca ese objetivo de Modo Especial. No puedes Invocar de Modo Normal/Colocar durante el turno en el que activas este efecto.
   fr: |-
     Une fois par tour, durant votre End Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre "Yeux Rouges" dans votre Cimetière ; Invoquez Spécialement la cible. Vous ne pouvez pas Invoquer/Poser Normalement durant le tour où vous activez cet effet.
   it: |-
@@ -43,7 +43,7 @@ series:
 - Red-Eyes
 images:
 - index: 1
-  image: RedEyesWyvern-LDS1-EN-C-1E.png
+  image: RedEyesWyvern-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: ANPR-ENSE2
@@ -64,6 +64,10 @@ sets:
     - Common
   - set_number: LDS1-EN005
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-ENB06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: GX06-EN002
@@ -95,6 +99,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-DEB06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GX06-FR002
     set_name: Yu-Gi-Oh! GX Tag Force 3 promotional cards
@@ -118,6 +126,10 @@ sets:
     - Common
   - set_number: LDS1-FR005
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-FRB06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -145,6 +157,10 @@ sets:
     set_name: 'Legendary Duelists: Season 1'
     rarities:
     - Common
+  - set_number: SGX3-ITB06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: LCJW-PT049
     set_name: "Legendary Collection 4: Joey's World Mega Pack"
@@ -160,6 +176,10 @@ sets:
     - Common
   - set_number: LDS1-PT005
     set_name: 'Legendary Duelists: Season 1'
+    rarities:
+    - Common
+  - set_number: SGX3-PTB06
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -191,4 +211,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 83087

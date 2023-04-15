@@ -15,17 +15,17 @@ name:
   zh-CN: 女王的选择
 text:
   en: |-
-    Activate only when an "Amazoness" monster you control destroys an opponent's monster by battle and sends it to the Graveyard. Special Summon 1 Level 4 or lower "Amazoness" monster from your Deck.
+    When an "Amazoness" monster you control destroys an opponent's monster by battle and sends it to the GY: Special Summon 1 Level 4 or lower "Amazoness" monster from your Deck.
   de: |-
-    Aktiviere diese Karte nur, wenn ein "Amazonisch"-Monster, das du kontrollierst, ein Monster deines Gegners durch Kampf zerstört und auf den Friedhof legt. Beschwöre 1 "Amazonisch"-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck.
+    Wenn ein „Amazonisch“-Monster, das du kontrollierst, ein Monster eines Gegners durch Kampf zerstört und auf den Friedhof legt: Beschwöre 1 „Amazonisch“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck.
   es: |-
-    Sólo puedes activar esta carta cuando un monstruo "Amazoness" que controles destruye un monstruo de tu adversario en batalla y lo manda al Cementerio. Invoca de Modo Especial, desde tu Deck, un monstruo "Amazoness" de Nivel 4 o menor.
+    Cuando un monstruo "Amazoness" que controlas destruye un monstruo del adversario en batalla y lo manda al Cementerio: Invoca de Modo Especial, desde tu Deck, 1 monstruo "Amazoness" de Nivel 4 o menor.
   fr: |-
-    Activable uniquement lorsqu'un monstre "Amazonesse" que vous contrôlez détruit un monstre de l'adversaire au combat et l'envoie au Cimetière. Invoquez Spécialement 1 monstre "Amazonesse" de Niveau 4 ou moins depuis votre Deck.
+    Lorsqu'un monstre "Amazonesse" que vous contrôlez détruit un monstre de l'adversaire au combat et l'envoie au Cimetière : Invoquez Spécialement 1 monstre "Amazonesse" de max. Niveau 4 depuis votre Deck.
   it: |-
-    Attiva solo quando un mostro "Amazoness" che controlli distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero. Evoca Specialmente 1 mostro "Amazoness" di Livello 4 o inferiore dal tuo Deck.
+    Quando un mostro "Amazoness" che controlli distrugge un mostro dell'avversario in battaglia e lo manda al Cimitero: Evoca Specialmente 1 mostro "Amazoness" di Livello 4 o inferiore dal tuo Deck.
   pt: |-
-    Ative somente quando um monstro "Amazoness" ou "Amazon Archer" que você controla destrói um monstro em batalha e envia-o ao Cemitério. Special Summon 1 monstro "Amazoness" ou 1 "Amazon Archer" de Nível 4 ou menor do seu Deck para o seu lado do campo.
+    Quando um monstro "Amazoness" que você controla destruir um monstro do oponente em batalha e enviá-lo para o Cemitério: Invoque por Invocação-Especial 1 monstro "Amazoness" de Nível 4 ou menos do seu Deck.
   ja: |-
     自分フィールド上に存在する「アマゾネス」と名のついたモンスターが戦闘によって相手モンスターを破壊し墓地へ送った時に発動する事ができる。自分のデッキからレベル４以下の「アマゾネス」と名のついたモンスター１体を特殊召喚する。
   ko: |-
@@ -40,7 +40,7 @@ images:
   image: '  QueensPawn-DREV-JP-C.jpg   '
   illustration: QueensPawn-TF05-JP-VG.png
 - index: '1.1'
-  image: QueensPawn-DREV-EN-C-1E.jpg
+  image: QueensPawn-SGX3-EN-C-1E.png
   illustration: QueensPawn-MADU-EN-VG-artwork.png
 sets:
   en:
@@ -48,9 +48,17 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Common
+  - set_number: SGX3-END19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: DREV-DE073
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  - set_number: SGX3-DED19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   fr:
@@ -58,9 +66,22 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Common
+  - set_number: SGX3-FRD19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DREV-IT073
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  - set_number: SGX3-ITD19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTD19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -76,4 +97,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 123612

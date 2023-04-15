@@ -15,17 +15,17 @@ name:
   zh-CN: 红莲魔兽 泰沙
 text:
   en: |-
-    This card's ATK/DEF are each equal to the number of your banished cards x 400.
+    This card's ATK/DEF become the number of your banished cards x 400.
   de: |-
-    Die ATK/DEF dieser Karte entsprechen jeweils der Anzahl deiner verbannten Karten x 400.
+    Die ATK/DEF dieser Karte werden gleich der Anzahl deiner verbannten Karten x 400.
   es: |-
     El ATK/DEF de esta carta se convierten en el número de tus cartas desterradas x 400.
   fr: |-
-    L'ATK/DEF de cette carte sont égales au nombre de vos cartes bannies x 400.
+    L'ATK/DEF de cette carte deviennent le nombre de vos cartes bannies x 400.
   it: |-
-    Gli ATK/DEF di questa carta sono ognuno pari al numero delle tue carte bandite x 400.
+    Gli ATK/DEF di questa carta diventano il numero delle tue carte bandite x 400.
   pt: |-
-    O ATK/DEF deste card são iguais ao número dos seus cards banidos x 400.
+    O ATK/DEF deste card se tornam o número dos seus cards banidos x 400.
   ja: |-
     ①：このカードの攻撃力・守備力は、除外されている自分のカードの数×４００になる。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Maju
 images:
 - index: 1
-  image: GrenMajuDaEiza-OP12-EN-SR-UE.png
+  image: GrenMajuDaEiza-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: IOC-EN024
@@ -62,6 +62,10 @@ sets:
     set_name: OTS Tournament Pack 12
     rarities:
     - Super Rare
+  - set_number: SGX3-ENF12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   - set_number: IOC-024
     set_name: Invasion of Chaos
     rarities:
@@ -83,6 +87,10 @@ sets:
     set_name: OTS Tournament Pack 12
     rarities:
     - Super Rare
+  - set_number: SGX3-DEF12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR024
     set_name: Dark Revelation Volume 2
@@ -100,6 +108,10 @@ sets:
     set_name: OTS Tournament Pack 12
     rarities:
     - Super Rare
+  - set_number: SGX3-FRF12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT024
     set_name: Dark Revelation Volume 2
@@ -117,11 +129,19 @@ sets:
     set_name: OTS Tournament Pack 12
     rarities:
     - Super Rare
+  - set_number: SGX3-ITF12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: OP12-PT004
     set_name: OTS Tournament Pack 12
     rarities:
     - Super Rare
+  - set_number: SGX3-PTF12
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 306-024
     set_name: Controller of Chaos
@@ -162,4 +182,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 12174

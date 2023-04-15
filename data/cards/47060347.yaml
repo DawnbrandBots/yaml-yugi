@@ -6,7 +6,7 @@ name:
   es: El Auspicio de Gaia
   fr: Égide de Gaia
   it: Egida di Gaia
-  pt:
+  pt: Égide de Gaia
   ja: <ruby>女<rt>め</rt></ruby><ruby>神<rt>がみ</rt></ruby>の<ruby>加<rt>か</rt></ruby><ruby>護<rt>ご</rt></ruby>
   ja_romaji: Megami no Kago
   ko: 여신의 가호
@@ -15,16 +15,17 @@ name:
   zh-CN: 女神的加护
 text:
   en: |-
-    Gain 3000 Life Points. If this face-up card is removed from the field, take 3000 damage.
+    Gain 3000 LP. If this face-up card leaves the field, the controller of this card takes 3000 damage.
   de: |-
-    Du erhältst 3000 Life Points. Falls diese offene Karte vom Spielfeld entfernt wird, erhältst du 3000 Schaden.
+    Du erhältst 3000 LP. Falls diese offene Karte das Spielfeld verlässt, erhält der Beherrscher dieser Karte 3000 Schaden.
   es: |-
-    Gana 3000 Life Points. Si esta carta boca arriba es retirada del Campo, recibe 3000 puntos de daño.
+    Gana 3000 LP. Si esta carta boca arriba deja el Campo, el controlador de esta carta recibe 3000 puntos de daño.
   fr: |-
-    Gagnez 3000 Life Points. Si cette carte face recto est retirée du Terrain, recevez 3000 points de dommages.
+    Gagnez 3000 LP. Si cette carte face recto quitte le Terrain, le contrôleur de cette carte reçoit 3000 points de dommages.
   it: |-
-    Guadagna 3000 Life Points. Se questa carta scoperta viene rimossa dal Terreno, tu subisci 3000 danni.
-  pt:
+    Guadagni 3000 LP. Se questa carta scoperta lascia il Terreno, il controllore di questa carta subisce 3000 danni.
+  pt: |-
+    Ganhe 3000 PV. Se este card com a face para cima deixar o campo, o controlador deste card sofre 3000 de dano.
   ja: |-
     自分は３０００ライフポイント回復する。自分フィールド上に表側表示で存在するこのカードがフィールド上から離れた時、自分は３０００ポイントダメージを受ける。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: AegisofGaia-GLD3-EN-C-LE.png
+  image: AegisofGaia-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: STON-EN068
@@ -45,6 +46,10 @@ sets:
     - Secret Rare
   - set_number: GLD3-EN050
     set_name: Gold Series 3
+    rarities:
+    - Common
+  - set_number: SGX3-ENG17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -56,6 +61,10 @@ sets:
     set_name: Gold Series 3
     rarities:
     - Common
+  - set_number: SGX3-DEG17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: STON-FR068
     set_name: Strike of Neos
@@ -65,6 +74,10 @@ sets:
     set_name: Gold Series 3
     rarities:
     - Common
+  - set_number: SGX3-FRG17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: STON-IT068
     set_name: Strike of Neos
@@ -72,6 +85,15 @@ sets:
     - Secret Rare
   - set_number: GLD3-IT050
     set_name: Gold Series 3
+    rarities:
+    - Common
+  - set_number: SGX3-ITG17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTG17
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -87,4 +109,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 18076

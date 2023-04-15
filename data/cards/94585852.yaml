@@ -15,17 +15,17 @@ name:
   zh-CN: 万魔殿-恶魔的巢窟-
 text:
   en: |-
-    Neither player has to pay Life Points during the Standby Phase for "Archfiend" monsters. Each time a player's "Archfiend" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 "Archfiend" monster from their Deck to their hand that is a lower Level than the destroyed card.
+    Neither player has to pay LP during the Standby Phase for "Archfiend" monsters. When an "Archfiend" monster is destroyed and sent to the GY, except by battle: Its owner can add 1 "Archfiend" monster from their Deck to their hand with a lower Level than the destroyed card.
   de: |-
-    Kein Spieler braucht in der Standby Phase Life Points für „Erzunterweltler“-Monster zu zahlen. Jedes Mal, wenn ein „Erzunterweltler“-Monster eines Spielers zerstört und auf den Friedhof gelegt wird, außer durch Kampf, kann dieser Spieler seiner Hand 1 „Erzunterweltler“-Monster von seinem Deck hinzufügen, dessen Stufe geringer als die Stufe der zerstörten Karte ist.
+    Kein Spieler muss während der Standby Phase LP für „Erzunterweltler“-Monster zahlen. Wenn ein „Erzunterweltler“-Monster zerstört und auf den Friedhof gelegt wird, außer durch Kampf: Sein Besitzer kann seiner Hand 1 „Erzunterweltler“-Monster, dessen Stufe niedriger als die der zerstörten Karte ist, von seinem Deck hinzufügen.
   es: |-
-    Ningún jugador debe pagar Life Points durante la Standby Phase por monstruos "Archidemonio". Cada vez que un monstruo "Archidemonio" de un jugador es destruido y mandado al Cementerio, excepto en batalla, ese jugador puede añadir 1 monstruo "Archidemonio" de Nivel menor que la carta destruida desde su Deck a su mano.
+    Ningún jugador debe pagar LP durante la Standby Phase por monstruos "Archidemonio". Cuando un monstruo "Archidemonio" es destruido y mandado al Cementerio, excepto en batalla: su dueño puede añadir a su mano 1 monstruo "Archidemonio" en su Deck con un Nivel menor que el de la carta destruida.
   fr: |-
-    Aucun joueur n'a à payer de Life Points durant la Standby Phase pour les monstres "Archdémon". À chaque fois qu'un monstre "Archdémon" d'un joueur est détruit et envoyé au Cimetière, excepté au combat, ce joueur peut ajouter à sa main 1 monstre "Archdémon" de son Deck avec un Niveau inférieur à celui de la carte détruite.
+    Aucun joueur n'a à payer de LP durant la Standby Phase pour les monstres "Archdémon". Lorsqu'un monstre "Archdémon" est détruit et envoyé au Cimetière, sauf au combat : son propriétaire peut ajouter 1 monstre "Archdémon" depuis son Deck à sa main d'un Niveau inférieur à la carte détruite.
   it: |-
-    Nessun giocatore deve pagare Life Points durante la propria Standby Phase per l'effetto di Mostri di tipo "Arcidemone". Ogni volta che un Mostro "Arcidemone" è distrutto e mandato al Cimitero, eccetto che in seguito a una Battaglia, il suo controllore può aggiungere 1 Mostro "Arcidemone" dal suo Deck alla sua mano il cui livello sia inferiore a quello del Mostro distrutto.
+    Nessun giocatore deve pagare LP durante la Standby Phase per mostri "Arcidemone". Quando un mostro "Arcidemone" viene distrutto e mandato al Cimitero, eccetto in battaglia: il suo proprietario può aggiungere dal suo Deck alla sua mano 1 mostro "Arcidemone" con un Livello inferiore a quello della carta distrutta.
   pt: |-
-    Nenhum jogador tem de pagar Life Points durante a Standby Phase para monstros ARCHDEMÔNIO. Quando um Card de Monstro ARCHDEMÔNIO de um jogador é destruído, exeto como resultado de um combate, e enviado para o Cemitério, esse jogador pode escolher 1 Card de Monstro ARCHDEMÔNIO do seu Deck que tenha um Nível menor do que o card destruído e adicioná-lo à sua mão.
+    Nenhum duelista tem que pagar PV durante a Fase de Apoio para monstros "Arquidemônio". Quando um monstro "Arquidemônio" for destruído e enviado para o Cemitério, exceto em batalha: seu dono pode adicionar 1 monstro "Arquidemônio" do Deck dele à mão dele com um Nível menor que o do card destruído.
   ja: |-
     「デーモン」という名のついたモンスターはスタンバイフェイズにライフを払わなくてよい。戦闘以外で「デーモン」という名のついたモンスターカードが破壊されて墓地に送られた時、そのカードのレベル未満の「デーモン」という名のついたモンスターカードをデッキから１枚選択して手札に加える事ができる。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Field
 images:
 - index: 1
-  image: Pandemonium-GLD1-EN-C-LE.png
+  image: Pandemonium-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN256
@@ -50,6 +50,10 @@ sets:
     - Short Print
   - set_number: GLD1-EN037
     set_name: Gold Series
+    rarities:
+    - Common
+  - set_number: SGX3-ENE14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DCR-094
@@ -69,6 +73,10 @@ sets:
     set_name: Gold Series
     rarities:
     - Common
+  - set_number: SGX3-DEE14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR256
     set_name: Dark Revelation Volume 1
@@ -80,6 +88,10 @@ sets:
     - Common
   - set_number: GLD1-FR037
     set_name: Gold Series
+    rarities:
+    - Common
+  - set_number: SGX3-FRE14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -95,11 +107,19 @@ sets:
     set_name: Gold Series
     rarities:
     - Common
+  - set_number: SGX3-ITE14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT256
     set_name: Dark Revelation Volume 1
     rarities:
     - Rare
+  - set_number: SGX3-PTE14
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: 305-041
     set_name: Threat of the Dark Demon World
@@ -121,4 +141,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 589

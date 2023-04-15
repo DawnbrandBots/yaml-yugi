@@ -70,11 +70,15 @@ series:
 - Phantasm
 images:
 - index: 1
-  image: AwakeningoftheSacredBeasts-SDSA-EN-C-1E.png
+  image: AwakeningoftheSacredBeasts-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: SDSA-EN035
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-ENG15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -82,9 +86,17 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts'
     rarities:
     - Common
+  - set_number: SGX3-DEG15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: SDSA-FR035
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-FRG15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -92,9 +104,17 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts'
     rarities:
     - Common
+  - set_number: SGX3-ITG15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: SDSA-PT035
     set_name: 'Structure Deck: Sacred Beasts'
+    rarities:
+    - Common
+  - set_number: SGX3-PTG15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -115,4 +135,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-yugipedia_page_id: 722761
+  speed: Unlimited
+yugipedia_page_id: 713359

@@ -3,10 +3,10 @@ password: 35798491
 name:
   en: Darkbishop Archfiend
   de: Läufer der Finsternis, Erzunterweltler
-  es: Archidemonio Álfil Oscuro
+  es: Archidemonio Alfil Oscuro
   fr: Fou des Ténèbres - Archdémon
   it: Arcidemone Alfiere Oscuro
-  pt: Archdemônio Bispo das Trevas
+  pt: Arquidemônio Bispo das Trevas
   ja: ダークビショップデーモン
   ja_romaji: Dāku Bishoppu Dēmon
   ko: 다크 비숍 데몬
@@ -15,17 +15,17 @@ name:
   zh-CN: 暗黑主教恶魔
 text:
   en: |-
-    The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When an Archfiend Monster Card on your side of the field is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 1, 3, or 6, negate the effect and destroy the opponent's card.
+    Once per turn, during your Standby Phase, you must pay 500 LP (this is not optional), or this card is destroyed. When resolving an opponent's card effect that targets an "Archfiend" monster you control, roll a six-sided die and negate that effect if you roll a 1, 3, or 6, and if you do, destroy that card.
   de: |-
-    Der Spieler, der diese Karte kontrolliert, zahlt 500 Life Points in jeder seiner Standby Phasen. Wenn eine ERZUNTERWELTLER-Monsterkarte auf deiner Spielfeldseite als Ziel eines Effekts einer Karte, die dein Gegner kontrolliert, bestimmt wird, wirf bei der Abwicklung des Effekts einen sechsseitigen Würfel. Wenn das Würfelergebnis 1, 3 oder 6 ist, annulliere den Effekt und zerstöre die Karte.
+    Einmal pro Spielzug, während deiner Standby Phase, musst du 500 LP zahlen (dies ist nicht optional) oder diese Karte wird zerstört. Wenn ein Karteneffekt eines Gegners aufgelöst wird, der ein „Erzunterweltler“-Monster, das du kontrollierst, als Ziel wählt, wirf einen sechsseitigen Würfel und annulliere jenen Effekt, falls du eine 1, 3 oder 6 würfelst, und falls du dies tust, zerstöre jene Karte.
   es: |-
-    El controlador de esta carta paga 500 Life Points durante cada una de sus Standby Phases. Cuando una Carta de Monstruo ARCHIDEMONIO en tu Campo es designada como objetivo del efecto de una carta controlada por tu adversario, al resolver el efecto, lanza un dado de seis caras. Si el resultado es 1, 3 o 6, niega el efecto y destruye la carta de tu adversario.
+    Una vez por turno, durante tu Standby Phase, debes pagar 500 LP (esto no es opcional), o esta carta es destruida. Al resolver el efecto de una carta del adversario que seleccione un monstruo "Archidemonio" que controlas, lanza un dado de seis caras y niega ese efecto si sale 1, 3 o 6 y, si lo haces, destruye esa carta.
   fr: |-
-    Le contrôleur de cette carte paye 500 Life Points durant chacune de ses Standby Phases (ceci est obligatoire). Lorsqu'une carte monstre Archdémon sur votre Terrain est désignée comme cible de l'effet d'une carte contrôlée par votre adversaire, lors de la résolution de l'effet, lancez un dé à six faces. Si le résultat est 1, 3, ou 6, annulez l'effet et détruisez la carte de votre adversaire.
+    Une fois par tour, durant votre Standby Phase, vous devez payer 500 LP (ceci est obligatoire), ou cette carte est détruite. Lors de la résolution d'un effet de carte de l'adversaire qui cible un monstre "Archdémon" que vous contrôlez, lancez un dé à six faces et annulez l'effet si le résultat est 1, 3 ou 6, et si vous le faites, détruisez la carte.
   it: |-
-    Il controllore di questa carta paga 500 Life Points durante ogni sua Standby Phase (non è opzionale). Quando una Carta Mostro ARCIDEMONE sul tuo Terreno viene designata come bersaglio dell'effetto di una carta controllata dal tuo avversario, quando l'effetto viene risolto, tira un dado. Se il risultato è 1, 3 o 6, annulla l'effetto e distruggi la carta dell'avversario.
+    Una volta per turno, durante la tua Standby Phase, devi pagare 500 LP (questo non è opzionale), o questa carta viene distrutta. Quando si sta risolvendo l'effetto di una carta dell'avversario che sceglie come bersaglio un mostro "Arcidemone" che controlli, tira un dado a sei facce e annulla quell'effetto se tiri un 1, 3 o 6 e, se lo fai, distruggi quella carta.
   pt: |-
-    O controlador deste card paga 500 Life Points durante cada uma de suas Standby Phases. Quando um Card de Monstro ARCHDEMÔNIO no seu Campo é designado como o alvo de um efeito de um card controlado pelo seu adversário, ao resolver o efeito, lance um dado de seis lados. Se o resultado for 1, 3 ou 6, anule o efeito e destrua o card do seu adversário.
+    Uma vez por turno, durante sua Fase de Apoio, você deve pagar 500 PV (isso não é opcional), ou este card é destruído. Quando estiver resolvendo um efeito de card do oponente que escolha como alvo um monstro "Arquidemônio" que você controla, lance um dado de seis faces e negue esse efeito se o resultado for um 1, 3 ou 6 e, se isso acontecer, destrua esse card.
   ja: |-
     このカードのコントローラーは自分のスタンバイフェイズ毎に５００ライフポイントを払う。自分フィールド上に存在する「デーモン」という名のついたモンスターカードが相手のコントロールするカードの効果の対象になり、その処理を行う時にサイコロを１回振る。１・３・６が出た場合、その効果を無効にし破壊する。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: DarkbishopArchfiend-DR1-EN-C-UE.png
+  image: DarkbishopArchfiend-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DR1-EN231
@@ -54,6 +54,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Rare
+  - set_number: SGX3-ENE07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   - set_number: DCR-069
     set_name: Dark Crisis
     rarities:
@@ -67,6 +71,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Rare
+  - set_number: SGX3-DEE07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR231
     set_name: Dark Revelation Volume 1
@@ -76,6 +84,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Rare
+  - set_number: SGX3-FRE07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DR1-IT231
     set_name: Dark Revelation Volume 1
@@ -85,9 +97,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Rare
+  - set_number: SGX3-ITE07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT231
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: SGX3-PTE07
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -111,4 +131,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 12747

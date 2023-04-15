@@ -42,7 +42,7 @@ atk: 1600
 def: 600
 images:
 - index: 1
-  image: MirageDragon-YS15-EU-C-1E.png
+  image: MirageDragon-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: RDS-EN027
@@ -64,6 +64,10 @@ sets:
     - Mosaic Rare
   - set_number: SDBE-EN011
     set_name: Saga of Blue-Eyes White Dragon Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENB09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: YS15-ENF08
@@ -100,6 +104,10 @@ sets:
     set_name: '2-Player Starter Deck: Yuya & Declan'
     rarities:
     - Common
+  - set_number: SGX3-DEB09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: RDS-FR027
     set_name: Rise of Destiny
@@ -124,6 +132,10 @@ sets:
     - Common
   - set_number: YS15-FRY06
     set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SGX3-FRB09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -152,6 +164,10 @@ sets:
     set_name: '2-Player Starter Deck: Yuya & Declan'
     rarities:
     - Common
+  - set_number: SGX3-ITB09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: RDS-PT027
     set_name: Rise of Destiny
@@ -168,6 +184,10 @@ sets:
     - Common
   - set_number: YS15-PTY06
     set_name: '2-Player Starter Deck: Yuya & Declan'
+    rarities:
+    - Common
+  - set_number: SGX3-PTB09
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -221,4 +241,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 41

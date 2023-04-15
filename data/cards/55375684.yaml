@@ -6,7 +6,7 @@ name:
   es: Invocar Nube
   fr: Invocation de Nuage
   it: Evoca Nuvola
-  pt: Invocar Nuvem
+  pt: Invocação de Nuvem
   ja: <ruby>召喚雲<rt>サモンクラウド</rt></ruby>
   ja_romaji: Samon Kuraudo
   ko: 소환 구름
@@ -15,17 +15,17 @@ name:
   zh-CN: 召唤云
 text:
   en: |-
-    Once per turn, during your Main Phase, if you don't control any monsters, you can Special Summon 1 Level 4 or lower "Cloudian" monster from your hand or from either player's Graveyard. If you Special Summon a monster from the Graveyard with this effect, destroy this card.
+    Once per turn, during your Main Phase: You can Special Summon 1 Level 4 or lower "Cloudian" monster from your hand or either GY. You must control no monsters to activate and to resolve this effect. If you Special Summon a monster from the GY with this effect, destroy this card.
   de: |-
-    Einmal pro Spielzug, während deiner Main Phase, falls du keine Monster kontrollierst, kannst du 1 „Wolkian“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder dem Friedhof eines beliebigen Spielers beschwören. Falls du mit diesem Effekt ein Monster vom Friedhof als Spezialbeschwörung beschwörst, zerstöre diese Karte.
+    Einmal pro Spielzug, während deiner Main Phase: Du kannst 1 „Wolkian“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder einem beliebigen Friedhof beschwören. Du darfst keine Monster kontrollieren, um diesen Effekt zu aktivieren und aufzulösen. Falls du durch diesen Effekt ein Monster als Spezialbeschwörung vom Friedhof beschwörst, zerstöre diese Karte.
   es: |-
-    Una vez por turno, durante tu Main Phase, si no controlas ningún monstruo, puedes Invocar de Modo Especial 1 monstruo "Cloudian" de Nivel 4 o menor de tu mano o del Cementerio de cualquier jugador. Si Invocas de Modo Especial un monstruo del Cementerio con este efecto, destruye esta carta.
+    Una vez por turno, durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo "Cloudian" de Nivel 4 o menor desde tu mano o cualquier Cementerio. No debes controlar monstruos para activar y resolver este efecto. Si Invocas de Modo Especial un monstruo desde el Cementerio con este efecto, destruye esta carta.
   fr: |-
-    Une fois par tour, durant votre Main Phase, si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement 1 monstre "Nuagien" de Niveau 4 ou moins depuis votre main ou un des Cimetières. Si vous Invoquez Spécialement un monstre depuis le Cimetière avec cet effet, détruisez cette carte.
+    Une fois par tour, durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre "Nuagien" de max. Niveau 4 depuis votre main ou l'un des Cimetières. Vous ne devez contrôler aucun monstre pour activer et résoudre cet effet. Si vous Invoquez Spécialement un monstre depuis le Cimetière avec cet effet, détruisez cette carte.
   it: |-
-    Una volta per turno, durante la tua Main Phase, se non controlli alcun mostro, puoi Evocare tramite Evocazione Speciale 1 mostro "Nubiano" di Livello 4 o inferiore dalla tua mano o da qualsiasi Cimitero. Se Evochi un mostro tramite Evocazione Speciale dal Cimitero con questo effetto, distruggi questa carta.
+    Una volta per turno, durante la tua Main Phase: puoi Evocare Specialmente 1 mostro "Nubiano" di Livello 4 o inferiore dalla tua mano o qualsiasi Cimitero. Non devi controllare nessun mostro per attivare e risolvere questo effetto. Se Evochi Specialmente un mostro dal Cimitero con questo effetto, distruggi questa carta.
   pt: |-
-    Uma vez por turno, durante sua Fase Principal, se você não controlar nenhum monstro, você pode Invocar por Invocação-Especial 1 monstro "Nuviano" de Nível 4 ou menos da sua mão ou do Cemitério de qualquer duelista. Se você Invocar por Invocação-Especial um monstro do Cemitério com este efeito, destrua este card.
+    Uma vez por turno, durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro "Nuviano" de Nível 4 ou menos da sua mão ou de qualquer Cemitério. Você não pode controlar nenhum monstro para ativar e resolver este efeito. Se você Invocar por Invocação-Especial um monstro do Cemitério com este efeito, destrua este card.
   ja: |-
     自分フィールド上にモンスターが存在しない場合、自分の手札または墓地からレベル４以下の「雲魔物」と名のついたモンスター１体を特殊召喚する事ができる。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。墓地から特殊召喚した場合はこのカードを破壊する。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: SummonCloud-GLAS-EN-C-1E.png
+  image: SummonCloud-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: GLAS-EN049
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ENH15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -49,14 +53,31 @@ sets:
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-DEH15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: GLAS-FR049
     set_name: Gladiator's Assault
     rarities:
     - Common
+  - set_number: SGX3-FRH15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: GLAS-IT049
     set_name: Gladiator's Assault
+    rarities:
+    - Common
+  - set_number: SGX3-ITH15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH15
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -72,4 +93,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 505380

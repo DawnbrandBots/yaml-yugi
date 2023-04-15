@@ -6,7 +6,7 @@ name:
   es: Cloudian Enfurecido
   fr: Colère du Nuagien
   it: Rabbia Nubiana
-  pt: Agressividade Nuviana
+  pt: Nuviano Devastador
   ja: アグレッシブ・クラウディアン
   ja_romaji: Aguresshibu Kuraudian
   ko: 어그레시브 클라우디언
@@ -15,17 +15,17 @@ name:
   zh-CN: 攻击性云魔物
 text:
   en: |-
-    Activate only when a "Cloudian" monster(s) you control is destroyed by its own effect and sent to the Graveyard. Special Summon 1 of those monsters from your Graveyard in Attack Position and place 1 Fog Counter on it. It cannot be changed to Defense Position by a card effect.
+    When a "Cloudian" monster(s) you control is destroyed by its own effect and sent to your GY: Target 1 of those monsters; Special Summon it in Attack Position, and if you do, place 1 Fog Counter on it, also it cannot be changed to Defense Position by card effects.
   de: |-
-    Aktiviere diese Karte nur, wenn (ein) "Wolkian"-Monster, das du kontrollierst, durch seinen eigenen Effekt zerstört und auf den Friedhof gelegt wird. Beschwöre 1 dieser Monster als Spezialbeschwörung von deinem Friedhof in Angriffsposition und lege 1 Nebel-Zählmarke darauf. Es kann nicht durch einen Karteneffekt in die Verteidigungsposition geändert werden.
+    Wenn ein oder mehr „Wolkian“-Monster, die du kontrollierst, durch ihren eigenen Effekt zerstört und auf deinen Friedhof gelegt werden: Wähle 1 jenes Monster; beschwöre es als Spezialbeschwörung in die Angriffsposition und falls du dies tust, lege 1 Nebel-Zählmarke darauf, zusätzlich kann es nicht durch Karteneffekte in die Verteidigungsposition geändert werden.
   es: |-
-    Sólo puedes activar esta carta cuando un monstruo "Cloudian" que controlas es destruido por su propio efecto y mandado al Cementerio. Invoca de Modo Especial desde tu Cementerio 1 de esos monstruos, en Posición de Ataque, y ponle 1 Contador de Niebla. No puede ser cambiado a Posición de Defensa por el efecto de una carta.
+    Cuando uno o más monstruos "Cloudian" que controlas son destruidos por su propio efecto y mandados a tu Cementerio: selecciona 1 de esos monstruos; Invócalo de Modo Especial en Posición de Ataque y, si lo haces, ponle 1 Contador de Niebla, y además no puede ser cambiado a Posición de Defensa por efectos de cartas.
   fr: |-
-    Activable uniquement lorsqu'un (ou plusieurs) monstre(s) "Nuagien" que vous contrôlez est (sont) détruit(s) par son (leur) propre effet et envoyé(s) au Cimetière. Invoquez Spécialement 1 de ces monstres depuis votre Cimetière en Position d'Attaque et placez 1 Compteur Brume dessus. Il ne peut pas être changé en Position de Défense par l'effet d'une carte.
+    Lorsqu'un ou plusieurs monstres "Nuagien" que vous contrôlez sont détruits par leur propre effet et envoyés à votre Cimetière : ciblez 1 de ces monstres ; Invoquez-le Spécialement en Position d'Attaque, et si vous le faites, placez 1 Compteur Brume sur lui, et aussi, il ne peut pas être changé en Position de Défense par des effets de carte.
   it: |-
-    Attiva solo quando uno o più mostri "Nubiano" che controlli vengono distrutti dal loro stesso effetto e mandati al Cimitero. Evoca tramite Evocazione Speciale 1 di quei mostri dal tuo Cimitero in Posizione di Attacco e metti 1 Segnalino Nebbia su di esso. Esso non può essere messo in Posizione di Difesa se non per effetto di una carta.
+    Quando uno o più mostri "Nubiano" che controlli vengono distrutti dal loro stesso effetto e mandati al tuo Cimitero: scegli come bersaglio 1 di quei mostri; Evocalo Specialmente in Posizione di Attacco e, se lo fai, metti 1 Segnalino Nebbia su di esso, inoltre esso non può essere messo in Posizione di Difesa dagli effetti delle carte.
   pt: |-
-    Ative somente quando um ou mais monstros "Nuviano" que você controla forem destruídos por seu próprio efeito e enviados para o Cemitério. Invoque por Invocação-Especial 1 desses monstros do seu Cemitério em Posição de Ataque e coloque 1 Marcador de Neblina nele. Ele não pode ser colocado em Posição de Defesa por efeitos de card.
+    Quando um ou mais monstros "Nuviano" que você controla forem destruídos por seu próprio efeito e enviados para o seu Cemitério: escolha 1 desses monstros; Invoque-o por Invocação-Especial em Posição de Ataque e, se isso acontecer, coloque 1 Marcador de Névoa nele e, além disso, ele não pode ser colocado em Posição de Defesa por efeitos de card.
   ja: |-
     自分フィールド上に存在する「雲魔物」と名のついたモンスターが自身の効果により破壊され墓地に送られた時に発動する事ができる。自分の墓地からそのモンスター１体を攻撃表示で特殊召喚し、そのモンスターにフォッグカウンターを１つ置く。この効果で特殊召喚されたモンスターはカードの効果によっては守備表示にならない。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: RagingCloudian-LODT-EN-C-1E.png
+  image: RagingCloudian-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: LODT-EN076
     set_name: Light of Destruction
+    rarities:
+    - Common
+  - set_number: SGX3-ENH18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -49,14 +53,31 @@ sets:
     set_name: Light of Destruction
     rarities:
     - Common
+  - set_number: SGX3-DEH18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: LODT-FR076
     set_name: Light of Destruction
     rarities:
     - Common
+  - set_number: SGX3-FRH18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: LODT-IT076
     set_name: Light of Destruction
+    rarities:
+    - Common
+  - set_number: SGX3-ITH18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTH18
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -72,4 +93,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 83544

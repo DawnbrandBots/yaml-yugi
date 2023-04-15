@@ -6,7 +6,7 @@ name:
   es: Garuda el Espíritu del Viento
   fr: Garuda l'Esprit du Vent
   it: Garuda lo Spirito del Vento
-  pt: Garuda o Espírito do Vento
+  pt: Garuda, o Espírito do Vento
   ja: <ruby>風<rt>かぜ</rt></ruby>の<ruby>精<rt>せい</rt></ruby><ruby>霊<rt>れい</rt></ruby> ガルーダ
   ja_romaji: Kaze no Seirei Garūda
   ko: 바람의 정령 가루다
@@ -15,17 +15,17 @@ name:
   zh-CN: 风之精灵 迦楼罗
 text:
   en: |-
-    This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 1 WIND monster in your Graveyard. During your opponent's End Phase, you can select 1 face-up monster your opponent controls, and change its battle position.
+    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 WIND monster from your GY. Once per turn, during your opponent's End Phase: You can target 1 face-up monster your opponent controls; change that target's battle position.
   de: |-
-    Diese Karte kann nur als Spezialbeschwörung beschworen werden, indem du 1 WIND Monster von deinem Friedhof aus dem Spiel entfernst. Solange diese Karte offen auf dem Spielfeld liegt, kannst du in jeder End Phase deines Gegners die Position einer offenen Monsterkarte deines Gegners ändern.
+    Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 WIND Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; ändere die Kampfposition jenes gewählten Ziels.
   es: |-
-    Esta carta no puede ser Invocada de Modo Normal, ni Colocada. Esta carta sólo puede ser Invocada de Modo Especial retirando del juego 1 Monstruo de VIENTO en tu Cementerio. Durante la End Phase de tu adversario, puedes seleccionar 1 monstruo boca arriba que controle tu adversario y cambiar su posición de batalla.
+    No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de VIENTO en tu Cementerio. Una vez por turno, durante la End Phase de tu adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; cambia la posición de batalla de ese objetivo.
   fr: |-
-    Cette carte ne peut ni être Invoquée Normalement ni être Posée. Cette carte ne peut être Invoquée Spécialement qu'en retirant du jeu 1 monstre VENT dans votre Cimetière. Durant la End Phase de votre adversaire, vous pouvez sélectionner 1 monstre face recto contrôlé par votre adversaire et changer sa position de combat.
+    Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre VENT depuis votre Cimetière. Une fois par tour, durant la End Phase de votre adversaire : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; changez la position de combat de la cible.
   it: |-
-    Questa carta non può essere Evocata Normalmente o Posizionata. Questa carta può essere Evocata solo Specialmente rimuovendo dal gioco 1 mostro VENTO nel tuo Cimitero. Durante l'End Phase del tuo avversario, puoi scegliere 1 mostro scoperto controllato dal tuo avversario, e cambiare la sua posizione.
+    Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro VENTO dal tuo Cimitero. Una volta per turno, durante la End Phase del tuo avversario: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; cambia la posizione di quel bersaglio.
   pt: |-
-    Este card não pode ser Invocado/Baixado por Invocação-Normal. Este card só pode ser Invocado por Invocação-Especial ao banir 1 monstro VENTO do seu Cemitério. Durante a Fase Final do seu oponente, você pode selecionar 1 monstro com a face para cima que seu oponente controla e mudar a sua posição de batalha.
+    Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro de VENTO do seu Cemitério. Uma vez por turno, durante a Fase Final do seu oponente: você pode escolher 1 monstro com a face para cima que seu oponente controla; mude a posição de batalha do alvo.
   ja: |-
     このカードは通常召喚できない。自分の墓地から風属性モンスター１体を除外した場合に特殊召喚できる。①：相手エンドフェイズに、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手の表側表示モンスターの表示形式を変更する。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Attribute Spirit
 images:
 - index: 1
-  image: GarudatheWindSpirit-SDDL-EN-C-1E.jpg
+  image: GarudatheWindSpirit-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: LON-EN070
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: SDDL-EN014
     set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENI21
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: LON-070
@@ -71,6 +75,10 @@ sets:
     set_name: Dragunity Legion Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEI21
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: LDC-F070
     set_name: Labyrinth of Nightmare
@@ -80,6 +88,10 @@ sets:
     set_name: Dragunity Legion Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-FRI21
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: LDI-I070
     set_name: Labyrinth of Nightmare
@@ -87,6 +99,15 @@ sets:
     - Common
   - set_number: SDDL-IT014
     set_name: Dragunity Legion Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ITI21
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTI21
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -130,4 +151,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 3133

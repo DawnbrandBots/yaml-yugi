@@ -6,7 +6,7 @@ name:
   es: Trato Oscuro
   fr: Échange Ténébreux
   it: Accordo Oscuro
-  pt:
+  pt: Negócio das Trevas
   ja: <ruby>闇<rt>やみ</rt></ruby>の<ruby>取<rt>とり</rt></ruby><ruby>引<rt>ひき</rt></ruby>
   ja_romaji: Yami no Torihiki
   ko: 어둠의 거래
@@ -15,16 +15,17 @@ name:
   zh-CN: 暗之取引
 text:
   en: |-
-    When your opponent activates a Normal Spell Card: Pay 1000 Life Points; the effect of that Normal Spell Card becomes "Your opponent discards 1 random card".
+    When your opponent activates a Normal Spell Card: Pay 1000 LP; the activated effect of that Normal Spell becomes "Your opponent discards 1 random card".
   de: |-
-    Wenn dein Gegner eine Normale Zauberkarte aktiviert: Zahle 1000 Life Points; der Effekt der Normalen Zauberkarte wird zu „Dein Gegner wirft 1 zufällige Karte ab“.
+    Wenn dein Gegner eine Normale Zauberkarte aktiviert: Zahle 1000 LP; der aktivierte Effekt jenes Normalen Zaubers wird zu „Dein Gegner wirft 1 zufällige Karte ab.“
   es: |-
-    Cuando tu adversario activa una Carta Mágica Normal: paga 1000 Life Points; el efecto de esa Carta Mágica Normal se convierte en "Tu adversario descarta 1 carta al azar".
+    Cuando tu adversario activa una Carta Mágica Normal: paga 1000 LP; el efecto activado de esa Mágica Normal se convierte en "Tu adversario descarta 1 carta al azar".
   fr: |-
-    Lorsque votre adversaire active une Carte Magie Normale : payez 1000 Life Points ; l'effet de la Carte Magie Normale devient "Votre adversaire défausse 1 carte au hasard".
+    Lorsque votre adversaire active une Carte Magie Normale : payez 1000 LP ; l'effet activé de la Magie Normale devient "Votre adversaire défausse 1 carte au hasard".
   it: |-
-    Quando il tuo avversario attiva una Carta Magia Normale: paga 1000 Life Point; l'effetto di quella Carta Magia Normale diventa "Il tuo avversario scarta 1 carta a caso".
-  pt:
+    Quando il tuo avversario attiva una Carta Magia Normale: paga 1000 LP; l'effetto attivato di quella Magia Normale diventa "Il tuo avversario scarta 1 carta a caso".
+  pt: |-
+    Quando seu oponente ativar um Card de Magia Normal: pague 1000 PV; o efeito ativado dessa Magia Normal se torna "Seu oponente descarta 1 card aleatório".
   ja: |-
     相手の通常魔法発動時に１０００ライフポイントを払って発動する事ができる。その時相手が発動した通常魔法の効果は、「相手はランダムに手札を１枚捨てる」となる。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: DarkDeal-SDGU-EN-C-1E.jpg
+  image: DarkDeal-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: EEN-EN052
@@ -45,6 +46,10 @@ sets:
     - Common
   - set_number: SDGU-EN036
     set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ENA19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   - set_number: DR04-EN112
@@ -60,6 +65,10 @@ sets:
     set_name: Gates of the Underworld Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-DEA19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: EEN-FR052
     set_name: Elemental Energy
@@ -69,6 +78,10 @@ sets:
     set_name: Gates of the Underworld Structure Deck
     rarities:
     - Common
+  - set_number: SGX3-FRA19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: EEN-IT052
     set_name: Elemental Energy
@@ -76,6 +89,15 @@ sets:
     - Common
   - set_number: SDGU-IT036
     set_name: Gates of the Underworld Structure Deck
+    rarities:
+    - Common
+  - set_number: SGX3-ITA19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTA19
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -99,4 +121,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 1569

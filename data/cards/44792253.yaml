@@ -6,7 +6,7 @@ name:
   es: D.D. Destructor
   fr: Destructeur D.D.
   it: D.D. Distruttore
-  pt:
+  pt: Destruidor D.D.
   ja: <ruby>Ｄ<rt>ディー</rt></ruby>．<ruby>Ｄ<rt>ディー</rt></ruby>．デストロイヤー
   ja_romaji: Dī Dī Desutoroiyā
   ko: D.D. 디스트로이어
@@ -15,16 +15,17 @@ name:
   zh-CN: D.D.破坏王
 text:
   en: |-
-    When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.
+    When this card on the field is banished: You can target 1 face-up card your opponent controls; destroy that target.
   de: |-
-    Wenn diese Karte auf dem Spielfeld aus dem Spiel entfernt wird, kannst du 1 offene Karte wählen, die dein Gegner kontrolliert, und sie zerstören.
+    Wenn diese Karte auf dem Spielfeld verbannt wird: Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert; zerstöre jenes gewählte Ziel.
   es: |-
-    Cuando esta carta en el Campo es retirada del juego, puedes seleccionar 1 carta boca arriba que controle tu adversario y destruirla.
+    Cuando esta carta en el Campo es desterrada: puedes seleccionar 1 carta boca arriba que controle tu adversario; destruye ese objetivo.
   fr: |-
-    Lorsque cette carte sur le Terrain est retirée du jeu, vous pouvez sélectionner 1 carte face recto contrôlée par votre adversaire et la détruire.
+    Lorsque cette carte sur le Terrain est bannie : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; détruisez la cible.
   it: |-
-    Quando questa carta sul Terreno viene rimossa dal gioco, puoi scegliere 1 carta scoperta controllata dal tuo avversario e distruggerla.
-  pt:
+    Quando questa carta sul Terreno viene bandita: puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; distruggi quel bersaglio.
+  pt: |-
+    Quando este card no campo for banido: você pode escolher 1 card com a face para cima que seu oponente controla; destrua o alvo.
   ja: |-
     フィールド上に存在するこのカードがゲームから除外された時、相手フィールド上に表側表示で存在するカード１枚を選択して破壊する事ができる。
   ko: |-
@@ -42,28 +43,49 @@ series:
 - D.D.
 images:
 - index: 1
-  image: DDDestroyer-DREV-EN-R-1E.png
+  image: DDDestroyer-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: DREV-EN083
     set_name: Duelist Revolution
     rarities:
     - Rare
+  - set_number: SGX3-ENF11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   de:
   - set_number: DREV-DE083
     set_name: Duelist Revolution
     rarities:
     - Rare
+  - set_number: SGX3-DEF11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: DREV-FR083
     set_name: Duelist Revolution
     rarities:
     - Rare
+  - set_number: SGX3-FRF11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   it:
   - set_number: DREV-IT083
     set_name: Duelist Revolution
     rarities:
     - Rare
+  - set_number: SGX3-ITF11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
+  pt:
+  - set_number: SGX3-PTF11
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   ja:
   - set_number: EXP4-JP014
     set_name: Extra Pack Volume 4
@@ -77,4 +99,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 144618

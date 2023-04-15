@@ -19,7 +19,7 @@ text:
   de: |-
     Du kannst 1000 LP zahlen und dann 1 offene/n Zauber/Falle auf dem Spielfeld wählen; zerstöre ihn oder sie. Du kannst diesen Effekt von „Nie endender Albtraum“ nur einmal pro Kette aktivieren.
   es: |-
-    Puedes pagar 1000 LP, y después seleccionar 1 Mágica/Trampa boca arriba en el Campo; destrúyela. Sólo puedes activar este efecto de "Pesadilla Sin Fin" una vez por Cadena.
+    Puedes pagar 1000 LP, y después selecciona 1 Mágica/Trampa boca arriba en el Campo; destrúyela. Sólo puedes activar este efecto de "Pesadilla Sin Fin" una vez por Cadena.
   fr: |-
     Vous pouvez payer 1000 LP, puis ciblez 1 Magie/Piège face recto sur le Terrain ; détruisez-le. Vous ne pouvez activer cet effet de "Cauchemar Sans Fin" qu'une fois par Chaîne.
   it: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: UnendingNightmare-SDSH-EN-C-1E.png
+  image: UnendingNightmare-SGX3-EN-C-1E.png
 sets:
   en:
   - set_number: MACR-EN079
@@ -50,6 +50,10 @@ sets:
     - Ultra Rare
   - set_number: SDSH-EN038
     set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SGX3-ENG16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   de:
@@ -65,6 +69,10 @@ sets:
     set_name: 'Structure Deck: Shaddoll Showdown'
     rarities:
     - Common
+  - set_number: SGX3-DEG16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   fr:
   - set_number: MACR-FR079
     set_name: Maximum Crisis
@@ -76,6 +84,10 @@ sets:
     - Ultra Rare
   - set_number: SDSH-FR038
     set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SGX3-FRG16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   it:
@@ -91,6 +103,10 @@ sets:
     set_name: 'Structure Deck: Shaddoll Showdown'
     rarities:
     - Common
+  - set_number: SGX3-ITG16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
+    rarities:
+    - Common
   pt:
   - set_number: MACR-PT079
     set_name: Maximum Crisis
@@ -102,6 +118,10 @@ sets:
     - Ultra Rare
   - set_number: SDSH-PT038
     set_name: 'Structure Deck: Shaddoll Showdown'
+    rarities:
+    - Common
+  - set_number: SGX3-PTG16
+    set_name: 'Speed Duel GX: Duelists of Shadows'
     rarities:
     - Common
   ja:
@@ -132,4 +152,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Unlimited
 yugipedia_page_id: 480277
