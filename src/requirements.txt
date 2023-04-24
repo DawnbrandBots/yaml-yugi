@@ -7,10 +7,8 @@
 regex==2022.10.31
     # via wikitextparser
 ruamel-yaml==0.17.21
-    # via -r requirements.in
-ruamel-yaml-clib==0.2.7
-    # via ruamel-yaml
+    # via -r src/requirements.in
 wcwidth==0.2.5
     # via wikitextparser
-wikitextparser==0.51.1
-    # via -r requirements.in
+wikitextparser==0.51.2
+    # via -r src/requirements.in
