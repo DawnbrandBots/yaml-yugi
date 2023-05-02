@@ -1,0 +1,34 @@
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+name: Load cached data
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - update
+jobs:
+  load:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: yaml-yugi
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          path: yaml-yugi
+      - uses: actions/checkout@v3
+        with:
+          path: aggregate
+          ref: aggregate
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: yarn
+          cache-dependency-path: yaml-yugi/yarn.lock
+      - run: yarn
+      - name: Load (push)
+        env:
+          OPENSEARCH_URL: ${{ secrets.OS_URL }}
+        run: |
+          yarn ts-node src/load.ts ../aggregate/cards.yaml yu-gi-oh_ocg-tcg_20230501
+          yarn ts-node src/load.ts ../aggregate/rush.yaml yu-gi-oh_rush_20230501
