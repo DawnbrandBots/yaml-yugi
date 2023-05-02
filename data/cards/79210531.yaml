@@ -1,7 +1,7 @@
 konami_id: 18484
 password: 79210531
 name:
-  en: Tellarknight Lyra
+  en: Tellarknight Lyran
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as a "Constellar" card.)
-    If a "tellarknight" and/or "Constellar" monster other than "Tellarknight Lyra" is Normal Summoned to your field: You can Special Summon this card from your hand. If this card is Summoned: You can add 1 "tellarknight" Spell from your Deck to your hand. You can only use each effect of "Tellarknight Lyra" once per turn.
+    If a "tellarknight" or "Constellar" monster is Normal Summoned to your field, except "Tellarknight Lyran" (except during the Damage Step): You can Special Summon this card from your hand. If this card is Summoned: You can add 1 "tellarknight" Spell from your Deck to your hand. You can only use each effect of "Tellarknight Lyran" once per turn.
   de:
   es:
   fr:
@@ -38,10 +38,40 @@ series:
 - tellarknight
 images:
 - index: 1
-  image: TellarknightLyra-CYAC-JP-R.png
+  image: TellarknightLyran-CYAC-JP-R.png
 sets:
+  en:
+  - set_number: CYAC-EN021
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+  de:
+  - set_number: CYAC-DE021
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: CYAC-FR021
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+  it:
+  - set_number: CYAC-IT021
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: CYAC-PT021
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
   ja:
   - set_number: CYAC-JP021
+    set_name: Cyberstorm Access
+    rarities:
+    - Rare
+  ko:
+  - set_number: CYAC-KR021
     set_name: Cyberstorm Access
     rarities:
     - Rare

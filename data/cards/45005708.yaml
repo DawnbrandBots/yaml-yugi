@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    This card's name becomes "Fallen of Albaz" while on the field or in the GY. If this card is Normal or Special Summoned: You can discard 1 card, then target 1 Dragon monster your opponent controls or in their GY to activate 1 of these effects;
+    This card's name becomes "Fallen of Albaz" while on the field or in the GY. If this card is Normal or Special Summoned: You can discard 1 card, then target 1 Dragon monster your opponent controls or in their GY, and activate the appropriate effect;
     ● Send this card to the GY, and if you do, take control of that monster on the field until the End Phase.
     ● Send this card to the GY, and if you do, Special Summon that monster from the GY to your field.
     You can only use this effect of "The Bystial Aluber" once per turn.
@@ -41,18 +41,50 @@ images:
 - index: 1
   image: TheBystialAluber-CYAC-JP-SR.png
 sets:
+  en:
+  - set_number: CYAC-EN008
+    set_name: Cyberstorm Access
+    rarities:
+  de:
+  - set_number: CYAC-DE008
+    set_name: Cyberstorm Access
+    rarities:
+  fr:
+  - set_number: CYAC-FR008
+    set_name: Cyberstorm Access
+    rarities:
+  it:
+  - set_number: CYAC-IT008
+    set_name: Cyberstorm Access
+    rarities:
+  pt:
+  - set_number: CYAC-PT008
+    set_name: Cyberstorm Access
+    rarities:
   ja:
   - set_number: CYAC-JP008
     set_name: Cyberstorm Access
     rarities:
-    - SR
-    - ScR
-    - PScR
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   - set_number: CYAC-JP008
     set_name: Cyberstorm Access +1 Bonus Pack
     rarities:
-    - SR
-    - PScR
+    - Super Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: CYAC-KR008
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CYAC-KR008
+    set_name: Cyberstorm Access +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

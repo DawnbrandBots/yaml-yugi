@@ -1,21 +1,21 @@
 konami_id: 18541
 password: 70825459
 name:
-  en: Trap Track
+  en: Trap Tracks
   de:
   es:
   fr:
   it:
   pt:
   ja: トラップトラック
-  ja_romaji: Torapputorakku
+  ja_romaji: Torappu Torakku
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 text:
   en: |-
-    Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly from your Deck, except "Trap Track". It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 "Trap Track" per turn.
+    Target 1 monster you control; destroy it, and if you do, Set 1 Normal Trap directly from your Deck, except "Trap Tracks". It can be activated this turn. You can only activate 1 Trap Card for the rest of this turn after this card resolves. You can only activate 1 "Trap Tracks" per turn.
   de:
   es:
   fr:
@@ -30,10 +30,40 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: TrapTrack-CYAC-JP-C.png
+  image: TrapTracks-CYAC-JP-C.png
 sets:
+  en:
+  - set_number: CYAC-EN078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  de:
+  - set_number: CYAC-DE078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  fr:
+  - set_number: CYAC-FR078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  it:
+  - set_number: CYAC-IT078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  pt:
+  - set_number: CYAC-PT078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
   ja:
   - set_number: CYAC-JP078
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  ko:
+  - set_number: CYAC-KR078
     set_name: Cyberstorm Access
     rarities:
     - Common

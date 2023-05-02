@@ -1,7 +1,7 @@
 konami_id: 18534
 password: 45675980
 name:
-  en: Branded Etude
+  en: Etude of the Branded
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    During either player's turn, you can: Immediately after this effect resolves, Synchro Summon using monsters you control as material, including a Dragon monster. You can only use this effect of "Branded Etude" once per turn. While you control a "Bystial" monster, any monster sent to your opponent's GY because they Tributed it for a Ritual Summon or used it as material for a Fusion, Synchro, or Link Summon is banished instead.
+    During either player's turn, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using monsters you control as material, including a Dragon monster. You can only use this effect of "Etude of the Branded" once per turn. While you control a "Bystial" monster, banish any monsters that would be sent to your opponent's GY as Tributes for their Ritual Summon, or as material for their Fusion, Synchro, or Link Summon.
   de:
   es:
   fr:
@@ -32,14 +32,39 @@ series:
 - Branded
 images:
 - index: 1
-  image: BrandedEtude-CYAC-JP-C.png
+  image: EtudeoftheBranded-CYAC-JP-C.png
 sets:
+  en:
+  - set_number: CYAC-EN071
+    set_name: Cyberstorm Access
+    rarities:
+  de:
+  - set_number: CYAC-DE071
+    set_name: Cyberstorm Access
+    rarities:
+  fr:
+  - set_number: CYAC-FR071
+    set_name: Cyberstorm Access
+    rarities:
+  it:
+  - set_number: CYAC-IT071
+    set_name: Cyberstorm Access
+    rarities:
+  pt:
+  - set_number: CYAC-PT071
+    set_name: Cyberstorm Access
+    rarities:
   ja:
   - set_number: CYAC-JP071
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  ko:
+  - set_number: CYAC-KR071
     set_name: Cyberstorm Access
     rarities:
     - Common
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-yugipedia_page_id: 929203
+yugipedia_page_id: 714143

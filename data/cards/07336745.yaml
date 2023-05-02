@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    When a monster effect is activated and you control a "Dinomorphia" card: Pay half your LP; any battle damage you take for the rest of this turn becomes half your LP at the time you would take it, also negate the activation, and if you do, destroy that monster. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 "Dinomorphia Intact" per turn.
+    When a monster effect is activated, while you control a "Dinomorphia" card: Pay half your LP; negate the activation, and if you do, destroy that monster, also whenever you take battle damage this turn, the damage taken becomes half your LP at that time. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 "Dinomorphia Intact" per turn.
   de:
   es:
   fr:
@@ -34,12 +34,42 @@ images:
 - index: 1
   image: DinomorphiaIntact-CYAC-JP-C.png
 sets:
+  en:
+  - set_number: CYAC-EN076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  de:
+  - set_number: CYAC-DE076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  fr:
+  - set_number: CYAC-FR076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  it:
+  - set_number: CYAC-IT076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  pt:
+  - set_number: CYAC-PT076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
   ja:
   - set_number: CYAC-JP076
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  ko:
+  - set_number: CYAC-KR076
     set_name: Cyberstorm Access
     rarities:
     - Common
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-yugipedia_page_id: 929414
+yugipedia_page_id: 714568

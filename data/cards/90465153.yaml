@@ -1,7 +1,7 @@
 konami_id: 18506
 password: 90465153
 name:
-  en: Manadome Prime-Heart
+  en: Mannadium Prime-Heart
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1+ Tuners + 1 LIGHT monster
-    This card can attack a number of times each Battle Phase, up to the number of Tuners used as its Synchro Material. Your opponent cannot target this card Synchro Summoned using a "Manadome" Tuner as material with card effects. If this face-up Synchro Summoned card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 of your "Visas Starfrost" or 1 of your monsters with 1500 ATK/2100 DEF that is banished or in your GY.
+    This card can attack a number of times each Battle Phase, up to the number of Tuners used for its Synchro Summon. If this card was Synchro Summoned using a "Mannadium" Tuner as material, your opponent cannot target it with card effects. If this face-up Synchro Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 of your monsters with 1500 ATK/2100 DEF, or your "Visas Starfrost", that is banished or in your GY.
   de:
   es:
   fr:
@@ -36,23 +36,60 @@ atk: 3000
 def: 3000
 materials: 1 or more Tuners + 1 LIGHT monster
 series:
-- Manadome
+- Mannadium
 images:
 - index: 1
-  image: ManadomePrimeHeart-CYAC-JP-SR.png
+  image: MannadiumPrimeHeart-CYAC-JP-SR.png
 sets:
+  en:
+  - set_number: CYAC-EN043
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: CYAC-DE043
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: CYAC-FR043
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: CYAC-IT043
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: CYAC-PT043
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: CYAC-JP043
     set_name: Cyberstorm Access
     rarities:
-    - SR
-    - ScR
-    - PScR
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   - set_number: CYAC-JP043
     set_name: Cyberstorm Access +1 Bonus Pack
     rarities:
-    - SR
-    - PScR
+    - Super Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: CYAC-KR043
+    set_name: Cyberstorm Access
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CYAC-KR043
+    set_name: Cyberstorm Access +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

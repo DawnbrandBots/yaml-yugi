@@ -1,7 +1,7 @@
 konami_id: 18499
 password: 65815684
 name:
-  en: Vicious Astroud
+  en: Vicious Astraloud
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     "Visas Starfrost" + 1 monster with 1500 ATK/2100 DEF
-    Must be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY. If this card is Special Summoned: You can target 1 other monster on the field; destroy it, and if you do, this card gains ATK equal to half the destroyed monster's original ATK or DEF (whichever is higher). Cannot be destroyed by battle.
+    Must be Special Summoned (from your Extra Deck) by banishing the above cards from your field and/or GY.  Cannot be destroyed by battle. If this card is Special Summoned: You can target 1 other monster on the field; destroy it, and if you do, this card gains ATK equal to half of that monster's original ATK or DEF (whichever is higher).
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ def: 3000
 materials: '"Visas Starfrost" + 1 monster with 1500 ATK/2100 DEF'
 images:
 - index: 1
-  image: ViciousAstroud-CYAC-JP-UR.png
+  image: ViciousAstraloud-CYAC-JP-UR.png
 sets:
+  en:
+  - set_number: CYAC-EN036
+    set_name: Cyberstorm Access
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: CYAC-DE036
+    set_name: Cyberstorm Access
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: CYAC-FR036
+    set_name: Cyberstorm Access
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: CYAC-IT036
+    set_name: Cyberstorm Access
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: CYAC-PT036
+    set_name: Cyberstorm Access
+    rarities:
+    - Secret Rare
   ja:
   - set_number: CYAC-JP036
     set_name: Cyberstorm Access
@@ -48,6 +73,19 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
   - set_number: CYAC-JP036
+    set_name: Cyberstorm Access +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: CYAC-KR036
+    set_name: Cyberstorm Access
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CYAC-KR036
     set_name: Cyberstorm Access +1 Bonus Pack
     rarities:
     - Ultra Rare

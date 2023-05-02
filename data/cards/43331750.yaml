@@ -1,7 +1,7 @@
 konami_id: 18540
 password: 43331750
 name:
-  en: Fusion Reproduction
+  en: Fusion Duplication
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 "Polymerization" Normal or Quick-Play Spell or 1 "Fusion" Normal or Quick-Play Spell in either GY; banish it, then apply that Spell's effect when that card is activated. You can only activate 1 "Fusion Reproduction" per turn.
+    Target 1 "Fusion" or "Polymerization" Normal or Quick-Play Spell in either player's GY; banish that Spell, then apply that Spell's effect when that card is activated. You can only activate 1 "Fusion Duplication" per turn.
   de:
   es:
   fr:
@@ -32,10 +32,40 @@ series:
 - Fusion
 images:
 - index: 1
-  image: FusionReproduction-CYAC-JP-R.png
+  image: FusionDuplication-CYAC-JP-R.png
 sets:
+  en:
+  - set_number: CYAC-EN077
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  de:
+  - set_number: CYAC-DE077
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  fr:
+  - set_number: CYAC-FR077
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  it:
+  - set_number: CYAC-IT077
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  pt:
+  - set_number: CYAC-PT077
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
   ja:
   - set_number: CYAC-JP077
+    set_name: Cyberstorm Access
+    rarities:
+    - Rare
+  ko:
+  - set_number: CYAC-KR077
     set_name: Cyberstorm Access
     rarities:
     - Rare

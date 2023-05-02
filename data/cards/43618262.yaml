@@ -1,7 +1,7 @@
 konami_id: 18543
 password: 43618262
 name:
-  en: First Purchase of the Year
+  en: Hatsugai
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Excavate the top 5 cards of your opponent's Deck, and if you do, choose 1 excavated card and declare a multiple of 100 (max. 3000). Your opponent can gain that much LP, and if they do, you lose that much LP, and if you do, add the chosen card to your hand, also place the rest on top of the Deck in the same order. Otherwise, place the excavated cards on top of the Deck in the same order.
+    Excavate the top 5 cards of your opponent's Deck (or as many as possible), choose 1 excavated card, and declare a number in multiples of 100 (min. 100, max. 3000). Your opponent can choose to gain LP equal to the declared number. If they gained LP, you lose that amount of LP, and if you do, add that chosen card to your hand, also place the rest on top of the Deck in the same order. If they did not, place the excavated cards on top of the Deck in the same order.
   de:
   es:
   fr:
@@ -30,10 +30,40 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: FirstPurchaseoftheYear-CYAC-JP-NR.png
+  image: Hatsugai-CYAC-JP-NR.png
 sets:
+  en:
+  - set_number: CYAC-EN080
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  de:
+  - set_number: CYAC-DE080
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  fr:
+  - set_number: CYAC-FR080
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  it:
+  - set_number: CYAC-IT080
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  pt:
+  - set_number: CYAC-PT080
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
   ja:
   - set_number: CYAC-JP080
+    set_name: Cyberstorm Access
+    rarities:
+    - Normal Rare
+  ko:
+  - set_number: CYAC-KR080
     set_name: Cyberstorm Access
     rarities:
     - Normal Rare

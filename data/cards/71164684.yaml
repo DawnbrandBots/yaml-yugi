@@ -1,7 +1,7 @@
 konami_id: 18535
 password: 71164684
 name:
-  en: Manadome Breakheart
+  en: Mannadium Breakheart
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 Tuner or 1 Synchro Monster in your GY; Special Summon it, then, if it is a LIGHT monster, you can destroy 1 monster your opponent controls with an equal or lower ATK. If a "Visas Starfrost" and/or monster(s) with 1500 ATK/2100 DEF you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of "Manadome Breakheart" once per turn.
+    Target 1 Tuner or 1 Synchro Monster in your GY; Special Summon it, then if you Special Summoned a LIGHT monster, you can destroy 1 monster your opponent controls with ATK less than or equal to the Special Summoned monster's. If "Visas Starfrost", or a monster with 1500 ATK/2100 DEF, you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only use each effect of "Mannadium Breakheart" once per turn.
   de:
   es:
   fr:
@@ -29,13 +29,38 @@ text:
 card_type: Trap
 property: Normal
 series:
-- Manadome
+- Mannadium
 images:
 - index: 1
-  image: ManadomeBreakheart-CYAC-JP-C.png
+  image: MannadiumBreakheart-CYAC-JP-C.png
 sets:
+  en:
+  - set_number: CYAC-EN072
+    set_name: Cyberstorm Access
+    rarities:
+  de:
+  - set_number: CYAC-DE072
+    set_name: Cyberstorm Access
+    rarities:
+  fr:
+  - set_number: CYAC-FR072
+    set_name: Cyberstorm Access
+    rarities:
+  it:
+  - set_number: CYAC-IT072
+    set_name: Cyberstorm Access
+    rarities:
+  pt:
+  - set_number: CYAC-PT072
+    set_name: Cyberstorm Access
+    rarities:
   ja:
   - set_number: CYAC-JP072
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  ko:
+  - set_number: CYAC-KR072
     set_name: Cyberstorm Access
     rarities:
     - Common

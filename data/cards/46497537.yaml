@@ -1,7 +1,7 @@
 konami_id: 18531
 password: 46497537
 name:
-  en: Ton-Ton
+  en: Pig Iron vs. Pen Peg
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 face-up monster on the field; its ATK/DEF/Level that are higher than their original ATK/DEF/Level become their original ATK/DEF/Level, then pay LP in multiples of 100 (max. 1000). During your Main Phase, if this card is in your GY and your LP are equal to your opponent's: You can Set this card. You can only use this effect of "Ton-Ton" once per turn.
+    Target 1 face-up monster on the field; if that monster's ATK, DEF, or Level is higher than its original value, it becomes its original value, then pay LP in multiples of 100 (min. 100, max. 1000). During your Main Phase, if both players have the same LP and this card is in your GY: You can Set this card. You can only use this effect of "Pig Iron vs. Pen Peg" once per turn.
   de:
   es:
   fr:
@@ -30,10 +30,40 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: TonTon-CYAC-JP-NR.png
+  image: PigIronvsPenPeg-CYAC-JP-NR.png
 sets:
+  en:
+  - set_number: CYAC-EN068
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  de:
+  - set_number: CYAC-DE068
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  fr:
+  - set_number: CYAC-FR068
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  it:
+  - set_number: CYAC-IT068
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
+  pt:
+  - set_number: CYAC-PT068
+    set_name: Cyberstorm Access
+    rarities:
+    - Common
   ja:
   - set_number: CYAC-JP068
+    set_name: Cyberstorm Access
+    rarities:
+    - Normal Rare
+  ko:
+  - set_number: CYAC-KR068
     set_name: Cyberstorm Access
     rarities:
     - Normal Rare
