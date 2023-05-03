@@ -1,4 +1,4 @@
-konami_id:
+konami_id: 18907
 name:
   en: Satellite Soldier
   de:
@@ -20,19 +20,21 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Increase the Level of 1 face-up Level 6 or lower monster on your field with 1000 DEF by 2, until the end of this turn.
+    Increase the Level of 1 face-up Level 6 or lower monster on your field with 1000 DEF by 2 until the end of this turn.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター（レベル６以下／守備力１０００）１体を選び、そのレベルをターン終了時まで２上げる。
   ko:
   zh-TW:
   zh-CN:
@@ -44,7 +46,7 @@ atk: 1700
 def: 1000
 images:
 - index: 1
-  image: SatelliteSoldier-RDSJMP-JP-OP.png
+  image: SatelliteSoldier-RDSJMP-JP-NPR.png
 sets:
   ja:
   - set_number: RD/SJMP-JP027
