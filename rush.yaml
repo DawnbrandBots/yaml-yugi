@@ -97329,7 +97329,7 @@ name:
   it:
   pt:
   ja: <ruby>烏賊合の衆<rt>デビルフーリッシュ</rt></ruby>
-  ja_romaji:
+  ja_romaji: Debiru Fūrisshu
   ko:
   ko_rr:
   zh-TW:
@@ -99085,7 +99085,7 @@ yugipedia_page_id: 932332
 ---
 konami_id:
 name:
-  en: Grace Spear the Magical Spear
+  en: Magical Lance - Grace Spear
   de:
   es:
   fr:
@@ -99125,7 +99125,7 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: GraceSpeartheMagicalSpear-RDKP13-JP-OP.png
+  image: MagicalLanceGraceSpear-RDKP13-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP13-JP055
@@ -99133,3 +99133,109 @@ sets:
     rarities:
     - Rare
 yugipedia_page_id: 932337
+---
+konami_id:
+name:
+  en: Machinations of the Monarchs
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>機<rt>き</rt></ruby><ruby>才<rt>さい</rt></ruby>
+  ja_romaji: Teiō no Kisai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal Summons a monster while you have a face-up Level 5 or higher monster with 1000 DEF on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change that Normal Summoned monster to face-down Defense Position. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Monarch
+images:
+- index: 1
+  image: MachinationsoftheMonarchs-RDKP13-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP062
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 932693
+---
+konami_id:
+name:
+  en: Nativity of the Monarchs
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>煌<rt>こう</rt></ruby><ruby>誕<rt>たん</rt></ruby>
+  ja_romaji: Teiō no Kōtan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a Level 8 or lower monster face-up, send 1 monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 5 or higher monster with 1000 DEF from your hand to your field in face-up Attack Position. Then, you can destroy 1 of those opponent's Normal or Special Summoned monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Monarch
+images:
+- index: 1
+  image: NativityoftheMonarchs-RDKP13-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP063
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 932694
