@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>強<rt>きょう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>愉<rt>ゆ</rt></ruby><ruby>悦<rt>えつ</rt></ruby>
   ja_romaji: Kyōsha no Yuetsu
-  ko:
+  ko: 강자의 유열
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示の通常モンスター１体を選び、その攻撃力・守備力をターン終了時まで、［相手が召喚したそのモンスターのレベル］×１００アップする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 일반 몬스터 1장을 고르고, 그 공격력 / 수비력을 턴 종료시까지, [상대가 일반 소환한 그 몬스터의 레벨] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -52,6 +54,11 @@ sets:
     - Super Rare
   - set_number: RD/LGP1-JP047
     set_name: Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/EV03-KR012
+    set_name: Event Pack 2023 Vol.1
     rarities:
     - Common
 yugipedia_page_id: 714506

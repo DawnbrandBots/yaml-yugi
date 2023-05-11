@@ -8,7 +8,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 드래곤을 탄 와이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドの表側表示モンスターが、モンスター（地属性・水属性・炎属性）のみの場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터가, 몬스터(땅 속성 / 물 속성 / 화염 속성)뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードは直接攻撃できる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 직접 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,7 +56,8 @@ materials:
   pt:
   ja: |-
     「ベビードラゴン」＋「ワイバーンの戦士」
-  ko:
+  ko: |-
+    "베이비 드래곤" ＋ "와이반 전사"
   zh-TW:
   zh-CN:
 images:
@@ -68,4 +71,10 @@ sets:
     - Common
     - Super Rare
     - Ultra Rare
+  ko:
+  - set_number: RD/EV03-KR001
+    set_name: Event Pack 2023 Vol.1
+    rarities:
+    - Common
+    - Secret Rare
 yugipedia_page_id: 712619
