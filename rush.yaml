@@ -87608,68 +87608,64 @@ yugipedia_page_id: 717417
 ---
 konami_id: 18592
 name:
-  en: Machvio of the Ultimate Aria
+  en: Zaborg the Thunder Monarch
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>極<rt>きょく</rt></ruby><ruby>奏<rt>そう</rt></ruby>のマッハヴァイオ
-  ja_romaji: Kyokusō no Mahhavaio
+  ja:
+  ja_romaji:
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    None
+    During the turn you Tribute Summoned this card in Attack Position.
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    なし
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
-effect_types:
-- Continuous
 effect:
   en: |-
-    This card gains ATK equal to [the total number of Equip Spell Cards equipped to this card and the number of face-up Normal Monsters on your opponent's field] x 500.
+    Destroy 1 monster on either field.
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    このカードの攻撃力は、［このカードが装備している装備魔法カードの数と相手フィールドの表側表示の通常モンスターの数の合計］×５００アップする。
+    自分または相手フィールドのモンスター１体を選んで破壊する。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: WIND
-level: 7
+monster_type_line: Thunder / Effect
+attribute: LIGHT
+level: 5
 atk: 2400
-def: 1400
+def: 1000
 series:
-- Shaman Bandit
+- Monarch
+legend: true
 images:
 - index: 1
-  image: MachviooftheUltimateAria-RDKP12-JP-SR.png
+  image: ZaborgtheThunderMonarch-RDKP13-JP-R.png
 sets:
   ja:
-  - set_number: RD/KP12-JP010
-    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+  - set_number: RD/KP13-JP020
+    set_name: Oblivion of the Flash
     rarities:
-    - Super Rare
-  - set_number: RD/BDG4-JP001
-    set_name: Yu-Gi-Oh! GO RUSH!! Duel-4 Blu-ray & DVD promotional card
-    rarities:
-    - Ultra Parallel Rare
-yugipedia_page_id: 715687
+    - Rare
+    - Secret Rare
+yugipedia_page_id: 930146
 ---
 konami_id: 18593
 name:
@@ -95966,6 +95962,3141 @@ sets:
     - Normal Parallel Rare
 yugipedia_page_id: 903539
 ---
+konami_id: 18930
+name:
+  en: Earth Sorcerer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アース・ソーサラー
+  ja_romaji: Āsu Sōsarā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A magician who carries the pride of his family in his heart. On that day, he left his hometown as if he were on the run.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    一族の誇りを胸に抱く魔術師。その日彼は逃げるように故郷を後にした。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Normal
+attribute: EARTH
+level: 4
+atk: 1500
+def: 0
+images:
+- index: 1
+  image: EarthSorcerer-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP001
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 903543
+---
+konami_id: 18931
+name:
+  en: Aero Sorcerer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エアロ・ソーサラー
+  ja_romaji: Earo Sōsarā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A magician who enjoys being as free as the wind blows. His selfish behavior will eventually bind his future.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    風の吹くまま自由を謳歌する魔術師。身勝手な行動はやがて彼の未来を縛る事となる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Normal
+attribute: WIND
+level: 4
+atk: 1500
+def: 0
+images:
+- index: 1
+  image: AeroSorcerer-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP002
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 903546
+---
+konami_id: 18932
+name:
+  en: Galactica Deja Vu
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギャラクティカ・デジャヴュ
+  ja_romaji: Gyarakutika Dejavu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent's LP are 4000 or higher, send this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手のＬＰが４０００以上の場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top card of your Deck to the Graveyard. Then, if you sent a Level 4 or lower LIGHT Attribute Galaxy Type Normal Monster to the Graveyard by this effect, you can Special Summon that monster face-up to your field. Then, inflict damage to your opponent equal to [the original ATK of the monster Special Summoned by this effect].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの一番上のカードを墓地へ送る。この効果で通常モンスター（レベル４以下／光属性／ギャラクシー族）が墓地へ送られた場合、さらにそのモンスターを自分フィールドに表側表示で特殊召喚できる。その後、［この効果で特殊召喚したモンスターの元々の攻撃力］だけ相手にダメージを与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 2
+atk: 0
+def: 1200
+series:
+- Galactica
+images:
+- index: 1
+  image: GalacticaDejaVu-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP003
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 932069
+---
+konami_id: 18933
+name:
+  en: Booster Wyvern
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ブースター・ワイバーン
+  ja_romaji: Būsutā Waibān
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Blue Tooth Burst Dragon" or "Red Boot Boost Dragon" face-up on your field during your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに、自分フィールドに表側表示の「碧牙の爆速竜」または「真紅動の撃速竜」がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict 600 damage to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手に６００ダメージを与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 1
+atk: 300
+def: 300
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: BoosterWyvern-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP004
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930620
+---
+konami_id: 18934
+name:
+  en: DBF Rebuildra
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｂ<rt>ビー</rt></ruby><ruby>Ｆ<rt>エフ</rt></ruby>リビルドラ
+  ja_romaji: Dī Bī Efu Ribirudora
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned, reveal 1 "Blue Tooth Burst Dragon" or "Red Boot Boost Dragon" in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに、手札の「碧牙の爆速竜」または「真紅動の撃速竜」１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set 1 "Dragon's Burst Fusion" or "Dragon's Boost Fusion" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 2
+atk: 900
+def: 900
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: DBFRebuildra-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP005
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930964
+---
+konami_id: 18935
+name:
+  en: Voidvelgr Kyrie
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・キリエ
+  ja_romaji: Voidoverugu Kirie
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 face-up Level 7 or lower Galaxy Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（レベル７以下／ギャラクシー族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Voidvelgr Requiem" or "Voidvelgr Chrysaor" from your Graveyard to your hand. Then, you can choose 1 face-up card on your field. If you do, that card cannot be destroyed by card effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ヴォイドヴェルグ・レクイエム」または「ヴォイドヴェルグ・クリュサオル」１体を選んで手札に加える。その後、自分フィールドの表側表示のカード１枚を選ぶ事ができる。選んだ場合、このターン、そのカードは効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 2
+atk: 200
+def: 500
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrKyrie-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP006
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 931361
+---
+konami_id: 18936
+name:
+  en: Voidvelgr Logistikos
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・ロジスティコス
+  ja_romaji: Voidoverugu Rojisutikosu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 Level 7 or higher Galaxy Type monster in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル７以上／ギャラクシー族）１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set 1 "Fusion" from your Graveyard in your Spell & Trap Zone. Then, if your opponent has a face-up Level 7 or higher monster on their field, you can add 1 Level 8 Galaxy Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。相手フィールドに表側表示モンスター（レベル７以上）がいる場合、さらに自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 4
+atk: 1000
+def: 1300
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrLogistikos-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP007
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 931362
+---
+konami_id: 18937
+name:
+  en: Voidvelgr Chrysaor
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・クリュサオル
+  ja_romaji: Voidoverugu Kuryusaoru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has 2 or more monsters on their field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターが２体以上いる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. If a DARK Attribute Galaxy Type monster(s) is among the cards sent, this card can attack up to that many times this turn. Also, if the cards sent are 3 DARK Attribute Galaxy Type monsters with the same Level, you can destroy all face-up Level 8 or lower monsters on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（闇属性／ギャラクシー族）がいた場合、このターン、このカードはその数まで攻撃できる。さらに同じレベルを持つモンスター（闇属性／ギャラクシー族）３体だった場合、相手フィールドの表側表示モンスター（レベル８以下）を全て破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 8
+atk: 2500
+def: 2000
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrChrysaor-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP008
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 806217
+---
+konami_id: 18938
+name:
+  en: Celeb Rose Mage
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・メイジ
+  ja_romaji: Serebu Rōzu Meiji
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Celeb Rose Magician" or an Equip Spell Card in your Graveyard during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分の墓地に「セレブローズ・マジシャン」または装備魔法カードがある場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Charis Magic Scepter - Death Wand" or "Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「カリス魔杖デス・ワンド」または「フュージョン」１枚を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 800
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseMage-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP009
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 931815
+---
+konami_id: 18939
+name:
+  en: Celeb Rose Sorcerer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ソーサラー
+  ja_romaji: Serebu Rōzu Sōsarā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 3 face-up LIGHT Attribute Spellcaster Type monsters from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（光属性／魔法使い族）３体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 LIGHT Attribute Spellcaster Type monster with 2500 or less ATK from your Graveyard face-up to your field. Then, you can Set 1 "Charis Magic Scepter - Death Wand" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（光属性／魔法使い族／攻撃力２５００以下）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地の「カリス魔杖デス・ワンド」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 4
+atk: 1300
+def: 100
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseSorcerer-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP010
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 931816
+---
+konami_id: 18940
+name:
+  en: Celeb Rose Witch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ウィッチ
+  ja_romaji: Serebu Rōzu Wicchi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have "Celeb Rose Magician" in your Graveyard, send 1 LIGHT Attribute Spellcaster Type monster or 1 Spell Card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に「セレブローズ・マジシャン」がいる場合、手札のモンスター（光属性／魔法使い族）１体または魔法カード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Celeb Rose Magician" or 1 Level 9 or lower Spellcaster Type Fusion Monster from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「セレブローズ・マジシャン」またはフュージョンモンスター（レベル９以下／魔法使い族）１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 6
+atk: 1600
+def: 1000
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseWitch-RDKP13-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP011
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 929282
+---
+konami_id: 18941
+name:
+  en: Celeb Rose Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・マジシャン
+  ja_romaji: Serebu Rōzu Majishan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 face-up Equip Spell Card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示の装備魔法カード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, if you have 3 or more Spell Cards in your Graveyard, this card gains 700 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地に魔法カードが３枚以上ある場合、このカードの攻撃力はターン終了時まで７００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 7
+atk: 2100
+def: 1500
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseMagician-RDKP13-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP012
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 929280
+---
+konami_id: 18942
+name:
+  en: Magiarms Beast Gearpard
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>まあ</rt></ruby><ruby>装<rt>そう</rt></ruby><ruby>獣<rt>じゅう</rt></ruby>ギアパルド
+  ja_romaji: Masōjū Giaparudo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If a card is in your Spell & Trap Zone, this card gains 200 ATK, also this Attack Position card cannot be destroyed by battle during your opponent's turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の魔法＆罠ゾーンにカードがある場合、このカードの攻撃力は２００アップし、さらに攻撃表示のこのカードは、相手ターンの間、戦闘では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: EARTH
+level: 7
+atk: 2300
+def: 1800
+images:
+- index: 1
+  image: MagiarmsBeastGearpard-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP013
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 902032
+---
+konami_id: 18943
+name:
+  en: Zuse the Wisdom Vassal
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ツーゼ
+  ja_romaji: Kenteikashin Tsūze
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分の墓地のモンスター（守備力１０００）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent Sets 1 Spell Card from their Graveyard to their field. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身の墓地の魔法カード１枚を選んで自身のフィールドにセットする。その後、自分は自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: DARK
+level: 3
+atk: 800
+def: 1000
+images:
+- index: 1
+  image: ZusetheWisdomVassal-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP014
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930140
+---
+konami_id: 18944
+name:
+  en: Hebe the Star Vassal
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ヘーベ
+  ja_romaji: Seiteikashin Hēbe
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分の墓地のモンスター（守備力１０００）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent Special Summons 1 Level 6 or lower Effect Monster from their Graveyard to their field in face-up Defense Position. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身の墓地の効果モンスター（レベル６以下）１体を選び、自身のフィールドに表側守備表示で特殊召喚する。その後、自分は自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 4
+atk: 800
+def: 1000
+images:
+- index: 1
+  image: HebetheStarVassal-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP015
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930141
+---
+konami_id: 18945
+name:
+  en: Wilhel the Wisdom Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
+  ja_romaji: Kentei Viruheru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Look at 1 face-down Spell/Trap Card on your opponent's field. Then, if that card is a Spell Card, you can destroy it.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの裏側表示の魔法・罠カード１枚を選んで確認する。そのカードが魔法カードだった場合、さらにそのカードを破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: DARK
+level: 5
+atk: 2000
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: WilheltheWisdomMonarch-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP016
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930142
+---
+konami_id: 18946
+name:
+  en: Estrome the Star Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
+  ja_romaji: Seitei Esutorōmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 6 or lower Effect Monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示の効果モンスター（レベル６以下）１体を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 5
+atk: 2000
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: EstrometheStarMonarch-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP017
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930143
+---
+konami_id: 18947
+name:
+  en: Wilhel the Mega Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>才<rt>さい</rt></ruby><ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
+  ja_romaji: Saikentei Viruheru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent chooses 1 card on their field, and you destroy that card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のフィールドのカード１枚を選ぶ。自分はそのカードを破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: DARK
+level: 8
+atk: 2400
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: WilheltheMegaMonarch-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP018
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 930144
+---
+konami_id: 18948
+name:
+  en: Estrome the Mega Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>煌<rt>こう</rt></ruby><ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
+  ja_romaji: Kōseitei Esutorōmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent chooses 1 card on their field, and you destroy 1 other card on either field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のフィールドのカード１枚を選ぶ。自分はそのカード以外の自分または相手フィールドのカード１枚を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 8
+atk: 2400
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: EstrometheMegaMonarch-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP019
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 930145
+---
+konami_id: 18950
+name:
+  en: Cyber Processor
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバー・プロセッサー
+  ja_romaji: Saibā Purosessā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a face-up Machine Type monster on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（機械族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドのカード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card's name becomes "Cyber Dragon" this turn. Then, you can Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのカード名はこのターン、「サイバー・ドラゴン」になる。その後、自分の墓地の「サイバー・ドラゴン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 5
+atk: 1500
+def: 1600
+images:
+- index: 1
+  image: CyberProcessor-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP021
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 931936
+---
+konami_id: 18952
+name:
+  en: Don A. Corn of the Verdant Vast
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>樹<rt>じゅ</rt></ruby><ruby>海<rt>かい</rt></ruby>の<ruby>首領<rt>ドン</rt></ruby>グーリ
+  ja_romaji: Jukai no Don Gūri
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 3 Spell/Trap Cards from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの魔法・罠カード３枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドのモンスター１体を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 2
+atk: 800
+def: 200
+images:
+- index: 1
+  image: DonACornoftheVerdantVast-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP023
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 933800
+---
+konami_id: 18953
+name:
+  en: Braid Blade Reader
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ブレイド・リーダー
+  ja_romaji: Bureido Rīdā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute Spellcaster Type monster or 1 Spell Card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（光属性／魔法使い族）１体または魔法カード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. If a LIGHT Attribute Spellcaster Type monster(s) is among the cards sent, you can add 1 Equip Spell Card from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（光属性／魔法使い族）がいた場合、さらに自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 1300
+images:
+- index: 1
+  image: BraidBladeReader-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP024
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 931995
+---
+konami_id: 18954
+name:
+  en: Skyporter Max
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スカイポーター・マックス
+  ja_romaji: Sukaipōtā Makkusu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 10 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター１０体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Place 2 or 3 Maximum Monsters from your Graveyard on top of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のマキシマムモンスターを２～３体選び、好きな順番でデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: DARK
+level: 3
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: SkyporterMax-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP025
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930552
+---
+konami_id: 18955
+name:
+  en: Devil Foolish
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>烏賊合の衆<rt>デビルフーリッシュ</rt></ruby>
+  ja_romaji: Debirufūrisshu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, reveal up to 2 monsters with 0 DEF in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、手札のモンスター（守備力０）を２体まで相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon monsters with 0 DEF from your Graveyard, up to [the number of monsters revealed to meet the requirement], to your field in face-down Defense Position. For the rest of this turn, you cannot Normal Summon Level 9 or lower monsters nor Set monsters from the hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（守備力０）を［この効果の条件で見せたモンスターの数］だけ選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスター（レベル９以下）を召喚できず、手札のモンスターをセットできない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: DevilFoolish-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP026
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930188
+---
+konami_id: 18956
+name:
+  en: Splame
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スプレイム
+  ja_romaji: Supureimu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 Pyro Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（炎族）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, this card's name becomes the same as the name of 1 Level 8 or lower monster in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル８以下）１体を選ぶ。このカードのカード名はこのターン、選んだモンスターと同じカード名になる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 4
+atk: 800
+def: 1200
+images:
+- index: 1
+  image: Splame-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP027
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 932021
+---
+konami_id: 18957
+name:
+  en: Elegant Aurum Avian
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>雅<rt>みやび</rt></ruby>な<ruby>金<rt>きん</rt></ruby><ruby>鳥<rt>ちょう</rt></ruby>
+  ja_romaji: Miyabi na Kinchō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or more cards in your Deck, send 1 LIGHT Attribute Spellcaster Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、手札のモンスター（光属性／魔法使い族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 4
+atk: 1100
+def: 1000
+images:
+- index: 1
+  image: ElegantAurumAvian-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP028
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 931824
+---
+konami_id: 18958
+name:
+  en: Plaster Scout
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>石膏の斥候<rt>プラスター・スカウト</rt></ruby>
+  ja_romaji: Purasutā Sukauto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    During your opponent's Main Phase, you take no damage from your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手メインフェイズの間、自分は相手の効果ではダメージを受けない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 1300
+def: 1000
+images:
+- index: 1
+  image: PlasterScout-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP029
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 932086
+---
+konami_id: 18959
+name:
+  en: Mad Rare Aquila
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マッドレア・アクエラ
+  ja_romaji: Maddorea Akuera
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has 2 or more monsters on their field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターが２体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, this card can attack twice. Also, you can destroy 1 face-up Level 6 Effect Monster on your opponent's field. Then, if you destroyed a monster by this effect, this card gains 600 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このターン、このカードは２回攻撃できる。さらに、相手フィールドの表側表示の効果モンスター（レベル６）１体を選んで破壊できる。この効果でモンスターを破壊した場合、さらにこのカードの攻撃力はターン終了時まで６００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: DARK
+level: 4
+atk: 1300
+def: 1100
+images:
+- index: 1
+  image: MadRareAquila-RDKP13-JP-SR.png
+- index: 2
+  image: MadRareAquila-RDKP13-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP030
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 932329
+---
+konami_id: 18960
+name:
+  en: EXTRAplorer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＥＸ<rt>エクストラ</rt></ruby>プローラー
+  ja_romaji: Ekusutorapurōrā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 300 ATK until the end of this turn. Then, if you have 5 or more Galaxy Type monsters in your Graveyard, you can add 1 Galaxy Type Normal Monster and/or 1 "Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで３００アップする。自分の墓地にモンスター（ギャラクシー族）が５体以上いる場合、さらに自分の墓地の通常モンスター（ギャラクシー族）と「フュージョン」をそれぞれ１枚まで選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 2200
+images:
+- index: 1
+  image: EXTRAplorer-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP031
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 932331
+---
+konami_id: 18961
+name:
+  en: Manifestation Master Dortheo
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>ドルテオ
+  ja_romaji: Kengen Jutsushi Doruteo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, you can inflict damage to your opponent equal to [the number of Spellcaster Type monsters sent to the Graveyard by this effect] x 300.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、［この効果で墓地へ送られたモンスター（魔法使い族）の数］×３００ダメージを相手に与える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 1600
+images:
+- index: 1
+  image: ManifestationMasterDortheo-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP032
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930090
+---
+konami_id: 18962
+name:
+  en: Pureglass Spears
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: プルグラース・スピアース
+  ja_romaji: Purugurāsu Supiāsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Change this card's battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの表示形式を変更して発動できる（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up monster on your field gains 1000 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は１０００アップし、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 2500
+images:
+- index: 1
+  image: PureglassSpears-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP033
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 930190
+---
+konami_id: 18963
+name:
+  en: Galactiara Fuse Eve
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギャラクティアラ・<ruby>Ｆ<rt>ヒュース</rt></ruby>・イブ
+  ja_romaji: Gyarakutiara Hyūsu Ivu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 1 "Fusion" from your Graveyard on either the top or bottom of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「フュージョン」１枚をデッキの上か下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地の通常モンスター（ギャラクシー族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: LIGHT
+level: 7
+atk: 2400
+def: 1600
+materials:
+  en: |-
+    "Galactiara Eve" + 1 LIGHT Attribute Galaxy Type monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ギャラクティアラ・イブ」＋モンスター（光属性／ギャラクシー族）
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: GalactiaraFuseEve-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP034
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934529
+---
+konami_id: 18964
+name:
+  en: Eternal Galactica Oblivion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エターナル・ギャラクティカ・オブリビオン
+  ja_romaji: Etānaru Gyarakutika Oburibion
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（ギャラクシー族）５体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Until the end of this turn, this card cannot be destroyed by your opponent's Trap Card effects, also it gains ATK equal to [the number of monsters in your Graveyard] x 300.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。このターン、このカードは相手の罠カードの効果では破壊されない。さらに、このカードの攻撃力をターン終了時まで、［自分の墓地のモンスターの数］×３００アップできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3500
+def: 2500
+materials:
+  en: |-
+    "Galactica Oblivion" + 2 LIGHT Attribute Galaxy Type monsters
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ギャラクティカ・オブリビオン」＋モンスター（光属性／ギャラクシー族）×２
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Galactica
+images:
+- index: 1
+  image: EternalGalacticaOblivion-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP035
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  - set_number: RD/D002-JP003
+    set_name: Yu-Gi-Oh! GO RUSH!! Complete Challenge 3
+    rarities:
+    - Rush Rare
+yugipedia_page_id: 806185
+---
+konami_id: 18965
+name:
+  en: Tamabot Burst Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: タマーボット・バーストドラゴン
+  ja_romaji: Tamābotto Bāsuto Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send cards from the top of your Deck to the Graveyard equal to [the total number of "Tamabot" in both players' Graveyards].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの上から［お互いの墓地の「タマボット」の数の合計］だけカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 1000 ATK until the end of this turn. Then, if you sent a monster with 1500 or less ATK to the Graveyard to meet the requirement, you can destroy 1 face-up monster with 1500 or more ATK on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで１０００アップする。この効果の条件でモンスター（攻撃力１５００以下）が墓地へ送られた場合、さらに相手フィールドの表側表示モンスター（攻撃力１５００以上）１体を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 2500
+materials:
+  en: |-
+    "Blue Tooth Burst Dragon" + "Tamabot"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「碧牙の爆速竜」＋「タマボット」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: TamabotBurstDragon-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP036
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 901971
+---
+konami_id: 18966
+name:
+  en: Blue Tooth Enhanced Burst Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>碧牙の超越爆速竜<rt>ブルー・トゥース・エンハンスド・バーストドラゴン</rt></ruby>
+  ja_romaji: Burū Tūsu Enhansudo Bāsuto Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up card on either field. Then, if you sent a monster whose original Level is 7 or higher to the Graveyard to meet the requirement, you can Special Summon 1 "Blue Tooth Burst Dragon" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドの表側表示のカード１枚を選んで破壊する。この効果の条件で元々のレベルが７以上のモンスターを墓地へ送った場合、さらに自分の墓地の「碧牙の爆速竜」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3000
+def: 2000
+materials:
+  en: |-
+    "Blue Tooth Burst Dragon" + "Booster Wyvern"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「碧牙の爆速竜」＋「ブースター・ワイバーン」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: BlueToothEnhancedBurstDragon-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP037
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930622
+---
+konami_id: 18967
+name:
+  en: Red Boot Enhanced Boost Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>真紅動の超越撃速竜<rt>レッドブート・エンハンスド・ブーストドラゴン</rt></ruby>
+  ja_romaji: Reddobūto Enhansudo Būsuto Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose up to 9 monsters in any Graveyard(s). Inflict damage to your opponent equal to [the number of chosen monsters] x 200, and this card gains ATK equal to [the number of chosen monsters] x 200 until the end of this turn. Then, shuffle the chosen monsters into the owner's Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いの墓地のモンスターを合計９体まで選ぶ。［選んだモンスターの数］×２００ダメージを相手に与え、このカードの攻撃力はターン終了時まで、［選んだモンスターの数］×２００アップする。その後、選んだモンスターを持ち主のデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 2900
+def: 2100
+materials:
+  en: |-
+    "Red Boot Boost Dragon" + "Booster Wyvern"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「真紅動の撃速竜」＋「ブースター・ワイバーン」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: RedBootEnhancedBoostDragon-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP038
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 930962
+---
+konami_id: 18968
+name:
+  en: Voidvelgr Theogonia
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・テオゴニア
+  ja_romaji: Voidoverugu Teogonia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 8 Galaxy Type monster from your Graveyard face-up to your field. The monster Special Summoned by this effect cannot be destroyed by card effects until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で特殊召喚したモンスターは、次の相手ターン終了時まで効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 3000
+def: 3000
+materials:
+  en: |-
+    "Voidvelgr Chrysaor" + "Dark Prophet"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ヴォイドヴェルグ・クリュサオル」＋「ダーク・プロフェット」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrTheogonia-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP039
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934536
+---
+konami_id: 18969
+name:
+  en: Voidvelgr Gigantomachia
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・ギガントマキア
+  ja_romaji: Voidoverugu Gigantomakia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 Spell/Trap Card on either field. Also, this turn, this card gains 500 ATK and can attack twice.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドの魔法・罠カード１枚を選んで破壊する。さらにこのターン、このカードの攻撃力は５００アップし、２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 3400
+def: 2500
+materials:
+  en: |-
+    "Voidvelgr Requiem" + "Voidvelgr Chrysaor"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ヴォイドヴェルグ・レクイエム」＋「ヴォイドヴェルグ・クリュサオル」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrGigantomachia-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP040
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 806214
+---
+konami_id: 18970
+name:
+  en: Celeb Rose Fabulous Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ファビュラス・マジシャン
+  ja_romaji: Serebu Rōzu Fabyurasu Majishan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up monster on your opponent's field. Then, you can add 1 Equip Spell Card from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選んで破壊する。その後、自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3000
+def: 2100
+materials:
+  en: |-
+    "Celeb Rose Magician" + "Celeb Rose Witch"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseFabulousMagician-RDKP13-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP041
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 929283
+---
+konami_id: 18971
+name:
+  en: Celeb Rose Luxury Magicians
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ラグジュアリ・マジシャンズ
+  ja_romaji: Serebu Rōzu Ragujuari Majishanzu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 9 or lower LIGHT Attribute Spellcaster Type monster from your Graveyard to your field in face-up Defense Position. Then, if this card is equipped with an Equip Spell Card, this card can make up to 2 attacks on monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル９以下／光属性／魔法使い族）１体を選び、自分フィールドに表側守備表示で特殊召喚する。このカードが装備魔法カードを装備している場合、さらにこのターン、このカードはモンスターに２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Fusion / Effect
+attribute: LIGHT
+level: 10
+atk: 3200
+def: 1900
+materials:
+  en: |-
+    "Celeb Rose Magician" + "Celeb Rose Witch"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseLuxuryMagicians-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP042
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 930104
+---
+konami_id: 18972
+name:
+  en: Sevens Chariot the Magical Knight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>－セブンス・チャリオット
+  ja_romaji: Madōkishi - Sebunsu Chariotto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Multi-Choice
+effect:
+  en: |-
+    ● This card gains ATK equal to [the number of cards in both players' Spell & Trap Zones] x 500 until the end of this turn.
+    ● This turn, this card cannot be destroyed by your opponent's card effects. Also, you can destroy face-up cards on your opponent's field, up to [the number of cards in your Spell & Trap Zone].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ●このカードの攻撃力はターン終了時まで、［お互いの魔法＆罠ゾーンのカードの数］×５００アップする。●このターン、このカードは相手の効果では破壊されない。さらに相手フィールドの表側表示のカードを［自分の魔法＆罠ゾーンのカードの数］まで選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Magical Knight / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 3000
+def: 2500
+materials:
+  en: |-
+    "Sevens Road Magician" + "Magiarms Beast Gearpard"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「セブンスロード・マジシャン」＋「魔装獣ギアパルド」
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: SevensChariottheMagicalKnight-RDKP13-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP043
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 908809
+---
+konami_id: 18973
+name:
+  en: Cyber Tactical Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバー・タクティカル・ドラゴン
+  ja_romaji: Saibā Takutikaru Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 LIGHT Attribute Machine Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（光属性／機械族）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy up to 2 face-up monsters on your opponent's field, whose total ATK is less than or equal to this card's.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃力の合計がこのカードの攻撃力以下になるように、相手フィールドの表側表示モンスターを２体まで選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3200
+def: 2100
+materials:
+  en: |-
+    "Cyber Assault Dragon" + "Cyber Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「サイバー・アサルト・ドラゴン」＋「サイバー・ドラゴン」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Cyber Dragon
+images:
+- index: 1
+  image: CyberTacticalDragon-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP044
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 931934
+---
+konami_id: 18974
+name:
+  en: Space Fusion - EXTRAplasmer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＳＦ<rt>スペースフュージョン</rt></ruby>－<ruby>ＥＸ<rt>エクストラ</rt></ruby>プラズマー
+  ja_romaji: Supēsu Fyūjon - Ekusutorapurazumā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 card in your opponent's Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の魔法＆罠ゾーンのカード１枚を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3000
+def: 2000
+materials:
+  en: |-
+    "EXTRAplorer" + 1 LIGHT Attribute Galaxy Type monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ＥＸプローラー」＋モンスター（光属性／ギャラクシー族）
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: SpaceFusionEXTRAplasmer-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP045
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 932332
+---
+konami_id: 18975
+name:
+  en: Advance Impact
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アドバンス・インパクト
+  ja_romaji: Adobansu Inpakuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose 1 face-up monster on your opponent's field, and send monsters from your hand to the Graveyard whose total Levels equal the chosen monster's Level. This turn, if you would Tribute Summon a monster, you can Tribute the chosen opponent's face-up monster instead of 1 monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選び、レベルの合計がそのモンスターのレベルと同じになるように自分は手札のモンスターを墓地へ送る。このターン、自分がモンスターをアドバンス召喚する場合、自分フィールドのモンスター１体の代わりに選んだ相手の表側表示モンスターをリリースできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: AdvanceImpact-RDKP13-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP046
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 934525
+---
+konami_id: 18976
+name:
+  en: Galactica Addergatling
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギャラクティカ・アダーガトリング
+  ja_romaji: Gyarakutika Adāgatoringu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Galaxy Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 200 ATK/DEF and cannot be destroyed by your opponent's Trap Card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力・守備力は２００アップし、そのモンスターは相手の罠カードの効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Galactica
+images:
+- index: 1
+  image: GalacticaAddergatling-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP047
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 933894
+---
+konami_id: 18977
+name:
+  en: Dragon's Burst Fusion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴンズ・バースト・フュージョン
+  ja_romaji: Doragonzu Bāsuto Fyūjon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending face-up Dragon Type monsters from your field to the Graveyard as material. Then, if you sent "Blue Tooth Burst Dragon" to the Graveyard by this effect, you can make 1 face-up monster on your opponent's field lose 1500 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（ドラゴン族）を素材として墓地へ送り、フュージョン召喚する。この効果で「碧牙の爆速竜」を墓地へ送った場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１５００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- High Tech Dragon
+- Fusion
+images:
+- index: 1
+  image: DragonsBurstFusion-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP048
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930621
+---
+konami_id: 18978
+name:
+  en: Dragon's Boost Fusion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴンズ・ブースト・フュージョン
+  ja_romaji: Doragonzu Būsuto Fyūjon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending face-up Dragon Type monsters from your field to the Graveyard as material. Then, if you sent "Red Boot Boost Dragon" to the Graveyard by this effect, you can send the top 7 cards of your Deck to the Graveyard. Then, if you sent a card from the Deck to the Graveyard, you can send the top 7 cards of your opponent's Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（ドラゴン族）を素材として墓地へ送り、フュージョン召喚する。この効果で「真紅動の撃速竜」を墓地へ送った場合、さらに自分のデッキの上からカード７枚を墓地へ送る事ができる。デッキからカードを墓地へ送った場合、さらに相手のデッキの上からカード７枚を墓地へ送る事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- High Tech Dragon
+- Fusion
+images:
+- index: 1
+  image: DragonsBoostFusion-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP049
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930963
+---
+konami_id: 18979
+name:
+  en: Voidvelgr Gullinbursti
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・グリンブルスティ
+  ja_romaji: Voidoverugu Gurinburusuti
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up DARK Attribute Galaxy Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster cannot be destroyed by Spell Card effects, also it gains 800 ATK during your turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターは魔法カードの効果では破壊されず、自分ターンの間、攻撃力は８００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrGullinbursti-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP050
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934532
+---
+konami_id: 18980
+name:
+  en: Voidvelgr Shroud
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォイドヴェルグ・シュラウド
+  ja_romaji: Voidoverugu Shuraudo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Galaxy Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains ATK equal to [the number of Spell/Trap Cards on your field] x 100. While the equipped monster is face-up on your field, Spell/Trap Cards on your field cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は、［自分フィールドの魔法・罠カードの数］×１００アップする。装備モンスターが自分フィールドに表側表示でいる限り、自分フィールドの魔法・罠カードは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Voidvelgr
+images:
+- index: 1
+  image: VoidvelgrShroud-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP051
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934534
+---
+konami_id: 18981
+name:
+  en: Charis Magic - Elegant Change
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: カリス・マジック－エレガントチェンジ
+  ja_romaji: Karisu Majikku - Ereganto Chenji
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute Spellcaster Type monster or 1 Equip Spell Card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have 4 or more monsters in your Graveyard, draw 1 additional card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。自分の墓地にモンスターが４体以上いる場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: CharisMagicElegantChange-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP052
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 931817
+---
+konami_id: 18982
+name:
+  en: Charis Magic Scepter - Death Wand
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: カリス<ruby>魔<rt>ま</rt></ruby><ruby>杖<rt>じょう</rt></ruby>デス・ワンド
+  ja_romaji: Karisu Majō Desu Wando
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up LIGHT Attribute Spellcaster Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（光属性／魔法使い族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 400 ATK and cannot be destroyed by your opponent's card effects. If the equipped monster is a Fusion Monster, it gains 600 more ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は４００アップし、そのモンスターは相手の効果では破壊されない。装備モンスターがフュージョンモンスターの場合、さらに攻撃力を６００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+images:
+- index: 1
+  image: CharisMagicScepterDeathWand-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP053
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 929287
+---
 konami_id: 19012
 name:
   en: Majestic Masterburst
@@ -96013,683 +99144,6 @@ sets:
     rarities:
     - Over Rush Rare
 yugipedia_page_id: 809372
----
-konami_id:
-name:
-  en: Eternal Galactica Oblivion
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: エターナル・ギャラクティカ・オブリビオン
-  ja_romaji: Etānaru Gyarakutika Oburibion
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 5 Galaxy Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター(ギャラクシー族)5体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Until the end of this turn, this card cannot be destroyed by your opponent's Trap Card effects, also it gains ATK equal to [the number of monsters in your Graveyard] x 300.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上から3枚を墓地へ送る。このターン、このカードは相手の罠カードの効果では破壊されない。さらにこのカードの攻撃力をターン終了時まで、自分の墓地のモンスターの数、×300アップできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3500
-def: 2500
-materials:
-  en: |-
-    "Galactica Oblivion" + 2 LIGHT Attribute Galaxy Type monsters
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「ギャラクティカ・オブリビオン」+モンスター(光属性/ギャラクシー族)×2
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Galactica
-images:
-- index: 1
-  image: EternalGalacticaOblivion-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP035
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-  - set_number: RD/D002-JP003
-    set_name: Yu-Gi-Oh! GO RUSH!! Complete Challenge 3
-    rarities:
-    - Rush Rare
-yugipedia_page_id: 806185
----
-konami_id:
-name:
-  en: Voidvelgr Gigantomachia
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・ギガントマキア
-  ja_romaji: Voidoverugu Gigantomakia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 Spell/Trap Card on either field. Also, this turn, this card gains 500 ATK and can attack twice.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 3400
-def: 2500
-materials:
-  en: |-
-    "Voidvelgr Requiem" + "Voidvelgr Chrysaor"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrGigantomachia-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP040
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 806214
----
-konami_id:
-name:
-  en: Voidvelgr Chrysaor
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・クリュサオル
-  ja_romaji: Voidoverugu Kuryusaoru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Your opponent has 2 or more monsters on their field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. If a DARK Attribute Galaxy Type monster(s) is among the cards sent, this card can attack up to that many times this turn. Also, if the cards sent are 3 DARK Attribute Galaxy Type monsters with the same Level, you can destroy all face-up Level 8 or lower monsters on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 8
-atk: 2500
-def: 2000
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrChrysaor-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP008
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 806217
----
-konami_id:
-name:
-  en: Tamabot Burst Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: タマーボット・バーストドラゴン
-  ja_romaji: Tamābotto Bāsuto Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send cards from the top of your Deck to the Graveyard equal to [the total number of "Tamabot" in both players' Graveyards].
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 1000 ATK until the end of this turn. Then, if you sent a monster with 1500 or less ATK to the Graveyard to meet the requirement, you can destroy 1 face-up monster with 1500 or more ATK on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: EARTH
-level: 7
-atk: 2500
-def: 2500
-materials:
-  en: |-
-    "Blue Tooth Burst Dragon" + "Tamabot"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: TamabotBurstDragon-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP036
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 901971
----
-konami_id:
-name:
-  en: Magiarms Beast Gearpard
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>まあ</rt></ruby><ruby>装<rt>そう</rt></ruby><ruby>獣<rt>じゅう</rt></ruby>ギアパルド
-  ja_romaji: Masōjū Giaparudo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    If a card is in your Spell & Trap Zone, this card gains 200 ATK, also this Attack Position card cannot be destroyed by battle during your opponent's turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: EARTH
-level: 7
-atk: 2300
-def: 1800
-images:
-- index: 1
-  image: MagiarmsBeastGearpard-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP013
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 902032
----
-konami_id:
-name:
-  en: Earth Sorcerer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アース・ソーサラー
-  ja_romaji: Āsu Sōsarā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    A magician who carries the pride of his family in his heart. On that day, he left his hometown as if he were on the run.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    一族の誇りを胸に抱く魔術師。その日彼は逃げるように故郷を後にした。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Normal
-attribute: EARTH
-level: 4
-atk: 1500
-def: 0
-images:
-- index: 1
-  image: EarthSorcerer-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP001
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 903543
----
-konami_id:
-name:
-  en: Aero Sorcerer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: エアロ・ソーサラー
-  ja_romaji: Earo Sōsarā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    A magician who enjoys being as free as the wind blows. His selfish behavior will eventually bind his future.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    風の吹くまま自由を謳歌する魔術師。身勝手な行動はやがて彼の未来を縛る事となる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Normal
-attribute: WIND
-level: 4
-atk: 1500
-def: 0
-images:
-- index: 1
-  image: AeroSorcerer-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP002
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 903546
----
-konami_id:
-name:
-  en: Sevens Chariot the Magical Knight
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>－セブンス・チャリオット
-  ja_romaji: Madōkishi - Sebunsu Chariotto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Multi-Choice
-effect:
-  en: |-
-    ● This card gains ATK equal to [the number of cards in both players' Spell & Trap Zones] x 500 until the end of this turn.
-    ● This turn, this card cannot be destroyed by your opponent's card effects. Also, you can destroy face-up cards on your opponent's field, up to [the number of cards in your Spell & Trap Zone].
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Magical Knight / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 3000
-def: 2500
-materials:
-  en: |-
-    "Sevens Road Magician" + "Magiarms Beast Gearpard"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-images:
-- index: 1
-  image: SevensChariottheMagicalKnight-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP043
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 908809
----
-konami_id:
-name:
-  en: Celeb Rose Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・マジシャン
-  ja_romaji: Serebu Rōzu Majishan
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 face-up Equip Spell Card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, if you have 3 or more Spell Cards in your Graveyard, this card gains 700 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 7
-atk: 2100
-def: 1500
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseMagician-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP012
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 929280
----
-konami_id:
-name:
-  en: Celeb Rose Witch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・ウィッチ
-  ja_romaji: Serebu Rōzu Wicchi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have "Celeb Rose Magician" in your Graveyard, send 1 LIGHT Attribute Spellcaster Type monster or 1 Spell Card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Celeb Rose Magician" or 1 Level 9 or lower Spellcaster Type Fusion Monster from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 6
-atk: 1600
-def: 1000
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseWitch-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP011
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 929282
----
-konami_id:
-name:
-  en: Celeb Rose Fabulous Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・ファビュラス・マジシャン
-  ja_romaji: Serebu Rōzu Fabyurasu Majishan
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up monster on your opponent's field. Then, you can add 1 Equip Spell Card from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3000
-def: 2100
-materials:
-  en: |-
-    "Celeb Rose Magician" + "Celeb Rose Witch"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseFabulousMagician-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP041
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 929283
 ---
 konami_id:
 name:
@@ -96744,608 +99198,6 @@ yugipedia_page_id: 929284
 ---
 konami_id:
 name:
-  en: Charis Magic Scepter - Death Wand
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: カリス<ruby>魔<rt>ま</rt></ruby><ruby>杖<rt>じょう</rt></ruby>デス・ワンド
-  ja_romaji: Karisu Majō Desu Wando
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up LIGHT Attribute Spellcaster Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains 400 ATK and cannot be destroyed by your opponent's card effects. If the equipped monster is a Fusion Monster, it gains 600 more ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-images:
-- index: 1
-  image: CharisMagicScepterDeathWand-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP053
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 929287
----
-konami_id:
-name:
-  en: Manifestation Master Dortheo
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>ドルテオ
-  ja_romaji: Kengen Jutsushi Doruteo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, you can inflict damage to your opponent equal to [the number of Spellcaster Type monsters sent to the Graveyard by this effect] x 300.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 8
-atk: 2500
-def: 1600
-images:
-- index: 1
-  image: ManifestationMasterDortheo-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP032
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930090
----
-konami_id:
-name:
-  en: Celeb Rose Luxury Magicians
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・ラグジュアリ・マジシャンズ
-  ja_romaji: Serebu Rōzu Ragujuari Majishanzu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 9 or lower LIGHT Attribute Spellcaster Type monster from your Graveyard to your field in face-up Defense Position. Then, if this card is equipped with an Equip Spell Card, this card can make up to 2 attacks on monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Fusion / Effect
-attribute: LIGHT
-level: 10
-atk: 3200
-def: 1900
-materials:
-  en: |-
-    "Celeb Rose Magician" + "Celeb Rose Witch"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseLuxuryMagicians-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP042
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 930104
----
-konami_id:
-name:
-  en: Zuse the Wisdom Vassal
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ツーゼ
-  ja_romaji: Kenteikashin Tsūze
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent Sets 1 Spell Card from their Graveyard to their field. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: DARK
-level: 3
-atk: 800
-def: 1000
-images:
-- index: 1
-  image: ZusetheWisdomVassal-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP014
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930140
----
-konami_id:
-name:
-  en: Hebe the Star Vassal
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ヘーベ
-  ja_romaji: Seiteikashin Hēbe
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, shuffle 2 monsters with 1000 DEF from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent Special Summons 1 Level 6 or lower Effect Monster from their Graveyard to their field in face-up Defense Position. Then, you can add 1 Level 5 or higher monster with 1000 DEF from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 4
-atk: 800
-def: 1000
-images:
-- index: 1
-  image: HebetheStarVassal-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP015
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930141
----
-konami_id:
-name:
-  en: Wilhel the Wisdom Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
-  ja_romaji: Kentei Viruheru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Look at 1 face-down Spell/Trap Card on your opponent's field. Then, if that card is a Spell Card, you can destroy it.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: DARK
-level: 5
-atk: 2000
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: WilheltheWisdomMonarch-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP016
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930142
----
-konami_id:
-name:
-  en: Estrome the Star Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
-  ja_romaji: Seitei Esutorōmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up Level 6 or lower Effect Monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 5
-atk: 2000
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: EstrometheStarMonarch-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP017
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930143
----
-konami_id:
-name:
-  en: Wilhel the Mega Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>才<rt>さい</rt></ruby><ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
-  ja_romaji: Saikentei Viruheru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent chooses 1 card on their field, and you destroy that card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: DARK
-level: 8
-atk: 2400
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: WilheltheMegaMonarch-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP018
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 930144
----
-konami_id:
-name:
-  en: Estrome the Mega Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>煌<rt>こう</rt></ruby><ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
-  ja_romaji: Kōseitei Esutorōmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster with 1000 DEF.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent chooses 1 card on their field, and you destroy 1 other card on either field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 8
-atk: 2400
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: EstrometheMegaMonarch-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP019
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 930145
----
-konami_id:
-name:
-  en: Zaborg the Thunder Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 monster on either field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Thunder / Effect
-attribute: LIGHT
-level: 5
-atk: 2400
-def: 1000
-series:
-- Monarch
-legend: true
-images:
-- index: 1
-  image: ZaborgtheThunderMonarch-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP020
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-    - Secret Rare
-yugipedia_page_id: 930146
----
-konami_id:
-name:
   en: Emperor Realm
   de:
   es:
@@ -97394,118 +99246,6 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 930147
----
-konami_id:
-name:
-  en: Devil Foolish
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>烏賊合の衆<rt>デビルフーリッシュ</rt></ruby>
-  ja_romaji: Debirufūrisshu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, reveal up to 2 monsters with 0 DEF in your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon monsters with 0 DEF from your Graveyard, up to [the number of monsters revealed to meet the requirement], to your field in face-down Defense Position. For the rest of this turn, you cannot Normal Summon Level 9 or lower monsters nor Set monsters from the hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: LIGHT
-level: 3
-atk: 1000
-def: 0
-images:
-- index: 1
-  image: DevilFoolish-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP026
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930188
----
-konami_id:
-name:
-  en: Pureglass Spears
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: プルグラース・スピアース
-  ja_romaji: Purugurāsu Supiāsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Change this card's battle position (Attack Position becomes face-up Defense Position, Defense Position becomes face-up Attack Position).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up monster on your field gains 1000 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: LIGHT
-level: 8
-atk: 2500
-def: 2500
-images:
-- index: 1
-  image: PureglassSpears-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP033
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 930190
 ---
 konami_id:
 name:
@@ -97564,591 +99304,6 @@ yugipedia_page_id: 930240
 ---
 konami_id:
 name:
-  en: Star Replacer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スター・リプレイサー
-  ja_romaji: Sutā Ripureisā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have no other monsters on your field, return this card from your field to the owner's hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 4 or lower monster from your Graveyard to your field in face-down Defense Position. For the rest of this turn, you cannot Special Summon monsters from your hand or Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 1
-atk: 200
-def: 1000
-images:
-- index: 1
-  image: StarReplacer-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP022
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 930388
----
-konami_id:
-name:
-  en: Skyporter Max
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スカイポーター・マックス
-  ja_romaji: Sukaipōtā Makkusu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 10 monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Place 2 or 3 Maximum Monsters from your Graveyard on top of the Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: DARK
-level: 3
-atk: 1000
-def: 0
-images:
-- index: 1
-  image: SkyporterMax-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP025
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930552
----
-konami_id:
-name:
-  en: Booster Wyvern
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ブースター・ワイバーン
-  ja_romaji: Būsutā Waibān
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have "Blue Tooth Burst Dragon" or "Red Boot Boost Dragon" face-up on your field during your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Inflict 600 damage to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 1
-atk: 300
-def: 300
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: BoosterWyvern-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP004
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930620
----
-konami_id:
-name:
-  en: Dragon's Burst Fusion
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴンズ・バースト・フュージョン
-  ja_romaji: Doragonzu Bāsuto Fyūjon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by sending face-up Dragon Type monsters from your field to the Graveyard as material. Then, if you sent "Blue Tooth Burst Dragon" to the Graveyard by this effect, you can make 1 face-up monster on your opponent's field lose 1500 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- High Tech Dragon
-- Fusion
-images:
-- index: 1
-  image: DragonsBurstFusion-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP048
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930621
----
-konami_id:
-name:
-  en: Blue Tooth Enhanced Burst Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>碧牙の超越爆速竜<rt>ブルー・トゥース・エンハンスド・バーストドラゴン</rt></ruby>
-  ja_romaji: Burū Tūsu Enhansudo Bāsuto Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up card on either field. Then, if you sent a monster whose original Level is 7 or higher to the Graveyard to meet the requirement, you can Special Summon 1 "Blue Tooth Burst Dragon" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3000
-def: 2000
-materials:
-  en: |-
-    "Blue Tooth Burst Dragon" + "Booster Wyvern"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: BlueToothEnhancedBurstDragon-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP037
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930622
----
-konami_id:
-name:
-  en: Red Boot Enhanced Boost Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>真紅動の超越撃速竜<rt>レッドブート・エンハンスド・ブーストドラゴン</rt></ruby>
-  ja_romaji: Reddobūto Enhansudo Būsuto Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Choose up to 9 monsters in any Graveyard(s). Inflict damage to your opponent equal to [the number of chosen monsters] x 200, and this card gains ATK equal to [the number of chosen monsters] x 200 until the end of this turn. Then, shuffle the chosen monsters into the owner's Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 2900
-def: 2100
-materials:
-  en: |-
-    "Red Boot Boost Dragon" + "Booster Wyvern"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: RedBootEnhancedBoostDragon-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP038
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930962
----
-konami_id:
-name:
-  en: Dragon's Boost Fusion
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴンズ・ブースト・フュージョン
-  ja_romaji: Doragonzu Būsuto Fyūjon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by sending face-up Dragon Type monsters from your field to the Graveyard as material. Then, if you sent "Red Boot Boost Dragon" to the Graveyard by this effect, you can send the top 7 cards of your Deck to the Graveyard. Then, if you sent a card from the Deck to the Graveyard, you can send the top 7 cards of your opponent's Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- High Tech Dragon
-- Fusion
-images:
-- index: 1
-  image: DragonsBoostFusion-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP049
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930963
----
-konami_id:
-name:
-  en: DBF Rebuildra
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｂ<rt>ビー</rt></ruby><ruby>Ｆ<rt>エフ</rt></ruby>リビルドラ
-  ja_romaji: Dī Bī Efu Ribirudora
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned, reveal 1 "Blue Tooth Burst Dragon" or "Red Boot Boost Dragon" in your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Set 1 "Dragon's Burst Fusion" or "Dragon's Boost Fusion" from your Graveyard in your Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 2
-atk: 900
-def: 900
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: DBFRebuildra-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP005
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 930964
----
-konami_id:
-name:
-  en: Voidvelgr Kyrie
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・キリエ
-  ja_romaji: Voidoverugu Kirie
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 face-up Level 7 or lower Galaxy Type monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Voidvelgr Requiem" or "Voidvelgr Chrysaor" from your Graveyard to your hand. Then, you can choose 1 face-up card on your field. If you do, that card cannot be destroyed by card effects this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 2
-atk: 200
-def: 500
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrKyrie-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP006
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 931361
----
-konami_id:
-name:
-  en: Voidvelgr Logistikos
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・ロジスティコス
-  ja_romaji: Voidoverugu Rojisutikosu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Reveal 1 Level 7 or higher Galaxy Type monster in your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Set 1 "Fusion" from your Graveyard in your Spell & Trap Zone. Then, if your opponent has a face-up Level 7 or higher monster on their field, you can add 1 Level 8 Galaxy Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 4
-atk: 1000
-def: 1300
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrLogistikos-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP007
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 931362
----
-konami_id:
-name:
   en: Shared Sentiments
   de:
   es:
@@ -98197,228 +99352,6 @@ sets:
     rarities:
     - Rare
 yugipedia_page_id: 931363
----
-konami_id:
-name:
-  en: Celeb Rose Mage
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・メイジ
-  ja_romaji: Serebu Rōzu Meiji
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have "Celeb Rose Magician" or an Equip Spell Card in your Graveyard during the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Charis Magic Scepter - Death Wand" or "Fusion" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 2
-atk: 800
-def: 800
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseMage-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP009
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 931815
----
-konami_id:
-name:
-  en: Celeb Rose Sorcerer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: セレブローズ・ソーサラー
-  ja_romaji: Serebu Rōzu Sōsarā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 3 face-up LIGHT Attribute Spellcaster Type monsters from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 LIGHT Attribute Spellcaster Type monster with 2500 or less ATK from your Graveyard face-up to your field. Then, you can Set 1 "Charis Magic Scepter - Death Wand" from your Graveyard in your Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 4
-atk: 1300
-def: 100
-series:
-- Celeb Rose
-images:
-- index: 1
-  image: CelebRoseSorcerer-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP010
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 931816
----
-konami_id:
-name:
-  en: Charis Magic - Elegant Change
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: カリス・マジック－エレガントチェンジ
-  ja_romaji: Karisu Majikku - Ereganto Chenji
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 LIGHT Attribute Spellcaster Type monster or 1 Equip Spell Card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you have 4 or more monsters in your Graveyard, draw 1 additional card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: CharisMagicElegantChange-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP052
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 931817
----
-konami_id:
-name:
-  en: Elegant Aurum Avian
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>雅<rt>みやび</rt></ruby>な<ruby>金<rt>きん</rt></ruby><ruby>鳥<rt>ちょう</rt></ruby>
-  ja_romaji: Miyabi na Kinchō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 10 or more cards in your Deck, send 1 LIGHT Attribute Spellcaster Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 4
-atk: 1100
-def: 1000
-images:
-- index: 1
-  image: ElegantAurumAvian-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP028
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 931824
 ---
 konami_id:
 name:
@@ -98476,309 +99409,6 @@ yugipedia_page_id: 931899
 ---
 konami_id:
 name:
-  en: Cyber Tactical Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイバー・タクティカル・ドラゴン
-  ja_romaji: Saibā Takutikaru Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 2 LIGHT Attribute Machine Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy up to 2 face-up monsters on your opponent's field, whose total ATK is less than or equal to this card's.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3200
-def: 2100
-materials:
-  en: |-
-    "Cyber Assault Dragon" + "Cyber Dragon"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Cyber Dragon
-images:
-- index: 1
-  image: CyberTacticalDragon-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP044
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 931934
----
-konami_id:
-name:
-  en: Cyber Processor
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイバー・プロセッサー
-  ja_romaji: Saibā Purosessā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have a face-up Machine Type monster on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 other card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card's name becomes "Cyber Dragon" this turn. Then, you can Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: LIGHT
-level: 5
-atk: 1500
-def: 1600
-images:
-- index: 1
-  image: CyberProcessor-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP021
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 931936
----
-konami_id:
-name:
-  en: Braid Blade Reader
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ブレイド・リーダー
-  ja_romaji: Bureido Rīdā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 LIGHT Attribute Spellcaster Type monster or 1 Spell Card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. If a LIGHT Attribute Spellcaster Type monster(s) is among the cards sent, you can add 1 Equip Spell Card from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 3
-atk: 300
-def: 1300
-images:
-- index: 1
-  image: BraidBladeReader-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP024
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 931995
----
-konami_id:
-name:
-  en: Splame
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スプレイム
-  ja_romaji: Supureimu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 2 Pyro Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, this card's name becomes the same as the name of 1 Level 8 or lower monster in your Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Pyro / Effect
-attribute: FIRE
-level: 4
-atk: 800
-def: 1200
-images:
-- index: 1
-  image: Splame-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP027
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 932021
----
-konami_id:
-name:
-  en: Galactica Deja Vu
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギャラクティカ・デジャヴュ
-  ja_romaji: Gyarakutika Dejavu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If your opponent's LP are 4000 or higher, send this face-up card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top card of your Deck to the Graveyard. Then, if you sent a Level 4 or lower LIGHT Attribute Galaxy Type Normal Monster to the Graveyard by this effect, you can Special Summon that monster face-up to your field. Then, inflict damage to your opponent equal to [the original ATK of the monster Special Summoned by this effect].
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 2
-atk: 0
-def: 1200
-series:
-- Galactica
-images:
-- index: 1
-  image: GalacticaDejaVu-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP003
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 932069
----
-konami_id:
-name:
   en: Hallowed Light Sorcerer
   de:
   es:
@@ -98818,63 +99448,6 @@ sets:
     rarities:
     - Normal Parallel Rare
 yugipedia_page_id: 932073
----
-konami_id:
-name:
-  en: Plaster Scout
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>石膏の斥候<rt>プラスター・スカウト</rt></ruby>
-  ja_romaji: Purasutā Sukauto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    During your opponent's Main Phase, you take no damage from your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 1300
-def: 1000
-images:
-- index: 1
-  image: PlasterScout-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP029
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 932086
 ---
 konami_id:
 name:
@@ -98930,62 +99503,6 @@ yugipedia_page_id: 932194
 ---
 konami_id:
 name:
-  en: Mad Rare Aquila
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: マッドレア・アクエラ
-  ja_romaji: Maddorea Akuera
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If your opponent has 2 or more monsters on their field, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, this card can attack twice. Also, you can destroy 1 face-up Level 6 Effect Monster on your opponent's field. Then, if you destroyed a monster by this effect, this card gains 600 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Winged Beast / Effect
-attribute: DARK
-level: 4
-atk: 1300
-def: 1100
-images:
-- index: 1
-  image: MadRareAquila-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP030
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 932329
----
-konami_id:
-name:
   en: Protection of Arthenée
   de:
   es:
@@ -99035,128 +99552,6 @@ sets:
     - Super Rare
     - Secret Rare
 yugipedia_page_id: 932330
----
-konami_id:
-name:
-  en: EXTRAplorer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>ＥＸ<rt>エクストラ</rt></ruby>プローラー
-  ja_romaji: Ekusutorapurōrā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 300 ATK until the end of this turn. Then, if you have 5 or more Galaxy Type monsters in your Graveyard, you can add 1 Galaxy Type Normal Monster and/or 1 "Fusion" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 7
-atk: 2300
-def: 2200
-images:
-- index: 1
-  image: EXTRAplorer-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP031
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 932331
----
-konami_id:
-name:
-  en: Space Fusion - EXTRAplasmer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>ＳＦ<rt>スペースフュージョン</rt></ruby>－<ruby>ＥＸ<rt>エクストラ</rt></ruby>プラズマー
-  ja_romaji: Supēsu Fyūjon - Ekusutorapurazumā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 card in your opponent's Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3000
-def: 2000
-materials:
-  en: |-
-    "EXTRAplorer" + 1 LIGHT Attribute Galaxy Type monster
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-images:
-- index: 1
-  image: SpaceFusionEXTRAplasmer-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP045
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 932332
 ---
 konami_id:
 name:
@@ -99316,114 +99711,6 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 932694
----
-konami_id:
-name:
-  en: Don A. Corn of the Verdant Vast
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>樹<rt>じゅ</rt></ruby><ruby>海<rt>かい</rt></ruby>の<ruby>首領<rt>ドン</rt></ruby>グーリ
-  ja_romaji: Jukai no Don Gūri
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 3 Spell/Trap Cards from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast / Effect
-attribute: EARTH
-level: 2
-atk: 800
-def: 200
-images:
-- index: 1
-  image: DonACornoftheVerdantVast-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP023
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 933800
----
-konami_id:
-name:
-  en: Galactica Addergatling
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギャラクティカ・アダーガトリング
-  ja_romaji: Gyarakutika Adāgatoringu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up Galaxy Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains 200 ATK/DEF and cannot be destroyed by your opponent's Trap Card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Galactica
-images:
-- index: 1
-  image: GalacticaAddergatling-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP0??
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 933894
 ---
 konami_id:
 name:
@@ -99628,58 +99915,6 @@ yugipedia_page_id: 934523
 ---
 konami_id:
 name:
-  en: Advance Impact
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アドバンス・インパクト
-  ja_romaji: Adobansu Inpakuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no monsters on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Choose 1 face-up monster on your opponent's field, and send monsters from your hand to the Graveyard whose total Levels equal the chosen monster's Level. This turn, if you would Tribute Summon a monster, you can Tribute the chosen opponent's face-up monster instead of 1 monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: AdvanceImpact-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP046
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 934525
----
-konami_id:
-name:
   en: Recombination Galactica
   de:
   es:
@@ -99730,245 +99965,3 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 934527
----
-konami_id:
-name:
-  en: Galactiara Fuse Eve
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギャラクティアラ・<ruby>Ｆ<rt>ヒュース</rt></ruby>・イブ
-  ja_romaji: Gyarakutiara Hyūsu Ivu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Place 1 "Fusion" from your Graveyard on either the top or bottom of the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: LIGHT
-level: 7
-atk: 2400
-def: 1600
-materials:
-  en: |-
-    "Galactiara Eve" + 1 LIGHT Attribute Galaxy Type monster
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-images:
-- index: 1
-  image: GalactiaraFuseEve-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP034
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934529
----
-konami_id:
-name:
-  en: Voidvelgr Gullinbursti
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・グリンブルスティ
-  ja_romaji: Voidoverugu Gurinburusuti
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up DARK Attribute Galaxy Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster cannot be destroyed by Spell Card effects, also it gains 800 ATK during your turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrGullinbursti-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP050
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934532
----
-konami_id:
-name:
-  en: Voidvelgr Shroud
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・シュラウド
-  ja_romaji: Voidoverugu Shuraudo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up Galaxy Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains ATK equal to [the number of Spell/Trap Cards on your field] x 100. While the equipped monster is face-up on your field, Spell/Trap Cards on your field cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrShroud-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP051
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934534
----
-konami_id:
-name:
-  en: Voidvelgr Theogonia
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォイドヴェルグ・テオゴニア
-  ja_romaji: Voidoverugu Teogonia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 8 Galaxy Type monster from your Graveyard face-up to your field. The monster Special Summoned by this effect cannot be destroyed by card effects until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 3000
-def: 3000
-materials:
-  en: |-
-    "Voidvelgr Chrysaor" + "Dark Prophet"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Voidvelgr
-images:
-- index: 1
-  image: VoidvelgrTheogonia-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP039
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934536
