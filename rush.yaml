@@ -87608,64 +87608,68 @@ yugipedia_page_id: 717417
 ---
 konami_id: 18592
 name:
-  en: Zaborg the Thunder Monarch
+  en: Machvio of the Ultimate Aria
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ja_romaji:
+  ja: <ruby>極<rt>きょく</rt></ruby><ruby>奏<rt>そう</rt></ruby>のマッハヴァイオ
+  ja_romaji: Kyokusō no Mahhavaio
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
+    None
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    Destroy 1 monster on either field.
+    This card gains ATK equal to [the total number of Equip Spell Cards equipped to this card and the number of face-up Normal Monsters on your opponent's field] x 500.
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    自分または相手フィールドのモンスター１体を選んで破壊する。
+    このカードの攻撃力は、［このカードが装備している装備魔法カードの数と相手フィールドの表側表示の通常モンスターの数の合計］×５００アップする。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Thunder / Effect
-attribute: LIGHT
-level: 5
+monster_type_line: Psychic / Effect
+attribute: WIND
+level: 7
 atk: 2400
-def: 1000
+def: 1400
 series:
-- Monarch
-legend: true
+- Shaman Bandit
 images:
 - index: 1
-  image: ZaborgtheThunderMonarch-RDKP13-JP-R.png
+  image: MachviooftheUltimateAria-RDKP12-JP-SR.png
 sets:
   ja:
-  - set_number: RD/KP13-JP020
-    set_name: Oblivion of the Flash
+  - set_number: RD/KP12-JP010
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
-    - Rare
-    - Secret Rare
-yugipedia_page_id: 930146
+    - Super Rare
+  - set_number: RD/BDG4-JP001
+    set_name: Yu-Gi-Oh! GO RUSH!! Duel-4 Blu-ray & DVD promotional card
+    rarities:
+    - Ultra Parallel Rare
+yugipedia_page_id: 715687
 ---
 konami_id: 18593
 name:
@@ -97081,6 +97085,67 @@ sets:
     - Over Rush Rare
 yugipedia_page_id: 930145
 ---
+konami_id: 18949
+name:
+  en: Zaborg the Thunder Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 monster on either field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドのモンスター１体を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: LIGHT
+level: 5
+atk: 2400
+def: 1000
+series:
+- Monarch
+legend: true
+images:
+- index: 1
+  image: ZaborgtheThunderMonarch-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP020
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
+yugipedia_page_id: 930146
+---
 konami_id: 18950
 name:
   en: Cyber Processor
@@ -97150,6 +97215,66 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 931936
+---
+konami_id: 18951
+name:
+  en: Star Replacer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スター・リプレイサー
+  ja_romaji: Sutā Ripureisā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have no other monsters on your field, return this card from your field to the owner's hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合、自分フィールドのこのカードを持ち主の手札に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 4 or lower monster from your Graveyard to your field in face-down Defense Position. For the rest of this turn, you cannot Special Summon monsters from your hand or Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル４以下）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は自分の手札・墓地からモンスターを特殊召喚できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 1
+atk: 200
+def: 1000
+images:
+- index: 1
+  image: StarReplacer-RDKP13-JP-SR.png
+- index: 2
+  image: StarReplacer-RDKP13-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP022
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 930388
 ---
 konami_id: 18952
 name:
@@ -99097,263 +99222,7 @@ sets:
     - Rare
 yugipedia_page_id: 929287
 ---
-konami_id: 19012
-name:
-  en: Majestic Masterburst
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: マジェスティック・マスターバースト
-  ja_romaji: Majesutikku Masutābāsuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    The glittering glow of the conquering king that rules over tens of thousands of stars. Once one reaches the highest heights, its true form will be revealed.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    幾万の星を束ねし王者の煌めき。極致に至りし時、真の姿を顕さん。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Normal
-attribute: LIGHT
-level: 8
-atk: 2500
-def: 2000
-images:
-- index: 1
-  image: MajesticMasterburst-RDGC23-JP-NPR.png
-sets:
-  ja:
-  - set_number: RD/GC23-JP001
-    set_name: Galaxy Cup 2023 Area Representative Match participation card
-    rarities:
-    - Normal Parallel Rare
-  - set_number: RD/GC23-JP001
-    set_name: Galaxy Cup 2023 Finals prize card
-    rarities:
-    - Over Rush Rare
-yugipedia_page_id: 809372
----
-konami_id:
-name:
-  en: Rose Chain Salvage
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ローズチェーン・サルベージ
-  ja_romaji: Rōzu Chēn Sarubēji
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Special Summons a monster while you have a Level 6 or higher Spellcaster Type monster on your field equipped with an Equip Spell Card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 monster from your Graveyard face-up to your field. Then, gain LP equal to [the original Level of the monster Special Summoned by this effect] x 100.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: RoseChainSalvage-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP061
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 929284
----
-konami_id:
-name:
-  en: Emperor Realm
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: エンペラー・レルム
-  ja_romaji: Enperā Rerumu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Activate this card by sending the top 2 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    While this card is face-up in the Field Zone, face-up Level 5 or higher monsters on the field with 1000 original DEF gain 400 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Field
-images:
-- index: 1
-  image: EmperorRealm-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP056
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 930147
----
-konami_id:
-name:
-  en: Nobody Scat Thief
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ノーバディ・スキャットシーフ
-  ja_romaji: Nōbadi Sukyatto Shīfu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a monster on your field is destroyed by an opponent's attack or their card effect.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 3 cards. Then, send 1 or more cards from your hand to the Graveyard. Then, if you have no monsters on your field, you take no battle damage from your opponent's Level 8 or lower monsters' attacks this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Shaman Bandit
-images:
-- index: 1
-  image: NobodyScatThief-RDKP13-JP-UR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP060
-    set_name: Oblivion of the Flash
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-yugipedia_page_id: 930240
----
-konami_id:
-name:
-  en: Shared Sentiments
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>相<rt>しょう</rt></ruby><ruby>伴<rt>ばん</rt></ruby>の<ruby>想<rt>おも</rt></ruby>い
-  ja_romaji: Shōban no Omoi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal Summons a monster, shuffle 2 LIGHT Attribute monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up LIGHT Attribute monster on your field gains ATK equal to [the ATK of that Normal Summoned monster] and cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: SharedSentiments-RDKP13-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP064
-    set_name: Oblivion of the Flash
-    rarities:
-    - Rare
-yugipedia_page_id: 931363
----
-konami_id:
+konami_id: 18983
 name:
   en: Sevens Wonder Fusion
   de:
@@ -99375,7 +99244,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -99387,7 +99257,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「セブンスロード・マジシャン」を含む自分のフィールド・墓地のモンスターを素材として持ち主のデッキに戻し、フュージョン召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -99407,153 +99278,7 @@ sets:
     - Secret Rare
 yugipedia_page_id: 931899
 ---
-konami_id:
-name:
-  en: Hallowed Light Sorcerer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>粛<rt>しゅく</rt></ruby><ruby>聖<rt>せい</rt></ruby>のライト・ソーサラー
-  ja_romaji: Shukusei no Raito Sōsarā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en:
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 4
-atk: 1200
-def: 0
-images:
-- index: 1
-  image: HallowedLightSorcerer-RDSJMP-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/SJMP-JP028
-    set_name: Saikyō Jump July 2023 promotional card
-    rarities:
-    - Normal Parallel Rare
-yugipedia_page_id: 932073
----
-konami_id:
-name:
-  en: Rice Terrace Crisis
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ライステラス・クライシス
-  ja_romaji: Raisu Terasu Kuraishisu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Special Summons a monster from the hand or Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change up to 2 face-up monsters on your opponent's field to face-down Defense Position, whose total Levels equal 12 or less.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: RiceTerraceCrisis-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP066
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 932194
----
-konami_id:
-name:
-  en: Protection of Arthenée
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アルテネの<ruby>加<rt>か</rt></ruby><ruby>護<rt>ご</rt></ruby>
-  ja_romaji: Arutene no Kago
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 monster from your Graveyard into the Deck, and equip this card to 1 face-up monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster cannot be destroyed by your opponent's card effects. Also, if you have an Equip Spell Card in your Graveyard, the equipped monster gains 300 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-images:
-- index: 1
-  image: ProtectionofArthenée-RDKP13-JP-SR.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP057
-    set_name: Oblivion of the Flash
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 932330
----
-konami_id:
+konami_id: 18984
 name:
   en: Magical Lance - Grace Spear
   de:
@@ -99606,7 +99331,334 @@ sets:
     - Rare
 yugipedia_page_id: 932337
 ---
-konami_id:
+konami_id: 18985
+name:
+  en: Emperor Realm
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エンペラー・レルム
+  ja_romaji: Enperā Rerumu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Activate this card by sending the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは、デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    While this card is face-up in the Field Zone, face-up Level 5 or higher monsters on the field with 1000 original DEF gain 400 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が１０００の表側表示モンスター（レベル５以上）の攻撃力は４００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Field
+images:
+- index: 1
+  image: EmperorRealm-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP056
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 930147
+---
+konami_id: 18986
+name:
+  en: Protection of Arthenée
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アルテネの<ruby>加<rt>か</rt></ruby><ruby>護<rt>ご</rt></ruby>
+  ja_romaji: Arutene no Kago
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 monster from your Graveyard into the Deck, and equip this card to 1 face-up monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター１体をデッキに戻し、自分フィールドの表側表示モンスター１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster cannot be destroyed by your opponent's card effects. Also, if you have an Equip Spell Card in your Graveyard, the equipped monster gains 300 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターは相手の効果では破壊されない。自分の墓地に装備魔法カードがある場合、さらに装備モンスターの攻撃力は３００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+images:
+- index: 1
+  image: ProtectionofArthenée-RDKP13-JP-SR.png
+- index: 2
+  image: ProtectionofArthenée-RDKP13-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP057
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 932330
+---
+konami_id: 18987
+name:
+  en: Dead or Arainac
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: デッド・オア・ライナック
+  ja_romaji: Deddo Oa Rainakku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares a direct attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの直接攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Gain 800 LP. Then, draw 1 card and show it. Then, if that card is a Galaxy Type Normal Monster with 1600 or more ATK, negate the attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は８００ＬＰ回復する。その後、自分は１枚ドローし、お互いに確認する。そのカードが通常モンスター（ギャラクシー族／攻撃力１６００以上）だった場合、さらにその攻撃を無効にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: DeadorArainac-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP058
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934523
+---
+konami_id: 18988
+name:
+  en: Recombination Galactica
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: リコンビネーション・ギャラクティカ
+  ja_romaji: Rikonbinēshon Gyarakutika
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your monster is destroyed by an opponent's attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のモンスターが相手の攻撃で破壊された時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の通常モンスター（ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Galactica
+images:
+- index: 1
+  image: RecombinationGalactica-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP059
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 934527
+---
+konami_id: 18989
+name:
+  en: Nobody Scat Thief
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ノーバディ・スキャットシーフ
+  ja_romaji: Nōbadi Sukyatto Shīfu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a monster on your field is destroyed by an opponent's attack or their card effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 3 cards. Then, send 1 or more cards from your hand to the Graveyard. Then, if you have no monsters on your field, you take no battle damage from your opponent's Level 8 or lower monsters' attacks this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は３枚ドローする。その後、自分は手札を１枚以上選んで墓地へ送る。自分フィールドにモンスターがいない場合、さらにこのターン、相手モンスター（レベル８以下）の攻撃で自分は戦闘ダメージを受けない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Shaman Bandit
+images:
+- index: 1
+  image: NobodyScatThief-RDKP13-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP060
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+yugipedia_page_id: 930240
+---
+konami_id: 18990
+name:
+  en: Rose Chain Salvage
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ローズチェーン・サルベージ
+  ja_romaji: Rōzu Chēn Sarubēji
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Special Summons a monster while you have a Level 6 or higher Spellcaster Type monster on your field equipped with an Equip Spell Card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに装備魔法カードを装備したモンスター（レベル６以上／魔法使い族）がいる場合、相手がモンスターを特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 monster from your Graveyard face-up to your field. Then, gain LP equal to [the original Level of the monster Special Summoned by this effect] x 100.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分は［この効果で特殊召喚したモンスターの元々のレベル］×１００ＬＰ回復する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: RoseChainSalvage-RDKP13-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP061
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+yugipedia_page_id: 929284
+---
+konami_id: 18991
 name:
   en: Machinations of the Monarchs
   de:
@@ -99628,7 +99680,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル５以上／守備力１０００）がいる場合、相手がモンスターを召喚した時に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -99640,7 +99693,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    その召喚されたモンスターを裏側守備表示にする。その後、自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -99659,7 +99713,7 @@ sets:
     - Common
 yugipedia_page_id: 932693
 ---
-konami_id:
+konami_id: 18992
 name:
   en: Nativity of the Monarchs
   de:
@@ -99681,7 +99735,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分フィールドのモンスター１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -99693,7 +99748,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札のモンスター（レベル５以上／守備力１０００）１体を自分フィールドに表側攻撃表示で特殊召喚する。その後、相手が召喚・特殊召喚したそのモンスター１体を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -99712,7 +99768,60 @@ sets:
     - Common
 yugipedia_page_id: 932694
 ---
-konami_id:
+konami_id: 18993
+name:
+  en: Shared Sentiments
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>相<rt>しょう</rt></ruby><ruby>伴<rt>ばん</rt></ruby>の<ruby>想<rt>おも</rt></ruby>い
+  ja_romaji: Shōban no Omoi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal Summons a monster, shuffle 2 LIGHT Attribute monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを召喚した時、自分の墓地のモンスター（光属性）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up LIGHT Attribute monster on your field gains ATK equal to [the ATK of that Normal Summoned monster] and cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（光属性）１体を選ぶ。このターン、そのモンスターの攻撃力は［その召喚されたモンスターの攻撃力］だけアップし、相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: SharedSentiments-RDKP13-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP064
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+yugipedia_page_id: 931363
+---
+konami_id: 18994
 name:
   en: Vortex of Shattered Light
   de:
@@ -99734,7 +99843,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分の墓地のモンスター（光属性／魔法使い族）３体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -99746,7 +99856,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    その召喚・特殊召喚されたモンスター１体を選んで破壊する。
   ko:
   zh-TW:
   zh-CN:
@@ -99762,6 +99873,152 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 934189
+---
+konami_id: 18995
+name:
+  en: Rice Terrace Crisis
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライステラス・クライシス
+  ja_romaji: Raisu Terasu Kuraishisu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Special Summons a monster from the hand or Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手が手札または墓地からモンスターを特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change up to 2 face-up monsters on your opponent's field to face-down Defense Position, whose total Levels equal 12 or less.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    レベルの合計が１２以下になるように、相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: RiceTerraceCrisis-RDKP13-JP-SR.png
+- index: 2
+  image: RiceTerraceCrisis-RDKP13-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP13-JP066
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 932194
+---
+konami_id: 19012
+name:
+  en: Majestic Masterburst
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マジェスティック・マスターバースト
+  ja_romaji: Majesutikku Masutābāsuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    The glittering glow of the conquering king that rules over tens of thousands of stars. Once one reaches the highest heights, its true form will be revealed.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    幾万の星を束ねし王者の煌めき。極致に至りし時、真の姿を顕さん。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Normal
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 2000
+images:
+- index: 1
+  image: MajesticMasterburst-RDGC23-JP-NPR.png
+sets:
+  ja:
+  - set_number: RD/GC23-JP001
+    set_name: Galaxy Cup 2023 Area Representative Match participation card
+    rarities:
+    - Normal Parallel Rare
+  - set_number: RD/GC23-JP001
+    set_name: Galaxy Cup 2023 Finals prize card
+    rarities:
+    - Over Rush Rare
+yugipedia_page_id: 809372
+---
+konami_id:
+name:
+  en: Hallowed Light Sorcerer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>粛<rt>しゅく</rt></ruby><ruby>聖<rt>せい</rt></ruby>のライト・ソーサラー
+  ja_romaji: Shukusei no Raito Sōsarā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en:
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 4
+atk: 1200
+def: 0
+images:
+- index: 1
+  image: HallowedLightSorcerer-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP028
+    set_name: Saikyō Jump July 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 932073
 ---
 konami_id:
 name:
@@ -99861,107 +100118,3 @@ sets:
     rarities:
     - Ultra Rare
 yugipedia_page_id: 934466
----
-konami_id:
-name:
-  en: Dead or Arainac
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: デッド・オア・ライナック
-  ja_romaji: Deddo Oa Rainakku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares a direct attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Gain 800 LP. Then, draw 1 card and show it. Then, if that card is a Galaxy Type Normal Monster with 1600 or more ATK, negate the attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: DeadorArainac-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP058
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934523
----
-konami_id:
-name:
-  en: Recombination Galactica
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: リコンビネーション・ギャラクティカ
-  ja_romaji: Rikonbinēshon Gyarakutika
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your monster is destroyed by an opponent's attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Galaxy Type Normal Monster from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Galactica
-images:
-- index: 1
-  image: RecombinationGalactica-RDKP13-JP-C.png
-sets:
-  ja:
-  - set_number: RD/KP13-JP059
-    set_name: Oblivion of the Flash
-    rarities:
-    - Common
-yugipedia_page_id: 934527
