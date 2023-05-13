@@ -1,64 +1,60 @@
 konami_id: 18592
 name:
-  en: Machvio of the Ultimate Aria
+  en: Zaborg the Thunder Monarch
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>極<rt>きょく</rt></ruby><ruby>奏<rt>そう</rt></ruby>のマッハヴァイオ
-  ja_romaji: Kyokusō no Mahhavaio
+  ja:
+  ja_romaji:
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    None
+    During the turn you Tribute Summoned this card in Attack Position.
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    なし
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
-effect_types:
-- Continuous
 effect:
   en: |-
-    This card gains ATK equal to [the total number of Equip Spell Cards equipped to this card and the number of face-up Normal Monsters on your opponent's field] x 500.
+    Destroy 1 monster on either field.
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    このカードの攻撃力は、［このカードが装備している装備魔法カードの数と相手フィールドの表側表示の通常モンスターの数の合計］×５００アップする。
+    自分または相手フィールドのモンスター１体を選んで破壊する。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: WIND
-level: 7
+monster_type_line: Thunder / Effect
+attribute: LIGHT
+level: 5
 atk: 2400
-def: 1400
+def: 1000
 series:
-- Shaman Bandit
+- Monarch
+legend: true
 images:
 - index: 1
-  image: MachviooftheUltimateAria-RDKP12-JP-SR.png
+  image: ZaborgtheThunderMonarch-RDKP13-JP-R.png
 sets:
   ja:
-  - set_number: RD/KP12-JP010
-    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+  - set_number: RD/KP13-JP020
+    set_name: Oblivion of the Flash
     rarities:
-    - Super Rare
-  - set_number: RD/BDG4-JP001
-    set_name: Yu-Gi-Oh! GO RUSH!! Duel-4 Blu-ray & DVD promotional card
-    rarities:
-    - Ultra Parallel Rare
-yugipedia_page_id: 715687
+    - Rare
+    - Secret Rare
+yugipedia_page_id: 930146

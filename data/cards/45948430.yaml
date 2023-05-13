@@ -36,9 +36,9 @@ text:
     ●패의 어둠 속성 몬스터 1장과 덱의 빛 속성 몬스터 1장
   zh-TW:
   zh-CN: |-
-    「混沌战士」仪式怪兽的降临必需。「超战士的萌芽」在1回合只能发动1张。 ①：等级合计直到8的以下其中1个组合的怪兽送去墓地，从自己的手卡·墓地把1只「混沌战士」仪式怪兽仪式召唤。
-    ●手卡1只光属性怪兽和卡组1只暗属性怪兽
-    ●手卡1只暗属性怪兽和卡组1只光属性怪兽
+    “混沌士兵”仪式怪兽的降临所必需。此卡名的卡１回合仅可发动１张。①：为使合计等级为８，将以下任一组合的怪兽送至墓地，从自己的手牌・墓地将１只“混沌士兵”仪式怪兽仪式召唤。
+    ●手牌的１只光属性怪兽和牌组的１只暗属性怪兽
+    ●手牌的１只暗属性怪兽和牌组的１只光属性怪兽
 card_type: Spell
 property: Ritual
 images:
@@ -98,6 +98,11 @@ sets:
   ko:
   - set_number: RATE-KR062
     set_name: Raging Tempest
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL03-SC017
+    set_name: Classic Pack 03
     rarities:
     - Common
 limit_regulation:

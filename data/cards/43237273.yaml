@@ -12,7 +12,7 @@ name:
   ko: 네오 스페이시언 블랙 팬서
   ko_rr:
   zh-TW:
-  zh-CN: 新宇宙侠·黑暗豹
+  zh-CN: 新空间人 漆黑猎豹
 text:
   en: |-
     Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects (if any).
@@ -32,7 +32,7 @@ text:
     1턴에 1번, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동할 수 있다. 엔드 페이즈시까지, 이 카드는 선택한 몬스터와 같은 이름의 카드로 취급하고, 같은 효과를 얻는다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，以对方场上1只表侧表示怪兽为对象才能发动。直到结束阶段时，这张卡得到和那只怪兽的原本卡名·效果相同的卡名·效果。
+    ①：１回合１次，以对手场上的１只表侧表示怪兽为对象可以发动。直至结束阶段为止，此卡获得与该怪兽原本卡名・效果相同的卡名・效果。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: DARK
@@ -164,6 +164,11 @@ sets:
     - Rare
   - set_number: PC01-KR005
     set_name: Precious Pack Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: CL03-SC023
+    set_name: Classic Pack 03
     rarities:
     - Common
 limit_regulation:
