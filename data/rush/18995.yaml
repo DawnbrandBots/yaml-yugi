@@ -1,4 +1,4 @@
-konami_id:
+konami_id: 18995
 name:
   en: Rice Terrace Crisis
   de:
@@ -20,7 +20,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手が手札または墓地からモンスターを特殊召喚した時に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,7 +33,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    レベルの合計が１２以下になるように、相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
   ko:
   zh-TW:
   zh-CN:
@@ -41,6 +43,8 @@ property: Normal
 images:
 - index: 1
   image: RiceTerraceCrisis-RDKP13-JP-SR.png
+- index: 2
+  image: RiceTerraceCrisis-RDKP13-JP-ScR-AA.png
 sets:
   ja:
   - set_number: RD/KP13-JP066
