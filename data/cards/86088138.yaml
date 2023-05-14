@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     巨大的耳朵和眼睛能监视周围的一切，相貌可怕的天使。
 card_type: Monster
-monster_type_line: Fairy
+monster_type_line: Fairy / Normal
 attribute: LIGHT
 level: 5
 atk: 1550
 def: 1650
 images:
 - index: 1
-  image: Ocubeam-MRD-NA-C-UE.png
+  image: Ocubeam-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN030
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN030
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-030
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE030
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F030
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR030
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT030
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P030
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT030
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

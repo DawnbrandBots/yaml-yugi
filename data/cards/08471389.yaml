@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     全身由钢铁制成的狼，用锋利的牙齿撕咬敌人。
 card_type: Monster
-monster_type_line: Machine
+monster_type_line: Machine / Normal
 attribute: FIRE
 level: 4
 atk: 1200
 def: 1400
 images:
 - index: 1
-  image: GigaTechWolf-MRD-EN-C-UE.png
+  image: GigaTechWolf-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN096
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN096
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-096
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE096
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F096
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR096
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT096
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P096
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT096
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

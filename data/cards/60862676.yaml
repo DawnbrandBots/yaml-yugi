@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     全身被火包围的魔兽，给予对方地狱之炎的处刑。
 card_type: Monster
-monster_type_line: Pyro
+monster_type_line: Pyro / Normal
 attribute: FIRE
 level: 6
 atk: 2100
 def: 1800
 images:
 - index: 1
-  image: FlameCerebrus-MRD-NA-C-UE.png
+  image: FlameCerebrus-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN111
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN111
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-111
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE111
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F111
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR111
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT111
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P111
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT111
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

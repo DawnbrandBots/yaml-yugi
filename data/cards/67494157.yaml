@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     力量弱小无法飞天的龙，但攻击还是很强的。
 card_type: Monster
-monster_type_line: Dragon
+monster_type_line: Dragon / Normal
 attribute: EARTH
 level: 5
 atk: 1600
 def: 1400
 images:
 - index: 1
-  image: CrawlingDragon-MRD-EN-C-UE.png
+  image: CrawlingDragon-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN012
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN012
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-012
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE012
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F012
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR012
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT012
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P012
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT012
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

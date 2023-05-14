@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     布置蜘蛛网狩猎，落入网中的东西将被吃掉。
 card_type: Monster
-monster_type_line: Insect
+monster_type_line: Insect / Normal
 attribute: EARTH
 level: 5
 atk: 1600
 def: 1400
 images:
 - index: 1
-  image: HunterSpider-MRD-NA-C-UE.png
+  image: HunterSpider-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN049
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN049
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-049
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE049
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F049
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR049
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT049
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P049
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT049
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     漂浮在海面上的海蜇，半透明的身体使人难以察觉。
 card_type: Monster
-monster_type_line: Aqua
+monster_type_line: Aqua / Normal
 attribute: WATER
 level: 4
 atk: 1200
 def: 1500
 images:
 - index: 1
-  image: Jellyfish-MRD-NA-C-UE.png
+  image: Jellyfish-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN072
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN072
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-072
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE072
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F072
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR072
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT072
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P072
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT072
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

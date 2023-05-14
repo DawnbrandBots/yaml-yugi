@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     从瓶中不断流淌的水，变成龙的形状发动攻击。
 card_type: Monster
-monster_type_line: Aqua
+monster_type_line: Aqua / Normal
 attribute: WATER
 level: 4
 atk: 1400
@@ -44,12 +44,16 @@ images:
   image: WaterOmotics-DL2-JP-C.jpg
   illustration: WaterOmotics-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: WaterOmotics-MRD-EN-C-UE.png
+  image: WaterOmotics-MRD-EN-C-UE-25thAnniversaryEdition.png
   illustration: WaterOmotics-TF04-EN-VG-artwork.png
 sets:
   en:
   - set_number: MRD-EN021
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN021
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-021
@@ -65,9 +69,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE021
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F021
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR021
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT021
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P021
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT021
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

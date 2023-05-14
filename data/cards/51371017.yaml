@@ -15,7 +15,7 @@ name:
   zh-CN: 剑之女王
 text:
   en: |-
-    FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.
+    FLIP: Inflict 500 points of damage to your opponent's Life Points for each Spell and Trap Card on your opponent's side of the field.
   de: |-
     FLIPP: Füge den Life Points deines Gegners 500 Punkte Schaden zu für jede Zauber- und Fallenkarte auf seiner Spielfeldseite.
   es: |-
@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     反转：给与对方基本分对方场上存在的魔法·陷阱卡数量×500的数值的伤害。
 card_type: Monster
-monster_type_line: Warrior / Effect
+monster_type_line: Warrior / Flip / Effect
 attribute: WIND
 level: 3
 atk: 900
 def: 700
 images:
 - index: 1
-  image: PrincessofTsurugi-DB2-EN-C-UE.png
+  image: PrincessofTsurugi-MRD-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN086
@@ -56,6 +56,10 @@ sets:
     set_name: Starter Deck 2006
     rarities:
     - Common
+  - set_number: MRD-EN086
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   - set_number: MRD-086
     set_name: Metal Raiders
     rarities:
@@ -85,6 +89,10 @@ sets:
     set_name: Starter Deck 2006
     rarities:
     - Common
+  - set_number: MRD-DE086
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: MRD-F086
     set_name: Metal Raiders
@@ -102,6 +110,10 @@ sets:
     set_name: Starter Deck 2006
     rarities:
     - Common
+  - set_number: MRD-FR086
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: PMT-I086
     set_name: Metal Raiders
@@ -119,6 +131,10 @@ sets:
     set_name: Starter Deck 2006
     rarities:
     - Common
+  - set_number: MRD-IT086
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   pt:
   - set_number: PMT-P086
     set_name: Metal Raiders
@@ -128,6 +144,10 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: MRD-PT086
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: ''
     set_name: Vol.7

@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     远古的保持着昔日姿态的蜥蜴战士，意外的强悍。
 card_type: Monster
-monster_type_line: Reptile
+monster_type_line: Reptile / Normal
 attribute: EARTH
 level: 4
 atk: 1400
 def: 1100
 images:
 - index: 1
-  image: AncientLizardWarrior-MRD-EN-C-UE.png
+  image: AncientLizardWarrior-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN050
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN050
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-050
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE050
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F050
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR050
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT050
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P050
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT050
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

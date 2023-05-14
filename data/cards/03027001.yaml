@@ -15,7 +15,7 @@ name:
   zh-CN: 伪陷阱
 text:
   en: |-
-    Activate only when your opponent activates a Spell, Trap, or Effect Monster's effect that would destroy a Trap Card(s) you control. Destroy this card instead. (If the cards that would have been destroyed are face-down, you can look at them to confirm.)
+    You can only activate this card when your opponent uses an effect of a Spell, Trap, or Effect Monster to destroy Trap Card(s) on your side of the field. Destroy this card as a substitute of those Trap Card(s) and the other Trap Card(s) are not destroyed. If a Set card(s) would have been destroyed, pick up and see the Set card(s).
   de: |-
     Diese Karte kann nur aktiviert werden, wenn dein Gegner den Effekt einer Zauber-, Fallen- oder Effektmonsterkarte verwendet, um Fallenkarten auf deiner Spielfeldseite zu zerstören. Diese Karte wird anstelle deiner Fallenkarte(n) zerstört. Decke alle Karten, die in deiner Zauber- und Fallenkartenzone gesetzt sind, auf. Dadurch wird keine dieser Karten aktiviert. Anschließend verdecke diese Karten wieder.
   es: |-
@@ -40,7 +40,7 @@ images:
   image: FakeTrap-BE01-JP-C.png
   illustration: FakeTrap-TF04-JP-VG.jpg
 - index: '1.1'
-  image: FakeTrap-MRD-NA-R-UE-Reprint2.png
+  image: FakeTrap-MRD-EN-R-UE-25thAnniversaryEdition.png
   illustration: FakeTrap-TF04-EN-VG.jpg
 sets:
   en:
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: MRD-EN056
     set_name: Metal Raiders
+    rarities:
+    - Rare
+  - set_number: MRD-EN056
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Rare
   - set_number: MRD-056
@@ -77,6 +81,10 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: MRD-DE056
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: MRD-F056
     set_name: Metal Raiders
@@ -86,6 +94,10 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: MRD-FR056
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: PMT-I056
     set_name: Metal Raiders
@@ -95,6 +107,10 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: MRD-IT056
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   pt:
   - set_number: PMT-P056
     set_name: Metal Raiders
@@ -104,6 +120,10 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: MRD-PT056
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: ''
     set_name: Vol.5

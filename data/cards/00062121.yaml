@@ -15,7 +15,7 @@ name:
   zh-CN: 暗晦之城
 text:
   en: |-
-    FLIP: All Zombie-Type monsters gain 200 ATK and DEF. During each of your next 4 Standby Phases, each of those Zombie-Type monsters gains 200 more ATK and DEF. These effects last as long as this card is face-up on the field.
+    FLIP: Increases the ATK and DEF of all Zombie-Type monsters by 200 points. As long as this card remains face-up on the field, the ATK and DEF of Zombie-Type monsters continues to increase by 200 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.
   de: |-
     FLIPP: Erhöht die ATK und DEF aller offenen Monster vom Typ Zombie um 200 Punkte. Solange diese Karte offen auf dem Spielfeld liegt, erhöht sich in jeder Standby Phase des Spielers, der diese Karte kontrolliert, die ATK und DEF aller Monster vom Typ Zombie um je 200 Punkte. Dieser Effekt hält bis zum vierten Zug nach Aktivierung der Karte an.
   es: |-
@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     反转：场上表侧表示存在的全部不死族怪兽的攻击力和守备力上升200。此外，只要这张卡在场上表侧表示存在，每次自己的准备阶段再各上升200。这个效果直到自己的第4次的准备阶段持续。
 card_type: Monster
-monster_type_line: Fiend / Effect
+monster_type_line: Fiend / Flip / Effect
 attribute: DARK
 level: 4
 atk: 920
@@ -43,11 +43,15 @@ series:
 - PaniK's monsters
 images:
 - index: 1
-  image: CastleofDarkIllusions-MRD-NA-C-UE.png
+  image: CastleofDarkIllusions-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN073
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN073
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-073
@@ -63,9 +67,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE073
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F073
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR073
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -73,9 +85,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT073
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P073
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT073
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

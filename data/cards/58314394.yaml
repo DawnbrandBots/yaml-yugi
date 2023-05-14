@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     陆地战斗机器人，总有一天能在海里使用。
 card_type: Monster
-monster_type_line: Machine
+monster_type_line: Machine / Normal
 attribute: EARTH
 level: 4
 atk: 1500
@@ -43,11 +43,15 @@ series:
 - Bugroth
 images:
 - index: 1
-  image: GroundAttackerBugroth-MRD-NA-C-UE.jpg
+  image: GroundAttackerBugroth-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN022
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN022
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-022
@@ -63,9 +67,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE022
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F022
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR022
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -73,9 +85,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT022
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P022
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT022
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

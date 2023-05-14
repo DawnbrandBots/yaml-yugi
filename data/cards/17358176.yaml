@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     咏唱起闻所未闻的咒语，使所有人的心平静下来。
 card_type: Monster
-monster_type_line: Spellcaster
+monster_type_line: Spellcaster / Normal
 attribute: LIGHT
 level: 3
 atk: 1100
 def: 800
 images:
 - index: 1
-  image: LadyofFaith-MRD-NA-C-1E.png
+  image: LadyofFaith-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN119
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN119
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-119
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE119
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F119
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR119
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT119
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P119
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT119
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

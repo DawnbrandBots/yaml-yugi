@@ -15,7 +15,7 @@ name:
   zh-CN: 空中的昆虫兵
 text:
   en: |-
-    If this card attacks a WIND monster, it gains 1000 ATK during the Damage Step only.
+    The ATK of this card increases by 1000 points whenever it attacks a WIND monster.
   de: |-
     Wenn dieses Monster ein WIND Monster angreift, erhöht sich seine ATK nur während des Damage Step um 1000 Punkte.
   es: |-
@@ -41,11 +41,15 @@ atk: 1000
 def: 800
 images:
 - index: 1
-  image: InsectSoldiersoftheSky-MRD-NA-C-UE-Reprint.png
+  image: InsectSoldiersoftheSky-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN101
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN101
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-101
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE101
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F101
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR101
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT101
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P101
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT101
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

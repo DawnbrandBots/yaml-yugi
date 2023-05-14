@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     用长舌头抓住其他的鱼，吸取能量。
 card_type: Monster
-monster_type_line: Fish
+monster_type_line: Fish / Normal
 attribute: WATER
 level: 4
 atk: 1350
 def: 800
 images:
 - index: 1
-  image: Tongyo-MRD-NA-C-UE.png
+  image: Tongyo-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN045
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN045
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-045
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE045
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F045
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR045
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT045
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P045
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT045
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

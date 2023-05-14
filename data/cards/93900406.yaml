@@ -15,7 +15,7 @@ name:
   zh-CN: 蘑菇怪人
 text:
   en: |-
-    The controller of this monster takes 300 damage during each of their Standby Phases. During your End Phase, you can pay 500 Life Points to shift control of this card to your opponent.
+    A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.
   de: |-
     Wenn diese Karte offen auf dem Spielfeld liegt, verursacht sie bei dem Spieler, der sie kontrolliert, in jeder seiner Standby Phasen 300 Punkte Schaden. Die Kontrolle dieser Karte geht auf den Gegner über, wenn der Spieler, der sie kontrolliert, in seiner End Phase 500 Life Points bezahlt.
   es: |-
@@ -41,11 +41,15 @@ atk: 1250
 def: 800
 images:
 - index: 1
-  image: MushroomMan2-MRD-NA-C-UE-Reprint.png
+  image: MushroomMan2-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN114
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN114
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-114
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE114
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F114
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR114
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT114
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P114
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT114
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

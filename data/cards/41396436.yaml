@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     青白色的火鸟，头上的毛有如皇冠。
 card_type: Monster
-monster_type_line: Winged Beast
+monster_type_line: Winged Beast / Normal
 attribute: WIND
 level: 4
 atk: 1600
 def: 1200
 images:
 - index: 1
-  image: BlueWingedCrown-MRD-EN-C-UE.png
+  image: BlueWingedCrown-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN122
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN122
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-122
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE122
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F122
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR122
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT122
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P122
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT122
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

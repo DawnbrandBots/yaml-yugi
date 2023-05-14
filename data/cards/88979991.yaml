@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     巨大的黄蜂，攻击出乎意料的强，若被群体攻击则非常危险。
 card_type: Monster
-monster_type_line: Insect
+monster_type_line: Insect / Normal
 attribute: WIND
 level: 4
 atk: 1200
 def: 1000
 images:
 - index: 1
-  image: KillerNeedle-MRD-EN-C-UE.png
+  image: KillerNeedle-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN006
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN006
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-006
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE006
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F006
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR006
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT006
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P006
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT006
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

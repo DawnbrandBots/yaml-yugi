@@ -15,7 +15,7 @@ name:
   zh-CN: 恶魔烹调师
 text:
   en: |-
-    When this card inflicts Battle Damage to your opponent, your opponent draws 2 cards.
+    When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws 2 cards from their Deck.
   de: |-
     Wenn diese Karte deinem Gegner Kampfschaden zufügt, muss er die 2 obersten Karten von seinem Deck ziehen.
   es: |-
@@ -41,7 +41,7 @@ atk: 1800
 def: 1000
 images:
 - index: 1
-  image: TheBistroButcher-MRD-EU-C-UE-Reprint.png
+  image: TheBistroButcher-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN108
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: DB2-EN063
     set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: MRD-EN108
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-108
@@ -69,6 +73,10 @@ sets:
     set_name: Dark Beginning 2
     rarities:
     - Common
+  - set_number: MRD-DE108
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F108
     set_name: Metal Raiders
@@ -76,6 +84,10 @@ sets:
     - Common
   - set_number: DB2-FR063
     set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: MRD-FR108
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -87,9 +99,17 @@ sets:
     set_name: Dark Beginning 2
     rarities:
     - Common
+  - set_number: MRD-IT108
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P108
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT108
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

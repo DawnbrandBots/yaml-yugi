@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     青白色的皮肤，让人感觉恶心的不明怪兽。
 card_type: Monster
-monster_type_line: Beast
+monster_type_line: Beast / Normal
 attribute: EARTH
 level: 4
 atk: 1500
 def: 1200
 images:
 - index: 1
-  image: PaleBeast-MRD-EN-C-UE.png
+  image: PaleBeast-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN047
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN047
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: SDK-031
@@ -77,6 +81,10 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: MRD-DE047
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F047
     set_name: Metal Raiders
@@ -84,6 +92,10 @@ sets:
     - Common
   - set_number: MDM-F109
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: MRD-FR047
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -95,6 +107,10 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT047
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DIK-P031
     set_name: 'Starter Deck: Kaiba'
@@ -102,6 +118,10 @@ sets:
     - Common
   - set_number: PMT-P047
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT047
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

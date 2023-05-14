@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     守护着冥界入口的战士，对侵略者豪不留情的斩杀。
 card_type: Monster
-monster_type_line: Warrior
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 4
 atk: 1000
 def: 1200
 images:
 - index: 1
-  image: GuardianoftheLabyrinth-MRD-EN-C-UE.png
+  image: GuardianoftheLabyrinth-MRD-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: MRD-EN083
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN083
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-083
@@ -61,9 +65,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE083
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F083
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR083
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT083
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P083
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT083
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:

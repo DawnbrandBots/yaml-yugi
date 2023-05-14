@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     国王离开时，保卫王座不受外敌攻击的王妃。守备力高。
 card_type: Monster
-monster_type_line: Warrior
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 4
 atk: 800
@@ -44,12 +44,16 @@ images:
   image: ProtectoroftheThrone-ME-JP-C.jpg
   illustration: ProtectoroftheThrone-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: ProtectoroftheThrone-MRD-EN-C-UE.png
+  image: ProtectoroftheThrone-MRD-EN-C-UE-25thAnniversaryEdition.png
   illustration: ProtectoroftheThrone-TF04-EN-VG-artwork.png
 sets:
   en:
   - set_number: MRD-EN087
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-EN087
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRD-087
@@ -65,9 +69,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-DE087
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MRD-F087
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-FR087
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
+  - set_number: MRD-IT087
+    set_name: Metal Raiders (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: PMT-P087
     set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: MRD-PT087
+    set_name: Metal Raiders (25th Anniversary Edition)
     rarities:
     - Common
   ja:
