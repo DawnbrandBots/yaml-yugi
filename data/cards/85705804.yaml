@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     尾巴很长的鸟，从空中发起攻击。
 card_type: Monster
-monster_type_line: Winged Beast
+monster_type_line: Winged Beast / Normal
 attribute: WIND
 level: 3
 atk: 800
 def: 800
 images:
 - index: 1
-  image: Kurama-LOB-NA-C-1E.png
+  image: Kurama-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN039
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN039
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-039
@@ -65,9 +69,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-DE039
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F117
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR039
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT039
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P039
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT039
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

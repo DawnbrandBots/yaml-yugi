@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     体型细小的龙。使上整个细小身体来进行攻击。
 card_type: Monster
-monster_type_line: Dragon
+monster_type_line: Dragon / Normal
 attribute: WIND
 level: 2
 atk: 600
 def: 700
 images:
 - index: 1
-  image: PetitDragon-LOB-NA-C-1E.jpg
+  image: PetitDragon-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN024
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN024
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-024
@@ -65,9 +69,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE024
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F019
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR024
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-IT024
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P024
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT024
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

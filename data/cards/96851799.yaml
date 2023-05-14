@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     非常炽热的火焰形成的块，并用那身体冲撞敌人。
 card_type: Monster
-monster_type_line: Pyro
+monster_type_line: Pyro / Normal
 attribute: FIRE
 level: 2
 atk: 600
 def: 500
 images:
 - index: 1
-  image: HinotamaSoul-LOB-NA-C-1E.png
+  image: HinotamaSoul-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN026
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN026
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-026
@@ -65,9 +69,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE026
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F020
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR026
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-IT026
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P026
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT026
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

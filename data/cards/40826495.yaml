@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     岩浆里出生的怪兽，灼热的身体使接近的物体融化。
 card_type: Monster
-monster_type_line: Rock
+monster_type_line: Rock / Normal
 attribute: EARTH
 level: 3
 atk: 900
 def: 1000
 images:
 - index: 1
-  image: Dissolverock-LOB-NA-C-1E.jpg
+  image: Dissolverock-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN031
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN031
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-031
@@ -65,9 +69,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE031
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F025
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR031
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-IT031
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P031
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT031
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

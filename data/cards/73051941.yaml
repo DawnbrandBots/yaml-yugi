@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     从地下突然出现在眼前，用触手做攻击。
 card_type: Monster
-monster_type_line: Rock
+monster_type_line: Rock / Normal
 attribute: EARTH
 level: 5
 atk: 1300
 def: 1600
 images:
 - index: 1
-  image: SandStone-LOB-NA-C-1E.jpg
+  image: SandStone-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN109
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN109
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-109
@@ -65,9 +69,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE109
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F128
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR109
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT109
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P109
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT109
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

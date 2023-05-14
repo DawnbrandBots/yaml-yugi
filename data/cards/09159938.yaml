@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     全身灰色的野兽，是非常少见的珍贵品种。
 card_type: Monster
-monster_type_line: Beast
+monster_type_line: Beast / Normal
 attribute: EARTH
 level: 3
 atk: 800
 def: 900
 images:
 - index: 1
-  image: DarkGray-LOB-EN-C-UE.jpg
+  image: DarkGray-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN011
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN011
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-011
@@ -65,9 +69,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE011
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F008
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR011
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-IT011
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P011
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT011
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

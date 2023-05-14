@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     依靠灵活的行动躲避攻击的小天使。
 card_type: Monster
-monster_type_line: Fairy
+monster_type_line: Fairy / Normal
 attribute: LIGHT
 level: 3
 atk: 600
@@ -44,12 +44,16 @@ images:
   image: PetitAngel-MRL-EU-C-1E.png
   illustration: PetitAngel-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: PetitAngel-LOB-NA-C-UE-Reprint.png
+  image: PetitAngel-LOB-EN-C-UE-25thAnniversaryEdition.png
   illustration: PetitAngel-TF04-EN-VG-artwork.png
 sets:
   en:
   - set_number: LOB-EN025
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN025
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-025
@@ -69,9 +73,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-DE025
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F114
     set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR025
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -79,9 +91,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT025
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P025
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT025
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

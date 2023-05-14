@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     将敌人封入棺材里。然后由地狱使者下达判决。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1300
@@ -44,12 +44,16 @@ images:
   image: TrialofNightmare-DL2-JP-C.jpg
   illustration: TrialofNightmare-TF04-JP-VG.jpg
 - index: '1.1'
-  image: TrialofNightmare-MRL-EU-C-UE.jpg
+  image: TrialofNightmare-LOB-EN-C-UE-25thAnniversaryEdition.png
   illustration: TrialofNightmare-TF04-EN-VG.jpg
 sets:
   en:
   - set_number: LOB-EN012
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN012
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-012
@@ -69,9 +73,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-DE012
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F112
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR012
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -79,9 +91,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT012
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P012
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT012
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

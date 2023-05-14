@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     擅长配合的战士，发动强大的磁力，谁也逃不掉。
 card_type: Monster
-monster_type_line: Warrior
+monster_type_line: Warrior / Normal
 attribute: EARTH
 level: 3
 atk: 1000
 def: 500
 images:
 - index: 1
-  image: MWarrior1-LOB-EN-C-UE.png
+  image: MWarrior1-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN076
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN076
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-076
@@ -65,9 +69,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-DE076
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F123
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR076
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT076
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P076
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT076
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

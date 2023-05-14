@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     住在沼泽地的恶魔手下，看起来不怎么强，但绝不能对他轻心大意。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1200
@@ -43,11 +43,15 @@ series:
 - Djinn
 images:
 - index: 1
-  image: TerratheTerrible-LOB-NA-C-1E.jpg
+  image: TerratheTerrible-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN080
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN080
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-080
@@ -83,6 +87,10 @@ sets:
     set_name: 'Starter Deck: Kaiba'
     rarities:
     - Common
+  - set_number: LOB-DE080
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F063
     set_name: Legend of Blue Eyes White Dragon
@@ -90,6 +98,10 @@ sets:
     - Common
   - set_number: DDK-F012
     set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: LOB-FR080
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -101,6 +113,10 @@ sets:
     set_name: 'Starter Deck: Kaiba'
     rarities:
     - Common
+  - set_number: LOB-IT080
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P080
     set_name: Legend of Blue Eyes White Dragon
@@ -108,6 +124,10 @@ sets:
     - Common
   - set_number: DIK-P013
     set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: LOB-PT080
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

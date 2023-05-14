@@ -15,7 +15,7 @@ name:
   zh-CN: 电击鞭
 text:
   en: |-
-    Increase the ATK and DEF of a Thunder-Type monster equipped with this card by 300 points.
+    A Thunder-Type monster equipped with this card increases its ATK and DEF by 300 points.
   de: |-
     Ein Monster vom Typ Donner, das mit dieser Karte ausgerüstet wird, erhöht seine ATK und DEF um 300 Punkte.
   es: |-
@@ -37,11 +37,15 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: ElectroWhip-LOB-EN-C-UE.png
+  image: ElectroWhip-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN093
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN093
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-093
@@ -61,9 +65,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-DE093
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F073
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR093
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -71,9 +83,17 @@ sets:
     set_name: Legend of Blue Eyes White Dragon
     rarities:
     - Common
+  - set_number: LOB-IT093
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P093
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT093
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

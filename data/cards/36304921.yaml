@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     穿着融入黑暗的黑色燕尾服，操纵着死亡的恶魔。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1400
@@ -43,11 +43,15 @@ series:
 - Djinn
 images:
 - index: 1
-  image: WittyPhantom-LOB-EN-C-UE.jpg
+  image: WittyPhantom-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN072
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN072
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-072
@@ -83,9 +87,17 @@ sets:
     set_name: 'Starter Deck: Yugi'
     rarities:
     - Common
+  - set_number: LOB-DE072
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: LDD-F058
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-FR072
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -97,6 +109,10 @@ sets:
     set_name: 'Starter Deck: Yugi'
     rarities:
     - Common
+  - set_number: LOB-IT072
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P072
     set_name: Legend of Blue Eyes White Dragon
@@ -104,6 +120,10 @@ sets:
     - Common
   - set_number: DIY-P017
     set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: LOB-PT072
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:

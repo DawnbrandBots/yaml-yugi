@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     身上的盾不仅能保护身体，还能用来突击。
 card_type: Monster
-monster_type_line: Dragon
+monster_type_line: Dragon / Normal
 attribute: WIND
 level: 3
 atk: 700
 def: 1300
 images:
 - index: 1
-  image: OneEyedShieldDragon-LOB-NA-C-1E.jpg
+  image: OneEyedShieldDragon-LOB-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: LOB-EN087
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-EN087
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: LOB-087
@@ -65,9 +69,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-DE087
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F127
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: LOB-FR087
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -75,9 +87,17 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: LOB-IT087
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: LDB-P087
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: LOB-PT087
+    set_name: Legend of Blue Eyes White Dragon (25th Anniversary Edition)
     rarities:
     - Common
   ja:
