@@ -6,7 +6,7 @@ name:
   es: Derrumbamiento del Suelo
   fr: Éboulement
   it: Cedimento del Suolo
-  pt:
+  pt: Colapso do Solo
   ja: <ruby>地<rt>じ</rt></ruby><ruby>盤<rt>ばん</rt></ruby><ruby>沈<rt>ちん</rt></ruby><ruby>下<rt>か</rt></ruby>
   ja_romaji: Jiban Chinka
   ko: 지반 침식
@@ -25,7 +25,7 @@ text:
   it: |-
     Scegli 2 Zone Carte Mostro sul Terreno (non puoi scegliere una zona occupata da una Carta Mostro). Le zone scelte non possono essere utilizzate fino a quando questa carta resta scoperta sul Terreno.
   pt: |-
-    Selecione 2 Monster Card Zone desocupados no campo. Nenhum jogador pode utilizar as zonas selecionadas.
+    Selecione 2 Zonas de Monstros Principais no campo. Nenhum duelista pode usar as zonas selecionadas. Você não pode selecionar uma zona que estiver ocupada por um Card de Monstro.
   ja: |-
     使用していないメインモンスターゾーンを２ヵ所指定してこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、指定したゾーンは使用できない。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: GroundCollapse-DB1-EN-C-UE.jpg
+  image: GroundCollapse-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN184
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: PSV-EN070
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN070
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-070
@@ -65,14 +69,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE070
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F070
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR070
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I070
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT070
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT070
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

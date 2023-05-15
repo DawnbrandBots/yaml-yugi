@@ -3,7 +3,7 @@ password: 36868108
 name:
   en: Armored Glass
   de: Panzerglas
-  es:
+  es: Armadura de Cristal
   fr: Cuirasse de Verre
   it: Vetro Corazzato
   pt: Armadura de Vidro
@@ -15,15 +15,18 @@ name:
   zh-CN: 玻璃铠
 text:
   en: |-
-    You can only activate this card when a monster is equipped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated.
+    You can activate this card when a monster is equipped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated.
   de: |-
     Du kannst diese Karte aktivieren, wenn ein Monster mit einer Ausrüstungskarte ausgestattet wird. Im Spielzug, in dem diese Karte aktiviert wird, haben alle Ausrüstungskarten auf dem Spielfeld keine Auswirkungen.
-  es:
+  es: |-
+    (Esta carta no se trata como una carta "Cristal").
+    Puedes activar esta carta cuando un monstruo es equipado con una Carta de Equipo. Niega los efectos de todas las Cartas de Equipo en el Campo durante el turno en el que esta carta es activada.
   fr: |-
     Vous pouvez Activer cette carte lorsqu'un monstre est équipé d'une Carte d'Équipement. Annule les effets de toutes les Cartes d'Équipement durant le tour où cette carte est Activée.
   it: |-
     Puoi attivare questa carta quando un mostro è equipaggiato con una Carta Equipaggiamento. Annulla tutti gli effetti delle Carte Equipaggiamento durante il turno in cui questa carta viene attivata.
-  pt:
+  pt: |-
+    Você pode ativar este card quando um monstro for equipado com um Card de Equipamento. Negue os efeitos de todos os Cards de Equipamento no campo durante o turno em que este card for ativado.
   ja: |-
     装備カードがモンスターに装備された時に発動する事ができる。ターン終了時までフィールド上の全ての装備カードの効果を無効にする。
   ko: |-
@@ -35,11 +38,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ArmoredGlass-PSV-EN-C-UE.jpg
+  image: ArmoredGlass-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN019
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN019
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-019
@@ -55,14 +62,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE019
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F019
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR019
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I019
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT019
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT019
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

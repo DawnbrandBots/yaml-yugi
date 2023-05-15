@@ -3,10 +3,10 @@ password: 12253117
 name:
   en: World Suppression
   de: Weltunterdrückung
-  es:
+  es: Supresión del Mundo
   fr: Suppression du Monde
   it: Soppressione del Mondo
-  pt:
+  pt: Supressão Mundial
   ja: <ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>平<rt>へい</rt></ruby><ruby>定<rt>てい</rt></ruby>
   ja_romaji: Sekai no Heitei
   ko: 세계 평정
@@ -15,16 +15,17 @@ name:
   zh-CN: 世界平定
 text:
   en: |-
-    You can only activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated.
+    You can activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated.
   de: |-
     Du kannst diese Karte aktivieren, wenn eine Spielfeldzauberkarte aktiviert wird. Im Spielzug, in dem diese Karte aktiviert wird, hat die Spielfeldzauberkarte keine Auswirkungen.
-  es:
+  es: |-
+    Puedes activar esta carta cuando es activada una Carta Mágica de Campo. Niega la Carta Mágica de Campo durante el turno en el que esta carta es activada.
   fr: |-
     Vous pouvez Activer cette carte lorsqu'une Carte Magie de Terrain est Activée. Annule la Carte Magie de Terrain durant le tour où cette carte est Activée.
   it: |-
     Puoi attivare questa carta quando una Carta Magia Terreno viene attivata. Annulla l'effetto della Carta Magia Terreno durante il turno in cui questa carta viene attivata.
   pt: |-
-    Você só pode ativar este card quando uma Magia de Campo for ativada. Negue a Magia de Campo no turno em que você ativar este card.
+    Você pode ativar este card quando um Card de Magia de Campo for ativado. Negue os efeitos de todos os Cards de Magia de Campo durante o turno em que este card for ativado.
   ja: |-
     フィールドカードが発動された時に発動する事ができる。ターン終了時までフィールドカードの効果を無効にする。
   ko: |-
@@ -36,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: WorldSuppression-PSV-EN-C-UE.png
+  image: WorldSuppression-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN020
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN020
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-020
@@ -56,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE020
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F020
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR020
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I020
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT020
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT020
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -3,10 +3,10 @@ password: 3134241
 name:
   en: 'Flying Kamakiri #2'
   de: 'Fliegender Kamakiri #2'
-  es:
+  es: 'Kamakiri Volador #2'
   fr: Kamakiri Volant N°2
   it: 'Kamakiri Volante #2'
-  pt:
+  pt: 'Kamakiri Voador #2'
   ja: フライングマンティス
   ja_romaji: Furaingu Mantisu
   ko: 플라잉 사마귀
@@ -18,12 +18,14 @@ text:
     A flying mantis that feeds primarily on insects.
   de: |-
     Eine fliegende Gottesanbeterin, die sich vorwiegend von Insekten ernährt.
-  es:
+  es: |-
+    Una mantis voladora que se alimenta principalmente de insectos.
   fr: |-
     Cette mante volante se nourrit essentiellement d'insectes.
   it: |-
     Una mantide volante che si nutre essenzialmente di insetti.
-  pt:
+  pt: |-
+    Um louva-a-deus voador que se alimenta principalmente de insetos.
   ja: |-
     飛行能力を持ったカマキリ。昆虫が大好物。
   ko: |-
@@ -32,18 +34,22 @@ text:
   zh-CN: |-
     拥有飞行能力的螳螂，非常喜欢吃昆虫。
 card_type: Monster
-monster_type_line: Insect
+monster_type_line: Insect / Normal
 attribute: WIND
 level: 4
 atk: 1500
 def: 800
 images:
 - index: 1
-  image: FlyingKamakiri2-PSV-NA-C-1E.jpg
+  image: FlyingKamakiri2-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN048
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN048
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-048
@@ -59,14 +65,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE048
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F048
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR048
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I048
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT048
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT048
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

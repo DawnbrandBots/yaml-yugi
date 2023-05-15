@@ -6,7 +6,7 @@ name:
   es: Escarabajo Bombardero
   fr: Scarabée Bombardier
   it: Scarabeo Bombardiere
-  pt:
+  pt: Besouro Bombardeiro
   ja: <ruby>爆<rt>ばく</rt></ruby><ruby>弾<rt>だん</rt></ruby>かめ<ruby>虫<rt>ムシ</rt></ruby>
   ja_romaji: Bakudan Kamemushi
   ko: 폭탄 벌레
@@ -25,7 +25,7 @@ text:
   it: |-
     SCOPRI: Scopri 1 Carta Mostro in Posizione di Difesa sul Terreno del tuo avversario. Se la carta scoperta è una Carta Mostro con Effetto, distruggila senza attivare i suoi effetti. Se la carta scoperta non è una Carta Mostro con Effetto, rimettila nella sua posizione originaria.
   pt: |-
-    FLIP: Verifique 1 monstro que esteja virado para baixo na Posição de Defesa no lado do campo do seu oponente. Se for um Effect Monster, destrua-o. Se não for, retorne-o a sua posição original.
+    VIRE: Pegue e olhe 1 Card de Monstro com a face para baixo em Posição de Defesa no campo do seu oponente. Se for um Monstro de Efeito, destrua-o (seu efeito de Virar não é ativado) e, se não for, devolva-o para sua posição original.
   ja: |-
     リバース：相手フィールド上の裏側守備表示モンスターカード１枚を確認する。効果モンスターの場合は破壊し（リバース効果は発動しない）、違う場合は元に戻す。
   ko: |-
@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     反转：把对方场上1张里侧守备表示怪兽卡确认。是效果怪兽的场合则破坏（反转效果不发动），不是的场合回到原状。
 card_type: Monster
-monster_type_line: Insect / Effect
+monster_type_line: Insect / Flip / Effect
 attribute: WIND
 level: 2
 atk: 400
 def: 900
 images:
 - index: 1
-  image: BombardmentBeetle-DB1-EN-C-UE.jpg
+  image: BombardmentBeetle-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN197
@@ -52,6 +52,10 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-EN087
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: PSV-087
     set_name: Pharaoh's Servant
     rarities:
@@ -69,16 +73,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE087
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F087
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-FR087
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I087
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-IT087
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT087
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: TB-37
     set_name: Thousand Eyes Bible

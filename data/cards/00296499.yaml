@@ -3,10 +3,10 @@ password: 296499
 name:
   en: The Regulation of Tribe
   de: Stammesverfügung
-  es:
+  es: La Regulación de Tribu
   fr: Règles Tribales
   it: Regolazione della Tribù
-  pt:
+  pt: Instruções da Tribo
   ja: <ruby>一<rt>いち</rt></ruby><ruby>族<rt>ぞく</rt></ruby>の<ruby>掟<rt>おきて</rt></ruby>
   ja_romaji: Ichizoku no Okite
   ko: 일족의 법도
@@ -15,15 +15,17 @@ name:
   zh-CN: 一族之规
 text:
   en: |-
-    Declare 1 Type of monster. Monsters of the declared Type cannot attack. Tribute 1 monster from your side of the field during each of your Standby Phases. If you do not, this card is destroyed.
+    Activate this card by declaring 1 Monster Type. Monsters of that Type cannot declare attacks. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.
   de: |-
     Wähle 1 Monster-Typ, wenn diese Karte aktiviert wird. Alle Monster des gewählten Typs können nicht angreifen. Biete in jeder deiner Standby Phasen 1 Monster von deiner Spielfeldseite als Tribut an. Wenn du dies nicht tust, wird diese Karte zerstört.
-  es:
+  es: |-
+    Activa esta carta declarando 1 Tipo de Monstruo. Los monstruos de ese Tipo no pueden declarar ataques. Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta.
   fr: |-
     Sélectionnez 1 Type de monstre. Les monstres de ce Type ne peuvent attaquer. Sacrifiez 1 monstre de votre Terrain à chacune de vos Standby Phases. Sinon, cette carte est détruite.
   it: |-
     Scegli 1 Tipo di Mostro. I Mostri del Tipo selezionato non possono attaccare. Offri come Tributo 1 Mostro sul tuo Terreno in ogni tua Standby Phase. Se non lo fai, distruggi questa carta.
-  pt:
+  pt: |-
+    Ative este card ao declarar 1 Tipo de Monstro. Os monstros desse Tipo não podem declarar ataques. Uma vez por turno, durante sua Fase de Apoio, ofereça 1 monstro como Tributo ou destrua este card.
   ja: |-
     発動時に１種類の種族を宣言する。その種族のモンスターは攻撃宣言ができない。自分のスタンバイフェイズ毎にモンスター１体を生け贄に捧げなければこのカードを破壊する。
   ko: |-
@@ -35,11 +37,15 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: TheRegulationofTribe-PSV-EN-C-UE.png
+  image: TheRegulationofTribe-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN027
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN027
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-027
@@ -55,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE027
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F027
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR027
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I027
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT027
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT027
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

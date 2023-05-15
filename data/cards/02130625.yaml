@@ -6,7 +6,7 @@ name:
   es: Sanadora Harmoniosa
   fr: Guérisseur Angélique
   it: Guaritore Divino
-  pt:
+  pt: Curador Harmonioso
   ja: <ruby>白<rt>はく</rt></ruby><ruby>衣<rt>い</rt></ruby>の<ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
   ja_romaji: Hakui no Tenshi
   ko: 백의의 천사
@@ -24,7 +24,8 @@ text:
     Vous pouvez Activer cette carte lorsque vous recevez des dommages à vos Life Points. Augmentez vos Life Points de 1000 points. Puis, augmentez vos Life Points de 500 points pour chaque autre carte "Guérisseur Angélique" dans votre Cimetière.
   it: |-
     Puoi attivare questa carta quando ricevi danni ai tuoi Life Points. Aumenta i tuoi Life Points di 1000 punti. Aumenta inoltre i tuoi Life Points di 500 punti per ogni altra carta "Guaritore Divino" nel tuo Cimitero.
-  pt:
+  pt: |-
+    Você só pode ativar este card quando sofrer dano. Aumente seus PV em 1000. Além disso, aumente seus PV em 500 para cada card "Curador Harmonioso" no seu Cemitério.
   ja: |-
     自分が戦闘またはカードの効果によってダメージを受けた時に発動する事ができる。自分は１０００ライフポイント回復する。自分の墓地に「白衣の天使」が存在する場合、さらにその枚数分だけ５００ライフポイント回復する。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: NuminousHealer-DB1-EN-C-UE.jpg
+  image: NuminousHealer-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN079
@@ -47,6 +48,10 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-EN023
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: PSV-023
     set_name: Pharaoh's Servant
     rarities:
@@ -64,16 +69,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE023
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F023
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-FR023
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I023
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-IT023
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT023
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: CA-23
     set_name: Curse of Anubis (set)

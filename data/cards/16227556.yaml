@@ -3,10 +3,10 @@ password: 16227556
 name:
   en: Inspection
   de: Untersuchung
-  es:
+  es: Inspección
   fr: Inspection
   it: Ispezione
-  pt:
+  pt: Inspeção
   ja: <ruby>検<rt>けん</rt></ruby><ruby>閲<rt>えつ</rt></ruby>
   ja_romaji: Ken'etsu
   ko: 검열
@@ -15,15 +15,17 @@ name:
   zh-CN: 检阅
 text:
   en: |-
-    During your opponent's Standby Phase, you can pay 500 Life Points to randomly select 1 card in your opponent's hand and look at it.
+    During your opponent's Standby Phase, you can randomly select 1 card in your opponent's hand and look at it at the cost of 500 Life Points.
   de: |-
     Während der Standby Phase deines Gegners kannst du 500 Life Points bezahlen, um zufällig 1 Karte in der Hand deines Gegners auszuwählen und anzusehen.
-  es:
+  es: |-
+    Durante la Standby Phase de tu adversario, puedes seleccionar al azar 1 carta de la mano de tu adversario y mirarla al coste de 500 Life Points.
   fr: |-
     Durant la Standby Phase de votre adversaire, vous pouvez regarder au hasard 1 carte dans sa main en payant 500 Life Points.
   it: |-
     Durante la Standby Phase del tuo avversario, puoi scegliere 1 carta a caso dalla mano del tuo avversario e guardarla, al costo di 500 Life Points.
-  pt:
+  pt: |-
+    Durante a Fase de Apoio do seu oponente, você pode selecionar aleatoriamente 1 card da mão do seu oponente e olhá-lo ao custo de 500 PV.
   ja: |-
     相手のスタンバイフェイズ毎に５００ライフポイントを払う事で、ランダムに１枚相手の手札を見る事ができる。
   ko: |-
@@ -35,11 +37,15 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: Inspection-PSV-EN-C-UE.jpg
+  image: Inspection-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN038
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN038
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-038
@@ -55,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE038
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F038
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR038
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I038
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT038
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT038
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

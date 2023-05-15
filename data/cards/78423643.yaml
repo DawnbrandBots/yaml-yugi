@@ -6,7 +6,7 @@ name:
   es: Geedo de Tres Cabezas
   fr: Geedo à Trois Têtes
   it: Geedo dalle Tre Teste
-  pt:
+  pt: Geedo de Três Cabeças
   ja: <ruby>三<rt>み</rt></ruby>ツ<ruby>首<rt>くび</rt></ruby>のギドー
   ja_romaji: Mitsu Kubi no Gidō
   ko: 삼두 괴수 기도
@@ -24,7 +24,8 @@ text:
     Ce monstre nocturne à trois têtes est impitoyable au combat.
   it: |-
     Mostro notturno dalle tre teste che quando combatte si dimostra assolutamente spietato.
-  pt:
+  pt: |-
+    Um monstro noturno de três cabeças que é absolutamente implacável em combate.
   ja: |-
     三ツ首の怪物。夜行性でとても凶暴な性格を持つ。
   ko: |-
@@ -33,18 +34,22 @@ text:
   zh-CN: |-
     有三个头的怪兽，性格非常凶暴。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 4
 atk: 1200
 def: 1400
 images:
 - index: 1
-  image: ThreeHeadedGeedo-PSV-NA-C-1E.jpg
+  image: ThreeHeadedGeedo-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN002
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN002
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-002
@@ -60,14 +65,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE002
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F002
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR002
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I002
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT002
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT002
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

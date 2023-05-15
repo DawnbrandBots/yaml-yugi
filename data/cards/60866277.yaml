@@ -3,10 +3,10 @@ password: 60866277
 name:
   en: Earthshaker
   de: Erdrüttler
-  es: Terremoto
+  es: Temblor de Tierra
   fr: Secousse Sismique
   it: Scuoti-Terra
-  pt:
+  pt: Agitador de Terra
   ja: <ruby>地<rt>ち</rt></ruby><ruby>殻<rt>かく</rt></ruby><ruby>変<rt>へん</rt></ruby><ruby>動<rt>どう</rt></ruby>
   ja_romaji: Chikakuhendō
   ko: 지각 변동
@@ -24,7 +24,8 @@ text:
     Sélectionnez 2 Attributs de Carte Monstre. Votre adversaire sélectionne alors 1 des 2 Attributs et détruit tous les monstres face recto de cet Attribut sur le Terrain.
   it: |-
     Scegli 2 Attributi di Carte Mostro. Il tuo avversario quindi sceglie 1 dei 2 Attributi e distrugge tutti i mostri scoperti sul Terreno con quell'Attributo.
-  pt:
+  pt: |-
+    Selecione 2 Atributos de Cards de Monstro. Seu oponente então seleciona 1 dos 2 Atributos e destrói todos os monstros com a face para cima no campo com esse Atributo.
   ja: |-
     自分は属性を２つ選択する。相手はその中から１つを選択する。フィールド上に表側表示で存在する選択された属性のモンスターを全て破壊する。
   ko: |-
@@ -36,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: Earthshaker-PSV-EN-C-UE.jpg
+  image: Earthshaker-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN014
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN014
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-014
@@ -56,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE014
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F014
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR014
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I014
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT014
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT014
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

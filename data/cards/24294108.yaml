@@ -25,7 +25,7 @@ text:
   it: |-
     Distrugge tutte le Carte Magia Terreno sul Terreno. Inoltre, infliggi 500 punti di danno ai Life Points di ogni giocatore durante la sua Standby Phase.
   pt: |-
-    Destrua todos os Field Spell Cards no campo. Durante a Standby Phase de cada jogador, ele recebe 500 de dano.
+    Quando este card for ativado: se houver Cards de Magia de Campo no campo, destrua-os. Durante a Fase de Apoio de cada duelista: o duelista do turno sofre 500 de dano.
   ja: |-
     このカードの発動時に、フィールド上のフィールド魔法カードを全て破壊する。また、お互いのスタンバイフェイズ時、ターンプレイヤーは５００ポイントダメージを受ける。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: BurningLand-YGLD-EN-C-1E.png
+  image: BurningLand-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN177
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: YGLD-ENA31
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: PSV-EN061
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-061
@@ -73,6 +77,10 @@ sets:
     set_name: Yugi's Legendary Decks
     rarities:
     - Common
+  - set_number: PSV-DE061
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F061
     set_name: Pharaoh's Servant
@@ -80,6 +88,10 @@ sets:
     - Common
   - set_number: YGLD-FRA31
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: PSV-FR061
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -91,9 +103,17 @@ sets:
     set_name: Yugi's Legendary Decks
     rarities:
     - Common
+  - set_number: PSV-IT061
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: YGLD-PTA31
     set_name: Yugi's Legendary Decks
+    rarities:
+    - Common
+  - set_number: PSV-PT061
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

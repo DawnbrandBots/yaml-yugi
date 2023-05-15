@@ -6,7 +6,7 @@ name:
   es: Respetar el Juego
   fr: Jouer Carte sur Table
   it: Rispetto del Gioco
-  pt: Jogo de Respeito
+  pt: Respeitar Jogada
   ja: <ruby>正<rt>せい</rt></ruby><ruby>々<rt>せい</rt></ruby><ruby>堂<rt>どう</rt></ruby><ruby>々<rt>どう</rt></ruby>
   ja_romaji: Seiseidōdō
   ko: 정정 당당
@@ -25,7 +25,7 @@ text:
   it: |-
     Durante il proprio turno, ogni giocatore deve mostrare all'avversario la propria mano.
   pt: |-
-    Durante os seus respectivos turnos, cada jogador deve permanecer com a sua mão revelada.
+    Durante seus respectivos turnos, cada duelista deve mostrar sua mão ao seu oponente.
   ja: |-
     お互いのプレイヤーは、それぞれ自分のターンには手札を全て公開し続けなければならない。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: RespectPlay-DB1-EN-C-UE.jpg
+  image: RespectPlay-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN085
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: PSV-EN032
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN032
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-032
@@ -65,14 +69,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE032
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F032
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR032
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I032
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT032
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT032
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

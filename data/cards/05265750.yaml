@@ -6,7 +6,7 @@ name:
   es: Marinero Cráneo
   fr: Le Squelette des Mers
   it: Teschio Marino
-  pt:
+  pt: Marinheiro Caveira
   ja: <ruby>海<rt>かい</rt></ruby><ruby>賊<rt>ぞく</rt></ruby><ruby>船<rt>せん</rt></ruby>スカルブラッド<ruby>号<rt>ごう</rt></ruby>
   ja_romaji: Kaizokusen Sukaruburaddo-gō
   ko: 해적선 스컬 블러드호
@@ -24,7 +24,8 @@ text:
     Navire pirate qui surgit de la brume pour couler tous les vaisseaux des alentours.
   it: |-
     Nave pirata che compare da una minacciosa foschia e affonda qualunque nave le capiti a tiro.
-  pt:
+  pt: |-
+    Um barco pirata que surge da neblina e afunda quaisquer embarcações navegando pelo mar.
   ja: |-
     船首に赤い骸骨をかたどった海賊船。あらゆる海域に神出鬼没に現れ、旅客船や貨物船を襲撃する。
   ko: |-
@@ -33,18 +34,22 @@ text:
   zh-CN: |-
     船头装饰红色的骸骨的海盗船，在所有海域里神出鬼没，袭击客船，和货船。
 card_type: Monster
-monster_type_line: Warrior
+monster_type_line: Warrior / Normal
 attribute: WATER
 level: 4
 atk: 1600
 def: 900
 images:
 - index: 1
-  image: SkullMariner-PSV-EN-C-UE.png
+  image: SkullMariner-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN092
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN092
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-092
@@ -60,14 +65,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE092
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F092
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR092
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I092
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT092
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT092
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

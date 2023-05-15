@@ -3,10 +3,10 @@ password: 49251811
 name:
   en: Mystic Probe
   de: Mystische Sonde
-  es:
+  es: Sonda Mística
   fr: Sonde Mystique
   it: Sonda Mistica
-  pt:
+  pt: Sonda Mística
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>探<rt>たん</rt></ruby><ruby>査<rt>さ</rt></ruby>の<ruby>石<rt>せき</rt></ruby><ruby>版<rt>ばん</rt></ruby>
   ja_romaji: Mahōtansa no Sekiban
   ko: 마법 탐사의 석판
@@ -15,15 +15,17 @@ name:
   zh-CN: 魔法探查石板
 text:
   en: |-
-    You can only activate this card when a Continuous Spell Card is activated. Negate all Continuous Spell Cards during the turn this card is activated.
+    You can activate this card when a Continuous Spell Card is activated. Negate all Continuous Spell Cards during the turn this card is activated.
   de: |-
     Du kannst diese Karte aktivieren, wenn eine Permanente Zauberkarte aktiviert wird. Im Spielzug, in dem diese Karte aktiviert wird, haben alle Permanenten Zauberkarten keine Auswirkungen.
-  es:
+  es: |-
+    Puedes activar esta carta cuando es activada una Carta Mágica Continua. Niega todas las Cartas Mágicas Continuas durante el turno en el que esta carta es activada.
   fr: |-
     Vous pouvez Activer cette carte lorsqu'une Carte Magie Continue est Activée. Annule toutes les Cartes Magie Continue durant le tour où cette carte est Activée.
   it: |-
     Puoi attivare questa carta quando una Carta Magia Continua viene attivata. Annulla tutti gli effetti delle Carte Magia Continua durante il turno in cui questa carta viene attivata.
-  pt:
+  pt: |-
+    Você pode ativar este card quando um Card de Magia Contínua for ativado. Negue os efeitos de todos os Cards de Magia Contínua durante o turno em que este card for ativado.
   ja: |-
     永続魔法カードが発動された時に発動する事ができる。ターン終了時までフィールド上の全ての永続魔法カードの効果を無効にする。
   ko: |-
@@ -35,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MysticProbe-PSV-EN-C-UE.jpg
+  image: MysticProbe-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN021
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN021
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-021
@@ -55,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE021
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F021
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR021
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I021
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT021
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT021
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -19,13 +19,13 @@ text:
   de: |-
     Aktiviere diese Karte, indem du 1 Kartennamen benennst. Karten mit dem Namen und ihre Effekte können nicht verwendet werden. Karten, die bereits auf dem Spielfeld liegen, sind nicht betroffen (einschließlich verdeckten Karten).
   es: |-
-    Cuando activas esta carta, declara 1 nombre de carta. Las cartas con ese nombre (y sus efectos) no pueden ser usadas/os. Las cartas que había en el Campo antes de la activación de esta carta no son afectadas, incluyendo las cartas boca abajo.
+    Activa esta carta declarando 1 nombre de carta. Las cartas con ese nombre, y sus efectos, no pueden ser utilizados. Las cartas que ya estaban en el Campo no son afectadas (incluyendo las cartas boca abajo).
   fr: |-
     Activable en déclarant 1 nom de carte. Les cartes de ce nom et leurs effets ne peuvent pas être utilisés. Les cartes déjà sur le Terrain ne sont pas affectées (cartes face verso incluses).
   it: |-
     Attiva dichiarando il nome di 1 carta. Le carte con quel nome e i loro effetti non possono essere utilizzate. Le carte già presenti sul Terreno non sono influenzate (comprese le carte coperte).
   pt: |-
-    Ative ao declarar o nome de 1 card. Cards com esse nome, e seus efeitos, não podem ser usados. Cards já existentes no campo não são afetados (incluindo cards com a face para baixo).
+    Ative ao declarar 1 nome de card. Cards com esse nome, e seus efeitos, não podem ser usados. Cards que já estiverem no campo não são afetados (incluindo cards com a face para baixo).
   ja: |-
     カード名を１つ宣言してこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、宣言されたカード名を元々のカード名とするお互いのカードに以下を適用する（この効果の適用前からフィールドに存在するカードには適用されない）。●フィールドに出す事ができない。●カードの発動及び効果の発動と適用ができない。●通常召喚・反転召喚・特殊召喚できない。●攻撃及び表示形式の変更ができない。●素材を必要とする特殊召喚のための素材にできない。
   ko: |-
@@ -43,7 +43,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: Prohibition-LCYW-EN-ScR-1E.png
+  image: Prohibition-PSV-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN039
@@ -62,6 +62,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Secret Rare
+  - set_number: PSV-EN039
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   - set_number: PSV-039
     set_name: Pharaoh's Servant
     rarities:
@@ -87,6 +91,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Secret Rare
+  - set_number: PSV-DE039
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: SDP-F039
     set_name: Pharaoh's Servant
@@ -104,6 +112,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Secret Rare
+  - set_number: PSV-FR039
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: SDF-I039
     set_name: Pharaoh's Servant
@@ -121,6 +133,15 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Secret Rare
+  - set_number: PSV-IT039
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
+  pt:
+  - set_number: PSV-PT039
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: CA-40
     set_name: Curse of Anubis (set)

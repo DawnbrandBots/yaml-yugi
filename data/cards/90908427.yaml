@@ -3,10 +3,10 @@ password: 90908427
 name:
   en: 'Steel Ogre Grotto #2'
   de: 'Stahl-Oger Grotto #2'
-  es:
+  es: 'Ogro de Acero Grotto #2'
   fr: Ogre d'Acier Grotto N°2
   it: "Orco d'Acciaio #2"
-  pt:
+  pt: Ogre de Aço da Gruta nº 2
   ja: <ruby>鉄<rt>てつ</rt></ruby><ruby>腕<rt>わん</rt></ruby>ゴーレム
   ja_romaji: Tetsuwan Gōremu
   ko: 철완 골렘
@@ -18,12 +18,14 @@ text:
     A mechanized iron doll with tremendous strength.
   de: |-
     Eine mechanische Eisenpuppe mit enormer Kraft.
-  es:
+  es: |-
+    Una muñeca mecánica de hierro con una fuerza tremenda.
   fr: |-
     Ce pantin de fer mécanisé est doté d'une force extraordinaire.
   it: |-
     Una bambola meccanica dotata di forza inimmaginabile.
-  pt:
+  pt: |-
+    Um boneco de ferro mecanizado com uma força tremenda.
   ja: |-
     鋼鉄でできた機械人形。恐るべき怪力を誇る。
   ko: |-
@@ -32,18 +34,22 @@ text:
   zh-CN: |-
     用钢铁做成的机器人偶，拥有恐怖的怪力。
 card_type: Monster
-monster_type_line: Machine
+monster_type_line: Machine / Normal
 attribute: EARTH
 level: 6
 atk: 1900
 def: 2200
 images:
 - index: 1
-  image: SteelOgreGrotto2-PSV-EN-C-UE.jpg
+  image: SteelOgreGrotto2-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN001
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN001
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: KC01-EN008
@@ -63,14 +69,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE001
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F001
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR001
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I001
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT001
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT001
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

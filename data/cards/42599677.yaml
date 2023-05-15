@@ -3,10 +3,10 @@ password: 42599677
 name:
   en: Flame Champion
   de: Flammenmeister
-  es:
+  es: Campeón de la Llama
   fr: Champion des Flammes
   it: Campione delle Fiamme
-  pt:
+  pt: Campião das Chamas
   ja: フレイムキラー
   ja_romaji: Fureimu Kirā
   ko: 화염의 킬러
@@ -18,12 +18,14 @@ text:
     A warrior protected by a flaming shield that nullifies any attack.
   de: |-
     Dieser Krieger ist durch ein Flammenschild geschützt, der jeden Angriff vereitelt.
-  es:
+  es: |-
+    Un guerrero protegido por un escudo flamígero que anula cualquier ataque.
   fr: |-
     Ce guerrier se protège avec un bouclier de flammes qui annihile toutes les attaques.
   it: |-
     Lo scudo di fuoco di questa creatura è in grado di annullare qualunque attacco.
-  pt:
+  pt: |-
+    Um guerreiro protegido por um escudo flamejante que anula qualquer ataque.
   ja: |-
     炎の盾を使う剣士。その盾はどんな攻撃でも無効化してしまう。
   ko: |-
@@ -32,18 +34,22 @@ text:
   zh-CN: |-
     使用火焰盾的剑士，之盾能无视任何攻击。
 card_type: Monster
-monster_type_line: Pyro
+monster_type_line: Pyro / Normal
 attribute: FIRE
 level: 5
 atk: 1900
 def: 1300
 images:
 - index: 1
-  image: FlameChampion-PSV-NA-C-1E.jpg
+  image: FlameChampion-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN041
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN041
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-041
@@ -59,14 +65,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE041
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F041
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR041
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I041
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT041
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT041
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

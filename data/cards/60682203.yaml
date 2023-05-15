@@ -6,7 +6,7 @@ name:
   es: Oleada Fría
   fr: Onde Glacée
   it: Ondata Gelida
-  pt:
+  pt: Onda Fria
   ja: <ruby>大<rt>だい</rt></ruby><ruby>寒<rt>かん</rt></ruby><ruby>波<rt>ぱ</rt></ruby>
   ja_romaji: Daikanpa
   ko: 대 한파
@@ -24,7 +24,8 @@ text:
     Cette carte peut uniquement être activée au début de la Main Phase 1. Jusqu'à votre prochain tour, vous et votre adversaire ne pouvez pas jouer ni Poser de Cartes Magie ou Piège.
   it: |-
     Questa carta può essere attivata solo all'inizio della Main Phase 1. Fino al tuo prossimo turno, né tu né il tuo avversario potete attivare o Posizionare Carte Magia o Trappola.
-  pt:
+  pt: |-
+    Este card só pode ser ativado no começo da Fase Principal 1. Até seu próximo turno, você e seu oponente não podem usar ou Baixar quaisquer Cards de Magia ou Armadilha.
   ja: |-
     メインフェイズ１の開始時に発動する事ができる。次の自分のドローフェイズ時まで、お互いに魔法・罠カードの効果の使用及び発動・セットはできない。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: ColdWave-SDZW-EN-C-1E.png
+  image: ColdWave-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN062
@@ -49,6 +50,10 @@ sets:
     - Common
   - set_number: SDZW-EN019
     set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: PSV-EN062
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-062
@@ -72,6 +77,10 @@ sets:
     set_name: Zombie World Structure Deck
     rarities:
     - Common
+  - set_number: PSV-DE062
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F062
     set_name: Pharaoh's Servant
@@ -85,6 +94,10 @@ sets:
     set_name: Zombie World Structure Deck
     rarities:
     - Common
+  - set_number: PSV-FR062
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I062
     set_name: Pharaoh's Servant
@@ -96,6 +109,15 @@ sets:
     - Common
   - set_number: SDZW-IT019
     set_name: Zombie World Structure Deck
+    rarities:
+    - Common
+  - set_number: PSV-IT062
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT062
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

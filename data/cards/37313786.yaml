@@ -6,7 +6,7 @@ name:
   es: Arriesgar
   fr: Gamble
   it: Azzardo
-  pt: Aposta
+  pt: Apostar
   ja: ギャンブル
   ja_romaji: Gyanburu
   ko: 겜블
@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta quando il tuo avversario ha 6 o più carte nella sua mano e la tua mano ne contiene 2 o meno. Lancia una moneta e scegli testa o croce. Se indovini, pesca delle carte fino ad averne 5 nella tua mano. Se sbagli, salta il tuo prossimo turno.
   pt: |-
-    Ative somente quando o seu oponente possui 6 ou mais cartas na mão e você possui 2 ou menos. Jogue uma moeda e selecione Cara ou Coroa. Se acertar, compre cartas até possuir 5 cartas na sua mão. Se você errar, pule o seu próximo turno.
+    Você só pode ativar este card quando a mão do seu oponente tiver 6 ou mais cards e sua mão tiver 2 ou menos. Lance uma moeda e selecione cara ou coroa. Se ganhar, compre até que sua mão tenha 5 cards. Se perder, pule seu próximo turno.
   ja: |-
     相手の手札が６枚以上、自分の手札が２枚以下の場合に発動する事ができる。コイントスを１回行い裏表を当てる。当たった場合、自分の手札が５枚になるようにデッキからカードをドローする。ハズレの場合、次の自分のターンをスキップする。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: Gamble-DB1-EN-C-UE.png
+  image: Gamble-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN172
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: PSV-EN053
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN053
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-053
@@ -65,14 +69,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE053
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F053
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR053
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I053
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT053
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT053
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -15,7 +15,7 @@ name:
   zh-CN: 神圣标枪
 text:
   en: |-
-    Select 1 attacking monster. Gain Life Points equal to its ATK.
+    Increase your Life Points by the ATK of 1 attacking monster.
   de: |-
     Erhöhe deine Life Points um die ATK eines angreifenden Monsters deines Gegners.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando un mostro del tuo avversario attacca, aumenta i tuoi Life Points di un ammontare di punti pari all'ATK del mostro attaccante.
   pt: |-
-    Quando o monstro do oponente ataca, acrescente aos seus pontos de vida o ATK do monstro atacante.
+    Aumente seus PV pelo ATK de 1 monstro atacante.
   ja: |-
     相手モンスターの攻撃宣言時に発動する事ができる。その攻撃モンスター１体の攻撃力分だけ自分のライフポイントを回復する。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: EnchantedJavelin-PSV-EU-C-UE.png
+  image: EnchantedJavelin-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN077
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: PSV-EN015
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN015
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-015
@@ -73,6 +77,10 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE015
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F015
     set_name: Pharaoh's Servant
@@ -80,6 +88,10 @@ sets:
     - Common
   - set_number: DDP-F049
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: PSV-FR015
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -91,9 +103,17 @@ sets:
     set_name: 'Starter Deck: Pegasus'
     rarities:
     - Common
+  - set_number: PSV-IT015
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DIP-P049
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: PSV-PT015
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -3,10 +3,10 @@ password: 23471572
 name:
   en: Solomon's Lawbook
   de: Salomons Gesetzbuch
-  es:
+  es: Libro de Leyes de Salomón
   fr: Livre de Loi de Salomon
   it: Libro di Salomone
-  pt:
+  pt: Livro de Leis de Salomão
   ja: ソロモンの<ruby>律<rt>りっ</rt></ruby><ruby>法<rt>ぽう</rt></ruby><ruby>書<rt>しょ</rt></ruby>
   ja_romaji: Soromon no Rippōsho
   ko: 솔로몬의 율법서
@@ -15,15 +15,17 @@ name:
   zh-CN: 所罗门的律法书
 text:
   en: |-
-    Skip your next Standby Phase.
+    Skip your own Standby Phase.
   de: |-
     Überspringe deine Standby Phase.
-  es:
+  es: |-
+    Sáltate tu Standby Phase.
   fr: |-
     Sautez votre Standby Phase.
   it: |-
     Salta la tua prossima Standby Phase.
-  pt:
+  pt: |-
+    Pule sua própria Fase de Apoio.
   ja: |-
     次の自分のスタンバイフェイズをスキップする。
   ko: |-
@@ -35,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: SolomonsLawbook-PSV-EN-C-UE.jpg
+  image: SolomonsLawbook-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN013
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN013
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-013
@@ -55,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE013
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F013
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR013
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I013
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT013
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT013
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

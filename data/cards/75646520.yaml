@@ -3,10 +3,10 @@ password: 75646520
 name:
   en: Metal Detector
   de: Metalldetektor
-  es:
+  es: Detector de Metales
   fr: Détecteur de Métaux
   it: Metal Detector
-  pt:
+  pt: Detector de Metais
   ja: <ruby>金<rt>きん</rt></ruby><ruby>属<rt>ぞく</rt></ruby><ruby>探<rt>たん</rt></ruby><ruby>知<rt>ち</rt></ruby><ruby>器<rt>き</rt></ruby>
   ja_romaji: Kinzoku Tanchi-ki
   ko: 금속 탐지기
@@ -15,15 +15,17 @@ name:
   zh-CN: 金属探知器
 text:
   en: |-
-    You can only activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated.
+    You can activate this card when a Continuous Trap Card is activated. Negate all Continuous Trap Cards during the turn this card is activated.
   de: |-
     Du kannst diese Karte aktivieren, wenn eine Permante Fallenkarte aktiviert wird. Im Spielzug, in dem diese Karte aktiviert wird, haben alle Permanenten Fallenkarten keine Auswirkung.
-  es:
+  es: |-
+    Puedes activar esta carta cuando es activada una Carta de Trampa Continua. Niega todas las Cartas de Trampa Continuas durante el turno en el que esta carta es activada.
   fr: |-
     Vous pouvez Activer cette carte lorsqu'une Carte Piège Continu est Activée. Annule toutes les Cartes Piège Continu durant le tour où cette carte est Activée.
   it: |-
     Puoi attivare questa carta quando una Carta Trappola Continua viene attivata. Annulla tutti gli effetti delle Carte Trappola Continua durante il turno in cui questa carta viene attivata.
-  pt:
+  pt: |-
+    Você pode ativar este card quando um Card de Armadilha Contínua for ativado. Negue os efeitos de todos os Cards de Armadilha Contínua durante o turno em que este card for ativado.
   ja: |-
     永続罠カードが発動されたときに発動する事ができる。ターン終了時までフィールド上の全ての永続罠カードの効果を無効にする。
   ko: |-
@@ -35,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MetalDetector-PSV-EN-C-UE.png
+  image: MetalDetector-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN022
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN022
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-022
@@ -55,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE022
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F022
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR022
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I022
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT022
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT022
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

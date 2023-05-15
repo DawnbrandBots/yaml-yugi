@@ -6,7 +6,7 @@ name:
   es: Invitación del Cráneo
   fr: L'appel du Squelette
   it: Invito del Teschio
-  pt:
+  pt: Convite da Caveira
   ja: <ruby>死<rt>し</rt></ruby><ruby>霊<rt>りょう</rt></ruby>の<ruby>誘<rt>いざな</rt></ruby>い
   ja_romaji: Shiryō no Izanai
   ko: 사령의 권유
@@ -24,7 +24,8 @@ text:
     Chaque fois qu'une carte est envoyée au Cimetière, infligez 300 points de dommages à son propriétaire pour chaque carte envoyée.
   it: |-
     Ogni volta che una o più carte vengono mandate al Cimitero, infliggi 300 danni al loro proprietario per ogni carta mandata al Cimitero.
-  pt:
+  pt: |-
+    Sempre que um ou mais cards forem enviados para o Cemitério, cause 300 de dano ao seu dono para cada card enviado.
   ja: |-
     カードが墓地へ送られる度に、そのカードの持ち主は１枚につき３００ポイントダメージを受ける。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: SkullInvitation-SDMA-EN-C-1E.png
+  image: SkullInvitation-PSV-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN175
@@ -55,6 +56,10 @@ sets:
     set_name: 'Structure Deck: Marik (TCG)'
     rarities:
     - Common
+  - set_number: PSV-EN056
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   - set_number: PSV-056
     set_name: Pharaoh's Servant
     rarities:
@@ -80,6 +85,10 @@ sets:
     set_name: 'Structure Deck: Marik (TCG)'
     rarities:
     - Common
+  - set_number: PSV-DE056
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: SDP-F056
     set_name: Pharaoh's Servant
@@ -93,6 +102,10 @@ sets:
     set_name: 'Structure Deck: Marik (TCG)'
     rarities:
     - Common
+  - set_number: PSV-FR056
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: SDF-I056
     set_name: Pharaoh's Servant
@@ -106,6 +119,15 @@ sets:
     set_name: 'Structure Deck: Marik (TCG)'
     rarities:
     - Common
+  - set_number: PSV-IT056
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
+  pt:
+  - set_number: PSV-PT056
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: TB-06
     set_name: Thousand Eyes Bible

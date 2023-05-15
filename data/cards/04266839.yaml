@@ -6,7 +6,7 @@ name:
   es: Kiseitai
   fr: Kiseitai
   it: Kiseitai
-  pt: Kisetai
+  pt: Kiseitai
   ja: <ruby>精<rt>せい</rt></ruby><ruby>神<rt>しん</rt></ruby><ruby>寄<rt>き</rt></ruby><ruby>生<rt>せい</rt></ruby><ruby>体<rt>たい</rt></ruby>
   ja_romaji: Seishin Kiseitai
   ko: 정신 기생체
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando un Mostro del tuo avversario attacca questa carta coperta in Posizione di Difesa, il Mostro attaccante viene equipaggiato con essa (non viene effettuato il calcolo dei danni). Tratta questa carta come una Carta Magia Equipaggiamento. Durante ogni Standby Phase del tuo avversario, aumenta i tuoi Life Points di un ammontare di punti pari alla metà dell'ATK del Mostro equipaggiato con questa carta.
   pt: |-
-    Se um monstro do seu oponente ataca esta carta virada para baixo na Posição de Defesa, esta carta torna-se um Card de Equipamento e é equipada no monstro atacante (Cálculo de Dano não é aplicado). Durante cada uma das Fases de Apoio do seu oponente, você ganha uma quantidade de Pontos de Vida igual à metade do ATK do monstro equipado.
+    Quando um monstro do seu oponente atacar este card com a face para baixo em Posição Defesa, este card se torna um Card de Magia de Equipamento equipado ao monstro atacante (nenhum cálculo de dano é conduzido). Durante cada uma das Fases de Apoio do seu oponente, aumente seus PV pela metade do ATK do monstro equipado com este card.
   ja: |-
     フィールド上に裏側守備表示で存在するこのカードが相手モンスターに攻撃された場合、そのダメージ計算前にこのカードは攻撃モンスターの装備カードになる。相手のスタンバイフェイズ毎に、このカードの装備モンスターの攻撃力の半分の数値分、自分のライフポイントを回復する。
   ko: |-
@@ -41,7 +41,7 @@ atk: 300
 def: 800
 images:
 - index: 1
-  image: Kiseitai-DB1-EN-C-UE.jpg
+  image: Kiseitai-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN093
@@ -52,6 +52,10 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-EN046
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: PSV-046
     set_name: Pharaoh's Servant
     rarities:
@@ -69,16 +73,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE046
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F046
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-FR046
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I046
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-IT046
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT046
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: CA-47
     set_name: Curse of Anubis (set)

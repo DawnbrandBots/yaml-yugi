@@ -6,7 +6,7 @@ name:
   es: Ladrón de Tumbas
   fr: Profanateur de Tombes
   it: Predatore delle Tombe
-  pt: Assaltante de Túmulos
+  pt: Ladrão de Túmulos
   ja: <ruby>墓<rt>はか</rt></ruby><ruby>荒<rt>あ</rt></ruby>らし
   ja_romaji: Haka Arashi
   ko: 도굴꾼
@@ -25,7 +25,7 @@ text:
   it: |-
     Scegli 1 Carta Magia dal Cimitero del tuo avversario. Fino alla fine del turno, puoi usarla come se fosse una tua carta. Se la attivi, ricevi 2000 punti di danno.
   pt: |-
-    Selecione 1 Card de Magia do Cemitério do seu oponente. Você pode usá-la como sua até o fim do turno. Se usá-la, você recebe 2000 de dano.
+    Selecione 1 Card de Magia do Cemitério do seu oponente. Até o final do turno, você pode usá-lo como se estivesse na sua mão. Se o usar, você sofre 2000 de dano.
   ja: |-
     相手の墓地にある魔法カード１枚を選択し、ターン終了時まで自分の手札として使用する事ができる。その魔法カードを使用した場合、２０００ポイントのダメージを受ける。
   ko: |-
@@ -40,7 +40,7 @@ images:
   image: Graverobber-BE1-JP-C.jpg
   illustration: Graverobber-TF04-JP-VG.jpg
 - index: '1.1'
-  image: Graverobber-PSV-EN-SR-UE.png
+  image: Graverobber-PSV-EN-SR-UE-25thAnniversaryEdition.png
   illustration: Graverobber-TF04-EN-VG.jpg
 sets:
   en:
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: PSV-EN008
     set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: PSV-EN008
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Super Rare
   - set_number: PSV-008
@@ -69,14 +73,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE008
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   fr:
   - set_number: SDP-F008
     set_name: Pharaoh's Servant
     rarities:
     - Super Rare
+  - set_number: PSV-FR008
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   it:
   - set_number: SDF-I008
     set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: PSV-IT008
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: PSV-PT008
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Super Rare
   ja:

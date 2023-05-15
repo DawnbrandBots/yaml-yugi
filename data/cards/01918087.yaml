@@ -6,7 +6,7 @@ name:
   es: Oficial Goblin Menor
   fr: Fonctionnaire Gobelin
   it: Ufficiale Goblin Minore
-  pt: Oficial Goblin Menor
+  pt: Oficial Menor Goblin
   ja: ゴブリンの<ruby>小<rt>こ</rt></ruby><ruby>役<rt>やく</rt></ruby><ruby>人<rt>にん</rt></ruby>
   ja_romaji: Goburin no Koyakunin
   ko: 고블린의 관리인
@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta quando il tuo avversario ha 3000 o meno Life Points. Infliggi 500 punti di danno ai Life Points del tuo avversario durante ogni sua Standby Phase.
   pt: |-
-    Ative somente quando o seu oponente possui 3000 ou menos LPs. Durante cada uma das Standby Phases dele, inflija 500 de dano ao seu oponente.
+    Você só pode ativar este card quando os PV do seu oponente forem 3000 ou menos. Cause 500 de dano ao seu oponente durante cada uma das Fases de Apoio dele.
   ja: |-
     相手のライフポイントが３０００ポイント以下の場合に発動する事ができる。相手のスタンバイフェイズ毎に相手ライフに５００ポイントダメージを与える。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Goblin
 images:
 - index: 1
-  image: MinorGoblinOfficial-DB1-EN-C-UE.png
+  image: MinorGoblinOfficial-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN171
@@ -50,6 +50,10 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-EN052
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: PSV-052
     set_name: Pharaoh's Servant
     rarities:
@@ -67,16 +71,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE052
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F052
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-FR052
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I052
     set_name: Pharaoh's Servant
     rarities:
     - Short Print
+  - set_number: PSV-IT052
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT052
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: TB-02
     set_name: Thousand Eyes Bible

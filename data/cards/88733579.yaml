@@ -6,7 +6,7 @@ name:
   es: Bicho Excavador
   fr: Insecte Perceur
   it: Insetto-Trapano
-  pt:
+  pt: Inseto Broca
   ja: <ruby>穿<rt>せん</rt></ruby><ruby>孔<rt>こう</rt></ruby><ruby>虫<rt>ちゅう</rt></ruby>
   ja_romaji: Senkōchū
   ko: 천공충
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta infligge danno da combattimento al tuo avversario, puoi prendere 1 carta "IInsetto Parassita" dal tuo Deck, mischiarlo, e mettere la carta "Insetto Parassita" coperta in cima al Deck.
   pt: |-
-    Quando esta carta inflige Dano de Batalha aos LPs do seu oponente, você pode selecionar 1 "Parasite Paracide" do seu Deck e colocá-lo no topo do seu Deck.
+    Quando este card causar dano de batalha ao seu oponente, você pode selecionar 1 card "Parasita Paracide" do seu Deck, embaralhar o Deck, e colocar "Parasita Paracide" no topo do seu Deck.
   ja: |-
     このカードが相手ライフに戦闘ダメージを与えた時、自分のデッキに存在する自分の「寄生虫パラサイド」１枚をデッキの一番上に置く事ができる。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1100
 def: 200
 images:
 - index: 1
-  image: DrillBug-DB1-EN-C-UE.png
+  image: DrillBug-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN192
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: PSV-EN078
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN078
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-078
@@ -69,14 +73,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: PSV-DE078
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F078
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR078
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I078
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT078
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT078
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

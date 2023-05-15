@@ -6,7 +6,7 @@ name:
   es: Disturbio General
   fr: Émeute Majeure
   it: Grande Tumulto
-  pt:
+  pt: Grande Motim
   ja: <ruby>大<rt>おお</rt></ruby><ruby>騒<rt>そう</rt></ruby><ruby>動<rt>どう</rt></ruby>
   ja_romaji: Ōsōdō
   ko: 대소동
@@ -15,16 +15,17 @@ name:
   zh-CN: 大骚动
 text:
   en: |-
-    You can activate this card when 1 or more of your monsters are returned from the field to your hand by your opponent's effect. Return all Monster Cards on the field to your respective hands. Both you and your opponent then Special Summon from your hand the same number of Monster Cards on the field in face-down Defense Position.
+    If a monster(s) you control returns to your hand by an opponent's card effect: Return as many monsters on the field to the hand as possible, then each player Special Summons monsters from their hand, in face-down Defense Position, equal to the number of Monster Cards that were returned to their hand.
   de: |-
     Du kannst diese Karte aktivieren, wenn 1 oder mehrere deiner Monster durch einen Karteneffekt deines Gegners vom Spielfeld auf deine Hand zurückgeben werden. Gib alle Monsterkarten vom Spielfeld auf die Hand ihres Besitzer zurück. Sowohl du als auch dein Gegner beschwören dann die gleiche Anzahl an Monsterkarten, wie ihnen auf die Hand zurückgegeben wurden, als Spezialbeschwörung aus der Hand, verdeckt in Verteidigungsposition.
   es: |-
-    Puedes activar esta carta cuando 1 o más de tus monstruos son devueltos del campo a tu mano por efecto de tu oponente. Devuelve todas las Cartas de Monstruo del campo a tus respectivas manos. Luego, tanto tú como tu oponente Invocan Especialmente desde tu mano la misma cantidad de Cartas de Monstruo en el Campo en Posición de Defensa boca abajo.
+    Si uno o más monstruos que controlas son devueltos a tu mano por efecto de una carta del adversario: devuelve a la mano tantos monstruos en el Campo como sea posible, y después cada jugador Invoca monstruos de Modo Especial desde su mano, en Posición de Defensa boca abajo, igual al número de Cartas de Monstruo que fueron devueltas a su mano.
   fr: |-
     Vous pouvez Activer cette carte lorsqu'1 ou plusieurs de vos monstres retournent du Terrain dans votre main par l'effet d'une carte contrôlée par votre adversaire. Renvoyez toutes les Cartes Monstre du Terrain dans la main de leurs propriétaires respectifs. Vous et votre adversaire Invoquez alors par Invocation Spéciale de vos mains, le même nombre de Cartes Monstre sur le Terrain en Position de Défense face verso.
   it: |-
     Puoi attivare questa carta quando 1 o più dei tuoi Mostri viene fatto ritornare dal Terreno nella tua mano per effetto di una carta del tuo avversario. Fai ritornare tutti i Mostri sul Terreno nelle rispettive mani. Sia tu che il tuo avversario evocate sul Terreno tramite Evocazione Speciale dalle vostre mani lo stesso numero di Mostri, coperti in Posizione di Difesa.
-  pt:
+  pt: |-
+    Se um ou mais monstros que você controla forem devolvidos à sua mão por um efeito de card do oponente: devolva para a mão tantos monstros no campo quanto possível e, depois, cada duelista Invoca monstros por Invocação-Especial da mão dele, com a face para baixo em Posição de Defesa, igual ao número de Cards de Monstros que foram devolvidos à mão dele.
   ja: |-
     相手のコントロールするカードの効果によって、自分のモンスターがフィールドから手札に戻されたときに発動する事ができる。フィールド上の全モンスターを持ち主の手札に戻す。その後、お互いに戻された数のモンスターを裏側守備表示で手札から特殊召喚する。
   ko: |-
@@ -36,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MajorRiot-PSV-EN-C-UE.jpg
+  image: MajorRiot-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN029
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN029
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-029
@@ -56,14 +61,31 @@ sets:
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-DE029
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F029
     set_name: Pharaoh's Servant
     rarities:
     - Common
+  - set_number: PSV-FR029
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDF-I029
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-IT029
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: PSV-PT029
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:

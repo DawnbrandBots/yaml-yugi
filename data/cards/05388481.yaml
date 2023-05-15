@@ -6,7 +6,7 @@ name:
   es: 'Soldado del Fuego Oscuro #1'
   fr: Soldat du Feu Noir N°1
   it: 'Soldato di Fuoco #1'
-  pt: Soldado das Chamas das Trevas
+  pt: 'Soldado do Fogo Negro #1'
   ja: バーニングソルジャー
   ja_romaji: Bāningu Sorujā
   ko: 버닝 솔저
@@ -25,7 +25,7 @@ text:
   it: |-
     L'esperto di esplosivi di un gruppo di combattenti d'elite.
   pt: |-
-    Um especialista em explosivos de uma força de elite especial.
+    Um especialista em explosivos de uma força especial de elite.
   ja: |-
     熱く燃える特殊部隊工作員。火薬のエキスパート。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     热烈燃烧的特种部队工作者，火药专家。
 card_type: Monster
-monster_type_line: Pyro
+monster_type_line: Pyro / Normal
 attribute: FIRE
 level: 4
 atk: 1700
 def: 1150
 images:
 - index: 1
-  image: DarkfireSoldier1-PSV-EN-C-UE.png
+  image: DarkfireSoldier1-PSV-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: PSV-EN043
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: PSV-EN043
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: PSV-043
@@ -69,6 +73,10 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: PSV-DE043
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SDP-F043
     set_name: Pharaoh's Servant
@@ -76,6 +84,10 @@ sets:
     - Common
   - set_number: DDJ-F010
     set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: PSV-FR043
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -87,9 +99,17 @@ sets:
     set_name: 'Starter Deck: Joey'
     rarities:
     - Common
+  - set_number: PSV-IT043
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DIJ-P010
     set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  - set_number: PSV-PT043
+    set_name: Pharaoh's Servant (25th Anniversary Edition)
     rarities:
     - Common
   ja:
