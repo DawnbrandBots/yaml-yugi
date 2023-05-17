@@ -15,7 +15,7 @@ name:
   zh-CN: 定时炸弹
 text:
   en: |-
-    FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters you control and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent.
+    FLIP: After this card is flipped, offer it as a Tribute during your Standby Phase to destroy all monsters on your side of the field and inflict Direct Damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.
   de: |-
     FLIPP: Biete diese Karte während deiner Standby Phase als Tribut an, um alle Monster auf deiner Spielfeldseite zu zerstören und den Life Points deines Gegners soviel Schaden zuzufügen, wie die Hälfte der addierten ATK aller zerstörten Karten (ohne dieses Monster) beträgt.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     SCOPRI: Offri questa carta come Tributo durante la tua Standby Phase per distruggere tutti i mostri sul tuo Terreno ed infliggere ai Life Points del tuo avversario danno pari alla metà del totale di ATK dei mostri distrutti in questo modo (escludendo questo mostro).
   pt: |-
-    Virar: Após esta carta ser invertida, oferecê-lo como um tributo durante a sua fase de espera para destruir todos os monstros no seu lado do campo e infligir dano direto igual a metade do ATK total das cartas destruídas (excluindo este monstro) para os pontos de vida do seu adversário.
+    VIRE: Depois que este card for virado, ofereça-o como Tributo durante sua Fase de Apoio para destruir todos os monstros no seu campo e causar dano direto ao seu oponente igual à metade do ATK total dos cards destruídos (excluindo este monstro).
   ja: |-
     リバース：自分のスタンバイフェイズでこのカードを生け贄に捧げる。全ての自分のモンスターを破壊し、その総攻撃力の半分のダメージを相手に与える。
   ko: |-
@@ -34,20 +34,24 @@ text:
   zh-CN: |-
     反转：自己的准备阶段把这张卡作为祭品。全部自己怪兽破坏，给与对方那个总攻击力一半数值的伤害。
 card_type: Monster
-monster_type_line: Pyro / Effect
+monster_type_line: Pyro / Flip / Effect
 attribute: FIRE
 level: 2
 atk: 200
 def: 1000
 images:
 - index: 1
-  image: JigenBakudan-SRL-NA-SSP-UE.png
+  image: JigenBakudan-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN074
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-EN074
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-074
     set_name: Magic Ruler
     rarities:
@@ -73,6 +77,10 @@ sets:
     set_name: 'Starter Deck: Pegasus'
     rarities:
     - Common
+  - set_number: SRL-DE074
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F074
     set_name: Spell Ruler
@@ -80,6 +88,10 @@ sets:
     - Short Print
   - set_number: DDP-F012
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SRL-FR074
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -91,9 +103,17 @@ sets:
     set_name: 'Starter Deck: Pegasus'
     rarities:
     - Common
+  - set_number: SRL-IT074
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DIP-P012
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SRL-PT074
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -6,7 +6,7 @@ name:
   es: Casa de Cinta Adhesiva
   fr: Maison du Ruban Adhésif
   it: Casa del Nastro Adesivo
-  pt: Casa de Fita Adesiva
+  pt: Casa da Fita Adesiva
   ja: <ruby>粘<rt>ねん</rt></ruby><ruby>着<rt>ちゃく</rt></ruby>テープの<ruby>家<rt>いえ</rt></ruby>
   ja_romaji: Nenchaku Tēpu no Ie
   ko: 끈끈이 집
@@ -19,13 +19,13 @@ text:
   de: |-
     Wenn ein Monster, das dein Gegner beschwört (mit Ausnahme von Spezialbeschwörung) eine DEF von 500 oder weniger hat, ist es zerstört.
   es: |-
-    Cuando tu adversario hace una Invocación Normal o una Invocación de Volteo de un monstruo, si la DEF del monstruo es 500 puntos o menos, destruye el monstruo.
+    Si la DEF de un monstruo Invocado por tu adversario (excluyendo una Invocación Especial) es 500 puntos o menos, el monstruo es destruido.
   fr: |-
     Lorsque votre adversaire fait une Invocation Normale ou une Invocation Flip d'un monstre avec une DEF de 500 points ou moins, ce monstre est détruit.
   it: |-
     Quando il tuo avversario evoca un Mostro (eccetto le Evocazioni Speciali), se il DEF di quel mostro Evocato è di 500 o inferiore, il mostro viene distrutto.
   pt: |-
-    Se o DEF de um monstro chamado por seu oponente (excluindo Invocação Especial) é de 500 pontos ou menos, o monstro é destruído.
+    Se a DEF de um monstro Invocado pelo seu oponente (exceto Invocação-Especial) for de 500 ou menos, o monstro é destruído.
   ja: |-
     相手が守備力５００以下のモンスターを召喚・反転召喚した時に発動する事ができる。そのモンスター１体を破壊する。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: HouseofAdhesiveTape-SRL-NA-C-UE.png
+  image: HouseofAdhesiveTape-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN064
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN064
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-064
@@ -61,14 +65,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE064
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F064
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR064
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I064
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT064
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT064
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

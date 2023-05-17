@@ -6,7 +6,7 @@ name:
   es: Exhibición de Espada
   fr: Performance de l'Épée
   it: Prestazione della Spada
-  pt: Execução de Espada
+  pt: Performance da Espada
   ja: ダンシング・ソルジャー
   ja_romaji: Danshingu Sorujā
   ko: 댄싱 솔저
@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi Evocare tramite Rituale questa carta con "Inizio delle Danze".
   pt: |-
-    Este cartão só pode ser convocado por ritual com o cartão mágica de ritual, "Commencement Dance". Você também deve oferecer um monstro como tributo cujo nível seja igual ou superior a 6 de campo ou da sua mão.
+    Você pode Invocar este card por Invocação-Ritual com "Dança do Começo".
   ja: |-
     「踊りによる誘発」により降臨。フィールドか手札から、レベルが６以上になるようカードを生け贄に捧げなければならない。
   ko: |-
@@ -45,7 +45,7 @@ images:
   image: PerformanceofSword-SRL-EN-C-UE.png
   illustration: PerformanceofSword-TF04-JP-VG.jpg
 - index: '1.1'
-  image: PerformanceofSword-SBCB-EN-C-1E.png
+  image: PerformanceofSword-SRL-EN-C-UE-25thAnniversaryEdition.png
   illustration: PerformanceofSword-GX02-EN-VG.png
 sets:
   en:
@@ -55,6 +55,10 @@ sets:
     - Common
   - set_number: SBCB-EN183
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: SRL-EN067
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-067
@@ -78,6 +82,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: SRL-DE067
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F067
     set_name: Spell Ruler
@@ -87,6 +95,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: SRL-FR067
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I067
     set_name: Spell Ruler
@@ -94,6 +106,15 @@ sets:
     - Common
   - set_number: SBCB-IT183
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: SRL-IT067
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT067
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

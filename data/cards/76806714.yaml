@@ -19,13 +19,13 @@ text:
   de: |-
     Mit dieser Karte wird „Krebsschildkröte“ als Ritualbeschwörung beschworen. Biete zusätzlich 1 oder mehrere Monster von deiner Hand oder deiner Seite des Spielfelds als Tribut an, die zusammen 8 oder mehr Stufen haben.
   es: |-
-    Esta carta se usa en la Invocación de Ritual de "Tortuga Cangrejo". También debes ofrecer monstruos cuyo Nivel total sea 8 o más de tu Campo o tu mano como Sacrificio.
+    Esta carta se usa para Invocar por Ritual "Tortuga Cangrejo". También debes ofrecer como Sacrificio monstruos en el Campo o tu mano cuyos Niveles totales sean 8 o más.
   fr: |-
     Cette carte est utilisée pour faire une Invocation Rituelle de "Crabe-Tortue". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 8 ou plus du Terrain ou de votre main.
   it: |-
     Questa carta è utilizzata per l'Evocazione Rituale della carta "Tartaruga-Granchio". Devi anche offrire come Tributo, dal Terreno o dalla tua Mano, mostri il cui Livello totale sia 8 o superiore.
   pt: |-
-    Esta carta é usada para o Ritual Summon de "Crab Turtle". Você também deve oferecer monstros cujo Nível total de Estrelas seja igual a 8 ou mais do campo ou da sua mão como um Tributo.
+    Este card é usado para a Invocação-Ritual de "Tartaruga Caranguejo". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual a 8 mais.
   ja: |-
     「クラブ・タートル」の降臨に必要。フィールドか手札から、レベルが８以上になるようカードを生け贄に捧げなければ、「クラブ・タートル」は降臨できない。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Spell
 property: Ritual
 images:
 - index: 1
-  image: TurtleOath-SRL-NA-C-UE.png
+  image: TurtleOath-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN066
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN066
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-066
@@ -61,14 +65,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE066
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F066
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR066
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I066
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT066
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT066
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -6,7 +6,7 @@ name:
   es: Corriente de Aire Ascendente
   fr: Courant d'Air Ascendant
   it: Corrente Ascendente
-  pt:
+  pt: Corrente de Vento Crescente
   ja: デザートストーム
   ja_romaji: Dezāto Sutōmu
   ko: 데저트 스톰
@@ -15,7 +15,7 @@ name:
   zh-CN: 沙漠风暴
 text:
   en: |-
-    All WIND monsters gain 500 ATK and lose 400 DEF.
+    Increase the ATK of all WIND monsters by 500 points and decrease their DEF by 400 points.
   de: |-
     Erhöht die ATK aller WIND Monster um 500 Punkte und verringert die DEF um 400 Punkte.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Tutti i Mostri VENTO guadagnano 500 ATK e perdono 400 DEF.
   pt: |-
-    Todos os monstros WIND ganham 500 de ATK e perdem 400 de DEF.
+    Aumente em 500 o ATK de todos os monstros de VENTO e diminua em 400 suas DEF.
   ja: |-
     フィールド上に表側表示で存在する風属性モンスターの攻撃力は５００ポイントアップし、守備力は４００ポイントダウンする。
   ko: |-
@@ -39,7 +39,7 @@ series:
 - Attribute Booster
 images:
 - index: 1
-  image: RisingAirCurrent-DLG1-NA-C-UE.png
+  image: RisingAirCurrent-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN099
@@ -48,6 +48,10 @@ sets:
     - Short Print
   - set_number: DB1-EN062
     set_name: Dark Beginning 1
+    rarities:
+    - Common
+  - set_number: SRL-EN099
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-099
@@ -83,6 +87,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-DE099
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F099
     set_name: Spell Ruler
@@ -92,6 +100,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-FR099
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I099
     set_name: Spell Ruler
@@ -99,6 +111,15 @@ sets:
     - Short Print
   - set_number: RP01-IT080
     set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: SRL-IT099
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT099
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

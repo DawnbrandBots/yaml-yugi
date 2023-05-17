@@ -6,7 +6,7 @@ name:
   es: Serpiente Eléctrica
   fr: Serpent Électrique
   it: Serpente Elettrico
-  pt: Serpente Eléctrica
+  pt: Serpente Elétrica
   ja: エレクトリック・スネーク
   ja_romaji: Erekutorikku Sunēku
   ko: 엘렉트릭 스네이크
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta viene mandata direttamente dalla tua mano al Cimitero a causa dell'effetto di una carta del tuo avversario, pesca 2 carte dal tuo Deck.
   pt: |-
-    Quando esta carta é descartada da sua mão ao Cemitério por um efeito de carta controlada pelo seu oponente, compre 2 cartas.
+    Quando este card for descartado da sua mão para o Cemitério pelo efeito de um card controlado por seu oponente, compre 2 cards do seu Deck.
   ja: |-
     このカードが相手のカードの効果によって手札から墓地へ捨てられた時、自分のデッキからカードを２枚ドローする。
   ko: |-
@@ -41,7 +41,7 @@ atk: 800
 def: 900
 images:
 - index: 1
-  image: ElectricSnake-DB1-EN-C-UE.jpg
+  image: ElectricSnake-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN007
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: SRL-EN008
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN008
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-008
@@ -73,14 +77,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE008
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F008
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR008
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I008
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT008
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT008
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

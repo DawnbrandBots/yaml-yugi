@@ -25,7 +25,7 @@ text:
   it: |-
     Mostro alato che attacca usando il suo poderoso becco.
   pt: |-
-    Este monstro ataca inimigos usando seu enorme bico.
+    Este monstro ataca seus inimigos com seu enorme bico.
   ja: |-
     大きなくちばしで相手をつついて攻撃する。守備力が高い。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     用巨大的嘴啄击敌人作为攻击手段。守备力很高。
 card_type: Monster
-monster_type_line: Winged Beast
+monster_type_line: Winged Beast / Normal
 attribute: WIND
 level: 5
 atk: 1200
 def: 2000
 images:
 - index: 1
-  image: QueenBird-SRL-EN-C-UE.png
+  image: QueenBird-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN009
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN009
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-009
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE009
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F009
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR009
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I009
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT009
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT009
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

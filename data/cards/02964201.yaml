@@ -25,7 +25,7 @@ text:
   it: |-
     Un piccolo drago malvagio che, celandosi in un guscio d'uovo, sembra del tutto innocuo, ma che in realtà si rivela essere un nemico temibilissimo.
   pt: |-
-    Um pequeno dragão violento abrigado num ovo que parece enganosamente inofensivo.
+    Um pequeno e maligno dragão abrigado num ovo aparentemente inofensivo.
   ja: |-
     卵のカラをかぶっているドラゴン。子供と間違えると痛い目にあうぞ！
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     被蛋壳包围的龙。如果认为只是个小鬼的话会吃苦头的哦。
 card_type: Monster
-monster_type_line: Dragon
+monster_type_line: Dragon / Normal
 attribute: FIRE
 level: 7
 atk: 2200
 def: 2600
 images:
 - index: 1
-  image: RyuRan-SRL-NA-C-UE.png
+  image: RyuRan-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN070
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN070
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-070
@@ -73,6 +77,10 @@ sets:
     set_name: 'Starter Deck: Pegasus'
     rarities:
     - Common
+  - set_number: SRL-DE070
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F070
     set_name: Spell Ruler
@@ -80,6 +88,10 @@ sets:
     - Common
   - set_number: DDP-F003
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SRL-FR070
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -91,9 +103,17 @@ sets:
     set_name: 'Starter Deck: Pegasus'
     rarities:
     - Common
+  - set_number: SRL-IT070
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DIP-P003
     set_name: 'Starter Deck: Pegasus'
+    rarities:
+    - Common
+  - set_number: SRL-PT070
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

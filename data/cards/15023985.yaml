@@ -6,7 +6,7 @@ name:
   es: Ogro de Piedra Grotto
   fr: Ogre de Granit Grotto
   it: Orco di Pietra
-  pt: Ogro de Pedra da Gruta
+  pt: Ogre de Pedra da Gruta
   ja: ストーンジャイアント
   ja_romaji: Sutōn Jaianto
   ko: 스톤 자이언트
@@ -25,7 +25,7 @@ text:
   it: |-
     Enorme creatura formata da macigni giganteschi.
   pt: |-
-    Uma criatura formada por pedras gigantes
+    Um gigante formado por rochas monstruosas.
   ja: |-
     巨大な岩が積み重なってできている、岩石の巨人。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     能将巨大的岩石堆积起来的岩石巨人。
 card_type: Monster
-monster_type_line: Rock
+monster_type_line: Rock / Normal
 attribute: EARTH
 level: 5
 atk: 1600
 def: 1500
 images:
 - index: 1
-  image: StoneOgreGrotto-SRL-NA-C-UE.png
+  image: StoneOgreGrotto-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN058
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN058
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-058
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE058
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F058
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR058
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I058
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT058
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT058
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -15,17 +15,17 @@ name:
   zh-CN: 邪恶的仪式
 text:
   en: |-
-    Change the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can only activate this card during your Standby Phase.
+    Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.
   de: |-
     Ändere die Kampfpositionen aller Monster in Angriffsposition auf dem Spielfeld in die Verteidigungsposition und umgekehrt. Diese Positionen können in dem Spielzug, in dem diese Karte aktiviert wird, nicht erneut geändert werden, außer durch den Effekt einer Zauber-, Fallen- oder Effektmonsterkarte. Du kannst diese Karte nur während deiner Standby Phase aktivieren.
   es: |-
-    Cambia las posiciones de batalla de todos los monstruos en el Campo. Estas posiciones no pueden ser cambiadas durante este turno. Solo puedes activar esta carta durante tu Standby Phase.
+    Cambia las posiciones de batalla de todos los monstruos en Posición de Ataque en el Campo a Posición de Defensa y viceversa. Estas posiciones no pueden ser cambiadas durante el turno en que esta carta es activada excepto por el efecto de una Carta Mágica, de Trampa o de Monstruo de Efecto. Sólo puedes activar esta carta durante tu Standby Phase.
   fr: |-
     Inversez les positions de combat de tous les monstres sur le Terrain. Ces positions ne peuvent être changées durant le tour où cette carte est Activée, sauf par l'effet d'une Carte Magie, Piège ou Monstre à Effet. Vous ne pouvez Activer cette carte que durant votre Standby Phase.
   it: |-
     Inverti le Posizioni di Battaglia di tutti i Mostri sul Terreno. Queste posizioni non possono essere cambiate durante il turno in cui questa carta viene attivata se non per effetto di una Carta Magia, Carta Trappola o Effetto Mostro. Puoi attivare questa carta solo durante la tua Standby Phase.
   pt: |-
-    Mude a posição de batalha de todos os monstros na Posição de Ataque no campo para Posição de Defesa e vice-versa. Essas posições não podem ser mudadas durante o turno que esta carta é ativada, exceto pelo efeito de uma Mágica, Armadilha ou um Monstro Efeito. Você só pode ativar esta carta durante sua Fase de Espera.
+    Mude as posições de batalha de todos os monstros em Posição de Ataque no campo para Posição de Defesa e vice-versa. Essas posições não podem ser mudadas durante o turno em que este card for ativado, exceto pelo efeito de um Card de Magia, Armadilha ou Monstro de Efeito. Você só pode ativar este card durante sua Fase de Apoio.
   ja: |-
     フィールド上の全てのモンスターの表示形式を入れ替える。発動ターン、モンスターの表示形式は変更できない。このカードはスタンバイフェイズにしか発動できない。
   ko: |-
@@ -37,13 +37,17 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: CurseofFiend-SRL-EN-SP-UE.jpg
+  image: CurseofFiend-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN032
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-EN032
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-032
     set_name: Magic Ruler
     rarities:
@@ -61,16 +65,33 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-DE032
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F032
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-FR032
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I032
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-IT032
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT032
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: MR-32
     set_name: Magic Ruler (Japanese)

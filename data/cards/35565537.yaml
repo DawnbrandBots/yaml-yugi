@@ -6,7 +6,7 @@ name:
   es: Bruja Oscura
   fr: Dark Witch
   it: Strega Oscura
-  pt: Feiticeira das Sombras
+  pt: Bruxa das Trevas
   ja: ヴァルキリー
   ja_romaji: Varukirī
   ko: 발키리
@@ -19,13 +19,13 @@ text:
   de: |-
     Eine populäre Kreatur in der Mythologie, die mit einem scharfen Speer tödliche Angriffe unternimmt.
   es: |-
-    Una criatura popular en la mitología que descarga ataques fatales con una lanza afilada.
+    Una criatura popular en la mitología que realiza ataques fatales con una lanza afilada.
   fr: |-
     Cette créature de la mythologie des abysses transperce le corps de ses ennemis avec sa lance acérée.
   it: |-
     Una popolare creatura mitologica che scaglia attacchi mortali con la sua lancia acuminata.
   pt: |-
-    Uma criatura popular da mitologia que profere ataques fatais com uma lança afiada.
+    Uma criatura popular da mitologia que realiza ataques letais com uma lança afiada.
   ja: |-
     神話に出てくる闘いの天使。手にする槍で天罰を下す。
   ko: |-
@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     在神话里出现的战斗天使，用手中的枪处以天罚。
 card_type: Monster
-monster_type_line: Fairy
+monster_type_line: Fairy / Normal
 attribute: LIGHT
 level: 5
 atk: 1800
@@ -44,12 +44,16 @@ images:
   image: DarkWitch-MR-JP-C.jpg
   illustration: DarkWitch-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: DarkWitch-SRL-EN-C-UE.png
+  image: DarkWitch-SRL-EN-C-UE-25thAnniversaryEdition.png
   illustration: DarkWitch-TF04-EN-VG-artwork.png
 sets:
   en:
   - set_number: SRL-EN019
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN019
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-019
@@ -69,14 +73,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE019
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F019
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR019
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I019
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT019
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT019
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

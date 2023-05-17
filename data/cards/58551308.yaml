@@ -6,7 +6,7 @@ name:
   es: Cretino de la Lanza
   fr: Familier des Ténèbres
   it: Lancia Demente
-  pt:
+  pt: Idiota da Lança
   ja: ダークファミリア
   ja_romaji: Dāku Famiria
   ko: 다크 패밀리어
@@ -24,7 +24,8 @@ text:
     FLIP : Lorsque cette carte est envoyée au Cimetière après avoir été retournée, chaque joueur Invoque Spécialement 1 monstre de son Cimetière soit en Position d'Attaque face recto soit en Position de Défense face verso.
   it: |-
     SCOPRI: Quando questa carta è mandata al Cimitero dopo essere stata scoperta, ogni giocatore Evoca tramite Evocazione Speciale 1 mostro dal proprio Cimitero scoperto in Posizione di Attacco o coperto in Posizione di Difesa.
-  pt:
+  pt: |-
+    VIRE: Quando este card for enviado para o Cemitério depois de ser virado, cada duelista seleciona 1 monstro do seu Cemitério e o Invoca por Invocação-Especial com a face para cima em Posição de Ataque ou com a face para baixo em Posição de Defesa.
   ja: |-
     リバース：このカードが墓地へ送られた時、お互いのプレイヤーはそれぞれの墓地に存在するモンスター１体を選択し、表側攻撃表示または裏側守備表示で特殊召喚する。
   ko: |-
@@ -33,7 +34,7 @@ text:
   zh-CN: |-
     反转：这张卡被送去墓地时，双方玩家选择各自墓地存在的1只怪兽，表侧攻击表示或者里侧守备表示特殊召唤。
 card_type: Monster
-monster_type_line: Fiend / Effect
+monster_type_line: Fiend / Flip / Effect
 attribute: DARK
 level: 2
 atk: 500
@@ -43,7 +44,7 @@ images:
   image: SpearCretin-DT09-JP-DNPR-DT.jpg
   illustration: SpearCretin-TF04-JP-VG.jpg
 - index: '1.1'
-  image: SpearCretin-DT05-EN-DNPR-DT.jpg
+  image: SpearCretin-SRL-EN-C-UE-25thAnniversaryEdition.png
   illustration: SpearCretin-TF04-EN-VG.jpg
 sets:
   en:
@@ -53,6 +54,10 @@ sets:
     - Common
   - set_number: SDRL-EN005
     set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SRL-EN087
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-087
@@ -80,6 +85,10 @@ sets:
     set_name: Rise of the Dragon Lords Structure Deck
     rarities:
     - Common
+  - set_number: SRL-DE087
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F087
     set_name: Spell Ruler
@@ -89,6 +98,10 @@ sets:
     set_name: Rise of the Dragon Lords Structure Deck
     rarities:
     - Common
+  - set_number: SRL-FR087
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I087
     set_name: Spell Ruler
@@ -96,6 +109,15 @@ sets:
     - Common
   - set_number: SDRL-IT005
     set_name: Rise of the Dragon Lords Structure Deck
+    rarities:
+    - Common
+  - set_number: SRL-IT087
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT087
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

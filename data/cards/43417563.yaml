@@ -6,7 +6,7 @@ name:
   es: Danza de Inicio
   fr: Danse Inaugurale
   it: Inizio delle Danze
-  pt:
+  pt: Dança do Começo
   ja: <ruby>踊<rt>おど</rt></ruby>りによる<ruby>誘<rt>ゆう</rt></ruby><ruby>発<rt>はつ</rt></ruby>
   ja_romaji: Odori ni yoru Yūhatsu
   ko: 댄스의 유혹
@@ -24,7 +24,8 @@ text:
     Cette carte est utilisée pour Invoquer Rituellement "Performance de l'Épée". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est égal à min. 6.
   it: |-
     Questa carta viene utilizzata per Evocare tramite Rituale "Prestazione della Spada". Devi anche offrire come Tributo dalla tua mano o Terreno mostri con Livello totale 6 o superiore.
-  pt:
+  pt: |-
+    Este card é usado para a Invocação-Ritual de "Performance da Espada". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual a 6 ou mais.
   ja: |-
     「ダンシング・ソルジャー」の降臨に必要。フィールドか手札から、レベルが６以上になるようカードを生け贄に捧げなければ、「ダンシング・ソルジャー」は降臨できない。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Ritual
 images:
 - index: 1
-  image: CommencementDance-SBCB-EN-C-1E.png
+  image: CommencementDance-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN062
@@ -45,6 +46,10 @@ sets:
     - Common
   - set_number: SBCB-EN186
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: SRL-EN062
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-062
@@ -68,6 +73,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: SRL-DE062
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F062
     set_name: Spell Ruler
@@ -77,6 +86,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: SRL-FR062
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I062
     set_name: Spell Ruler
@@ -84,6 +97,15 @@ sets:
     - Common
   - set_number: SBCB-IT186
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: SRL-IT062
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT062
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

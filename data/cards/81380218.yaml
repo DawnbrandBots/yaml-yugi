@@ -6,7 +6,7 @@ name:
   es: Coro del Santuario
   fr: Chœur du Sanctuaire
   it: Coro del Santuario
-  pt:
+  pt: Coro do Santuário
   ja: <ruby>聖<rt>せい</rt></ruby><ruby>域<rt>いき</rt></ruby>の<ruby>歌<rt>うた</rt></ruby><ruby>声<rt>ごえ</rt></ruby>
   ja_romaji: Seiiki no Utagoe
   ko: 성역의 노랫소리
@@ -24,7 +24,8 @@ text:
     Augmente la DEF de tous les monstres en Position de Défense de 500 points.
   it: |-
     Aumenta il DEF di tutti i Mostri in Posizione di Difesa di 500 punti.
-  pt:
+  pt: |-
+    Aumente em 500 a DEF de todos os monstros em Posição de Defesa.
   ja: |-
     フィールド上に表側守備表示で存在する全てのモンスターの守備力は５００ポイントアップする。
   ko: |-
@@ -39,7 +40,7 @@ images:
   image: ChorusofSanctuary-BE01-JP-C.png
   illustration: ChorusofSanctuary-TF04-JP-VG.jpg
 - index: '1.1'
-  image: ChorusofSanctuary-SRL-EN-C-UE.jpg
+  image: ChorusofSanctuary-SRL-EN-C-UE-25thAnniversaryEdition.png
   illustration: ChorusofSanctuary-TF04-EN-VG.jpg
 sets:
   en:
@@ -49,6 +50,10 @@ sets:
     - Common
   - set_number: SRL-EN037
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN037
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-037
@@ -72,14 +77,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE037
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F037
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR037
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I037
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT037
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT037
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

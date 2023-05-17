@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta è scoperta sul Terreno e il suo controllo passa al tuo avversario, infliggi 2000 punti di Danno Diretto ai Life Points del tuo avversario. Quest'effetto può essere usato una sola volta fino a quando questa carta resta scoperta sul Terreno.
   pt: |-
-    Quando o controle desta carta virada para cima no campo é passado para outro jogador, inflija 2000 de dano ao seu novo controlador. Esse efeito somente pode ser utilizado uma vez enquanto esta carta permanecer virada para cima no campo.
+    Quando o controle deste card com a face para cima no campo mudar para o seu oponente, cause 2000 de dano ao seu oponente. Este efeito só pode ser usado uma vez enquanto este card permanecer no campo com a face para cima.
   ja: |-
     フィールド上に表側表示で存在するこのカードのコントロールが相手に移った時、相手は２０００ポイントダメージを受ける。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。
   ko: |-
@@ -41,7 +41,7 @@ atk: 300
 def: 350
 images:
 - index: 1
-  image: Ameba-DB1-EN-C-UE.jpg
+  image: Ameba-SRL-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN008
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: SRL-EN010
     set_name: Spell Ruler
+    rarities:
+    - Rare
+  - set_number: SRL-EN010
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Rare
   - set_number: MRL-010
@@ -73,16 +77,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE010
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: MDM-F010
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR010
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: SDM-I010
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-IT010
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
+  pt:
+  - set_number: SRL-PT010
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: MR-10
     set_name: Magic Ruler (Japanese)

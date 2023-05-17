@@ -6,7 +6,7 @@ name:
   es: Chispa Reluciente
   fr: Éclat Lumineux
   it: Scintilla Luminosa
-  pt: Faísca Luminosa
+  pt: Faísca Reluzente
   ja: シャインスパーク
   ja_romaji: Shainsupāku
   ko: 샤인 스파크
@@ -15,7 +15,7 @@ name:
   zh-CN: 光芒冲击
 text:
   en: |-
-    All LIGHT monsters gain 500 ATK and lose 400 DEF.
+    Increase the ATK of all LIGHT monsters by 500 points and decrease their DEF by 400 points.
   de: |-
     Alle LICHT Monster erhalten 500 ATK und verlieren 400 DEF.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Tutti i Mostri LUCE guadagnano 500 ATK e perdono 400 DEF.
   pt: |-
-    Todos os monstros de LUZ ganham 500 de ATK e perdem 400 de DEF.
+    Aumente em 500 o ATK de todos os monstros de LUZ e diminua em 400 suas DEF.
   ja: |-
     フィールド上に表側表示で存在する光属性モンスターの攻撃力は５００ポイントアップし、守備力は４００ポイントダウンする。
   ko: |-
@@ -40,7 +40,7 @@ series:
 - Attribute Booster
 images:
 - index: 1
-  image: LuminousSpark-DLG1-NA-C-UE.png
+  image: LuminousSpark-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN063
@@ -51,6 +51,10 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-EN100
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-100
     set_name: Magic Ruler
     rarities:
@@ -84,6 +88,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-DE100
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F100
     set_name: Spell Ruler
@@ -93,6 +101,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-FR100
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I100
     set_name: Spell Ruler
@@ -100,6 +112,15 @@ sets:
     - Short Print
   - set_number: RP01-IT081
     set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: SRL-IT100
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT100
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -25,7 +25,7 @@ text:
   it: |-
     Questa strana creatura dalla testa di pesce e dai tentacoli di piovra attacca i nemici scagliando lance contro di loro.
   pt: |-
-    Com a cabeça de um peixe e as pernas de um polvo, essa estranha criatura ataca os inimigos atirando lanças.
+    Essa estranha criatura, com cabeça de peixe e pernas de polvo, ataca seus inimigos arremessando lanças.
   ja: |-
     サカナの頭、タコの足。とっても不思議な生き物。ヤリで攻撃する。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     鱼的头，章鱼的脚，非常不可思议的生物，用枪发动攻击。
 card_type: Monster
-monster_type_line: Aqua
+monster_type_line: Aqua / Normal
 attribute: WATER
 level: 5
 atk: 1600
 def: 1400
 images:
 - index: 1
-  image: Octoberser-SRL-NA-C-UE.png
+  image: Octoberser-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN052
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN052
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-052
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE052
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F052
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR052
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I052
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT052
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT052
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

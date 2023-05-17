@@ -6,7 +6,7 @@ name:
   es: Eatgaboon
   fr: Mangegaboon
   it: Mangia-Gaboon
-  pt: Eatgaboon
+  pt: Comergaboon
   ja: ねずみ<ruby>取<rt>と</rt></ruby>り
   ja_romaji: Nezumi Tori
   ko: 쥐덫
@@ -19,13 +19,13 @@ text:
   de: |-
     Wenn ein Monster, das dein Gegner beschwört (mit Ausnahme von Spezialbeschwörung) eine ATK von 500 oder weniger hat, ist es zerstört.
   es: |-
-    Cuando tu adversario hace una Invocación Normal o una Invocación de Volteo de un monstruo, si el ATK del monstruo es 500 puntos o menos, destruye el monstruo.
+    Si el ATK de un monstruo Invocado por tu adversario (excluyendo una Invocación Especial) es 500 puntos o menos, el monstruo es destruido.
   fr: |-
     Lorsque votre adversaire fait une Invocation Normale ou une Invocation Flip d'un monstre avec une ATK de 500 points ou moins, ce monstre est détruit.
   it: |-
     Quando il tuo avversario evoca un mostro (eccetto le Evocazioni Speciali), se l'ATK di quel Mostro Evocato è di 500 o inferiore, il mostro viene distrutto.
   pt: |-
-    Se o ATK de um monstro chamado por seu oponente (excluindo Invocação Especial) é de 500 pontos ou menos, o monstro é destruído.
+    Se o ATK de um monstro Invocado pelo seu oponente (exceto Invocação-Especial) for de 500 ou menos, o monstro é destruído.
   ja: |-
     相手が召喚・反転召喚したモンスターの攻撃力が５００以下だった場合、そのモンスター１体を破壊する事ができる。
   ko: |-
@@ -37,11 +37,15 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: Eatgaboon-SRL-NA-C-UE.png
+  image: Eatgaboon-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN065
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN065
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-065
@@ -61,14 +65,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE065
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F065
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR065
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I065
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT065
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT065
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

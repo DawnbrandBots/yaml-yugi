@@ -19,13 +19,13 @@ text:
   de: |-
     Dieses Monster kann nur als Ritualbeschwörung beschworen werden, indem du die Ritualzauberkarte "Schildkrötenschwur" aktivierst. Biete zusätzlich 1 oder mehrere Monster von deiner Hand oder deiner Seite des Spielfelds als Tribut an, die zusammen 8 oder mehr Stufen haben.
   es: |-
-    Este monstruo solo puede ser invocado mediante una Invocación de Ritual con la Carta Mágica de Ritual "Juramento de Tortuga". También debes ofrecer monstruos cuyo Nivel total sea 8 o más de tu Campo o tu mano como Sacrificio.
+    Este monstruo solo puede ser Invocado por Ritual con la Carta Mágica de Ritual "Juramento de Tortuga". También debes ofrecer como Sacrificio monstruos en el Campo o tu mano cuyos Niveles totales sean 8 o más.
   fr: |-
     Ce monstre ne peut être Invoqué que par Invocation Rituelle avec la Carte Magie Rituelle, "Serment de la Tortue". Vous devez également sacrifier des monstres dont le total des Niveaux est égal à 8 ou plus du Terrain ou de votre main.
   it: |-
     Questo mostro può essere Evocato solo tramite Evocazione Rituale utilizzando la Carta Magia Rituale "Giuramento della Tartaruga". Devi anche offrire come Tributo, dal Terreno o dalla tua mano, mostri il cui Livello totale sia 8 o superiore.
   pt: |-
-    Este monstro só pode ser invocado por ritual com a carta mágica de ritual, "Turtle Oath". Você também deve oferecer monstros cujo total Level em estrelas igual ou superior a 8 como um tributo a partir do campo ou a sua mão.
+    Este monstro só pode ser Invocado por Invocação-Ritual com o Card de Magia de Ritual "Juramento da Tartaruga". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual a 8 ou mais.
   ja: |-
     「亀の誓い」により降臨。フィールドか手札から、レベルが８以上になるようカードを生け贄に捧げなければならない。
   ko: |-
@@ -42,11 +42,15 @@ def: 2500
 ritual_spell: Turtle Oath
 images:
 - index: 1
-  image: CrabTurtle-SRL-NA-C-UE.png
+  image: CrabTurtle-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN069
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN069
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-069
@@ -66,14 +70,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE069
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F069
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR069
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I069
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT069
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT069
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

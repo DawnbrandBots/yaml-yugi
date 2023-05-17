@@ -6,7 +6,7 @@ name:
   es: Cuerno de Luz
   fr: Corne de Lumière
   it: Corno di Luce
-  pt: Chifre de Luz
+  pt: Chifre da Luz
   ja: <ruby>光<rt>ひかり</rt></ruby>の<ruby>角<rt>つの</rt></ruby>
   ja_romaji: Hikari no Tsuno
   ko: 빛의 뿔
@@ -25,7 +25,7 @@ text:
   it: |-
     Una Carta Mostro equipaggiata con questa carta aumenta il proprio DEF di 800 punti. Quando questa carta viene mandata dal Terreno al Cimitero, puoi pagare 500 Life Points per rimetterla in cima al tuo Deck.
   pt: |-
-    O monstro equipado ganha 800 de DEF. Quando esta carta é enviada do campo ao Cemitério, você pode pagar 500 LPs para retornar esta carta para o topo do seu Deck.
+    Aumente a DEF de um monstro equipado com este card em 800. Quando este card for enviado do campo para o Cemitério, se você pagar 500 PV, este card volta para o topo do seu Deck.
   ja: |-
     装備したモンスターの守備力は８００ポイントアップする。このカードがフィールドから墓地に送られた時、５００ライフポイント払えばデッキの一番上に戻る。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: HornofLight-DB1-EN-C-UE.jpg
+  image: HornofLight-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN004
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: SRL-EN004
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN004
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-004
@@ -69,14 +73,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE004
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F004
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR004
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I004
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT004
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT004
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

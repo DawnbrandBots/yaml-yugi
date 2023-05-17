@@ -6,7 +6,7 @@ name:
   es: Servidor del Cuidador de Tumbas
   fr: Serviteur des Protecteurs du Tombeau
   it: Servo del Custode di Tombe
-  pt: Servo do Guardião da Tumba
+  pt: Servo do Coveiro
   ja: <ruby>墓<rt>はか</rt></ruby><ruby>守<rt>もり</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>
   ja_romaji: Hakamori no Tsukaima
   ko: 묘지기의 마법
@@ -15,7 +15,7 @@ name:
   zh-CN: 守墓的使魔
 text:
   en: |-
-    Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.
+    Unless your opponent sends 1 card from the top of his/her Deck to the Graveyard, he/she cannot declare an attack.
   de: |-
     Dein Gegner muss die oberste Karte von seinem Deck auf den Friedhof legen, um mit einem Monster angreifen zu können.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Il tuo avversario deve mandare 1 carta dalla cima del suo Deck al Cimitero per dichiarare un attacco.
   pt: |-
-    O seu oponente tem de enviar 1 carta do topo do seu Deck para o Cemitério se quiser declarar um ataque.
+    A não ser que seu oponente envie 1 card do topo do Deck dele para o Cemitério, ele não pode declarar um ataque.
   ja: |-
     相手はデッキの一番上のカード１枚を墓地へ送らなければ、攻撃宣言をする事ができない。
   ko: |-
@@ -42,7 +42,7 @@ images:
   image: GravekeepersServant-DB1-EN-C-UE.jpg
   illustration: GravekeepersServant-TF04-JP-VG.jpg
 - index: '1.1'
-  image: GravekeepersServant-DLG1-NA-C-UE.png
+  image: GravekeepersServant-SRL-EN-C-UE-25thAnniversaryEdition.png
   illustration: GravekeepersServant-TF04-EN-VG.png
 sets:
   en:
@@ -54,6 +54,10 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-EN031
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-031
     set_name: Magic Ruler
     rarities:
@@ -87,6 +91,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-DE031
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F031
     set_name: Spell Ruler
@@ -96,6 +104,10 @@ sets:
     set_name: Retro Pack
     rarities:
     - Common
+  - set_number: SRL-FR031
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I031
     set_name: Spell Ruler
@@ -103,6 +115,15 @@ sets:
     - Short Print
   - set_number: RP01-IT055
     set_name: Retro Pack
+    rarities:
+    - Common
+  - set_number: SRL-IT031
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT031
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

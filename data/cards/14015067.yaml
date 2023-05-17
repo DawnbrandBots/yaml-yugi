@@ -25,7 +25,7 @@ text:
   it: |-
     Questa creatura che vive tra i boschi ha la forma di una capra bianca ma è in realtà uno degli Antichi della Foresta.
   pt: |-
-    Esta criatura adota a forma de um bode branco vivendo na floresta, mas é na verdade um Ancião da Floresta.
+    Esta criatura adota a forma de uma cabra branca que vive na floresta mas, na realidade, é um Ancião da Floresta.
   ja: |-
     昔から森に住んでいる白ヤギ。真の姿は森の長老。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     很久以前住在森林里的白羊，真身是森林长老。
 card_type: Monster
-monster_type_line: Beast
+monster_type_line: Beast / Normal
 attribute: EARTH
 level: 6
 atk: 1800
 def: 1900
 images:
 - index: 1
-  image: AncientOneoftheDeepForest-SRL-EN-C-UE.png
+  image: AncientOneoftheDeepForest-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN018
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN018
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-018
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE018
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F018
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR018
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I018
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT018
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT018
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

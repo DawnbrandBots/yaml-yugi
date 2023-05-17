@@ -6,7 +6,7 @@ name:
   es: Kotodama
   fr: Kotodama
   it: Kotodama
-  pt:
+  pt: Kotodama
   ja: コトダマ
   ja_romaji: Kotodama
   ko: 영력
@@ -15,7 +15,7 @@ name:
   zh-CN: 言灵
 text:
   en: |-
-    If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped face-up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)
+    If there are face-up monsters with the same name on the field, destroy those monsters. (If a monster is Summoned or flipped-face up that has the same name as a monster that is already face-up on the field, the new face-up monster is destroyed. If they are Summoned or flipped face-up at the same time, they are all destroyed.)
   de: |-
     Solange diese Karte offen auf dem Spielfeld liegt, können Monster desselben Namens nicht gleichzeitig offen auf dem Spielfeld vorhanden sein (verdeckte Karten nicht inbegriffen). Wenn in einem späteren Spielzug ein Monster gleichen Namens beschworen wird, wird die später beschworene Karte zerstört. Wenn gleichzeitig zwei dieser Karten ausgespielt werden, werden beide Karten zerstört.
   es: |-
@@ -25,7 +25,7 @@ text:
   it: |-
     Mostri con lo stesso nome non possono esistere scoperti sul Terreno. Se viene Evocato o scoperto un mostro con lo stesso nome di un mostro scoperto sul Terreno, il nuovo mostro scoperto viene distrutto. (Se più mostri vengono Evocati o scoperti allo stesso tempo, vengono tutti distrutti.)
   pt: |-
-    Somente pode existir 1 monstro com um mesmo nome virado para cima no campo. Se um ou mais monstros com o mesmo nome que um monstro virado para cima no campo são Normal, Flip ou Special Summoned, destrua-os.
+    Se houver monstros com a face para cima com o mesmo nome no campo, destrua esses monstros. (Se um monstro com o mesmo nome que outro monstro que já estiver com a face para cima no campo for Invocado ou virado com a face para cima, o novo monstro com a face para cima é destruído. Se eles forem Invocados ou virados com a face para cima ao mesmo tempo, todos são destruídos).
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、同名モンスターはフィールド上に表側表示で存在する事ができず破壊される。後から召喚・特殊召喚・リバースした同名モンスターは破壊される（同時の場合、全ての同名モンスターを破壊する）。
   ko: |-
@@ -41,7 +41,7 @@ atk: 0
 def: 1600
 images:
 - index: 1
-  image: Kotodama-TU07-EN-C-UE.png
+  image: Kotodama-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN058
@@ -54,6 +54,10 @@ sets:
     - Common
   - set_number: TU07-EN014
     set_name: 'Turbo Pack: Booster Seven'
+    rarities:
+    - Common
+  - set_number: SRL-EN095
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-095
@@ -81,6 +85,10 @@ sets:
     set_name: 'Turbo Pack: Booster Seven'
     rarities:
     - Common
+  - set_number: SRL-DE095
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F095
     set_name: Spell Ruler
@@ -90,6 +98,10 @@ sets:
     set_name: 'Turbo Pack: Booster Seven'
     rarities:
     - Common
+  - set_number: SRL-FR095
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I095
     set_name: Spell Ruler
@@ -97,6 +109,15 @@ sets:
     - Common
   - set_number: TU07-IT014
     set_name: 'Turbo Pack: Booster Seven'
+    rarities:
+    - Common
+  - set_number: SRL-IT095
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT095
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

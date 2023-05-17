@@ -25,7 +25,7 @@ text:
   it: |-
     Fino a quando questa carta rimane scoperta sul Terreno, sia tu che il tuo avversario dovete pagare 500 Life Points per ciascuna carta che volete giocare o posizionare dalle vostre rispettive mani.
   pt: |-
-    Cada jogador deve pagar 500 LPs por carta para Normal Summon, Special Summon ou Set um monstro, ou ativar cartas das suas respectivas mãos.
+    Cada duelista deve pagar 500 PV por card para Invocar por Invocação-Normal, Invocação-Especial, Baixar ou ativar cards de sua respectiva mão.
   ja: |-
     お互いのプレイヤーは５００ライフポイントを払わなければ、手札からカードを召喚・特殊召喚・発動・セットする事ができない。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: ChainEnergy-DB1-EN-C-UE.jpg
+  image: ChainEnergy-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN030
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: SRL-EN046
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN046
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-046
@@ -69,14 +73,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE046
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F046
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR046
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I046
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT046
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT046
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

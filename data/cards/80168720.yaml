@@ -6,7 +6,7 @@ name:
   es: La Oscuridad se Acerca
   fr: Approche des Ténèbres
   it: L'Oscurità si Avvicina
-  pt:
+  pt: A Escuridão se Aproxima
   ja: <ruby>闇<rt>やみ</rt></ruby>の<ruby>訪<rt>おとず</rt></ruby>れ
   ja_romaji: Yami no Otozure
   ko: 어둠의 엄습
@@ -19,12 +19,13 @@ text:
   de: |-
     Wirf 2 Karten aus der Hand ab. Wähle 1 offenes Monster und verdecke es, aber ändere nicht die Kampfposition.
   es: |-
-    Descarta 2 cartas de tu mano. Selecciona 1 monstruo boca arriba y voltéalo boca abajo en la misma posición de batalla.
+    Descarta 2 cartas en tu mano. Selecciona 1 monstruo boca arriba y cámbialo a Posición de Defensa boca abajo.
   fr: |-
     Défaussez 2 cartes de votre main. Sélectionnez 1 monstre face recto et retournez-le face verso sans changer sa position de combat.
   it: |-
     Scarta 2 carte dalla tua mano. Scegli 1 mostro scoperto e giralo in posizione coperta ma senza cambiare la sua posizione di battaglia.
-  pt:
+  pt: |-
+    Descarte 2 cards da sua mão. Selecione 1 monstro com face para cima e coloque-o com a face para baixo em Posição de Defesa.
   ja: |-
     手札を２枚捨てる。表側表示のモンスター１体を選択し、表示形式はそのままで裏側表示にする。
   ko: |-
@@ -36,13 +37,17 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: DarknessApproaches-SRL-EN-SSP-UE.png
+  image: DarknessApproaches-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN040
     set_name: Spell Ruler
     rarities:
     - Super Short Print
+  - set_number: SRL-EN040
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-040
     set_name: Magic Ruler
     rarities:
@@ -60,16 +65,33 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Super Short Print
+  - set_number: SRL-DE040
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F040
     set_name: Spell Ruler
     rarities:
     - Super Short Print
+  - set_number: SRL-FR040
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I040
     set_name: Spell Ruler
     rarities:
     - Super Short Print
+  - set_number: SRL-IT040
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT040
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: MR-40
     set_name: Magic Ruler (Japanese)

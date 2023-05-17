@@ -6,7 +6,7 @@ name:
   es: Agresor Relampagueante
   fr: Attaquant Éclair
   it: Assalitore Lampo
-  pt: Assaltante Relâmpago
+  pt: Assaltante Veloz
   ja: <ruby>秒<rt>びょう</rt></ruby><ruby>殺<rt>さつ</rt></ruby>の<ruby>暗<rt>あん</rt></ruby><ruby>殺<rt>さつ</rt></ruby><ruby>者<rt>しゃ</rt></ruby>
   ja_romaji: Byōsatsu no Ansatsusha
   ko: 초스피드 암살자
@@ -25,7 +25,7 @@ text:
   it: |-
     Diminuisce ATK e DEF di questa carta di 400 punti per ogni carta nella mano del suo controllore.
   pt: |-
-    Esta carta perde 400 de ATK para cada carta na mão do seu controlador.
+    Diminua o ATK e a DEF deste card em 400 por cada card na sua mão.
   ja: |-
     このカードの攻撃力・守備力は、自分の手札の枚数×４００ポイントダウンする。
   ko: |-
@@ -41,7 +41,7 @@ atk: 2000
 def: 2000
 images:
 - index: 1
-  image: FlashAssailant-DB1-EN-C-UE.jpg
+  image: FlashAssailant-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN048
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: SRL-EN082
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN082
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-082
@@ -73,14 +77,31 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE082
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F082
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR082
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I082
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT082
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT082
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

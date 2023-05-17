@@ -6,7 +6,7 @@ name:
   es: Sastre de lo Voluble
   fr: Tailleur de l'Indécis
   it: Il Sarto Incostante
-  pt:
+  pt: Alfaiate Instável
   ja: <ruby>移<rt>うつ</rt></ruby>り<ruby>気<rt>ぎ</rt></ruby>な<ruby>仕<rt>し</rt></ruby><ruby>立<rt>たて</rt></ruby><ruby>屋<rt>や</rt></ruby>
   ja_romaji: Utsurigi na Shitateya
   ko: 변덕스런 재단사
@@ -24,7 +24,8 @@ text:
     Sélectionnez 1 Carte d'Équipement et transférez-la sur une nouvelle cible valide.
   it: |-
     Scegli 1 Carta Equipaggiamento e spostala su un altro bersaglio valido.
-  pt:
+  pt: |-
+    Troque 1 Card de Equipamento equipado a um monstro para outro alvo apropriado.
   ja: |-
     モンスターに装備された装備カード１枚を別の正しい対象に移し替える。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: TailoroftheFickle-SRL-EN-SP-UE.png
+  image: TailoroftheFickle-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN026
@@ -47,6 +48,10 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-EN042
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-042
     set_name: Magic Ruler
     rarities:
@@ -68,16 +73,33 @@ sets:
     set_name: Dark Beginning 1
     rarities:
     - Common
+  - set_number: SRL-DE042
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F042
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-FR042
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I042
     set_name: Spell Ruler
     rarities:
     - Short Print
+  - set_number: SRL-IT042
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT042
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: MR-42
     set_name: Magic Ruler (Japanese)

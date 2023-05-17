@@ -6,7 +6,7 @@ name:
   es: Campana Ceremonial
   fr: Cloche de Cérémonie
   it: Campana Cerimoniale
-  pt:
+  pt: Sino Cerimonial
   ja: セレモニーベル
   ja_romaji: Seremonī Beru
   ko: 세레모니 벨
@@ -24,7 +24,8 @@ text:
     Tant que cette carte reste face recto sur le Terrain, vous et votre adversaire devez révéler vos mains.
   it: |-
     Fino a quando questa carta rimane scoperta sul Terreno, sia tu che il tuo avversario dovete mostrarvi le vostre rispettive carte in mano.
-  pt:
+  pt: |-
+    Os dois duelistas devem manter suas mãos reveladas.
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、お互いのプレイヤーは手札を全て公開し続ける。
   ko: |-
@@ -40,7 +41,7 @@ atk: 0
 def: 1850
 images:
 - index: 1
-  image: CeremonialBell-AC18-EN-SR-1E.png
+  image: CeremonialBell-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN055
@@ -55,6 +56,10 @@ sets:
     set_name: Yu-Gi-Oh! Advent Calendar (2018)
     rarities:
     - Super Rare
+  - set_number: SRL-EN092
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: MRL-092
     set_name: Magic Ruler
     rarities:
@@ -80,14 +85,31 @@ sets:
     set_name: Yu-Gi-Oh! Advent Calendar (2018)
     rarities:
     - Super Rare
+  - set_number: SRL-DE092
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F092
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR092
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I092
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT092
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT092
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

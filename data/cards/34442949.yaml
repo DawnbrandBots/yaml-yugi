@@ -25,7 +25,7 @@ text:
   it: |-
     Una chiocciola-cyborg che, nonostante tutto, continua a spostarsi a bassa velocità.
   pt: |-
-    Um caracol cyborg que ainda viaja a um ritmo lento.
+    Um caracol ciborgue que também viaja lentamente.
   ja: |-
     機械に改造されたカタツムリ。しかし、スピードはあまり変わらない。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     机器改造的蜗牛，但是速度却没什么变化。
 card_type: Monster
-monster_type_line: Machine
+monster_type_line: Machine / Normal
 attribute: DARK
 level: 3
 atk: 800
 def: 1000
 images:
 - index: 1
-  image: MechanicalSnail-SRL-EN-C-UE.png
+  image: MechanicalSnail-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN021
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN021
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-021
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE021
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F021
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR021
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I021
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT021
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT021
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

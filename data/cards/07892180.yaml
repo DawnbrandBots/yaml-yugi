@@ -19,12 +19,13 @@ text:
   de: |-
     Ein amphibisches Wesen mit einer Vielzahl von Kräften, mit denen es sich vor den Angriffen seiner Feinde schätzen kann.
   es: |-
-    Un anfibio con una amplia miríada de poderes para escudarlo de los ataques enemigos.
+    Un anfibio con miríada de poderes para escudarlo de los ataques enemigos.
   fr: |-
     Un monstre amphibien doté de nombreux pouvoirs qui le protége des attaques ennemies.
   it: |-
     Anfibio dotato di molteplici poteri che lo proteggono dagli attacchi nemici
-  pt:
+  pt: |-
+    Um anfíbio com um gigantesco número de poderes que o protegem de ataques inimigos.
   ja: |-
     いろいろな超能力を使い、攻撃のダメージを防ぐカッパ。
   ko: |-
@@ -33,18 +34,22 @@ text:
   zh-CN: |-
     能使用多种超能力避开攻击的河童。
 card_type: Monster
-monster_type_line: Aqua
+monster_type_line: Aqua / Normal
 attribute: WATER
 level: 2
 atk: 400
 def: 1000
 images:
 - index: 1
-  image: PsychicKappa-SRL-NA-C-UE.png
+  image: PsychicKappa-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN053
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN053
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-053
@@ -64,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE053
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F053
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR053
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I053
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT053
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT053
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

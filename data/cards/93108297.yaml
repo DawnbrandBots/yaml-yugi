@@ -6,7 +6,7 @@ name:
   es: Bestia Líquida
   fr: Bête Liquéfiée
   it: Bestia Liquida
-  pt: Fera Líquida
+  pt: Besta Líquida
   ja: リクイド・ビースト
   ja_romaji: Rikuido Bīsuto
   ko: 액체 괴물
@@ -25,7 +25,7 @@ text:
   it: |-
     Forma di vita liquida che prospera nell'acqua.
   pt: |-
-    Uma forma de vida que prospera na água.
+    Uma forma de vida líquida que prospera na água.
   ja: |-
     ドロドロ溶けて、水の中を自在に移動できる液体生命体。
   ko: |-
@@ -34,18 +34,22 @@ text:
   zh-CN: |-
     粘粘糊糊的融化，能在水里自由移动的液态生命体。
 card_type: Monster
-monster_type_line: Aqua
+monster_type_line: Aqua / Normal
 attribute: WATER
 level: 3
 atk: 950
 def: 800
 images:
 - index: 1
-  image: LiquidBeast-SRL-EN-C-UE.png
+  image: LiquidBeast-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN023
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN023
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-023
@@ -65,14 +69,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE023
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F023
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR023
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I023
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT023
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT023
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

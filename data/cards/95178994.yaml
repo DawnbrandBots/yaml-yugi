@@ -6,7 +6,7 @@ name:
   es: Germen Gigante
   fr: Germe Géant
   it: Germe Gigante
-  pt:
+  pt: Germe Gigante
   ja: ジャイアントウィルス
   ja_romaji: Jaianto Wirusu
   ko: 자이언트 바이러스
@@ -19,12 +19,13 @@ text:
   de: |-
     Wenn diese Karte durch den Kampf zerstört und auf den Friedhof gelegt wird, verursache 500 Punkte Schaden an den gegnerischen Lebenspunkten. Du kannst dann bis zu 2 "Riesenkeime" von deinem Deck in aufgedeckter Angriffs-Position speziell beschwören.
   es: |-
-    Cuando esta carta es destruida por batalla y mandada al Cementerio: inflige 500 puntos de daño a tu adversario, y después, puedes Invocar de Modo Especial, desde tu Deck, cualquier número de "Germen Gigante" en Posisión de Ataque boca arriba.
+    Cuando esta carta es destruida en batalla y mandada al Cementerio: inflige 500 puntos de daño a tu adversario, y después, puedes Invocar de Modo Especial, desde tu Deck, cualquier cantidad de "Germen Gigante" en Posición de Ataque boca arriba.
   fr: |-
     Lorsque cette carte est détruite au combat et envoyée au Cimetière : infligez 500 points de dommages à votre adversaire, puis vous pouvez Invoquer Spécialement un nombre de votre choix de "Germe Géant" depuis votre Deck en Position d'Attaque face recto.
   it: |-
     Quando questa carta viene distrutta in battaglia e mandata al Cimitero: infliggi 500 danni al tuo avversario, poi puoi Evocare Specialmente un qualsiasi numero di "Germe Gigante" dal tuo Deck, scoperti in Posizione di Attacco.
-  pt:
+  pt: |-
+    Quando este card for destruído em batalha e enviado para o Cemitério: cause 500 de dano ao seu oponente e, depois, você pode Invocar por Invocação-Especial qualquer número de "Germe Gigante" do seu Deck com a face para cima em Posição de Ataque.
   ja: |-
     ①：このカードが戦闘で破壊され墓地へ送られた場合に発動する。相手に５００ダメージを与える。その後、デッキから「ジャイアントウィルス」を任意の数だけ攻撃表示で特殊召喚できる。
   ko: |-
@@ -41,7 +42,7 @@ atk: 1000
 def: 100
 images:
 - index: 1
-  image: GiantGerm-LCYW-EN-C-1E.png
+  image: GiantGerm-SRL-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN050
@@ -64,6 +65,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: SRL-EN085
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   - set_number: MRL-085
     set_name: Magic Ruler
     rarities:
@@ -109,6 +114,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: SRL-DE085
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: MDM-F085
     set_name: Spell Ruler
@@ -130,6 +139,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: SRL-FR085
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: SDM-I085
     set_name: Spell Ruler
@@ -151,6 +164,15 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: SRL-IT085
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
+  pt:
+  - set_number: SRL-PT085
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: PS-34
     set_name: Pharaoh's Servant (Japanese)

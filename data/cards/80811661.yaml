@@ -6,7 +6,7 @@ name:
   es: Receta de Hamburguesa
   fr: Recette de Hamburger
   it: Ricetta dell'Hamburger
-  pt: Receita de Hamburguer
+  pt: Receita do Hambúrguer
   ja: ハンバーガーのレシピ
   ja_romaji: Hanbāgā no Reshipi
   ko: 햄버거 요리법
@@ -19,13 +19,13 @@ text:
   de: |-
     Mit dieser Karte wird "Hungriger Hamburger" als Ritualbeschwörung beschworen. Biete zusätzlich 1 oder mehrere Monster von deiner Hand oder deiner Seite des Spielfelds als Tribut an, die zusammen 6 oder mehr Stufen haben.
   es: |-
-    Esta carta se usa en la Invocación de Ritual de "Hamburguesa Hambrienta". También debes ofrecer monstruos cuyo Nivel total sea 6 o más de tu Campo o tu mano como Sacrificio.
+    Esta carta es usada para Invocar por Ritual "Hamburguesa Hambrienta". También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean iguales a 6 o más.
   fr: |-
     Cette carte est utilisée pour invoquer « Burger affamé » par Invocation rituelle. Vous devez également offrir en sacrifice des monstres dont le totla des étoiles est supérieur ou égal à 6 sur le terrain ou dans votre jeu.
   it: |-
     Questa carta è utilizzata per l'Evocazione Rituale della carta "Hamburger Affamato". Devi anche offrire come Tributo, dal Terreno o dalla tua mano, Mostri il cui Livello totale sia 6 o superiore.
   pt: |-
-    Este carta é usada para invocar por ritual "Hungry Burger". Você também deve oferecer monstro cujo total Level em estrelas igual ou superior a 6 do campo ou a sua mão como um tributo.
+    Este card é usado para a Invocação-Ritual de "Hambúrguer Esfomeado". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual a 6 ou mais.
   ja: |-
     「ハングリーバーガー」の降臨に必要。①：自分の手札・フィールドから、レベルの合計が６以上になるようにモンスターをリリースし、手札から「ハングリーバーガー」を儀式召喚する。
   ko: |-
@@ -39,11 +39,15 @@ series:
 - Recipe
 images:
 - index: 1
-  image: HamburgerRecipe-SRL-NA-C-UE.png
+  image: HamburgerRecipe-SRL-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SRL-EN063
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-EN063
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: MRL-063
@@ -63,14 +67,31 @@ sets:
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-DE063
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: MDM-F063
     set_name: Spell Ruler
     rarities:
     - Common
+  - set_number: SRL-FR063
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: SDM-I063
     set_name: Spell Ruler
+    rarities:
+    - Common
+  - set_number: SRL-IT063
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: SRL-PT063
+    set_name: Spell Ruler (25th Anniversary Edition)
     rarities:
     - Common
   ja:

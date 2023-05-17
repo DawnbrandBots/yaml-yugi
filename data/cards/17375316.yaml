@@ -6,7 +6,7 @@ name:
   es: Confiscación
   fr: Confiscation
   it: Confisca
-  pt:
+  pt: Confiscar
   ja: <ruby>押<rt>おう</rt></ruby><ruby>収<rt>しゅう</rt></ruby>
   ja_romaji: Ōshū
   ko: 압수
@@ -24,7 +24,8 @@ text:
     Payez 1000 Life Points pour regarder la main de votre adversaire. Sélectionnez 1 carte et défaussez-la au Cimetière.
   it: |-
     Paga 1000 Life Points per guardare la mano del tuo avversario. Scegli 1 carta e scartala nel Cimitero.
-  pt:
+  pt: |-
+    Pague 1000 PV. Olhe a mão do seu oponente, selecione 1 card daí e descarte esse card.
   ja: |-
     １０００ライフポイントを払って発動する。相手の手札を確認し、その中からカードを１枚捨てる。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: Confiscation-CP04-EN-R-UE.png
+  image: Confiscation-SRL-EN-SR-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DB1-EN023
@@ -51,6 +52,10 @@ sets:
     set_name: 'Champion Pack: Game Four'
     rarities:
     - Rare
+  - set_number: SRL-EN038
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   - set_number: MRL-038
     set_name: Magic Ruler
     rarities:
@@ -76,6 +81,10 @@ sets:
     set_name: 'Champion Pack: Game Four'
     rarities:
     - Rare
+  - set_number: SRL-DE038
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   fr:
   - set_number: MDM-F038
     set_name: Spell Ruler
@@ -85,6 +94,10 @@ sets:
     set_name: 'Champion Pack: Game Four'
     rarities:
     - Rare
+  - set_number: SRL-FR038
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   it:
   - set_number: SDM-I038
     set_name: Spell Ruler
@@ -94,6 +107,15 @@ sets:
     set_name: 'Champion Pack: Game Four'
     rarities:
     - Rare
+  - set_number: SRL-IT038
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: SRL-PT038
+    set_name: Spell Ruler (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   ja:
   - set_number: MR-38
     set_name: Magic Ruler (Japanese)
