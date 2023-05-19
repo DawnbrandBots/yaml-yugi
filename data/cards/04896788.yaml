@@ -6,7 +6,7 @@ name:
   es: Espíritu de la Olla de la Codicia
   fr: Esprit du Pot du Cupidité
   it: Spirito dell'Anfora dell'Avidità
-  pt:
+  pt: Espírito do Pote da Ganância
   ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>な<ruby>壺<rt>つぼ</rt></ruby>の<ruby>精<rt>せい</rt></ruby><ruby>霊<rt>れい</rt></ruby>
   ja_romaji: Gōyoku na Tsubo no Seirei
   ko: 욕망의 항아리의 정령
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta è scoperta in Posizione d'Attacco sul Terreno, se un giocatore attiva "Anfora dell'Avidità", può pescare 1 carta in più.
   pt: |-
-    Se um jogador ativa "Pot of Greed" enquanto esta carta está virada para cima na Posição de Ataque, ele pode comprar 1 carta a mais.
+    Enquanto este card estiver no campo com a face para cima em Posição de Ataque, se um duelista ativar "Pote da Ganância", ele pode comprar mais 1 card.
   ja: |-
     このカードがフィールド上に表側攻撃表示で存在する時に「強欲な壺」を発動した場合、「強欲な壺」を発動したプレイヤーはカードをもう１枚ドローする事ができる。
   ko: |-
@@ -43,15 +43,19 @@ series:
 - Greed
 images:
 - index: 1
-  image: SpiritofthePotofGreed-DR2-EN-C-UE.png
+  image: SpiritofthePotofGreed-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN009
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN009
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-EN009
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN009
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: TBC1-EN012
@@ -71,6 +75,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE009
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR009
     set_name: Dark Revelation Volume 2
@@ -80,6 +88,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-FR009
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT009
     set_name: Dark Revelation Volume 2
@@ -89,6 +101,15 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-IT009
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT009
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 306-009
     set_name: Controller of Chaos

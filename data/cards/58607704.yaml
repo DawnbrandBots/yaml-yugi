@@ -6,7 +6,7 @@ name:
   es: Espejo de Mano del Demonio
   fr: Miroir à Main du Démon
   it: Specchio del Demone
-  pt:
+  pt: Espelho de Mão do Demônio
   ja: <ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>手<rt>て</rt></ruby><ruby>鏡<rt>かがみ</rt></ruby>
   ja_romaji: Akuma no Tekagami
   ko: 악마의 손거울
@@ -24,7 +24,8 @@ text:
     Échangez l'effet de la Carte Magie de l'adversaire qui désigne 1 Carte Magie ou Piège comme cible sur une autre cible valide.
   it: |-
     Cambia il bersaglio di una Carta Magia del tuo avversario che designa come bersaglio 1 Carta Magia o Trappola con un altro bersaglio valido.
-  pt:
+  pt: |-
+    Troque para outro alvo apropriado o efeito de um Card de Magia do oponente que escolha como alvo 1 Card de Magia ou Armadilha.
   ja: |-
     フィールド上の魔法・罠カード１枚を対象に発動した相手の魔法を、別の正しい対象に移し替える。
   ko: |-
@@ -39,7 +40,7 @@ images:
   image: FiendsHandMirror-EE2-JP-C.jpg
   illustration: FiendsHandMirror-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: FiendsHandMirror-DR2-EN-C-UE.png
+  image: FiendsHandMirror-IOC-EN-C-UE-25thAnniversaryEdition.png
   illustration: FiendsHandMirror-TF04-EN-VG-artwork.png
 sets:
   en:
@@ -49,6 +50,10 @@ sets:
     - Common
   - set_number: IOC-EN102
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-EN102
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-102
@@ -64,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE102
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR103
     set_name: Dark Revelation Volume 2
@@ -73,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR102
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT103
     set_name: Dark Revelation Volume 2
@@ -80,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT102
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT102
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT102
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

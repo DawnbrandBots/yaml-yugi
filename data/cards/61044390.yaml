@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta solo quando 7 o più delle tue carte sono attualmente rimosse dal gioco. Distruggi tutte le Carte Mostro sul campo.
   pt: |-
-    Ative somente se você possui 7 ou mais cartas removidas do jogo. Destrua todos os monstros no campo.
+    Você só pode ativar este card se 7 ou mais dos seus cards estiverem atualmente removidos do Duelo. Destrua todos os Cards de Monstro no campo.
   ja: |-
     自分のカードが７枚以上ゲームから除外されている場合に発動する事ができる。フィールド上に存在する全てのモンスターカードを破壊する。
   ko: |-
@@ -39,15 +39,19 @@ series:
 - Chaos
 images:
 - index: 1
-  image: ChaosEnd-DR2-EN-C-UE.png
+  image: ChaosEnd-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN036
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN036
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN036
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN036
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-036
@@ -63,6 +67,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE036
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR036
     set_name: Dark Revelation Volume 2
@@ -72,6 +80,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR036
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT036
     set_name: Dark Revelation Volume 2
@@ -79,6 +91,15 @@ sets:
     - Common
   - set_number: IOC-IT036
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT036
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT036
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

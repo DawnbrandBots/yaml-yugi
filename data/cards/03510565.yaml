@@ -6,7 +6,7 @@ name:
   es: Pájaro Sigiloso
   fr: Oiseau Furtif
   it: Uccello Furtivo
-  pt:
+  pt: Pássaro Camuflado
   ja: ステルスバード
   ja_romaji: Suterusu Bādo
   ko: 스텔스 버드
@@ -25,7 +25,7 @@ text:
   it: |-
     Una volta per turno: puoi mettere questa carta coperta in Posizione di Difesa. Quando questa carta viene Evocata per Scoperta: infliggi 1000 danni al tuo avversario.
   pt: |-
-    Uma vez por turno: você pode colocar este card com a face para baixo. Quando este card for virado com a face para cima: cause 1000 de dano ao seu oponente.
+    Uma vez por turno: você pode colocar este card com a face para baixo em Posição de Defesa. Quando este card for Invocado por Invocação-Virar: cause 1000 de dano ao seu oponente.
   ja: |-
     ①：自分メインフェイズに発動できる。このカードを裏側守備表示にする（１ターンに１度のみ）。②：このカードが反転召喚に成功した場合に発動する。相手に１０００ダメージを与える。
   ko: |-
@@ -41,19 +41,19 @@ atk: 700
 def: 1700
 images:
 - index: 1
-  image: StealthBird-BP01-EN-C-1E.png
+  image: StealthBird-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN068
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-EN069
     set_name: Dark Revelation Volume 2
     rarities:
     - Rare
   - set_number: CP01-EN018
     set_name: 'Champion Pack: Game One'
+    rarities:
+    - Common
+  - set_number: IOC-EN068
+    set_name: Invasion of Chaos
     rarities:
     - Common
   - set_number: GLD1-EN017
@@ -65,6 +65,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: IOC-EN068
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: IOC-068
     set_name: Invasion of Chaos
     rarities:
@@ -91,6 +95,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: IOC-DE068
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR069
     set_name: Dark Revelation Volume 2
@@ -113,6 +121,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: IOC-FR068
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT069
     set_name: Dark Revelation Volume 2
@@ -135,6 +147,15 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: IOC-IT068
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT068
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 307-013
     set_name: Invader of Darkness (set)

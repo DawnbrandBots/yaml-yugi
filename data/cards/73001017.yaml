@@ -25,7 +25,7 @@ text:
   it: |-
     Questa carta non può essere Evocata tramite Evocazione Normale o Posizionata. Questa carta può essere Evocata solo tramite Evocazione Speciale rimuovendo dal gioco 1 mostro VENTO nel tuo Cimitero. Quando questa carta viene distrutta in seguito ad una battaglia e mandata al Cimitero, il tuo avversario scarta 1 carta a caso dalla propria mano.
   pt: |-
-    Esta carta não pode ser Normal Summoned ou Set. Esta carta somente pode ser Special Summoned por remover do jogo 1 monstro WIND do seu Cemitério. Quando esta carta é destruída em batalha e enviada ao Cemitério, seu oponente deve descartar aleatoriamente 1 carta.
+    Este card não pode ser Invocado por Invocação-Normal ou Baixado. Este card só pode ser Invocado por Invocação-Especial ao remover do Duelo 1 monstro de VENTO no seu Cemitério. Quando este card for destruído como resultado de uma batalha e enviado para o Cemitério, seu oponente descarta 1 card aleatório da mão dele.
   ja: |-
     このカードは通常召喚できない。自分の墓地の風属性モンスター１体をゲームから除外して特殊召喚する。このカードが戦闘によって破壊され墓地に送られた時、相手はランダムに手札を１枚捨てる。
   ko: |-
@@ -41,19 +41,23 @@ atk: 1700
 def: 700
 images:
 - index: 1
-  image: Silpheed-SD8-EN-C-1E.png
+  image: Silpheed-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN022
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-EN022
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
   - set_number: SD8-EN010
     set_name: 'Structure Deck: Lord of the Storm'
+    rarities:
+    - Common
+  - set_number: IOC-EN022
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-EN022
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-022
@@ -73,6 +77,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE022
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR022
     set_name: Dark Revelation Volume 2
@@ -86,6 +94,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR022
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT022
     set_name: Dark Revelation Volume 2
@@ -97,6 +109,15 @@ sets:
     - Common
   - set_number: IOC-IT022
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT022
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT022
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

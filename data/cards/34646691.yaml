@@ -6,7 +6,7 @@ name:
   es: Tropezando
   fr: Faux Pas
   it: Inciampare
-  pt:
+  pt: Tropeçar
   ja: つまずき
   ja_romaji: Tsumazuki
   ko: 스텀블링
@@ -25,7 +25,7 @@ text:
   it: |-
     Fino a quando questa carta resta scoperta sul Terreno, qualsiasi mostro Evocato tramite Evocazione Normale, Evocazione per Scoperta o Evocazione Speciale viene messa in Posizione di Difesa.
   pt: |-
-    Quando um ou mais monstros são Normal, Flip ou Special Summoned, eles são alterados para a Posição de Defesa.
+    Qualquer monstro que for Invocado por Invocação-Normal, Virar ou Especial é colocado em Posição de Defesa.
   ja: |-
     召喚・反転召喚・特殊召喚に成功したモンスターは守備表示になる。
   ko: |-
@@ -40,16 +40,20 @@ images:
   image: Stumbling-EE2-JP-C.jpg
   illustration: Stumbling-TF05-JP-VG-artwork.png
 - index: '1.1'
-  image: Stumbling-DR2-EN-C-UE.png
+  image: Stumbling-IOC-EN-C-UE-25thAnniversaryEdition.png
   illustration: Stumbling-TF04-EN-VG-artwork.png
 sets:
   en:
+  - set_number: DR2-EN035
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN035
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-EN035
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN035
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-035
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE035
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR035
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-FR035
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT035
     set_name: Dark Revelation Volume 2
@@ -83,6 +95,15 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-IT035
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT035
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 306-035
     set_name: Controller of Chaos

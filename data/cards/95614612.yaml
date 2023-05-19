@@ -6,7 +6,7 @@ name:
   es: Crustáceo Lanza Bala de Cañón
   fr: Coquillage Sous-marin Boulet de Canon
   it: Mollusco Proiettile
-  pt: Molusco Bola-de-canhão
+  pt: Projétil Molusco-Lança
   ja: <ruby>砲<rt>ほう</rt></ruby><ruby>弾<rt>だん</rt></ruby>ヤリ<ruby>貝<rt>がい</rt></ruby>
   ja_romaji: Hōdan Yari Gai
   ko: 포환 창조개
@@ -25,7 +25,7 @@ text:
   it: |-
     Fino a quando "Umi" resta scoperta sul Terreno, questa carta è immune dagli effetti di qualunque Carta Magia.
   pt: |-
-    Enquanto "Umi" estiver virado para cima no campo, esta carta não é afetada por Spell Cards.
+    Enquanto "Umi" estiver com a face para cima no campo, este card não é afetado por Cards de Magia.
   ja: |-
     「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1000
 def: 1000
 images:
 - index: 1
-  image: CannonballSpearShellfish-DR2-EN-C-UE.png
+  image: CannonballSpearShellfish-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: IOC-EN085
@@ -50,6 +50,10 @@ sets:
     - Short Print
   - set_number: DR2-EN086
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN085
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-085
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE085
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR086
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-FR085
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT086
     set_name: Dark Revelation Volume 2
@@ -83,6 +95,15 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-IT085
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT085
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 307-030
     set_name: Invader of Darkness (set)

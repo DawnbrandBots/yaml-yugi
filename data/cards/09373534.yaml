@@ -25,7 +25,7 @@ text:
   it: |-
     Equipaggia solo ad un mostro "Ninja". Esso guadagna 700 ATK. Quando questa carta viene mandata dal Terreno al Cimitero: infliggi 700 danni al tuo avversario.
   pt: |-
-    Só pode ser equipado a um monstro "Ninja". Ele ganha 700 de ATK. Quando este card for enviado do campo para o Cemitério: cause 700 de dano ao seu oponente.
+    Só pode ser equipado a um monstro "Ninja". Ganha 700 de ATK. Quando este card for enviado do campo para o Cemitério: cause 700 de dano ao seu oponente.
   ja: |-
     「忍者」という名のついたモンスターのみ装備可能。装備モンスターは攻撃力が７００ポイントアップする。このカードがフィールド上から墓地に送られた時、相手ライフに７００ポイントダメージを与える。
   ko: |-
@@ -37,19 +37,23 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: FuhmaShuriken-DL14-EN-R-UE-Blue.png
+  image: FuhmaShuriken-IOC-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN031
-    set_name: Invasion of Chaos
-    rarities:
-    - Rare
   - set_number: DR2-EN031
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-EN031
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   - set_number: DL14-EN011
     set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: IOC-EN031
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Rare
   - set_number: IOC-031
@@ -57,42 +61,59 @@ sets:
     rarities:
     - Rare
   de:
-  - set_number: IOC-DE031
-    set_name: Invasion of Chaos
-    rarities:
-    - Rare
   - set_number: DR2-DE031
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-DE031
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   - set_number: DL14-DE011
     set_name: Duelist League 14 participation cards
     rarities:
     - Rare
-  fr:
-  - set_number: IOC-FR031
-    set_name: Invasion of Chaos
+  - set_number: IOC-DE031
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Rare
+  fr:
   - set_number: DR2-FR031
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-FR031
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   - set_number: DL14-FR011
     set_name: Duelist League 14 participation cards
     rarities:
     - Rare
-  it:
-  - set_number: IOC-IT031
-    set_name: Invasion of Chaos
+  - set_number: IOC-FR031
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Rare
+  it:
   - set_number: DR2-IT031
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-IT031
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   - set_number: DL14-IT011
     set_name: Duelist League 14 participation cards
+    rarities:
+    - Rare
+  - set_number: IOC-IT031
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
+  pt:
+  - set_number: IOC-PT031
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Rare
   ja:

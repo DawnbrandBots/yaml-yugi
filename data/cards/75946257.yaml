@@ -6,7 +6,7 @@ name:
   es: Doctor Brujo del Caos
   fr: Médecin Sorcier du Chaos
   it: Sciamano del Chaos
-  pt:
+  pt: Médico Feiticeiro do Caos
   ja: <ruby>混<rt>こん</rt></ruby><ruby>沌<rt>とん</rt></ruby>の<ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
   ja_romaji: Konton no Jujutsushi
   ko: 혼돈의 주술사
@@ -25,7 +25,7 @@ text:
   it: |-
     SCOPRI: Scegli 1 Carta Mostro dal tuo Cimitero o da quello del tuo avversario. Rimuovi quella carta dal gioco.
   pt: |-
-    FLIP: Selecione 1 monstro no Cemitério de qualquer jogador e remova-o do jogo.
+    VIRE: Selecione 1 Card de Monstro em qualquer Cemitério. Remova-o do Duelo.
   ja: |-
     リバース：自分または相手の墓地からモンスターカードを１枚選択する。選択したカードをゲームから除外する。
   ko: |-
@@ -34,22 +34,26 @@ text:
   zh-CN: |-
     反转：从自己或者对方的墓地选择1张怪兽卡。选择的卡从游戏中除外。
 card_type: Monster
-monster_type_line: Spellcaster / Effect
+monster_type_line: Spellcaster / Flip / Effect
 attribute: DARK
 level: 2
 atk: 500
 def: 500
 images:
 - index: 1
-  image: WitchDoctorofChaos-DR2-EN-C-UE.png
+  image: WitchDoctorofChaos-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN016
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN016
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-EN016
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN016
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-016
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE016
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR016
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-FR016
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT016
     set_name: Dark Revelation Volume 2
@@ -83,6 +95,15 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-IT016
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT016
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 306-016
     set_name: Controller of Chaos

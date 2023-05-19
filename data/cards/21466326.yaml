@@ -6,7 +6,7 @@ name:
   es: Destruyendo las Ruinas
   fr: Minage des Ruines
   it: Bombardamento delle Rovine
-  pt: Explosão das Ruínas
+  pt: Explodir as Ruínas
   ja: <ruby>残<rt>ざん</rt></ruby><ruby>骸<rt>がい</rt></ruby><ruby>爆<rt>ばく</rt></ruby><ruby>破<rt>は</rt></ruby>
   ja_romaji: Zangai Bakuha
   ko: 잔해 폭파
@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta solo se ci sono 30 o più carte nel tuo Cimitero. Infliggi 3000 punti di danno ai Life Points del tuo avversario.
   pt: |-
-    Você só pode ativar esta carta quando houver 30 cartas ou mais no seu Cemitério. Inflija 3000 de dano aos Pontos de Vida do oponente.
+    Você só pode ativar este card se houver 30 ou mais cards no seu Cemitério. Cause 3000 de dano ao seu oponente.
   ja: |-
     自分の墓地のカードが３０枚以上存在する場合に発動する事ができる。相手ライフに３０００ポイントダメージを与える。
   ko: |-
@@ -37,15 +37,19 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: BlastingtheRuins-DR2-EN-C-UE.png
+  image: BlastingtheRuins-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN048
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN048
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN048
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN048
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-048
@@ -53,30 +57,47 @@ sets:
     rarities:
     - Common
   de:
-  - set_number: IOC-DE048
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-DE048
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
-  fr:
-  - set_number: IOC-FR048
+  - set_number: IOC-DE048
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE048
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  fr:
   - set_number: DR2-FR048
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-FR048
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-FR048
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
+  - set_number: DR2-IT048
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-IT048
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-IT048
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-IT048
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT048
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -6,7 +6,7 @@ name:
   es: Neo Insecto
   fr: Neo Bug
   it: Nuovo Insetto
-  pt:
+  pt: Neo Inseto
   ja: ネオバグ
   ja_romaji: Neo Bagu
   ko: 네오 버그
@@ -25,7 +25,7 @@ text:
   it: |-
     Un enorme mostro insettoide che si dice provenga da un altro pianeta. Si raggruppa in sciami.
   pt: |-
-    Um grande monstro semelhante a um inseto dito ter vindo de outro planeta. Ele se reúne em enxames.
+    Um enorme monstro com aparência de inseto que dizem ter vindo de outro planeta. Ele se reúne em enxames.
   ja: |-
     異星から来たと言われる巨大な昆虫タイプのモンスター。集団で行動してターゲットをとらえる。
   ko: |-
@@ -34,22 +34,26 @@ text:
   zh-CN: |-
     据说是从异星来的巨大昆虫型怪兽。集体行动捕捉目标。
 card_type: Monster
-monster_type_line: Insect
+monster_type_line: Insect / Normal
 attribute: EARTH
 level: 4
 atk: 1800
 def: 1700
 images:
 - index: 1
-  image: NeoBug-DR2-EN-C-UE.png
+  image: NeoBug-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN059
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN058
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN059
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN058
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-058
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE058
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR059
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR058
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT059
     set_name: Dark Revelation Volume 2
@@ -81,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT058
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT058
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT058
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

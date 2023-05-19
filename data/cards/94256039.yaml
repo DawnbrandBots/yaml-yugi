@@ -25,7 +25,7 @@ text:
   it: |-
     Ogni volta che una Carta Magia viene attivata, metti 1 Segnalino Magia su questa carta. Quando viene messo il quarto Segnalino Magia su questa carta, distruggi questa carta e infliggi 3000 danni al giocatore che ha attivato quella Carta Magia.
   pt: |-
-    Cada vez que uma Carta Mágica é ativada, coloque 1 Contador Magico nesta carta. Quando o 4º Contador Magico é colocado nesta carta, destrua-a e inflija 3000 de dano ao jogador que ativou a Carta Mágica naquele momento.
+    Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver. Se o 4º Marcador de Magia for colocado neste card: destrua este card e, se isso acontecer, o duelista que ativou o Card de Magia nesse momento sofre 3000 de dano.
   ja: |-
     このカードがフィールド上に存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに４つ目の魔力カウンターが乗った時にこのカードを破壊し、その時に魔法カードを発動したプレイヤーは３０００ポイントダメージを受ける。
   ko: |-
@@ -37,19 +37,23 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: TowerofBabel-SDSC-EN-C-UE.png
+  image: TowerofBabel-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN050
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-EN050
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-EN050
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   - set_number: SDSC-EN037
     set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: IOC-EN050
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-050
@@ -69,6 +73,10 @@ sets:
     set_name: Spellcaster's Command Structure Deck
     rarities:
     - Common
+  - set_number: IOC-DE050
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR050
     set_name: Dark Revelation Volume 2
@@ -82,6 +90,10 @@ sets:
     set_name: Spellcaster's Command Structure Deck
     rarities:
     - Common
+  - set_number: IOC-FR050
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT050
     set_name: Dark Revelation Volume 2
@@ -93,6 +105,15 @@ sets:
     - Common
   - set_number: SDSC-IT037
     set_name: Spellcaster's Command Structure Deck
+    rarities:
+    - Common
+  - set_number: IOC-IT050
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT050
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

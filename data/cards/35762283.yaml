@@ -6,7 +6,7 @@ name:
   es: Corazón del Oprimido
   fr: Cœur de l'opprimé
   it: Cuore del Perdente
-  pt: Coração do Oprimido
+  pt: Coração do Desfavorecido
   ja: <ruby>凡<rt>ぼん</rt></ruby><ruby>骨<rt>こつ</rt></ruby>の<ruby>意<rt>い</rt></ruby><ruby>地<rt>じ</rt></ruby>
   ja_romaji: Bonkotsu no Iji
   ko: 범골의 의지
@@ -25,7 +25,7 @@ text:
   it: |-
     Durante la tua Draw Phase, quando peschi uno o più Mostri Normali: puoi rivelarli; pesca 1 altra carta.
   pt: |-
-    Durante sua Fase de Compra, quando você comprar um Monstro Normal: você pode revelá-lo; compre 1 card a mais.
+    Durante sua Fase de Compra, quando você comprar um ou mais Monstros Normais: você pode revelá-los; compre mais 1 card.
   ja: |-
     ドローフェイズにドローしたカードが通常モンスターだった場合、そのカードを相手に見せる事で、自分はカードをもう１枚ドローする事ができる。
   ko: |-
@@ -37,19 +37,23 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: HeartoftheUnderdog-LCYW-EN-C-1E.png
+  image: HeartoftheUnderdog-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN032
-    set_name: Invasion of Chaos
-    rarities:
-    - Short Print
   - set_number: DR2-EN032
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-EN032
+    set_name: Invasion of Chaos
+    rarities:
+    - Short Print
   - set_number: LCYW-EN068
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: IOC-EN032
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-032
@@ -69,6 +73,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: IOC-DE032
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR032
     set_name: Dark Revelation Volume 2
@@ -82,6 +90,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: IOC-FR032
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT032
     set_name: Dark Revelation Volume 2
@@ -93,6 +105,15 @@ sets:
     - Short Print
   - set_number: LCYW-IT068
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: IOC-IT032
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT032
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

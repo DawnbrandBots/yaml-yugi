@@ -19,13 +19,13 @@ text:
   de: |-
     Du kannst diese Karte nur dann aktivieren, wenn du und dein Gegner 5 oder weniger Karten auf dem Spielfeld haben. Solange sich diese Karte offen auf dem Spielfeld befindet, kann kein Spieler mehr als 5 Karten auf dem Feld haben.
   es: |-
-    Sólo puedes activar esta carta si tú y tu adversario tienen 5 o menos cartas en cada Campo. El número total de cartas que cada jugador puede tener en el Campo es 5.
+    Sólo puedes activar esta carta si tú y tu adversario tenéis 5 o menos cartas en cada Campo. El número total de cartas que cada jugador puede tener en el Campo es 5.
   fr: |-
     Vous ne pouvez activer cette carte que lorsque vous et votre adversaire avez chacun 5 cartes ou moins sur le Terrain. Tant que cette carte reste face recto sur le Terrain, le nombre total de cartes que chaque joueur peut avoir sur le Terrain est de 5.
   it: |-
     Puoi attivare questa carta solo quando sia tu che il tuo avversario avete 5 o meno carte sul Terreno. Fino a quando questa carta resta scoperta sul Terreno, il numero complessivo di carte che ogni giocatore può avere sul Terreno è 5.
   pt: |-
-    Ative somente se você e seu oponente possuem 5 ou menos cartas no campo cada. Cada jogador somente pode controlar até 5 cartas nos seus respectivos lados do campo.
+    Você só pode ativar este card se tanto você quanto seu oponente tiverem 5 ou menos cards no campo. O número máximo de cards que cada duelista pode ter no campo é 5.
   ja: |-
     それぞれのフィールド上に存在しているカードが５枚以下の場合に発動する事ができる。お互いにフィールド上に出せるカードの合計枚数は５枚までになる。
   ko: |-
@@ -37,15 +37,19 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: SpatialCollapse-DR2-EN-C-UE.png
+  image: SpatialCollapse-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN051
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN051
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN051
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN051
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-051
@@ -61,6 +65,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE051
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR051
     set_name: Dark Revelation Volume 2
@@ -70,6 +78,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR051
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT051
     set_name: Dark Revelation Volume 2
@@ -77,6 +89,15 @@ sets:
     - Common
   - set_number: IOC-IT051
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT051
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT051
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

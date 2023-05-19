@@ -25,7 +25,7 @@ text:
   it: |-
     Durante la tua Standby Phase, paga 300 Life Points per scegliere 1 Carta non-Mostro nel tuo Cimitero e farla tornare in fondo al tuo Deck.
   pt: |-
-    Durante a sua Standby Phase, pagando 300 pontos de vida selecione um não-monstro no seu Graveyard e retorne ele para o fundo de seu Deck.
+    Durante sua Fase de Apoio, pague 300 PV, selecione 1 Card que não seja de Monstro no seu Cemitério e devolva-o para o fundo do seu Deck.
   ja: |-
     自分ターンのスタンバイフェイズ時に３００ライフポイントを払う事で、自分の墓地に存在するモンスター以外のカードを１枚選択してデッキの一番下に戻す。
   ko: |-
@@ -37,15 +37,19 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: Recycle-DR2-EN-C-UE.png
+  image: Recycle-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN041
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN041
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN041
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN041
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-041
@@ -61,6 +65,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE041
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR041
     set_name: Dark Revelation Volume 2
@@ -70,6 +78,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR041
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT041
     set_name: Dark Revelation Volume 2
@@ -77,6 +89,15 @@ sets:
     - Common
   - set_number: IOC-IT041
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT041
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT041
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

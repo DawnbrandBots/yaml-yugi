@@ -24,7 +24,8 @@ text:
     Vous ne pouvez activer cette carte que lorsque vos Life Points sont inférieurs aux Life Points de votre adversaire et que la différence est de 7000 points ou plus. Les Life Points de chaque joueur deviennent 0.
   it: |-
     Puoi attivare questa carta solo quando i tuoi Life Points sono inferiori ai Life Points del tuo avversario e la differenza è pari o maggiore di 7000 punti. I Life Points di entrambi i giocatori diventano 0.
-  pt:
+  pt: |-
+    Você só pode ativar este card enquanto seus PV forem menores que os PV do seu oponente e a diferença for de 7000 ou mais. Os PV dos dois duelistas se torna 0.
   ja: |-
     自分のライフポイントが相手より７０００ポイント以上少ない時に発動する事ができる。お互いのライフポイントは０になる。
   ko: |-
@@ -36,15 +37,19 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: SelfDestructButton-DR2-EN-C-UE.png
+  image: SelfDestructButton-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN106
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN105
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-EN106
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN105
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-105
@@ -60,6 +65,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE105
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR106
     set_name: Dark Revelation Volume 2
@@ -69,6 +78,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-FR105
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT106
     set_name: Dark Revelation Volume 2
@@ -78,6 +91,15 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-IT105
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT105
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 307-050
     set_name: Invader of Darkness (set)

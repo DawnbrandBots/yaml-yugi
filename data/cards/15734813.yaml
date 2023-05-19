@@ -6,7 +6,7 @@ name:
   es: Tigre del Alma
   fr: Âme Tigre
   it: Tigre dell'Anima
-  pt: Alma de Tigre
+  pt: Alma do Tigre
   ja: <ruby>魂虎<rt>ソウル・タイガー</rt></ruby>
   ja_romaji: Souru Taigā
   ko: 소울 타이거
@@ -25,7 +25,7 @@ text:
   it: |-
     L'anima di una tigre che a quanto si dice divora le anime umane. È un anima famosa nella quale non vorresti imbatterti in un vicolo scuro.
   pt: |-
-    A alma de um tigre que é dito devorar almas humanas. Ele é uma alma famosa que você não gostaria de encontrar em um beco escuro.
+    A alma de um tigre que dizem devorar almas humanas. É uma alma conhecida com a qual você não gostaria de se encontrar num beco escuro.
   ja: |-
     人の魂をむさぼると言われている恐ろしい虎の魂。できれば出会いたくない魂として有名。
   ko: |-
@@ -34,22 +34,26 @@ text:
   zh-CN: |-
     据说是贪婪人类灵魂的可怕老虎的邪恶灵魂。如果可以的话，任谁都不想遇见的怪兽。
 card_type: Monster
-monster_type_line: Beast
+monster_type_line: Beast / Normal
 attribute: EARTH
 level: 4
 atk: 0
 def: 2100
 images:
 - index: 1
-  image: SoulTiger-DR2-EN-C-UE.jpg
+  image: SoulTiger-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN003
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN003
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN003
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN003
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-003
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE003
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR003
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR003
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT003
     set_name: Dark Revelation Volume 2
@@ -81,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT003
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT003
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT003
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

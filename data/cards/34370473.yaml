@@ -6,7 +6,7 @@ name:
   es: Polvo de Ala de Grifo
   fr: Plumeau en Plume de Griffon
   it: Spolverino del Grifone
-  pt: Espanador de Gryphon
+  pt: Espanador de Grifo
   ja: グリフォンの<ruby>羽<rt>は</rt></ruby><ruby>根<rt>ね</rt></ruby><ruby>帚<rt>ぼうき</rt></ruby>
   ja_romaji: Gurifon no Hanebōki
   ko: 그리폰의 깃털
@@ -25,7 +25,7 @@ text:
   it: |-
     Distruggi tutte le Carte Magia e Trappola sul tuo Terreno. Aumenta i tuoi Life Points del numero delle carte distrutte x 500 punti.
   pt: |-
-    Destrua todos os Spell e Trap Cards que você controla. Você ganha 500 LPs para cada carta destruída por esse efeito.
+    Destrua todos os Cards de Magia e Armadilha no seu campo. Aumente seus PV pelo número de cards destruídos x 500.
   ja: |-
     自分フィールド上に存在する全ての魔法・罠カードを破壊する。自分は破壊したカードの数×５００ライフポイント回復する。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: GryphonsFeatherDuster-DR2-EN-C-UE.png
+  image: GryphonsFeatherDuster-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: IOC-EN091
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: DR2-EN092
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN091
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-091
@@ -61,6 +65,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE091
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR092
     set_name: Dark Revelation Volume 2
@@ -70,6 +78,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR091
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT092
     set_name: Dark Revelation Volume 2
@@ -77,6 +89,15 @@ sets:
     - Common
   - set_number: IOC-IT091
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT091
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT091
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

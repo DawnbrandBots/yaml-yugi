@@ -6,7 +6,7 @@ name:
   es: Dama Insecto Marca de Cráneo
   fr: Coccinelle à Marque de Crâne
   it: Coccinella dal Dorso a Teschio
-  pt:
+  pt: Joaninha com Marca de Caveira
   ja: <ruby>髑髏<rt>ドクロ</rt></ruby><ruby>顔<rt>がん</rt></ruby> <ruby>天道虫<rt>レディバグ</rt></ruby>
   ja_romaji: Dokurogan Redibagu
   ko: 해골 무당벌레
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta viene mandata al Cimitero, aumenta i tuoi Life Points di 1000 punti.
   pt: |-
-    Quando esta carta é enviada ao Cemitério, você ganha 1000 LPs.
+    Quando este card for enviado para o Cemitério, aumente seus PV em 1000.
   ja: |-
     このカードが墓地に送られた時、自分は１０００ライフポイント回復する。
   ko: |-
@@ -41,15 +41,19 @@ atk: 500
 def: 1500
 images:
 - index: 1
-  image: SkullMarkLadybug-DR2-EN-C-UE.png
+  image: SkullMarkLadybug-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN080
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN079
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-EN080
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN079
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-079
@@ -57,30 +61,47 @@ sets:
     rarities:
     - Short Print
   de:
-  - set_number: IOC-DE079
-    set_name: Invasion of Chaos
-    rarities:
-    - Short Print
   - set_number: DR2-DE080
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
-  fr:
-  - set_number: IOC-FR079
+  - set_number: IOC-DE079
     set_name: Invasion of Chaos
     rarities:
     - Short Print
+  - set_number: IOC-DE079
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  fr:
   - set_number: DR2-FR080
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-FR079
+    set_name: Invasion of Chaos
+    rarities:
+    - Short Print
+  - set_number: IOC-FR079
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
+  - set_number: DR2-IT080
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-IT079
     set_name: Invasion of Chaos
     rarities:
     - Short Print
-  - set_number: DR2-IT080
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-IT079
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT079
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

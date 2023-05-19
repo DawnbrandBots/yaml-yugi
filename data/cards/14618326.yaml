@@ -25,7 +25,7 @@ text:
   it: |-
     SCOPRI: Scegli come bersaglio 1 Carta Trappola sul Terreno; distruggi quel bersaglio. (Se il bersaglio è Posizionato, rivelalo e distruggilo se è una Carta Trappola. Altrimenti, rimettila nella sua posizione originale.
   pt: |-
-    FLIP: Selecione 1 Trap Card no campo e destrua-o. Se a carta selecionada está virada para baixo, pegue-a e veja-a. Se for um Trap Card, destrua-o. Se for um Spell Card, retorne-o à sua posição original.
+    VIRE: Escolha 1 Card de Armadilha no campo; destrua o alvo. (Se o alvo estiver Baixado, revele-o e destrua-o se for um Card de Armadiilha. Caso contrário, devolva-o à sua posição original.)
   ja: |-
     ①：このカードがリバースした場合、フィールドの表側表示の罠カード１枚またはフィールドにセットされた魔法・罠カード１枚を対象として発動する。その罠カードを破壊する（そのカードがフィールドにセットされている場合、めくって確認する）。
   ko: |-
@@ -44,21 +44,25 @@ series:
 - Ninja
 images:
 - index: 1
-  image: CrimsonNinja-DL13-EN-R-UE-Blue.jpg
+  image: CrimsonNinja-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN006
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-EN006
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN006
+    set_name: Invasion of Chaos
     rarities:
     - Common
   - set_number: DL13-EN004
     set_name: Duelist League 13 participation cards
     rarities:
     - Rare
+  - set_number: IOC-EN006
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   - set_number: IOC-006
     set_name: Invasion of Chaos
     rarities:
@@ -76,6 +80,10 @@ sets:
     set_name: Duelist League 13 participation cards
     rarities:
     - Rare
+  - set_number: IOC-DE006
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR006
     set_name: Dark Revelation Volume 2
@@ -89,6 +97,10 @@ sets:
     set_name: Duelist League 13 participation cards
     rarities:
     - Rare
+  - set_number: IOC-FR006
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT006
     set_name: Dark Revelation Volume 2
@@ -102,6 +114,15 @@ sets:
     set_name: Duelist League 13 participation cards
     rarities:
     - Rare
+  - set_number: IOC-IT006
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT006
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 306-006
     set_name: Controller of Chaos

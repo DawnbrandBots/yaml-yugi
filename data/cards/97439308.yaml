@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta solo quando 4 o più delle tue carte sono rimosse dal gioco e non ci sono carte nel tuo Cimitero. Pesca 2 carte dal tuo Deck.
   pt: |-
-    Ative somente se você possui 4 ou mais cartas removidas do jogo e não existe cartas no seu Cemitério. Compre 2 cartas.
+    Você só pode ativar este card se 4 ou mais dos seus cards estiverem atualmente removidos do Duelo e não houver cards no seu Cemitério. Compre 2 cards do seu Deck.
   ja: |-
     自分のカードが４枚以上ゲームから除外されており、自分の墓地にカードが存在しない場合に発動する事ができる。自分のデッキからカードを２枚ドローする。
   ko: |-
@@ -40,15 +40,19 @@ series:
 - Chaos
 images:
 - index: 1
-  image: ChaosGreed-DR2-EN-C-UE.png
+  image: ChaosGreed-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN038
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN038
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN038
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN038
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-038
@@ -64,6 +68,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE038
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR038
     set_name: Dark Revelation Volume 2
@@ -73,6 +81,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR038
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT038
     set_name: Dark Revelation Volume 2
@@ -80,6 +92,15 @@ sets:
     - Common
   - set_number: IOC-IT038
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT038
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT038
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

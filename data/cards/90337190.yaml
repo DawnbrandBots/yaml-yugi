@@ -25,7 +25,7 @@ text:
   it: |-
     Fino a quando "Umi" resta scoperta sul Terreno, questa carta è immune dagli effetti di qualunque Carta Magia.
   pt: |-
-    Enquanto "Umi" estiver virado para cima no campo, esta carta não é afetada por Spell Cards.
+    Enquanto "Umi" estiver com a face para cima no campo, este card não é afetado por Cards de Magia.
   ja: |-
     「海」がフィールド上に存在する限り、このカードは魔法の効果を受けない。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1000
 def: 1000
 images:
 - index: 1
-  image: TorpedoFish-DR2-EN-C-UE.png
+  image: TorpedoFish-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: IOC-EN082
@@ -50,6 +50,10 @@ sets:
     - Short Print
   - set_number: DR2-EN083
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN082
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-082
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE082
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR083
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR082
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT083
     set_name: Dark Revelation Volume 2
@@ -81,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT082
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT082
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT082
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

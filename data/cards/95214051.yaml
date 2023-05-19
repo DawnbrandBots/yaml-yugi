@@ -6,7 +6,7 @@ name:
   es: Silbato de Jade de Insectos
   fr: Appeau à Insectes en Jade
   it: Whistle Insetto di Giada
-  pt:
+  pt: Apito de Inseto de Jade
   ja: <ruby>翡<rt>ひ</rt></ruby><ruby>翠<rt>すい</rt></ruby>の<ruby>蟲<rt>むし</rt></ruby><ruby>笛<rt>ぶえ</rt></ruby>
   ja_romaji: Hisui no Mushibue
   ko: 비취 호루라기
@@ -24,7 +24,8 @@ text:
     Votre adversaire sélectionne 1 Monstre de Type Insecte de son Deck. Après avoir mélangé le Deck, placez la carte au-dessus du Deck.
   it: |-
     Il tuo avversario sceglie 1 Mostro di Tipo Insetto dal suo Deck. Dopo aver mischiato il Deck, metti la carta in cima al Deck.
-  pt:
+  pt: |-
+    Seu oponente seleciona 1 monstro Inseto do Deck dele. Depois de embaralhar o Deck, coloque o card no topo do Deck.
   ja: |-
     相手プレイヤーはデッキから昆虫族モンスター１枚を選択し、デッキをシャッフルした後そのカードをデッキの一番上に置く。
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: JadeInsectWhistle-DR2-EN-C-UE.png
+  image: JadeInsectWhistle-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: IOC-EN100
@@ -45,6 +46,10 @@ sets:
     - Common
   - set_number: DR2-EN101
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN100
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-100
@@ -60,6 +65,10 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-DE100
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: IOC-FR100
     set_name: Invasion of Chaos
@@ -69,6 +78,10 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-FR100
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: IOC-IT100
     set_name: Invasion of Chaos
@@ -76,6 +89,15 @@ sets:
     - Common
   - set_number: DR2-IT101
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-IT100
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT100
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

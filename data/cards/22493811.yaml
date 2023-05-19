@@ -6,7 +6,7 @@ name:
   es: Multiplicación de Hormigas
   fr: Multiplication des Fourmis
   it: Moltiplcazione delle Formiche
-  pt:
+  pt: Multiplicação de Formigas
   ja: アリの<ruby>増<rt>ぞう</rt></ruby><ruby>殖<rt>しょく</rt></ruby>
   ja_romaji: Ari no Zōshoku
   ko: 개미 증식
@@ -24,7 +24,8 @@ text:
     Sacrifiez 1 monstre de Type Insecte de votre Terrain. Faites l'Invocation Spéciale de 2 "Jetons Armée Fourmi" (Type Insecte/TERRE/Niveau 4/ATK 500/DEF 1200) sur votre Terrain. Les jetons ne peuvent pas être utilisés comme Sacrifice pour une Invocation Sacrifice.
   it: |-
     Offri 1 mostro di Tipo Insetto sul tuo Terreno come Tributo. Evoca tramite Evocazione Speciale 2 "Segna-Formica Soldato" (Tipo Insetto/TERRA/Livello 4/ATK 500/DEF 1200) sul tuo Terreno. I Segna-Mostro non possono essere usati come Tributo per un'Evocazione con Tributo.
-  pt:
+  pt: |-
+    Ofereça como Tributo 1 monstro Inseto no seu campo. Invoque por Invocação-Especial 2 "Ficha de Formiga Soldado" (Inseto/TERRA/Nível 4/ATK 500/DEF 1200) no seu campo. As Fichas não podem ser usadas como Tributo para uma Invocação-Tributo.
   ja: |-
     自分フィールド上の昆虫族モンスター１体を生け贄に捧げて発動する。自分フィールド上に「兵隊アリトークン」（昆虫族・地・星４・攻５００／守１２００）を２体特殊召喚する。（生け贄召喚のための生け贄にはできない）
   ko: |-
@@ -36,7 +37,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: MultiplicationofAnts-DR2-EN-C-UE.png
+  image: MultiplicationofAnts-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: IOC-EN098
@@ -45,6 +46,10 @@ sets:
     - Common
   - set_number: DR2-EN099
     set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
+  - set_number: IOC-EN098
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-098
@@ -60,6 +65,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE098
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR099
     set_name: Dark Revelation Volume 2
@@ -69,6 +78,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR098
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT099
     set_name: Dark Revelation Volume 2
@@ -76,6 +89,15 @@ sets:
     - Common
   - set_number: IOC-IT098
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT098
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT098
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

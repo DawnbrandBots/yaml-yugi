@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta viene Evocata per Scoperta, puoi equipaggiare a questa carta 1 Carta Magia Equipaggiamento nel tuo Cimitero.
   pt: |-
-    Quando esta carta é Flip Summoned, você pode equipar 1 Equip Spell Card do seu Cemitério nesta carta.
+    Quando este card for Invocado por Invocação-Virar, você pode equipar 1 Card de Magia de Equipamento do seu Cemitério a este card.
   ja: |-
     このカードが反転召喚に成功した時、自分の墓地の装備魔法カード１枚をこのカードに装備する事ができる。
   ko: |-
@@ -41,15 +41,19 @@ atk: 1100
 def: 500
 images:
 - index: 1
-  image: ChopmantheDesperateOutlaw-DR2-EN-C-UE.png
+  image: ChopmantheDesperateOutlaw-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN010
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN010
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN010
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN010
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-010
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE010
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR010
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR010
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-FR010
     set_name: Dark Revelation Volume 2
@@ -81,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT010
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT010
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT010
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

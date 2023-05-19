@@ -25,7 +25,7 @@ text:
   it: |-
     Aumenta il DEF di tutti i mostri sul tuo Terreno di 300 punti.
   pt: |-
-    Todos os monstros que você controla ganham 300 de DEF.
+    Aumente em 300 a DEF de todos os monstros no seu campo.
   ja: |-
     自分フィールド上に存在する全てのモンスターの守備力は３００ポイントアップする。
   ko: |-
@@ -39,15 +39,19 @@ series:
 - Chaos
 images:
 - index: 1
-  image: YellowLusterShield-DR2-EN-C-UE.png
+  image: YellowLusterShield-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN037
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN037
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN037
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN037
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-037
@@ -55,30 +59,47 @@ sets:
     rarities:
     - Common
   de:
-  - set_number: IOC-DE037
-    set_name: Invasion of Chaos
-    rarities:
-    - Common
   - set_number: DR2-DE037
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
-  fr:
-  - set_number: IOC-FR037
+  - set_number: IOC-DE037
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE037
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  fr:
   - set_number: DR2-FR037
     set_name: Dark Revelation Volume 2
     rarities:
     - Common
+  - set_number: IOC-FR037
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-FR037
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
+  - set_number: DR2-IT037
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-IT037
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-IT037
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-IT037
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT037
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

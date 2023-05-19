@@ -25,7 +25,7 @@ text:
   it: |-
     Fino a quando questa carta resta scoperta sul tuo Terreno, puoi far tornare 1 Carta Mostro Normale dalla tua mano in fondo al tuo Deck durante la tua End Phase per pescare 1 carta dal tuo Deck. Puoi usare questo effetto solo una volta per turno.
   pt: |-
-    Uma vez por turno, durante cada uma das suas Fases Finais, você pode devolver 1 Monstro Normal da sua mão para o fundo do seu Deck para comprar 1 card.
+    Enquanto este card estiver com a face para cima no seu campo, durante sua Fase Final, você pode devolver 1 Card de Monstro Normal na sua mão para o fundo do seu Deck para comprar 1 card do seu Deck. Você só pode usar este efeito uma vez por turno.
   ja: |-
     このカードが自分フィールド上に表側表示で存在する限り、自分のエンドフェイズ時に手札から通常モンスターカード１枚をデッキの一番下に戻す事で、デッキからカードを１枚ドローする事ができる。この効果は１ターンに１度しか使用できない。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Goblin
 images:
 - index: 1
-  image: CoachGoblin-DR2-EN-C-UE.png
+  image: CoachGoblin-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR2-EN015
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: IOC-EN015
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-EN015
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-015
@@ -67,6 +71,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE015
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR015
     set_name: Dark Revelation Volume 2
@@ -76,6 +84,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR015
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT015
     set_name: Dark Revelation Volume 2
@@ -83,6 +95,15 @@ sets:
     - Common
   - set_number: IOC-IT015
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT015
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT015
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

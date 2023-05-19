@@ -3,7 +3,7 @@ password: 39168895
 name:
   en: Berserk Gorilla
   de: Rasender Gorilla
-  es: Gorila Berseker
+  es: Gorila Berserker
   fr: Gorille Enragé
   it: Gorilla Berserk
   pt: Gorila Enraivecido
@@ -19,7 +19,7 @@ text:
   de: |-
     Falls sich diese Karte in offener Verteidigungsposition befindet, zerstöre sie. Diese Karte muss angreifen, falls möglich.
   es: |-
-    Si esta carta está en Posición de Defensa boca arriba en el Campo, destruye esta carta. Esta carta debe atacar si es posible.
+    Si esta carta está en Posición de Defensa boca arriba, destruye esta carta. Esta carta debe atacar si es posible.
   fr: |-
     Si cette carte est en Position de Défense face recto, détruisez cette carte. Cette carte doit attaquer, si possible.
   it: |-
@@ -41,13 +41,9 @@ atk: 2000
 def: 1000
 images:
 - index: 1
-  image: BerserkGorilla-BP03-EN-R-1E.png
+  image: BerserkGorilla-IOC-EN-R-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN013
-    set_name: Invasion of Chaos
-    rarities:
-    - Rare
   - set_number: DR2-EN013
     set_name: Dark Revelation Volume 2
     rarities:
@@ -56,11 +52,19 @@ sets:
     set_name: Tournament Pack 8
     rarities:
     - Common
+  - set_number: IOC-EN013
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   - set_number: BP03-EN008
     set_name: 'Battle Pack 3: Monster League'
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: IOC-EN013
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
   - set_number: IOC-013
     set_name: Invasion of Chaos
     rarities:
@@ -95,6 +99,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: IOC-DE013
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
   fr:
   - set_number: DR2-FR013
     set_name: Dark Revelation Volume 2
@@ -117,6 +125,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: IOC-FR013
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
   it:
   - set_number: DR2-IT013
     set_name: Dark Revelation Volume 2
@@ -139,6 +151,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: IOC-IT013
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
   pt:
   - set_number: WGRT-PT009
     set_name: War of the Giants Reinforcements
@@ -149,6 +165,10 @@ sets:
     rarities:
     - Rare
     - Shatterfoil Rare
+  - set_number: IOC-PT013
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Rare
   ja:
   - set_number: 306-013
     set_name: Controller of Chaos

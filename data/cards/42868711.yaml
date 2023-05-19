@@ -19,13 +19,13 @@ text:
   de: |-
     Annuliere den Effekt einer zielenden gegnerischen Zauber- oder Fallenkarte, die diese offene liegende Karte auf dem Spielfeld zum Ziel bestimmt.
   es: |-
-    Niega el efecto de Cartas Mágicas y de Trampa controladas por tu adversario que designen carta boca arriba en el Campo como objetivo.
+    Niega el efecto de Cartas Mágicas y de Trampa controladas por tu adversario que designen esta carta boca arriba en el Campo como objetivo.
   fr: |-
     Annulez l'effet des Cartes Magie et Piège contrôlées par votre adversaire qui désignent cette carte face recto sur le Terrain comme cible.
   it: |-
     Annulla l'effetto Carte Magia e Trappola controllate dal tuo avversario che designano questa carta scoperta sul Terreno come bersaglio.
   pt: |-
-    Negue o efeito de Spell e Trap Cards controlados pelo seu oponente que designam esta carta virada para cima no campo como alvo.
+    Negue o efeito de Cards de Magia e Armadilha controlados por seu oponente que escolham como alvo este card com a face para cima no campo.
   ja: |-
     フィールド上に表側表示で存在するこのカードを対象とした、相手がコントロールする魔法・罠カードの効果を無効にする。
   ko: |-
@@ -41,15 +41,19 @@ atk: 1200
 def: 1400
 images:
 - index: 1
-  image: GoraTurtleofIllusion-DR2-EN-C-UE.png
+  image: GoraTurtleofIllusion-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
+  - set_number: DR2-EN067
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN066
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN067
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN066
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-066
@@ -65,6 +69,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE066
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR2-FR067
     set_name: Dark Revelation Volume 2
@@ -74,6 +82,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-FR066
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   it:
   - set_number: DR2-IT067
     set_name: Dark Revelation Volume 2
@@ -81,6 +93,15 @@ sets:
     - Common
   - set_number: IOC-IT066
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-IT066
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
+  pt:
+  - set_number: IOC-PT066
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:

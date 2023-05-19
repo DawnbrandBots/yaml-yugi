@@ -25,7 +25,7 @@ text:
   it: |-
     Scegli come bersaglio 1 mostro Bestia o Guerriero-Bestia; esso guadagna ATK pari al suo DEF attuale (fino alla End Phase) e, se lo fa, viene distrutto durante la End Phase.
   pt: |-
-    Escolha 1 monstro do Tipo Besta ou Besta-Guerreira; ele ganha ATK igual à sua DEF até a Fase Final. Durante a Fase Final, destrua-o.
+    Escolha 1 monstro Besta ou Besta-Guerreira; ele ganha ATK igual à sua DEF atual (até a Fase Final) e, se isso acontecer, ele é destruído durante a Fase Final.
   ja: |-
     フィールド上の獣族・獣戦士族モンスター１体を選択して発動できる。選択した獣族・獣戦士族モンスターの攻撃力は、そのモンスターの守備力分アップする。この効果を受けたモンスターはエンドフェイズ時に破壊される。
   ko: |-
@@ -38,13 +38,9 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: WildNaturesRelease-SBCB-EN-C-1E.png
+  image: WildNaturesRelease-IOC-EN-SR-UE-25thAnniversaryEdition.png
 sets:
   en:
-  - set_number: IOC-EN033
-    set_name: Invasion of Chaos
-    rarities:
-    - Super Rare
   - set_number: DR2-EN033
     set_name: Dark Revelation Volume 2
     rarities:
@@ -53,6 +49,10 @@ sets:
     set_name: 'Champion Pack: Game Three'
     rarities:
     - Common
+  - set_number: IOC-EN033
+    set_name: Invasion of Chaos
+    rarities:
+    - Super Rare
   - set_number: SDOK-EN026
     set_name: Onslaught of the Fire Kings Structure Deck
     rarities:
@@ -61,6 +61,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: IOC-EN033
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   - set_number: IOC-033
     set_name: Invasion of Chaos
     rarities:
@@ -86,6 +90,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: IOC-DE033
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   fr:
   - set_number: DR2-FR033
     set_name: Dark Revelation Volume 2
@@ -107,6 +115,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: IOC-FR033
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   it:
   - set_number: DR2-IT033
     set_name: Dark Revelation Volume 2
@@ -128,11 +140,19 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: IOC-IT033
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   pt:
   - set_number: SDOK-PT026
     set_name: Onslaught of the Fire Kings Structure Deck
     rarities:
     - Common
+  - set_number: IOC-PT033
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Super Rare
   ja:
   - set_number: 306-033
     set_name: Controller of Chaos

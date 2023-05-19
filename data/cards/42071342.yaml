@@ -34,26 +34,30 @@ text:
   zh-CN: |-
     守护暗黑之海的战士。在水中的战斗力就不用多说了，即使是在陆地上也同时拥有很高的战斗能力。
 card_type: Monster
-monster_type_line: Sea Serpent
+monster_type_line: Sea Serpent / Normal
 attribute: WATER
 level: 4
 atk: 1800
 def: 1500
 images:
 - index: 1
-  image: SeaSerpentWarriorofDarkness-DR2-EN-C-UE.png
+  image: SeaSerpentWarriorofDarkness-IOC-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: SD4-EN003
     set_name: 'Structure Deck: Fury from the Deep'
     rarities:
     - Common
+  - set_number: DR2-EN060
+    set_name: Dark Revelation Volume 2
+    rarities:
+    - Common
   - set_number: IOC-EN059
     set_name: Invasion of Chaos
     rarities:
     - Common
-  - set_number: DR2-EN060
-    set_name: Dark Revelation Volume 2
+  - set_number: IOC-EN059
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: IOC-059
@@ -73,6 +77,10 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-DE059
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: SD4-FR003
     set_name: 'Structure Deck: Fury from the Deep'
@@ -84,6 +92,10 @@ sets:
     - Common
   - set_number: IOC-FR059
     set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: IOC-FR059
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -99,9 +111,17 @@ sets:
     set_name: Invasion of Chaos
     rarities:
     - Common
+  - set_number: IOC-IT059
+    set_name: Invasion of Chaos (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: SD4-PT003
     set_name: 'Structure Deck: Fury from the Deep'
+    rarities:
+    - Common
+  - set_number: IOC-PT059
+    set_name: Invasion of Chaos (25th Anniversary Edition)
     rarities:
     - Common
   ja:
