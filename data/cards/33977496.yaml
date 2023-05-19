@@ -25,7 +25,7 @@ text:
   it: |-
     Quando questa carta in Posizione di Difesa viene attaccata e l'ATK del mostro attaccante è inferiore del DEF di questa carta, distruggi il mostro attaccante dopo il calcolo dei danni.
   pt: |-
-    Se um monstro ataca esta carta na Posição de Defesa com um ATK menor que a DEF desta carta, destrua-o no fim da Damage Step.
+    Quando este card, em Posição de Defesa, é atacado e o ATK do monstro atacante é menor que o DEF deste card, depois do cálculo de dano destrúa o monstro atacante.
   ja: |-
     守備表示のこのカードが攻撃を受けた時、このカードの守備力が相手攻撃モンスターの攻撃力を越えていれば、ダメージステップ終了時にその攻撃モンスターを破壊する。
   ko: |-
@@ -43,7 +43,7 @@ series:
 - Thousand Needles
 images:
 - index: 1
-  image: ThousandNeedles-DR1-EN-C-UE.png
+  image: ThousandNeedles-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DCR-EN028
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: DR1-EN190
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-EN028
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-028
@@ -67,6 +71,10 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: DCR-DE028
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DCR-FR028
     set_name: Dark Crisis
@@ -74,6 +82,10 @@ sets:
     - Common
   - set_number: DR1-FR190
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-FR028
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -85,9 +97,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: DCR-IT028
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT190
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT028
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -25,7 +25,7 @@ text:
   it: |-
     Scegli 1 mostro sul tuo Terreno e mandalo al Cimitero. Aumenta i tuoi Life Points di un ammontare di punti pari all'ATK originale del mostro.
   pt: |-
-    Ative por enviar 1 monstro que você controla ao Cemitério. Você ganha LPs igual ao ATK daquele monstro.
+    Escolha 1 monstro no seu Campo e envie-o para o Cemitério. Aumente os seus Life Points num valor igual ao ATK original do monstro.
   ja: |-
     自分フィールド上のモンスターを１体選択して墓地に送る。このモンスターの元々の攻撃力分のライフポイントを回復する。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: AltarforTribute-DR1-EN-C-UE.png
+  image: AltarforTribute-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN257
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: DCR-EN095
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: DCR-EN095
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-095
@@ -61,6 +65,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-DE095
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR257
     set_name: Dark Revelation Volume 1
@@ -68,6 +76,10 @@ sets:
     - Common
   - set_number: DCR-FR095
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: DCR-FR095
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -79,9 +91,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-IT095
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT257
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT095
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

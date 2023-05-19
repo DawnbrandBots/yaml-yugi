@@ -25,7 +25,7 @@ text:
   it: |-
     Se un mostro viene Evocato tramite Tributo offrendo come Tributo questa carta: guadagni 2000 LP.
   pt: |-
-    Quando um monstro for Invocado por Invocação-Tributo tendo recebido este card como Tributo: o dono deste card ganha 2000 Pontos de Vida.
+    Se um monstro for Invocado por Invocação-Tributo tendo recebido este card como Tributo: ganhe 2000 PV.
   ja: |-
     ①：このカードがアドバンス召喚のためにリリースされた場合に発動する。自分は２０００ＬＰ回復する。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1700
 def: 1200
 images:
 - index: 1
-  image: Zolga-SBCB-EN-C-1E.png
+  image: Zolga-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN241
@@ -64,6 +64,10 @@ sets:
     - Mosaic Rare
   - set_number: SBCB-EN129
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: DCR-EN079
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-079
@@ -93,6 +97,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: DCR-DE079
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR241
     set_name: Dark Revelation Volume 1
@@ -114,6 +122,10 @@ sets:
     - Starfoil Rare
   - set_number: SBCB-FR129
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: DCR-FR079
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -139,6 +151,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: DCR-IT079
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT241
     set_name: Dark Revelation Volume 1
@@ -149,6 +165,10 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  - set_number: DCR-PT079
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   ja:
   - set_number: 305-026
     set_name: Threat of the Dark Demon World

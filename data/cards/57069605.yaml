@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi attivare questa carta solo quando i tuoi Life Points sono inferiori a quelli del tuo avversario di almeno 2000 punti. Salta la prossima Battle Phase del tuo avversario.
   pt: |-
-    Ative somente quando você possui 2000 ou mais LPs a menos que o seu oponente. Seu oponente não pode conduzir a próxima Battle Phase dele.
+    Você pode activar este card apenas quando os Life Points do seu adversário forem pelo menos 2000 pontos superiores aos seus. Salte a próxima Battle Phase do seu adversário.
   ja: |-
     自分のライフポイントが相手のライフポイントより２０００以上少ない時に発動する事ができる。相手の次のバトルフェイズをスキップする。
   ko: |-
@@ -37,7 +37,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: FrozenSoul-DR1-EN-C-UE.jpg
+  image: FrozenSoul-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DCR-EN096
@@ -46,6 +46,10 @@ sets:
     - Common
   - set_number: DR1-EN258
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-EN096
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-096
@@ -61,6 +65,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-DE096
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR258
     set_name: Dark Revelation Volume 1
@@ -68,6 +76,10 @@ sets:
     - Common
   - set_number: DCR-FR096
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: DCR-FR096
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -79,9 +91,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-IT096
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT258
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT096
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

@@ -6,7 +6,7 @@ name:
   es: Reunión de los Escorpiones Oscuros
   fr: Assemblée des Scorpion Noir
   it: Raduno dei Dark Scorpion
-  pt: Junção do Escorpião das Trevas
+  pt: Junção dos Escorpião das Trevas
   ja: <ruby>黒<rt>くろ</rt></ruby><ruby>蠍<rt>さそり</rt></ruby><ruby>団<rt>だん</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
   ja_romaji: Kurosasoridan Shōshū
   ko: 전갈단 소집
@@ -19,6 +19,7 @@ text:
   de: |-
     Falls du einen offenen „Don Zaloog“ kontrollierst: Du kannst eine beliebige Anzahl „Dunkler Skorpion“-Monster als Spezialbeschwörung von deiner Hand beschwören, aber von jedem nur 1 Kopie.
   es: |-
+    (Esta carta se trata siempre como una carta "Escorpión Oscuro").
     Si controlas un "Don Zaloog" boca arriba: puedes Invocar de Modo Especial, desde tu mano, cualquier cantidad de monstruos "Escorpión Oscuro", pero sólo 1 copia de cada uno.
   fr: |-
     Si vous contrôlez "Don Zaloog" face recto : vous pouvez Invoquer Spécialement un nombre de votre choix de monstres "Scorpion Noir" depuis votre main, mais uniquement 1 exemplaire de chacun.
@@ -39,7 +40,7 @@ series:
 - Dark Scorpion
 images:
 - index: 1
-  image: MusteringoftheDarkScorpions-GLD5-EN-C-LE.png
+  image: MusteringoftheDarkScorpions-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN255
@@ -52,6 +53,10 @@ sets:
     - Common
   - set_number: GLD5-EN042
     set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Common
+  - set_number: DCR-EN093
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-093
@@ -71,6 +76,10 @@ sets:
     set_name: 'Gold Series: Haunted Mine'
     rarities:
     - Common
+  - set_number: DCR-DE093
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR255
     set_name: Dark Revelation Volume 1
@@ -82,6 +91,10 @@ sets:
     - Common
   - set_number: GLD5-FR042
     set_name: 'Gold Series: Haunted Mine'
+    rarities:
+    - Common
+  - set_number: DCR-FR093
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -97,9 +110,17 @@ sets:
     set_name: 'Gold Series: Haunted Mine'
     rarities:
     - Common
+  - set_number: DCR-IT093
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT255
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT093
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

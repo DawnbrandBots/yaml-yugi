@@ -6,7 +6,7 @@ name:
   es: Perro Nin-Ken
   fr: Chien Nin-Ken
   it: Cane Nin-Ken
-  pt: Cão Nin-ken
+  pt: Cão Nin-Ken
   ja: <ruby>忍<rt>にん</rt></ruby><ruby>犬<rt>けん</rt></ruby>ワンダードッグ
   ja_romaji: Ninken Wandā Doggu
   ko: 닌자견 원더독
@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     忍术攀登到顶峰的狗忍者。通过严格的修行，变得可以使用拟人化的忍术。
 card_type: Monster
-monster_type_line: Beast-Warrior
+monster_type_line: Beast-Warrior / Normal
 attribute: WIND
 level: 4
 atk: 1800
 def: 1000
 images:
 - index: 1
-  image: NinKenDog-DCR-NA-C-1E.jpg
+  image: NinKenDog-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DCR-EN002
@@ -50,6 +50,10 @@ sets:
     - Common
   - set_number: DR1-EN164
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-EN002
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-002
@@ -65,6 +69,10 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: DCR-DE002
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DCR-FR002
     set_name: Dark Crisis
@@ -72,6 +80,10 @@ sets:
     - Common
   - set_number: DR1-FR164
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-FR002
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -83,9 +95,17 @@ sets:
     set_name: Dark Revelation Volume 1
     rarities:
     - Common
+  - set_number: DCR-IT002
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT164
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT002
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

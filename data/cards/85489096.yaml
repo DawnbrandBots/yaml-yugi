@@ -17,15 +17,15 @@ text:
   en: |-
     FLIP: Add 1 "Guardian" card from your Deck to your hand, except "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of the Labyrinth", or "The Reliable Guardian".
   de: |-
-    FLIPP: Füge deiner Hand 1 „Wächter“-Karte von deinem Deck hinzu, außer „Keltischer Wächter“, „Geflügelter Drache, Festungswächter #1“, „Geflügelter Drache, Festungswächter #2“, „Wächter des Labyrinths“, „Sumpfkampfwächter“, „Lavakampfwächter“, „Ausgebildeter Keltischer Wächter“, „Strafe des Wächters“, „Kinderwächter“, „Fusionswächter“ und „Grabwächter“-Karten.
+    FLIPP: Füge deiner Hand 1 „Wächter“-Karte von deinem Deck hinzu, außer „Keltischer Wächter“, „Geflügelter Drache, Festungswächter #1“, „Geflügelter Drache, Festungswächter #2“, „Wächter des Labyrinths“, „Sumpfkampfwächter“, „Lavakampfwächter“, „Strafe des Wächters“, „Kinderwächter“, „Fusionswächter“ und „Grabwächter“-Karten.
   es: |-
-    VOLTEO: Añade a tu mano, desde tu Deck, 1 carta "Guardián", excepto "Guardián Celta", "Dragón Alado, Guardián de la Fortaleza #1", "Dragón Alado, Guardián de la Fortaleza #2", "Guardián del Laberinto" , "Guardián de Batalla de Lava", "Guardián de Batalla del Pantano", "Pequeño Guardián Alado", "Guardián Celta Convertido", "Guardián Real", "Perro Guardián", "Niño Guardián" o "El Guardián Fiable".
+    VOLTEO: Añade a tu mano, desde tu Deck, 1 carta "Guardián", excepto "Guardián Celta", "Dragón Alado, Guardián de la Fortaleza #1", "Dragón Alado, Guardián de la Fortaleza #2", "Guardián del Laberinto" o "El Guardián Fiable".
   fr: |-
-    FLIP : Ajoutez une carte "Gardien" ("Gardien Celte", "Dragon Ailé, Gardien de la Forteresse N°1", "Dragon Ailé, Gardien de la Forteresse N°2", "Gardien du Labyrinthe", "Gardien Mystérieux", "Gardien Demi-Bouclier", "Trident du Dieu Gardien", "Sang Putride, Le Gardien des Limbes", "Gardien Zéro" et "Le Gardien Fiable" exclus) depuis votre Deck à votre main.
+    FLIP : Ajoutez une carte "Gardien" ("Gardien Celte", "Dragon Ailé, Gardien de la Forteresse N°1", "Dragon Ailé, Gardien de la Forteresse N°2", "Gardien du Labyrinthe", "Gardien Demi-Bouclier", "Trident du Dieu Gardien", "Sang Putride, Le Gardien des Limbes", "Gardien Zéro" et "Le Gardien Fiable" exclus) depuis votre Deck à votre main.
   it: |-
-    SCOPRI: Aggiungi 1 carta "Guardiano" dal tuo Deck alla tua mano, eccetto "Guardiano Celtico", "Guardiano Celtico Riaddestrato", "Guardiano di Lava", "Guardiano delle Paludi", "Golem Guardiano", "Il Guardiano Medio Scudo", "Siepe Guardiana" o "Guardiano Affidabile".
+    SCOPRI: Aggiungi 1 carta "Guardiano" dal tuo Deck alla tua mano, eccetto "Guardiano Celtico", "Guardiano di Lava", "Guardiano delle Paludi", "Golem Guardiano", "Il Guardiano Medio Scudo", "Siepe Guardiana" o "Guardiano Affidabile".
   pt: |-
-    VIRE: Adicione 1 card GUARDIÃO do seu Deck à sua mão.
+    VIRE: Adicione 1 card "Guardião" do seu Deck à sua mão, exceto "Guardião Celta", "Dragão Alado, Guardião da Fortaleza Nº1", "Dragão Alado, Guardião da Fortaleza Nº2", "Guardião do Labirinto", "O Guardião de Confiança" e "Guardião Nubian".
   ja: |-
     ①：このカードがリバースした場合に発動する。デッキから「ガーディアン」カード１枚を手札に加える。
   ko: |-
@@ -34,14 +34,14 @@ text:
   zh-CN: |-
     ①：这张卡反转的场合发动。从卡组把1张「守护者」卡加入手卡。
 card_type: Monster
-monster_type_line: Spellcaster / Effect
+monster_type_line: Spellcaster / Flip / Effect
 attribute: WIND
 level: 4
 atk: 1600
 def: 1600
 images:
 - index: 1
-  image: ArsenalSummoner-LCYW-EN-C-1E.png
+  image: ArsenalSummoner-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN166
@@ -54,6 +54,10 @@ sets:
     - Common
   - set_number: LCYW-EN247
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: DCR-EN004
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-004
@@ -73,6 +77,10 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: DCR-DE004
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR166
     set_name: Dark Revelation Volume 1
@@ -84,6 +92,10 @@ sets:
     - Common
   - set_number: LCYW-FR247
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: DCR-FR004
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -99,9 +111,17 @@ sets:
     set_name: "Legendary Collection 3: Yugi's World Mega Pack"
     rarities:
     - Common
+  - set_number: DCR-IT004
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT166
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT004
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

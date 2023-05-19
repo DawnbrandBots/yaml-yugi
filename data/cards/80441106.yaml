@@ -25,7 +25,7 @@ text:
   it: |-
     Se questa carta viene distrutta in battaglia e mandata al Cimitero: scegli come bersaglio 2 carte nel Cimitero del tuo avversario; mischiale nel Deck.
   pt: |-
-    Quando este card é destruído como resultado de um combate e enviado para o Cemitério, escolha 2 cards do Cemitério do seu adversário e adicione-os para o Deck do seu adversário. Em seguida, o seu adversário embaralha o seu próprio Deck.
+    Se este card for destruído em batalha e enviado para o Cemitério: escolha 2 cards no Cemitério do seu oponente; embaralhe-os no Deck.
   ja: |-
     このカードが戦闘によって破壊され墓地に送られた時、相手の墓地からカードを２枚選択して相手のデッキに加えてシャッフルする。
   ko: |-
@@ -41,7 +41,7 @@ atk: 1200
 def: 1600
 images:
 - index: 1
-  image: Keldo-SBCB-EN-C-1E.png
+  image: Keldo-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN239
@@ -54,6 +54,10 @@ sets:
     - Common
   - set_number: SBCB-EN127
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: DCR-EN077
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-077
@@ -73,6 +77,10 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: DCR-DE077
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR239
     set_name: Dark Revelation Volume 1
@@ -84,6 +92,10 @@ sets:
     - Common
   - set_number: SBCB-FR127
     set_name: 'Speed Duel: Battle City Box'
+    rarities:
+    - Common
+  - set_number: DCR-FR077
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -99,9 +111,17 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: DCR-IT077
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT239
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT077
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:

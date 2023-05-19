@@ -19,13 +19,13 @@ text:
   de: |-
     Ein armer Goblin, der in eine andere Dimension geschleudert wurde. Er versucht, das Beste aus seinem neuen Schicksal zu machen.
   es: |-
-    Un pobre goblin que fue absorbido en otra dimensión. De todos modos, está haciendo lo mejor con su nuevo dstino.
+    Un pobre goblin que fue absorbido en otra dimensión. De todos modos, está haciendo lo mejor con su nuevo destino.
   fr: |-
     Pauvre Gobelin aspiré dans une autre dimension, il fait son possible pour s'adapter à sa nouvelle vie.
   it: |-
     Un povero goblin che è stato risucchiato in un'altra dimensione. Comunque, sta dando il meglio di se con il suo nuovo destino.
   pt: |-
-    Um pobre goblin que foi sugado para uma dimensão diferente. No entanto, ele está fazendo seu melhor com seu novo destino.
+    Um pobre goblin que foi sugado para uma dimensão diferente. No entanto, ele dá o seu melhor no seu novo destino.
   ja: |-
     異次元に吸い込まれてしまった哀れなゴブリン。しかし、今新たな目標に向かって日々努力している。
   ko: |-
@@ -34,7 +34,7 @@ text:
   zh-CN: |-
     被吸入异次元的可怜小矮人。但是现在为了新的目标而每天都在努力着。
 card_type: Monster
-monster_type_line: Fiend
+monster_type_line: Fiend / Normal
 attribute: DARK
 level: 1
 atk: 100
@@ -43,7 +43,7 @@ series:
 - D.D.
 images:
 - index: 1
-  image: DDTrainer-DCR-NA-C-UE-Reprint.png
+  image: DDTrainer-DCR-EN-C-UE-25thAnniversaryEdition.png
 sets:
   en:
   - set_number: DR1-EN217
@@ -52,6 +52,10 @@ sets:
     - Common
   - set_number: DCR-EN055
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: DCR-EN055
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   - set_number: DCR-055
@@ -67,6 +71,10 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-DE055
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   fr:
   - set_number: DR1-FR217
     set_name: Dark Revelation Volume 1
@@ -74,6 +82,10 @@ sets:
     - Common
   - set_number: DCR-FR055
     set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: DCR-FR055
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   it:
@@ -85,9 +97,17 @@ sets:
     set_name: Dark Crisis
     rarities:
     - Common
+  - set_number: DCR-IT055
+    set_name: Dark Crisis (25th Anniversary Edition)
+    rarities:
+    - Common
   pt:
   - set_number: DR1-PT217
     set_name: Dark Revelation Volume 1
+    rarities:
+    - Common
+  - set_number: DCR-PT055
+    set_name: Dark Crisis (25th Anniversary Edition)
     rarities:
     - Common
   ja:
