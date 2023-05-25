@@ -8,7 +8,7 @@ name:
   pt:
   ja: ステマジック
   ja_romaji: Sutemajikku
-  ko:
+  ko: 스테매직
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。この効果の条件で魔法カードを墓地へ送り、自分のＬＰが１０００以下の場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 이 효과의 조건으로 마법 카드를 묘지로 보내고, 자신의 LP가 1000 이하일 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP042
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR042
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare

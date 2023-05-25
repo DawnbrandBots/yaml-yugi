@@ -8,7 +8,7 @@ name:
   pt:
   ja: ジョインテック・レオ
   ja_romaji: Jointekku Reo
-  ko:
+  ko: 조인테크 레오
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は相手の墓地の魔法・罠カード１枚を選ぶ。相手はそのカードを自身のフィールドにセットする。その後、自分は自分の墓地のモンスター（レベル７以上／地属性／機械族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신은 상대 묘지의 마법 / 함정 카드 1장을 고른다. 상대는 그 카드를 자신 필드에 세트한다. 그 후, 자신은 자신 묘지의 몬스터(레벨 7 이상 / 땅 속성 / 기계족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,4 +57,13 @@ sets:
     set_name: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR005
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR005
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715472

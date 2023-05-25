@@ -8,7 +8,7 @@ name:
   pt:
   ja: ジョインテック・グレートウォール
   ja_romaji: Jointekku Gurēto Wōru
-  ko:
+  ko: 조인테크 그레이트월
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／地属性／機械族）がいる場合、相手がモンスター（レベル７以上）を表側表示で召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 땅 속성 / 기계족)가 있을 경우, 상대가 몬스터(레벨 7 이상)를 앞면 표시로 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（地属性／機械族）を３体まで選ぶ。このターン、そのモンスターの攻撃力は３００アップし、戦闘では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(땅 속성 / 기계족)를 3장까지 고른다. 이 턴에, 그 몬스터의 공격력은 300 올리고, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP057
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR057
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common

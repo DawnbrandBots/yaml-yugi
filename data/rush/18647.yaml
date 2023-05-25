@@ -8,7 +8,7 @@ name:
   pt:
   ja: ファントム・ロアー
   ja_romaji: Fantomu Roā
-  ko:
+  ko: 팬텀 로어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のモンスターが相手の攻撃で破壊された時、自分の墓地のモンスター（レベル５以上）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신의 몬스터가 상대의 공격으로 파괴되었을 때, 자신 묘지의 몬스터(레벨 5 이상) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力を次の自分ターン終了時まで１０００ダウンできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 다음 자신 턴의 종료시까지 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP065
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KR065
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare

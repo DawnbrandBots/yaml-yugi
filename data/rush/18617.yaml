@@ -8,7 +8,7 @@ name:
   pt:
   ja: ザ☆ドラギアスター
   ja_romaji: Za☆Doragiasutā
-  ko:
+  ko: 더☆드라기아스타
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に同名の通常モンスターが２体以上いる場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 같은 이름의 일반 몬스터가 2장 이상 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -38,7 +39,8 @@ effect:
   pt:
   ja: |-
     ●自分フィールドの同名の攻撃表示モンスター２体を選ぶ。このターン、そのモンスターはそれぞれ２回攻撃できる。●自分の墓地の同名の通常モンスター２体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    ●자신 필드의 같은 이름의 공격 표시 몬스터 2장을 고른다. 이 턴에, 그 몬스터는 각각 2회 공격할 수 있다. ●자신 묘지의 같은 이름의 일반 몬스터 2장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -57,7 +59,8 @@ materials:
   pt:
   ja: |-
     「ザ☆ドラギアス」＋「ザ☆ドラギアス」
-  ko:
+  ko: |-
+    "더☆드라기아스" ＋ "더☆드라기아스"
   zh-TW:
   zh-CN:
 series:
@@ -68,6 +71,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP035
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+    - Rush Rare
+  ko:
+  - set_number: RD/KP12-KR035
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare

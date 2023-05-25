@@ -8,7 +8,7 @@ name:
   pt:
   ja: エーテル・エスケープ
   ja_romaji: Ēteru Esukēpu
-  ko:
+  ko: 에테르 이스케이프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル７以上）を召喚した時、自分の墓地のモンスター（戦士族または機械族）を合計２体デッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 7 이상)를 일반 소환했을 때, 자신 묘지의 몬스터(전사족 또는 기계족)를 합계 2장 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを裏側守備表示にする。自分フィールドに表側表示のフュージョンモンスターがいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで持ち主のデッキの上に戻す事ができる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 뒷면 수비 표시로 한다. 자신 필드에 앞면 표시의 퓨전 몬스터가 있을 경우, 추가로 상대 필드의 뒷면 표시의 카드 1장을 고르고 주인의 덱 위로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP062
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR062
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare

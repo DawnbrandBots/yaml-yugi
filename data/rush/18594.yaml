@@ -8,7 +8,7 @@ name:
   pt:
   ja: ザ☆クローン
   ja_romaji: Za☆Kurōn
-  ko:
+  ko: 더☆클론
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分の墓地に「ザ☆コピー」または「バック・トゥ・ザ☆フュージョン」がある場合、さらにこのターン、このカードのカード名は「ザ☆ドラギアス」になる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 묘지에 "더☆카피" 또는 "백 투 더☆퓨전"이 있을 경우, 추가로 이 턴에, 이 카드의 카드명은 "더☆드라기아스"가 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP012
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR012
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
