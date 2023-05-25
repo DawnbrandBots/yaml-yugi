@@ -1157,6 +1157,10 @@ sets:
     set_name: Grand Rush Pack
     rarities:
     - Secret Rare
+  - set_number: RD/KP12-KR066
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 715960
 ---
 konami_id: 15165
@@ -32169,6 +32173,14 @@ sets:
     set_name: Event Pack 2021 EX Vol.1
     rarities:
     - Secret Rare
+  - set_number: RD/SR02-KR008
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR008
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 714468
 ---
 konami_id: 16372
@@ -54483,7 +54495,7 @@ yugipedia_page_id: 714216
 ---
 konami_id: 17293
 name:
-  en: Sickleon
+  en: Kamaleon
   de:
   es:
   fr:
@@ -54533,7 +54545,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: Sickleon-RDKP08-JP-R.png
+  image: Kamaleon-RDKP08-JP-R.png
 sets:
   ja:
   - set_number: RD/KP08-JP017
@@ -54615,7 +54627,7 @@ yugipedia_page_id: 714292
 ---
 konami_id: 17295
 name:
-  en: Hot Flameleon
+  en: Fiery Infernleon
   de:
   es:
   fr:
@@ -54665,7 +54677,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: HotFlameleon-RDKP08-JP-R.png
+  image: FieryInfernleon-RDKP08-JP-R.png
 sets:
   ja:
   - set_number: RD/KP08-JP019
@@ -76919,7 +76931,7 @@ name:
   pt:
   ja: グレイストーム・レヴェリー
   ja_romaji: Gureisutōmu Reverī
-  ko:
+  ko: 그레이스톰 레버리
   ko_rr:
   zh-TW:
   zh-CN:
@@ -76933,7 +76945,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのこのカード以外のカード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 이 카드 이외의 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -76946,7 +76959,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで５００アップする。お互いのフィールドに魔法・罠カードがない場合、さらにこのターン、このカードはモンスターに２回攻撃できる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 500 올린다. 서로의 필드에 마법 / 함정 카드가 없을 경우, 추가로 이 턴에, 이 카드는 몬스터에 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -76964,6 +76978,15 @@ sets:
     set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR001
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR001
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715198
 ---
 konami_id: 17979
@@ -76976,7 +76999,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 매지션즈 발키리어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -76990,7 +77013,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -77005,7 +77029,8 @@ effect:
   pt:
   ja: |-
     相手はこのカード以外の表側表示モンスター（魔法使い族）に攻撃できない。
-  ko:
+  ko: |-
+    상대는 이 카드 이외의 앞면 표시 몬스터(마법사족)에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -77024,6 +77049,15 @@ sets:
     set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR002
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR002
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715715
 ---
 konami_id: 17980
@@ -77036,7 +77070,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 태풍
   ko_rr:
   zh-TW:
   zh-CN:
@@ -77050,7 +77084,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -77063,7 +77098,8 @@ effect:
   pt:
   ja: |-
     お互いのフィールドの魔法・罠カードを全て破壊する。
-  ko:
+  ko: |-
+    서로의 필드의 마법 / 함정 카드를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -77078,6 +77114,15 @@ sets:
     set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Special Edition promotional cards"
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR003
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR003
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715283
 ---
 konami_id: 17981
@@ -81893,7 +81938,7 @@ name:
   pt:
   ja: ギャラクティカ・レミニセンス
   ja_romaji: Gyarakutika Reminisensu
-  ko:
+  ko: 갤럭티카 레미니센스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -81907,7 +81952,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の罠カード１枚をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 함정 카드 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -81920,7 +81966,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの全ての表側表示モンスター（ギャラクシー族）の攻撃力をターン終了時まで４００アップする。自分フィールドに表側表示の「ギャラクティカ・オブリビオン」がいる場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで１０００ダウンできる。
-  ko:
+  ko: |-
+    자신 필드의 모든 앞면 표시 몬스터(갤럭시족)의 공격력을 턴 종료시까지 400 올린다. 자신 필드에 앞면 표시의 "갤럭티카 오블리비언"이 있을 경우, 추가로 상대 필드의 모든 앞면 표시 몬스터의 공격력을 턴 종료시까지 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -81940,6 +81987,11 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Volume 1 promotional card
     rarities:
     - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KRS01
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715062
 ---
 konami_id: 18333
@@ -86429,7 +86481,7 @@ name:
   pt:
   ja: トランザム・ライナック－ウォー・トゥ・ゼン！
   ja_romaji: Toranzamu Rainakku - Wō Tu Zen!
-  ko:
+  ko: 트랜잠 라이나크－워 투 젠!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -86443,7 +86495,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示モンスター（光属性／攻撃力１４００以下）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시 몬스터(빛 속성 / 공격력 1400 이하)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -86456,7 +86509,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（攻撃力１５００以下）１体を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(공격력 1500 이하) 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -86477,6 +86531,15 @@ sets:
     set_name: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR004
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR004
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 717192
 ---
 konami_id: 18401
@@ -86489,7 +86552,7 @@ name:
   pt:
   ja: ジョインテック・レオ
   ja_romaji: Jointekku Reo
-  ko:
+  ko: 조인테크 레오
   ko_rr:
   zh-TW:
   zh-CN:
@@ -86503,7 +86566,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -86516,7 +86580,8 @@ effect:
   pt:
   ja: |-
     自分は相手の墓地の魔法・罠カード１枚を選ぶ。相手はそのカードを自身のフィールドにセットする。その後、自分は自分の墓地のモンスター（レベル７以上／地属性／機械族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신은 상대 묘지의 마법 / 함정 카드 1장을 고른다. 상대는 그 카드를 자신 필드에 세트한다. 그 후, 자신은 자신 묘지의 몬스터(레벨 7 이상 / 땅 속성 / 기계족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -86536,6 +86601,15 @@ sets:
     set_name: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR005
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR005
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715472
 ---
 konami_id: 18402
@@ -86548,7 +86622,7 @@ name:
   pt:
   ja: ライトウェーブ・ドラゴン
   ja_romaji: Raitowēbu Doragon
-  ko:
+  ko: 라이트웨이브 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -86562,7 +86636,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -86575,7 +86650,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスターを３体まで選び、その攻撃力をこのメインフェイズの間１５００ダウンする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터를 3장까지 고르고, 그 공격력을 이 메인 페이즈 동안 1500 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -86595,6 +86671,15 @@ sets:
     set_name: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR006
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR006
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715626
 ---
 konami_id: 18403
@@ -86607,7 +86692,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 매직 실린더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -86621,7 +86706,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -86634,7 +86720,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にし、［そのモンスターの攻撃力］だけ相手にダメージを与える。
-  ko:
+  ko: |-
+    그 공격을 무효로 하고, [그 몬스터의 공격력]만큼 상대에게 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -86649,6 +86736,15 @@ sets:
     set_name: Yu-Gi-Oh! Rush Duel Duel Disk Yudias Version
     rarities:
     - Secret Rare
+  ko:
+  - set_number: RD/SR02-KR007
+    set_name: Secret Record Pack 2 Vol.2
+    rarities:
+    - Secret Rare
+  - set_number: RD/SR02-KR007
+    set_name: Secret Record Pack 2 Vol.1
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715695
 ---
 konami_id: 18446
@@ -86718,7 +86814,7 @@ name:
   pt:
   ja: サイバー・サーチ・ドラゴン
   ja_romaji: Saibā Sāchi Doragon
-  ko:
+  ko: 사이버 서치 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -86732,7 +86828,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示の「サイバー・ドラゴン」１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시의 "사이버 드래곤" 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -86745,7 +86842,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、手札１枚をデッキの上に戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 패 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -86758,7 +86856,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「サイバー・ドラゴン」１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 "사이버 드래곤" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -86778,6 +86877,11 @@ sets:
     set_name: Saikyō Jump January 2023 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP12-KRS02
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 710685
 ---
 konami_id: 18574
@@ -87135,7 +87239,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 길포드 더 라이트닝
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87149,7 +87253,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター３体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 3장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -87162,7 +87267,8 @@ requirement:
   pt:
   ja: |-
     モンスター３体をリリースしてこのカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    몬스터 3장을 릴리스하고 이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87175,7 +87281,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスターを全て破壊する。
-  ko:
+  ko: |-
+    상대 필드의 몬스터를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87195,6 +87302,12 @@ sets:
     rarities:
     - Secret Rare
     - Rush Rare
+  ko:
+  - set_number: RD/KP12-KR000
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Secret Rare
+    - Rush Rare
 yugipedia_page_id: 715129
 ---
 konami_id: 18583
@@ -87207,7 +87320,7 @@ name:
   pt:
   ja: クロマトグラファガス
   ja_romaji: Kuromatogurafagasu
-  ko:
+  ko: 크로마토그라파가스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87221,7 +87334,8 @@ text:
   pt:
   ja: |-
     体は気化し燃え盛る。我が闘志が消えぬ限りこの身は不滅。
-  ko:
+  ko: |-
+    몸은 기화하여 불타오른다. 나의 투지가 꺼지지 않는 한 이 몸은 불멸.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87241,6 +87355,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR001
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 714274
 ---
 konami_id: 18584
@@ -87253,7 +87372,7 @@ name:
   pt:
   ja: レイ・ドラゴン
   ja_romaji: Rei Doragon
-  ko:
+  ko: 레이 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87267,7 +87386,8 @@ text:
   pt:
   ja: |-
     寒い地域に生息するドラゴン。雪道を高速で移動する。
-  ko:
+  ko: |-
+    추운 지역에 서식하는 드래곤. 눈길을 고속으로 이동한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87285,6 +87405,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR002
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716381
 ---
 konami_id: 18585
@@ -87297,7 +87422,7 @@ name:
   pt:
   ja: ザ☆ドラギアス
   ja_romaji: Za☆Doragiasu
-  ko:
+  ko: 더☆드라기아스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87311,7 +87436,8 @@ text:
   pt:
   ja: |-
     ７つの超新星がガンマ線バーストしたドラゴン。その名も、ザ☆ドラギアス！ザ☆ドラギアス！！
-  ko:
+  ko: |-
+    7개의 초신성이 감마선 폭발한 드래곤. 그 이름도, 더☆드라기아스! 더☆드라기아스!!
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87332,6 +87458,12 @@ sets:
     rarities:
     - Ultra Rare
     - Rush Rare
+  ko:
+  - set_number: RD/KP12-KR003
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+    - Rush Rare
 yugipedia_page_id: 717062
 ---
 konami_id: 18586
@@ -87344,7 +87476,7 @@ name:
   pt:
   ja: <ruby>銀眼の星猫<rt>シルバーアイズ・スターキャット</rt></ruby>
   ja_romaji: Shirubāaizu Sutākyatto
-  ko:
+  ko: 실버아이즈 스타캣
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87358,7 +87490,8 @@ text:
   pt:
   ja: |-
     銀色の眼を持つ星猫。不思議がいっぱい。
-  ko:
+  ko: |-
+    은빛의 눈동자를 가진 별 고양이. 신비함이 가득.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87378,6 +87511,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR004
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716713
 ---
 konami_id: 18587
@@ -87390,7 +87528,7 @@ name:
   pt:
   ja: <ruby>金眼の星猫<rt>ゴールデンアイズ・スターキャット</rt></ruby>
   ja_romaji: Gōruden'aizu Sutākyatto
-  ko:
+  ko: 골든아이즈 스타캣
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87404,7 +87542,8 @@ text:
   pt:
   ja: |-
     金色の眼を持つ星猫。愛嬌たっぷり。
-  ko:
+  ko: |-
+    금빛의 눈동자를 가진 별 고양이. 애교가 잔뜩.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87424,6 +87563,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR005
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 715166
 ---
 konami_id: 18588
@@ -87436,7 +87580,7 @@ name:
   pt:
   ja: ジョインテック・ブリキノサウルス
   ja_romaji: Jointekku Burikinosaurusu
-  ko:
+  ko: 조인테크 브리키노사우루스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87450,7 +87594,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87463,7 +87608,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。その後、そのモンスターの守備力をターン終了時まで２０００ダウンする。
-  ko:
+  ko: |-
+    상대 필드의 공격 표시 몬스터 1장을 고르고 앞면 수비 표시로 한다. 그 후, 그 몬스터의 수비력을 턴 종료시까지 2000 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87483,6 +87629,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR006
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 715477
 ---
 konami_id: 18589
@@ -87495,7 +87646,7 @@ name:
   pt:
   ja: レッド・ライザー
   ja_romaji: Reddo Raizā
-  ko:
+  ko: 레드 라이저
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87509,7 +87660,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87522,7 +87674,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「ケミカライザー・レッド」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "케미컬라이저 레드" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87542,6 +87695,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR007
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716402
 ---
 konami_id: 18590
@@ -87554,7 +87712,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・カタフラクトス
   ja_romaji: Voidoverugu Katafurakutosu
-  ko:
+  ko: 보이드베르그 카타프락토스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87568,7 +87726,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分フィールドにこのカード以外の表側表示モンスター（闇属性）がいる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 필드에 이 카드 이외의 앞면 표시 몬스터(어둠 속성)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87581,7 +87740,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。この効果でモンスターが墓地へ送られた場合、さらに自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 효과로 몬스터가 묘지로 보내졌을 경우, 추가로 자신 묘지의 몬스터(레벨 8 / 갤럭시족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87601,6 +87761,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR008
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 717422
 ---
 konami_id: 18591
@@ -87613,7 +87778,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・ブラックドワーフ
   ja_romaji: Voidoverugu Burakku Dowāfu
-  ko:
+  ko: 보이드베르그 블랙드워프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87627,7 +87792,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87640,7 +87806,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル４／闇属性／ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 4 / 어둠 속성 / 갤럭시족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87660,6 +87827,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR009
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 717417
 ---
 konami_id: 18592
@@ -87672,7 +87844,7 @@ name:
   pt:
   ja: <ruby>極<rt>きょく</rt></ruby><ruby>奏<rt>そう</rt></ruby>のマッハヴァイオ
   ja_romaji: Kyokusō no Mahhavaio
-  ko:
+  ko: 극주의 마하바이오
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87686,7 +87858,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -87701,7 +87874,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は、［このカードが装備している装備魔法カードの数と相手フィールドの表側表示の通常モンスターの数の合計］×５００アップする。
-  ko:
+  ko: |-
+    이 카드의 공격력은, [이 카드가 장착하고 있는 장착 마법 카드의 수와 상대 필드의 앞면 표시 일반 몬스터의 수의 합계] × 500 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87725,6 +87899,11 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Duel-4 Blu-ray & DVD promotional card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP12-KR010
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715687
 ---
 konami_id: 18593
@@ -87737,7 +87916,7 @@ name:
   pt:
   ja: <ruby>二<rt>に</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>葬<rt>そう</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby>
   ja_romaji: Nijusō no Ryū
-  ko:
+  ko: 이주장의 용
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87751,7 +87930,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87764,7 +87944,8 @@ effect:
   pt:
   ja: |-
     自分は２００ＬＰ回復する。その後、自分の墓地の「竜の二呪葬」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    자신은 200 LP 회복한다. 그 후, 자신 묘지의 "용의 이주장" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87782,6 +87963,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR011
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 714636
 ---
 konami_id: 18594
@@ -87794,7 +87980,7 @@ name:
   pt:
   ja: ザ☆クローン
   ja_romaji: Za☆Kurōn
-  ko:
+  ko: 더☆클론
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87808,7 +87994,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87821,7 +88008,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分の墓地に「ザ☆コピー」または「バック・トゥ・ザ☆フュージョン」がある場合、さらにこのターン、このカードのカード名は「ザ☆ドラギアス」になる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 묘지에 "더☆카피" 또는 "백 투 더☆퓨전"이 있을 경우, 추가로 이 턴에, 이 카드의 카드명은 "더☆드라기아스"가 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87841,6 +88029,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR012
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 717054
 ---
 konami_id: 18595
@@ -87853,7 +88046,7 @@ name:
   pt:
   ja: ミラーリング・ワイバーン
   ja_romaji: Mirāringu Waibān
-  ko:
+  ko: 미러링 와이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87867,7 +88060,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87880,7 +88074,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。さらにこのターン、このカードのカード名はこの効果で特殊召喚したモンスターと同じカード名になる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 추가로 이 턴에, 이 카드의 카드명은 이 효과로 특수 소환한 몬스터와 같은 카드명이 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87898,6 +88093,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR013
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 715928
 ---
 konami_id: 18596
@@ -87910,7 +88110,7 @@ name:
   pt:
   ja: <ruby>紫眼の星猫<rt>パープルアイズ・スターキャット</rt></ruby>
   ja_romaji: Pāpuruaizu Sutākyatto
-  ko:
+  ko: 퍼플아이즈 스타캣
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87924,7 +88124,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -87937,7 +88138,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「野性なるバリア －ノラーフォース－」１枚を選んで自分の魔法＆罠ゾーンにセットする。その後、自分フィールドの表側表示モンスター（レベル７以上／守備力２００）１体を選ぶ事ができる。選んだ場合、このターン、そのモンスターは２回攻撃できる。
-  ko:
+  ko: |-
+    자신 묘지의 "야성의 베리어 －노라 포스－" 1장을 고르고 자신의 마법 & 함정 존에 세트한다. 그 후, 자신 필드의 앞면 표시 몬스터(레벨 7 이상 / 수비력 200) 1장을 고를 수 있다. 고른 경우, 이 턴에, 그 몬스터는 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -87957,6 +88159,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR014
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716329
 ---
 konami_id: 18597
@@ -87969,7 +88176,7 @@ name:
   pt:
   ja: <ruby>緑眼の星猫<rt>グリーンアイズ・スターキャット</rt></ruby>
   ja_romaji: Gurīn'aizu Sutākyatto
-  ko:
+  ko: 그린아이즈 스타캣
   ko_rr:
   zh-TW:
   zh-CN:
@@ -87983,7 +88190,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（獣族または戦士族／守備力２００）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(야수족 또는 전사족 / 수비력 200) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -87996,7 +88204,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。この効果の条件で通常モンスターを墓地へ送った場合、さらにこのターン、モンスター（守備力２００）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 이 효과의 조건으로 일반 몬스터를 묘지로 보냈을 경우, 추가로 이 턴에, 몬스터(수비력 200)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88016,6 +88225,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR015
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 715197
 ---
 konami_id: 18598
@@ -88028,7 +88242,7 @@ name:
   pt:
   ja: キャットクロー・ガール
   ja_romaji: Kyattokurō Gāru
-  ko:
+  ko: 캣클로 걸
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88042,7 +88256,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88055,7 +88270,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（獣族／守備力２００）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で通常モンスターを特殊召喚した場合、さらに自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(야수족 / 수비력 200) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 일반 몬스터를 특수 소환했을 경우, 추가로 자신 묘지의 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88081,6 +88297,11 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Duel-3 Blu-ray & DVD promotional card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP12-KR016
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 714225
 ---
 konami_id: 18599
@@ -88093,7 +88314,7 @@ name:
   pt:
   ja: <ruby>闇眼の破星猫<rt>ダークアイズ・ブレイスターキャット</rt></ruby>
   ja_romaji: Dākuaizu Bureisutākyatto
-  ko:
+  ko: 다크아이즈 브레이스타캣
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88107,7 +88328,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88120,7 +88342,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードの攻撃は貫通する。このカードを特殊召喚した自分メインフェイズにこの効果を発動した場合、さらに相手フィールドの表側表示モンスター（レベル７・８）１体を選んで破壊できる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드의 공격은 관통한다. 이 카드를 특수 소환한 자신 메인 페이즈에 이 효과를 발동했을 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 7 / 8) 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88140,6 +88363,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR017
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 714480
 ---
 konami_id: 18600
@@ -88152,7 +88380,7 @@ name:
   pt:
   ja: サイバー・コアトル
   ja_romaji: Saibā Koatoru
-  ko:
+  ko: 사이버 코아틀
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88166,7 +88394,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88179,7 +88408,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル５／機械族）１体を選んで自分フィールドに表側表示で特殊召喚できる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 몬스터(레벨 5 / 기계족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88197,6 +88427,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR018
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 714404
 ---
 konami_id: 18601
@@ -88209,7 +88444,7 @@ name:
   pt:
   ja: エクスキューティー・フラーメ
   ja_romaji: Ekusukyūtī Furāme
-  ko:
+  ko: 엑스큐티 플라메
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88223,7 +88458,8 @@ summoning_condition:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル６以上）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 6 이상)가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -88236,7 +88472,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88249,7 +88486,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで、［お互いのフィールドの表側表示モンスター（レベル６以上）の数］×６００アップする。このターン、自分はこのカードでしか攻撃できない。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지, [서로의 필드의 앞면 표시 몬스터(레벨 6 이상)의 수] × 600 올린다. 이 턴에, 자신은 이 카드로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88269,6 +88507,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR019
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 714866
 ---
 konami_id: 18602
@@ -88281,7 +88524,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby> ソレイル
   ja_romaji: Sōkyūtenshi Soreiru
-  ko:
+  ko: 창구천사 솔레일
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88295,7 +88538,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（戦士族）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(전사족) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88308,7 +88552,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「蒼救天使 ルーア」になる。その後、自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から「フュージョン」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "창구천사 루아"가 된다. 그 후, 자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 "퓨전" 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88328,6 +88573,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR020
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 716753
 ---
 konami_id: 18603
@@ -88340,7 +88590,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby> ルーア
   ja_romaji: Sōkyūtenshi Rūa
-  ko:
+  ko: 창구천사 루아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88354,7 +88604,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（戦士族）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(전사족) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88367,7 +88618,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「蒼救天使 ソレイル」になる。その後、自分のデッキの上からカード３枚を墓地へ送る。さらに自分はこの効果で墓地へ送られたカードの中から「フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "창구천사 솔레일"이 된다. 그 후, 자신의 덱 위에서 카드 3장을 묘지로 보낸다. 추가로 자신은 이 효과로 묘지로 보내진 카드 중에서 "퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88387,6 +88639,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR021
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 715656
 ---
 konami_id: 18604
@@ -88399,7 +88656,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> ランガ
   ja_romaji: Sōkyūkishi Ranga
-  ko:
+  ko: 창구기사 란가
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88413,7 +88670,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札の「蒼救の祈り」または「フュージョン」１枚を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 "창구의 기도" 또는 "퓨전" 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88426,7 +88684,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「蒼救天使 ソレイル」または「蒼救天使 ルーア」１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 "창구천사 솔레일" 또는 "창구천사 루아" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88446,6 +88705,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR022
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716372
 ---
 konami_id: 18605
@@ -88458,7 +88722,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> セイル
   ja_romaji: Sōkyūkishi Seiru
-  ko:
+  ko: 창구기사 세일
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88472,7 +88736,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札の「蒼救の祈り」または「フュージョン」１枚を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 "창구의 기도" 또는 "퓨전" 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88485,7 +88750,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88505,6 +88771,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR023
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716634
 ---
 konami_id: 18606
@@ -88517,7 +88788,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> シエーラ
   ja_romaji: Sōkyūkishi Shiēra
-  ko:
+  ko: 창구기사 시에라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88531,7 +88802,8 @@ requirement:
   pt:
   ja: |-
     ＥＸデッキのカード名が異なるモンスター（天界戦士族）を５体まで相手に見せて発動できる。
-  ko:
+  ko: |-
+    엑스트라 덱의 카드명이 다른 몬스터(천계전사족)를 5장까지 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88544,7 +88816,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［この効果の条件で見せたモンスターの数］×２００ダウンする。このターン、自分はモンスター（天界戦士族・戦士族・天使族）でしか攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [이 효과의 조건으로 보여준 몬스터의 수] × 200 내린다. 이 턴에, 자신은 몬스터(천계전사족 / 전사족 / 천사족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88564,6 +88837,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR024
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 714284
 ---
 konami_id: 18607
@@ -88576,7 +88854,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby> ダンクス
   ja_romaji: Sōkyūkishi Dankusu
-  ko:
+  ko: 창구기사 댄크스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88590,7 +88868,8 @@ requirement:
   pt:
   ja: |-
     ＥＸデッキのカード名が異なるモンスター（天界戦士族）を５体まで相手に見せて発動できる。
-  ko:
+  ko: |-
+    엑스트라 덱의 카드명이 다른 몬스터(천계전사족)를 5장까지 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88603,7 +88882,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで、［この効果の条件で見せたモンスターの数］×２００アップする。このターン、このカードは直接攻撃できず、自分はモンスター（天界戦士族・戦士族・天使族）でしか攻撃できない。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지, [이 효과의 조건으로 보여준 몬스터의 수] × 200 올린다. 이 턴에, 이 카드는 직접 공격할 수 없으며, 자신은 몬스터(천계전사족 / 전사족 / 천사족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88623,6 +88903,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR025
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 714740
 ---
 konami_id: 18608
@@ -88635,7 +88920,7 @@ name:
   pt:
   ja: アストロバイオ・ドレイク
   ja_romaji: Asutorobaio Doreiku
-  ko:
+  ko: 아스트로바이오 드레이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88649,7 +88934,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88662,7 +88948,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。このターン、自分はフュージョンモンスターでしか直接攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트한다. 이 턴에, 자신은 퓨전 몬스터로밖에 직접 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88680,6 +88967,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR026
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 713285
 ---
 konami_id: 18609
@@ -88692,7 +88984,7 @@ name:
   pt:
   ja: <ruby>炎神の遺能者<rt>エンジンリバイバー</rt></ruby>
   ja_romaji: Enjin Ribaibā
-  ko:
+  ko: 엔진리바이버
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88706,7 +88998,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88719,7 +89012,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「炎神の遺能者」を２体まで選び、自分フィールドに表側表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスター（戦士族以外）を召喚できない。
-  ko:
+  ko: |-
+    자신 묘지의 "엔진리바이버"를 2장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터(전사족 이외)를 일반 소환할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88737,6 +89031,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR027
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 714801
 ---
 konami_id: 18610
@@ -88749,7 +89048,7 @@ name:
   pt:
   ja: ギルフォード・ザ・ライジング
   ja_romaji: Girufōdo Za Raijingu
-  ko:
+  ko: 길포드 더 라이징
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88763,7 +89062,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは特殊召喚できない。
-  ko:
+  ko: |-
+    이 카드는 특수 소환할 수 없다.
   zh-TW:
   zh-CN:
 requirement:
@@ -88776,7 +89076,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスター（戦士族）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터(전사족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88789,7 +89090,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードはモンスターに３回攻撃できる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 몬스터에 3회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88807,6 +89109,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KR028
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
 yugipedia_page_id: 715130
 ---
 konami_id: 18611
@@ -88819,7 +89126,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 전설의 길포드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88833,7 +89140,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは特殊召喚できない。
-  ko:
+  ko: |-
+    이 카드는 특수 소환할 수 없다.
   zh-TW:
   zh-CN:
 requirement:
@@ -88846,7 +89154,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88859,7 +89168,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の装備魔法カードを３枚まで選び、それぞれ自分フィールドの表側表示モンスター（戦士族）に装備する。
-  ko:
+  ko: |-
+    자신 묘지의 장착 마법 카드를 3장까지 고르고, 각각 자신 필드의 앞면 표시 몬스터(전사족)에 장착한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88877,6 +89187,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR029
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715128
 ---
 konami_id: 18612
@@ -88889,7 +89204,7 @@ name:
   pt:
   ja: トランザムロード・ライナック
   ja_romaji: Toranzamu Rōdo Rainakku
-  ko:
+  ko: 트랜잠로드 라이나크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88903,7 +89218,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -88916,7 +89232,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分フィールドの全ての表側表示モンスター（ギャラクシー族）の攻撃力をターン終了時まで、［お互いの墓地のモンスターの属性の種類］×３００アップできる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(갤럭시족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 필드의 모든 앞면 표시 몬스터(갤럭시족)의 공격력을 턴 종료시까지, [서로의 묘지 몬스터의 속성의 종류] × 300 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -88935,7 +89252,8 @@ materials:
   pt:
   ja: |-
     「トランザム・ライナック」＋「セブンスロード・マジシャン」
-  ko:
+  ko: |-
+    "트랜잠 라이나크" ＋ "세븐즈로드 매지션"
   zh-TW:
   zh-CN:
 series:
@@ -88946,6 +89264,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP030
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+    - Rush Rare
+  ko:
+  - set_number: RD/KP12-KR030
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
@@ -88962,7 +89286,7 @@ name:
   pt:
   ja: ランプの<ruby>炎<rt>えん</rt></ruby><ruby>麗<rt>れい</rt></ruby>メルエル
   ja_romaji: Ranpu no Enrei Merueru
-  ko:
+  ko: 램프의 염려 메루엘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -88976,7 +89300,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -88989,7 +89314,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローし、お互いに確認する。そのカードがモンスター（炎族）だった場合、さらに自分の墓地のモンスター（レベル８以下／炎族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우하고, 서로 확인한다. 그 카드가 몬스터(화염족)였을 경우, 추가로 자신 묘지의 몬스터(레벨 8 이하 / 화염족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89008,7 +89334,8 @@ materials:
   pt:
   ja: |-
     「ランプの炎魔メチル」＋「ランプの炎魔エチル」
-  ko:
+  ko: |-
+    "램프의 염마 메틸" ＋ "램프의 염마 에틸"
   zh-TW:
   zh-CN:
 series:
@@ -89019,6 +89346,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP031
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR031
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -89034,7 +89366,7 @@ name:
   pt:
   ja: アルケミカライズ・サラマンドラ
   ja_romaji: Arukemikaraizu Saramandora
-  ko:
+  ko: 알케미컬라이즈 사라만도라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89048,7 +89380,8 @@ requirement:
   pt:
   ja: |-
     このカードを特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89061,7 +89394,8 @@ effect:
   pt:
   ja: |-
     お互いのフィールドの魔法・罠カードを全て破壊する。その後、相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで、［この効果で破壊した魔法カードの数］×１０００ダウンできる。
-  ko:
+  ko: |-
+    서로의 필드의 마법 / 함정 카드를 전부 파괴한다. 그 후, 상대 필드의 모든 앞면 표시 몬스터의 공격력을 턴 종료시까지, [이 효과로 파괴한 마법 카드의 수] × 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89080,7 +89414,8 @@ materials:
   pt:
   ja: |-
     「ケミカライズ・サラマンダー」＋「ＳＰアシスタント・アーチ」
-  ko:
+  ko: |-
+    "케미컬라이즈 샐러맨더" ＋ "SP(슈퍼) 어시스턴트 아치"
   zh-TW:
   zh-CN:
 series:
@@ -89091,6 +89426,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP032
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/KP12-KR032
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
@@ -89106,7 +89446,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・プロトスター
   ja_romaji: Voidoverugu Purotosutā
-  ko:
+  ko: 보이드베르그 프로토스타
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89120,7 +89460,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -89133,7 +89474,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４以下／ギャラクシー族）１体を選んで手札に加える。自分の墓地に「ブラック・ホール」がある場合、さらに自分の墓地のモンスター（レベル８）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 이하 / 갤럭시족) 1장을 고르고 패에 넣는다. 자신 묘지에 "블랙홀"이 있을 경우, 추가로 자신 묘지의 몬스터(레벨 8) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89152,7 +89494,8 @@ materials:
   pt:
   ja: |-
     「ヴォイドヴェルグ・グロビュール」＋「ダーク・プロフェット」
-  ko:
+  ko: |-
+    "보이드베르그 글로뷰르" ＋ "다크 프로페트"
   zh-TW:
   zh-CN:
 series:
@@ -89163,6 +89506,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP033
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR033
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -89178,7 +89526,7 @@ name:
   pt:
   ja: ダブルレイ・ドラゴンズ
   ja_romaji: Dabururei Doragonzu
-  ko:
+  ko: 더블레이 드래곤즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89192,7 +89540,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、５００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 하이드래곤족 / 드래곤족뿐일 경우, 500 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -89208,7 +89557,8 @@ effect:
   pt:
   ja: |-
     ●自分フィールドの表側表示の通常モンスター１体を選ぶ。このターン、そのモンスターは２回攻撃できる。●自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。
-  ko:
+  ko: |-
+    ●자신 필드의 앞면 표시 일반 몬스터 1장을 고른다. 이 턴에, 그 몬스터는 2회 공격할 수 있다. ●자신 묘지의 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89227,7 +89577,8 @@ materials:
   pt:
   ja: |-
     「レイ・ドラゴン」＋「レイ・ドラゴン」
-  ko:
+  ko: |-
+    "레이 드래곤" ＋ "레이 드래곤"
   zh-TW:
   zh-CN:
 images:
@@ -89236,6 +89587,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP034
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR034
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -89251,7 +89607,7 @@ name:
   pt:
   ja: ザ☆ドラギアスター
   ja_romaji: Za☆Doragiasutā
-  ko:
+  ko: 더☆드라기아스타
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89265,7 +89621,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に同名の通常モンスターが２体以上いる場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 같은 이름의 일반 몬스터가 2장 이상 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -89281,7 +89638,8 @@ effect:
   pt:
   ja: |-
     ●自分フィールドの同名の攻撃表示モンスター２体を選ぶ。このターン、そのモンスターはそれぞれ２回攻撃できる。●自分の墓地の同名の通常モンスター２体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    ●자신 필드의 같은 이름의 공격 표시 몬스터 2장을 고른다. 이 턴에, 그 몬스터는 각각 2회 공격할 수 있다. ●자신 묘지의 같은 이름의 일반 몬스터 2장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89300,7 +89658,8 @@ materials:
   pt:
   ja: |-
     「ザ☆ドラギアス」＋「ザ☆ドラギアス」
-  ko:
+  ko: |-
+    "더☆드라기아스" ＋ "더☆드라기아스"
   zh-TW:
   zh-CN:
 series:
@@ -89311,6 +89670,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP035
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+    - Rush Rare
+  ko:
+  - set_number: RD/KP12-KR035
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
@@ -89327,7 +89692,7 @@ name:
   pt:
   ja: スターキャット・ストライニャー
   ja_romaji: Sutākyatto Sutorainyā
-  ko:
+  ko: 스타캣 스트라이냐
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89341,7 +89706,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドのカード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89354,7 +89720,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで２２００ダウンする。この効果の条件で元々の守備力が２００の通常モンスターを墓地へ送った場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력 / 수비력을 턴 종료시까지 2200 내린다. 이 효과의 조건으로 원래 수비력이 200 인 일반 몬스터를 묘지로 보냈을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89373,7 +89740,8 @@ materials:
   pt:
   ja: |-
     「キャットクロー・ガール」＋「銀眼の星猫」
-  ko:
+  ko: |-
+    "캣클로 걸" ＋ "실버아이즈 스타캣"
   zh-TW:
   zh-CN:
 series:
@@ -89392,6 +89760,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR036
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716842
 ---
 konami_id: 18619
@@ -89404,7 +89777,7 @@ name:
   pt:
   ja: スターキャット・デストロイニャー
   ja_romaji: Sutākyatto Desutoroinyā
-  ko:
+  ko: 스타캣 디스트로이냐
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89418,7 +89791,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（守備力２００）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(수비력 200) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89431,7 +89805,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のレベルが同じモンスター（守備力２００）２体を選び、自分フィールドに表側表示で特殊召喚する。この効果で通常モンスターを特殊召喚した場合、その通常モンスターの攻撃力はターン終了時まで２２００アップする。
-  ko:
+  ko: |-
+    자신 묘지의 레벨이 같은 몬스터(수비력 200) 2장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 일반 몬스터를 특수 소환했을 경우, 그 일반 몬스터의 공격력은 턴 종료시까지 2200 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89450,7 +89825,8 @@ materials:
   pt:
   ja: |-
     「キャットクロー・ガール」＋「金眼の星猫」
-  ko:
+  ko: |-
+    "캣클로 걸" ＋ "골든아이즈 스타캣"
   zh-TW:
   zh-CN:
 series:
@@ -89461,6 +89837,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP037
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR037
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -89476,7 +89857,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>閃<rt>せん</rt></ruby><ruby>光<rt>こう</rt></ruby> ソルシュエール
   ja_romaji: Sōkyū no Senkō Sorushuēru
-  ko:
+  ko: 창구의 섬광 솔슈엘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89490,7 +89871,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドのカード１枚を持ち主のデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 카드 1장을 주인의 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -89506,7 +89888,8 @@ effect:
   pt:
   ja: |-
     ●相手フィールドの魔法・罠カードを［自分フィールドの表側表示モンスター（天界戦士族）の数］まで選んで破壊する。●自分の墓地の「蒼救の証」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    ●상대 필드의 마법 / 함정 카드를 [자신 필드의 앞면 표시 몬스터(천계전사족)의 수]까지 고르고 파괴한다. ●자신 묘지의 "창구의 증표" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89525,7 +89908,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 シエーラ」＋「蒼救天使 ソレイル」
-  ko:
+  ko: |-
+    "창구기사 시에라" ＋ "창구천사 솔레일"
   zh-TW:
   zh-CN:
 series:
@@ -89536,6 +89920,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP038
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR038
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -89551,7 +89940,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>泡<rt>ほう</rt></ruby><ruby>影<rt>えい</rt></ruby> アルティエラ
   ja_romaji: Sōkyū no Hōei Arutiera
-  ko:
+  ko: 창구의 포영 알티에라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89565,7 +89954,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -89580,7 +89970,8 @@ effect:
   pt:
   ja: |-
     相手は「フュージョン」以外の通常魔法カードを発動できない。
-  ko:
+  ko: |-
+    상대는 "퓨전" 이외의 일반 마법 카드를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89599,7 +89990,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 シエーラ」＋「蒼救天使 ルーア」
-  ko:
+  ko: |-
+    "창구기사 시에라" ＋ "창구천사 루아"
   zh-TW:
   zh-CN:
 series:
@@ -89618,6 +90010,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR039
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 712691
 ---
 konami_id: 18622
@@ -89630,7 +90027,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>一<rt>いっ</rt></ruby><ruby>閃<rt>せん</rt></ruby> ディグレイス
   ja_romaji: Sōkyū no Issen Digureisu
-  ko:
+  ko: 창구의 일섬 디그레이스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89644,7 +90041,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -89660,7 +90058,8 @@ effect:
   pt:
   ja: |-
     ●このカードの攻撃力はターン終了時まで、［自分フィールドの表側表示モンスター（天界戦士族）の数］×１０００アップする。●このターン、このカードはモンスターに２回攻撃できる。
-  ko:
+  ko: |-
+    ●이 카드의 공격력은 턴 종료시까지, [자신 필드의 앞면 표시 몬스터(천계전사족)의 수] × 1000 올린다. ●이 턴에, 이 카드는 몬스터에 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89679,7 +90078,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 ダンクス」＋「蒼救天使 ソレイル」
-  ko:
+  ko: |-
+    "창구기사 댄크스" ＋ "창구천사 솔레일"
   zh-TW:
   zh-CN:
 series:
@@ -89691,6 +90091,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP040
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KR040
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
@@ -89706,7 +90111,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>幻<rt>げん</rt></ruby><ruby>影<rt>えい</rt></ruby> ドルクムーア
   ja_romaji: Sōkyū no Gen'ei Dorukumūa
-  ko:
+  ko: 창구의 환영 도르크무아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89720,7 +90125,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -89735,7 +90141,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示のカードは、相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시의 카드는, 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -89754,7 +90161,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 ダンクス」＋「蒼救天使 ルーア」
-  ko:
+  ko: |-
+    "창구기사 댄크스" ＋ "창구천사 루아"
   zh-TW:
   zh-CN:
 series:
@@ -89765,6 +90173,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP041
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR041
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -89780,7 +90193,7 @@ name:
   pt:
   ja: ステマジック
   ja_romaji: Sutemajikku
-  ko:
+  ko: 스테매직
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89794,7 +90207,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89807,7 +90221,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。この効果の条件で魔法カードを墓地へ送り、自分のＬＰが１０００以下の場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 이 효과의 조건으로 마법 카드를 묘지로 보내고, 자신의 LP가 1000 이하일 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -89818,6 +90233,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP042
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR042
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -89833,7 +90253,7 @@ name:
   pt:
   ja: クラッキング・クロウ
   ja_romaji: Kurakkingu Kurou
-  ko:
+  ko: 크래킹 크로우
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89847,7 +90267,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ドラゴン族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(드래곤족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89860,7 +90281,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は、［お互いのフィールドの表側表示モンスター（ドラゴン族）の数］×２００アップする。装備モンスターがモンスター（レベル７以上）に攻撃した時、その攻撃は貫通する。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은, [서로의 필드의 앞면 표시 몬스터(드래곤족)의 수] × 200 올린다. 장착 몬스터가 몬스터(레벨 7 이상)에 공격했을 때, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -89876,6 +90298,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR043
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 714362
 ---
 konami_id: 18626
@@ -89888,7 +90315,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・ファランクス
   ja_romaji: Voidoverugu Farankusu
-  ko:
+  ko: 보이드베르그 파랑크스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89902,7 +90329,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89915,7 +90343,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力・守備力は２００アップする。装備モンスターが闇属性の場合、そのモンスターは相手の罠カードの効果では破壊されず、その攻撃は貫通する。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력 / 수비력은 200 올린다. 장착 몬스터가 어둠 속성일 경우, 그 몬스터는 상대의 함정 카드의 효과로는 파괴되지 않으며, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -89931,6 +90360,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR044
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 717426
 ---
 konami_id: 18627
@@ -89943,7 +90377,7 @@ name:
   pt:
   ja: ロードアームズ－ソードブレイカー
   ja_romaji: Rōdo Āmuzu - Sōdobureikā
-  ko:
+  ko: 로드암즈－스워드 브레이커
   ko_rr:
   zh-TW:
   zh-CN:
@@ -89957,7 +90391,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外の表側表示の「ロードアームズ－ソードブレイカー」がない場合、自分フィールドの表側表示の「セブンスロード・マジシャン」１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 앞면 표시의 "로드암즈－스워드 브레이커"가 없을 경우, 자신 필드의 앞면 표시의 "세븐즈로드 매지션" 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -89970,7 +90405,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は［お互いのフィールドの装備されている装備魔法カードの数］×１０００アップし、そのモンスターは相手の罠カードの効果では破壊されない。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 [서로의 필드의 장착되어 있는 장착 마법 카드의 수] × 1000 올리고, 그 몬스터는 상대의 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -89981,6 +90417,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP045
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR045
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -89996,7 +90437,7 @@ name:
   pt:
   ja: ザ☆コピー
   ja_romaji: Za☆Kopī
-  ko:
+  ko: 더☆카피
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90010,7 +90451,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル７以上）がいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 7 이상)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90023,7 +90465,8 @@ effect:
   pt:
   ja: |-
     自分フィールドに同名の表側表示モンスターがいる自分の墓地の通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 필드에 같은 이름의 앞면 표시 몬스터가 있는 자신 묘지의 일반 몬스터 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90039,6 +90482,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR046
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 717055
 ---
 konami_id: 18629
@@ -90051,7 +90499,7 @@ name:
   pt:
   ja: バック・トゥ・ザ☆フュージョン
   ja_romaji: Bakku Tu Za☆Fyūjon
-  ko:
+  ko: 백 투 더☆퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90065,7 +90513,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに同名の表側表示モンスターが２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 같은 이름의 앞면 표시 몬스터가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90078,7 +90527,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」１枚を選んで手札に加える。自分の墓地に同名の通常モンスターが２体以上いる場合、さらにその中から１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 1장을 고르고 패에 넣는다. 자신 묘지에 같은 이름의 일반 몬스터가 2장 이상 있을 경우, 추가로 그 중에서 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90095,6 +90545,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR047
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 713401
 ---
 konami_id: 18630
@@ -90107,7 +90562,7 @@ name:
   pt:
   ja: バイスラッシャー
   ja_romaji: Baisurasshā
-  ko:
+  ko: 바이스래셔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90121,7 +90576,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに同名の表側表示の通常モンスター（ドラゴン族）が２体以上いる場合、その中の１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드에 같은 이름의 앞면 표시 일반 몬스터(드래곤족)가 2장 이상 있을 경우, 그 중의 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90134,7 +90590,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は［そのモンスターの元々の攻撃力］だけアップする。装備モンスターは直接攻撃できない。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 [그 몬스터의 원래 공격력]만큼 올린다. 장착 몬스터는 직접 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90145,6 +90602,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP048
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR048
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -90160,7 +90622,7 @@ name:
   pt:
   ja: ニャンダフル・ラッシュ
   ja_romaji: Nyandafuru Rasshu
-  ko:
+  ko: 냥더풀 러시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90174,7 +90636,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90187,7 +90650,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（獣族または戦士族／守備力２００）を合計２体まで選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（守備力２００以外）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(야수족 또는 전사족 / 수비력 200)를 합계 2장까지 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 턴에, 자신은 몬스터(수비력 200 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90198,6 +90662,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP049
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR049
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -90213,7 +90682,7 @@ name:
   pt:
   ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>月<rt>げっ</rt></ruby><ruby>煌<rt>こう</rt></ruby><ruby>華<rt>か</rt></ruby>
   ja_romaji: Tenshō Gekkōka
-  ko:
+  ko: 천상월황화
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90227,7 +90696,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示のフュージョンモンスター（天界戦士族）または表側表示の「月魔将キメルーナ」がいる場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 퓨전 몬스터(천계전사족) 또는 앞면 표시의 "월마장 키메루나"가 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90240,7 +90710,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90256,6 +90727,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR050
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 712062
 ---
 konami_id: 18633
@@ -90268,7 +90744,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>強<rt>きょう</rt></ruby><ruby>襲<rt>しゅう</rt></ruby>
   ja_romaji: Enma no Kyōshū
-  ko:
+  ko: 염 마의 강습
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90282,7 +90758,8 @@ requirement:
   pt:
   ja: |-
     手札のマキシマムモンスター（炎属性）３体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 맥시멈 몬스터(화염 속성) 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90295,7 +90772,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスターを全て持ち主のデッキに戻す。その後、自分フィールドの表側表示のマキシマムモンスター１体を選んでその攻撃力をターン終了時まで１０００アップできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터를 전부 주인의 덱으로 되돌린다. 그 후, 자신 필드의 앞면 표시 맥시멈 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 1000 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90311,6 +90789,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP12-KR051
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
 yugipedia_page_id: 713943
 ---
 konami_id: 18634
@@ -90323,7 +90806,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>祈<rt>いの</rt></ruby>り
   ja_romaji: Sōkyū no Inori
-  ko:
+  ko: 창구의 기도
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90337,7 +90820,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90350,7 +90834,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（光属性または闇属性／天界戦士族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(빛 속성 또는 어둠 속성 / 천계전사족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90366,6 +90851,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR052
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716727
 ---
 konami_id: 18635
@@ -90378,7 +90868,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>照<rt>しょう</rt></ruby><ruby>覧<rt>らん</rt></ruby>
   ja_romaji: Sōkyū no Shōran
-  ko:
+  ko: 창구의 조람
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90392,7 +90882,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（戦士族または天使族）を合計２体相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(전사족 또는 천사족)를 합계 2장 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90405,7 +90896,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを５枚めくり、お互いに確認する。自分はめくったカードの中から１枚を選んで手札に加える。その後、残りのカードを好きな順番でデッキの下に戻す。このターン、自分はモンスター（レベル８以下）で攻撃できず、相手は効果ダメージを受けない。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 5장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 1장을 고르고 패에 넣는다. 그 후, 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다. 이 턴에, 자신은 몬스터(레벨 8 이하)로 공격할 수 없으며, 상대는 효과 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90421,6 +90913,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP12-KR053
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
 yugipedia_page_id: 716729
 ---
 konami_id: 18636
@@ -90433,7 +90930,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>証<rt>あかし</rt></ruby>
   ja_romaji: Sōkyū no Akashi
-  ko:
+  ko: 창구의 증표
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90447,7 +90944,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスターがいる場合、自分フィールドの表側表示モンスター（天界戦士族・戦士族・天使族）１体に装備できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터가 있을 경우, 자신 필드의 앞면 표시 몬스터(천계전사족 / 전사족 / 천사족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90460,7 +90958,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は［そのモンスターのレベル］×１００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 [그 몬스터의 레벨] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90476,6 +90975,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR054
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 716728
 ---
 konami_id: 18637
@@ -90488,7 +90992,7 @@ name:
   pt:
   ja: <ruby>暴<rt>ぼう</rt></ruby><ruby>風<rt>ふう</rt></ruby><ruby>輪<rt>りん</rt></ruby>
   ja_romaji: Bōfūrin
-  ko:
+  ko: 폭풍륜
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90502,7 +91006,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90515,7 +91020,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のカード名が異なるモンスターを２～７体選んでデッキに戻す。この効果でモンスターを６体以上戻した場合、さらに相手フィールドの表側表示モンスター（レベル８以下）１体を選んで持ち主のデッキに戻す事ができる。
-  ko:
+  ko: |-
+    상대 묘지의 카드명이 다른 몬스터를 2~7장 고르고 덱으로 되돌린다. 이 효과로 몬스터를 6장 이상 되돌렸을 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 주인의 덱으로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -90526,6 +91032,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP055
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KR055
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
@@ -90541,7 +91052,7 @@ name:
   pt:
   ja: トランザム・ライトニング
   ja_romaji: Toranzamu Raitoningu
-  ko:
+  ko: 트랜잠 라이트닝
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90555,7 +91066,8 @@ requirement:
   pt:
   ja: |-
     自分の表側表示の通常モンスター（レベル４以下／ギャラクシー族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신의 앞면 표시 일반 몬스터(레벨 4 이하 / 갤럭시족)가 공격을 받는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90568,7 +91080,8 @@ effect:
   pt:
   ja: |-
     攻撃を受けるモンスターはこのターン、戦闘では破壊されない。
-  ko:
+  ko: |-
+    공격을 받는 몬스터는 이 턴에, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90584,6 +91097,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR056
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 717189
 ---
 konami_id: 18639
@@ -90596,7 +91114,7 @@ name:
   pt:
   ja: ジョインテック・グレートウォール
   ja_romaji: Jointekku Gurēto Wōru
-  ko:
+  ko: 조인테크 그레이트월
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90610,7 +91128,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／地属性／機械族）がいる場合、相手がモンスター（レベル７以上）を表側表示で召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 땅 속성 / 기계족)가 있을 경우, 상대가 몬스터(레벨 7 이상)를 앞면 표시로 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90623,7 +91142,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（地属性／機械族）を３体まで選ぶ。このターン、そのモンスターの攻撃力は３００アップし、戦闘では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(땅 속성 / 기계족)를 3장까지 고른다. 이 턴에, 그 몬스터의 공격력은 300 올리고, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90639,6 +91159,11 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP12-KR057
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
 yugipedia_page_id: 715471
 ---
 konami_id: 18640
@@ -90651,7 +91176,7 @@ name:
   pt:
   ja: アドバンス・ブロック
   ja_romaji: Adobansu Burokku
-  ko:
+  ko: 어드밴스 블록
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90665,7 +91190,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル５以上）を召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 5 이상)를 일반 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90678,7 +91204,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの攻撃表示モンスター（ドラゴン族または機械族）１体を選び、その召喚されたモンスターと選んだモンスターを表側守備表示にする。
-  ko:
+  ko: |-
+    자신 필드의 공격 표시 몬스터(드래곤족 또는 기계족) 1장을 고르고, 그 일반 소환된 몬스터와 고른 몬스터를 앞면 수비 표시로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90689,6 +91216,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP058
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR058
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -90704,7 +91236,7 @@ name:
   pt:
   ja: ダーク・ネビュラ
   ja_romaji: Dāku Nebyura
-  ko:
+  ko: 다크 네뷸라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90718,7 +91250,8 @@ requirement:
   pt:
   ja: |-
     自分のモンスター（闇属性／ギャラクシー族／攻撃力１５００以上）が相手の攻撃で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신의 몬스터(어둠 속성 / 갤럭시족 / 공격력 1500 이상)가 상대의 공격으로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90731,7 +91264,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（闇属性／ギャラクシー族）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターの攻撃力はターン終了時まで５００ダウンする。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(어둠 속성 / 갤럭시족) 1장을 고르고, 자신 필드에 앞면 공격 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 공격력은 턴 종료시까지 500 내린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90742,6 +91276,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP059
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR059
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -90757,7 +91296,7 @@ name:
   pt:
   ja: <ruby>竜<rt>りゅう</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>葬<rt>そう</rt></ruby>
   ja_romaji: Ryū no Nijusō
-  ko:
+  ko: 용의 이주장
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90771,7 +91310,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（ハイドラゴン族またはドラゴン族）がいる場合、相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(하이드래곤족 또는 드래곤족)가 있을 경우, 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90784,7 +91324,8 @@ effect:
   pt:
   ja: |-
     その攻撃を受ける自分のモンスターを自分が選び直す。自分フィールドに同名の表側表示モンスターが２体以上いる場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    그 공격을 받는 자신 몬스터를 자신이 다시 고른다. 자신 필드에 같은 이름의 앞면 표시 몬스터가 2장 이상 있을 경우, 추가로 상대 필드의 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90795,6 +91336,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP060
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR060
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -90810,7 +91356,7 @@ name:
   pt:
   ja: <ruby>野<rt>や</rt></ruby><ruby>性<rt>せい</rt></ruby>なるバリア －ノラーフォース－
   ja_romaji: Yaseinaru Baria - Norā Fōsu -
-  ko:
+  ko: 야성의 베리어 －노라 포스－
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90824,7 +91370,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90837,7 +91384,8 @@ effect:
   pt:
   ja: |-
     攻撃してきたモンスターの攻撃力はターン終了時まで２００ダウンする。自分フィールドの表側表示モンスター（獣族・獣戦士族・戦士族／守備力２００）が合計３体の場合、さらに相手フィールドの攻撃表示モンスターを全て破壊できる。
-  ko:
+  ko: |-
+    공격해 온 몬스터의 공격력은 턴 종료시까지 200 내린다. 자신 필드의 앞면 표시 몬스터(수비력 200 의 야수족 / 야수전사족 / 전사족)가 합계 3장일 경우, 추가로 상대 필드의 공격 표시 몬스터를 전부 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90848,6 +91396,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP061
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP12-KR061
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Common
@@ -90863,7 +91416,7 @@ name:
   pt:
   ja: エーテル・エスケープ
   ja_romaji: Ēteru Esukēpu
-  ko:
+  ko: 에테르 이스케이프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90877,7 +91430,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル７以上）を召喚した時、自分の墓地のモンスター（戦士族または機械族）を合計２体デッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 7 이상)를 일반 소환했을 때, 자신 묘지의 몬스터(전사족 또는 기계족)를 합계 2장 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90890,7 +91444,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを裏側守備表示にする。自分フィールドに表側表示のフュージョンモンスターがいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで持ち主のデッキの上に戻す事ができる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 뒷면 수비 표시로 한다. 자신 필드에 앞면 표시의 퓨전 몬스터가 있을 경우, 추가로 상대 필드의 뒷면 표시의 카드 1장을 고르고 주인의 덱 위로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90901,6 +91456,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP062
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR062
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -90916,7 +91476,7 @@ name:
   pt:
   ja: トラディショナル・タックス
   ja_romaji: Toradishonaru Takkusu
-  ko:
+  ko: 트래디셔널 택스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90930,7 +91490,8 @@ requirement:
   pt:
   ja: |-
     お互いのメインフェイズに相手がドローした時に発動できる。
-  ko:
+  ko: |-
+    서로의 메인 페이즈에 상대가 드로우했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90943,7 +91504,8 @@ effect:
   pt:
   ja: |-
     相手の手札をランダムに２枚選んで墓地へ送る。
-  ko:
+  ko: |-
+    상대의 패를 무작위로 2장 고르고 묘지로 보낸다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -90954,6 +91516,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP063
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/KP12-KR063
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
@@ -90969,7 +91536,7 @@ name:
   pt:
   ja: バッファード・スライム
   ja_romaji: Baffādo Suraimu
-  ko:
+  ko: 바하드 슬라임
   ko_rr:
   zh-TW:
   zh-CN:
@@ -90983,7 +91550,8 @@ requirement:
   pt:
   ja: |-
     相手モンスター（レベル８以下）の攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터(레벨 8 이하)의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -90996,7 +91564,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。このターン、自分は戦闘ダメージを受けない。自分のＬＰが３０００以上の場合、さらに自分は２０００ダメージを受ける。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 턴에, 자신은 전투 데미지를 받지 않는다. 자신의 LP가 3000 이상일 경우, 추가로 자신은 2000 데미지를 받는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -91007,6 +91576,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP064
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP12-KR064
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Rare
@@ -91022,7 +91596,7 @@ name:
   pt:
   ja: ファントム・ロアー
   ja_romaji: Fantomu Roā
-  ko:
+  ko: 팬텀 로어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -91036,7 +91610,8 @@ requirement:
   pt:
   ja: |-
     自分のモンスターが相手の攻撃で破壊された時、自分の墓地のモンスター（レベル５以上）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신의 몬스터가 상대의 공격으로 파괴되었을 때, 자신 묘지의 몬스터(레벨 5 이상) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -91049,7 +91624,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力を次の自分ターン終了時まで１０００ダウンできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 다음 자신 턴의 종료시까지 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -91060,6 +91636,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP12-JP065
+    set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Ultra Rare
+  ko:
+  - set_number: RD/KP12-KR065
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Ultra Rare
