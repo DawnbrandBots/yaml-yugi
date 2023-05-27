@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for alvo de ataque; destrua este card. Quando este card for enviado para o Cemitério por um efeito de card: você pode escolher um monstro "Boxeador Obstinado" em seu Cemitério, exceto "Boxeador Obstinado Queixo de Vidro"; adicione o alvo a sua mão.
   ja: |-
-    このカードが攻撃対象に選択された時、このカードを破壊する。このカードがカードの効果によって墓地へ送られた時、自分の墓地から「ＢＫ グラスジョー」以外の「ＢＫ」と名のついたモンスター１体を選択して手札に加える事ができる。
+    ①：このカードが攻撃対象に選択された場合に発動する。このカードを破壊する。②：このカードが効果で墓地へ送られた時、「ＢＫ グラスジョー」以外の自分の墓地の「ＢＫ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     이 카드가 공격 대상으로 선택되었을 때, 이 카드를 파괴한다. 이 카드가 카드의 효과에 의해서 묘지로 보내졌을 때, 자신의 묘지에서 "BK(버닝나쿠라) 글라스조" 이외의 "BK(버닝나쿠라)"라는 이름이 붙은 몬스터 1장을 선택하고 패에 넣을 수 있다.
   zh-TW: |-
@@ -99,6 +99,7 @@ sets:
   - set_number: DP28-JP040
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
+    - Common
   ko:
   - set_number: LTGY-KR017
     set_name: Lord of the Tachyon Galaxy

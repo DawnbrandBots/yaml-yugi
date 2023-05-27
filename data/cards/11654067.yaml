@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18919
+password: 11654067
 name:
   en: Fire Ejection
   de:
@@ -24,7 +24,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：デッキから炎族モンスター１体を墓地へ送る。この効果で「ヴォルカニック」モンスターを墓地へ送った場合、さらに以下の効果から１つを選んで適用できる。
+    ●そのレベル×１００ダメージを相手に与える。
+    ●相手フィールドに「ボムトークン」（炎族・炎・星１・攻／守１０００）１体を特殊召喚する。このトークンが破壊された時にそのコントローラーは５００ダメージを受ける。
   ko:
   zh-TW:
   zh-CN:
@@ -32,15 +35,14 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: FireEjection-DP28-JP-OP.png
+  image: FireEjection-DP28-JP-R.png
 sets:
   ja:
   - set_number: DP28-JP022
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
+    - Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 924872
-fake_password:
-- 100299022

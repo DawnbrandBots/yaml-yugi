@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 18928
+password: 19688343
 name:
   en: Battlin' Boxing Cross Counter
   de:
@@ -23,7 +23,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：相手がモンスターの効果を発動した時に発動できる。自分フィールドの、「ＢＫ」Ｘモンスターか「Ｎｏ．」Ｘモンスター１体を破壊し、その発動を無効にし破壊する。その後、以下の効果を適用できる。
+    ●破壊した自分のモンスターとはカード名が異なる「ＢＫ」Ｘモンスター１体をＥＸデッキから特殊召喚し、このカードをそのモンスターのＸ素材とする。
   ko:
   zh-TW:
   zh-CN:
@@ -34,15 +36,14 @@ series:
 - Counter
 images:
 - index: 1
-  image: BattlinBoxingCrossCounter-DP28-JP-OP.png
+  image: BattlinBoxingCrossCounter-DP28-JP-R.png
 sets:
   ja:
   - set_number: DP28-JP038
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
+    - Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 903931
-fake_password:
-- 100299038

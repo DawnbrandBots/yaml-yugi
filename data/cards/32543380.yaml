@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao enviar 1 "Tri-Acelerador de Explosão" que você controla para o Cemitério. Durante a Fase de Batalha do seu oponente, monstros em Posição de Ataque que seu oponente controla devem atacar este card, se possível. Quando este card destruir um monstro em batalha e enviá-lo para o Cemitério: destrua tantos monstros que seu oponente controla quanto possível e, se isso acontecer, cause 500 de dano ao seu oponente para cada monstro destruído por este efeito.
   ja: |-
-    このカードは通常召喚できない。自分フィールド上に表側表示で存在する「ブレイズ・キャノン－トライデント」１枚を墓地へ送った場合に特殊召喚できる。相手のバトルフェイズ中、相手フィールド上にモンスターが攻撃表示で存在する場合、相手はこのカードに攻撃をしなければならない。このカードが戦闘によってモンスターを破壊し墓地へ送った時、相手フィールド上のモンスターを全て破壊し、破壊したモンスターの数×５００ポイントダメージを相手ライフに与える。
+    このカードは通常召喚できない。自分フィールドの表側表示の「ブレイズ・キャノン－トライデント」１枚を墓地へ送った場合に特殊召喚できる。①：相手バトルフェイズ中、攻撃可能な相手の攻撃表示モンスターはこのカードを攻撃しなければならない。②：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。相手フィールドのモンスターを全て破壊し、破壊した数×５００ダメージを相手に与える。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 자신 필드 위에 앞면 표시로 존재하는 "브레이즈 캐논－트라이든트" 1장을 묘지로 보냈을 경우에 특수 소환할 수 있다. 상대의 배틀 페이즈 중, 상대 필드 위에 몬스터가 공격 표시로 존재할 경우, 상대는 이 카드에 공격을 해야 한다. 이 카드가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 상대 필드 위의 몬스터를 전부 파괴하고, 파괴한 몬스터의 수 × 500 포인트 데미지를 상대 라이프에 준다.
   zh-TW:
@@ -128,6 +128,7 @@ sets:
   - set_number: DP28-JP029
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
+    - Common
   ko:
   - set_number: FOTB-KR008
     set_name: Force of the Breaker
