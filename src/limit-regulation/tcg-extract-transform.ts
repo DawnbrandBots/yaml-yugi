@@ -21,7 +21,7 @@ const fetch = got.extend({ timeout: 10000, hooks: {
 	]
 } });
 
-async function transformFLList(key: string = "current"): Promise<void> {
+async function transformFLList(key: string = "current"): Promise<Date> {
 	const request = await fetch(`https://www.yugioh-card.com/eu/_data/fllists/${key}.json`);
 	const data = JSON.parse(request.body);
 	const [day, month, year] = data.from.split("/");
@@ -45,16 +45,24 @@ async function transformFLList(key: string = "current"): Promise<void> {
 	}
 	const vectorPromise = fs.promises.writeFile(`${year}-${month}-${day}.vector.json`, `${JSON.stringify(result, null, 2)}\n`);
 
-	return Promise.all([rawPromise, vectorPromise]).then();
+	await Promise.all([rawPromise, vectorPromise]);
+	return new Date(year, month - 1, day);
 }
 
 (async () => {
 	const optionsRequest = await fetch("https://www.yugioh-card.com/eu/_data/fllists/options.json");
 	await fs.promises.writeFile("options.json", optionsRequest.body);
 	const options = JSON.parse(optionsRequest.body);
-	await Promise.all([
+	const dates = await Promise.all([
 		transformFLList(),
 		// The keys are in order and numbers as strings. Skip the largest one as it corresponds to current and might not exist.
 		...Object.keys(options).reverse().slice(1).map(index => transformFLList(index))
 	]);
+	// Current Forbidden & Limited List can only be one of the two most recent (most recent may yet to be effective)
+	const currentListDate = dates[0] < new Date() ? dates[0] : dates[1];
+	const currentFile = currentListDate.toISOString().split("T")[0];
+	const recentFile = dates[0].toISOString().split("T")[0]
+	console.log(`Currently effective: ${currentFile}. Most recent: ${recentFile}`);
+	await fs.promises.unlink("current.vector.json").catch(console.error);
+	await fs.promises.symlink(`${currentFile}.vector.json`, "current.vector.json");
 })();
