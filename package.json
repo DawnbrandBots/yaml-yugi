@@ -6,20 +6,21 @@
   "license": "AGPL-3.0-or-later",
   "private": true,
   "scripts": {
-    "load": "ts-node-dev src/load.ts"
+    "download-tcg": "cd data/limit-regulation/tcg && ts-node ../../../src/limit-regulation/tcg-extract-transform.ts",
+    "load": "ts-node src/load.ts"
   },
   "engines": {
-    "node": ">=16.9",
+    "node": ">=18",
     "yarn": "1.22.x"
   },
   "dependencies": {
     "@opensearch-project/opensearch": "^2.2.1",
+    "got": "^11.8.6",
     "htmlparser2": "^9.0.0",
-    "js-yaml": "^4.1.0",
-    "vm2": "^3.9.19"
+    "js-yaml": "^4.1.0"
   },
   "devDependencies": {
-    "@alphakretin/essentials": "^4.0.0",
+    "@alphakretin/essentials": "^5.0.0",
     "@types/js-yaml": "^4.0.5"
   },
   "eslintConfig": {
