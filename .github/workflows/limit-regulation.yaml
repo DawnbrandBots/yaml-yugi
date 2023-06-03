@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: © 2023 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+name: Download TCG Forbidden & Limited Lists
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - update
+  schedule:
+    - cron: "5 0 * * *"
+jobs:
+  fetch:
+    name: Download TCG Forbidden & Limited Lists
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+          cache-dependency-path: yarn.lock
+      - run: yarn
+      - run: yarn download-tcg
+      - name: Commit
+        run: |
+          git config user.name GitHub Actions
+          git config user.email noreply@github.com
+          git add .
+          git commit -m "Download TCG Forbidden & Limited Lists: ${{ github.run_number }} (${{ github.run_id }})"
+          git pull --rebase origin master
+          git push
