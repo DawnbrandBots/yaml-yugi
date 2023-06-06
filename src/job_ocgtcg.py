@@ -181,7 +181,7 @@ def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_offic
         elif official_name and (not yugipedia or "<ruby>" not in yugipedia) and yugipedia != official_name:
             module_logger.info(f"OVERRIDE FROM OFFICIAL {kid}: {yugipedia} -> {official_name}")
             document["name"]["ko"] = official_name
-        
+
         yugipedia_text = document["text"]["ko"]
         yugipedia_pendulum = document.get("pendulum_effect", {}).get("ko")
         official_text = official.get("text")
@@ -197,12 +197,12 @@ def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_offic
 def job(
     wikitext_dir: str,
     filenames: List[str],
-    zh_cn_dir: Optional[str],
-    assignment_file: Optional[str],
-    tcg_vector: Optional[Dict[str, int]],
-    ocg_vector: Optional[Dict[str, int]],
-    ko_file: Optional[str],
-    ko_csv: Optional[str],
+    zh_cn_dir: Optional[str] = None,
+    assignment_file: Optional[str] = None,
+    tcg_vector: Optional[Dict[str, int]] = None,
+    ocg_vector: Optional[Dict[str, int]] = None,
+    ko_file: Optional[str] = None,
+    ko_csv: Optional[str] = None,
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()

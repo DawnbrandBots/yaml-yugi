@@ -12,13 +12,20 @@ from ruamel.yaml.scalarstring import LiteralScalarString
 logger = logging.getLogger(__name__)
 
 
+def recursive_expand_templates(wikitext: str) -> str:
+    return wtp.remove_markup(wikitext, replace_templates=expand_templates).strip()
+
+
 def expand_templates(template: wtp.Template) -> str:
-    if template.name.strip().lower() == "ruby":
-        base = template.arguments[0].value.strip()
-        ruby = template.arguments[1].value.strip()
+    name = template.name.strip().lower()
+    if name == "ruby":
+        base = recursive_expand_templates(template.arguments[0].value)
+        ruby = recursive_expand_templates(template.arguments[1].value)
         # <rp>（</rp>
         # <rp>）</rp>
         return f"<ruby>{base}<rt>{ruby}</rt></ruby>"
+    elif name == "fullwidth wordwrap":
+        return recursive_expand_templates(template.arguments[0].value)
     else:
         return ""
 
@@ -38,7 +45,7 @@ def initial_parse(yaml: YAML, yaml_file: str, target: str = "CardTable2") -> Opt
     for argument in template.arguments:
         name = argument.name.strip()
         value = argument.value.strip().replace("<br />", "\n").replace("<br/>", "\n")
-        value = wtp.remove_markup(value, replace_templates=expand_templates)
+        value = recursive_expand_templates(value)
         if value == "":
             continue
         properties[name] = value
