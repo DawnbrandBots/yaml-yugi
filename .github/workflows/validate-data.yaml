@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: © 2023 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+name: Validate data does not contain wikitext templates
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/validate-data.yaml
+      - data/**
+  pull_request:
+    paths:
+      - .github/workflows/validate-data.yaml
+      - data/**
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          ! grep {{ -R data --include='*.yaml'
