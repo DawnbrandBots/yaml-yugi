@@ -12,6 +12,7 @@ on:
     paths:
       - .github/workflows/validate-data.yaml
       - data/**
+  workflow_dispatch:
 
 jobs:
   validate:

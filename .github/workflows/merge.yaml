@@ -104,3 +104,4 @@ jobs:
         run: |
           yarn ts-node src/load.ts ../aggregate/cards.yaml yu-gi-oh_ocg-tcg_20230501
           yarn ts-node src/load.ts ../aggregate/rush.yaml yu-gi-oh_rush_20230501
+      - run: gh workflow run validate-data.yaml
