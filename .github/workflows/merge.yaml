@@ -79,6 +79,9 @@ jobs:
           git commit -m "Transform: ${{ github.run_number }} (${{ github.run_id }})"
           git pull --rebase origin master
           git push
+      - run: gh workflow run validate-data.yaml
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Merge
         run: |
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
@@ -104,6 +107,3 @@ jobs:
         run: |
           yarn ts-node src/load.ts ../aggregate/cards.yaml yu-gi-oh_ocg-tcg_20230501
           yarn ts-node src/load.ts ../aggregate/rush.yaml yu-gi-oh_rush_20230501
-      - run: gh workflow run validate-data.yaml
-        env:
-          GH_TOKEN: ${{ github.token }}
