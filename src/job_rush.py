@@ -73,7 +73,9 @@ def job(
             properties.get("level") == "???" or
             properties.get("attribute") == "???" or
             properties.get("atk") == "???" or
-            properties.get("def") == "???"
+            properties.get("def") == "???" or
+            properties.get("card_type") == "???" or
+            properties.get("property") == "???"
         ):
             logger.info(f"Skip: {filepath}")
             continue

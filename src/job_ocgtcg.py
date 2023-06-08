@@ -40,7 +40,9 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         wikitext.get("level") == "???" or
         wikitext.get("attribute") == "???" or
         wikitext.get("atk") == "???" or
-        wikitext.get("def") == "???"
+        wikitext.get("def") == "???" or
+        wikitext.get("card_type") == "???" or
+        wikitext.get("property") == "???"
     ):
         logger.info(f"Skip: {wikitext}")
         return
