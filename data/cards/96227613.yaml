@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno: você pode escolher 1 outro card com a face para cima que você controla; destrua tanto ele quanto este card e, se isso acontecer, Invoque por Invocação-Especial 1 Monstro Sincro ou de Fusão do Tipo Dragão do seu Deck Adicional, mas seu ATK e DEF se tornam 0, ele tem seus efeitos negados e, além disso, ele não pode ser usado como uma Matéria para uma Invocação-Sincro ou Xyz. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode colocar este card na sua Zona de Pêndulo.
   ja: |-
-    ①：１ターンに１度、このカード以外の自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードとこのカードを破壊し、ドラゴン族の融合モンスターまたはドラゴン族のＳモンスター１体をエクストラデッキから特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化され、Ｓ・Ｘ召喚の素材にできない。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
+    ①：１ターンに１度、このカード以外の自分フィールドの表側表示カード１枚を対象として発動できる。そのカードとこのカードを破壊し、ドラゴン族の融合モンスターまたはドラゴン族のＳモンスター１体をＥＸデッキから特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化され、Ｓ・Ｘ召喚の素材にできない。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   ko: |-
     ①: 1턴에 1번, 이 카드 이외의 자신 필드의 앞면 표시 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드와 이 카드를 파괴하고, 드래곤족 융합 몬스터 또는 드래곤족 싱크로 몬스터 1장을 엑스트라 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터의 공격력 / 수비력은 0 이 되고, 효과는 무효화되며, 싱크로 / 엑시즈 소환의 소재로 할 수 없다. ②: 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
   zh-TW:
@@ -54,7 +54,7 @@ pendulum_effect:
   pt: |-
     Se você controlar "Rei Supremo Z-ARC", você não sofre dano. Uma vez por turno, se você tiver "Rei Supremo Portal Infinito" na sua outra Zona de Pêndulo: você pode destruir os dois cards na sua Zona de Pêndulo e, se isso acontecer, adicione 1 Card de Magia "Polimerização" ou Card de Magia "Fusão" do seu Deck à sua mão.
   ja: |-
-    ①：自分フィールドに「覇王龍ズァーク」が存在する場合、自分が受ける全てのダメージは０になる。②：１ターンに１度、もう片方の自分のＰゾーンに「覇王門無限」が存在する場合に発動できる。自分のＰゾーンのカード２枚を破壊し、デッキから「融合」魔法カードまたは「フュージョン」魔法カード１枚を手札に加える。
+    ①：自分フィールドに「覇王龍ズァーク」が存在する場合、自分が受ける全てのダメージは０になる。②：１ターンに１度、もう片方の自分のＰゾーンに「覇王門無限」が存在する場合に発動できる。自分のＰゾーンのカード２枚を破壊し、デッキから「融合」魔法カードか「フュージョン」魔法カード１枚を手札に加える。
   ko: |-
     ①: 자신 필드에 "패왕룡 즈아크"가 존재할 경우, 자신이 받는 모든 데미지는 0 이 된다. ②: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 "패왕문 인피니티"가 존재할 경우에 발동할 수 있다. 자신의 펜듈럼 존의 카드 2장을 파괴하고, 덱에서 "융합" 마법 카드 또는 "퓨전" 마법 카드 1장을 패에 넣는다.
   zh-TW:
@@ -100,6 +100,7 @@ sets:
   - set_number: AC03-JP045
     set_name: Animation Chronicle 2023
     rarities:
+    - Common
   ko:
   - set_number: MACR-KR017
     set_name: Maximum Crisis

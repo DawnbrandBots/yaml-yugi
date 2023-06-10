@@ -27,7 +27,7 @@ text:
   pt: |-
     Enquanto houver algum monstro de Nível 10 no campo, nenhum duelista pode escolher este card como alvo de efeitos de card e, além disso, ele não pode ser destruído por efeitos de card. Você pode considerar 1 Monstro Sincro como 2 Tributos para a Invocação-Tributo de um monstro "Imortal Terrestre". Se um ou mais Monstros Sincro forem Invocados por Invocação-Especial (exceto durante a Etapa de Dano): você pode adicionar 1 Magia/Armadilha "Imortal Terrestre" do seu Deck à sua mão. Você só pode usar este efeito de "Geoglifo Terrestre" uma vez por turno.
   ja: |-
-    このカード名の③の効果は１ターンに１度しか使用できない。①：フィールドにレベル１０モンスターが存在する限り、このカードは効果の対象にならず、効果では破壊されない。②：このカードがフィールドゾーンに存在する限り、自分が「地縛神」モンスターをアドバンス召喚する場合、Ｓモンスター１体を２体分のリリースにできる。③：Ｓモンスターが特殊召喚された場合に自分はこの効果を発動できる。デッキから「地縛神」魔法・罠カード１枚を手札に加える。
+    このカード名の③の効果は１ターンに１度しか使用できない。①：フィールドにレベル１０モンスターが存在する限り、このカードは効果では破壊されず、お互いはこのカードを効果の対象にできない。②：このカードがフィールドゾーンに存在する限り、自分が「地縛神」モンスターをアドバンス召喚する場合、Ｓモンスターは２体分のリリースにできる。③：Ｓモンスターが特殊召喚された場合に発動できる。デッキから「地縛神」魔法・罠カード１枚を手札に加える。
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드에 레벨 10 몬스터가 존재하는 한, 이 카드는 효과의 대상이 되지 않으며, 효과로는 파괴되지 않는다. ②: 이 카드가 필드 존에 존재하는 한, 자신이 "지박신" 몬스터를 어드밴스 소환할 경우, 싱크로 몬스터 1장을 2장만큼의 릴리스로 할 수 있다. ③: 싱크로 몬스터가 특수 소환되었을 경우에 자신은 이 효과를 발동할 수 있다. 덱에서 "지박신" 마법 / 함정 카드 1장을 패에 넣는다.
   zh-TW:
@@ -97,6 +97,7 @@ sets:
   - set_number: AC03-JP042
     set_name: Animation Chronicle 2023
     rarities:
+    - Common
   ko:
   - set_number: DP22-KR026
     set_name: 'Duelist Pack: Legend Duelist 5'

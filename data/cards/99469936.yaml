@@ -34,7 +34,7 @@ text:
     Você também pode Invocar este card por Invocação-Xyz ao usar um Monstro Xyz de ÁGUA de Classe 5 que você controla como Matéria Xyz. (Matérias Xyz associadas a esse monstro também se tornam Matérias Xyz neste card.) Este card ganha 500 de ATK para cada Matéria Xyz associada a ele. Se este card com a face para cima seria destruído, em vez disso, você pode desassociar 1 Matéria Xyz deste card. Uma vez por turno: você pode desassociar 1 Matéria Xyz deste card; todos os monstros com a face para cima que seu oponente controla têm seus efeitos negados até o final deste turno.
   ja: |-
     水属性レベル６モンスター×３
-    このカードは自分フィールド上の水属性・ランク５のエクシーズモンスターの上にこのカードを重ねてエクシーズ召喚する事もできる。このカードの攻撃力は、このカードのエクシーズ素材の数×５００ポイントアップする。フィールド上のこのカードが破壊される場合、代わりにこのカードのエクシーズ素材を１つ取り除く事ができる。また、１ターンに１度、このカードのエクシーズ素材を１つ取り除いて発動できる。相手フィールド上の全てのモンスターの効果をターン終了時まで無効にする。
+    このカードは自分フィールドのランク５の水属性Ｘモンスターの上に重ねてＸ召喚する事もできる。①：このカードの攻撃力は、このカードのＸ素材の数×５００アップする。②：１ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。相手フィールドの全ての表側表示モンスターの効果をターン終了時まで無効にする。③：フィールドのこのカードが戦闘・効果で破壊される場合、代わりにこのカードのＸ素材を１つ取り除く事ができる。
   ko: |-
     물 속성 레벨 6 몬스터 × 3
     이 카드는 자신 필드 위의 물 속성 / 랭크 5의 엑시즈 몬스터 위에 이 카드를 겹쳐 엑시즈 소환할 수도 있다. 이 카드의 공격력은, 이 카드의 엑시즈 소재의 수 × 500 포인트 올린다. 필드 위의 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 또한, 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 필드 위의 모든 몬스터의 효과를 턴 종료시까지 무효로 한다.
@@ -85,6 +85,8 @@ sets:
   - set_number: AC03-JP043
     set_name: Animation Chronicle 2023
     rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: DP15-JP018
     set_name: 'Duelist Pack: Kastle Siblings'
