@@ -34,13 +34,13 @@ text:
     Se este card for Invocado por Invocação-Sincro: ele ganha ATK igual ao ATK total de todos os monstros de Nível 2 ou menos que você controla atualmente.
   ja: |-
     「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上
-    ①：このカードがＳ召喚に成功した場合に発動する。このカードの攻撃力は、自分フィールドのレベル２以下のモンスターの攻撃力の合計分アップする。
+    ①：このカードがＳ召喚した場合に発動する。このカードの攻撃力は、自分フィールドのレベル２以下のモンスターの攻撃力の合計分アップする。
   ko: |-
     "정크 싱크론" ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동한다. 이 카드의 공격력은, 자신 필드의 레벨 2 이하 몬스터의 공격력의 합계만큼 올린다.
   zh-TW:
   zh-CN: |-
-    "废品同步士"＋1只以上协调以外的怪兽
+    “废品同步士”＋1只以上协调以外的怪兽
     ①：此卡同步召唤成功的情况下发动。此卡的攻击力上升相当于自己场上等级2以下怪兽的攻击力的合计的数值。
 card_type: Monster
 monster_type_line: Warrior / Synchro / Effect
@@ -57,7 +57,7 @@ images:
   image: JunkWarrior-SDSE-EN-C-1E.png
   illustration: JunkWarrior-MADU-EN-VG-artwork.png
 - index: 2
-  image: JunkWarrior-AC03-JP-OP.png
+  image: JunkWarrior-AC03-JP-NPR.png
   illustration: JunkWarrior-OW-2.png
 sets:
   en:
@@ -206,6 +206,7 @@ sets:
   - set_number: AC03-JP000
     set_name: Animation Chronicle 2023
     rarities:
+    - Normal Parallel Rare
     - Quarter Century Secret Rare
   ko:
   - set_number: YSD3-KR041
