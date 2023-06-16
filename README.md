@@ -22,3 +22,15 @@ your `.git/config` file to look like this:
         fetch = +refs/heads/*:refs/remotes/origin/*
         fetch = ^refs/heads/aggregate
 ```
+
+## Sample links
+
+### Individual card
+- https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/cards/00010000.json (canonical download)
+- https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/cards/00010000.json (CDN with correct MIME type and CORS)
+- https://esm.sh/gh/DawnbrandBots/yaml-yugi/data/cards/00010000.json (alternate CDN)
+
+### Aggregation
+- https://github.com/DawnbrandBots/yaml-yugi/raw/aggregate/cards.json (canonical download)
+- https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi@aggregate/rush.json (CDN, maximum 20 MB)
+- https://esm.sh/gh/DawnbrandBots/yaml-yugi@aggregate/cards.json (alternate CDN)
