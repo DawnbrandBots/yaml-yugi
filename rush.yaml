@@ -38081,7 +38081,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 LIGHT Attribute Dragon Type monster from your Graveyard to your field face-up.
+    Special Summon 1 LIGHT Attribute Dragon Type monster from your Graveyard face-up to your field.
   de:
   es:
   fr:
@@ -103405,3 +103405,108 @@ sets:
     rarities:
     - Secret Rare
 yugipedia_page_id: 986110
+---
+konami_id:
+name:
+  en: Phantasm Spiral Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A ferocious serpent that was being hunted by Atlanteans. Battle-weary and ragged, it came upon an ancient light, and gained new strength for its battle. With its increased power, it launched an invasion of enemy territory with a renewed assault.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    熾烈な戦渦を経た猛き龍。傷付いたその身は古の光に触れ、浸渦を遂げた。やがて、龍はその翼を広げ、天渦を制する煌となる。その新たなる煌は、夢か現か幻か。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Wyrm / Normal
+attribute: WATER
+level: 8
+atk: 2900
+def: 2900
+legend: true
+images:
+- index: 1
+  image: PhantasmSpiralDragon-RDTB01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/TB01-JP063
+    set_name: 'Triple Build Pack: Godbreath Wing'
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 986221
+---
+konami_id:
+name:
+  en: Raiza the Storm Monarch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Place 1 card from either field on top of the owner's Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドのカード１枚を選んで持ち主のデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: WIND
+level: 6
+atk: 2400
+def: 1000
+series:
+- Monarch
+legend: true
+images:
+- index: 1
+  image: RaizatheStormMonarch-RDTB01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/TB01-JP064
+    set_name: 'Triple Build Pack: Godbreath Wing'
+    rarities:
+    - Super Rare
+yugipedia_page_id: 986223
