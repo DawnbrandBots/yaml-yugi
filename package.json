@@ -7,6 +7,7 @@
   "private": true,
   "scripts": {
     "download-tcg": "cd data/limit-regulation/tcg && ts-node ../../../src/limit-regulation/tcg-extract-transform.ts",
+    "download-ocg": "cd data/limit-regulation/ocg && ts-node ../../../src/limit-regulation/ocg-extract-transform.ts",
     "load": "ts-node src/load.ts"
   },
   "engines": {
@@ -15,6 +16,7 @@
   },
   "dependencies": {
     "@opensearch-project/opensearch": "^2.2.1",
+    "css-select": "^5.1.0",
     "got": "^11.8.6",
     "htmlparser2": "^9.0.0",
     "js-yaml": "^4.1.0"
