@@ -79,9 +79,9 @@ LIMIT_REGULATION_MAPPING = {
 def annotate_limit_regulation(document: Dict[str, Any],
                               tcg_vector: Optional[Dict[str, int]],
                               ocg_vector: Optional[Dict[str, int]]) -> None:
-    if tcg_vector and document["konami_id"] and "en" in document["sets"]:
+    if tcg_vector and document["konami_id"] and document["limit_regulation"]["tcg"] != "Not yet released" and "en" in document["sets"]:
         document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(str(document["konami_id"]))]
-    if ocg_vector and document["name"]["en"] and "ja" in document["sets"]:
+    if ocg_vector and document["name"]["en"] and document["limit_regulation"]["ocg"] != "Not yet released" and "ja" in document["sets"]:
         document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[ocg_vector.get(document["name"]["en"])]
 
 
