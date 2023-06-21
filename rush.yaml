@@ -102539,6 +102539,184 @@ yugipedia_page_id: 975039
 ---
 konami_id:
 name:
+  en: Hyper Assistant Achi
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＨＰ<rt>ハイパー</rt></ruby>アシスタント・アーチ
+  ja_romaji: Haipā Ashisutanto Āchi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a monster on their field, send this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターがいる場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 or higher Pyro Type monster from your hand face-up to your field. Then, if you have "Super Assistant Achi" in your Graveyard, the monster Special Summoned by this effect gains 800 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル７以上／炎族）１体を自分フィールドに表側表示で特殊召喚する。自分の墓地に「ＳＰアシスタント・アーチ」がいる場合、さらにこの効果で特殊召喚したモンスターの攻撃力はターン終了時まで８００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 4
+atk: 800
+def: 1500
+series:
+- Chemistry
+images:
+- index: 1
+  image: HyperAssistantAchi-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP014
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - SR
+    - ScR
+yugipedia_page_id: 975293
+---
+konami_id:
+name:
+  en: Chemispet Nyanko
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミスペット・ニャンコ
+  ja_romaji: Kemisupetto Nyanko
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a Pyro, Aqua, or Thunder Type monster in your Graveyard, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（炎族・水族・雷族）のいずれかがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Gain 400 LP. Then, you can place 1 Pyro, Aqua, or Thunder Type monster from your Graveyard on top of your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は４００ＬＰ回復する。その後、自分の墓地のモンスター（炎族・水族・雷族）１体を選んでデッキの上に戻す事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 1
+atk: 600
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemispetNyanko-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP009
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 975295
+---
+konami_id:
+name:
+  en: Chemispet Wanko
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミスペット・ワンコ
+  ja_romaji: Kemisupetto Wanko
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or less monsters in your Graveyard, send 2 cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターが１０体以下の場合、手札２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you sent 2 Pyro, Aqua, and/or Thunder Type monsters to the Graveyard to meet the requirement, you can draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。この効果の条件でモンスター（炎族・水族・雷族）２体を墓地へ送った場合、さらに自分は１枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: FIRE
+level: 1
+atk: 600
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemispetWanko-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP010
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - C
+yugipedia_page_id: 975297
+---
+konami_id:
+name:
   en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix
   de:
   es:
@@ -102601,12 +102779,15 @@ series:
 maximum_atk: 3500
 images:
 - index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenix-OW.png
+  image: BlazeboltChemistormFenghuangVolcalizePhoenix-RDKP14-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP14-JP0??
+  - set_number: RD/KP14-JP016
     set_name: Phoenix of the Roaring Flame
     rarities:
+    - UR
+    - ScR
+    - ORR
 yugipedia_page_id: 975309
 ---
 konami_id:
@@ -102659,12 +102840,15 @@ series:
 - Chemistry
 images:
 - index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenix-OW.png
+  image: BlazeboltChemistormFenghuangVolcalizePhoenixL-RDKP14-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP14-JP0??
+  - set_number: RD/KP14-JP015
     set_name: Phoenix of the Roaring Flame
     rarities:
+    - UR
+    - ScR
+    - ORR
 yugipedia_page_id: 975310
 ---
 konami_id:
@@ -102717,12 +102901,15 @@ series:
 - Chemistry
 images:
 - index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenix-OW.png
+  image: BlazeboltChemistormFenghuangVolcalizePhoenixR-RDKP14-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP14-JP0??
+  - set_number: RD/KP14-JP017
     set_name: Phoenix of the Roaring Flame
     rarities:
+    - UR
+    - ScR
+    - ORR
 yugipedia_page_id: 975311
 ---
 konami_id:
@@ -103522,3 +103709,280 @@ sets:
     rarities:
     - Super Rare
 yugipedia_page_id: 986223
+---
+konami_id:
+name:
+  en: Melt the Aqueous Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>水<rt>すい</rt></ruby><ruby>溶<rt>よう</rt></ruby><ruby>精<rt>せい</rt></ruby>メルト
+  ja_romaji: Suiyōsei Meruto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Level 4 or lower monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 7 or 10 Pyro or Thunder Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: FIRE
+level: 1
+atk: 300
+def: 200
+series:
+- Chemistry
+images:
+- index: 1
+  image: MelttheAqueousSpirit-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP011
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+yugipedia_page_id: 987029
+---
+konami_id:
+name:
+  en: Bolt the Conduction Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>電<rt>でん</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>精<rt>せい</rt></ruby>ボルト
+  ja_romaji: Dendōsei Boruto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Level 4 or lower monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 5 or 10 Pyro or Aqua Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 2
+atk: 400
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: BolttheConductionSpirit-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP012
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+yugipedia_page_id: 987030
+---
+konami_id:
+name:
+  en: Hot the Combustion Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>火<rt>か</rt></ruby><ruby>燃<rt>ねん</rt></ruby><ruby>精<rt>せい</rt></ruby>ホット
+  ja_romaji: Kanensei Hotto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send cards from the top of your Deck to the Graveyard equal to [the number of different Types on your field]. Then, if you sent 2 or more Pyro Type monsters to the Graveyard by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 3
+atk: 800
+def: 900
+series:
+- Chemistry
+images:
+- index: 1
+  image: HottheCombustionSpirit-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP013
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 987031
+---
+konami_id:
+name:
+  en: Volcalize Compound
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォルカライズ・コンパウンド
+  ja_romaji: Vorukaraizu Konpaundo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up FIRE Attribute monster on your field, shuffle 1 Aqua, Pyro, or Thunder Type monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have a monster in Maximum Mode or a face-up Equip Spell Card on your field, you can draw 1 additional card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Chemistry
+images:
+- index: 1
+  image: VolcalizeCompound-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP048
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 987032
+---
+konami_id:
+name:
+  en: Chemicalize Structure Force
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミカライズ・ストラクチャーフォース
+  ja_romaji: Kemikaraizu Sutorakuchā Fōsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Aqua, Pyro, or Thunder Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains ATK equal to [the number of different Types on the field] x 300. Also, if the equipped monster is a Maximum Monster, it cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemicalizeStructureForce-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP049
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 987033
