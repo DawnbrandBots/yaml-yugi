@@ -4,7 +4,7 @@ name:
   en: Tri-Edge Master
   de:
   es:
-  fr:
+  fr: Maître Tri-Pointe
   it:
   pt:
   ja: トライエッジ・マスター
@@ -22,7 +22,18 @@ text:
     You can only use this effect of "Tri-Edge Master" once per turn.
   de:
   es:
-  fr:
+  fr: |-
+    1 Syntoniseur + 1+ monstre non-Syntoniseur 
+
+    Si cette carte est Invoquée par Synchronisation : vous pouvez appliquer l'effet approprié selon les Niveaux utilisés pour son Invocation Synchro, ou si vous avez utilisé min. 3 monstres comme Matériels, appliquez tous ces effets dans l'ordre.
+
+    ●1 et 5 : Détruisez 1 autre carte sur le Terrain.
+
+    ●2 et 4 : Piochez 1 carte.
+
+    ●3 et 3 : Traitez cette carte comme un Syntoniseur.
+
+    Vous ne pouvez utiliser cet effet de "Maître Tri-Pointe" qu'une fois par tour.
   it:
   pt:
   ja: |-
@@ -49,7 +60,7 @@ def: 1800
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: TriEdgeMaster-23PR-JP-NPR.png
+  image: TriEdgeMaster-BLMR-EN-ScR-1E.png
 sets:
   en:
   - set_number: BLMR-EN008
