@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente controlar um monstro e você não controlar nenhum monstro, você pode Invocar este card por Invocação-Especial (da sua mão), mas seu ATK e DEF originais são reduzidos à metade.
   ja: |-
-    ①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードの元々の攻撃力・守備力は半分になる。
+    ①：相手フィールドにのみモンスターが存在する場合、このカードは手札から特殊召喚できる。この方法で特殊召喚したこのカードの元々の攻撃力・守備力は半分になる。
   ko: |-
     ①: 상대 필드에 몬스터가 존재하고, 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 방법으로 특수 소환한 이 카드의 원래 공격력 / 수비력은 절반이 된다.
   zh-TW: |-
@@ -176,9 +176,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
-  - set_number: SD46-JP0??
+  - set_number: SD46-JP009
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
+    - Common
   ko:
   - set_number: DSK3-KR004
     set_name: Duel Booster

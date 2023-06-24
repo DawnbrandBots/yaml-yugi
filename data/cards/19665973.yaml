@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um monstro do oponente declarar um ataque direto: você pode Invocar este card por Invocação-Especial da sua mão e, depois, encerre a Fase de Batalha. Se Invocado desta forma, bana-o quando ele deixar o campo.
   ja: |-
-    ①：相手モンスターの直接攻撃宣言時に発動できる。このカードを手札から特殊召喚し、その後バトルフェイズを終了する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
+    ①：相手モンスターの直接攻撃宣言時に発動できる。このカードを手札から特殊召喚する。その後、バトルフェイズを終了する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko: |-
     ①: 상대 몬스터의 직접 공격 선언시에 발동할 수 있다. 이 카드를 패에서 특수 소환하고, 그 후 배틀 페이즈를 종료한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다.
   zh-TW: |-
@@ -292,9 +292,10 @@ sets:
     set_name: Starter Deck 2018
     rarities:
     - Common
-  - set_number: SD46-JP0??
+  - set_number: SD46-JP010
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
+    - Common
   ko:
   - set_number: ABPF-KR006
     set_name: Absolute Powerforce

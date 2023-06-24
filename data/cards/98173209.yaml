@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 19018
+password: 98173209
 name:
   en: Crimson Gaia
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。「クリムゾン・ヘルガイア」を除く、「レッド・デーモンズ・ドラゴン」またはそのカード名が記されたカード１枚を自分のデッキ・墓地から手札に加える。②：自分の「レッド・デーモンズ・ドラゴン」の攻撃宣言時に発動できる。相手フィールドのモンスターを全て裏側守備表示にする。③：フィールドのモンスターが戦闘・効果で破壊された場合に発動できる。自分の墓地から「レッド・デーモンズ・ドラゴン」１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -29,13 +30,14 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: CrimsonGaia-SD46-JP-OP.png
+  image: CrimsonGaia-SD46-JP-NPR.png
 sets:
   ja:
   - set_number: SD46-JP026
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 987056

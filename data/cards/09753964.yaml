@@ -33,15 +33,15 @@ text:
     1 Regulador + 1 Monstro Sincro Dragão não-Regulador de TREVAS
     (Efeito Rápido): você pode escolher 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno. Quando este card causar dano de batalha ao seu oponente: você pode escolher 1 Regulador no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa. Você só pode usar cada efeito de "Abrasador Dragão Vermelho Arquidemônio do Abismo" uma vez por turno.
   ja: |-
-    チューナー＋チューナー<ruby>以<rt>い</rt></ruby><ruby>外<rt>がい</rt></ruby>のドラゴン<ruby>族<rt>ぞく</rt></ruby>・<ruby>闇<rt>やみ</rt></ruby><ruby>属<rt>ぞく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>Ｓ<rt>シンクロ</rt></ruby>モンスター１<ruby>体<rt>たい</rt></ruby>
-    このカード<ruby>名<rt>めい</rt></ruby>の①②の<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>はそれぞれ１ターンに１<ruby>度<rt>ど</rt></ruby>しか<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できない。①：<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>フィールドの<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>のカード１<ruby>枚<rt>まい</rt></ruby>を<ruby>対<rt>たい</rt></ruby><ruby>象<rt>しょう</rt></ruby>として<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。そのカードの<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>をターン<ruby>終<rt>しゅう</rt></ruby><ruby>了<rt>りょう</rt></ruby><ruby>時<rt>じ</rt></ruby>まで<ruby>無<rt>む</rt></ruby><ruby>効<rt>こう</rt></ruby>にする。この<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>は<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>ターンでも<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。②：このカードが<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>に<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>ダメージを<ruby>与<rt>あた</rt></ruby>えた<ruby>時<rt>とき</rt></ruby>、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>のチューナー１<ruby>体<rt>たい</rt></ruby>を<ruby>対<rt>たい</rt></ruby><ruby>象<rt>しょう</rt></ruby>として<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。そのモンスターを<ruby>守<rt>しゅ</rt></ruby><ruby>備<rt>び</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>で<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>する。
+    チューナー＋チューナー以外のドラゴン族・闇属性Ｓモンスター１体
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、相手フィールドの表側表示カード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。②：このカードが相手に戦闘ダメージを与えた時、自分の墓地のチューナー１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
   ko: |-
     튜너 ＋ 튜너 이외의 드래곤족 / 어둠 속성 싱크로 몬스터 1장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 상대에게 전투 데미지를 주었을 때, 자신 묘지의 튜너 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다.
   zh-TW:
   zh-CN: |-
     协调＋协调以外的龙族・暗属性同步怪兽1只
-    此卡名的①②效果1回合仅可各使用1次。①：可以对手场上的1张表侧表示的卡为对象发动。将该卡的效果直至回合结束时无效。此效果在对手回合中也可以发动。②：此卡给予对手战斗伤害时，可以自己墓地的1只协调为对象发动。以守备表示形式将该怪兽特殊召唤。
+    此卡名的①②效果1回合仅可各使用1次。①：可以对手场上的1张表侧表示的卡为对象发动。将该卡的效果直至回合结束时为止无效。此效果在对手回合中也可以发动。②：此卡给予对手战斗伤害时，可以自己墓地的1只协调为对象发动。以守备表示形式将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: DARK
@@ -137,6 +137,7 @@ sets:
   - set_number: SD46-JP042
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SPHR-KR040
     set_name: 'Booster SP: Highspeed Riders'
