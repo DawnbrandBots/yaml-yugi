@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>名<rt>めい</rt></ruby><ruby>匠<rt>しょう</rt></ruby>の<ruby>兜<rt>かぶと</rt></ruby>
   ja_romaji: Meishō no Kabuto
-  ko:
+  ko: 명장의 투구
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力・守備力は２００アップする。装備モンスターが「名匠 虎鉄」または元々のレべルが４以下のレジェンドモンスターの場合、さらに攻撃力を［そのモンスターの元々の攻撃力］だけアップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력 / 수비력은 200 올린다. 장착 몬스터가 "명장 호철" 또는 원래의 레벨이 4 이하인 레전드 몬스터일 경우, 추가로 공격력을 [그 몬스터의 원래 공격력]만큼 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP1-JP045
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP1-KR045
     set_name: Legend Awakening Pack
     rarities:
     - Common

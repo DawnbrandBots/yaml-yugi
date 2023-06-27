@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>東<rt>とう</rt></ruby><ruby>洋<rt>よう</rt></ruby>の<ruby>妖<rt>よう</rt></ruby><ruby>刀<rt>とう</rt></ruby>
   ja_romaji: Tōyō no Yōtō
-  ko:
+  ko: 동양의 요도
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／天界戦士族または戦士族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 천계전사족 또는 전사족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示の通常モンスター１体を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 일반 몬스터 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP1-JP043
+    set_name: Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP1-KR043
     set_name: Legend Awakening Pack
     rarities:
     - Common

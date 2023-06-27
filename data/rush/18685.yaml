@@ -8,7 +8,7 @@ name:
   pt:
   ja: レジェンド・マジシャン
   ja_romaji: Rejendo Majishan
-  ko:
+  ko: 레전드 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター１体を選んで墓地へ送る事ができる。残りのカードをデッキに戻す。その後、自分の墓地のレジェンド通常モンスター１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 몬스터 1장을 고르고 묘지로 보낼 수 있다. 남은 카드를 덱으로 되돌린다. 그 후, 자신 묘지의 레전드 일반 몬스터 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,12 @@ images:
 sets:
   ja:
   - set_number: RD/LGP1-JP005
+    set_name: Legend Awakening Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/LGP1-KR005
     set_name: Legend Awakening Pack
     rarities:
     - Ultra Rare
