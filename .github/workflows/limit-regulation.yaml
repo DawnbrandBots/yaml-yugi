@@ -29,6 +29,27 @@ jobs:
           git commit -m "Download TCG Forbidden & Limited Lists: ${{ github.run_number }} (${{ github.run_id }})"
           git pull --rebase origin master
           git push
+  ocg:
+    name: Download OCG Forbidden & Limited Lists
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+          cache-dependency-path: yarn.lock
+      - run: yarn
+      - run: curl -fsSLo /tmp/cards.json https://github.com/DawnbrandBots/yaml-yugi/raw/aggregate/cards.json
+      - run: yarn download-ocg /tmp/cards.json
+      - name: Commit
+        run: |
+          git config user.name GitHub Actions
+          git config user.email noreply@github.com
+          git add .
+          git commit -m "Download OCG Forbidden & Limited Lists: ${{ github.run_number }} (${{ github.run_id }})"
+          git pull --rebase origin master
+          git push
   rush:
     name: Download Rush Duel Forbidden & Limited Lists
     runs-on: ubuntu-latest
