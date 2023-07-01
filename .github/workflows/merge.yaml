@@ -53,7 +53,7 @@ jobs:
             --zh-CN ../../../yaml-yugi-zh/zh-CN \
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../data/limit-regulation/tcg/current.vector.json \
-            --ocg ../../data/limit-regulation/ocg/2023-04-01.name.json \
+            --ocg ../../data/limit-regulation/ocg/current.vector.json \
             --ko ../../../overrides.tsv \
             --ko-csv ../../../ocg.csv \
             --aggregate ../../../aggregate/cards.json
