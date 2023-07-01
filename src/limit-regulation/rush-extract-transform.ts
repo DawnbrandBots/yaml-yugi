@@ -4,7 +4,7 @@
 import * as fs from "fs";
 import got from "got";
 import { ElementType, parseDocument } from "htmlparser2";
-import type {Element, NodeWithChildren } from "domhandler";
+import type { Element, NodeWithChildren } from "domhandler";
 import { selectAll, selectOne } from "css-select";
 
 const fetch = got.extend({ timeout: 10000, hooks: {
