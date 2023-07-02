@@ -71,7 +71,7 @@ jobs:
       #       ../../../yaml-yugipedia/wikitext/speed \
       #       --aggregate ../../../aggregate/skill.json
       - id: commit
-        uses: ./.github/actions/commit-push
+        uses: ./yaml-yugi/.github/actions/commit-push
         with:
           message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
       - if: ${{ steps.commit.outputs.status }}
