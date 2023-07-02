@@ -74,6 +74,7 @@ jobs:
         uses: ./yaml-yugi/.github/actions/commit-push
         with:
           message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
+          working-directory: yaml-yugi
       - if: ${{ steps.commit.outputs.status }}
         run: gh workflow run validate-data.yaml
         env:

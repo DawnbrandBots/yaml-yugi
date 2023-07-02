@@ -7,6 +7,10 @@ inputs:
     description: Git commit message.
     type: string
     required: true
+  working-directory:
+    description: Change to this repository directory.
+    type: string
+    default: .
 outputs:
   status:
     description: The number of changed paths reported by Git. If 0, no commit or push was attempted.
@@ -16,6 +20,7 @@ runs:
   steps:
     - id: commit-push
       shell: bash
+      working-directory: ${{ inputs.working-directory }}
       run: |
         git status
         STATUS_LINES=$(git status --porcelain | wc -l)
