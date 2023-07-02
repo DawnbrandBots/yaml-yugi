@@ -1,0 +1,30 @@
+# SPDX-FileCopyrightText: © 2023 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+name: Commit and push
+description: Commit all tracked and untracked files to Git and push to the remote repository.
+inputs:
+  message:
+    description: Git commit message.
+    type: string
+    required: true
+outputs:
+  status:
+    description: The number of changed paths reported by Git. If 0, no commit or push was attempted.
+    value: ${{ steps.commit-push.outputs.status }}
+runs:
+  using: composite
+  steps:
+    - id: commit-push
+      shell: bash
+      run: |
+        echo "Using commit message [${{ inputs.message }}]"
+        STATUS_LINES=$(git status --porcelain | wc -l)
+        echo "status=$STATUS_LINES" >> $GITHUB_OUTPUT
+        if [[ $STATUS_LINES != 0 ]]; then
+          git config user.name GitHub Actions
+          git config user.email noreply@github.com
+          git add .
+          git commit -m "${{ inputs.message }}"
+          git pull --rebase origin master
+          git push
+        fi
