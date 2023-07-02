@@ -75,16 +75,16 @@ jobs:
         with:
           message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
           working-directory: yaml-yugi
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         run: gh workflow run validate-data.yaml
         env:
           GH_TOKEN: ${{ github.token }}
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         name: Merge
         run: |
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         working-directory: aggregate
         name: Commit aggregate
         run: |
@@ -94,15 +94,15 @@ jobs:
           git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
           git pull --rebase origin aggregate
           git push
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         run: yarn
-      - if: ${{ steps.commit.outputs.status }}
+      - if: steps.commit.outputs.status > 0
         name: Load (push)
         env:
           OPENSEARCH_URL: ${{ secrets.OS_URL }}
