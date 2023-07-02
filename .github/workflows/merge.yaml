@@ -70,23 +70,21 @@ jobs:
       #     python3 ../../src/main_speed.py \
       #       ../../../yaml-yugipedia/wikitext/speed \
       #       --aggregate ../../../aggregate/skill.json
-      - name: Commit
-        id: commit
-        run: |
-          git config user.name GitHub Actions
-          git config user.email noreply@github.com
-          git add .
-          git commit -m "Transform: ${{ github.run_number }} (${{ github.run_id }})"
-          git pull --rebase origin master
-          git push
-      - run: gh workflow run validate-data.yaml
+      - id: commit
+        uses: ./.github/actions/commit-push
+        with:
+          message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
+      - if: ${{ steps.commit.outputs.status }}
+        run: gh workflow run validate-data.yaml
         env:
           GH_TOKEN: ${{ github.token }}
-      - name: Merge
+      - if: ${{ steps.commit.outputs.status }}
+        name: Merge
         run: |
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
-      - working-directory: aggregate
+      - if: ${{ steps.commit.outputs.status }}
+        working-directory: aggregate
         name: Commit aggregate
         run: |
           git config user.name GitHub Actions
@@ -95,13 +93,16 @@ jobs:
           git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
           git pull --rebase origin aggregate
           git push
-      - uses: actions/setup-node@v3
+      - if: ${{ steps.commit.outputs.status }}
+        uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
-      - run: yarn
-      - name: Load (push)
+      - if: ${{ steps.commit.outputs.status }}
+        run: yarn
+      - if: ${{ steps.commit.outputs.status }}
+        name: Load (push)
         env:
           OPENSEARCH_URL: ${{ secrets.OS_URL }}
         run: |

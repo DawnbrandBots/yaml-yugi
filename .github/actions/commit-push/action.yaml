@@ -17,7 +17,7 @@ runs:
     - id: commit-push
       shell: bash
       run: |
-        echo "Using commit message [${{ inputs.message }}]"
+        git status
         STATUS_LINES=$(git status --porcelain | wc -l)
         echo "status=$STATUS_LINES" >> $GITHUB_OUTPUT
         if [[ $STATUS_LINES != 0 ]]; then
