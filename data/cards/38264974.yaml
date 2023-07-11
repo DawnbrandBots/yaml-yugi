@@ -1,7 +1,7 @@
 konami_id: 18821
 password: 38264974
 name:
-  en: Chimera the Illusion Magical Beast
+  en: Chimera the Illusion Beast
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     "Chimera the Flying Mythical Beast" + 1+ Illusion monsters
-    This card's name becomes "Chimera the Flying Mythical Beast", and is treated as a "Phantom Beast" card, while on the field or in the GY. This card can make attacks on monsters each Battle Phase, up to the number of Fusion Materials used for its Summon. If this card battles a monster, neither can be destroyed by that battle. At the end of the Damage Step, if this card battled an opponent's monster: You can change that opponent's monster's ATK to 0, also negate its effects.
+    This card's name becomes "Chimera the Flying Mythical Beast" while on the field or in the GY. This card can attack monsters a number of times each Battle Phase, up to the number of materials used for it. If this card battles a monster, neither can be destroyed by that battle. At the end of the Damage Step, if this card battled an opponent's monster: You can change that opponent's monster's ATK to 0, also negate its effects.
   de:
   es:
   fr:
@@ -43,10 +43,35 @@ series:
 - Chimera
 images:
 - index: 1
-  image: ChimeratheIllusionMagicalBeast-DUNE-JP-R.png
+  image: ChimeratheIllusionBeast-DUNE-JP-R.png
 sets:
+  en:
+  - set_number: DUNE-EN034
+    set_name: Duelist Nexus
+    rarities:
+  de:
+  - set_number: DUNE-DE034
+    set_name: Duelist Nexus
+    rarities:
+  fr:
+  - set_number: DUNE-FR034
+    set_name: Duelist Nexus
+    rarities:
+  it:
+  - set_number: DUNE-IT034
+    set_name: Duelist Nexus
+    rarities:
+  pt:
+  - set_number: DUNE-PT034
+    set_name: Duelist Nexus
+    rarities:
   ja:
   - set_number: DUNE-JP034
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
+  ko:
+  - set_number: DUNE-KR034
     set_name: Duelist Nexus
     rarities:
     - Rare
