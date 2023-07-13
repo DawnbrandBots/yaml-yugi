@@ -5910,6 +5910,9 @@ series:
 images:
 - index: 1
   image: GaiaTheFierceKnight-RDB221-JP-C.png
+  illustration: GaiaTheFierceKnight-DBR-JP-VG-artwork.png
+- index: 2
+  image: GaiaTheFierceKnight-RDKP14-JP-OP.png;
 sets:
   ja:
   - set_number: RD/WJMP-JP001
@@ -5926,6 +5929,10 @@ sets:
     - Common
     - Super Rare
     - Ultra Rare
+  - set_number: RD/KP14-JP000
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Over Rush Rare
   ko:
   - set_number: RD/SBD3-KR004
     set_name: Strongest Battle Deck Gavin - Demon Commander Three Legions
@@ -104385,7 +104392,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104397,7 +104405,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104409,7 +104418,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「カース・オブ・ドラゴン」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104455,7 +104465,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードは表側表示モンスター（レベル５以上）１体をリリースして攻撃表示でアドバンス召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104467,7 +104478,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104479,7 +104491,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「暗黒騎士ガイア」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104911,7 +104924,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに攻撃表示モンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104923,7 +104937,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示のフュージョンモンスター１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104935,7 +104950,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、自分の墓地に「竜騎士ガイア」がいる場合、相手フィールドのカード１枚を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -104945,6 +104961,8 @@ attribute: WATER
 level: 5
 atk: 1000
 def: 2000
+series:
+- Gaia
 images:
 - index: 1
   image: LauncherCatapultTurtle-RDKP14-JP-OP.png
@@ -105889,8 +105907,8 @@ name:
   fr:
   it:
   pt:
-  ja: チェンジ・スライム－竜騎士形態
-  ja_romaji:
+  ja: チェンジ・スライム－<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby><ruby>形態<rt>モード</rt></ruby>
+  ja_romaji: Chenji Suraimu - Ryūkishi Mōdo
   ko:
   ko_rr:
   zh-TW:
@@ -105903,7 +105921,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    フュージョンモンスター以外の自分の墓地のモンスター１体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -105915,7 +105934,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札・フィールドの、モンスター（レベル７／戦士族）１体とモンスター（レベル５／ドラゴン族）１体を素材として墓地へ送り、フュージョン召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -105925,6 +105945,8 @@ attribute: WATER
 level: 4
 atk: 1100
 def: 600
+series:
+- Gaia
 images:
 - index: 1
   image: ChangeSlimeDragonChampionMode-RDKP14-JP-OP.png
@@ -105944,8 +105966,8 @@ name:
   fr:
   it:
   pt:
-  ja: 竜呪術の魔道士
-  ja_romaji:
+  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>
+  ja_romaji: Ryūjujutsu no Madōshi
   ko:
   ko_rr:
   zh-TW:
@@ -105958,7 +105980,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地に魔法カードが３枚以上ある場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -105970,7 +105993,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札または自分の墓地の「暗黒騎士ガイア」または通常モンスター（レベル５／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -105980,6 +106004,8 @@ attribute: DARK
 level: 4
 atk: 1100
 def: 1100
+series:
+- Gaia
 images:
 - index: 1
   image: DragoncurseMagician-RDKP14-JP-OP.png
@@ -105990,3 +106016,219 @@ sets:
     rarities:
     - Common
 yugipedia_page_id: 993036
+---
+konami_id:
+name:
+  en: Monster Convocation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: モンスター<ruby>招<rt>しょう</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
+  ja_romaji: Monsutā Shōshū
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 non-Effect Monster with 2000 ATK or 2100 DEF from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Gaia
+images:
+- index: 1
+  image: MonsterConvocation-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP052
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+yugipedia_page_id: 993047
+---
+konami_id:
+name:
+  en: Dark Battle Grounds
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby>の<ruby>格<rt>かく</rt></ruby><ruby>闘<rt>とう</rt></ruby><ruby>場<rt>じょう</rt></ruby>
+  ja_romaji: Ankoku no Kakutōjō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    While this card is face-up in the Field Zone, face-up monsters on the field with 2100 original DEF gain 500 ATK, and if "Gaia The Fierce Knight" or "Gaia the Dragon Champion" attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Field
+series:
+- Gaia
+images:
+- index: 1
+  image: DarkBattleGrounds-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP053
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 993050
+---
+konami_id:
+name:
+  en: Intercepting Gaia
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>迎<rt>げい</rt></ruby><ruby>撃<rt>げき</rt></ruby>するガイア
+  ja_romaji: Geigekisuru Gaia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster while you have a face-up Level 7 monster with 2100 DEF on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-up monster on your opponent's field to face-down Defense Position. Then, if you have "Gaia the Dragon Champion" face-up on your field, you can destroy 1 face-down card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Gaia
+images:
+- index: 1
+  image: InterceptingGaia-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP061
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+yugipedia_page_id: 993053
+---
+konami_id:
+name:
+  en: Secret Investigator Mistake
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステイク
+  ja_romaji: Himitsu Sōsakan Misuteiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. You can add 1 excavated Level 3 or higher Reptile Type monster to your hand. Place the remaining cards on the top of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 3
+atk: 1300
+def: 300
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigatorMistake-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP019
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - C
+yugipedia_page_id: 993060
