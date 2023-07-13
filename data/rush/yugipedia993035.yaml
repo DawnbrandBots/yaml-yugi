@@ -6,8 +6,8 @@ name:
   fr:
   it:
   pt:
-  ja: チェンジ・スライム－竜騎士形態
-  ja_romaji:
+  ja: チェンジ・スライム－<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby><ruby>形態<rt>モード</rt></ruby>
+  ja_romaji: Chenji Suraimu - Ryūkishi Mōdo
   ko:
   ko_rr:
   zh-TW:
@@ -20,7 +20,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    フュージョンモンスター以外の自分の墓地のモンスター１体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,7 +33,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札・フィールドの、モンスター（レベル７／戦士族）１体とモンスター（レベル５／ドラゴン族）１体を素材として墓地へ送り、フュージョン召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -42,6 +44,8 @@ attribute: WATER
 level: 4
 atk: 1100
 def: 600
+series:
+- Gaia
 images:
 - index: 1
   image: ChangeSlimeDragonChampionMode-RDKP14-JP-OP.png
