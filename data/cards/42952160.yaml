@@ -1,7 +1,7 @@
 konami_id: 18866
 password: 42952160
 name:
-  en: Opposing Mirrors of the Underworld
+  en: Split Mirror of the Underworld
   de:
   es:
   fr:
@@ -18,7 +18,7 @@ text:
     When you take damage from an opponent's attack or card effect: Apply this effect based on the type of damage.
     ● Battle: Special Summon 1 monster from your GY with ATK less than or equal to the damage you took, and if you do, end the Battle Phase after the Damage Step.
     ● Effect: Inflict twice that much damage to your opponent.
-    You can only activate 1 "Opposing Mirrors of the Underworld" per turn.
+    You can only activate 1 "Split Mirror of the Underworld" per turn.
   de:
   es:
   fr:
@@ -38,10 +38,35 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: OpposingMirrorsoftheUnderworld-DUNE-JP-C.png
+  image: SplitMirroroftheUnderworld-DUNE-JP-C.png
 sets:
+  en:
+  - set_number: DUNE-EN079
+    set_name: Duelist Nexus
+    rarities:
+  de:
+  - set_number: DUNE-DE079
+    set_name: Duelist Nexus
+    rarities:
+  fr:
+  - set_number: DUNE-FR079
+    set_name: Duelist Nexus
+    rarities:
+  it:
+  - set_number: DUNE-IT079
+    set_name: Duelist Nexus
+    rarities:
+  pt:
+  - set_number: DUNE-PT079
+    set_name: Duelist Nexus
+    rarities:
   ja:
   - set_number: DUNE-JP079
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  ko:
+  - set_number: DUNE-KR079
     set_name: Duelist Nexus
     rarities:
     - Common

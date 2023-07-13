@@ -1,7 +1,7 @@
 konami_id: 18816
 password: 76593718
 name:
-  en: Pod of Greed
+  en: Greed Jar
   de:
   es:
   fr:
@@ -18,7 +18,7 @@ text:
     FLIP: Apply these effects, in sequence.
     ● Excavate cards from the top of your Deck, up to the number of cards your opponent controls, add 1 excavated card to your hand, also send the rest to the GY.
     ● Send monsters from your Extra Deck to the GY, up to the number of monsters your opponent controls that were Special Summoned from the Extra Deck.
-    You can only use this effect of "Pod of Greed" once per turn.
+    You can only use this effect of "Greed Jar" once per turn.
   de:
   es:
   fr:
@@ -47,10 +47,35 @@ series:
 - Jar
 images:
 - index: 1
-  image: PodofGreed-DUNE-JP-C.png
+  image: GreedJar-DUNE-JP-C.png
 sets:
+  en:
+  - set_number: DUNE-EN029
+    set_name: Duelist Nexus
+    rarities:
+  de:
+  - set_number: DUNE-DE029
+    set_name: Duelist Nexus
+    rarities:
+  fr:
+  - set_number: DUNE-FR029
+    set_name: Duelist Nexus
+    rarities:
+  it:
+  - set_number: DUNE-IT029
+    set_name: Duelist Nexus
+    rarities:
+  pt:
+  - set_number: DUNE-PT029
+    set_name: Duelist Nexus
+    rarities:
   ja:
   - set_number: DUNE-JP029
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  ko:
+  - set_number: DUNE-KR029
     set_name: Duelist Nexus
     rarities:
     - Common
