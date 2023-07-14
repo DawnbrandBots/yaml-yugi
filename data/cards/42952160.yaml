@@ -15,9 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    When you take damage from an opponent's attack or card effect: Apply this effect based on the type of damage.
-    ● Battle: Special Summon 1 monster from your GY with ATK less than or equal to the damage you took, and if you do, end the Battle Phase after the Damage Step.
-    ● Effect: Inflict twice that much damage to your opponent.
+    When you take damage from your opponent's card effect or their monster's attack: Apply the appropriate effect based on the type of damage.
+    ● Battle: Special Summon 1 monster from your GY, with ATK less than or equal to the damage, and if you do, end the Battle Phase after the Damage Step.
+    ● Effect: Inflict double the damage you took to your opponent.
     You can only activate 1 "Split Mirror of the Underworld" per turn.
   de:
   es:
@@ -44,22 +44,27 @@ sets:
   - set_number: DUNE-EN079
     set_name: Duelist Nexus
     rarities:
+    - Common
   de:
   - set_number: DUNE-DE079
     set_name: Duelist Nexus
     rarities:
+    - Common
   fr:
   - set_number: DUNE-FR079
     set_name: Duelist Nexus
     rarities:
+    - Common
   it:
   - set_number: DUNE-IT079
     set_name: Duelist Nexus
     rarities:
+    - Common
   pt:
   - set_number: DUNE-PT079
     set_name: Duelist Nexus
     rarities:
+    - Common
   ja:
   - set_number: DUNE-JP079
     set_name: Duelist Nexus
