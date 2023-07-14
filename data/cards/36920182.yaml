@@ -1,7 +1,7 @@
 konami_id: 18841
 password: 36920182
 name:
-  en: The Worlds as One
+  en: Realm Resonance
   de:
   es:
   fr:
@@ -18,7 +18,7 @@ text:
     Activate 1 of these effects;
     ● Special Summon 1 monster with 1500 ATK/2100 DEF from your GY.
     ● Shuffle 5 of your monsters that are banished, face-up on your field, and/or in your GY into the Deck (1 "Visas Starfrost" and 4 monsters with 1500 ATK/2100 DEF), and if you do, Special Summon 1 "Visas" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)
-    You can only activate 1 "The Worlds as One" per turn.
+    You can only activate 1 "Realm Resonance" per turn.
   de:
   es:
   fr:
@@ -39,10 +39,35 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: TheWorldsasOne-DUNE-JP-C.png
+  image: RealmResonance-DUNE-JP-C.png
 sets:
+  en:
+  - set_number: DUNE-EN054
+    set_name: Duelist Nexus
+    rarities:
+  de:
+  - set_number: DUNE-DE054
+    set_name: Duelist Nexus
+    rarities:
+  fr:
+  - set_number: DUNE-FR054
+    set_name: Duelist Nexus
+    rarities:
+  it:
+  - set_number: DUNE-IT054
+    set_name: Duelist Nexus
+    rarities:
+  pt:
+  - set_number: DUNE-PT054
+    set_name: Duelist Nexus
+    rarities:
   ja:
   - set_number: DUNE-JP054
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  ko:
+  - set_number: DUNE-KR054
     set_name: Duelist Nexus
     rarities:
     - Common

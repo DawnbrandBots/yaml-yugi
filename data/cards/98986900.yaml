@@ -1,7 +1,7 @@
 konami_id: 18832
 password: 98986900
 name:
-  en: Thelematech Cratis
+  en: Thelematech Clatis
   de:
   es:
   fr:
@@ -19,7 +19,7 @@ text:
     Each time your opponent activates a Trap Card or effect, or a monster effect, place 1 Spell Counter on this card when it resolves (max. 9). If this card would be destroyed, you can detach 1 material from this card instead. You can remove 3 Spell Counters from this card; apply 1 of these effects.
     ● Add 1 Spell or 1 Spellcaster Effect Monster from your Deck to your hand.
     ● Special Summon 1 Spellcaster monster from your hand or Deck.
-    You can only use this effect of "Thelematech Cratis" once per turn.
+    You can only use this effect of "Thelematech Clatis" once per turn.
   de:
   es:
   fr:
@@ -44,10 +44,35 @@ def: 900
 materials: 2 Level 8 monsters
 images:
 - index: 1
-  image: ThelematechCratis-DUNE-JP-R.png
+  image: ThelematechClatis-DUNE-JP-R.png
 sets:
+  en:
+  - set_number: DUNE-EN045
+    set_name: Duelist Nexus
+    rarities:
+  de:
+  - set_number: DUNE-DE045
+    set_name: Duelist Nexus
+    rarities:
+  fr:
+  - set_number: DUNE-FR045
+    set_name: Duelist Nexus
+    rarities:
+  it:
+  - set_number: DUNE-IT045
+    set_name: Duelist Nexus
+    rarities:
+  pt:
+  - set_number: DUNE-PT045
+    set_name: Duelist Nexus
+    rarities:
   ja:
   - set_number: DUNE-JP045
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
+  ko:
+  - set_number: DUNE-KR045
     set_name: Duelist Nexus
     rarities:
     - Rare
