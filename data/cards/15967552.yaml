@@ -1,7 +1,7 @@
 konami_id: 18865
 password: 15967552
 name:
-  en: Little Opposition
+  en: Small Scuffle
   de:
   es:
   fr:
@@ -15,9 +15,7 @@ name:
   zh-CN: 细小的对抗者
 text:
   en: |-
-    Choose 2 unused Main Monster Zones in the same column; apply this effect, then your opponent can apply it for themselves.
-    ● Special Summon 1 Level 2 or lower monster from your hand or Deck to your chosen zone in Attack Position or face-down Defense Position.
-    You can only activate 1 "Little Opposition" per turn.
+    Choose 2 unused Main Monster Zones in the same column; Special Summon 1 Level 2 or lower monster from your hand or Deck in face-up Attack Position or face-down Defense Position in your chosen Main Monster Zone, then your opponent can do the same from their hand or Deck to theirs. You can only activate 1 "Small Scuffle" per turn.
   de:
   es:
   fr:
@@ -37,10 +35,40 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: LittleOpposition-DUNE-JP-C.png
+  image: SmallScuffle-DUNE-JP-C.png
 sets:
+  en:
+  - set_number: DUNE-EN078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  de:
+  - set_number: DUNE-DE078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  fr:
+  - set_number: DUNE-FR078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  it:
+  - set_number: DUNE-IT078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  pt:
+  - set_number: DUNE-PT078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ja:
   - set_number: DUNE-JP078
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  ko:
+  - set_number: DUNE-KR078
     set_name: Duelist Nexus
     rarities:
     - Common
