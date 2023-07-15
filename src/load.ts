@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: © 2022 Kevin Lu
+// SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 // SPDX-Licence-Identifier: AGPL-3.0-or-later
 import fs from "fs";
 import yaml from "js-yaml";
@@ -93,6 +93,22 @@ async function retry<T>(fn: () => T | PromiseLike<T>, times = 4, max = times): P
 const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 
 (async () => {
+    // Allow ? ATK/DEF to be stored
+	await opensearch.indices.putMapping({
+		index,
+		body: {
+			properties: {
+				atk: {
+					type: "long",
+					ignore_malformed: true
+				},
+				def: {
+					type: "long",
+					ignore_malformed: true
+				}
+			}
+		}
+	});
 	for (let i = 0; i < cards.length; i += 500) {
 		console.log(i);
 		const partition = cards.slice(i, i + 500);
