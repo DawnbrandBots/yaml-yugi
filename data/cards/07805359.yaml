@@ -12,7 +12,7 @@ name:
   ko: 코댁
   ko_rr:
   zh-TW:
-  zh-CN: 胖鸡
+  zh-CN: 喔喔
 text:
   en: |-
     Swallows enemies whole and uses their essence as energy.
@@ -32,7 +32,7 @@ text:
     상대를 통째로 삼켜서 자신의 에너지로 삼는다.
   zh-TW:
   zh-CN: |-
-    把敌人整个吞下，并消化作为能量来补充自己。
+    将对手整个吞下，汲取为自己的能量。
 card_type: Monster
 monster_type_line: Winged Beast / Normal
 attribute: EARTH
@@ -108,6 +108,11 @@ sets:
   ko:
   - set_number: MRD-K112
     set_name: Metal Raiders
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: FRP1-SCA15
+    set_name: Fusion Ready Pack A
     rarities:
     - Common
 limit_regulation:

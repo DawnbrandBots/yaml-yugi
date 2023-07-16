@@ -32,7 +32,7 @@ text:
     이 카드는 상대를 직접 공격할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡可以直接攻击对方玩家。
+    ①：此卡可直接攻击。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -114,6 +114,11 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: FRP1-SCA29
+    set_name: Fusion Ready Pack A
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

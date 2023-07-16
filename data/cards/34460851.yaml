@@ -12,7 +12,7 @@ name:
   ko: 화염의 조종자
   ko_rr:
   zh-TW:
-  zh-CN: 火焰操纵者
+  zh-CN: 炎之操纵者
 text:
   en: |-
     This Spellcaster attacks enemies with fire-related spells such as "Sea of Flames" and "Wall of Fire".
@@ -32,7 +32,7 @@ text:
     화염의 바다와 화염의 벽을 자유자재로 만들어 내어 공격한다.
   zh-TW:
   zh-CN: |-
-    游刃有余地穿梭在火海中发动攻击。
+    任意制造出炎之海或炎之壁来发动攻击。
 card_type: Monster
 monster_type_line: Spellcaster / Normal
 attribute: FIRE
@@ -200,6 +200,11 @@ sets:
     - Common
   - set_number: SDJ-KR006
     set_name: 'Starter Deck: Joey'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: FRP1-SCA02
+    set_name: Fusion Ready Pack A
     rarities:
     - Common
 limit_regulation:

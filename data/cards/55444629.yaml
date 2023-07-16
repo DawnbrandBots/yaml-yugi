@@ -32,7 +32,7 @@ text:
     화염도 제대로 못 내뿜는 낮은 레벨의 드래곤.
   zh-TW:
   zh-CN: |-
-    不怎么强，连吐息攻击都不会的低级龙。
+    并不太强，且不会吐息攻击的低级龙。
 card_type: Monster
 monster_type_line: Dragon / Normal
 attribute: WIND
@@ -116,6 +116,11 @@ sets:
   ko:
   - set_number: LOB-K113
     set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: FRP1-SCA12
+    set_name: Fusion Ready Pack A
     rarities:
     - Common
 limit_regulation:
