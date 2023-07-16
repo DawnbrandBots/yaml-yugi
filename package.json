@@ -9,7 +9,8 @@
     "download-tcg": "cd data/limit-regulation/tcg && ts-node ../../../src/limit-regulation/tcg-extract-transform.ts",
     "download-ocg": "cd data/limit-regulation/ocg && ts-node ../../../src/limit-regulation/ocg-extract-transform.ts",
     "download-rush": "cd data/limit-regulation/rush && ts-node ../../../src/limit-regulation/rush-extract-transform.ts",
-    "load": "ts-node src/load.ts"
+    "load": "ts-node src/load.ts",
+    "check-for-missing-fake-password": "ts-node src/assignments/check-for-missing.ts"
   },
   "engines": {
     "node": ">=18",

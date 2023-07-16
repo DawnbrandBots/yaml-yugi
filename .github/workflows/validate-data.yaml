@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: © 2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-name: Validate data does not contain wikitext templates
+name: Validate data
 
 on:
   push:
@@ -19,5 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: |
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+      - run: yarn
+      - name: Does not contain wikitext templates
+        run: |
           ! grep {{ -R data --include='*.yaml'
+      - name: Cards are not missing placeholder fake passwords
+        if: success() || failure()
+        run: yarn check-for-missing-fake-password data/cards
