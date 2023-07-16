@@ -8,10 +8,14 @@ on:
     paths:
       - .github/workflows/validate-data.yaml
       - data/**
+      - src/test_data_validation.py
+      - src/assignments/check-for-missing.ts
   pull_request:
     paths:
       - .github/workflows/validate-data.yaml
       - data/**
+      - src/test_data_validation.py
+      - src/assignments/check-for-missing.ts
   workflow_dispatch:
 
 jobs:
@@ -25,9 +29,26 @@ jobs:
           node-version: 18
           cache: yarn
       - run: yarn
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: pip
+      - run: pip install -r src/requirements.txt
       - name: Does not contain wikitext templates
         run: |
           ! grep {{ -R data --include='*.yaml'
+      - name: Rush Duel data conforms to schema
+        if: success() || failure()
+        # Generated from https://github.com/DawnbrandBots/api-v8-definitions/blob/master/rush.ts
+        run: |
+          curl -fsSLo RushCardSchema.json '${{ secrets.RUSH_CARD_SCHEMA_URL }}'
+          python src/test_data_validation.py RushCardSchema.json data/rush
+      - name: OCG/TCG data conforms to schema
+        if: success() || failure()
+        # Generated from https://github.com/DawnbrandBots/api-v8-definitions/blob/master/index.ts
+        run: |
+          curl -fsSLo CardSchema.json '${{ secrets.CARD_SCHEMA_URL }}'
+          python src/test_data_validation.py CardSchema.json data/cards
       - name: Cards are not missing placeholder fake passwords
         if: success() || failure()
         run: yarn check-for-missing-fake-password data/cards
