@@ -15,6 +15,7 @@ on:
 
 jobs:
   validate:
+    name: Validate assignments.yaml
     runs-on: ubuntu-latest
     defaults:
       run:
