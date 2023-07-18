@@ -126,9 +126,9 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
 
     # Prerelease password assignment by set
     if document["password"] is None:
-        if "ja" in document["sets"] and len(document["sets"]["ja"]) == 1:
+        if len(document["sets"].get("ja", [])):
             release = document["sets"]["ja"][0]
-        elif "en" in document["sets"] and len(document["sets"]["en"]) == 1:
+        elif len(document["sets"].get("en", [])):
             release = document["sets"]["en"][0]
         else:
             return
