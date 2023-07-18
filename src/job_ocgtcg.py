@@ -64,6 +64,8 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
     }
     if "tcg_speed_duel_status" in wikitext:
         document["limit_regulation"]["speed"] = wikitext["tcg_speed_duel_status"]
+    if "is_translation_unofficial" in wikitext:
+        document["is_translation_unofficial"] = wikitext["is_translation_unofficial"]
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document
 

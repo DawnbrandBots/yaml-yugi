@@ -12,6 +12,27 @@ from ruamel.yaml.scalarstring import LiteralScalarString
 logger = logging.getLogger(__name__)
 
 
+# Mapping of English names for languages used by Template:Unofficial name and Template:Unofficial lore
+# to ISO 639-1 language codes used in our output structure
+UNOFFICIAL_LANGUAGES = {
+    "English": "en",
+    "German": "de",
+    "Spanish": "es",
+    "French": "fr",
+    "Italian": "it",
+    "Portuguese": "pt",
+    "Japanese": "ja",
+    "Korean": "ko",
+    "Chinese": "zh",
+}
+
+
+def set_unofficial_translation_flag(key: str, template: wtp.Template, output: Dict[str, Any]) -> None:
+    flags = output.setdefault("is_translation_unofficial", {}).setdefault(key, {})
+    for lang in template.arguments[0].value.split(","):
+        flags[UNOFFICIAL_LANGUAGES[lang.strip()]] = True
+
+
 def recursive_expand_templates(wikitext: str) -> str:
     return wtp.remove_markup(wikitext, replace_templates=expand_templates).strip()
 
@@ -38,8 +59,13 @@ def initial_parse(yaml: YAML, yaml_file: str, target: str = "CardTable2") -> Opt
     if not len(wikitext.templates):
         return
     for template in wikitext.templates:
-        if template.name.strip() == target:
+        template_name = template.name.strip()
+        if template_name == target:
             break
+        elif template_name == "Unofficial name":
+            set_unofficial_translation_flag("name", template, properties)
+        elif template_name == "Unofficial lore":
+            set_unofficial_translation_flag("text", template, properties)
     if template.name.strip() != target:
         return
     for argument in template.arguments:

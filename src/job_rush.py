@@ -39,6 +39,8 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
     if wikitext.get("image"):
         document["images"] = transform_image(wikitext.get("image"))
     document["sets"] = transform_sets(wikitext)
+    if "is_translation_unofficial" in wikitext:
+        document["is_translation_unofficial"] = wikitext["is_translation_unofficial"]
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document
 
