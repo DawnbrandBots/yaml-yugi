@@ -136,8 +136,11 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
         # one-character region codes and two-digit position numbers are no longer a thing
         set_abbreviation, position = release["set_number"].split("-")
         if set_abbreviation in assignments.set_abbreviation:
+            # Typically, three digits follow the region code, e.g. EN100, but some
+            # special cards use an additional letter, e.g. JPPO1, JPN01, JPS01
+            start = 2 if position[2].isdigit() else 3
             try:
-                position = int(position[2:])
+                position = int(position[start:])
                 if isinstance(assignments.set_abbreviation[set_abbreviation], int):
                     document["fake_password"] = position + assignments.set_abbreviation[set_abbreviation]
                 else:  # list
