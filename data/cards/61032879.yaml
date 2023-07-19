@@ -1,7 +1,7 @@
 konami_id: 7693
 password: 61032879
 name:
-  en: Synchronized Realm
+  en: Synch Realm
   de: Synchronisiertes Gebiet
   es: Reino Sincronizado
   fr: Royaume Psychique
@@ -15,7 +15,7 @@ name:
   zh-CN: 共有精神世界
 text:
   en: |-
-    Each time you Synchro Summon a Synchro monster, inflict 500 damage to your opponent.
+    Each time you Synchro Summon a Synchro Monster: Inflict 500 damage to your opponent.
   de: |-
     Jedes Mal, wenn du ein Synchromonster als Synchrobeschwörung beschwörst, füge deinem Gegner 500 Schaden zu.
   es: |-
@@ -37,11 +37,15 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: SynchronizedRealm-5DS1-EN-C-1E.png
+  image: SynchRealm-OP22-EN-C-UE.png
 sets:
   en:
   - set_number: 5DS1-EN022
     set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: OP22-EN022
+    set_name: OTS Tournament Pack 22
     rarities:
     - Common
   de:
@@ -49,14 +53,31 @@ sets:
     set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
     rarities:
     - Common
+  - set_number: OP22-DE022
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   fr:
   - set_number: 5DS1-FR022
     set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
     rarities:
     - Common
+  - set_number: OP22-FR022
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   it:
   - set_number: 5DS1-IT022
     set_name: "Starter Deck: Yu-Gi-Oh! 5D's"
+    rarities:
+    - Common
+  - set_number: OP22-IT022
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
+  pt:
+  - set_number: OP22-PT022
+    set_name: OTS Tournament Pack 22
     rarities:
     - Common
   ja:
