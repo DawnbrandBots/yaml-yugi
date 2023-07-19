@@ -8,13 +8,35 @@ if (process.argv.length < 3) {
 	process.exit(1);
 }
 
+// https://yugipedia.com/wiki/Card_Number
+// See also job_ocgtcg.py:annotate_assignments
+function isPrereleaseMissingCardNumber(card: any) {
+	const release = card.sets.ja?.length
+		? card.sets.ja[0]
+		: card.sets.en?.length
+		? card.sets.en[0]
+		: null;
+	if (!release) {
+		console.error(`ERROR: ${card.yugipedia_page_id}\t[${card.name.en}]\tNo JP or EN sets found!`);
+		return true;
+	}
+	// Only need to check the last two characters to know if we have a number.
+	// Skip the region code and the third character that may or may not be a digit.
+	const position = release.set_number.split("-")[1].slice(3);
+	const isMissing = isNaN(Number(position));
+	if (isMissing) {
+		console.warn(`WARNING: ${card.yugipedia_page_id}\t[${card.name.en}]\tNot counted due to unknown set position ${position}`);
+	}
+	return isMissing;
+}
+
 (async () => {
 	const files = await fs.promises.readdir(process.argv[2]);
 	const missingFakePasswords = [];
 	for (const file of files) {
 		if (file.endsWith(".json")) {
 			const card = JSON.parse(await fs.promises.readFile(path.join(process.argv[2], file), "utf8"));
-			if (!card.password && !card.fake_password) {
+			if (!card.password && !card.fake_password && !isPrereleaseMissingCardNumber(card)) {
 				missingFakePasswords.push(card);
 			}
 		}
