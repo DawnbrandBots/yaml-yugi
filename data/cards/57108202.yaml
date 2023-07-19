@@ -15,8 +15,8 @@ name:
   zh-CN: 变形斗士·遥控器
 text:
   en: |-
-    ● Once per turn, while in Attack Position: You can target 1 "Morphtronic" monster in your Graveyard; banish that target and add 1 "Morphtronic" monster with the same Level as the target from your Deck to your hand.
-    ● Once per turn, while in Defense Position: You can send 1 "Morphtronic" monster from your hand to the Graveyard and add 1 other "Morphtronic" monster with the same Level as that monster from your Graveyard to your hand.
+    ● Attack Position: Once per turn: You can target 1 "Morphtronic" monster in your GY; banish that target, and if you do, add 1 "Morphtronic" monster with the same Level as the target from your Deck to your hand.
+    ● Defense Position: Once per turn: You can send 1 "Morphtronic" monster from your hand to the GY, and if you do, add 1 other "Morphtronic" monster with the same Level as that monster from your GY to your hand.
   de: |-
     ● Einmal pro Spielzug, solange in Angriffsposition: Du kannst 1 "Morphtronisch"-Monster in deinem Friedhof wählen; verbanne das gewählte Ziel und füge deiner Hand 1 "Morphtronisch"-Monster, das dieselbe Stufe wie das gewählte Ziel hat, von deinem Deck hinzu.
     ● Einmal pro Spielzug, solange in Verteidigungsposition: Du kannst 1 "Morphtronisch"-Monster von deiner Hand auf den Friedhof legen und deiner Hand 1 anderes "Morphtronisch"-Monster, das dieselbe Stufe wie das Monster hat, von deinem Friedhof hinzufügen.
@@ -42,7 +42,7 @@ text:
   zh-CN: |-
     这张卡得到这张卡的表示形式的以下效果。●攻击表示：1回合1次，选择自己墓地1只名字带有「变形斗士」的怪兽从游戏中除外，从卡组把持有和那只怪兽相同等级的1只名字带有「变形斗士」的怪兽加入手卡。●守备表示：1回合1次，手卡1只名字带有「变形斗士」的怪兽送去墓地，从自己墓地选持有和那只怪兽相同等级的1只其他的名字带有「变形斗士」的怪兽加入手卡。
 card_type: Monster
-monster_type_line: Machine / Tuner
+monster_type_line: Machine / Tuner / Effect
 attribute: EARTH
 level: 3
 atk: 300
@@ -51,13 +51,17 @@ series:
 - Morphtronic
 images:
 - index: 1
-  image: MorphtronicRemoten-RGBT-EN-R-1E.png
+  image: MorphtronicRemoten-OP22-EN-C-UE.png
 sets:
   en:
   - set_number: RGBT-EN014
     set_name: Raging Battle
     rarities:
     - Rare
+  - set_number: OP22-EN014
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   de:
   - set_number: RGBT-DE014
     set_name: Raging Battle
@@ -67,16 +71,33 @@ sets:
     set_name: Yu-Gi-Oh! Advent Calendar
     rarities:
     - Super Rare
+  - set_number: OP22-DE014
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   fr:
   - set_number: RGBT-FR014
     set_name: Raging Battle
     rarities:
     - Rare
+  - set_number: OP22-FR014
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   it:
   - set_number: RGBT-IT014
     set_name: Raging Battle
     rarities:
     - Rare
+  - set_number: OP22-IT014
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
+  pt:
+  - set_number: OP22-PT014
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   ja:
   - set_number: RGBT-JP014
     set_name: Raging Battle
