@@ -111133,8 +111133,6 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
-series:
-- Newspaper
 images:
 - index: 1
   image: AutomaticAccidentPrevention-RDKP14-JP-OP.png
@@ -112000,3 +111998,60 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 994285
+---
+konami_id:
+name:
+  en: Psymprinting
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サインプリンティング
+  ja_romaji: Sainpurintingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 or higher WIND Attribute monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have "Handy Lady" face-up on your field, you can Special Summon 1 monster from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: Psymprinting-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP056
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994466
