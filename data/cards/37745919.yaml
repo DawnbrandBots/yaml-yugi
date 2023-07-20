@@ -25,7 +25,7 @@ text:
   it: |-
     Scegli ed Evoca Specialmente 1 mostro "Morfotronico" di Livello 4 o inferiore dal tuo Cimitero. Distruggilo durante l'End Phase.
   pt: |-
-    Special Summon 1 monstro "Morphtronic" de Nível 4 ou menor do seu Cemitério para o seu lado do campo. Destrua-o durante a End Phase.
+    Escolha 1 monstro "Morfotrônico(a)" de Nível 4 ou menos no seu Cemitério; Invoque-o por Invocação-Especial, mas destrua-o durante a Fase Final deste turno.
   ja: |-
     ①：自分の墓地のレベル４以下の「Ｄ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターはこのターンのエンドフェイズに破壊される。
   ko: |-
@@ -65,6 +65,11 @@ sets:
     set_name: Raging Battle
     rarities:
     - Common
+  pt:
+  - set_number: OP22-PT036
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   ja:
   - set_number: RGBT-JP052
     set_name: Raging Battle
@@ -90,9 +95,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 56873

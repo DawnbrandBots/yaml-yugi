@@ -6,7 +6,7 @@ name:
   es: Manejador de Artilugios
   fr: Conducteur Gadget
   it: Congegno Cacciavite
-  pt:
+  pt: Condutor de Dispositivos
   ja: ガジェット・ドライバー
   ja_romaji: Gajetto Doraibā
   ko: 가제트 드라이버
@@ -25,7 +25,7 @@ text:
   it: |-
     Puoi mandare questa carta dalla tua mano al Cimitero e scegliere un qualsiasi numero di mostri "Morfotronici" scoperti che controlli. Cambia la posizione dei mostri scelti. Questo effetto può essere attivato durante il turno di qualsiasi giocatore.
   pt: |-
-    Durante o turno de qualquer duelista: você pode enviar este card da sua mão para o Cemitério e, depois, escolha qualquer número de monstros "Morfotrônico(a)" com a face para cima que você controla; mude o posição de batalha desses monstros.
+    (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério e, depois, escolha qualquer número de monstros "Morfotrônico(a)" que você controla; mude a posição de batalha desses alvos.
   ja: |-
     ①：このカードを手札から墓地へ送り、自分フィールドの「Ｄ」モンスターを任意の数だけ対象として発動できる。その自分の「Ｄ」モンスターの表示形式を変更する。この効果は相手ターンでも発動できる。
   ko: |-
@@ -65,6 +65,11 @@ sets:
     set_name: Crossroads of Chaos
     rarities:
     - Common
+  pt:
+  - set_number: OP22-PT029
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   ja:
   - set_number: CSOC-JP014
     set_name: Crossroads of Chaos
@@ -86,7 +91,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    pt: true
 yugipedia_page_id: 35614

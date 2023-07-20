@@ -25,7 +25,8 @@ text:
   it: |-
     Puoi scegliere come bersaglio 1 mostro "Samurai Superpesante" che controlli; equipaggia questo mostro dalla tua mano o dal tuo Terreno a quel bersaglio. Esso guadagna 1000 DEF. Durante la Battle Phase di qualsiasi giocatore, quando il tuo avversario attiva l'effetto di una carta mentre tu controlli un mostro "Samurai Superpesante" in Posizione di Difesa: puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione e, se lo fai, distruggila, poi distruggi tanti mostri sul Terreno quanti possibile (minimo 1) e, se lo fai, entrambi i giocatori subiscono 1000 danni.
   pt: |-
-    Você pode escolher 1 monstro "Samurai Superpesado" que você controla; equipe este monstro, da sua mão ou do seu lado do campo, ao alvo. Ele ganha 1000 de DEF. Durante a Fase de Batalha de qualquer duelista, quando seu oponente ativar um efeito de card enquanto você controlar um monstro "Samurai Superpesado" em Posição de Defesa: você pode banir este card do seu Cemitério, negue a ativação e, se isso acontecer, destrua-o e, depois, destrua tantos monstros no campo quanto for possível (mín. 1) e, se isso acontecer, os dois duelistas sofrem 1000 de dano.
+    (Este card deve ser sempre considerado como um card "Samurai Superpesado Alma".)
+    Você pode escolher 1 monstro "Samurai Superpesado" que você controla; equipe este monstro da sua mão ou do campo ao alvo. Ele ganha 1000 de DEF. Durante a Fase de Batalha, quando seu oponente ativar um card ou efeito enquanto você controlar um monstro "Samurai Superpesado" em Posição de Defesa (Efeito Rápido): você pode banir este card do seu Cemitério; negue a ativação e, se isso acontecer, destrua-o e, depois, destrua tantos monstros no campo quanto possível (mín. 1) e, se isso acontecer, os dois duelistas sofrem 1000 de dano.
   ja: |-
     ①：自分メインフェイズに自分フィールドの「超重武者」モンスター１体を対象として発動できる。自分の手札・フィールドのこのモンスターを守備力１０００アップの装備カード扱いとしてそのモンスターに装備する。②：自分フィールドに守備表示の「超重武者」モンスターが存在し、相手がバトルフェイズに魔法・罠・モンスターの効果を発動した時、墓地のこのカードを除外して発動できる。その発動を無効にし破壊する。その後、フィールドのモンスターを全て破壊し、お互いのプレイヤーは１０００ダメージを受ける。
   ko: |-
@@ -90,6 +91,10 @@ sets:
     - Common
   - set_number: MP15-PT137
     set_name: 2015 Mega-Tin Mega Pack
+    rarities:
+    - Common
+  - set_number: OP22-PT033
+    set_name: OTS Tournament Pack 22
     rarities:
     - Common
   ja:

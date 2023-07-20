@@ -6,7 +6,7 @@ name:
   es: Herramienta Doble C&D
   fr: Perceuse et Tronçonneuse
   it: Doppio Attrezzo Taglio & Perforazione
-  pt: Ferramenta Dupla C&D
+  pt: Ferramenta Dupla S&F
   ja: ダブルツール<ruby>Ｄ<rt>ディー</rt></ruby><ruby>＆<rt>アンド</rt></ruby><ruby>Ｃ<rt>シー</rt></ruby>
   ja_romaji: Daburu Tsūru Dī Ando Shī
   ko: 더블 툴 D&C
@@ -25,7 +25,9 @@ text:
   it: |-
     Equipaggia solo a "Drago Utensile" o ad un mostro "Morfotronico" di Tipo Macchina di Livello 4 o superiore che controlli. Fino a quando è equipaggiato: ● Durante il tuo turno: Esso guadagna 1000 ATK. Se attacca, qualsiasi effetto del bersaglio dell'attacco che si attiva o si applica sul Terreno viene annullato durante quella Battle Phase. ● Durante il turno del tuo avversario: Il tuo avversario non può scegliere un mostro diverso da quello equipaggiato come bersaglio di un attacco. Un mostro dell'avversario che combatte con il mostro equipaggiato viene distrutto alla fine del Damage Step.
   pt: |-
-    Só pode ser equipado a "Dragão Ferramenteiro" ou a um monstro Máquina "Morfotrônico(a)" de Nível 4 ou mais que você controla. Enquanto equipado: ● Durante o seu turno: O monstro equipado ganha 1000 de ATK. Se ele atacar, quaisquer efeitos do alvo do ataque que ativam ou aplicam no campo são negados durante essa Fase de Batalha. ● Durante o turno do seu oponente: Seu oponente não pode selecionar um monstro que não seja o monstro equipado como alvo de um ataque. Um monstro do seu oponente que batalhar com o monstro equipado é destruído no final da Etapa de Dano.
+    Só pode ser equipado a um "Dragão Ferramenteiro" ou a um monstro Máquina "Morfotrônico(a)" de Nível 4 ou mais que você controla. Enquanto estiver equipado:
+    ● Durante o seu turno: o monstro equipado ganha 1000 de ATK. Se ele atacar, negue os efeitos do alvo do ataque durante essa Fase de Batalha.
+    ● Durante o turno do seu oponente: os monstros do seu oponente não podem escolher monstros como alvo de ataques, exceto o monstro equipado. No final da Etapa de Dano, se o monstro equipado batalhou um monstro do oponente: destrua esse monstro do oponente.
   ja: |-
     自分フィールドの、「パワー・ツール・ドラゴン」またはレベル４以上の機械族の「Ｄ」モンスターにのみ装備可能。①：ターン毎に以下の効果を適用する。●自分ターン：装備モンスターの攻撃力は１０００アップし、装備モンスターの攻撃対象になったモンスターの効果はそのバトルフェイズの間だけ無効化される。●相手ターン：相手は装備モンスター以外のモンスターを攻撃対象に選択できない。②：相手ターンに、装備モンスターが相手モンスターと戦闘を行ったダメージステップ終了時に発動する。その相手モンスターを破壊する。
   ko: |-
@@ -62,6 +64,11 @@ sets:
     set_name: Raging Battle
     rarities:
     - Common
+  pt:
+  - set_number: OP22-PT037
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   ja:
   - set_number: RGBT-JP053
     set_name: Raging Battle
@@ -87,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 56826

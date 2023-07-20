@@ -25,7 +25,8 @@ text:
   it: |-
     Puoi scegliere come bersaglio 1 mostro "Samurai Superpesante" che controlli; equipaggia questo mostro dalla tua mano o dal tuo Terreno a quel bersaglio. Esso perde 1000 DEF, inoltre non può essere distrutto in battaglia. Se questa carta è nel tuo Cimitero: puoi bandire tutti i "Samurai Superpesante Animaspezza Armatura" dal tuo Cimitero, poi scegliere come bersaglio 1 mostro "Samurai Superpesante" sul Terreno il cui DEF attuale è inferiore al suo DEF originale; infliggi al tuo avversario danno pari alla differenza tra il suo DEF attuale e quello originale.
   pt: |-
-    Você pode escolher 1 monstro "Samurai Superpesado" que você controla; equipe este monstro, da sua mão ou do seu lado do campo, ao alvo. Ele perde 1000 de DEF e, além disso, ele não pode ser destruído por batalha. Se este card estiver no seu Cemitério: você pode banir todos os "Armadura Samurai Superpesado Quebra Almas" do seu Cemitério e, depois, escolher 1 monstro "Samurai Superpesado" no campo cuja DEF atual seja menor que sua DEF original; cause dano ao seu oponente igual à diferença entre a DEF atual e original.
+    (Este card deve ser sempre considerado como um card "Samurai Superpesado Alma".)
+    Você pode escolher 1 monstro "Samurai Superpesado" que você controla; equipe este monstro da sua mão ou do campo ao alvo. Ele perde 1000 de DEF e, além disso, ele não pode ser destruído em batalha. Se este card estiver no seu Cemitério: você pode banir todos os "Armadura Samurai Superpesado Quebra Almas" do seu Cemitério e, depois, escolha 1 monstro "Samurai Superpesado" no campo cuja DEF atual seja menor que sua DEF original; cause dano ao seu oponente igual à diferença entre sua DEF atual e original.
   ja: |-
     ①：自分メインフェイズに自分フィールドの「超重武者」モンスター１体を対象として発動できる。自分の手札・フィールドからこのモンスターを守備力１０００ダウンの装備カード扱いとしてその自分のモンスターに装備する。装備モンスターは戦闘では破壊されない。②：自分メインフェイズに、自分の墓地からこのカードを含む「超重武者装留ブレイク・アーマー」を全て除外し、元々の守備力よりも守備力が低い「超重武者」モンスター１体を対象として発動できる。そのモンスターの守備力と、その元々の守備力の差分のダメージを相手に与える。
   ko: |-
@@ -89,6 +90,10 @@ sets:
     - Common
   - set_number: MP15-PT136
     set_name: 2015 Mega-Tin Mega Pack
+    rarities:
+    - Common
+  - set_number: OP22-PT032
+    set_name: OTS Tournament Pack 22
     rarities:
     - Common
   ja:

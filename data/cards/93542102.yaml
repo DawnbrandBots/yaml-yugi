@@ -6,7 +6,7 @@ name:
   es: Celfon Morfotrónico
   fr: Téléphon Morphtronique
   it: Cellulare Morfotronico
-  pt: Celular Morftronico
+  pt: Celularen Morfotrônico
   ja: <ruby>Ｄ<rt>ディフォーマー</rt></ruby>・モバホン
   ja_romaji: Difōmā Mobahon
   ko: <ruby>D<rt>디포머</rt></ruby>·모바폰
@@ -28,7 +28,8 @@ text:
     ● Fino a quando è in Posizione di Attacco: Una volta per turno, puoi tirare un dado a sei facce. Rivela carte dalla cima del tuo Deck pari al numero ottenuto ed Evoca Specialmente 1 mostro "Morfotronico" di Livello 4 o inferiore tra quelli rivelati, ignorando le condizioni di Evocazione. Mischia le restanti carte nel Deck.
     ● Fino a quando è in Posizione di Difesa: Una volta per turno, puoi tirare un dado a sei facce. Guarda un numero di carte dalla cima del tuo Deck pari al numero ottenuto, poi rimettile a posto nello stesso ordine.
   pt: |-
-    ● Enquanto estiver na Posição de Ataque: Uma vez por turno, você pode rolar um dado. Revele cartas do topo do seu Deck igual ao número rolado e Special Summon 1 monstro "Morphtronic" de Nível 4 ou menor dentre aquelas cartas, ignorando as condições de invocação. Embaralhe as outras cartas no Deck. ● Enquanto estiver na Posição de Defesa: Uma vez por turno, você pode rolar um dado. Olhe as cartas do topo do seu Deck igual ao número rolado, depois disso, retorne-as na mesma ordem.
+    ● Posição de Ataque: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces, escave esse número de cards do topo do seu Deck e, se isso acontecer, Invoque por Invocação-Especial 1 monstro "Morfotrônico(a)" escavado de Nível 4 ou menos, ignorando suas condições de Invocação e, além disso, embaralhe o resto no Deck.
+    ● Posição de Defesa: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces, olhar esse número de cards do topo do seu Deck e, depois, coloque-os no topo do Deck na mesma ordem.
   ja: |-
     ①：このカードは表示形式によって以下の効果を得る。●攻撃表示：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振り、出た目の数だけ自分のデッキの上からカードをめくる。その中からレベル４以下の「Ｄ」モンスター１体を選んで召喚条件を無視して特殊召喚し、残りをデッキに戻す。●守備表示：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振り、出た目の数だけ自分のデッキの上からカードを確認する。
   ko: |-
@@ -90,6 +91,11 @@ sets:
     set_name: 'Turbo Pack: Booster Three'
     rarities:
     - Super Rare
+  pt:
+  - set_number: OP22-PT028
+    set_name: OTS Tournament Pack 22
+    rarities:
+    - Common
   ja:
   - set_number: CSOC-JP006
     set_name: Crossroads of Chaos
@@ -115,7 +121,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
 yugipedia_page_id: 45759
