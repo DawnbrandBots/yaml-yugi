@@ -42,7 +42,9 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         wikitext.get("atk") == "???" or
         wikitext.get("def") == "???" or
         wikitext.get("card_type") == "???" or
-        wikitext.get("property") == "???"
+        wikitext.get("property") == "???" or
+        # Rush Duel cards erroneously added to the Duel Monsters category
+        "RD/" in wikitext.get("jp_sets", "")
     ):
         logger.info(f"Skip: {wikitext}")
         return
