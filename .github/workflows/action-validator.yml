@@ -1,0 +1,24 @@
+name: Validate workflow file syntax
+on:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/*
+  pull_request:
+    paths:
+      - .github/workflows/*
+permissions: {}
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  action-validator:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          sparse-checkout: .github/workflows
+      - run: |
+          curl -o action_validator -fsSL https://github.com/mpalmer/action-validator/releases/download/v0.5.3/action-validator_linux_amd64
+          chmod +x action_validator
+      - run: ./action_validator .github/workflows/*
