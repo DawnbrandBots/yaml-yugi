@@ -1,0 +1,48 @@
+konami_id: 19208
+password: 77066768
+name:
+  en: Card Scanner
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: カードスキャナー
+  ja_romaji: Kādo Sukyanā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    Once per turn: You can declare 1 card type (Monster/Spell/Trap); each player reveals the bottom card of their Deck, and if they reveal a card of the declared type, they add it to their hand. Otherwise, they place it on the top of the Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ①：１ターンに１度、カードの種類（モンスター・魔法・罠）を１つ宣言して発動できる。お互いのプレイヤーは、それぞれ自身のデッキの一番下のカードをお互いに確認し、宣言した種類だった場合、そのカードを自身の手札に加える。違った場合、確認したカードを自身のデッキの一番上に置く。②：魔法＆罠ゾーンの表側表示のこのカードが相手の効果で破壊された場合に発動できる。相手は自身の手札を１枚選んでデッキの一番下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Continuous
+images:
+- index: 1
+  image: CardScanner-AGOV-JP-C.png
+sets:
+  ja:
+  - set_number: AGOV-JP066
+    set_name: Age of Overlord
+    rarities:
+    - Common
+limit_regulation:
+  tcg: Not yet released
+  ocg: Unlimited
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994629
