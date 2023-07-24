@@ -8,12 +8,12 @@ attrs==23.1.0
     # via
     #   jsonschema
     #   referencing
-fastjsonschema==2.17.1
-    # via -r requirements.in
+fastjsonschema==2.18.0
+    # via -r src/requirements.in
 genson==1.2.2
-    # via -r requirements.in
+    # via -r src/requirements.in
 jsonschema==4.18.3
-    # via -r requirements.in
+    # via -r src/requirements.in
 jsonschema-specifications==2023.6.1
     # via jsonschema
 referencing==0.29.1
@@ -27,10 +27,10 @@ rpds-py==0.8.10
     #   jsonschema
     #   referencing
 ruamel-yaml==0.17.32
-    # via -r requirements.in
+    # via -r src/requirements.in
 ruamel-yaml-clib==0.2.7
     # via ruamel-yaml
 wcwidth==0.2.6
     # via wikitextparser
 wikitextparser==0.53.0
-    # via -r requirements.in
+    # via -r src/requirements.in
