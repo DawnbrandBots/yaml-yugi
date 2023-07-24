@@ -12,7 +12,7 @@ name:
   ko: 네크로이드 싱크로
   ko_rr:
   zh-TW:
-  zh-CN: 死灵式同调
+  zh-CN: 死灵同步
 text:
   en: |-
     Banish 1 Tuner and up to 2 non-Tuner monsters from your Graveyard, and if you do, Special Summon 1 "Stardust" Synchro Monster from your Extra Deck whose Level equals the total Levels of those banished monsters, but it has its effects negated. (This Special Summon is treated as a Synchro Summon.)
@@ -32,7 +32,7 @@ text:
     ①: 튜너 1장과 튜너 이외의 몬스터 2장까지를 자신 묘지에서 골라 제외하고, 제외한 몬스터의 레벨의 합계와 같은 레벨을 가지는 "스타더스트" 싱크로 몬스터 1장을 엑스트라 덱에서 싱크로 소환으로 취급하여 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
-    ①：从自己墓地选调整1只和调整以外的怪兽最多2只除外，把持有和除外的怪兽的等级合计相同等级的1只「星尘」同调怪兽从额外卡组当作同调召唤作特殊召唤。这个效果特殊召唤的怪兽的效果无效化。
+    此卡名在规则上也视为“机人”卡。①：从自己的墓地挑选1只协调和最多2只协调以外的怪兽除外，将1只拥有与除外怪兽等级合计相同等级的“星尘”同步怪兽从额外牌组特殊召唤，且视为同步召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Spell
 property: Normal
 series:
@@ -82,6 +82,11 @@ sets:
     set_name: Premium Pack Vol.12
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: SD28-SC029
+    set_name: 'Structure Deck: Synchron Extreme'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
