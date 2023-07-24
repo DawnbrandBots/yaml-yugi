@@ -32,7 +32,7 @@ text:
     "리추어"라는 이름이 붙은 의식 마법 카드에 의해 의식 소환. 1턴에 1번, 패에서 "리추어"라는 이름이 붙은 몬스터 1장을 버리는 것으로, 상대 필드 위에 앞면 표시로 존재하는 카드 1장을 선택하고 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    CL02-SC085; Classic Pack 02; Common
+    名字带有「遗式」的仪式魔法卡降临。1回合1次，从手卡把1只名字带有「遗式」的怪兽丢弃才能发动。选择对方场上表侧表示存在的1张卡回到持有者卡组。
 card_type: Monster
 monster_type_line: Aqua / Ritual / Effect
 attribute: WATER
@@ -90,6 +90,11 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: CL02-SC085
+    set_name: Classic Pack 02
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
