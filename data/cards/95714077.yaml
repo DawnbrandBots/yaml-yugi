@@ -6,7 +6,7 @@ name:
   es: Fábrica de Cuerda
   fr: Usine des Automates
   it: Fabbrica a Molla
-  pt: Fábrica de Corda
+  pt:
   ja: ゼンマイマニュファクチャ
   ja_romaji: Zenmai Manyufakucha
   ko: 태엽 팩토리
@@ -24,8 +24,7 @@ text:
     Une fois par tour, si un effet de monstre "Automate" est activé (sauf durant la Damage Step) : vous pouvez ajouter 1 monstre "Automate" de max. Niveau 4 depuis votre Deck à votre main.
   it: |-
     Una volta per turno, se viene attivato un effetto di un mostro "a Molla" (eccetto durante il Damage Step): puoi aggiungere 1 mostro "a Molla" di Livello 4 o inferiore dal tuo Deck alla tua mano.
-  pt: |-
-    Uma vez por turno, se algum Monstro "Wind-up" ativar um efeito (exceto na Demage Step): Você pode adicionar 1 Monstro "Wind-up" do seu Deck para mão.
+  pt:
   ja: |-
     「ゼンマイ」と名のついたモンスターの効果が発動した場合、自分のデッキからレベル４以下の「ゼンマイ」と名のついたモンスター１体を手札に加える事ができる。この効果は１ターンに１度しか使用できない。
   ko: |-
@@ -90,9 +89,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 163471

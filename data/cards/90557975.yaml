@@ -6,7 +6,7 @@ name:
   es: Viento Despejador
   fr: Courant Ascendant
   it: Vento Rivelatore
-  pt: Corrente Ascendente
+  pt:
   ja: <ruby>上<rt>じょう</rt></ruby><ruby>昇<rt>しょう</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>流<rt>りゅう</rt></ruby>
   ja_romaji: Jōshō Kiryū
   ko: 상승기류
@@ -24,8 +24,7 @@ text:
     Retirez tous les compteurs de Brouillard sur le terrain. Infligez 300 points de dommages à votre adversaire pour chaque Compteur de Brouillard vous avez supprimé.
   it: |-
     Rimuovi tutti i Segnalini Nebbia dal Terreno. Infliggi 300 danni al tuo avversario per ogni Segnalino Nebbia rimosso.
-  pt: |-
-    Remova todos os Marcadores de Neblina do campo. Cause 300 de dano ao seu oponente para cada Marcador de Neblina removido.
+  pt:
   ja: |-
     フィールド上に存在するフォッグカウンターを全て取り除いて発動する。取り除いたフォッグカウンターの数⨉３００ポイントダメージを相手ライフに与える。
   ko: |-
@@ -76,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 540007

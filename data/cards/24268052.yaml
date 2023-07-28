@@ -6,7 +6,7 @@ name:
   es: Robo Defensivo
   fr: Pioche de Défense
   it: Pescata Difensiva
-  pt: Compra Defensiva
+  pt:
   ja: ガード・ブロック
   ja_romaji: Gādo Burokku
   ko: 가드 블록
@@ -24,8 +24,7 @@ text:
     Activable uniquement durant le calcul des dommages pendant le tour de votre adversaire. Les dommages de combat que vous auriez reçus deviennent 0. Piochez 1 carte.
   it: |-
     Attiva solo durante il calcolo dei danni durante il turno del tuo avversario. Il danno da combattimento che subiresti diventa 0. Pesca 1 carta.
-  pt: |-
-    Durante o turno do seu oponente, no cálculo de dano: torne o dano de batalha que você sofrer dessa batalha 0 e, se isso acontecer, compre 1 card.
+  pt:
   ja: |-
     相手ターンの戦闘ダメージ計算時に発動する事ができる。その戦闘によって発生する自分への戦闘ダメージは０になり、自分のデッキからカードを１枚ドローする。
   ko: |-
@@ -142,9 +141,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 29506

@@ -6,7 +6,7 @@ name:
   es: Jugador de Leyenda
   fr: Joueur Légendaire
   it: Giocatore d'Azzardo Leggendario
-  pt: Jogador de Legenda
+  pt:
   ja: <ruby>伝説の賭博師<rt>レジェンド・ギャンブラー</rt></ruby>
   ja_romaji: Rejendo Gyanburā
   ko: 전설의 도박사
@@ -24,8 +24,7 @@ text:
     Une fois par tour, vous pouvez lancer une pièce 3 fois et appliquer les effets suivants : ● 3 "face" : Détruisez tous les monstres contrôlés par votre adversaire. ● 2 "face" : Défaussez 1 carte au hasard de la main de votre adversaire. ● 1 "face" : Détruisez 1 carte que vous contrôlez. ● 3 "pile" : Défaussez toutes les cartes de votre main.
   it: |-
     Una volta per turno, puoi lanciare una moneta 3 volte ed applicare l'effetto relativo al risultato: ●3 Teste: Distruggi tutti i mostri controllati dall'avversario. ●2 Teste: Scarta una carta dalla mano del tuo avversario. ●1 Testa: Distruggi 1 carta sotto il tuo controllo. ●3 Croci: Scarta tutte le carte che hai in mano.
-  pt: |-
-    Uma vez por turno, lance 3 moedas. De acordo com o resultado, aplique um dos seguintes efeitos: ● 3 Caras: Destrua todos os monstros no lado do campo do seu oponente. ● 2 Caras: Seu oponente envia, aleatoriamente, 1 carta da mão dele ao Cemitério. ● 1 Cara: Destrua 1 monstro no seu lado do campo. ● 3 Coroas: Envie sua mão inteira ao Cemitério.
+  pt:
   ja: |-
     コイントスを３回行う。３回とも表だった場合、相手フィールド上モンスターを全て破壊する。２回表だった場合、相手の手札をランダムに１枚捨てる。１回表だった場合、自分フィールド上に存在するカード１枚を破壊する。３回とも裏だった場合、自分の手札を全て捨てる。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。
   ko: |-
@@ -76,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 539786

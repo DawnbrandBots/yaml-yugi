@@ -6,7 +6,7 @@ name:
   es: Bloqueador de Cartas
   fr: Bloqueur de Cartes
   it: Blocca Carta
-  pt: Bloqueador de Cartas
+  pt:
   ja: カードブロッカー
   ja_romaji: Kādo Burokkā
   ko: 카드 블로커
@@ -24,8 +24,7 @@ text:
     Lorsque cette carte est Invoquée : changez-la en Position de Défense. Lorsqu'un monstre face recto que vous contrôlez est ciblé par une attaque : vous pouvez changer la cible à cette carte. Lorsque cette carte est ciblée par une attaque : vous pouvez choisir un nombre entre 1 et 3, puis envoyez ce nombre de cartes du dessus de votre Deck au Cimetière ; jusqu'à la End Phase, cette carte gagne 500 DEF pour chaque carte envoyée.
   it: |-
     Quando questa carta viene Evocata: mettila in Posizione di Difesa. Quando un mostro scoperto che controlli viene scelto come bersaglio per un attacco: puoi cambiare il bersaglio a questa carta. Quando questa carta viene scelta come bersaglio per un attacco: puoi scegliere un numero tra 1 e 3, poi manda quel numero di carte dalla cima del tuo Deck al Cimitero; questa carta guadagna 500 DEF per ogni carta mandata al Cimitero, fino alla End Phase.
-  pt: |-
-    Quando esta carta é Normal, Flip ou Special Summoned, ela é alterada para a Posição de Defesa. Quando um monstro virado para cima que você controla é selecionado como alvo de um ataque, você pode mudar o alvo do ataque para esta carta. Quando esta carta é selecionada como alvo de um ataque, você pode enviar até 3 cartas do topo do seu Deck ao Cemitério para fazer com que esta carta ganhe 500 de DEF para cada uma daquelas cartas, até a End Phase.
+  pt:
   ja: |-
     このカードは召喚・反転召喚・特殊召喚に成功した時、守備表示になる。自分フィールド上に表側表示で存在するモンスターが攻撃対象に選択された時、このカードに攻撃対象を変更する事ができる。このカードが攻撃対象になった時、自分のデッキのカードを上から３枚まで墓地へ送る事ができる。墓地へ送ったカード１枚につき、このカードの守備力はエンドフェイズ時まで５００ポイントアップする。
   ko: |-
@@ -104,9 +103,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 21717

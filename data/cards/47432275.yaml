@@ -6,7 +6,7 @@ name:
   es: Kuribon
   fr: Kuribon
   it: Kuribon
-  pt: Kuribon
+  pt:
   ja: クリボン
   ja_romaji: Kuribon
   ko: 크리본
@@ -24,8 +24,7 @@ text:
     Durant le calcul des dommages, si cette carte est attaquée par un monstre de votre adversaire : vous pouvez activer cet effet ; vous ne recevez aucun dommage de combat de ce combat, votre adversaire gagne des LP égaux à l'ATK du monstre attaquant, et aussi, vous renvoyez cette carte à votre main.
   it: |-
     Se questa carta è stata scelta come bersaglio di un attacco da un mostro del tuo avversario, puoi attivare questo effetto durante il calcolo dei danni. Tu non subisci danno da combattimento in questa battaglia, il tuo avversario guadagna Life Points pari all'ATK del mostro attaccante, e poi fai ritornare questa carta nella tua mano.
-  pt: |-
-    Se esta carta foi selecionada como alvo de um ataque por um monstro do seu oponente, você pode ativar esse efeito durante o Cálculo de Dano. Você não recebe Dano de Batalha nesta batalha, seu oponente ganha LPs igual ao ATK do monstro atacante e, depois disso, retorne esta carta para a sua mão.
+  pt:
   ja: |-
     このカードが相手モンスターの攻撃対象になったダメージ計算時に発動できる。その戦闘によって発生する自分への戦闘ダメージは０になり、攻撃モンスターの攻撃力分だけ相手のライフポイントを回復し、このカードを手札に戻す。
   ko: |-
@@ -104,9 +103,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 43104

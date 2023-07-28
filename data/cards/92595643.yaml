@@ -6,7 +6,7 @@ name:
   es: Multa
   fr: Amende
   it: Multa
-  pt: Multa
+  pt:
   ja: <ruby>罰<rt>ばっ</rt></ruby><ruby>則<rt>そく</rt></ruby><ruby>金<rt>きん</rt></ruby>
   ja_romaji: Bassokukin
   ko: 벌금
@@ -24,8 +24,7 @@ text:
     Défaussez 2 cartes.
   it: |-
     Scarta 2 carte.
-  pt: |-
-    Descarte 2 cartas.
+  pt:
   ja: |-
     自分は手札を２枚選んで捨てる。
   ko: |-
@@ -76,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 70292

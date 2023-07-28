@@ -6,7 +6,7 @@ name:
   es: Disparador de Gravedad
   fr: Projection Gravitationnelle
   it: Pistola Gravitazionale
-  pt: Propulsor de Gravidade
+  pt:
   ja: <ruby>重力砲<rt>グラヴィティ・ブラスター</rt></ruby>
   ja_romaji: Guraviti Burasutā
   ko: 그레비티 블래스터
@@ -24,8 +24,7 @@ text:
     Équipable uniquement à un monstre de Type Machine. Une fois par tour : vous pouvez activer cet effet ; il gagne définitivement 400 ATK. (Ce gain d'ATK reste même si cette carte quitte le Terrain ou si le monstre n'est plus affecté par des effets de carte). S'il combat un monstre de votre adversaire, durant la Battle Phase uniquement, l'effet du monstre est annulé.
   it: |-
     Equipaggia solo a un mostro di Tipo Macchina. Una volta per turno: puoi attivare questo effetto; esso guadagna permanentemente 400 ATK. (Questo guadagno di ATK rimane anche se questa carta lascia il Terreno o il mostro diventa immune agli effetti delle carte.) Se esso combatte con un mostro dell'avversario, l'effetto di quel mostro viene annullato solamente durante la Battle Phase.
-  pt: |-
-    Esta carta somente pode ser equipada em um monstro do tipo Machine. Uma vez por turno: Você pode ativar este efeito; o monstro equipado ganha permanentemente 400 ATK. (O ATK ganho desta carta permanece o mesmo se esta carta for removida de campo ou se o monstro foi afetado por efeito de cartas.) Se o monstro equipado com esta carta batalha com um monstro do seu oponente, o efeito daquele monstro será negado, apenas durante a Battle Phase.
+  pt:
   ja: |-
     機械族モンスターにのみ装備可能。１ターンに１度、装備モンスターの攻撃力を４００ポイントアップできる。また、装備モンスターが相手モンスターと戦闘を行う場合、バトルフェイズの間だけその相手モンスターの効果は無効化される。
   ko: |-
@@ -78,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 200771

@@ -6,7 +6,7 @@ name:
   es: Poción de la Destrucción
   fr: Potion de Destruction
   it: Pozione Distruttiva
-  pt: Poção Destruídora
+  pt:
   ja: デストラクト・ポーション
   ja_romaji: Desutorakuto Pōshon
   ko: 디스트럭트 포션
@@ -24,8 +24,7 @@ text:
     Sélectionnez 1 monstre que vous contrôlez. Détruisez-le, et gagnez des Life Points équivalents à son ATK.
   it: |-
     Scegli 1 mostro che controlli. Distruggilo e guadagna Life Points pari al suo ATK.
-  pt: |-
-    Selecione 1 monstro que você controla. Destrua o monstro selecionado e ganhe LPs igual ao ATK daquele monstro.
+  pt:
   ja: |-
     自分フィールド上に存在するモンスター１体を選択して発動する。選択したモンスターを破壊し、破壊したモンスターの攻撃力分だけ自分のライフポイントを回復する。
   ko: |-
@@ -76,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 103602

@@ -6,7 +6,7 @@ name:
   es: Máquina Absorbe Vidas
   fr: Absorbeur de Vie
   it: Macchina Assorbi Vita
-  pt: Máquina Absorvedora de Vida
+  pt:
   ja: <ruby>生<rt>せい</rt></ruby><ruby>命<rt>めい</rt></ruby><ruby>吸<rt>きゅう</rt></ruby><ruby>収<rt>しゅう</rt></ruby><ruby>装<rt>そう</rt></ruby><ruby>置<rt>ち</rt></ruby>
   ja_romaji: Seimei Kyūshū Sōchi
   ko: 생명흡수장치
@@ -24,8 +24,7 @@ text:
     Durant chacune de vos Standby Phases, gagnez un nombre de Life Points égal à la moitié du total des Life Points que vous avez payés durant votre tour précédent.
   it: |-
     Durante la tua Standby Phase, guadagni Life Points pari alla metà del totale dei Life Points che hai pagato durante il tuo ultimo turno.
-  pt: |-
-    Durante sua Fase de Espera, ganhe Pontos de Vida iguais à metade do total de Pontos de Vida pagos durante sua última vez.
+  pt:
   ja: |-
     自分のスタンバイフェイズ毎に、直前の自分のターンに払ったライフポイントの半分が回復する。
   ko: |-
@@ -92,9 +91,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 4412

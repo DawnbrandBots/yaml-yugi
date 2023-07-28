@@ -6,7 +6,7 @@ name:
   es: Batallamanía
   fr: Féru de Bataille
   it: Smania di Battaglia
-  pt: Mania de Batalha
+  pt:
   ja: バトルマニア
   ja_romaji: Batoru Mania
   ko: 배틀매니아
@@ -24,8 +24,7 @@ text:
     Activable uniquement durant la Standby Phase de votre adversaire. Tous les monstres face recto que votre adversaire contrôle sont changés en Position d'Attaque, et ne peuvent pas changer leur position de combat ce tour. Tous les monstres actuellement contrôlés par votre adversaire doivent attaquer ce tour, si possible.
   it: |-
     Attiva solo durante la Standby Phase del tuo avversario. Tutti i mostri scoperti controllati dal tuo avversario vengono messi in Posizione di Attacco, e non possono cambiare posizione questo turno. Tutti i mostri attualmente controllati dal tuo avversario devono attaccare questo turno, se possibile.
-  pt: |-
-    Ative somente durante a Fase de Apoio de seu oponente. Todos os monstros virados de face para cima que o seu oponente controla são alterados para a Posição de Ataque e não podem mudar suas posições de batalha neste turno. Todos os monstros que o seu oponente controla devem atacar neste turno, se possível.
+  pt:
   ja: |-
     相手ターンのスタンバイフェイズ時に発動する事ができる。相手フィールド上に表側表示で存在するモンスターは全て攻撃表示になり、このターン表示形式を変更する事はできない。また、このターン攻撃可能な相手モンスターは攻撃しなければならない。
   ko: |-
@@ -96,9 +95,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 40863

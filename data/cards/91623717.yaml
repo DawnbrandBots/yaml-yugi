@@ -6,7 +6,7 @@ name:
   es: Golpe de Cadena
   fr: Frappes en Chaîne
   it: Attacco a Catena
-  pt: Ataque de Corrente
+  pt:
   ja: <ruby>連鎖爆撃<rt>チェーン・ストライク</rt></ruby>
   ja_romaji: Chēn Sutoraiku
   ko: 체인 스트라이크
@@ -24,8 +24,7 @@ text:
     Activable uniquement en tant que Block Chaîne 2 ou supérieur; infligez 400 dommages à votre adversaire multiplié par le numéro de Block Chaîne de cette carte. Vous ne pouvez pas activer cette carte s'il y a plusieurs cartes/effets avec le même nom dans cette Chaîne.
   it: |-
     Attiva questa carta solo come Anello 2 o più di una Catena. Infliggi al tuo avversario 400 danni x il numero dell'Anello della Catena di questa carta. Non puoi attivare questa carta se più di una carta/effetto con lo stesso nome è stata attivata in quella catena.
-  pt: |-
-    Ative apenas como Elo da Corrente 2 ou mais; cause 400 de dano ao seu oponente vezes o número do Elo da Corrente deste card. Você não pode ativar este card se múltiplos cards/efeitos com o mesmo nome estiverem nessa Corrente.
+  pt:
   ja: |-
     チェーン２以降に発動できる。このカードの発動時に積まれているチェーンの数×４００ポイントダメージを相手ライフに与える。同一チェーン上に複数回同名カードの効果が発動している場合、このカードは発動できない。
   ko: |-
@@ -80,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Limited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 16940

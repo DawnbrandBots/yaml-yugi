@@ -6,7 +6,7 @@ name:
   es: Furia de la Chatarra
   fr: Rage de Ferraille
   it: Rabbia del Frammento
-  pt: Fúria da Sucata
+  pt:
   ja: スクラップ・カウンター
   ja_romaji: Sukurappu Kauntā
   ko: 스크랩 카운터
@@ -24,8 +24,7 @@ text:
     Activable uniquement durant le calcul des dommages, si un monstre "Ferraille" en Position de Défense sur le Terrain est attaqué. Il gagne 2000 points de DEF et est détruit à la fin de la Battle Phase.
   it: |-
     Attiva solo durante il calcolo dei danni, se un mostro "Frammento" in Posizione di Difesa è stato attaccato. Esso guadagna 2000 DEF e viene distrutto alla fine della Battle Phase.
-  pt: |-
-    Ative somente durante o cálculo de dano se um monstro "Sucata" em Posição de Defesa no campo estiver sendo atacado. Ele ganha 2000 de DEF e é destruído no final da Fase de Batalha.
+  pt:
   ja: |-
     フィールド上に守備表示で存在する「スクラップ」と名のついたモンスターが攻撃された場合、そのダメージ計算時に発動する事ができる。攻撃された「スクラップ」と名のついたモンスターの守備力は２０００ポイントアップし、バトルフェイズ終了時に破壊される。
   ko: |-
@@ -80,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 129456

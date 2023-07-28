@@ -6,7 +6,7 @@ name:
   es: Telaraña
   fr: Toile d'Araignée
   it: Tela del Ragno
-  pt: Teia de Aranha
+  pt:
   ja: スパイダー・ウェブ
   ja_romaji: Supaidā Webu
   ko: 스파이더 웹
@@ -24,8 +24,7 @@ text:
     Si un monstre déclare une attaque, il est changé en Position de Défense à la fin de la Damage Step. Il ne peut pas changer sa position de combat jusqu'à la prochaine End Phase de son contrôleur, tant que cette carte reste sur le Terrain.
   it: |-
     Se un mostro dichiara un attacco, esso viene messo in Posizione di Difesa alla fine del Damage Step. Esso non può cambiare Posizione fino alla prossima End Phase del suo controllore, fino a quando questa carta rimane sul Terreno.
-  pt: |-
-    Se um monstro declara um ataque, ele é alterado para a Posição de Defesa no fim da Damage Step. A Posição de Batalha daquele monstro não pode ser alterada até a End Phase do próximo turno do controlador daquele monstro, enquanto esta carta estiver virada para cima no campo.
+  pt:
   ja: |-
     モンスターが攻撃宣言をした場合、そのモンスターはダメージステップ終了時に守備表示になり、そのモンスターのコントローラーから見て次の自分のターンのエンドフェイズ時まで表示形式を変更する事ができない。
   ko: |-
@@ -74,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 59529
