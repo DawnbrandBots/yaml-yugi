@@ -51,7 +51,7 @@ def: 0
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: CrimsonDragon-DUNE-JP-UR.png
+  image: CrimsonDragon-DUNE-EN-ScR-1E.png
 sets:
   en:
   - set_number: DUNE-ENSP1
@@ -116,7 +116,20 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  ko:
+  - set_number: DUNE-KR038
+    set_name: Duelist Nexus
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: DUNE-KR038
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 717057
