@@ -99862,6 +99862,8 @@ attribute: LIGHT
 level: 10
 atk: 2200
 def: 0
+series:
+- Abysskite
 images:
 - index: 1
   image: ShinesteelUltraDragonDevastarOkeabyssL-RDVSP1-JP-NPR.png
@@ -99938,6 +99940,8 @@ attribute: LIGHT
 level: 10
 atk: 2500
 def: 0
+series:
+- Abysskite
 maximum_atk: 3500
 images:
 - index: 1
@@ -100002,6 +100006,8 @@ attribute: LIGHT
 level: 10
 atk: 2400
 def: 0
+series:
+- Abysskite
 images:
 - index: 1
   image: ShinesteelUltraDragonDevastarOkeabyssR-RDVSP1-JP-NPR.png
@@ -101111,6 +101117,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Abysskite
 images:
 - index: 1
   image: AbysskiteUltimail-RDVSP1-JP-SR.png
@@ -101170,6 +101178,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Abysskite
 images:
 - index: 1
   image: AbysskitePreventWall-RDVSP1-JP-SR.png
@@ -101229,6 +101239,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Abysskite
 images:
 - index: 1
   image: AbysskiteProtection-RDVSP1-JP-SR.png
@@ -109307,6 +109319,198 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1001307
+---
+konami_id:
+name:
+  en: Abysskite Ange
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・アンジュ
+  ja_romaji: Abisukaito Anju
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Sea Serpent Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（海竜族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can add 1 Level 10 Sea Serpent Type monster with 2500 ATK or "Abysskite Ultimail" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２５００）１体または「アビスカイト・アルティメイル」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteAnge-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP024
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001361
+---
+konami_id:
+name:
+  en: Abysskite Liem
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・リーム
+  ja_romaji: Abisukaito Rīmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster with 0 DEF from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（守備力０）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle up to 3 monsters from your opponent's Graveyard into the Deck. Then, you can add 1 Level 10 Sea Serpent Type monster with 2400 ATK or "Abysskite Prevent Wall" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のモンスターを３体まで選んでデッキに戻す。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２４００）１体または「アビスカイト・プリベントウォール」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteLiem-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP025
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001362
+---
+konami_id:
+name:
+  en: Abysskite Karen
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・カレン
+  ja_romaji: Abisukaito Karen
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（光属性）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Level 10 Sea Serpent Type monster with 2200 ATK or "Abysskite Protection" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２２００）１体または「アビスカイト・プロテクション」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteKaren-RDKP14-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP026
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001366
 ---
 konami_id:
 name:
