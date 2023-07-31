@@ -15,9 +15,9 @@ name:
   zh-CN: 火焰喷射
 text:
   en: |-
-    Send 1 Pyro monster from your Deck to the GY, then, if it is a "Volcanic" monster, you can apply 1 of these effects.
+    Send 1 Pyro monster from your Deck to the GY, then, if you sent a "Volcanic" monster to the GY, you can apply 1 of these effects.
     ● Inflict damage to your opponent equal to its Level x 100.
-    ● Special Summon 1 "Bomb Token" (FIRE/Pyro/Level 1/ATK 1000/DEF 1000) to your opponent's field. When this Token is destroyed, its controller takes 500 damage.
+    ● Special Summon 1 "Bomb Token" (FIRE/Pyro/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage.
     You can only activate 1 "Fire Ejection" per turn.
   de:
   es:
@@ -40,6 +40,31 @@ images:
 - index: 1
   image: FireEjection-DP28-JP-R.png
 sets:
+  en:
+  - set_number: LD10-EN022
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Super Rare
+  de:
+  - set_number: LD10-DE022
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: LD10-FR022
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Super Rare
+  it:
+  - set_number: LD10-IT022
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: LD10-PT022
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Super Rare
   ja:
   - set_number: DP28-JP022
     set_name: 'Duelist Pack: Duelists of Explosion'
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 924872

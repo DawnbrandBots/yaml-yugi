@@ -15,9 +15,9 @@ name:
   zh-CN: 转生炎兽的炎军
 text:
   en: |-
-    Activate 1 of these effects.
-    ● Target 3 of your FIRE monsters that are banished and/or in your GY; shuffle 2 of the 3 into the Deck, and if you do, Special Summon the third, but for the rest of this turn, its effects are negated, also it cannot attack.
-    ● If you control a FIRE Ritual, Fusion, Synchro, Xyz, or Link Monster whose current ATK is different from its original ATK: Target 1 card on the field; destroy it.
+    Activate 1 of these effects;
+    ● Target 3 of your FIRE monsters that are banished and/or in your GY; shuffle 2 of the 3 into the Deck, and if you do, Special Summon the remaining monster, but for the rest of this turn, its effects are negated, also it cannot attack.
+    ● If you control a FIRE Ritual, Fusion, Synchro, Xyz, or Link Monster(s) whose current ATK is different from its original ATK: You can target 1 card on the field; destroy it.
     You can only activate 1 "Salamangreat Charge" per turn.
   de:
   es:
@@ -42,6 +42,31 @@ images:
 - index: 1
   image: SalamangreatCharge-DP28-JP-R.png
 sets:
+  en:
+  - set_number: LD10-EN006
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Rare
+  de:
+  - set_number: LD10-DE006
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Rare
+  fr:
+  - set_number: LD10-FR006
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Rare
+  it:
+  - set_number: LD10-IT006
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Rare
+  pt:
+  - set_number: LD10-PT006
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Rare
   ja:
   - set_number: DP28-JP006
     set_name: 'Duelist Pack: Duelists of Explosion'
@@ -50,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 934346

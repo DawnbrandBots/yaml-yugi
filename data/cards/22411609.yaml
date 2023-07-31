@@ -15,7 +15,7 @@ name:
   zh-CN: 火山种骑兵
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can add 1 "Volcanic" card from your Deck to your hand, except "Volcanic Trooper". You can discard 1 card; Special Summon 1 "Bomb Token" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. When this Token is destroyed, its controller takes 500 damage. You can only use each effect of "Volcanic Trooper" once per turn.
+    If this card is Normal or Special Summoned: You can add 1 "Volcanic" card from your Deck to your hand, except "Volcanic Trooper". You can discard 1 card; Special Summon 1 "Bomb Token" (Pyro/FIRE/Level 1/ATK 1000/DEF 1000) to your opponent's field. Each time 1 is destroyed, its controller takes 500 damage. You can only use each effect of "Volcanic Trooper" once per turn.
   de:
   es:
   fr:
@@ -39,6 +39,31 @@ images:
 - index: 1
   image: VolcanicTrooper-DP28-JP-SR.png
 sets:
+  en:
+  - set_number: LD10-EN019
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: LD10-DE019
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: LD10-FR019
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: LD10-IT019
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: LD10-PT019
+    set_name: 'Legendary Duelists: Soulburning Volcano'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DP28-JP019
     set_name: 'Duelist Pack: Duelists of Explosion'
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 924867
