@@ -6,7 +6,7 @@ name:
   es: Contraataque Des
   fr: Contrecoup Mortel
   it: Rimbalzo Mortale
-  pt:
+  pt: Contra-ataque de Des
   ja: デスカウンター
   ja_romaji: Desu Kauntā
   ko: 데스 카운터
@@ -24,7 +24,8 @@ text:
     Détruit tous les monstres qui infligent des dommages de combat aux Life Points d'un joueur en attaquant directement.
   it: |-
     Distruggi ogni mostro che infligge danno da combattimento ai Life Points di un giocatore attaccandolo direttamente.
-  pt:
+  pt: |-
+    Destrúa qualquer monstro que inflija dano de batalha por atacar diretamente os Life Points de um jogador.
   ja: |-
     直接攻撃によってプレイヤーに戦闘ダメージを与えたモンスターを破壊する。
   ko: |-
@@ -76,6 +77,11 @@ sets:
     set_name: Dark Revelation Volume 2
     rarities:
     - Rare
+  pt:
+  - set_number: AST-PT107
+    set_name: Ancient Sanctuary
+    rarities:
+    - Super Rare
   ja:
   - set_number: 309-052
     set_name: Pharaoh's Inheritance
