@@ -6,7 +6,7 @@ name:
   es: Portal Espacial
   fr: Porte Spatiale
   it: Portale Spaziale
-  pt:
+  pt: Portão Espacial
   ja: スターゲート
   ja_romaji: Sutāgēto
   ko: 스타게이트
@@ -24,7 +24,8 @@ text:
     Chaque fois qu'un monstre contrôlé par votre adversaire attaque ou est attaqué, placez 1 Compteur Porte sur cette carte à la fin de la Damage Step. Durant votre Main Phase : vous pouvez envoyer cette carte au Cimetière ; Invoquez Spécialement 1 monstre dont le Niveau est inférieur ou égal au nombre de Compteurs Porte sur cette carte depuis votre main.
   it: |-
     Ogni volta che un mostro controllato dal tuo avversario attacca o viene attaccato, metti 1 Segnalino Portale su questa carta alla fine del Damage Step. Durante la tua Main Phase: puoi mandare questa carta al Cimitero; Evoca Specialmente dalla tua mano 1 mostro con un Livello pari o inferiore al numero di Segnalini Portale su questa carta.
-  pt:
+  pt: |-
+    Cada vez que um monstro que seu oponente controla atacar ou for atacado, coloque 1 Marcador de Portão neste card no final da Etapa de Dano. Durante sua Fase Principal: você pode enviar este card para o Cemitério; Invoque por Invocação-Especial 1 monstro da sua mão cujo Nível seja menor ou igual ao número de Marcadores de Portão neste card.
   ja: |-
     相手モンスターが戦闘を行った場合、そのダメージステップ終了時にこのカードにゲートカウンターを１つ置く。自分のターンのメインフェイズ時にこのカードを墓地に送る事で、このカードに乗っているゲートカウンターの数以下のレベルのモンスター１体を手札から特殊召喚する。
   ko: |-
@@ -74,6 +75,12 @@ sets:
     rarities:
     - Common
   - set_number: BP02-IT196
+    set_name: 'Battle Pack 2: War of the Giants'
+    rarities:
+    - Common
+    - Mosaic Rare
+  pt:
+  - set_number: BP02-PT196
     set_name: 'Battle Pack 2: War of the Giants'
     rarities:
     - Common

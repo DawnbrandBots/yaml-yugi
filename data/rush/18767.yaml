@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>超<rt>ちょう</rt></ruby><ruby>電<rt>でん</rt></ruby><ruby>磁<rt>じ</rt></ruby>マキシマム
   ja_romaji: Chōdenji Makishimamu
-  ko:
+  ko: 초전자 맥시멈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターがいる場合、手札のモンスター（レベル１０／機械族）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 있을 경우, 패의 몬스터(레벨 10 / 기계족) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（機械族）を２体まで選んで手札に加える。この効果の発動後、ターン終了時まで自分は手札のモンスターを召喚・セットできない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(기계족)를 2장까지 고르고 패에 넣는다. 이 효과의 발동 후, 턴 종료시까지 자신은 패의 몬스터를 일반 소환 / 세트할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/VSP1-JP024
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/VSP1-KR024
     set_name: Versus Pack Maximum Force
     rarities:
     - Super Rare

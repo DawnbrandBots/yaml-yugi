@@ -8,7 +8,7 @@ name:
   pt:
   ja: アビスレイヤー・ヴォジャノーイ
   ja_romaji: Abisureiyā Vojanōi
-  ko:
+  ko: 어비스슬레이어 보댜노이
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合、手札のモンスター（光属性または闇属性／海竜族）１体を相手に見せてデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 몬스터(빛 속성 또는 어둠 속성 / 해룡족) 1장을 상대에게 보여주고 덱 아래로 되돌려 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分の墓地にモンスターがいない場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 묘지에 몬스터가 없을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/VSP1-JP031
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/VSP1-KR031
     set_name: Versus Pack Maximum Force
     rarities:
     - Common

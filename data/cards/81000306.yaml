@@ -6,7 +6,7 @@ name:
   es: Ataque con toda la Fuerza
   fr: Attaque à Force Maximale
   it: Colpo a Piena Potenza
-  pt:
+  pt: Golpe com Força Total
   ja: <ruby>渾<rt>こん</rt></ruby><ruby>身<rt>しん</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>撃<rt>げき</rt></ruby>
   ja_romaji: Konshin no Ichigeki
   ko: 혼신의 일격
@@ -24,7 +24,8 @@ text:
     Ciblez 1 monstre face recto que vous contrôlez ; ce tour, il ne peut pas être détruit au combat, les joueurs ne reçoivent pas de dommages de combat de ses attaques, et s'il attaque un monstre de votre adversaire, détruisez le monstre de votre adversaire après le calcul des dommages.
   it: |-
     Scegli come bersaglio 1 mostro scoperto che controlli; in questo turno, esso non può essere distrutto in battaglia, i giocatori non subiscono danni da combattimento dai suoi attacchi, e se esso attacca un mostro dell'avversario, distruggi quel mostro dell'avversario dopo il calcolo dei danni.
-  pt:
+  pt: |-
+    Escolha 1 monstro com a face para cima que você controla; neste turno, ele não pode ser destruído em batalha, os duelistas não sofrem dano de batalha de seus ataques e se ele atacar um monstro do oponente, destrua esse monstro do oponente depois do cálculo de dano.
   ja: |-
     自分フィールド上に表側表示で存在するモンスター１体を選択して発動する。このターン、選択したモンスターは戦闘では破壊されず、その攻撃によって発生するお互いへの戦闘ダメージは０になる。また、このターン、選択したモンスターが相手モンスターを攻撃した場合、ダメージ計算後にその相手モンスターを破壊する。
   ko: |-
@@ -39,45 +40,51 @@ images:
   image: FullForceStrike-BP02-EN-R-1E.png
 sets:
   en:
+  - set_number: ORCS-EN047
+    set_name: Order of Chaos
+    rarities:
+    - Common
   - set_number: BP02-EN166
     set_name: 'Battle Pack 2: War of the Giants'
     rarities:
     - Rare
     - Mosaic Rare
-  - set_number: ORCS-EN047
+  de:
+  - set_number: ORCS-DE047
     set_name: Order of Chaos
     rarities:
     - Common
-  de:
   - set_number: BP02-DE166
     set_name: 'Battle Pack 2: War of the Giants'
     rarities:
     - Rare
     - Mosaic Rare
-  - set_number: ORCS-DE047
+  fr:
+  - set_number: ORCS-FR047
     set_name: Order of Chaos
     rarities:
     - Common
-  fr:
   - set_number: BP02-FR166
     set_name: 'Battle Pack 2: War of the Giants'
     rarities:
     - Rare
     - Mosaic Rare
-  - set_number: ORCS-FR047
+  it:
+  - set_number: ORCS-IT047
     set_name: Order of Chaos
     rarities:
     - Common
-  it:
   - set_number: BP02-IT166
     set_name: 'Battle Pack 2: War of the Giants'
     rarities:
     - Rare
     - Mosaic Rare
-  - set_number: ORCS-IT047
-    set_name: Order of Chaos
+  pt:
+  - set_number: BP02-PT166
+    set_name: 'Battle Pack 2: War of the Giants'
     rarities:
-    - Common
+    - Rare
+    - Mosaic Rare
   ja:
   - set_number: ORCS-JP047
     set_name: Order of Chaos

@@ -25,9 +25,9 @@ requirement:
     Mischia 2 mostri con lo stesso Tipo dal tuo Cimitero nel Deck.
   pt:
   ja: |-
-    同じ種族の自分の墓地のモンスター２体をデッキに戻して発動できる。
+    自分の墓地の同じ種族のモンスター２体をデッキに戻して発動できる。
   ko: |-
-    같은 종족의 자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
+    자신 묘지의 같은 종족의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -74,6 +74,10 @@ sets:
     - Rare
   - set_number: RD/GRP1-KR044
     set_name: Grand Rush Pack
+    rarities:
+    - Common
+  - set_number: RD/VSP1-KR051
+    set_name: Versus Pack Maximum Force
     rarities:
     - Common
 yugipedia_page_id: 712819

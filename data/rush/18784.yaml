@@ -8,7 +8,7 @@ name:
   pt:
   ja: アビスカイト・プリベントウォール
   ja_romaji: Abisukaito Puribento Wōru
-  ko:
+  ko: 어비스카이트 프리벤트월
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の表側表示モンスター（海竜族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신의 앞면 표시 몬스터(해룡족)가 공격을 받는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     攻撃を受けるモンスターはその戦闘では破壊されない。攻撃を受けるモンスターがマキシマムモードの場合、さらに自分は１０００ＬＰ回復する。
-  ko:
+  ko: |-
+    공격을 받는 몬스터는 그 전투로는 파괴되지 않는다. 공격을 받는 몬스터가 맥시멈 모드일 경우, 추가로 자신은 1000 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/VSP1-JP049
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/VSP1-KR049
     set_name: Versus Pack Maximum Force
     rarities:
     - Super Rare

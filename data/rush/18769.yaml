@@ -8,7 +8,7 @@ name:
   pt:
   ja: アビスレイヤー・アプサラス
   ja_romaji: Abisureiyā Apusarasu
-  ko:
+  ko: 어비스슬레이어 아프사라스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合に発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（海竜族）を３体まで選んで好きな順番でデッキの下に戻す。さらに、自分の墓地のモンスター（レベル４以下／海竜族）１体を選んで自分フィールドに表側攻撃表示で特殊召喚できる。その後、自分の墓地にモンスターがいない場合、相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(해룡족)를 3장까지 고르고 좋아하는 순서대로 덱 아래로 되돌린다. 추가로, 자신 묘지의 몬스터(레벨 4 이하 / 해룡족) 1장을 고르고 자신 필드에 앞면 공격 표시로 특수 소환할 수 있다. 그 후, 자신 묘지에 몬스터가 없을 경우, 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/VSP1-JP028
+    set_name: Versus Pack Maximum Force
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/VSP1-KR028
     set_name: Versus Pack Maximum Force
     rarities:
     - Super Rare
