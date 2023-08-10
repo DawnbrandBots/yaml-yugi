@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+from csv import DictReader
 import json
 import logging
 from typing import Any, Dict, List, Optional, Union
