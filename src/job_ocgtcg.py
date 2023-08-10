@@ -211,14 +211,16 @@ def job(
     tcg_vector: Optional[Dict[str, int]] = None,
     ocg_vector: Optional[Dict[str, int]] = None,
     ko_file: Optional[str] = None,
-    ko_csv: Optional[str] = None,
+    ko_official_csv: Optional[str] = None,
+    ko_override_csv: Optional[str] = None,
+    ko_prerelease_csv: Optional[str] = None,
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
     ko_overrides = load_ko_overrides(ko_file) if ko_file else None
-    ko_official = load_ko_official(ko_csv) if ko_csv else None
+    ko_official = load_ko_official(ko_official_csv) if ko_official_csv else None
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)

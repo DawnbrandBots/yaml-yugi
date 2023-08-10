@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+from csv import DictReader
 import logging
 import os
 import sys
@@ -53,13 +54,30 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
     write(document, basename, yaml, logger)
 
 
+def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] | None:
+    if not filename:
+        return
+    with open(filename, encoding="utf8") as f:
+        reader = DictReader(f)
+        return {
+            int(row[key]): row
+            for row in reader
+        }
+
+
 def job(
     wikitext_dir: str,
     filenames: List[str],
+    ko_official_csv: Optional[str] = None,
+    ko_override_csv: Optional[str] = None,
+    ko_prerelease_csv: Optional[str] = None,
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
+    ko_official = load_ko_csv("konami_id", ko_official_csv)
+    ko_override = load_ko_csv("konami_id", ko_override_csv)
+    ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)

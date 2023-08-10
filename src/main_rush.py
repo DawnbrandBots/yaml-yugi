@@ -11,6 +11,9 @@ from job_rush import job
 
 parser = ArgumentParser()
 parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")
+parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
+parser.add_argument("--ko-override", help="yaml-yugi-ko rush-override.csv")
+parser.add_argument("--ko-prerelease", help="yaml-yugi-ko rush-prerelease.csv")
 parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
 parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
 parser.add_argument("--aggregate", help="output aggregate JSON file")
@@ -32,8 +35,14 @@ def main() -> None:
         if os.path.isfile(os.path.join(args.wikitext_directory, filename))
     ]
 
+    arguments = (
+        args.ko_official,
+        args.ko_override,
+        args.ko_prerelease,
+        args.aggregate is not None,
+    )
     if processes == 1:
-        cards = job(args.wikitext_directory, files, args.aggregate is not None)
+        cards = job(args.wikitext_directory, files, *arguments)
     else:
         size = math.ceil(len(files) / processes)
         partitions = [files[i:i+size] for i in range(0, len(files), size)]
@@ -42,7 +51,7 @@ def main() -> None:
         from multiprocessing import Pool
         with Pool(processes) as pool:
             jobs = [
-                pool.apply_async(job, (args.wikitext_directory, partition, args.aggregate is not None))
+                pool.apply_async(job, (args.wikitext_directory, partition, *arguments))
                 for partition in partitions
             ]
             for result in jobs:

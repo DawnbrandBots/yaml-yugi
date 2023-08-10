@@ -49,8 +49,17 @@ def main() -> None:
         if os.path.isfile(os.path.join(args.wikitext_directory, filename))
     ]
 
+    arguments = (
+        args.zh_CN,
+        args.assignments,
+        tcg,
+        ocg,
+        args.ko,
+        args.ko_official,
+        args.aggregate is not None,
+    )
     if processes == 1:
-        cards = job(args.wikitext_directory, files, args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_official, args.aggregate is not None)
+        cards = job(args.wikitext_directory, files, *arguments)
     else:
         size = math.ceil(len(files) / processes)
         partitions = [files[i:i+size] for i in range(0, len(files), size)]
@@ -59,8 +68,7 @@ def main() -> None:
         from multiprocessing import Pool
         with Pool(processes) as pool:
             jobs = [
-                pool.apply_async(job, (args.wikitext_directory, partition,
-                                       args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_official, args.aggregate is not None))
+                pool.apply_async(job, (args.wikitext_directory, partition, *arguments))
                 for partition in partitions
             ]
             for result in jobs:
