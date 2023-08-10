@@ -295,3 +295,14 @@ def write(obj: Any, basename: str, yaml: YAML, logger: logging.Logger) -> None:
     logger.info(f"Write: {basename}.json")
     with open(f"{basename}.json", mode="w", encoding="utf-8") as out:
         json.dump(obj, out)
+
+
+def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] | None:
+    if not filename:
+        return
+    with open(filename, encoding="utf8") as f:
+        reader = DictReader(f)
+        return {
+            int(row[key]): row
+            for row in reader
+        }

@@ -56,6 +56,8 @@ def main() -> None:
         ocg,
         args.ko,
         args.ko_official,
+        args.ko_override,
+        args.ko_prerelease,
         args.aggregate is not None,
     )
     if processes == 1:

@@ -10,7 +10,7 @@ from typing import Any, Dict, List, Optional
 from ruamel.yaml import YAML
 
 from common import int_or_og, initial_parse, int_or_none, transform_names, transform_texts, annotate_shared, \
-    transform_sets, transform_image, transform_multilanguage, write
+    transform_sets, transform_image, transform_multilanguage, write, load_ko_csv
 
 module_logger = logging.getLogger(__name__)
 
@@ -52,17 +52,6 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
     else:
         basename = f"yugipedia{document['yugipedia_page_id']}"
     write(document, basename, yaml, logger)
-
-
-def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] | None:
-    if not filename:
-        return
-    with open(filename, encoding="utf8") as f:
-        reader = DictReader(f)
-        return {
-            int(row[key]): row
-            for row in reader
-        }
 
 
 def job(

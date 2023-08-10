@@ -10,7 +10,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 
-from common import annotate_shared, initial_parse, int_or_none, int_or_og, transform_image, transform_names, transform_sets, transform_texts, write
+from common import annotate_shared, initial_parse, int_or_none, int_or_og, transform_image, transform_names, transform_sets, transform_texts, write, load_ko_csv
 
 module_logger = logging.getLogger(__name__)
 
@@ -221,6 +221,8 @@ def job(
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
     ko_overrides = load_ko_overrides(ko_file) if ko_file else None
     ko_official = load_ko_official(ko_official_csv) if ko_official_csv else None
+    ko_override = load_ko_csv("konami_id", ko_override_csv)
+    ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
