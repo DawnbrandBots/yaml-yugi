@@ -16,7 +16,9 @@ parser.add_argument("--zh-CN", help="yaml-yugi-zh card texts")
 parser.add_argument("--tcg", help="TCG Forbidden & Limited List, Konami ID vector JSON")
 parser.add_argument("--ocg", help="OCG Forbidden & Limited List, English name vector JSON")
 parser.add_argument("--ko", help="yaml-yugi-ko overrides.tsv")
-parser.add_argument("--ko-csv", help="yaml-yugi-ko official database CSV")
+parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
+parser.add_argument("--ko-override", help="yaml-yugi-ko ocg-override.csv")
+parser.add_argument("--ko-prerelease", help="yaml-yugi-ko ocg-prerelease.csv")
 parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
 parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
 parser.add_argument("--aggregate", help="output aggregate JSON file")
@@ -48,7 +50,7 @@ def main() -> None:
     ]
 
     if processes == 1:
-        cards = job(args.wikitext_directory, files, args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_csv, args.aggregate is not None)
+        cards = job(args.wikitext_directory, files, args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_official, args.aggregate is not None)
     else:
         size = math.ceil(len(files) / processes)
         partitions = [files[i:i+size] for i in range(0, len(files), size)]
@@ -58,7 +60,7 @@ def main() -> None:
         with Pool(processes) as pool:
             jobs = [
                 pool.apply_async(job, (args.wikitext_directory, partition,
-                                       args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_csv, args.aggregate is not None))
+                                       args.zh_CN, args.assignments, tcg, ocg, args.ko, args.ko_official, args.aggregate is not None))
                 for partition in partitions
             ]
             for result in jobs:

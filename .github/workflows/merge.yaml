@@ -11,9 +11,6 @@ on:
 jobs:
   merge:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: yaml-yugi
     steps:
       - uses: actions/checkout@v3
         with:
@@ -22,6 +19,14 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia
+      - uses: actions/checkout@v3
+        with:
+          path: yaml-yugi-ko
+          repository: DawnbrandBots/yaml-yugi-ko
+          sparse-checkout: |
+            /*.csv
+            /overrides.tsv
+          sparse-checkout-cone-mode: false
       - uses: actions/checkout@v3
         with:
           repository: DawnbrandBots/yaml-yugi-zh
@@ -37,10 +42,8 @@ jobs:
           cache-dependency-path: yaml-yugi/src/requirements.txt
       - name: Download yaml-yugi-ko exports
         run: |
-          cd ..
-          curl -fsSLO https://github.com/DawnbrandBots/yaml-yugi-ko/raw/master/overrides.tsv
           curl -fsSLO https://dawnbrandbots.github.io/yaml-yugi-ko/ocg.csv
-      - run: pip install -r src/requirements.txt
+      - run: pip install -r yaml-yugi/src/requirements.txt
       - name: Transform (series)
         working-directory: yaml-yugi/data/series
         run: python3 ../../src/main_archetypes.py ../../../yaml-yugipedia/wikitext/archetypes
@@ -54,8 +57,10 @@ jobs:
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../data/limit-regulation/tcg/current.vector.json \
             --ocg ../../data/limit-regulation/ocg/current.vector.json \
-            --ko ../../../overrides.tsv \
-            --ko-csv ../../../ocg.csv \
+            --ko ../../../yaml-yugi-ko/overrides.tsv \
+            --ko-official ../../../ocg.csv \
+            --ko-override ../../../yaml-yugi-ko/ocg-override.csv \
+            --ko-prerelease ../../../yaml-yugi-ko/ocg-prerelease.csv \
             --aggregate ../../../aggregate/cards.json
       - name: Transform (Rush Duel)
         working-directory: yaml-yugi/data/rush
@@ -77,10 +82,12 @@ jobs:
           message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
           working-directory: yaml-yugi
       - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
         run: gh workflow run validate-data.yaml
         env:
           GH_TOKEN: ${{ github.token }}
       - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
         name: Merge
         run: |
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
@@ -102,8 +109,10 @@ jobs:
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
       - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
         run: yarn
       - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
         name: Load (push)
         env:
           OPENSEARCH_URL: ${{ secrets.OS_URL }}
