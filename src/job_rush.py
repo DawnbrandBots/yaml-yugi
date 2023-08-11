@@ -9,7 +9,7 @@ from typing import Any, Dict, List, Optional
 from ruamel.yaml import YAML
 
 from common import int_or_og, initial_parse, int_or_none, transform_names, transform_texts, annotate_shared, \
-    transform_sets, transform_image, transform_multilanguage, write, load_ko_csv
+    transform_sets, transform_image, transform_multilanguage, write, load_ko_csv, str_or_none
 
 module_logger = logging.getLogger(__name__)
 
@@ -43,6 +43,55 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
         document["is_translation_unofficial"] = wikitext["is_translation_unofficial"]
     document["yugipedia_page_id"] = wikitext["yugipedia_page_id"]
     return document
+
+
+def overwrite_field(
+    logger: logging.Logger,
+    document: Dict[str, Any],
+    source: Dict[str, str],
+    key: str,
+    key_source: Optional[str] = None
+) -> None:
+    if key_source is None:
+        key_source = key
+    if key in document:
+        if key == "name":
+            value = source[key_source]
+        else:
+            value = str_or_none(source[key_source])
+        document[key]["ko"] = value
+    elif source[key_source]:
+        logger.warn(f"Extraneous value for {key_source}")
+
+
+def overwrite(logger: logging.Logger, document: Dict[str, Any], source: Dict[str, str]) -> None:
+    overwrite_field(logger, document, source, "text", "non_effect_monster_text")
+    for key in ["name", "summoning_condition", "materials", "requirement", "effect"]:
+        overwrite_field(logger, document, source, key)
+
+
+def merge_ko(
+    logger: logging.Logger,
+    document: Dict[str, Any],
+    ko_override: Optional[Dict[int, Dict[str, str]]],
+    ko_prerelease: Optional[Dict[int, Dict[str, str]]]
+) -> None:
+    override = ko_override.get(document["konami_id"]) if ko_override else None
+    prerelease = ko_prerelease.get(document["yugipedia_page_id"]) if ko_prerelease else None
+    if override:
+        sublogger = logger.getChild("override")
+        sublogger.info(f"[{document['name']['ko']}] -> [{override['name']}]")
+        overwrite(logger, document, override)
+    if prerelease:
+        sublogger = logger.getChild("prerelease")
+        if document["name"]["ko"]:
+            sublogger.warn(f"Extraneous row [{document['name']['ko']}]")
+        else:
+            sublogger.info(f"Injecting [{prerelease['name']}]")
+            overwrite(logger, document, prerelease)
+            flags = document.setdefault("is_translation_unofficial", {})
+            flags.setdefault("name", {})["ko"] = True
+            flags.setdefault("text", {})["ko"] = True
 
 
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
@@ -89,6 +138,7 @@ def job(
             continue
         properties["yugipedia_page_id"] = page_id
         document = transform_structure(properties)
+        merge_ko(logger, document, ko_override, ko_prerelease)
         write_output(yaml, logger, document)
         if return_results:
             results.append(document)
