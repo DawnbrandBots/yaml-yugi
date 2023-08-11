@@ -5912,7 +5912,7 @@ images:
   image: GaiaTheFierceKnight-RDB221-JP-C.png
   illustration: GaiaTheFierceKnight-DBR-JP-VG-artwork.png
 - index: 2
-  image: GaiaTheFierceKnight-RDKP14-JP-OP.png;
+  image: GaiaTheFierceKnight-RDKP14-JP-ORR.png
 sets:
   ja:
   - set_number: RD/WJMP-JP001
@@ -5929,6 +5929,10 @@ sets:
     - Common
     - Super Rare
     - Ultra Rare
+  - set_number: RD/711C-JP001
+    set_name: Yu-Gi-Oh! Card Game x 7-Eleven Collaboration Campaign
+    rarities:
+    - Normal Parallel Rare
   - set_number: RD/KP14-JP000
     set_name: Phoenix of the Roaring Flame
     rarities:
@@ -71847,6 +71851,10 @@ sets:
     - Common
     - Super Rare
     - Ultra Rare
+  - set_number: RD/711C-JP002
+    set_name: Yu-Gi-Oh! Card Game x 7-Eleven Collaboration Campaign
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/EV03-KR006
     set_name: Event Pack 2023 Vol.1
@@ -85234,6 +85242,10 @@ sets:
     - Common
     - Super Rare
     - Ultra Rare
+  - set_number: RD/711C-JP003
+    set_name: Yu-Gi-Oh! Card Game x 7-Eleven Collaboration Campaign
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/EV03-KR002
     set_name: Event Pack 2023 Vol.1
@@ -109646,6 +109658,3253 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 937289
 ---
+konami_id: 19278
+name:
+  en: Worm Drake
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    Once this monster wraps itself around a victim, there is no escape.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    その長い体に巻き込まれたら最後、二度と逃げる事はできない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Normal
+attribute: EARTH
+level: 4
+atk: 1400
+def: 1500
+images:
+- index: 1
+  image: WormDrake-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP001
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+yugipedia_page_id: 993385
+---
+konami_id: 19279
+name:
+  en: Jointech Cobra
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・コブラ
+  ja_romaji: Jointekku Kobura
+  ko: 조인테크 코브라
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Jointech Arc Scorpio", "Jointech Spike Centipede", or "Jointech Rex" from your Graveyard to your field in face-up Defense Position. This turn, you cannot activate the effects of non-Machine Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ジョインテック・アークスコーピオ」「ジョインテック・スパイクセンチピード」「ジョインテック・レックス」の中から１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（機械族以外）の効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 2
+atk: 1000
+def: 600
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechCobra-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP002
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+    ko: true
+  text:
+    en: true
+    ko: true
+yugipedia_page_id: 994928
+---
+konami_id: 19280
+name:
+  en: Mega Jointech Fortrex [L]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メガジョインテック・フォートレックス［<ruby>Ｌ<rt>エル</rt></ruby>］
+  ja_romaji: Mega Jointekku Fōtorekkusu [Eru]
+  ko: 메가조인테크 포트렉스 [L]
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 EARTH Attribute Machine Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（地属性／機械族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card loses 600 ATK until the end of this turn. Then, toss a coin. If the result is heads, this card can attack 3 times this turn. If the result is tails, this turn, this card can make up to 2 attacks on monsters, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで６００ダウンする。その後、コイントスを１回行う。表だった場合、このターン、このカードは３回攻撃できる。裏だった場合、このターン、このカードはモンスターに２回攻撃でき、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Maximum / Effect
+attribute: EARTH
+level: 4
+atk: 1300
+def: 0
+series:
+- Jointech
+images:
+- index: 1
+  image: MegaJointechFortrexL-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP003
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+    ko: true
+  text:
+    en: true
+    ko: true
+yugipedia_page_id: 994932
+---
+konami_id: 19281
+name:
+  en: Mega Jointech Fortrex
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メガジョインテック・フォートレックス
+  ja_romaji: Mega Jointekku Fōtorekkusu
+  ko: 메가조인테크 포트렉스
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Maximum Summon this card together with "Mega Jointech Fortrex [L]" and "Mega Jointech Fortrex [R]".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「メガジョインテック・フォートレックス［Ｌ］」「メガジョインテック・フォートレックス［Ｒ］」と揃えてマキシマム召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Maximum Mode
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    マキシマムモード
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    Increase this card's Level by 6. Also, if you have a Level 7 or higher Machine Type monster in your Graveyard, this card cannot be destroyed by card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのレベルは６上がる。自分の墓地にモンスター（レベル７以上／機械族）がいる場合、さらにこのカードは効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Maximum / Effect
+attribute: EARTH
+level: 4
+atk: 1300
+def: 0
+series:
+- Jointech
+maximum_atk: 3000
+images:
+- index: 1
+  image: MegaJointechFortrex-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP004
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+    ko: true
+  text:
+    en: true
+    ko: true
+yugipedia_page_id: 994930
+---
+konami_id: 19282
+name:
+  en: Mega Jointech Fortrex [R]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メガジョインテック・フォートレックス［<ruby>Ｒ<rt>アール</rt></ruby>］
+  ja_romaji: Mega Jointekku Fōtorekkusu [Āru]
+  ko: 메가조인테크 포트렉스 [R]
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Each player shuffles 3 monsters from their opponent's Graveyard into the owner's Deck. Then, if this card is in Maximum Mode, it gains ATK equal to [the total Levels of the EARTH Attribute Machine Type monsters shuffled by this effect] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いはそれぞれ相手の墓地のモンスター３体を選び、持ち主のデッキに戻す。このカードがマキシマムモードの場合、さらにこのカードの攻撃力はターン終了時まで、［この効果で戻したモンスター（地属性／機械族）のレベルの合計］×１００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Maximum / Effect
+attribute: EARTH
+level: 4
+atk: 1300
+def: 0
+series:
+- Jointech
+images:
+- index: 1
+  image: MegaJointechFortrexR-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP005
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+    ko: true
+  text:
+    en: true
+    ko: true
+yugipedia_page_id: 994934
+---
+konami_id: 19283
+name:
+  en: Jointech Arc Scorpio
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・アークスコーピオ
+  ja_romaji: Jointekku Āku Sukōpio
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Machine Type monster from your hand or face-up from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（機械族）または自分フィールドの表側表示モンスター（機械族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Fusion" or "Power Bond" from your Graveyard to your hand. Then, you can Special Summon 1 "Jointech Spike Centipede" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「フュージョン」または「パワー・ボンド」１枚を選んで手札に加える。その後、自分の墓地の「ジョインテック・スパイクセンチビード」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 7
+atk: 2200
+def: 1600
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechArcScorpio-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP006
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994922
+---
+konami_id: 19284
+name:
+  en: Jointech Spike Centipede
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・スパイクセンチピード
+  ja_romaji: Jointekku Supaiku Senchipīdo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Return 1 other face-up Level 5 or higher EARTH Attribute Machine Type monster from your field to the owner's hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドの表側表示モンスター（レベル５以上／地属性／機械族）１体を持ち主の手札に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 monster on your opponent's field. This turn, you cannot activate the effects of non-Machine Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドのモンスター１体を選んで破壊する。このターン、自分はモンスター（機械族以外）の効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 7
+atk: 2400
+def: 1600
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechSpikeCentipede-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP007
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994924
+---
+konami_id: 19285
+name:
+  en: Jointech Hero
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・ヒーロー
+  ja_romaji: Jointekku Hīrō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card by Tributing "Jointech Ace", send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ジョインテック・エース」をリリースしてこのカードを召喚したターンに、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 1500 ATK until the end of this turn. Then, you can add 1 EARTH Attribute Machine Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで１５００アップする。その後、自分の墓地のモンスター（地属性／機械族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 1500
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechHero-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP008
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991608
+---
+konami_id: 19286
+name:
+  en: Chemispet Nyanko
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミスペット・ニャンコ
+  ja_romaji: Kemisupetto Nyanko
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a Pyro, Aqua, or Thunder Type monster in your Graveyard, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（炎族・水族・雷族）のいずれかがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Gain 400 LP. Then, you can place 1 Pyro, Aqua, or Thunder Type monster from your Graveyard on top of your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は４００ＬＰ回復する。その後、自分の墓地のモンスター（炎族・水族・雷族）１体を選んでデッキの上に戻す事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 1
+atk: 600
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemispetNyanko-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP009
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975295
+---
+konami_id: 19287
+name:
+  en: Chemispet Wanko
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミスペット・ワンコ
+  ja_romaji: Kemisupetto Wanko
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or less monsters in your Graveyard, send 2 cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターが１０体以下の場合、手札２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you sent 2 Pyro, Aqua, and/or Thunder Type monsters to the Graveyard to meet the requirement, you can draw 1 additional card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。この効果の条件でモンスター（炎族・水族・雷族）２体を墓地へ送った場合、さらに自分は１枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: FIRE
+level: 1
+atk: 600
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemispetWanko-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP010
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - C
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975297
+---
+konami_id: 19288
+name:
+  en: Melt the Aqueous Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>水<rt>すい</rt></ruby><ruby>溶<rt>よう</rt></ruby><ruby>精<rt>せい</rt></ruby>メルト
+  ja_romaji: Suiyōsei Meruto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Level 4 or lower monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル４以下）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 7 or 10 Pyro or Thunder Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル７・１０／炎族・雷族）１体を選んで手札に加える。その後、自分の墓地の「ケミカライズ・ストラクチャーフォース」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: FIRE
+level: 1
+atk: 300
+def: 200
+series:
+- Chemistry
+images:
+- index: 1
+  image: MelttheAqueousSpirit-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP011
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 987029
+---
+konami_id: 19289
+name:
+  en: Bolt the Conduction Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>電<rt>でん</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>精<rt>せい</rt></ruby>ボルト
+  ja_romaji: Dendōsei Boruto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Level 4 or lower monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル４以下）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 5 or 10 Pyro or Aqua Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル５・１０／炎族・水族）１体を選んで手札に加える。その後、自分の墓地の「ケミカライズ・ストラクチャーフォース」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 2
+atk: 400
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: BolttheConductionSpirit-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP012
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 987030
+---
+konami_id: 19290
+name:
+  en: Hot the Combustion Spirit
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>火<rt>か</rt></ruby><ruby>燃<rt>ねん</rt></ruby><ruby>精<rt>せい</rt></ruby>ホット
+  ja_romaji: Kanensei Hotto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send cards from the top of your Deck to the Graveyard equal to [the number of different Types on your field]. Then, if you sent 2 or more Pyro Type monsters to the Graveyard by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上から［自分フィールドの表側表示モンスターの種族の種類］だけカードを墓地へ送る。この効果でモンスター（炎族）が２体以上墓地へ送られた場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 3
+atk: 800
+def: 900
+series:
+- Chemistry
+images:
+- index: 1
+  image: HottheCombustionSpirit-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP013
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 987031
+---
+konami_id: 19291
+name:
+  en: Hyper Assistant Achi
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＨＰ<rt>ハイパー</rt></ruby>アシスタント・アーチ
+  ja_romaji: Haipā Ashisutanto Āchi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a monster on their field, send this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターがいる場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 or higher Pyro Type monster from your hand face-up to your field. Then, if you have "Super Assistant Achi" in your Graveyard, the monster Special Summoned by this effect gains 800 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル７以上／炎族）１体を自分フィールドに表側表示で特殊召喚する。自分の墓地に「ＳＰアシスタント・アーチ」がいる場合、さらにこの効果で特殊召喚したモンスターの攻撃力はターン終了時まで８００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 4
+atk: 800
+def: 1500
+series:
+- Chemistry
+images:
+- index: 1
+  image: HyperAssistantAchi-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP014
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - SR
+    - ScR
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975293
+---
+konami_id: 19292
+name:
+  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix [L]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス［<ruby>Ｌ<rt>エル</rt></ruby>］
+  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu [Eru]
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 FIRE Attribute Thunder Type monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（炎属性／雷族）１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 9 or lower monster on your opponent's field. Then, if this card is in Maximum Mode, you can destroy 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Maximum / Effect
+attribute: FIRE
+level: 10
+atk: 2000
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: BlazeboltChemistormFenghuangVolcalizePhoenixL-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP015
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - UR
+    - ScR
+    - ORR
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975310
+---
+konami_id: 19293
+name:
+  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス
+  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Maximum Summon this card together with "Blazebolt Chemistorm Fenghuang Volcalize Phoenix [L]" and "Blazebolt Chemistorm Fenghuang Volcalize Phoenix [R]".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「火轟嵐凰ヴォルカライズ・フェニックス［Ｌ］」「火轟嵐凰ヴォルカライズ・フェニックス［Ｒ］」と揃えてマキシマム召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Maximum Mode: Send 1 FIRE Attribute or Pyro Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    マキシマムモード：手札のモンスター（炎属性または炎族）１体を墓地へ発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict 1000 damage to your opponent. Also, this turn, this card cannot be destroyed by your opponent's Trap Card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手に１０００ダメージを与える。さらにこのターン、このカードは相手の罠カードの効果では破壊されず、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Maximum / Effect
+attribute: FIRE
+level: 10
+atk: 2400
+def: 0
+series:
+- Chemistry
+maximum_atk: 3500
+images:
+- index: 1
+  image: BlazeboltChemistormFenghuangVolcalizePhoenix-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP016
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - UR
+    - ScR
+    - ORR
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975309
+---
+konami_id: 19294
+name:
+  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix [R]
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス［<ruby>Ｒ<rt>アール</rt></ruby>］
+  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu [Āru]
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 FIRE Attribute Aqua Type monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（炎属性／水族）１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 Spell/Trap Card on your opponent's field. Then, if this card is in Maximum Mode, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの魔法・罠カード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Maximum / Effect
+attribute: FIRE
+level: 10
+atk: 2000
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: BlazeboltChemistormFenghuangVolcalizePhoenixR-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP017
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - UR
+    - ScR
+    - ORR
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975311
+---
+konami_id: 19295
+name:
+  en: Secret Investigator Miscast
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスキャスト
+  ja_romaji: Himitsu Sōsakan Misukyasuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have no other monsters on your field, pay 300 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合、３００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, if a Reptile Type monster(s) is among the cards sent, you can add 1 LIGHT Attribute Reptile Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（爬虫類族）がいた場合、さらに自分の墓地のモンスター（光属性／爬虫類族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 300
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigatorMiscast-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP018
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993203
+---
+konami_id: 19296
+name:
+  en: Secret Investigator Mistake
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステイク
+  ja_romaji: Himitsu Sōsakan Misuteiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. You can add 1 excavated Level 3 or higher Reptile Type monster to your hand. Place the remaining cards on the top of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル３以上／爬虫類族）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 3
+atk: 1300
+def: 300
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigatorMistake-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP019
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - C
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993060
+---
+konami_id: 19297
+name:
+  en: Secret Investigator Mismatch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスマッチ
+  ja_romaji: Himitsu Sōsakan Misumatchi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a face-up Level 7 or higher monster on their field, send 1 Level 3 or lower Reptile Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドに表側表示モンスター（レベル７以上）がいる場合、手札のモンスター（レベル３以下／爬虫類族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 Reptile Type monster from your Graveyard to your field in face-up Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル７／爬虫類族）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 3
+atk: 1300
+def: 300
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigatorMismatch-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP020
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993201
+---
+konami_id: 19298
+name:
+  en: Secret Investigator Mislead
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスリード
+  ja_romaji: Himitsu Sōsakan Misurīdo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have another face-up Reptile Type monster on your field, pay 300 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外の表側表示モンスター（爬虫類族）がいる場合、３００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-down Defense Position monster on either side of the field to face-up Attack Position. Then, this card loses 1300 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドの裏側表示モンスター１体を選んで表側攻撃表示にする。その後、このカードの攻撃力はターン終了時まで１３００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 3
+atk: 1300
+def: 300
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigatorMislead-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP021
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993202
+---
+konami_id: 19299
+name:
+  en: Elite Secret Investigator Mystery
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エリート<ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステリー
+  ja_romaji: Erīto Himitsu Sōsakan Misuterī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 other face-up Reptile Type monsters from your field and 1 card from your hand into the owner's Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドの表側表示モンスター（爬虫類族）２体と手札１枚を持ち主のデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 300 ATK until the end of this turn. Then, you can Special Summon up to 2 Level 7 or higher Reptile Type monsters from your hand and/or Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで３００アップする。その後、自分の手札・墓地のモンスター（レベル７以上／爬虫類族）を２体まで選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 1000
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: EliteSecretInvestigatorMystery-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP022
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993204
+---
+konami_id: 19300
+name:
+  en: Abysslayer Leviaknight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスレイヤー・リヴァイアナイト
+  ja_romaji: Abisureiyā Rivaianaito
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the number of Level 10 or higher Sea Serpent Type monsters in your Graveyard] x 500. Also, if you have 3 or more Level 10 or higher Sea Serpent Type monsters in your Graveyard, this card cannot be destroyed by your opponent's card effects during their turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［自分の墓地のモンスター（レベル１０以上／海竜族）の数］×５００アップする。自分の墓地にモンスター（レベル１０以上／海竜族）が３体以上いる場合、さらに相手ターンの間、このカードは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: DARK
+level: 8
+atk: 2500
+def: 2000
+series:
+- Abysslayer
+images:
+- index: 1
+  image: AbysslayerLeviaknight-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP023
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991010
+---
+konami_id: 19301
+name:
+  en: Abysskite Ange
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・アンジュ
+  ja_romaji: Abisukaito Anju
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Sea Serpent Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（海竜族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can add 1 Level 10 Sea Serpent Type monster with 2500 ATK or "Abysskite Ultimail" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２５００）１体または「アビスカイト・アルティメイル」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteAnge-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP024
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001361
+---
+konami_id: 19302
+name:
+  en: Abysskite Liem
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・リーム
+  ja_romaji: Abisukaito Rīmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster with 0 DEF from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（守備力０）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle up to 3 monsters from your opponent's Graveyard into the Deck. Then, you can add 1 Level 10 Sea Serpent Type monster with 2400 ATK or "Abysskite Prevent Wall" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のモンスターを３体まで選んでデッキに戻す。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２４００）１体または「アビスカイト・プリベントウォール」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteLiem-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP025
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001362
+---
+konami_id: 19303
+name:
+  en: Abysskite Karen
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・カレン
+  ja_romaji: Abisukaito Karen
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（光属性）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Level 10 Sea Serpent Type monster with 2200 ATK or "Abysskite Protection" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２２００）１体または「アビスカイト・プロテクション」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 2
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteKaren-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP026
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001366
+---
+konami_id: 19304
+name:
+  en: Constructor Driver Soldier Trailon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>幻<rt>げん</rt></ruby><ruby>刃<rt>ば</rt></ruby><ruby>走<rt>そう</rt></ruby><ruby>兵<rt>へい</rt></ruby>トレイロン
+  ja_romaji: Genbasōhei Toreiron
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 EARTH Attribute Wyrm Type Maximum Monster from your Graveyard to your hand. Then, if you have a Level 7 or higher Wyrm Type monster in your Graveyard, you can add 1 Maximum Monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のマキシマムモンスター（地属性／幻竜族）１体を選んで手札に加える。その後、自分の墓地にモンスター（レベル７以上／幻竜族）がいる場合、自分の墓地のマキシマムモンスター１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Wyrm / Effect
+attribute: EARTH
+level: 4
+atk: 1000
+def: 0
+series:
+- Constructor
+images:
+- index: 1
+  image: ConstructorDriverSoldierTrailon-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP027
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991815
+---
+konami_id: 19305
+name:
+  en: Change Slime - Dragon Champion Mode
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: チェンジ・スライム－<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby><ruby>形態<rt>モード</rt></ruby>
+  ja_romaji: Chenji Suraimu - Ryūkishi Mōdo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 non-Fusion Monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    フュージョンモンスター以外の自分の墓地のモンスター１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending 1 Level 7 Warrior Type monster and 1 Level 5 Dragon Type monster from your hand and/or field to the Graveyard as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札・フィールドの、モンスター（レベル７／戦士族）１体とモンスター（レベル５／ドラゴン族）１体を素材として墓地へ送り、フュージョン召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: WATER
+level: 4
+atk: 1100
+def: 600
+series:
+- Gaia
+images:
+- index: 1
+  image: ChangeSlimeDragonChampionMode-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP028
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993035
+---
+konami_id: 19306
+name:
+  en: Dragoncurse Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>
+  ja_romaji: Ryūjujutsu no Madōshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 3 or more Spell Cards in your Graveyard, send this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に魔法カードが３枚以上ある場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Gaia The Fierce Knight" or 1 Level 5 Dragon Type Normal Monster from your hand or your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札または自分の墓地の「暗黒騎士ガイア」または通常モンスター（レベル５／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 4
+atk: 1100
+def: 1100
+series:
+- Gaia
+images:
+- index: 1
+  image: DragoncurseMagician-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP029
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993036
+---
+konami_id: 19307
+name:
+  en: Launcher Catapult Turtle
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>射<rt>しゃ</rt></ruby><ruby>出<rt>しゅつ</rt></ruby>のカタパルト・タートル
+  ja_romaji: Shashutsu no Kataparuto Tātoru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have no Attack Position monsters on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに攻撃表示モンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 face-up Fusion Monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示のフュージョンモンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 Spell/Trap Card on your opponent's field. Then, if you have "Gaia the Dragon Champion" in your Graveyard, you can destroy 1 card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、自分の墓地に「竜騎士ガイア」がいる場合、相手フィールドのカード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: WATER
+level: 5
+atk: 1000
+def: 2000
+series:
+- Gaia
+images:
+- index: 1
+  image: LauncherCatapultTurtle-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP030
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 977131
+---
+konami_id: 19308
+name:
+  en: Veteran Curse of Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>歴<rt>れき</rt></ruby><ruby>戦<rt>せん</rt></ruby>のカース・オブ・ドラゴン
+  ja_romaji: Rekisen no Kāsu Obu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card's name becomes "Curse of Dragon" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのカード名はこのターン、「カース・オブ・ドラゴン」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: DARK
+level: 5
+atk: 2000
+def: 1500
+series:
+- Gaia
+images:
+- index: 1
+  image: VeteranCurseofDragon-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP031
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975299
+---
+konami_id: 19309
+name:
+  en: Veteran Gaia the Fierce Knight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>歴<rt>れき</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>ガイア
+  ja_romaji: Rekisen no Ankokukishi Gaia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは表側表示モンスター（レベル５以上）１体をリリースして攻撃表示でアドバンス召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card's name becomes "Gaia The Fierce Knight" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのカード名はこのターン、「暗黒騎士ガイア」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: WIND
+level: 7
+atk: 2300
+def: 2100
+series:
+- Gaia
+images:
+- index: 1
+  image: VeteranGaiatheFierceKnight-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP032
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975301
+---
+konami_id: 19310
+name:
+  en: Polygon Butterfly
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ポリゴンバタフライ
+  ja_romaji: Porigon Batafurai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 3 or more Insect Type monsters in your Graveyard, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（昆虫族）が３体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up Level 8 or lower Insect Type monster on your field gains 200 ATK and can make up to 2 attacks on monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（レベル８以下／昆虫族）１体を選ぶ。このターン、そのモンスターの攻撃力は２００アップし、モンスターに２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Insect / Effect
+attribute: LIGHT
+level: 2
+atk: 400
+def: 200
+images:
+- index: 1
+  image: PolygonButterfly-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP033
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 997292
+---
+konami_id: 19311
+name:
+  en: Negatwor Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ニゲイター・ドラゴン
+  ja_romaji: Nigeitā Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Negate Attack" in your Graveyard, you can make up to 3 face-up monsters on your opponent's field lose 2000 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地に「攻撃の無力化」がある場合、相手フィールドの表側表示モンスターを３体まで選んでその攻撃力を次の相手ターン終了時まで２０００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: DARK
+level: 4
+atk: 900
+def: 1000
+images:
+- index: 1
+  image: NegatworDragon-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP034
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994541
+---
+konami_id: 19312
+name:
+  en: The Strange Specter of Celestial Starts
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>天<rt>てん</rt></ruby><ruby>始<rt>し</rt></ruby>の<ruby>怪<rt>かい</rt></ruby><ruby>依<rt>い</rt></ruby>
+  ja_romaji: Tenshi no Kaii
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Zombie Type monster with 1200 ATK/0 DEF from your Graveyard to your field in face-up Defense Position. Then, if you Special Summoned "The Strange Specter of Celestial Severance" by this effect, you can shuffle up to 2 cards from your opponent's Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（アンデット族／攻撃力１２００／守備力０）１体を選び、自分フィールドに表側守備表示で特殊召喚する。この効果で「天終の怪依」を特殊召喚した場合、さらに相手の墓地のカードを２枚まで選んでデッキに戻す事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Zombie / Effect
+attribute: LIGHT
+level: 3
+atk: 1200
+def: 0
+images:
+- index: 1
+  image: TheStrangeSpecterofCelestialStarts-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP035
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994744
+---
+konami_id: 19313
+name:
+  en: Steel Soldier Gale Vinary
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>鋼<rt>こう</rt></ruby><ruby>鉄<rt>てつ</rt></ruby><ruby>兵<rt>へい</rt></ruby>ゲール・ヴァイナリー
+  ja_romaji: Kōtetsuhei Gēru Vainarī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Toss a coin. If the result is heads, all face-up monsters on your field gain 500 ATK until the end of this turn. If the result is tails, you can make 1 face-up monster on your opponent's field lose 800 ATK/DEF until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    コイントスを１回行う。表だった場合、自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。裏だった場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで８００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 3
+atk: 1200
+def: 1000
+images:
+- index: 1
+  image: SteelSoldierGaleVinary-RDKP14-JP-SR.png
+- index: 2
+  image: SteelSoldierGaleVinary-RDKP14-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP036
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975305
+---
+konami_id: 19314
+name:
+  en: Rising Light Angel Esser
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>昂<rt>こう</rt></ruby><ruby>光<rt>こう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>エッセル
+  ja_romaji: Kōkōtenshi Esseru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During a turn you have not Special Summoned a monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分がモンスターを特殊召喚していないターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you activated this effect during the first turn of the second player, you can Special Summon 1 monster from either Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。この効果を後攻プレイヤーの最初のターンに発動した場合、さらに自分または相手の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 4
+atk: 1000
+def: 1000
+images:
+- index: 1
+  image: RisingLightAngelEsser-RDKP14-JP-SR.png
+- index: 2
+  image: RisingLightAngelEsser-RDKP14-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP037
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975307
+---
+konami_id: 19315
+name:
+  en: Galacterial Ore
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギャラクテリアル・オーア
+  ja_romaji: Gyarakuteriaru Ōa
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 3 or more Galaxy Type monsters in your Graveyard during your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（ギャラクシー族）が３体以上いる場合、このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Galactica Xiphos" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ギャラクティカ・サイフォス」１枚を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 4
+atk: 1000
+def: 1300
+images:
+- index: 1
+  image: GalacterialOre-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP038
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 992642
+---
+konami_id: 19316
+name:
+  en: Dino Skeleton Pushcera
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>骸<rt>がい</rt></ruby>のプシュケラ
+  ja_romaji: Ryūgai no Pushukera
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a Dinosaur Type Normal Monster in your Graveyard, send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に通常モンスター（恐竜族）がいる場合、デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up Dinosaur Type monster on your field gains ATK equal to [the number of Dinosaur Type Normal Monsters in your Graveyard] x 300 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（恐竜族）１体を選び、その攻撃力をターン終了時まで、［自分の墓地の通常モンスター（恐竜族）の数］×３００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dinosaur / Effect
+attribute: EARTH
+level: 4
+atk: 1100
+def: 800
+images:
+- index: 1
+  image: DinoSkeletonPushcera-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP039
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 997060
+---
+konami_id: 19317
+name:
+  en: All-Seeing Harvey
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>見<rt>み</rt></ruby><ruby>切<rt>き</rt></ruby>りのハーヴェイ
+  ja_romaji: Mikiri no Hāvei
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Look at 1 face-down card on your opponent's field. Then, if that card is a Monster Card with 1500 or more DEF, you can destroy it.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの裏側表示のカード１枚を選んで確認する。そのカードがモンスターカード（守備力１５００以上）だった場合、さらにそのカードを破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 1300
+def: 1000
+images:
+- index: 1
+  image: AllSeeingHarvey-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP040
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001559
+---
+konami_id: 19318
+name:
+  en: Landporter MAX
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ランドポーター・マックス
+  ja_romaji: Randopōtā Makkusu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send 1 monster from your field to the Graveyard. Then, you can add 1 EARTH Attribute Machine Type Maximum Monster from your Graveyard to your hand. If you do, toss a coin twice. If the result is 2 heads, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地のマキシマムモンスター（地属性／機械族）１体を選んで手札に加える事ができる。加えた場合、さらにコイントスを２回行う。その内２回とも表だった場合、自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 5
+atk: 1000
+def: 1800
+images:
+- index: 1
+  image: LandporterMAX-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP041
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001307
+---
+konami_id: 19319
+name:
+  en: Snake Princess of Purity
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>清<rt>せい</rt></ruby><ruby>浄<rt>じょう</rt></ruby>の<ruby>蛇<rt>へび</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>
+  ja_romaji: Seijō no Hebihime
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses ATK equal to [the number of face-up LIGHT Attribute monsters on your field] x 600 until the end of this turn. Then, if you have 3 face-up monsters on your field, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドの表側表示モンスター（光属性）の数］×６００ダウンする。自分フィールドの表側表示モンスターが３体の場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Reptile / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1500
+images:
+- index: 1
+  image: SnakePrincessofPurity-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP042
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 977129
+---
+konami_id: 19320
+name:
+  en: Jointech Fighter
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・ファイター
+  ja_romaji: Jointekku Faitā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Take 1 Level 7 EARTH Attribute Machine Type monster from your Graveyard, and either add it to your hand or Special Summon it face-up to your field. Then, if it was "Jointech Hero", you can add 1 "Jointech Ace" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル７／地属性／機械族）１体を選び、手札に加えるか自分フィールドに表側表示で特殊召喚する。この効果で「ジョインテック・ヒーロー」を選んだ場合、さらに自分の墓地の「ジョインテック・エース」１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: EARTH
+level: 6
+atk: 2600
+def: 2600
+materials:
+  en: |-
+    "Jointech Ace" + "Jointech Ace"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ジョインテック・エース」＋「ジョインテック・エース」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechFighter-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP043
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991613
+---
+konami_id: 19321
+name:
+  en: Jointech Killer Stinger
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・キラースティンガー
+  ja_romaji: Jointekku Kirā Sutingā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    All face-up monsters on your opponent's field lose ATK equal to [the number of monsters on your opponent's field] x 700 until the end of this turn. Then, you gain LP equal to [the number of monsters on your opponent's field] x 700.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［相手フィールドのモンスターの数］×７００ダウンする。その後、自分は［相手フィールドのモンスターの数］×７００ＬＰ回復する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: EARTH
+level: 9
+atk: 3000
+def: 2500
+materials:
+  en: |-
+    "Jointech Spike Centipede" + "Jointech Arc Scorpio"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ジョインテック・スパイクセンチピード」＋「ジョインテック・アークスコーピオ」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechKillerStinger-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP044
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994926
+---
+konami_id: 19322
+name:
+  en: Jointech Burst Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・バーストドラゴン
+  ja_romaji: Jointekku Bāsuto Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all face-up monsters with 2500 or less ATK on your opponent's field. Then, this card gains ATK equal to [the number of monsters destroyed by this effect] x 500 until the end of this turn. Then, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（攻撃力２５００以下）を全て破壊する。さらに、このカードの攻撃力はターン終了時まで、［この効果で破壊したモンスターの数］×５００アップする。その後、相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 3300
+def: 2500
+materials:
+  en: |-
+    "Jointech Rex" + "Blue Tooth Burst Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ジョインテック・レックス」＋「碧牙の爆速竜」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- High Tech Dragon
+- Jointech
+images:
+- index: 1
+  image: JointechBurstDragon-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP045
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001925
+---
+konami_id: 19323
+name:
+  en: Gaia the Battle Ruler
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>百<rt>ひゃく</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>覇<rt>は</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ガイア
+  ja_romaji: Hyakusen no Hasha Gaia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Special Summoned, shuffle 1 non-Magical Knight Type monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを特殊召喚した自分メインフェイズに、自分の墓地のモンスター（魔導騎士族以外）１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Multi-Choice
+effect:
+  en: |-
+    ● This turn, this card can attack directly.
+    ● Destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ●このターン、このカードは直接攻撃できる。●相手フィールドの魔法・罠カード１枚を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Magical Knight / Fusion / Effect
+attribute: WIND
+level: 7
+atk: 2600
+def: 2100
+materials:
+  en: |-
+    "Gaia The Fierce Knight" + "Curse of Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「暗黒騎士ガイア」＋「カース・オブ・ドラゴン」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Gaia
+images:
+- index: 1
+  image: GaiatheBattleRuler-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP046
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975303
+---
+konami_id: 19324
+name:
+  en: Jointech Dig Up
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・ディガップ
+  ja_romaji: Jointekku Digappu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 EARTH Attribute Machine Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（地属性／機械族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 3 cards of your Deck. Add 1 excavated card to your hand. Place the remaining cards on top of the Deck in any order, or send them to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中から１枚を選んで手札に加える。残りのカードを好きな順番で全てデッキの上に戻すか、全て墓地へ送る。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechDigUp-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP047
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994852
+---
+konami_id: 19325
+name:
+  en: Volcalize Compound
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ヴォルカライズ・コンパウンド
+  ja_romaji: Vorukaraizu Konpaundo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up FIRE Attribute monster on your field, shuffle 1 Aqua, Pyro, or Thunder Type monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（炎属性）がいる場合、自分の墓地のモンスター（炎族・水族・雷族）１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have a monster in Maximum Mode or a face-up Equip Spell Card on your field, you can draw 1 additional card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。自分フィールドにマキシマムモードのモンスターまたは表側表示の装備魔法カードがある場合、さらに自分は１枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Chemistry
+images:
+- index: 1
+  image: VolcalizeCompound-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP048
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 987032
+---
+konami_id: 19326
+name:
+  en: Chemicalize Structure Force
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミカライズ・ストラクチャーフォース
+  ja_romaji: Kemikaraizu Sutorakuchā Fōsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Aqua, Pyro, or Thunder Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（炎族・水族・雷族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains ATK equal to [the number of different Types on the field] x 300. Then, if the equipped monster is a Maximum Monster, it cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は、［お互いのフィールドの表側表示モンスターの種族の種類］×３００アップする。装備モンスターがマキシマムモンスターの場合、さらにそのモンスターは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemicalizeStructureForce-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP049
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 987033
+---
 konami_id: 19358
 name:
   en: Fusionic Revivern
@@ -109707,327 +112966,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 991886
----
-konami_id:
-name:
-  en: Landporter MAX
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ランドポーター・マックス
-  ja_romaji: Randopōtā Makkusu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send 1 monster from your field to the Graveyard. Then, you can add 1 EARTH Attribute Machine Type Maximum Monster from your Graveyard to your hand. If you do, toss a coin twice. If the result is 2 heads, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地のマキシマムモンスター（地属性／機械族）１体を選んで手札に加える事ができる。加えた場合、さらにコイントスを２回行う。その内２回とも表だった場合、自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 5
-atk: 1000
-def: 1800
-images:
-- index: 1
-  image: LandporterMAX-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP041
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001307
----
-konami_id:
-name:
-  en: Abysskite Ange
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスカイト・アンジュ
-  ja_romaji: Abisukaito Anju
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Sea Serpent Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（海竜族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can add 1 Level 10 Sea Serpent Type monster with 2500 ATK or "Abysskite Ultimail" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２５００）１体または「アビスカイト・アルティメイル」１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: LIGHT
-level: 2
-atk: 800
-def: 0
-series:
-- Abysskite
-images:
-- index: 1
-  image: AbysskiteAnge-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP024
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001361
----
-konami_id:
-name:
-  en: Abysskite Liem
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスカイト・リーム
-  ja_romaji: Abisukaito Rīmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 monster with 0 DEF from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（守備力０）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle up to 3 monsters from your opponent's Graveyard into the Deck. Then, you can add 1 Level 10 Sea Serpent Type monster with 2400 ATK or "Abysskite Prevent Wall" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手の墓地のモンスターを３体まで選んでデッキに戻す。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２４００）１体または「アビスカイト・プリベントウォール」１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: LIGHT
-level: 2
-atk: 800
-def: 0
-series:
-- Abysskite
-images:
-- index: 1
-  image: AbysskiteLiem-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP025
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001362
----
-konami_id:
-name:
-  en: Abysskite Karen
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスカイト・カレン
-  ja_romaji: Abisukaito Karen
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 LIGHT Attribute monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（光属性）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 Level 10 Sea Serpent Type monster with 2200 ATK or "Abysskite Protection" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスター（レベル１０／海竜族／攻撃力２２００）１体または「アビスカイト・プロテクション」１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: LIGHT
-level: 2
-atk: 800
-def: 0
-series:
-- Abysskite
-images:
-- index: 1
-  image: AbysskiteKaren-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP026
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001366
----
-konami_id:
-name:
-  en: All-Seeing Harvey
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>見<rt>み</rt></ruby><ruby>切<rt>き</rt></ruby>りのハーヴェイ
-  ja_romaji: Mikiri no Hāvei
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Look at 1 face-down card on your opponent's field. Then, if that card is a Monster Card with 1500 or more DEF, you can destroy it.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの裏側表示のカード１枚を選んで確認する。そのカードがモンスターカード（守備力１５００以上）だった場合、さらにそのカードを破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 1300
-def: 1000
-images:
-- index: 1
-  image: AllSeeingHarvey-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP040
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001559
 ---
 konami_id:
 name:
@@ -110209,84 +113147,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1001861
----
-konami_id:
-name:
-  en: Jointech Burst Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・バーストドラゴン
-  ja_romaji: Jointekku Bāsuto Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all face-up monsters with 2500 or less ATK on your opponent's field. Then, this card gains ATK equal to [the number of monsters destroyed by this effect] x 500 until the end of this turn. Then, you can destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター（攻撃力２５００以下）を全て破壊する。さらに、このカードの攻撃力はターン終了時まで、［この効果で破壊したモンスターの数］×５００アップする。その後、相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 3300
-def: 2500
-materials:
-  en: |-
-    "Jointech Rex" + "Blue Tooth Burst Dragon"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「ジョインテック・レックス」＋「碧牙の爆速竜」
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- High Tech Dragon
-- Jointech
-images:
-- index: 1
-  image: JointechBurstDragon-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP045
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001925
 ---
 konami_id:
 name:
@@ -110519,774 +113379,6 @@ yugipedia_page_id: 1002095
 ---
 konami_id:
 name:
-  en: Hyper Assistant Achi
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>ＨＰ<rt>ハイパー</rt></ruby>アシスタント・アーチ
-  ja_romaji: Haipā Ashisutanto Āchi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If your opponent has a monster on their field, send this face-up card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドにモンスターがいる場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 7 or higher Pyro Type monster from your hand face-up to your field. Then, if you have "Super Assistant Achi" in your Graveyard, the monster Special Summoned by this effect gains 800 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（レベル７以上／炎族）１体を自分フィールドに表側表示で特殊召喚する。自分の墓地に「ＳＰアシスタント・アーチ」がいる場合、さらにこの効果で特殊召喚したモンスターの攻撃力はターン終了時まで８００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Pyro / Effect
-attribute: FIRE
-level: 4
-atk: 800
-def: 1500
-series:
-- Chemistry
-images:
-- index: 1
-  image: HyperAssistantAchi-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP014
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - SR
-    - ScR
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975293
----
-konami_id:
-name:
-  en: Chemispet Nyanko
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ケミスペット・ニャンコ
-  ja_romaji: Kemisupetto Nyanko
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have a Pyro, Aqua, or Thunder Type monster in your Graveyard, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地にモンスター（炎族・水族・雷族）のいずれかがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Gain 400 LP. Then, you can place 1 Pyro, Aqua, or Thunder Type monster from your Graveyard on top of your Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は４００ＬＰ回復する。その後、自分の墓地のモンスター（炎族・水族・雷族）１体を選んでデッキの上に戻す事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Thunder / Effect
-attribute: FIRE
-level: 1
-atk: 600
-def: 0
-series:
-- Chemistry
-images:
-- index: 1
-  image: ChemispetNyanko-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP009
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975295
----
-konami_id:
-name:
-  en: Chemispet Wanko
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ケミスペット・ワンコ
-  ja_romaji: Kemisupetto Wanko
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 10 or less monsters in your Graveyard, send 2 cards from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスターが１０体以下の場合、手札２枚を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you sent 2 Pyro, Aqua, and/or Thunder Type monsters to the Graveyard to meet the requirement, you can draw 1 additional card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。この効果の条件でモンスター（炎族・水族・雷族）２体を墓地へ送った場合、さらに自分は１枚ドローできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Aqua / Effect
-attribute: FIRE
-level: 1
-atk: 600
-def: 0
-series:
-- Chemistry
-images:
-- index: 1
-  image: ChemispetWanko-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP010
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - C
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975297
----
-konami_id:
-name:
-  en: Veteran Curse of Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>歴<rt>れき</rt></ruby><ruby>戦<rt>せん</rt></ruby>のカース・オブ・ドラゴン
-  ja_romaji: Rekisen no Kāsu Obu Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have no monsters on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card's name becomes "Curse of Dragon" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードのカード名はこのターン、「カース・オブ・ドラゴン」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: DARK
-level: 5
-atk: 2000
-def: 1500
-series:
-- Gaia
-images:
-- index: 1
-  image: VeteranCurseofDragon-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP031
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975299
----
-konami_id:
-name:
-  en: Veteran Gaia the Fierce Knight
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>歴<rt>れき</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>ガイア
-  ja_romaji: Rekisen no Ankokukishi Gaia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Tribute Summon this card in Attack Position by Tributing 1 face-up Level 5 or higher monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードは表側表示モンスター（レベル５以上）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card's name becomes "Gaia The Fierce Knight" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードのカード名はこのターン、「暗黒騎士ガイア」になる。その後、自分フィールドのこのカードと自分のフィールド・墓地のモンスター１体を素材として持ち主のデッキに戻してフュージョン召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: WIND
-level: 7
-atk: 2300
-def: 2100
-series:
-- Gaia
-images:
-- index: 1
-  image: VeteranGaiatheFierceKnight-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP032
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975301
----
-konami_id:
-name:
-  en: Gaia the Battle Ruler
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>百<rt>ひゃく</rt></ruby><ruby>戦<rt>せん</rt></ruby>の<ruby>覇<rt>は</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ガイア
-  ja_romaji: Hyakusen no Hasha Gaia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Special Summoned, shuffle 1 non-Magical Knight Type monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを特殊召喚した自分メインフェイズに、自分の墓地のモンスター（魔導騎士族以外）１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Multi-Choice
-effect:
-  en: |-
-    ● This turn, this card can attack directly.
-    ● Destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ●このターン、このカードは直接攻撃できる。●相手フィールドの魔法・罠カード１枚を選んで破壊する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Magical Knight / Fusion / Effect
-attribute: WIND
-level: 7
-atk: 2600
-def: 2100
-materials:
-  en: |-
-    "Gaia The Fierce Knight" + "Curse of Dragon"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「暗黒騎士ガイア」＋「カース・オブ・ドラゴン」
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Gaia
-images:
-- index: 1
-  image: GaiatheBattleRuler-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP046
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975303
----
-konami_id:
-name:
-  en: Steel Soldier Gale Vinary
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>鋼<rt>こう</rt></ruby><ruby>鉄<rt>てつ</rt></ruby><ruby>兵<rt>へい</rt></ruby>ゲール・ヴァイナリー
-  ja_romaji: Kōtetsuhei Gēru Vainarī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Toss a coin. If the result is heads, all face-up monsters on your field gain 500 ATK until the end of this turn. If the result is tails, you can make 1 face-up monster on your opponent's field lose 800 ATK/DEF until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    コイントスを１回行う。表だった場合、自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。裏だった場合、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで８００ダウンできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 3
-atk: 1200
-def: 1000
-images:
-- index: 1
-  image: SteelSoldierGaleVinary-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP036
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975305
----
-konami_id:
-name:
-  en: Rising Light Angel Esser
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>昂<rt>こう</rt></ruby><ruby>光<rt>こう</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>エッセル
-  ja_romaji: Kōkōtenshi Esseru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During a turn you have not Special Summoned a monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分がモンスターを特殊召喚していないターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if you activated this effect during the first turn of the second player, you can Special Summon 1 monster from either Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード２枚を墓地へ送る。この効果を後攻プレイヤーの最初のターンに発動した場合、さらに自分または相手の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 4
-atk: 1000
-def: 1000
-images:
-- index: 1
-  image: RisingLightAngelEsser-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP037
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975307
----
-konami_id:
-name:
-  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス
-  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Maximum Summon this card together with "Blazebolt Chemistorm Fenghuang Volcalize Phoenix [L]" and "Blazebolt Chemistorm Fenghuang Volcalize Phoenix [R]".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「火轟嵐凰ヴォルカライズ・フェニックス［Ｌ］」「火轟嵐凰ヴォルカライズ・フェニックス［Ｒ］」と揃えてマキシマム召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Maximum Mode: Send 1 FIRE Attribute or Pyro Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    マキシマムモード：手札のモンスター（炎属性または炎族）１体を墓地へ発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Inflict 1000 damage to your opponent. Also, this turn, this card cannot be destroyed by your opponent's Trap Card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手に１０００ダメージを与える。さらにこのターン、このカードは相手の罠カードの効果では破壊されず、その攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Pyro / Maximum / Effect
-attribute: FIRE
-level: 10
-atk: 2400
-def: 0
-series:
-- Chemistry
-maximum_atk: 3500
-images:
-- index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenix-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP016
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - UR
-    - ScR
-    - ORR
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975309
----
-konami_id:
-name:
-  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix [L]
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス［<ruby>Ｌ<rt>エル</rt></ruby>］
-  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu [Eru]
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 FIRE Attribute Thunder Type monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（炎属性／雷族）１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up Level 9 or lower monster on your opponent's field. Then, if this card is in Maximum Mode, you can destroy 1 monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Thunder / Maximum / Effect
-attribute: FIRE
-level: 10
-atk: 2000
-def: 0
-series:
-- Chemistry
-images:
-- index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenixL-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP015
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - UR
-    - ScR
-    - ORR
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975310
----
-konami_id:
-name:
-  en: Blazebolt Chemistorm Fenghuang Volcalize Phoenix [R]
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス［<ruby>Ｒ<rt>アール</rt></ruby>］
-  ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu [Āru]
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 FIRE Attribute Aqua Type monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（炎属性／水族）１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 Spell/Trap Card on your opponent's field. Then, if this card is in Maximum Mode, you can destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの魔法・罠カード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Aqua / Maximum / Effect
-attribute: FIRE
-level: 10
-atk: 2000
-def: 0
-series:
-- Chemistry
-images:
-- index: 1
-  image: BlazeboltChemistormFenghuangVolcalizePhoenixR-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP017
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - UR
-    - ScR
-    - ORR
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975311
----
-konami_id:
-name:
   en: Cat-trois Choice
   de:
   es:
@@ -111342,147 +113434,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 975588
----
-konami_id:
-name:
-  en: Snake Princess of Purity
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>清<rt>せい</rt></ruby><ruby>浄<rt>じょう</rt></ruby>の<ruby>蛇<rt>へび</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>
-  ja_romaji: Seijō no Hebihime
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up monster on your opponent's field loses ATK equal to [the number of face-up LIGHT Attribute monsters on your field] x 600 until the end of this turn. Then, if you have 3 face-up monsters on your field, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドの表側表示モンスター（光属性）の数］×６００ダウンする。自分フィールドの表側表示モンスターが３体の場合、さらに自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 7
-atk: 2500
-def: 1500
-images:
-- index: 1
-  image: SnakePrincessofPurity-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP042
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 977129
----
-konami_id:
-name:
-  en: Launcher Catapult Turtle
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>射<rt>しゃ</rt></ruby><ruby>出<rt>しゅつ</rt></ruby>のカタパルト・タートル
-  ja_romaji: Shashutsu no Kataparuto Tātoru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have no Attack Position monsters on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに攻撃表示モンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 face-up Fusion Monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示のフュージョンモンスター１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 Spell/Trap Card on your opponent's field. Then, if you have "Gaia the Dragon Champion" in your Graveyard, you can destroy 1 card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、自分の墓地に「竜騎士ガイア」がいる場合、相手フィールドのカード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Aqua / Effect
-attribute: WATER
-level: 5
-atk: 1000
-def: 2000
-series:
-- Gaia
-images:
-- index: 1
-  image: LauncherCatapultTurtle-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP030
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 977131
 ---
 konami_id:
 name:
@@ -111609,386 +113560,6 @@ yugipedia_page_id: 978931
 ---
 konami_id:
 name:
-  en: Melt the Aqueous Spirit
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>水<rt>すい</rt></ruby><ruby>溶<rt>よう</rt></ruby><ruby>精<rt>せい</rt></ruby>メルト
-  ja_romaji: Suiyōsei Meruto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Level 4 or lower monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（レベル４以下）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 7 or 10 Pyro or Thunder Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル７・１０／炎族・雷族）１体を選んで手札に加える。その後、自分の墓地の「ケミカライズ・ストラクチャーフォース」１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Aqua / Effect
-attribute: FIRE
-level: 1
-atk: 300
-def: 200
-series:
-- Chemistry
-images:
-- index: 1
-  image: MelttheAqueousSpirit-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP011
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 987029
----
-konami_id:
-name:
-  en: Bolt the Conduction Spirit
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>電<rt>でん</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>精<rt>せい</rt></ruby>ボルト
-  ja_romaji: Dendōsei Boruto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Level 4 or lower monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（レベル４以下）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 5 or 10 Pyro or Aqua Type monster from your Graveyard to your hand. Then, you can add 1 "Chemicalize Structure Force" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル５・１０／炎族・水族）１体を選んで手札に加える。その後、自分の墓地の「ケミカライズ・ストラクチャーフォース」１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Thunder / Effect
-attribute: FIRE
-level: 2
-atk: 400
-def: 0
-series:
-- Chemistry
-images:
-- index: 1
-  image: BolttheConductionSpirit-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP012
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 987030
----
-konami_id:
-name:
-  en: Hot the Combustion Spirit
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>火<rt>か</rt></ruby><ruby>燃<rt>ねん</rt></ruby><ruby>精<rt>せい</rt></ruby>ホット
-  ja_romaji: Kanensei Hotto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send cards from the top of your Deck to the Graveyard equal to [the number of different Types on your field]. Then, if you sent 2 or more Pyro Type monsters to the Graveyard by this effect, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上から［自分フィールドの表側表示モンスターの種族の種類］だけカードを墓地へ送る。この効果でモンスター（炎族）が２体以上墓地へ送られた場合、さらに自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Pyro / Effect
-attribute: FIRE
-level: 3
-atk: 800
-def: 900
-series:
-- Chemistry
-images:
-- index: 1
-  image: HottheCombustionSpirit-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP013
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 987031
----
-konami_id:
-name:
-  en: Volcalize Compound
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ヴォルカライズ・コンパウンド
-  ja_romaji: Vorukaraizu Konpaundo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have a face-up FIRE Attribute monster on your field, shuffle 1 Aqua, Pyro, or Thunder Type monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（炎属性）がいる場合、自分の墓地のモンスター（炎族・水族・雷族）１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you have a monster in Maximum Mode or a face-up Equip Spell Card on your field, you can draw 1 additional card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。自分フィールドにマキシマムモードのモンスターまたは表側表示の装備魔法カードがある場合、さらに自分は１枚ドローできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Chemistry
-images:
-- index: 1
-  image: VolcalizeCompound-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP048
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 987032
----
-konami_id:
-name:
-  en: Chemicalize Structure Force
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ケミカライズ・ストラクチャーフォース
-  ja_romaji: Kemikaraizu Sutorakuchā Fōsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up Aqua, Pyro, or Thunder Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（炎族・水族・雷族）１体に装備できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains ATK equal to [the number of different Types on the field] x 300. Then, if the equipped monster is a Maximum Monster, it cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    装備モンスターの攻撃力は、［お互いのフィールドの表側表示モンスターの種族の種類］×３００アップする。装備モンスターがマキシマムモンスターの場合、さらにそのモンスターは相手の効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Chemistry
-images:
-- index: 1
-  image: ChemicalizeStructureForce-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP049
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 987033
----
-konami_id:
-name:
-  en: Abysslayer Leviaknight
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスレイヤー・リヴァイアナイト
-  ja_romaji: Abisureiyā Rivaianaito
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the number of Level 10 or higher Sea Serpent Type monsters in your Graveyard] x 500. Also, if you have 3 or more Level 10 or higher Sea Serpent Type monsters in your Graveyard, this card cannot be destroyed by your opponent's card effects during their turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力は、［自分の墓地のモンスター（レベル１０以上／海竜族）の数］×５００アップする。自分の墓地にモンスター（レベル１０以上／海竜族）が３体以上いる場合、さらに相手ターンの間、このカードは相手の効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Sea Serpent / Effect
-attribute: DARK
-level: 8
-atk: 2500
-def: 2000
-series:
-- Abysslayer
-images:
-- index: 1
-  image: AbysslayerLeviaknight-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP023
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991010
----
-konami_id:
-name:
   en: Legend Strike
   de:
   es:
@@ -112046,71 +113617,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 991219
----
-konami_id:
-name:
-  en: Jointech Hero
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・ヒーロー
-  ja_romaji: Jointekku Hīrō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card by Tributing "Jointech Ace", send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「ジョインテック・エース」をリリースしてこのカードを召喚したターンに、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 1500 ATK until the end of this turn. Then, you can add 1 EARTH Attribute Machine Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力はターン終了時まで１５００アップする。その後、自分の墓地のモンスター（地属性／機械族）１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 7
-atk: 2500
-def: 1500
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechHero-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP008
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991608
 ---
 konami_id:
 name:
@@ -112174,147 +113680,6 @@ yugipedia_page_id: 991611
 ---
 konami_id:
 name:
-  en: Jointech Fighter
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・ファイター
-  ja_romaji: Jointekku Faitā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Take 1 Level 7 EARTH Attribute Machine Type monster from your Graveyard, and either add it to your hand or Special Summon it face-up to your field. Then, if it was "Jointech Hero", you can add 1 "Jointech Ace" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル７／地属性／機械族）１体を選び、手札に加えるか自分フィールドに表側表示で特殊召喚する。この効果で「ジョインテック・ヒーロー」を選んだ場合、さらに自分の墓地の「ジョインテック・エース」１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Fusion / Effect
-attribute: EARTH
-level: 6
-atk: 2600
-def: 2600
-materials:
-  en: |-
-    "Jointech Ace" + "Jointech Ace"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「ジョインテック・エース」＋「ジョインテック・エース」
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechFighter-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP043
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991613
----
-konami_id:
-name:
-  en: Constructor Driver Soldier Trailon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>幻<rt>げん</rt></ruby><ruby>刃<rt>ば</rt></ruby><ruby>走<rt>そう</rt></ruby><ruby>兵<rt>へい</rt></ruby>トレイロン
-  ja_romaji: Genbasōhei Toreiron
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no other monsters on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 EARTH Attribute Wyrm Type Maximum Monster from your Graveyard to your hand. Then, if you have a Level 7 or higher Wyrm Type monster in your Graveyard, you can add 1 Maximum Monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のマキシマムモンスター（地属性／幻竜族）１体を選んで手札に加える。その後、自分の墓地にモンスター（レベル７以上／幻竜族）がいる場合、自分の墓地のマキシマムモンスター１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Wyrm / Effect
-attribute: EARTH
-level: 4
-atk: 1000
-def: 0
-series:
-- Constructor
-images:
-- index: 1
-  image: ConstructorDriverSoldierTrailon-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP027
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991815
----
-konami_id:
-name:
   en: Time Wizard
   de:
   es:
@@ -112369,68 +113734,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 992240
----
-konami_id:
-name:
-  en: Galacterial Ore
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギャラクテリアル・オーア
-  ja_romaji: Gyarakuteriaru Ōa
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 3 or more Galaxy Type monsters in your Graveyard during your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地にモンスター（ギャラクシー族）が３体以上いる場合、このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Galactica Xiphos" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「ギャラクティカ・サイフォス」１枚を選んで手札に加える。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 4
-atk: 1000
-def: 1300
-images:
-- index: 1
-  image: GalacterialOre-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP038
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 992642
 ---
 konami_id:
 name:
@@ -112489,134 +113792,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 992850
----
-konami_id:
-name:
-  en: Change Slime - Dragon Champion Mode
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: チェンジ・スライム－<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby><ruby>形態<rt>モード</rt></ruby>
-  ja_romaji: Chenji Suraimu - Ryūkishi Mōdo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 non-Fusion Monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    フュージョンモンスター以外の自分の墓地のモンスター１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by sending 1 Level 7 Warrior Type monster and 1 Level 5 Dragon Type monster from your hand and/or field to the Graveyard as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の手札・フィールドの、モンスター（レベル７／戦士族）１体とモンスター（レベル５／ドラゴン族）１体を素材として墓地へ送り、フュージョン召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Aqua / Effect
-attribute: WATER
-level: 4
-atk: 1100
-def: 600
-series:
-- Gaia
-images:
-- index: 1
-  image: ChangeSlimeDragonChampionMode-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP028
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993035
----
-konami_id:
-name:
-  en: Dragoncurse Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>
-  ja_romaji: Ryūjujutsu no Madōshi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 3 or more Spell Cards in your Graveyard, send this face-up card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地に魔法カードが３枚以上ある場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Gaia The Fierce Knight" or 1 Level 5 Dragon Type Normal Monster from your hand or your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の手札または自分の墓地の「暗黒騎士ガイア」または通常モンスター（レベル５／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 4
-atk: 1100
-def: 1100
-series:
-- Gaia
-images:
-- index: 1
-  image: DragoncurseMagician-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP029
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993036
 ---
 konami_id:
 name:
@@ -112800,327 +113975,6 @@ yugipedia_page_id: 993053
 ---
 konami_id:
 name:
-  en: Secret Investigator Mistake
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステイク
-  ja_romaji: Himitsu Sōsakan Misuteiku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 3 cards of your Deck. You can add 1 excavated Level 3 or higher Reptile Type monster to your hand. Place the remaining cards on the top of the Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル３以上／爬虫類族）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの上に戻す。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 3
-atk: 1300
-def: 300
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretInvestigatorMistake-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP019
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - C
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993060
----
-konami_id:
-name:
-  en: Secret Investigator Mismatch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスマッチ
-  ja_romaji: Himitsu Sōsakan Misumatchi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If your opponent has a face-up Level 7 or higher monster on their field, send 1 Level 3 or lower Reptile Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドに表側表示モンスター（レベル７以上）がいる場合、手札のモンスター（レベル３以下／爬虫類族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 7 Reptile Type monster from your Graveyard to your field in face-up Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル７／爬虫類族）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 3
-atk: 1300
-def: 300
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretInvestigatorMismatch-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP020
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993201
----
-konami_id:
-name:
-  en: Secret Investigator Mislead
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスリード
-  ja_romaji: Himitsu Sōsakan Misurīdo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have another face-up Reptile Type monster on your field, pay 300 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外の表側表示モンスター（爬虫類族）がいる場合、３００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change 1 face-down Defense Position monster on either side of the field to face-up Attack Position. Then, this card loses 1300 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分または相手フィールドの裏側表示モンスター１体を選んで表側攻撃表示にする。その後、このカードの攻撃力はターン終了時まで１３００ダウンする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 3
-atk: 1300
-def: 300
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretInvestigatorMislead-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP021
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993202
----
-konami_id:
-name:
-  en: Secret Investigator Miscast
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスキャスト
-  ja_romaji: Himitsu Sōsakan Misukyasuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have no other monsters on your field, pay 300 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外のモンスターがいない場合、３００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, if a Reptile Type monster(s) is among the cards sent, you can add 1 LIGHT Attribute Reptile Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（爬虫類族）がいた場合、さらに自分の墓地のモンスター（光属性／爬虫類族）１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 3
-atk: 300
-def: 300
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretInvestigatorMiscast-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP018
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993203
----
-konami_id:
-name:
-  en: Elite Secret Investigator Mystery
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: エリート<ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステリー
-  ja_romaji: Erīto Himitsu Sōsakan Misuterī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 2 other face-up Reptile Type monsters from your field and 1 card from your hand into the owner's Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカード以外の自分フィールドの表側表示モンスター（爬虫類族）２体と手札１枚を持ち主のデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 300 ATK until the end of this turn. Then, you can Special Summon up to 2 Level 7 or higher Reptile Type monsters from your hand and/or Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力はターン終了時まで３００アップする。その後、自分の手札・墓地のモンスター（レベル７以上／爬虫類族）を２体まで選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Effect
-attribute: LIGHT
-level: 7
-atk: 2300
-def: 1000
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: EliteSecretInvestigatorMystery-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP022
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993204
----
-konami_id:
-name:
   en: Secret File 33 - Noble Death of Resentment
   de:
   es:
@@ -113178,50 +114032,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 993205
----
-konami_id:
-name:
-  en: Worm Drake
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    Once this monster wraps itself around a victim, there is no escape.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    その長い体に巻き込まれたら最後、二度と逃げる事はできない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Reptile / Normal
-attribute: EARTH
-level: 4
-atk: 1400
-def: 1500
-images:
-- index: 1
-  image: WormDrake-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP001
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-yugipedia_page_id: 993385
 ---
 konami_id:
 name:
@@ -113398,789 +114208,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 994466
----
-konami_id:
-name:
-  en: Negatwor Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ニゲイター・ドラゴン
-  ja_romaji: Nigeitā Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Negate Attack" in your Graveyard, you can make up to 3 face-up monsters on your opponent's field lose 2000 ATK until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地に「攻撃の無力化」がある場合、相手フィールドの表側表示モンスターを３体まで選んでその攻撃力を次の相手ターン終了時まで２０００ダウンできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: DARK
-level: 4
-atk: 900
-def: 1000
-images:
-- index: 1
-  image: NegatworDragon-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP034
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994541
----
-konami_id:
-name:
-  en: The Strange Specter of Celestial Starts
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>天<rt>てん</rt></ruby><ruby>始<rt>し</rt></ruby>の<ruby>怪<rt>かい</rt></ruby><ruby>依<rt>い</rt></ruby>
-  ja_romaji: Tenshi no Kaii
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Zombie Type monster with 1200 ATK/0 DEF from your Graveyard to your field in face-up Defense Position. Then, if you Special Summoned "The Strange Specter of Celestial Severance" by this effect, you can shuffle up to 2 cards from your opponent's Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（アンデット族／攻撃力１２００／守備力０）１体を選び、自分フィールドに表側守備表示で特殊召喚する。この効果で「天終の怪依」を特殊召喚した場合、さらに相手の墓地のカードを２枚まで選んでデッキに戻す事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Zombie / Effect
-attribute: LIGHT
-level: 3
-atk: 1200
-def: 0
-images:
-- index: 1
-  image: TheStrangeSpecterofCelestialStarts-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP035
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994744
----
-konami_id:
-name:
-  en: Jointech Dig Up
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・ディガップ
-  ja_romaji: Jointekku Digappu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 EARTH Attribute Machine Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（地属性／機械族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 3 cards of your Deck. Add 1 excavated card to your hand. Place the remaining cards on top of the Deck in any order, or send them to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中から１枚を選んで手札に加える。残りのカードを好きな順番で全てデッキの上に戻すか、全て墓地へ送る。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechDigUp-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP047
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994852
----
-konami_id:
-name:
-  en: Jointech Arc Scorpio
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・アークスコーピオ
-  ja_romaji: Jointekku Āku Sukōpio
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Machine Type monster from your hand or face-up from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（機械族）または自分フィールドの表側表示モンスター（機械族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Fusion" or "Power Bond" from your Graveyard to your hand. Then, you can Special Summon 1 "Jointech Spike Centipede" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「フュージョン」または「パワー・ボンド」１枚を選んで手札に加える。その後、自分の墓地の「ジョインテック・スパイクセンチビード」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 7
-atk: 2200
-def: 1600
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechArcScorpio-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP006
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994922
----
-konami_id:
-name:
-  en: Jointech Spike Centipede
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・スパイクセンチピード
-  ja_romaji: Jointekku Supaiku Senchipīdo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Return 1 other face-up Level 5 or higher EARTH Attribute Machine Type monster from your field to the owner's hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカード以外の自分フィールドの表側表示モンスター（レベル５以上／地属性／機械族）１体を持ち主の手札に戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 monster on your opponent's field. This turn, you cannot activate the effects of non-Machine Type monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドのモンスター１体を選んで破壊する。このターン、自分はモンスター（機械族以外）の効果を発動できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 7
-atk: 2400
-def: 1600
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechSpikeCentipede-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP007
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994924
----
-konami_id:
-name:
-  en: Jointech Killer Stinger
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・キラースティンガー
-  ja_romaji: Jointekku Kirā Sutingā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    All face-up monsters on your opponent's field lose ATK equal to [the number of monsters on your opponent's field] x 700 until the end of this turn. Then, you gain LP equal to [the number of monsters on your opponent's field] x 700.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで、［相手フィールドのモンスターの数］×７００ダウンする。その後、自分は［相手フィールドのモンスターの数］×７００ＬＰ回復する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Fusion / Effect
-attribute: EARTH
-level: 9
-atk: 3000
-def: 2500
-materials:
-  en: |-
-    "Jointech Spike Centipede" + "Jointech Arc Scorpio"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「ジョインテック・スパイクセンチピード」＋「ジョインテック・アークスコーピオ」
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechKillerStinger-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP044
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994926
----
-konami_id:
-name:
-  en: Jointech Cobra
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・コブラ
-  ja_romaji: Jointekku Kobura
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no other monsters on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Jointech Arc Scorpio", "Jointech Spike Centipede", or "Jointech Rex" from your Graveyard to your field in face-up Defense Position. This turn, you cannot activate the effects of non-Machine Type monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「ジョインテック・アークスコーピオ」「ジョインテック・スパイクセンチピード」「ジョインテック・レックス」の中から１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（機械族以外）の効果を発動できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 2
-atk: 1000
-def: 600
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechCobra-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP002
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994928
----
-konami_id:
-name:
-  en: Mega Jointech Fortrex
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: メガジョインテック・フォートレックス
-  ja_romaji: Mega Jointekku Fōtorekkusu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Maximum Summon this card together with "Mega Jointech Fortrex [L]" and "Mega Jointech Fortrex [R]".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「メガジョインテック・フォートレックス［Ｌ］」「メガジョインテック・フォートレックス［Ｒ］」と揃えてマキシマム召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Maximum Mode
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    マキシマムモード
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    Increase this card's Level by 6. Also, if you have a Level 7 or higher Machine Type monster in your Graveyard, this card cannot be destroyed by card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードのレベルは６上がる。自分の墓地にモンスター（レベル７以上／機械族）がいる場合、さらにこのカードは効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Maximum / Effect
-attribute: EARTH
-level: 4
-atk: 1300
-def: 0
-series:
-- Jointech
-maximum_atk: 3000
-images:
-- index: 1
-  image: MegaJointechFortrex-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP004
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994930
----
-konami_id:
-name:
-  en: Mega Jointech Fortrex [L]
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: メガジョインテック・フォートレックス［<ruby>Ｌ<rt>エル</rt></ruby>］
-  ja_romaji: Mega Jointekku Fōtorekkusu [Eru]
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 EARTH Attribute Machine Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（地属性／機械族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card loses 600 ATK until the end of this turn. Then, toss a coin. If the result is heads, this card can attack 3 times this turn. If the result is tails, this turn, this card can make up to 2 attacks on monsters, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力はターン終了時まで６００ダウンする。その後、コイントスを１回行う。表だった場合、このターン、このカードは３回攻撃できる。裏だった場合、このターン、このカードはモンスターに２回攻撃でき、その攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Maximum / Effect
-attribute: EARTH
-level: 4
-atk: 1300
-def: 0
-series:
-- Jointech
-images:
-- index: 1
-  image: MegaJointechFortrexL-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP003
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994932
----
-konami_id:
-name:
-  en: Mega Jointech Fortrex [R]
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: メガジョインテック・フォートレックス［<ruby>Ｒ<rt>アール</rt></ruby>］
-  ja_romaji: Mega Jointekku Fōtorekkusu [Āru]
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Each player shuffles 3 monsters from their opponent's Graveyard into the owner's Deck. Then, if this card is in Maximum Mode, it gains ATK equal to [the total Levels of the EARTH Attribute Machine Type monsters shuffled by this effect] x 100 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    お互いはそれぞれ相手の墓地のモンスター３体を選び、持ち主のデッキに戻す。このカードがマキシマムモードの場合、さらにこのカードの攻撃力はターン終了時まで、［この効果で戻したモンスター（地属性／機械族）のレベルの合計］×１００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Maximum / Effect
-attribute: EARTH
-level: 4
-atk: 1300
-def: 0
-series:
-- Jointech
-images:
-- index: 1
-  image: MegaJointechFortrexR-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP005
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994934
----
-konami_id:
-name:
-  en: Dino Skeleton Pushcera
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>骸<rt>がい</rt></ruby>のプシュケラ
-  ja_romaji: Ryūgai no Pushukera
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have a Dinosaur Type Normal Monster in your Graveyard, send the top 2 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地に通常モンスター（恐竜族）がいる場合、デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up Dinosaur Type monster on your field gains ATK equal to [the number of Dinosaur Type Normal Monsters in your Graveyard] x 300 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（恐竜族）１体を選び、その攻撃力をターン終了時まで、［自分の墓地の通常モンスター（恐竜族）の数］×３００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dinosaur / Effect
-attribute: EARTH
-level: 4
-atk: 1100
-def: 800
-images:
-- index: 1
-  image: DinoSkeletonPushcera-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP039
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 997060
----
-konami_id:
-name:
-  en: Polygon Butterfly
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ポリゴンバタフライ
-  ja_romaji: Porigon Batafurai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 3 or more Insect Type monsters in your Graveyard, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地にモンスター（昆虫族）が３体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up Level 8 or lower Insect Type monster on your field gains 200 ATK and can make up to 2 attacks on monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（レベル８以下／昆虫族）１体を選ぶ。このターン、そのモンスターの攻撃力は２００アップし、モンスターに２回攻撃できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Insect / Effect
-attribute: LIGHT
-level: 2
-atk: 400
-def: 200
-images:
-- index: 1
-  image: PolygonButterfly-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP033
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 997292
