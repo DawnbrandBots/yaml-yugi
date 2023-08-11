@@ -165,15 +165,6 @@ def load_ko_overrides(ko_file: str) -> Dict[int, str]:
         }
 
 
-def load_ko_official(ko_csv: str) -> Dict[int, Dict[str, str]]:
-    with open(ko_csv, encoding="utf8") as f:
-        reader = csv.DictReader(f, ["konami_id", "name", "text", "pendulum"])
-        return {
-            int(row["konami_id"]): row
-            for row in reader
-        }
-
-
 def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_official: Dict[int, Dict[str, str]]) -> None:
     kid = document["konami_id"]
     if kid:
@@ -220,7 +211,7 @@ def job(
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
     ko_overrides = load_ko_overrides(ko_file) if ko_file else None
-    ko_official = load_ko_official(ko_official_csv) if ko_official_csv else None
+    ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
     results = []
