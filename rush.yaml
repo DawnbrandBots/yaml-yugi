@@ -110018,7 +110018,7 @@ effect:
   it:
   pt:
   ja: |-
-    自分の墓地の「フュージョン」または「パワー・ボンド」１枚を選んで手札に加える。その後、自分の墓地の「ジョインテック・スパイクセンチビード」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+    自分の墓地の「フュージョン」または「パワー・ボンド」１枚を選んで手札に加える。その後、自分の墓地の「ジョインテック・スパイクセンチピード」１体を選んで自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -110662,13 +110662,13 @@ requirement:
   it:
   pt:
   ja: |-
-    マキシマムモード：手札のモンスター（炎属性または炎族）１体を墓地へ発動できる。
+    マキシマムモード：手札のモンスター（炎属性または炎族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Inflict 1000 damage to your opponent. Also, this turn, this card cannot be destroyed by your opponent's Trap Card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+    Inflict 1000 damage to your opponent. Then, this turn, this card cannot be destroyed by your opponent's Trap Card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
   de:
   es:
   fr:
@@ -112017,6 +112017,7 @@ def: 1000
 images:
 - index: 1
   image: SteelSoldierGaleVinary-RDKP14-JP-SR.png
+  illustration: SteelSoldierGaleVinary-OW.png
 - index: 2
   image: SteelSoldierGaleVinary-RDKP14-JP-ScR-AA.png
 sets:
@@ -112082,6 +112083,7 @@ def: 1000
 images:
 - index: 1
   image: RisingLightAngelEsser-RDKP14-JP-SR.png
+  illustration: RisingLightAngelEsser-OW.png
 - index: 2
   image: RisingLightAngelEsser-RDKP14-JP-ScR-AA.png
 sets:
@@ -112537,14 +112539,14 @@ atk: 3000
 def: 2500
 materials:
   en: |-
-    "Jointech Spike Centipede" + "Jointech Arc Scorpio"
+    "Jointech Arc Scorpio" + "Jointech Spike Centipede"
   de:
   es:
   fr:
   it:
   pt:
   ja: |-
-    「ジョインテック・スパイクセンチピード」＋「ジョインテック・アークスコーピオ」
+    「ジョインテック・アークスコーピオ」＋「ジョインテック・スパイクセンチピード」
   ko:
   zh-TW:
   zh-CN:
@@ -112905,6 +112907,1033 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 987033
 ---
+konami_id: 19327
+name:
+  en: Dark Hole Device
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ブラック・ホール・デヴァイス
+  ja_romaji: Burakku Hōru Devaisu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    This card's name becomes "Dark Hole" while in the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    墓地にあるこのカードのカード名は「ブラック・ホール」になる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 3 DARK Attribute Galaxy Type monsters from your hand to the Graveyard, or have a face-up DARK Attribute Galaxy Type Fusion Monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（闇属性／ギャラクシー族）３体を墓地へ送るか、自分フィールドに表側表示のフュージョンモンスター（闇属性／ギャラクシー族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all monsters on the field. Then, you can add 1 Galaxy Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドのモンスターを全て破壊する。その後、自分の墓地のモンスター（ギャラクシー族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DarkHoleDevice-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP050
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1002095
+---
+konami_id: 19328
+name:
+  en: Aura Buster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: オーラ・バスター
+  ja_romaji: Ōra Basutā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Warrior Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（戦士族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster cannot be destroyed by your opponent's card effects. Also, if you have an Equip Spell Card in your Graveyard, the equipped monster inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターは相手の効果では破壊されない。自分の墓地に装備魔法カードがある場合、さらに装備モンスターの攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+images:
+- index: 1
+  image: AuraBuster-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP051
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1002011
+---
+konami_id: 19329
+name:
+  en: Monster Convocation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: モンスター<ruby>招<rt>しょう</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
+  ja_romaji: Monsutā Shōshū
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 non-Effect Monster with 2000 ATK or 2100 DEF from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、効果モンスター以外の自分の墓地のモンスター（攻撃力２０００または守備力２１００）１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Gaia
+images:
+- index: 1
+  image: MonsterConvocation-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP052
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993047
+---
+konami_id: 19330
+name:
+  en: Dark Battle Grounds
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby>の<ruby>格<rt>かく</rt></ruby><ruby>闘<rt>とう</rt></ruby><ruby>場<rt>じょう</rt></ruby>
+  ja_romaji: Ankoku no Kakutōjō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    While this card is face-up in the Field Zone, face-up monsters on the field with 2100 original DEF gain 500 ATK, and if "Gaia The Fierce Knight" or "Gaia the Dragon Champion" attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が２１００の表側表示モンスターの攻撃力は５００アップし、お互いの「暗黒騎士ガイア」「竜騎士ガイア」の攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Field
+series:
+- Gaia
+images:
+- index: 1
+  image: DarkBattleGrounds-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP053
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993050
+---
+konami_id: 19331
+name:
+  en: Gameboard Ablaze and Alight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>光<rt>こう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>盤<rt>ばん</rt></ruby><ruby>上<rt>じょう</rt></ruby>
+  ja_romaji: Kōenbanjō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Up to 3 face-up Effect Monsters on your opponent's field lose 400 ATK/DEF until the end of this turn. Then, if your LP are lower than your opponent's, you can Special Summon 1 Level 7 monster from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示の効果モンスターを３体まで選び、その攻撃力・守備力をターン終了時まで４００ダウンする。自分のＬＰが相手より少ない場合、さらに手札のモンスター（レベル７）１体を自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: GameboardAblazeandAlight-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP054
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001861
+---
+konami_id: 19332
+name:
+  en: Cat-trois Choice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: キャットロワ チョイス
+  ja_romaji: Kyattorowa Choisu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has a monster on their field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターがいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, if you have 3 or less monsters in your Graveyard, you can add 1 card from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスターが３体以下の場合、自分の墓地のカード１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: CattroisChoice-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP055
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 975588
+---
+konami_id: 19333
+name:
+  en: Psymprinting
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サインプリンティング
+  ja_romaji: Sainpurintingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 or higher WIND Attribute monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７以上／風属性）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have "Handy Lady" face-up on your field, you can Special Summon 1 monster from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: Psymprinting-RDKP14-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP056
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 994466
+---
+konami_id: 19334
+name:
+  en: Legend Strike
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: レジェンド・ストライク
+  ja_romaji: Rejendo Sutoraiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 300 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ３００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 4 monster with 1600 or less ATK or 1 Legend Normal Monster from your Graveyard face-up to your field. Then, if you Special Summoned "Legend Magician" or a Legend Normal Monster by this effect, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル４／攻撃力１６００以下）またはレジェンド通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で「レジェンド・マジシャン」またはレジェンド通常モンスターを特殊召喚した場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: LegendStrike-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP057
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991219
+---
+konami_id: 19335
+name:
+  en: Jointech Ignition
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・イグニッション
+  ja_romaji: Jointekku Igunisshon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack targeting your face-up EARTH Attribute Machine Type monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の表側表示モンスター（地属性／機械族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The attack target cannot be destroyed by that battle. Then, if you have a face-up Level 7 or higher EARTH Attribute Machine Type monster on your field, you can destroy the attacking monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃を受けるモンスターはその戦闘では破壊されない。自分フィールドに表側表示モンスター（レベル７以上／地属性／機械族）がいる場合、さらに攻撃してきたモンスターを破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechIgnition-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP058
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 991611
+---
+konami_id: 19336
+name:
+  en: Chemicalize Despise
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミカライズ・デスパイズ
+  ja_romaji: Kemikaraizu Desupaizu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack targeting your face-up Pyro Type monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の表側表示モンスター（炎族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Negate the attack. Then, if the attack target's Level is higher than the attacking monster's, you can destroy the attacking monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    その攻撃を無効にする。攻撃を受けるモンスターのレベルが攻撃してきたモンスターより高い場合、さらに攻撃してきたモンスターを破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemicalizeDespise-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP059
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993443
+---
+konami_id: 19337
+name:
+  en: Secret File 33 - Noble Death of Resentment
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>ＦＩＬＥ<rt>ファイル</rt></ruby>３３－<ruby>怨<rt>うら</rt></ruby>みの<ruby>散<rt>さん</rt></ruby><ruby>華<rt>げ</rt></ruby>
+  ja_romaji: Himitsu Fairu Sanjūsan - Urami no Sange
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack, shuffle 3 Level 3 or higher Reptile Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時、自分の墓地のモンスター（レベル３以上／爬虫類族）３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The attacking monster loses 3000 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃してきたモンスターの攻撃力はターン終了時まで３０００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretFile33NobleDeathofResentment-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP060
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993205
+---
+konami_id: 19338
+name:
+  en: Intercepting Gaia
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>迎<rt>げい</rt></ruby><ruby>撃<rt>げき</rt></ruby>するガイア
+  ja_romaji: Geigekisuru Gaia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster while you have a face-up Level 7 monster with 2100 DEF on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７／守備力２１００）がいる場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-up monster on your opponent's field to face-down Defense Position. Then, if you have "Gaia the Dragon Champion" face-up on your field, you can destroy 1 face-down card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。自分フィールドに表側表示の「竜騎士ガイア」がいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Gaia
+images:
+- index: 1
+  image: InterceptingGaia-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP061
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 993053
+---
+konami_id: 19339
+name:
+  en: Dragonic Escape
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・エスケープ
+  ja_romaji: Doragonikku Esukēpu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a monster on your field is destroyed by an opponent's attack or their card effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Gaia the Dragon Champion" or 1 Level 5 or lower Dragon Type monster from your Graveyard face-up to your field. This turn, the monster Special Summoned by this effect cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「竜騎士ガイア」またはモンスター（レベル５以下／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、この効果で特殊召喚したモンスターは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Gaia
+images:
+- index: 1
+  image: DragonicEscape-RDKP14-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP062
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001665
+---
+konami_id: 19340
+name:
+  en: Amusi Annoyance
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アミュージー・アノイアンス
+  ja_romaji: Amyūjī Anoiansu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a card is sent to your opponent's Graveyard during their Main Phase.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手メインフェイズに、カードが相手の墓地へ送られた時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict damage to your opponent equal to [the number of cards in their hand] x 300. Then, if you activated this card when a card was sent from the Deck to your opponent's Graveyard, send 1 random card from your opponent's hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ［相手の手札の数］×３００ダメージを相手に与える。デッキのカードが相手の墓地へ送られた時にこのカードを発動した場合、さらに相手の手札をランダムに１枚選んで墓地へ送る。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Psychic Musician
+images:
+- index: 1
+  image: AmusiAnnoyance-RDKP14-JP-SR.png
+  illustration: AmusiAnnoyance-OW.png
+- index: 2
+  image: AmusiAnnoyance-RDKP14-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP063
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 978931
+---
+konami_id: 19341
+name:
+  en: Excutie Riding!
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エクスキューティー・ライディング！
+  ja_romaji: Ekusukyūtī Raidingu!
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons an Effect Monster face-up.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手が効果モンスターを表側表示で召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 monster with ATK less than or equal to that monster from your Graveyard to your field in face-up Attack Position. Then, you can make up to 2 face-up monsters on your opponent's field lose 1800 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    そのモンスターの攻撃力以下の自分の墓地のモンスター１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを２体まで選んでその攻撃力をターン終了時まで１８００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Excutie
+images:
+- index: 1
+  image: ExcutieRiding-RDKP14-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP064
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 978511
+---
+konami_id: 19342
+name:
+  en: Negate Attack
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Negate the attack. This turn, your opponent cannot declare an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    その攻撃を無効にする。このターン、相手は攻撃宣言できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+legend: true
+images:
+- index: 1
+  image: NegateAttack-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP065
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 994285
+---
+konami_id: 19343
+name:
+  en: Automatic Accident Prevention
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>自<rt>じ</rt></ruby><ruby>己<rt>こ</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>避<rt>ひ</rt></ruby>
+  ja_romaji: Jikokaihi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent draws for their normal draw in their Draw Phase while you have 2 or more cards in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がドローフェイズに通常のドローをした時、自分の手札が２枚以上の場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 2 cards. Then, you can Special Summon up to 3 monsters from your hand to your field in face-down Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は２枚ドローする。その後、手札のモンスターを３体まで自分フィールドに裏側守備表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: AutomaticAccidentPrevention-RDKP14-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP066
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 992850
+---
 konami_id: 19358
 name:
   en: Fusionic Revivern
@@ -112969,66 +113998,6 @@ yugipedia_page_id: 991886
 ---
 konami_id:
 name:
-  en: Dragonic Escape
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴニック・エスケープ
-  ja_romaji: Doragonikku Esukēpu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a monster on your field is destroyed by an opponent's attack or their card effect.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Gaia the Dragon Champion" or 1 Level 5 or lower Dragon Type monster from your Graveyard face-up to your field. This turn, the monster Special Summoned by this effect cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「竜騎士ガイア」またはモンスター（レベル５以下／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、この効果で特殊召喚したモンスターは相手の効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Gaia
-images:
-- index: 1
-  image: DragonicEscape-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP062
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001665
----
-konami_id:
-name:
   en: The Trinity Dragiastar
   de:
   es:
@@ -113088,65 +114057,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1001669
----
-konami_id:
-name:
-  en: Gameboard Ablaze and Alight
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>光<rt>こう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>盤<rt>ばん</rt></ruby><ruby>上<rt>じょう</rt></ruby>
-  ja_romaji: Kōenbanjō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Up to 3 face-up Effect Monsters on your opponent's field lose 400 ATK/DEF until the end of this turn. Then, if your LP are lower than your opponent's, you can Special Summon 1 Level 7 monster from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示の効果モンスターを３体まで選び、その攻撃力・守備力をターン終了時まで４００ダウンする。自分のＬＰが相手より少ない場合、さらに手札のモンスター（レベル７）１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: GameboardAblazeandAlight-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP054
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1001861
 ---
 konami_id:
 name:
@@ -113250,436 +114160,6 @@ yugipedia_page_id: 1002005
 ---
 konami_id:
 name:
-  en: Aura Buster
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: オーラ・バスター
-  ja_romaji: Ōra Basutā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up Warrior Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（戦士族）１体に装備できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster cannot be destroyed by your opponent's card effects. Also, if you have an Equip Spell Card in your Graveyard, the equipped monster inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference), if it attacks a Defense Position monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    装備モンスターは相手の効果では破壊されない。自分の墓地に装備魔法カードがある場合、さらに装備モンスターの攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-images:
-- index: 1
-  image: AuraBuster-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP051
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1002011
----
-konami_id:
-name:
-  en: Dark Hole Device
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ブラック・ホール・デヴァイス
-  ja_romaji: Burakku Hōru Devaisu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    This card's name becomes "Dark Hole" while in the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    墓地にあるこのカードのカード名は「ブラック・ホール」になる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 3 DARK Attribute Galaxy Type monsters from your hand to the Graveyard, or have a face-up DARK Attribute Galaxy Type Fusion Monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（闇属性／ギャラクシー族）３体を墓地へ送るか、自分フィールドに表側表示のフュージョンモンスター（闇属性／ギャラクシー族）がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all monsters on the field. Then, you can add 1 Galaxy Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    お互いのフィールドのモンスターを全て破壊する。その後、自分の墓地のモンスター（ギャラクシー族）１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: DarkHoleDevice-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP050
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1002095
----
-konami_id:
-name:
-  en: Cat-trois Choice
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: キャットロワ チョイス
-  ja_romaji: Kyattorowa Choisu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Your opponent has a monster on their field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドにモンスターがいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, if you have 3 or less monsters in your Graveyard, you can add 1 card from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスターが３体以下の場合、自分の墓地のカード１枚を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: CattroisChoice-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP055
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 975588
----
-konami_id:
-name:
-  en: Excutie Riding!
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: エクスキューティー・ライディング！
-  ja_romaji: Ekusukyūtī Raidingu!
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons an Effect Monster face-up.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手が効果モンスターを表側表示で召喚・特殊召喚した時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 monster with ATK less than or equal to that monster from your Graveyard to your field in face-up Attack Position. Then, you can make up to 2 face-up monsters on your opponent's field lose 1800 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    そのモンスターの攻撃力以下の自分の墓地のモンスター１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを２体まで選んでその攻撃力をターン終了時まで１８００ダウンできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Excutie
-images:
-- index: 1
-  image: ExcutieRiding-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP064
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 978511
----
-konami_id:
-name:
-  en: Amusi Annoyance
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アミュージー・アノイアンス
-  ja_romaji: Amyūjī Anoiansu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a card is sent to your opponent's Graveyard during their Main Phase.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手メインフェイズに、カードが相手の墓地へ送られた時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Inflict damage to your opponent equal to [the number of cards in their hand] x 300. Then, if you activated this card when a card was sent from the Deck to your opponent's Graveyard, send 1 random card from your opponent's hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ［相手の手札の数］×３００ダメージを相手に与える。デッキのカードが相手の墓地へ送られた時にこのカードを発動した場合、さらに相手の手札をランダムに１枚選んで墓地へ送る。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Psychic Musician
-images:
-- index: 1
-  image: AmusiAnnoyance-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP063
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 978931
----
-konami_id:
-name:
-  en: Legend Strike
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: レジェンド・ストライク
-  ja_romaji: Rejendo Sutoraiku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 300 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ３００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 4 monster with 1600 or less ATK or 1 Legend Normal Monster from your Graveyard face-up to your field. Then, if you Special Summoned "Legend Magician" or a Legend Normal Monster by this effect, you can destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル４／攻撃力１６００以下）またはレジェンド通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で「レジェンド・マジシャン」またはレジェンド通常モンスターを特殊召喚した場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: LegendStrike-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP057
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991219
----
-konami_id:
-name:
-  en: Jointech Ignition
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・イグニッション
-  ja_romaji: Jointekku Igunisshon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack targeting your face-up EARTH Attribute Machine Type monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の表側表示モンスター（地属性／機械族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The attack target cannot be destroyed by that battle. Then, if you have a face-up Level 7 or higher EARTH Attribute Machine Type monster on your field, you can destroy the attacking monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    攻撃を受けるモンスターはその戦闘では破壊されない。自分フィールドに表側表示モンスター（レベル７以上／地属性／機械族）がいる場合、さらに攻撃してきたモンスターを破壊する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechIgnition-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP058
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 991611
----
-konami_id:
-name:
   en: Time Wizard
   de:
   es:
@@ -113734,477 +114214,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 992240
----
-konami_id:
-name:
-  en: Automatic Accident Prevention
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>自<rt>じ</rt></ruby><ruby>己<rt>こ</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>避<rt>ひ</rt></ruby>
-  ja_romaji: Jikokaihi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent draws for their normal draw in their Draw Phase while you have 2 or more cards in your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手がドローフェイズに通常のドローをした時、自分の手札が２枚以上の場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 2 cards. Then, you can Special Summon up to 3 monsters from your hand to your field in face-down Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は２枚ドローする。その後、手札のモンスターを３体まで自分フィールドに裏側守備表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: AutomaticAccidentPrevention-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP066
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 992850
----
-konami_id:
-name:
-  en: Monster Convocation
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: モンスター<ruby>招<rt>しょう</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
-  ja_romaji: Monsutā Shōshū
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can Special Summon 1 non-Effect Monster with 2000 ATK or 2100 DEF from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。その後、効果モンスター以外の自分の墓地そのモンスター（攻撃力２０００または守備力２１００）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Gaia
-images:
-- index: 1
-  image: MonsterConvocation-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP052
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993047
----
-konami_id:
-name:
-  en: Dark Battle Grounds
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>暗<rt>あん</rt></ruby><ruby>黒<rt>こく</rt></ruby>の<ruby>格<rt>かく</rt></ruby><ruby>闘<rt>とう</rt></ruby><ruby>場<rt>じょう</rt></ruby>
-  ja_romaji: Ankoku no Kakutōjō
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    While this card is face-up in the Field Zone, face-up monsters on the field with 2100 original DEF gain 500 ATK, and if "Gaia The Fierce Knight" or "Gaia the Dragon Champion" attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が２１００の表側表示モンスターの攻撃力は５００アップし、お互いの「暗黒騎士ガイア」「竜騎士ガイア」の攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Field
-series:
-- Gaia
-images:
-- index: 1
-  image: DarkBattleGrounds-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP053
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993050
----
-konami_id:
-name:
-  en: Intercepting Gaia
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>迎<rt>げい</rt></ruby><ruby>撃<rt>げき</rt></ruby>するガイア
-  ja_romaji: Geigekisuru Gaia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster while you have a face-up Level 7 monster with 2100 DEF on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（レベル７／守備力２１００）がいる場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change 1 face-up monster on your opponent's field to face-down Defense Position. Then, if you have "Gaia the Dragon Champion" face-up on your field, you can destroy 1 face-down card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。自分フィールドに表側表示の「竜騎士ガイア」がいる場合、さらに相手フィールドの裏側表示のカード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Gaia
-images:
-- index: 1
-  image: InterceptingGaia-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP061
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993053
----
-konami_id:
-name:
-  en: Secret File 33 - Noble Death of Resentment
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>ＦＩＬＥ<rt>ファイル</rt></ruby>３３－<ruby>怨<rt>うら</rt></ruby>みの<ruby>散<rt>さん</rt></ruby><ruby>華<rt>げ</rt></ruby>
-  ja_romaji: Himitsu Fairu Sanjūsan - Urami no Sange
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack, shuffle 3 Level 3 or higher Reptile Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手モンスターの攻撃宣言時、自分の墓地のモンスター（レベル３以上／爬虫類族）３体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The attacking monster loses 3000 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    攻撃してきたモンスターの攻撃力はターン終了時まで３０００ダウンする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretFile33NobleDeathofResentment-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP060
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993205
----
-konami_id:
-name:
-  en: Chemicalize Despise
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ケミカライズ・デスパイズ
-  ja_romaji: Kemikaraizu Desupaizu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack targeting your face-up Pyro Type monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の表側表示モンスター（炎族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Negate the attack. Then, if the attack target's Level is higher than the attacking monster's, you can destroy the attacking monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    その攻撃を無効にする。攻撃を受けるモンスターのレベルが攻撃してきたモンスターより高い場合、さらに攻撃してきたモンスターを破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Chemistry
-images:
-- index: 1
-  image: ChemicalizeDespise-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP059
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 993443
----
-konami_id:
-name:
-  en: Negate Attack
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手モンスターの攻撃宣言時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Negate the attack. This turn, your opponent cannot declare an attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    その攻撃を無効にする。このターン、相手は攻撃宣言できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-legend: true
-images:
-- index: 1
-  image: NegateAttack-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP065
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 994285
----
-konami_id:
-name:
-  en: Psymprinting
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サインプリンティング
-  ja_romaji: Sainpurintingu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have a face-up Level 7 or higher WIND Attribute monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（レベル７以上／風属性）がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you have "Handy Lady" face-up on your field, you can Special Summon 1 monster from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: Psymprinting-RDKP14-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP14-JP056
-    set_name: Phoenix of the Roaring Flame
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 994466
