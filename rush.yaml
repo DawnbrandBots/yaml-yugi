@@ -43704,7 +43704,7 @@ effect_types:
 effect:
   en: |-
     ● Shuffle up to 3 monsters from your opponent's Graveyard into the Deck.
-    ● Shuffle up to 2 face-up Spellcaster Type monsters from your opponent's field into the Deck.
+    ● Shuffle up to 2 face-up Spellcaster Type monsters from your opponent's field into the owner's Deck.
   de:
   es:
   fr:
@@ -45570,7 +45570,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw cards equal to [the number of cards sent to the Graveyard to meet the requirement], then you can gain 900 LP.
+    Draw cards equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can gain 900 LP.
   de:
   es:
   fr:
@@ -45984,7 +45984,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw 2 cards, then place 1 card from your hand on the bottom of the Deck.
+    Draw 2 cards. Then, place 1 card from your hand on the bottom of the Deck.
   de:
   es:
   fr:
@@ -67313,6 +67313,7 @@ def: 0
 images:
 - index: 1
   image: Tamabot-RDSD02-JP-C.png
+  illustration: Tamabot-G002-JP-VG-artwork.png
 - index: 2
   image: Tamabot-RDB231-JP-C.png
 sets:
