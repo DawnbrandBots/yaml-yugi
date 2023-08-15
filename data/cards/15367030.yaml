@@ -42,6 +42,10 @@ images:
   image: Gokibore-MDP2-EN-R-LE.jpg
 sets:
   en:
+  - set_number: SBC1-END11
+    set_name: 'Speed Duel: Streets of Battle City'
+    rarities:
+    - Common
   - set_number: MDP2-EN009
     set_name: McDonald's Promotional Cards 2
     rarities:
@@ -50,11 +54,30 @@ sets:
     set_name: McDonald's Promotional Cards 2
     rarities:
     - Rare
+  de:
+  - set_number: SBC1-DED11
+    set_name: 'Speed Duel: Streets of Battle City'
+    rarities:
+    - Common
   fr:
   - set_number: MDP2-FR009
     set_name: McDonald's Promotional Cards 2
     rarities:
     - Rare
+  - set_number: SBC1-FRD11
+    set_name: 'Speed Duel: Streets of Battle City'
+    rarities:
+    - Common
+  it:
+  - set_number: SBC1-ITD11
+    set_name: 'Speed Duel: Streets of Battle City'
+    rarities:
+    - Common
+  pt:
+  - set_number: SBC1-PTD11
+    set_name: 'Speed Duel: Streets of Battle City'
+    rarities:
+    - Common
   ja:
   - set_number: ''
     set_name: Vol.6
@@ -67,4 +90,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
+  speed: Not yet released
 yugipedia_page_id: 16908
