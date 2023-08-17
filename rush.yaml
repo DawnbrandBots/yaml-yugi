@@ -5992,6 +5992,8 @@ attribute: DARK
 level: 7
 atk: 2400
 def: 2000
+series:
+- Red-Eyes
 legend: true
 images:
 - index: 1
@@ -6085,6 +6087,8 @@ attribute: DARK
 level: 1
 atk: 800
 def: 500
+series:
+- Red-Eyes
 images:
 - index: 1
   image: BlackDragonsChick-RDGRP1-JP-C.png
@@ -6162,7 +6166,7 @@ effect:
 card_type: Spell
 property: Normal
 series:
-- Signature move
+- Red-Eyes
 images:
 - index: 1
   image: InfernoFireBlast-RDGRP1-JP-C.png
@@ -54645,6 +54649,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Red-Eyes
 images:
 - index: 1
   image: BlackDragonsRoar-RDGRP1-JP-C.png
@@ -96670,6 +96676,8 @@ materials:
   ko:
   zh-TW:
   zh-CN:
+series:
+- Red-Eyes
 images:
 - index: 1
   image: MeteorBlackDragon-RDLGP1-JP-ORR.png
@@ -98435,6 +98443,8 @@ attribute: EARTH
 level: 6
 atk: 1800
 def: 2000
+series:
+- Red-Eyes
 images:
 - index: 1
   image: MeteorDragon-RDLGP1-JP-C.png
@@ -114060,7 +114070,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドにモンスターが２体以上いる場合、手札１枚を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -114068,14 +114079,15 @@ effect_types:
 - Multi-Choice
 effect:
   en: |-
-    ● This card can attack 3 times this turn.
-    ● Shuffle up to 3 Normal Monsters from your Graveyard into the Deck. Then, you can destroy Spell/Trap Cards on your opponent's field up to [the number of "The Dragias" shuffled into the Deck by this effect].
+    ● This card can attack thrice during this turn.
+    ● Shuffle up to 3 Normal Monsters from your Graveyard into the Deck. Then, you can destroy Spell/Trap Cards on your opponent's field, up to [the number of "The Dragias" shuffled into the Deck by this effect].
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ●このターン、このカードは３回攻撃できる。●自分の墓地の通常モンスターを３体まで選んでデッキに戻す。その後、相手フィールドの魔法・罠カードを［この効果で戻した「ザ☆ドラギアス」の数］まで選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -114667,6 +114679,120 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1004535
+---
+konami_id:
+name:
+  en: Celeb Rose Wiz
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ウィズ
+  ja_romaji: Serebu Rōzu Wizu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    (TBA)
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    (TBA)
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / ???
+attribute: LIGHT
+level: 1
+atk: 1000
+def: 0
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseWiz-OW.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP0??
+    set_name: Red Reboot of Darkness
+    rarities:
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1004608
+---
+konami_id:
+name:
+  en: Fish Depth Charge
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    (TBA)
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    (TBA)
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: FishDepthCharge-OW.png
+sets:
+  ja:
+  - set_number: RD/KP14-JP0??
+    set_name: Red Reboot of Darkness
+    rarities:
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1004612
 ---
 konami_id:
 name:
