@@ -124,6 +124,10 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 1
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/ECG1-JP011
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/ST01-KR001
     set_name: Starter Deck Yuga - Cut Through! Sevens Road!!
@@ -1142,6 +1146,10 @@ sets:
     - Over Rush Rare
   - set_number: RD/CCC1-JP002
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 1
+    rarities:
+    - Normal Parallel Rare
+  - set_number: RD/ECG1-JP012
+    set_name: Rush Duel Card Game Gum
     rarities:
     - Normal Parallel Rare
   ko:
@@ -28336,6 +28344,10 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  - set_number: RD/ECG1-JP013
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/KP05-KR002
     set_name: 'Deck Mod Pack: Dynamic Eternal Live!!'
@@ -49009,6 +49021,10 @@ sets:
     set_name: Secret Ace Pack 2022 Vol.4
     rarities:
     - Secret Rare
+  - set_number: RD/ECG1-JP014
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/KP07-KR017
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
@@ -115386,7 +115402,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札がこのカード１枚のみの場合、このカードはリリースなしで召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115398,7 +115415,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -115410,7 +115428,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -115515,7 +115534,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示の「ハーピィ三姉妹」１体を持ち主の手札に戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115527,7 +115547,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中に「ハーピィ・レディ」または「ハーピィ三姉妹」がいた場合、さらに自分の墓地の「ハーピィの羽根嵐」１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
