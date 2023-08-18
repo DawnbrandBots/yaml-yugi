@@ -2122,9 +2122,9 @@ effect:
     Evoca Specialmente 1 mostro di Tipo Incantatore di Livello 7 o superiore con Attributo OSCURITÀ dalla tua mano, scoperto sul tuo Terreno. Se hai Evocato Specialmente "Mago di Strada Sevens" con questo effetto, questa carta guadagna 400 ATK fino alla fine di questo turno.
   pt:
   ja: |-
-    手札のモンスター（レベル７以上／闇属性／魔法使い族）１体を自分フィールドに表側表示で特殊召喚する。この効果で「セブンスロード・マジシャン」を特殊召喚した場合、このカードの攻撃力はターン終了時まで４００アップする。
+    手札のモンスター（レベル７以上／闇属性／魔法使い族）１体を自分フィールドに表側表示で特殊召喚する。この効果で「セブンスロード・マジシャン」を特殊召喚した場合、さらにこのカードの攻撃力はターン終了時まで４００アップする。
   ko: |-
-    패의 몬스터(레벨 7 이상 / 어둠 속성 / 마법사족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 "세븐즈로드 매지션"을 특수 소환했을 경우, 이 카드의 공격력은 턴 종료시까지 400 올린다.
+    패의 몬스터(레벨 7 이상 / 어둠 속성 / 마법사족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 "세븐즈로드 매지션"을 특수 소환했을 경우, 추가로 이 카드의 공격력은 턴 종료시까지 400 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -2205,6 +2205,10 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  - set_number: RD/KP13-KR000
+    set_name: Oblivion of the Flash
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 711053
 ---
 konami_id: 15184
@@ -80553,7 +80557,7 @@ name:
   pt:
   ja: コスモ・プレデクター
   ja_romaji: Kosumo Puredekutā
-  ko:
+  ko: 코스모 프레덱터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -80567,7 +80571,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 필드에 이 카드 이외의 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -80580,7 +80585,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選んで手札に加える。このターン、「グレイストーム・レヴェリー」を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 8 / 갤럭시족) 1장을 고르고 패에 넣는다. 이 턴에, "그레이스톰 레버리"를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -80598,6 +80604,11 @@ sets:
     set_name: "Yu-Gi-Oh! RUSH DUEL: Saikyo Battle Royale!! Let's Go! Go Rush!! Galactica Victories promotional card"
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP13-KRS01
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -102186,7 +102197,7 @@ name:
   pt:
   ja: アース・ソーサラー
   ja_romaji: Āsu Sōsarā
-  ko:
+  ko: 어스 소서러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102200,7 +102211,8 @@ text:
   pt:
   ja: |-
     一族の誇りを胸に抱く魔術師。その日彼は逃げるように故郷を後にした。
-  ko:
+  ko: |-
+    일족의 긍지를 가슴에 품은 마술사. 그날 그는 도망치듯이 고향을 뒤로했다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102215,6 +102227,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP001
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR001
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -102235,7 +102252,7 @@ name:
   pt:
   ja: エアロ・ソーサラー
   ja_romaji: Earo Sōsarā
-  ko:
+  ko: 에어로 소서러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102249,7 +102266,8 @@ text:
   pt:
   ja: |-
     風の吹くまま自由を謳歌する魔術師。身勝手な行動はやがて彼の未来を縛る事となる。
-  ko:
+  ko: |-
+    바람 부는 대로 자유를 구가하는 마술사. 제멋대로인 행동이 이윽고 그의 미래를 옥죄어 온다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102264,6 +102282,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP002
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR002
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -102284,7 +102307,7 @@ name:
   pt:
   ja: ギャラクティカ・デジャヴュ
   ja_romaji: Gyarakutika Dejavu
-  ko:
+  ko: 갤럭티카 데자뷰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102298,7 +102321,8 @@ requirement:
   pt:
   ja: |-
     相手のＬＰが４０００以上の場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대의 LP가 4000 이상일 경우, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102311,7 +102335,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。この効果で通常モンスター（レベル４以下／光属性／ギャラクシー族）が墓地へ送られた場合、さらにそのモンスターを自分フィールドに表側表示で特殊召喚できる。その後、［この効果で特殊召喚したモンスターの元々の攻撃力］だけ相手にダメージを与える。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 효과로 일반 몬스터(레벨 4 이하 / 빛 속성 / 갤럭시족)가 묘지로 보내졌을 경우, 추가로 그 몬스터를 자신 필드에 앞면 표시로 특수 소환할 수 있다. 그 후, [이 효과로 특수 소환한 몬스터의 원래 공격력]만큼 상대에게 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102328,6 +102353,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP003
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR003
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102348,7 +102378,7 @@ name:
   pt:
   ja: ブースター・ワイバーン
   ja_romaji: Būsutā Waibān
-  ko:
+  ko: 부스터 와이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102362,7 +102392,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、自分フィールドに表側表示の「碧牙の爆速竜」または「真紅動の撃速竜」がいる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 자신 필드에 앞면 표시의 "블루 투스 버스트드래곤" 또는 "레드부트 부스트드래곤"이 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102375,7 +102406,8 @@ effect:
   pt:
   ja: |-
     相手に６００ダメージを与える。
-  ko:
+  ko: |-
+    상대에게 600 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102392,6 +102424,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP004
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR004
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102412,7 +102449,7 @@ name:
   pt:
   ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｂ<rt>ビー</rt></ruby><ruby>Ｆ<rt>エフ</rt></ruby>リビルドラ
   ja_romaji: Dī Bī Efu Ribirudora
-  ko:
+  ko: DBF 리빌드라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102426,7 +102463,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、手札の「碧牙の爆速竜」または「真紅動の撃速竜」１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 패의 "블루 투스 버스트드래곤" 또는 "레드부트 부스트드래곤" 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102439,7 +102477,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。
-  ko:
+  ko: |-
+    자신 묘지의 "드래곤즈 버스트 퓨전" 또는 "드래곤즈 부스트 퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102456,6 +102495,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP005
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR005
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102476,7 +102520,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・キリエ
   ja_romaji: Voidoverugu Kirie
-  ko:
+  ko: 보이드베르그 키리에
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102490,7 +102534,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル７以下／ギャラクシー族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 7 이하 / 갤럭시족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102503,7 +102548,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「ヴォイドヴェルグ・レクイエム」または「ヴォイドヴェルグ・クリュサオル」１体を選んで手札に加える。その後、自分フィールドの表側表示のカード１枚を選ぶ事ができる。選んだ場合、このターン、そのカードは効果では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지의 "보이드베르그 레퀴엠" 또는 "보이드베르그 크리사오르" 1장을 고르고 패에 넣는다. 그 후, 자신 필드의 앞면 표시의 카드 1장을 고를 수 있다. 고른 경우, 이 턴에, 그 카드는 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102520,6 +102566,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP006
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR006
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102540,7 +102591,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・ロジスティコス
   ja_romaji: Voidoverugu Rojisutikosu
-  ko:
+  ko: 보이드베르그 로지스티코스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102554,7 +102605,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル７以上／ギャラクシー族）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 7 이상 / 갤럭시족) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102567,7 +102619,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットする。相手フィールドに表側表示モンスター（レベル７以上）がいる場合、さらに自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트한다. 상대 필드에 앞면 표시 몬스터(레벨 7 이상)가 있을 경우, 추가로 자신 묘지의 몬스터(레벨 8 / 갤럭시족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102584,6 +102637,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP007
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR007
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -102604,7 +102662,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・クリュサオル
   ja_romaji: Voidoverugu Kuryusaoru
-  ko:
+  ko: 보이드베르그 크리사오르
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102618,7 +102676,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターが２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102631,7 +102690,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（闇属性／ギャラクシー族）がいた場合、このターン、このカードはその数まで攻撃できる。さらに同じレベルを持つモンスター（闇属性／ギャラクシー族）３体だった場合、相手フィールドの表側表示モンスター（レベル８以下）を全て破壊できる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 중에 몬스터(어둠 속성 / 갤럭시족)가 있었을 경우, 이 턴에, 이 카드는 그 수까지 공격할 수 있다. 추가로 같은 레벨을 가지는 몬스터(어둠 속성 / 갤럭시족) 3장이었을 경우, 상대 필드의 앞면 표시 몬스터(레벨 8 이하)를 전부 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102648,6 +102708,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP008
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR008
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102668,7 +102733,7 @@ name:
   pt:
   ja: セレブローズ・メイジ
   ja_romaji: Serebu Rōzu Meiji
-  ko:
+  ko: 셀레브로즈 메이지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102682,7 +102747,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地に「セレブローズ・マジシャン」または装備魔法カードがある場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지에 "셀레브로즈 매지션" 또는 장착 마법 카드가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102695,7 +102761,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「カリス魔杖デス・ワンド」または「フュージョン」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "카리스 마장 데스 원드" 또는 "퓨전" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102715,6 +102782,13 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR009
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -102732,7 +102806,7 @@ name:
   pt:
   ja: セレブローズ・ソーサラー
   ja_romaji: Serebu Rōzu Sōsarā
-  ko:
+  ko: 셀레브로즈 소서러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102746,7 +102820,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／魔法使い族）３体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 마법사족) 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102759,7 +102834,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（光属性／魔法使い族／攻撃力２５００以下）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地の「カリス魔杖デス・ワンド」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(빛 속성 / 마법사족 / 공격력 2500 이하) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 묘지의 "카리스 마장 데스 원드" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102779,6 +102855,13 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR010
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -102796,7 +102879,7 @@ name:
   pt:
   ja: セレブローズ・ウィッチ
   ja_romaji: Serebu Rōzu Wicchi
-  ko:
+  ko: 셀레브로즈 위치
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102810,7 +102893,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に「セレブローズ・マジシャン」がいる場合、手札のモンスター（光属性／魔法使い族）１体または魔法カード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 "셀레브로즈 매지션"이 있을 경우, 패의 몬스터(빛 속성 / 마법사족) 1장 또는 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102823,7 +102907,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「セレブローズ・マジシャン」またはフュージョンモンスター（レベル９以下／魔法使い族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 "셀레브로즈 매지션" 또는 퓨전 몬스터(레벨 9 이하 / 마법사족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102840,6 +102925,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP011
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR011
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -102861,7 +102952,7 @@ name:
   pt:
   ja: セレブローズ・マジシャン
   ja_romaji: Serebu Rōzu Majishan
-  ko:
+  ko: 셀레브로즈 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102875,7 +102966,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示の装備魔法カード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시의 장착 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -102888,7 +102980,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地に魔法カードが３枚以上ある場合、このカードの攻撃力はターン終了時まで７００アップする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 자신 묘지에 마법 카드가 3장 이상 있을 경우, 이 카드의 공격력은 턴 종료시까지 700 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102913,6 +103006,12 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Duel-5 Blu-ray & DVD promotional card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP13-KR012
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -102930,7 +103029,7 @@ name:
   pt:
   ja: <ruby>魔<rt>まあ</rt></ruby><ruby>装<rt>そう</rt></ruby><ruby>獣<rt>じゅう</rt></ruby>ギアパルド
   ja_romaji: Masōjū Giaparudo
-  ko:
+  ko: 마장수 기어펄드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -102944,7 +103043,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -102959,7 +103059,8 @@ effect:
   pt:
   ja: |-
     自分の魔法＆罠ゾーンにカードがある場合、このカードの攻撃力は２００アップし、さらに攻撃表示のこのカードは、相手ターンの間、戦闘では破壊されない。
-  ko:
+  ko: |-
+    자신의 마법 & 함정 존에 카드가 있을 경우, 이 카드의 공격력은 200 올리고, 추가로 공격 표시의 이 카드는, 상대 턴 동안, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -102974,6 +103075,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP013
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR013
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -102994,7 +103100,7 @@ name:
   pt:
   ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ツーゼ
   ja_romaji: Kenteikashin Tsūze
-  ko:
+  ko: 현 제왕가신 추제
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103008,7 +103114,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスター（守備力１０００）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터(수비력 1000) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103021,7 +103128,8 @@ effect:
   pt:
   ja: |-
     相手は自身の墓地の魔法カード１枚を選んで自身のフィールドにセットする。その後、自分は自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    상대는 자신 묘지의 마법 카드 1장을 고르고 자신 필드에 세트한다. 그 후, 자신은 자신 묘지의 몬스터(레벨 5 이상 / 수비력 1000) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103036,6 +103144,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP014
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR014
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103056,7 +103169,7 @@ name:
   pt:
   ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>家<rt>か</rt></ruby><ruby>臣<rt>しん</rt></ruby>ヘーベ
   ja_romaji: Seiteikashin Hēbe
-  ko:
+  ko: 성 제왕가신 헤베
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103070,7 +103183,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスター（守備力１０００）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터(수비력 1000) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103083,7 +103197,8 @@ effect:
   pt:
   ja: |-
     相手は自身の墓地の効果モンスター（レベル６以下）１体を選び、自身のフィールドに表側守備表示で特殊召喚する。その後、自分は自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    상대는 자신 묘지의 효과 몬스터(레벨 6 이하) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 그 후, 자신은 자신 묘지의 몬스터(레벨 5 이상 / 수비력 1000) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103098,6 +103213,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP015
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR015
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103118,7 +103238,7 @@ name:
   pt:
   ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
   ja_romaji: Kentei Viruheru
-  ko:
+  ko: 현 제왕 빌헬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103132,7 +103252,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103145,7 +103266,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの裏側表示の魔法・罠カード１枚を選んで確認する。そのカードが魔法カードだった場合、さらにそのカードを破壊できる。
-  ko:
+  ko: |-
+    상대 필드의 뒷면 표시의 마법 / 함정 카드 1장을 고르고 확인한다. 그 카드가 마법 카드였을 경우, 추가로 그 카드를 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103162,6 +103284,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP016
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR016
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -103182,7 +103309,7 @@ name:
   pt:
   ja: <ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
   ja_romaji: Seitei Esutorōmu
-  ko:
+  ko: 성 제왕 에스트롬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103196,7 +103323,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103209,7 +103337,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示の効果モンスター（レベル６以下）１体を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 효과 몬스터(레벨 6 이하) 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103226,6 +103355,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP017
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR017
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -103246,7 +103380,7 @@ name:
   pt:
   ja: <ruby>才<rt>さい</rt></ruby><ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby>ヴィルヘル
   ja_romaji: Saikentei Viruheru
-  ko:
+  ko: 재현 제왕 빌헬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103260,7 +103394,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시 몬스터(레벨 5 이상 / 수비력 1000) 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -103273,7 +103408,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103286,7 +103422,8 @@ effect:
   pt:
   ja: |-
     相手は自身のフィールドのカード１枚を選ぶ。自分はそのカードを破壊する。
-  ko:
+  ko: |-
+    상대는 자신 필드의 카드 1장을 고른다. 자신은 그 카드를 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103303,6 +103440,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP018
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR018
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -103325,7 +103469,7 @@ name:
   pt:
   ja: <ruby>煌<rt>こう</rt></ruby><ruby>星<rt>せい</rt></ruby><ruby>帝<rt>てい</rt></ruby>エストローム
   ja_romaji: Kōseitei Esutorōmu
-  ko:
+  ko: 황성 제왕 에스트롬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103339,7 +103483,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시 몬스터(레벨 5 이상 / 수비력 1000) 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -103352,7 +103497,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103365,7 +103511,8 @@ effect:
   pt:
   ja: |-
     相手は自身のフィールドのカード１枚を選ぶ。自分はそのカード以外の自分または相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대는 자신 필드의 카드 1장을 고른다. 자신은 그 카드 이외의 자신 또는 상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103382,6 +103529,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP019
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR019
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -103404,7 +103558,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 번개 제왕 자보르그
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103418,7 +103572,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103431,7 +103586,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドのモンスター１体を選んで破壊する。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 몬스터 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103453,6 +103609,12 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR020
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
@@ -103468,7 +103630,7 @@ name:
   pt:
   ja: サイバー・プロセッサー
   ja_romaji: Saibā Purosessā
-  ko:
+  ko: 사이버 프로세서
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103482,7 +103644,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（機械族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(기계족)가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -103495,7 +103658,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドのカード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103508,7 +103672,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「サイバー・ドラゴン」になる。その後、自分の墓地の「サイバー・ドラゴン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "사이버 드래곤"이 된다. 그 후, 자신 묘지의 "사이버 드래곤" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103523,6 +103688,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP021
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR021
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103543,7 +103713,7 @@ name:
   pt:
   ja: スター・リプレイサー
   ja_romaji: Sutā Ripureisā
-  ko:
+  ko: 스타 리플레이서
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103557,7 +103727,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合、自分フィールドのこのカードを持ち主の手札に戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 자신 필드의 이 카드를 주인의 패로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103570,7 +103741,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４以下）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は自分の手札・墓地からモンスターを特殊召喚できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 이하) 1장을 고르고, 자신 필드에 뒷면 수비 표시로 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 자신의 패 / 묘지에서 몬스터를 특수 소환할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103587,6 +103759,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP022
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR022
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -103608,7 +103786,7 @@ name:
   pt:
   ja: <ruby>樹<rt>じゅ</rt></ruby><ruby>海<rt>かい</rt></ruby>の<ruby>首領<rt>ドン</rt></ruby>グーリ
   ja_romaji: Jukai no Don Gūri
-  ko:
+  ko: 수해의 동구리
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103622,7 +103800,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの魔法・罠カード３枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 마법 / 함정 카드 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103635,7 +103814,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103650,6 +103830,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP023
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR023
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103670,7 +103855,7 @@ name:
   pt:
   ja: ブレイド・リーダー
   ja_romaji: Bureido Rīdā
-  ko:
+  ko: 블레이드 리더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103684,7 +103869,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（光属性／魔法使い族）１体または魔法カード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(빛 속성 / 마법사족) 1장 또는 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103697,7 +103883,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（光属性／魔法使い族）がいた場合、さらに自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 중에 몬스터(빛 속성 / 마법사족)가 있었을 경우, 추가로 자신 묘지의 장착 마법 카드 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103712,6 +103899,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP024
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR024
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103732,7 +103924,7 @@ name:
   pt:
   ja: スカイポーター・マックス
   ja_romaji: Sukaipōtā Makkusu
-  ko:
+  ko: 스카이포터 맥스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103746,7 +103938,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター１０体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 10장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103759,7 +103952,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスターを２～３体選び、好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터를 2~3장 고르고, 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103774,6 +103968,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP025
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR025
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103794,7 +103993,7 @@ name:
   pt:
   ja: <ruby>烏賊合の衆<rt>デビルフーリッシュ</rt></ruby>
   ja_romaji: Debirufūrisshu
-  ko:
+  ko: 데블풀리시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103808,7 +104007,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札のモンスター（守備力０）を２体まで相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 몬스터(수비력 0)를 2장까지 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103821,7 +104021,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（守備力０）を［この効果の条件で見せたモンスターの数］だけ選び、自分フィールドに裏側守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスター（レベル９以下）を召喚できず、手札のモンスターをセットできない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(수비력 0)를 [이 효과의 조건으로 보여준 몬스터의 수]만큼 고르고, 자신 필드에 뒷면 수비 표시로 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터(레벨 9 이하)를 일반 소환할 수 없으며, 패의 몬스터를 세트할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103836,6 +104037,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP026
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR026
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103856,7 +104062,7 @@ name:
   pt:
   ja: スプレイム
   ja_romaji: Supureimu
-  ko:
+  ko: 스플레임
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103870,7 +104076,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（炎族）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(화염족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103883,7 +104090,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル８以下）１体を選ぶ。このカードのカード名はこのターン、選んだモンスターと同じカード名になる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 8 이하) 1장을 고른다. 이 카드의 카드명은 이 턴에, 고른 몬스터와 같은 카드명이 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103898,6 +104106,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP027
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR027
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -103918,7 +104131,7 @@ name:
   pt:
   ja: <ruby>雅<rt>みやび</rt></ruby>な<ruby>金<rt>きん</rt></ruby><ruby>鳥<rt>ちょう</rt></ruby>
   ja_romaji: Miyabi na Kinchō
-  ko:
+  ko: 우아한 금조
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103932,7 +104145,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、手札のモンスター（光属性／魔法使い族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신의 덱의 카드가 10장 이상일 경우, 패의 몬스터(빛 속성 / 마법사족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -103945,7 +104159,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -103960,6 +104175,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP028
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR028
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -103980,7 +104200,7 @@ name:
   pt:
   ja: <ruby>石膏の斥候<rt>プラスター・スカウト</rt></ruby>
   ja_romaji: Purasutā Sukauto
-  ko:
+  ko: 플라스터 스카우트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -103994,7 +104214,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -104009,7 +104230,8 @@ effect:
   pt:
   ja: |-
     相手メインフェイズの間、自分は相手の効果ではダメージを受けない。
-  ko:
+  ko: |-
+    상대 메인 페이즈 동안, 자신은 상대의 효과로는 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104024,6 +104246,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP029
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR029
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104044,7 +104271,7 @@ name:
   pt:
   ja: マッドレア・アクエラ
   ja_romaji: Maddorea Akuera
-  ko:
+  ko: 매드레어 아쿠에라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104058,7 +104285,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターが２体以上いる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 2장 이상 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104071,7 +104299,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードは２回攻撃できる。さらに、相手フィールドの表側表示の効果モンスター（レベル６）１体を選んで破壊できる。この効果でモンスターを破壊した場合、さらにこのカードの攻撃力はターン終了時まで６００アップする。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 2회 공격할 수 있다. 추가로, 상대 필드의 앞면 표시 효과 몬스터(레벨 6) 1장을 고르고 파괴할 수 있다. 이 효과로 몬스터를 파괴했을 경우, 추가로 이 카드의 공격력은 턴 종료시까지 600 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104088,6 +104317,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP030
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR030
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -104109,7 +104344,7 @@ name:
   pt:
   ja: <ruby>ＥＸ<rt>エクストラ</rt></ruby>プローラー
   ja_romaji: Ekusutorapurōrā
-  ko:
+  ko: EX 플로러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104123,7 +104358,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104136,7 +104372,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで３００アップする。自分の墓地にモンスター（ギャラクシー族）が５体以上いる場合、さらに自分の墓地の通常モンスター（ギャラクシー族）と「フュージョン」をそれぞれ１枚まで選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 300 올린다. 자신 묘지에 몬스터(갤럭시족)가 5장 이상 있을 경우, 추가로 자신 묘지의 일반 몬스터(갤럭시족)와 "퓨전"을 각각 1장까지 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104151,6 +104388,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP031
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR031
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104171,7 +104413,7 @@ name:
   pt:
   ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>ドルテオ
   ja_romaji: Kengenjutsushi Doruteo
-  ko:
+  ko: 현현술사 도르테오
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104185,7 +104427,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -104198,7 +104441,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、［この効果で墓地へ送られたモンスター（魔法使い族）の数］×３００ダメージを相手に与える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, [이 효과로 묘지로 보내진 몬스터(마법사족)의 수] × 300 데미지를 상대에게 줄 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104213,6 +104457,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP032
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR032
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104233,7 +104482,7 @@ name:
   pt:
   ja: プルグラース・スピアース
   ja_romaji: Purugurāsu Supiāsu
-  ko:
+  ko: 풀글래스 스피어스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104247,7 +104496,8 @@ requirement:
   pt:
   ja: |-
     このカードの表示形式を変更して発動できる（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
-  ko:
+  ko: |-
+    이 카드의 표시 형식을 변경하고 발동할 수 있다(공격 표시는 앞면 수비 표시로, 수비 표시는 앞면 공격 표시로 한다).
   zh-TW:
   zh-CN:
 effect:
@@ -104260,7 +104510,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は１０００アップし、その攻撃は貫通する。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고른다. 이 턴에, 그 몬스터의 공격력은 1000 올리고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104275,6 +104526,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP033
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR033
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -104297,7 +104555,7 @@ name:
   pt:
   ja: ギャラクティアラ・<ruby>Ｆ<rt>ヒューズ</rt></ruby>・イブ
   ja_romaji: Gyarakutiara Hyūzu Ivu
-  ko:
+  ko: 갤럭티아라 F 이브
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104311,7 +104569,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の「フュージョン」１枚をデッキの上か下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 1장을 덱 위나 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104324,7 +104583,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分の墓地の通常モンスター（ギャラクシー族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신 묘지의 일반 몬스터(갤럭시족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104343,7 +104603,8 @@ materials:
   pt:
   ja: |-
     「ギャラクティアラ・イブ」＋モンスター（光属性／ギャラクシー族）
-  ko:
+  ko: |-
+    "갤럭티아라 이브" ＋ 몬스터(빛 속성 / 갤럭시족)
   zh-TW:
   zh-CN:
 images:
@@ -104352,6 +104613,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP034
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR034
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104372,7 +104638,7 @@ name:
   pt:
   ja: エターナル・ギャラクティカ・オブリビオン
   ja_romaji: Etānaru Gyarakutika Oburibion
-  ko:
+  ko: 이터널 갤럭티카 오블리비언
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104386,7 +104652,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（ギャラクシー族）５体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(갤럭시족) 5장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104399,7 +104666,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。このターン、このカードは相手の罠カードの効果では破壊されない。さらに、このカードの攻撃力をターン終了時まで、［自分の墓地のモンスターの数］×３００アップできる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 이 턴에, 이 카드는 상대의 함정 카드의 효과로는 파괴되지 않는다. 추가로, 이 카드의 공격력을 턴 종료시까지, [자신 묘지의 몬스터의 수] × 300 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104418,7 +104686,8 @@ materials:
   pt:
   ja: |-
     「ギャラクティカ・オブリビオン」＋モンスター（光属性／ギャラクシー族）×２
-  ko:
+  ko: |-
+    "갤럭티카 오블리비언" ＋ 몬스터(빛 속성 / 갤럭시족) × 2
   zh-TW:
   zh-CN:
 series:
@@ -104438,6 +104707,13 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Complete Challenge 3
     rarities:
     - Rush Rare
+  ko:
+  - set_number: RD/KP13-KR035
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true
@@ -104455,7 +104731,7 @@ name:
   pt:
   ja: タマーボット・バーストドラゴン
   ja_romaji: Tamābotto Bāsuto Doragon
-  ko:
+  ko: 타마봇 버스트드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104469,7 +104745,8 @@ requirement:
   pt:
   ja: |-
     デッキの上から［お互いの墓地の「タマボット」の数の合計］だけカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 [서로의 묘지의 "타마봇"의 수의 합계]만큼 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104482,7 +104759,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで１０００アップする。この効果の条件でモンスター（攻撃力１５００以下）が墓地へ送られた場合、さらに相手フィールドの表側表示モンスター（攻撃力１５００以上）１体を選んで破壊できる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 1000 올린다. 이 효과의 조건으로 몬스터(공격력 1500 이하)가 묘지로 보내졌을 경우, 추가로 상대 필드의 앞면 표시 몬스터(공격력 1500 이상) 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104501,7 +104779,8 @@ materials:
   pt:
   ja: |-
     「碧牙の爆速竜」＋「タマボット」
-  ko:
+  ko: |-
+    "블루 투스 버스트드래곤" ＋ "타마봇"
   zh-TW:
   zh-CN:
 series:
@@ -104512,6 +104791,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP036
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR036
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104532,7 +104816,7 @@ name:
   pt:
   ja: <ruby>碧牙の超越爆速竜<rt>ブルー・トゥース・エンハンスド・バーストドラゴン</rt></ruby>
   ja_romaji: Burū Tūsu Enhansudo Bāsuto Doragon
-  ko:
+  ko: 블루 투스 인핸스드 버스트드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104546,7 +104830,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104559,7 +104844,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの表側表示のカード１枚を選んで破壊する。この効果の条件で元々のレベルが７以上のモンスターを墓地へ送った場合、さらに自分の墓地の「碧牙の爆速竜」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 앞면 표시의 카드 1장을 고르고 파괴한다. 이 효과의 조건으로 원래 레벨이 7 이상인 몬스터를 묘지로 보냈을 경우, 추가로 자신 묘지의 "블루 투스 버스트드래곤" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104578,7 +104864,8 @@ materials:
   pt:
   ja: |-
     「碧牙の爆速竜」＋「ブースター・ワイバーン」
-  ko:
+  ko: |-
+    "블루 투스 버스트드래곤" ＋ "부스터 와이반"
   zh-TW:
   zh-CN:
 series:
@@ -104592,6 +104879,13 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR037
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -104609,7 +104903,7 @@ name:
   pt:
   ja: <ruby>真紅動の超越撃速竜<rt>レッドブート・エンハンスド・ブーストドラゴン</rt></ruby>
   ja_romaji: Reddobūto Enhansudo Būsuto Doragon
-  ko:
+  ko: 레드부트 인핸스드 부스트드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104623,7 +104917,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -104636,7 +104931,8 @@ effect:
   pt:
   ja: |-
     お互いの墓地のモンスターを合計９体まで選ぶ。［選んだモンスターの数］×２００ダメージを相手に与え、このカードの攻撃力はターン終了時まで、［選んだモンスターの数］×２００アップする。その後、選んだモンスターを持ち主のデッキに戻す。
-  ko:
+  ko: |-
+    서로의 묘지의 몬스터를 합계 9장까지 고른다. [고른 몬스터의 수] × 200 데미지를 상대에게 주고, 이 카드의 공격력은 턴 종료시까지, [고른 몬스터의 수] × 200 올린다. 그 후, 고른 몬스터를 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104655,7 +104951,8 @@ materials:
   pt:
   ja: |-
     「真紅動の撃速竜」＋「ブースター・ワイバーン」
-  ko:
+  ko: |-
+    "레드부트 부스트드래곤" ＋ "부스터 와이반"
   zh-TW:
   zh-CN:
 series:
@@ -104666,6 +104963,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP038
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR038
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -104687,7 +104990,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・テオゴニア
   ja_romaji: Voidoverugu Teogonia
-  ko:
+  ko: 보이드베르그 테오고니아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104701,7 +105004,8 @@ requirement:
   pt:
   ja: |-
     このカードを特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104714,7 +105018,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル８／ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で特殊召喚したモンスターは、次の相手ターン終了時まで効果では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 8 / 갤럭시족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 다음 상대 턴 종료시까지 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104733,7 +105038,8 @@ materials:
   pt:
   ja: |-
     「ヴォイドヴェルグ・クリュサオル」＋「ダーク・プロフェット」
-  ko:
+  ko: |-
+    "보이드베르그 크리사오르" ＋ "다크 프로페트"
   zh-TW:
   zh-CN:
 series:
@@ -104744,6 +105050,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP039
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR039
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -104764,7 +105075,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・ギガントマキア
   ja_romaji: Voidoverugu Gigantomakia
-  ko:
+  ko: 보이드베르그 기간토마키아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104778,7 +105089,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104791,7 +105103,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの魔法・罠カード１枚を選んで破壊する。さらにこのターン、このカードの攻撃力は５００アップし、２回攻撃できる。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 추가로 이 턴에, 이 카드의 공격력은 500 올리고, 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104810,7 +105123,8 @@ materials:
   pt:
   ja: |-
     「ヴォイドヴェルグ・レクイエム」＋「ヴォイドヴェルグ・クリュサオル」
-  ko:
+  ko: |-
+    "보이드베르그 레퀴엠" ＋ "보이드베르그 크리사오르"
   zh-TW:
   zh-CN:
 series:
@@ -104821,6 +105135,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP040
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR040
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -104843,7 +105164,7 @@ name:
   pt:
   ja: セレブローズ・ファビュラス・マジシャン
   ja_romaji: Serebu Rōzu Fabyurasu Majishan
-  ko:
+  ko: 셀레브로즈 파뷸러스 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104857,7 +105178,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -104870,7 +105192,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選んで破壊する。その後、自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고 파괴한다. 그 후, 자신 묘지의 장착 마법 카드 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104889,7 +105212,8 @@ materials:
   pt:
   ja: |-
     「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
-  ko:
+  ko: |-
+    "셀레브로즈 매지션" ＋ "셀레브로즈 위치"
   zh-TW:
   zh-CN:
 series:
@@ -104900,6 +105224,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP041
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR041
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -104921,7 +105251,7 @@ name:
   pt:
   ja: セレブローズ・ラグジュアリ・マジシャンズ
   ja_romaji: Serebu Rōzu Ragujuari Majishanzu
-  ko:
+  ko: 셀레브로즈 럭셔리 매지션즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -104935,7 +105265,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -104948,7 +105279,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル９以下／光属性／魔法使い族）１体を選び、自分フィールドに表側守備表示で特殊召喚する。このカードが装備魔法カードを装備している場合、さらにこのターン、このカードはモンスターに２回攻撃できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 9 이하 / 빛 속성 / 마법사족) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 카드가 장착 마법 카드를 장착하고 있을 경우, 추가로 이 턴에, 이 카드는 몬스터에 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -104967,7 +105299,8 @@ materials:
   pt:
   ja: |-
     「セレブローズ・マジシャン」＋「セレブローズ・ウィッチ」
-  ko:
+  ko: |-
+    "셀레브로즈 매지션" ＋ "셀레브로즈 위치"
   zh-TW:
   zh-CN:
 series:
@@ -104978,6 +105311,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP042
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR042
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -105000,7 +105340,7 @@ name:
   pt:
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>－セブンス・チャリオット
   ja_romaji: Madōkishi - Sebunsu Chariotto
-  ko:
+  ko: 마도 기사－세븐즈 채리어트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105014,7 +105354,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -105030,7 +105371,8 @@ effect:
   pt:
   ja: |-
     ●このカードの攻撃力はターン終了時まで、［お互いの魔法＆罠ゾーンのカードの数］×５００アップする。●このターン、このカードは相手の効果では破壊されない。さらに相手フィールドの表側表示のカードを［自分の魔法＆罠ゾーンのカードの数］まで選んで破壊できる。
-  ko:
+  ko: |-
+    ●이 카드의 공격력은 턴 종료시까지, [서로의 마법 & 함정 존의 카드의 수] × 500 올린다. ●이 턴에, 이 카드는 상대의 효과로는 파괴되지 않는다. 추가로 상대 필드의 앞면 표시의 카드를 [자신의 마법 & 함정 존의 카드의 수]까지 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -105049,7 +105391,8 @@ materials:
   pt:
   ja: |-
     「セブンスロード・マジシャン」＋「魔装獣ギアパルド」
-  ko:
+  ko: |-
+    "세븐즈로드 매지션" ＋ "마장수 기어펄드"
   zh-TW:
   zh-CN:
 images:
@@ -105058,6 +105401,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP043
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR043
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -105079,7 +105428,7 @@ name:
   pt:
   ja: サイバー・タクティカル・ドラゴン
   ja_romaji: Saibā Takutikaru Doragon
-  ko:
+  ko: 사이버 택티컬 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105093,7 +105442,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（光属性／機械族）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(빛 속성 / 기계족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105106,7 +105456,8 @@ effect:
   pt:
   ja: |-
     攻撃力の合計がこのカードの攻撃力以下になるように、相手フィールドの表側表示モンスターを２体まで選んで破壊する。
-  ko:
+  ko: |-
+    공격력의 합계가 이 카드의 공격력 이하가 되도록, 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -105125,7 +105476,8 @@ materials:
   pt:
   ja: |-
     「サイバー・アサルト・ドラゴン」＋「サイバー・ドラゴン」
-  ko:
+  ko: |-
+    "사이버 어썰트 드래곤" ＋ "사이버 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -105139,6 +105491,13 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR044
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -105156,7 +105515,7 @@ name:
   pt:
   ja: <ruby>ＳＦ<rt>スペースフュージョン</rt></ruby>－<ruby>ＥＸ<rt>エクストラ</rt></ruby>プラズマー
   ja_romaji: Supēsu Fyūjon - Ekusutorapurazumā
-  ko:
+  ko: SF－EX 플라즈머
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105170,7 +105529,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105183,7 +105543,8 @@ effect:
   pt:
   ja: |-
     相手の魔法＆罠ゾーンのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대의 마법 & 함정 존의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -105202,7 +105563,8 @@ materials:
   pt:
   ja: |-
     「ＥＸプローラー」＋モンスター（光属性／ギャラクシー族）
-  ko:
+  ko: |-
+    "EX(엑스트라) 플로러" ＋ 몬스터(빛 속성 / 갤럭시족)
   zh-TW:
   zh-CN:
 images:
@@ -105211,6 +105573,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP045
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR045
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105231,7 +105598,7 @@ name:
   pt:
   ja: アドバンス・インパクト
   ja_romaji: Adobansu Inpakuto
-  ko:
+  ko: 어드밴스 임팩트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105245,7 +105612,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにモンスターがいない場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 몬스터가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105258,7 +105626,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、レベルの合計がそのモンスターのレベルと同じになるように自分は手札のモンスターを墓地へ送る。このターン、自分がモンスターをアドバンス召喚する場合、自分フィールドのモンスター１体の代わりに選んだ相手の表側表示モンスターをリリースできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 레벨의 합계가 그 몬스터의 레벨과 같아지도록 자신은 패의 몬스터를 묘지로 보낸다. 이 턴에, 자신이 몬스터를 어드밴스 소환할 경우, 자신 필드의 몬스터 1장 대신에 고른 상대의 앞면 표시 몬스터를 릴리스할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105269,6 +105638,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP046
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR046
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -105290,7 +105665,7 @@ name:
   pt:
   ja: ギャラクティカ・アダーガトリング
   ja_romaji: Gyarakutika Adāgatoringu
-  ko:
+  ko: 갤럭티카 애더개틀링
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105304,7 +105679,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105317,7 +105693,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力・守備力は２００アップし、そのモンスターは相手の罠カードの効果では破壊されない。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력 / 수비력은 200 올리고, 그 몬스터는 상대의 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105330,6 +105707,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP047
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR047
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105350,7 +105732,7 @@ name:
   pt:
   ja: ドラゴンズ・バースト・フュージョン
   ja_romaji: Doragonzu Bāsuto Fyūjon
-  ko:
+  ko: 드래곤즈 버스트 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105364,7 +105746,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -105377,7 +105760,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ドラゴン族）を素材として墓地へ送り、フュージョン召喚する。この効果で「碧牙の爆速竜」を墓地へ送った場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで１５００ダウンできる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(드래곤족)를 소재로서 묘지로 보내고, 퓨전 소환한다. 이 효과로 "블루 투스 버스트드래곤"을 묘지로 보냈을 경우, 추가로 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 1500 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105391,6 +105775,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP048
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR048
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105411,7 +105800,7 @@ name:
   pt:
   ja: ドラゴンズ・ブースト・フュージョン
   ja_romaji: Doragonzu Būsuto Fyūjon
-  ko:
+  ko: 드래곤즈 부스트 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105425,7 +105814,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -105438,7 +105828,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ドラゴン族）を素材として墓地へ送り、フュージョン召喚する。この効果で「真紅動の撃速竜」を墓地へ送った場合、さらに自分のデッキの上からカード７枚を墓地へ送る事ができる。デッキからカードを墓地へ送った場合、さらに相手のデッキの上からカード７枚を墓地へ送る事ができる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(드래곤족)를 소재로서 묘지로 보내고, 퓨전 소환한다. 이 효과로 "레드부트 부스트드래곤"을 묘지로 보냈을 경우, 추가로 자신의 덱 위에서 카드 7장을 묘지로 보낼 수 있다. 덱에서 카드를 묘지로 보냈을 경우, 추가로 상대의 덱 위에서 카드 7장을 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105452,6 +105843,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP049
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR049
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105472,7 +105868,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・グリンブルスティ
   ja_romaji: Voidoverugu Gurinburusuti
-  ko:
+  ko: 보이드베르그 굴린브루스티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105486,7 +105882,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(어둠 속성 / 갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105499,7 +105896,8 @@ effect:
   pt:
   ja: |-
     装備モンスターは魔法カードの効果では破壊されず、自分ターンの間、攻撃力は８００アップする。
-  ko:
+  ko: |-
+    장착 몬스터는 마법 카드의 효과로는 파괴되지 않으며, 자신의 턴 동안, 공격력은 800 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105512,6 +105910,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP050
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR050
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105532,7 +105935,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・シュラウド
   ja_romaji: Voidoverugu Shuraudo
-  ko:
+  ko: 보이드베르그 슈라우드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105546,7 +105949,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105559,7 +105963,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は、［自分フィールドの魔法・罠カードの数］×１００アップする。装備モンスターが自分フィールドに表側表示でいる限り、自分フィールドの魔法・罠カードは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은, [자신 필드의 마법 / 함정 카드의 수] × 100 올린다. 장착 몬스터가 자신 필드에 앞면 표시인 한, 자신 필드의 마법 / 함정 카드는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105572,6 +105977,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP051
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR051
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105592,7 +106002,7 @@ name:
   pt:
   ja: カリス・マジック－エレガントチェンジ
   ja_romaji: Karisu Majikku - Ereganto Chenji
-  ko:
+  ko: 카리스 매직－엘레강트체인지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105606,7 +106016,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(빛 속성 / 마법사족) 1장 또는 장착 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105619,7 +106030,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分の墓地にモンスターが４体以上いる場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 묘지에 몬스터가 4장 이상 있을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105630,6 +106042,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP052
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR052
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -105652,7 +106071,7 @@ name:
   pt:
   ja: カリス<ruby>魔<rt>ま</rt></ruby><ruby>杖<rt>じょう</rt></ruby>デス・ワンド
   ja_romaji: Karisu Majō Desu Wando
-  ko:
+  ko: 카리스 마장 데스 원드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105666,7 +106085,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／魔法使い族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 마법사족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105679,7 +106099,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は４００アップし、そのモンスターは相手の効果では破壊されない。装備モンスターがフュージョンモンスターの場合、さらに攻撃力を６００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 400 올리고, 그 몬스터는 상대의 효과로는 파괴되지 않는다. 장착 몬스터가 퓨전 몬스터일 경우, 추가로 공격력을 600 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105690,6 +106111,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP053
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR053
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -105710,7 +106136,7 @@ name:
   pt:
   ja: セブンス・ワンダー・フュージョン
   ja_romaji: Sebunsu Wandā Fyūjon
-  ko:
+  ko: 세븐즈 원더 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105724,7 +106150,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -105737,7 +106164,8 @@ effect:
   pt:
   ja: |-
     「セブンスロード・マジシャン」を含む自分のフィールド・墓地のモンスターを素材として持ち主のデッキに戻し、フュージョン召喚する。
-  ko:
+  ko: |-
+    "세븐즈로드 매지션"을 포함하는 자신의 필드 / 묘지의 몬스터를 소재로서 주인의 덱으로 되돌리고, 퓨전 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105750,6 +106178,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP054
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR054
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -105771,7 +106205,7 @@ name:
   pt:
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>槍<rt>そう</rt></ruby>グレイス・スピア
   ja_romaji: Madōsō Gureisu Supia
-  ko:
+  ko: 마도창 그레이스 스피어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105785,7 +106219,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（魔導騎士族または魔法使い族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(마도 기사족 또는 마법사족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105798,7 +106233,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は２００アップし、その攻撃は貫通する。装備モンスターが魔導騎士族の場合、さらに攻撃力を［装備モンスターのレベル］×２００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 200 올리고, 그 공격은 관통한다. 장착 몬스터가 마도 기사족일 경우, 추가로 공격력을 [장착 몬스터의 레벨] × 200 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105809,6 +106245,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP055
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR055
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -105829,7 +106270,7 @@ name:
   pt:
   ja: エンペラー・レルム
   ja_romaji: Enperā Rerumu
-  ko:
+  ko: 엠페러 렐름
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105843,7 +106284,8 @@ requirement:
   pt:
   ja: |-
     このカードは、デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드는, 덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105856,7 +106298,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の守備力が１０００の表側表示モンスター（レベル５以上）の攻撃力は４００アップする。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 원래 수비력이 1000 인 앞면 표시 몬스터(레벨 5 이상)의 공격력은 400 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105867,6 +106310,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP056
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR056
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -105887,7 +106335,7 @@ name:
   pt:
   ja: アルテネの<ruby>加<rt>か</rt></ruby><ruby>護<rt>ご</rt></ruby>
   ja_romaji: Arutene no Kago
-  ko:
+  ko: 아르테네의 가호
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105901,7 +106349,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター１体をデッキに戻し、自分フィールドの表側表示モンスター１体に装備できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 1장을 덱으로 되돌리고, 자신 필드의 앞면 표시 몬스터 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105914,7 +106363,8 @@ effect:
   pt:
   ja: |-
     装備モンスターは相手の効果では破壊されない。自分の墓地に装備魔法カードがある場合、さらに装備モンスターの攻撃力は３００アップする。
-  ko:
+  ko: |-
+    장착 몬스터는 상대의 효과로는 파괴되지 않는다. 자신 묘지에 장착 마법 카드가 있을 경우, 추가로 장착 몬스터의 공격력은 300 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -105927,6 +106377,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP057
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR057
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -105948,7 +106404,7 @@ name:
   pt:
   ja: デッド・オア・ライナック
   ja_romaji: Deddo Oa Rainakku
-  ko:
+  ko: 데드 오어 라이나크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -105962,7 +106418,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの直接攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 직접 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -105975,7 +106432,8 @@ effect:
   pt:
   ja: |-
     自分は８００ＬＰ回復する。その後、自分は１枚ドローし、お互いに確認する。そのカードが通常モンスター（ギャラクシー族／攻撃力１６００以上）だった場合、さらにその攻撃を無効にする。
-  ko:
+  ko: |-
+    자신은 800 LP 회복한다. 그 후, 자신은 1장 드로우하고, 서로 확인한다. 그 카드가 일반 몬스터(갤럭시족 / 공격력 1600 이상)였을 경우, 추가로 그 공격을 무효로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -105986,6 +106444,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP058
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR058
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106006,7 +106469,7 @@ name:
   pt:
   ja: リコンビネーション・ギャラクティカ
   ja_romaji: Rikonbinēshon Gyarakutika
-  ko:
+  ko: 리콤비네이션 갤럭티카
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106020,7 +106483,8 @@ requirement:
   pt:
   ja: |-
     自分のモンスターが相手の攻撃で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신의 몬스터가 상대의 공격으로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106033,7 +106497,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(갤럭시족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106046,6 +106511,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP059
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR059
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106066,7 +106536,7 @@ name:
   pt:
   ja: ノーバディ・スキャットシーフ
   ja_romaji: Nōbadi Sukyatto Shīfu
-  ko:
+  ko: 노바디 스캣시프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106080,7 +106550,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 상대의 공격 또는 상대의 효과로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106093,7 +106564,8 @@ effect:
   pt:
   ja: |-
     自分は３枚ドローする。その後、自分は手札を１枚以上選んで墓地へ送る。自分フィールドにモンスターがいない場合、さらにこのターン、相手モンスター（レベル８以下）の攻撃で自分は戦闘ダメージを受けない。
-  ko:
+  ko: |-
+    자신은 3장 드로우한다. 그 후, 자신은 패를 1장 이상 고르고 묘지로 보낸다. 자신 필드에 몬스터가 없을 경우, 추가로 이 턴에, 상대 몬스터(레벨 8 이하)의 공격으로 자신은 전투 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106106,6 +106578,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP060
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR060
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare
@@ -106128,7 +106607,7 @@ name:
   pt:
   ja: ローズチェーン・サルベージ
   ja_romaji: Rōzu Chēn Sarubēji
-  ko:
+  ko: 로즈체인 샐비지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106142,7 +106621,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに装備魔法カードを装備したモンスター（レベル６以上／魔法使い族）がいる場合、相手がモンスターを特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 장착 마법 카드를 장착한 몬스터(레벨 6 이상 / 마법사족)가 있을 경우, 상대가 몬스터를 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106155,7 +106635,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分は［この効果で特殊召喚したモンスターの元々のレベル］×１００ＬＰ回復する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신은 [이 효과로 특수 소환한 몬스터의 원래 레벨] × 100 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106166,6 +106647,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP061
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR061
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106186,7 +106672,7 @@ name:
   pt:
   ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>機<rt>き</rt></ruby><ruby>才<rt>さい</rt></ruby>
   ja_romaji: Teiō no Kisai
-  ko:
+  ko: 제왕의 기재
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106200,7 +106686,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル５以上／守備力１０００）がいる場合、相手がモンスターを召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 5 이상 / 수비력 1000)가 있을 경우, 상대가 몬스터를 일반 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106213,7 +106700,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを裏側守備表示にする。その後、自分の墓地のモンスター（レベル５以上／守備力１０００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 뒷면 수비 표시로 한다. 그 후, 자신 묘지의 몬스터(레벨 5 이상 / 수비력 1000) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106226,6 +106714,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP062
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR062
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106246,7 +106739,7 @@ name:
   pt:
   ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>煌<rt>こう</rt></ruby><ruby>誕<rt>たん</rt></ruby>
   ja_romaji: Teiō no Kōtan
-  ko:
+  ko: 제왕의 황탄
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106260,7 +106753,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分フィールドのモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106273,7 +106767,8 @@ effect:
   pt:
   ja: |-
     手札のモンスター（レベル５以上／守備力１０００）１体を自分フィールドに表側攻撃表示で特殊召喚する。その後、相手が召喚・特殊召喚したそのモンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 5 이상 / 수비력 1000) 1장을 자신 필드에 앞면 공격 표시로 특수 소환한다. 그 후, 상대가 일반 소환 / 특수 소환한 그 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106286,6 +106781,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP063
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR063
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106306,7 +106806,7 @@ name:
   pt:
   ja: <ruby>相<rt>しょう</rt></ruby><ruby>伴<rt>ばん</rt></ruby>の<ruby>想<rt>おも</rt></ruby>い
   ja_romaji: Shōban no Omoi
-  ko:
+  ko: 상반의 마음
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106320,7 +106820,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時、自分の墓地のモンスター（光属性）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때, 자신 묘지의 몬스터(빛 속성) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106333,7 +106834,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性）１体を選ぶ。このターン、そのモンスターの攻撃力は［その召喚されたモンスターの攻撃力］だけアップし、相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성) 1장을 고른다. 이 턴에, 그 몬스터의 공격력은 [그 일반 소환된 몬스터의 공격력]만큼 올리고, 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106344,6 +106846,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP064
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR064
     set_name: Oblivion of the Flash
     rarities:
     - Rare
@@ -106364,7 +106871,7 @@ name:
   pt:
   ja: <ruby>破<rt>は</rt></ruby><ruby>光<rt>こう</rt></ruby>の<ruby>渦<rt>うず</rt></ruby>
   ja_romaji: Hakō no Uzu
-  ko:
+  ko: 파광의 소용돌이
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106378,7 +106885,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分の墓地のモンスター（光属性／魔法使い族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 묘지의 몬스터(빛 속성 / 마법사족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106391,7 +106899,8 @@ effect:
   pt:
   ja: |-
     その召喚・特殊召喚されたモンスター１体を選んで破壊する。
-  ko:
+  ko: |-
+    그 일반 소환 / 특수 소환된 몬스터 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106402,6 +106911,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP065
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR065
     set_name: Oblivion of the Flash
     rarities:
     - Common
@@ -106422,7 +106936,7 @@ name:
   pt:
   ja: ライステラス・クライシス
   ja_romaji: Raisuterasu Kuraishisu
-  ko:
+  ko: 라이스테라스 크라이시스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106436,7 +106950,8 @@ requirement:
   pt:
   ja: |-
     相手が手札または墓地からモンスターを特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 패 또는 묘지에서 몬스터를 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106449,7 +106964,8 @@ effect:
   pt:
   ja: |-
     レベルの合計が１２以下になるように、相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
-  ko:
+  ko: |-
+    레벨의 합계가 12 이하가 되도록, 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 뒷면 수비 표시로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -106462,6 +106978,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP066
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR066
     set_name: Oblivion of the Flash
     rarities:
     - Super Rare
@@ -106546,7 +107068,7 @@ name:
   pt:
   ja: <ruby>粛<rt>しゅく</rt></ruby><ruby>聖<rt>せい</rt></ruby>のライト・ソーサラー
   ja_romaji: Shukusei no Raito Sōsarā
-  ko:
+  ko: 숙성의 라이트 소서러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -106560,7 +107082,8 @@ requirement:
   pt:
   ja: |-
     ３００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    300 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -106573,7 +107096,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドの表側表示モンスター（光属性／魔法使い族）の数］×３００ダウンする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [자신 필드의 앞면 표시 몬스터(빛 속성 / 마법사족)의 수] × 300 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -106591,6 +107115,11 @@ sets:
     set_name: Saikyō Jump July 2023 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP13-KRS02
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
