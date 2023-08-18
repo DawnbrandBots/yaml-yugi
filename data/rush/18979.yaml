@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヴォイドヴェルグ・グリンブルスティ
   ja_romaji: Voidoverugu Gurinburusuti
-  ko:
+  ko: 보이드베르그 굴린브루스티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(어둠 속성 / 갤럭시족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターは魔法カードの効果では破壊されず、自分ターンの間、攻撃力は８００アップする。
-  ko:
+  ko: |-
+    장착 몬스터는 마법 카드의 효과로는 파괴되지 않으며, 자신의 턴 동안, 공격력은 800 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP050
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR050
     set_name: Oblivion of the Flash
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: デッド・オア・ライナック
   ja_romaji: Deddo Oa Rainakku
-  ko:
+  ko: 데드 오어 라이나크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの直接攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 직접 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は８００ＬＰ回復する。その後、自分は１枚ドローし、お互いに確認する。そのカードが通常モンスター（ギャラクシー族／攻撃力１６００以上）だった場合、さらにその攻撃を無効にする。
-  ko:
+  ko: |-
+    자신은 800 LP 회복한다. 그 후, 자신은 1장 드로우하고, 서로 확인한다. 그 카드가 일반 몬스터(갤럭시족 / 공격력 1600 이상)였을 경우, 추가로 그 공격을 무효로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP058
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR058
     set_name: Oblivion of the Flash
     rarities:
     - Common

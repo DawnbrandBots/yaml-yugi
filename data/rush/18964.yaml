@@ -8,7 +8,7 @@ name:
   pt:
   ja: エターナル・ギャラクティカ・オブリビオン
   ja_romaji: Etānaru Gyarakutika Oburibion
-  ko:
+  ko: 이터널 갤럭티카 오블리비언
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（ギャラクシー族）５体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(갤럭시족) 5장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。このターン、このカードは相手の罠カードの効果では破壊されない。さらに、このカードの攻撃力をターン終了時まで、［自分の墓地のモンスターの数］×３００アップできる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 이 턴에, 이 카드는 상대의 함정 카드의 효과로는 파괴되지 않는다. 추가로, 이 카드의 공격력을 턴 종료시까지, [자신 묘지의 몬스터의 수] × 300 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,7 +56,8 @@ materials:
   pt:
   ja: |-
     「ギャラクティカ・オブリビオン」＋モンスター（光属性／ギャラクシー族）×２
-  ko:
+  ko: |-
+    "갤럭티카 오블리비언" ＋ 몬스터(빛 속성 / 갤럭시족) × 2
   zh-TW:
   zh-CN:
 series:
@@ -74,6 +77,13 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Complete Challenge 3
     rarities:
     - Rush Rare
+  ko:
+  - set_number: RD/KP13-KR035
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true

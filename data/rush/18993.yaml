@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>相<rt>しょう</rt></ruby><ruby>伴<rt>ばん</rt></ruby>の<ruby>想<rt>おも</rt></ruby>い
   ja_romaji: Shōban no Omoi
-  ko:
+  ko: 상반의 마음
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時、自分の墓地のモンスター（光属性）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때, 자신 묘지의 몬스터(빛 속성) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性）１体を選ぶ。このターン、そのモンスターの攻撃力は［その召喚されたモンスターの攻撃力］だけアップし、相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성) 1장을 고른다. 이 턴에, 그 몬스터의 공격력은 [그 일반 소환된 몬스터의 공격력]만큼 올리고, 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP064
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP13-KR064
     set_name: Oblivion of the Flash
     rarities:
     - Rare

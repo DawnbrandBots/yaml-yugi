@@ -8,7 +8,7 @@ name:
   pt:
   ja: セレブローズ・マジシャン
   ja_romaji: Serebu Rōzu Majishan
-  ko:
+  ko: 셀레브로즈 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示の装備魔法カード１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시의 장착 마법 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地に魔法カードが３枚以上ある場合、このカードの攻撃力はターン終了時まで７００アップする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 자신 묘지에 마법 카드가 3장 이상 있을 경우, 이 카드의 공격력은 턴 종료시까지 700 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -60,6 +62,12 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Duel-5 Blu-ray & DVD promotional card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP13-KR012
+    set_name: Oblivion of the Flash
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true

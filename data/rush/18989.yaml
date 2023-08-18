@@ -8,7 +8,7 @@ name:
   pt:
   ja: ノーバディ・スキャットシーフ
   ja_romaji: Nōbadi Sukyatto Shīfu
-  ko:
+  ko: 노바디 스캣시프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 상대의 공격 또는 상대의 효과로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は３枚ドローする。その後、自分は手札を１枚以上選んで墓地へ送る。自分フィールドにモンスターがいない場合、さらにこのターン、相手モンスター（レベル８以下）の攻撃で自分は戦闘ダメージを受けない。
-  ko:
+  ko: |-
+    자신은 3장 드로우한다. 그 후, 자신은 패를 1장 이상 고르고 묘지로 보낸다. 자신 필드에 몬스터가 없을 경우, 추가로 이 턴에, 상대 몬스터(레벨 8 이하)의 공격으로 자신은 전투 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP060
+    set_name: Oblivion of the Flash
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP13-KR060
     set_name: Oblivion of the Flash
     rarities:
     - Ultra Rare

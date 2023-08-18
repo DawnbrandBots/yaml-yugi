@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>破<rt>は</rt></ruby><ruby>光<rt>こう</rt></ruby>の<ruby>渦<rt>うず</rt></ruby>
   ja_romaji: Hakō no Uzu
-  ko:
+  ko: 파광의 소용돌이
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分の墓地のモンスター（光属性／魔法使い族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 묘지의 몬스터(빛 속성 / 마법사족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その召喚・特殊召喚されたモンスター１体を選んで破壊する。
-  ko:
+  ko: |-
+    그 일반 소환 / 특수 소환된 몬스터 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP065
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR065
     set_name: Oblivion of the Flash
     rarities:
     - Common

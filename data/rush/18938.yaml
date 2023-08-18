@@ -8,7 +8,7 @@ name:
   pt:
   ja: セレブローズ・メイジ
   ja_romaji: Serebu Rōzu Meiji
-  ko:
+  ko: 셀레브로즈 메이지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地に「セレブローズ・マジシャン」または装備魔法カードがある場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지에 "셀레브로즈 매지션" 또는 장착 마법 카드가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「カリス魔杖デス・ワンド」または「フュージョン」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "카리스 마장 데스 원드" 또는 "퓨전" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,6 +57,13 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP13-KR009
+    set_name: Oblivion of the Flash
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true

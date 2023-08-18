@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>煌<rt>こう</rt></ruby><ruby>誕<rt>たん</rt></ruby>
   ja_romaji: Teiō no Kōtan
-  ko:
+  ko: 제왕의 황탄
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分フィールドのモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     手札のモンスター（レベル５以上／守備力１０００）１体を自分フィールドに表側攻撃表示で特殊召喚する。その後、相手が召喚・特殊召喚したそのモンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 5 이상 / 수비력 1000) 1장을 자신 필드에 앞면 공격 표시로 특수 소환한다. 그 후, 상대가 일반 소환 / 특수 소환한 그 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP13-JP063
+    set_name: Oblivion of the Flash
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP13-KR063
     set_name: Oblivion of the Flash
     rarities:
     - Common
