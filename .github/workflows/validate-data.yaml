@@ -52,3 +52,10 @@ jobs:
       - name: Cards are not missing placeholder fake passwords
         if: success() || failure()
         run: yarn check-for-missing-fake-password data/cards
+        # The following steps will not fail the workflow until yaml-yugi-ko is fully setup
+      - name: OCG cards are all translated into Korean
+        if: success() || failure()
+        run: yarn check-for-missing-ko-translation data/cards || true
+      - name: Rush Duel cards are all translated into Korean
+        if: success() || failure()
+        run: yarn check-for-missing-ko-translation data/rush || true
