@@ -1694,6 +1694,10 @@ sets:
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
+  - set_number: RD/MRP2-JP030
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/ST02-KR009
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
@@ -41499,6 +41503,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/MRP2-JP014
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/SBD1-KR019
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
@@ -52951,6 +52959,10 @@ sets:
     rarities:
     - Ultra Rare
     - Gold Rush Rare
+  - set_number: RD/MRP2-JP041
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/GRP1-KR011
     set_name: Grand Rush Pack
@@ -53590,8 +53602,6 @@ sets:
     rarities:
     - Super Rare
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 714473
@@ -56382,7 +56392,7 @@ yugipedia_page_id: 716697
 ---
 konami_id: 17294
 name:
-  en: Clawleon
+  en: Clawmeleon
   de:
   es:
   fr:
@@ -56432,7 +56442,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: Clawleon-RDKP08-JP-SR.png
+  image: Clawmeleon-RDKP08-JP-SR.png
 sets:
   ja:
   - set_number: RD/KP08-JP018
@@ -56445,8 +56455,6 @@ sets:
     rarities:
     - Super Rare
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 714292
@@ -56660,7 +56668,7 @@ yugipedia_page_id: 716281
 ---
 konami_id: 17298
 name:
-  en: Ecdysis Caliguleon
+  en: Ecdysis Caesarleon
   de:
   es:
   fr:
@@ -56712,7 +56720,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: EcdysisCaliguleon-RDKP08-JP-UR.png
+  image: EcdysisCaesarleon-RDKP08-JP-UR.png
 sets:
   ja:
   - set_number: RD/KP08-JP022
@@ -56727,8 +56735,6 @@ sets:
     - Ultra Rare
     - Rush Rare
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 714755
@@ -59013,7 +59019,7 @@ yugipedia_page_id: 714802
 ---
 konami_id: 17329
 name:
-  en: Explosive Rage
+  en: Fire Wrath
   de:
   es:
   fr:
@@ -59059,7 +59065,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: ExplosiveRage-RDKP08-JP-R.png
+  image: FireWrath-RDKP08-JP-R.png
 sets:
   ja:
   - set_number: RD/KP08-JP052
@@ -59072,8 +59078,6 @@ sets:
     rarities:
     - Rare
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 711517
@@ -59531,7 +59535,7 @@ yugipedia_page_id: 714185
 ---
 konami_id: 17337
 name:
-  en: Warning Scale Phosphorescence
+  en: Wrath of Light
   de:
   es:
   fr:
@@ -59577,7 +59581,7 @@ series:
 - Chameleon
 images:
 - index: 1
-  image: WarningScalePhosphorescence-RDKP08-JP-C.png
+  image: WrathofLight-RDKP08-JP-C.png
 sets:
   ja:
   - set_number: RD/KP08-JP061
@@ -59590,8 +59594,6 @@ sets:
     rarities:
     - Common
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 717460
@@ -68435,8 +68437,6 @@ sets:
     rarities:
     - Common
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 715694
@@ -114843,7 +114843,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル５以上／魔法使い族）２体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -114855,7 +114856,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター（魔法使い族）１体を選び、その攻撃力をターン終了時まで、［選んだモンスターの元々の攻撃力］だけアップする。
   ko:
   zh-TW:
   zh-CN:
@@ -114897,7 +114899,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（ドラゴン族）３体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -114909,7 +114912,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は９００アップし、そのモンスターの攻撃宣言時に相手は罠カードを発動できない。さらに、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115653,7 +115657,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、手札のモンスター１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115665,7 +115670,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115787,7 +115793,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分が「風の子サイク」の効果を発動していないターンに、自分フィールドにこのカード以外の表側表示モンスター（風属性／魔法使い族）がいる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115799,7 +115806,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル４以下／魔法使い族）１体を選んで手札に加える。
   ko:
   zh-TW:
   zh-CN:
