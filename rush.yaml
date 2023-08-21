@@ -114655,6 +114655,174 @@ yugipedia_page_id: 1001669
 ---
 konami_id:
 name:
+  en: Resolve
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>覚<rt>かく</rt></ruby><ruby>悟<rt>ご</rt></ruby>
+  ja_romaji: Kakugo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 1500 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 Effect Monster with 2500 ATK from among the cards sent to the Graveyard by this effect face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: Resolve-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP054
+    set_name: Megaroad Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001990
+---
+konami_id:
+name:
+  en: Shining Superstar Riff
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>彩<rt>さい</rt></ruby><ruby>光<rt>こう</rt></ruby>のリフ
+  ja_romaji: Saikō no Rifu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your opponent has a face-up monster with 2100 or more ATK on their field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 Effect Monster from your hand face-up to your field. Then, all face-up monsters on your field gain ATK equal to [the number of monsters on your opponent's field] x 300 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: ShiningSuperstarRiff-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP068
+    set_name: Megaroad Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001993
+---
+konami_id:
+name:
+  en: Magician's Sense
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マジシャンズ・センス
+  ja_romaji: Majishanzu Sensu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster and you have 3 or more Spell Cards in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set up to 2 "Thousand Knives", "Dark Magic Attack", and/or "Dark Resonance Burst" in your Spell & Trap Zone. Then, you take no battle damage from your opponent's Level 9 or lower monsters' attacks this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: MagiciansSense-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP088
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1001997
+---
+konami_id:
+name:
   en: High Magic - Double Acceleration
   de:
   es:
@@ -114669,7 +114837,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    [TBA]
+    Shuffle 2 Level 5 or higher Spellcaster Type monsters from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -114681,7 +114849,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    [TBA]
+    1 face-up Spellcaster Type monster on your field gains ATK equal to [its original ATK] until the end of this turn.
   de:
   es:
   fr:
@@ -114695,12 +114863,16 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: HighMagicDoubleAcceleration-OW.png
+  image: HighMagicDoubleAcceleration-RDMRP2-JP-OP.png
 sets:
   ja:
-  - set_number: RD/MRP2-JP???
+  - set_number: RD/MRP2-JP018
     set_name: Megaroad Pack 2
     rarities:
+    - Super Rare
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 1002004
 ---
 konami_id:
@@ -114719,7 +114891,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    [TBA]
+    Shuffle 3 Dragon Type monsters from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -114731,7 +114903,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    [TBA]
+    This turn, 1 face-up monster on your field gains 900 ATK and your opponent cannot activate Trap Cards when it declares an attack. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
   de:
   es:
   fr:
@@ -114745,12 +114917,16 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: DragonicForce-OW.png
+  image: DragonicForce-RDMRP2-JP-OP.png
 sets:
   ja:
-  - set_number: RD/MRP2-JP???
+  - set_number: RD/MRP2-JP034
     set_name: Megaroad Pack 2
     rarities:
+    - Super Rare
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 1002005
 ---
 konami_id:
@@ -115454,6 +115630,198 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1004796
+---
+konami_id:
+name:
+  en: Dragonic Demolisher
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・デモリッシャー
+  ja_romaji: Doragonikku Demorisshā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 0
+images:
+- index: 1
+  image: DragonicDemolisher-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP026
+    set_name: Megaroad Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1005414
+---
+konami_id:
+name:
+  en: Swordawn Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>剣<rt>けん</rt></ruby><ruby>黎<rt>れい</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
+  ja_romaji: Kenrei no Majutsushi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If your opponent has more face-up Level 7 or higher monsters on their field than the number of monsters on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If you have 6 or more Spell Cards in your Graveyard, this card cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 1500
+images:
+- index: 1
+  image: SwordawnMagician-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP080
+    set_name: Megaroad Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1005415
+---
+konami_id:
+name:
+  en: Cyc the Child of Wind
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>風<rt>かぜ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>サイク
+  ja_romaji: Kaze no Ko Saiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have another face-up WIND Attribute Spellcaster Type monster on your field during a turn you have not activated the effect of "Cyc the Child of Wind".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 4 or lower Spellcaster Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: WIND
+level: 2
+atk: 400
+def: 600
+images:
+- index: 1
+  image: CyctheChildofWind-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP015
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1005416
 ---
 konami_id:
 name:
