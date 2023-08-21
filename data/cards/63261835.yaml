@@ -48,15 +48,17 @@ attribute: WIND
 level: 8
 atk: 2600
 def: 1400
-materials: 1 Tuner + 1+ non-Tuner monsters
+materials: 1 Tuner + 1 or more non-Tuner monsters
 series:
 - Harpie
 - Signature move
 images:
 - index: 1
   image: CyberSlashHarpieLady-VP20-JP-UR.png
+  illustration: CyberSlashHarpieLady-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: CyberSlashHarpieLady-DLCS-EN-ScR-LE.png
+  illustration: CyberSlashHarpieLady-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: DLCS-EN148
@@ -88,6 +90,9 @@ sets:
     set_name: Prismatic Special Pack
     rarities:
     - Ultra Rare
+  - set_number: DBVS-JP027
+    set_name: 'Deck Build Pack: Valiant Smashers'
+    rarities:
   ko:
   - set_number: PP16-KR033
     set_name: Premium Pack Vol.16
