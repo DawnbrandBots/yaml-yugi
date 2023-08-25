@@ -29409,7 +29409,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Return 1 face-up monster with 500 or less ATK from your field to the hand. This turn, while this card is face-up, you cannot Tribute Summon monsters with 1500 or more DEF in Attack Position.
+    Return 1 face-up monster with 500 or less ATK from your field to the owner's hand. This turn, while this card is face-up, you cannot Tribute Summon monsters with 1500 or more DEF in Attack Position.
   de:
   es:
   fr:
@@ -40240,7 +40240,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When an opponent's monster declares an attack on your face-up Warrior Type monster.
+    When an opponent's monster declares an attack targeting your face-up Warrior Type monster.
   de:
   es:
   fr:
@@ -40307,7 +40307,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When an opponent's monster declares an attack on your face-up WIND Attribute monster, shuffle 1 WIND Attribute Normal Monster from your Graveyard into the Deck.
+    When an opponent's monster declares an attack targeting your face-up WIND Attribute monster, shuffle 1 WIND Attribute Normal Monster from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -43112,7 +43112,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Shuffle a face-up Field Spell Card from your field into the Deck.
+    Shuffle a face-up Field Spell Card from your field into the owner's Deck.
   de:
   es:
   fr:
@@ -52823,7 +52823,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Return 1 other face-up Level 5 or higher monster from your field to the hand.
+    Return 1 other face-up Level 5 or higher monster from your field to the owner's hand.
   de:
   es:
   fr:
@@ -52837,7 +52837,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Shuffle 1 face-down card from your opponent's field into the Deck. Then, if your LP are lower than your opponent's, you can add 1 Level 1 Psychic Type Normal Monster from your Graveyard to your hand.
+    Shuffle 1 face-down card from your opponent's field into the owner's Deck. Then, if your LP are lower than your opponent's, you can add 1 Level 1 Psychic Type Normal Monster from your Graveyard to your hand.
   de:
   es:
   fr:
@@ -64348,7 +64348,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Shuffle the attacking monster into the Deck.
+    Shuffle the attacking monster into the owner's Deck.
   de:
   es:
   fr:
@@ -71592,7 +71592,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Inflict 600 damage to your opponent. Then, if your opponent has 2 or more face-up Level 7 monsters on their field, you can shuffle 1 monster from your opponent's field into the Deck.
+    Inflict 600 damage to your opponent. Then, if your opponent has 2 or more face-up Level 7 monsters on their field, you can shuffle 1 monster from your opponent's field into the owner's Deck.
   de:
   es:
   fr:
@@ -72376,7 +72376,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Return 1 card from the field to the hand.
+    Return 1 card from either side of the field to the owner's hand.
   de:
   es:
   fr:
@@ -80275,7 +80275,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Change 1 face-up Level 8 or lower monster on your opponent's field to face-down Defense Position. Then, if you have a face-up Level 8 Galaxy Type monster on your field, you can return 1 Defense Position monster from your opponent's field to the hand.
+    Change 1 face-up Level 8 or lower monster on your opponent's field to face-down Defense Position. Then, if you have a face-up Level 8 Galaxy Type monster on your field, you can return 1 Defense Position monster from your opponent's field to the owner's hand.
   de:
   es:
   fr:
@@ -86686,7 +86686,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When an opponent's Level 8 or lower monster declares an attack on your face-up Maximum Monster, pay 600 LP.
+    When an opponent's Level 8 or lower monster declares an attack targeting your face-up Maximum Monster, pay 600 LP.
   de:
   es:
   fr:
@@ -99375,7 +99375,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Shuffle 3 monsters from the Graveyards into the owners' Decks. Then, if this card is in Maximum Mode, you can shuffle this card into the owner's Deck. If you do, draw 3 cards.
+    Shuffle 3 monsters from the Graveyards into the owner's Decks. Then, if this card is in Maximum Mode, you can shuffle this card into the owner's Deck. If you do, draw 3 cards.
   de:
   es:
   fr:
@@ -115878,7 +115878,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -115890,7 +115891,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカード５枚を墓地へ送る。その中にモンスターがいた場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターのレベルの合計］×１００ダウンする。
   ko:
   zh-TW:
   zh-CN:
