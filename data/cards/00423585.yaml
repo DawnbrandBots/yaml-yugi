@@ -8,7 +8,7 @@ name:
   it: Monaco Evocatore
   pt: Monge Invocador
   ja: <ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby><ruby>僧<rt>そう</rt></ruby>サモンプリースト
-  ja_romaji: Shōkansō - Samon Purīsuto
+  ja_romaji: Shōkansō Samon Purīsuto
   ko: 소환승 서몬 프리스트
   ko_rr: Sohwanseung Seomon Peuriseuteu
   zh-TW: 召喚僧
@@ -27,13 +27,13 @@ text:
   pt: |-
     Enquanto este card estiver com a face para cima no campo, ele não pode ser oferecido como Tributo. Se este card for Invocado por Invocação-Normal ou Virar: coloque este card em Posição de Defesa. Uma vez por turno: você pode descartar 1 Magia; Invoque por Invocação-Especial 1 monstro de Nível 4 do seu Deck, mas esse monstro não pode atacar neste turno.
   ja: |-
-    ①：このカードが召喚・反転召喚に成功した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。
+    ①：このカードが召喚・反転召喚した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환에 성공했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ②: 이 카드가 몬스터 존에 존재하는 한, 이 카드는 릴리스할 수 없다. ③: 1턴에 1번, 패에서 마법 카드 1장을 버리고 발동할 수 있다. 덱에서 레벨 4 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴에 공격할 수 없다.
   zh-TW: |-
     此卡不可释放。此卡召唤、反转召唤成功时，变更为守备表示。1回合1次，透过从手牌舍弃1张魔法卡，从牌组特殊召唤1只等级4怪兽。此效果特殊召唤的怪兽，在此回合不可攻击。
   zh-CN: |-
-    ①：此卡召唤・反转召唤成功的情况下发动。将此卡改成守备表示。②：只要此卡存在于怪兽区域，此卡不可解放。③：1回合1次，从手牌将1张魔法卡舍弃可以发动。从牌组将1只等级4怪兽特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
+    ①：此卡召唤・反转召唤成功的情况下发动。将此卡改成守备表示。②：只要此卡存在于怪兽区域，此卡不可解放。③：１回合１次，从手牌将１张魔法卡舍弃可以发动。从牌组将１只等级４怪兽特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -280,6 +280,8 @@ sets:
   - set_number: DBVS-JP025
     set_name: 'Deck Build Pack: Valiant Smashers'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP01-KR006
     set_name: Premium Pack Vol.1
