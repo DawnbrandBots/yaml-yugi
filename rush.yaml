@@ -30222,7 +30222,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Level 7 or lower Plant Type monster from your hand face-up to your field, but place it on the bottom of the Deck during the End Phase.
+    Special Summon 1 Level 7 or lower Plant Type monster from your hand face-up to your field, but place it on the bottom of the owner's Deck during the End Phase.
   de:
   es:
   fr:
@@ -35887,7 +35887,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Place 1 Spell/Trap Card on your opponent's field on the bottom of the Deck.
+    Place 1 Spell/Trap Card on your opponent's field on the bottom of the owner's Deck.
   de:
   es:
   fr:
@@ -40372,7 +40372,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When an opponent's Level 8 or lower monster declares an attack on your face-up monster, pay 600 LP.
+    When an opponent's Level 8 or lower monster declares an attack targeting your face-up monster, pay 600 LP.
   de:
   es:
   fr:
@@ -87042,6 +87042,9 @@ requirement:
     자신 묘지의 "사이버 드래곤" 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Destroy 1 face-up Level 8 or lower monster with 2400 or more ATK on your opponent's field.
@@ -87130,6 +87133,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -87713,9 +87717,12 @@ requirement:
     없음
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
-    Shuffle 1 face-up Level 6 monster on your field and 1 face-up Level 7 or 8 monster on your opponent's field into the owners' Decks. This turn, your Level 7 or higher monsters cannot attack.
+    Shuffle 1 face-up Level 6 monster on your field and 1 face-up Level 7 or 8 monster on your opponent's field into the owner's Decks. This turn, your Level 7 or higher monsters cannot attack.
   de:
   es:
   fr:
@@ -87738,6 +87745,7 @@ series:
 images:
 - index: 1
   image: ExcutieLumiere-RDORP1-JP-SR.png
+  illustration: ExcutieLumiere-G002-JP-VG-artwork.png
 - index: 2
   image: ExcutieLumiere-RDJF23-JP-ScR.png
   illustration: ExcutieLumiere-OW.png
@@ -87808,6 +87816,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -87970,6 +87979,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -88205,6 +88215,9 @@ requirement:
     덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Gain 500 LP.
@@ -90976,6 +90989,9 @@ requirement:
     이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 패 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
@@ -92725,6 +92741,9 @@ requirement:
     패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card gains ATK equal to [the number of face-up Level 6 or higher monsters on the field] x 600 until the end of this turn. This turn, you can only attack with this card.
@@ -96806,6 +96825,9 @@ requirement:
     이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Add Beast Type monsters from your Graveyard to your hand equal to [the number of monsters Tributed for the Tribute Summon of this card].
@@ -100305,7 +100327,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Until the end of your opponent's next turn, this card cannot be destroyed by battle. Then, you can add 1 Level 10 Maximum Monster, "Supreme Electromagnetic Maximum", or "B.B.B. - Beast Brave Brandish" from your Graveyard to your hand.
+    Until the end of your opponent's next turn, this card cannot be destroyed by battle. Then, you can add 1 Level 10 Maximum Monster, "Super Electromagnetic Maximum", or "B.B.B. - Beast Brave Brandish" from your Graveyard to your hand.
   de:
   es:
   fr:
@@ -101003,6 +101025,9 @@ requirement:
     자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 맥시멈 몬스터 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Until the end of your opponent's next turn, while this card is face-up, neither player can Tribute Summon Level 8 or lower monsters in Attack Position.
@@ -103388,6 +103413,9 @@ requirement:
     이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Your opponent chooses 1 card on their field, and you destroy that card.
@@ -103477,6 +103505,9 @@ requirement:
     이 카드를 공격 표시로 어드밴스 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Your opponent chooses 1 card on their field, and you destroy 1 other card on either field.
@@ -103638,6 +103669,9 @@ requirement:
     이 카드 이외의 자신 필드의 카드 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card's name becomes "Cyber Dragon" this turn. Then, you can Special Summon 1 "Cyber Dragon" from your Graveyard face-up to your field.
@@ -112117,6 +112151,9 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Destroy 1 Spell/Trap Card on your opponent's field. Then, if you have "Gaia the Dragon Champion" in your Graveyard, you can destroy 1 card on your opponent's field.
@@ -112194,6 +112231,9 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card's name becomes "Curse of Dragon" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
@@ -112272,6 +112312,9 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card's name becomes "Gaia The Fierce Knight" this turn. Then, you can Fusion Summon by shuffling this card from your field and 1 monster from your field or Graveyard into the owner's Deck as material.
@@ -115064,6 +115107,9 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This turn, this card's name becomes "Blue-Eyes White Dragon", and if you Fusion Summon "Blue-Eyes Ultimate Dragon", this face-up card can be treated as 2 materials.
@@ -115560,6 +115606,8 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
 effect:
   en: |-
     None
@@ -115698,6 +115746,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
