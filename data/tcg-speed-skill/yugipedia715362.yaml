@@ -28,10 +28,7 @@ activation:
   zh-CN:
 effect:
   en: |-
-    Apply the following Skill(s):
-    ● During your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn.
-    ● During your Battle Phase, when your opponent activates a Trap Card, you can negate its effect and Set that card.
-    Each of these Skills can only be used once per turn.
+    Once per Duel, during your Main Phase, you can make 1 monster you control gain 100 ATK until the end of this turn, also, during the Battle Phase this turn, negate your opponent's first Trap Card or effect that resolves, and Set it instead of sending it to the GY.
   de: |-
     Führe die folgenden Fähigkeiten aus:
     ● Während deiner Main Phase kannst du 1 Monster, das du kontrollierst, bis zum Ende dieses Spielzugs 100 ATK erhalten lassen.
@@ -58,19 +55,35 @@ sets:
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: STP6-EN???
+    set_name: Speed Duel Tournament Pack 6
+    rarities:
   de:
   - set_number: SBCB-DES12
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: STP6-DE???
+    set_name: Speed Duel Tournament Pack 6
+    rarities:
   fr:
   - set_number: SBCB-FRS12
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: STP6-FR???
+    set_name: Speed Duel Tournament Pack 6
+    rarities:
   it:
   - set_number: SBCB-ITS12
     set_name: 'Speed Duel: Battle City Box'
     rarities:
     - Common
+  - set_number: STP6-IT???
+    set_name: Speed Duel Tournament Pack 6
+    rarities:
+  pt:
+  - set_number: STP6-PT???
+    set_name: Speed Duel Tournament Pack 6
+    rarities:
 yugipedia_page_id: 715362
