@@ -30,13 +30,27 @@ function isPrereleaseMissingCardNumber(card: any) {
 	return isMissing;
 }
 
+// Okay to skip these before print, e.g. Anotherverse Gluttonia
+function isPrereleasePrizeCard(card: any) {
+	const release = card.sets.ja?.length
+		? card.sets.ja[0]
+		: card.sets.en?.length
+		? card.sets.en[0]
+		: null;
+	const isPrizeCard = release?.set_number.split("-")[0] === "YCSW";
+	if (isPrizeCard) {
+		console.warn(`WARNING: ${card.yugipedia_page_id}\t[${card.name.en}]\tNot counted due to being a prize card`);
+	}
+	return isPrizeCard;
+}
+
 (async () => {
 	const files = await fs.promises.readdir(process.argv[2]);
 	const missingFakePasswords = [];
 	for (const file of files) {
 		if (file.endsWith(".json")) {
 			const card = JSON.parse(await fs.promises.readFile(path.join(process.argv[2], file), "utf8"));
-			if (!card.password && !card.fake_password && !isPrereleaseMissingCardNumber(card)) {
+			if (!card.password && !card.fake_password && !isPrereleaseMissingCardNumber(card) && !isPrereleasePrizeCard(card)) {
 				missingFakePasswords.push(card);
 			}
 		}
