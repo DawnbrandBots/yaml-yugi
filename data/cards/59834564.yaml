@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controla um monstro FIRE, você pode invocar por Invocação-Especial esta carta (da sua mão). Quando esta carta é invocada por Invocação-Especial: Selecione 2 monstros FIRE que você controla; Destrua-os.
   ja: |-
-    自分フィールド上に炎属性モンスターが存在する場合、このカードは手札から特殊召喚できる。このカードが特殊召喚に成功した時、自分フィールド上の炎属性モンスター２体を選択して破壊する。
+    ①：自分フィールドに炎属性モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードが特殊召喚した場合、自分フィールドの炎属性モンスター２体を対象として発動する。その自分の炎属性モンスターを破壊する。
   ko: |-
     자신 필드 위에 화염 속성 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. 이 카드가 특수 소환에 성공했을 때, 자신 필드 위의 화염 속성 몬스터 2장을 선택하고 파괴한다.
   zh-TW: |-
@@ -77,6 +77,7 @@ sets:
   - set_number: SR14-JP016
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
+    - Common
   ko:
   - set_number: EXP6-KR035
     set_name: 'Extra Pack: Sword of Knights'

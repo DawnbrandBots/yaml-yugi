@@ -27,7 +27,7 @@ text:
   pt: |-
     Se um ou mais cards forem adicionados do Deck Principal à mão do seu oponente, exceto durante a Fase de Compra (Efeito Rápido): você pode enviar este card da sua mão para o Cemitério; pelo resto deste turno, cards não podem ser adicionados do Deck Principal de qualquer duelista à mão.
   ja: |-
-    ①：相手がドローフェイズ以外でデッキからカードを手札に加えた場合、このカードを手札から墓地へ送って発動できる。このターン、お互いにデッキからカードを手札に加える事はできない。この効果は相手ターンでも発動できる。
+    ①：自分・相手ターンに、相手がドローフェイズ以外でデッキからカードを手札に加えた場合、このカードを手札から墓地へ送って発動できる。このターン、お互いにデッキからカードを手札に加える事はできない。
   ko: |-
     ①: 상대가 드로우 페이즈 이외로 덱에서 카드를 패에 넣었을 경우, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 이 턴에, 서로 덱에서 카드를 패에 넣을 수는 없다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW:
@@ -215,6 +215,7 @@ sets:
   - set_number: SR14-JP023
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
+    - Common
   ko:
   - set_number: EXP4-KR023
     set_name: Extra Pack Volume 4

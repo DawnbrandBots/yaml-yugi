@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente controlar um monstro e você não controlar nenhum monstro: Invoque por Invocação-Especial 1 monstro de FOGO Besta, Besta Alada ou Besta-Guerreira do seu Deck. Seus efeitos são negados e, além disso, ele é destruído durante a Fase Final. Você só pode ativar 1 "Investida dos Reis de Fogo" por turno.
   ja: |-
-    相手フィールド上にモンスターが存在し、自分フィールド上にモンスターが存在しない場合に発動できる。デッキから炎属性の獣族・獣戦士族・鳥獣族モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズ時に破壊される。「炎王の急襲」は１ターンに１枚しか発動できない。
+    このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドにのみモンスターが存在する場合に発動できる。デッキから獣族・獣戦士族・鳥獣族の炎属性モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズに破壊される。
   ko: |-
     상대 필드 위에 몬스터가 존재하고, 자신 필드 위에 몬스터가 존재하지 않을 경우에 발동할 수 있다. 덱에서 화염 속성의 야수족 / 야수전사족 / 비행야수족 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화되어, 엔드 페이즈시에 파괴된다. "염왕의 급습"은 1턴에 1장밖에 발동할 수 없다.
   zh-TW: |-
@@ -95,6 +95,7 @@ sets:
   - set_number: SR14-JP026
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
+    - Common
   ko:
   - set_number: SD24-KR022
     set_name: 'Structure Deck: Onslaught of the Fire Kings'

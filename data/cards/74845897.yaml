@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque por Invocação-Especial do seu Cemitério tantos monstros de FOGO quanto possível com DEF 200, mas bana-os durante a Fase Final deste turno.
   ja: |-
-    ①：自分の墓地から守備力２００の炎属性モンスターを可能な限り特殊召喚する。この効果で特殊召喚したモンスターは、このターンのエンドフェイズに除外される。
+    ①：自分の墓地から守備力２００の炎属性モンスターを可能な限り特殊召喚する。この効果で特殊召喚したモンスターはこのターンのエンドフェイズに除外される。
   ko: |-
     자신의 묘지에서 수비력 200의 화염 속성 몬스터를 가능한 만큼 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴의 엔드 페이즈시에 게임에서 제외된다.
   zh-TW: |-
@@ -166,6 +166,7 @@ sets:
   - set_number: SR14-JP028
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: ANPR-KR060
     set_name: Ancient Prophecy
