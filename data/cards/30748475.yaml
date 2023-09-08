@@ -26,7 +26,8 @@ text:
     Metti coperti in Posizione di Difesa tanti mostri sul Terreno quanti possibile, poi, se qualsiasi giocatore controlla uno o più mostri scoperti, deve mandare tutti i mostri scoperti che controlla al Cimitero.
   pt: |-
     Coloque tantos monstros no campo quanto possível com a face para baixo em Posição de Defesa e, depois, se qualquer duelista controlar um ou mais monstros com a face para cima, ele deve enviar todos os monstros com a face para cima que ele controla para o Cemitério.
-  ja:
+  ja: |-
+    ①：フィールドのモンスターを全て裏側守備表示にする。その後、フィールドに表側表示モンスターが存在する場合、そのコントローラーは自身のフィールドの表側表示モンスターを全て墓地へ送らなければならない。
   ko:
   zh-TW:
   zh-CN: |-
@@ -82,6 +83,10 @@ sets:
     set_name: '25th Anniversary Tin: Dueling Heroes Mega Pack'
     rarities:
     - Prismatic Secret Rare
+  ja:
+  - set_number: WPP4-JP061
+    set_name: World Premiere Pack 2023
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released
