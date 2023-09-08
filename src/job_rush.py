@@ -132,7 +132,9 @@ def job(
             properties.get("atk") == "???" or
             properties.get("def") == "???" or
             properties.get("card_type") == "???" or
-            properties.get("property") == "???"
+            properties.get("property") == "???" or
+            # Not legal for play https://ygorganization.com/realspeedduel/
+            properties.get("card_type") == "Skill"
         ):
             logger.info(f"Skip: {filepath}")
             continue
