@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 "Red Dragon Archfiend" you control; if it battles an opponent's monster this turn while you control it, apply these effects until the end of the Damage Step.
+    Target 1 "Red Dragon Archfiend" you control; if that monster you control battles an opponent's monster this turn, apply these effects until the end of the Damage Step.
     ● It gains 1000 ATK.
     ● Your opponent cannot activate cards or effects.
     ● If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.
@@ -42,6 +42,31 @@ images:
 - index: 1
   image: AbsolutePowerforce-SD46-JP-NPR.png
 sets:
+  en:
+  - set_number: SDCK-EN025
+    set_name: 'Structure Deck: The Crimson King'
+    rarities:
+    - Common
+  de:
+  - set_number: SDCK-DE025
+    set_name: 'Structure Deck: The Crimson King'
+    rarities:
+    - Common
+  fr:
+  - set_number: SDCK-FR025
+    set_name: 'Structure Deck: The Crimson King'
+    rarities:
+    - Common
+  it:
+  - set_number: SDCK-IT025
+    set_name: 'Structure Deck: The Crimson King'
+    rarities:
+    - Common
+  pt:
+  - set_number: SDCK-PT025
+    set_name: 'Structure Deck: The Crimson King'
+    rarities:
+    - Common
   ja:
   - set_number: SD46-JP025
     set_name: 'Structure Deck: Pulse of the King'
@@ -55,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 959557
