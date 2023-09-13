@@ -1424,6 +1424,10 @@ sets:
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
+  - set_number: RD/SD0A-JP015
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/ST02-KR005
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
@@ -1696,6 +1700,10 @@ sets:
     - Super Rare
   - set_number: RD/SD03-JP021
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
+    rarities:
+    - Common
+  - set_number: RD/SD0A-JP023
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
   - set_number: RD/MRP2-JP030
@@ -3870,6 +3878,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/SD0A-JP024
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP01-KR031
     set_name: 'Deck Mod Pack: Hyperspeed Rush Road!!'
@@ -15902,6 +15914,10 @@ sets:
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
     rarities:
     - Super Rare
+  - set_number: RD/SD0A-JP012
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP03-KR022
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
@@ -15974,6 +15990,10 @@ sets:
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
     rarities:
     - Super Rare
+  - set_number: RD/SD0A-JP013
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP03-KR023
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
@@ -16050,6 +16070,10 @@ sets:
     set_name: Secret Ace Pack Vol.3
     rarities:
     - Secret Rare
+  - set_number: RD/SD0A-JP010
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP03-KR024
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
@@ -28287,6 +28311,10 @@ sets:
     - Rare
   - set_number: RD/SD03-JP013
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
+    rarities:
+    - Common
+  - set_number: RD/SD0A-JP016
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
   ko:
@@ -41741,6 +41769,10 @@ sets:
     set_name: Strongest Battle Deck Luke - Dragon's Dragons
     rarities:
     - Common
+  - set_number: RD/SD0A-JP017
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/SBD2-KR012
     set_name: Strongest Battle Deck Luke - Dragon's Dragons
@@ -52804,6 +52836,10 @@ sets:
     rarities:
     - Ultra Rare
     - Gold Rush Rare
+  - set_number: RD/SD0A-JP011
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
   ko:
   - set_number: RD/GRP1-KR009
     set_name: Grand Rush Pack
@@ -96311,6 +96347,10 @@ sets:
     set_name: Battle Pack 2022 Vol.4
     rarities:
     - Common
+  - set_number: RD/SD0A-JP018
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Common
 yugipedia_page_id: 714910
 ---
 konami_id: 18652
@@ -116454,6 +116494,10 @@ sets:
     set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
+  - set_number: RD/SD0A-JPS06
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -116516,6 +116560,10 @@ sets:
     set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
+  - set_number: RD/SD0A-JPS04
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -116636,6 +116684,10 @@ sets:
     set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
+  - set_number: RD/SD0A-JPS05
+    set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -116721,7 +116773,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、手札のモンスター１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -116733,7 +116786,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は３００ＬＰ回復する。自分の墓地にモンスター（レベル８）がいる場合、さらに自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
