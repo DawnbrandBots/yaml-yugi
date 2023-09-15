@@ -1110,6 +1110,11 @@ images:
   image: MultistrikeDragonDragias-RDKP12-JP-ORR.png
 - index: 4
   image: MultistrikeDragonDragias-RDCCC1-JP-NPR.png
+- index: 5
+  image: MultistrikeDragonDragias-RDECG1-JP-OP.png
+- index: 6
+  image: MultistrikeDragonDragias-RDMRP2-JP-OP.png
+  illustration: MultistrikeDragonDragias-DBR-JP-VG-artwork-2.png
 sets:
   ja:
   - set_number: RD/ST02-JP001
@@ -1156,6 +1161,11 @@ sets:
     set_name: Rush Duel Card Game Gum
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/MRP2-JP025
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: RD/ST02-KR001
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
@@ -3209,6 +3219,9 @@ series:
 images:
 - index: 1
   image: YamirulertheDarkDelayer-RDSBD3-JP-C.png
+  illustration: YamirulertheDarkDelayer-DBR-JP-VG-artwork.png
+- index: 2
+  image: YamirulertheDarkDelayer-RDMRP2-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP01-JP029
@@ -3227,6 +3240,11 @@ sets:
     set_name: Gold Rush Pack
     rarities:
     - Gold Rush Rare
+  - set_number: RD/MRP2-JP043
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+    - Over Rush Rare
   ko:
   - set_number: RD/KP01-KR029
     set_name: 'Deck Mod Pack: Hyperspeed Rush Road!!'
@@ -11781,6 +11799,10 @@ sets:
     - Secret Rare
   - set_number: RD/SBD3-JP002
     set_name: Strongest Battle Deck Gavin - Demon Commander Three Legions
+    rarities:
+    - Common
+  - set_number: RD/MRP2-JP044
+    set_name: Megaroad Pack 2
     rarities:
     - Common
   ko:
@@ -41337,6 +41359,10 @@ sets:
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
     rarities:
     - Common
+  - set_number: RD/MRP2-JP010
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/SBD1-KR009
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
@@ -41404,6 +41430,10 @@ sets:
   ja:
   - set_number: RD/SBD1-JP010
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
+    rarities:
+    - Common
+  - set_number: RD/MRP2-JP011
+    set_name: Megaroad Pack 2
     rarities:
     - Common
   ko:
@@ -41548,6 +41578,7 @@ sets:
   - set_number: RD/MRP2-JP014
     set_name: Megaroad Pack 2
     rarities:
+    - Rare
     - Secret Rare
   ko:
   - set_number: RD/SBD1-KR019
@@ -48925,6 +48956,10 @@ sets:
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP051
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
   ko:
   - set_number: RD/KP07-KR015
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
@@ -115753,6 +115788,7 @@ sets:
   - set_number: RD/MRP2-JP026
     set_name: Megaroad Pack 2
     rarities:
+    - Ultra Rare
     - Over Rush Rare
 is_translation_unofficial:
   name:
@@ -116816,6 +116852,569 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1012303
+---
+konami_id:
+name:
+  en: Ultimate Flag Beast Bolt Tricorn
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>最<rt>サイ</rt></ruby><ruby>強<rt>キョー</rt></ruby><ruby>旗<rt>き</rt></ruby><ruby>獣<rt>じゅう</rt></ruby>ボルトライコーン
+  ja_romaji: Saikyō Kijū Borutoraikōn
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have no other monsters on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-down Spell/Trap Card on your opponent's field cannot be activated until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 3
+atk: 1200
+def: 200
+series:
+- Ultimate Flag
+images:
+- index: 1
+  image: UltimateFlagBeastBoltTricorn-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP013
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012486
+---
+konami_id:
+name:
+  en: Draco the Hand-Sewn
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>手<rt>て</rt></ruby><ruby>縫<rt>ぬ</rt></ruby>いドラコ
+  ja_romaji: Tenui Dorako
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 1 monster with 1400 DEF from your Graveyard to your field in face-down Defense Position. Then, if you Special Summoned a Normal Monster by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: WIND
+level: 1
+atk: 0
+def: 1400
+images:
+- index: 1
+  image: DracotheHandSewn-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP031
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012487
+---
+konami_id:
+name:
+  en: Kimeterasu the Divine Ruler
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>流麗<rt>ルーラ</rt></ruby>キメテラス
+  ja_romaji: Tenshō Rūra Kimeterasu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Multi-Choice
+effect:
+  en: |-
+    ● Up to 2 face-up monsters on your field can attack directly this turn.
+    ● This card gains 1000 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Celestial Warrior / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3000
+def: 3000
+materials:
+  en: |-
+    "Kimeruler the Dark Raider" + "Needlkyrie the Celestial Seamstress"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Three Rulers
+images:
+- index: 1
+  image: KimeterasutheDivineRuler-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP040
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012490
+---
+konami_id:
+name:
+  en: Hagoromo the Cloudle-Handling Celestial Seamstress
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>雲<rt>うん</rt></ruby><ruby>針<rt>しん</rt></ruby>の<ruby>戦<rt>いくさ</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>女<rt>にょ</rt></ruby>ハゴロモ
+  ja_romaji: Unshin no Ikusatennyo Hagoromo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 300 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 4 or lower Warrior or Fairy Type monster from your Graveyard to your hand. Then, you can Set 1 "Fusion" or "Divine Transformation" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
+attribute: LIGHT
+level: 8
+atk: 2000
+def: 2500
+materials:
+  en: |-
+    "Valkyrian Cutpasterie" + "Needlkyrie the Celestial Seamstress"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: HagoromotheCloudleHandlingCelestialSeamstress-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP042
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012494
+---
+konami_id:
+name:
+  en: Divine Transformation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>変<rt>へん</rt></ruby><ruby>化<rt>げ</rt></ruby>
+  ja_romaji: Tenshō Henge
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon a LIGHT Attribute monster by sending monsters from your field to the Graveyard as material, including a Fairy Type monster. If you Fusion Summon a Celestial Warrior Type monster by this effect, you can also use monsters in your hand as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DivineTransformation-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP055
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012496
+---
+konami_id:
+name:
+  en: Vi-FRND
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>Ｖｉ－ＦＲＮＤ<rt>ヴィーフレンド</rt></ruby>
+  ja_romaji: Vī Furendo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 5 cards from the top of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 500 ATK until the end of this turn. Then, if you have "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" in your Graveyard, you can destroy 1 card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 0
+series:
+- Band Group
+images:
+- index: 1
+  image: ViFRND-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP059
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012500
+---
+konami_id:
+name:
+  en: Mature Dark Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>円<rt>えん</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
+  ja_romaji: Enjuku no Kuromajutsushi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 DARK Attribute Spellcaster Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 "Dark Magician" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 3
+atk: 900
+def: 700
+images:
+- index: 1
+  image: MatureDarkMagician-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP082
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012503
+---
+konami_id:
+name:
+  en: Jewel of the Dark Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>宝<rt>ほう</rt></ruby><ruby>石<rt>せき</rt></ruby>
+  ja_romaji: Kuromajutsushi no Hōseki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 DARK Attribute Spellcaster Type monster with 2500 ATK and/or 1 DARK Attribute Spellcaster Type monster with 2000 ATK from your hand and/or your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: JeweloftheDarkMagician-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP083
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012504
+---
+konami_id:
+name:
+  en: Psykickoff Concert
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: オシキック・リリイベ
+  ja_romaji: Oshikikku Riri Ibe
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 3 or more Psychic Type monsters in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Prima Guitarna the Shining Superstar" or "Esperade the Smashing Superstar" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Psychic Musician
+images:
+- index: 1
+  image: PsykickoffConcert-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP066
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1012505
 ---
 konami_id:
 name:
