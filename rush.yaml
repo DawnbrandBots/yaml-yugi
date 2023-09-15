@@ -2855,6 +2855,10 @@ sets:
     set_name: Strongest Battle Deck Luke - Dragon's Dragons
     rarities:
     - Common
+  - set_number: RD/MRP2-JP027
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP01-KR026
     set_name: 'Deck Mod Pack: Hyperspeed Rush Road!!'
@@ -3141,6 +3145,11 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 1
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/MRP2-JP060
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+    - Over Rush Rare
   ko:
   - set_number: RD/KP01-KR028
     set_name: 'Deck Mod Pack: Hyperspeed Rush Road!!'
@@ -6391,6 +6400,10 @@ sets:
     set_name: '"Dark Magician Secret Rare Special Blue Version" GET Campaign'
     rarities:
     - Secret Rare
+  - set_number: RD/MRP2-JP079
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
   ko:
   - set_number: RD/KP02-KR000
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -9292,6 +9305,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/MRP2-JP086
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP02-KR040
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -9367,6 +9384,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/MRP2-JP087
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP02-KR041
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -48092,6 +48113,10 @@ sets:
     set_name: Gold Rush Challenge Pack
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP053
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP07-KR001
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
@@ -114793,6 +114818,7 @@ sets:
   - set_number: RD/MRP2-JP054
     set_name: Megaroad Pack 2
     rarities:
+    - Ultra Rare
     - Over Rush Rare
 is_translation_unofficial:
   name:
@@ -114851,6 +114877,7 @@ sets:
   - set_number: RD/MRP2-JP068
     set_name: Megaroad Pack 2
     rarities:
+    - Ultra Rare
     - Over Rush Rare
 is_translation_unofficial:
   name:
@@ -115869,6 +115896,7 @@ sets:
   - set_number: RD/MRP2-JP080
     set_name: Megaroad Pack 2
     rarities:
+    - Ultra Rare
     - Over Rush Rare
 is_translation_unofficial:
   name:
@@ -116877,7 +116905,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合、デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -116889,7 +116918,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの裏側表示の魔法・罠カード１枚を選ぶ。そのカードは次の相手ターン終了時まで発動できない。
   ko:
   zh-TW:
   zh-CN:
@@ -116939,7 +116969,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、このカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -116951,7 +116982,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル１／守備力１４００）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果で通常モンスターを選んだ場合、さらに自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -116999,7 +117031,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117014,7 +117047,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ●自分フィールドの表側表示モンスターを２体まで選ぶ。このターン、そのモンスターは直接攻撃できる。●このカードの攻撃力は次の相手ターン終了時まで１０００アップする。
   ko:
   zh-TW:
   zh-CN:
@@ -117032,7 +117066,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「魔将キメルーラ」＋「戦天女ハリキリー」
   ko:
   zh-TW:
   zh-CN:
@@ -117076,7 +117111,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ３００ＬＰを払って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117088,7 +117124,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル４以下／戦士族・天使族）１体を選んで手札に加える。その後、自分の墓地の「フュージョン」または「天翔変化」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
   ko:
   zh-TW:
   zh-CN:
@@ -117106,7 +117143,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「戦天女キリハリー」＋「戦天女ハリキリー」
   ko:
   zh-TW:
   zh-CN:
@@ -117148,7 +117186,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -117160,7 +117199,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    モンスター（天使族）を含む、自分フィールドのモンスターを素材として墓地へ送り、モンスター（光属性）をフュージョン召喚する。この効果でモンスター（天界戦士族）をフュージョン召喚する場合、手札のモンスターを素材とする事もできる。
   ko:
   zh-TW:
   zh-CN:
@@ -117205,7 +117245,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの上からカードを５枚まで墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117217,7 +117258,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃力はターン終了時まで５００アップする。自分の墓地に「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」が全ている場合、さらに相手フィールドのカード１枚を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117268,7 +117310,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札のモンスター（闇属性／魔法使い族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117280,7 +117323,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地の「ブラック・マジシャン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117328,7 +117372,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -117340,7 +117385,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札または自分の墓地の、モンスター（闇属性／魔法使い族／攻撃力２５００）とモンスター（闇属性／魔法使い族／攻撃力２０００）をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -117384,7 +117430,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地にモンスター（サイキック族）が３体以上いる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117396,7 +117443,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地の「彩光のプリマギターナ」または「砕光のエスパレイド」１体を選び、自分フィールドに表側表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
