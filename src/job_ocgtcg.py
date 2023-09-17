@@ -173,9 +173,11 @@ def mixin_text(
 
 
 def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]) -> None:
-    master_duel_card = master_duel.get(document["name"]["en"])
-    if master_duel_card:
-        logger.info("Annotating with Master Duel data")
+    name = document["name"]["en"]
+    master_duel_card = master_duel.get(name)
+    # Skip Normal Monster version of Black Luster Soldier since will match the Ritual Monster
+    if master_duel_card and document["konami_id"] != 19092:
+        logger.info(f"Annotating [{name}] with Master Duel data")
         document["master_duel_rarity"] = master_duel_card["rarity"]
         mixin_text("name", "de", "de_name", document, master_duel_card, logger)
         mixin_text("name", "es", "es_name", document, master_duel_card, logger)
