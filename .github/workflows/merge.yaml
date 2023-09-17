@@ -61,6 +61,7 @@ jobs:
             --ko-official ../../../ocg.csv \
             --ko-override ../../../yaml-yugi-ko/ocg-override.csv \
             --ko-prerelease ../../../yaml-yugi-ko/ocg-prerelease.csv \
+            --master-duel ../../../aggregate/master-duel-raw.json \
             --aggregate ../../../aggregate/cards.json
       - name: Transform (Rush Duel)
         working-directory: yaml-yugi/data/rush

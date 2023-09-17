@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import csv
+import json
 import logging
 from multiprocessing import current_process
 import os
@@ -155,6 +156,56 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
                 module_logger.warn(document["yugipedia_page_id"], exc_info=e)
 
 
+def mixin_text(
+    pkey: str,
+    ckey: str,
+    skey: str,
+    document: Dict[str, Any],
+    master_duel_card: Dict[str, Any],
+    logger: logging.Logger
+) -> None:
+    if not document[pkey][ckey]:
+        source = master_duel_card.get(skey)
+        if source:
+            logger.info(f"Merging in Master Duel {pkey}.{ckey}")
+            if pkey == "text" or pkey == "pendulum_effect":
+                document[pkey][ckey] = LiteralScalarString(source)
+
+
+def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]) -> None:
+    master_duel_card = master_duel.get(document["name"]["en"])
+    if master_duel_card:
+        logger.info("Annotating with Master Duel data")
+        document["master_duel_rarity"] = master_duel_card["rarity"]
+        mixin_text("name", "de", "de_name", document, master_duel_card, logger)
+        mixin_text("name", "es", "es_name", document, master_duel_card, logger)
+        mixin_text("name", "fr", "fr_name", document, master_duel_card, logger)
+        mixin_text("name", "it", "it_name", document, master_duel_card, logger)
+        mixin_text("name", "pt", "pt_name", document, master_duel_card, logger)
+        mixin_text("name", "ja", "ja_name", document, master_duel_card, logger)
+        mixin_text("name", "ko", "ko_name", document, master_duel_card, logger)
+        mixin_text("name", "zh-TW", "tc_name", document, master_duel_card, logger)
+        mixin_text("name", "zh-CN", "sc_name", document, master_duel_card, logger)
+        mixin_text("text", "de", "de_lore", document, master_duel_card, logger)
+        mixin_text("text", "es", "es_lore", document, master_duel_card, logger)
+        mixin_text("text", "fr", "fr_lore", document, master_duel_card, logger)
+        mixin_text("text", "it", "it_lore", document, master_duel_card, logger)
+        mixin_text("text", "pt", "pt_lore", document, master_duel_card, logger)
+        mixin_text("text", "ja", "ja_lore", document, master_duel_card, logger)
+        mixin_text("text", "ko", "ko_lore", document, master_duel_card, logger)
+        mixin_text("text", "zh-TW", "tc_lore", document, master_duel_card, logger)
+        mixin_text("text", "zh-CN", "sc_lore", document, master_duel_card, logger)
+        if document.get("pendulum_effect"):
+            mixin_text("pendulum_effect", "de", "de_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "es", "es_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "fr", "fr_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "it", "it_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "pt", "pt_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "ja", "ja_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "ko", "ko_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "zh-TW", "tc_pendulum_effect", document, master_duel_card, logger)
+            mixin_text("pendulum_effect", "zh-CN", "sc_pendulum_effect", document, master_duel_card, logger)
+
 
 def load_ko_overrides(ko_file: str) -> Dict[int, str]:
     with open(ko_file, encoding="utf8") as f:
@@ -205,6 +256,7 @@ def job(
     ko_official_csv: Optional[str] = None,
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
+    master_duel_raw_json: Optional[str] = None,
     return_results=False
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
@@ -214,6 +266,12 @@ def job(
     ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
+    if master_duel_raw_json:
+        with open(master_duel_raw_json) as f:
+            raw = json.load(f)
+            master_duel = { card["en_name"]: card for card in raw }
+    else:
+        master_duel = None
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
@@ -233,6 +291,8 @@ def job(
         document = transform_structure(logger, properties)
         if document:
             annotate_limit_regulation(document, tcg_vector, ocg_vector)
+            if master_duel:
+                annotate_master_duel(logger, document, master_duel)
             if assignments:
                 annotate_assignments(document, assignments)
             if ko_overrides:

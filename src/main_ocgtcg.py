@@ -19,6 +19,7 @@ parser.add_argument("--ko", help="yaml-yugi-ko overrides.tsv")
 parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
 parser.add_argument("--ko-override", help="yaml-yugi-ko ocg-override.csv")
 parser.add_argument("--ko-prerelease", help="yaml-yugi-ko ocg-prerelease.csv")
+parser.add_argument("--master-duel", help="master-duel-raw.json")
 parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
 parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
 parser.add_argument("--aggregate", help="output aggregate JSON file")
@@ -58,6 +59,7 @@ def main() -> None:
         args.ko_official,
         args.ko_override,
         args.ko_prerelease,
+        args.master_duel,
         args.aggregate is not None,
     )
     if processes == 1:
