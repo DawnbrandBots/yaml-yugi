@@ -31,7 +31,8 @@ text:
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 자신 필드의 카드를 2장까지 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 파괴한 수만큼 덱에서 "EM(엔터메이트) 펜듈럼 매지션" 이외의 "EM(엔터메이트)" 몬스터를 패에 넣는다(같은 이름의 카드는 1장까지).
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡牌名的怪兽效果１回合只可使用１次。①：此卡特殊召唤成功的场合，最多可以我方场上的２张卡牌为对象发动。破坏该卡，并从牌组将相当于破坏之数量的除“娱乐伙伴灵摆魔导”以外的“娱乐伙伴”怪兽加入手牌（同名卡最多１张）。
 card_type: Monster
 monster_type_line: Spellcaster / Pendulum / Effect
 attribute: EARTH
@@ -57,7 +58,8 @@ pendulum_effect:
   ko: |-
     ①: 자신 필드에 "EM(엔터메이트)" 몬스터가 펜듈럼 소환되었을 경우에 발동한다. 자신 필드의 "EM(엔터메이트)" 몬스터의 공격력은 턴 종료시까지 1000 올린다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：“娱乐伙伴”怪兽被灵摆召唤至我方场上的场合发动。直至回合结束时，我方场上“娱乐伙伴”怪兽的攻击力上升１０００。
 series:
 - Pendulum
 - Performapal
@@ -162,3 +164,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 324347
+master_duel_rarity: UR
