@@ -88,6 +88,9 @@ jobs:
         run: gh workflow run validate-data.yaml
         env:
           GH_TOKEN: ${{ github.token }}
+      - name: Transform (Master Duel)
+        working-directory: yaml-yugi
+        run: python src/main_masterduel.py ../yaml-yugipedia/wikitext/master-duel-cards > ../aggregate/master-duel-raw.json
       - if: steps.commit.outputs.status > 0
         working-directory: yaml-yugi
         name: Merge
