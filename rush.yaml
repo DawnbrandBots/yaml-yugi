@@ -117589,7 +117589,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに表側表示の「魔将ヤメルーラ」がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -117601,10 +117602,14 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター１体の表示形式を変更して発動できる。
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Choose 1 face-up "Yamiruler the Dark Delayer" on your field. While that monster is face-up, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
@@ -117613,7 +117618,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示の「魔将ヤメルーラ」１体を選ぶ。そのモンスターが表側表示でいる限り、その攻撃力は５００アップし、その攻撃は貫通する。
   ko:
   zh-TW:
   zh-CN:
