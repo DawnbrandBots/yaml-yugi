@@ -105307,6 +105307,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Over Rush Rare
+  - set_number: RD/D002-JP004
+    set_name: Yu-Gi-Oh! GO RUSH!! Complete Challenge 4
+    rarities:
+    - Rush Rare
   ko:
   - set_number: RD/KP13-KR040
     set_name: Oblivion of the Flash
@@ -117646,6 +117650,66 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1013089
+---
+konami_id:
+name:
+  en: Seyanen the Combustion Commander
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>燃<rt>ねん</rt></ruby><ruby>将<rt>しょう</rt></ruby>セヤネン
+  ja_romaji: Nenshō Seyanen
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. This turn, your monsters with 1900 or less DEF cannot attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: FIRE
+level: 4
+atk: 1000
+def: 1200
+images:
+- index: 1
+  image: SeyanentheCombustionCommander-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP050
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1013207
 ---
 konami_id:
 name:
