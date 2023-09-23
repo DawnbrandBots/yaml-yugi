@@ -27,7 +27,7 @@ text:
   pt: |-
     Bana 1 monstro Peixe, Serpente Marinha ou Aqua com a face para cima que você controla; compre 2 cards. Você só pode ativar 1 "Moreia da Avareza" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示の魚族・海竜族・水族モンスター１体を除外して発動できる。 自分はデッキから２枚ドローする。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの表側表示の魚族・海竜族・水族モンスター１体を除外して発動できる。自分は２枚ドローする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 앞면 표시의 어류족 / 해룡족 / 물족 몬스터 1장을 제외하고 발동할 수 있다. 자신은 2장 드로우한다.
   zh-TW:
@@ -37,11 +37,11 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: MorayofAvarice-POTE-EN-UR-1E.png
-  illustration: MorayofAvarice-MADU-EN-VG-artwork.png
-- index: '1.1'
   image: MorayofAvarice-WPP4-JP-C.png
   illustration: MorayofAvarice-MADU-JP-VG-artwork.png
+- index: '1.1'
+  image: MorayofAvarice-POTE-EN-UR-1E.png
+  illustration: MorayofAvarice-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: POTE-EN084
@@ -68,8 +68,14 @@ sets:
     set_name: Power of the Elements
     rarities:
     - Ultra Rare
+  ja:
+  - set_number: WPP4-JP059
+    set_name: World Premiere Pack 2023
+    rarities:
+    - Common
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 715946
 master_duel_rarity: UR

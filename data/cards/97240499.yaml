@@ -27,10 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir 2 monstros de LUZ e 2 monstros de TREVAS da sua mão e/ou do Cemitério, exceto este card. Se Invocado desta forma, este card ganha 1000 de ATK para cada monstro banido da sua mão para sua Invocação e pode atacar monstros um número de vezes a cada Fase de Batalha até o número de monstros banidos do Cemitério para sua Invocação. Se este card destruir um monstro do oponente em batalha, depois do cálculo de dano: você pode banir o monstro do oponente.
   ja: |-
-    このカードは通常召喚できない。
-    このカード以外の光・闇属性モンスターを２体ずつ、自分の手札・墓地から除外した場合のみ特殊召喚できる。
-    ①：この方法で特殊召喚したこのカードの攻撃力は、その特殊召喚のために手札から除外したモンスターの数×１０００アップし、その特殊召喚のために墓地から除外したモンスターの数まで１度のバトルフェイズ中にモンスターに攻撃できる。
-    ②：このカードが戦闘で相手モンスターを破壊したダメージ計算後に発動できる。その相手モンスターを除外する。
+    このカードは通常召喚できない。このカード以外の光・闇属性モンスターを２体ずつ、自分の手札・墓地から除外した場合のみ特殊召喚できる。①：この方法で特殊召喚したこのカードの攻撃力は、その特殊召喚のために手札から除外したモンスターの数×１０００アップし、その特殊召喚のために墓地から除外したモンスターの数まで１度のバトルフェイズ中にモンスターに攻撃できる。②：このカードが戦闘で相手モンスターを破壊したダメージ計算後に発動できる。その相手モンスターを除外する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 이 카드 이외의 빛 / 어둠 속성 몬스터를 2장씩, 자신의 패 / 묘지에서 제외했을 경우에만 특수 소환할 수 있다. ①: 이 방법으로 특수 소환한 이 카드의 공격력은, 그 특수 소환을 위해 패에서 제외한 몬스터의 수 × 1000 올리고, 그 특수 소환을 위해 묘지에서 제외한 몬스터의 수까지 1번의 배틀 페이즈 중에 몬스터에 공격할 수 있다. ②: 이 카드가 전투로 상대 몬스터를 파괴한 데미지 계산 후에 발동할 수 있다. 그 상대 몬스터를 제외한다.
   zh-TW:
@@ -71,8 +68,13 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Ultra Rare
+  ja:
+  - set_number: WPP4-JP043
+    set_name: World Premiere Pack 2023
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 716125
 master_duel_rarity: UR

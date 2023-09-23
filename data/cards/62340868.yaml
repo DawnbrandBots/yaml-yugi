@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez enquanto estiver com a face para cima no campo, durante o cálculo de dano do turno do seu oponente, se este card estiver sendo atacado (Efeito Rápido): você pode escolher o monstro atacante; o ATK do alvo se torna 0 apenas durante o cálculo de dano.
   ja: |-
-    このカードが相手のターンで攻撃された場合、そのダメージ計算時に発動する事ができる。その攻撃モンスター１体の攻撃力を０にする。この効果はこのカードがフィールド上に表側表示で存在する限り１度しか使用できない。
+    ①：このカードがフィールドに表側表示で存在する限り１度だけ、このカードが攻撃されたダメージ計算時に、攻撃モンスター１体を対象として発動できる。その攻撃モンスターの攻撃力を０にする。
   ko: |-
     상대 턴의 전투 데미지 계산시에만 발동할 수 있다. 이 카드를 공격하는 몬스터의 공격력을 0으로 만든다. 이 효과는 이 카드가 앞면 표시로 필드 위에 존재하는 한, 1번밖에 사용할 수 없다.
   zh-TW:
@@ -232,6 +232,10 @@ sets:
     - Common
   - set_number: BE01-JP134
     set_name: Beginner's Edition 1 (2011)
+    rarities:
+    - Common
+  - set_number: WPP4-JP013
+    set_name: World Premiere Pack 2023
     rarities:
     - Common
   ko:

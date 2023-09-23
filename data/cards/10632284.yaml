@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque este card por Invocação-Especial como um Monstro de Efeito (Besta/TERRA/Nível 2/ATK 0/DEF 2000). (Este card ainda é considerado uma Armadilha.) Se este card estiver na Zona de Monstros (Efeito Rápido): você pode declarar 1 Tipo e 1 Atributo e, depois, escolha 1 monstro com a face para cima no campo; até o final deste turno, ele se torna desse Tipo e Atributo. Você só pode usar este efeito de "Elefante Mimese" uma vez por turno.
   ja: |-
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは発動後、効果モンスター（獣族・地・星２・攻０／守２０００）となり、モンスターゾーンに特殊召喚する。このカードは罠カードとしても扱う。②：このカードがモンスターゾーンに存在する場合、種族と属性を１つずつ宣言し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターはターン終了時まで宣言した種族・属性になる。この効果は相手ターンでも発動できる。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは発動後、効果モンスター（獣族・地・星２・攻０／守２０００）となり、モンスターゾーンに特殊召喚する（罠カードとしても扱う）。②：このカードがモンスターゾーンに存在する場合、自分・相手ターンに、種族と属性を１つずつ宣言し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターはターン終了時まで宣言した種族・属性になる。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 발동 후, 효과 몬스터(야수족 / 땅 / 레벨 2 / 공 0 / 수 2000)가 되어, 몬스터 존에 특수 소환한다(함정 카드로도 취급한다). ②: 이 카드가 몬스터 존에 존재할 경우, 자신 / 상대 턴에, 종족과 속성을 1개씩 선언하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터는 턴 종료시까지 선언한 종족 / 속성이 된다.
   zh-TW:
@@ -86,8 +86,13 @@ sets:
     set_name: OTS Tournament Pack 20
     rarities:
     - Common
+  ja:
+  - set_number: WPP4-JP060
+    set_name: World Premiere Pack 2023
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 715918
 master_duel_rarity: R
