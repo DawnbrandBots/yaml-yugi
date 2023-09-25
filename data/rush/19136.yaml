@@ -8,7 +8,7 @@ name:
   pt:
   ja: ゴールド・ラッシュ
   ja_romaji: Gōrudo Rasshu
-  ko:
+  ko: 골드 러시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル７以上）を表側表示で召喚・特殊召喚した時、自分フィールドのモンスターを全て墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 7 이상)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 필드의 몬스터를 전부 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は３枚ドローし、お互いに確認する。その中にモンスター（レベル７以上）がいた場合、さらに自分はそのモンスター（レベル７以上）を好きな数だけ自分フィールドに裏側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 3장 드로우하고, 서로 확인한다. 그 중에 몬스터(레벨 7 이상)가 있었을 경우, 추가로 자신은 그 몬스터(레벨 7 이상)를 좋아하는 수만큼 자신 필드에 뒷면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/TB01-JP059
+    set_name: 'Triple Build Pack: Godbreath Wing'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/TB01-KR059
     set_name: 'Triple Build Pack: Godbreath Wing'
     rarities:
     - Common

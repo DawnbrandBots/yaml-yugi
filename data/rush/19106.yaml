@@ -8,7 +8,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 트라이앵글 X 스파크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「ハーピィ三姉妹」がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 "해피레이디즈"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（風属性）を３体まで選び、その攻撃力をターン終了時まで６００アップする。このターン、相手は罠カードを発動できない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(바람 속성)를 3장까지 고르고, 그 공격력을 턴 종료시까지 600 올린다. 이 턴에, 상대는 함정 카드를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -49,6 +51,11 @@ images:
 sets:
   ja:
   - set_number: RD/TB01-JP013
+    set_name: 'Triple Build Pack: Godbreath Wing'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/TB01-KR013
     set_name: 'Triple Build Pack: Godbreath Wing'
     rarities:
     - Common

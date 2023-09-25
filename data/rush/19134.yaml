@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>壁<rt>へき</rt></ruby><ruby>礫<rt>れき</rt></ruby>
   ja_romaji: Genkai Hekireki
-  ko:
+  ko: 환괴벽력
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／幻竜族）がいる場合、相手モンスター（レベル８以下）の攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 환룡족)가 있을 경우, 상대 몬스터(레벨 8 이하)의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。このターン、相手はモンスター（レベル７以下）で攻撃できない。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 이 턴에, 상대는 몬스터(레벨 7 이하)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/TB01-JP057
+    set_name: 'Triple Build Pack: Godbreath Wing'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/TB01-KR057
     set_name: 'Triple Build Pack: Godbreath Wing'
     rarities:
     - Common
