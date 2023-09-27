@@ -85,6 +85,6 @@ jobs:
         run: python ../../../src/limit-regulation/masterduel-extract-transform.py ../../../../yaml-yugipedia/wikitext/master-duel-limit-regulation
       - working-directory: yaml-yugi
         run: yarn transform-md /tmp/cards.json
-      - uses: ./.github/actions/commit-push
+      - uses: ./yaml-yugi/.github/actions/commit-push
         with:
           message: "Transform Master Duel Forbidden & Limited Lists: ${{ github.run_number }} (${{ github.run_id }})"
