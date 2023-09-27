@@ -116196,7 +116196,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    Shuffle 1 monster from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -116208,7 +116208,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    Choose up to 3 DARK Attribute monsters in your Graveyard. Inflict damage to your opponent equal to [the total Levels of the chosen monsters] x 100, and this card gains ATK equal to [the total Levels of the chosen monsters] x 100 until the end of this turn. Then, shuffle the chosen monsters into the Deck.
   de:
   es:
   fr:
@@ -116224,16 +116224,31 @@ attribute: DARK
 level: 9
 atk: 2800
 def: 2500
+materials:
+  en: |-
+    "Red Boot Boost Dragon" + "Darkness Drake"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 series:
 - High Tech Dragon
 images:
 - index: 1
-  image: RedRebootEnhancedBoostDragon-OW.png
+  image: RedRebootEnhancedBoostDragon-RDKP15-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP15-JP0??
+  - set_number: RD/KP15-JP037
     set_name: Red Reboot of Darkness
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true
@@ -118549,6 +118564,359 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1017933
+---
+konami_id:
+name:
+  en: Striping Wyvern
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ストライピング・ワイバーン
+  ja_romaji: Sutoraipingu Waibān
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top 2 cards of your Deck and this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Blue Tooth Burst Dragon" or "Red Boot Boost Dragon" from your hand to your field in face-up Defense Position. Then, you can add 1 "Dragon's Boost Fusion" or "Dragon's Burst Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 0
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: StripingWyvern-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP005
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018410
+---
+konami_id:
+name:
+  en: Flap Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フラップ・ドラゴン
+  ja_romaji: Furappu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Dragon Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-down monster on your opponent's field to face-up Attack Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 "Flip Dragon" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 200
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: FlapDragon-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP006
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018412
+---
+konami_id:
+name:
+  en: Flip Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フリップ・ドラゴン
+  ja_romaji: Furippu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Dragon Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 Attack Position monster on your opponent's field to face-down Defense Position. Then, if the only face-up monsters on your field are Dragon Type monsters, you can Special Summon 1 "Flap Dragon" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 2
+atk: 200
+def: 0
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: FlipDragon-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP007
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018415
+---
+konami_id:
+name:
+  en: Dragonic Progress
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・プログレス
+  ja_romaji: Doragonikku Puroguresu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 1 card from your hand on the bottom of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 1 LIGHT or DARK Attribute Dragon Type monster from your Graveyard to your hand. Then, you can add 1 "Dragon's Burst Fusion" or "Dragon's Boost Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: DragonicProgress-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP050
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018417
+---
+konami_id:
+name:
+  en: Star Salvation Shield
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>救<rt>きゅう</rt></ruby><ruby>惺<rt>せい</rt></ruby><ruby>望<rt>ぼう</rt></ruby><ruby>御<rt>ぎょ</rt></ruby>
+  ja_romaji: Kyūsei Bōgyo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent draws a card during their turn, or when your opponent Normal or Special Summons a monster during their turn, send 1 monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent can only declare an attack once this turn. Then, you can take control of 1 face-up Level 9 or higher Magical Knight Type Fusion Monster whose original ATK is 3000 on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: StarSalvationShield-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP065
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018419
+---
+konami_id:
+name:
+  en: Darkness Drake
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークネス・ドレイク
+  ja_romaji: Dākunesu Doreiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    The incarnation of darkness that deceives and corrupts one's mind. It eats away at everything.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    心を惑わす闇の化身。全てを蝕む。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Normal
+attribute: DARK
+level: 1
+atk: 0
+def: 1000
+series:
+- Darkness
+images:
+- index: 1
+  image: DarknessDrake-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP001
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018423
 ---
 konami_id:
 name:
