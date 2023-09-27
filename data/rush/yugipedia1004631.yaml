@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    Shuffle 1 monster from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    Choose up to 3 DARK Attribute monsters in your Graveyard. Inflict damage to your opponent equal to [the total Levels of the chosen monsters] x 100, and this card gains ATK equal to [the total Levels of the chosen monsters] x 100 until the end of this turn. Then, shuffle the chosen monsters into the Deck.
   de:
   es:
   fr:
@@ -42,16 +42,31 @@ attribute: DARK
 level: 9
 atk: 2800
 def: 2500
+materials:
+  en: |-
+    "Red Boot Boost Dragon" + "Darkness Drake"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 series:
 - High Tech Dragon
 images:
 - index: 1
-  image: RedRebootEnhancedBoostDragon-OW.png
+  image: RedRebootEnhancedBoostDragon-RDKP15-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP15-JP0??
+  - set_number: RD/KP15-JP037
     set_name: Red Reboot of Darkness
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true
