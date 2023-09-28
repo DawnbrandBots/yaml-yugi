@@ -130,6 +130,10 @@ sets:
     set_name: Rush Duel Card Game Gum
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/MRP2-JP007
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/ST01-KR001
     set_name: Starter Deck Yuga - Cut Through! Sevens Road!!
@@ -732,6 +736,10 @@ sets:
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
     rarities:
     - Common
+  - set_number: RD/MRP2-JP017
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/ST01-KR010
     set_name: Starter Deck Yuga - Cut Through! Sevens Road!!
@@ -953,6 +961,10 @@ sets:
     set_name: Gold Rush Pack
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP023
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/ST01-KR013
     set_name: Starter Deck Yuga - Cut Through! Sevens Road!!
@@ -2237,6 +2249,10 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Over Rush Rare
+  - set_number: RD/MRP2-JP008
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP01-KR021
     set_name: 'Deck Mod Pack: Hyperspeed Rush Road!!'
@@ -4102,6 +4118,10 @@ sets:
     - Common
   - set_number: RD/SBD1-JP027
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
+    rarities:
+    - Common
+  - set_number: RD/MRP2-JP022
+    set_name: Megaroad Pack 2
     rarities:
     - Common
   ko:
@@ -7397,6 +7417,10 @@ sets:
     set_name: Megaroad Pack
     rarities:
     - Common
+  - set_number: RD/MRP2-JP009
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP02-KR016
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -51825,6 +51849,10 @@ sets:
     set_name: Legend Awakening Pack
     rarities:
     - Secret Rare
+  - set_number: RD/MRP2-JP089
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
   ko:
   - set_number: RD/KP07-KR052
     set_name: 'Deck Mod Pack: Chaotic Omega Rising!!'
@@ -119164,6 +119192,234 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1018423
+---
+konami_id:
+name:
+  en: Furtunate Cat
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: まぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>
+  ja_romaji: Magure Tsukaima
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, you can Special Summon 2 "Straynge Cat" from your Graveyard face-up to your field. Then, if you Special Summoned by this effect, this face-up card and the monsters Special Summoned by this effect can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: EARTH
+level: 1
+atk: 0
+def: 400
+images:
+- index: 1
+  image: FurtunateCat-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP016
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018567
+---
+konami_id:
+name:
+  en: Straynge Cat Signal
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>シグナル
+  ja_romaji: Hagure Tsukaima Shigunaru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Up to 3 face-up Spellcaster Type monsters with 0 original ATK on your field gain ATK equal to [the number of monsters on your opponent's field] x 1400 until the end of this turn. Then, you can Set 1 "Recovery Force" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: StrayngeCatSignal-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP020
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018568
+---
+konami_id:
+name:
+  en: Straynge Cat Jealousy
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれネコジェラシー
+  ja_romaji: Hagure Nekojerashī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack while you have "Straynge Cat" or "Furtunate Cat" in your Graveyard, or when an opponent's monster declares an attack targeting a face-up monster with 0 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Negate the attack. Then, you can change the battle position of the attack target. If you do, inflict damage to your opponent equal to [the number of monsters on your opponent's field] x 200.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: StrayngeCatJealousy-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP024
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018569
+---
+konami_id:
+name:
+  en: Straynge Gathering
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれ<ruby>集<rt>しゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>
+  ja_romaji: Hagure Shūkai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Spellcaster monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have 2 or more "Straynge Cat" and/or "Furtunate Cat" in your Graveyard, draw 1 additional card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: StrayngeGathering-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP019
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018570
 ---
 konami_id:
 name:
