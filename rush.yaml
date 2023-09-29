@@ -7497,6 +7497,10 @@ sets:
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
     rarities:
     - Rush Rare
+  - set_number: RD/MRP2-JP004
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
   ko:
   - set_number: RD/KP02-KR017
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -8413,6 +8417,10 @@ sets:
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP077
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP02-KR028
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -12441,6 +12449,10 @@ sets:
     set_name: Character Pack - Gavin/Roa/Romin
     rarities:
     - Secret Rare
+  - set_number: RD/MRP2-JP056
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
   ko:
   - set_number: RD/CP01-KR009
     set_name: Character Pack - Gavin/Roa/Romin
@@ -16727,6 +16739,10 @@ sets:
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
     rarities:
     - Ultra Rare
+  - set_number: RD/MRP2-JP076
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP03-KR031
     set_name: 'Deck Mod Pack: Illusion Strike Mirage Impact!!'
@@ -26587,6 +26603,10 @@ sets:
     set_name: 'Deck Mod Pack: Destined Power Destruction!!'
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP058
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP04-KR052
     set_name: 'Deck Mod Pack: Destined Power Destruction!!'
@@ -77450,7 +77470,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have no other monsters on your field during the turn you Normal Summoned this card, shuffle 2 Spell Cards from your Graveyard into the Deck.
+    If you have no other monsters on your field the turn you Normal Summoned this card, shuffle 2 Spell Cards from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -118992,6 +119012,627 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1018570
+---
+konami_id:
+name:
+  en: Lightning Volteagle
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルイーグル
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have "Lightning Voltcondor" face-up on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card can attack twice this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1000
+images:
+- index: 1
+  image: LightningVolteagle-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP001
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018682
+---
+konami_id:
+name:
+  en: Thunderbold, the Echoing Thunder
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: 雷鳴のサンダーボールド
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 LIGHT Attribute Winged Beast Type monster from your Graveyard face-up to your field. Then, you can make up to 3 face-up monsters on your opponent's field become LIGHT Attribute until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 1900
+images:
+- index: 1
+  image: ThunderboldtheEchoingThunder-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP002
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018683
+---
+konami_id:
+name:
+  en: Lightning Voltkite
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルカイト
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck and you have "Lightning Voltcondor" face-up on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 1000
+images:
+- index: 1
+  image: LightningVoltkite-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP003
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018684
+---
+konami_id:
+name:
+  en: Flash Voltchick
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フラッシュ・ボルチック
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute Winged Beast Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you sent a Level 7 monster to the Graveyard to meet the requirement, you can send the top 3 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 4
+atk: 1200
+def: 1000
+images:
+- index: 1
+  image: FlashVoltchick-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP005
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018685
+---
+konami_id:
+name:
+  en: Spark Voltegg
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スパーク・ボルエッグ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 LIGHT Attribute monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Attribute Winged Beast Type monster in Attack Position. Then, you can add 1 "Lightning Voltcondor" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 4
+atk: 0
+def: 0
+images:
+- index: 1
+  image: SparkVoltegg-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP006
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018686
+---
+konami_id:
+name:
+  en: Lightning Voltcharge
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルチャージ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if your opponent has a face-up LIGHT Attribute monster on their field, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: LightningVoltcharge-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP021
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018687
+---
+konami_id:
+name:
+  en: Shield in the Right Hand
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: 右手の盾
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set up to 2 "Shield & Sword" and/or "Sword & Shield" from your Graveyard in your Spell & Trap Zone. Then, if you Set "Shield & Sword" by this effect, you can change the battle position of up to 3 monsters on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 0
+def: 1000
+images:
+- index: 1
+  image: ShieldintheRightHand-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP048
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018688
+---
+konami_id:
+name:
+  en: Sword in the Left Hand
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: 左手の剣
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Shield in the Right Hand" or 1 Warrior Type Normal Monster with 500 or less ATK from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: SwordintheLeftHand-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP049
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018689
+---
+konami_id:
+name:
+  en: Star's Hand Director
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スターズハンド・ディレクター
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 2 Psychic Type monster with 500 ATK/0 DEF from your Graveyard face-up to your field. This turn, you can only attack with Omega Psychic or Psychic Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 2
+atk: 500
+def: 0
+images:
+- index: 1
+  image: StarsHandDirector-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP062
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018690
+---
+konami_id:
+name:
+  en: Star's Hand Illuminator
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スターズハンド・イルミネーター
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Vi-FRND" face-up on your field, you can look at up to 2 face-down cards on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 2
+atk: 500
+def: 0
+images:
+- index: 1
+  image: StarsHandIlluminator-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP063
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018691
 ---
 konami_id:
 name:
