@@ -126,14 +126,14 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 1
     rarities:
     - Normal Parallel Rare
-  - set_number: RD/ECG1-JP011
-    set_name: Rush Duel Card Game Gum
-    rarities:
-    - Normal Parallel Rare
   - set_number: RD/MRP2-JP007
     set_name: Megaroad Pack 2
     rarities:
     - Common
+  - set_number: RD/ECG1-JP011
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/ST01-KR001
     set_name: Starter Deck Yuga - Cut Through! Sevens Road!!
@@ -1130,10 +1130,10 @@ images:
 - index: 4
   image: MultistrikeDragonDragias-RDCCC1-JP-NPR.png
 - index: 5
-  image: MultistrikeDragonDragias-RDECG1-JP-OP.png
-- index: 6
   image: MultistrikeDragonDragias-RDMRP2-JP-OP.png
   illustration: MultistrikeDragonDragias-DBR-JP-VG-artwork-2.png
+- index: 6
+  image: MultistrikeDragonDragias-RDECG1-JP-OP.png
 sets:
   ja:
   - set_number: RD/ST02-JP001
@@ -1176,15 +1176,15 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 1
     rarities:
     - Normal Parallel Rare
-  - set_number: RD/ECG1-JP012
-    set_name: Rush Duel Card Game Gum
-    rarities:
-    - Normal Parallel Rare
   - set_number: RD/MRP2-JP025
     set_name: Megaroad Pack 2
     rarities:
     - Rare
     - Secret Rare
+  - set_number: RD/ECG1-JP012
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/ST02-KR001
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
@@ -46221,7 +46221,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 "Worker Warrior - Sinister CEO" from your hand face-up to your field. This turn, you can only attack with Machine Type monsters.
+    Special Summon 1 "Worker Warrior - Sinister CEO" from your hand face-up to your field. You can only attack with Machine Type monsters this turn.
   de:
   es:
   fr:
@@ -49073,7 +49073,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 "Constructor Wyrm Buildragon" from your Graveyard face-up to your field. This turn, you can only attack with Wyrm Type monsters.
+    Special Summon 1 "Constructor Wyrm Buildragon" from your Graveyard face-up to your field. You can only attack with Wyrm Type monsters this turn.
   de:
   es:
   fr:
@@ -51212,7 +51212,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 "Printing Presser" from your Graveyard face-up to your field. This turn, the monster Special Summoned by this effect cannot attack directly.
+    Special Summon 1 "Printing Presser" from your Graveyard face-up to your field. The monster Special Summoned by this effect cannot attack directly this turn.
   de:
   es:
   fr:
@@ -61010,7 +61010,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Add 1 Normal Monster from your Graveyard to your hand. This turn, your Level 8 or lower Effect Monsters cannot attack.
+    Add 1 Normal Monster from your Graveyard to your hand. Your Level 8 or lower Effect Monsters cannot attack this turn.
   de:
   es:
   fr:
@@ -63428,7 +63428,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Destroy 1 face-up monster with 2000 or more DEF on your opponent's field. Gain 800 LP, and inflict 800 damage to your opponent. This turn, your Effect Monsters cannot attack.
+    Destroy 1 face-up monster with 2000 or more DEF on your opponent's field. Gain 800 LP, and inflict 800 damage to your opponent. Your Effect Monsters cannot attack this turn.
   de:
   es:
   fr:
@@ -99066,7 +99066,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Destroy all Attack Position Level 8 or lower monsters on your opponent's field. This turn, your Effect Monsters cannot attack.
+    Destroy all Attack Position Level 8 or lower monsters on your opponent's field. Your Effect Monsters cannot attack this turn.
   de:
   es:
   fr:
@@ -100189,7 +100189,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Add up to 2 Machine Type monsters from your Graveyard to your hand. For the rest of this turn, you cannot Normal Summon or Set monsters from the hand.
+    Add up to 2 Machine Type monsters from your Graveyard to your hand. If you do, you cannot Normal Summon/Set monsters from your hand until the end of this turn.
   de:
   es:
   fr:
@@ -103557,7 +103557,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Level 4 or lower monster from your Graveyard to your field in face-down Defense Position. For the rest of this turn, you cannot Special Summon monsters from your hand or Graveyard.
+    Special Summon 1 Level 4 or lower monster from your Graveyard to your field in face-down Defense Position. If you do, you cannot Special Summon monsters from your hand or Graveyard until the end of this turn.
   de:
   es:
   fr:
@@ -103837,7 +103837,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon monsters with 0 DEF from your Graveyard, up to [the number of monsters revealed to meet the requirement], to your field in face-down Defense Position. For the rest of this turn, you cannot Normal Summon Level 9 or lower monsters nor Set monsters from the hand.
+    Special Summon monsters with 0 DEF from your Graveyard, up to [the number of monsters revealed to meet the requirement], to your field in face-down Defense Position. If you do, you cannot Normal Summon Level 9 or lower monsters or Set monsters from your hand until the end of this turn.
   de:
   es:
   fr:
@@ -109727,7 +109727,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Negate the attack. This turn, your opponent's Level 7 or lower monsters cannot attack.
+    Negate the attack. Your opponent's Level 7 or lower monsters cannot attack this turn.
   de:
   es:
   fr:
@@ -117821,7 +117821,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. This turn, your monsters with 1900 or less DEF cannot attack.
+    Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. Your monsters with 1900 or less DEF cannot attack this turn.
   de:
   es:
   fr:
