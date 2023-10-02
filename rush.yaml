@@ -59967,6 +59967,8 @@ images:
   illustration: TransamuRainac-G002-JP-VG-artwork.png
 - index: 2
   image: TransamuRainac-RD711B-JP-NPR.png
+- index: 3
+  image: TransamuRainac-RDECG1-JP-OP.png
 sets:
   ja:
   - set_number: RD/S221-JP001
@@ -59989,6 +59991,10 @@ sets:
     set_name: Strongest Battle Deck Yudias - Shining Velgariva
     rarities:
     - Common
+  - set_number: RD/ECG1-JP016
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/KP09-KRS01
     set_name: 'Deck Mod Pack: Galaxy of Fate!!'
@@ -78078,12 +78084,19 @@ series:
 images:
 - index: 1
   image: RedBootBoostDragon-RDSD03-JP-C.png
+  illustration: RedBootBoostDragon-G002-JP-VG-artwork.png
+- index: 2
+  image: RedBootBoostDragon-RDECG1-JP-OP.png
 sets:
   ja:
   - set_number: RD/SD03-JP001
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
     rarities:
     - Common
+  - set_number: RD/ECG1-JP018
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RD/SD03-KR001
     set_name: Strongest Battle Deck Yuamu - Come Forth! High Tech Dragon!
@@ -80418,10 +80431,17 @@ series:
 images:
 - index: 1
   image: VoidvelgrTransi-RDSJMP-JP-NPR.png
+  illustration: VoidvelgrTransi-G002-JP-VG-artwork.png
+- index: 2
+  image: VoidvelgrTransi-RDECG1-JP-OP.png
 sets:
   ja:
   - set_number: RD/SJMP-JP018
     set_name: Saikyō Jump September 2022 promotional card
+    rarities:
+    - Normal Parallel Rare
+  - set_number: RD/ECG1-JP020
+    set_name: Rush Duel Card Game Gum
     rarities:
     - Normal Parallel Rare
   ko:
@@ -119750,6 +119770,302 @@ yugipedia_page_id: 1018931
 ---
 konami_id:
 name:
+  en: Thousand Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    "Time Wizard" + "Baby Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion
+attribute: WIND
+level: 7
+atk: 2400
+def: 2000
+materials:
+  en: |-
+    "Time Wizard" + "Baby Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: ThousandDragon-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP001
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 1018997
+---
+konami_id:
+name:
+  en: Cyber Tutu
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has no face-up monsters with 1000 or less ATK on their field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card can attack directly this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 3
+atk: 1000
+def: 800
+images:
+- index: 1
+  image: CyberTutu-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP004
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1018999
+---
+konami_id:
+name:
+  en: Red Archery Girl
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A mermaid archer that hides in a protective shell, waiting for the right moment to strike.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Normal
+attribute: WATER
+level: 4
+atk: 1400
+def: 1500
+images:
+- index: 1
+  image: RedArcheryGirl-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP006
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 1019001
+---
+konami_id:
+name:
+  en: Destroyer Golem
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A golem with a massive right hand for crushing its victims.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Rock / Normal
+attribute: EARTH
+level: 4
+atk: 1500
+def: 1000
+images:
+- index: 1
+  image: DestroyerGolem-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP007
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 1019003
+---
+konami_id:
+name:
+  en: The Snake Hair
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Zombie / Normal
+attribute: DARK
+level: 4
+atk: 1500
+def: 1200
+images:
+- index: 1
+  image: TheSnakeHair-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP008
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+yugipedia_page_id: 1019005
+---
+konami_id:
+name:
+  en: Confiscation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 1000 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Look at your opponent's hand and send 1 card from it to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: Confiscation-RDECG1-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ECG1-JP009
+    set_name: Rush Duel Card Game Gum
+    rarities:
+    - Normal Parallel Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1019007
+---
+konami_id:
+name:
   en: Time Wizard
   de:
   es:
@@ -119764,7 +120080,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    None
   de:
   es:
   fr:
@@ -119776,7 +120092,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    Toss a coin. If the result is heads, destroy all monsters on your opponent's field. If the result is tails, destroy all monsters on your field, and you take damage equal to [the total original ATK of the monsters destroyed by this effect].
   de:
   es:
   fr:
@@ -119792,14 +120108,16 @@ attribute: LIGHT
 level: 2
 atk: 500
 def: 400
+legend: true
 images:
 - index: 1
-  image: TimeWizard-OW-2.png
+  image: TimeWizard-RDECG1-JP-OP.png
 sets:
   ja:
-  - set_number: RD/????-JP0??
-    set_name: Yu-Gi-Oh! Rush Duel Card Game Gum
+  - set_number: RD/ECG1-JP002
+    set_name: Rush Duel Card Game Gum
     rarities:
+    - Normal Parallel Rare
 is_translation_unofficial:
   text:
     en: true
