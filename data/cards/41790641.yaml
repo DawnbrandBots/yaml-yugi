@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Your opponent cannot activate the effects of any of their monsters in the same column as this card and/or one of your "Watt" monsters, that activate when they are Normal or Special Summoned. You can target 1 "Watt" monster you control; you cannot Special Summon monsters for the rest of this turn, except Thunder monsters, also Special Summon 1 "Watt" monster with a different name from your Deck, then you lose LP equal to the Summoned monster's ATK. You can only use this effect of "Wattkingdom" once per turn.
+    Your opponent cannot activate the effects of a monster that activate when it is Normal or Special Summoned, while in the same column as this card or a "Watt" monster you control. You can target 1 "Watt" monster you control; Special Summon 1 "Watt" monster with a different name from your Deck, then you lose LP equal to the Special Summoned monster's ATK, also you cannot Special Summon for the rest of this turn, except Thunder monsters. You can only use this effect of "Wattkingdom" once per turn.
   de:
   es:
   fr:
@@ -34,6 +34,26 @@ images:
 - index: 1
   image: Wattkingdom-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN062
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE062
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR062
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT062
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT062
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP062
     set_name: Age of Overlord
@@ -47,9 +67,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 986054

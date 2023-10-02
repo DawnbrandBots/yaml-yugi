@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 5 monsters
-    Once per turn, you can also Xyz Summon "Xyz Armor Fortress" by using 1 Rank 3 or 4 Xyz Monster you control. (Transfer its materials to this card.) This card with material cannot be used as material for an Xyz Summon. Once per turn: You can detach up to 2 materials from this card; add the same number of "Armored Xyz" cards with different names from your Deck to your hand. If a monster equipped with this card battles another monster, any battle damage it inflicts to your opponent is doubled.
+    Once per turn, you can also Xyz Summon "Xyz Armor Fortress" by using 1 Rank 3 or 4 Xyz Monster you control. (Transfer its materials to this card.) Cannot be used as material for an Xyz Summon while it has material. Once per turn: You can detach up to 2 materials from this card; add "Armored Xyz" cards with different names from your Deck to your hand, equal to the number detached. If a monster equipped with this card battles a monster, any battle damage it inflicts to your opponent is doubled.
   de:
   es:
   fr:
@@ -41,6 +41,26 @@ images:
 - index: 1
   image: XyzArmorFortress-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN040
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE040
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR040
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT040
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT040
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP040
     set_name: Age of Overlord
@@ -54,9 +74,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 992984

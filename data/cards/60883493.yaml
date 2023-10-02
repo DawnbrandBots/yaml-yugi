@@ -15,9 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    Reveal up to 3 monsters in your hand (1 DARK, 1 EARTH, and 1 FIRE); apply these effects, in sequence, based on the number revealed.
+    Reveal up to 1 each of DARK, EARTH, and FIRE monsters in your hand; apply the following effect(s) in sequence, based on the number revealed.
     ● 1+: Inflict 400 damage to your opponent, then you can Special Summon 1 "Vanquish Soul" monster from your hand.
-    ● 2+: Inflict 600 damage to your opponent, also "Vanquish Soul" monsters you control cannot be destroyed by card effects this turn.
+    ● 2+: Inflict 600 damage to your opponent, also this turn, "Vanquish Soul" monsters you control cannot be destroyed by card effects.
     ● 3: Inflict 800 damage to your opponent, then you can destroy all monsters on the field.
     You can only activate 1 "Vanquish Soul Snow Devil" per turn.
   de:
@@ -38,6 +38,26 @@ images:
 - index: 1
   image: VanquishSoulSnowDevil-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN078
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE078
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR078
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT078
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT078
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP078
     set_name: Age of Overlord
@@ -51,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 980590
