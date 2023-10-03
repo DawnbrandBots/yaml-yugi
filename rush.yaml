@@ -63291,6 +63291,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Ewekai
 images:
 - index: 1
   image: MeetandGreed-RDKP09-JP-SR.png
@@ -72446,6 +72448,8 @@ attribute: WATER
 level: 4
 atk: 1500
 def: 900
+series:
+- Kappa
 images:
 - index: 1
   image: Hyosube-RDKP10-JP-R.png
@@ -73256,7 +73260,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Inflict 400 damage to your opponent. This turn, you can only attack with Pyro Type monsters.
+    Inflict 400 damage to your opponent. You can only attack with Pyro Type monsters this turn.
   de:
   es:
   fr:
@@ -75297,6 +75301,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Ewekai
 images:
 - index: 1
   image: MeloMeloMeeegUuultraBeam-RDKP10-JP-R.png
@@ -83682,6 +83688,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Arts Angel
 images:
 - index: 1
   image: AutoReverse-RDKP11-JP-C.png
@@ -96960,7 +96968,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw 2 cards. You cannot activate Spell Cards for the rest of this turn.
+    Draw 2 cards. If you do, you cannot activate Spell Cards until the end of this turn.
   de:
   es:
   fr:
@@ -99501,6 +99509,8 @@ attribute: DARK
 level: 10
 atk: 2300
 def: 0
+series:
+- Abysslayer
 images:
 - index: 1
   image: AbyssalDragonLordAbyssPoseidraL-RDVSP1-JP-NPR.png
@@ -99588,6 +99598,8 @@ attribute: DARK
 level: 10
 atk: 2500
 def: 0
+series:
+- Abysslayer
 maximum_atk: 4000
 images:
 - index: 1
@@ -99662,6 +99674,8 @@ attribute: DARK
 level: 10
 atk: 2400
 def: 0
+series:
+- Abysslayer
 images:
 - index: 1
   image: AbyssalDragonLordAbyssPoseidraR-RDVSP1-JP-NPR.png
@@ -99733,6 +99747,8 @@ attribute: DARK
 level: 10
 atk: 2300
 def: 0
+series:
+- Abysslayer
 images:
 - index: 1
   image: AbyssalSeaDragonAbyssKrakenL-RDVSP1-JP-NPR.png
@@ -99820,6 +99836,8 @@ attribute: DARK
 level: 10
 atk: 2500
 def: 0
+series:
+- Abysslayer
 maximum_atk: 4000
 images:
 - index: 1
@@ -99892,6 +99910,8 @@ attribute: DARK
 level: 10
 atk: 2300
 def: 0
+series:
+- Abysslayer
 images:
 - index: 1
   image: AbyssalSeaDragonAbyssKrakenR-RDVSP1-JP-NPR.png
@@ -99963,6 +99983,8 @@ attribute: LIGHT
 level: 10
 atk: 2200
 def: 0
+series:
+- Abysskite
 images:
 - index: 1
   image: ShinesteelUltraDragonDevastarOkeabyssL-RDVSP1-JP-NPR.png
@@ -100048,6 +100070,8 @@ attribute: LIGHT
 level: 10
 atk: 2500
 def: 0
+series:
+- Abysskite
 maximum_atk: 3500
 images:
 - index: 1
@@ -100120,6 +100144,8 @@ attribute: LIGHT
 level: 10
 atk: 2400
 def: 0
+series:
+- Abysskite
 images:
 - index: 1
   image: ShinesteelUltraDragonDevastarOkeabyssR-RDVSP1-JP-NPR.png
@@ -120166,6 +120192,66 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1019072
+---
+konami_id:
+name:
+  en: Ecliceras Drakon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: エクリケラス・ドラコーン
+  ja_romaji: Ekurikerasu Dorakōn
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: DARK
+level: 4
+atk: 1200
+def: 0
+images:
+- index: 1
+  image: EclicerasDrakon-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP033
+    set_name: Saikyō Jump December 2023 promotional card
+    rarities:
+    - Normal Parallel Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019081
 ---
 konami_id:
 name:
