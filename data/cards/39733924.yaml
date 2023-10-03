@@ -1,7 +1,7 @@
 konami_id: 19213
 password: 39733924
 name:
-  en: Full Armored Xyz
+  en: Full-Armored Xyz
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN:
 text:
   en: |-
-    If an Xyz Monster is on the field: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster. You can banish this card from your GY, then target 1 Xyz Monster you control; equip 1 other Xyz Monster from your face-up field or GY to it as an Equip Spell with these effects.
-    ● The equipped monster gains ATK equal to this card's.
+    If an Xyz Monster(s) is on the field: Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control. You can banish this card from your GY, then target 1 Xyz Monster you control; equip 1 other Xyz Monster from your face-up field or GY to that monster as an Equip Spell with the following effects.
+    ● The equipped monster gains ATK equal to this card's ATK.
     ● If the equipped monster would be destroyed by battle or card effect, destroy this card instead.
   de:
   es:
@@ -37,6 +37,26 @@ images:
 - index: 1
   image: FullArmoredXyz-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN071
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE071
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR071
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT071
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT071
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP071
     set_name: Age of Overlord
@@ -50,7 +70,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 992991
