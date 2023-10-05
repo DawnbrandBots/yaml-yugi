@@ -108532,7 +108532,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Add 1 Level 7 or higher WIND Attribute monster and 1 Warrior Type Normal Monster from your Graveyard to your hand. You cannot activate the monster effects of non-WIND Attribute Warrior or Beast Type monsters this turn.
+    Add 1 Level 7 or higher WIND Attribute monster and 1 Warrior Type Normal Monster from your Graveyard to your hand.  This turn, you cannot activate monster effects, except WIND Attribute Warrior Type or Beast Type monsters'.
   de:
   es:
   fr:
@@ -115867,7 +115867,7 @@ atk: 0
 def: 1400
 images:
 - index: 1
-  image: StrayngeCatMagician-RDSJMP-JP-OP.png
+  image: StrayngeCatMagician-RDSJMP-JP-NPR.png
 sets:
   ja:
   - set_number: RD/SJMP-JP032
@@ -120403,6 +120403,64 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1019140
+---
+konami_id:
+name:
+  en: Major Audition
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メジャー・オーディション
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 500 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon up to 1 each of "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Band Group
+images:
+- index: 1
+  image: MajorAudition-RDMRP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP071
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019221
 ---
 konami_id:
 name:
