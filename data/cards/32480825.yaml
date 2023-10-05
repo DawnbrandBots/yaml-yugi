@@ -12,11 +12,11 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: T.G.强力突击兵
 text:
   en: |-
     1 Tuner + 1 non-Tuner monster
-    Once per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of "T.G. Mighty Striker" once per turn. If this card is Synchro Summoned: You can add 1 "T.G." Spell/Trap from your Deck to your hand. If this card is sent from the Monster Zone to the GY: You can send 1 "T.G." card from your Deck to the GY.
+    Once per turn, during your opponent's Main Phase, you can (Quick Effect): Immediately after this effect resolves, Synchro Summon using this card you control. You can only use each of the following effects of "T.G. Mighty Striker" once per turn. If this card is Synchro Summoned: You can add 1 "T.G." Spell/Trap from your Deck to your hand. If this card is sent from your Monster Zone to the GY: You can send 1 "T.G." card from your Deck to the GY.
   de:
   es:
   fr:
@@ -27,7 +27,12 @@ text:
     このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＳ召喚した場合に発動できる。デッキから「ＴＧ」魔法・罠カード１枚を手札に加える。②：相手メインフェイズに１度、発動できる。このカードを含む自分フィールドのモンスターを素材としてＳ召喚を行う。③：このカードがモンスターゾーンから墓地へ送られた場合に発動できる。デッキから「ＴＧ」カード１枚を墓地へ送る。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的怪兽１只
+    此卡名的①③效果１回合仅可各使用１次。
+    ①：此卡同步召唤的情况下可以发动。从牌组将１张“T.G.”魔法・陷阱卡加入手牌。
+    ②：在对手的主要阶段可以发动１次。将包含此卡在内的自己场上的怪兽作为素材进行同步召唤。
+    ③：此卡从怪兽区域被送至墓地的情况下可以发动。从牌组将１张“T.G.”卡送至墓地。
 card_type: Monster
 monster_type_line: Warrior / Synchro / Tuner / Effect
 attribute: EARTH
@@ -41,6 +46,26 @@ images:
 - index: 1
   image: TGMightyStriker-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN034
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE034
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR034
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT034
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT034
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP034
     set_name: Age of Overlord
@@ -54,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 993000

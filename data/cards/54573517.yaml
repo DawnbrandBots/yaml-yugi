@@ -1,7 +1,7 @@
 konami_id: 19192
 password: 54573517
 name:
-  en: T.G. - All Clear
+  en: T.G. All Clear
   de:
   es:
   fr:
@@ -12,10 +12,10 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: T.G.－全部就绪
 text:
   en: |-
-    "T.G." monsters on the field become Machine monsters. During your Main Phase, you can Normal Summon 1 "T.G." monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) During your Main Phase: You can destroy 1 "T.G." monster you control or in your hand, and if you do, add 1 "T.G." monster with a different name from your Deck or GY to your hand. You can only use this effect of "T.G. - All Clear" once per turn.
+    All "T.G." monsters on the field become Machine monsters. During your Main Phase, you can Normal Summon 1 "T.G." monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) During your Main Phase: You can destroy 1 "T.G." monster in your hand or field, and if you do, add 1 "T.G." monster with a different name from your Deck or GY to your hand. You can only use this effect of "T.G. All Clear" once per turn.
   de:
   es:
   fr:
@@ -25,7 +25,11 @@ text:
     このカード名の③の効果は１ターンに１度しか使用できない。①：フィールドの「ＴＧ」モンスターは機械族になる。②：自分は通常召喚に加えて１度だけ、自分メインフェイズに「ＴＧ」モンスター１体を召喚できる。③：自分メインフェイズに発動できる。自分の手札・フィールドの「ＴＧ」モンスター１体を破壊し、そのモンスターとはカード名が異なる「ＴＧ」モンスター１体を自分のデッキ・墓地から手札に加える。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的③效果１回合仅可使用１次。
+    ①：场上的“T.G.”怪兽变为机械族。
+    ②：自己除通常召唤外仅可追加１次，在自己的主要阶段召唤１只“T.G.”怪兽。
+    ③：在自己的主要阶段可以发动。将自己的手牌・场上的１只“T.G.”怪兽破坏，从自己的牌组・墓地将１只卡名与该怪兽不同的“T.G.”怪兽加入手牌。
 card_type: Spell
 property: Continuous
 series:
@@ -34,6 +38,26 @@ images:
 - index: 1
   image: TGAllClear-AGOV-JP-R.png
 sets:
+  en:
+  - set_number: AGOV-EN050
+    set_name: Age of Overlord
+    rarities:
+  de:
+  - set_number: AGOV-DE050
+    set_name: Age of Overlord
+    rarities:
+  fr:
+  - set_number: AGOV-FR050
+    set_name: Age of Overlord
+    rarities:
+  it:
+  - set_number: AGOV-IT050
+    set_name: Age of Overlord
+    rarities:
+  pt:
+  - set_number: AGOV-PT050
+    set_name: Age of Overlord
+    rarities:
   ja:
   - set_number: AGOV-JP050
     set_name: Age of Overlord
@@ -47,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 993015
