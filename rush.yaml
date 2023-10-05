@@ -92530,6 +92530,8 @@ attribute: LIGHT
 level: 3
 atk: 500
 def: 1200
+series:
+- Cyber Dragon
 images:
 - index: 1
   image: CyberCoatl-RDKP12-JP-C.png
@@ -94925,7 +94927,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon up to 2 Beast and/or Warrior Type monsters with 200 DEF from your Graveyard to your field in face-up Defense Position. This turn, you can only attack with monsters with 200 DEF.
+    Special Summon up to 2 Beast and/or Warrior Type monsters with 200 DEF from your Graveyard to your field in face-up Defense Position. You can only attack with monsters with 200 DEF this turn.
   de:
   es:
   fr:
@@ -94939,6 +94941,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Cat
 images:
 - index: 1
   image: MeowonderfulRush-RDKP12-JP-R.png
@@ -95004,6 +95008,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Three Rulers
 images:
 - index: 1
   image: RisingLunaRadiantLuster-RDKP12-JP-R.png
@@ -96552,6 +96558,8 @@ attribute: FIRE
 level: 8
 atk: 3500
 def: 2000
+series:
+- Red-Eyes
 images:
 - index: 1
   image: MeteorBlackDragon-RDLGP1-JP-ORR.png
@@ -98331,6 +98339,8 @@ attribute: EARTH
 level: 6
 atk: 1800
 def: 2000
+series:
+- Red-Eyes
 images:
 - index: 1
   image: MeteorDragon-RDLGP1-JP-C.png
@@ -99377,6 +99387,9 @@ requirement:
     덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card gains 600 ATK until the end of this turn. Then, if this card is in Maximum Mode, it cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
@@ -99612,6 +99625,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -99850,6 +99864,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -100085,6 +100100,9 @@ requirement:
     맥시멈 모드: 자신 묘지에 몬스터(해룡족)가 10장 이상 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     This card gains ATK equal to [the ATK of 1 face-up monster on your opponent's field] until the end of this turn.
@@ -103064,6 +103082,8 @@ attribute: DARK
 level: 3
 atk: 800
 def: 1000
+series:
+- Monarch
 images:
 - index: 1
   image: ZusetheWisdomVassal-RDKP13-JP-C.png
@@ -103133,6 +103153,8 @@ attribute: LIGHT
 level: 4
 atk: 800
 def: 1000
+series:
+- Monarch
 images:
 - index: 1
   image: HebetheStarVassal-RDKP13-JP-C.png
@@ -103617,6 +103639,8 @@ attribute: LIGHT
 level: 5
 atk: 1500
 def: 1600
+series:
+- Cyber Dragon
 images:
 - index: 1
   image: CyberProcessor-RDKP13-JP-C.png
@@ -106169,7 +106193,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    The equipped monster gains 200 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). If the equipped monster is Magical Knight Type, it gains additional ATK equal to [its Level] x 200.
+    The equipped monster gains 200 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). If the equipped monster is Magical Knight Type, it gains additional [its Level] x 200 ATK.
   de:
   es:
   fr:
@@ -106248,6 +106272,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Field
+series:
+- Monarch
 images:
 - index: 1
   image: EmperorRealm-RDKP13-JP-C.png
@@ -107202,6 +107228,9 @@ requirement:
     자신 묘지의 몬스터(바람 속성 / 비행야수족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     1 face-up monster on your field gains 500 ATK until the end of this turn. Then, if this card is in Maximum Mode, inflict 500 damage to your opponent.
@@ -107976,7 +108005,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon up to 2 "Harpie Lady" and/or "Harpie Ladies" from your Graveyard face-up to your field. This turn, you cannot declare an attack on Attack Position monsters with 1200 or less ATK.
+    Special Summon up to 2 "Harpie Lady" and/or "Harpie Ladies" from your Graveyard face-up to your field. You cannot declare an attack on Attack Position monsters with 1200 or less ATK this turn.
   de:
   es:
   fr:
@@ -110707,6 +110736,7 @@ requirement:
   zh-TW:
   zh-CN:
 effect_types:
+- Summoning condition
 - Continuous
 effect:
   en: |-
@@ -112298,6 +112328,8 @@ attribute: WATER
 level: 4
 atk: 1100
 def: 600
+series:
+- Gaia
 images:
 - index: 1
   image: ChangeSlimeDragonChampionMode-RDKP14-JP-C.png
@@ -112360,6 +112392,8 @@ attribute: DARK
 level: 4
 atk: 1100
 def: 1100
+series:
+- Gaia
 images:
 - index: 1
   image: DragoncurseMagician-RDKP14-JP-C.png
@@ -112438,6 +112472,8 @@ attribute: WATER
 level: 5
 atk: 1000
 def: 2000
+series:
+- Gaia
 images:
 - index: 1
   image: LauncherCatapultTurtle-RDKP14-JP-C.png
@@ -112516,6 +112552,8 @@ attribute: DARK
 level: 5
 atk: 2000
 def: 1500
+series:
+- Gaia
 images:
 - index: 1
   image: VeteranCurseofDragon-RDKP14-JP-SR.png
@@ -113913,6 +113951,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Gaia
 images:
 - index: 1
   image: MonsterConvocation-RDKP14-JP-R.png
@@ -113971,6 +114011,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Field
+series:
+- Gaia
 images:
 - index: 1
   image: DarkBattleGrounds-RDKP14-JP-C.png
@@ -114506,6 +114548,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Gaia
 images:
 - index: 1
   image: DragonicEscape-RDKP14-JP-C.png
@@ -115116,6 +115160,8 @@ attribute: DARK
 level: 4
 atk: 1200
 def: 1100
+series:
+- Blue-Eyes
 images:
 - index: 1
   image: AbsoluteLordofD-RDSD0A-JP-C.png
@@ -115244,6 +115290,8 @@ attribute: DARK
 level: 4
 atk: 1100
 def: 600
+series:
+- Blue-Eyes
 images:
 - index: 1
   image: SoulDrake-RDSD0A-JP-C.png
@@ -115430,6 +115478,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Blue-Eyes
 images:
 - index: 1
   image: TheUltimateBlueEyedLegend-RDSD0A-JP-C.png
@@ -115550,6 +115600,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Blue-Eyes
 images:
 - index: 1
   image: TreasureofEyesofBlue-RDSD0A-JP-C.png
@@ -117373,6 +117425,8 @@ materials:
   ko:
   zh-TW:
   zh-CN:
+series:
+- Three Rulers
 images:
 - index: 1
   image: KimeterasutheDivineRuler-RDMRP2-JP-OP.png
@@ -119560,6 +119614,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Field
+series:
+- Beast Gear
 images:
 - index: 1
   image: ApocalypseBeastOverWorld-RDMRP2-JP-OP.png
@@ -120190,7 +120246,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキをシャッフルして発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120202,7 +120259,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカードを２枚めくり、お互いに確認する。自分はめくったカードの中からモンスター１体を選んで墓地へ送る事ができる。残りのカードをデッキに戻す。この効果で「斬神キバツ」を墓地へ送った場合、相手フィールドの表側表示のカード１枚を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120310,7 +120368,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120322,7 +120381,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（闇属性／魔法使い族）と魔法カードを全て墓地へ送る。残りのカードをデッキに戻す。この効果で４枚墓地へ送られた場合、自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
