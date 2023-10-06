@@ -1891,6 +1891,10 @@ sets:
     set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
+  - set_number: RD/MRP2-JP035
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/ST02-KR011
     set_name: Starter Deck Luke - Explosive Supremacy! Dragias!!
@@ -120548,7 +120552,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード以外の自分の魔法＆罠ゾーンのカード１枚を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120560,7 +120565,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は１枚ドローする。その後、手札のモンスター（闇属性／魔法使い族／攻撃力２０００または２５００）１体を相手に見せる事ができる。見せた場合、さらに自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -120574,6 +120580,7 @@ sets:
   - set_number: RD/MRP2-JP085
     set_name: Megaroad Pack 2
     rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true
