@@ -15,10 +15,10 @@ name:
   zh-CN: 烹鱼大厨・饿魔新飨
 text:
   en: |-
-    If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone. If this card is Normal or Special Summoned: You can activate 1 of these effects;
+    If this card is Normal or Special Summoned: You can activate 1 of these effects;
     ● Add 1 Level 1 Ritual Monster or 1 "Recipe" card from your Deck to your hand.
-    ● Banish any number of "Recipe" cards from your GY, and if you do, Special Summon 1 "Nouvelles" Ritual Monster from your hand with a Level equal to the number banished.
-    You can only use this effect of "Poissonniere de Nouvelles" once per turn.
+    ● Banish any number of "Recipe" cards from your GY and Special Summon 1 "Nouvelles" Ritual Monster from your hand with a Level equal to the number banished.
+    You can only use this effect of "Poissonniere de Nouvelles" once per turn. If this card on the field is Tributed and added to the Extra Deck face-up: You can place this card in your Pendulum Zone.
   de:
   es:
   fr:
@@ -43,7 +43,7 @@ def: 1700
 pendulum_scale: 8
 pendulum_effect:
   en: |-
-    If you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change the targeted monster's battle position. You can only use this effect of "Poissonniere de Nouvelles" once per turn.
+    If you control a Ritual Monster: You can target 1 monster on the field; Special Summon this card, then change that monster's battle position. You can only use this effect of "Poissonniere de Nouvelles" once per turn.
   de:
   es:
   fr:
@@ -62,6 +62,31 @@ images:
 - index: 1
   image: PoissonnieredeNouvelles-AGOV-JP-SR.png
 sets:
+  en:
+  - set_number: AGOV-EN019
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  de:
+  - set_number: AGOV-DE019
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: AGOV-FR019
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  it:
+  - set_number: AGOV-IT019
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: AGOV-PT019
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
   ja:
   - set_number: AGOV-JP019
     set_name: Age of Overlord
@@ -89,7 +114,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 980574

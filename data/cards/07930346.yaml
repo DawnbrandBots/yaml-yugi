@@ -15,7 +15,7 @@ name:
   zh-CN: 折折纸神
 text:
   en: |-
-    Once per turn: You can toss a coin until the result is tails, and if you do, draw 1 card for every 2 heads. Each time either player tosses a coin(s) while this monster is on the field: Its ATK is doubled a number of times equal to the number of heads.
+    Once per turn, during your Main Phase: You can toss a coin until the result is tails, and if you do, draw 1 card for every 2 heads. Each time a coin tossing effect resolves while this monster is on the field: Double this card's ATK for each heads from that effect.
   de:
   es:
   fr:
@@ -38,6 +38,31 @@ images:
 - index: 1
   image: OrigamiGoddess-AGOV-JP-NR.png
 sets:
+  en:
+  - set_number: AGOV-EN027
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE027
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR027
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT027
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT027
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP027
     set_name: Age of Overlord
@@ -51,7 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 994628

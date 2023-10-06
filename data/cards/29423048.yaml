@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 4 monsters
-    You can detach 1 material from this card; take 1 Pyro monster from your Deck, and either add it to your hand or send it to the GY. If this card is banished and you control a Pyro monster: You can Special Summon this card, and if you do, it gains 100 ATK for each of your currently banished monsters until the end of this turn. You can only use each effect of "Infernal Flame Banshee" once per turn.
+    You can detach 1 material from this card; take 1 Pyro monster from your Deck and either add it to your hand or send it to the GY. If this card is banished and you control a Pyro monster: You can Special Summon this card, and if you do, it gains ATK equal to the number of your currently banished monsters x 100 until the end of this turn. You can only use each effect of "Infernal Flame Banshee" once per turn.
   de:
   es:
   fr:
@@ -43,6 +43,36 @@ images:
 - index: 1
   image: InfernalFlameBanshee-AGOV-JP-R.png
 sets:
+  en:
+  - set_number: AGOV-EN043
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: AGOV-DE043
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: AGOV-FR043
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: AGOV-IT043
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: AGOV-PT043
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: AGOV-JP043
     set_name: Age of Overlord
@@ -56,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 992848

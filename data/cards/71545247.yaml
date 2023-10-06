@@ -15,7 +15,7 @@ name:
   zh-CN: 于归世佳偶
 text:
   en: |-
-    When you draw this card: You can reveal it; Special Summon it. At the start of the Battle Phase: If you have more cards in your Deck than your opponent does, this card gains ATK equal to the current difference x 300 until the end of this turn. Once per turn, during the End Phase, if this card is in your GY because it was sent there this turn: Place this card on top of the Deck.
+    When you draw this card: You can reveal it; Special Summon this card. At the start of each Battle Phase: If there are more cards in your Deck than your opponent's, this card gains ATK equal to the difference x 300, until the end of this turn. Once per turn, during the End Phase, if this card is in the GY because it was sent there this turn: Place this card on top of the Deck.
   de:
   es:
   fr:
@@ -39,6 +39,31 @@ images:
 - index: 1
   image: CursedBrideDoll-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN026
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE026
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR026
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT026
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT026
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP026
     set_name: Age of Overlord
@@ -52,7 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 994627

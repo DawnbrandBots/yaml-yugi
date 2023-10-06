@@ -15,11 +15,11 @@ name:
   zh-CN: 星霄龙转
 text:
   en: |-
-    Target 1 Fusion, Synchro, Xyz, or Link Monster on the field; return that face-up monster to the Extra Deck, then you can Special Summon 1 appropriate monster from either GY to your field based on the type of monster returned.
-    ● Fusion: A monster with the same Attribute as the returned monster.
-    ● Synchro: A monster with a lower Level than the returned monster.
-    ● Xyz: A monster with a Level equal to the returned monster's Rank.
-    ● Link: A monster with the same Type as the returned monster.
+    Target 1 Fusion, Synchro, Xyz, or Link Monster on the field; return that face-up monster to the Extra Deck, then, based on its card type, you can Special Summon 1 appropriate monster from either GY to your field.
+    ● Fusion: Monster with the same Attribute.
+    ● Synchro: Monster with a lower Level.
+    ● Xyz: Monster with the same Level as its Rank.
+    ● Link: Monster with the same Type.
     You can only activate 1 "Starry Dragon's Cycle" per turn.
   de:
   es:
@@ -43,6 +43,31 @@ images:
 - index: 1
   image: StarryDragonsCycle-AGOV-JP-R.png
 sets:
+  en:
+  - set_number: AGOV-EN079
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  de:
+  - set_number: AGOV-DE079
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: AGOV-FR079
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  it:
+  - set_number: AGOV-IT079
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: AGOV-PT079
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
   ja:
   - set_number: AGOV-JP079
     set_name: Age of Overlord
@@ -56,7 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 994631

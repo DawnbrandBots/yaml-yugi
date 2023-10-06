@@ -15,7 +15,7 @@ name:
   zh-CN: 卡片扫描者
 text:
   en: |-
-    Once per turn: You can declare 1 card type (Monster/Spell/Trap); each player reveals the bottom card of their Deck, and if they reveal a card of the declared type, they add it to their hand. Otherwise, they place it on the top of the Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.
+    Once per turn: You can declare 1 card type (Monster, Spell, or Trap); both players reveal the bottom card of their Decks, and if it was the declared card type, they add it to their hand. Otherwise, they place it on top of their Deck. If this face-up card in its owner's Spell & Trap Zone is destroyed by an opponent's card effect: You can make your opponent place 1 card from their hand on the bottom of the Deck.
   de:
   es:
   fr:
@@ -34,6 +34,31 @@ images:
 - index: 1
   image: CardScanner-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN066
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE066
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR066
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT066
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT066
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP066
     set_name: Age of Overlord
@@ -47,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 994629

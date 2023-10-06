@@ -15,11 +15,11 @@ name:
   zh-CN: 妮梦雷莉娅・回笼
 text:
   en: |-
-    If you control another "Nemleria" card: You can banish up to 3 cards from your Extra Deck, face-down, except "Dreaming Nemleria", to activate the appropriate effect;
+    If you control another "Nemleria" card: You can banish the following number of cards from your Extra Deck face-down, except "Dreaming Nemleria", then activate the appropriate effect;
     ● 1: Add 1 "Nemleria" card from your GY to your hand.
     ● 2: Any damage you take this turn is halved.
-    ● 3: Send 1 Level 10 Beast monster you control to the GY, and if you do, negate the effects of all face-up monsters your opponent currently controls until the end of this turn.
-    You can only use this effect of "Nemleria Repeter" once per turn.
+    ● 3: Send 1 Level 10 Beast monster you control to the GY, and if you do, negate the effects of all face-up monsters your opponent currently controls, until the end of this turn.
+    You can only use the effect of "Nemleria Repeter" once per turn.
   de:
   es:
   fr:
@@ -43,6 +43,31 @@ images:
 - index: 1
   image: NemleriaRepeter-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN077
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE077
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR077
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT077
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT077
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP077
     set_name: Age of Overlord
@@ -56,7 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 991832

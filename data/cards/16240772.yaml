@@ -15,9 +15,9 @@ name:
   zh-CN: 死之罪宝－露西耶拉
 text:
   en: |-
-    Target 1 Level 7 or higher Spellcaster monster you control; apply these effects, in sequence.
-    ● That face-up monster is unaffected by other monsters' effects this turn, but send it to the GY during the Standby Phase of the next turn.
-    ● All face-up monsters your opponent currently controls lose ATK equal to that monster's ATK, then, if any of those monsters' ATK has been reduced to 0 as a result, destroy it.
+    Target 1 Level 7 or higher Spellcaster monster you control; apply the following effects.
+    ● While face-up, that monster is unaffected by other monsters' effects this turn, and is sent to the GY during the Standby Phase of the next turn.
+    ● All monsters your opponent currently controls lose ATK equal to the targeted monster's ATK, then if their ATK becomes 0 by this effect, destroy them.
     You can only activate 1 "Sinful Spoils of Doom - Rciela" per turn.
   de:
   es:
@@ -41,6 +41,31 @@ images:
 - index: 1
   image: SinfulSpoilsofDoomRciela-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN055
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE055
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR055
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT055
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT055
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP055
     set_name: Age of Overlord
@@ -54,7 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 992307

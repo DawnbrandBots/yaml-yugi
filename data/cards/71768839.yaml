@@ -15,7 +15,7 @@ name:
   zh-CN: 入侵物种外星人－I.A.S
 text:
   en: |-
-    Cannot be destroyed by battle or card effects while a face-up card is in your opponent's Field Zone. You can only use each of the following effects of "I.A.S. -Invasive Alien Species-" once per turn. If a face-up card is in your opponent's Field Zone: You can target 1 monster your opponent controls; destroy it, and if you do, this card gains 1000 ATK. If a face-up card is in your opponent's Field Zone and this card is in your GY: You can Special Summon this card.
+    Cannot be destroyed by battle or card effects while your opponent has a face-up card in their Field Zone. You can only use each of the following effects of "I.A.S. -Invasive Alien Species-" once per turn. If your opponent has a face-up card in their Field Zone: You can target 1 monster they control; destroy it, and if you do, this card gains 1000 ATK. If your opponent has a face-up card in their Field Zone, while this card is in your GY: You can Special Summon this card.
   de:
   es:
   fr:
@@ -42,6 +42,31 @@ images:
 - index: 1
   image: IASInvasiveAlienSpecies-AGOV-JP-C.png
 sets:
+  en:
+  - set_number: AGOV-EN023
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  de:
+  - set_number: AGOV-DE023
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  fr:
+  - set_number: AGOV-FR023
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  it:
+  - set_number: AGOV-IT023
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  pt:
+  - set_number: AGOV-PT023
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ja:
   - set_number: AGOV-JP023
     set_name: Age of Overlord
@@ -55,7 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 994622
