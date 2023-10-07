@@ -91208,7 +91208,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Normal Monster from your Graveyard to your field in face-up Defense Position. While the monster Special Summoned by this effect is face-up, it cannot attack.
+    Special Summon 1 Normal Monster from your Graveyard to your field in face-up Defense Position, but it cannot attack while it is face-up.
   de:
   es:
   fr:
@@ -91234,9 +91234,6 @@ sets:
     set_name: 'Structure Deck: The Ultimate Blue-Eyed Legend'
     rarities:
     - Common
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 716704
 ---
 konami_id: 18581
@@ -95286,6 +95283,10 @@ sets:
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
     rarities:
     - Super Rare
+  - set_number: RD/MRP2-JP090
+    set_name: Megaroad Pack 2
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP12-KR053
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
@@ -120580,7 +120581,6 @@ sets:
   - set_number: RD/MRP2-JP085
     set_name: Megaroad Pack 2
     rarities:
-    - Common
 is_translation_unofficial:
   name:
     en: true
