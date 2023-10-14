@@ -95250,7 +95250,7 @@ requirement:
   it:
   pt:
   ja: |-
-    手札のモンスター（戦士族または天使族）を合計２体相手に見せて発動できる。
+    手札のモンスター（戦士族・天使族）を合計２体相手に見せて発動できる。
   ko: |-
     패의 몬스터(전사족 또는 천사족)를 합계 2장 상대에게 보여주고 발동할 수 있다.
   zh-TW:
@@ -119119,7 +119119,446 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1018708
 ---
-konami_id:
+konami_id: 19594
+name:
+  en: Apocalypse - Beast Over World
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>世<rt>せい</rt></ruby><ruby>紀<rt>き</rt></ruby><ruby>末<rt>まつ</rt></ruby><ruby>獣<rt>じゅう</rt></ruby><ruby>覇<rt>は</rt></ruby><ruby>界<rt>かい</rt></ruby>ビーストオーバー・ワールド
+  ja_romaji: Seikimatsu Jūhakai Bīsuto Ōbā Wārudo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    While this card is face-up in the Field Zone, face-up EARTH and DARK Attribute Beast-Warrior Type monsters with 1600 or more original ATK on the field gain 400 ATK/DEF and cannot be destroyed by card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の攻撃力が１６００以上の表側表示モンスター（地属性・闇属性／獣戦士族）の攻撃力・守備力は４００アップし、効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Field
+series:
+- Beast Gear
+images:
+- index: 1
+  image: ApocalypseBeastOverWorld-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP078
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018698
+---
+konami_id: 19595
+name:
+  en: Swordawn Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>剣<rt>けん</rt></ruby><ruby>黎<rt>れい</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
+  ja_romaji: Kenrei no Majutsushi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If your opponent has more face-up Level 7 or higher monsters on their field than the number of monsters on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル７以上）の数が、自分フィールドのモンスターの数より多い場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Summoning condition
+- Continuous
+effect:
+  en: |-
+    If you have 6 or more Spell Cards in your Graveyard, this card cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に魔法カードが６枚以上ある場合、このカードは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 1500
+images:
+- index: 1
+  image: SwordawnMagician-RDMRP2-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP080
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1005415
+---
+konami_id: 19596
+name:
+  en: Obsidian Magical Soldier
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>黒<rt>こく</rt></ruby><ruby>曜<rt>よう</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>兵<rt>へい</rt></ruby>
+  ja_romaji: Kokuyō no Madōhei
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the number of Spell Cards in your Graveyard] x 100. Also, if you have 5 or more Spell Cards in your Graveyard, this card gains additional 500 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［自分の墓地の魔法カードの数］×１００アップする。自分の墓地に魔法カードが５枚以上ある場合、さらにこのカードの攻撃力は５００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 1400
+images:
+- index: 1
+  image: ObsidianMagicalSoldier-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP081
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1016829
+---
+konami_id: 19597
+name:
+  en: Mature Dark Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>円<rt>えん</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
+  ja_romaji: Enjuku no Kuromajutsushi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 DARK Attribute Spellcaster Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（闇属性／魔法使い族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 "Dark Magician" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地の「ブラック・マジシャン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 3
+atk: 900
+def: 700
+images:
+- index: 1
+  image: MatureDarkMagician-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP082
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012503
+---
+konami_id: 19598
+name:
+  en: Jewel of the Dark Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>宝<rt>ほう</rt></ruby><ruby>石<rt>せき</rt></ruby>
+  ja_romaji: Kuromajutsushi no Hōseki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 DARK Attribute Spellcaster Type monster with 2500 ATK and/or 1 DARK Attribute Spellcaster Type monster with 2000 ATK from your hand and/or your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札または自分の墓地の、モンスター（闇属性／魔法使い族／攻撃力２５００）とモンスター（闇属性／魔法使い族／攻撃力２０００）をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: JeweloftheDarkMagician-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP083
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012504
+---
+konami_id: 19599
+name:
+  en: Spellbook Rejection
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>書<rt>しょう</rt></ruby><ruby>棄<rt>き</rt></ruby><ruby>却<rt>きゃく</rt></ruby>
+  ja_romaji: Madōshō Kikyaku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 4 cards of your Deck. Send all excavated DARK Attribute Spellcaster Type monsters and Spell Cards to the Graveyard. Shuffle the remaining cards into the Deck. If you sent 4 cards to the Graveyard by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（闇属性／魔法使い族）と魔法カードを全て墓地へ送る。残りのカードをデッキに戻す。この効果で４枚墓地へ送られた場合、自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: SpellbookRejection-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP084
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019140
+---
+konami_id: 19600
+name:
+  en: Spell Extraction
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>ま</rt></ruby><ruby>力<rt>りょく</rt></ruby><ruby>抽<rt>ちゅう</rt></ruby><ruby>出<rt>しゅつ</rt></ruby>
+  ja_romaji: Maryoku Chūshutsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other card from your Spell & Trap Zone to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分の魔法＆罠ゾーンのカード１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can reveal 1 DARK Attribute Spellcaster Type monster with 2000 or 2500 ATK in your hand. If you do, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、手札のモンスター（闇属性／魔法使い族／攻撃力２０００または２５００）１体を相手に見せる事ができる。見せた場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: SpellExtraction-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP085
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019283
+---
+konami_id: 19601
 name:
   en: Magician's Sense
   de:
@@ -119163,7 +119602,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MagiciansSense-RDMRP2-JP-OP.png
+  image: MagiciansSense-RDMRP2-JP-C.png
 sets:
   ja:
   - set_number: RD/MRP2-JP088
@@ -119446,269 +119885,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1004796
----
-konami_id:
-name:
-  en: Swordawn Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>剣<rt>けん</rt></ruby><ruby>黎<rt>れい</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
-  ja_romaji: Kenrei no Majutsushi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If your opponent has more face-up Level 7 or higher monsters on their field than the number of monsters on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター（レベル７以上）の数が、自分フィールドのモンスターの数より多い場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Summoning condition
-- Continuous
-effect:
-  en: |-
-    If you have 6 or more Spell Cards in your Graveyard, this card cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地に魔法カードが６枚以上ある場合、このカードは相手の効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 7
-atk: 2500
-def: 1500
-images:
-- index: 1
-  image: SwordawnMagician-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP080
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1005415
----
-konami_id:
-name:
-  en: Mature Dark Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>円<rt>えん</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>
-  ja_romaji: Enjuku no Kuromajutsushi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 DARK Attribute Spellcaster Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（闇属性／魔法使い族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can Special Summon 1 "Dark Magician" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。その後、自分の墓地の「ブラック・マジシャン」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 3
-atk: 900
-def: 700
-images:
-- index: 1
-  image: MatureDarkMagician-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP082
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012503
----
-konami_id:
-name:
-  en: Jewel of the Dark Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>宝<rt>ほう</rt></ruby><ruby>石<rt>せき</rt></ruby>
-  ja_romaji: Kuromajutsushi no Hōseki
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 DARK Attribute Spellcaster Type monster with 2500 ATK and/or 1 DARK Attribute Spellcaster Type monster with 2000 ATK from your hand and/or your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の手札または自分の墓地の、モンスター（闇属性／魔法使い族／攻撃力２５００）とモンスター（闇属性／魔法使い族／攻撃力２０００）をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: JeweloftheDarkMagician-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP083
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012504
----
-konami_id:
-name:
-  en: Obsidian Magical Soldier
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>黒<rt>こく</rt></ruby><ruby>曜<rt>よう</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>兵<rt>へい</rt></ruby>
-  ja_romaji: Kokuyō no Madōhei
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the number of Spell Cards in your Graveyard] x 100. Also, if you have 5 or more Spell Cards in your Graveyard, this card gains additional 500 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力は、［自分の墓地の魔法カードの数］×１００アップする。自分の墓地に魔法カードが５枚以上ある場合、さらにこのカードの攻撃力は５００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 7
-atk: 2500
-def: 1400
-images:
-- index: 1
-  image: ObsidianMagicalSoldier-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP081
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1016829
 ---
 konami_id:
 name:
@@ -120072,66 +120248,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1018423
----
-konami_id:
-name:
-  en: Apocalypse - Beast Over World
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>世<rt>せい</rt></ruby><ruby>紀<rt>き</rt></ruby><ruby>末<rt>まつ</rt></ruby><ruby>獣<rt>じゅう</rt></ruby><ruby>覇<rt>は</rt></ruby><ruby>界<rt>かい</rt></ruby>ビーストオーバー・ワールド
-  ja_romaji: Seikimatsu Jūhakai Bīsuto Ōbā Wārudo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    While this card is face-up in the Field Zone, face-up EARTH and DARK Attribute Beast-Warrior Type monsters with 1600 or more original ATK on the field gain 400 ATK/DEF and cannot be destroyed by card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの元々の攻撃力が１６００以上の表側表示モンスター（地属性・闇属性／獣戦士族）の攻撃力・守備力は４００アップし、効果では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Field
-series:
-- Beast Gear
-images:
-- index: 1
-  image: ApocalypseBeastOverWorld-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP078
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018698
 ---
 konami_id:
 name:
@@ -120538,122 +120654,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1019081
----
-konami_id:
-name:
-  en: Spellbook Rejection
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>書<rt>しょう</rt></ruby><ruby>棄<rt>き</rt></ruby><ruby>却<rt>きゃく</rt></ruby>
-  ja_romaji: Madōshō Kikyaku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 10 or more cards in your Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキのカードが１０枚以上の場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 4 cards of your Deck. Send all excavated DARK Attribute Spellcaster Type monsters and Spell Cards to the Graveyard. Shuffle the remaining cards into the Deck. If you sent 4 cards to the Graveyard by this effect, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（闇属性／魔法使い族）と魔法カードを全て墓地へ送る。残りのカードをデッキに戻す。この効果で４枚墓地へ送られた場合、自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: SpellbookRejection-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP084
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1019140
----
-konami_id:
-name:
-  en: Spell Extraction
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>ま</rt></ruby><ruby>力<rt>りょく</rt></ruby><ruby>抽<rt>ちゅう</rt></ruby><ruby>出<rt>しゅつ</rt></ruby>
-  ja_romaji: Maryoku Chūshutsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 other card from your Spell & Trap Zone to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカード以外の自分の魔法＆罠ゾーンのカード１枚を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can reveal 1 DARK Attribute Spellcaster Type monster with 2000 or 2500 ATK in your hand. If you do, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。その後、手札のモンスター（闇属性／魔法使い族／攻撃力２０００または２５００）１体を相手に見せる事ができる。見せた場合、さらに自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: SpellExtraction-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP085
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1019283
 ---
 konami_id:
 name:
