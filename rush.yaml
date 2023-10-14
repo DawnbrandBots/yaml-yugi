@@ -8389,7 +8389,7 @@ requirement:
     Manda fino a 2 mostri scoperti di Tipo Guerriero-Bestia eccetto questa carta dal tuo Terreno al Cimitero.
   pt:
   ja: |-
-    自分フィールドのこのカード以外の表側表示モンスター（獣戦士族）を２体まで墓地へ送って発動できる。
+    このカード以外の自分フィールドの表側表示モンスター（獣戦士族）を２体まで墓地へ送って発動できる。
   ko: |-
     자신 필드의 이 카드 이외의 앞면 표시 몬스터(야수전사족)를 2장까지 묘지로 보내고 발동할 수 있다.
   zh-TW:
@@ -26604,7 +26604,7 @@ effect:
     Scambia l'ATK e la DEF originali del mostro attaccante fino alla fine di questo turno. Scambia l'ATK e la DEF originali del bersaglio attaccato fino alla fine di questo turno. Poi, puoi aggiungere 1 "Scudo e Spada" dal tuo Cimitero alla tua mano.
   pt:
   ja: |-
-    攻撃してきたモンスターの元々の攻撃力・守備力をターン終了時まで入れ替える。攻撃を受けるモンスターの元々の攻撃力・守備力をターン終了時まで入れ替える。その後、自分の墓地の「右手に盾を左手に剣を」１枚を選んで手札に加える事ができる。
+    攻撃してきたモンスターの元々の攻撃力・守備力をターン終了時まで入れ替える。攻撃を受けるモンスターの元々の攻撃力・守備力をターン終了時まで入れ替える。この効果で入れ替えた場合、さらに自分の墓地の「右手に盾を左手に剣を」１枚を選んで手札に加える事ができる。
   ko: |-
     공격해 온 몬스터의 원래의 공격력 / 수비력을 턴 종료시까지 맞바꾼다. 공격을 받는 몬스터의 원래의 공격력 / 수비력을 턴 종료시까지 맞바꾼다. 그 후, 자신 묘지의 "오른손엔 방패 왼손엔 검" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
@@ -41246,7 +41246,7 @@ effect:
   it:
   pt:
   ja: |-
-    自分フィールドの表側表示モンスター（魔法使い族）１体を選ぶ。このターン、そのモンスターのレベルは２つ上がり、攻撃力は２００アップする。
+    自分フィールドの表側表示モンスター（魔法使い族）１体を選ぶ。このターン、そのモンスターのレベルは２上がり、攻撃力は２００アップする。
   ko: |-
     자신 필드의 앞면 표시 몬스터(마법사족) 1장을 고른다. 이 턴에, 그 몬스터의 레벨은 2개 올라가고, 공격력은 200 올린다.
   zh-TW:
@@ -41314,7 +41314,7 @@ effect:
   it:
   pt:
   ja: |-
-    相手に４００ダメージを与える。この効果で相手にダメージを与えた場合、さらに自分フィールドの表側表示モンスター１体を選んでその種族をターン終了時まで魔法使い族にできる。
+    相手に４００ダメージを与える。その後、自分フィールドの表側表示モンスター１体を選んでその種族をターン終了時まで魔法使い族にできる。
   ko: |-
     상대에게 400 데미지를 준다. 이 효과로 상대에게 데미지를 주었을 경우, 추가로 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 종족을 턴 종료시까지 마법사족으로 할 수 있다.
   zh-TW:
@@ -115947,7 +115947,2086 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1008803
 ---
-konami_id:
+konami_id: 19543
+name:
+  en: Lightning Volteagle
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルイーグル
+  ja_romaji: Raitoningu Boruīguru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have "Lightning Voltcondor" face-up on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示の「ライトニング・ボルコンドル」がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Summoning condition
+- Effect
+effect:
+  en: |-
+    This card can attack twice this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このターン、このカードは２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1000
+images:
+- index: 1
+  image: LightningVolteagle-RDMRP2-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP001
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018682
+---
+konami_id: 19544
+name:
+  en: Thunderbold, the Echoing Thunder
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>雷<rt>らい</rt></ruby><ruby>鳴<rt>めい</rt></ruby>のサンダーボールド
+  ja_romaji: Raimei no Sandābōrudo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 LIGHT Attribute Winged Beast Type monster from your Graveyard face-up to your field. Then, you can make up to 3 face-up monsters on your opponent's field become LIGHT Attribute until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル７／光属性／鳥獣族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを３体まで選んでその属性をターン終了時まで光属性にできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 7
+atk: 2300
+def: 1900
+images:
+- index: 1
+  image: ThunderboldtheEchoingThunder-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP002
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018683
+---
+konami_id: 19545
+name:
+  en: Lightning Voltkite
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルカイト
+  ja_romaji: Raitoningu Borukaito
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck and you have "Lightning Voltcondor" face-up on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上で、自分フィールドに表側表示の「ライトニング・ボルコンドル」がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Summoning condition
+- Effect
+effect:
+  en: |-
+    Draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 1000
+images:
+- index: 1
+  image: LightningVoltkite-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP003
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018684
+---
+konami_id: 19546
+name:
+  en: Flash Voltchick
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フラッシュ・ボルチック
+  ja_romaji: Furasshu Boruchikku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 LIGHT Attribute Winged Beast Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（光属性／鳥獣族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you sent a Level 7 monster to the Graveyard to meet the requirement, you can send the top 3 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。この効果の条件でモンスター（レベル７）を墓地へ送った場合、さらに自分のデッキの上からカード３枚を墓地へ送る事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 4
+atk: 1200
+def: 1000
+images:
+- index: 1
+  image: FlashVoltchick-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP005
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018685
+---
+konami_id: 19547
+name:
+  en: Spark Voltegg
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スパーク・ボルエッグ
+  ja_romaji: Supāku Borueggu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 1 LIGHT Attribute monster from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（光属性）１体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Attribute Winged Beast Type monster in Attack Position. Then, you can add 1 "Lightning Voltcondor" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このターン、モンスター（光属性／鳥獣族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。さらに、自分の墓地の「ライトニング・ボルコンドル」１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Winged Beast / Effect
+attribute: LIGHT
+level: 4
+atk: 0
+def: 0
+images:
+- index: 1
+  image: SparkVoltegg-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP006
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018686
+---
+konami_id: 19548
+name:
+  en: Accel Wonder Light
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アクセルワンダー・ライト
+  ja_romaji: Akuseru Wandā Raito
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 4 cards of your Deck. You can send up to 2 excavated non-Trap Cards to the Graveyard. Shuffle the remaining cards into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から罠カード以外のカードを２枚まで選んで墓地へ送る事ができる。残りのカードをデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 5
+atk: 1700
+def: 1800
+images:
+- index: 1
+  image: AccelWonderLight-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP012
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1005862
+---
+konami_id: 19549
+name:
+  en: Ultimate Flag Beast Bolt Tricorn
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>最<rt>サイ</rt></ruby><ruby>強<rt>キョー</rt></ruby><ruby>旗<rt>キ</rt></ruby><ruby>獣<rt>ジュウ</rt></ruby>ボルトライコーン
+  ja_romaji: Saikyōkijuu Borutoraikōn
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have no other monsters on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-down Spell/Trap Card on your opponent's field cannot be activated until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの裏側表示の魔法・罠カード１枚を選ぶ。そのカードは次の相手ターン終了時まで発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: LIGHT
+level: 3
+atk: 1200
+def: 200
+series:
+- Ultimate Flag
+images:
+- index: 1
+  image: UltimateFlagBeastBoltTricorn-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP013
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012486
+---
+konami_id: 19550
+name:
+  en: Cyc the Child of Wind
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>風<rt>かぜ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>サイク
+  ja_romaji: Kaze no Ko Saiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have another face-up WIND Attribute Spellcaster Type monster on your field during a turn you have not activated the effect of "Cyc the Child of Wind".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分が「風の子サイク」の効果を発動していないターンに、自分フィールドにこのカード以外の表側表示モンスター（風属性／魔法使い族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 4 or lower Spellcaster Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル４以下／魔法使い族）１体を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: WIND
+level: 2
+atk: 400
+def: 600
+images:
+- index: 1
+  image: CyctheChildofWind-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP015
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1005416
+---
+konami_id: 19551
+name:
+  en: Furtunate Cat
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: まぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>
+  ja_romaji: Magure Tsukaima
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, you can Special Summon 2 "Straynge Cat" from your Graveyard face-up to your field. Then, if you Special Summoned by this effect, this face-up card and the monsters Special Summoned by this effect can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「はぐれ使い魔」２体を選んで自分フィールドに表側表示で特殊召喚できる。この効果で特殊召喚した場合、さらにこのターン、モンスターを攻撃表示でアドバンス召喚する場合、表側表示のこのカードとこの効果で特殊召喚したモンスターはそれぞれ２体分のリリースにできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: EARTH
+level: 1
+atk: 0
+def: 400
+images:
+- index: 1
+  image: FurtunateCat-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP016
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018567
+---
+konami_id: 19552
+name:
+  en: High Magic - Double Acceleration
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハイマジック－ダブルアクセル
+  ja_romaji: Hai Majikku - Daburu Akuseru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 Level 5 or higher Spellcaster Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル５以上／魔法使い族）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up Spellcaster Type monster on your field gains ATK equal to [its original ATK] until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（魔法使い族）１体を選び、その攻撃力をターン終了時まで、［選んだモンスターの元々の攻撃力］だけアップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: HighMagicDoubleAcceleration-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP018
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1002004
+---
+konami_id: 19553
+name:
+  en: Straynge Gathering
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれ<ruby>集<rt>しゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>
+  ja_romaji: Hagure Shūkai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Spellcaster Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（魔法使い族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have 2 or more "Straynge Cat" and/or "Furtunate Cat" in your Graveyard, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。自分の墓地に「はぐれ使い魔」「まぐれ使い魔」が合計２体以上いる場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: StrayngeGathering-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP019
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018570
+---
+konami_id: 19554
+name:
+  en: Straynge Cat Signal
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>シグナル
+  ja_romaji: Hagure Tsukaima Shigunaru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Up to 3 face-up Spellcaster Type monsters with 0 original ATK on your field gain ATK equal to [the number of monsters on your opponent's field] x 1400 until the end of this turn. Then, you can Set 1 "Recovery Force" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの元々の攻撃力が０の表側表示モンスター（魔法使い族）を３体まで選び、その攻撃力をターン終了時まで、［相手フィールドのモンスターの数］×１４００アップする。その後、自分の墓地の「リカバリー・フォース」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: StrayngeCatSignal-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP020
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018568
+---
+konami_id: 19555
+name:
+  en: Lightning Voltcharge
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ライトニング・ボルチャージ
+  ja_romaji: Raitoningu Boruchāji
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if your opponent has a face-up LIGHT Attribute monster on their field, you can destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。相手フィールドに表側表示モンスター（光属性）がいる場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: LightningVoltcharge-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP021
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018687
+---
+konami_id: 19556
+name:
+  en: Straynge Cat Jealousy
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれネコジェラシー
+  ja_romaji: Hagure Nekojerashī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack while you have "Straynge Cat" or "Furtunate Cat" in your Graveyard, or when an opponent's monster declares an attack targeting a face-up monster with 0 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時、自分の墓地に「はぐれ使い魔」または「まぐれ使い魔」がいる場合、または攻撃を受ける表側表示モンスターの攻撃力が０の場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Negate the attack. Then, you can change the battle position of the attack target. If you do, inflict damage to your opponent equal to [the number of monsters on your opponent's field] x 200.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    その攻撃を無効にする。その後、攻撃を受けるモンスターの表示形式を変更できる。変更した場合、さらに［相手フィールドのモンスターの数］×２００ダメージを相手に与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: StrayngeCatJealousy-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP024
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018569
+---
+konami_id: 19557
+name:
+  en: Dragonic Demolisher
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・デモリッシャー
+  ja_romaji: Doragonikku Demorisshā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、手札のモンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 0
+images:
+- index: 1
+  image: DragonicDemolisher-RDMRP2-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP026
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1005414
+---
+konami_id: 19558
+name:
+  en: Dragonic Scout
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・スカウト
+  ja_romaji: Doragonikku Sukauto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send the top 3 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの上からカード３枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Increase this card's Level by 4 until the end of this turn. Then, you can add 1 Level 7 EARTH Attribute Dragon Type monster from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのレベルはターン終了時まで４上がる。その後、自分の墓地のモンスター（レベル７／地属性／ドラゴン族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: EARTH
+level: 3
+atk: 1300
+def: 0
+images:
+- index: 1
+  image: DragonicScout-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP028
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1009549
+---
+konami_id: 19559
+name:
+  en: Twin Edge Fire Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ツインエッジ・ファイア・ドラゴン
+  ja_romaji: Tsuin Ejji Faia Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a face-up Level 7 or higher monster on their field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドに表側表示モンスター（レベル７以上）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up Dragon Type monster on your field gains 500 ATK until the end of this turn. Then, if it was "Twin Edge Dragon", it gains additional 500 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（ドラゴン族）１体を選び、その攻撃力をターン終了時まで５００アップする。この効果で「ツインエッジ・ドラゴン」を選んだ場合、さらにその攻撃力はターン終了時まで５００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: TwinEdgeFireDragon-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP029
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1006408
+---
+konami_id: 19560
+name:
+  en: Draco the Hand-Sewn
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>手<rt>て</rt></ruby><ruby>縫<rt>ぬ</rt></ruby>いドラコ
+  ja_romaji: Tenui Dorako
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck during the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 1 monster with 1400 DEF from your Graveyard to your field in face-down Defense Position. Then, if you Special Summoned a Normal Monster by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル１／守備力１４００）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果で通常モンスターを選んだ場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: WIND
+level: 1
+atk: 0
+def: 1400
+images:
+- index: 1
+  image: DracotheHandSewn-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP031
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012487
+---
+konami_id: 19561
+name:
+  en: Gias x Gias
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ギアス×ギアス
+  ja_romaji: Giasu × Giasu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your opponent's field loses 1500 ATK until the end of this turn. Then, you can choose 1 face-up monster on your field with the same Level and Type as that monster. If you do, that monster on your field can attack twice this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで１５００ダウンする。その後、選んだモンスターと同じレベルと種族を持つ自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、その自分のモンスターは２回攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: GiasxGias-RDMRP2-JP-UR.png
+- index: 2
+  image: GiasxGias-RDMRP2-JP-OP-AA.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP032
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019492
+---
+konami_id: 19562
+name:
+  en: 7 Shift
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>7<rt>セブン</rt></ruby>シフト
+  ja_romaji: Sebun Shifuto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札の効果モンスター（レベル７以下）１体を自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: 7Shift-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP033
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1013368
+---
+konami_id: 19563
+name:
+  en: Dragonic Force
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・フォース
+  ja_romaji: Doragonikku Fōsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 3 Dragon Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（ドラゴン族）３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up monster on your field gains 900 ATK and your opponent cannot activate Trap Cards when it declares an attack. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は９００アップし、そのモンスターの攻撃宣言時に相手は罠カードを発動できない。さらに、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DragonicForce-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP034
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1002005
+---
+konami_id: 19564
+name:
+  en: The Guard
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ザ☆ガード
+  ja_romaji: Za☆Gādo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares a direct attack, shuffle 3 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの直接攻撃宣言時、自分の墓地のモンスター３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Negate the attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    その攻撃を無効にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- The
+images:
+- index: 1
+  image: TheGuard-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP036
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1011314
+---
+konami_id: 19565
+name:
+  en: The Block
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ザ☆ブロック
+  ja_romaji: Za☆Burokku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster in face-up Attack Position, and they have 2 or more monsters on their field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを表側攻撃表示で召喚・特殊召喚した時、相手フィールドにモンスターが２体以上いる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change up to 2 Level 8 or lower Attack Position monsters on your opponent's field to face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの攻撃表示モンスター（レベル８以下）を２体まで選んで表側守備表示にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- The
+images:
+- index: 1
+  image: TheBlock-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP037
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1017132
+---
+konami_id: 19566
+name:
+  en: Undulating Barrier
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>波<rt>は</rt></ruby><ruby>状<rt>じょう</rt></ruby><ruby>防<rt>ぼう</rt></ruby><ruby>壁<rt>へき</rt></ruby>
+  ja_romaji: Hajōbōheki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack targeting your Defense Position monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 5 cards of your Deck to the Graveyard. Then, if a monster(s) is among the cards sent, the attacking monster loses ATK equal to [the total Levels of the monsters sent to the Graveyard by this effect] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード５枚を墓地へ送る。その中にモンスターがいた場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターのレベルの合計］×１００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: UndulatingBarrier-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP038
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1006320
+---
+konami_id: 19567
+name:
+  en: Descending Dragon of Clear Water
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>明<rt>めい</rt></ruby><ruby>鏡<rt>きょう</rt></ruby><ruby>止<rt>し</rt></ruby><ruby>水<rt>すい</rt></ruby>・<ruby>天<rt>てん</rt></ruby><ruby>孫<rt>そん</rt></ruby><ruby>降<rt>こう</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>
+  ja_romaji: Meikyōshisui Tensonkōryū
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a monster on your field is destroyed by an opponent's card effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスターが相手の効果で破壊された時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 monster from your Graveyard face-up to your field. Then, if you have a High Dragon Type monster in your Graveyard, the monster Special Summoned by this effect gains 1000 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地にモンスター（ハイドラゴン族）がいる場合、この効果で特殊召喚したモンスターの攻撃力はターン終了時まで１０００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: DescendingDragonofClearWater-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP039
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1011943
+---
+konami_id: 19568
+name:
+  en: Kimeterasu the Divine Ruler
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>流麗<rt>ルーラ</rt></ruby>キメテラス
+  ja_romaji: Tenshō Rūra Kimeterasu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Multi-Choice
+effect:
+  en: |-
+    ● Up to 2 face-up monsters on your field can attack directly this turn.
+    ● This card gains 1000 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ●自分フィールドの表側表示モンスターを２体まで選ぶ。このターン、そのモンスターは直接攻撃できる。●このカードの攻撃力は次の相手ターン終了時まで１０００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Celestial Warrior / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3000
+def: 3000
+materials:
+  en: |-
+    "Kimeruler the Dark Raider" + "Needlkyrie the Celestial Seamstress"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「魔将キメルーラ」＋「戦天女ハリキリー」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Three Rulers
+images:
+- index: 1
+  image: KimeterasutheDivineRuler-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP040
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012490
+---
+konami_id: 19569
+name:
+  en: Hagoromo the Cloudle-Handling Celestial Seamstress
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>雲<rt>うん</rt></ruby><ruby>針<rt>しん</rt></ruby>の<ruby>戦<rt>いくさ</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>女<rt>にょ</rt></ruby>ハゴロモ
+  ja_romaji: Unshin no Ikusatennyo Hagoromo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 300 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ３００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 4 or lower Warrior or Fairy Type monster from your Graveyard to your hand. Then, you can Set 1 "Fusion" or "Divine Transformation" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル４以下／戦士族・天使族）１体を選んで手札に加える。その後、自分の墓地の「フュージョン」または「天翔変化」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Fusion / Effect
+attribute: LIGHT
+level: 8
+atk: 2000
+def: 2500
+materials:
+  en: |-
+    "Shearkyrie the Celestial Seamstress" + "Needlkyrie the Celestial Seamstress"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「戦天女キリハリー」＋「戦天女ハリキリー」
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: HagoromotheCloudleHandlingCelestialSeamstress-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP042
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012494
+---
+konami_id: 19570
+name:
+  en: Yamiluna the Dark Supporter
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>月<rt>つき</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>将<rt>しょう</rt></ruby>ヤメルーナ
+  ja_romaji: Tsukimashō Yamerūna
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have "Yamiruler the Dark Delayer" face-up on your field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示の「魔将ヤメルーラ」がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Change the battle position of 1 face-up monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体の表示形式を変更して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Summoning condition
+- Effect
+effect:
+  en: |-
+    Choose 1 face-up "Yamiruler the Dark Delayer" on your field. While that monster is face-up, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示の「魔将ヤメルーラ」１体を選ぶ。そのモンスターが表側表示でいる限り、その攻撃力は５００アップし、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: DARK
+level: 8
+atk: 2500
+def: 2500
+series:
+- Three Rulers
+images:
+- index: 1
+  image: YamilunatheDarkSupporter-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP046
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1013089
+---
+konami_id: 19571
+name:
+  en: Koi of Winter Wonder
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>氷<rt>ひょう</rt></ruby><ruby>花<rt>か</rt></ruby>の<ruby>鯉<rt>こい</rt></ruby>
+  ja_romaji: Hyōka no Koi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send all monsters from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスターを全て墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. You can only Normal or Special Summon Celestial Warrior, Warrior, or Fairy Type monsters for the rest of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。この効果の発動後、ターン終了時まで自分はモンスター（天界戦士族・戦士族・天使族）しか召喚・特殊召喚できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fish / Effect
+attribute: WATER
+level: 3
+atk: 1100
+def: 200
+images:
+- index: 1
+  image: KoiofWinterWonder-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP047
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012684
+---
+konami_id: 19572
+name:
+  en: Shield in the Right Hand
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>右<rt>みぎ</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>盾<rt>たて</rt></ruby>
+  ja_romaji: Migite no Tate
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set up to 2 "Shield & Sword" and/or "Sword & Shield" from your Graveyard in your Spell & Trap Zone. Then, if you Set "Shield & Sword" by this effect, you can change the battle position of up to 3 monsters on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「右手に盾を左手に剣を」「左手に剣を右手に盾を」を合計２枚まで選んで自分の魔法＆罠ゾーンにセットする。この効果で「右手に盾を左手に剣を」を選んだ場合、さらに相手フィールドのモンスターを３体まで選んで表示形式を変更できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 0
+def: 1000
+images:
+- index: 1
+  image: ShieldintheRightHand-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP048
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018688
+---
+konami_id: 19573
+name:
+  en: Sword in the Left Hand
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>左<rt>ひだり</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>
+  ja_romaji: Hidarite no Ken
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Shield in the Right Hand" or 1 Warrior Type Normal Monster with 500 or less ATK from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「右手の盾」または通常モンスター（戦士族／攻撃力５００以下）１体を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: SwordintheLeftHand-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP049
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018689
+---
+konami_id: 19574
+name:
+  en: Seyanen the Combustion Commander
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>燃<rt>ねん</rt></ruby><ruby>将<rt>しょう</rt></ruby>セヤネン
+  ja_romaji: Nenshō Seyanen
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. Your monsters with 1900 or less DEF cannot attack this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル８／炎属性・闇属性／戦士族）１体を選んで手札に加える。このターン、自分はモンスター（守備力１９００以下）で攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: FIRE
+level: 4
+atk: 1000
+def: 1200
+images:
+- index: 1
+  image: SeyanentheCombustionCommander-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP050
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1013207
+---
+konami_id: 19575
+name:
+  en: Kibatsu the Cutting Edge Deity
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>斬<rt>ざん</rt></ruby><ruby>神<rt>しん</rt></ruby>キバツ
+  ja_romaji: Zanshin Kibatsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキをシャッフルして発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 2 cards of your Deck. You can send 1 excavated monster to the Graveyard. Shuffle the remaining cards into the Deck. If you sent "Kibatsu the Cutting Edge Deity" to the Graveyard by this effect, you can destroy 1 face-up card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを２枚めくり、お互いに確認する。自分はめくったカードの中からモンスター１体を選んで墓地へ送る事ができる。残りのカードをデッキに戻す。この効果で「斬神キバツ」を墓地へ送った場合、相手フィールドの表側表示のカード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 200
+images:
+- index: 1
+  image: KibatsutheCuttingEdgeDeity-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP052
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019072
+---
+konami_id: 19576
 name:
   en: Resolve
   de:
@@ -115991,7 +118070,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: Resolve-RDMRP2-JP-OP.png
+  image: Resolve-RDMRP2-JP-UR.png
 sets:
   ja:
   - set_number: RD/MRP2-JP054
@@ -116006,7 +118085,556 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1001990
 ---
-konami_id:
+konami_id: 19577
+name:
+  en: Divine Transformation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>変<rt>へん</rt></ruby><ruby>化<rt>げ</rt></ruby>
+  ja_romaji: Tenshōhenge
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon a LIGHT Attribute monster by sending monsters from your field to the Graveyard as material, including a Fairy Type monster. If you Fusion Summon a Celestial Warrior Type monster by this effect, you can also use monsters in your hand as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター（天使族）を含む、自分フィールドのモンスターを素材として墓地へ送り、モンスター（光属性）をフュージョン召喚する。この効果でモンスター（天界戦士族）をフュージョン召喚する場合、手札のモンスターを素材とする事もできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DivineTransformation-RDMRP2-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP055
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012496
+---
+konami_id: 19578
+name:
+  en: Dark Ruler Battlegear
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔<rt>ま</rt></ruby><ruby>将<rt>しょう</rt></ruby><ruby>布<rt>ふ</rt></ruby><ruby>陣<rt>じん</rt></ruby><ruby>器<rt>き</rt></ruby>
+  ja_romaji: Mashō Fujinki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Level 8 DARK Attribute Warrior Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル８／闇属性／戦士族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 3 cards. Then, shuffle 1 card from your hand into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は３枚ドローする。その後、自分は手札１枚を選んでデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Three Rulers
+images:
+- index: 1
+  image: DarkRulerBattlegear-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP057
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1009632
+---
+konami_id: 19579
+name:
+  en: Vi-FRND
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>Ｖｉ－ＦＲＮＤ<rt>ヴィーフレンド</rt></ruby>
+  ja_romaji: Vī Furendo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 5 cards from the top of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの上からカードを５枚まで墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 500 ATK until the end of this turn. Then, if you have "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" in your Graveyard, you can destroy 1 card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで５００アップする。自分の墓地に「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」が全ている場合、さらに相手フィールドのカード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 0
+series:
+- Band Group
+images:
+- index: 1
+  image: ViFRND-RDMRP2-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP059
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1012500
+---
+konami_id: 19580
+name:
+  en: Ordoll the Adorable Audio Idol
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>歌<rt>か</rt></ruby><ruby>憐<rt>れん</rt></ruby><ruby>奏<rt>そう</rt></ruby><ruby>女<rt>じょ</rt></ruby>オルドール
+  ja_romaji: Karensōjo Orudōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle 2 monsters from your opponent's Graveyard into the Deck. Then, you can Special Summon 1 "Ordoll the Adorable Audio Idol" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のモンスター２体を選んでデッキに戻す。その後、自分の墓地の「歌憐奏女オルドール」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 1000
+images:
+- index: 1
+  image: OrdolltheAdorableAudioIdol-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP061
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1009472
+---
+konami_id: 19581
+name:
+  en: Star's Hand Director
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スターズハンド・ディレクター
+  ja_romaji: Sutāzuhando Direkutā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 2 Psychic Type monster with 500 ATK/0 DEF from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（レベル２／サイキック族／攻撃力５００／守備力０）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 2
+atk: 500
+def: 0
+images:
+- index: 1
+  image: StarsHandDirector-RDMRP2-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP062
+    set_name: Megaroad Pack 2
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018690
+---
+konami_id: 19582
+name:
+  en: Star's Hand Illuminator
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スターズハンド・イルミネーター
+  ja_romaji: Sutāzuhando Iruminētā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Vi-FRND" face-up on your field, you can look at up to 2 face-down cards on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。自分フィールドに表側表示の「Ｖｉ－ＦＲＮＤ」がいる場合、さらに相手フィールドの裏側表示のカードを２枚まで選んで確認できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 2
+atk: 500
+def: 0
+images:
+- index: 1
+  image: StarsHandIlluminator-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP063
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018691
+---
+konami_id: 19583
+name:
+  en: Star's Hand Roadie
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スターズハンド・ローディー
+  ja_romaji: Sutāzuhando Rōdī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Prima Guitarna the Shining Superstar" face-up on your field, you can make up to 2 face-up monsters on your field gain 1000 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。自分フィールドに表側表示の「彩光のプリマギターナ」がいる場合、さらに自分フィールドの表側表示モンスターを２体まで選んでその攻撃力を次の相手ターン終了時まで１０００アップできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Effect
+attribute: LIGHT
+level: 2
+atk: 500
+def: 0
+images:
+- index: 1
+  image: StarsHandRoadie-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP064
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018692
+---
+konami_id: 19584
+name:
+  en: Psykickoff Concert
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: オシキック・リリイベ
+  ja_romaji: Oshikikku Riri Ibe
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 3 or more Psychic Type monsters in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（サイキック族）が３体以上いる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Prima Guitarna the Shining Superstar" or "Esperade the Smashing Superstar" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「彩光のプリマギターナ」または「砕光のエスパレイド」１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Psychic Musician
+images:
+- index: 1
+  image: PsykickoffConcert-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP066
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1012505
+---
+konami_id: 19585
+name:
+  en: My Patience Has Run Out!
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ガマンが<ruby>限<rt>げん</rt></ruby><ruby>界<rt>かい</rt></ruby>！
+  ja_romaji: Gaman ga Genkai!
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Your LP are lower than your opponent's.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のＬＰが相手より少ない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, up to 2 face-up Omega Psychic and/or Psychic Type monsters on your field gain 900 ATK, and if they attack a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（オメガサイキック族・サイキック族）を２体まで選ぶ。このターン、そのモンスターの攻撃力は９００アップし、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: MyPatienceHasRunOut-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP067
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1004489
+---
+konami_id: 19586
 name:
   en: Shining Superstar Riff
   de:
@@ -116050,7 +118678,7 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: ShiningSuperstarRiff-RDMRP2-JP-OP.png
+  image: ShiningSuperstarRiff-RDMRP2-JP-UR.png
 sets:
   ja:
   - set_number: RD/MRP2-JP068
@@ -116064,6 +118692,432 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1001993
+---
+konami_id: 19587
+name:
+  en: Psychicomposition
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコンポジション
+  ja_romaji: Saikonpojishon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 500 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ５００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 DARK Attribute Psychic Type monster with 0 DEF from your Graveyard to your hand. Then, if you added "Vi-FRND" to your hand by this effect, you can send the top 3 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（闇属性／サイキック族／守備力０）１体を選んで手札に加える。この効果で「Ｖｉ－ＦＲＮＤ」を選んだ場合、さらに自分のデッキの上からカード３枚を墓地へ送る事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Band Group
+images:
+- index: 1
+  image: Psychicomposition-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP069
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018693
+---
+konami_id: 19588
+name:
+  en: Dream Ticket
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドリームチケット
+  ja_romaji: Dorīmu Chiketto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Prima Guitarna the Shining Superstar" or "Esperade the Smashing Superstar" face-up on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示の「彩光のプリマギターナ」または「砕光のエスパレイド」がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can destroy 1 card on your opponent's field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、相手フィールドのカード１枚を選んで破壊できる。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Psychic Musician
+images:
+- index: 1
+  image: DreamTicket-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP070
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018891
+---
+konami_id: 19589
+name:
+  en: Major Audition
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メジャー・オーディション
+  ja_romaji: Mejā Ōdishon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 500 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ５００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon up to 1 each of "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Band Group
+images:
+- index: 1
+  image: MajorAudition-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP071
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1019221
+---
+konami_id: 19590
+name:
+  en: Raging Rock
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>怒<rt>おこ</rt></ruby>ロック
+  ja_romaji: Oko Rokku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster while you have 3 face-up Omega Psychic and/or Psychic Type monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（オメガサイキック族・サイキック族）が３体の場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    All face-up monsters on your field gain 200 ATK until the end of this turn. Then, you can choose 1 face-up Effect Monster on your opponent's field. If you do, your opponent cannot activate the chosen monster's effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで２００アップする。その後、相手フィールドの表側表示の効果モンスター１体を選ぶ事ができる。選んだ場合、このターン、相手は選んだモンスターの効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Band Group
+images:
+- index: 1
+  image: RagingRock-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP072
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1018931
+---
+konami_id: 19591
+name:
+  en: Lullalabind
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ラララバインド
+  ja_romaji: Rararabaindo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster, shuffle 2 Psychic Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター（サイキック族）２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-up Level 8 or lower monster on your opponent's field to face-down Defense Position. Then, you can Special Summon 1 Level 2 Psychic Type monster from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで裏側守備表示にする。その後、自分の墓地のモンスター（レベル２／サイキック族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Psychic Musician
+images:
+- index: 1
+  image: Lullalabind-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP073
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1008886
+---
+konami_id: 19592
+name:
+  en: True Beast Gear King Liogon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>真<rt>しん</rt></ruby>・<ruby>獣<rt>じゅう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>覇<rt>は</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ライガオン
+  ja_romaji: Shin Jūkikaihasha Raigaon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other face-up Beast-Warrior Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドの表側表示モンスター（獣戦士族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains ATK equal to [the original ATK of the monster sent to the Graveyard to meet the requirement] until the end of this turn. Then, if you have a card in your Field Zone, you can change the battle position of 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで、［この効果の条件で墓地へ送ったモンスターの元々の攻撃力］だけアップする。自分のフィールドゾーンにカードがある場合、さらに相手フィールドのモンスター１体を選んで表示形式を変更できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 1800
+series:
+- Beast Gear
+images:
+- index: 1
+  image: TrueBeastGearKingLiogon-RDMRP2-JP-R.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP074
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018710
+---
+konami_id: 19593
+name:
+  en: True Beast Gear Emperor Kong
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>真<rt>しん</rt></ruby>・<ruby>獣<rt>じゅう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>王<rt>おう</rt></ruby>デビルコング
+  ja_romaji: Shin Jūkikaiō Debirukongu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other face-up Beast-Warrior Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の自分フィールドの表側表示モンスター（獣戦士族）１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-down card on your opponent's field. You can only attack with Beast-Warrior Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの裏側表示のカード１枚を選んで破壊する。このターン、自分はモンスター（獣戦士族以外）で攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
+attribute: DARK
+level: 7
+atk: 2400
+def: 1500
+series:
+- Beast Gear
+images:
+- index: 1
+  image: TrueBeastGearEmperorKong-RDMRP2-JP-C.png
+sets:
+  ja:
+  - set_number: RD/MRP2-JP075
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1018708
 ---
 konami_id:
 name:
@@ -116122,176 +119176,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1001997
----
-konami_id:
-name:
-  en: High Magic - Double Acceleration
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハイマジック－ダブルアクセル
-  ja_romaji: Hai Majikku - Daburu Akuseru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 2 Level 5 or higher Spellcaster Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル５以上／魔法使い族）２体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up Spellcaster Type monster on your field gains ATK equal to [its original ATK] until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（魔法使い族）１体を選び、その攻撃力をターン終了時まで、［選んだモンスターの元々の攻撃力］だけアップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: HighMagicDoubleAcceleration-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP018
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1002004
----
-konami_id:
-name:
-  en: Dragonic Force
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴニック・フォース
-  ja_romaji: Doragonikku Fōsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 3 Dragon Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（ドラゴン族）３体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up monster on your field gains 900 ATK and your opponent cannot activate Trap Cards when it declares an attack. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は９００アップし、そのモンスターの攻撃宣言時に相手は罠カードを発動できない。さらに、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: DragonicForce-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP034
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1002005
----
-konami_id:
-name:
-  en: My Patience Has Run Out!
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ガマンが<ruby>限<rt>げん</rt></ruby><ruby>界<rt>かい</rt></ruby>！
-  ja_romaji: Gaman ga Genkai!
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Your LP are lower than your opponent's.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のＬＰが相手より少ない場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, up to 2 face-up Omega Psychic and/or Psychic Type monsters on your field gain 900 ATK, and if they attack a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（オメガサイキック族・サイキック族）を２体まで選ぶ。このターン、そのモンスターの攻撃力は９００アップし、その攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: MyPatienceHasRunOut-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP067
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1004489
 ---
 konami_id:
 name:
@@ -116565,69 +119449,6 @@ yugipedia_page_id: 1004796
 ---
 konami_id:
 name:
-  en: Dragonic Demolisher
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴニック・デモリッシャー
-  ja_romaji: Doragonikku Demorisshā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send 1 monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、手札のモンスター１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-up Level 8 or lower monster on your opponent's field. Then, you can Special Summon 1 "Dragonic Slayer" from your Graveyard to your field in face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地の「ドラゴニック・スレイヤー」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: EARTH
-level: 7
-atk: 2500
-def: 0
-images:
-- index: 1
-  image: DragonicDemolisher-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP026
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1005414
----
-konami_id:
-name:
   en: Swordawn Magician
   de:
   es:
@@ -116704,1013 +119525,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1005415
----
-konami_id:
-name:
-  en: Cyc the Child of Wind
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>風<rt>かぜ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>サイク
-  ja_romaji: Kaze no Ko Saiku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have another face-up WIND Attribute Spellcaster Type monster on your field during a turn you have not activated the effect of "Cyc the Child of Wind".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分が「風の子サイク」の効果を発動していないターンに、自分フィールドにこのカード以外の表側表示モンスター（風属性／魔法使い族）がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 4 or lower Spellcaster Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル４以下／魔法使い族）１体を選んで手札に加える。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: WIND
-level: 2
-atk: 400
-def: 600
-images:
-- index: 1
-  image: CyctheChildofWind-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP015
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1005416
----
-konami_id:
-name:
-  en: Accel Wonder Light
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アクセルワンダー・ライト
-  ja_romaji: Akuseru Wandā Raito
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 4 cards of your Deck. You can send up to 2 excavated non-Trap Cards to the Graveyard. Shuffle the remaining cards into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から罠カード以外のカードを２枚まで選んで墓地へ送る事ができる。残りのカードをデッキに戻す。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: LIGHT
-level: 5
-atk: 1700
-def: 1800
-images:
-- index: 1
-  image: AccelWonderLight-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP012
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1005862
----
-konami_id:
-name:
-  en: Undulating Barrier
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>波<rt>は</rt></ruby><ruby>状<rt>じょう</rt></ruby><ruby>防<rt>ぼう</rt></ruby><ruby>壁<rt>へき</rt></ruby>
-  ja_romaji: Hajōbōheki
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack targeting your Defense Position monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の守備表示モンスターが攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 5 cards of your Deck to the Graveyard. Then, if a monster(s) is among the cards sent, the attacking monster loses ATK equal to [the total Levels of the monsters sent to the Graveyard by this effect] x 100 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード５枚を墓地へ送る。その中にモンスターがいた場合、さらに攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で墓地へ送られたモンスターのレベルの合計］×１００ダウンする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: UndulatingBarrier-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP038
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1006320
----
-konami_id:
-name:
-  en: Twin Edge Fire Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ツインエッジ・ファイア・ドラゴン
-  ja_romaji: Tsuin Ejji Faia Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If your opponent has a face-up Level 7 or higher monster on their field, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドに表側表示モンスター（レベル７以上）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up Dragon Type monster on your field gains 500 ATK until the end of this turn. Then, if it was "Twin Edge Dragon", it gains additional 500 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（ドラゴン族）１体を選び、その攻撃力をターン終了時まで５００アップする。この効果で「ツインエッジ・ドラゴン」を選んだ場合、さらにその攻撃力はターン終了時まで５００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 3
-atk: 1000
-def: 0
-images:
-- index: 1
-  image: TwinEdgeFireDragon-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP029
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1006408
----
-konami_id:
-name:
-  en: Lullalabind
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ラララバインド
-  ja_romaji: Rararabaindo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster, shuffle 2 Psychic Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター（サイキック族）２体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change 1 face-up Level 8 or lower monster on your opponent's field to face-down Defense Position. Then, you can Special Summon 1 Level 2 Psychic Type monster from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで裏側守備表示にする。その後、自分の墓地のモンスター（レベル２／サイキック族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Psychic Musician
-images:
-- index: 1
-  image: Lullalabind-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP073
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1008886
----
-konami_id:
-name:
-  en: Ordoll the Adorable Audio Idol
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>歌<rt>か</rt></ruby><ruby>憐<rt>れん</rt></ruby><ruby>奏<rt>そう</rt></ruby><ruby>女<rt>じょ</rt></ruby>オルドール
-  ja_romaji: Karensōjo Orudōru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle 2 monsters from your opponent's Graveyard into the Deck. Then, you can Special Summon 1 "Ordoll the Adorable Audio Idol" from your Graveyard to your field in face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手の墓地のモンスター２体を選んでデッキに戻す。その後、自分の墓地の「歌憐奏女オルドール」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: LIGHT
-level: 3
-atk: 1000
-def: 1000
-images:
-- index: 1
-  image: OrdolltheAdorableAudioIdol-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP061
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1009472
----
-konami_id:
-name:
-  en: Dragonic Scout
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴニック・スカウト
-  ja_romaji: Doragonikku Sukauto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If the only monsters in your Graveyard are High Dragon and/or Dragon Type monsters, send the top 3 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの上からカード３枚を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Increase this card's Level by 4 until the end of this turn. Then, you can add 1 Level 7 EARTH Attribute Dragon Type monster from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードのレベルはターン終了時まで４上がる。その後、自分の墓地のモンスター（レベル７／地属性／ドラゴン族）１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: EARTH
-level: 3
-atk: 1300
-def: 0
-images:
-- index: 1
-  image: DragonicScout-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP028
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1009549
----
-konami_id:
-name:
-  en: Dark Ruler Battlegear
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>魔<rt>ま</rt></ruby><ruby>将<rt>しょう</rt></ruby><ruby>布<rt>ふ</rt></ruby><ruby>陣<rt>じん</rt></ruby><ruby>器<rt>き</rt></ruby>
-  ja_romaji: Mashō Fujinki
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Level 8 DARK Attribute Warrior Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（レベル８／闇属性／戦士族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 3 cards. Then, shuffle 1 card from your hand into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は３枚ドローする。その後、自分は手札１枚を選んでデッキに戻す。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Three Rulers
-images:
-- index: 1
-  image: DarkRulerBattlegear-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP057
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1009632
----
-konami_id:
-name:
-  en: The Guard
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ザ☆ガード
-  ja_romaji: Za☆Gādo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares a direct attack, shuffle 3 monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手モンスターの直接攻撃宣言時、自分の墓地のモンスター３体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Negate the attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    その攻撃を無効にする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- The
-images:
-- index: 1
-  image: TheGuard-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP036
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1011314
----
-konami_id:
-name:
-  en: Descending Dragon of Clear Water
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>明<rt>めい</rt></ruby><ruby>鏡<rt>きょう</rt></ruby><ruby>止<rt>し</rt></ruby><ruby>水<rt>すい</rt></ruby>・<ruby>天<rt>てん</rt></ruby><ruby>孫<rt>そん</rt></ruby><ruby>降<rt>こう</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>
-  ja_romaji: Meikyōshisui Tensonkōryū
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a monster on your field is destroyed by an opponent's card effect.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドのモンスターが相手の効果で破壊された時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 monster from your Graveyard face-up to your field. Then, if you have a High Dragon Type monster in your Graveyard, the monster Special Summoned by this effect gains 1000 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地にモンスター（ハイドラゴン族）がいる場合、この効果で特殊召喚したモンスターの攻撃力はターン終了時まで１０００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: DescendingDragonofClearWater-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP039
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1011943
----
-konami_id:
-name:
-  en: Ultimate Flag Beast Bolt Tricorn
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>最<rt>サイ</rt></ruby><ruby>強<rt>キョー</rt></ruby><ruby>旗<rt>キ</rt></ruby><ruby>獣<rt>ジュウ</rt></ruby>ボルトライコーン
-  ja_romaji: Saikyōkijuu Borutoraikōn
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have no other monsters on your field, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外のモンスターがいない場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-down Spell/Trap Card on your opponent's field cannot be activated until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの裏側表示の魔法・罠カード１枚を選ぶ。そのカードは次の相手ターン終了時まで発動できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: LIGHT
-level: 3
-atk: 1200
-def: 200
-series:
-- Ultimate Flag
-images:
-- index: 1
-  image: UltimateFlagBeastBoltTricorn-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP013
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012486
----
-konami_id:
-name:
-  en: Draco the Hand-Sewn
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>手<rt>て</rt></ruby><ruby>縫<rt>ぬ</rt></ruby>いドラコ
-  ja_romaji: Tenui Dorako
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 10 or more cards in your Deck during the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキのカードが１０枚以上の場合、このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 1 monster with 1400 DEF from your Graveyard to your field in face-down Defense Position. Then, if you Special Summoned a Normal Monster by this effect, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル１／守備力１４００）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。この効果で通常モンスターを選んだ場合、さらに自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: WIND
-level: 1
-atk: 0
-def: 1400
-images:
-- index: 1
-  image: DracotheHandSewn-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP031
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012487
----
-konami_id:
-name:
-  en: Kimeterasu the Divine Ruler
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>流麗<rt>ルーラ</rt></ruby>キメテラス
-  ja_romaji: Tenshō Rūra Kimeterasu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Multi-Choice
-effect:
-  en: |-
-    ● Up to 2 face-up monsters on your field can attack directly this turn.
-    ● This card gains 1000 ATK until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ●自分フィールドの表側表示モンスターを２体まで選ぶ。このターン、そのモンスターは直接攻撃できる。●このカードの攻撃力は次の相手ターン終了時まで１０００アップする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Celestial Warrior / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3000
-def: 3000
-materials:
-  en: |-
-    "Kimeruler the Dark Raider" + "Needlkyrie the Celestial Seamstress"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「魔将キメルーラ」＋「戦天女ハリキリー」
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Three Rulers
-images:
-- index: 1
-  image: KimeterasutheDivineRuler-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP040
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012490
----
-konami_id:
-name:
-  en: Hagoromo the Cloudle-Handling Celestial Seamstress
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>雲<rt>うん</rt></ruby><ruby>針<rt>しん</rt></ruby>の<ruby>戦<rt>いくさ</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>女<rt>にょ</rt></ruby>ハゴロモ
-  ja_romaji: Unshin no Ikusatennyo Hagoromo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 300 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ３００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 4 or lower Warrior or Fairy Type monster from your Graveyard to your hand. Then, you can Set 1 "Fusion" or "Divine Transformation" from your Graveyard in your Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル４以下／戦士族・天使族）１体を選んで手札に加える。その後、自分の墓地の「フュージョン」または「天翔変化」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Fusion / Effect
-attribute: LIGHT
-level: 8
-atk: 2000
-def: 2500
-materials:
-  en: |-
-    "Shearkyrie the Celestial Seamstress" + "Needlkyrie the Celestial Seamstress"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    「戦天女キリハリー」＋「戦天女ハリキリー」
-  ko:
-  zh-TW:
-  zh-CN:
-images:
-- index: 1
-  image: HagoromotheCloudleHandlingCelestialSeamstress-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP042
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012494
----
-konami_id:
-name:
-  en: Divine Transformation
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>天<rt>てん</rt></ruby><ruby>翔<rt>しょう</rt></ruby><ruby>変<rt>へん</rt></ruby><ruby>化<rt>げ</rt></ruby>
-  ja_romaji: Tenshōhenge
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon a LIGHT Attribute monster by sending monsters from your field to the Graveyard as material, including a Fairy Type monster. If you Fusion Summon a Celestial Warrior Type monster by this effect, you can also use monsters in your hand as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    モンスター（天使族）を含む、自分フィールドのモンスターを素材として墓地へ送り、モンスター（光属性）をフュージョン召喚する。この効果でモンスター（天界戦士族）をフュージョン召喚する場合、手札のモンスターを素材とする事もできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: DivineTransformation-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP055
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012496
----
-konami_id:
-name:
-  en: Vi-FRND
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>Ｖｉ－ＦＲＮＤ<rt>ヴィーフレンド</rt></ruby>
-  ja_romaji: Vī Furendo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send up to 5 cards from the top of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキの上からカードを５枚まで墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 500 ATK until the end of this turn. Then, if you have "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" in your Graveyard, you can destroy 1 card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力はターン終了時まで５００アップする。自分の墓地に「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」が全ている場合、さらに相手フィールドのカード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: DARK
-level: 7
-atk: 2500
-def: 0
-series:
-- Band Group
-images:
-- index: 1
-  image: ViFRND-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP059
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012500
 ---
 konami_id:
 name:
@@ -117834,325 +119648,6 @@ yugipedia_page_id: 1012504
 ---
 konami_id:
 name:
-  en: Psykickoff Concert
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: オシキック・リリイベ
-  ja_romaji: Oshikikku Riri Ibe
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 3 or more Psychic Type monsters in your Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地にモンスター（サイキック族）が３体以上いる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Prima Guitarna the Shining Superstar" or "Esperade the Smashing Superstar" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「彩光のプリマギターナ」または「砕光のエスパレイド」１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Psychic Musician
-images:
-- index: 1
-  image: PsykickoffConcert-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP066
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1012505
----
-konami_id:
-name:
-  en: Koi of Winter Wonder
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>氷<rt>ひょう</rt></ruby><ruby>花<rt>か</rt></ruby>の<ruby>鯉<rt>こい</rt></ruby>
-  ja_romaji: Hyōka no Koi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send all monsters from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドのモンスターを全て墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. You can only Normal or Special Summon Celestial Warrior, Warrior, or Fairy Type monsters for the rest of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。この効果の発動後、ターン終了時まで自分はモンスター（天界戦士族・戦士族・天使族）しか召喚・特殊召喚できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fish / Effect
-attribute: WATER
-level: 3
-atk: 1100
-def: 200
-images:
-- index: 1
-  image: KoiofWinterWonder-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP047
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1012684
----
-konami_id:
-name:
-  en: Yamiluna the Dark Supporter
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>月<rt>つき</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>将<rt>しょう</rt></ruby>ヤメルーナ
-  ja_romaji: Tsukimashō Yamerūna
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have "Yamiruler the Dark Delayer" face-up on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示の「魔将ヤメルーラ」がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Change the battle position of 1 face-up monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター１体の表示形式を変更して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Summoning condition
-- Effect
-effect:
-  en: |-
-    Choose 1 face-up "Yamiruler the Dark Delayer" on your field. While that monster is face-up, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示の「魔将ヤメルーラ」１体を選ぶ。そのモンスターが表側表示でいる限り、その攻撃力は５００アップし、その攻撃は貫通する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: DARK
-level: 8
-atk: 2500
-def: 2500
-series:
-- Three Rulers
-images:
-- index: 1
-  image: YamilunatheDarkSupporter-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP046
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1013089
----
-konami_id:
-name:
-  en: Seyanen the Combustion Commander
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>燃<rt>ねん</rt></ruby><ruby>将<rt>しょう</rt></ruby>セヤネン
-  ja_romaji: Nenshō Seyanen
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have no other monsters on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 Level 8 FIRE or DARK Attribute Warrior Type monster from your Graveyard to your hand. Your monsters with 1900 or less DEF cannot attack this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル８／炎属性・闇属性／戦士族）１体を選んで手札に加える。このターン、自分はモンスター（守備力１９００以下）で攻撃できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: FIRE
-level: 4
-atk: 1000
-def: 1200
-images:
-- index: 1
-  image: SeyanentheCombustionCommander-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP050
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1013207
----
-konami_id:
-name:
-  en: 7 Shift
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>7<rt>セブン</rt></ruby>シフト
-  ja_romaji: Sebun Shifuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札１枚を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 7 or lower Effect Monster from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札の効果モンスター（レベル７以下）１体を自分フィールドに表側表示で特殊召喚する。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: 7Shift-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP033
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1013368
----
-konami_id:
-name:
   en: Obsidian Magical Soldier
   de:
   es:
@@ -118214,64 +119709,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1016829
----
-konami_id:
-name:
-  en: The Block
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ザ☆ブロック
-  ja_romaji: Za☆Burokku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster in face-up Attack Position, and they have 2 or more monsters on their field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手がモンスターを表側攻撃表示で召喚・特殊召喚した時、相手フィールドにモンスターが２体以上いる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change up to 2 Level 8 or lower Attack Position monsters on your opponent's field to face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの攻撃表示モンスター（レベル８以下）を２体まで選んで表側守備表示にする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- The
-images:
-- index: 1
-  image: TheBlock-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP037
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1017132
 ---
 konami_id:
 name:
@@ -118638,1014 +120075,6 @@ yugipedia_page_id: 1018423
 ---
 konami_id:
 name:
-  en: Furtunate Cat
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: まぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>
-  ja_romaji: Magure Tsukaima
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, you can Special Summon 2 "Straynge Cat" from your Graveyard face-up to your field. Then, if you Special Summoned by this effect, this face-up card and the monsters Special Summoned by this effect can be treated as 2 Tributes for the Tribute Summon of a monster in Attack Position this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「はぐれ使い魔」２体を選んで自分フィールドに表側表示で特殊召喚できる。この効果で特殊召喚した場合、さらにこのターン、モンスターを攻撃表示でアドバンス召喚する場合、表側表示のこのカードとこの効果で特殊召喚したモンスターはそれぞれ２体分のリリースにできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: EARTH
-level: 1
-atk: 0
-def: 400
-images:
-- index: 1
-  image: FurtunateCat-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP016
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018567
----
-konami_id:
-name:
-  en: Straynge Cat Signal
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: はぐれ<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>シグナル
-  ja_romaji: Hagure Tsukaima Shigunaru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Up to 3 face-up Spellcaster Type monsters with 0 original ATK on your field gain ATK equal to [the number of monsters on your opponent's field] x 1400 until the end of this turn. Then, you can Set 1 "Recovery Force" from your Graveyard in your Spell & Trap Zone.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの元々の攻撃力が０の表側表示モンスター（魔法使い族）を３体まで選び、その攻撃力をターン終了時まで、［相手フィールドのモンスターの数］×１４００アップする。その後、自分の墓地の「リカバリー・フォース」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: StrayngeCatSignal-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP020
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018568
----
-konami_id:
-name:
-  en: Straynge Cat Jealousy
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: はぐれネコジェラシー
-  ja_romaji: Hagure Nekojerashī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack while you have "Straynge Cat" or "Furtunate Cat" in your Graveyard, or when an opponent's monster declares an attack targeting a face-up monster with 0 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手モンスターの攻撃宣言時、自分の墓地に「はぐれ使い魔」または「まぐれ使い魔」がいる場合、または攻撃を受ける表側表示モンスターの攻撃力が０の場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Negate the attack. Then, you can change the battle position of the attack target. If you do, inflict damage to your opponent equal to [the number of monsters on your opponent's field] x 200.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    その攻撃を無効にする。その後、攻撃を受けるモンスターの表示形式を変更できる。変更した場合、さらに［相手フィールドのモンスターの数］×２００ダメージを相手に与える。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: StrayngeCatJealousy-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP024
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018569
----
-konami_id:
-name:
-  en: Straynge Gathering
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: はぐれ<ruby>集<rt>しゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>
-  ja_romaji: Hagure Shūkai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 Spellcaster Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（魔法使い族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you have 2 or more "Straynge Cat" and/or "Furtunate Cat" in your Graveyard, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。自分の墓地に「はぐれ使い魔」「まぐれ使い魔」が合計２体以上いる場合、さらに自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: StrayngeGathering-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP019
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018570
----
-konami_id:
-name:
-  en: Lightning Volteagle
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ライトニング・ボルイーグル
-  ja_romaji: Raitoningu Boruīguru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have "Lightning Voltcondor" face-up on your field, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示の「ライトニング・ボルコンドル」がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Summoning condition
-- Effect
-effect:
-  en: |-
-    This card can attack twice this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このターン、このカードは２回攻撃できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Winged Beast / Effect
-attribute: LIGHT
-level: 7
-atk: 2500
-def: 1000
-images:
-- index: 1
-  image: LightningVolteagle-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP001
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018682
----
-konami_id:
-name:
-  en: Thunderbold, the Echoing Thunder
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>雷<rt>らい</rt></ruby><ruby>鳴<rt>めい</rt></ruby>のサンダーボールド
-  ja_romaji: Raimei no Sandābōrudo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 7 LIGHT Attribute Winged Beast Type monster from your Graveyard face-up to your field. Then, you can make up to 3 face-up monsters on your opponent's field become LIGHT Attribute until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル７／光属性／鳥獣族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを３体まで選んでその属性をターン終了時まで光属性にできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Thunder / Effect
-attribute: FIRE
-level: 7
-atk: 2300
-def: 1900
-images:
-- index: 1
-  image: ThunderboldtheEchoingThunder-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP002
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018683
----
-konami_id:
-name:
-  en: Lightning Voltkite
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ライトニング・ボルカイト
-  ja_romaji: Raitoningu Borukaito
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 10 or more cards in your Deck and you have "Lightning Voltcondor" face-up on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキのカードが１０枚以上で、自分フィールドに表側表示の「ライトニング・ボルコンドル」がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Summoning condition
-- Effect
-effect:
-  en: |-
-    Draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Winged Beast / Effect
-attribute: LIGHT
-level: 7
-atk: 2300
-def: 1000
-images:
-- index: 1
-  image: LightningVoltkite-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP003
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018684
----
-konami_id:
-name:
-  en: Flash Voltchick
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: フラッシュ・ボルチック
-  ja_romaji: Furasshu Boruchikku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 LIGHT Attribute Winged Beast Type monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター（光属性／鳥獣族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if you sent a Level 7 monster to the Graveyard to meet the requirement, you can send the top 3 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。この効果の条件でモンスター（レベル７）を墓地へ送った場合、さらに自分のデッキの上からカード３枚を墓地へ送る事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Winged Beast / Effect
-attribute: LIGHT
-level: 4
-atk: 1200
-def: 1000
-images:
-- index: 1
-  image: FlashVoltchick-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP005
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018685
----
-konami_id:
-name:
-  en: Spark Voltegg
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スパーク・ボルエッグ
-  ja_romaji: Supāku Borueggu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 1 LIGHT Attribute monster from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（光属性）１体をデッキに戻して発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Attribute Winged Beast Type monster in Attack Position. Then, you can add 1 "Lightning Voltcondor" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このターン、モンスター（光属性／鳥獣族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。さらに、自分の墓地の「ライトニング・ボルコンドル」１体を選んで手札に加える事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Winged Beast / Effect
-attribute: LIGHT
-level: 4
-atk: 0
-def: 0
-images:
-- index: 1
-  image: SparkVoltegg-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP006
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018686
----
-konami_id:
-name:
-  en: Lightning Voltcharge
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ライトニング・ボルチャージ
-  ja_romaji: Raitoningu Boruchāji
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have a face-up Level 7 LIGHT Attribute Winged Beast Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示モンスター（レベル７／光属性／鳥獣族）がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, if your opponent has a face-up LIGHT Attribute monster on their field, you can destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。相手フィールドに表側表示モンスター（光属性）がいる場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: LightningVoltcharge-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP021
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018687
----
-konami_id:
-name:
-  en: Shield in the Right Hand
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>右<rt>みぎ</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>盾<rt>たて</rt></ruby>
-  ja_romaji: Migite no Tate
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Set up to 2 "Shield & Sword" and/or "Sword & Shield" from your Graveyard in your Spell & Trap Zone. Then, if you Set "Shield & Sword" by this effect, you can change the battle position of up to 3 monsters on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「右手に盾を左手に剣を」「左手に剣を右手に盾を」を合計２枚まで選んで自分の魔法＆罠ゾーンにセットする。この効果で「右手に盾を左手に剣を」を選んだ場合、さらに相手フィールドのモンスターを３体まで選んで表示形式を変更できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 0
-def: 1000
-images:
-- index: 1
-  image: ShieldintheRightHand-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP048
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018688
----
-konami_id:
-name:
-  en: Sword in the Left Hand
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>左<rt>ひだり</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>
-  ja_romaji: Hidarite no Ken
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Shield in the Right Hand" or 1 Warrior Type Normal Monster with 500 or less ATK from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「右手の盾」または通常モンスター（戦士族／攻撃力５００以下）１体を選んで手札に加える。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 1000
-def: 0
-images:
-- index: 1
-  image: SwordintheLeftHand-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP049
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018689
----
-konami_id:
-name:
-  en: Star's Hand Director
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スターズハンド・ディレクター
-  ja_romaji: Sutāzuhando Direkutā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚したターンに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 Level 2 Psychic Type monster with 500 ATK/0 DEF from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（レベル２／サイキック族／攻撃力５００／守備力０）１体を選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: LIGHT
-level: 2
-atk: 500
-def: 0
-images:
-- index: 1
-  image: StarsHandDirector-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP062
-    set_name: Megaroad Pack 2
-    rarities:
-    - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018690
----
-konami_id:
-name:
-  en: Star's Hand Illuminator
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スターズハンド・イルミネーター
-  ja_romaji: Sutāzuhando Iruminētā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Vi-FRND" face-up on your field, you can look at up to 2 face-down cards on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード２枚を墓地へ送る。自分フィールドに表側表示の「Ｖｉ－ＦＲＮＤ」がいる場合、さらに相手フィールドの裏側表示のカードを２枚まで選んで確認できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: LIGHT
-level: 2
-atk: 500
-def: 0
-images:
-- index: 1
-  image: StarsHandIlluminator-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP063
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018691
----
-konami_id:
-name:
-  en: Star's Hand Roadie
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スターズハンド・ローディー
-  ja_romaji: Sutāzuhando Rōdī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase this card was Normal or Special Summoned.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Prima Guitarna the Shining Superstar" face-up on your field, you can make up to 2 face-up monsters on your field gain 1000 ATK until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード２枚を墓地へ送る。自分フィールドに表側表示の「彩光のプリマギターナ」がいる場合、さらに自分フィールドの表側表示モンスターを２体まで選んでその攻撃力を次の相手ターン終了時まで１０００アップできる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Psychic / Effect
-attribute: LIGHT
-level: 2
-atk: 500
-def: 0
-images:
-- index: 1
-  image: StarsHandRoadie-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP064
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018692
----
-konami_id:
-name:
-  en: Psychicomposition
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイコンポジション
-  ja_romaji: Saikonpojishon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 500 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ５００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 DARK Attribute Psychic Type monster with 0 DEF from your Graveyard to your hand. Then, if you added "Vi-FRND" to your hand by this effect, you can send the top 3 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地のモンスター（闇属性／サイキック族／守備力０）１体を選んで手札に加える。この効果で「Ｖｉ－ＦＲＮＤ」を選んだ場合、さらに自分のデッキの上からカード３枚を墓地へ送る事ができる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Band Group
-images:
-- index: 1
-  image: Psychicomposition-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP069
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018693
----
-konami_id:
-name:
   en: Apocalypse - Beast Over World
   de:
   es:
@@ -119706,134 +120135,6 @@ yugipedia_page_id: 1018698
 ---
 konami_id:
 name:
-  en: True Beast Gear Emperor Kong
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>真<rt>しん</rt></ruby>・<ruby>獣<rt>じゅう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>王<rt>おう</rt></ruby>デビルコング
-  ja_romaji: Shin Jūkikaiō Debirukongu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 other face-up Beast-Warrior Type monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカード以外の自分フィールドの表側表示モンスター（獣戦士族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-down card on your opponent's field. You can only attack with Beast-Warrior Type monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの裏側表示のカード１枚を選んで破壊する。このターン、自分はモンスター（獣戦士族以外）で攻撃できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast-Warrior / Effect
-attribute: DARK
-level: 7
-atk: 2400
-def: 1500
-series:
-- Beast Gear
-images:
-- index: 1
-  image: TrueBeastGearEmperorKong-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP075
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018708
----
-konami_id:
-name:
-  en: True Beast Gear King Liogon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>真<rt>しん</rt></ruby>・<ruby>獣<rt>じゅう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>覇<rt>は</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ライガオン
-  ja_romaji: Shin Jūkikaihasha Raigaon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 other face-up Beast-Warrior Type monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカード以外の自分フィールドの表側表示モンスター（獣戦士族）１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains ATK equal to [the original ATK of the monster sent to the Graveyard to meet the requirement] until the end of this turn. Then, if you have a card in your Field Zone, you can change the battle position of 1 monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    このカードの攻撃力はターン終了時まで、［この効果の条件で墓地へ送ったモンスターの元々の攻撃力］だけアップする。自分のフィールドゾーンにカードがある場合、さらに相手フィールドのモンスター１体を選んで表示形式を変更できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast-Warrior / Effect
-attribute: EARTH
-level: 7
-atk: 2500
-def: 1800
-series:
-- Beast Gear
-images:
-- index: 1
-  image: TrueBeastGearKingLiogon-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP074
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018710
----
-konami_id:
-name:
   en: Seiyaryu
   de:
   es:
@@ -119873,124 +120174,6 @@ sets:
     - Super Rare
     - Secret Rare
 yugipedia_page_id: 1018842
----
-konami_id:
-name:
-  en: Dream Ticket
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドリームチケット
-  ja_romaji: Dorīmu Chiketto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have "Prima Guitarna the Shining Superstar" or "Esperade the Smashing Superstar" face-up on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドに表側表示の「彩光のプリマギターナ」または「砕光のエスパレイド」がいる場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can destroy 1 card on your opponent's field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分は１枚ドローする。その後、相手フィールドのカード１枚を選んで破壊できる。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Psychic Musician
-images:
-- index: 1
-  image: DreamTicket-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP070
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1018891
----
-konami_id:
-name:
-  en: Raging Rock
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>怒<rt>おこ</rt></ruby>ロック
-  ja_romaji: Oko Rokku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster while you have 3 face-up Omega Psychic and/or Psychic Type monsters on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの表側表示モンスター（オメガサイキック族・サイキック族）が３体の場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    All face-up monsters on your field gain 200 ATK until the end of this turn. Then, you can choose 1 face-up Effect Monster on your opponent's field. If you do, your opponent cannot activate the chosen monster's effects this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで２００アップする。その後、相手フィールドの表側表示の効果モンスター１体を選ぶ事ができる。選んだ場合、このターン、相手は選んだモンスターの効果を発動できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Band Group
-images:
-- index: 1
-  image: RagingRock-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP072
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1018931
 ---
 konami_id:
 name:
@@ -120298,68 +120481,6 @@ yugipedia_page_id: 1019007
 ---
 konami_id:
 name:
-  en: Kibatsu the Cutting Edge Deity
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>斬<rt>ざん</rt></ruby><ruby>神<rt>しん</rt></ruby>キバツ
-  ja_romaji: Zanshin Kibatsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle your Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    デッキをシャッフルして発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 2 cards of your Deck. You can send 1 excavated monster to the Graveyard. Shuffle the remaining cards into the Deck. If you sent "Kibatsu the Cutting Edge Deity" to the Graveyard by this effect, you can destroy 1 face-up card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカードを２枚めくり、お互いに確認する。自分はめくったカードの中からモンスター１体を選んで墓地へ送る事ができる。残りのカードをデッキに戻す。この効果で「斬神キバツ」を墓地へ送った場合、相手フィールドの表側表示のカード１枚を選んで破壊できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 1
-atk: 0
-def: 200
-images:
-- index: 1
-  image: KibatsutheCuttingEdgeDeity-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP052
-    set_name: Megaroad Pack 2
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1019072
----
-konami_id:
-name:
   en: Ecliceras Drakon
   de:
   es:
@@ -120475,66 +120596,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1019140
----
-konami_id:
-name:
-  en: Major Audition
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: メジャー・オーディション
-  ja_romaji: Mejā Ōdishon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 500 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    ５００ＬＰを払って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon up to 1 each of "Giftarist", "Romic n' Roller", "Berry Bassist", "Dream Drummer", and "Keytar Kid" from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分の墓地の「ギフトタリスト」「ロミックンローラー」「ベリーシスト」「ドリームラマー」「キャッチーボーディスト」をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Band Group
-images:
-- index: 1
-  image: MajorAudition-RDMRP2-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP071
-    set_name: Megaroad Pack 2
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1019221
 ---
 konami_id:
 name:
@@ -120655,67 +120716,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1019464
----
-konami_id:
-name:
-  en: Gias x Gias
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ギアス×ギアス
-  ja_romaji: Giasu × Giasu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 monster from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    手札のモンスター１体を墓地へ送って発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up monster on your opponent's field loses 1500 ATK until the end of this turn. Then, you can choose 1 face-up monster on your field with the same Level and Type as that monster. If you do, that monster on your field can attack twice this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで１５００ダウンする。その後、選んだモンスターと同じレベルと種族を持つ自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、その自分のモンスターは２回攻撃できる。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: GiasxGias-RDMRP2-JP-OP.png
-- index: 2
-  image: GiasxGias-RDMRP2-JP-OP-AA.png
-sets:
-  ja:
-  - set_number: RD/MRP2-JP032
-    set_name: Megaroad Pack 2
-    rarities:
-    - Ultra Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1019492
 ---
 konami_id:
 name:
