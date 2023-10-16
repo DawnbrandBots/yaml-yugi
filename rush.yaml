@@ -99373,7 +99373,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    You have 10 or more cards in your Deck and no other monsters on your field.
+    You have 10 or more cards in your Deck and you have no other monsters on your field.
   de:
   es:
   fr:
@@ -108534,7 +108534,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    You have 10 or more cards in your Deck and no other monsters on your field.
+    You have 10 or more cards in your Deck and you have no other monsters on your field.
   de:
   es:
   fr:
@@ -118392,7 +118392,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Level 2 Psychic Type monster with 500 ATK/0 DEF from your Graveyard face-up to your field. You can only attack with Omega Psychic or Psychic Type monsters this turn.
+    Special Summon 1 Level 2 Psychic Type monster with 500 ATK/0 DEF from your Graveyard face-up to your field. You can only attack with Omega Psychic Type or Psychic Type monsters this turn.
   de:
   es:
   fr:
@@ -118637,7 +118637,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This turn, up to 2 face-up Omega Psychic and/or Psychic Type monsters on your field gain 900 ATK, and if they attack a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+    This turn, up to 2 face-up Omega Psychic Type and/or Psychic Type monsters on your field gain 900 ATK, and if they attack a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
   de:
   es:
   fr:
@@ -119670,7 +119670,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに、手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を相手に見せて発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -119682,7 +119683,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカード４枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「セレブローズ・マジシャン」「セレブローズ・ウィッチ」「フュージョン」のいずれか１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -120835,7 +120837,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード以外の自分フィールドの表側表示モンスター（ギャラクシー族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120847,7 +120850,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを含む自分フィールドの表側表示モンスターを素材として墓地へ送り、モンスター（闇属性）をフュージョン召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -120897,7 +120901,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードは同じ属性を持つモンスター３体をリリースして攻撃表示でアドバンス召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120909,10 +120914,14 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    上記の方法でこのカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Destroy 1 card on your opponent's field. Then, you can make this card gain ATK equal to [the original Level of the monster destroyed by this effect] x 200 until the end of this turn.
@@ -120921,7 +120930,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドのカード１枚を選んで破壊する。その後、このカードの攻撃力をターン終了時まで、［この効果で破壊したモンスターの元々のレベル］×２００アップできる。
   ko:
   zh-TW:
   zh-CN:
@@ -120973,7 +120983,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120985,7 +120996,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの元々の攻撃力が１００以上の表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで、［その元々の攻撃力］だけダウンする。その後、選んだモンスターの永続効果をターン終了時まで無効にできる。
   ko:
   zh-TW:
   zh-CN:
@@ -121003,7 +121015,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「ギャラクティカ・オブリビオン」＋「ダークネス・ドワーフ」
   ko:
   zh-TW:
   zh-CN:
@@ -121050,7 +121063,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -121062,7 +121076,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル７・８／ギャラクシー族）１体または「フュージョン」１枚を選んで手札に加える。さらにこのターン、モンスター（レベル８／ギャラクシー族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分または３体分のリリースにできる。
   ko:
   zh-TW:
   zh-CN:
@@ -121080,7 +121095,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「ダークネス・ドワーフ」＋モンスター（光属性・闇属性／ギャラクシー族）
   ko:
   zh-TW:
   zh-CN:
