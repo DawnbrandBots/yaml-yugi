@@ -20,7 +20,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードは同じ属性を持つモンスター３体をリリースして攻撃表示でアドバンス召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,10 +33,14 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    上記の方法でこのカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
     Destroy 1 card on your opponent's field. Then, you can make this card gain ATK equal to [the original Level of the monster destroyed by this effect] x 200 until the end of this turn.
@@ -44,7 +49,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドのカード１枚を選んで破壊する。その後、このカードの攻撃力をターン終了時まで、［この効果で破壊したモンスターの元々のレベル］×２００アップできる。
   ko:
   zh-TW:
   zh-CN:
