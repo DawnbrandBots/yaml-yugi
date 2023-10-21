@@ -71206,6 +71206,7 @@ def: 0
 images:
 - index: 1
   image: SpecterofHeavensEnd-RDMRP1-JP-SR.png
+  illustration: SpecterofHeavensEnd-G002-JP-VG-artwork.png
 - index: 2
   image: SpecterofHeavensEnd-RDS23P-JP-OP.png
 sets:
@@ -96727,7 +96728,7 @@ effect_types:
 - Continuous
 effect:
   en: |-
-    This card cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND Attribute monster.
+    This card cannot be destroyed by battle with a DARK/EARTH/WATER/FIRE/WIND Attribute monster.
   de:
   es:
   fr:
@@ -121908,7 +121909,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに同じ種族の表側表示モンスターが２体以上いる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -121920,7 +121922,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は１枚ドローする。その後、自分フィールドの同じ属性の表側表示モンスター２体を選んでその攻撃力をターン終了時まで４００アップできる。
   ko:
   zh-TW:
   zh-CN:
