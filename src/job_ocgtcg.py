@@ -247,6 +247,16 @@ def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_offic
             document["pendulum_effect"]["ko"] = LiteralScalarString(official_pendulum)
 
 
+def neo_override_ko(document: Dict[str, Any], ko_override: Dict[int, Dict[str, str]]) -> None:
+    kid = document["konami_id"]
+    if kid and ko_override.get(kid):
+        module_logger.info(f"APPLYING OVERRIDE FOR {kid}")
+        document["name"]["ko"] = ko_override[kid]["name"]
+        document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
+        if ko_override[kid]["pendulum"]:
+            document["pendulum_effect"]["ko"] = LiteralScalarString(ko_override[kid]["pendulum"])
+
+
 def job(
     wikitext_dir: str,
     filenames: List[str],
@@ -299,6 +309,8 @@ def job(
                 annotate_assignments(document, assignments)
             if ko_overrides:
                 override_ko(document, ko_overrides, ko_official)
+            if ko_override:
+                neo_override_ko(document, ko_override)
             write_output(yaml, logger, document)
             if return_results:
                 results.append(document)
