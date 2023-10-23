@@ -20,7 +20,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,19 +33,24 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
-    Excavate the top 4 cards of your Deck. You can add 1 excavated "Meteor Dragon" or "Meteor Flare Fusion" to your hand. Place the remaining cards on the bottom of your Deck in any order.
+    Excavate the top 4 cards of your Deck. You can add 1 excavated "Meteor Dragon" or 1 excavated "Meteor Flare Fusion" to your hand. Place the remaining cards on the bottom of your Deck in any order.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
   ko:
   zh-TW:
   zh-CN:
