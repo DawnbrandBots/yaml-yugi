@@ -114713,7 +114713,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Inflict damage to your opponent equal to [the number of cards in their hand] x 300. Then, if you activated this card when a card(s) was sent from the Deck to your opponent's Graveyard, send 1 random card from your opponent's hand to the Graveyard.
+    Inflict damage to your opponent equal to [the number of cards in their hand] x 300. Then, if you activated this card when a card was sent from the Deck to your opponent's Graveyard, send 1 random card from your opponent's hand to the Graveyard.
   de:
   es:
   fr:
@@ -120346,7 +120346,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120358,19 +120359,24 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
+- Effect
 effect:
   en: |-
-    Excavate the top 4 cards of your Deck. You can add 1 excavated "Meteor Dragon" or "Meteor Flare Fusion" to your hand. Place the remaining cards on the bottom of your Deck in any order.
+    Excavate the top 4 cards of your Deck. You can add 1 excavated "Meteor Dragon" or 1 excavated "Meteor Flare Fusion" to your hand. Place the remaining cards on the bottom of your Deck in any order.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -120420,7 +120426,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地に「メテオ・ドラゴン」がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120432,7 +120439,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃力はターン終了時まで、［自分の墓地のモンスターの数］×２００アップし、その攻撃は貫通する。
   ko:
   zh-TW:
   zh-CN:
@@ -120450,7 +120458,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「真紅眼の黒竜」＋「メテオ・ドラゴン」
   ko:
   zh-TW:
   zh-CN:
@@ -120496,13 +120505,14 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「真紅眼の黒竜」「デーモンの召喚」「メテオ・ドラゴン」のいずれかを含む自分の手札・フィールドのモンスター２体を素材として墓地へ送り、フュージョン召喚する。この効果で効果モンスター以外のモンスターを特殊召喚した場合、さらに相手フィールドのカード１枚を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Fusion Summon by sending 2 monsters from your hand and/or field to the Graveyard as material, including "Red-Eyes Black Dragon", "Summoned Skull", or "Meteor Dragon". Then, if you Special Summoned a non-Effect Monster by this effect, you can destroy 1 card on your opponent's field.
+    Fusion Summon by sending 2 monsters from your hand and/or field to the Graveyard as material, including "Red-Eyes Black Dragon"/"Summoned Skull"/"Meteor Dragon". Then, if you Special Summoned a non-Effect Monster by this effect, you can destroy 1 card on your opponent's field.
   de:
   es:
   fr:
@@ -122523,8 +122533,8 @@ name:
   fr:
   it:
   pt:
-  ja: 真紅眼の月竜
-  ja_romaji:
+  ja: <ruby>真紅眼の月竜<rt>レッドアイズ・ムーンドラゴン</rt></ruby>
+  ja_romaji: Reddoaizu Mūn Doragon
   ko:
   ko_rr:
   zh-TW:
@@ -122537,7 +122547,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札にいるこのカードのカード名は「真紅眼の黒竜」になる。
   ko:
   zh-TW:
   zh-CN:
@@ -122549,7 +122560,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -122563,7 +122575,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードをフュージョン召喚の素材とする場合、このカードのカード名は「真紅眼の黒竜」になる。
   ko:
   zh-TW:
   zh-CN:
@@ -122590,3 +122603,406 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1022920
+---
+konami_id:
+name:
+  en: Alligator's Black Knight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ワイバーンの<ruby>黒<rt>くろ</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>
+  ja_romaji: Waibān no Kurokishi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have "Alligator's Sword" or a DARK Attribute monster with 1200 DEF in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に「ワイバーンの戦士」またはモンスター（闇属性／守備力１２００）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 face-up Level 8 or lower monster on your opponent's field to face-down Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル８以下）１体を選んで裏側守備表示にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: DARK
+level: 4
+atk: 1200
+def: 1200
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: AlligatorsBlackKnight-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP026
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022921
+---
+konami_id:
+name:
+  en: Rocket Satellite Medic
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ロケット<ruby>衛<rt>えい</rt></ruby><ruby>星<rt>せい</rt></ruby><ruby>兵<rt>へい</rt></ruby>
+  ja_romaji: Roketto Eiseihei
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 1 card from your hand on the bottom of the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚をデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Meteor Dragon" or 1 "Meteor Flare Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: LIGHT
+level: 4
+atk: 1300
+def: 1300
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: RocketSatelliteMedic-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP027
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022923
+---
+konami_id:
+name:
+  en: Meteor Swarm Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メテオ・スウォーム・ドラゴン
+  ja_romaji: Meteo Suwōmu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 EARTH Attribute Dragon Type monster with 1800 ATK from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（地属性／ドラゴン族／攻撃力１８００）１体を選び、自分フィールドに表側守備表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: FIRE
+level: 8
+atk: 2600
+def: 2000
+materials:
+  en: |-
+    "Meteor Dragon" + "Meteor Drake"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「メテオ・ドラゴン」＋「メテオ・ドレイク」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: MeteorSwarmDragon-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP046
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022925
+---
+konami_id:
+name:
+  en: Meteor Black Drake
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メテオ・ブラック・ドレイク
+  ja_romaji: Meteo Burakku Doreiku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have "Meteor Flare Fusion" in your Graveyard, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地に「メテオフレア・フュージョン」がある場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn. Then, if you have 2 or more "Meteor Flare Fusion" in your Graveyard, inflict 500 damage to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは次の相手ターン終了時まで相手の効果では破壊されない。自分の墓地に「メテオフレア・フュージョン」が２枚以上ある場合、さらに相手に５００ダメージを与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: FIRE
+level: 8
+atk: 3100
+def: 2000
+materials:
+  en: |-
+    "Red-Eyes Black Dragon" + "Meteor Drake"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「真紅眼の黒竜」＋「メテオ・ドレイク」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: MeteorBlackDrake-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP047
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022930
+---
+konami_id:
+name:
+  en: Meteorite Fall
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: メテオライト・フォール
+  ja_romaji: Meteoraito Fōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack while you have 3 or more Dragon Type monsters in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（ドラゴン族）が３体以上いる場合、相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The attacking monster loses 1000 ATK until the end of this turn. Then, you can Set 1 "Meteor Flare Fusion" from your Graveyard in your Spell & Trap Zone.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃してきたモンスターの攻撃力はターン終了時まで１０００ダウンする。その後、自分の墓地の「メテオフレア・フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: MeteoriteFall-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP063
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022937
+---
+konami_id:
+name:
+  en: Meteorite Dragon Nails
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>隕<rt>いん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>爪<rt>つめ</rt></ruby>
+  ja_romaji: Insekiryū no Tsume
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up EARTH/FIRE/DARK Attribute Dragon Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（地属性・炎属性・闇属性／ドラゴン族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 300 ATK. If the equipped monster is a non-Effect Fusion Monster, it gains additional 700 ATK and cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は３００アップする。装備モンスターが効果モンスター以外のフュージョンモンスターの場合、さらにその攻撃力は７００アップし、そのモンスターは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Red-Eyes
+images:
+- index: 1
+  image: MeteoriteDragonNails-RDKP15-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP15-JP058
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1022943
