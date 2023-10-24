@@ -13,7 +13,7 @@ jobs:
     name: Download TCG Forbidden & Limited Lists
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -28,7 +28,7 @@ jobs:
     name: Download OCG Forbidden & Limited Lists
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -44,7 +44,7 @@ jobs:
     name: Download Rush Duel Forbidden & Limited Lists
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -60,10 +60,10 @@ jobs:
     name: Transform Master Duel Forbidden & Limited Lists
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: yaml-yugi
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia

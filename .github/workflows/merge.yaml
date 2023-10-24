@@ -12,14 +12,14 @@ jobs:
   merge:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: yaml-yugi
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: yaml-yugi-ko
           repository: DawnbrandBots/yaml-yugi-ko
@@ -27,11 +27,11 @@ jobs:
             /*.csv
             /overrides.tsv
           sparse-checkout-cone-mode: false
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           path: aggregate
           ref: aggregate
