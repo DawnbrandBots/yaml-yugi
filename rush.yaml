@@ -43505,7 +43505,7 @@ effect_types:
 effect:
   en: |-
     ● Destroy 1 face-down card on your opponent's field.
-    ● 1 face-up Cyborg Type monster on your field gains ATK equal to [the total ATK of face-up Warrior Type monsters on your opponent's field] until the end of this turn.
+    ● 1 face-up Cyborg Type monster on your field gains ATK equal to [the total ATK of the face-up Warrior Type monsters on your opponent's field] until the end of this turn.
   de:
   es:
   fr:
@@ -69746,7 +69746,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Take damage equal to [the total ATK of face-up Level 8 or lower monsters on your opponent's field]. Then, if you took damage by this effect, destroy all face-up Level 8 or lower monsters on your opponent's field.
+    Take damage equal to [the total ATK of the face-up Level 8 or lower monsters on your opponent's field]. Then, if you took damage by this effect, destroy all face-up Level 8 or lower monsters on your opponent's field.
   de:
   es:
   fr:
@@ -116404,7 +116404,7 @@ series:
 - Royal Rebel's
 images:
 - index: 1
-  image: RoyalRebelsBeginitar-RDB233-JP-OP.png
+  image: RoyalRebelsBeginitar-RDB233-JP-C.png
 sets:
   ja:
   - set_number: RD/B233-JP006
@@ -116453,7 +116453,7 @@ series:
 - Royal Rebel's
 images:
 - index: 1
-  image: RoyalRebelsBabybass-RDB233-JP-OP.png
+  image: RoyalRebelsBabybass-RDB233-JP-C.png
 sets:
   ja:
   - set_number: RD/B233-JP007
@@ -116502,7 +116502,7 @@ series:
 - Royal Rebel's
 images:
 - index: 1
-  image: RoyalRebelsKidrum-RDB233-JP-OP.png
+  image: RoyalRebelsKidrum-RDB233-JP-C.png
 sets:
   ja:
   - set_number: RD/B233-JP008
@@ -120565,7 +120565,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時、または相手が魔法カードを発動した後、自分フィールドの表側表示モンスター（魚族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -120577,7 +120578,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドのカード１枚を選んで破壊する。その後、自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -123158,7 +123160,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -123170,7 +123173,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（水属性／攻撃力１５００以下）２体を選んで手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -123213,7 +123217,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに表側表示モンスター（水属性）がいる場合、このカードはリリースなしで召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123225,10 +123230,13 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Summoning condition
 effect:
   en: |-
     None
@@ -123237,7 +123245,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -123284,7 +123293,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123296,7 +123306,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃力はターン終了時まで、［自分フィールドの表側表示モンスター（魚族）のレベルの合計］×１００アップする。その後、自分の墓地の「波導砲ビッグ・マグロム」１体を選んで手札に加えるか自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123344,7 +123355,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札のモンスター（魚族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123356,7 +123368,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地の「フィッシャーチャージ」１枚を選んで自分の魔法＆罠ゾーンにセットする。
   ko:
   zh-TW:
   zh-CN:
@@ -123404,7 +123417,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123416,7 +123430,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「チャージ・リモーラ」１体または「フィッシャーチャージ」１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -123464,7 +123479,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札のモンスター（水属性／魚族）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123476,7 +123492,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -123518,25 +123535,27 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have a Level 7 Fish Type monster, "Fusion", or "Wave Fusion" in your Graveyard, send 1 card from your hand to the Graveyard.
+    If you have a Level 7 Fish Type monster/"Fusion"/"Wave Fusion" in your Graveyard, send 1 card from your hand to the Graveyard.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地にモンスター（レベル７／魚族）、「フュージョン」、「波涛融合」のいずれかがある場合、手札１枚を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Add 1 Level 7 Fish Type monster, "Fusion", or "Wave Fusion" from your Graveyard to your hand.
+    Add 1 Level 7 Fish Type monster/"Fusion"/"Wave Fusion" from your Graveyard to your hand.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル７／魚族）、「フュージョン」、「波涛融合」の中から１枚を選んで手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -123586,7 +123605,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -123600,7 +123620,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター（魚族）は、相手の効果では破壊されない。
   ko:
   zh-TW:
   zh-CN:
@@ -123650,7 +123671,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -123664,7 +123686,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスターがフュージョンモンスターのみの場合、このカードは直接攻撃できる。相手フィールドに表側表示のマキシマムモンスターがいる場合、相手はモンスターの効果を発動できない。
   ko:
   zh-TW:
   zh-CN:
@@ -123682,7 +123705,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「波導砲ビッグ・マグロム」＋「波導刀タネガシマグロ」
   ko:
   zh-TW:
   zh-CN:
@@ -123724,7 +123748,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -123738,7 +123763,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃は貫通する。自分フィールドの表側表示モンスター（魚族）は相手の効果では破壊されない。
   ko:
   zh-TW:
   zh-CN:
@@ -123756,7 +123782,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「波導刀鬼丸クニツナ」＋「波導銃ミニ・マグロム」
   ko:
   zh-TW:
   zh-CN:
@@ -123800,7 +123827,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地にモンスター（水属性／魚族）が５体以上いる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -123812,12 +123840,15 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のフィールド・墓地のモンスター（水属性／魚族）を素材としてデッキに戻し、モンスター（水属性／魚族）をフュージョン召喚する。
   ko:
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Polymerization
 images:
 - index: 1
   image: WaveFusion-RDKP15-JP-OP.png
