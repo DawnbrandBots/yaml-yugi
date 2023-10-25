@@ -1,6 +1,6 @@
 konami_id:
 name:
-  en: Fish Depth Charge
+  en: Salvage
   de:
   es:
   fr:
@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When your opponent Normal or Special Summons a monster, or after your opponent activates a Spell Card, send 1 face-up Fish Type monster from your field to the Graveyard.
+    None
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Destroy 1 card on your opponent's field. Then, draw 1 card.
+    Add 2 WATER Attribute monsters with 1500 or less ATK from your Graveyard to your hand.
   de:
   es:
   fr:
@@ -36,18 +36,19 @@ effect:
   ko:
   zh-TW:
   zh-CN:
-card_type: Trap
+card_type: Spell
 property: Normal
+legend: true
 images:
 - index: 1
-  image: FishDepthCharge-RDKP15-JP-OP.png
+  image: Salvage-RDKP15-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP15-JP062
+  - set_number: RD/KP15-JP056
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
 is_translation_unofficial:
   text:
     en: true
-yugipedia_page_id: 1004612
+yugipedia_page_id: 1023237
