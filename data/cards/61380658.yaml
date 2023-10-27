@@ -6,7 +6,7 @@ name:
   es: Wattsaltamontes
   fr: Électro-Sauterelle
   it: Wattcavalletta
-  pt:
+  pt: Wattsaltador
   ja: エレキリギリス
   ja_romaji: Erekirigirisu
   ko: 일렉여치
@@ -25,7 +25,7 @@ text:
   it: |-
     Il tuo avversario non può scegliere un altro mostro "Watt" scoperto come bersaglio di un attacco, o bersagliarli con effetti delle carte.
   pt: |-
-    Enquanto esta carta estiver virada para cima no campo, outros monstros "Watt" virados para cima no campo não podem ser selecionados como alvo de um ataque e não podem ser designados como alvo de um efeito de carta.
+    Os monstros do seu oponente não podem escolher monstros "Watt" como alvo de ataques, exceto este e, além disso, seu oponente não pode escolhê-los como alvo de efeitos de card.
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、相手は表側表示で存在する他の「エレキ」と名のついたモンスターを攻撃対象に選択できず、カードの効果の対象にする事もできない。
   ko: |-
@@ -63,6 +63,11 @@ sets:
   it:
   - set_number: STBL-IT027
     set_name: Starstrike Blast
+    rarities:
+    - Common
+  pt:
+  - set_number: OP23-PT030
+    set_name: OTS Tournament Pack 23
     rarities:
     - Common
   ja:
