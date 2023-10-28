@@ -109,9 +109,9 @@ jobs:
           git pull --rebase origin aggregate
           git push
       - if: steps.commit.outputs.status > 0
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
       - if: steps.commit.outputs.status > 0

@@ -20,9 +20,9 @@ jobs:
         with:
           path: aggregate
           ref: aggregate
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
       - run: yarn
