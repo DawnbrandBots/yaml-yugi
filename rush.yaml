@@ -8179,6 +8179,10 @@ series:
 images:
 - index: 1
   image: EsperadetheSmashingSuperstar-RDSBD4-JP-C.png
+  illustration: EsperadetheSmashingSuperstar-DBR-JP-VG-artwork.png
+- index: 2
+  image: EsperadetheSmashingSuperstar-RDKP15-JP-OP.png
+  illustration: EsperadetheSmashingSuperstar-OW.png
 sets:
   ja:
   - set_number: RD/KP02-JP025
@@ -8193,6 +8197,10 @@ sets:
     set_name: Strongest Battle Deck Romin - Psychic Beat
     rarities:
     - Common
+  - set_number: RD/KP15-JP000
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Over Rush Rare
   ko:
   - set_number: RD/KP02-KR025
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
@@ -124414,14 +124422,14 @@ name:
   it:
   pt:
   ja: ミラクルピック
-  ja_romaji:
+  ja_romaji: Mirakuru Pikku
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Reveal 1 Level 7 LIGHT or DARK Attribute Psychic Type monster with 0 DEF in your hand to your oppoennt.
+    Reveal 1 Level 7 LIGHT or DARK Attribute Psychic Type monster with 0 DEF in your hand to your opponent.
   de:
   es:
   fr:
@@ -124445,6 +124453,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Psychic Musician
 images:
 - index: 1
   image: MiraclePick-RDKP15-JP-OP.png
@@ -124469,8 +124479,8 @@ name:
   fr:
   it:
   pt:
-  ja: ピース＆ロックンロール
-  ja_romaji:
+  ja: ピース<ruby>＆<rt>アンド</rt></ruby>ロックンロール
+  ja_romaji: Pīsu Ando Rokkunrōru
   ko:
   ko_rr:
   zh-TW:
@@ -124501,6 +124511,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Psychic Musician
 images:
 - index: 1
   image: PeaceRocknRoll-RDKP15-JP-OP.png
@@ -124526,7 +124538,7 @@ name:
   it:
   pt:
   ja: スターズハンド・カメラレディ
-  ja_romaji:
+  ja_romaji: Sutāzu Hando Kamera Redi
   ko:
   ko_rr:
   zh-TW:
