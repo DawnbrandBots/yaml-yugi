@@ -120624,6 +120624,7 @@ sets:
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
@@ -124814,8 +124815,8 @@ name:
   fr:
   it:
   pt:
-  ja: 隕石竜の雛
-  ja_romaji:
+  ja: <ruby>隕<rt>いん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>雛<rt>ひな</rt></ruby>
+  ja_romaji: Insekiryū no Hina
   ko:
   ko_rr:
   zh-TW:
@@ -124867,3 +124868,63 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1025108
+---
+konami_id:
+name:
+  en: Cul-de-sac the Faceless
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>無<rt>む</rt></ruby><ruby>貌<rt>ぼう</rt></ruby>のカルドサック
+  ja_romaji: Mubō no Karudosakku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: LIGHT
+level: 6
+atk: 1500
+def: 0
+images:
+- index: 1
+  image: CuldesactheFaceless-RDSJMP-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/SJMP-JP034
+    set_name: Saikyō Jump January 2024 promotional card
+    rarities:
+    - Normal Parallel Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1025111
