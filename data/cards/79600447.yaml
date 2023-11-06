@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    While you control a "Memento" monster, your opponent's monsters that can attack must attack the "Memento" monster you control with the highest ATK (your choice, if tied). When your opponent activates a monster effect on the field: You can target 1 "Mementoal Tecuhtlica - Combined Creation" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of "Mementotlan Cranium Burst" once per Chain.
+    While you control a "Memento" monster, your opponent's monsters that can attack must attack the "Memento" monster you control with the highest ATK (their choice, if tied). When your opponent activates a monster effect on the field (except during the Damage Step): You can target 1 "Mementoal Tecuhtlica - Combined Creation" you control; it loses exactly 1000 ATK/DEF, and if it does, negate that activated effect. You can only activate this effect of "Mementotlan Cranium Burst" once per Chain.
   de:
   es:
   fr:
@@ -34,6 +34,31 @@ images:
 - index: 1
   image: MementotlanCraniumBurst-DBVS-JP-C.png
 sets:
+  en:
+  - set_number: VASM-EN012
+    set_name: Valiant Smashers
+    rarities:
+    - Rare
+  de:
+  - set_number: VASM-DE012
+    set_name: Valiant Smashers
+    rarities:
+    - Rare
+  fr:
+  - set_number: VASM-FR012
+    set_name: Valiant Smashers
+    rarities:
+    - Rare
+  it:
+  - set_number: VASM-IT012
+    set_name: Valiant Smashers
+    rarities:
+    - Rare
+  pt:
+  - set_number: VASM-PT012
+    set_name: Valiant Smashers
+    rarities:
+    - Rare
   ja:
   - set_number: DBVS-JP012
     set_name: 'Deck Build Pack: Valiant Smashers'
@@ -43,7 +68,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 992718

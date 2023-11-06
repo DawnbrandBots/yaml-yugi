@@ -15,8 +15,8 @@ name:
   zh-CN:
 text:
   en: |-
-    Apply 1 of these effects (your opponent's choice, if you do not have a "Vaalmonica" card in your Pendulum Zone).
-    ● Gain 500 LP, then you can place 1 card from your hand on the bottom of the Deck, and if you do, draw 2 cards.
+    Apply 1 of these effects. Unless you have a "Vaalmonica" card in your Pendulum Zone, your opponent chooses the effect.
+    ● Gain 500 LP, then you can place 1 card from your hand on the bottom of the Deck, then draw 2 cards.
     ● Take 500 damage, then you can add 1 "Vaalmonica" Spell/Trap from your Deck to your hand, except "Vaalmonica Scelta".
     You can only activate 1 "Vaalmonica Scelta" per turn.
   de:
@@ -39,6 +39,31 @@ images:
 - index: 1
   image: VaalmonicaScelta-DBVS-JP-UR.png
 sets:
+  en:
+  - set_number: VASM-EN036
+    set_name: Valiant Smashers
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: VASM-DE036
+    set_name: Valiant Smashers
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: VASM-FR036
+    set_name: Valiant Smashers
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: VASM-IT036
+    set_name: Valiant Smashers
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: VASM-PT036
+    set_name: Valiant Smashers
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DBVS-JP036
     set_name: 'Deck Build Pack: Valiant Smashers'
@@ -48,7 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1004546
