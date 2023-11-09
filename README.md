@@ -27,6 +27,9 @@ your `.git/config` file to look like this:
         fetch = ^refs/heads/aggregate
 ```
 
+![Rush Duel cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Rush%20Duel%20cards&query=length&url=https%3A%2F%2Fraw.githubusercontent.com%2FDawnbrandBots%2Fyaml-yugi%2Faggregate%2Frush.json)
+![Speed Duel Skill cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Speed%20Duel%20Skill%20cards&query=length&url=https%3A%2F%2Fraw.githubusercontent.com%2FDawnbrandBots%2Fyaml-yugi%2Faggregate%2Fskill.json)
+
 ## Sample links
 
 ### Individual card
