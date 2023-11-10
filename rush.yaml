@@ -2320,7 +2320,7 @@ series:
 legend: true
 images:
 - index: 1
-  image: BlueEyesWhiteDragon-RDKP01-JP-RR.png
+  image: BlueEyesWhiteDragon-RDP004-JP-ScR.png
   illustration: BlueEyesWhiteDragon-DBR-JP-VG-artwork.png
 - index: 2
   image: BlueEyesWhiteDragon-RDDD01-JP-ScR.png
@@ -35626,6 +35626,9 @@ series:
 images:
 - index: 1
   image: AgarieltheFinestSushiFairy-RDS223-JP-ScR.png
+  illustration: AgarieltheFinestSushiFairy-DBR-JP-VG-artwork.png
+- index: '1.1'
+  image: AgarieltheFinestSushiFairy-RDMAX2-KR-SR.png
 sets:
   ja:
   - set_number: RD/MAX2-JP039
@@ -71572,7 +71575,7 @@ images:
 - index: 1
   image: RecurringNightmare-RDMRP1-JP-ScR.png
   illustration: RecurringNightmare-G002-JP-VG-artwork.png
-- index: '1.1'
+- index: 2
   image: RecurringNightmare-RDS23P-JP-OP.png
 sets:
   ja:
@@ -104052,7 +104055,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon monsters with 0 DEF from your Graveyard, up to [the number of monsters revealed to meet the requirement], to your field in face-down Defense Position. If you do, you cannot Normal Summon Level 9 or lower monsters or Set monsters from your hand until the end of this turn.
+    Special Summon monsters with 0 DEF from your Graveyard equal to [the number of monsters revealed to meet the requirement] to your field in face-down Defense Position. If you do, you cannot Normal Summon Level 9 or lower monsters, or Set monsters from your hand until the end of this turn.
   de:
   es:
   fr:
@@ -110931,7 +110934,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Send 1 Machine Type monster from your hand or face-up from your field to the Graveyard.
+    Send 1 Machine Type monster from your hand or 1 face-up Machine Type monster from your field to the Graveyard.
   de:
   es:
   fr:
@@ -118304,7 +118307,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw 1 card. If you do, you can only Normal Summon or Special Summon Celestial Warrior/Warrior/Fairy Type monsters for the rest of the turn.
+    Draw 1 card. If you do, you can only Normal or Special Summon Celestial Warrior/Warrior/Fairy Type monsters for the rest of the turn.
   de:
   es:
   fr:
