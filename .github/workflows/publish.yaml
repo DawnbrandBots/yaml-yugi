@@ -16,7 +16,7 @@ jobs:
         with:
           path: aggregate
           ref: aggregate
-      - run: cp aggregate/* yaml-yugi/data && rm -rf yaml-yugi/data/limit-regulation/ocg
+      - run: cp aggregate/* yaml-yugi/data
       - uses: actions/upload-pages-artifact@v2
         with:
           path: yaml-yugi/data

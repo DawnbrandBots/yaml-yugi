@@ -39,10 +39,10 @@ def main() -> None:
     ocg = None
     if args.tcg:
         with open(args.tcg) as f:
-            tcg = json.load(f)
+            tcg = json.load(f)["regulation"]
     if args.ocg:
         with open(args.ocg) as f:
-            ocg = json.load(f)
+            ocg = json.load(f)["regulation"]
 
     files = [
         filename for filename in
