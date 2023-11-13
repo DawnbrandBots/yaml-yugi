@@ -92253,7 +92253,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Normal Monster from your Graveyard face-up to your field. Then, this turn, this card's name becomes the same as its name.
+    Special Summon 1 Normal Monster from your Graveyard face-up to your field. Then, this card's name becomes the same as its name this turn.
   de:
   es:
   fr:
@@ -94554,7 +94554,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw 1 card. Then, if you sent a Spell Card to the Graveyard to meet the requirement, and your LP are 1000 or lower, draw 1 card.
+    Draw 1 card. Then, if you sent a Spell Card to the Graveyard to meet the requirement and your LP are 1000 or lower, draw 1 card.
   de:
   es:
   fr:
@@ -104140,7 +104140,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This turn, this card's name becomes the same as the name of 1 Level 8 or lower monster in your Graveyard.
+    This card's name becomes the same as the name of 1 Level 8 or lower monster in your Graveyard this turn.
   de:
   es:
   fr:
@@ -125184,7 +125184,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -125196,7 +125197,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。その後、相手フィールドの表側表示モンスター（攻撃力３１００以下）を全て破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -125214,7 +125216,8 @@ materials:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「デーモンの召喚」＋「真紅眼の黒竜」
   ko:
   zh-TW:
   zh-CN:
@@ -125257,7 +125260,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札または墓地にいるこのカードのカード名は「デーモンの召喚」になる。
   ko:
   zh-TW:
   zh-CN:
@@ -125269,7 +125273,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -125281,7 +125286,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「デーモンの召喚」になる。その後、自分の墓地の通常モンスター（レベル７以下）１体を選んで自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -125329,19 +125335,21 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドに表側表示の「青眼の白龍」がいる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Choose 1 Level 8 LIGHT Attribute Dragon Type monster in your Graveyard, and add it to your hand. Then, if you chose "Blue-Eyes Bright Dragon" with this effect, you can add 1 "The Ultimate Blue-Eyed Legend" from your Graveyard to your hand.
+    Add 1 Level 8 LIGHT Attribute Dragon Type monster from your Graveyard to your hand. Then, if it was "Blue-Eyes Bright Dragon", you can add 1 "The Ultimate Blue-Eyed Legend" from your Graveyard to your hand.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル８／光属性／ドラゴン族）１体を選んで手札に加える。この効果で「青眼の煌龍」を選んだ場合、さらに自分の墓地の「究極の青眼伝説」１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -125388,19 +125396,21 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分または相手がモンスターを召喚・特殊召喚した時、または相手が魔法カードを発動した後に発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Return 1 monster on the field to the owner's hand.
+    Return 1 monster from the field to the owner's hand.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分または相手フィールドのモンスター１体を選んで持ち主の手札に戻す。
   ko:
   zh-TW:
   zh-CN:
