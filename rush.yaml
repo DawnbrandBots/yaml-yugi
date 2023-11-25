@@ -91184,7 +91184,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Your opponent draws 1 card and shows it. If that card is a monster, this card gains ATK equal to [the shown monster's ATK] until the end of this turn.
+    Your opponent draws 1 card and shows it. If that card is a monster, this card gains ATK equal to [the ATK of the shown monster] until the end of this turn.
   de:
   es:
   fr:
@@ -125915,3 +125915,202 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1029980
+---
+konami_id:
+name:
+  en: Super Assistant Hiya
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＳＰ<rt>スーパー</rt></ruby>アシスタント・ヒーヤ
+  ja_romaji: Sūpā Ashisutanto Hīya
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or more cards in your Deck, send 1 FIRE Attribute Effect Monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can place all "Super Assistant Achi" from your Graveyard on the bottom of your Deck in any order. If you do, draw 2 cards.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: FIRE
+level: 1
+atk: 0
+def: 1000
+series:
+- Chemistry
+images:
+- index: 1
+  image: SuperAssistantHiya-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP064
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030764
+---
+konami_id:
+name:
+  en: Super Assistant Biri
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＳＰ<rt>スーパー</rt></ruby>アシスタント・ビリー
+  ja_romaji: Sūpā Ashisutanto Birī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Place 1 FIRE Attribute monster from your Graveyard on top of your Deck. Then, if you have "Super Assistant Achi" in your Graveyard, you can place 2 FIRE Attribute monsters from your Graveyard on top of your Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Thunder / Effect
+attribute: FIRE
+level: 1
+atk: 0
+def: 1000
+series:
+- Chemistry
+images:
+- index: 1
+  image: SuperAssistantBiri-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP065
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030765
+---
+konami_id:
+name:
+  en: Conduction Warrior Alchemicalizer Suirai
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>伝<rt>でん</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>アルケミカライザー・スイライ
+  ja_romaji: Dendōshi Arukemikaraizā Suirai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 3 cards from your hand to the Graveyard, including a monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains ATK equal to [the total Levels of the monsters sent to the Graveyard to meet the requirement] x 100 until the end of your opponent's next turn. Then, if you sent 3 monsters with different Types to the Graveyard to meet the requirement, this card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Fusion / Effect
+attribute: FIRE
+level: 8
+atk: 2500
+def: 1500
+materials:
+  en: |-
+    1 Aqua Type monster + 1 Thunder Type monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Chemistry
+images:
+- index: 1
+  image: ConductionWarriorAlchemicalizerSuirai-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP042
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030766
