@@ -45,8 +45,8 @@ text:
     ●FOGO: Se este card destruir um monstro em batalha, cause dano ao seu oponente igual ao ATK do monstro destruído.
     ●LUZ: Uma vez por turno, você pode escolher 1 monstro de LUZ no seu Cemitério e Invocá-lo por Invocação-Especial com a face para baixo em Posição de Defesa.
   ja: |-
-    「ジェネクス」と名のついたチューナー＋チューナー以外のモンスター１体以上
-    このカードのシンクロ素材としたチューナー以外のモンスターの属性によって、このカードは以下の効果を得る。●地属性：このカードが攻撃する場合、相手はダメージステップ終了時まで 魔法・罠カードを発動できない。●炎属性：このカードが戦闘によってモンスターを破壊した場合、そのモンスターの攻撃力分のダメージを相手ライフに与える。●光属性：１ターンに１度、自分の墓地の光属性モンスター１体を選択して、自分フィールド上にセットできる。
+    「ジェネクス」チューナー＋チューナー以外のモンスター１体以上
+    ①：このカードは、このカードのＳ素材としたチューナー以外のモンスターの属性によって以下の効果を得る。●地：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。●炎：このカードが戦闘でモンスターを破壊した場合に発動する。そのモンスターの元々の攻撃力分のダメージを相手に与える。●光：１ターンに１度、自分の墓地の光属性モンスター１体を対象として発動できる。その光属性モンスターを裏側守備表示で特殊召喚する。
   ko: |-
     "제넥스"라는 이름이 붙은 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드를 싱크로 소재로 한 튜너 이외의 몬스터의 속성에 의해서, 이 카드는 이하의 효과를 얻는다.
@@ -110,6 +110,11 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  - set_number: TW01-JP094
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR057
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

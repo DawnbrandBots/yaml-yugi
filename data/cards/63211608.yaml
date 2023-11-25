@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você negar a ativação de um Card de Magia, Card de Armadilha ou efeito de Monstro de Efeito ativado pelo seu oponente, você pode Invocar este card por Invocação-Especial da sua mão.
   ja: |-
-    相手がコントロールするカードの発動を無効にした場合、このカードを手札から特殊召喚する事ができる。
+    ①：自分のカードの効果で相手のモンスターの効果・魔法・罠カードの発動を無効にした場合に発動できる。このカードを手札から特殊召喚する。
   ko: |-
     상대가 컨트롤하는 카드의 발동을 무효로 했을 경우, 이 카드를 패에서 특수 소환할 수 있다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW01-JP086
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR040
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

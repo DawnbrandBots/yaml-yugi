@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um monstro "Besta Espiritual": destrua monstros no campo até o número de monstros "Besta Espiritual" que você controlar atualmente.
   ja: |-
-    ①：自分フィールドに「霊獣」モンスターが存在する場合に発動できる。自分フィールドの「霊獣」モンスターの数まで、フィールドのモンスターを選んで破壊する。
+    ①：自分フィールドの「霊獣」モンスターの数まで、フィールドのモンスターを破壊する。
   ko: |-
     ①: 자신 필드에 "령수" 몬스터가 존재할 경우에 발동할 수 있다. 자신 필드의 "령수" 몬스터의 수까지, 필드의 몬스터를 고르고 파괴한다.
   zh-TW: |-
@@ -76,6 +76,15 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  - set_number: TW01-JP143
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: SPTR-KR032
     set_name: 'Booster SP: Tribe Force'

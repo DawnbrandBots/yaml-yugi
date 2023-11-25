@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno, você pode selecionar 1 monstro com a face para cima no campo e declarar 1 Atributo. O Atributo do monstro escolhido se torna o Atributo declarado até a Fase Final.
   ja: |-
-    １ターンに１度、フィールド上に表側表示で存在するモンスター１体を選択し、属性を１つ宣言して発動できる。選択したモンスターの属性はエンドフェイズ時まで宣言した属性になる。
+    ①：１ターンに１度、フィールドの表側表示モンスター１体を対象とし、属性を１つ宣言して発動できる。そのモンスターはターン終了時まで宣言した属性になる。
   ko: |-
     필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고, 속성을 1개 선언하여 발동한다. 이 턴의 엔드 페이즈시까지, 선택한 몬스터의 속성은 선언한 속성이 된다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW: |-
@@ -80,6 +80,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP079
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR003
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

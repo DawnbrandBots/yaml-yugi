@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: você pode escolher 1 monstro "Besta Espiritual" no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode Invocar "Domador(es) da Besta Espiritual Lara" por Invocação-Especial uma vez por turno.
   ja: |-
-    自分は「霊獣使い レラ」を１ターンに１度しか特殊召喚できない。①：このカードが召喚に成功した場合、自分の墓地の「霊獣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+    自分は「霊獣使い レラ」を１ターンに１度しか特殊召喚できない。①：このカードが召喚した場合、自分の墓地の「霊獣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     자신은 "령수사 레라"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 일반 소환에 성공했을 경우, 자신 묘지의 "령수" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
   zh-TW: |-
@@ -78,6 +78,15 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TW01-JP126
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: SPTR-KR022
     set_name: 'Booster SP: Tribe Force'

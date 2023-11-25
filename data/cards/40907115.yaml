@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: você pode escolher 1 dos seus monstro "Besta Espiritual" banidos; Invoque-o por Invocação-Especial. Você só pode Invocar "Domador(es) da Besta Espiritual Wen" por Invocação-Especial uma vez por turno.
   ja: |-
-    自分は「霊獣使い ウェン」を１ターンに１度しか特殊召喚できない。①：このカードが召喚に成功した場合、除外されている自分の「霊獣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+    自分は「霊獣使い ウェン」を１ターンに１度しか特殊召喚できない。①：このカードが召喚した場合、自分の除外状態の「霊獣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     자신은 "령수사 웬"을 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 일반 소환에 성공했을 경우, 제외되어 있는 자신의 "령수" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
   zh-TW: |-
@@ -78,6 +78,15 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TW01-JP128
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: SPTR-KR024
     set_name: 'Booster SP: Tribe Force'

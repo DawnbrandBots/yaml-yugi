@@ -34,7 +34,7 @@ text:
     Você pode escolher qualquer número de outros cards com a face para cima que você controla; devolva os alvos para a mão e, depois, até o final deste turno, este card ganha 500 de ATK para cada card devolvido para a mão por este efeito. Você só pode usar este efeito de "Dewloren, o Rei Tigre da Barreira de Gelo" uma vez por turno.
   ja: |-
     チューナー＋チューナー以外の水属性モンスター１体以上
-    このカード名の効果は１ターンに１度しか使用できない。①：このカード以外の自分フィールドの表側表示のカードを任意の数だけ対象として発動できる。その自分の表側表示のカードを持ち主の手札に戻す。このカードの攻撃力はターン終了時まで、この効果で手札に戻ったカードの数×５００アップする。
+    このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの他の表側表示カードを任意の数だけ対象として発動できる。その自分の表側表示カードを手札に戻す。このカードの攻撃力はターン終了時まで、この効果で手札に戻ったカードの数×５００アップする。
   ko: |-
     튜너 ＋ 튜너 이외의 물 속성 몬스터 1장 이상
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드 이외의 자신 필드의 앞면 표시의 카드를 임의의 수만큼 대상으로 하고 발동할 수 있다. 그 자신의 앞면 표시의 카드를 주인의 패로 되돌린다. 이 카드의 공격력은 턴 종료시까지, 이 효과로 패로 되돌아간 카드의 수 × 500 올린다.
@@ -137,6 +137,15 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Normal Parallel Rare
+  - set_number: TW01-JP037
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA02-KR027
     set_name: Hidden Arsenal 2

@@ -27,7 +27,7 @@ text:
   pt: |-
     Você pode Invocar este card por Invocação-Normal ao oferecer como Tributo 1 monstro "Genex". Cause 500 de dano ao seu oponente sempre que um monstro "Genex" com a face para cima que você controla for enviado ao Cemitério.
   ja: |-
-    このカードは「ジェネクス」と名のついたモンスター１体をリリースして召喚する事ができる。自分フィールド上に表側表示で存在する「ジェネクス」と名のついたモンスターが墓地へ送られる度に、相手ライフに５００ポイントダメージを与える。
+    このカードは「ジェネクス」モンスター１体をリリースして表側表示でアドバンス召喚できる。①：このカードがモンスターゾーンに存在する状態で、自分フィールドの表側表示の「ジェネクス」モンスターが墓地へ送られる度に発動する。相手に５００ダメージを与える。
   ko: |-
     이 카드는 "제넥스"라는 이름이 붙은 몬스터 1장을 릴리스하고 소환할 수 있다. 자신 필드 위에 앞면 표시로 존재하는 "제넥스"라는 이름이 붙은 몬스터가 묘지로 보내질 때마다, 상대 라이프에 500 포인트 데미지를 준다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 1 - Chapter of Awakening
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW01-JP065
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR010
     set_name: Hidden Arsenal 2

@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal, você pode adicionar 1 monstro "Genex-R" de Nível 2 do seu Deck para a sua mão.
   ja: |-
-    このカードが召喚に成功した時、自分のデッキからレベル２の「レアル・ジェネクス」と名のついたモンスター１体を手札に加える事ができる。
+    ①：このカードが召喚した時に発動できる。デッキからレベル２の「レアル・ジェネクス」モンスター１体を手札に加える。
   ko: |-
     이 카드가 일반 소환에 성공했을 때 자신의 덱에서 레벨 2의 "레알 제넥스"라는 이름이 붙은 몬스터 1장을 패에 넣을 수 있다.
   zh-TW: |-
@@ -80,6 +80,15 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP072
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR017
     set_name: Hidden Arsenal 3

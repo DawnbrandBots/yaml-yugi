@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card seria destruído, em vez disso, você pode destruir 1 monstro "Controlador Genex" que você controla.
   ja: |-
-    フィールド上に表側表示で存在するこのカードが破壊される場合、代わりに自分フィールド上に表側表示で存在する「ジェネクス・コントローラー」１体を破壊できる。
+    ①：フィールドのこのカードが戦闘・効果で破壊される場合、代わりに自分フィールドの「ジェネクス・コントローラー」１体を破壊できる。
   ko: |-
     이 카드가 파괴될 경우, 대신에 이 카드 이외의 "제넥스 컨트롤러"라는 이름이 붙은 몬스터 1장을 파괴할 수 있다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 1 - Chapter of Awakening
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP061
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR006
     set_name: Hidden Arsenal 2

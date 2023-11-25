@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno, você pode enviar 1 monstro "Genex" de ÁGUA com a face para cima que você controla ao Cemitério para comprar 2 cards.
   ja: |-
-    自分フィールド上に表側表示で存在する「ジェネクス」と名のついた水属性モンスター１体を墓地へ送って発動する。自分のデッキからカードを２枚ドローする。この効果は１ターンに１度しか使用できない。
+    ①：１ターンに１度、自分フィールドの表側表示の水属性の「ジェネクス」モンスター１体を墓地へ送って発動できる。自分は２枚ドローする。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 "제넥스"라는 이름이 붙은 물 속성 몬스터 1장을 묘지로 보내고 발동한다. 자신의 덱에서 카드를 2장 드로우한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP081
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR005
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

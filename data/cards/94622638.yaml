@@ -27,7 +27,7 @@ text:
   pt: |-
     Outros monstros com a face para cima que você controla com o mesmo Atributo que este card ganham 500 de ATK.
   ja: |-
-    このカード以外の自分フィールド上に表側表示で存在するこのカードと同じ属性のモンスターの攻撃力は５００ポイントアップする。
+    ①：このカードがモンスターゾーンに存在する限り、このカードと同じ属性を持つ、自分フィールドの他のモンスターの攻撃力は５００アップする。
   ko: |-
     이 카드 이외의 자신 필드 위에 앞면 표시로 존재하는 이 카드와 같은 속성의 몬스터 공격력은 500 포인트 올린다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW01-JP078
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR002
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

@@ -45,7 +45,10 @@ text:
     ● Campo: Bana até 2 cards que seu oponente controla.
     ● Cemitério: Bana até 2 cards no Cemitério do seu oponente.
   ja: |-
-    ①：このターン相手が発動したモンスターの効果で、自分の手札・フィールド・墓地のカードが除外される度に、以下の効果を適用する。●手札：相手の手札をランダムに２枚まで選んで除外する。●フィールド：相手フィールドのカードを２枚まで選んで除外する。●墓地：相手の墓地のカードを２枚まで選んで除外する。
+    ①：このターン中、相手が発動したモンスターの効果でカードが除外される度に、そのカードがどこから除外されたかによって以下の効果を適用する。
+    ●自分の手札：相手の手札をランダムに２枚まで除外する。
+    ●自分フィールド：相手フィールドのカードを２枚まで除外する。
+    ●自分の墓地：相手の墓地のカードを２枚まで除外する。
   ko: |-
     ①: 이 턴에 상대가 발동한 몬스터의 효과로, 자신의 패 / 필드 / 묘지의 카드가 제외될 때마다, 이하의 효과를 적용한다.
     ●패: 상대의 패를 무작위로 2장까지 고르고 제외한다.
@@ -116,6 +119,11 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  - set_number: TW01-JP043
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: STBL-KR055
     set_name: Starstrike Blast

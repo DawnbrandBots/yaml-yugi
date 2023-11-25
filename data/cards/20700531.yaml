@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser destruído em batalha com um monstro que tenha 1900 ou mais de ATK.
   ja: |-
-    このカードは攻撃力１９００以上のモンスターとの戦闘では破壊されない。
+    ①：このカードは攻撃力１９００以上のモンスターとの戦闘では破壊されない。
   ko: |-
     이 카드는 공격력 1900 이상의 몬스터와의 전투로는 파괴되지 않는다.
   zh-TW: |-
@@ -105,6 +105,11 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP013
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR046
     set_name: Hidden Arsenal 2

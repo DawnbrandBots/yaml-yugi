@@ -34,7 +34,7 @@ text:
     Quando este card destruir um monstro do oponente em batalha e enviá-lo ao Cemitério, ganhe PV igual ao ATK do monstro destruído.
   ja: |-
     「ジェネクス・コントローラー」＋チューナー以外の水属性モンスター１体以上
-    このカードが戦闘によって相手モンスターを破壊し墓地へ送った時、破壊したモンスターの攻撃力分だけ自分のライフポイントを回復する。
+    ①：このカードが戦闘で相手モンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々の攻撃力分だけ自分のＬＰを回復する。
   ko: |-
     "제넥스 컨트롤러" ＋ 튜너 이외의 물 속성 몬스터 1장 이상
     ①: 이 카드가 전투로 상대 몬스터를 파괴하고 묘지로 보냈을 경우에 발동한다. 그 몬스터의 원래 공격력만큼만 자신의 LP를 회복한다.
@@ -91,6 +91,11 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  - set_number: TW01-JP087
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP12-KR040
     set_name: Premium Pack Vol.12

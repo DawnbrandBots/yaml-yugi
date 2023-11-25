@@ -27,7 +27,7 @@ text:
   pt: |-
     Se não houverem outros cards no campo: escolha 1 monstro de ÁGUA ou VENTO em seu Cemitério; adicione o alvo à sua mão.
   ja: |-
-    お互いのフィールド上に、他のカードが存在しない場合に発動できる。自分の墓地から水属性または風属性のモンスター１体を選択して手札に加える。
+    ①：お互いのフィールドに他のカードが存在しない場合、自分の墓地の水・風属性モンスター１体を対象として発動できる。その水・風属性モンスターを手札に加える。
   ko: |-
     서로의 필드 위에, 다른 카드가 존재하지 않을 경우에 발동할 수 있다. 자신의 묘지에서 물 속성 또는 바람 속성의 몬스터 1장을 선택하고 패에 넣는다.
   zh-TW: |-
@@ -70,6 +70,11 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Common
+  - set_number: TW01-JP046
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: CBLZ-KR066
     set_name: Cosmo Blazer

@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card com a face para cima no campo for destruído e enviado ao Cemitério, você pode selecionar 2 monstros "Genex" do seu Cemitério e devolvê-los para o Deck.
   ja: |-
-    フィールド上に表側表示で存在するこのカードが破壊され墓地へ送られた時、自分の墓地に存在する「ジェネクス」と名のついたモンスター２体をデッキに戻す事ができる。
+    ①：フィールドの表側表示のこのカードが破壊され墓地へ送られた時、自分の墓地の「ジェネクス」モンスター２体を対象として発動できる。そのモンスターをデッキに戻す。
   ko: |-
     필드 위에 앞면 표시로 존재하는 이 카드가 파괴되어 묘지로 보내졌을 때, 자신의 묘지에 존재하는 "제넥스"라는 이름이 붙은 몬스터 2장을 덱으로 되돌릴 수 있다.
   zh-TW: |-
@@ -80,6 +80,11 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Rare Parallel Rare
+  - set_number: TW01-JP075
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA03-KR047
     set_name: Hidden Arsenal 3

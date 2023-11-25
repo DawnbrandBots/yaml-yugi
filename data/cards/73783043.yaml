@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um monstro "Genex" for adicionado do seu Deck à sua mão, você pode revelar esse monstro para Invocá-lo por Invocação-Especial.
   ja: |-
-    「ジェネクス」と名のついたモンスターが自分のデッキから手札に加わった時、そのモンスター１体を相手に見せて発動する事ができる。そのモンスターを自分フィールド上に特殊召喚する。
+    ①：このカードがモンスターゾーンに存在する状態で、「ジェネクス」モンスターが自分のデッキから手札に加わった時、その内の１体を相手に見せて発動できる。見せたモンスターを特殊召喚する。
   ko: |-
     "제넥스"라는 이름이 붙은 몬스터가 자신의 덱에서 패로 넣어졌을 때, 그 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 그 몬스터를 자신 필드 위에 특수 소환한다.
   zh-TW: |-
@@ -80,6 +80,11 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP073
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA03-KR045
     set_name: Hidden Arsenal 3

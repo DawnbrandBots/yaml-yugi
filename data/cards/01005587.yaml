@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando seu oponente Invocar um ou mais monstros com 2000 ou mais de ATK por Invocação-Especial: negue os efeitos de 1 desses monstros com 2000 ou mais de ATK e, se isso acontecer, destrua-o.
   ja: |-
-    ①：相手が攻撃力２０００以上のモンスターの特殊召喚に成功した時に発動できる。その攻撃力２０００以上のモンスター１体を選び、効果を無効にし破壊する。
+    ①：相手が攻撃力２０００以上のモンスターを特殊召喚した時に発動できる。その攻撃力２０００以上のモンスター１体を選び、効果を無効にし破壊する。
   ko: |-
     ①: 상대가 공격력 2000 이상의 몬스터의 특수 소환에 성공했을 때에 발동할 수 있다. 그 공격력 2000 이상의 몬스터 1장을 골라, 효과를 무효로 하고 파괴한다.
   zh-TW: |-
@@ -121,6 +121,11 @@ sets:
     set_name: 'Structure Deck: Forest of the Traptrix'
     rarities:
     - Common
+  - set_number: TW01-JP048
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: REDU-KR076
     set_name: Return of the Duelist

@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno, durante sua Fase Principal, você pode selecionar 1 monstro com a face para cima em Posição de Ataque que seu oponente controla com o mesmo Atributo que este card e destruí-lo. Este card não pode atacar no turno em que você ativar este efeito.
   ja: |-
-    １ターンに１度、自分のメインフェイズ時に発動する事ができる。このカードと同じ属性を持つ、相手フィールド上に表側攻撃表示で存在するモンスター１体を選択して破壊する。この効果を発動するターンこのカードは攻撃する事ができない。
+    ①：１ターンに１度、属性がこのカードと同じとなる相手フィールドの攻撃表示モンスター１体を対象として発動できる（この効果を発動するターン、このカードは攻撃できない）。属性がこのカードと同じとなる、その相手の攻撃表示モンスターを破壊する。
   ko: |-
     1턴에 1번, 자신의 메인 페이즈시에 발동할 수 있다. 이 카드와 같은 속성을 가진, 상대 필드 위에 앞면 공격 표시로 존재하는 몬스터 1장을 선택하고 파괴한다. 이 효과를 발동하는 턴에 이 카드는 공격할 수 없다.
   zh-TW: |-
@@ -71,6 +71,11 @@ sets:
     set_name: Limited Edition 16
     rarities:
     - Duel Terminal Ultra Parallel Rare
+  - set_number: TW01-JP076
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: ESP4-KR059
     set_name: Expansion Pack Vol.4

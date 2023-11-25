@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 monstro "Infernoide" do seu Deck para o Cemitério, exceto "Infernoide Decatron" e, se isso acontecer, aumente o Nível deste card em um valor igual ao Nível do monstro enviado e, se isso acontecer, o nome deste card se torna o nome original desse monstro e substitua este efeito pelos efeitos originais desse monstro.
   ja: |-
-    ①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「インフェルノイド・デカトロン」以外の「インフェルノイド」モンスター１体を墓地へ送る。このカードのレベルをそのモンスターのレベル分だけ上げ、このカードはそのモンスターと同名カードとして扱い、同じ効果を得る。
+    ①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「インフェルノイド・デカトロン」以外の「インフェルノイド」モンスター１体を墓地へ送る。このカードは、レベルがそのモンスターのレベル分だけ上がり、そのモンスターの元々のカード名・効果と同じカード名・効果を得る。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "인페르노이드 데카트론" 이외의 "인페르노이드" 몬스터 1장을 묘지로 보낸다. 이 카드의 레벨을 그 몬스터의 레벨만큼만 올리고, 이 카드는 그 몬스터와 같은 이름의 카드로 취급하여, 같은 효과를 얻는다.
   zh-TW: |-
@@ -96,6 +96,15 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Rare
+  - set_number: TW01-JP111
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Ultra Rare
+    - Ultra Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: CORE-KR039
     set_name: Clash of Rebellions

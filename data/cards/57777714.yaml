@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal ou Pêndulo: você pode escolher 1 monstro "Besta Espiritual" ou "Zefra" no seu Cemitério, exceto "Domador da Besta Espiritual Zeframpilica": Invoque-o por Invocação-Especial, mas destrua-o durante a Fase Final. Você só pode Invocar "Domador(es) da Besta Espiritual Zeframpilica" por Invocação-Especial uma vez por turno.
   ja: |-
-    自分は「英霊獣使い－セフィラムピリカ」を１ターンに１度しか特殊召喚できない。①：このカードが召喚・Ｐ召喚に成功した時、「英霊獣使い－セフィラムピリカ」以外の自分の墓地の「霊獣」モンスターまたは「セフィラ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。
+    自分は「英霊獣使い－セフィラムピリカ」を１ターンに１度しか特殊召喚できない。①：このカードが召喚・Ｐ召喚した時、「英霊獣使い－セフィラムピリカ」以外の自分の墓地の、「霊獣」モンスターか「セフィラ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。
   ko: |-
     자신은 "영령수사－세피라무피리카"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 일반 소환 / 펜듈럼 소환에 성공했을 때, "영령수사－세피라무피리카" 이외의 자신 묘지의, "령수" 몬스터 또는 "세피라" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 파괴된다.
   zh-TW: |-
@@ -120,6 +120,11 @@ sets:
     set_name: Crossed Souls
     rarities:
     - Common
+  - set_number: TW01-JP133
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: CROS-KR028
     set_name: Crossed Souls

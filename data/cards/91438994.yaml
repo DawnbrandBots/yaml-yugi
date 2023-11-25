@@ -27,7 +27,7 @@ text:
   pt: |-
     Cada vez que um ou mais monstros que você controla são enviados ao Cemitério, coloque 1 Genex Counter nesta carta. Além disso, cada vez que uma ou mais cartas no Cemitério do seu oponente são removidas do jogo, coloque 2 Genex Counter nesta carta. Esta carta ganha 100 de ATK para cada Genex Counter no campo. Quando esta carta é destruída em batalha e enviada ao Cemitério, inflija 300 de dano ao seu oponente para cada Genex Counter nesta carta.
   ja: |-
-    自分フィールド上に存在するモンスターが墓地へ送られる度に、このカードにジェネクスカウンターを１つ置く。また、相手の墓地に存在するカードがゲームから除外される度に、このカードにジェネクスカウンターを２つ置く。このカードの攻撃力はフィールド上に存在するジェネクスカウンターの数×１００ポイントアップする。このカードが戦闘によって破壊され墓地へ送られた時、このカードに乗っているジェネクスカウンターの数×３００ポイントダメージを相手ライフに与える。
+    ①：自分フィールドからモンスターが墓地へ送られる度に、このカードにジェネクスカウンターを１つ置く。②：相手の墓地からカードが除外される度に、このカードにジェネクスカウンターを２つ置く。③：このカードの攻撃力は、フィールドのジェネクスカウンターの数×１００アップする。④：このカードが戦闘で破壊され墓地へ送られた場合に発動する。このカードに置かれていたジェネクスカウンターの数×３００ダメージを相手に与える。
   ko: |-
     자신 필드 위에 존재하는 몬스터가 묘지로 보내질 때마다, 이 카드에 제넥스 카운터를 1개 놓는다. 또한, 상대의 묘지에 존재하는 카드가 게임에서 제외될 때마다, 이 카드에 제넥스 카운터를 2개 놓는다. 이 카드의 공격력은 필드 위에 존재하는 제넥스 카운터의 수 × 100 포인트 올린다. 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 이 카드에 얹혀 있는 제넥스 카운터의 수 × 300 포인트 데미지를 상대 라이프에 준다.
   zh-TW: |-
@@ -105,6 +105,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Rare Parallel Rare
+  - set_number: TW01-JP084
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR038
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

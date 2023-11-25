@@ -34,7 +34,7 @@ text:
     Este card ganha 300 de ATK para cada Card de Magia e Armadilha Baixado no campo. Você pode enviar 1 card da sua mão para o Cemitério para escolher e destruir 1 Card de Magia ou Armadilha Baixado no campo.
   ja: |-
     「ジェネクス・コントローラー」＋チューナー以外の風属性モンスター１体以上
-    このカードの攻撃力はフィールド上にセットされた魔法・罠カードの数×３００ポイントアップする。また、手札を１枚墓地へ送って発動できる。フィールド上にセットされた魔法・罠カード１枚を選択して破壊する。
+    ①：このカードの攻撃力はフィールドの裏側表示の魔法・罠カードの数×３００アップする。②：手札を１枚墓地へ送り、フィールドの裏側表示の魔法・罠カード１枚を対象として発動できる。その裏側表示カードを破壊する。
   ko: |-
     "제넥스 컨트롤러" ＋ 튜너 이외의 바람 속성 몬스터 1장 이상
     이 카드의 공격력은 필드 위에 세트된 마법/함정 카드의 수 × 300 포인트 올린다. 패를 1장 묘지로 보내는 것으로, 필드 위에 세트된 마법/함정 카드 1장을 파괴한다.
@@ -92,6 +92,11 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  - set_number: TW01-JP090
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR059
     set_name: Hidden Arsenal 2

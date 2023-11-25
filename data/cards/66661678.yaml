@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Tributo: Invoque por Invocação-Especial 1 "Ficha de Caixão de Gelo" (Aqua/ÁGUA/Nível 1/ATK 1000/DEF 0) em Posição de Ataque no campo do seu oponente. Essa Ficha não pode ser oferecida como Tributo para uma Invocação-Tributo.
   ja: |-
-    このカードがアドバンス召喚に成功した時、相手フィールド上に「アイスコフュントークン」（水族・水・星１・攻１０００／守０）１体を攻撃表示で特殊召喚する。このトークンはアドバンス召喚のためにはリリースできない。
+    ①：このカードがアドバンス召喚した場合に発動する。相手フィールドに「アイスコフュントークン」（水族・水・星１・攻１０００／守０）１体を攻撃表示で特殊召喚する。このトークンはアドバンス召喚のためにはリリースできない。
   ko: |-
     ①: 이 카드가 어드밴스 소환에 성공했을 경우에 발동한다. 상대 필드에 "아이스 코핀 토큰"(물족 / 물 / 레벨 1 / 공 1000 / 수 0) 1장을 공격 표시로 특수 소환한다. 이 토큰은 어드밴스 소환을 위해서는 릴리스할 수 없다.
   zh-TW: |-
@@ -105,6 +105,11 @@ sets:
     set_name: Duel Terminal Chronicle 1 - Chapter of Awakening
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW01-JP009
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP12-KR033
     set_name: Premium Pack Vol.12

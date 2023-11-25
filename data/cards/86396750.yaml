@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno, durante o turno de qualquer duelista: você pode banir 1 card "Besta Espiritual" do seu Cemitério; pelo resto deste turno, todos os monstros "Besta Espiritual" que você controla ganham 500 de ATK e DEF. Você só pode Invocar "Avatar(es) da Besta Espiritual Apeleão" por Invocação-Especial uma vez por turno.
   ja: |-
-    自分は「精霊獣 アペライオ」を１ターンに１度しか特殊召喚できない。①：１ターンに１度、自分の墓地の「霊獣」カード１枚を除外して発動できる。このターン中、以下の効果を適用する。この効果は相手ターンでも発動できる。●自分フィールドの「霊獣」モンスターの攻撃力・守備力は５００アップする。
+    自分は「精霊獣 アペライオ」を１ターンに１度しか特殊召喚できない。①：自分・相手ターンに１度、自分の墓地の「霊獣」カード１枚を除外して発動できる。このターン中は自分フィールドの「霊獣」モンスターの攻撃力・守備力が５００アップする。
   ko: |-
     자신은 "정령수 아페라이오"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 1턴에 1번, 자신 묘지의 "령수" 카드 1장을 제외하고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다. 이 효과는 상대 턴에도 발동할 수 있다.
     ●자신 필드의 "령수" 몬스터의 공격력 / 수비력은 500 올린다.
@@ -78,6 +78,11 @@ sets:
   ja:
   - set_number: SPTR-JP025
     set_name: 'Booster SP: Tribe Force'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: TW01-JP129
+    set_name: Terminal World (set)
     rarities:
     - Common
     - Normal Parallel Rare

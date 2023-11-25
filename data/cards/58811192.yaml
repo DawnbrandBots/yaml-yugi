@@ -34,7 +34,7 @@ text:
     Monstros "Besta Espiritual" para os quais este card apontar ganham 600 de ATK/DEF. Você pode banir 1 card "Besta Espiritual" do seu Cemitério; imediatamente depois que este efeito resolver, Invoque por Invocação-Normal 1 monstro "Besta Espiritual" da sua mão. Você só pode usar este efeito de "Besta Espiritual Ulti-Kimunfalcos" uma vez por turno. (Efeito Rápido): você pode devolver este card que você controla para o Deck Adicional e, depois, escolher 2 dos seus monstros banidos (1 monstro "Domador da Besta Espiritual" e 1 monstro "Avatar da Besta Espiritual"); Invoque-os por Invocação-Especial em Posição de Defesa.
   ja: |-
     「霊獣」モンスター２体
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードのリンク先の「霊獣」モンスターの攻撃力・守備力は６００アップする。②：自分の墓地から「霊獣」カード１枚を除外して発動できる。手札から「霊獣」モンスター１体を召喚する。③：このカードを持ち主のＥＸデッキに戻し、除外されている自分の、「霊獣使い」モンスター１体と「精霊獣」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果は相手ターンでも発動できる。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードのリンク先の「霊獣」モンスターの攻撃力・守備力は６００アップする。②：自分の墓地から「霊獣」カード１枚を除外して発動できる。手札の「霊獣」モンスター１体の召喚を行う。③：自分・相手ターンに、このカードをＥＸデッキに戻し、自分の除外状態の、「霊獣使い」モンスター１体と「精霊獣」モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
   ko: |-
     "령수" 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 링크 앞의 "령수" 몬스터의 공격력 / 수비력은 600 올린다. ②: 자신 묘지에서 "령수" 카드 1장을 제외하고 발동할 수 있다. 패에서 "령수" 몬스터 1장을 일반 소환한다. ③: 이 카드를 주인의 엑스트라 덱으로 되돌리고, 제외되어 있는 자신의, "령수사" 몬스터 1장과 "정령수" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -92,6 +92,15 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Super Rare
+  - set_number: TW01-JP140
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: LVP1-KR066
     set_name: LINK VRAINS Pack

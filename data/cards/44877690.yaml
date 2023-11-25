@@ -27,7 +27,8 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Especial. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Normal ou virado com a face para cima neste turno: devolva este card para a mão. Se você controlar outro monstro "Barreira de Gelo", o efeito de Fase Final deste card em vez disso se torna "Escolha 1 monstro que seu oponente controla; devolva-o para a mão".
   ja: |-
-    このカードは特殊召喚できない。召喚・リバースしたターンのエンドフェイズ時に持ち主の手札に戻る。自分フィールド上にこのカード以外の「氷結界」と名のついたモンスターが表側表示で存在する場合、エンドフェイズ時に発動するこのカードの効果は相手フィールド上に存在するモンスター１体を選択して手札に戻す効果になる。
+    このカードは特殊召喚できない。①：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを手札に戻す。自分フィールドに他の「氷結界」モンスターが存在する場合、代わりに以下の効果を発動する。
+    ●このカードが召喚・リバースしたターンのエンドフェイズに、相手フィールドのモンスター１体を対象として発動する。その相手モンスターを手札に戻す。
   ko: |-
     이 카드는 특수 소환할 수 없다. 일반 소환 / 리버스한 턴의 엔드 페이즈시에 주인의 패로 되돌아간다. 자신 필드 위에 이 카드 이외의 "빙결계"라는 이름이 붙은 몬스터가 앞면 표시로 존재할 경우, 엔드 페이즈시에 발동하는 이 카드의 효과는 상대 필드 위에 존재하는 몬스터 1장을 선택하고 패로 되돌리는 효과가 된다.
   zh-TW: |-
@@ -106,6 +107,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP023
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR024
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

@@ -27,7 +27,7 @@ text:
   pt: |-
     Envie 1 Magia/Armadilha "Vácuo" da sua mão ou do campo com a face para cima para o Cemitério; Invoque por Invocação-Especial até 3 monstros "Infernoide" do seu Deck, cuja soma dos Níveis seja exatamente igual a 8, ignorando suas condições de Invocação.
   ja: |-
-    ①：手札及び自分フィールドの表側表示の魔法・罠カードの中から、「煉獄」魔法・罠カード１枚を墓地へ送って発動できる。レベルの合計が８になるように、デッキから「インフェルノイド」モンスターを３体まで選んで召喚条件を無視して特殊召喚する。
+    ①：自分の手札・フィールド（表側表示）の「煉獄」魔法・罠カード１枚を墓地へ送って発動できる。レベルの合計が８になるように、デッキから「インフェルノイド」モンスターを３体まで召喚条件を無視して特殊召喚する。
   ko: |-
     ①: 패 및 자신 필드 앞면 표시의 마법 / 함정 카드 중에서, "연옥" 마법 / 함정 카드 1장을 묘지로 보내고 발동할 수 있다. 레벨의 합계가 8 이 되도록, 덱에서 "인페르노이드" 몬스터를 3장까지 고르고 소환 조건을 무시하여 특수 소환한다.
   zh-TW: |-
@@ -92,6 +92,15 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Common
+  - set_number: TW01-JP121
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: RATE-KR076
     set_name: Raging Tempest

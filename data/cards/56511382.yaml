@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno, você pode enviar 1 monstro "Genex" de FOGO com a face para cima que você controla ao Cemitério para selecionar 1 monstro com a face para cima que seu oponente controla, destrua-o e cause dano ao seu oponente igual ao Nível do monstro destruído x 400.
   ja: |-
-    自分フィールド上に表側表示で存在する「ジェネクス」と名のついた炎属性モンスター１体を墓地へ送って発動する。相手フィールド上に表側表示で存在するモンスター１体を選択して破壊し、破壊したモンスターのレベル×４００ポイントダメージを相手ライフに与える。この効果は１ターンに１度しか使用できない。
+    ①：１ターンに１度、自分フィールドの表側表示の炎属性の「ジェネクス」モンスター１体を墓地へ送り、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手の表側表示モンスターを破壊し、そのレベル×４００ダメージを相手に与える。
   ko: |-
     자신 필드 위에 앞면 표시로 존재하는 "제넥스"라는 이름이 붙은 화염 속성 몬스터 1장을 묘지로 보내고 발동한다. 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 파괴하고, 파괴한 몬스터의 레벨 × 400 포인트 데미지를 상대 라이프에 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP080
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR004
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

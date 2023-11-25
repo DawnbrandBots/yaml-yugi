@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente controlar 4 ou mais cards que você, você pode Invocar este card por Invocação-Especial (da sua mão). Seu oponente só pode ativar 1 Card de Magia/Armadilha a cada turno.
   ja: |-
-    ①：相手フィールドのカードの数が自分フィールドのカードより４枚以上多い場合、このカードは手札から特殊召喚できる。②：このカードがモンスターゾーンに存在する限り、相手は１ターンに１度しか魔法・罠カードを発動できない。
+    ①：相手フィールドのカードの数が自分フィールドのカードより４枚以上多い場合、このカードは手札から特殊召喚できる。②：このカードが自分のモンスターゾーンに存在する限り、その間に相手は１ターンに１枚しか魔法・罠カードを発動できない。
   ko: |-
     ①: 상대 필드의 카드의 수가 자신 필드의 카드보다 4장 이상 많을 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 1턴에 1번밖에 마법 / 함정 카드를 발동할 수 없다.
   zh-TW: |-
@@ -153,6 +153,11 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  - set_number: TW01-JP012
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR012
     set_name: Hidden Arsenal 2

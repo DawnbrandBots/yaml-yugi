@@ -27,7 +27,7 @@ text:
   pt: |-
     Se os únicos monstros com a face para cima que você controla forem monstros de Nível 2 ou menos, este card pode atacar seu oponente diretamente.
   ja: |-
-    自分フィールド上に表側表示で存在するモンスターがレベル２以下のモンスターのみの場合、このカードは相手プレイヤーに直接攻撃する事ができる。
+    ①：自分フィールドの表側表示モンスターがレベル２以下のモンスターのみの場合、このカードは直接攻撃できる。
   ko: |-
     자신의 필드 위에 앞면 표시로 존재하는 몬스터가 레벨 2 이하의 몬스터뿐일 경우, 이 카드는 상대 플레이어에게 직접 공격을 할 수 있다.
   zh-TW: |-
@@ -105,6 +105,11 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP017
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA03-KR020
     set_name: Hidden Arsenal 3

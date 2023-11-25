@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Virar: coloque-o em Posição de Defesa. Monstros "Barreira de Gelo" que você controla não podem ser destruídos por efeitos de Magia/Armadilha.
   ja: |-
-    ①：このカードが召喚・反転召喚に成功した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「氷結界」モンスターは魔法・罠カードの効果では破壊されない。
+    ①：このカードが召喚・反転召喚した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、自分フィールドの「氷結界」モンスターは魔法・罠カードの効果では破壊されない。
   ko: |-
     ①: 이 카드가 일반 소환 / 반전 소환에 성공했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 "빙결계" 몬스터는 마법 / 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW: |-
@@ -129,6 +129,11 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  - set_number: TW01-JP011
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR011
     set_name: Hidden Arsenal 2

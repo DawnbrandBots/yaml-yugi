@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Especial, você pode adicionar 1 monstro "Genex" de TREVAS do seu Deck à sua mão.
   ja: |-
-    このカードが特殊召喚に成功した時、自分のデッキから「ジェネクス」と名のついた闇属性モンスター１体を手札に加える事ができる。
+    ①：このカードが特殊召喚した時に発動できる。デッキから闇属性の「ジェネクス」モンスター１体を手札に加える。
   ko: |-
     이 카드가 특수 소환에 성공했을 때, 자신의 덱에서 "제넥스"라는 이름이 붙은 어둠 속성 몬스터 1장을 패에 넣을 수 있다.
   zh-TW: |-
@@ -79,6 +79,11 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW01-JP066
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA02-KR043
     set_name: Hidden Arsenal 2

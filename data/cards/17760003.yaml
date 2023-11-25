@@ -40,7 +40,7 @@ text:
     ●TREVAS: Selecione 1 monstro de LUZ com a face para cima no campo, destrua-o e compre 1 card.
   ja: |-
     「ジェネクス・コントローラー」＋チューナー以外のモンスター１体以上
-    このカードのシンクロ素材としたチューナー以外のモンスターの属性によって、以下の効果を１ターンに１度、手札を１枚捨てて発動する事ができる。●風属性：相手の手札をランダムに１枚墓地へ送る。●水属性：フィールド上に存在する魔法または罠カード１枚を破壊する。●闇属性：フィールド上に表側表示で存在する光属性モンスター１体を破壊し、自分のデッキからカードを１枚ドローする。
+    ①：１ターンに１度、手札を１枚捨て、このカードのＳ素材としたチューナー以外のモンスターの属性によって以下の効果から１つを選択して発動できる。●風：相手の手札をランダムに１枚墓地へ送る。●水：フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。●闇：フィールドの光属性モンスター１体を対象として発動できる。その光属性モンスターを破壊し、自分は１枚ドローする。
   ko: |-
     "제넥스 컨트롤러" ＋ 튜너 이외의 몬스터 1장 이상
     이 카드를 싱크로 소재로 한 튜너 이외의 몬스터의 속성에 따라, 이하의 효과를 1턴에 1번, 패를 1장 버리고 발동할 수 있다.
@@ -104,6 +104,11 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  - set_number: TW01-JP093
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR026
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

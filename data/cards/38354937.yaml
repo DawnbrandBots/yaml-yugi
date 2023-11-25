@@ -33,8 +33,8 @@ text:
     1 Regulador "Genex" + 1 ou mais monstros de TREVAS não-Reguladores
     Quando este card for Invocado por Invocação-Sincro, tome o controle do monstro com a face para cima que seu oponente controla com o maior Nível. (Em caso de empate, você escolhe.)
   ja: |-
-    「ジェネクス」と名のついたチューナー＋チューナー以外の闇属性モンスター１体以上
-    このカードがシンクロ召喚に成功した時、相手フィールド上に表側表示で存在するレベルが一番高いモンスター１体のコントロールを得る。
+    「ジェネクス」チューナー＋チューナー以外の闇属性モンスター１体以上
+    ①：このカードがＳ召喚した場合に発動する。相手フィールドのレベルが一番高いモンスター１体のコントロールを得る。
   ko: |-
     "제넥스"라는 이름이 붙은 튜너 ＋ 튜너 이외의 어둠 속성 몬스터 1장 이상
     이 카드가 싱크로 소환에 성공했을 때, 상대 필드 위에 앞면 표시로 존재하는 레벨이 가장 높은 몬스터 1장의 컨트롤을 얻는다.
@@ -93,6 +93,15 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  - set_number: TW01-JP091
+    set_name: Terminal World (set)
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Super Parallel Rare
+    - Secret Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR029
     set_name: Hidden Arsenal 3
