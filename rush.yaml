@@ -84129,7 +84129,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have no other face-up "Road Arms - Sevens Lance" on your field, equip this card to 1 face-up "Sevens Road Magician" on your field.
+    If you have no other "Road Arms - Sevens Lance" face-up on your field, equip this card to 1 face-up "Sevens Road Magician" on your field.
   de:
   es:
   fr:
@@ -94755,7 +94755,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have no other face-up "Road Arms - Sword Breaker" on your field, equip this card to 1 face-up "Sevens Road Magician" on your field.
+    If you have no other "Road Arms - Sword Breaker" face-up on your field, equip this card to 1 face-up "Sevens Road Magician" on your field.
   de:
   es:
   fr:
@@ -126130,3 +126130,263 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1030766
+---
+konami_id:
+name:
+  en: Abysskite Violate Halo
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・ヴァイオレートヘイロー
+  ja_romaji: Abisukaito Vaiorēto Heirō
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    This card's name becomes "Abysskite Ultimail" while in the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    墓地にあるこのカードのカード名は「アビスカイト・アルティメイル」になる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Sea Serpent Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（海竜族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    If the equipped monster attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). If you have a face-down Spell/Trap Card on your field, you take no damage from your opponent's card effects. If you have 2 or more face-down Spell/Trap Cards on your field, the equipped monster cannot be destroyed by card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃は貫通する。自分フィールドに裏側表示の魔法・罠カードがある場合、自分は相手の効果ではダメージを受けない。自分フィールドに裏側表示の魔法・罠カードが２枚以上ある場合、装備モンスターは効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteViolateHalo-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP055
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030949
+---
+konami_id:
+name:
+  en: Abysskite Miracle Girls
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・ミラクルガールズ
+  ja_romaji: Abisukaito Mirakuru Gāruzu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up Sea Serpent Type monster on your field other than this card, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外の表側表示モンスター（海竜族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 1600 ATK until the end of your opponent's next turn. Then, if you have "Abysskite Party" in your Graveyard, this card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は次の相手ターン終了時まで１６００アップする。自分の墓地に「アビスカイト・パーティ」がある場合、さらにこのカードは次の相手ターン終了時まで相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 6
+atk: 800
+def: 0
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteMiracleGirls-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP040
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030954
+---
+konami_id:
+name:
+  en: Abysskite Party
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・パーティ
+  ja_romaji: Abisukaito Pāti
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Each player sends cards equal to [the number of face-up Sea Serpent Type monsters on your field] from the top of their Deck to the Graveyard. Then, you can make up to 3 face-up LIGHT Attribute Sea Serpent Type monsters on your field with 800 original ATK gain 1600 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ［自分フィールドの表側表示モンスター（海竜族）の数］だけお互いのデッキの上からカードを墓地へ送る。その後、元々の攻撃力が８００の自分フィールドの表側表示モンスター（光属性／海竜族）を３体まで選んでその攻撃力を次の相手ターン終了時まで１６００アップできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteParty-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP053
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030956
+---
+konami_id:
+name:
+  en: Abysspiny Turtle
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスパイニー・タートル
+  ja_romaji: Abisupainī Tātoru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 Sea Serpent Type monster with 800 ATK/0 DEF from your Graveyard to your hand. You can only attack with Sea Serpent Type monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（海竜族／攻撃力８００／守備力０）１体を選んで手札に加える。このターン、自分はモンスター（海竜族以外）で攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Sea Serpent / Effect
+attribute: LIGHT
+level: 3
+atk: 1000
+def: 1100
+images:
+- index: 1
+  image: AbysspinyTurtle-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP081
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1030959
