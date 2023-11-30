@@ -20,7 +20,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚したターンに発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,7 +33,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地の「ソウル・ナイト」または「ソウル・ドレイク」１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はモンスター（レベル７以下）で攻撃できない。
   ko:
   zh-TW:
   zh-CN:
@@ -42,6 +44,8 @@ attribute: LIGHT
 level: 4
 atk: 600
 def: 1100
+series:
+- Blue-Eyes
 images:
 - index: 1
   image: SoulKnight-RDHC01-JP-OP.png
