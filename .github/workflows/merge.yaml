@@ -82,7 +82,7 @@ jobs:
             ../../../yaml-yugipedia/wikitext/Skill_Cards \
             --aggregate ../../../aggregate/skill.json
       - id: commit
-        uses: ./yaml-yugi/.github/actions/commit-push
+        uses: DawnbrandBots/.github/actions/commit-push@main
         with:
           message: "Transform: ${{ github.run_number }} (${{ github.run_id }})"
           working-directory: yaml-yugi
