@@ -7,15 +7,15 @@ name:
   fr:
   it:
   pt:
-  ja:
-  ja_romaji:
+  ja: <ruby>炎<rt>えん</rt></ruby><ruby>王<rt>おう</rt></ruby><ruby>妃<rt>ひ</rt></ruby> ウルカニクス
+  ja_romaji: En'ōhi Urukanikusu
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can destroy 1 other FIRE monster in your hand or face-up field, and if you do, add 1 FIRE Beast, Beast-Warrior or Winged Beast monster from your Deck to your hand, except “Fire King Consort Ulkanix”, then you can make the Level of this card become the Level of that monster added to the hand. If this card is destroyed and sent to the GY: You can Special Summon 1 “Fire King High Avatar Garunix” from your Deck in Defense Position. You can only use each effect of "Fire King Consort Ulkanix" once per turn.
+    If this card is Normal or Special Summoned: You can destroy 1 other FIRE monster in your hand or face-up field, and if you do, add 1 FIRE Beast, Beast-Warrior, or Winged Beast monster from your Deck to your hand, except "Fire King Consort Ulkanix", then you can make this card's Level become that monster's. If this card is destroyed and sent to the GY: You can Special Summon 1 "Fire King High Avatar Garunix" from your Deck in Defense Position. You can only use each effect of "Fire King Consort Ulkanix" once per turn.
   de:
   es:
   fr:
@@ -33,7 +33,15 @@ atk: 800
 def: 2000
 series:
 - Fire King
-sets: {}
+images:
+- index: 1
+  image: FireKingConsortUlkanix-YO08-JP-OP.png
+sets:
+  ja:
+  - set_number: YO08-JP001
+    set_name: Yu-Gi-Oh! OCG Structures Volume 8 promotional card
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
