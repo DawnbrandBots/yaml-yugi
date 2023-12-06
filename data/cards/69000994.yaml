@@ -15,7 +15,7 @@ name:
   zh-CN: 炎王兽 巴隆
 text:
   en: |-
-    If a face-up "Fire King" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 "Fire King" card from your Deck to your hand, except "Fire King Avatar Barong".
+    If a face-up "Fire King" monster(s) you control is destroyed by card effect (except during the Damage Step): You can Special Summon this card from your hand. Once per turn, during the next Standby Phase after this card was destroyed by card effect and sent to the GY: Add 1 "Fire King" card from your Deck to your hand, except "Fire King Avatar Barong".
   de: |-
     Falls ein offenes „Feuerkönig“-Monster, das du kontrollierst, durch einen Karteneffekt zerstört wird (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Während der nächsten Standby Phase, nachdem diese Karte durch einen Karteneffekt zerstört und auf den Friedhof gelegt wurde: Füge deiner Hand 1 „Feuerkönig“-Karte von deinem Deck hinzu, außer „Feuerkönig Avatar Barong“.
   es: |-
@@ -45,19 +45,24 @@ series:
 - Fire King Avatar
 images:
 - index: 1
-  image: FireKingAvatarBarong-SDOK-EN-C-1E.png
+  image: FireKingAvatarBarong-SR14-EN-C-1E.png
 sets:
   en:
   - set_number: SDOK-EN002
     set_name: Onslaught of the Fire Kings Structure Deck
     rarities:
     - Common
-  - set_number: SR14-EN???
+  - set_number: SR14-EN005
     set_name: 'Structure Deck: Fire Kings'
     rarities:
+    - Common
   de:
   - set_number: SDOK-DE002
     set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: SR14-DE005
+    set_name: 'Structure Deck: Fire Kings'
     rarities:
     - Common
   fr:
@@ -65,14 +70,26 @@ sets:
     set_name: Onslaught of the Fire Kings Structure Deck
     rarities:
     - Common
+  - set_number: SR14-FR005
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   it:
   - set_number: SDOK-IT002
     set_name: Onslaught of the Fire Kings Structure Deck
     rarities:
     - Common
+  - set_number: SR14-IT005
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   pt:
   - set_number: SDOK-PT002
     set_name: Onslaught of the Fire Kings Structure Deck
+    rarities:
+    - Common
+  - set_number: SR14-PT005
+    set_name: 'Structure Deck: Fire Kings'
     rarities:
     - Common
   ja:

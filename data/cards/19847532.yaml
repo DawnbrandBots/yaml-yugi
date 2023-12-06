@@ -15,7 +15,7 @@ name:
   zh-CN: 狱火帝皇
 text:
   en: |-
-    This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.
+    Cannot be Special Summoned. When this card is Tribute Summoned: You can banish up to 5 FIRE monsters from your GY; destroy Spells/Traps on the field equal to the number banished to activate this effect.
   de: |-
     Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Wenn diese Karte erfolgreich als Tributbeschwörung beschworen wird, kannst du bis zu 5 FEUER Monster aus dem Friedhof aus dem Spiel entfernen. Zerstöre die selbe Anzahl an Zauber- oder Fallenkarten in Höhe der Anzahl der Karten, die du mit diesem Effekt aus dem Spiel entfernt hast.
   es: |-
@@ -42,7 +42,7 @@ atk: 2700
 def: 1600
 images:
 - index: 1
-  image: InfernalFlameEmperor-WCPP-EN-R-LE.jpg
+  image: InfernalFlameEmperor-SR14-EN-C-1E.png
 sets:
   en:
   - set_number: SD3-EN001
@@ -53,29 +53,46 @@ sets:
     set_name: World Championship 2010 Card Pack
     rarities:
     - Rare
-  - set_number: SR14-EN???
+  - set_number: SR14-EN013
     set_name: 'Structure Deck: Fire Kings'
     rarities:
+    - Common
   de:
   - set_number: SD3-DE001
     set_name: 'Structure Deck: Blaze of Destruction'
     rarities:
     - Ultra Rare
+  - set_number: SR14-DE013
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   fr:
   - set_number: SD3-FR001
     set_name: 'Structure Deck: Blaze of Destruction'
     rarities:
     - Ultra Rare
+  - set_number: SR14-FR013
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   it:
   - set_number: SD3-IT001
     set_name: 'Structure Deck: Blaze of Destruction'
     rarities:
     - Ultra Rare
+  - set_number: SR14-IT013
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   pt:
   - set_number: SD3-PT001
     set_name: 'Structure Deck: Blaze of Destruction'
     rarities:
     - Ultra Rare
+  - set_number: SR14-PT013
+    set_name: 'Structure Deck: Fire Kings'
+    rarities:
+    - Common
   ja:
   - set_number: SD3-JP001
     set_name: 'Structure Deck: Blaze of Destruction'
