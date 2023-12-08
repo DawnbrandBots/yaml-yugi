@@ -30030,6 +30030,10 @@ sets:
     set_name: Secret Ace Pack 2022 Vol.1
     rarities:
     - Secret Rare
+  - set_number: RD/HC01-JP071
+    set_name: High-Grade Collection
+    rarities:
+    - Common
   ko:
   - set_number: RD/KP05-KR024
     set_name: 'Deck Mod Pack: Dynamic Eternal Live!!'
@@ -106243,6 +106247,10 @@ sets:
     set_name: Oblivion of the Flash
     rarities:
     - Rare
+  - set_number: RD/HC01-JP014
+    set_name: High-Grade Collection
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP13-KR053
     set_name: Oblivion of the Flash
@@ -116469,7 +116477,7 @@ series:
 - Transamu
 images:
 - index: 1
-  image: TransamuValuableRainac-RDCGR3-JP-OP.png
+  image: TransamuValuableRainac-RDCGR3-JP-UR.png
 sets:
   ja:
   - set_number: RD/CGR3-JP001
@@ -127438,3 +127446,65 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1033308
+---
+konami_id:
+name:
+  en: Celeb Rose Warlock
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セレブローズ・ウォーロック
+  ja_romaji: Serebu Rōzu Wōrokku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 2 face-up Level 5 or lower monsters from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 or higher LIGHT Attribute Spellcaster Type monster from your Graveyard face-up to your field. If you Special Summoned "Celeb Rose Magician" by this effect, you can Special Summon 1 "Celeb Rose Witch" from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: LIGHT
+level: 5
+atk: 1100
+def: 1700
+series:
+- Celeb Rose
+images:
+- index: 1
+  image: CelebRoseWarlock-RDHC01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/HC01-JP046
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1033324
