@@ -52824,6 +52824,10 @@ sets:
     rarities:
     - Ultra Rare
     - Gold Rush Rare
+  - set_number: RD/HC01-JP004
+    set_name: High-Grade Collection
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/GRP1-KR010
     set_name: Grand Rush Pack
@@ -55349,6 +55353,11 @@ sets:
     set_name: 'Deck Mod Pack: Genesis Master Road!!'
     rarities:
     - Rush Rare
+  - set_number: RD/HC01-JP044
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: RD/KP08-KR000
     set_name: 'Deck Mod Pack: Genesis Master Road!!'
@@ -56030,6 +56039,11 @@ sets:
     set_name: 'Deck Mod Pack: Genesis Master Road!!'
     rarities:
     - Super Rare
+  - set_number: RD/HC01-JP025
+    set_name: High-Grade Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: RD/KP08-KR012
     set_name: 'Deck Mod Pack: Genesis Master Road!!'
@@ -64002,6 +64016,10 @@ sets:
     set_name: 'Deck Mod Pack: Galaxy of Fate!!'
     rarities:
     - Super Rare
+  - set_number: RD/HC01-JP010
+    set_name: High-Grade Collection
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP09-KR053
     set_name: 'Deck Mod Pack: Galaxy of Fate!!'
@@ -71875,6 +71893,11 @@ sets:
     set_name: Yu-Gi-Oh! Card Game x 7-Eleven Collaboration Campaign
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/HC01-JP043
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: RD/EV03-KR006
     set_name: Event Pack 2023 Vol.1
@@ -83329,6 +83352,10 @@ sets:
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
     rarities:
     - Common
+  - set_number: RD/HC01-JP009
+    set_name: High-Grade Collection
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/KP11-KR037
     set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
@@ -88296,6 +88323,10 @@ sets:
     rarities:
     - Common
     - Super Rare
+  - set_number: RD/HC01-JP006
+    set_name: High-Grade Collection
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RD/ORP1-KR037
     set_name: Over Rush Pack
@@ -127874,8 +127905,8 @@ name:
   fr:
   it:
   pt:
-  ja: 焔魔の永狼
-  ja_romaji:
+  ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>永<rt>えい</rt></ruby><ruby>狼<rt>ろう</rt></ruby>
+  ja_romaji: Enma no Eirō
   ko:
   ko_rr:
   zh-TW:
@@ -127950,7 +127981,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドのカードが相手の攻撃または相手の効果で破壊された時、８００ＬＰを払って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -127962,7 +127994,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの表側表示の効果モンスター（レベル８以下）１体または裏側表示のカード１枚を選んで破壊する。その後、自分の墓地のモンスター（レベル６／闇属性／魔法使い族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -127977,6 +128010,7 @@ sets:
     set_name: High-Grade Collection
     rarities:
     - Ultra Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
