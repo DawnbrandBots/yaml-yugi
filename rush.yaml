@@ -22748,6 +22748,8 @@ attribute: DARK
 level: 6
 atk: 2400
 def: 1500
+series:
+- Jinzo
 legend: true
 images:
 - index: 1
@@ -99703,7 +99705,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card gains 600 ATK until the end of this turn. Then, if this card is in Maximum Mode, it cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
+    This card gains 600 ATK until the end of this turn. Then, if this card is in Maximum Mode, it cannot be destroyed by your opponent's card effects until the end of their next turn.
   de:
   es:
   fr:
@@ -107806,7 +107808,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Until the end of your opponent's next turn, this card's name becomes "Harpie Lady", and your opponent cannot activate Trap Cards when this card declares an attack.
+    Until the end of your opponent's next turn, this card's name becomes "Harpie Lady", and your opponent cannot activate Trap Cards when it declares an attack.
   de:
   es:
   fr:
@@ -108626,7 +108628,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    1 face-up monster on your opponent's field loses 2000 ATK/DEF until the end of your opponent's next turn. Then, if you placed "Straight Pierce" or "Fusion" to meet the requirement, you can draw 1 card.
+    1 face-up monster on your opponent's field loses 2000 ATK/DEF until the end of their next turn. Then, if you placed "Straight Pierce" or "Fusion" to meet the requirement, you can draw 1 card.
   de:
   es:
   fr:
@@ -113094,7 +113096,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Negate Attack" in your Graveyard, you can make up to 3 face-up monsters on your opponent's field lose 2000 ATK until the end of your opponent's next turn.
+    Send the top 2 cards of your Deck to the Graveyard. Then, if you have "Negate Attack" in your Graveyard, you can make up to 3 face-up monsters on your opponent's field lose 2000 ATK until the end of their next turn.
   de:
   es:
   fr:
@@ -117314,7 +117316,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    1 face-down Spell/Trap Card on your opponent's field cannot be activated until the end of your opponent's next turn.
+    1 face-down Spell/Trap Card on your opponent's field cannot be activated until the end of their next turn.
   de:
   es:
   fr:
@@ -122731,7 +122733,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Until the end of your opponent's next turn, this card cannot be destroyed by your opponent's card effects, and its Level is increased by 1. Then, you can shuffle up to 1 face-down card from your opponent's field into the owner's Deck for every 3 cards sent to the Graveyard to meet the requirement.
+    Until the end of your opponent's next turn, this card cannot be destroyed by their card effects, and its Level is increased by 1. Then, you can shuffle up to 1 face-down card from your opponent's field into the owner's Deck for every 3 cards sent to the Graveyard to meet the requirement.
   de:
   es:
   fr:
@@ -123734,7 +123736,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn. Then, if you have 2 or more "Meteor Flare Fusion" in your Graveyard, inflict 500 damage to your opponent.
+    This card cannot be destroyed by your opponent's card effects until the end of their next turn. Then, if you have 2 or more "Meteor Flare Fusion" in your Graveyard, inflict 500 damage to your opponent.
   de:
   es:
   fr:
@@ -126266,7 +126268,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card gains 1600 ATK until the end of your opponent's next turn. Then, if you have "Abysskite Party" in your Graveyard, this card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
+    This card gains 1600 ATK until the end of your opponent's next turn. Then, if you have "Abysskite Party" in your Graveyard, this card cannot be destroyed by your opponent's card effects until the end of their next turn.
   de:
   es:
   fr:
@@ -126409,7 +126411,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card gains ATK equal to [the total Levels of the monsters sent to the Graveyard to meet the requirement] x 100 until the end of your opponent's next turn. Then, if you sent 3 monsters with different Types to the Graveyard to meet the requirement, this card cannot be destroyed by your opponent's card effects until the end of your opponent's next turn.
+    This card gains ATK equal to [the total Levels of the monsters sent to the Graveyard to meet the requirement] x 100 until the end of your opponent's next turn. Then, if you sent 3 monsters with different Types to the Graveyard to meet the requirement, this card cannot be destroyed by your opponent's card effects until the end of their next turn.
   de:
   es:
   fr:
@@ -127060,7 +127062,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Until the end of your opponent's next turn, while your LP are equal to or higher than your opponent's LP, this card cannot be destroyed by battle. Then, if you have 3 or more monsters in your Graveyard, you can Special Summon 1 Plant Type monster from your Graveyard face-up to your field.
+    Until the end of your opponent's next turn, while your LP are equal to or higher than their LP, this card cannot be destroyed by battle. Then, if you have 3 or more monsters in your Graveyard, you can Special Summon 1 Plant Type monster from your Graveyard face-up to your field.
   de:
   es:
   fr:
@@ -128505,6 +128507,7 @@ sets:
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -128614,7 +128617,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card gains 900 ATK until the end of your opponent's next turn. Then, if you sent a LIGHT Attribute or DARK Attribute monster to the Graveyard to meet the requirement, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of your opponent's next turn.
+    This card gains 900 ATK until the end of your opponent's next turn. Then, if you sent a LIGHT Attribute or DARK Attribute monster to the Graveyard to meet the requirement, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of their next turn.
   de:
   es:
   fr:
@@ -128705,6 +128708,8 @@ attribute: DARK
 level: 3
 atk: 600
 def: 1400
+series:
+- Jinzo
 images:
 - index: 1
   image: JinzoReturner-RDKP16-JP-OP.png
@@ -128775,6 +128780,8 @@ attribute: DARK
 level: 7
 atk: 2400
 def: 1500
+series:
+- Jinzo
 images:
 - index: 1
   image: JinzotheMachineMenace-RDKP16-JP-OP.png
@@ -128798,15 +128805,15 @@ name:
   fr:
   it:
   pt:
-  ja: 人造人間７.７号
-  ja_romaji:
+  ja: <ruby>人<rt>じん</rt></ruby><ruby>造<rt>ぞう</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>間<rt>げん</rt></ruby>７．７<ruby>号<rt>ごう</rt></ruby>
+  ja_romaji: Jinzōningen Nana-ten-Nana-gō
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Place 1 monster from your Graveyard on the bottom of the Deck.
+    Place 1 monster from your Graveyard on the bottom of your Deck.
   de:
   es:
   fr:
@@ -128834,6 +128841,8 @@ attribute: DARK
 level: 2
 atk: 700
 def: 700
+series:
+- Jinzo
 images:
 - index: 1
   image: Jinzo77-RDKP16-JP-OP.png
@@ -128859,7 +128868,7 @@ name:
   it:
   pt:
   ja: サイコ・ショッカー・アンプリファイド
-  ja_romaji:
+  ja_romaji: Saiko Shokkā Anpurifaido
   ko:
   ko_rr:
   zh-TW:
@@ -128906,6 +128915,8 @@ attribute: DARK
 level: 7
 atk: 2400
 def: 1500
+series:
+- Jinzo
 images:
 - index: 1
   image: JinzoAmplified-RDKP16-JP-OP.png
@@ -128931,7 +128942,7 @@ name:
   it:
   pt:
   ja: マシン・インスペクター
-  ja_romaji:
+  ja_romaji: Mashin Insupekutā
   ko:
   ko_rr:
   zh-TW:
@@ -128962,6 +128973,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Jinzo
 images:
 - index: 1
   image: MachineInspector-RDKP16-JP-OP.png
@@ -128986,8 +128999,8 @@ name:
   fr:
   it:
   pt:
-  ja: 電脳加速器
-  ja_romaji:
+  ja: <ruby>電<rt>でん</rt></ruby><ruby>脳<rt>のう</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>器<rt>き</rt></ruby>
+  ja_romaji: Dennō Kasokuki
   ko:
   ko_rr:
   zh-TW:
@@ -129030,6 +129043,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Equip
+series:
+- Jinzo
 images:
 - index: 1
   image: Accelerator-RDKP16-JP-OP.png
