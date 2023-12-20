@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>自<rt>じ</rt></ruby><ruby>己<rt>こ</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>避<rt>ひ</rt></ruby>
   ja_romaji: Jikokaihi
-  ko:
+  ko: 자기회피
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がドローフェイズに通常のドローをした時、自分の手札が２枚以上の場合に発動できる。
-  ko:
+  ko: |-
+    상대가 드로우 페이즈에 일반 드로우를 했을 때, 자신의 패가 2장 이상일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。その後、手札のモンスターを３体まで自分フィールドに裏側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 그 후, 패의 몬스터를 3장까지 자신 필드에 뒷면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP066
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP14-KR066
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Rare

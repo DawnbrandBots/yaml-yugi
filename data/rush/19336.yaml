@@ -8,7 +8,7 @@ name:
   pt:
   ja: ケミカライズ・デスパイズ
   ja_romaji: Kemikaraizu Desupaizu
-  ko:
+  ko: 케미컬라이즈 데스파이즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の表側表示モンスター（炎族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신의 앞면 표시 몬스터(화염족)가 공격을 받는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。攻撃を受けるモンスターのレベルが攻撃してきたモンスターより高い場合、さらに攻撃してきたモンスターを破壊できる。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 공격을 받는 몬스터의 레벨이 공격해 온 몬스터보다 높을 경우, 추가로 공격해 온 몬스터를 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP059
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP14-KR059
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Common

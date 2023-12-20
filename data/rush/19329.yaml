@@ -8,7 +8,7 @@ name:
   pt:
   ja: モンスター<ruby>招<rt>しょう</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
   ja_romaji: Monsutā Shōshū
-  ko:
+  ko: 몬스터 초집
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、効果モンスター以外の自分の墓地のモンスター（攻撃力２０００または守備力２１００）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 효과 몬스터 이외의 자신 묘지의 몬스터(공격력 2000 또는 수비력 2100) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -56,6 +58,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP14-KR052
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

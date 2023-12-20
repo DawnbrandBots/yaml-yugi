@@ -8,7 +8,7 @@ name:
   pt:
   ja: メガジョインテック・フォートレックス［<ruby>Ｌ<rt>エル</rt></ruby>］
   ja_romaji: Mega Jointekku Fōtorekkusu [Eru]
-  ko: 메가조인테크 포트렉스 [L]
+  ko: 메가조인테크 포트렉스[L]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（地属性／機械族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(땅 속성 / 기계족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで６００ダウンする。その後、コイントスを１回行う。表だった場合、このターン、このカードは３回攻撃できる。裏だった場合、このターン、このカードはモンスターに２回攻撃でき、その攻撃は貫通する。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 600 내린다. 그 후, 코인 토스를 1회 실행한다. 앞면인 경우, 이 턴에, 이 카드는 3회 공격할 수 있다. 뒷면인 경우, 이 턴에, 이 카드는 몬스터에 2회 공격할 수 있고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,11 +57,14 @@ sets:
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP14-KR003
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true
-    ko: true
   text:
     en: true
-    ko: true
 yugipedia_page_id: 994932

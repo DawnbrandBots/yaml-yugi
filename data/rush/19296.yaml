@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミステイク
   ja_romaji: Himitsu Sōsakan Misuteiku
-  ko:
+  ko: 비밀수사관 미스테이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中からモンスター（レベル３以上／爬虫類族）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 몬스터(레벨 3 이상 / 파충류족) 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,6 +57,11 @@ sets:
     set_name: Phoenix of the Roaring Flame
     rarities:
     - C
+  ko:
+  - set_number: RD/KP14-KR019
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

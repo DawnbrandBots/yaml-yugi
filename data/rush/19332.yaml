@@ -8,7 +8,7 @@ name:
   pt:
   ja: キャットロワ チョイス
   ja_romaji: Kyattorowa Choisu
-  ko:
+  ko: 캣트로와 초이스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地のモンスターが３体以下の場合、自分の墓地のカード１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 자신 묘지의 몬스터가 3장 이하일 경우, 자신 묘지의 카드 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP055
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP14-KR055
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Rare

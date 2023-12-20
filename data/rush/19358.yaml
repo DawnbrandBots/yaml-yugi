@@ -8,7 +8,7 @@ name:
   pt:
   ja: フュージョニック・リヴァイバーン
   ja_romaji: Fyūjonikku Riwaibān
-  ko:
+  ko: 퓨저닉 리바이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分がモンスターをフュージョン召喚した自分メインフェイズに、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신이 몬스터를 퓨전 소환한 자신 메인 페이즈에, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分の墓地のフュージョンモンスター（ハイドラゴン族）１体を選んで自分フィールドに表側表示で特殊召喚できる。この効果で特殊召喚した場合、さらに自分の墓地の「フュージョン」または「融合」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신 묘지의 퓨전 몬스터(하이드래곤족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다. 이 효과로 특수 소환했을 경우, 추가로 자신 묘지의 "퓨전" 또는 "융합" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,11 @@ sets:
     set_name: Saikyō Jump September 2023 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP14-KRS01
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true

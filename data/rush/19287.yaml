@@ -8,7 +8,7 @@ name:
   pt:
   ja: ケミスペット・ワンコ
   ja_romaji: Kemisupetto Wanko
-  ko:
+  ko: 케미스펫 멍코
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが１０体以下の場合、手札２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 10장 이하일 경우, 패 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。この効果の条件でモンスター（炎族・水族・雷族）２体を墓地へ送った場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 이 효과의 조건으로 몬스터(화염족 / 물족 / 번개족) 2장을 묘지로 보냈을 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,6 +57,11 @@ sets:
     set_name: Phoenix of the Roaring Flame
     rarities:
     - C
+  ko:
+  - set_number: RD/KP14-KR010
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

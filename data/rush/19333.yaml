@@ -8,7 +8,7 @@ name:
   pt:
   ja: サインプリンティング
   ja_romaji: Sainpurintingu
-  ko:
+  ko: 사인프린팅
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／風属性）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 바람 속성)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 필드에 앞면 표시의 "핸디레이디"가 있을 경우, 추가로 패의 몬스터 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP056
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP14-KR056
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Super Rare

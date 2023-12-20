@@ -8,7 +8,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 공격 무력화
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。このターン、相手は攻撃宣言できない。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 이 턴에, 상대는 공격 선언할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -56,6 +58,11 @@ sets:
     set_name: Tournament Battle January 2024 prize card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP14-KR065
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
 is_translation_unofficial:
   text:
     en: true

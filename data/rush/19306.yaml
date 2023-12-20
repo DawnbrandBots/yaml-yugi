@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Ryūjujutsu no Madōshi
-  ko:
+  ko: 용주술의 마도사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に魔法カードが３枚以上ある場合、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 마법 카드가 3장 이상 있을 경우, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の手札または自分の墓地の「暗黒騎士ガイア」または通常モンスター（レベル５／ドラゴン族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신의 패 또는 자신 묘지의 "암흑 기사 가이아" 또는 일반 몬스터(레벨 5 / 드래곤족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP029
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP14-KR029
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: オーラ・バスター
   ja_romaji: Ōra Basutā
-  ko:
+  ko: 아우라 버스터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（戦士族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(전사족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターは相手の効果では破壊されない。自分の墓地に装備魔法カードがある場合、さらに装備モンスターの攻撃は貫通する。
-  ko:
+  ko: |-
+    장착 몬스터는 상대의 효과로는 파괴되지 않는다. 자신 묘지에 장착 마법 카드가 있을 경우, 추가로 장착 몬스터의 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP14-JP051
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP14-KR051
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Common

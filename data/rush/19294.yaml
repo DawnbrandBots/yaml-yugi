@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>火<rt>か</rt></ruby><ruby>轟<rt>ごう</rt></ruby><ruby>嵐<rt>らん</rt></ruby><ruby>凰<rt>おう</rt></ruby>ヴォルカライズ・フェニックス［<ruby>Ｒ<rt>アール</rt></ruby>］
   ja_romaji: Kagōran'ō Vorukaraizu Fenikkusu [Āru]
-  ko:
+  ko: 화굉람황 볼카라이즈 피닉스[R]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（炎属性／水族）１体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(화염 속성 / 물족) 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。このカードがマキシマムモードの場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 이 카드가 맥시멈 모드일 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -57,6 +59,13 @@ sets:
     - UR
     - ScR
     - ORR
+  ko:
+  - set_number: RD/KP14-KR017
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true

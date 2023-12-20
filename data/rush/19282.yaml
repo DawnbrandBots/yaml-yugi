@@ -8,7 +8,7 @@ name:
   pt:
   ja: メガジョインテック・フォートレックス［<ruby>Ｒ<rt>アール</rt></ruby>］
   ja_romaji: Mega Jointekku Fōtorekkusu [Āru]
-  ko: 메가조인테크 포트렉스 [R]
+  ko: 메가조인테크 포트렉스[R]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     お互いはそれぞれ相手の墓地のモンスター３体を選び、持ち主のデッキに戻す。このカードがマキシマムモードの場合、さらにこのカードの攻撃力はターン終了時まで、［この効果で戻したモンスター（地属性／機械族）のレベルの合計］×１００アップする。
-  ko:
+  ko: |-
+    양쪽 플레이어는 각각 상대 묘지의 몬스터 3장을 고르고, 주인의 덱으로 되돌린다. 이 카드가 맥시멈 모드일 경우, 추가로 이 카드의 공격력은 턴 종료시까지, [이 효과로 되돌린 몬스터(땅 속성 / 기계족)의 레벨의 합계] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,11 +57,14 @@ sets:
     set_name: Phoenix of the Roaring Flame
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP14-KR005
+    set_name: Phoenix of the Roaring Flame
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true
-    ko: true
   text:
     en: true
-    ko: true
 yugipedia_page_id: 994934
