@@ -6,7 +6,7 @@ name:
   es: Espejo Puerta
   fr: Porte du Tunnel Miroir Extra-Dimensionel
   it: Portale Riflesso
-  pt: Portal do Espelho
+  pt:
   ja: <ruby>異<rt>い</rt></ruby><ruby>次<rt>じ</rt></ruby><ruby>元<rt>げん</rt></ruby>トンネル－ミラーゲート－
   ja_romaji: Ijigen Tonneru - Mirā Gēto -
   ko: 이차원 터널 미러 게이트
@@ -25,7 +25,7 @@ text:
   it: |-
     Quando un mostro del tuo avversario dichiara un attacco scegliendo come bersaglio un mostro "EROE Elementale" scoperto che controlli: scambia il controllo del mostro attaccante del tuo avversario con il mostro scelto come bersaglio che controlli, quindi procedi al calcolo dei danni. Il controllo di entrambi i mostri ritorna allo stato originario durante la End Phase.
   pt: |-
-    Ative somente durante uma declaração de ataque de um monstro do seu oponente quando um monstro "Elemental Hero" no seu lado do campo for alvo do ataque. Antes do Cálculo de Dano, mude o controle do monstro atacado e do monstro atacante do seu oponente. Retorne o controle dos monstros aos seus donos durante a End Phase.
+    Quando um monstro do oponente declarar um ataque escolhendo como alvo um monstro "HERÓI do Elemento" com a face para cima que você controla: Troque o controle do monstro atacante do oponente com o monstro escolhido como alvo que você controla e, depois, calcule o dano. O controle de ambos os monstros são trocados de volta durante a Fase Final.
   ja: |-
     ﻿自分フィールド上に表側表示で存在する「Ｅ・ＨＥＲＯ」と名のついたモンスターを攻撃対象にした相手モンスターの攻撃宣言時に発動する事ができる。相手の攻撃モンスターと攻撃対象となった自分モンスターのコントロールを入れ替えてダメージ計算を行う。このターンのエンドフェイズ時までコントロールを入れ替えたモンスターのコントロールを得る。
   ko: |-
@@ -118,10 +118,5 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    pt: true
-  text:
-    pt: true
 yugipedia_page_id: 20638
 master_duel_rarity: N
