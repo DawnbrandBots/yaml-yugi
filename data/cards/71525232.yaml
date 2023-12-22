@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal ou Especial da mão: você pode destruir tantos outros monstros campo quanto possível e, se isso acontecer, cause dano ao seu oponente igual ao maior ATK original no campo dentre esses monstros destruídos (em caso de empate, você seleciona). O ATK deste card se torna igual ao dano causado ao seu oponente por este efeito. Uma vez por turno, durante sua Fase Final: diminua pela metade seus PV.
   ja: |-
-    ①：このカードが手札からの召喚・特殊召喚に成功した時に発動できる。このカード以外のフィールドのモンスターを全て破壊し、破壊したモンスターの内、攻撃力が一番高いモンスターの攻撃力分のダメージを相手に与える。このカードの攻撃力は、この効果で相手に与えたダメージと同じ数値になる。②：自分エンドフェイズに発動する。自分のＬＰを半分にする。
+    ①：このカードが手札から召喚・特殊召喚した時に発動できる。フィールドの他のモンスターを全て破壊し、破壊したモンスターの内、元々の攻撃力が一番高いモンスターのその数値分のダメージを相手に与える。このカードの攻撃力は、この効果で相手に与えたダメージと同じ数値になる。②：自分エンドフェイズに発動する。自分のＬＰを半分にする。
   ko: |-
     ①: 이 카드가 패에서의 일반 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 이 카드 이외의 필드의 몬스터를 전부 파괴하고, 파괴한 몬스터 중, 공격력이 가장 높은 몬스터의 공격력만큼의 데미지를 상대에게 준다. 이 카드의 공격력은, 이 효과로 상대에게 준 데미지와 같은 수치가 된다. ②: 자신 엔드 페이즈에 발동한다. 자신의 LP를 절반으로 한다.
   zh-TW: |-
@@ -122,6 +122,12 @@ sets:
     rarities:
     - Ultra Parallel Rare
     - Secret Rare
+  - set_number: QCDB-JP011
+    set_name: Quarter Century Duelist Box
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MVPC-KR001
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards

@@ -27,7 +27,8 @@ text:
   pt: |-
     Você pode Invocar este card por Invocação-Ritual com "Forma do Caos". Deve ser Invocado por Invocação-Ritual. Seu oponente não pode escolher este card como alvo de efeitos de card e, além disso, ele não pode ser destruído pelos efeitos de card do seu oponente. Se este card atacar um monstro em Posição de Defesa, cause o dobro de dano de batalha perfurante.
   ja: |-
-    「カオス・フォーム」により降臨。このカードは儀式召喚でしか特殊召喚できない。①：このカードは相手の効果の対象にならず、相手の効果では破壊されない。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分の倍の数値だけ戦闘ダメージを与える。
+    「カオス・フォーム」により降臨
+    このカードは儀式召喚でしか特殊召喚できない。①：このカードがモンスターゾーンに存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分の倍の数値だけ相手に戦闘ダメージを与える。
   ko: |-
     "카오스 폼"에 의해 의식 소환. 이 카드는 의식 소환으로밖에 특수 소환할 수 없다. ①: 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼의 배의 수치만큼 전투 데미지를 준다.
   zh-TW: |-
@@ -188,6 +189,12 @@ sets:
     rarities:
     - Secret Rare
     - 20th Secret Rare
+  - set_number: QCDB-JP013
+    set_name: Quarter Century Duelist Box
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MVP1-KR004
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack

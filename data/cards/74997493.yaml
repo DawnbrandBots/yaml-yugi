@@ -52,7 +52,7 @@ text:
     ● 4: Quando este card for Invocado por Invocação-Link: você pode comprar 4 cards e, depois, coloque 3 cards da sua mão no fundo do seu Deck em qualquer ordem.
   ja: |-
     カード名が異なるモンスター２体以上
-    ①：このカードは、このカードのリンク素材としたモンスターの数によって以下の効果を得る。●２体以上：このカードのリンク先にモンスターが召喚・特殊召喚された場合に発動する。そのモンスターの攻撃力・守備力は３００アップする。●３体以上：１ターンに１度、自分メインフェイズに発動できる。手札からモンスター１体を特殊召喚する。●４体：このカードがリンク召喚に成功した時に発動できる。自分はデッキから４枚ドローし、その後手札を３枚選んで好きな順番でデッキの下に戻す。
+    ①：このカードは、このカードのＬ素材としたモンスターの数によって以下の効果を得る。●２体以上：このカードのリンク先にモンスターが召喚・特殊召喚された場合に発動する。そのモンスターの攻撃力・守備力は３００アップする。●３体以上：１ターンに１度、自分メインフェイズに発動できる。手札からモンスター１体を特殊召喚する。●４体：このカードがＬ召喚した時に発動できる。自分は４枚ドローする。その後、自分の手札を３枚選んで好きな順番でデッキの下に戻す。
   ko: |-
     카드명이 다른 몬스터 2장 이상
     ①: 이 카드는, 이 카드의 링크 소재로 한 몬스터의 수에 따라 이하의 효과를 얻는다.
@@ -154,6 +154,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  - set_number: QCDB-JP044
+    set_name: Quarter Century Duelist Box
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: EXFO-KR048
     set_name: Extreme Force
