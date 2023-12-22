@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente controlar um ou mais monstros Invocados por Invocação-Especial do Deck Adicional e você não: selecione 4 Monstros Xyz "Número" do seu Deck Adicional com Classes diferentes, mais um 5º Monstro Xyz "Número" cujo valor do "Número" em seu nome seja igual aos valores combinados dos "Número" dos outros 4 monstros, Invoque por Invocação-Especial esse 5º monstro "Número" (isso é considerado uma Invocação-Xyz) e associe os 4 monstros selecionados a ele como matéria, mas você não pode Invocar monstros por Invocação-Especial, exceto Monstros Xyz "Número", enquanto você controlar esse monstro com a face para cima.
   ja: |-
-    ①：ＥＸデッキから特殊召喚されたモンスターが相手フィールドにのみ存在する場合に発動できる。ＥＸデッキから「Ｎｏ．」Ｘモンスター４体を選ぶ（同じランクは１体まで）。「Ｎｏ．」の数値がその４体の合計と同じとなる、「Ｎｏ．」Ｘモンスター１体をＸ召喚扱いとしてＥＸデッキから特殊召喚し、選んだモンスターを全てそのモンスターの下に重ねてＸ素材とする。この効果で特殊召喚したモンスターが自分フィールドに表側表示で存在する限り、自分は「Ｎｏ．」Ｘモンスターしか特殊召喚できない。
+    ①：ＥＸデッキから特殊召喚されたモンスターが相手フィールドにのみ存在する場合に発動できる。ＥＸデッキから「Ｎｏ．」Ｘモンスター４体を選ぶ（同じランクは１体まで）。「Ｎｏ．」の数値がその４体の合計と同じとなる、「Ｎｏ．」Ｘモンスター１体をＸ召喚扱いでＥＸデッキから特殊召喚し、選んだモンスターを全てそのモンスターのＸ素材とする。この効果で特殊召喚したモンスターが自分フィールドに表側表示で存在する限り、自分は「Ｎｏ．」Ｘモンスターしか特殊召喚できない。
   ko: |-
     ①: 엑스트라 덱에서 특수 소환된 몬스터가 상대 필드에만 존재할 경우에 발동할 수 있다. 엑스트라 덱에서 "No." 엑시즈 몬스터 4장을 고른다(같은 랭크는 1장까지). "No."의 수치가 그 4장의 합계와 같아지는, "No." 엑시즈 몬스터 1장을 엑시즈 소환으로 취급하여 엑스트라 덱에서 특수 소환하고, 고른 몬스터를 전부 그 몬스터 아래에 겹쳐 엑시즈 소재로 한다. 이 효과로 특수 소환한 몬스터가 자신 필드에 앞면 표시로 존재하는 한, 자신은 "No." 엑시즈 몬스터밖에 특수 소환할 수 없다.
   zh-TW: |-
@@ -72,6 +72,11 @@ sets:
     set_name: Premium Pack 2022
     rarities:
     - Ultra Rare
+    - Secret Rare
+  - set_number: QCDB-JP058
+    set_name: Quarter Century Duelist Box
+    rarities:
+    - Super Rare
     - Secret Rare
   ko:
   - set_number: PP17-KR013
