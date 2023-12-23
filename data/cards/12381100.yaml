@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 19718
+password: 12381100
 name:
   en: Dragon Magia Master
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「青眼の究極竜」（または「ブルーアイズ」モンスター×３）＋「カオス」儀式モンスター
+    このカードは融合召喚でしか特殊召喚できない。①：相手が効果を発動した時に発動できる（このカード名のこの効果は魔法・罠・モンスターの効果に対してそれぞれ１ターンに１度しか発動できない）。その発動を無効にし破壊する。②：表側表示のこのカードが相手によってフィールドから離れた場合に発動できる。自分のＥＸデッキ・墓地から「ブルーアイズ」モンスターか「カオス」儀式モンスター１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -35,7 +37,7 @@ def: 4000
 materials: '"Blue-Eyes Ultimate Dragon" (or 3 "Blue-Eyes" monsters) + 1 "Chaos" or "Black Luster Soldier" Ritual Monster'
 images:
 - index: 1
-  image: DragonMagiaMaster-QCDB-JP-OP.png
+  image: DragonMagiaMaster-QCDB-JP-UR.png
 sets:
   ja:
   - set_number: QCDB-JP001
@@ -43,13 +45,13 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1035098
-fake_password: 100302001
