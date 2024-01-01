@@ -27,7 +27,7 @@ text:
   pt: |-
     Monstros de Nível 6 ou mais no campo, Invocados por Invocação-Especial, não podem declarar ataques, e os duelistas não podem ativar seus efeitos.
   ja: |-
-    このカードがフィールド上に表側表示で存在する限り、フィールド上に表側表示で存在するレベル６以上の特殊召喚したモンスターは攻撃宣言をする事ができず、効果を発動する事もできない。
+    ①：このカードが魔法＆罠ゾーンに存在する限り、特殊召喚されたレベル６以上のモンスターは攻撃宣言できず、お互いはそれらの効果を発動できない。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 필드 위에 앞면 표시로 존재하는 레벨 6 이상의 특수 소환한 몬스터는 공격 선언을 할 수 없고, 효과를 발동할 수도 없다.
   zh-TW: |-
@@ -112,6 +112,10 @@ sets:
     - Super Rare
   - set_number: DE03-JP156
     set_name: Duelist Edition Volume 3
+    rarities:
+    - Common
+  - set_number: 24TP-JP116
+    set_name: Tournament Pack 2024 Vol.1
     rarities:
     - Common
   ko:
