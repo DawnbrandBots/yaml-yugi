@@ -16,8 +16,8 @@ name:
 text:
   en: |-
     When this card is activated: You can target 1 Effect Monster your opponent controls; this card gains this effect.
-    ● While this card is in the Field Zone, negate that Effect Monster's effects.
-    During your Main Phase, you can Normal Summon 1 "Earthbound" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card in its owner's possession is destroyed by an opponent's card effect and you have an "Earthbound" monster on your field and/or in your GY: Halve your opponent's LP, and if you do, negate the effects of all face-up cards your opponent currently controls until the end of this turn.
+    ● While this card is in the Field Zone, negate the effects of that face-up Effect Monster while it is on the field.
+    During your Main Phase, you can Normal Summon 1 "Earthbound" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this card in your possession is destroyed by an opponent's card effect, and you have an "Earthbound" monster in your field or GY: Halve your opponent's LP, and if you do, negate the effects of all face-up cards your opponent currently controls, until the end of this turn.
   de:
   es:
   fr:
@@ -41,6 +41,31 @@ images:
 - index: 1
   image: EarthboundPrison-AC03-JP-NPR.png
 sets:
+  en:
+  - set_number: MZMI-EN034
+    set_name: Maze of Millennia
+    rarities:
+    - Super Rare
+  de:
+  - set_number: MZMI-DE034
+    set_name: Maze of Millennia
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: MZMI-FR034
+    set_name: Maze of Millennia
+    rarities:
+    - Super Rare
+  it:
+  - set_number: MZMI-IT034
+    set_name: Maze of Millennia
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: MZMI-PT034
+    set_name: Maze of Millennia
+    rarities:
+    - Super Rare
   ja:
   - set_number: AC03-JP024
     set_name: Animation Chronicle 2023
@@ -61,7 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 934436
