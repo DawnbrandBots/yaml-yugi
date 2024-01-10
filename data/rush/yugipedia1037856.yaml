@@ -24,9 +24,11 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    TBA
+    If you would normal draw until you have 5 cards in your hand during the Draw Phase while your opponent has 3 monsters on their field, normal draw until you have 6 cards in your hand instead.
   de:
   es:
   fr:
@@ -44,10 +46,10 @@ atk: 1900
 def: 1900
 images:
 - index: 1
-  image: ExciteGroundDragon-RD????-JP-OP.png
+  image: ExciteGroundDragon-RDTDPR-JP-OP.png
 sets:
   ja:
-  - set_number: RD/????-JP002
+  - set_number: RD/TDPR-JP002
     set_name: Rush Duel The Legend of Duelist Promotion Pack
     rarities:
     - Normal Parallel Rare
