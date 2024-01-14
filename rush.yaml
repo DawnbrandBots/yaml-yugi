@@ -28624,6 +28624,8 @@ images:
   illustration: CAND-DBR-JP-VG-artwork-2.png
 - index: 3
   image: CAND-RDECG1-JP-NPR.png
+- index: 4
+  image: CAND-RDDK01-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP05-JP002
@@ -28643,6 +28645,11 @@ sets:
     set_name: Rush Duel Card Game Gum
     rarities:
     - Normal Parallel Rare
+  - set_number: RD/DK01-JP002
+    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: RD/KP05-KR002
     set_name: 'Deck Mod Pack: Dynamic Eternal Live!!'
@@ -53800,6 +53807,8 @@ images:
   illustration: SecretOrder-G002-JP-VG-artwork.png
 - index: '1.1'
   image: SecretOrder-RDGRP1-KR-SR.png
+- index: 2
+  image: SecretOrder-RDDK01-JP-OP.png
 sets:
   ja:
   - set_number: RD/GRP1-JP024
@@ -53809,6 +53818,11 @@ sets:
   - set_number: RD/LGP1-JP049
     set_name: Legend Awakening Pack
     rarities:
+    - Secret Rare
+  - set_number: RD/DK01-JP005
+    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
+    rarities:
+    - Super Rare
     - Secret Rare
   ko:
   - set_number: RD/GRP1-KR024
@@ -130785,3 +130799,271 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1038131
+---
+konami_id:
+name:
+  en: Praime Dian Keto
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: プライム・ディアン・ケト
+  ja_romaji: Puraimu Dian Keto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 1 monster. If you do, its original ATK becomes 1000.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Gain 1000 LP, and this card gains 1000 ATK until the end of this turn. Then, you can add 1 "Praime Call" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Aqua / Effect
+attribute: LIGHT
+level: 8
+atk: 2500
+def: 1000
+series:
+- Praime
+images:
+- index: 1
+  image: PraimeDianKeto-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP007
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038375
+---
+konami_id:
+name:
+  en: Golden Flying Fish
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 other face-up Fish Type monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 card on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fish / Effect
+attribute: LIGHT
+level: 4
+atk: 1700
+def: 1000
+legend: true
+images:
+- index: 1
+  image: GoldenFlyingFish-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP034
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038380
+---
+konami_id:
+name:
+  en: Snipe Hunter
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send any number of cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die a number of times equal to [the number of cards sent to the Graveyard to meet the requirement]. Destroy cards on your opponent's field, up to [the number of times you rolled a number other than 1 or 6].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 4
+atk: 1500
+def: 600
+legend: true
+images:
+- index: 1
+  image: SnipeHunter-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP033
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038381
+---
+konami_id:
+name:
+  en: Deity of Seven Teasures - Ryosai
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>七<rt>しち</rt></ruby><ruby>宝<rt>ほう</rt></ruby><ruby>神<rt>じん</rt></ruby>－<ruby>良<rt>りょう</rt></ruby><ruby>財<rt>さい</rt></ruby>
+  ja_romaji: Shichihōjin - Ryōsai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a monster with 2700 DEF or "Ship of Seven Treasures" in your Graveyard, you can Special Summon this card (from your hand) face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    Face-up Level 7 monsters and face-down Spell/Trap Cards on your field cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 7
+atk: 1700
+def: 2700
+images:
+- index: 1
+  image: DeityofSevenTeasuresRyosai-RD-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP036
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038383
