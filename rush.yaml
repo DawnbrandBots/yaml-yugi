@@ -131067,3 +131067,653 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1038383
+---
+konami_id:
+name:
+  en: Dice Key Caramail
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・キャラメイル
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    While you have a face-up Level 7 or higher monster with an effect that requires a die roll on your field, your opponent cannot activate Trap Cards during the Battle Phase.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 1200
+images:
+- index: 1
+  image: DiceKeyCaramail-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP014
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038464
+---
+konami_id:
+name:
+  en: Dice Key Minna
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・ミンナ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up monster with an effect that requires a die roll on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    All face-up monsters on your field gain 600 ATK until the end of your opponent's next turn. Then, you can add 1 Fairy Type monster with 300 ATK/1200 DEF from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 4
+atk: 1200
+def: 0
+images:
+- index: 1
+  image: DiceKeyMinna-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP015
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038465
+---
+konami_id:
+name:
+  en: Dicemite Girl Chirori
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスマイトガール・チロリ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die and apply the result until the end of this turn.
+    ● 1 or 2: This card loses 1000 ATK.
+    ● 3 or 4: This card gains 600 ATK.
+    ● 5 or 6: This card gains ATK equal to [the original ATK of 1 face-up monster on your opponent's field].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 7
+atk: 2400
+def: 1600
+images:
+- index: 1
+  image: DicemiteGirlChirori-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP016
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038466
+---
+konami_id:
+name:
+  en: Graceful Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. All face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: GracefulDice-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP049
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038467
+---
+konami_id:
+name:
+  en: Skull Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. All face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: SkullDice-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP062
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038468
+---
+konami_id:
+name:
+  en: Asura Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>阿<rt>あ</rt></ruby><ruby>修<rt>しゅ</rt></ruby><ruby>羅<rt>ラ</rt></ruby>のサイコロ
+  ja_romaji: Ashura no Saikoro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster face-up.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Inflict damage to your opponent equal to [the result] x 100, and all face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: AsuraDice-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP063
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038469
+---
+konami_id:
+name:
+  en: Dice Angel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
+  ja_romaji: Saikoro no Tenshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard, except "Graceful Dice".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Graceful Dice" from your Graveyard to your hand. Then, if your opponent has 2 or more monsters on their field, roll a six-sided die. If you roll a number other than 6, gain 600 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 600
+images:
+- index: 1
+  image: DiceAngel-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP009
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038470
+---
+konami_id:
+name:
+  en: Dice Demon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>
+  ja_romaji: Saikoro no Akuma
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard, except "Skull Dice".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Skull Dice" from your Graveyard to your hand. Then, if your opponent has 2 or more monsters on their field, roll a six-sided die. If you roll a number other than 1, inflict 600 damage to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 1
+atk: 600
+def: 0
+images:
+- index: 1
+  image: DiceDemon-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP010
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038471
+---
+konami_id:
+name:
+  en: Dice Archswordsman
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>剣<rt>けん</rt></ruby><ruby>士<rt>し</rt></ruby>
+  ja_romaji: Saikoro no Daikenshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. This card can attack a number of times equal to [the result] during this turn. Then, if the result was 3 or lower, you can draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: EARTH
+level: 7
+atk: 600
+def: 2400
+images:
+- index: 1
+  image: DiceArchswordsman-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP011
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038472
+---
+konami_id:
+name:
+  en: Dice Archangel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
+  ja_romaji: Saikoro no Daitenshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Until the end of this turn, all face-up monsters on your field gain ATK/DEF equal to [the result] x 100, or [the result] x 200 instead if you have "Graceful Dice" in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 7
+atk: 2400
+def: 1500
+images:
+- index: 1
+  image: DiceArchangel-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP012
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038473
+---
+konami_id:
+name:
+  en: Dice Archdemon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>
+  ja_romaji: Saikoro no Daiakuma
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Until the end of this turn, all face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100, or [the result] x 200 instead if you have "Skull Dice" in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 7
+atk: 2400
+def: 1500
+images:
+- index: 1
+  image: DiceArchdemon-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP013
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038474
