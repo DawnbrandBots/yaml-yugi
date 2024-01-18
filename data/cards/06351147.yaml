@@ -2,11 +2,11 @@ konami_id: 19049
 password: 6351147
 name:
   en: Transaction Rollback
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Transaktion widerrufen
+  es: Repetición de Transacción
+  fr: Transaction Rollback
+  it: Transazione Rollback
+  pt: Reverter Transação
   ja: トランザクション・ロールバック
   ja_romaji: Toranzakushon Rōrubakku
   ko: 트랜잭션 롤백
@@ -16,11 +16,16 @@ name:
 text:
   en: |-
     Pay half your LP, then target 1 Normal Trap in your opponent's GY, except "Transaction Rollback"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except "Transaction Rollback"; this effect becomes that card's activation effect. You can only use 1 "Transaction Rollback" effect per turn, and only once that turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Zahle die Hälfte deiner LP und wähle dann 1 Normale Falle im Friedhof deines Gegners, außer „Transaktion widerrufen“; dieser Effekt wird derselbe wie der Aktivierungseffekt jener Karte. Du kannst diese Karte von deinem Friedhof verbannen und die Hälfte deiner LP zahlen und dann 1 Normale Falle in deinem Friedhof wählen, außer „Transaktion widerrufen“; dieser Effekt wird derselbe wie der Aktivierungseffekt jener Karte. Du kannst nur 1 Effekt von „Transaktion widerrufen“ pro Spielzug verwenden und in jenem Spielzug nur einmal.
+  es: |-
+    Paga la mitad de tus LP, y después selecciona 1 Trampa Normal en el Cementerio de tu adversario, excepto "Repetición de Transacción"; este efecto se convierte en el efecto de activación de esa carta. Puedes desterrar esta carta en tu Cementerio y pagar la mitad de tus LP, y después selecciona 1 Trampa Normal en tu Cementerio, excepto "Repetición de Transacción"; este efecto se convierte en el efecto de activación de esa carta. Sólo puedes usar 1 efecto de "Repetición de Transacción" por turno, y sólo una vez ese turno.
+  fr: |-
+    Payez la moitié de vos LP, puis ciblez 1 Piège Normal ("Transaction Rollback" exclu) dans le Cimetière de votre adversaire ; cet effet devient l'effet d'activation de la carte. Vous pouvez bannir cette carte depuis votre Cimetière, et payez la moitié de vos LP, puis ciblez 1 Piège Normal ("Transaction Rollback" exclu) dans votre Cimetière ; cet effet devient l'effet d'activation de la carte. Vous ne pouvez utiliser qu'1 effet de "Transaction Rollback" par tour, et uniquement une fois le tour.
+  it: |-
+    Paga la metà dei tuoi LP, poi scegli come bersaglio 1 Trappola Normale nel Cimitero del tuo avversario, eccetto "Transazione Rollback"; questo effetto diventa l'effetto dell'attivazione di quella carta. Puoi bandire questa carta dal tuo Cimitero e pagare la metà dei tuoi LP, poi scegliere come bersaglio 1 Trappola Normale nel tuo Cimitero, eccetto "Transazione Rollback"; questo effetto diventa l'effetto dell'attivazione di quella carta. Puoi utilizzare solo 1 effetto di "Transazione Rollback" per turno, e solo una volta in quel turno.
+  pt: |-
+    Pague metade dos seus PV e, depois, escolha 1 Armadilha Normal no Cemitério do seu oponente, exceto "Reverter Transação"; este efeito se torna o efeito de ativação desse card. Você pode banir este card do seu Cemitério e pagar metade dos seus PV e, depois, escolha 1 Armadilha Normal no seu Cemitério, exceto "Reverter Transação"; este efeito se torna o efeito de ativação desse card. Você só pode usar 1 efeito de "Reverter Transação" por turno e apenas uma vez por turno.
   ja: |-
     このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：ＬＰを半分払い、「トランザクション・ロールバック」以外の相手の墓地の通常罠カード１枚を対象として発動できる。この効果は、その通常罠カード発動時の効果と同じになる。②：墓地のこのカードを除外し、ＬＰを半分払い、「トランザクション・ロールバック」以外の自分の墓地の通常罠カード１枚を対象として発動できる。この効果は、その通常罠カード発動時の効果と同じになる。
   ko: |-
@@ -75,6 +80,6 @@ sets:
     rarities:
     - Normal Parallel Rare
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 928730
