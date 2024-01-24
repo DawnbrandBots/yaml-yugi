@@ -132669,3 +132669,205 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1040542
+---
+konami_id:
+name:
+  en: Jointech Nesstrydar Tank
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・ネストライダー・タンク
+  ja_romaji: Jointekku Nesutoraidā Tanku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 cards from your hand into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 Level 7 or 8 DARK Attribute monster from your Graveyard face-up to your field. If you do, until the end of this turn, you can only Special Summon "Jointech Tridynabase", and you cannot activate the effects of DARK Attribute monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 0
+series:
+- Darkness
+- Jointech
+images:
+- index: 1
+  image: JointechNesstrydarTank-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP017
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1040572
+---
+konami_id:
+name:
+  en: Darkness Jointech Tyrant
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークネス・ジョインテック・タイラント
+  ja_romaji: Dākunesu Jointekku Tairanto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During a turn you have not activated a monster effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 2 Level 7 or 8 DARK Attribute monsters with different Types from your Graveyard to your hand. Then, this card's name becomes "Jointech Nesstrydar Tank" this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: DARK
+level: 7
+atk: 2500
+def: 0
+series:
+- Darkness
+- Jointech
+images:
+- index: 1
+  image: DarknessJointechTyrant-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP018
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1040573
+---
+konami_id:
+name:
+  en: Jointech Tridynabase
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・トライ・ダイナベース
+  ja_romaji: Jointekku Torai Dainabēsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If this card attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). This card can make up to 3 attacks during the turn it was Fusion Summoned by sending monsters whose original names are "Voidvelgr Requiem" and "Abysslayer Leviaknight" to the Graveyard as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 3000
+def: 3000
+materials:
+  en: |-
+    "Jointech Nesstrydar Tank" + 2 non-Machine Type monsters
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechTridynabase-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP041
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1040574
