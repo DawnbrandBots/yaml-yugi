@@ -1,7 +1,7 @@
 konami_id: 19504
 password: 3594985
 name:
-  en: Majespecter Draco
+  en: Majespecter Draco - Ryu
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 4 monsters
-    If you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. If a monster(s) is Tributed while this card is on the field (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 Level 6 or lower WIND Spellcaster monster from your Deck. You can only use this effect of "Majespecter Draco" up to twice per turn. If this card in the Monster Zone is destroyed by battle or card effect, or Tributed: You can place this card in your Pendulum Zone.
+    If you can Pendulum Summon Level 4, you can Pendulum Summon this face-up card from your Extra Deck. If a monster(s) is Tributed while this card is on the field (except during the Damage Step): You can detach 1 material from this card; Special Summon 1 Level 6 or lower WIND Spellcaster monster from your Deck. You can only use this effect of "Majespecter Draco - Ryu" up to twice per turn. If this card in the Monster Zone is destroyed by battle or card effect, or Tributed: You can place this card in your Pendulum Zone.
   de:
   es:
   fr:
@@ -44,7 +44,7 @@ def: 2000
 pendulum_scale: 5
 pendulum_effect:
   en: |-
-    If you have a "Majespecter" or "Dracoslayer" card in your other Pendulum Zone: You can add 1 "Majespecter" card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of "Majespecter Draco" once per turn.
+    If you have a "Majespecter" or "Dracoslayer" card in your other Pendulum Zone: You can add 1 "Majespecter" card from your Deck to your hand, then you can destroy 1 card in your Pendulum Zone. You can only use this effect of "Majespecter Draco - Ryu" once per turn.
   de:
   es:
   fr:
@@ -63,8 +63,38 @@ series:
 - Majespecter
 images:
 - index: 1
-  image: MajespecterDraco-PHNI-JP-UR.png
+  image: MajespecterDracoRyu-PHNI-JP-UR.png
 sets:
+  en:
+  - set_number: PHNI-EN049
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: PHNI-DE049
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: PHNI-FR049
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: PHNI-IT049
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: PHNI-PT049
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: PHNI-JP049
     set_name: Phantom Nightmare
@@ -107,9 +137,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1012228
