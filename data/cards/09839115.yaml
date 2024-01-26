@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    If this card is Synchro Summoned: You can make this card gain ATK equal to the total Levels of the non-Tuners used as its material x 300 (until the end of the next turn), then inflict damage to your opponent equal to the Level of the Tuner used as its material x 300. You can only use this effect of "Vagnawa the Moon-Eating Dragon" once per turn.
+    If this card is Synchro Summoned: You can activate this effect; this card gains 300 ATK for each Level that the non-Tuners used had, then inflict 300 damage to your opponent for each Level that the Tuner used had. The ATK increase lasts until the end of the next turn. You can only use this effect of "Vagnawa the Moon-Eating Dragon" once per turn.
   de:
   es:
   fr:
@@ -43,6 +43,26 @@ images:
 - index: 1
   image: VagnawatheMoonEatingDragon-PHNI-JP-C.png
 sets:
+  en:
+  - set_number: PHNI-EN043
+    set_name: Phantom Nightmare
+    rarities:
+  de:
+  - set_number: PHNI-DE043
+    set_name: Phantom Nightmare
+    rarities:
+  fr:
+  - set_number: PHNI-FR043
+    set_name: Phantom Nightmare
+    rarities:
+  it:
+  - set_number: PHNI-IT043
+    set_name: Phantom Nightmare
+    rarities:
+  pt:
+  - set_number: PHNI-PT043
+    set_name: Phantom Nightmare
+    rarities:
   ja:
   - set_number: PHNI-JP043
     set_name: Phantom Nightmare
@@ -61,7 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1023598

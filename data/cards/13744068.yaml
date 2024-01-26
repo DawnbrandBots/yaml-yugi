@@ -15,7 +15,7 @@ name:
   zh-CN: 狂战恶魔
 text:
   en: |-
-    You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of "Berserk Archfiend" once per turn. When a monster(s) is destroyed by this card's previous effect: You can target an equal number of face-up monsters your opponent controls; this card gains ATK equal to those monsters' total original ATK until the end of your next turn.
+    You can target up to 2 face-up monsters you control, including a Fiend monster; Special Summon this card from your hand, and if you do, destroy those monsters. You can only use this effect of "Berserk Archfiend" once per turn. When a monster(s) is destroyed by this card's effect: You can target face-up monsters your opponent controls equal to the number destroyed; this card gains ATK equal to their combined original ATK, until the end of your next turn.
   de:
   es:
   fr:
@@ -42,6 +42,26 @@ images:
 - index: 1
   image: BerserkArchfiend-PHNI-JP-C.png
 sets:
+  en:
+  - set_number: PHNI-EN027
+    set_name: Phantom Nightmare
+    rarities:
+  de:
+  - set_number: PHNI-DE027
+    set_name: Phantom Nightmare
+    rarities:
+  fr:
+  - set_number: PHNI-FR027
+    set_name: Phantom Nightmare
+    rarities:
+  it:
+  - set_number: PHNI-IT027
+    set_name: Phantom Nightmare
+    rarities:
+  pt:
+  - set_number: PHNI-PT027
+    set_name: Phantom Nightmare
+    rarities:
   ja:
   - set_number: PHNI-JP027
     set_name: Phantom Nightmare
@@ -60,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1023565

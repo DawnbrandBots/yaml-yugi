@@ -15,7 +15,7 @@ name:
   zh-CN: 嗤嗤黑羊猜猜其名
 text:
   en: |-
-    Declare 1 Monster Card name; neither player can Special Summon monsters with that original name for the rest of this turn, except from the GY. You can banish this card from your GY and declare 1 Monster Card name; neither player can activate the effects of monsters on the field with that original name for the rest of this turn. You can only use 1 "The Black Goat Laughs" effect per turn, and only once that turn.
+    Declare 1 Monster Card name; this turn, neither player can Special Summon monsters with that original name, except from the GY. You can banish this card from the GY, then declare 1 Monster Card name; this turn, neither player can activate the effects of monsters on the field with that original name. You can only use 1 "The Black Goat Laughs" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -38,6 +38,26 @@ images:
 - index: 1
   image: TheBlackGoatLaughs-PHNI-JP-R.png
 sets:
+  en:
+  - set_number: PHNI-EN078
+    set_name: Phantom Nightmare
+    rarities:
+  de:
+  - set_number: PHNI-DE078
+    set_name: Phantom Nightmare
+    rarities:
+  fr:
+  - set_number: PHNI-FR078
+    set_name: Phantom Nightmare
+    rarities:
+  it:
+  - set_number: PHNI-IT078
+    set_name: Phantom Nightmare
+    rarities:
+  pt:
+  - set_number: PHNI-PT078
+    set_name: Phantom Nightmare
+    rarities:
   ja:
   - set_number: PHNI-JP078
     set_name: Phantom Nightmare
@@ -63,7 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1019500

@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 "Aroma" monster + 1 Plant monster
-    While your LP are higher than your opponent's, Plant monsters you control cannot be destroyed by your opponent's card effects. Once per turn: You can pay 2000 LP; banish cards on the field equal to the total number of "Humid Winds", "Dried Winds", and "Blessed Winds" you control. Once per turn, if you gain LP (even during the Damage Step): You can make all Plant monsters you currently control gain an equal amount of ATK until the end of this turn.
+    While your LP are higher than your opponent's, Plant monsters you control cannot be destroyed by your opponent's card effects. Once per turn: You can pay 2000 LP; banish cards on the field equal to the number of "Humid Winds", "Dried Winds", and "Blessed Winds" you control. Once per turn, if you gain LP, even during the Damage Step: You can make all Plant monsters you currently control gain ATK equal to the LP gained, until the end of this turn.
   de:
   es:
   fr:
@@ -47,6 +47,26 @@ images:
 - index: 1
   image: AromalilithMagnolia-PHNI-JP-R.png
 sets:
+  en:
+  - set_number: PHNI-EN039
+    set_name: Phantom Nightmare
+    rarities:
+  de:
+  - set_number: PHNI-DE039
+    set_name: Phantom Nightmare
+    rarities:
+  fr:
+  - set_number: PHNI-FR039
+    set_name: Phantom Nightmare
+    rarities:
+  it:
+  - set_number: PHNI-IT039
+    set_name: Phantom Nightmare
+    rarities:
+  pt:
+  - set_number: PHNI-PT039
+    set_name: Phantom Nightmare
+    rarities:
   ja:
   - set_number: PHNI-JP039
     set_name: Phantom Nightmare
@@ -72,7 +92,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1022868

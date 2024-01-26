@@ -15,7 +15,7 @@ name:
   zh-CN: 立骰犀王
 text:
   en: |-
-    Once per turn, when a card or effect is activated (even during the Damage Step) (Quick Effect): You can roll a six-sided die and apply this effect based on this effect's Chain Link number.
+    Once per turn, when a card or effect is activated, even during the Damage Step (Quick Effect): You can roll a six-sided die, then apply the appropriate effect, depending on the Chain Link number of this effect.
     ● 2: This card gains ATK equal to the result x 500 until the end of this turn.
     ● 3: Inflict damage to your opponent equal to the result x 500.
     ● 4+: Destroy cards on the field up to the result.
@@ -47,6 +47,26 @@ images:
 - index: 1
   image: RoyalRhinowithDeceitfulDice-PHNI-JP-NR.png
 sets:
+  en:
+  - set_number: PHNI-EN036
+    set_name: Phantom Nightmare
+    rarities:
+  de:
+  - set_number: PHNI-DE036
+    set_name: Phantom Nightmare
+    rarities:
+  fr:
+  - set_number: PHNI-FR036
+    set_name: Phantom Nightmare
+    rarities:
+  it:
+  - set_number: PHNI-IT036
+    set_name: Phantom Nightmare
+    rarities:
+  pt:
+  - set_number: PHNI-PT036
+    set_name: Phantom Nightmare
+    rarities:
   ja:
   - set_number: PHNI-JP036
     set_name: Phantom Nightmare
@@ -65,7 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1023584
