@@ -129042,7 +129042,7 @@ series:
 - Transamu
 images:
 - index: 1
-  image: TransamuScraied-RDSJMP-JP-OP.png
+  image: TransamuScraied-RDSJMP-JP-NPR.png
 sets:
   ja:
   - set_number: RD/SJMP-JP036
@@ -131256,6 +131256,8 @@ attribute: LIGHT
 level: 3
 atk: 300
 def: 1200
+series:
+- Dice
 images:
 - index: 1
   image: DiceKeyCaramail-RDKP16-JP-OP.png
@@ -131316,6 +131318,8 @@ attribute: LIGHT
 level: 4
 atk: 1200
 def: 0
+series:
+- Dice
 images:
 - index: 1
   image: DiceKeyMinna-RDKP16-JP-OP.png
@@ -131379,6 +131383,8 @@ attribute: LIGHT
 level: 7
 atk: 2400
 def: 1600
+series:
+- Dice
 images:
 - index: 1
   image: DicemiteGirlChirori-RDKP16-JP-OP.png
@@ -131436,6 +131442,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Dice
 images:
 - index: 1
   image: GracefulDice-RDKP16-JP-OP.png
@@ -131490,6 +131498,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Dice
 images:
 - index: 1
   image: SkullDice-RDKP16-JP-OP.png
@@ -131544,6 +131554,8 @@ effect:
   zh-CN:
 card_type: Trap
 property: Normal
+series:
+- Dice
 images:
 - index: 1
   image: AsuraDice-RDKP16-JP-OP.png
@@ -131604,6 +131616,8 @@ attribute: LIGHT
 level: 1
 atk: 0
 def: 600
+series:
+- Dice
 images:
 - index: 1
   image: DiceAngel-RDKP16-JP-OP.png
@@ -131664,6 +131678,8 @@ attribute: DARK
 level: 1
 atk: 600
 def: 0
+series:
+- Dice
 images:
 - index: 1
   image: DiceDemon-RDKP16-JP-OP.png
@@ -131724,6 +131740,8 @@ attribute: EARTH
 level: 7
 atk: 600
 def: 2400
+series:
+- Dice
 images:
 - index: 1
   image: DiceArchswordsman-RDKP16-JP-OP.png
@@ -131784,6 +131802,8 @@ attribute: LIGHT
 level: 7
 atk: 2400
 def: 1500
+series:
+- Dice
 images:
 - index: 1
   image: DiceArchangel-RDKP16-JP-OP.png
@@ -131844,6 +131864,8 @@ attribute: DARK
 level: 7
 atk: 2400
 def: 1500
+series:
+- Dice
 images:
 - index: 1
   image: DiceArchdemon-RDKP16-JP-OP.png
@@ -133323,3 +133345,61 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1041934
+---
+konami_id:
+name:
+  en: Dice of Greed
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>なサイコロ
+  ja_romaji: Gōyoku na Saikoro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or more cards in your Deck, send 3 cards with an effect that requires a die roll from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Draw cards equal to [the result]. Then, if the result is 3 or lower, you can add up to 2 "Graceful Dice" and/or "Skull Dice" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Dice
+images:
+- index: 1
+  image: DiceofGreed-RDKP16-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP050
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1041997
