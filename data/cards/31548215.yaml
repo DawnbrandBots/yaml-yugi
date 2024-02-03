@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando seu oponente ativar um efeito de monstro na mão ou no Cemitério dele, ou quando um efeito de monstro banido do seu oponente for ativado: negue seu efeito e, se isso acontecer, cause 2000 de dano ao seu oponente.
   ja: |-
-    ①：手札・墓地のモンスターまたは除外されているモンスターの効果を相手が発動した時に発動できる。その効果を無効にし、相手に２０００ダメージを与える。
+    ①：手札・墓地・除外状態のモンスターの効果を相手が発動した時に発動できる。その効果を無効にし、相手に２０００ダメージを与える。
   ko: |-
     ①: 패 / 묘지의 몬스터 또는 제외되어 있는 몬스터의 효과를 상대가 발동했을 때에 발동할 수 있다. 그 효과를 무효로 하고, 상대에게 2000 데미지를 준다.
   zh-TW: |-
@@ -116,6 +116,10 @@ sets:
     set_name: 'Structure Deck: Forest of the Traptrix'
     rarities:
     - Common
+  - set_number: TDS2-JP033
+    set_name: 'Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ETCO-KR078
     set_name: Eternity Code
