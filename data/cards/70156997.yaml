@@ -27,7 +27,7 @@ text:
   pt: |-
     Ofereça 1 monstro de TERRA como Tributo e escolha 1 outro monstro de TERRA de Nível 4 ou menos no seu Cemitério; Invoque esse monstro de TERRA por Invocação-Especial.
   ja: |-
-    ①：自分フィールドの地属性モンスター１体をリリースし、そのモンスター以外の自分の墓地のレベル４以下の地属性モンスター１体を対象として発動できる。その地属性モンスターを特殊召喚する。
+    ①：自分フィールドの地属性モンスター１体をリリースし、そのモンスターを除く、自分の墓地のレベル４以下の地属性モンスター１体を対象として発動できる。その地属性モンスターを特殊召喚する。
   ko: |-
     ①: 자신 필드의 땅 속성 몬스터 1장을 릴리스하고, 그 몬스터 이외의 자신 묘지의 레벨 4 이하의 땅 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 땅 속성 몬스터를 특수 소환한다.
   zh-TW: |-
@@ -105,6 +105,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Common
+  - set_number: TDS1-JP033
+    set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRV-KR050
     set_name: Cybernetic Revolution

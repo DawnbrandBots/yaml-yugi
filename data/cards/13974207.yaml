@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Especial. Enquanto você não controlar Magias/Armadilhas Baixadas, nenhum duelista pode Baixar Magias/Armadilhas nem ativar Cards de Magia/Armadilha que estiverem Baixados no campo.
   ja: |-
-    このカードは特殊召喚できない。①：このカードがモンスターゾーンに存在し、自分フィールドにセットされた魔法・罠カードが存在しない場合、お互いに魔法・罠カードをセットできず、フィールドにセットされた魔法・罠カードは発動できない。
+    このカードは特殊召喚できない。①：自分フィールドに裏側表示の魔法・罠カードが存在せず、このカードがモンスターゾーンに存在する限り、お互いに魔法・罠カードをセットできず、フィールドの裏側表示の魔法・罠カードは発動できない。
   ko: |-
     이 카드는 특수 소환할 수 없다. ①: 이 카드가 몬스터 존에 존재하고, 자신 필드에 세트된 마법 / 함정 카드가 존재하지 않을 경우, 서로 마법 / 함정 카드를 세트할 수 없으며, 필드에 세트된 마법 / 함정 카드는 발동할 수 없다.
   zh-TW: |-
@@ -158,6 +158,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Common
+  - set_number: TDS1-JP019
+    set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: NECH-KR041
     set_name: The New Challengers

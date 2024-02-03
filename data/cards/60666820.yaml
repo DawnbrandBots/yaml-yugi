@@ -27,13 +27,13 @@ text:
   pt: |-
     Você só pode controlar 1 "Arquidemônio Nefário, o Comedor da Perversidade". Se você controlar um monstro Mago, você pode Invocar este card por Invocação-Especial (da sua mão). Uma vez por turno, durante a Fase Final do seu oponente, se este card estiver no seu Cemitério: você pode escolher 1 monstro com a face para cima que você controla; destrua-o e, se isso acontecer, Invoque este card por Invocação-Especial.
   ja: |-
-    ①：「デーモン・イーター」は<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドに１<ruby>体<rt>たい</rt></ruby>しか<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>で<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>できない。②：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドに<ruby>魔<rt>ま</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>使<rt>つか</rt></ruby>い<ruby>族<rt>ぞく</rt></ruby>モンスターが<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>する<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、このカードは<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>から<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>できる。③：<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>エンドフェイズにこのカードが<ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>する<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドの<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>モンスター１<ruby>体<rt>たい</rt></ruby>を<ruby>対<rt>たい</rt></ruby><ruby>象<rt>しょう</rt></ruby>として<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。そのモンスターを<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>し、このカードを<ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>から<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>する。
+    ①：「デーモン・イーター」は自分フィールドに１枚しか表側表示で存在できない。②：自分フィールドに魔法使い族モンスターが存在する場合、このカードは手札から特殊召喚できる。③：相手エンドフェイズにこのカードが墓地に存在する場合、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターを破壊し、このカードを特殊召喚する。
   ko: |-
     ①: "데몬 이터"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 필드에 마법사족 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ③: 상대 엔드 페이즈에 이 카드가 묘지에 존재할 경우, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴하고, 이 카드를 묘지에서 특수 소환한다.
   zh-TW: |-
     ①：「惡魔吞噬者」在我方場上僅限以正面表示存在１隻。②：在我方場上存在魔法師族怪獸的狀況下，可從手牌特殊召喚此卡。③：在此卡在對方結束階段存在於墓地的狀況下，可將我方場上的１隻正面表示怪獸做為對象發動。破壞該怪獸，從墓地特殊召喚此卡。
   zh-CN: |-
-    ①："恶魔吞食者"在自己场上仅可有1只以表侧表示存在。②：自己场上有魔法师族怪兽存在的情况下，此卡可从手牌中特殊召唤。③：在对手的结束阶段此卡存在于墓地的情况下，以自己场上的1只表侧表示怪兽为对象可以发动。破坏该怪兽，从墓地将此卡特殊召唤。
+    ①：“恶魔吞食者”在自己场上仅可有1只以表侧表示存在。②：自己场上有魔法师族怪兽存在的情况下，此卡可从手牌中特殊召唤。③：在对手的结束阶段此卡存在于墓地的情况下，以自己场上的1只表侧表示怪兽为对象可以发动。破坏该怪兽，从墓地将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -128,6 +128,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Common
+  - set_number: TDS1-JP007
+    set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DUEA-KR035
     set_name: Duelist Alliance

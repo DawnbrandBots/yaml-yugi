@@ -27,13 +27,13 @@ text:
   pt: |-
     Você só pode controlar 1 "Fogo Inari". Se você controlar um monstro Mago, você pode Invocar este card por Invocação-Especial (da sua mão). Uma vez por turno, durante sua próxima Fase de Apoio depois que este card com a face para cima no campo foi destruído por um efeito de card e enviado para o Cemitério: Invoque-o por Invocação-Especial do seu Cemitério.
   ja: |-
-    ①：「<ruby>稲<rt>い</rt></ruby><ruby>荷<rt>なり</rt></ruby><ruby>火<rt>び</rt></ruby>」は<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドに１<ruby>体<rt>たい</rt></ruby>しか<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>で<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>できない。②：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>フィールドに<ruby>魔<rt>ま</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>使<rt>つか</rt></ruby>い<ruby>族<rt>ぞく</rt></ruby>モンスターが<ruby>存<rt>そん</rt></ruby><ruby>在<rt>ざい</rt></ruby>する<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、このカードは<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>から<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>できる。③：フィールドの<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>のこのカードが<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>で<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>され<ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>られた<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、<ruby>次<rt>つぎ</rt></ruby>の<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>スタンバイフェイズに<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>する。このカードを<ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>から<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>する。
+    ①：「稲荷火」は自分フィールドに１枚しか表側表示で存在できない。②：自分フィールドに魔法使い族モンスターが存在する場合、このカードは手札から特殊召喚できる。③：フィールドの表側表示のこのカードが効果で破壊され墓地へ送られた場合、次の自分スタンバイフェイズに発動する。このカードを墓地から特殊召喚する。
   ko: |-
     ①: "이나리불"은 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 자신 필드에 마법사족 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ③: 필드의 앞면 표시의 이 카드가 효과로 파괴되어 묘지로 보내졌을 경우, 다음 자신 스탠바이 페이즈에 발동한다. 이 카드를 묘지에서 특수 소환한다.
   zh-TW: |-
     我方场上存在魔法师族怪兽的场合，此卡可从手牌特殊召唤。场上以表侧表示存在的此卡因卡牌效果被破坏并送入墓地的场合，下一个我方准备阶段时从墓地特殊召唤此卡。我方场上只可有1只「稻荷火」以表侧表示存在。
   zh-CN: |-
-    ①："稻荷火"在自己场上仅可有1只以表侧表示存在。②：自己场上有魔法师族怪兽存在的情况下，此卡可从手牌中特殊召唤。③：场上表侧表示的此卡因效果被破坏并被送至墓地的情况下，在下一个自己的准备阶段发动。从墓地将此卡特殊召唤。
+    ①：“稻荷火”在自己场上仅可有1只以表侧表示存在。②：自己场上有魔法师族怪兽存在的情况下，此卡可从手牌中特殊召唤。③：场上表侧表示的此卡因效果被破坏并被送至墓地的情况下，在下一个自己的准备阶段发动。从墓地将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Pyro / Effect
 attribute: FIRE
@@ -122,6 +122,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Common
+  - set_number: TDS1-JP009
+    set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CBLZ-KR038
     set_name: Cosmo Blazer
