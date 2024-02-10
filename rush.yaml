@@ -129804,7 +129804,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Roll a six-sided die. This card can attack a number of times equal to [the result] during this turn. Then, you can draw 1 card if the result is 3 or lower.
+    Roll a six-sided die. This turn, this card can attack a number of times, up to [the result]. Then, you can draw 1 card if the result was 3 or lower.
   de:
   es:
   fr:
@@ -132119,6 +132119,1404 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1039746
 ---
+konami_id: 19993
+name:
+  en: Murin Duke the Shadow Flower Wave
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>花<rt>か</rt></ruby><ruby>牙<rt>げ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>波<rt>ば</rt></ruby>ムーリン・ドゥーク
+  ja_romaji: Kage Ichiba Mūrin Dūku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    1 face-up monster on your field gains ATK equal to [the number of monsters on your field] x 500 until the end of this turn. Then, inflict 700 damage to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドのモンスターの数］×５００アップする。その後、相手に７００ダメージを与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Plant / Fusion / Effect
+attribute: EARTH
+level: 9
+atk: 3000
+def: 2500
+materials:
+  en: |-
+    "Flower Fan Clematis" + "Lindo the Shadow Flower Warrior"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「花牙アーマー・クレマチス」＋「花牙武者のリンドウ」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Shadow Flower
+images:
+- index: 1
+  image: MurinDuketheShadowFlowerWave-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP045
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1035130
+---
+konami_id: 19994
+name:
+  en: Nelkrita the Skysavior Hadal
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>晦<rt>かい</rt></ruby><ruby>冥<rt>めい</rt></ruby> ネルクリタ
+  ja_romaji: Sōkyū no Kaimei Nerukurita
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    If your Celestial Warrior/Warrior/Fairy Type monster equipped with an Equip Spell Card attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備魔法カードを装備している自分のモンスター（天界戦士族・戦士族・天使族）の攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Celestial Warrior / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 2800
+def: 2300
+materials:
+  en: |-
+    "Seir the Skysavior Knight" + "Lua the Skysavior Angel"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「蒼救騎士 セイル」＋「蒼救天使 ルーア」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Skysavior
+images:
+- index: 1
+  image: NelkritatheSkysaviorHadal-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP046
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1043011
+---
+konami_id: 19995
+name:
+  en: Swift Gaia the Dragon Champion
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>疾<rt>しっ</rt></ruby><ruby>風<rt>ぷう</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>ガイア
+  ja_romaji: Shippū no Ryūkishi Gaia
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    If this card attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). Then, if you have no cards in your hand, you can draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このターン、このカードの攻撃は貫通する。自分の手札が０枚の場合、さらに自分は１枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: DARK
+level: 7
+atk: 2600
+def: 2100
+materials:
+  en: |-
+    1 Warrior Type monster with 2100 DEF + "Curse of Dragon"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター（戦士族／守備力２１００）＋「カース・オブ・ドラゴン」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Gaia
+images:
+- index: 1
+  image: SwiftGaiatheDragonChampion-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP047
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1039881
+---
+konami_id: 19996
+name:
+  en: Praime Call
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: プライム・コール
+  ja_romaji: Puraimu Kōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    The only monsters in your Graveyard are LIGHT Attribute.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターが光属性のみの場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 monster from your Graveyard to your hand. Then, you can add 1 "Fusion" from your Graveyard to your hand. You cannot activate monster effects until the end of this turn, except those of "Praime Dwarf".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター１体を選んで手札に加える。さらに自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。この効果の発動後、ターン終了時まで自分は「プライム・ドワーフ」以外のモンスターの効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Praime
+images:
+- index: 1
+  image: PraimeCall-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP048
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1037802
+---
+konami_id: 19997
+name:
+  en: Graceful Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. All face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    サイコロを１回振る。自分フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Dice
+images:
+- index: 1
+  image: GracefulDice-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP049
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038467
+---
+konami_id: 19998
+name:
+  en: Dice of Greed
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>なサイコロ
+  ja_romaji: Gōyoku na Saikoro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or more cards in your Deck, send 3 cards with an effect that requires a die roll from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、手札のサイコロを振る効果を持つカード３枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Draw cards equal to [the result]. Then, you can add up to 2 "Graceful Dice" and/or "Skull Dice" from your Graveyard to your hand if the result was 3 or lower.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    サイコロを１回振る。自分は［出た目の数］だけドローする。３以下が出た場合、さらに自分の墓地の「天使のサイコロ」「悪魔のサイコロ」を合計２枚まで選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Dice
+images:
+- index: 1
+  image: DiceofGreed-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP050
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1041997
+---
+konami_id: 19999
+name:
+  en: The Secret of Manifestation
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby>の<ruby>秘<rt>ひ</rt></ruby><ruby>儀<rt>ぎ</rt></ruby>
+  ja_romaji: Kengen no Higi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 2 monsters from your hand and/or field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札・フィールドのモンスターを２体まで墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, you can Special Summon 1 Level 5 or higher LIGHT Attribute Spellcaster Type monster from your Graveyard face-up to your field. You can only activate the monster effects of LIGHT Attribute Spellcaster Type monsters until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分の墓地のモンスター（レベル５以上／光属性／魔法使い族）１体を選んで自分フィールドに表側表示で特殊召喚できる。この効果の発動後、ターン終了時まで自分はモンスター（光属性／魔法使い族）以外のモンスターの効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: TheSecretofManifestation-RDKP16-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP051
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1037806
+---
+konami_id: 20000
+name:
+  en: Abysskite Mapping
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・マッピング
+  ja_romaji: Abisukaito Mappingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    This card's name becomes "Abysskite Prevent Wall" while in the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    墓地にあるこのカードのカード名は「アビスカイト・プリベントウォール」になる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Gain LP equal to [the number of face-up Sea Serpent Type monsters on your field] x 300. Then, you can add 1 "Abysskite Party" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は［自分フィールドの表側表示モンスター（海竜族）の数］×３００ＬＰ回復する。その後、自分の墓地の「アビスカイト・パーティ」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteMapping-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP052
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1043010
+---
+konami_id: 20001
+name:
+  en: Secret Alteration
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby>カイザン
+  ja_romaji: Himitsu Kaizan
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 3 cards from your hand to the Graveyard, including 2 LIGHT Attribute Reptile Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター（光属性／爬虫類族）２体を含む手札３枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 3 cards. Then, you can make 1 face-up Level 8 or lower monster on your opponent's field lose 1300 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は３枚ドローする。その後、相手フィールドの表側表示モンスター（レベル８以下）１体を選んでその攻撃力をターン終了時まで１３００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretAlteration-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP053
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1042848
+---
+konami_id: 20002
+name:
+  en: Secret Investigation Mobile Thunderbird
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>車<rt>モービル</rt></ruby>サンダーバード
+  ja_romaji: Himitsu Sōsa Mōbiru Sandābādo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up LIGHT Attribute Reptile Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（光属性／爬虫類族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 300 ATK, and can attack directly.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は３００アップし、直接攻撃できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretInvestigationMobileThunderbird-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP054
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038131
+---
+konami_id: 20003
+name:
+  en: Royal Rebel's King's Return
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ロイヤルデモンズ・キングスリターン
+  ja_romaji: Roiyaru Demonzu Kingusu Ritān
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Reduce the Level of 1 face-up Level 3 or higher monster on your opponent's field by 2 until the end of this turn. Then, you can add 1 Level 7 or higher Fiend Type monster with 0 DEF from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル３以上）１体を選び、そのレベルをターン終了時まで２下げる。その後、自分の墓地のモンスター（レベル７以上／悪魔族／守備力０）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- King's
+- Royal Rebel's
+images:
+- index: 1
+  image: RoyalRebelsKingsReturn-RDKP16-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP055
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1036493
+---
+konami_id: 20004
+name:
+  en: Accelerator
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>電<rt>でん</rt></ruby><ruby>脳<rt>のう</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>器<rt>き</rt></ruby>
+  ja_romaji: Dennō Kasokuki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    This card's effect cannot be negated.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの効果は無効化されない。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Equip this card to 1 face-up Machine Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（機械族）１体に装備できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    The equipped monster gains 300 ATK. If the equipped monster's original name is "Jinzo", its Continuous Effect becomes "Your opponent cannot activate Trap Cards, and their Trap Card effects are negated".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    装備モンスターの攻撃力は３００アップする。装備モンスターの元々のカード名が「人造人間－サイコ・ショッカー」の場合、その永続効果は「相手は罠カードを発動できず、相手の罠カードの効果は無効化される」として適用される。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Equip
+series:
+- Jinzo
+images:
+- index: 1
+  image: Accelerator-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP056
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1035217
+---
+konami_id: 20005
+name:
+  en: Machine Inspector
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マシン・インスペクター
+  ja_romaji: Mashin Insupekutā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Each player excavates the top 4 cards of their Deck. You can send up to 2 excavated Machine Type monsters and/or Trap Cards to the Graveyard. Each player places their remaining cards on the bottom of their Deck in any order. Then, if you sent a Trap Card to the Graveyard by this effect, draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いは、自身のデッキの上からカードを４枚めくり、お互いに確認する。自分はその８枚の中からモンスター（機械族）または罠カードを合計２枚まで選んで墓地へ送る事ができる。お互いは自身の残りのカードを好きな順番でデッキの下に戻す。この効果で罠カードを墓地へ送った場合、さらに自分は１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Jinzo
+images:
+- index: 1
+  image: MachineInspector-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP057
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1035216
+---
+konami_id: 20006
+name:
+  en: Jointech Joint
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ジョインテック・ジョイント
+  ja_romaji: Jointekku Jointo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 2 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change 1 monster on your opponent's field to face-up Attack Position or face-down Defense Position. Then, you can Fusion Summon 1 Level 9 or lower EARTH Attribute or DARK Attribute Machine Type monster by sending monsters from your hand and/or field to the Graveyard as material.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドのモンスター１体を選んで表側攻撃表示または裏側守備表示にする。その後、自分の手札・フィールドのモンスターを素材として墓地へ送ってモンスター（レベル９以下／地属性・闇属性／機械族）をフュージョン召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Jointech
+images:
+- index: 1
+  image: JointechJoint-RDKP16-JP-SR.png
+- index: 2
+  image: JointechJoint-RDKP16-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP058
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1040542
+---
+konami_id: 20007
+name:
+  en: Threat from Outer Space
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>宇宙<rt>ソラ</rt></ruby>の<ruby>脅<rt>きょう</rt></ruby><ruby>威<rt>い</rt></ruby>
+  ja_romaji: Sora no Kyōi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Pay 1000 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    １０００ＬＰを払って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top card of your Deck to the Graveyard. Then, you can Set it to your field (if it was a monster, you can Special Summon it in face-down Defense Position). If you Special Summoned a Level 2 monster from the Graveyard by this effect, you can also destroy 1 Spell/Trap Card on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの一番上のカードを墓地へ送る。その後、そのカードを自分フィールドにセットできる（モンスターの場合、裏側守備表示で特殊召喚できる）。この効果で墓地のモンスター（レベル２）を特殊召喚した場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: ThreatfromOuterSpace-RDKP16-JP-SR.png
+- index: 2
+  image: ThreatfromOuterSpace-RDKP16-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP059
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1037924
+---
+konami_id: 20008
+name:
+  en: De-Spell
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose 1 face-up Spell Card or 1 face-down Spell/Trap Card on your opponent's field. If that card is face-up, destroy it. If that card is face-down, look at it, then return it to its original position. Then, if it was a Spell Card, destroy it.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの表側表示の魔法カードまたは裏側表示の魔法・罠カード１枚を選ぶ。選んだカードが表側表示の場合、そのカードを破壊する。選んだカードが裏側表示の場合、そのカードを確認する。魔法カードだった場合、さらにそのカードを破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: DeSpell-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP060
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1040913
+---
+konami_id: 20009
+name:
+  en: Abysskite Ray Monochrome
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アビスカイト・レイ・モノクローム
+  ja_romaji: Abisukaito Rei Monokurōmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle 3 Level 4 or lower LIGHT Attribute and/or DARK Attribute monsters from the Graveyards into the owner's Decks. Then, the attacking monster loses ATK equal to [the total Levels of the monsters shuffled by this effect] x 200 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いの墓地のモンスター（レベル４以下／光属性・闇属性）を合計３体選んで持ち主のデッキに戻す。その後、攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で戻したモンスターのレベルの合計］×２００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Abysskite
+images:
+- index: 1
+  image: AbysskiteRayMonochrome-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP061
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1040043
+---
+konami_id: 20010
+name:
+  en: Skull Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. All face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Dice
+images:
+- index: 1
+  image: SkullDice-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP062
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1038468
+---
+konami_id: 20011
+name:
+  en: Asura Dice
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>阿<rt>あ</rt></ruby><ruby>修<rt>しゅ</rt></ruby><ruby>羅<rt>ラ</rt></ruby>のサイコロ
+  ja_romaji: Ashura no Saikoro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster face-up.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Inflict damage to your opponent equal to [the result] x 100, and all face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    サイコロを１回振る。［出た目の数］×１００ダメージを相手に与え、相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。その後、自分フィールドの全ての表側表示モンスターの攻撃力・守備力をターン終了時まで、［出た目の数］×１００アップできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Dice
+images:
+- index: 1
+  image: AsuraDice-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP063
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038469
+---
+konami_id: 20012
+name:
+  en: Fusionic Defense
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フュージョニック・ディフェンス
+  ja_romaji: Fyūjonikku Difensu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Set 1 "Fusion" or 1 "Fusion Cancel" from your Graveyard in your Spell & Trap Zone. Then, you can choose 1 face-up monster on your field. If you do, that monster cannot be destroyed by battle or card effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「フュージョン」または「フュージョンキャンセル」１枚を選んで自分の魔法＆罠ゾーンにセットする。その後、自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、選んだモンスターは戦闘と効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: FusionicDefense-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP064
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1039647
+---
+konami_id: 20013
+name:
+  en: Secret File 3000 - Final Tragedy
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>ＦＩＬＥ<rt>ファイル</rt></ruby>３０００－ファイナル<ruby>惨<rt>さん</rt></ruby><ruby>劇<rt>げき</rt></ruby>
+  ja_romaji: Himitsu Fairu Sanzen - Fainaru Sangeki
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack while you have 3 face-up LIGHT Attribute Reptile Type monsters on your field, shuffle 3 LIGHT Attribute Reptile Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター（光属性／爬虫類族）が３体の場合、相手モンスターの攻撃宣言時、自分の墓地のモンスター（光属性／爬虫類族）３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Attack Position monsters on your opponent's field. Then, inflict 3000 damage to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの攻撃表示モンスターを全て破壊する。その後、相手に３０００ダメージを与える。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Secret Investigator
+images:
+- index: 1
+  image: SecretFile3000FinalTragedy-RDKP16-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP065
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1042859
+---
+konami_id: 20014
+name:
+  en: Sunset Rebirth
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サンセットリバース
+  ja_romaji: Sansetto Ribāsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent draws a card(s) during their turn, or when a monster(s) on your field is destroyed by an opponent's card effect.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手ターンに相手がドローした時、または自分フィールドのモンスターが相手の効果で破壊された時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 monster from your hand or Graveyard to your field in face-down Defense Position. Then, up to 3 other cards on your field cannot be destroyed by your opponent's card effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札または自分の墓地のモンスター１体を選び、自分フィールドに裏側守備表示で特殊召喚する。その後、このカード以外の自分フィールドのカードを３枚まで選ぶ。このターン、選んだカードは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: SunsetRebirth-RDKP16-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP066
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1035869
+---
 konami_id: 20035
 name:
   en: Transamu Scraied
@@ -132657,1034 +134055,6 @@ yugipedia_page_id: 1033308
 ---
 konami_id:
 name:
-  en: Murin Duke the Shadow Flower Wave
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>花<rt>か</rt></ruby><ruby>牙<rt>げ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>波<rt>ば</rt></ruby>ムーリン・ドゥーク
-  ja_romaji: Kage Ichiba Mūrin Dūku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up monster on your field gains ATK equal to [the number of monsters on your field] x 500 until the end of this turn. Then, inflict 700 damage to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Plant / Fusion / Effect
-attribute: EARTH
-level: 9
-atk: 3000
-def: 2500
-materials:
-  en: |-
-    "Flower Fan Clematis" + "Lindo the Shadow Flower Warrior"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Shadow Flower
-images:
-- index: 1
-  image: MurinDuketheShadowFlowerWave-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP045
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1035130
----
-konami_id:
-name:
-  en: Machine Inspector
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: マシン・インスペクター
-  ja_romaji: Mashin Insupekutā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Each player excavates the top 4 cards of their Deck. You can send up to 2 excavated Machine Type monsters and/or Trap Cards to the Graveyard. Each player places their remaining cards on the bottom of their Deck in any order. Then, if you sent a Trap Card to the Graveyard by this effect, draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Jinzo
-images:
-- index: 1
-  image: MachineInspector-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP057
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1035216
----
-konami_id:
-name:
-  en: Accelerator
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>電<rt>でん</rt></ruby><ruby>脳<rt>のう</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>器<rt>き</rt></ruby>
-  ja_romaji: Dennō Kasokuki
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    This card's effect cannot be negated.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up Machine Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains 300 ATK. If the equipped monster's original name is "Jinzo", its Continuous Effect becomes "Your opponent cannot activate Trap Cards, and their Trap Card effects are negated".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Jinzo
-images:
-- index: 1
-  image: Accelerator-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP056
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1035217
----
-konami_id:
-name:
-  en: Sunset Rebirth
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サンセットリバース
-  ja_romaji: Sansetto Ribāsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent draws a card(s) during their turn, or when a monster(s) on your field is destroyed by an opponent's card effect.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 monster from your hand or Graveyard to your field in face-down Defense Position. Then, up to 3 other cards on your field cannot be destroyed by your opponent's card effects this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: SunsetRebirth-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP066
-    set_name: Transamu of Transcendence
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1035869
----
-konami_id:
-name:
-  en: Royal Rebel's King's Return
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ロイヤルデモンズ・キングスリターン
-  ja_romaji: Roiyaru Demonzu Kingusu Ritān
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Reduce the Level of 1 face-up Level 3 or higher monster on your opponent's field by 2 until the end of this turn. Then, you can add 1 Level 7 or higher Fiend Type monster with 0 DEF from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- King's
-- Royal Rebel's
-images:
-- index: 1
-  image: RoyalRebelsKingsReturn-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP055
-    set_name: Transamu of Transcendence
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1036493
----
-konami_id:
-name:
-  en: Praime Call
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: プライム・コール
-  ja_romaji: Puraimu Kōru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    The only monsters in your Graveyard are LIGHT Attribute.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 monster from your Graveyard to your hand. Then, you can add 1 "Fusion" from your Graveyard to your hand. You cannot activate monster effects until the end of this turn, except those of "Praime Dwarf".
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Praime
-images:
-- index: 1
-  image: PraimeCall-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP048
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1037802
----
-konami_id:
-name:
-  en: The Secret of Manifestation
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby>の<ruby>秘<rt>ひ</rt></ruby><ruby>儀<rt>ぎ</rt></ruby>
-  ja_romaji: Kengen no Higi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send up to 2 monsters from your hand and/or field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, you can Special Summon 1 Level 5 or higher LIGHT Attribute Spellcaster Type monster from your Graveyard face-up to your field. You can only activate the monster effects of LIGHT Attribute Spellcaster Type monsters until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: TheSecretofManifestation-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP051
-    set_name: Transamu of Transcendence
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1037806
----
-konami_id:
-name:
-  en: Threat from Outer Space
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>宇宙<rt>ソラ</rt></ruby>の<ruby>脅<rt>きょう</rt></ruby><ruby>威<rt>い</rt></ruby>
-  ja_romaji: Sora no Kyōi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Pay 1000 LP.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top card of your Deck to the Graveyard. Then, you can Set it to your field (if it was a monster, you can Special Summon it in face-down Defense Position). If you Special Summoned a Level 2 monster from the Graveyard by this effect, you can also destroy 1 Spell/Trap Card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: ThreatfromOuterSpace-RDKP16-JP-OP.png
-- index: 2
-  image: ThreatfromOuterSpace-RDKP16-JP-ScR-AA.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP059
-    set_name: Transamu of Transcendence
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1037924
----
-konami_id:
-name:
-  en: Secret Investigation Mobile Thunderbird
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>車<rt>モービル</rt></ruby>サンダーバード
-  ja_romaji: Himitsu Sōsa Mōbiru Sandābādo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Equip this card to 1 face-up LIGHT Attribute Reptile Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    The equipped monster gains 300 ATK, and can attack directly.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Equip
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretInvestigationMobileThunderbird-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP054
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1038131
----
-konami_id:
-name:
-  en: Graceful Dice
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Roll a six-sided die. All face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Dice
-images:
-- index: 1
-  image: GracefulDice-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP049
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1038467
----
-konami_id:
-name:
-  en: Skull Dice
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Roll a six-sided die. All face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Dice
-images:
-- index: 1
-  image: SkullDice-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP062
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1038468
----
-konami_id:
-name:
-  en: Asura Dice
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>阿<rt>あ</rt></ruby><ruby>修<rt>しゅ</rt></ruby><ruby>羅<rt>ラ</rt></ruby>のサイコロ
-  ja_romaji: Ashura no Saikoro
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster face-up.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Roll a six-sided die. Inflict damage to your opponent equal to [the result] x 100, and all face-up monsters on your opponent's field lose ATK/DEF equal to [the result] x 100 until the end of this turn. Then, you can make all face-up monsters on your field gain ATK/DEF equal to [the result] x 100 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Dice
-images:
-- index: 1
-  image: AsuraDice-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP063
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1038469
----
-konami_id:
-name:
-  en: Fusionic Defense
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: フュージョニック・ディフェンス
-  ja_romaji: Fyūjonikku Difensu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Set 1 "Fusion" or 1 "Fusion Cancel" from your Graveyard in your Spell & Trap Zone. Then, you can choose 1 face-up monster on your field. If you do, that monster cannot be destroyed by battle or card effects this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: FusionicDefense-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP064
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1039647
----
-konami_id:
-name:
-  en: Swift Gaia the Dragon Champion
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>疾<rt>しっ</rt></ruby><ruby>風<rt>ぷう</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>ガイア
-  ja_romaji: Shippū no Ryūkishi Gaia
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    If this card attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). Then, if you have no cards in your hand, you can draw 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: DARK
-level: 7
-atk: 2600
-def: 2100
-materials:
-  en: |-
-    1 Warrior Type monster with 2100 DEF + "Curse of Dragon"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Gaia
-images:
-- index: 1
-  image: SwiftGaiatheDragonChampion-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP047
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1039881
----
-konami_id:
-name:
-  en: Abysskite Ray Monochrome
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスカイト・レイ・モノクローム
-  ja_romaji: Abisukaito Rei Monokurōmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle 3 Level 4 or lower LIGHT Attribute and/or DARK Attribute monsters from the Graveyards into the owner's Decks. Then, the attacking monster loses ATK equal to [the total Levels of the monsters shuffled by this effect] x 200 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Abysskite
-images:
-- index: 1
-  image: AbysskiteRayMonochrome-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP061
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1040043
----
-konami_id:
-name:
-  en: Jointech Joint
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ジョインテック・ジョイント
-  ja_romaji: Jointekku Jointo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Shuffle 2 monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change 1 monster on your opponent's field to face-up Attack Position or face-down Defense Position. Then, you can Fusion Summon 1 Level 9 or lower EARTH Attribute or DARK Attribute Machine Type monster by sending monsters from your hand and/or field to the Graveyard as material.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Jointech
-images:
-- index: 1
-  image: JointechJoint-RDKP16-JP-OP.png
-- index: 2
-  image: JointechJoint-RDKP16-JP-ScR-AA.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP058
-    set_name: Transamu of Transcendence
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1040542
----
-konami_id:
-name:
-  en: De-Spell
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Choose 1 face-up Spell Card or 1 face-down Spell/Trap Card on your opponent's field. If that card is face-up, destroy it. If that card is face-down, look at it, then return it to its original position. Then, if it was a Spell Card, destroy it.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-images:
-- index: 1
-  image: DeSpell-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP060
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1040913
----
-konami_id:
-name:
   en: Voidvelgr God Requiem
   de:
   es:
@@ -133744,64 +134114,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1041934
----
-konami_id:
-name:
-  en: Dice of Greed
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>なサイコロ
-  ja_romaji: Gōyoku na Saikoro
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 10 or more cards in your Deck, send 3 cards with an effect that requires a die roll from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Roll a six-sided die. Draw cards equal to [the result]. Then, you can add up to 2 "Graceful Dice" and/or "Skull Dice" from your Graveyard to your hand if the result was 3 or lower.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Dice
-images:
-- index: 1
-  image: DiceofGreed-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP050
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1041997
 ---
 konami_id:
 name:
@@ -134028,266 +134340,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1042478
----
-konami_id:
-name:
-  en: Secret Alteration
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby>カイザン
-  ja_romaji: Himitsu Kaizan
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 3 cards from your hand to the Graveyard, including 2 LIGHT Attribute Reptile Type monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 3 cards. Then, you can make 1 face-up Level 8 or lower monster on your opponent's field lose 1300 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretAlteration-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP053
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1042848
----
-konami_id:
-name:
-  en: Secret File 3000 - Final Tragedy
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>ＦＩＬＥ<rt>ファイル</rt></ruby>３０００－ファイナル<ruby>惨<rt>さん</rt></ruby><ruby>劇<rt>げき</rt></ruby>
-  ja_romaji: Himitsu Fairu Sanzen - Fainaru Sangeki
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack while you have 3 face-up LIGHT Attribute Reptile Type monsters on your field, shuffle 3 LIGHT Attribute Reptile Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all Attack Position monsters on your opponent's field. Then, inflict 3000 damage to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Secret Investigator
-images:
-- index: 1
-  image: SecretFile3000FinalTragedy-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP065
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1042859
----
-konami_id:
-name:
-  en: Abysskite Mapping
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アビスカイト・マッピング
-  ja_romaji: Abisukaito Mappingu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    This card's name becomes "Abysskite Prevent Wall" while in the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Gain LP equal to [the number of face-up Sea Serpent Type monsters on your field] x 300. Then, you can add 1 "Abysskite Party" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Abysskite
-images:
-- index: 1
-  image: AbysskiteMapping-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP052
-    set_name: Transamu of Transcendence
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1043010
----
-konami_id:
-name:
-  en: Nelkrita the Skysavior Hadal
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>晦<rt>かい</rt></ruby><ruby>冥<rt>めい</rt></ruby> ネルクリタ
-  ja_romaji: Sōkyū no Kaimei Nerukurita
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    If your Celestial Warrior/Warrior/Fairy Type monster equipped with an Equip Spell Card attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Celestial Warrior / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 2800
-def: 2300
-materials:
-  en: |-
-    "Seir the Skysavior Knight" + "Lua the Skysavior Angel"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Skysavior
-images:
-- index: 1
-  image: NelkritatheSkysaviorHadal-RDKP16-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP16-JP046
-    set_name: Transamu of Transcendence
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1043011
