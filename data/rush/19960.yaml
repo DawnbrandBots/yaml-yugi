@@ -1,0 +1,63 @@
+konami_id: 19960
+name:
+  en: Dice Archangel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
+  ja_romaji: Saikoro no Daitenshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Until the end of this turn, all face-up monsters on your field gain ATK/DEF equal to [the result] x 100, or [the result] x 200 instead if you have "Graceful Dice" in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    サイコロを１回振る。自分フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００アップする。自分の墓地に「天使のサイコロ」がある場合、代わりに［出た目の数］×２００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 7
+atk: 2400
+def: 1500
+series:
+- Dice
+images:
+- index: 1
+  image: DiceArchangel-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP012
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038473
