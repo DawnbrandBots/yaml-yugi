@@ -15,7 +15,7 @@ name:
   zh-CN: 新宇贤人
 text:
   en: |-
-    Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up "Elemental HERO Neos" and 1 face-up "Yubel" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.
+    Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up "Elemental HERO Neos" and 1 face-up "Yubel" you control to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.
   de: |-
     Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offenen „Elementar-HELD Neos“ und 1 offenen „Yubel“, die du kontrollierst, auf den Friedhof legst, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Diese Karte kann nicht durch Karteneffekte zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster deines Gegners gekämpft hat: Füge deinem Gegner Schaden in Höhe der ATK des Monsters zu, gegen das es gekämpft hat, und du erhältst Life Points in Höhe der DEF des Monsters.
   es: |-
@@ -58,6 +58,10 @@ sets:
     set_name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
     rarities:
     - Ultra Rare
+  - set_number: BLC1-EN007
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Secret Rare
   de:
   - set_number: CSOC-DE097
     set_name: Crossroads of Chaos
@@ -67,9 +71,17 @@ sets:
     set_name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
     rarities:
     - Ultra Rare
+  - set_number: BLC1-DE007
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Secret Rare
   fr:
   - set_number: CSOC-FR097
     set_name: Crossroads of Chaos
+    rarities:
+    - Secret Rare
+  - set_number: BLC1-FR007
+    set_name: 'Battles of Legend: Chapter 1'
     rarities:
     - Secret Rare
   it:
@@ -81,6 +93,10 @@ sets:
     set_name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
     rarities:
     - Ultra Rare
+  - set_number: BLC1-IT007
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Secret Rare
   ja:
   - set_number: MG02-JP001
     set_name: Master Guide 2 promotional cards
