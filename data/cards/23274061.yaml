@@ -6,7 +6,7 @@ name:
   es: Wattardilla
   fr: Électro-Écureuil
   it: Wattscoiattolo
-  pt:
+  pt: Wattesquilo
   ja: エレキタリス
   ja_romaji: Erekitarisu
   ko: 일렉다람쥐
@@ -15,7 +15,7 @@ name:
   zh-CN: 电气红松鼠
 text:
   en: |-
-    This card can make a second attack during each Battle Phase. After damage calculation, if this card battled a monster: Negate the effects of that monster (including in the GY).
+    This card can attack twice during each Battle Phase. If this card battles, negate the effects of the monster it battled, after damage calculation (including in the Graveyard).
   de: |-
     Diese Karte kann während jeder Battle Phase zweimal angreifen. Falls diese Karte kämpft, annulliere nach der Schadensberechnung die Effekte der Monster, gegen die sie gekämpft hat (einschließlich Monstern im Friedhof).
   es: |-
@@ -66,6 +66,11 @@ sets:
     set_name: Starstrike Blast
     rarities:
     - Rare
+  pt:
+  - set_number: OP24-PT032
+    set_name: OTS Tournament Pack 24
+    rarities:
+    - Common
   ja:
   - set_number: STBL-JP029
     set_name: Starstrike Blast
