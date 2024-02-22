@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>怒<rt>おこ</rt></ruby>ロック
   ja_romaji: Oko Rokku
-  ko:
+  ko: 분노 록
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（オメガサイキック族・サイキック族）が３体の場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(오메가사이킥족 또는 사이킥족)가 3장일 경우, 상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの全ての表側表示モンスターの攻撃力はターン終了時まで２００アップする。その後、相手フィールドの表側表示の効果モンスター１体を選ぶ事ができる。選んだ場合、このターン、相手は選んだモンスターの効果を発動できない。
-  ko:
+  ko: |-
+    자신 필드의 모든 앞면 표시 몬스터의 공격력은 턴 종료시까지 200 올린다. 그 후, 상대 필드의 앞면 표시의 효과 몬스터 1장을 고를 수 있다. 고른 경우, 이 턴에, 상대는 고른 몬스터 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP072
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/MRP2-KR072
     set_name: Megaroad Pack 2
     rarities:
     - Common

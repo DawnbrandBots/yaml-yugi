@@ -37,7 +37,7 @@ effect:
   ja: |-
     相手に４００ダメージを与える。その後、自分フィールドの表側表示モンスター１体を選んでその種族をターン終了時まで魔法使い族にできる。
   ko: |-
-    상대에게 400 데미지를 준다. 이 효과로 상대에게 데미지를 주었을 경우, 추가로 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 종족을 턴 종료시까지 마법사족으로 할 수 있다.
+    상대에게 400 데미지를 준다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 종족을 턴 종료시까지 마법사족으로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -62,6 +62,10 @@ sets:
   ko:
   - set_number: RD/SBD1-KR010
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
+    rarities:
+    - Common
+  - set_number: RD/MRP2-KR011
+    set_name: Megaroad Pack 2
     rarities:
     - Common
 yugipedia_page_id: 712448

@@ -8,7 +8,7 @@ name:
   pt:
   ja: ザ☆ガード
   ja_romaji: Za☆Gādo
-  ko:
+  ko: 더☆가드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの直接攻撃宣言時、自分の墓地のモンスター３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 직접 공격 선언시, 자신 묘지의 몬스터 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP036
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/MRP2-KR036
     set_name: Megaroad Pack 2
     rarities:
     - Rare

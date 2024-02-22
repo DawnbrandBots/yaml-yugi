@@ -37,7 +37,7 @@ effect:
   ja: |-
     自分フィールドの表側表示モンスター（魔法使い族）１体を選ぶ。このターン、そのモンスターのレベルは２上がり、攻撃力は２００アップする。
   ko: |-
-    자신 필드의 앞면 표시 몬스터(마법사족) 1장을 고른다. 이 턴에, 그 몬스터의 레벨은 2개 올라가고, 공격력은 200 올린다.
+    자신 필드의 앞면 표시 몬스터(마법사족) 1장을 고른다. 이 턴에, 그 몬스터의 레벨은 2 올라가고, 공격력은 200 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -62,6 +62,10 @@ sets:
   ko:
   - set_number: RD/SBD1-KR009
     set_name: Strongest Battle Deck Yuga - Hyper Machine Road
+    rarities:
+    - Common
+  - set_number: RD/MRP2-KR010
+    set_name: Megaroad Pack 2
     rarities:
     - Common
 yugipedia_page_id: 712450

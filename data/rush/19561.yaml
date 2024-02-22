@@ -8,7 +8,7 @@ name:
   pt:
   ja: ギアス×ギアス
   ja_romaji: Giasu × Giasu
-  ko:
+  ko: 기아스×기아스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで１５００ダウンする。その後、選んだモンスターと同じレベルと種族を持つ自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、その自分のモンスターは２回攻撃できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 1500 내린다. 그 후, 고른 몬스터와 같은 레벨과 종족을 가지는 자신 필드의 앞면 표시 몬스터 1장을 고를 수 있다. 고른 경우, 이 턴에, 그 자신의 몬스터는 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP032
+    set_name: Megaroad Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/MRP2-KR032
     set_name: Megaroad Pack 2
     rarities:
     - Ultra Rare

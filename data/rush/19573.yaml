@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>左<rt>ひだり</rt></ruby><ruby>手<rt>て</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>
   ja_romaji: Hidarite no Ken
-  ko:
+  ko: 왼손의 검
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「右手の盾」または通常モンスター（戦士族／攻撃力５００以下）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "오른손의 방패" 또는 일반 몬스터(전사족 / 공격력 500 이하) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP049
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/MRP2-KR049
     set_name: Megaroad Pack 2
     rarities:
     - Common

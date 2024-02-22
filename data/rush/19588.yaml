@@ -8,7 +8,7 @@ name:
   pt:
   ja: ドリームチケット
   ja_romaji: Dorīmu Chiketto
-  ko:
+  ko: 드림티켓
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「彩光のプリマギターナ」または「砕光のエスパレイド」がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 "채광의 프리마기타나" 또는 "쇄광의 에스파레이드"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、相手フィールドのカード１枚を選んで破壊できる。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 상대 필드의 카드 1장을 고르고 파괴할 수 있다. 이 턴에, 자신은 몬스터(오메가사이킥족 또는 사이킥족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP070
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/MRP2-KR070
     set_name: Megaroad Pack 2
     rarities:
     - Common

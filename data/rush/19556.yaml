@@ -8,7 +8,7 @@ name:
   pt:
   ja: はぐれネコジェラシー
   ja_romaji: Hagure Nekojerashī
-  ko:
+  ko: 낙오자 고양이 젤러시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時、自分の墓地に「はぐれ使い魔」または「まぐれ使い魔」がいる場合、または攻撃を受ける表側表示モンスターの攻撃力が０の場合に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시, 자신 묘지에 "낙오자 사역마" 또는 "요행자 사역마"가 있을 경우, 또는 공격을 받는 앞면 표시 몬스터의 공격력이 0 일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。その後、攻撃を受けるモンスターの表示形式を変更できる。変更した場合、さらに［相手フィールドのモンスターの数］×２００ダメージを相手に与える。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 그 후, 공격을 받는 몬스터의 표시 형식을 변경할 수 있다. 변경했을 경우, 추가로 [상대 필드의 몬스터의 수] × 200 데미지를 상대에게 준다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP024
+    set_name: Megaroad Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/MRP2-KR024
     set_name: Megaroad Pack 2
     rarities:
     - Common

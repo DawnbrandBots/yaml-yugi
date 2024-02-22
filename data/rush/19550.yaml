@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>風<rt>かぜ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>サイク
   ja_romaji: Kaze no Ko Saiku
-  ko:
+  ko: 바람의 아이 사이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「風の子サイク」の効果を発動していないターンに、自分フィールドにこのカード以外の表側表示モンスター（風属性／魔法使い族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신이 "바람의 아이 사이크"의 효과를 발동하고 있지 않은 턴에, 자신 필드에 이 카드 이외의 앞면 표시 몬스터(바람 속성 / 마법사족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４以下／魔法使い族）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 이하 / 마법사족) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,12 @@ images:
 sets:
   ja:
   - set_number: RD/MRP2-JP015
+    set_name: Megaroad Pack 2
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/MRP2-KR015
     set_name: Megaroad Pack 2
     rarities:
     - Rare
