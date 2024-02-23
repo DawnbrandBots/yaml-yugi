@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, que deve ser Invocado por Invocação-Especial com "Fusão Negra", ao banir as Matérias de Fusão mencionadas nele da sua mão e/ou do Cemitério. (Isso é considerado uma Invocação-Fusão com "Fusão Negra".)
   ja: |-
-    ①：自分の手札・墓地から、融合モンスターカードによって決められた融合素材モンスターを除外し、「ダーク・フュージョン」の効果でのみ特殊召喚できるその融合モンスター１体を「ダーク・フュージョン」による融合召喚扱いとしてＥＸデッキから融合召喚する。
+    ①：自分の手札・墓地のモンスターを融合素材として除外し、「ダーク・フュージョン」の効果でのみ特殊召喚できる融合モンスター１体を「ダーク・フュージョン」による融合召喚扱いで融合召喚する。
   ko: |-
     ①: 자신의 패 / 묘지에서, 융합 몬스터 카드에 기재된 융합 소재 몬스터를 제외하고, "다크 퓨전"의 효과로만 특수 소환할 수 있는 그 융합 몬스터 1장을 "다크 퓨전"에 의한 융합 소환으로 취급하여 엑스트라 덱에서 융합 소환한다.
   zh-TW: |-
@@ -190,6 +190,12 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  - set_number: QCCU-JP027
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DP06-KR024
     set_name: 'Duelist Pack: Jaden Yuki 3'

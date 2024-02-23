@@ -52,7 +52,7 @@ text:
     Durante a Fase Principal do seu oponente, você pode (Efeito Rápido): imediatamente depois que este efeito resolver, Invoque por Invocação-Sincro usando este card que você controla. Você só pode Invocar "Acelerador Sincron" por Invocação-Sincro uma vez por turno.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
-    自分は「アクセル・シンクロン」を１ターンに１度しかＳ召喚できない。①：１ターンに１度、デッキから「シンクロン」モンスター１体を墓地へ送り、以下の効果から１つを選択して発動できる。●墓地へ送ったそのモンスターのレベル分だけ、このカードのレベルを上げる。●墓地へ送ったそのモンスターのレベル分だけ、このカードのレベルを下げる。②：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターをＳ素材としてＳ召喚する。
+    自分は「アクセル・シンクロン」を１ターンに１度しかＳ召喚できない。①：１ターンに１度、デッキから「シンクロン」モンスター１体を墓地へ送り、以下の効果から１つを選択して発動できる。●そのモンスターのレベル分だけ、このカードのレベルを上げる。●そのモンスターのレベル分だけ、このカードのレベルを下げる。②：相手メインフェイズに発動できる（同一チェーン上では１度まで）。このカードを含む自分フィールドのモンスターを素材としてＳ召喚を行う。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     자신은 "액셀 싱크론"을 1턴에 1번밖에 싱크로 소환할 수 없다. ①: 1턴에 1번, 덱에서 "싱크론" 몬스터 1장을 묘지로 보내고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.
@@ -65,8 +65,8 @@ text:
     ●此卡的等級依據送至墓地的該怪獸的等級進行降低。
     ②：可在對方主要階段發動。以我方場上的包含此卡在內的怪獸做為同步素材同步召喚。
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
-    自己1回合仅可同步召唤1次"加速同步士"。①：1回合1次，从牌组将1只"同步士"怪兽送至墓地，可从以下效果中选择1个发动。●此卡的等级上升相当于送至墓地的该怪兽的等级的数值。●此卡的等级下降相当于送至墓地的该怪兽的等级的数值。②：在对手的主要阶段可以发动。将包括此卡在内的自己场上的怪兽作为同步素材同步召唤。
+    协调+1只以上协调以外的怪兽
+    自己1回合仅可同步召唤1次“加速同步士”。①：1回合1次，从牌组将1只“同步士”怪兽送至墓地，可从以下效果中选择1个发动。●此卡的等级上升相当于送至墓地的该怪兽的等级的数值。●此卡的等级下降相当于送至墓地的该怪兽的等级的数值。②：在对手的主要阶段可以发动。将包括此卡在内的自己场上的怪兽作为同步素材同步召唤。
 card_type: Monster
 monster_type_line: Machine / Synchro / Tuner / Effect
 attribute: DARK
@@ -155,6 +155,12 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Common
+  - set_number: QCCU-JP051
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD28-KR042
     set_name: 'Structure Deck: Synchron Extreme'

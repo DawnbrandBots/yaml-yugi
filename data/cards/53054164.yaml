@@ -34,7 +34,7 @@ text:
     Você pode desassociar 1 matéria deste card; seus monstros "Melffy" podem atacar diretamente neste turno. Durante o turno do seu oponente (Efeito Rápido): você pode escolher 1 Monstro Xyz Besta que você controla; devolva esse monstro para o Deck Adicional e, depois, você pode Invocar por Invocação-Especial monstros Besta de Nível 2 ou menos do seu Cemitério, até o número de matérias que esse monstro tinha. Você só pode usar este efeito de "Melffys Alegres" uma vez por turno.
   ja: |-
     獣族レベル２モンスター×２体以上
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除いて発動できる。このターン、自分の「メルフィー」モンスターは直接攻撃できる。②：相手ターンに、自分フィールドの獣族Ｘモンスター１体を対象として発動できる。そのモンスターを持ち主のＥＸデッキに戻す。その後、そのモンスターが持っていたＸ素材の数まで、自分の墓地からレベル２以下の獣族モンスターを選んで特殊召喚できる。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除いて発動できる。このターン、自分の「メルフィー」モンスターは直接攻撃できる。②：相手ターンに、自分フィールドの獣族Ｘモンスター１体を対象として発動できる。そのモンスターをＥＸデッキに戻す。その後、そのモンスターが持っていたＸ素材の数まで、自分の墓地からレベル２以下の獣族モンスターを特殊召喚できる。
   ko: |-
     야수족 레벨 2 몬스터 × 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 이 턴에 자신의 "메르피" 몬스터는 직접 공격할 수 있다. ②: 상대 턴에 자신 필드의 야수족 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 주인의 엑스트라 덱으로 되돌린다. 그 후, 그 몬스터가 가지고 있던 엑시즈 소재의 수까지, 자신 묘지에서 레벨 2 이하의 야수족 몬스터를 고르고 특수 소환할 수 있다.
@@ -42,8 +42,8 @@ text:
     獸族等級２怪獸×２隻以上
     此卡名的②效果，１回合僅限使用１次。①：可去除此卡的１個超量素材發動。此回合，我方的「梅爾菲」怪獸可直接攻擊。②：在對方回合，可將我方場上的１隻獸族超量怪獸做為對象發動。將該怪獸送回持有者的額外牌組。其後，從我方墓地選擇等級２以下的獸族怪獸特殊召喚，數量最多為該怪獸持有的超量素材的數量。
   zh-CN: |-
-    兽族等级2怪兽×2只以上
-    此卡名的②效果1回合仅可使用1次。①：去除此卡的1个超量素材可以发动。此回合，自己的"梅尔菲"怪兽可以直接攻击。②：在对手回合中，以自己场上的1只兽族超量怪兽为对象可以发动。将该怪兽放回持有者的额外牌组。然后可从自己的墓地挑选等级2以下的兽族怪兽特殊召唤，数量最多为该怪兽持有的超量素材数量。
+    兽族等级２怪兽×２只以上
+    此卡名的②效果１回合仅可使用１次。①：去除此卡的１个超量素材可以发动。此回合，自己的“梅尔菲”怪兽可以直接攻击。②：在对手回合中，以自己场上的１只兽族超量怪兽为对象可以发动。将该怪兽放回持有者的额外牌组。然后可从自己的墓地挑选等级２以下的兽族怪兽特殊召唤，数量最多为该怪兽持有的超量素材数量。
 card_type: Monster
 monster_type_line: Beast / Xyz / Effect
 attribute: EARTH
@@ -114,6 +114,12 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: QCCU-JP178
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHRA-KR044
     set_name: Phantom Rage

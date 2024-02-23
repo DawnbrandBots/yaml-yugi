@@ -34,7 +34,7 @@ text:
     Depois que este card for Invocado por Invocação-Fusão, pelo resto deste turno, o ATK deste card se torna o dobro do seu ATK original. Este card Invocado por Invocação-Fusão pode realizar um segundo e terceiro ataque durante cada Fase de Batalha. Não pode atacar diretamente.
   ja: |-
     「ＨＥＲＯ」モンスター×３
-    ①：このカードは直接攻撃できない。②：このカードが融合召喚に成功したターン、このカードの攻撃力は元々の攻撃力の倍になる。③：融合召喚したこのカードは１度のバトルフェイズ中に３回攻撃できる。
+    ①：このカードは直接攻撃できない。②：このカードが融合召喚した時に適用する。このカードの攻撃力はターン終了時まで元々の攻撃力の倍になる。③：融合召喚したこのカードは１度のバトルフェイズ中に３回攻撃できる。
   ko: |-
     "히어로" 몬스터 × 3
     ①: 이 카드가 융합 소환에 성공한 턴에, 이 카드의 공격력은 원래 공격력의 배가 된다. ②: 융합 소환한 이 카드는 1번의 배틀 페이즈 중에 3회 공격할 수 있다. ③: 이 카드는 직접 공격할 수 없다.
@@ -42,8 +42,8 @@ text:
     「－英雄」怪獸×３
     ①：此卡無法直接攻擊。②：此卡融合召喚成功的回合，此卡的攻擊力變為原本的攻擊力的兩倍。③：融合召喚的此卡在１次戰鬥階段中可攻擊３次。
   zh-CN: |-
-    "－英雄"怪兽×3
-    ①：此卡不可直接攻击。②：此卡融合召唤成功的回合，此卡的攻击力变为原本攻击力的两倍。③：融合召唤的此卡在1次战斗阶段中可攻击3次。
+    “－英雄”怪兽×３
+    ①：此卡不可直接攻击。②：此卡融合召唤成功的回合，此卡的攻击力变为原本攻击力的两倍。③：融合召唤的此卡在１次战斗阶段中可攻击３次。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
@@ -132,6 +132,12 @@ sets:
     set_name: Tournament Pack 2019 Vol.2
     rarities:
     - Common
+  - set_number: QCCU-JP041
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PC01-KR081
     set_name: Precious Pack Volume 1

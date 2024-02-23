@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 Monstro Pêndulo "Mago" ou monstro "Olhos Anômalos" no seu Cemitério, exceto "Mago do Dragão Tolo"; adicione-o à sua mão. Você só pode usar este efeito de "Mago do Dragão Tolo" uma vez por turno.
   ja: |-
-    「賤竜の魔術師」のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分の墓地の、「賤竜の魔術師」以外の「魔術師」Ｐモンスターまたは「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+    このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、自分の墓地の、「賤竜の魔術師」以外の「魔術師」Ｐモンスターか「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     "천룡의 마술사"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 묘지의 "천룡의 마술사" 이외의 "마술사" 펜듈럼 몬스터 또는 "오드아이즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.
   zh-TW: |-
@@ -55,7 +55,7 @@ pendulum_effect:
   pt: |-
     Se você tiver um card "Mago" na sua outra Zona de Pêndulo: você pode adicionar 1 Monstro Pêndulo "Mago" ou "Olhos Anômalos" com a face para cima do seu Deck Adicional à sua mão, exceto "Mago do Dragão Tolo". Você só pode usar este efeito de "Mago do Dragão Tolo" uma vez por turno.
   ja: |-
-    「賤竜の魔術師」のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンに「魔術師」カードが存在する場合に発動できる。自分のエクストラデッキの表側表示の、「賤竜の魔術師」以外の「魔術師」Ｐモンスターまたは「オッドアイズ」Ｐモンスター１体を選んで手札に加える。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンに「魔術師」カードが存在する場合に発動できる。自分のＥＸデッキ（表側）から「賤竜の魔術師」以外の「魔術師」Ｐモンスターか「オッドアイズ」Ｐモンスター１体を手札に加える。
   ko: |-
     "천룡의 마술사"의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 "마술사" 카드가 존재할 경우에 발동할 수 있다. 자신의 엑스트라 덱의 앞면 표시의, "천룡의 마술사" 이외의 "마술사" 펜듈럼 몬스터 또는 "오드아이즈" 펜듈럼 몬스터 1장을 고르고 패에 넣는다.
   zh-TW: |-
@@ -118,6 +118,12 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Super Rare
+  - set_number: QCCU-JP080
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD29-KR004
     set_name: 'Structure Deck: Master of Pendulum'

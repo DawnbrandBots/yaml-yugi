@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: cause 600 de dano ao seu oponente. Se este card atacar, seu oponente não pode ativar quaisquer Cards de Magia/Armadilha até o final da Etapa de Dano. Uma vez por turno: você pode Invocar por Invocação-Fusão 1 Monstro de Fusão "Mecanismo Antigo" do seu Deck Adicional, usando monstros da sua mão ou do campo como Matérias de Fusão.
   ja: |-
-    ①：このカードが召喚に成功した場合に発動する。相手に６００ダメージを与える。②：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。③：１ターンに１度、自分メインフェイズに発動できる。自分の手札・フィールドから、「アンティーク・ギア」融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をＥＸデッキから融合召喚する。
+    ①：このカードが召喚した場合に発動する。相手に６００ダメージを与える。②：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。③：１ターンに１度、自分メインフェイズに発動できる。自分の手札・フィールドのモンスターを融合素材とし、「アンティーク・ギア」融合モンスター１体を融合召喚する。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 상대에게 600 데미지를 준다. ②: 이 카드가 공격할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 카드를 발동할 수 없다. ③: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 패 / 필드에서, "앤틱 기어" 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.
   zh-TW: |-
@@ -100,6 +100,12 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  - set_number: QCCU-JP114
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: RATE-KR013
     set_name: Raging Tempest

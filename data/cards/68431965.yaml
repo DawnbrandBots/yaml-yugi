@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Sincro: você pode enviar 1 monstro do seu Deck para o Cemitério, cujo Nível seja menor que o Nível deste card no campo e, se isso acontecer, reduza o Nível deste card pelo Nível desse monstro, mas pelo resto deste turno, você não pode ativar os efeitos de monstros com o mesmo nome que o monstro enviado tinha no Cemitério. Você só pode usar este efeito de "Dragão da Explosão Sublime" uma vez por turno. Uma vez por Corrente, durante a Fase Principal do seu oponente, você pode (Efeito Rápido): imediatamente depois que este efeito resolver, Invoque por Invocação-Sincro usando este card que você controla.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
-    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがＳ召喚に成功した場合に発動できる。フィールドのこのカードより低いレベルを持つモンスター１体をデッキから墓地へ送り、そのモンスターのレベル分だけこのカードのレベルを下げる。このターン、自分は墓地へ送ったそのモンスター及びその同名モンスターのモンスター効果を発動できない。②：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターをＳ素材としてＳ召喚する。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードがＳ召喚した場合に発動できる。フィールドのこのカードより低いレベルを持つモンスター１体をデッキから墓地へ送り、そのモンスターのレベル分だけこのカードのレベルを下げる。このターン、自分はそのモンスター及びその同名モンスターのモンスター効果を発動できない。②：相手メインフェイズに発動できる（同一チェーン上では１度まで）。このカードを含む自分フィールドのモンスターを素材としてＳ召喚を行う。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 필드의 이 카드보다 낮은 레벨을 가지는 몬스터 1장을 덱에서 묘지로 보내고, 그 몬스터의 레벨만큼만 이 카드의 레벨을 내린다. 이 턴에, 자신은 묘지로 보낸 그 몬스터 및 그와 같은 이름의 몬스터의 몬스터 효과를 발동할 수 없다. ②: 상대 메인 페이즈에 발동할 수 있다. 이 카드를 포함하는 자신 필드의 몬스터를 싱크로 소재로서 싱크로 소환한다.
@@ -42,7 +42,7 @@ text:
     協調＋協調以外的怪獸１隻以上
     此卡名的①效果，１回合僅限使用１次。①：可在此卡同步召喚成功的狀況下發動。從牌組將１隻等級低於場上的此卡的怪獸送至墓地，此卡的等級依據該怪獸的等級進行降低。此回合，我方無法發動送至墓地的該怪獸及該同名怪獸的怪獸效果。②：可在對方主要階段發動。以我方場上的包含此卡在內的怪獸做為同步素材同步召喚。
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
+    协调+1只以上协调以外的怪兽
     此卡名的①效果1回合仅可使用1次。①：此卡同步召唤成功的情况下可以发动。将拥有比场上的此卡更低等级的1只怪兽从牌组送至墓地，此卡的等级下降相当于该怪兽等级的数值。此回合，自己不可发动送至墓地的该怪兽及其同名怪兽的怪兽效果。②：在对手的主要阶段可以发动。将包括此卡在内的自己场上的怪兽作为同步素材同步召唤。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Tuner / Effect
@@ -92,6 +92,12 @@ sets:
     set_name: Legendary Gold Box
     rarities:
     - Normal Parallel Rare
+  - set_number: QCCU-JP054
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP14-KRA33
     set_name: Premium Pack Vol.14 1st Wave

@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Link na Zona de Monstros Adicional: você pode pagar 1200 PV; adicione 1 Monstro Pêndulo do seu Deck à sua mão, mas pelo resto deste turno, a não ser que você Invoque por Invocação-Pêndulo depois que este efeito resolver, você não pode ativar efeitos de monstro e os efeitos de quaisquer cards nas suas Zonas de Pêndulo são negados. Se 2 monstros com Níveis originais diferentes forem Invocados por Invocação-Pêndulo ao mesmo tempo em zonas para as quais este card apontar: você pode escolher 2 cards no campo; destrua-os. Você só pode usar este efeito de "Além do Pêndulo" uma vez por turno.
   ja: |-
     Ｐモンスターを含む効果モンスター２体
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがＥＸモンスターゾーンにリンク召喚された場合、１２００ＬＰを払って発動できる。デッキからＰモンスター１体を手札に加える。このターン自分はＰ召喚に成功しない限り、モンスターの効果を発動できず、自分のＰゾーンのカードの効果は無効化される。②：このカードのリンク先に元々のレベルが異なるモンスター２体が同時にＰ召喚された場合、フィールドのカード２枚を対象として発動できる。そのカードを破壊する。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがＥＸモンスターゾーンにＬ召喚した場合、１２００ＬＰを払って発動できる。デッキからＰモンスター１体を手札に加える。このターン自分はＰ召喚に成功しない限り、モンスターの効果を発動できず、自分のＰゾーンのカードの効果は無効化される。②：このカードのリンク先に元々のレベルが異なるモンスター２体が同時にＰ召喚された場合、フィールドのカード２枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     펜듈럼 몬스터를 포함하는 효과 몬스터 2장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 엑스트라 몬스터 존에 링크 소환되었을 경우, 1200 LP를 지불하고 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 패에 넣는다. 이 턴에 자신은 펜듈럼 소환에 성공하지 않는 한, 몬스터의 효과를 발동할 수 없으며, 자신의 펜듈럼 존의 카드 효과는 무효화된다. ②: 이 카드의 링크 앞에 원래 레벨이 다른 몬스터 2장이 동시에 펜듈럼 소환되었을 경우, 필드의 카드 2장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다.
@@ -115,6 +115,12 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: QCCU-JP193
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DIFO-KR048
     set_name: Dimension Force

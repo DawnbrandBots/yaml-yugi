@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card. Se este card for enviado do seu Deck para o Cemitério: Invoque-o por Invocação-Especial.
   ja: |-
-    このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。このカードがデッキから墓地へ送られた時に発動する。このカードを墓地から特殊召喚する。
+    このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：このカードがデッキから墓地へ送られた場合に発動する。このカードを特殊召喚する。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없으며, 카드의 효과로만 특수 소환할 수 있다. 이 카드가 덱에서 묘지로 보내졌을 때에 발동한다. 이 카드를 묘지에서 특수 소환한다.
   zh-TW: |-
@@ -184,6 +184,12 @@ sets:
     set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
+  - set_number: QCCU-JP129
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LODT-KR023
     set_name: Light of Destruction

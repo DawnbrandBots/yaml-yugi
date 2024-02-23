@@ -34,7 +34,7 @@ text:
     Uma vez por turno: você pode desassociar 1 matéria deste card; Invoque por Invocação-Especial do seu Deck 1 monstro Besta Alada de Nível 4. Se este card tiver qualquer número de monstros "Ataqueraptor" como matéria, ele pode atacar até esse número de vezes durante cada Fase de Batalha. Se este card for enviado para o Cemitério enquanto tiver um monstro "Ataqueraptor" como matéria: você pode Invocar por Invocação-Especial 1 Monstro Xyz "Ataqueraptor" do seu Deck Adicional, exceto "Ataqueraptor - Falcão Arsenal" e, se isso acontecer, associe este card do seu Cemitério a ele como matéria.
   ja: |-
     レベル７モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。デッキから鳥獣族・レベル４モンスター１体を特殊召喚する。②：「ＲＲ」モンスターをＸ素材として持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。③：「ＲＲ」モンスターをＸ素材として持っているこのカードが墓地へ送られた場合に発動できる。エクストラデッキから「ＲＲ－アーセナル・ファルコン」以外の「ＲＲ」Ｘモンスター１体を特殊召喚し、墓地のこのカードをそのＸモンスターの下に重ねてＸ素材とする。
+    ①：１ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。デッキから鳥獣族・レベル４モンスター１体を特殊召喚する。②：「ＲＲ」モンスターをＸ素材として持っているこのカードは、その数まで１度のバトルフェイズ中に攻撃できる。③：「ＲＲ」モンスターをＸ素材として持っているこのカードが墓地へ送られた場合に発動できる。ＥＸデッキから「ＲＲ－アーセナル・ファルコン」以外の「ＲＲ」Ｘモンスター１体を特殊召喚し、このカードをそのＸ素材とする。
   ko: |-
     레벨 7 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 덱에서 비행야수족 / 레벨 4 몬스터 1장을 특수 소환한다. ②: "RR(레이드 랩터즈)" 몬스터를 엑시즈 소재로서 가지고 있는 이 카드는, 그 수까지 1번의 배틀 페이즈 중에 공격할 수 있다. ③: "RR(레이드 랩터즈)" 몬스터를 엑시즈 소재로서 가지고 있는 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 엑스트라 덱에서 "RR(레이드 랩터즈)－아스날 팔콘" 이외의 "RR(레이드 랩터즈)" 엑시즈 몬스터 1장을 특수 소환하고, 묘지의 이 카드를 그 엑시즈 몬스터의 아래에 겹쳐 엑시즈 소재로 한다.
@@ -43,7 +43,7 @@ text:
     ①：１回合１次，可去除此卡的１個超量素材發動。從牌組特殊召喚１隻鳥獸族・等級４怪獸。②：持有「急襲猛禽」怪獸做為超量素材的此卡，在１次戰鬥階段中可進行多次攻擊，次數最多為其數量。③：可在持有「急襲猛禽」怪獸做為超量素材的此卡被送至墓地的狀況下發動。從額外牌組特殊召喚１隻「急襲猛禽－武庫獵鷹」以外的「急襲猛禽」超量怪獸，將墓地的此卡重疊至該超量怪獸下方做為超量素材。
   zh-CN: |-
     等级7怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材可以发动。从牌组将1只鸟兽族・等级4的怪兽特殊召唤。②：持有"急袭猛禽"怪兽作为超量素材的此卡在1次战斗阶段中最多可以攻击相当于素材数量的次数。③：持有"急袭猛禽"怪兽作为超量素材的此卡在被送至墓地的情况下可以发动。从额外牌组将1只"急袭猛禽－武库猎鹰"以外的"急袭猛禽"超量怪兽特殊召唤，将墓地的此卡重叠在该超量怪兽下方作为超量素材。
+    ①：1回合1次，去除此卡的1个超量素材可以发动。从牌组将1只鸟兽族・等级4的怪兽特殊召唤。②：持有“急袭猛禽”怪兽作为超量素材的此卡在1次战斗阶段中最多可以攻击相当于素材数量的次数。③：持有“急袭猛禽”怪兽作为超量素材的此卡在被送至墓地的情况下可以发动。从额外牌组将1只“急袭猛禽-武库猎鹰”以外的“急袭猛禽”超量怪兽特殊召唤，将墓地的此卡重叠在该超量怪兽下方作为超量素材。
 card_type: Monster
 monster_type_line: Winged Beast / Xyz / Effect
 attribute: DARK
@@ -86,6 +86,12 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Ultra Parallel Rare
+  - set_number: QCCU-JP159
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBLE-KR027
     set_name: Dimension Box Limited Edition
