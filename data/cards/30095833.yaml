@@ -34,7 +34,7 @@ text:
     Se você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima do seu Deck Adicional por Invocação-Pêndulo. Este card não pode ser usado como matéria para uma Invocação-Xyz no turno em que foi Invocado por Invocação-Xyz. Você pode desassociar 1 matéria deste card e, depois, escolha até 2 monstros que seu oponente controla com 3000 ou menos de ATK; destrua-os. Você só pode usar este efeito de "Dragão Xyz da Rebelião de Olhos Anômalos" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.
   ja: |-
     レベル７のＰモンスター×２
-    レベル７がＰ召喚可能な場合にＥＸデッキの表側表示のこのカードはＰ召喚できる。このカードはＸ召喚されたターンにはＸ召喚の素材にできない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除き、相手フィールドの攻撃力３０００以下のモンスターを２体まで対象として発動できる。そのモンスターを破壊する。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
+    レベル７がＰ召喚可能な場合にＥＸデッキの表側のこのカードはＰ召喚できる。このカードはＸ召喚されたターンにはＸ召喚の素材にできない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除き、相手フィールドの攻撃力３０００以下のモンスターを２体まで対象として発動できる。そのモンスターを破壊する。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のＰゾーンに置く。
   ko: |-
     레벨 7 의 펜듈럼 몬스터 × 2
     레벨 7 이 펜듈럼 소환 가능한 경우에 엑스트라 덱의 앞면 표시의 이 카드는 펜듈럼 소환할 수 있다. 이 카드는 엑시즈 소환된 턴에는 엑시즈 소환의 소재로 할 수 없다. 이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 공격력 3000 이하의 몬스터를 2장까지 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다. ②: 몬스터 존의 이 카드가 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
@@ -65,7 +65,7 @@ pendulum_effect:
   pt: |-
     Durante sua Fase Principal: você pode Invocar este card por Invocação-Especial e, depois, você pode associar 1 monstro de TREVAS do seu Cemitério a este card como matéria. Você só pode usar este efeito de "Dragão Xyz da Rebelião de Olhos Anômalos" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを特殊召喚する。その後、自分の墓地から闇属性モンスター１体を選んでこのカードの下に重ねてＸ素材にできる。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを特殊召喚する。その後、自分の墓地から闇属性モンスター１体をこのカードのＸ素材にできる。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 이 카드를 특수 소환한다. 그 후, 자신 묘지에서 어둠 속성 몬스터 1장을 고르고 이 카드 아래에 겹쳐 엑시즈 소재로 할 수 있다.
   zh-TW: |-
@@ -115,6 +115,13 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  - set_number: QCCU-JP090
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   zh-CN:
   - set_number: NE01-SC005
     set_name: 'Nature Pack: Blazing Heroes'

@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao ter 4 ou mais monstros "Luminoso(a)" com nomes diferentes no seu Cemitério. Você pode pagar 1000 PV; destrua todos os outros cards no campo. Uma vez por turno, durante sua Fase Final: envie os 4 cards do topo do seu Deck para o Cemitério.
   ja: |-
-    このカードは通常召喚できない。自分の墓地の「ライトロード」モンスターが４種類以上の場合のみ特殊召喚できる。①：１０００ＬＰを払って発動できる。このカード以外のフィールドのカードを全て破壊する。②：自分エンドフェイズに発動する。自分のデッキの上からカードを４枚墓地へ送る。
+    このカードは通常召喚できない。自分の墓地の「ライトロード」モンスターが４種類以上の場合のみ特殊召喚できる。①：１０００ＬＰを払って発動できる。フィールドの他のカードを全て破壊する。②：自分エンドフェイズに発動する。自分のデッキの上からカードを４枚墓地へ送る。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 묘지의 "라이트로드" 몬스터가 4종류 이상일 경우에만 특수 소환할 수 있다. ①: 1000 LP를 지불하고 발동할 수 있다. 이 카드 이외의 필드의 카드를 전부 파괴한다. ②: 자신 엔드 페이즈에 발동한다. 자신의 덱 위에서 카드를 4장 묘지로 보낸다.
   zh-TW: |-
@@ -256,6 +256,13 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  - set_number: QCCU-JP130
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LODT-KR026
     set_name: Light of Destruction

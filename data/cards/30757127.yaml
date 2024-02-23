@@ -34,7 +34,7 @@ text:
     (Efeito Rápido): você pode descartar 1 card; envie 1 monstro "HERÓI do Destino" da sua mão ou do Deck para o Cemitério e, se isso acontecer, até o final deste turno, os monstros "HERÓI do Destino" que você controla ganham 200 de ATK para cada monstro "HERÓI do Destino" no seu Cemitério. Você só pode usar este efeito de "HERÓI do Destino - Perigoso" uma vez por turno.
   ja: |-
     「Ｄ－ＨＥＲＯ」モンスター＋闇属性の効果モンスター
-    このカード名の効果は１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。手札・デッキから「Ｄ－ＨＥＲＯ」モンスター１体を墓地へ送る。その後、自分の墓地に「Ｄ－ＨＥＲＯ」モンスターが存在する場合、自分フィールドの全ての「Ｄ－ＨＥＲＯ」モンスターの攻撃力はターン終了時まで、自分の墓地の「Ｄ－ＨＥＲＯ」モンスターの数×２００アップする。この効果は相手ターンでも発動できる。
+    このカード名の効果は１ターンに１度しか使用できない。①：自分・相手ターンに、手札を１枚捨てて発動できる。手札・デッキから「Ｄ－ＨＥＲＯ」モンスター１体を墓地へ送る。その後、自分の墓地に「Ｄ－ＨＥＲＯ」モンスターが存在する場合、自分フィールドの全ての「Ｄ－ＨＥＲＯ」モンスターの攻撃力はターン終了時まで、自分の墓地の「Ｄ－ＨＥＲＯ」モンスターの数×２００アップする。
   ko: |-
     "데스티니 히어로" 몬스터 ＋ 어둠 속성의 효과 몬스터
     "데스티니 히어로 데들리 가이"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패를 1장 버리고 발동할 수 있다. 패 / 덱에서 "데스티니 히어로" 몬스터 1장을 묘지로 보내고, 자신 필드의 모든 "데스티니 히어로" 몬스터의 공격력은 턴 종료시까지, 자신 묘지의 "데스티니 히어로" 몬스터의 수 × 200 올린다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -171,6 +171,12 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  - set_number: QCCU-JP032
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP12-KR029
     set_name: Premium Pack Vol.12

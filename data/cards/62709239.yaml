@@ -34,7 +34,7 @@ text:
     Uma vez por turno: você pode desassociar 1 matéria deste card e, depois, escolha 1 card que você controla e 1 card que seu oponente controla; destrua-os. Se este card Invocado por Invocação-Xyz for destruído: você pode escolher 2 monstros "Os Cavaleiros Fantasmas" com o mesmo Nível no seu Cemitério; Invoque-os por Invocação-Especial e aumente o Nível deles em 1 e, além disso, você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto monstros de TREVAS.
   ja: |-
     レベル３モンスター×２
-    ①：１ターンに１度、このカードの<ruby>Ｘ<rt>エクシーズ</rt></ruby>素材を１つ取り除き、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。②：<ruby>Ｘ<rt>エクシーズ</rt></ruby>召喚されたこのカードが破壊された場合、自分の墓地の同じレベルの「幻影騎士団」モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターのレベルは１つ上がる。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
+    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。②：Ｘ召喚したこのカードが破壊された場合、自分の墓地の同じレベルの「幻影騎士団」モンスター２体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターのレベルは１つ上がる。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
   ko: |-
     레벨 3 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 및 상대 필드의 카드를 1장씩 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. ②: 엑시즈 소환된 이 카드가 파괴되었을 경우, 자신 묘지의 같은 레벨의 "팬텀 나이츠" 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터의 레벨은 1개 올라간다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 특수 소환할 수 없다.
@@ -43,7 +43,7 @@ text:
     ①：１回合１次，可去除此卡的１個超量素材，將我方及對方場上的各１張卡做為對象發動。破壞該卡。②：在被超量召喚的此卡被破壞的狀況下，可將我方墓地的２隻等級相同的「魅影騎士團」怪獸做為對象發動。特殊召喚該怪獸。透過此效果特殊召喚的怪獸的等級提升１。此效果發動後，在回合結束前我方可特殊召喚的怪獸僅限闇屬性怪獸。
   zh-CN: |-
     等级3怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材，以自己以及对手场上的卡各1张为对象可以发动。将该卡破坏。②：超量召唤的此卡被破坏的情况下，以自己墓地2只相同等级的"魅影骑士团"怪兽为对象可以发动。将该怪兽特殊召唤。以此效果特殊召唤的怪兽的等级上升1。此效果发动后，直至回合结束时为止自己仅可特殊召唤暗属性怪兽。
+    ①：1回合1次，去除此卡的1个超量素材，以自己以及对手场上的卡各1张为对象可以发动。将该卡破坏。②：超量召唤的此卡被破坏的情况下，以自己墓地2只相同等级的“魅影骑士团”怪兽为对象可以发动。将该怪兽特殊召唤。以此效果特殊召唤的怪兽的等级上升1。此效果发动后，直至回合结束时为止自己仅可特殊召唤暗属性怪兽。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: DARK
@@ -174,6 +174,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: QCCU-JP150
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SPWR-KR006
     set_name: 'Booster SP: Wing Raiders'

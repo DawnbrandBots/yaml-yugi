@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando o ataque de um monstro for negado: escolha esse monstro; ele pode realizar um segundo ataque durante esta Fase de Batalha e, se isso acontecer, seu ATK é dobrado, apenas durante a Etapa de Dano.
   ja: |-
-    ①：モンスターの攻撃が無効になった時、そのモンスター１体を対象として発動できる。このバトルフェイズ中、そのモンスターはもう１度だけ攻撃できる。この効果でそのモンスターが攻撃するダメージステップの間、そのモンスターの攻撃力は倍になる。
+    ①：モンスターの攻撃が無効になった時、そのモンスター１体を対象として発動できる。このバトルフェイズ中、そのモンスターはもう１度攻撃できる。この効果でそのモンスターが攻撃するダメージステップの間、そのモンスターの攻撃力は倍になる。
   ko: |-
     ①: 몬스터의 공격이 무효가 되었을 때, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 배틀 페이즈 중, 그 몬스터는 1번만 더 공격할 수 있다. 이 효과로 그 몬스터가 공격하는 데미지 스텝 동안, 그 몬스터의 공격력은 배가 된다.
   zh-TW: |-
@@ -122,6 +122,12 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  - set_number: QCCU-JP070
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: GENF-KR046
     set_name: Generation Force
