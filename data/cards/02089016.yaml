@@ -15,7 +15,7 @@ name:
   zh-CN: 先史遗产 图什帕火箭
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can send 1 "Chronomaly" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200. A "Number" Xyz Monster that was Summoned using this card on the field as material gains this effect.
+    If this card is Normal or Special Summoned: You can send 1 "Chronomaly" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200 until the end of this turn. A "Number" Xyz Monster that was Summoned using this card on the field as material gains this effect.
     ● This card can make up to 2 attacks on monsters during each Battle Phase.
     You can only use each effect of "Chronomaly Tuspa Rocket" once per turn.
   de: |-
@@ -61,11 +61,15 @@ series:
 - Chronomaly
 images:
 - index: 1
-  image: ChronomalyTuspaRocket-IGAS-EN-C-1E.png
+  image: ChronomalyTuspaRocket-BLC1-EN-C-1E.png
 sets:
   en:
   - set_number: IGAS-EN016
     set_name: Ignition Assault
+    rarities:
+    - Common
+  - set_number: BLC1-EN161
+    set_name: 'Battles of Legend: Chapter 1'
     rarities:
     - Common
   de:
@@ -73,9 +77,17 @@ sets:
     set_name: Ignition Assault
     rarities:
     - Common
+  - set_number: BLC1-DE161
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   fr:
   - set_number: IGAS-FR016
     set_name: Ignition Assault
+    rarities:
+    - Common
+  - set_number: BLC1-FR161
+    set_name: 'Battles of Legend: Chapter 1'
     rarities:
     - Common
   it:
@@ -83,9 +95,17 @@ sets:
     set_name: Ignition Assault
     rarities:
     - Common
+  - set_number: BLC1-IT161
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   pt:
   - set_number: IGAS-PT016
     set_name: Ignition Assault
+    rarities:
+    - Common
+  - set_number: BLC1-PT161
+    set_name: 'Battles of Legend: Chapter 1'
     rarities:
     - Common
   ja:

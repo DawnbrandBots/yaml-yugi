@@ -15,7 +15,7 @@ name:
   zh-CN: 风化战士
 text:
   en: |-
-    If this card is destroyed by battle or sent to the GY by a card effect: You can add 1 "Fossil Fusion", or 1 card that specifically lists "Fossil Fusion" in its text except "Weathering Soldier", from your Deck to your hand. You can only use this effect of "Weathering Soldier" once per turn. Once per turn, during your End Phase: This card loses 600 ATK.
+    If this card is destroyed by battle or sent to the GY by a card effect: You can add 1 "Fossil Fusion", or 1 card that mentions "Fossil Fusion" except "Weathering Soldier", from your Deck to your hand. You can only use this effect of "Weathering Soldier" once per turn. Once per turn, during your End Phase: This card loses 600 ATK.
   de: |-
     Falls diese Karte durch Kampf zerstört oder durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Fossilfusion“ oder 1 Karte, die ausdrücklich „Fossilfusion“ in ihrem Text erwähnt, außer „Verwitterter Soldat“, von deinem Deck hinzufügen. Du kannst diesen Effekt von „Verwitterter Soldat“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während deiner End Phase: Diese Karte verliert 600 ATK.
   es: |-
@@ -44,33 +44,53 @@ atk: 2000
 def: 1200
 images:
 - index: 1
-  image: WeatheringSoldier-BLAR-EN-ScR-1E.png
+  image: WeatheringSoldier-BLC1-EN-C-1E.png
 sets:
   en:
   - set_number: BLAR-EN005
     set_name: 'Battles of Legend: Armageddon'
     rarities:
     - Secret Rare
+  - set_number: BLC1-EN128
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   de:
   - set_number: BLAR-DE005
     set_name: 'Battles of Legend: Armageddon'
     rarities:
     - Secret Rare
+  - set_number: BLC1-DE128
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   fr:
   - set_number: BLAR-FR005
     set_name: 'Battles of Legend: Armageddon'
     rarities:
     - Secret Rare
+  - set_number: BLC1-FR128
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   it:
   - set_number: BLAR-IT005
     set_name: 'Battles of Legend: Armageddon'
     rarities:
     - Secret Rare
+  - set_number: BLC1-IT128
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   pt:
   - set_number: BLAR-PT005
     set_name: 'Battles of Legend: Armageddon'
     rarities:
     - Secret Rare
+  - set_number: BLC1-PT128
+    set_name: 'Battles of Legend: Chapter 1'
+    rarities:
+    - Common
   ja:
   - set_number: CP20-JP005
     set_name: Collection Pack 2020

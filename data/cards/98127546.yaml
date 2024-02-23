@@ -34,7 +34,7 @@ text:
     Você também pode usar 1 monstro que seu oponente controla como matéria para Invocar este card por Invocação-Link. Se este card for Invocado por Invocação-Link: você pode negar os efeitos de todos os monstros com a face para cima que seu oponente controla atualmente. Este card Invocado por Invocação-Link não é afetado pelos efeitos ativados do seu oponente, a não ser que eles escolham este card como alvo. Uma vez por turno, quando seu oponente ativar um card ou efeito que Invoque um ou mais monstros por Invocação-Especial do Cemitério (Efeito Rápido): você pode negar a ativação.
   ja: |-
     効果モンスター４体以上
-    このカードをリンク召喚する場合、相手フィールドのモンスターも１体までリンク素材にできる。①：このカードがリンク召喚に成功した場合に発動できる。相手フィールドの全ての表側表示モンスターの効果は無効化される。②：リンク召喚したこのカードは、このカードを対象とする効果以外の相手の発動した効果を受けない。③：１ターンに１度、墓地からモンスターを特殊召喚する効果を含む、魔法・罠・モンスターの効果を相手が発動した時に発動できる。その発動を無効にする。
+    このカードをＬ召喚する場合、相手フィールドのモンスター１体もＬ素材にできる。①：このカードがＬ召喚した場合に発動できる。相手フィールドの全ての表側表示モンスターの効果は無効化される。②：Ｌ召喚したこのカードは、このカードを対象とする効果以外の相手が発動した効果を受けない。③：１ターンに１度、墓地からモンスターを特殊召喚する効果を含む、魔法・罠・モンスターの効果を相手が発動した時に発動できる。その発動を無効にする。
   ko: |-
     효과 몬스터 4장 이상
     이 카드를 링크 소환할 경우, 상대 필드의 몬스터도 1장까지 링크 소재로 할 수 있다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 모든 앞면 표시 몬스터의 효과는 무효화된다. ②: 링크 소환한 이 카드는 이 카드를 대상으로 하는 효과 이외의 상대의 발동한 효과를 받지 않는다. ③: 1턴에 1번, 묘지에서 몬스터를 특수 소환하는 효과를 포함하는, 마법 / 함정 / 몬스터의 효과를 상대가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 한다.
@@ -42,8 +42,8 @@ text:
     效果怪獸４隻以上
     在連結召喚此卡的狀況下，也可將對方場上最多１隻的怪獸做為連結素材。①：可在此卡連結召喚成功的狀況下發動。對方場上的所有正面表示怪獸的效果無效化。②：連結召喚的此卡不受對方發動的以此卡做為對象的效果以外的效果影響。③：１回合１次，可在對方發動包含從墓地特殊召喚怪獸的效果的魔法・陷阱・怪獸效果時發動。將該發動變為無效。
   zh-CN: |-
-    效果怪兽4只以上
-    在要将此卡连接召唤的情况下，也可将对手场上最多1只怪兽作为连接素材。①：此卡连接召唤成功的情况下可以发动。对手场上所有表侧表示怪兽的效果无效化。②：连接召唤的此卡不受对手发动的效果影响，除了以此卡为对象的效果以外。③：1回合1次，对手发动包含从墓地将怪兽特殊召唤的效果的、魔法・陷阱・怪兽的效果时可以发动。将该发动无效。
+    效果怪兽４只以上
+    在要将此卡连接召唤的情况下，也可将对手场上最多１只怪兽作为连接素材。①：此卡连接召唤成功的情况下可以发动。对手场上所有表侧表示怪兽的效果无效化。②：连接召唤的此卡不受对手发动的效果影响，除了以此卡为对象的效果以外。③：１回合１次，对手发动包含从墓地将怪兽特殊召唤的效果的、魔法・陷阱・怪兽的效果时可以发动。将该发动无效。
 card_type: Monster
 monster_type_line: Fiend / Link / Effect
 attribute: LIGHT
@@ -122,6 +122,13 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Secret Rare
+  - set_number: QCCU-JP192
+    set_name: Quarter Century Chronicle side:Unity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: BLVO-KR050
     set_name: Blazing Vortex
