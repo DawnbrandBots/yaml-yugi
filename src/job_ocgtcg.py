@@ -252,8 +252,10 @@ def neo_override_ko(document: Dict[str, Any], ko_override: Dict[int, Dict[str, s
     kid = document["konami_id"]
     if kid and ko_override.get(kid):
         module_logger.info(f"APPLYING OVERRIDE FOR {kid}")
-        document["name"]["ko"] = ko_override[kid]["name"]
-        document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
+        if ko_override[kid]["name"]:
+            document["name"]["ko"] = ko_override[kid]["name"]
+        if ko_override[kid]["text"]:
+            document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
         if ko_override[kid]["pendulum"]:
             document["pendulum_effect"]["ko"] = LiteralScalarString(ko_override[kid]["pendulum"])
 
