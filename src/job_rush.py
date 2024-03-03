@@ -8,7 +8,7 @@ from typing import Any, Dict, List, Optional
 
 from ruamel.yaml import YAML
 
-from common import int_or_og, initial_parse, int_or_none, transform_names, transform_texts, annotate_shared, \
+from common import int_or_og, initial_parse, int_or_none, replace_interlinear_annotations, transform_names, transform_texts, annotate_shared, \
     transform_sets, transform_image, transform_multilanguage, write, load_ko_csv, str_or_none
 
 module_logger = logging.getLogger(__name__)
@@ -56,7 +56,7 @@ def overwrite_field(
         key_source = key
     if key in document:
         if key == "name":
-            value = source[key_source]
+            value = replace_interlinear_annotations(source[key_source])
         else:
             value = str_or_none(source[key_source])
         document[key]["ko"] = value

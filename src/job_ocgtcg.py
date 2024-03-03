@@ -11,7 +11,7 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 
-from common import annotate_shared, initial_parse, int_or_none, int_or_og, transform_image, transform_names, transform_sets, transform_texts, write, load_ko_csv
+from common import annotate_shared, initial_parse, int_or_none, int_or_og, replace_interlinear_annotations, transform_image, transform_names, transform_sets, transform_texts, write, load_ko_csv
 
 module_logger = logging.getLogger(__name__)
 
@@ -253,7 +253,7 @@ def neo_override_ko(document: Dict[str, Any], ko_override: Dict[int, Dict[str, s
     if kid and ko_override.get(kid):
         module_logger.info(f"APPLYING OVERRIDE FOR {kid}")
         if ko_override[kid]["name"]:
-            document["name"]["ko"] = ko_override[kid]["name"]
+            document["name"]["ko"] = replace_interlinear_annotations(ko_override[kid]["name"])
         if ko_override[kid]["text"]:
             document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
         if ko_override[kid]["pendulum"]:
