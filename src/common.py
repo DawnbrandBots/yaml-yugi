@@ -310,4 +310,4 @@ def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] 
 
 # Replace Unicode interlinear annotations with HTML markup https://www.unicode.org/charts/nameslist/n_FFF0.html
 def replace_interlinear_annotations(name: str) -> str:
-    return name.replace("\ufff9", "<ruby").replace("\ufffa", "<rt>").replace("\ufffb", "</rt></ruby>")
+    return name.replace("\ufff9", "<ruby>").replace("\ufffa", "<rt>").replace("\ufffb", "</rt></ruby>")
