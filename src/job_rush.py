@@ -54,14 +54,15 @@ def overwrite_field(
 ) -> None:
     if key_source is None:
         key_source = key
-    if key in document:
-        if key == "name":
-            value = replace_interlinear_annotations(source[key_source])
+    if source[key_source]:
+        if key in document:
+            if key == "name":
+                value = replace_interlinear_annotations(source[key_source])
+            else:
+                value = str_or_none(source[key_source])
+            document[key]["ko"] = value
         else:
-            value = str_or_none(source[key_source])
-        document[key]["ko"] = value
-    elif source[key_source]:
-        logger.warn(f"Extraneous value for {key_source}")
+            logger.warn(f"Extraneous value for {key_source}")
 
 
 def overwrite(logger: logging.Logger, document: Dict[str, Any], source: Dict[str, str]) -> None:
