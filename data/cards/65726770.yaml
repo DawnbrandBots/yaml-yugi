@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's current Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect while you control "Gold Sarcophagus of Light" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Magician Zero" once per turn.
+    If your opponent draws a card(s): Increase this card's Level by the number drawn. While this card's Level is higher than its original Level, it gains ATK equal to the difference x 500. When your opponent activates a Spell Card or effect, while you control "Shining Sarcophagus" (Quick Effect): You can negate the activation, and if you do, increase this card's Level by 1. You can only use this effect of "Silent Magician Zero" once per turn.
   de:
   es:
   fr:
@@ -34,11 +34,51 @@ atk: 1000
 def: 1000
 series:
 - Silent Magician
-- Gold Sarcophagus of Light
+- Shining Sarcophagus
 images:
 - index: 1
-  image: SilentMagicianZero-LEDE-JP-SR.png
+  image: SilentMagicianZero-LEDE-EN-LE-OP.png
 sets:
+  en:
+  - set_number: LEDE-ENSP1
+    set_name: Legacy of Destruction Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-EN003
+    set_name: Legacy of Destruction
+    rarities:
+  de:
+  - set_number: LEDE-DESP1
+    set_name: Legacy of Destruction Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-DE003
+    set_name: Legacy of Destruction
+    rarities:
+  fr:
+  - set_number: LEDE-FRSP1
+    set_name: Legacy of Destruction Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-FR003
+    set_name: Legacy of Destruction
+    rarities:
+  it:
+  - set_number: LEDE-ITSP1
+    set_name: Legacy of Destruction Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-IT003
+    set_name: Legacy of Destruction
+    rarities:
+  pt:
+  - set_number: LEDE-PTSP1
+    set_name: Legacy of Destruction Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-PT003
+    set_name: Legacy of Destruction
+    rarities:
   ja:
   - set_number: LEDE-JP003
     set_name: Legacy of Destruction
@@ -54,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1026261
