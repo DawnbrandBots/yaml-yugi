@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 name: Merge all data sources
 
@@ -101,6 +101,12 @@ jobs:
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
       - if: steps.commit.outputs.status > 0
+        run: cp aggregate/* yaml-yugi/data
+      - if: steps.commit.outputs.status > 0
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: yaml-yugi/data
+      - if: steps.commit.outputs.status > 0
         working-directory: aggregate
         name: Commit aggregate
         run: |
@@ -127,3 +133,17 @@ jobs:
         run: |
           yarn ts-node src/load.ts ../aggregate/cards.yaml yu-gi-oh_ocg-tcg
           yarn ts-node src/load.ts ../aggregate/rush.yaml yu-gi-oh_rush
+  deploy-pages:
+    needs: merge
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
