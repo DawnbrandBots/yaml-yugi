@@ -171,6 +171,8 @@ def mixin_text(
             logger.info(f"Merging in Master Duel {pkey}.{ckey}")
             if pkey == "text" or pkey == "pendulum_effect":
                 document[pkey][ckey] = LiteralScalarString(source)
+            else:
+                document[pkey][ckey] = source
 
 
 def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]) -> None:
