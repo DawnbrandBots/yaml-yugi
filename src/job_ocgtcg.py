@@ -213,7 +213,7 @@ def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], maste
 
 
 def load_ko_overrides(ko_file: str) -> Dict[int, str]:
-    with open(ko_file, encoding="utf8") as f:
+    with open(ko_file, encoding="utf-8-sig") as f:
         reader = csv.DictReader(f, delimiter="\t")
         return {
             int(row["kid"]): row["name"]

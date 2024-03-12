@@ -301,7 +301,7 @@ def write(obj: Any, basename: str, yaml: YAML, logger: logging.Logger) -> None:
 def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] | None:
     if not filename:
         return
-    with open(filename, encoding="utf8") as f:
+    with open(filename, encoding="utf-8-sig") as f:
         reader = DictReader(f)
         return {
             int(row[key]): row
