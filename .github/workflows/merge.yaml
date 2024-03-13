@@ -11,6 +11,8 @@ on:
 jobs:
   merge:
     runs-on: ubuntu-latest
+    outputs:
+      status: ${{ steps.commit.outputs.status }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -135,6 +137,7 @@ jobs:
           yarn ts-node src/load.ts ../aggregate/rush.yaml yu-gi-oh_rush
   deploy-pages:
     needs: merge
+    if: needs.merge.outputs.status > 0 && !cancelled()
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
       pages: write      # to deploy to Pages
