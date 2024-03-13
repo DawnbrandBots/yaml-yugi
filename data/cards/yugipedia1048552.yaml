@@ -7,8 +7,8 @@ name:
   fr:
   it:
   pt:
-  ja: 星界樹イルミスティル
-  ja_romaji:
+  ja: <ruby>星<rt>せい</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>樹<rt>じゅ</rt></ruby>イルミスティル
+  ja_romaji: Seikaiju Irumisutiru
   ko:
   ko_rr:
   zh-TW:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3+ Effect Monsters
-    You can only control 1 "Astral World Tree Illumistil". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to that monster's ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
+    You can only control 1 "Astral World Tree Illumistil". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to its ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
   de:
   es:
   fr:
@@ -36,6 +36,7 @@ link_arrows:
 - ⬇
 - ↘
 atk: 2000
+materials: 3+ Effect Monsters
 images:
 - index: 1
   image: AstralWorldTreeIllumistil-INFO-JP-OP.png
