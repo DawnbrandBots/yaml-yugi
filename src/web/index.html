@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!-- SPDX-FileCopyrightText: © 2024 Kevin Lu -->
+<!-- SPDX-Licence-Identifier: AGPL-3.0-or-later -->
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>YAML Yugi SQLite diff generator</title>
+</head>
+<body>
+  <h1>YAML Yugi SQLite diff generator</h1>
+  <p>Download text that changed between <a href="https://github.com/DawnbrandBots/yaml-yugi/commits/master">commits</a> for OCG/TCG cards as a SQLite database</p>
+  <section>
+    <label>
+      Database language:
+      <select id="download-language">
+        <option value="en">English</option>
+        <option value="de">Deutsch</option>
+        <option value="es">Español</option>
+        <option value="fr">Français</option>
+        <option value="it">Italiano</option>
+        <option value="pt">Português</option>
+        <option value="ja">日本語</option>
+        <option value="ko" selected="selected">한국어</option>
+        <option value="zh-TW">繁體中文</option>
+        <option value="zh-CN">简体中文</option>
+      </select>
+    </label>
+  </section>
+  <section>
+    <label>
+      Single commit:
+      <input type="text" id="single" placeholder="abcdef" />
+    </label>
+    <button type="button" id="single-diff">Download</button>
+  </section>
+  <br />
+  <section>
+    <label>
+      Base commit (before any changes):
+      <input type="text" id="base" placeholder="123abc" />
+    </label>
+    &nbsp;
+    <label>
+      Head commit:
+      <input type="text" id="head" placeholder="456def" />
+    </label>
+    <button type="button" id="multi-diff">Download</button>
+  </section>
+  <script type="module">
+    import sqlite3InitModule from "https://cdn.jsdelivr.net/npm/@sqlite.org/sqlite-wasm@3.45.1-build1/+esm";
+    const sqlite3 = await sqlite3InitModule({ locateFile: () => "https://cdn.jsdelivr.net/npm/@sqlite.org/sqlite-wasm@3.45.1-build1/sqlite-wasm/jswasm/sqlite3.wasm" });
+    // https://sqlite.org/wasm/doc/trunk/api-oo1.md
+    const db = new sqlite3.oo1.DB();
+    db.exec(`
+CREATE TABLE "yaml_yugi_text_diff" (
+  "yugipedia_page_id"  INTEGER NOT NULL,
+  "konami_id" INTEGER,
+  "password"  INTEGER,
+  "name"      TEXT,
+  "text"      TEXT,
+  "pendulum" TEXT,
+  PRIMARY KEY("yugipedia_page_id")
+)`);
+
+    async function fetchFiles(files, head) {
+      const changed = [];
+      const promises = [];
+      for (const file of files) {
+        if (file.filename.startsWith("data/cards/") && file.filename.endsWith(".json")) {
+          console.log(file.filename, file.status);
+          // Not using raw_url due to CORS issues. Construct the URL ourselves
+          promises.push(
+            fetch(`https://raw.githubusercontent.com/DawnbrandBots/yaml-yugi/${head}/${file.filename}`)
+              .then(response => response.json())
+              .then(card => changed.push(card))
+          );
+        }
+      }
+      await Promise.all(promises);
+      console.log(changed);
+      const lang = document.getElementById("download-language").value;
+      for (const card of changed) {
+        db.exec(`INSERT INTO "yaml_yugi_text_diff" VALUES (?,?,?,?,?,?);`, {
+          bind: [
+            card.yugipedia_page_id,
+            card.konami_id,
+            card.password,
+            card.name[lang],
+            card.text[lang],
+            card.pendulum_effect?.[lang]
+          ]
+        });
+      }
+      // https://sqlite.org/wasm/doc/trunk/cookbook.md
+      const bytes = sqlite3.capi.sqlite3_js_db_export(db);
+      const blob = new Blob([bytes.buffer], { type: "application/x-sqlite3" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = `diff-${lang}.db3`;
+      a.click();
+      URL.revokeObjectURL(a.href);
+      db.exec(`DELETE FROM yaml_yugi_text_diff;`);
+    }
+
+    document.getElementById("single-diff").addEventListener("click", async function () {
+      const ref = document.getElementById("single").value;
+      // https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28#get-a-commit
+      const response = await fetch(`https://api.github.com/repos/DawnbrandBots/yaml-yugi/commits/${ref}`);
+      if (response.ok) {
+        const commit = await response.json();
+        await fetchFiles(commit.files, ref);
+      }
+    });
+
+    document.getElementById("multi-diff").addEventListener("click", async function() {
+      const base = document.getElementById("base").value;
+      const head = document.getElementById("head").value;
+      // https://docs.github.com/en/rest/commits/commits?apiVersion=2022-11-28#compare-two-commits
+      const response = await fetch(`https://api.github.com/repos/DawnbrandBots/yaml-yugi/compare/${base}...${head}`);
+      if (response.ok) {
+        const compare = await response.json();
+        await fetchFiles(compare.files, head);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -103,11 +103,11 @@ jobs:
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
       - if: steps.commit.outputs.status > 0
-        run: cp aggregate/* yaml-yugi/data
+        run: cp aggregate/* yaml-yugi/src/web
       - if: steps.commit.outputs.status > 0
         uses: actions/upload-pages-artifact@v3
         with:
-          path: yaml-yugi/data
+          path: yaml-yugi/src/web
       - if: steps.commit.outputs.status > 0
         working-directory: aggregate
         name: Commit aggregate
