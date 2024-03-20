@@ -230,7 +230,7 @@ def replace_text(
 
 def replace_with_official(logger: logging.Logger, document: Dict[str, Any], official: Dict[int, Dict[str, str]], lang: str) -> None:
     kid = document["konami_id"]
-    if kid:
+    if kid and official.get(kid):
         logger.info(f"{kid}: replacing {lang} text with official database")
         replace_text("name", lang, "name", document, official[kid], logger)
         replace_text("text", lang, "text", document, official[kid], logger)
