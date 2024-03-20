@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from argparse import ArgumentParser
 import json
@@ -15,7 +15,6 @@ parser.add_argument("--assignments", help="fake password assignment YAML")
 parser.add_argument("--zh-CN", help="yaml-yugi-zh card texts")
 parser.add_argument("--tcg", help="TCG Forbidden & Limited List, Konami ID vector JSON")
 parser.add_argument("--ocg", help="OCG Forbidden & Limited List, English name vector JSON")
-parser.add_argument("--ko", help="yaml-yugi-ko overrides.tsv")
 parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
 parser.add_argument("--ko-override", help="yaml-yugi-ko ocg-override.csv")
 parser.add_argument("--ko-prerelease", help="yaml-yugi-ko ocg-prerelease.csv")
@@ -55,7 +54,6 @@ def main() -> None:
         args.assignments,
         tcg,
         ocg,
-        args.ko,
         args.ko_official,
         args.ko_override,
         args.ko_prerelease,

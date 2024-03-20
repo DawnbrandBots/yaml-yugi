@@ -27,7 +27,6 @@ jobs:
           repository: DawnbrandBots/yaml-yugi-ko
           sparse-checkout: |
             /*.csv
-            /overrides.tsv
           sparse-checkout-cone-mode: false
       - uses: actions/checkout@v4
         with:
@@ -61,7 +60,6 @@ jobs:
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../../tcg.vector.json \
             --ocg ../../../ocg.vector.json \
-            --ko ../../../yaml-yugi-ko/overrides.tsv \
             --ko-official ../../../ocg.csv \
             --ko-override ../../../yaml-yugi-ko/ocg-override.csv \
             --ko-prerelease ../../../yaml-yugi-ko/ocg-prerelease.csv \

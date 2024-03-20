@@ -1,6 +1,5 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-import csv
 import json
 import logging
 from multiprocessing import current_process
@@ -212,53 +211,45 @@ def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], maste
             mixin_text("pendulum_effect", "zh-CN", "sc_pendulum_effect", document, master_duel_card, logger)
 
 
-def load_ko_overrides(ko_file: str) -> Dict[int, str]:
-    with open(ko_file, encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f, delimiter="\t")
-        return {
-            int(row["kid"]): row["name"]
-            for row in reader
-        }
+def replace_text(
+    pkey: str,
+    ckey: str,
+    skey: str,
+    document: Dict[str, Any],
+    official_card: Dict[str, str],
+    logger: logging.Logger
+) -> None:
+    source = official_card[skey]
+    if document[pkey][ckey] != source:
+        logger.info(f"{pkey}.{ckey} does not match: O[{source}] Y[{document[pkey][ckey]}]")
+        if pkey == "text" or pkey == "pendulum_effect":
+            document[pkey][ckey] = LiteralScalarString(source)
+        else:
+            document[pkey][ckey] = source
 
 
-def override_ko(document: Dict[str, Any], ko_overrides: Dict[int, str], ko_official: Dict[int, Dict[str, str]]) -> None:
+def replace_with_official(logger: logging.Logger, document: Dict[str, Any], official: Dict[int, Dict[str, str]], lang: str) -> None:
     kid = document["konami_id"]
     if kid:
-        yugipedia = document["name"]["ko"]
-        override = ko_overrides.get(kid)
-        official = ko_official.get(kid, {})
-        official_name = official.get("name")
-        if override:
-            if override == yugipedia or override == official_name:
-                module_logger.warn(f"OVERRIDE {kid}: {yugipedia} (unnecessary)")
-            else:
-                module_logger.info(f"OVERRIDE {kid}: {yugipedia} -> {override}")
-            document["name"]["ko"] = override
-        elif official_name and (not yugipedia or "<ruby>" not in yugipedia) and yugipedia != official_name:
-            module_logger.info(f"OVERRIDE FROM OFFICIAL {kid}: {yugipedia} -> {official_name}")
-            document["name"]["ko"] = official_name
-
-        yugipedia_text = document["text"]["ko"]
-        yugipedia_pendulum = document.get("pendulum_effect", {}).get("ko")
-        official_text = official.get("text")
-        official_pendulum = official.get("pendulum")
-        if official_text and (not yugipedia_text or "<ruby>" not in yugipedia_text) and yugipedia_text != official_text:
-            module_logger.info(f"OVERRIDE TEXT FROM OFFICIAL {kid}: {official_name}")
-            document["text"]["ko"] = LiteralScalarString(official_text)
-        if official_pendulum and (not yugipedia_pendulum or "<ruby>" not in yugipedia_pendulum) and yugipedia_pendulum != official_pendulum:
-            module_logger.info(f"OVERRIDE PENDULUM FROM OFFICIAL {kid}: {official_name}")
-            document["pendulum_effect"]["ko"] = LiteralScalarString(official_pendulum)
+        logger.info(f"{kid}: replacing {lang} text with official database")
+        replace_text("name", lang, "name", document, official[kid], logger)
+        replace_text("text", lang, "text", document, official[kid], logger)
+        if document.get("pendulum_effect"):
+            replace_text("pendulum_effect", lang, "pendulum", document, official[kid], logger)
 
 
-def neo_override_ko(document: Dict[str, Any], ko_override: Dict[int, Dict[str, str]]) -> None:
+def override_ko(logger: logging.Logger, document: Dict[str, Any], ko_override: Dict[int, Dict[str, str]]) -> None:
     kid = document["konami_id"]
     if kid and ko_override.get(kid):
         module_logger.info(f"APPLYING OVERRIDE FOR {kid}")
         if ko_override[kid]["name"]:
+            logger.info(f"{kid}: overriding name.ko")
             document["name"]["ko"] = replace_interlinear_annotations(ko_override[kid]["name"])
         if ko_override[kid]["text"]:
+            logger.info(f"{kid}: overriding text.ko")
             document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
         if ko_override[kid]["pendulum"]:
+            logger.info(f"{kid}: overriding pendulum_effect.ko")
             document["pendulum_effect"]["ko"] = LiteralScalarString(ko_override[kid]["pendulum"])
 
 
@@ -269,7 +260,6 @@ def job(
     assignment_file: Optional[str] = None,
     tcg_vector: Optional[Dict[str, int]] = None,
     ocg_vector: Optional[Dict[str, int]] = None,
-    ko_file: Optional[str] = None,
     ko_official_csv: Optional[str] = None,
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
@@ -279,7 +269,6 @@ def job(
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
-    ko_overrides = load_ko_overrides(ko_file) if ko_file else None
     ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
@@ -308,14 +297,14 @@ def job(
         document = transform_structure(logger, properties)
         if document:
             annotate_limit_regulation(document, tcg_vector, ocg_vector)
+            if ko_official:
+                replace_with_official(logger, document, ko_official, "ko")
             if master_duel:
                 annotate_master_duel(logger, document, master_duel)
             if assignments:
                 annotate_assignments(document, assignments)
-            if ko_overrides:
-                override_ko(document, ko_overrides, ko_official)
             if ko_override:
-                neo_override_ko(document, ko_override)
+                override_ko(logger, document, ko_override)
             write_output(yaml, logger, document)
             if return_results:
                 results.append(document)
