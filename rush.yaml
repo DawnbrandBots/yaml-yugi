@@ -138056,3 +138056,125 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1050395
+---
+konami_id:
+name:
+  en: Oriental Statue
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: オリエンタルスタチュー
+  ja_romaji: Orientaru Sutachū
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict damage to your opponent equal to [the number of Spell Cards in their Graveyard] x 100. Then, if you inflicted 1000 or more damage by this effect, you can add up to 2 "Oriental Tiger" and/or "Yokai Tiger Orient Strike" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Rock / Effect
+attribute: EARTH
+level: 3
+atk: 1100
+def: 500
+images:
+- index: 1
+  image: OrientalStatue-RDORP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP2-JP075
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1050690
+---
+konami_id:
+name:
+  en: Trombow the Music Princess
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>冠<rt>かん</rt></ruby><ruby>狙<rt>そ</rt></ruby><ruby>楽<rt>がっ</rt></ruby><ruby>姫<rt>き</rt></ruby>トロンボウ
+  ja_romaji: Kanso Gakki Toronbou
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top 2 cards of your Deck, and 1 WIND Attribute Warrior Type monster from your hand, to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Then, if you have a Normal Monster in your Graveyard, you can change the battle position of 1 monster on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Warrior / Effect
+attribute: WIND
+level: 3
+atk: 1000
+def: 1000
+series:
+- Music Princess
+images:
+- index: 1
+  image: TrombowtheMusicPrincess-RDORP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP2-JP071
+    set_name: Over Rush Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1050691
