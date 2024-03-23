@@ -39,7 +39,7 @@ text:
     ● Adicione 1 monstro Máquina de LUZ do seu Deck à sua mão.
     ● Escolha 1 monstro Máquina de LUZ no seu Cemitério; embaralhe o alvo no seu Deck.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地に「サイバー・ドラゴン」が存在する場合、以下の効果から１つを選択して発動できる。このカードの発動時に自分の墓地に「サイバー・ドラゴン」が３体以上存在する場合、両方を選択できる。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地に「サイバー・ドラゴン」が存在する場合、以下の効果から１つを選択して発動できる（このカードの発動時に自分の墓地に「サイバー・ドラゴン」が３体以上存在する場合、両方を選択できる）。
     ●デッキから機械族・光属性モンスター１体を手札に加える。
     ●自分の墓地の機械族・光属性モンスター１体を対象として発動できる。その機械族・光属性モンスターをデッキに戻す。
   ko: |-
@@ -51,7 +51,7 @@ text:
     ●從牌組將１隻機械族・光屬性怪獸加入手牌。
     ●可將我方墓地的１隻機械族・光屬性怪獸做為對象發動。將該機械族・光屬性怪獸送回牌組。
   zh-CN: |-
-    此卡名的卡1回合仅可发动1张。①：在自己墓地有"电子龙"存在的情况下，可从以下效果中选择1个发动。此卡发动时，在自己墓地有3只以上"电子龙"存在的情况下，则两者都可以选择。
+    此卡名的卡1回合仅可发动1张。①：在自己墓地有“电子龙”存在的情况下，可从以下效果中选择1个发动。此卡发动时，在自己墓地有3只以上“电子龙”存在的情况下，则两者都可以选择。
     ●从牌组将1只机械族・光属性怪兽加入手牌。
     ●可以自己墓地的1只机械族・光属性怪兽为对象发动。将该机械族・光属性怪兽放回牌组。
 card_type: Spell
@@ -165,6 +165,12 @@ sets:
     set_name: "Structure Deck: Cyber Style's Successor"
     rarities:
     - Common
+  - set_number: QCCP-JP032
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD26-KR019
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'

@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card estiver no seu Cemitério: você pode Invocar por Invocação-Fusão 1 Monstro de Fusão "D/D/D" do seu Deck Adicional, ao banir as Matérias de Fusão mencionadas nele do seu Cemitério, incluindo este card. Você só pode usar este efeito de "D/D Limo Necro" uma vez por turno.
   ja: |-
-    このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在する場合に発動できる。「ＤＤＤ」融合モンスターカードによって決められた、このカードを含む融合素材モンスターを自分の墓地から除外し、その融合モンスター１体をＥＸデッキから融合召喚する。
+    このカード名の効果は１ターンに１度しか使用できない。①：このカードが墓地に存在する場合に発動できる。このカードを含む自分の墓地のモンスターを融合素材として除外し、「ＤＤＤ」融合モンスター１体を融合召喚する。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 묘지에 존재할 경우에 발동할 수 있다. "DDD(디디디)" 융합 몬스터 카드에 기재된, 이 카드를 포함하는 융합 소재 몬스터를 자신 묘지에서 제외하고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.
   zh-TW: |-
@@ -145,6 +145,12 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  - set_number: QCCP-JP069
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DOCS-KR012
     set_name: Dimension of Chaos

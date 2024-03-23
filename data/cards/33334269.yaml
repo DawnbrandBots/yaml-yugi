@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for enviado para o Cemitério: você pode escolher 1 monstro "D/D" ou card "Pacto Obscuro" no seu Cemitério, exceto "D/D Fantasma"; envie 1 card do seu Deck para o Cemitério com esse nome. Se este card for banido: você pode escolher 1 dos seus monstros "D/D" banidos ou cards "Pacto Obscuro", exceto "D/D Fantasma"; devolva-o para o Cemitério.
   ja: |-
-    ①：このカードが墓地へ送られた場合、自分の墓地の、「ＤＤゴースト」以外の「ＤＤ」モンスター１体または「契約書」カード１枚を対象として発動できる。その同名カード１枚をデッキから墓地へ送る。②：このカードが除外された場合、除外されている自分のカードの中から、「ＤＤゴースト」以外の「ＤＤ」モンスター１体または「契約書」カード１枚を対象として発動できる。そのカードを墓地に戻す。
+    ①：このカードが墓地へ送られた場合、「ＤＤゴースト」を除く自分の墓地の、「ＤＤ」モンスター１体か「契約書」カード１枚を対象として発動できる。その同名カード１枚をデッキから墓地へ送る。②：このカードが除外された場合、「ＤＤゴースト」を除く自分の除外状態の、「ＤＤ」モンスター１体か「契約書」カード１枚を対象として発動できる。そのカードを墓地に戻す。
   ko: |-
     ①: 이 카드가 묘지로 보내졌을 경우, 자신 묘지의, "DD(디디) 고스트" 이외의 "DD(디디)" 몬스터 1장 또는 "계약서" 카드 1장을 대상으로 하고 발동할 수 있다. 그 같은 이름의 카드 1장을 덱에서 묘지로 보낸다. ②: 이 카드가 제외되었을 경우, 제외되어 있는 자신의 카드 중에서, "DD(디디) 고스트" 이외의 "DD(디디)" 몬스터 1장 또는 "계약서" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 묘지로 되돌린다.
   zh-TW: |-
@@ -76,6 +76,12 @@ sets:
     set_name: Maximum Crisis
     rarities:
     - Common
+  - set_number: QCCP-JP071
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MACR-KR015
     set_name: Maximum Crisis

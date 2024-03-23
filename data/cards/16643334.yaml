@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Xyz: você pode Invocar por Invocação-Especial 1 monstro "Fóton" da sua mão. Enquanto este monstro Invocado por Invocação-Xyz estiver no campo, seu oponente não pode escolher monstros que você controla com 2000 ou mais de ATK como alvo de efeitos de card e, além disso, eles não podem ser destruídos pelos efeitos de card do seu oponente. Uma vez por turno do oponente (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 dos seus "Dragão de Fóton de Olhos das Galáxias" que estiver banido ou no seu Cemitério; Invoque-o por Invocação-Especial.
   ja: |-
     レベル４モンスター×２
-    ①：このカードがＸ召喚に成功した場合に発動できる。手札から「フォトン」モンスター１体を特殊召喚する。②：Ｘ召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドの攻撃力２０００以上のモンスターは相手の効果の対象にならず、相手の効果では破壊されない。③：相手ターンに１度、このカードのＸ素材を１つ取り除き、自分の墓地のモンスター及び除外されている自分のモンスターの中から、「銀河眼の光子竜」１体を対象として発動できる。そのモンスターを特殊召喚する。
+    ①：このカードがＸ召喚した場合に発動できる。手札から「フォトン」モンスター１体を特殊召喚する。②：Ｘ召喚したこのカードがモンスターゾーンに存在する限り、自分フィールドの攻撃力２０００以上のモンスターは相手の効果では破壊されず、相手はそれらを効果の対象にできない。③：相手ターンに１度、このカードのＸ素材を１つ取り除き、自分の墓地・除外状態の「銀河眼の光子竜」１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     레벨 4 몬스터 × 2
     ①: 이 카드가 엑시즈 소환에 성공했을 경우에 발동할 수 있다. 패에서 "포톤" 몬스터 1장을 특수 소환한다. ②: 엑시즈 소환한 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 공격력 2000 이상의 몬스터는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ③: 상대 턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 자신 묘지의 몬스터 및 제외되어 있는 자신 몬스터 중에서, "갤럭시아이즈 포톤 드래곤" 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다.
@@ -108,6 +108,12 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Ultra Rare
+  - set_number: QCCP-JP061
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DP20-KR034
     set_name: 'Duelist Pack: Legend Duelist 3'

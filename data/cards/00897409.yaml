@@ -45,7 +45,7 @@ text:
     ● Invoque por Invocação-Especial no seu campo 1 monstro "Número" de lá.
     Você só pode usar este efeito de "Centena das Galáxias" uma vez por turno. Você só pode ativar 1 "Centena das Galáxias" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「フォトン」カードまたは「ギャラクシー」カード１枚を墓地へ送る事ができる。②：自分フィールドに「銀河眼の光子竜」が特殊召喚された場合に発動できる。相手のＥＸデッキを確認する。その後、以下の効果から１つを選んで適用できる。
+    このカード名のカードは１ターンに１枚しか発動できず、このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「フォトン」カードか「ギャラクシー」カード１枚を墓地へ送る事ができる。②：自分フィールドに「銀河眼の光子竜」が特殊召喚された場合に発動できる。相手のＥＸデッキを確認する。その後、以下の効果から１つを適用できる。
     ●その内のモンスター１体を除外する。
     ●その内の「Ｎｏ．」モンスター１体を自分フィールドに特殊召喚する。
   ko: |-
@@ -118,6 +118,12 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Rare
+  - set_number: QCCP-JP066
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHHY-KR051
     set_name: Photon Hypernova

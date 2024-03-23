@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card "D/D" ou "Pacto Obscuro" do seu Deck para o Cemitério, exceto "D/D Copernicus, o Erudito". Você só pode usar este efeito de "D/D Copernicus, o Erudito" uma vez por turno.
   ja: |-
-    「ＤＤ魔導賢者コペルニクス」のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ＤＤ魔導賢者コペルニクス」以外の「ＤＤ」カードまたは「契約書」カード１枚を墓地へ送る。
+    このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。「ＤＤ魔導賢者コペルニクス」を除く、「ＤＤ」カードか「契約書」カード１枚をデッキから墓地へ送る。
   ko: |-
     "DD(디디) 마도현자 코페르니쿠스"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "DD(디디) 마도현자 코페르니쿠스" 이외의 "DD(디디)" 카드 또는 "계약서" 카드 1장을 묘지로 보낸다.
   zh-TW: |-
@@ -55,7 +55,7 @@ pendulum_effect:
   pt: |-
     Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros "D/D". Este efeito não pode ser negado. Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de Magia ativado que causaria dano a você e, depois, destrua este card.
   ja: |-
-    ①：自分は「ＤＤ」モンスターしかＰ召喚できない。この効果は無効化されない。②：このカードがＰゾーンに存在する限り１度だけ、自分にダメージを与える魔法カードの効果が発動した場合、その効果を無効にできる。その後、このカードを破壊する。
+    ①：自分は「ＤＤ」モンスターしかＰ召喚できない。この効果は無効化されない。②：このカードがＰゾーンに存在する限り１度だけ、自分にダメージを与える魔法カードの効果の処理時に、その効果を無効にできる。その後、このカードを破壊する。
   ko: |-
     ①: 자신은 "DD(디디)" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 이 카드가 펜듈럼 존에 존재하는 한 1번만, 자신에게 데미지를 주는 마법 카드의 효과가 발동했을 경우, 그 효과를 무효로 할 수 있다. 그 후, 이 카드를 파괴한다.
   zh-TW: |-
@@ -119,6 +119,12 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Normal Parallel Rare
+  - set_number: QCCP-JP074
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD30-KR003
     set_name: 'Structure Deck: Pendulum Domination'
