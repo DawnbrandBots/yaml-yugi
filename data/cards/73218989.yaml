@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Sincro, ou Invocado por Invocação-Especial do seu Deck Adicional ao banir 1 Monstro Sincro Regulador e 1 "Dragão de Asas Negras" do seu campo com a face para cima e/ou Cemitério. Sempre que seu oponente ativar um efeito de monstro, coloque 1 Marcador de Pena Negra neste card quando esse efeito resolver e, se isso acontecer, cause 700 de dano ao seu oponente. Durante o turno do seu oponente (Efeito Rápido): você pode oferecer como Tributo este card com 4 ou mais Marcadores de Pena Negra nele; destrua todos os cards no campo.
   ja: |-
     Ｓモンスターのチューナー＋チューナー以外のモンスター１体以上
-    このカードはＳ召喚及び以下の方法でのみ特殊召喚できる。●自分のフィールド・墓地から、Ｓモンスターのチューナー１体と「ブラックフェザー・ドラゴン」１体を除外した場合にＥＸデッキから特殊召喚できる。①：相手がモンスターの効果を発動する度に、このカードに黒羽カウンターを１つ置き、相手に７００ダメージを与える。②：相手ターンに、黒羽カウンターが４つ以上置かれているこのカードをリリースして発動できる。フィールドのカードを全て破壊する。
+    このカードはＳ召喚及び以下の方法でのみ特殊召喚できる。●自分のフィールド（表側表示）・墓地から、Ｓモンスターのチューナー１体と「ブラックフェザー・ドラゴン」１体を除外した場合にＥＸデッキから特殊召喚できる。①：相手がモンスターの効果を発動する度に、このカードに黒羽カウンターを１つ置き、相手に７００ダメージを与える。②：相手ターンに、黒羽カウンターが４つ以上置かれているこのカードをリリースして発動できる。フィールドのカードを全て破壊する。
   ko: |-
     싱크로 몬스터의 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드는 싱크로 소환 및 이하의 방법으로만 특수 소환할 수 있다.
@@ -115,6 +115,12 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  - set_number: QCCP-JP141
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DABL-KR042
     set_name: Darkwing Blast

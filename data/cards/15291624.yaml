@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão, ou por Invocação-Especial durante o turno em que um efeito de um monstro Trovão foi ativado na mão, ao oferecer como Tributo 1 Monstro de Efeito Trovão que não seja de Fusão (e nesse caso, você não usa "Polimerização"). Cards não podem ser adicionados do Deck Principal à mão do seu oponente exceto ao serem comprados. Se este card seria destruído em batalha ou por um efeito de card, em vez disso, você pode banir 1 monstro Trovão do seu Cemitério.
   ja: |-
     「サンダー・ドラゴン」＋雷族モンスター
-    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●雷族モンスターの効果が手札で発動したターン、融合モンスター以外の自分フィールドの雷族の効果モンスター１体をリリースした場合にＥＸデッキから特殊召喚できる（「融合」は必要としない）。①：このカードがモンスターゾーンに存在する限り、相手はドロー以外の方法でデッキからカードを手札に加える事ができない。②：このカードが戦闘・効果で破壊される場合、代わりに自分の墓地の雷族モンスター１体を除外できる。
+    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●雷族モンスターの効果が手札で発動したターン、融合モンスター以外の自分フィールドの雷族の効果モンスター１体をリリースした場合にＥＸデッキから特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、相手はドロー以外の方法でデッキからカードを手札に加える事ができない。②：フィールドのこのカードが戦闘・効果で破壊される場合、代わりに自分の墓地の雷族モンスター１体を除外できる。
   ko: |-
     "썬더 드래곤" ＋ 번개족 몬스터
     이 카드는 융합 소환 및 이하의 방법으로만 특수 소환할 수 있다.
@@ -45,8 +45,8 @@ text:
     ●雷族怪獸的效果於手牌發動的回合，可在解放我方場上的１隻融合怪獸以外的雷族的效果怪獸的狀況下，從額外牌組特殊召喚（不需要「融合」）。
     ①：只要此卡存在於怪獸區，對方就無法以抽牌以外的方法從牌組將卡加入手牌。②：在此卡因戰鬥・效果被破壞的狀況下，可將我方墓地的１隻雷族怪獸除外作為替代。
   zh-CN: |-
-    "雷龙"＋雷族怪兽
-    此卡仅可用融合召唤及以下方法特殊召唤。●有雷族怪兽的效果在手牌发动过的回合，解放1只融合怪兽以外的自己场上的雷族效果怪兽的情况下可从额外牌组特殊召唤（无需"融合"）。①：只要此卡存在于怪兽区域，对手不可用抽牌以外的方法从牌组将卡加入手牌。②：此卡将被战斗・效果破坏的情况下，作为代替可将自己墓地的1只雷族怪兽除外。
+    “雷龙”＋雷族怪兽
+    此卡仅可用融合召唤及以下方法特殊召唤。●有雷族怪兽的效果在手牌发动过的回合，解放1只融合怪兽以外的自己场上的雷族效果怪兽的情况下可从额外牌组特殊召唤（无需“融合”）。①：只要此卡存在于怪兽区域，对手不可用抽牌以外的方法从牌组将卡加入手牌。②：此卡将被战斗・效果破坏的情况下，作为代替可将自己墓地的1只雷族怪兽除外。
 card_type: Monster
 monster_type_line: Thunder / Fusion / Effect
 attribute: DARK
@@ -132,6 +132,13 @@ sets:
     - Super Rare
     - Secret Rare
     - 20th Secret Rare
+  - set_number: QCCP-JP173
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SOFU-KR036
     set_name: Soul Fusion

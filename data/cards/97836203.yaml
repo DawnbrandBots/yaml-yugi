@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Sincro e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Uma vez por turno, durante o turno de qualquer duelista, quando um ou mais monstros seriam Invocados: você pode negar a Invocação e, se isso acontecer, destrua esse monstro. Este card deve estar com a face para cima no campo para que você possa ativar e resolver este efeito. Quando este card for enviado do campo para o Cemitério: você pode escolher 1 monstro "T.G." no seu Cemitério; Invoque o alvo por Invocação-Especial.
   ja: |-
     Ｓモンスターのチューナー＋チューナー以外のＳモンスター２体以上
-    このカードはＳ召喚でしか特殊召喚できない。①：１ターンに１度、自分または相手がモンスターを召喚・反転召喚・特殊召喚する際に発動できる。このカードがフィールドに表側表示で存在する場合、それを無効にし、そのモンスターを破壊する。②：このカードがフィールドから墓地へ送られた時、自分の墓地の「ＴＧ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+    このカードはＳ召喚でしか特殊召喚できない。①：１ターンに１度、自分か相手がモンスターを召喚・反転召喚・特殊召喚する際に発動できる。このカードがフィールドに表側表示で存在する場合、それを無効にし、そのモンスターを破壊する。②：このカードがフィールドから墓地へ送られた時、自分の墓地の「ＴＧ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     싱크로 몬스터의 튜너 ＋ 튜너 이외의 싱크로 몬스터 2장 이상
     이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다. ①: 1턴에 1번, 자신이나 상대가 몬스터를 일반 소환 / 반전 소환 / 특수 소환할 시기에 발동할 수 있다. 이 카드가 필드에 앞면 표시로 존재할 경우, 그것을 무효로 하고, 그 몬스터를 파괴한다. ②: 이 카드가 필드에서 묘지로 보내졌을 때, 자신 묘지의 "TG(테크지너스)" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
@@ -43,7 +43,7 @@ text:
     此卡僅限以同步召喚進行特殊召喚。①：１回合１次，可在我方或對方召喚・反轉召喚・特殊召喚怪獸時發動。在此卡以正面表示存在於場上的狀況下，將其變為無效，破壞該怪獸。②：此卡從場上被送至墓地時，可將我方墓地的１隻「T.G.」怪獸做為對象發動。特殊召喚該怪獸。
   zh-CN: |-
     同步怪兽的协调＋2只以上协调以外的同步怪兽
-    此卡只可以同步召唤方式特殊召唤。①：1回合1次，自己或对手召唤・反转召唤・特殊召唤怪兽之际可以发动。此卡在场上以表侧表示存在的情况下，将其无效，将该怪兽破坏。②：此卡从场上被送至墓地时，以自己墓地的1只"T.G."怪兽为对象可以发动。将该怪兽特殊召唤。
+    此卡只可以同步召唤方式特殊召唤。①：1回合1次，自己或对手召唤・反转召唤・特殊召唤怪兽之际可以发动。此卡在场上以表侧表示存在的情况下，将其无效，将该怪兽破坏。②：此卡从场上被送至墓地时，以自己墓地的1只“T.G.”怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Synchro / Effect
 attribute: EARTH
@@ -112,6 +112,13 @@ sets:
     set_name: Tournament Pack 2018 Vol.4
     rarities:
     - Common
+  - set_number: QCCP-JP044
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXVC-KR043
     set_name: Extreme Victory

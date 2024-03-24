@@ -27,7 +27,7 @@ text:
   pt: |-
     (Efeito Rápido): você pode escolher 1 card com a face para cima que você controla; destrua-o e, se isso acontecer, Invoque por Invocação-Especial 1 monstro "Foguette" do seu Deck, exceto "Rastreador Foguette" e, além disso, pelo resto deste turno, você não pode Invocar monstros por Invocação-Especial do Deck Adicional, exceto monstros de TREVAS. Você só pode usar este efeito de "Rastreador Foguette" uma vez por turno.
   ja: |-
-    このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊し、デッキから「ヴァレット・トレーサー」以外の「ヴァレット」モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかＥＸデッキから特殊召喚できない。この効果は相手ターンでも発動できる。
+    このカード名の効果は１ターンに１度しか使用できない。①：自分・相手ターンに、自分フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊し、デッキから「ヴァレット・トレーサー」以外の「ヴァレット」モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかＥＸデッキから特殊召喚できない。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 덱에서 "바렛 트레이서" 이외의 "바렛" 몬스터 1장을 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW: |-
@@ -101,6 +101,13 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  - set_number: QCCP-JP094
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD36-KR002
     set_name: 'Structure Deck: Revolver'

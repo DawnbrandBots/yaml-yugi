@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão, ou por Invocação-Especial ao banir 1 monstro Trovão da sua mão e 1 Monstro de Fusão Trovão que você controla, exceto "Titã Dragão do Trovão" (e nesse caso, você não usa "Polimerização"). Quando o efeito de um monstro Trovão for ativado na mão, mesmo durante a Etapa de Dano (Efeito Rápido): você pode destruir 1 card no campo. Se este card seria destruído por um efeito de card, em vez disso, você pode banir 2 cards do seu Cemitério.
   ja: |-
     「サンダー・ドラゴン」モンスター×３
-    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●手札の雷族モンスター１体と、「雷神龍－サンダー・ドラゴン」以外の自分フィールドの雷族の融合モンスター１体を除外した場合にＥＸデッキから特殊召喚できる（「融合」は必要としない）。①：雷族モンスターの効果が手札で発動した時に発動できる（ダメージステップでも発動可能）。フィールドのカード１枚を選んで破壊する。②：このカードが効果で破壊される場合、代わりに自分の墓地のカード２枚を除外できる。
+    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●手札の雷族モンスター１体と、「雷神龍－サンダー・ドラゴン」以外の自分フィールドの雷族の融合モンスター１体を除外した場合にＥＸデッキから特殊召喚できる。①：雷族モンスターの効果が手札で発動した時に発動できる（ダメージステップでも発動可能）。フィールドのカード１枚を破壊する。②：フィールドのこのカードが効果で破壊される場合、代わりに自分の墓地のカード２枚を除外できる。
   ko: |-
     "썬더 드래곤" 몬스터 × 3
     이 카드는 융합 소환 및 이하의 방법으로만 특수 소환할 수 있다.
@@ -113,6 +113,13 @@ sets:
     - Secret Rare
     - 20th Secret Rare
     - Ultimate Rare
+  - set_number: QCCP-JP174
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SOFU-KR037
     set_name: Soul Fusion

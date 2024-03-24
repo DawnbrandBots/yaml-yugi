@@ -34,7 +34,7 @@ text:
     Durante o turno de qualquer duelista: você pode escolher 1 Card de Magia/Armadilha com a face para cima no campo; até a próxima Fase de Apoio, o alvo tem seus efeitos negados. Você só pode usar este efeito de "D/D/D Siegfried, o Rei Amaldiçoado" uma vez por turno. Se este card for destruído em batalha ou por um efeito de card e enviado para o Cemitério: ganhe 1000 PV para cada card "Pacto Obscuro" que você controla.
   ja: |-
     チューナー＋チューナー以外の「ＤＤ」モンスター１体以上
-    「ＤＤＤ呪血王サイフリート」の①の効果は１ターンに１度しか使用できない。①：フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。そのカードの効果は次のスタンバイフェイズまで無効化される。この効果は相手ターンでも発動できる。②：このカードが戦闘・効果で破壊され墓地へ送られた場合に発動する。自分は自分フィールドの「契約書」カードの数×１０００ＬＰ回復する。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：自分・相手ターンに、フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。そのカードの効果を次のスタンバイフェイズまで無効にする。②：このカードが戦闘・効果で破壊され墓地へ送られた場合に発動する。自分は自分フィールドの「契約書」カードの数×１０００ＬＰ回復する。
   ko: |-
     튜너 ＋ 튜너 이외의 "DD(디디)" 몬스터 1장 이상
     "DDD(디디디) 주혈왕 사이프리트"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 앞면 표시의 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과는 다음 스탠바이 페이즈까지 무효화된다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 전투 / 효과로 파괴되어 묘지로 보내졌을 경우에 발동한다. 자신은 자신 필드의 "계약서" 카드의 수 × 1000 LP 회복한다.
@@ -87,6 +87,13 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Super Rare
+  - set_number: QCCP-JP082
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD30-KR042
     set_name: 'Structure Deck: Pendulum Domination'
