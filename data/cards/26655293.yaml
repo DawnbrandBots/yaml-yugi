@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um efeito de Monstro Link for ativado que escolha como alvo este card com a face para cima no campo (Efeito Rápido): você pode destruir este card e, depois, envie para o Cemitério 1 monstro no campo. Durante a Fase Final, se este card estiver no Cemitério porque foi destruído no campo, em batalha ou por um efeito de card e enviado para lá neste turno: você pode Invocar por Invocação-Especial 1 monstro "Foguette" do seu Deck, exceto "Dragão Magnafoguette". Você só pode usar cada efeito de "Dragão Magnafoguette" uma vez por turno.
   ja: |-
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのこのカードを対象とするリンクモンスターの効果が発動した時に発動できる。このカードを破壊する。その後、フィールドのモンスター１体を選んで墓地へ送る。②：フィールドのこのカードが戦闘・効果で破壊され墓地へ送られたターンのエンドフェイズに発動できる。デッキから「マグナヴァレット・ドラゴン」以外の「ヴァレット」モンスター１体を特殊召喚する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのこのカードを対象とするＬモンスターの効果が発動した時に発動できる。このカードを破壊する。その後、フィールドのモンスター１体を墓地へ送る。②：フィールドのこのカードが戦闘・効果で破壊され墓地へ送られたターンのエンドフェイズに発動できる。デッキから「マグナヴァレット・ドラゴン」以外の「ヴァレット」モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 필드의 이 카드를 대상으로 하는 링크 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드를 파괴한다. 그 후, 필드의 몬스터 1장을 고르고 묘지로 보낸다. ②: 필드의 이 카드가 전투 / 효과로 파괴되어 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 "매그너바렛 드래곤" 이외의 "바렛" 몬스터 1장을 특수 소환한다.
   zh-TW: |-
@@ -124,6 +124,12 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  - set_number: QCCP-JP091
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CIBR-KR011
     set_name: Circuit Break

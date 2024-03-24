@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal: você pode escolher 1 monstro Dragão de TREVAS de Nível 5 ou mais no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa, negue seus efeitos, destrua-o durante a Fase Final e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto monstros de TREVAS.
   ja: |-
-    ①：このカードが召喚に成功した時、自分の墓地のレベル５以上のドラゴン族・闇属性モンスター１体を対象として発動できる。そのモンスターを効果を無効にして守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかＥＸデッキから特殊召喚できない。
+    ①：このカードが召喚した時、自分の墓地のレベル５以上のドラゴン族・闇属性モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、エンドフェイズに破壊される。この効果の発動後、ターン終了時まで自分は闇属性モンスターしかＥＸデッキから特殊召喚できない。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 때, 자신 묘지의 레벨 5 이상의 드래곤족 / 어둠 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 효과를 무효로 하고 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 파괴된다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.
   zh-TW: |-
@@ -122,6 +122,12 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  - set_number: QCCP-JP092
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SAST-KR007
     set_name: Savage Strike

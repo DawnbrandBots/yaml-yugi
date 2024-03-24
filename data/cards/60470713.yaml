@@ -27,7 +27,7 @@ text:
   pt: |-
     Se um ou mais outros cards "Magidoce" que você controla ou no seu Cemitério forem adicionados à sua mão ou embaralhados no seu Deck Principal por um efeito de card: adicione 1 monstro "Magidoce" do seu Deck à sua mão. Se você controlar um monstro Fada "Magidoce", você pode Invocar esse monstro do seu Deck por Invocação-Especial em Posição de Ataque em vez de adicioná-lo à sua mão. Você só pode usar o efeito de "Bilhete Magidoce" uma vez por turno.
   ja: |-
-    このカード名の①の効果は１ターンに１度しか使用できない。①：このカード以外の自分のフィールド・墓地の「マドルチェ」カードが効果で自分の手札・デッキに戻った場合に発動する。デッキから「マドルチェ」モンスター１体を手札に加える。自分フィールドに天使族の「マドルチェ」モンスターが存在する場合、手札に加えず攻撃表示で特殊召喚する事もできる。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する状態で、自分のフィールド（表側表示）・墓地の「マドルチェ」カードが効果で自分の手札・デッキに戻った場合に発動する。デッキから「マドルチェ」モンスター１体を手札に加える。自分フィールドに天使族の「マドルチェ」モンスターが存在する場合、手札に加えず攻撃表示で特殊召喚する事もできる。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 필드 / 묘지의 "마돌체" 카드가 효과로 자신의 패 / 덱으로 되돌아갔을 경우에 발동한다. 덱에서 "마돌체" 몬스터 1장을 패에 넣는다. 자신 필드에 천사족 "마돌체" 몬스터가 존재할 경우, 패에 넣지 않고 앞면 공격 표시로 특수 소환할 수도 있다.
   zh-TW: |-
@@ -76,6 +76,12 @@ sets:
     set_name: Tournament Pack 2020 Vol.1
     rarities:
     - Common
+  - set_number: QCCP-JP156
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ABYR-KR061
     set_name: Abyss Rising

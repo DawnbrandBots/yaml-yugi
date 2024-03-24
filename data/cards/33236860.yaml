@@ -33,8 +33,8 @@ text:
     1 Regulador "Asanegra" + 2 ou mais monstros não-Reguladores
     Quando este card for Invocado por Invocação-Sincro: você pode escolher até 2 monstros com a face para cima no campo com DEF menor que o ATK deste card; destrua os alvos. Você não pode conduzir sua Fase de Batalha no turno em que ativar este efeito. Durante cada um dos turnos do seu oponente, o primeiro monstro "Asanegra" que você controla que seria destruído em batalha, não é destruído.
   ja: |-
-    「ＢＦ」と名のついたチューナー＋チューナー以外のモンスター２体以上
-    このカードがシンクロ召喚に成功した時、このカードの攻撃力よりも低い守備力を持つ、フィールド上のモンスターを２体まで選択して破壊できる。この効果を発動するターン、自分はバトルフェイズを行えない。また、相手のターンに１度だけ、このカードがフィールド上に表側表示で存在する限り、自分フィールド上の「ＢＦ」と名のついたモンスターは戦闘では破壊されない。
+    「ＢＦ」チューナー＋チューナー以外のモンスター２体以上
+    ①：このカードがＳ召喚した時、フィールドの表側表示モンスターを２体まで対象として発動できる（この効果を発動するターン、自分はバトルフェイズを行えない）。このカードの攻撃力より低い守備力を持つ対象のモンスターを破壊する。②：このカードがモンスターゾーンに存在する限り、相手ターンに１度だけ、自分の「ＢＦ」モンスターは戦闘では破壊されない。
   ko: |-
     "BF(블랙 페더)" 튜너 ＋ 튜너 이외의 몬스터 2장 이상
     ①: 이 카드를 싱크로 소환했을 때, 이 카드의 공격력보다 낮은 수비력을 가지는 필드의 몬스터를 2장까지 대상으로 하고 발동할 수 있다(이 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다). 이 카드의 공격력보다 낮은 수비력을 가지는 그 몬스터를 파괴한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대 턴에 1번만, 자신의 "BF(블랙 페더)" 몬스터는 전투로는 파괴되지 않는다.
@@ -132,6 +132,12 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Rare
+  - set_number: QCCP-JP136
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SOVR-KR041
     set_name: Stardust Overdrive

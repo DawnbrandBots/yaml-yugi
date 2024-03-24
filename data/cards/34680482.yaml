@@ -27,7 +27,7 @@ text:
   pt: |-
     Você pode oferecer este card como Tributo; Invoque por Invocação-Especial 1 monstro "Magidoce" do seu Deck e, se isso acontecer, ele não pode ser destruído em batalha, mas embaralhe-o no Deck durante a Fase Final do seu próximo turno. Você só pode usar este efeito de "Magidoce Angeleia" uma vez por turno. Se este card em sua posse for destruído por um card do seu oponente e enviado para o seu Cemitério: embaralhe este card no Deck.
   ja: |-
-    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードをリリースして発動できる。デッキから「マドルチェ」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターは戦闘では破壊されず、次の自分ターンのエンドフェイズに持ち主のデッキに戻る。②：このカードが相手によって破壊され墓地へ送られた場合に発動する。このカードをデッキに戻す。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードをリリースして発動できる。デッキから「マドルチェ」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターは戦闘では破壊されず、次の自分ターンのエンドフェイズにデッキに戻る。②：このカードが相手によって破壊され墓地へ送られた場合に発動する。このカードをデッキに戻す。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 릴리스하고 발동할 수 있다. 덱에서 "마돌체" 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터는 전투로는 파괴되지 않으며, 다음 자신 턴의 엔드 페이즈에 주인의 덱으로 되돌아간다. ②: 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우에 발동한다. 이 카드를 덱으로 되돌린다.
   zh-TW: |-
@@ -120,6 +120,12 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  - set_number: QCCP-JP149
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PRIO-KR028
     set_name: Primal Origin

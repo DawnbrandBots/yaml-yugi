@@ -27,7 +27,7 @@ text:
   pt: |-
     Durante o turno de qualquer duelista, você pode ativar Cards de Magia/Armadilha "Mágico(a) Mosquete" da sua mão. Se um Card de Magia/Armadilha for ativado na coluna deste card: você pode descartar 1 card "Mágico(a) Mosquete"; compre 2 cards. Você só pode usar este efeito de "Mágico Mosqueteiro Kidbrave" uma vez por turno.
   ja: |-
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分・相手ターンに自分は「魔弾」魔法・罠カードを手札から発動できる。②：このカードと同じ縦列で魔法・罠カードが発動した場合、手札から「魔弾」カード１枚を捨てて発動できる。自分はデッキから２枚ドローする。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分・相手ターンに自分は「魔弾」魔法・罠カードを手札から発動できる。②：このカードと同じ縦列で魔法・罠カードが発動した場合、手札から「魔弾」カード１枚を捨てて発動できる。自分は２枚ドローする。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신 / 상대 턴에 자신은 "마탄환" 마법 / 함정 카드를 패에서 발동할 수 있다. ②: 이 카드와 같은 세로열에서 마법 / 함정 카드가 발동했을 경우, 패에서 "마탄환" 카드 1장을 버리고 발동할 수 있다. 자신은 덱에서 2장 드로우한다.
   zh-TW: |-
@@ -44,7 +44,7 @@ series:
 - Magical Musket
 images:
 - index: 1
-  image: MagicalMusketeerKidbrave-20CP-JP-SR.png
+  image: MagicalMusketeerKidbrave-QCCP-JP-SR.png
   illustration: MagicalMusketeerKidbrave-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: MagicalMusketeerKidbrave-SPWA-EN-SR-1E.png
@@ -85,6 +85,12 @@ sets:
     set_name: 20th Secret Rare Challenge Pack
     rarities:
     - Super Rare
+  - set_number: QCCP-JP160
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBSW-KR018
     set_name: 'Deck Build Pack: Spirit Warriors'

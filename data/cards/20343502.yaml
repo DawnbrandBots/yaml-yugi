@@ -34,7 +34,7 @@ text:
     (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolher 1 monstro "Magidoce" no campo; neste turno, esse monstro com a face para cima não é afetado por efeitos de monstro, exceto seu próprio. Se um card "Magidoce" for enviado para o seu Cemitério enquanto este card estiver no campo (exceto durante a Etapa de Dano): você pode embaralhar até 2 cards dos Cemitérios nos Decks. Você só pode usar cada efeito de "Professora Magidoce Oculuflê" uma vez por turno.
   ja: |-
     レベル４「マドルチェ」モンスター×２
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードのＸ素材を１つ取り除き、フィールドの「マドルチェ」モンスター１体を対象として発動できる。このターン、その表側表示モンスターは自身以外のモンスターの効果を受けない。この効果は相手ターンでも発動できる。②：このカードがモンスターゾーンに存在し、「マドルチェ」カードが自分の墓地へ送られた場合に発動できる。お互いの墓地のカードを合計２枚まで選び、持ち主のデッキに戻す。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、このカードのＸ素材を１つ取り除き、フィールドの「マドルチェ」モンスター１体を対象として発動できる。このターン、その表側表示モンスターは自身以外のモンスターの効果を受けない。②：このカードがモンスターゾーンに存在する状態で、「マドルチェ」カードが自分の墓地へ送られた場合に発動できる。自分・相手の墓地のカードを合計２枚までデッキに戻す。
   ko: |-
     레벨 4 "마돌체" 몬스터 × 2
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 "마돌체" 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 앞면 표시 몬스터는 자신 이외의 몬스터 효과를 받지 않는다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드가 몬스터 존에 존재하고, "마돌체" 카드가 자신 묘지로 보내졌을 경우에 발동할 수 있다. 서로 묘지의 카드를 합계 2장까지 골라, 주인의 덱으로 되돌린다.
@@ -108,6 +108,12 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Rare
+  - set_number: QCCP-JP153
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DANE-KR039
     set_name: Dark Neostorm

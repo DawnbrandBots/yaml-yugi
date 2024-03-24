@@ -34,7 +34,7 @@ text:
     Enquanto este card apontar para um monstro "Magidoce", Magias/Armadilhas "Magidoce" que você controla não podem ser destruídas por efeitos de card e, além disso, nenhum duelista pode escolhê-las como alvo de efeitos de card. Se este card no campo seria destruído em batalha ou por um efeito de card, em vez disso, você pode embaralhar 1 monstro "Magidoce" do seu Cemitério no Deck.
   ja: |-
     「マドルチェ」モンスター２体
-    ①：このカードのリンク先に「マドルチェ」モンスターが存在する限り、自分フィールドの「マドルチェ」魔法・罠カードは効果の対象にならず、効果では破壊されない。②：フィールドのこのカードが戦闘・効果で破壊される場合、代わりに自分の墓地の「マドルチェ」モンスター１体をデッキに戻す事ができる。
+    ①：このカードのリンク先に「マドルチェ」モンスターが存在する限り、自分フィールドの「マドルチェ」魔法・罠カードは効果では破壊されず、お互いはそれらのカードを効果の対象にできない。②：フィールドのこのカードが戦闘・効果で破壊される場合、代わりに自分の墓地の「マドルチェ」モンスター１体をデッキに戻す事ができる。
   ko: |-
     "마돌체" 몬스터 2장
     ①: 이 카드의 링크 앞에 "마돌체" 몬스터가 존재하는 한, 자신 필드의 "마돌체" 마법 / 함정 카드는 효과의 대상이 되지 않으며, 효과로는 파괴되지 않는다. ②: 필드의 이 카드가 전투 / 효과로 파괴될 경우, 대신에 자신 묘지의 "마돌체" 몬스터 1장을 덱으로 되돌릴 수 있다.
@@ -129,6 +129,12 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Super Rare
+  - set_number: QCCP-JP154
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LVP1-KR041
     set_name: LINK VRAINS Pack

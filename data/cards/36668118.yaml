@@ -51,7 +51,7 @@ text:
     ● Se seu oponente controlar mais monstros que você: Invoque por Invocação-Especial em Posição de Defesa monstros "Foguette" com nomes diferentes do seu Cemitério, até a diferença.
     Você só pode usar este efeito de "Lançar Registro de Inicialização" uma vez por turno.
   ja: |-
-    このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの「ヴァレット」モンスターの攻撃力・守備力は３００アップする。②：自分メインフェイズに以下の効果から１つを選択して発動できる。●手札から「ヴァレット」モンスターを２体まで守備表示で特殊召喚する（同名カードは１枚まで）。●相手フィールドのモンスターの数が自分フィールドのモンスターよりも多い場合、その差の数まで自分の墓地から「ヴァレット」モンスターを選んで守備表示で特殊召喚する（同名カードは１枚まで）。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの「ヴァレット」モンスターの攻撃力・守備力は３００アップする。②：以下の効果から１つを選択して発動できる。●手札から「ヴァレット」モンスターを２体まで守備表示で特殊召喚する（同名カードは１枚まで）。●相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、その差の数まで自分の墓地から「ヴァレット」モンスターを守備表示で特殊召喚する（同名カードは１枚まで）。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 필드의 "바렛" 몬스터의 공격력 / 수비력은 300 올린다. ②: 자신 메인 페이즈에 이하의 효과에서 1개를 선택하고 발동할 수 있다.
     ●패에서 "바렛" 몬스터를 2장까지 수비 표시로 특수 소환한다(같은 이름의 카드는 1장까지).
@@ -61,13 +61,12 @@ text:
     ●從手牌以守備表示特殊召喚最多２隻「槍彈」怪獸（同名卡最多１張）。
     ●在對方場上的怪獸的數量多於我方場上的怪獸的狀況下，從我方墓地選擇「槍彈」怪獸以守備表示特殊召喚，數量最多為其差距數量（同名卡最多１張）。
   zh-CN: |-
-    此卡名的②效果1回合仅可使用1次。①：场上的“枪弹”怪兽的攻击力・守备力上升300。②：在自己的主要阶段可从以下效果中选择1个发动。
-    ●从手牌将最多2只“枪弹”怪兽以守备表示特殊召唤（同名卡最多1张）。●对手场上的怪兽数量多于自己场上怪兽的情况下，从自己墓地挑选最多为其数量差的“枪弹”怪兽以守备表示特殊召唤（同名卡最多1张）。
+    此卡名的②效果1回合仅可使用1次。①：场上的“枪弹”怪兽的攻击力・守备力上升300。②：在自己的主要阶段可从以下效果中选择1个发动。●从手牌将最多2只“枪弹”怪兽以守备表示特殊召唤（同名卡最多1张）。●对手场上的怪兽数量多于自己场上怪兽的情况下，从自己墓地挑选最多为其数量差的“枪弹”怪兽以守备表示特殊召唤（同名卡最多1张）。
 card_type: Spell
 property: Field
 images:
 - index: 1
-  image: BootSectorLaunch-SD36-JP-C.png
+  image: BootSectorLaunch-QCCP-JP-SR.png
   illustration: BootSectorLaunch-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: BootSectorLaunch-SDRR-EN-C-1E.png
@@ -131,6 +130,12 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  - set_number: QCCP-JP106
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXFO-KR053
     set_name: Extreme Force
