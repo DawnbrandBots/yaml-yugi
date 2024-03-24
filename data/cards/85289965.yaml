@@ -34,7 +34,7 @@ text:
     Não pode ser destruído em batalha. Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro em Posição de Ataque; coloque-o em Posição de Defesa e, além disso, este card pode realizar um segundo ataque durante cada Fase de Batalha neste turno. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito. Uma vez por turno, quando este card declarar um ataque contra um monstro com a face para cima: você pode ativar este efeito; até o final deste turno, este card ganha ATK igual à metade do ATK atual desse monstro e, se isso acontecer, o ATK atual desse monstro é diminuído pela metade.
   ja: |-
     効果モンスター３体以上
-    ①：このカードは戦闘では破壊されない。②：１ターンに１度、攻撃表示モンスター１体を対象として発動できる。そのモンスターを守備表示にする。このターン、このカードは１度のバトルフェイズ中に２回攻撃できる。この効果の発動に対して相手は効果を発動できない。この効果は相手ターンでも発動できる。③：１ターンに１度、このカードが表側表示モンスターに攻撃宣言した時に発動できる。ターン終了時まで、このカードの攻撃力はそのモンスターの攻撃力の半分アップし、そのモンスターの攻撃力は半分になる。
+    ①：このカードは戦闘では破壊されない。②：自分・相手ターンに１度、攻撃表示モンスター１体を対象として発動できる（この効果の発動に対して、相手はカードの効果を発動できない）。そのモンスターを守備表示にする。このターン、このカードは１度のバトルフェイズ中に２回攻撃できる。③：１ターンに１度、このカードが表側表示モンスターに攻撃宣言した時に発動できる。ターン終了時まで、このカードの攻撃力はそのモンスターの攻撃力の半分アップし、そのモンスターの攻撃力は半分になる。
   ko: |-
     효과 몬스터 3장 이상
     ①: 이 카드는 전투로는 파괴되지 않는다. ②: 1턴에 1번, 공격 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 한다. 이 턴에, 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. 이 효과의 발동에 대하여 상대는 효과를 발동할 수 없다. 이 효과는 상대 턴에도 발동할 수 있다. ③: 1턴에 1번, 이 카드가 앞면 표시 몬스터에 공격 선언했을 때에 발동할 수 있다. 턴 종료시까지, 이 카드의 공격력은 그 몬스터의 공격력의 절반 올리고, 그 몬스터의 공격력은 절반이 된다.
@@ -58,7 +58,7 @@ series:
 - Borrel
 images:
 - index: 1
-  image: BorrelswordDragon-PAC1-JP-UR.png
+  image: BorrelswordDragon-QCCP-JP-SR.png
   illustration: BorrelswordDragon-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: BorrelswordDragon-MAMA-EN-UR-1E.png
@@ -213,6 +213,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  - set_number: QCCP-JP103
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CYHO-KR034
     set_name: Cybernetic Horizon

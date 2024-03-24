@@ -27,7 +27,7 @@ text:
   pt: |-
     Requer 3 Tributos para ser Invocado por Invocação-Normal (não pode ser Baixado Normalmente). A Invocação-Normal deste card não pode ser negada. Quando Invocado por Invocação-Normal, cards e efeitos não podem ser ativados. Nenhum duelista pode escolher este card como alvo de efeitos de card. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Especial: envie-o para o Cemitério. Você pode oferecer 2 monstros como Tributo; destrua todos os monstros que seu oponente controla. Este card não pode declarar um ataque no turno em que este efeito for ativado.
   ja: |-
-    このカードを通常召喚する場合、３体をリリースして召喚しなければならない。①：このカードの召喚は無効化されない。②：このカードの召喚成功時には、魔法・罠・モンスターの効果は発動できない。③：フィールドのこのカードは効果の対象にならない。④：自分フィールドのモンスター２体をリリースして発動できる。相手フィールドのモンスターを全て破壊する。この効果を発動するターン、このカードは攻撃宣言できない。⑤：このカードが特殊召喚されている場合、エンドフェイズに発動する。このカードを墓地へ送る。
+    このカードを通常召喚する場合、３体をリリースして召喚しなければならない。①：このカードの召喚は無効化されない。②：このカードの召喚成功時にお互いはカードの効果を発動できない。③：お互いにフィールドのこのカードを効果の対象にできない。④：自分フィールドのモンスター２体をリリースして発動できる（この効果を発動するターン、このカードは攻撃宣言できない）。相手フィールドのモンスターを全て破壊する。⑤：このカードが特殊召喚されている場合、エンドフェイズに発動する。このカードを墓地へ送る。
   ko: |-
     이 카드를 통상 소환할 경우, 3장을 릴리스하고 일반 소환해야 한다. ①: 이 카드의 일반 소환은 무효화되지 않는다. ②: 이 카드의 일반 소환 성공시에는, 마법 / 함정 / 몬스터의 효과는 발동할 수 없다. ③: 필드의 이 카드는 효과의 대상이 되지 않는다. ④: 자신 필드의 몬스터 2장을 릴리스하고 발동할 수 있다. 상대 필드의 몬스터를 전부 파괴한다. 이 효과를 발동하는 턴에, 이 카드는 공격 선언할 수 없다. ⑤: 이 카드가 특수 소환되어 있을 경우, 엔드 페이즈에 발동한다. 이 카드를 묘지로 보낸다.
   zh-TW: |-
@@ -348,6 +348,11 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  - set_number: QCCP-JP199
+    set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MOV-KR006
     set_name: Movie Pack Vol.2
