@@ -1,19 +1,22 @@
 # YAML Yugi
 
-[![Merge all data sources](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/merge.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/merge.yaml)
-[![Validate data](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-data.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-data.yaml)
-[![Validate assignments.yaml](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-assignments.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-assignments.yaml)
-
 This project aims to create a comprehensive, machine-readable, human-editable database of the _Yu-Gi-Oh! Trading Card
-Game_ and _Official Card Game_. It is currently incomplete and a work-in-progress.
+Game_ (TCG), _Official Card Game_ (OCG), _Master Duel_ video game, _Rush Duel_, and _Speed Duel_.
 
 YAML Yugi is the primary data source for the new version of Discord bot [Bastion](https://github.com/DawnbrandBots/bastion-bot).
 
-Most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI. They can be found under [`/data`](/data)
-and on the [`aggregate`](https://github.com/DawnbrandBots/yaml-yugi/tree/aggregate) branch.
+Most card text is &copy; Studio Dice/SHUEISHA, TV TOKYO, KONAMI. They can be found under [`/data`](/data) and aggregations
+are published to GitHub Pages.
 
 The remaining files — the actual source code of this stage of the pipeline — are available under the
 GNU Affero General Public License 3.0 or later. See [COPYING](./COPYING) for more details.
+
+![Rush Duel cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Rush%20Duel%20cards&query=length&url=https%3A%2F%2Fdawnbrandbots.github.io%2Fyaml-yugi%2Frush.json)
+![Speed Duel Skill cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Speed%20Duel%20Skill%20cards&query=length&url=https%3A%2F%2Fdawnbrandbots.github.io%2Fyaml-yugi%2Fskill.json)
+
+[![Merge all data sources](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/merge.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/merge.yaml)
+[![Validate data](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-data.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-data.yaml)
+[![Validate assignments.yaml](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-assignments.yaml/badge.svg)](https://github.com/DawnbrandBots/yaml-yugi/actions/workflows/validate-assignments.yaml)
 
 The aggregate branch is very large and the history is not very relevant. It could be moved elsewhere in the future if
 this is a problem. For now, it is recommended to clone this repository with the `--single-branch` flag to work on it.
@@ -26,9 +29,6 @@ your `.git/config` file to look like this:
         fetch = +refs/heads/*:refs/remotes/origin/*
         fetch = ^refs/heads/aggregate
 ```
-
-![Rush Duel cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Rush%20Duel%20cards&query=length&url=https%3A%2F%2Fraw.githubusercontent.com%2FDawnbrandBots%2Fyaml-yugi%2Faggregate%2Frush.json)
-![Speed Duel Skill cards](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Speed%20Duel%20Skill%20cards&query=length&url=https%3A%2F%2Fraw.githubusercontent.com%2FDawnbrandBots%2Fyaml-yugi%2Faggregate%2Fskill.json)
 
 ## Sample links
 
