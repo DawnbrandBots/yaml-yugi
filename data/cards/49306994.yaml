@@ -15,7 +15,7 @@ name:
   zh-CN: 白色面纱
 text:
   en: |-
-    While the equipped monster battles, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. When an attack is declared involving the equipped monster: Face-up Spell/Trap Cards your opponent controls have their effects negated until the end of the Damage Step (even if this card leaves the field). When the equipped monster destroys an opponent's monster by battle: You can destroy all Spell and Trap Cards your opponent controls. When this face-up card in a player's Spell & Trap Zone leaves the field, that player takes 3000 damage.
+    While the equipped monster battles, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. If an attack is declared involving the equipped monster: Negate the effects of face-up Spells/Traps your opponent controls until the end of the Damage Step (even if this card leaves the field). When the equipped monster destroys an opponent's monster by battle: You can destroy all Spells and Traps your opponent controls. When this face-up card in a Spell & Trap Zone leaves the field, that player takes 3000 damage.
   de: |-
     Solange das ausgerüstete Monster kämpft, kann dein Gegner bis zum Ende des Damage Steps keine Zauber-/Fallenkarten aktivieren. Wenn ein Angriff deklariert wird, an dem das ausgerüstete Monster beteiligt ist: Die Effekte von offenen Zauber-/Fallenkarten, die dein Gegner kontrolliert, bleiben bis zum Ende des Damage Steps annulliert (selbst falls diese Karte das Spielfeld verlässt). Wenn das ausgerüstete Monster ein Monster deines Gegners durch Kampf zerstört: Du kannst alle Zauber- und Fallenkarten zerstören, die dein Gegner kontrolliert. Wenn diese offene Karte in der Zauber- & Fallenzone eines Spielers das Spielfeld verlässt, erhält der Spieler 3000 Schaden.
   es: |-
@@ -38,7 +38,7 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: WhiteVeil-DUSA-EN-UR-1E.png
+  image: WhiteVeil-SGX4-NA-C-1E.png
 sets:
   en:
   - set_number: DUSA-EN032
@@ -49,7 +49,6 @@ sets:
     set_name: 'Speed Duel GX: Midterm Destruction'
     rarities:
     - Common
-    - Secret Rare
   de:
   - set_number: DUSA-DE032
     set_name: Duelist Saga
@@ -92,6 +91,6 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 14773
 master_duel_rarity: R

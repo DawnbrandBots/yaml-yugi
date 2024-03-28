@@ -15,7 +15,7 @@ name:
   zh-CN: 地球巨人
 text:
   en: |-
-    You can Special Summon this card by removing from play any 2 Rock-Type monsters in your Graveyard. During your Standby Phase, remove from play 1 Rock-Type monster in your Graveyard, or send this card to the Graveyard. Halve the ATK and DEF of any monster that battles with this card.
+    Once per turn, during your Standby Phase, banish 1 Rock monster from your GY or send this card to the GY. You can Special Summon this card (from your hand) by banishing 2 Rock monsters from your GY. If this card battles an opponent's monster, that monster's ATK/DEF become halved during damage calculation only.
   de: |-
     Du kannst diese Karte als Spezialbeschwörung beschwören, indem du 2 Monster vom Typ Fels in deinem Friedhof aus dem Spiel entfernst. Während deiner Standby Phase, entferne 1 Monster vom Typ Fels in deinem Friedhof aus dem Spiel oder lege diese Karte auf den Friedhof. Halbiere die ATK und DEF jedes Monsters, das mit dieser Karte kämpft.
   es: |-
@@ -42,7 +42,7 @@ atk: 2800
 def: 1000
 images:
 - index: 1
-  image: GaiaPlatetheEarthGiant-ANPR-EN-UR-1E.png
+  image: GaiaPlatetheEarthGiant-SGX4-NA-C-1E.png
 sets:
   en:
   - set_number: ANPR-EN094
@@ -98,6 +98,6 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 536877
 master_duel_rarity: N
