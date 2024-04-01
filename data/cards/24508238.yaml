@@ -27,7 +27,7 @@ text:
   pt: |-
     (Efeito Rápido): você pode descartar este card para o Cemitério e, depois, escolha 1 card no Cemitério do seu oponente; bana o alvo.
   ja: |-
-    ①：このカードを手札から墓地へ捨て、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。この効果は相手ターンでも発動できる。
+    ①：自分・相手ターンに、このカードを手札から墓地へ捨て、相手の墓地のカード１枚を対象として発動できる。そのカードを除外する。
   ko: |-
     ①: 이 카드를 패에서 묘지로 버리고, 상대 묘지의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW: |-
@@ -428,6 +428,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.3
     rarities:
     - Super Rare
+  - set_number: 24EP-JP102
+    set_name: Event Pack 2024 Vol.1
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: STON-KR024
     set_name: Strike of Neos
