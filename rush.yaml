@@ -19606,7 +19606,7 @@ requirement:
     Non hai altri mostri sul tuo Terreno e hai "Femtron" nel tuo Cimitero.
   pt:
   ja: |-
-    自分フィールドにこのカード以外のモンスターがおらず、自分の墓地に「フェムトロン」がいる場合に発動できる。
+    自分の墓地に「フェムトロン」がいて、自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
   ko: |-
     자신 필드에 이 카드 이외의 몬스터가 없으며, 자신 묘지에 "펨트론"이 있을 경우에 발동할 수 있다.
   zh-TW:
@@ -35035,7 +35035,7 @@ effect:
   it:
   pt:
   ja: |-
-    自分の墓地のモンスター（レベル５以上／攻撃力０）１体を選んで自分フィールドに表側攻撃表示で特殊召喚する。
+    自分の墓地のモンスター（レベル５以上／攻撃力０）１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。
   ko: |-
     자신 묘지의 몬스터(레벨 5 이상 / 공격력 0) 1장을 고르고 자신 필드에 앞면 공격 표시로 특수 소환한다.
   zh-TW:
@@ -92628,7 +92628,7 @@ effect:
   it:
   pt:
   ja: |-
-    自分の墓地の通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。さらにこのターン、このカードのカード名はこの効果で特殊召喚したモンスターと同じカード名になる。
+    自分の墓地の通常モンスター１体を選び、自分フィールドに表側表示で特殊召喚する。その後、このカードのカード名はこのターン、この効果で特殊召喚したモンスターと同じカード名になる。
   ko: |-
     자신 묘지의 일반 몬스터 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 추가로 이 턴에, 이 카드의 카드명은 이 효과로 특수 소환한 몬스터와 같은 카드명이 된다.
   zh-TW:
@@ -134168,6 +134168,192 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1037157
 ---
+konami_id: 20042
+name:
+  en: Seiyaryu
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A mystical dragon that burns away the unworthy with its mystic flames.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    聖なる炎で悪しき者を焼きはらう、神聖な力を持つドラゴン。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Normal
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 2300
+images:
+- index: 1
+  image: Seiyaryu-RDDK01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/DK01-JP001
+    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+yugipedia_page_id: 1018842
+---
+konami_id: 20043
+name:
+  en: Progrigger Vancing
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: プログリーガー・ヴァンセング
+  ja_romaji: Purogurīgā Vansengu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If your opponent has a face-up monster with 2500 ATK on their field, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドに表側表示モンスター（攻撃力２５００）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This Attack Position card cannot be destroyed by battle with a monster that has 2500 original ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃表示のこのカードは、元々の攻撃力が２５００のモンスターとの戦闘では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1500
+images:
+- index: 1
+  image: ProgriggerVancing-RDDK01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/DK01-JP003
+    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1033306
+---
+konami_id: 20044
+name:
+  en: Jundee of the Dark Path
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>冥<rt>めい</rt></ruby><ruby>跡<rt>せき</rt></ruby>のジュンディー
+  ja_romaji: Meiseki no Jundī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more cards in your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, if an EARTH Attribute monster(s) is among the cards sent, you can draw 1 card. If you do, place 1 card from your hand on the bottom of your Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（地属性）がいた場合、さらに自分は１枚ドローできる。ドローした場合、さらに自分は手札１枚を選んでデッキの下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast-Warrior / Effect
+attribute: EARTH
+level: 4
+atk: 1000
+def: 1000
+images:
+- index: 1
+  image: JundeeoftheDarkPath-RDDK01-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/DK01-JP004
+    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1033308
+---
 konami_id: 20048
 name:
   en: Voidvelgr God Requiem
@@ -134537,192 +134723,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1037913
----
-konami_id:
-name:
-  en: Seiyaryu
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    A mystical dragon that burns away the unworthy with its mystic flames.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    聖なる炎で悪しき者を焼きはらう、神聖な力を持つドラゴン。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Normal
-attribute: LIGHT
-level: 7
-atk: 2500
-def: 2300
-images:
-- index: 1
-  image: Seiyaryu-RDDK01-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/DK01-JP001
-    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
-    rarities:
-    - Super Rare
-    - Secret Rare
-yugipedia_page_id: 1018842
----
-konami_id:
-name:
-  en: Progrigger Vancing
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: プログリーガー・ヴァンセング
-  ja_romaji: Purogurīgā Vansengu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If your opponent has a face-up monster with 2500 ATK on their field, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    相手フィールドに表側表示モンスター（攻撃力２５００）がいる場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    なし
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This Attack Position card cannot be destroyed by battle with a monster that has 2500 original ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    攻撃表示のこのカードは、元々の攻撃力が２５００のモンスターとの戦闘では破壊されない。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: LIGHT
-level: 7
-atk: 2500
-def: 1500
-images:
-- index: 1
-  image: ProgriggerVancing-RDDK01-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/DK01-JP003
-    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1033306
----
-konami_id:
-name:
-  en: Jundee of the Dark Path
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>冥<rt>めい</rt></ruby><ruby>跡<rt>せき</rt></ruby>のジュンディー
-  ja_romaji: Meiseki no Jundī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have 10 or more cards in your Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキのカードが１０枚以上の場合に発動できる。
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, if an EARTH Attribute monster(s) is among the cards sent, you can draw 1 card. If you do, place 1 card from your hand on the bottom of your Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: |-
-    自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（地属性）がいた場合、さらに自分は１枚ドローできる。ドローした場合、さらに自分は手札１枚を選んでデッキの下に戻す。
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Beast-Warrior / Effect
-attribute: EARTH
-level: 4
-atk: 1000
-def: 1000
-images:
-- index: 1
-  image: JundeeoftheDarkPath-RDDK01-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/DK01-JP004
-    set_name: '"Duelist Kingdom: Collect Star Chips!" Limited Pack'
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1033308
 ---
 konami_id:
 name:
