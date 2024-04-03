@@ -8325,6 +8325,10 @@ sets:
     set_name: Strongest Battle Deck Romin - Psychic Beat
     rarities:
     - Common
+  - set_number: RD/KP15-KR000
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 714812
 ---
 konami_id: 15436
@@ -97103,6 +97107,10 @@ sets:
     set_name: Legend Awakening Pack
     rarities:
     - Over Rush Rare
+  - set_number: RD/KP15-KRS01
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
 yugipedia_page_id: 715892
 ---
 konami_id: 18681
@@ -121871,7 +121879,7 @@ name:
   pt:
   ja: ダークネス・ドレイク
   ja_romaji: Dākunesu Doreiku
-  ko:
+  ko: 다크니스 드레이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -121885,7 +121893,8 @@ text:
   pt:
   ja: |-
     心を惑わす闇の化身。全てを蝕む。
-  ko:
+  ko: |-
+    마음을 현혹시키는 어둠의 화신. 모든 것을 좀먹는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -121902,6 +121911,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP001
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR001
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -121922,7 +121936,7 @@ name:
   pt:
   ja: <ruby>波<rt>は</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>刀<rt>とう</rt></ruby><ruby>吉<rt>よし</rt></ruby><ruby>光<rt>みつ</rt></ruby>クリザメ
   ja_romaji: Hadōtō Yoshimitsu Kurizame
-  ko:
+  ko: 파랑도요시미츠 쿠리자메
   ko_rr:
   zh-TW:
   zh-CN:
@@ -121936,7 +121950,8 @@ text:
   pt:
   ja: |-
     波導刀の加護を受けた伝説の武人魚。深海で繰り出す剣戟を見切れる者はいない。
-  ko:
+  ko: |-
+    파랑도의 가호를 받은 전설의 무인어. 심해에서 휘두르는 검극을 피할 수 있는 자는 없다고 한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -121953,6 +121968,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP002
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR002
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -121973,7 +121993,7 @@ name:
   pt:
   ja: ダークネス・ドワーフ
   ja_romaji: Dākunesu Dowāfu
-  ko:
+  ko: 다크니스 드워프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -121987,7 +122007,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドの表側表示モンスター（ギャラクシー族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 앞면 표시 몬스터(갤럭시족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122000,7 +122021,8 @@ effect:
   pt:
   ja: |-
     このカードを含む自分フィールドの表側表示モンスターを素材として墓地へ送り、モンスター（闇属性）をフュージョン召喚する。
-  ko:
+  ko: |-
+    이 카드를 포함하는 자신 필드의 앞면 표시 몬스터를 소재로서 묘지로 보내고, 몬스터(어둠 속성)를 퓨전 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122017,6 +122039,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP003
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR003
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -122038,7 +122066,7 @@ name:
   pt:
   ja: ダークネス・トランザム・クライシス
   ja_romaji: Dākunesu Toranzamu Kuraishisu
-  ko:
+  ko: 다크니스 트랜잠 크라이시스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122052,7 +122080,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは同じ属性を持つモンスター３体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 같은 속성을 가지는 몬스터 3장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -122065,7 +122094,8 @@ requirement:
   pt:
   ja: |-
     上記の方法でこのカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    상기의 방법으로 이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122078,7 +122108,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。その後、このカードの攻撃力をターン終了時まで、［この効果で破壊したモンスターの元々のレベル］×２００アップできる。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다. 그 후, 이 카드의 공격력을 턴 종료시까지, [이 효과로 파괴한 몬스터의 원래 레벨] × 200 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122100,6 +122131,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR004
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -122117,7 +122154,7 @@ name:
   pt:
   ja: ストライピング・ワイバーン
   ja_romaji: Sutoraipingu Waibān
-  ko:
+  ko: 스트라이핑 와이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122131,7 +122168,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送り、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122144,7 +122182,8 @@ effect:
   pt:
   ja: |-
     手札の「碧牙の爆速竜」または「真紅動の撃速竜」１体を自分フィールドに表側守備表示で特殊召喚する。その後、自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    패의 "블루 투스 버스트드래곤" 또는 "레드부트 부스트드래곤" 1장을 자신 필드에 앞면 수비 표시로 특수 소환한다. 그 후, 자신 묘지의 "드래곤즈 버스트 퓨전" 또는 "드래곤즈 부스트 퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122169,6 +122208,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP15-KR005
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true
@@ -122186,7 +122230,7 @@ name:
   pt:
   ja: フラップ・ドラゴン
   ja_romaji: Furappu Doragon
-  ko:
+  ko: 플랩 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122200,7 +122244,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（ドラゴン族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(드래곤족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122213,7 +122258,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの裏側表示モンスター１体を選んで表側攻撃表示にする。自分フィールドの表側表示モンスターがモンスター（ドラゴン族）のみの場合、さらに自分の墓地の「フリップ・ドラゴン」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 뒷면 표시 몬스터 1장을 고르고 앞면 공격 표시로 한다. 자신 필드의 앞면 표시 몬스터가 몬스터(드래곤족)뿐일 경우, 추가로 자신 묘지의 "플립 드래곤" 1장을 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122230,6 +122276,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP006
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR006
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122250,7 +122301,7 @@ name:
   pt:
   ja: フリップ・ドラゴン
   ja_romaji: Furippu Doragon
-  ko:
+  ko: 플립 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122264,7 +122315,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（ドラゴン族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(드래곤족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122277,7 +122329,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃表示モンスター１体を選んで裏側守備表示にする。自分フィールドの表側表示モンスターがモンスター（ドラゴン族）のみの場合、さらに自分の墓地の「フラップ・ドラゴン」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 공격 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 자신 필드의 앞면 표시 몬스터가 몬스터(드래곤족)뿐일 경우, 추가로 자신 묘지의 "플랩 드래곤" 1장을 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122294,6 +122347,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP007
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR007
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122314,7 +122372,7 @@ name:
   pt:
   ja: セレブローズ・ウィズ
   ja_romaji: Serebu Rōzu Wizu
-  ko:
+  ko: 셀레브로즈 위즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122328,7 +122386,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札のモンスター（光属性／魔法使い族）１体または装備魔法カード１枚を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 몬스터(빛 속성 / 마법사족) 1장 또는 장착 마법 카드 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122341,7 +122400,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード４枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「セレブローズ・マジシャン」「セレブローズ・ウィッチ」「フュージョン」のいずれか１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 4장을 묘지로 보낸다. 그 후, 이 효과로 묘지로 보내진 카드 중에서 "셀레브로즈 매지션" "셀레브로즈 위치" "퓨전" 중 어느 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122358,6 +122418,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP008
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR008
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -122379,7 +122445,7 @@ name:
   pt:
   ja: ダークネス・パパラッチ
   ja_romaji: Dākunesu Paparacchi
-  ko:
+  ko: 다크니스 파파라치
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122393,7 +122459,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上で、自分フィールドに表側表示モンスター（レベル５以上／魔法使い族）がいる場合、自分の墓地の同じ属性を持つモンスター（魔法使い族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상이고, 자신 필드에 앞면 표시 몬스터(레벨 5 이상 / 마법사족)가 있을 경우, 자신 묘지의 같은 속성을 가지는 몬스터(마법사족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122406,7 +122473,8 @@ effect:
   pt:
   ja: |-
     自分は［相手フィールドの表側表示モンスター（レベル７以上）の数］だけドローする。
-  ko:
+  ko: |-
+    자신은 [상대 필드의 앞면 표시 몬스터(레벨 7 이상)의 수]만큼 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122423,6 +122491,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP009
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR009
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -122443,7 +122516,7 @@ name:
   pt:
   ja: ダークネス・ファントマイト
   ja_romaji: Dākunesu Fantomaito
-  ko:
+  ko: 다크니스 팬터마이트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122457,7 +122530,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（幻竜族）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(환룡족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122470,7 +122544,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル９以下）１体を選んで裏側守備表示にする。その後、相手は自身のデッキの上からカードを３枚めくり、お互いに確認する。相手はめくったカードを好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 9 이하) 1장을 고르고 뒷면 수비 표시로 한다. 그 후, 상대는 자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 상대는 넘긴 카드를 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122487,6 +122562,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP010
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR010
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -122507,7 +122587,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>兵<rt>へい</rt></ruby>アシバ・ビッケ
   ja_romaji: Genkaihei Ashiba Bikke
-  ko:
+  ko: 환괴병 아시바 빗케
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122521,7 +122601,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが２体以下の場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 2장 이하일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122534,7 +122615,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを［自分フィールドの表側表示モンスター（幻竜族）の数］×２枚墓地へ送る。その中にモンスターが２体以上いた場合、さらにこのターン、モンスター（幻竜族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 [자신 필드의 앞면 표시 몬스터(환룡족)의 수] × 2장 묘지로 보낸다. 그 중에 몬스터가 2장 이상 있었을 경우, 추가로 이 턴에, 몬스터(환룡족)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122551,6 +122633,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP011
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR011
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122571,7 +122658,7 @@ name:
   pt:
   ja: フィドルバドゥール
   ja_romaji: Fidorubadūru
-  ko:
+  ko: 피들바두르
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122585,7 +122672,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（風属性／サイキック族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(바람 속성 / 사이킥족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122598,7 +122686,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「サイクイップ・フュージョン」または装備魔法カード１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "사이큅 퓨전" 또는 장착 마법 카드 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122615,6 +122704,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP012
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR012
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122635,7 +122729,7 @@ name:
   pt:
   ja: ヴィブラ・ブリガンド
   ja_romaji: Vibura Burigando
-  ko:
+  ko: 비브라 브리간드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122649,7 +122743,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル７以上）がいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 7 이상)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122662,7 +122757,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その中に装備魔法カードがあった場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 중에 장착 마법 카드가 있었을 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122679,6 +122775,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP013
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR013
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122699,7 +122800,7 @@ name:
   pt:
   ja: プランドリン
   ja_romaji: Purandorin
-  ko:
+  ko: 프란돌린
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122713,7 +122814,8 @@ requirement:
   pt:
   ja: |-
     １００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    100 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122726,7 +122828,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中から「フュージョン」「サイクイップ・フュージョン」を合計２枚まで選んで手札に加える事ができる。残りのカードをデッキに戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 "퓨전" "사이큅 퓨전"을 합계 2장까지 고르고 패에 넣을 수 있다. 남은 카드를 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122743,6 +122846,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP014
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR014
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -122764,7 +122873,7 @@ name:
   pt:
   ja: スターズハンド・カメラレディ
   ja_romaji: Sutāzuhando Kamera Redi
-  ko:
+  ko: 스타즈핸드 카메라레이디
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122778,7 +122887,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122791,7 +122901,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。自分フィールドに表側表示の「砕光のエスパレイド」がいる場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 자신 필드에 앞면 표시의 "쇄광의 에스파레이드"가 있을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122808,6 +122919,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP015
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR015
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122828,7 +122944,7 @@ name:
   pt:
   ja: <ruby>波<rt>は</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>刀<rt>とう</rt></ruby>タネガシマグロ
   ja_romaji: Hadōtō Tanegashimaguro
-  ko:
+  ko: 파랑도 타네가시마구로
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122842,7 +122958,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（レベル７／魚族）、「フュージョン」、「波涛融合」のいずれかがある場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(레벨 7 / 어류족), "퓨전", "파주융합" 중 어느 것이 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122855,7 +122972,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル７／魚族）、「フュージョン」、「波涛融合」の中から１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 7 / 어류족), "퓨전", "파주융합" 중에서 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122872,6 +122990,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP016
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR016
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122892,7 +123015,7 @@ name:
   pt:
   ja: <ruby>波導銃<rt>ハイドロガン</rt></ruby>ミニ・マグロム
   ja_romaji: Haidoro Gan Mini Maguromu
-  ko:
+  ko: 하이드로건 미니 매그롬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122906,7 +123029,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122919,7 +123043,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで、［自分フィールドの表側表示モンスター（魚族）のレベルの合計］×１００アップする。その後、自分の墓地の「波導砲ビッグ・マグロム」１体を選んで手札に加えるか自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지, [자신 필드의 앞면 표시 몬스터(어류족)의 레벨의 합계] × 100 올린다. 그 후, 자신 묘지의 "하이드로캐논 빅 매그롬" 1장을 고르고 패에 넣거나 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122934,6 +123059,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP017
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR017
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -122954,7 +123084,7 @@ name:
   pt:
   ja: チャージ・リモーラ
   ja_romaji: Chāji Rimōra
-  ko:
+  ko: 차지 리모라
   ko_rr:
   zh-TW:
   zh-CN:
@@ -122968,7 +123098,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（魚族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(어류족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -122981,7 +123112,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フィッシャーチャージ」１枚を選んで自分の魔法＆罠ゾーンにセットする。
-  ko:
+  ko: |-
+    자신 묘지의 "피셔 차지" 1장을 고르고 자신의 마법 & 함정 존에 세트한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -122996,6 +123128,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP018
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR018
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123016,7 +123153,7 @@ name:
   pt:
   ja: キャリアー・マンタレイ
   ja_romaji: Kyariā Mantarei
-  ko:
+  ko: 캐리어 만타레이
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123030,7 +123167,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123043,7 +123181,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、この効果で墓地へ送られたカードの中から「チャージ・リモーラ」１体または「フィッシャーチャージ」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 이 효과로 묘지로 보내진 카드 중에서 "차지 리모라" 1장 또는 "피셔 차지" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123058,6 +123197,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP019
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR019
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123078,7 +123222,7 @@ name:
   pt:
   ja: サイバー・フィッシュ
   ja_romaji: Saibā Fisshu
-  ko:
+  ko: 사이버 피시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123092,7 +123236,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（水属性／魚族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(물 속성 / 어류족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123105,7 +123250,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123120,6 +123266,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP020
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR020
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123140,7 +123291,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 사이버 샤크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123154,7 +123305,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（水属性）がいる場合、このカードはリリースなしで召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(물 속성)가 있을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -123167,7 +123319,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -123180,7 +123333,8 @@ effect:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123201,6 +123355,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR021
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
@@ -123216,7 +123376,7 @@ name:
   pt:
   ja: <ruby>波<rt>は</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>刀<rt>とう</rt></ruby><ruby>鬼<rt>おに</rt></ruby><ruby>丸<rt>まる</rt></ruby>クニツナ
   ja_romaji: Hadōtō Onimaru Kunitsuna
-  ko:
+  ko: 파랑도오니마루 쿠니튜나
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123230,7 +123390,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -123245,7 +123406,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（魚族）は、相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(어류족)는, 상대 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123262,6 +123424,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP022
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR022
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123282,7 +123449,7 @@ name:
   pt:
   ja: <ruby>地獄<rt>ヘル</rt></ruby><ruby>河<rt>かっ</rt></ruby><ruby>童<rt>ぱ</rt></ruby>リバースプリンター
   ja_romaji: Heru Kappa Ribāsupurintā
-  ko:
+  ko: 헬캇파 리버스프린터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123296,7 +123463,8 @@ requirement:
   pt:
   ja: |-
     手札から「河童大帝リバースライダー」「地獄河童ダイウェット」「へのかっぱ」のいずれか１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패에서 "캇파대제 리버스라이더" "헬캇파 다이웨트" "헤노캇파" 중 어느 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123309,7 +123477,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。その後、自分の墓地にモンスター（水族）が３体以上いる場合、自分は１枚ドローできる。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다. 그 후, 자신 묘지에 몬스터(물족)가 3장 이상 있을 경우, 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123326,6 +123495,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP023
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR023
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -123346,7 +123520,7 @@ name:
   pt:
   ja: <ruby>隕<rt>いん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>雛<rt>ひな</rt></ruby>
   ja_romaji: Insekiryū no Hina
-  ko:
+  ko: 아기 운석룡
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123360,7 +123534,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123373,7 +123548,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（地属性／ドラゴン族／攻撃力１８００）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(땅 속성 / 드래곤족 / 공격력 1800) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123390,6 +123566,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP024
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR024
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123410,7 +123591,7 @@ name:
   pt:
   ja: <ruby>真紅眼の月竜<rt>レッドアイズ・ムーンドラゴン</rt></ruby>
   ja_romaji: Reddoaizu Mūn Doragon
-  ko:
+  ko: 붉은 눈의 월룡
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123424,7 +123605,8 @@ summoning_condition:
   pt:
   ja: |-
     手札にいるこのカードのカード名は「真紅眼の黒竜」になる。
-  ko:
+  ko: |-
+    패에 있는 이 카드의 카드명은 "붉은 눈의 흑룡"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -123437,7 +123619,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -123452,7 +123635,8 @@ effect:
   pt:
   ja: |-
     このカードをフュージョン召喚の素材とする場合、このカードのカード名は「真紅眼の黒竜」になる。
-  ko:
+  ko: |-
+    이 카드를 퓨전 소환의 소재로 할 경우, 이 카드의 카드명은 "붉은 눈의 흑룡"이 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123469,6 +123653,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP025
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR025
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -123490,7 +123680,7 @@ name:
   pt:
   ja: ワイバーンの<ruby>黒<rt>くろ</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Waibān no Kurokishi
-  ko:
+  ko: 와이반 흑기사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123504,7 +123694,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に「ワイバーンの戦士」またはモンスター（闇属性／守備力１２００）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 "와이반 전사" 또는 몬스터(어둠 속성 / 수비력 1200)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123517,7 +123708,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで裏側守備表示にする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 뒷면 수비 표시로 한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123534,6 +123726,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP026
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR026
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123554,7 +123751,7 @@ name:
   pt:
   ja: ロケット<ruby>衛<rt>えい</rt></ruby><ruby>星<rt>せい</rt></ruby><ruby>兵<rt>へい</rt></ruby>
   ja_romaji: Roketto Eiseihei
-  ko:
+  ko: 로켓 위성병
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123568,7 +123765,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123581,7 +123779,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "메테오 드래곤" 1장 또는 "메테오플레어 퓨전" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123598,6 +123797,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP027
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR027
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123618,7 +123822,7 @@ name:
   pt:
   ja: メテオ・ドレイク
   ja_romaji: Meteo Doreiku
-  ko:
+  ko: 메테오 드레이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123632,7 +123836,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドにモンスターがいない場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 몬스터가 없을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -123645,7 +123850,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -123658,7 +123864,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はめくったカードの中から「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 "메테오 드래곤" 1장 또는 "메테오플레어 퓨전" 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123675,6 +123882,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP028
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR028
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -123695,7 +123907,7 @@ name:
   pt:
   ja: プランティングピクシー
   ja_romaji: Purantingu Pikushī
-  ko:
+  ko: 플랜팅픽시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123709,7 +123921,8 @@ requirement:
   pt:
   ja: |-
     お互いのフィールドの全ての表側表示モンスターの中に、同じ属性のモンスターが２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    서로의 필드의 모든 앞면 표시 몬스터 중에, 같은 속성의 몬스터가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123722,7 +123935,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル６以下）１体または「フュージョン」１枚を選んで手札に加える。その後、手札のモンスター（地属性／植物族）１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 6 이하) 1장 또는 "퓨전" 1장을 고르고 패에 넣는다. 그 후, 패의 몬스터(땅 속성 / 식물족) 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123737,6 +123951,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP029
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR029
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -123759,7 +123980,7 @@ name:
   pt:
   ja: ピュアラヴ・エンジェル
   ja_romaji: Pyuaravu Enjeru
-  ko:
+  ko: 퓨어라브 엔젤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123773,7 +123994,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -123788,7 +124010,8 @@ effect:
   pt:
   ja: |-
     このカードはモンスター（攻撃力２５００以上）との戦闘では破壊されない。このカードがモンスター（レベル９以下）と戦闘を行う場合、自分は戦闘ダメージを受けない。
-  ko:
+  ko: |-
+    이 카드는 몬스터(공격력 2500 이상)와의 전투로는 파괴되지 않는다. 이 카드가 몬스터(레벨 9 이하)와 전투를 실행할 경우, 자신은 전투 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123815,6 +124038,12 @@ sets:
     set_name: Over Rush Pack 2
     rarities:
     - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR030
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -123832,7 +124061,7 @@ name:
   pt:
   ja: オウルチャンネル
   ja_romaji: Ouruchanneru
-  ko:
+  ko: 오울채널
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123846,7 +124075,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにカードが２枚以上ある場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 필드에 카드가 2장 이상 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123859,7 +124089,8 @@ effect:
   pt:
   ja: |-
     このターン、自分は相手の罠カードの効果ではダメージを受けない。さらに、自分の墓地のモンスター（鳥獣族／攻撃力２２００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 턴에, 자신은 상대의 함정 카드의 효과로는 데미지를 받지 않는다. 추가로, 자신 묘지의 몬스터(비행야수족 / 공격력 2200) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123874,6 +124105,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP031
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR031
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -123894,7 +124130,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 다크 플레임
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123908,7 +124144,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -123923,7 +124160,8 @@ effect:
   pt:
   ja: |-
     通常モンスター（闇属性）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    일반 몬스터(어둠 속성)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123938,6 +124176,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP032
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR032
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -123956,7 +124199,7 @@ name:
   pt:
   ja: <ruby>絶<rt>ぜつ</rt></ruby><ruby>望<rt>ぼう</rt></ruby><ruby>狂<rt>きょう</rt></ruby><ruby>魔<rt>ま</rt></ruby>デッド・エンド
   ja_romaji: Zetsubōkyōma Deddo Endo
-  ko:
+  ko: 절망광마 데드 엔드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -123970,7 +124213,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター４体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 4장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -123983,7 +124227,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、自分の墓地に同じ属性を持つモンスターが６体以上いる場合、相手の墓地のモンスター（レベル７以下）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 자신 묘지에 같은 속성을 가지는 몬스터가 6장 이상 있을 경우, 상대 묘지의 몬스터(레벨 7 이하) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -123998,6 +124243,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP033
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR033
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -124020,7 +124272,7 @@ name:
   pt:
   ja: <ruby>聖<rt>せい</rt></ruby><ruby>麗<rt>れい</rt></ruby>の<ruby>凍<rt>とう</rt></ruby><ruby>士<rt>し</rt></ruby>グラキエス
   ja_romaji: Seirei no Tōshi Gurakiesu
-  ko:
+  ko: 성려의 동사 그라키에스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124034,7 +124286,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分の手札・フィールドのカードを６枚まで墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신의 패 / 필드의 카드를 6장까지 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -124047,7 +124300,8 @@ effect:
   pt:
   ja: |-
     次の相手ターン終了時まで、このカードのレベルは１上がり、相手の効果では破壊されない。さらに、この効果の条件で墓地へ送ったカード３枚につき１枚まで、相手フィールドの裏側表示のカードを選んで持ち主のデッキに戻す事ができる。
-  ko:
+  ko: |-
+    다음 상대 턴 종료시까지, 이 카드의 레벨은 1 올라가고, 상대 효과로는 파괴되지 않는다. 추가로, 이 효과의 조건으로 묘지로 보낸 카드 3장당 1장까지, 상대 필드의 뒷면 표시의 카드를 고르고 주인의 덱으로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124062,6 +124316,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP034
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR034
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -124084,7 +124345,7 @@ name:
   pt:
   ja: ダークネス・ドゥーム・ジャイアント
   ja_romaji: Dākunesu Dūmu Jaianto
-  ko:
+  ko: 다크니스 둠 자이언트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124098,7 +124359,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -124111,7 +124373,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル７・８／ギャラクシー族）１体または「フュージョン」１枚を選んで手札に加える。さらにこのターン、モンスター（レベル８／ギャラクシー族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分または３体分のリリースにできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 7・8 / 갤럭시족) 1장 또는 "퓨전" 1장을 고르고 패에 넣는다. 추가로 이 턴에, 몬스터(레벨 8 / 갤럭시족)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼 또는 3장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124130,7 +124393,8 @@ materials:
   pt:
   ja: |-
     「ダークネス・ドワーフ」＋モンスター（光属性・闇属性／ギャラクシー族）
-  ko:
+  ko: |-
+    "다크니스 드워프" ＋ 몬스터(빛 속성・어둠 속성 / 갤럭시족)
   zh-TW:
   zh-CN:
 series:
@@ -124141,6 +124405,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP035
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR035
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -124161,7 +124430,7 @@ name:
   pt:
   ja: ダークネス・ギャラクティカ・オブリビオン
   ja_romaji: Dākunesu Gyarakutika Oburibion
-  ko:
+  ko: 다크니스 갤럭티카 오블리비언
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124175,7 +124444,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -124188,7 +124458,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの元々の攻撃力が１００以上の表側表示の効果モンスター１体を選び、その攻撃力をターン終了時まで、［その元々の攻撃力］だけダウンする。その後、選んだモンスターの永続効果をターン終了時まで無効にできる。
-  ko:
+  ko: |-
+    상대 필드의 원래 공격력이 100 이상의 앞면 표시의 효과 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [그 원래 공격력]만큼 내린다. 그 후, 고른 몬스터의 지속 효과를 턴 종료시까지 무효로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124207,7 +124478,8 @@ materials:
   pt:
   ja: |-
     「ギャラクティカ・オブリビオン」＋「ダークネス・ドワーフ」
-  ko:
+  ko: |-
+    "갤럭티카 오블리비언" ＋ "다크니스 드워프"
   zh-TW:
   zh-CN:
 series:
@@ -124219,6 +124491,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP036
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR036
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -124241,7 +124520,7 @@ name:
   pt:
   ja: <ruby>重紅動の超越撃速竜<rt>レッドリブート・エンハンスド・ブーストドラゴン</rt></ruby>
   ja_romaji: Reddoribūto Enhansudo Būsuto Doragon
-  ko:
+  ko: 레드리부트 인핸스드 부스트드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124255,7 +124534,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター１体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -124268,7 +124548,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（闇属性）を３体まで選ぶ。［選んだモンスターのレベルの合計］×１００ダメージを相手に与え、このカードの攻撃力はターン終了時まで、［選んだモンスターのレベルの合計］×１００アップする。その後、選んだモンスターをデッキに戻す。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(어둠 속성)를 3장까지 고른다. [고른 몬스터의 레벨의 합계] × 100 데미지를 상대에게 주고, 이 카드의 공격력은 턴 종료시까지, [고른 몬스터의 레벨의 합계] × 100 올린다. 그 후, 고른 몬스터를 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124287,7 +124568,8 @@ materials:
   pt:
   ja: |-
     「真紅動の撃速竜」＋「ダークネス・ドレイク」
-  ko:
+  ko: |-
+    "레드부트 부스트드래곤" ＋ "다크니스 드레이크"
   zh-TW:
   zh-CN:
 series:
@@ -124298,6 +124580,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP037
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR037
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -124320,7 +124609,7 @@ name:
   pt:
   ja: セレブローズ・ゴシップ・ウィッチ
   ja_romaji: Serebu Rōzu Goshippu Wicchi
-  ko:
+  ko: 셀레브로즈 가십 위치
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124334,7 +124623,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -124347,7 +124637,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。自分フィールドに表側表示の魔法カードがある場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 자신 필드에 앞면 표시의 마법 카드가 있을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124366,7 +124657,8 @@ materials:
   pt:
   ja: |-
     「セレブローズ・ウィッチ」＋「ダークネス・パパラッチ」
-  ko:
+  ko: |-
+    "셀레브로즈 위치" ＋ "다크니스 파파라치"
   zh-TW:
   zh-CN:
 series:
@@ -124377,6 +124669,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP038
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR038
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -124398,7 +124696,7 @@ name:
   pt:
   ja: セレブローズ・ゴシップ・マジシャン
   ja_romaji: Serebu Rōzu Goshippu Majishan
-  ko:
+  ko: 셀레브로즈 가십 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124412,7 +124710,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -124427,7 +124726,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は、［自分の墓地の装備魔法カードの数］×４００アップする。自分フィールドに表側表示の魔法カードがある場合、このカードは戦闘では破壊されない。
-  ko:
+  ko: |-
+    이 카드의 공격력은, [자신 묘지의 장착 마법 카드의 수] × 400 올린다. 자신 필드에 앞면 표시의 마법 카드가 있을 경우, 이 카드는 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124446,7 +124746,8 @@ materials:
   pt:
   ja: |-
     「セレブローズ・マジシャン」＋「ダークネス・パパラッチ」
-  ko:
+  ko: |-
+    "셀레브로즈 매지션" ＋ "다크니스 파파라치"
   zh-TW:
   zh-CN:
 series:
@@ -124457,6 +124758,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP039
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR039
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -124478,7 +124785,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>溶<rt>よう</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>ダークネス・バクハムート
   ja_romaji: Genkaiyōryū Dākunesu Bakuhamūto
-  ko:
+  ko: 환괴용룡 다크니스 바쿠하무트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124492,7 +124799,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -124505,7 +124813,8 @@ effect:
   pt:
   ja: |-
     相手のデッキの上からカード３枚を墓地へ送る。その中にモンスターがいた場合、さらに相手フィールドの裏側表示のカードを［この効果で墓地へ送られたモンスターの数］まで選んで破壊できる。その後、［この効果で破壊したカードの数］×５００ダメージを相手に与える。
-  ko:
+  ko: |-
+    상대의 덱 위에서 카드 3장을 묘지로 보낸다. 그 중에 몬스터가 있었을 경우, 추가로 상대 필드의 뒷면 표시의 카드를 [이 효과로 묘지로 보내진 몬스터의 수]까지 고르고 파괴할 수 있다. 그 후, [이 효과로 파괴한 카드의 수] × 500 데미지를 상대에게 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124524,7 +124833,8 @@ materials:
   pt:
   ja: |-
     「幻壊竜バクハムート」＋「ダークネス・ファントマイト」
-  ko:
+  ko: |-
+    "환괴룡 바쿠하무트" ＋ "다크니스 팬터마이트"
   zh-TW:
   zh-CN:
 series:
@@ -124535,6 +124845,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP040
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR040
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -124556,7 +124872,7 @@ name:
   pt:
   ja: ブルーグラス・ハイスティーラー
   ja_romaji: Burūgurasu Haisutīrā
-  ko:
+  ko: 블루그래스 하이스틸러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124570,7 +124886,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の魔法カードがある場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 마법 카드가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -124583,7 +124900,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの魔法・罠カード１枚を選んで持ち主の手札に戻す。その後、自分の墓地の「フィドルバドゥール」１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 마법 / 함정 카드 1장을 고르고 주인의 패로 되돌린다. 그 후, 자신 묘지의 "피들바두르" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124602,7 +124920,8 @@ materials:
   pt:
   ja: |-
     「ブルーグラス・スティーラー」＋「フィドルバドゥール」
-  ko:
+  ko: |-
+    "블루그래스 스틸러" ＋ "피들바두르"
   zh-TW:
   zh-CN:
 series:
@@ -124613,6 +124932,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP041
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR041
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -124633,7 +124957,7 @@ name:
   pt:
   ja: <ruby>瞬<rt>しゅん</rt></ruby><ruby>苛<rt>か</rt></ruby><ruby>闘<rt>とう</rt></ruby><ruby>奏<rt>そう</rt></ruby>のバンディーヴァ
   ja_romaji: Shunkatōsō no Bandīva
-  ko:
+  ko: 순가투주의 밴디바
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124647,7 +124971,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -124660,7 +124985,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、このカードの攻撃力は次の相手ターン終了時まで、［お互いの手札の数の合計］×５００アップする。自分の手札が１枚の場合、さらに相手フィールドのカード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 이 카드의 공격력은 다음 상대 턴 종료시까지, [서로의 패 수의 합계] × 500 올린다. 자신의 패가 1장일 경우, 추가로 상대 필드의 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124679,7 +125005,8 @@ materials:
   pt:
   ja: |-
     「闘奏のバンディージョ」＋「フィドルバドゥール」
-  ko:
+  ko: |-
+    "투주의 밴디죠" ＋ "피들바두르"
   zh-TW:
   zh-CN:
 series:
@@ -124690,6 +125017,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP042
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR042
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -124711,7 +125044,7 @@ name:
   pt:
   ja: <ruby>旋<rt>せん</rt></ruby><ruby>紫<rt>し</rt></ruby><ruby>斬<rt>ざん</rt></ruby><ruby>奏<rt>そう</rt></ruby>のプレクトクライブ
   ja_romaji: Senshizansō no Purekutokuraibu
-  ko:
+  ko: 선자참주의 프랙트크라이브
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124725,7 +125058,8 @@ requirement:
   pt:
   ja: |-
     手札の魔法カードを２枚まで相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 마법 카드를 2장까지 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -124738,7 +125072,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル８以下／風属性／サイキック族）を［この効果の条件で見せたカードの数］だけ選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 8 이하 / 바람 속성 / 사이킥족)를 [이 효과의 조건으로 보여준 카드의 수]만큼 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124757,7 +125092,8 @@ materials:
   pt:
   ja: |-
     「斬奏のプレクトクライム」＋「フィドルバドゥール」
-  ko:
+  ko: |-
+    "참주의 프랙트크라임" ＋ "피들바두르"
   zh-TW:
   zh-CN:
 series:
@@ -124768,6 +125104,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP043
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR043
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -124789,7 +125131,7 @@ name:
   pt:
   ja: <ruby>暗黒波導砲<rt>ダークハイドロキャノン</rt></ruby>ニュートロン・マグロム
   ja_romaji: Dāku Haidoro Kyanon Nyūtoron Maguromu
-  ko:
+  ko: 다크하이드로캐논 뉴트론 매그롬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124803,7 +125145,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -124818,7 +125161,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスターがフュージョンモンスターのみの場合、このカードは直接攻撃できる。相手フィールドに表側表示のマキシマムモンスターがいる場合、相手はモンスターの効果を発動できない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터가 퓨전 몬스터뿐일 경우, 이 카드는 직접 공격할 수 있다. 상대 필드에 앞면 표시의 맥시멈 몬스터가 있을 경우, 상대는 몬스터의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124837,7 +125181,8 @@ materials:
   pt:
   ja: |-
     「波導砲ビッグ・マグロム」＋「波導刀タネガシマグロ」
-  ko:
+  ko: |-
+    "하이드로캐논 빅 매그롬" ＋ "파랑도 타네가시마구로"
   zh-TW:
   zh-CN:
 images:
@@ -124846,6 +125191,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP044
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR044
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -124866,7 +125216,7 @@ name:
   pt:
   ja: <ruby>漆<rt>しっ</rt></ruby><ruby>黒<rt>こく</rt></ruby><ruby>波<rt>は</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>刀<rt>とう</rt></ruby><ruby>鬼<rt>おに</rt></ruby><ruby>丸<rt>まる</rt></ruby>クニツナ
   ja_romaji: Shikkoku Hadōtō Onimaru Kunitsuna
-  ko:
+  ko: 칠흑파랑도오니마루 쿠니튜나
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124880,7 +125230,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -124895,7 +125246,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃は貫通する。自分フィールドの表側表示モンスター（魚族）は相手の効果では破壊されない。
-  ko:
+  ko: |-
+    이 카드의 공격은 관통한다. 자신 필드의 앞면 표시 몬스터(어류족)는 상대 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124914,7 +125266,8 @@ materials:
   pt:
   ja: |-
     「波導刀鬼丸クニツナ」＋「波導銃ミニ・マグロム」
-  ko:
+  ko: |-
+    "파랑도오니마루 쿠니튜나" ＋ "하이드로건 미니 매그롬"
   zh-TW:
   zh-CN:
 series:
@@ -124925,6 +125278,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP045
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR045
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -124945,7 +125303,7 @@ name:
   pt:
   ja: メテオ・スウォーム・ドラゴン
   ja_romaji: Meteo Suwōmu Doragon
-  ko:
+  ko: 메테오 스웜 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -124959,7 +125317,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -124972,7 +125331,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（地属性／ドラゴン族／攻撃力１８００）１体を選び、自分フィールドに表側守備表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(땅 속성 / 드래곤족 / 공격력 1800) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -124991,7 +125351,8 @@ materials:
   pt:
   ja: |-
     「メテオ・ドラゴン」＋「メテオ・ドレイク」
-  ko:
+  ko: |-
+    "메테오 드래곤" ＋ "메테오 드레이크"
   zh-TW:
   zh-CN:
 series:
@@ -125002,6 +125363,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP046
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR046
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125022,7 +125388,7 @@ name:
   pt:
   ja: メテオ・ブラック・ドレイク
   ja_romaji: Meteo Burakku Doreiku
-  ko:
+  ko: 메테오 블랙 드레이크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125036,7 +125402,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に「メテオフレア・フュージョン」がある場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 "메테오플레어 퓨전"이 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125049,7 +125416,8 @@ effect:
   pt:
   ja: |-
     このカードは次の相手ターン終了時まで相手の効果では破壊されない。自分の墓地に「メテオフレア・フュージョン」が２枚以上ある場合、さらに相手に５００ダメージを与える。
-  ko:
+  ko: |-
+    이 카드는 다음 상대 턴 종료시까지 상대의 효과로는 파괴되지 않는다. 자신 묘지에 "메테오플레어 퓨전"이 2장 이상 있을 경우, 추가로 상대에게 500 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -125068,7 +125436,8 @@ materials:
   pt:
   ja: |-
     「真紅眼の黒竜」＋「メテオ・ドレイク」
-  ko:
+  ko: |-
+    "붉은 눈의 흑룡" ＋ "메테오 드레이크"
   zh-TW:
   zh-CN:
 series:
@@ -125079,6 +125448,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP047
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR047
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -125100,7 +125475,7 @@ name:
   pt:
   ja: メテオ・ブラック・マーズドラゴン
   ja_romaji: Meteo Burakku Māzudoragon
-  ko:
+  ko: 메테오 블랙 마르스드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125114,7 +125489,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に「メテオ・ドラゴン」がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 "메테오 드래곤"이 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125127,7 +125503,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで、［自分の墓地のモンスターの数］×２００アップし、その攻撃は貫通する。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지, [자신 묘지의 몬스터의 수] × 200 올리고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -125146,7 +125523,8 @@ materials:
   pt:
   ja: |-
     「真紅眼の黒竜」＋「メテオ・ドラゴン」
-  ko:
+  ko: |-
+    "붉은 눈의 흑룡" ＋ "메테오 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -125157,6 +125535,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP048
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR048
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -125179,7 +125564,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>光<rt>こう</rt></ruby><ruby>耀<rt>よう</rt></ruby> ガルフレア
   ja_romaji: Sōkyū no Kōyō Garufurea
-  ko:
+  ko: 창구의 광요 갈플레어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125193,7 +125578,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -125209,7 +125595,8 @@ effect:
   pt:
   ja: |-
     ●相手の墓地のカードを［自分フィールドの表側表示モンスター（天界戦士族）の数］×２枚まで選んでデッキに戻す。●自分の墓地のモンスター（レベル４以下／光属性・闇属性）１体または「蒼救の願い」１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    ●상대 묘지의 카드를 [자신 필드의 앞면 표시 몬스터(천계전사족)의 수] × 2장까지 고르고 덱으로 되돌린다. ●자신 묘지의 몬스터(레벨 4 이하 / 빛 속성・어둠 속성) 1장 또는 "창구의 소망" 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -125228,7 +125615,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 ランガ」＋「蒼救天使 ソレイル」
-  ko:
+  ko: |-
+    "창구기사 란가" ＋ "창구천사 솔레일"
   zh-TW:
   zh-CN:
 series:
@@ -125239,6 +125627,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP049
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR049
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125259,7 +125652,7 @@ name:
   pt:
   ja: ドラゴニック・プログレス
   ja_romaji: Doragonikku Puroguresu
-  ko:
+  ko: 드래고닉 프로그레스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125273,7 +125666,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125286,7 +125680,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル１／光属性・闇属性／ドラゴン族）１体を選んで手札に加える。その後、自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 1 / 빛 속성・어둠 속성 / 드래곤족) 1장을 고르고 패에 넣는다. 그 후, 자신 묘지의 "드래곤즈 버스트 퓨전" 또는 "드래곤즈 부스트 퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125299,6 +125694,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP050
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR050
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125319,7 +125719,7 @@ name:
   pt:
   ja: サイクイップ・フュージョン
   ja_romaji: Saikuippu Fyūjon
-  ko:
+  ko: 사이큅 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125333,7 +125733,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -125346,7 +125747,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（サイキック族）を素材として墓地へ送り、フュージョン召喚する。その後、自分の墓地にモンスター（風属性）がいる場合、自分の墓地の装備魔法カード１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(사이킥족)를 소재로서 묘지로 보내고, 퓨전 소환한다. 그 후, 자신 묘지에 몬스터(바람 속성)가 있을 경우, 자신 묘지의 장착 마법 카드 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125359,6 +125761,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP051
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR051
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -125379,7 +125786,7 @@ name:
   pt:
   ja: ミラクルピック
   ja_romaji: Mirakuru Pikku
-  ko:
+  ko: 미러클픽
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125393,7 +125800,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル７／光属性・闇属性／サイキック族／守備力０）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 7 / 빛 속성・어둠 속성 / 사이킥족 / 수비력 0) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125406,7 +125814,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中から１枚を選んで手札に加える。残りのカードを墓地へ送る。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 1장을 고르고 패에 넣는다. 남은 카드를 묘지로 보낸다. 이 턴에, 자신은 몬스터(오메가사이킥족・사이킥족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125419,6 +125828,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP052
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR052
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125439,7 +125853,7 @@ name:
   pt:
   ja: <ruby>透<rt>とう</rt></ruby><ruby>幻<rt>げん</rt></ruby><ruby>郷<rt>きょう</rt></ruby>の<ruby>錦<rt>きん</rt></ruby><ruby>綉<rt>しゅう</rt></ruby>
   ja_romaji: Tōgenkyō no Kinshū
-  ko:
+  ko: 투환향의 금수
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125453,7 +125867,8 @@ requirement:
   pt:
   ja: |-
     このカードは、自分の墓地のモンスター（幻竜族）１体をデッキの上に戻して発動できる。
-  ko:
+  ko: |-
+    이 카드는, 자신 묘지의 몬스터(환룡족) 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125466,7 +125881,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いのフィールドの表側表示モンスター（幻竜族）の攻撃力は３００アップし、その攻撃は貫通する。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 서로의 필드의 앞면 표시 몬스터(환룡족)의 공격력은 300 올리고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125479,6 +125895,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP053
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR053
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125499,7 +125920,7 @@ name:
   pt:
   ja: <ruby>波<rt>は</rt></ruby><ruby>涛<rt>とう</rt></ruby><ruby>融<rt>ゆう</rt></ruby><ruby>合<rt>ごう</rt></ruby>
   ja_romaji: Hatō Yūgō
-  ko:
+  ko: 파주융합
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125513,7 +125934,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（水属性／魚族）が５体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(물 속성 / 어류족)가 5장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125526,7 +125948,8 @@ effect:
   pt:
   ja: |-
     自分のフィールド・墓地のモンスター（水属性／魚族）を素材としてデッキに戻し、モンスター（水属性／魚族）をフュージョン召喚する。
-  ko:
+  ko: |-
+    자신의 필드 / 묘지의 몬스터(물 속성 / 어류족)를 소재로서 덱으로 되돌리고, 몬스터(물 속성 / 어류족)를 퓨전 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125537,6 +125960,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP054
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR054
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -125557,7 +125985,7 @@ name:
   pt:
   ja: <ruby>荒<rt>あら</rt></ruby><ruby>波<rt>なみ</rt></ruby>
   ja_romaji: Aranami
-  ko:
+  ko: 거센 파도
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125571,7 +125999,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -125584,7 +126013,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、自身のフィールドのモンスターが１体のみのプレイヤーはモンスター（魚族・海竜族・雷族・水族）でしかモンスターに攻撃できない。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 자신 필드의 몬스터가 1장뿐인 플레이어는 몬스터(어류족・해룡족・번개족・물족)로밖에 몬스터에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125595,6 +126025,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP055
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR055
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125615,7 +126050,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 샐비지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125629,7 +126064,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -125642,7 +126078,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（水属性／攻撃力１５００以下）２体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(물 속성 / 공격력 1500 이하) 2장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125654,6 +126091,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP056
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP15-KR056
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -125672,7 +126114,7 @@ name:
   pt:
   ja: メテオフレア・フュージョン
   ja_romaji: Meteofurea Fyūjon
-  ko:
+  ko: 메테오플레어 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125686,7 +126128,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -125699,7 +126142,8 @@ effect:
   pt:
   ja: |-
     「真紅眼の黒竜」「デーモンの召喚」「メテオ・ドラゴン」のいずれかを含む自分の手札・フィールドのモンスター２体を素材として墓地へ送り、フュージョン召喚する。この効果で効果モンスター以外のモンスターを特殊召喚した場合、さらに相手フィールドのカード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    "붉은 눈의 흑룡" "데몬 소환" "메테오 드래곤" 중 어느 것을 포함하는 자신의 패 / 필드의 몬스터 2장을 소재로서 묘지로 보내고, 퓨전 소환한다. 이 효과로 효과 몬스터 이외의 몬스터를 특수 소환했을 경우, 추가로 상대 필드의 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125712,6 +126156,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP057
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR057
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -125733,7 +126183,7 @@ name:
   pt:
   ja: <ruby>隕<rt>いん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>爪<rt>つめ</rt></ruby>
   ja_romaji: Insekiryū no Tsume
-  ko:
+  ko: 운석룡의 발톱
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125747,7 +126197,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（地属性・炎属性・闇属性／ドラゴン族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(땅 속성・화염 속성・어둠 속성 / 드래곤족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125760,7 +126211,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は３００アップする。装備モンスターが効果モンスター以外のフュージョンモンスターの場合、さらにその攻撃力は７００アップし、そのモンスターは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 300 올린다. 장착 몬스터가 효과 몬스터 이외의 퓨전 몬스터일 경우, 추가로 그 공격력은 700 올리고, 그 몬스터는 상대 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125773,6 +126225,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP058
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR058
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125793,7 +126250,7 @@ name:
   pt:
   ja: オトモダチ！
   ja_romaji: Otomodachi!
-  ko:
+  ko: 친구!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125807,7 +126264,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに同じ種族の表側表示モンスターが２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 같은 종족의 앞면 표시 몬스터가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125820,7 +126278,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分フィールドの同じ属性の表側表示モンスター２体を選んでその攻撃力をターン終了時まで４００アップできる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신 필드의 같은 속성의 앞면 표시 몬스터 2장을 고르고 그 공격력을 턴 종료시까지 400 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125831,6 +126290,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP059
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR059
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -125853,7 +126319,7 @@ name:
   pt:
   ja: メイドのいたずら
   ja_romaji: Meido no Itazura
-  ko:
+  ko: 메이드의 장난
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125867,7 +126333,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125880,7 +126347,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のモンスターを２体まで選んでデッキに戻す。その後、自分は［この効果で戻した効果モンスター（レベル７）の数］だけドローできる。
-  ko:
+  ko: |-
+    상대 묘지의 몬스터를 2장까지 고르고 덱으로 되돌린다. 그 후, 자신은 [이 효과로 되돌린 효과 몬스터(레벨 7)의 수]만큼 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -125893,6 +126361,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP060
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR060
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -125914,7 +126388,7 @@ name:
   pt:
   ja: ピース<ruby>＆<rt>アンド</rt></ruby>ロックンロール
   ja_romaji: Pīsu Ando Rokkunrōru
-  ko:
+  ko: 피스 & 록큰롤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125928,7 +126402,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「彩光のプリマギターナ」または「砕光のエスパレイド」がいる場合、相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 "채광의 프리마기타나" 또는 "쇄광의 에스파레이드"가 있을 경우, 상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -125941,7 +126416,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで破壊する。自分のＬＰが２０００以下の場合、さらにこのターン、自分は戦闘ダメージを受けず、相手の効果ではダメージを受けない。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 파괴한다. 자신의 LP가 2000 이하일 경우, 추가로 이 턴에, 자신은 전투 데미지를 받지 않으며, 상대 효과로는 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -125954,6 +126430,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP061
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR061
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -125974,7 +126455,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 피셔 차지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -125988,7 +126469,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、または相手が魔法カードを発動した後、自分フィールドの表側表示モンスター（魚族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 또는 상대가 마법 카드를 발동한 후, 자신 필드의 앞면 표시 몬스터(어류족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126001,7 +126483,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。その後、自分は１枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다. 그 후, 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -126012,6 +126495,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP062
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR062
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
@@ -126031,7 +126520,7 @@ name:
   pt:
   ja: メテオライト・フォール
   ja_romaji: Meteoraito Fōru
-  ko:
+  ko: 메테오라이트 폴
   ko_rr:
   zh-TW:
   zh-CN:
@@ -126045,7 +126534,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（ドラゴン族）が３体以上いる場合、相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(드래곤족)가 3장 이상 있을 경우, 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126058,7 +126548,8 @@ effect:
   pt:
   ja: |-
     攻撃してきたモンスターの攻撃力はターン終了時まで１０００ダウンする。その後、自分の墓地の「メテオフレア・フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    공격해 온 몬스터의 공격력은 턴 종료시까지 1000 내린다. 그 후, 자신 묘지의 "메테오플레어 퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -126071,6 +126562,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP063
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR063
     set_name: Red Reboot of Darkness
     rarities:
     - Common
@@ -126091,7 +126587,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>願<rt>ねが</rt></ruby>い
   ja_romaji: Sōkyū no Negai
-  ko:
+  ko: 창구의 소망
   ko_rr:
   zh-TW:
   zh-CN:
@@ -126105,7 +126601,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター（水属性／戦士族）１体とモンスター（天使族）１体を好きな順番でデッキの上に戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 자신 묘지의 몬스터(물 속성 / 전사족) 1장과 몬스터(천사족) 1장을 좋아하는 순서대로 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126118,7 +126615,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで持ち主のデッキの下に戻す。その後、自分の墓地の「蒼救の照覧」または「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 주인의 덱 아래로 되돌린다. 그 후, 자신 묘지의 "창구의 조람" 또는 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -126131,6 +126629,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP064
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR064
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -126152,7 +126656,7 @@ name:
   pt:
   ja: <ruby>救<rt>きゅう</rt></ruby><ruby>惺<rt>せい</rt></ruby><ruby>望<rt>ぼう</rt></ruby><ruby>御<rt>ぎょ</rt></ruby>
   ja_romaji: Kyūseibōgyo
-  ko:
+  ko: 구성망어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -126166,7 +126670,8 @@ requirement:
   pt:
   ja: |-
     相手ターンに相手がドローした時、または相手ターンに相手がモンスターを召喚・特殊召喚した時、自分フィールドのモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 턴에 상대가 드로우했을 때, 또는 상대 턴에 상대가 몬스터를 일반 소환 / 특수 소환했을 때, 자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126179,7 +126684,8 @@ effect:
   pt:
   ja: |-
     このターン、相手は１回しか攻撃宣言できない。さらに、相手フィールドの元々の攻撃力が３０００の表側表示のフュージョンモンスター（レベル９以上／魔導騎士族）１体を選んでそのコントロールを得る事ができる。
-  ko:
+  ko: |-
+    이 턴에, 상대는 1회밖에 공격 선언할 수 없다. 추가로, 상대 필드의 원래 공격력이 3000 인 앞면 표시 퓨전 몬스터(레벨 9 이상 / 마도 기사족) 1장을 고르고 그 컨트롤을 얻을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -126190,6 +126696,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP065
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR065
     set_name: Red Reboot of Darkness
     rarities:
     - Ultra Rare
@@ -126212,7 +126725,7 @@ name:
   pt:
   ja: フュージョンキャンセル
   ja_romaji: Fyūjon Kyanseru
-  ko:
+  ko: 퓨전 캔슬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -126226,7 +126739,8 @@ requirement:
   pt:
   ja: |-
     自分または相手のモンスターが戦闘で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신 또는 상대의 몬스터가 전투로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126239,7 +126753,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの表側表示のフュージョンモンスター１体を選んで持ち主のＥＸデッキに戻す。その後、戻されたモンスターの持ち主は、自身の墓地からそのモンスターに素材としてカード名が記されたモンスター一組を選んで自身のフィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 앞면 표시 퓨전 몬스터 1장을 고르고 주인의 엑스트라 덱으로 되돌린다. 그 후, 되돌려진 몬스터의 주인은, 자신 묘지에서 그 몬스터에 소재로서 카드명이 쓰여진 몬스터 1세트를 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -126252,6 +126767,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP066
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR066
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
@@ -126273,7 +126794,7 @@ name:
   pt:
   ja: エクリケラス・ドラコーン
   ja_romaji: Ekurikerasu Dorakōn
-  ko:
+  ko: 이클리케라스 드라콘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -126287,7 +126808,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドの表側表示モンスターのレベルの合計が１０以上の場合、このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터의 레벨의 합계가 10 이상일 경우, 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -126300,7 +126822,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（闇属性／ドラゴン族・悪魔族／守備力１２００）１体を選んで手札に加える。このターン、自分は効果モンスター（レベル６以下）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(어둠 속성 / 드래곤족・악마족 / 수비력 1200) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 효과 몬스터(레벨 6 이하)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -126318,6 +126841,11 @@ sets:
     set_name: Saikyō Jump December 2023 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP15-KRS02
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -139502,3 +140030,61 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1052574
+---
+konami_id:
+name:
+  en: Magnet Thunder Charge
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マグネット・サンダーチャージ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 Rock Type monster from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 2 cards. Then, if you have a face-up Rock Type monster with 3500 original ATK on your field, you can destroy 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Magnet Warrior
+images:
+- index: 1
+  image: MagnetThunderCharge-RDORP2-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/ORP2-JP035
+    set_name: Over Rush Pack 2
+    rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1052839
