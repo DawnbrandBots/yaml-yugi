@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>荒<rt>あら</rt></ruby><ruby>波<rt>なみ</rt></ruby>
   ja_romaji: Aranami
-  ko:
+  ko: 거센 파도
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、自身のフィールドのモンスターが１体のみのプレイヤーはモンスター（魚族・海竜族・雷族・水族）でしかモンスターに攻撃できない。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 자신 필드의 몬스터가 1장뿐인 플레이어는 몬스터(어류족・해룡족・번개족・물족)로밖에 몬스터에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP055
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR055
     set_name: Red Reboot of Darkness
     rarities:
     - Common

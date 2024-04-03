@@ -8,7 +8,7 @@ name:
   pt:
   ja: ミラクルピック
   ja_romaji: Mirakuru Pikku
-  ko:
+  ko: 미러클픽
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル７／光属性・闇属性／サイキック族／守備力０）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 7 / 빛 속성・어둠 속성 / 사이킥족 / 수비력 0) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はめくったカードの中から１枚を選んで手札に加える。残りのカードを墓地へ送る。このターン、自分はモンスター（オメガサイキック族・サイキック族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 1장을 고르고 패에 넣는다. 남은 카드를 묘지로 보낸다. 이 턴에, 자신은 몬스터(오메가사이킥족・사이킥족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP052
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR052
     set_name: Red Reboot of Darkness
     rarities:
     - Common

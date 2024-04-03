@@ -8,7 +8,7 @@ name:
   pt:
   ja: ドラゴニック・プログレス
   ja_romaji: Doragonikku Puroguresu
-  ko:
+  ko: 드래고닉 프로그레스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル１／光属性・闇属性／ドラゴン族）１体を選んで手札に加える。その後、自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 1 / 빛 속성・어둠 속성 / 드래곤족) 1장을 고르고 패에 넣는다. 그 후, 자신 묘지의 "드래곤즈 버스트 퓨전" 또는 "드래곤즈 부스트 퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP050
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR050
     set_name: Red Reboot of Darkness
     rarities:
     - Common

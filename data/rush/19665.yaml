@@ -8,7 +8,7 @@ name:
   pt:
   ja: ピュアラヴ・エンジェル
   ja_romaji: Pyuaravu Enjeru
-  ko:
+  ko: 퓨어라브 엔젤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -37,7 +38,8 @@ effect:
   pt:
   ja: |-
     このカードはモンスター（攻撃力２５００以上）との戦闘では破壊されない。このカードがモンスター（レベル９以下）と戦闘を行う場合、自分は戦闘ダメージを受けない。
-  ko:
+  ko: |-
+    이 카드는 몬스터(공격력 2500 이상)와의 전투로는 파괴되지 않는다. 이 카드가 몬스터(레벨 9 이하)와 전투를 실행할 경우, 자신은 전투 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -64,6 +66,12 @@ sets:
     set_name: Over Rush Pack 2
     rarities:
     - Over Rush Rare
+  ko:
+  - set_number: RD/KP15-KR030
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true

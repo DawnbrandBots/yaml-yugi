@@ -8,7 +8,7 @@ name:
   pt:
   ja: ストライピング・ワイバーン
   ja_romaji: Sutoraipingu Waibān
-  ko:
+  ko: 스트라이핑 와이반
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送り、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     手札の「碧牙の爆速竜」または「真紅動の撃速竜」１体を自分フィールドに表側守備表示で特殊召喚する。その後、自分の墓地の「ドラゴンズ・バースト・フュージョン」または「ドラゴンズ・ブースト・フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    패의 "블루 투스 버스트드래곤" 또는 "레드부트 부스트드래곤" 1장을 자신 필드에 앞면 수비 표시로 특수 소환한다. 그 후, 자신 묘지의 "드래곤즈 버스트 퓨전" 또는 "드래곤즈 부스트 퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -60,6 +62,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP15-KR005
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

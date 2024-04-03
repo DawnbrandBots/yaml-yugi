@@ -8,7 +8,7 @@ name:
   pt:
   ja: エクリケラス・ドラコーン
   ja_romaji: Ekurikerasu Dorakōn
-  ko:
+  ko: 이클리케라스 드라콘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドの表側表示モンスターのレベルの合計が１０以上の場合、このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터의 레벨의 합계가 10 이상일 경우, 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（闇属性／ドラゴン族・悪魔族／守備力１２００）１体を選んで手札に加える。このターン、自分は効果モンスター（レベル６以下）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(어둠 속성 / 드래곤족・악마족 / 수비력 1200) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 효과 몬스터(레벨 6 이하)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,11 @@ sets:
     set_name: Saikyō Jump December 2023 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP15-KRS02
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true

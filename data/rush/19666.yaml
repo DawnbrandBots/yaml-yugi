@@ -8,7 +8,7 @@ name:
   pt:
   ja: オウルチャンネル
   ja_romaji: Ouruchanneru
-  ko:
+  ko: 오울채널
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにカードが２枚以上ある場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대 필드에 카드가 2장 이상 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このターン、自分は相手の罠カードの効果ではダメージを受けない。さらに、自分の墓地のモンスター（鳥獣族／攻撃力２２００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 턴에, 자신은 상대의 함정 카드의 효과로는 데미지를 받지 않는다. 추가로, 자신 묘지의 몬스터(비행야수족 / 공격력 2200) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP031
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP15-KR031
     set_name: Red Reboot of Darkness
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: メイドのいたずら
   ja_romaji: Meido no Itazura
-  ko:
+  ko: 메이드의 장난
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のモンスターを２体まで選んでデッキに戻す。その後、自分は［この効果で戻した効果モンスター（レベル７）の数］だけドローできる。
-  ko:
+  ko: |-
+    상대 묘지의 몬스터를 2장까지 고르고 덱으로 되돌린다. 그 후, 자신은 [이 효과로 되돌린 효과 몬스터(레벨 7)의 수]만큼 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP15-JP060
+    set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP15-KR060
     set_name: Red Reboot of Darkness
     rarities:
     - Super Rare
