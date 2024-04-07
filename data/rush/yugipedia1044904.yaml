@@ -1,20 +1,20 @@
 konami_id:
 name:
-  en: Cybersepice Cumin
+  en: Cybersepice Hotpot
   de:
   es:
   fr:
   it:
   pt:
-  ja: サイバースパイス・クミン
-  ja_romaji: Saibāsupaisu Kumin
+  ja: サイバースパイス・ホットポット
+  ja_romaji: Saibāsupaisu Hottopotto
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    None
+    During your Main Phase that you Normal Summoned or Special Summoned this card.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Your opponent excavates the top card of their Deck. If that card is a monster, inflict damage to your opponent equal to [its Level] x 100. Your opponent places the excavated card on the top of their Deck.
+    Add 1 Level 7 or higher FIRE Attribute Cyberse Type monster or 1 "Spice Cross Mix" from your Graveyard to your hand.
   de:
   es:
   fr:
@@ -39,17 +39,17 @@ effect:
 card_type: Monster
 monster_type_line: Cyberse / Effect
 attribute: FIRE
-level: 3
-atk: 900
-def: 300
+level: 1
+atk: 100
+def: 100
 series:
 - Cybersepice
 images:
 - index: 1
-  image: CybersepiceCumin-RDKP17-JP-OP.png
+  image: CybersepiceHotpot-RDKP17-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP17-JP016
+  - set_number: RD/KP17-JP013
     set_name: Burst Rex of Awakening
     rarities:
     - Common
@@ -58,4 +58,4 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1046111
+yugipedia_page_id: 1044904
