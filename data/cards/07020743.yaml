@@ -1,7 +1,7 @@
 konami_id: 19887
 password: 7020743
 name:
-  en: Tantrum-Throwing Tyke
+  en: Tantrum Toddler
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 1 monsters
-    Once per Chain, if the activation of a card or effect is negated (except during the Damage Step): You can attach up to 1 card from each GY to this card as material. This card gains these effects based on the number of materials attached to it.
+    Once per Chain, if a card or effect activation is negated (except during the Damage Step): You can attach up to 1 card each from your GY and your opponent's GY to this card as material. This card gains effects based on the number of materials attached to it.
     ● 1+: Gains 700 ATK/DEF for each material attached to it.
     ● 4+: Cannot be destroyed by battle or card effects.
     ● 8+: (Quick Effect): You can detach 4 materials from this card; destroy all cards on the field.
@@ -46,7 +46,7 @@ def: 0
 materials: 2 Level 1 monsters
 images:
 - index: 1
-  image: TantrumThrowingTyke-LEDE-JP-NR.png
+  image: TantrumToddler-LEDE-JP-NR.png
 sets:
   ja:
   - set_number: LEDE-JP046
@@ -61,9 +61,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1040773

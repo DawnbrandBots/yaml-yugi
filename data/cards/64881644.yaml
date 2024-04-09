@@ -15,7 +15,7 @@ name:
   zh-CN: 幻奏歌姬 露芙兰
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can add 1 "Melodious" monster from your Deck to your hand, except "Refrain the Melodious Songstress". If a "Melodious" Fusion Monster(s) is Special Summoned to your field while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each monster effect of "Refrain the Melodious Songstress" once per turn.
+    If this card is Normal or Special Summoned: You can add 1 "Melodious" monster from your Deck to your hand, except "Refrain the Melodious Songstress". If a "Melodious" Fusion Monster(s) is Special Summoned to your field, while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of "Refrain the Melodious Songstress" once per turn.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 800
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    You can target 1 "Melodious" Fusion Monster you control; send 1 "Melodious" monster from your Deck to the GY, and if you do, the targeted monster gains ATK equal to the sent monster's Level x 200 until the end of this turn. You can only use this effect of "Refrain the Melodious Songstress" once per turn.
+    You can target 1 "Melodious" Fusion Monster you control; send 1 "Melodious" monster from your Deck to the GY, and if you do, the targeted monster gains ATK equal to the Level of that monster sent to the GY x 200 until the end of this turn. You can only use this effect of "Refrain the Melodious Songstress" once per turn.
   de:
   es:
   fr:
@@ -70,9 +70,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1034423

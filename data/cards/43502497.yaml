@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If this card is Normal or Pendulum Summoned: You can target 1 card in your Pendulum Zone; destroy both it and this card, and if you do, add 1 Level 4 or lower Pendulum Monster from your Deck to your hand. You can only use this effect of "Pendulum Witch" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
+    If this card is Normal or Pendulum Summoned: You can target 1 card in your Pendulum Zone; destroy both that target and this card, and if you do, add 1 Level 4 or lower Pendulum Monster from your Deck to your hand. You can only use this effect of "Pendulum Witch" once per turn. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
   de:
   es:
   fr:
@@ -35,7 +35,7 @@ def: 800
 pendulum_scale: 8
 pendulum_effect:
   en: |-
-    If a face-up Fusion, Synchro, and/or Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in the Pendulum Zone: You can add 1 Pendulum Monster with the same original Type as 1 of those monsters, from your Deck to your Extra Deck face-up. You can only use this effect of "Pendulum Witch" once per turn.
+    If a face-up Fusion, Synchro, and/or Xyz Monster(s) you control is destroyed by battle or an opponent's card effect while this card is in the Pendulum Zone: You can add 1 Pendulum Monster with the same original Type as 1 of those monsters, from your Deck to your face-up Extra Deck. You can only use this effect of "Pendulum Witch" once per turn.
   de:
   es:
   fr:
@@ -60,9 +60,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1012672

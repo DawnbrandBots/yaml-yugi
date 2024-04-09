@@ -15,7 +15,7 @@ name:
   zh-CN: 幻奏歌姬 库蒲蕾
 text:
   en: |-
-    If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon 1 Level 4 or lower "Melodious" monster from your hand or GY. If a "Melodious" Fusion Monster(s) is Special Summoned to your field while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each monster effect of "Couplet the Melodious Songstress" once per turn.
+    If this card is added to your hand, except by drawing it for your normal draw: You can reveal this card; Special Summon 1 Level 4 or lower "Melodious" monster from your hand or GY. If a "Melodious" Fusion Monster(s) is Special Summoned to your field, while this card is face-up in your Extra Deck (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of "Couplet the Melodious Songstress" once per turn.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 2000
 pendulum_scale: 9
 pendulum_effect:
   en: |-
-    You cannot Pendulum Summon monsters, except LIGHT monsters. This effect cannot be negated. If you do not control any face-up monsters, other than "Melodious" monsters: You can add 1 "Melodious" Spell/Trap from your Deck to your hand. You can only use this effect of "Couplet the Melodious Songstress" once per turn.
+    You cannot Pendulum Summon, except LIGHT monsters (this effect cannot be negated). If you do not control any face-up monsters, other than "Melodious" monsters: You can add 1 "Melodious" Spell/Trap from your Deck to your hand. You can only use this effect of "Couplet the Melodious Songstress" once per turn.
   de:
   es:
   fr:
@@ -71,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1034424
