@@ -139696,7 +139696,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    None
   de:
   es:
   fr:
@@ -139706,9 +139706,11 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    (TBA)
+    This card gains ATK equal to [the total original ATK of the monsters used as material for its Fusion Summon]. If you have a face-down monster on your field, this card cannot be destroyed by your opponent's card effects.
   de:
   es:
   fr:
@@ -139724,16 +139726,30 @@ attribute: DARK
 level: 9
 atk: 0
 def: 0
+materials:
+  en: |-
+    "Dark Matter Mist" + "Dark Matter Mist"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterEnigmata-OW.png
+  image: DarkMatterEnigmata-RDKP17-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP17-JP0??
+  - set_number: RD/KP17-JP048
     set_name: Burst Rex of Awakening
     rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -139743,7 +139759,69 @@ yugipedia_page_id: 1044908
 ---
 konami_id:
 name:
-  en: Dark Matter Cradoll
+  en: Dark Matter Lockdoll
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ロックドール
+  ja_romaji: Dākumatā Rokkudōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 DARK Attribute Galaxy Type monster with 1300 DEF from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card's name becomes "Dark Matter Mist" this turn. Then, you can draw 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 3
+atk: 800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterLockDoll-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP021
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044909
+---
+konami_id:
+name:
+  en: Dark Matter Craydoll
   de:
   es:
   fr:
@@ -139757,7 +139835,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    Pay 500 LP.
   de:
   es:
   fr:
@@ -139769,7 +139847,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    This card's name becomes "Dark Matter Mist" this turn. Then, you can add 1 "Fusion" from your Graveyard to your hand.
   de:
   es:
   fr:
@@ -139789,18 +139867,83 @@ series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterCradoll-OW.png
+  image: DarkMatterCraydoll-RDKP17-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP17-JP0??
+  - set_number: RD/KP17-JP023
     set_name: Burst Rex of Awakening
     rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1044910
+---
+konami_id:
+name:
+  en: Dark Matter Hazardoll
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ハザードール
+  ja_romaji: Dākumatā Hazādōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase this card was Normal or Special Summoned, send the top 3 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card's name becomes "Dark Matter Mist" this turn. Then, you can add 1 "Dark Matter Craydoll" or 1 "Dark Matter Lockdoll" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterHazardoll-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP026
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044911
 ---
 konami_id:
 name:
@@ -141416,3 +141559,391 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1054541
+---
+konami_id:
+name:
+  en: Dark Matter Deadcheer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・デッドエール
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send 1 monster from your field to the Graveyard. Then, you can Special Summon 1 Level 5 Galaxy Type monster with 1300 DEF from your Graveyard to your field in face-up Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 2
+atk: 400
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterDeadcheer-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP020
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054594
+---
+konami_id:
+name:
+  en: Dark Matter Jelly
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ジェリー
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have another face-up DARK Attribute Galaxy Type monster on your field, send 1 face-down monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent cannot activate Trap Cards during the Battle Phase this turn. Then, change this card to face-down Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 3
+atk: 1200
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterJelly-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP022
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054595
+---
+konami_id:
+name:
+  en: Dark Matter String
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ストリング
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 Level 5 or lower DARK Attribute Galaxy Type monster with 1300 DEF in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon the monster revealed to meet the requirement to your field in face-up Attack Position or face-down Defense Position. Then, this card gains 700 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterString-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP024
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054598
+---
+konami_id:
+name:
+  en: Dark Matter Knight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ナイト
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the total number of face-up Fusion Monsters on your field and face-down monsters on your field] x 500.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterKnight-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP025
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054599
+---
+konami_id:
+name:
+  en: Dark Matter Freya
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・フレイヤ
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Change this card's battle position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose 1 face-up DARK Attribute Galaxy Type monster on your field. If it attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). Then, you can change 1 face-up monster on the field to face-up Defense Position or face-down Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterFreya-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP027
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054600
+---
+konami_id:
+name:
+  en: Dark Matter Enigknight Sieger
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・エニグナイト・ズウィーガー
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card cannot be destroyed by your opponent's card effects. All face-up Level 7-9 monsters on your opponent's field lose ATK equal to [the number of face-down monsters on your field] x 1000.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 2800
+def: 1300
+materials:
+  en: |-
+    "Dark Matter Knight" + "Dark Matter Mist"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterEnigknightSieger-RDKP17-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP049
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054601
