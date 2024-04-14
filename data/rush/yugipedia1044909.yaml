@@ -1,20 +1,20 @@
 konami_id:
 name:
-  en: Dark Matter Craydoll
+  en: Dark Matter Lockdoll
   de:
   es:
   fr:
   it:
   pt:
-  ja: ダークマター・クレイドール
-  ja_romaji: Dākumatā Kureidōru
+  ja: ダークマター・ロックドール
+  ja_romaji: Dākumatā Rokkudōru
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Pay 500 LP.
+    Send 1 DARK Attribute Galaxy Type monster with 1300 DEF from your hand to the Graveyard.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card's name becomes "Dark Matter Mist" this turn. Then, you can add 1 "Fusion" from your Graveyard to your hand.
+    This card's name becomes "Dark Matter Mist" this turn. Then, you can draw 1 card.
   de:
   es:
   fr:
@@ -39,24 +39,23 @@ effect:
 card_type: Monster
 monster_type_line: Galaxy / Effect
 attribute: DARK
-level: 4
-atk: 1400
+level: 3
+atk: 800
 def: 1300
 series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterCraydoll-RDKP17-JP-OP.png
+  image: DarkMatterLockDoll-RDKP17-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP17-JP023
+  - set_number: RD/KP17-JP021
     set_name: Burst Rex of Awakening
     rarities:
-    - Super Rare
-    - Secret Rare
+    - Common
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044910
+yugipedia_page_id: 1044909

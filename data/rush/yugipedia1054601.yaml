@@ -1,13 +1,13 @@
 konami_id:
 name:
-  en: Dark Matter Enigmata
+  en: Dark Matter Enigknight Sieger
   de:
   es:
   fr:
   it:
   pt:
-  ja: ダークマター・エニグマータ
-  ja_romaji: Dākumatā Enigumāta
+  ja: ダークマター・エニグナイト・ズウィーガー
+  ja_romaji:
   ko:
   ko_rr:
   zh-TW:
@@ -28,7 +28,7 @@ effect_types:
 - Continuous
 effect:
   en: |-
-    This card gains ATK equal to [the total original ATK of the monsters used as material for its Fusion Summon]. If you have a face-down monster on your field, this card cannot be destroyed by your opponent's card effects.
+    This card cannot be destroyed by your opponent's card effects. All face-up Level 7-9 monsters on your opponent's field lose ATK equal to [the number of face-down monsters on your field] x 1000.
   de:
   es:
   fr:
@@ -42,11 +42,11 @@ card_type: Monster
 monster_type_line: Galaxy / Fusion / Effect
 attribute: DARK
 level: 9
-atk: 0
-def: 0
+atk: 2800
+def: 1300
 materials:
   en: |-
-    "Dark Matter Mist" + "Dark Matter Mist"
+    "Dark Matter Knight" + "Dark Matter Mist"
   de:
   es:
   fr:
@@ -60,17 +60,16 @@ series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterEnigmata-RDKP17-JP-OP.png
+  image: DarkMatterEnigknightSieger-RDKP17-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP17-JP048
+  - set_number: RD/KP17-JP049
     set_name: Burst Rex of Awakening
     rarities:
-    - Super Rare
-    - Secret Rare
+    - Rare
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044908
+yugipedia_page_id: 1054601
