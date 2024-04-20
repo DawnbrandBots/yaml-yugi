@@ -97207,6 +97207,8 @@ materials:
 images:
 - index: 1
   image: FiveHeadedDragon-RDLGP1-JP-UR.png
+- index: 2
+  image: FiveHeadedDragon-RDKP17-JP-OP.png
 sets:
   ja:
   - set_number: RD/LGP1-JP001
@@ -97214,6 +97216,10 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: RD/KP17-JP000
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Over Rush Rare
   ko:
   - set_number: RD/LGP1-KR001
     set_name: Legend Awakening Pack
@@ -106157,6 +106163,8 @@ effect:
   zh-CN:
 card_type: Spell
 property: Normal
+series:
+- Monarch
 images:
 - index: 1
   image: AdvanceImpact-RDKP13-JP-SR.png
@@ -139898,7 +139906,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    During your Main Phase this card was Normal or Special Summoned, send the top 3 cards of your Deck to the Graveyard.
+    During your Main Phase that you Normal Summoned or Special Summoned this card, send the top 3 cards of your Deck to the Graveyard.
   de:
   es:
   fr:
@@ -141696,7 +141704,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have another face-up DARK Attribute Galaxy Type monster on your field, send 1 face-down monster from your field to the Graveyard.
+    If you have a face-up DARK Attribute Galaxy Type monster on your field other than this card, send 1 face-down monster from your field to the Graveyard.
   de:
   es:
   fr:
@@ -141758,7 +141766,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Reveal 1 Level 5 or lower DARK Attribute Galaxy Type monster with 1300 DEF in your hand.
+    Reveal 1 Level 5 or lower DARK Attribute Galaxy Type monster with 1300 DEF in your hand to your opponent.
   de:
   es:
   fr:
@@ -142092,7 +142100,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    1 face-up "Dark Matter Enigmata" or "Dark Matter Enigknight Sieger" on your field gains ATK equal to [the original ATK of the face-up monster with the highest original ATK on your opponent's field] until the end of this turn.
+    1 face-up "Dark Matter Enigmata" or 1 face-up "Dark Matter Enigknight Sieger" on your field gains ATK equal to [the original ATK of the face-up monster with the highest original ATK on your opponent's field] until the end of this turn.
   de:
   es:
   fr:
@@ -142362,6 +142370,8 @@ attribute: LIGHT
 level: 4
 atk: 800
 def: 1000
+series:
+- Monarch
 images:
 - index: 1
   image: AdvanceForm-RDKP17-JP-OP.png
