@@ -43,8 +43,33 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: GruesomeGraveSquirmer-LEDE-JP-C.png
+  image: GruesomeGraveSquirmer-LEDE-EN-C-1E.png
 sets:
+  en:
+  - set_number: LEDE-EN019
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  de:
+  - set_number: LEDE-DE019
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  fr:
+  - set_number: LEDE-FR019
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  it:
+  - set_number: LEDE-IT019
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  pt:
+  - set_number: LEDE-PT019
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ja:
   - set_number: LEDE-JP019
     set_name: Legacy of Destruction
@@ -61,6 +86,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1038188

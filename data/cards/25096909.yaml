@@ -46,8 +46,33 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: SimultaneousEquationCannons-LEDE-JP-NR.png
+  image: SimultaneousEquationCannons-LEDE-EN-C-1E.png
 sets:
+  en:
+  - set_number: LEDE-EN080
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  de:
+  - set_number: LEDE-DE080
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  fr:
+  - set_number: LEDE-FR080
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  it:
+  - set_number: LEDE-IT080
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  pt:
+  - set_number: LEDE-PT080
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ja:
   - set_number: LEDE-JP080
     set_name: Legacy of Destruction
@@ -64,6 +89,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1038421

@@ -73,8 +73,33 @@ def: 0
 materials: 2 Level 1 monsters
 images:
 - index: 1
-  image: TantrumToddler-LEDE-JP-NR.png
+  image: TantrumToddler-LEDE-EN-C-1E.png
 sets:
+  en:
+  - set_number: LEDE-EN046
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  de:
+  - set_number: LEDE-DE046
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  fr:
+  - set_number: LEDE-FR046
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  it:
+  - set_number: LEDE-IT046
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
+  pt:
+  - set_number: LEDE-PT046
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ja:
   - set_number: LEDE-JP046
     set_name: Legacy of Destruction
@@ -91,6 +116,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1040773
