@@ -8,7 +8,7 @@ name:
   pt:
   ja: マジカル・ファイアストーム
   ja_romaji: Majikaru Faiasutōmu
-  ko:
+  ko: 매지컬 파이어스톰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの元々のレベルが６以下の表側表示モンスターを［自分フィールドの表側表示モンスター（魔法使い族）の数］まで選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 원래 레벨이 6 이하의 앞면 표시 몬스터를 [자신 필드의 앞면 표시 몬스터(마법사족)의 수]까지 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -49,6 +51,12 @@ sets:
     set_name: High-Grade Collection
     rarities:
     - Common
+  ko:
+  - set_number: RD/HC01-KR078
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

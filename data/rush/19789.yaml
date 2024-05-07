@@ -8,7 +8,7 @@ name:
   pt:
   ja: スプレンディッド・スラッシュ
   ja_romaji: Supurendiddo Surasshu
-  ko:
+  ko: 스플렌디드 슬래시
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時、自分の墓地の「ハーピィ・レディ」または「ハーピィ三姉妹」１体をデッキの上か下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 상대 공격 또는 상대 효과로 파괴되었을 때, 자신 묘지의 "해피 레이디" 또는 "해피레이디즈" 1장을 덱 위나 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで持ち主のデッキの下に戻す。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 주인의 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/HC01-JP070
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/HC01-KR064
     set_name: High-Grade Collection
     rarities:
     - Common

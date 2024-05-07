@@ -8,7 +8,7 @@ name:
   pt:
   ja: ギャラクテリアル・ピック
   ja_romaji: Gyarakuteriaru Pikku
-  ko:
+  ko: 갤럭테리얼 픽
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル８以下／ギャラクシー族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 8 이하 / 갤럭시족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のマキシマムモンスター（レベル１０／ギャラクシー族）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 맥시멈 몬스터(레벨 10 / 갤럭시족) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,12 @@ images:
 sets:
   ja:
   - set_number: RD/HC01-JP076
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+    - Super Rare
+  ko:
+  - set_number: RD/HC01-KR070
     set_name: High-Grade Collection
     rarities:
     - Common

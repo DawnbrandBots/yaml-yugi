@@ -8,7 +8,7 @@ name:
   pt:
   ja: ロイヤルデモンズ・エリートアンプ
   ja_romaji: Roiyaru Demonzu Erīto Anpu
-  ko:
+  ko: 로얄데먼즈 엘리트앰프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（悪魔族）が３体以上いる場合、または自分の墓地に「キングス・グリード」がある場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(악마족)가 3장 이상 있을 경우, 또는 자신 묘지에 "킹스 그리드"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル５以上／悪魔族／守備力０または２０００）１体を選んで手札に加える。このターン、自分はモンスター（悪魔族以外）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 5 이상 / 악마족 / 수비력 0 또는 2000) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(악마족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/HC01-JP048
+    set_name: High-Grade Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/HC01-KR045
     set_name: High-Grade Collection
     rarities:
     - Super Rare

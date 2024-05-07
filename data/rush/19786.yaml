@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>ＳＰ<rt>スーパー</rt></ruby>アシスタント・ヒーヤ
   ja_romaji: Sūpā Ashisutanto Hīya
-  ko:
+  ko: SP 어시스턴트 히야
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、手札の効果モンスター（炎属性）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상일 경우, 패의 효과 몬스터(화염 속성) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分の墓地の「ＳＰアシスタント・アーチ」を全て好きな順番でデッキの下に戻す事ができる。戻した場合、さらに自分は２枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신 묘지의 "SP(슈퍼) 어시스턴트 아치"를 전부 좋아하는 순서대로 덱 아래로 되돌릴 수 있다. 되돌렸을 경우, 추가로 자신은 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/HC01-JP064
+    set_name: High-Grade Collection
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/HC01-KR059
     set_name: High-Grade Collection
     rarities:
     - Common
