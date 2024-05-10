@@ -8,7 +8,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 악마의 주사위
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 상대 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 내린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP062
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR062
     set_name: Transamu of Transcendence
     rarities:
     - Common
