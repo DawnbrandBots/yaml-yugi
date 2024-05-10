@@ -96337,7 +96337,7 @@ name:
   it:
   pt:
   ja: <ruby>野<rt>や</rt></ruby><ruby>性<rt>せい</rt></ruby>なるバリア －ノラーフォース－
-  ja_romaji: Yaseinaru Baria - Norā Fōsu -
+  ja_romaji: Yaseinaru Baria -Norā Fōsu-
   ko: 야성의 베리어 －노라 포스－
   ko_rr:
   zh-TW:
@@ -127051,7 +127051,7 @@ name:
   pt:
   ja: <ruby>無<rt>む</rt></ruby><ruby>貌<rt>ぼう</rt></ruby>のカルドサック
   ja_romaji: Mubō no Karudosakku
-  ko:
+  ko: 무모의 칼드삭
   ko_rr:
   zh-TW:
   zh-CN:
@@ -127065,7 +127065,8 @@ summoning_condition:
   pt:
   ja: |-
     このカード以外の手札のモンスター（悪魔族）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드 이외의 패의 몬스터(악마족) 1장을 상대에게 보여주고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -127078,7 +127079,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -127093,7 +127095,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（悪魔族）の攻撃力は３００アップする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(악마족)의 공격력은 300 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -127111,6 +127114,11 @@ sets:
     set_name: Saikyō Jump January 2024 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP16-KRS01
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
@@ -130685,7 +130693,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 블랙 데몬즈 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -130699,7 +130707,8 @@ text:
   pt:
   ja: |-
     「デーモンの召喚」＋「真紅眼の黒竜」
-  ko:
+  ko: |-
+    "데몬 소환" ＋ "붉은 눈의 흑룡"
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -130737,6 +130746,11 @@ sets:
     rarities:
     - Common
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP16-KR000
+    set_name: Transamu of Transcendence
+    rarities:
+    - Over Rush Rare
 yugipedia_page_id: 1042437
 ---
 konami_id: 19949
@@ -130749,7 +130763,7 @@ name:
   pt:
   ja: プライム・ドワーフ
   ja_romaji: Puraimu Dowāfu
-  ko:
+  ko: 프라임 드워프
   ko_rr:
   zh-TW:
   zh-CN:
@@ -130763,7 +130777,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -130776,7 +130791,8 @@ effect:
   pt:
   ja: |-
     自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地の種族が異なるモンスター（光属性）３体を選んでデッキに戻す事ができる。戻した場合、さらにお互いのフィールドの表側表示モンスターの中からモンスター（光属性）を素材として墓地へ送ってモンスター（光属性）をフュージョン召喚できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터 1장을 고르고 묘지로 보낸다. 그 후, 자신 묘지의 종족이 다른 몬스터(빛 속성) 3장을 고르고 덱으로 되돌릴 수 있다. 되돌렸을 경우, 추가로 서로의 필드의 앞면 표시 몬스터 중에서 몬스터(빛 속성)를 소재로서 묘지로 보내고 몬스터(빛 속성)를 퓨전 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -130793,6 +130809,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP001
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR001
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -130814,7 +130836,7 @@ name:
   pt:
   ja: プライム・ファントマイト
   ja_romaji: Puraimu Fantomaito
-  ko:
+  ko: 프라임 팬터마이트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -130828,7 +130850,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（光属性）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(빛 속성) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -130841,7 +130864,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの攻撃表示モンスター（レベル７以上）１体を選んで裏側守備表示にする。その後、お互いは自身のデッキの上からカードを３枚めくり、お互いに確認する。お互いは自身がめくったカードを好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 공격 표시 몬스터(레벨 7 이상) 1장을 고르고 뒷면 수비 표시로 한다. 그 후, 양쪽 플레이어는 자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 양쪽 플레이어는 자신이 넘긴 카드를 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -130858,6 +130882,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP002
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR002
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -130878,7 +130907,7 @@ name:
   pt:
   ja: インタースプライム
   ja_romaji: Intāsupuraimu
-  ko:
+  ko: 인터스프라임
   ko_rr:
   zh-TW:
   zh-CN:
@@ -130892,7 +130921,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが光属性のみの場合、手札の効果モンスター（レベル７・８）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 빛 속성뿐일 경우, 패의 효과 몬스터(레벨 7・8) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -130905,7 +130935,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地の「トランザム・プライム・アーマーノヴァ」または「トランザム・ライナック」１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 자신 묘지의 "트랜잠 프라임 아머노바" 또는 "트랜잠 라이나크" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -130922,6 +130953,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP003
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR003
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -130942,7 +130978,7 @@ name:
   pt:
   ja: プライムクロー・ガール
   ja_romaji: Puraimukurō Gāru
-  ko:
+  ko: 프라임클로 걸
   ko_rr:
   zh-TW:
   zh-CN:
@@ -130956,7 +130992,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は２００になる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다. 그 경우, 이 카드의 원래 공격력은 200 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -130969,7 +131006,8 @@ requirement:
   pt:
   ja: |-
     手札２枚を好きな順番でデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 2장을 좋아하는 순서대로 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -130982,7 +131020,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（光属性）１体を選び、自分フィールドに表側守備表示で特殊召喚する。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(빛 속성) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 그 후, 자신 묘지의 "퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -130999,6 +131038,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP004
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR004
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131019,7 +131063,7 @@ name:
   pt:
   ja: プライム・トラクタイガー
   ja_romaji: Puraimu Torakutaigā
-  ko:
+  ko: 프라임 트랙타이거
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131033,7 +131077,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は１８００になる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다. 그 경우, 이 카드의 원래 공격력은 1800 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -131046,7 +131091,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131059,7 +131105,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃は貫通する。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고른다. 이 턴에, 그 몬스터의 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131076,6 +131123,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP005
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR005
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131096,7 +131148,7 @@ name:
   pt:
   ja: プライム・バンディージョ
   ja_romaji: Puraimu Bandījo
-  ko:
+  ko: 프라임 밴디죠
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131110,7 +131162,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は１８００になる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다. 그 경우, 이 카드의 원래 공격력은 1800 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -131123,7 +131176,8 @@ requirement:
   pt:
   ja: |-
     １０００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    1000 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131136,7 +131190,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル４以下／光属性）１体または「プライム・コール」１枚を選んで手札に加え、このカードの攻撃力はターン終了時まで５００アップする。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 4 이하 / 빛 속성) 1장 또는 "프라임 콜" 1장을 골라 패에 넣고, 이 카드의 공격력은 턴 종료시까지 500 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131153,6 +131208,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP006
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR006
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131173,7 +131233,7 @@ name:
   pt:
   ja: プライム・ディアン・ケト
   ja_romaji: Puraimu Dian Keto
-  ko:
+  ko: 프라임 다이안 켓
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131187,7 +131247,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター１体をリリースして攻撃表示でアドバンス召喚できる。その場合、このカードの元々の攻撃力は１０００になる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다. 그 경우, 이 카드의 원래 공격력은 1000 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -131200,7 +131261,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131213,7 +131275,8 @@ effect:
   pt:
   ja: |-
     自分は１０００ＬＰ回復し、このカードの攻撃力はターン終了時まで１０００アップする。その後、自分の墓地の「プライム・コール」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신은 1000 LP 회복하고, 이 카드의 공격력은 턴 종료시까지 1000 올린다. 그 후, 자신 묘지의 "프라임 콜" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131230,6 +131293,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP007
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR007
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131250,7 +131318,7 @@ name:
   pt:
   ja: トランザム・プライム・アーマーノヴァ
   ja_romaji: Toranzamu Puraimu Āmānova
-  ko:
+  ko: 트랜잠 프라임 아머노바
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131264,7 +131332,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター１体または３体をリリースして攻撃表示でアドバンス召喚できる。この方法で１体をリリースした場合、このカードの元々の攻撃力は１８００になる。
-  ko:
+  ko: |-
+    이 카드는 몬스터 1장 또는 3장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다. 이 방법으로 1장을 릴리스했을 경우, 이 카드의 원래 공격력은 1800 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -131277,7 +131346,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -131292,7 +131362,8 @@ effect:
   pt:
   ja: |-
     モンスター３体をリリースして召喚したこのカードの攻撃力は、［このカードを召喚する時にリリースしたモンスターの元々のレベルの合計］×１００アップする。
-  ko:
+  ko: |-
+    몬스터 3장을 릴리스하고 일반 소환한 이 카드의 공격력은, [이 카드를 일반 소환할 때에 릴리스한 몬스터의 원래 레벨의 합계] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131314,6 +131385,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR008
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -131331,7 +131408,7 @@ name:
   pt:
   ja: サイコロの<ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
   ja_romaji: Saikoro no Tenshi
-  ko:
+  ko: 주사위의 천사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131345,7 +131422,8 @@ requirement:
   pt:
   ja: |-
     「天使のサイコロ」以外の手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    "천사의 주사위" 이외의 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131358,7 +131436,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「天使のサイコロ」１枚を選んで手札に加える。相手フィールドにモンスターが２体以上いる場合、さらにサイコロを１回振る。６以外が出た場合、自分は６００ＬＰ回復する。
-  ko:
+  ko: |-
+    자신 묘지의 "천사의 주사위" 1장을 고르고 패에 넣는다. 상대 필드에 몬스터가 2장 이상 있을 경우, 추가로 주사위를 1회 던진다. 6 이외가 나왔을 경우, 자신은 600 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131375,6 +131454,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP009
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR009
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131395,7 +131479,7 @@ name:
   pt:
   ja: サイコロの<ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>
   ja_romaji: Saikoro no Akuma
-  ko:
+  ko: 주사위의 악마
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131409,7 +131493,8 @@ requirement:
   pt:
   ja: |-
     「悪魔のサイコロ」以外の手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    "악마의 주사위" 이외의 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131422,7 +131507,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「悪魔のサイコロ」１枚を選んで手札に加える。相手フィールドにモンスターが２体以上いる場合、さらにサイコロを１回振る。１以外が出た場合、相手に６００ダメージを与える。
-  ko:
+  ko: |-
+    자신 묘지의 "악마의 주사위" 1장을 고르고 패에 넣는다. 상대 필드에 몬스터가 2장 이상 있을 경우, 추가로 주사위를 1회 던진다. 1 이외가 나왔을 경우, 상대에게 600 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131439,6 +131525,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP010
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR010
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131459,7 +131550,7 @@ name:
   pt:
   ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>剣<rt>けん</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Saikoro no Daikenshi
-  ko:
+  ko: 주사위의 대검사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131473,7 +131564,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -131486,7 +131578,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。このターン、このカードは［出た目の数］まで攻撃できる。３以下が出た場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 이 턴에, 이 카드는 [나온 눈의 수]까지 공격할 수 있다. 3 이하가 나왔을 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131503,6 +131596,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP011
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR011
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131523,7 +131621,7 @@ name:
   pt:
   ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
   ja_romaji: Saikoro no Daitenshi
-  ko:
+  ko: 주사위의 대천사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131537,7 +131635,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -131550,7 +131649,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。自分フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００アップする。自分の墓地に「天使のサイコロ」がある場合、代わりに［出た目の数］×２００アップする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 자신 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 올린다. 자신 묘지에 "천사의 주사위"가 있을 경우, 대신에 [나온 눈의 수] × 200 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131567,6 +131667,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP012
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR012
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131587,7 +131692,7 @@ name:
   pt:
   ja: サイコロの<ruby>大<rt>だい</rt></ruby><ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>
   ja_romaji: Saikoro no Daiakuma
-  ko:
+  ko: 주사위의 대악마
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131601,7 +131706,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -131614,7 +131720,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。自分の墓地に「悪魔のサイコロ」がある場合、代わりに［出た目の数］×２００ダウンする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 상대 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 내린다. 자신 묘지에 "악마의 주사위"가 있을 경우, 대신에 [나온 눈의 수] × 200 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131631,6 +131738,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP013
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR013
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -131651,7 +131763,7 @@ name:
   pt:
   ja: ダイスキー・キャラメイル
   ja_romaji: Daisukī Kyarameiru
-  ko:
+  ko: 다이스키 캐러메일
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131665,7 +131777,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -131680,7 +131793,8 @@ effect:
   pt:
   ja: |-
     自分フィールドにサイコロを振る効果を持つ表側表示モンスター（レベル７以上）がいる限り、相手はお互いのバトルフェイズ中に罠カードを発動できない。
-  ko:
+  ko: |-
+    자신 필드에 주사위를 던지는 효과를 가지는 앞면 표시 몬스터(레벨 7 이상)가 있는 한, 상대는 서로의 배틀 페이즈 중에 함정 카드를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131697,6 +131811,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP014
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR014
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -131718,7 +131838,7 @@ name:
   pt:
   ja: ダイスキー・ミンナ
   ja_romaji: Daisukī Minna
-  ko:
+  ko: 다이스키 민나
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131732,7 +131852,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにサイコロを振る効果を持つ表側表示モンスターがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 주사위를 던지는 효과를 가지는 앞면 표시 몬스터가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131745,7 +131866,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの全ての表側表示モンスターの攻撃力は次の相手ターン終了時まで６００アップする。その後、自分の墓地のモンスター（天使族／攻撃力３００／守備力１２００）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 필드의 모든 앞면 표시 몬스터의 공격력은 다음 상대 턴 종료시까지 600 올린다. 그 후, 자신 묘지의 몬스터(천사족 / 공격력 300 / 수비력 1200) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131762,6 +131884,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP015
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR015
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -131783,7 +131911,7 @@ name:
   pt:
   ja: ダイスマイトガール・チロリ
   ja_romaji: Daisumaito Gāru Chirori
-  ko:
+  ko: 다이스마이트걸 치로리
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131797,7 +131925,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -131813,7 +131942,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。出た目の効果をターン終了時まで適用する。●１・２：このカードの攻撃力は１０００ダウンする。●３・４：このカードの攻撃力は６００アップする。●５・６：相手フィールドの表側表示モンスター１体を選び、このカードの攻撃力は［選んだモンスターの元々の攻撃力］だけアップする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 나온 눈의 효과를 턴 종료시까지 적용한다. ●1・2: 이 카드의 공격력은 1000 내린다. ●3・4: 이 카드의 공격력은 600 올린다. ●5・6: 상대 필드의 앞면 표시 몬스터 1장을 고르고, 이 카드의 공격력은 [고른 몬스터의 원래 공격력]만큼 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131836,6 +131966,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR016
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -131853,7 +131989,7 @@ name:
   pt:
   ja: ジョインテック・ネストライダー・タンク
   ja_romaji: Jointekku Nesutoraidā Tanku
-  ko:
+  ko: 조인테크 네스트라이더 탱크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131867,7 +132003,8 @@ requirement:
   pt:
   ja: |-
     手札２枚をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    패 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131880,7 +132017,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル７・８／闇属性）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果の発動後、ターン終了時まで自分は「ジョインテック・トライ・ダイナベース」しか特殊召喚できず、自分はモンスター（闇属性）の効果を発動できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 7・8 / 어둠 속성) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 "조인테크 트라이 다이너베이스"밖에 특수 소환할 수 없으며, 자신은 몬스터(어둠 속성)의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131901,6 +132039,11 @@ sets:
     set_name: Transamu of Transcendence
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP16-KR017
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true
@@ -131918,7 +132061,7 @@ name:
   pt:
   ja: ダークネス・ジョインテック・タイラント
   ja_romaji: Dākunesu Jointekku Tairanto
-  ko:
+  ko: 다크니스 조인테크 타이란트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131932,7 +132075,8 @@ requirement:
   pt:
   ja: |-
     自分がモンスターの効果を発動していないターンに発動できる。
-  ko:
+  ko: |-
+    자신이 몬스터의 효과를 발동하고 있지 않은 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -131945,7 +132089,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の種族が異なるモンスター（レベル７・８／闇属性）２体を選んで手札に加える。その後、このカードのカード名はこのターン、「ジョインテック・ネストライダー・タンク」になる。
-  ko:
+  ko: |-
+    자신 묘지의 종족이 다른 몬스터(레벨 7・8 / 어둠 속성) 2장을 고르고 패에 넣는다. 그 후, 이 카드의 카드명은 이 턴에, "조인테크 네스트라이더 탱크"가 된다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -131966,6 +132111,11 @@ sets:
     set_name: Transamu of Transcendence
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP16-KR018
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true
@@ -131983,7 +132133,7 @@ name:
   pt:
   ja: <ruby>電<rt>でん</rt></ruby><ruby>獅<rt>し</rt></ruby><ruby>子<rt>し</rt></ruby>バンデ
   ja_romaji: Denshishi Bande
-  ko:
+  ko: 전사자 밴데
   ko_rr:
   zh-TW:
   zh-CN:
@@ -131997,7 +132147,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが２体以下の場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 2장 이하일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132010,7 +132161,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを［自分フィールドの表側表示モンスター（炎族・水族・雷族）の数］×２枚墓地へ送る。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 [자신 필드의 앞면 표시 몬스터(화염족・물족・번개족)의 수] × 2장 묘지로 보낸다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132027,6 +132179,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP019
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR019
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -132047,7 +132204,7 @@ name:
   pt:
   ja: <ruby>蒸<rt>じょう</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>燕<rt>えん</rt></ruby>ジェムズ
   ja_romaji: Jōkien Jemuzu
-  ko:
+  ko: 증기연 젬즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132061,7 +132218,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132074,7 +132232,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル２以下／炎属性／雷族）１体を選び、自分フィールドに表側守備表示で特殊召喚する。その後、自分の墓地の「フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 2 이하 / 화염 속성 / 번개족) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 그 후, 자신 묘지의 "퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132091,6 +132250,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP020
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR020
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -132111,7 +132275,7 @@ name:
   pt:
   ja: アビスレイヤー・クインティアマット
   ja_romaji: Abisureiyā Kuintiamatto
-  ko:
+  ko: 어비스슬레이어 퀸티아매트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132125,7 +132289,8 @@ requirement:
   pt:
   ja: |-
     マキシマムモンスター（海竜族）を含む自分の墓地のモンスターを３体までデッキに戻して発動できる。
-  ko:
+  ko: |-
+    맥시멈 몬스터(해룡족)를 포함하는 자신 묘지의 몬스터를 3장까지 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132138,7 +132303,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分のデッキの上からカードを５枚めくる事ができる。めくった場合、お互いに確認する。自分はその中からモンスター（レベル７以上／海竜族）を３体まで選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신의 덱 위에서 카드를 5장 넘길 수 있다. 넘겼을 경우, 서로 확인한다. 자신은 그 중에서 몬스터(레벨 7 이상 / 해룡족)를 3장까지 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132155,6 +132321,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP021
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR021
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -132177,7 +132350,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>官<rt>かん</rt></ruby>ミスファイア
   ja_romaji: Himitsu Sōsakan Misufaia
-  ko:
+  ko: 비밀수사관 미스파이어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132191,7 +132364,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、３００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 300 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132204,7 +132378,8 @@ effect:
   pt:
   ja: |-
     ［自分フィールドの表側表示モンスター（光属性／爬虫類族）の数］×３００ダメージを相手に与える。このターン、自分はモンスター（爬虫類族以外）で攻撃できない。
-  ko:
+  ko: |-
+    [자신 필드의 앞면 표시 몬스터(빛 속성 / 파충류족)의 수] × 300 데미지를 상대에게 준다. 이 턴에, 자신은 몬스터(파충류족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132221,6 +132396,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP022
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR022
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -132241,7 +132421,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>基地<rt>ベース</rt></ruby><ruby>守護神<rt>ガーディアン</rt></ruby>ミスショット
   ja_romaji: Himitsu Bēsu Gādian Misushotto
-  ko:
+  ko: 비밀베이스가디언 미스샷
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132255,7 +132435,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル３／光属性／爬虫類族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 3 / 빛 속성 / 파충류족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132268,7 +132449,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は次の相手ターン終了時まで３０００アップする。「エリート秘密捜査官ミステリー」をリリースしてこのカードを召喚したターンにこの効果を発動した場合、さらに相手フィールドの表側表示モンスター（レベル８以下）を３体まで選んで破壊できる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 다음 상대 턴 종료시까지 3000 올린다. "엘리트 비밀수사관 미스터리"를 릴리스하고 이 카드를 일반 소환한 턴에 이 효과를 발동했을 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 8 이하)를 3장까지 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132285,6 +132467,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP023
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR023
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -132305,7 +132492,7 @@ name:
   pt:
   ja: セブンスフィアー・マジシャン
   ja_romaji: Sebunsu Fiā Majishan
-  ko:
+  ko: 세븐즈피어 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132319,7 +132506,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132332,7 +132520,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「セブンスロード・マジシャン」になる。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで［自分の墓地のモンスターの属性の種類］×３００ダウンできる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "세븐즈로드 매지션"이 된다. 그 후, 상대 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 [자신 묘지 몬스터의 속성의 종류] × 300 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132355,6 +132544,12 @@ sets:
     set_name: Yu-Gi-Oh! GO RUSH!! Duel-8 Blu-ray & DVD promotional card
     rarities:
     - Ultra Parallel Rare
+  ko:
+  - set_number: RD/KP16-KR024
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
@@ -132372,7 +132567,7 @@ name:
   pt:
   ja: <ruby>ＣＡＮ<rt>キャン</rt></ruby>－<ruby>Ｓｔ：Ｄ<rt>スタディー</rt></ruby>
   ja_romaji: Kyan-Sutadī
-  ko:
+  ko: CAN－St:D
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132386,7 +132581,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがオメガサイキック族・サイキック族のみの場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 오메가사이킥족 / 사이킥족뿐일 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132399,7 +132595,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選んで持ち主の手札に戻す。自分の墓地に「ＣＡＮ：Ｄ」がいる場合、さらに自分は７００ＬＰ回復する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고 주인의 패로 되돌린다. 자신 묘지에 "CAN(캔):D(디)"가 있을 경우, 추가로 자신은 700 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132416,6 +132613,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP025
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR025
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -132438,7 +132642,7 @@ name:
   pt:
   ja: <ruby>人<rt>じん</rt></ruby><ruby>造<rt>ぞう</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>間<rt>げん</rt></ruby>７．７<ruby>号<rt>ごう</rt></ruby>
   ja_romaji: Jinzōningen Nana-ten-Nana-gō
-  ko:
+  ko: 인조인간 7.7호
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132452,7 +132656,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター１体をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132465,7 +132670,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードは直接攻撃できる。さらに、自分の墓地の「マシン・インスペクター」または「電脳加速器」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 직접 공격할 수 있다. 추가로, 자신 묘지의 "머신 인스펙터" 또는 "전뇌가속기" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132482,6 +132688,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP026
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR026
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -132502,7 +132713,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 인조인간－사이코 리터너
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132516,7 +132727,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132529,7 +132741,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「人造人間－サイコ・ショッカー」１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 "인조인간 －사이코 쇼커－" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132549,6 +132762,11 @@ sets:
     set_name: Transamu of Transcendence
     rarities:
     - Common
+  ko:
+  - set_number: RD/KP16-KR027
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
 is_translation_unofficial:
   text:
     en: true
@@ -132564,7 +132782,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 위협의 인조인간 －사이코 쇼커－
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132578,7 +132796,8 @@ summoning_condition:
   pt:
   ja: |-
     自分または相手の墓地に罠カードがある場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 또는 상대의 묘지에 함정 카드가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -132591,7 +132810,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132604,7 +132824,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「人造人間－サイコ・ショッカー」１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手の魔法＆罠ゾーンの裏側表示のカードを全て確認できる。確認した場合、さらにその中の罠カードを全て破壊する。
-  ko:
+  ko: |-
+    자신 묘지의 "인조인간 －사이코 쇼커－" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 상대의 마법 & 함정 존의 뒷면 표시의 카드를 전부 확인할 수 있다. 확인했을 경우, 추가로 그 중의 함정 카드를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132625,6 +132846,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR028
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
@@ -132640,7 +132867,7 @@ name:
   pt:
   ja: サイコ・ショッカー・アンプリファイド
   ja_romaji: Saiko Shokkā Anpurifaido
-  ko:
+  ko: 사이코 쇼커 앰플리파이드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132654,7 +132881,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にいるこのカードのカード名は「人造人間－サイコ・ショッカー」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "인조인간 －사이코 쇼커－"가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -132667,7 +132895,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132680,7 +132909,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードは相手の罠カードの効果では破壊されない。さらに、このカードの攻撃力をターン終了時まで、［自分の墓地のモンスター（機械族）の数］×１００アップできる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 상대의 함정 카드의 효과로는 파괴되지 않는다. 추가로, 이 카드의 공격력을 턴 종료시까지, [자신 묘지의 몬스터(기계족)의 수] × 100 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132697,6 +132927,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP029
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR029
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -132718,7 +132954,7 @@ name:
   pt:
   ja: カタパルト・ベビータートル
   ja_romaji: Kataparuto Bebī Tātoru
-  ko:
+  ko: 중강갑 베이비거북
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132732,7 +132968,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132745,7 +132982,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のモンスター２体を選んでデッキに戻す。その後、自分の墓地の「竜騎士ガイア」またはモンスター（水族／守備力２０００）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 묘지의 몬스터 2장을 고르고 덱으로 되돌린다. 그 후, 자신 묘지의 "용기사 가이아" 또는 몬스터(물족 / 수비력 2000) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132762,6 +133000,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP030
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR030
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -132782,7 +133025,7 @@ name:
   pt:
   ja: アニマジカ・ウィッチ
   ja_romaji: Animajika Witchi
-  ko:
+  ko: 애니매지카 위치
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132796,7 +133039,8 @@ requirement:
   pt:
   ja: |-
     手札の効果モンスター（レベル７・８／光属性）を２体まで相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 효과 몬스터(레벨 7・8 / 빛 속성)를 2장까지 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132809,7 +133053,8 @@ effect:
   pt:
   ja: |-
     自分は［この効果の条件で見せたモンスターの数］だけドローする。その後、自分は手札を［この効果でドローした数］だけ選んでデッキに戻す。
-  ko:
+  ko: |-
+    자신은 [이 효과의 조건으로 보여준 몬스터의 수]만큼 드로우한다. 그 후, 자신은 패를 [이 효과로 드로우한 수]만큼 고르고 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132826,6 +133071,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP031
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR031
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -132847,7 +133098,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 번롱하는 엘프 검사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132861,7 +133112,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -132876,7 +133128,8 @@ effect:
   pt:
   ja: |-
     このカードはモンスター（攻撃力１９００以上）との戦闘では破壊されない。
-  ko:
+  ko: |-
+    이 카드는 몬스터(공격력 1900 이상)와의 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132891,6 +133144,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP032
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR032
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -132910,7 +133169,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 스나이프 스토커
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132924,7 +133183,8 @@ requirement:
   pt:
   ja: |-
     手札を好きな数だけ墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패를 좋아하는 수만큼 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132937,7 +133197,8 @@ effect:
   pt:
   ja: |-
     サイコロを［この効果の条件で墓地へ送ったカードの数］だけ振る。［１・６以外が出た回数］まで相手フィールドのカードを選んで破壊する。
-  ko:
+  ko: |-
+    주사위를 [이 효과의 조건으로 묘지로 보낸 카드의 수]만큼 던진다. [1・6 이외가 나온 횟수]까지 상대 필드의 카드를 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -132957,6 +133218,12 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR033
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
@@ -132972,7 +133239,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 금빛의 날치
   ko_rr:
   zh-TW:
   zh-CN:
@@ -132986,7 +133253,8 @@ requirement:
   pt:
   ja: |-
     このカード以外の自分フィールドの表側表示モンスター（魚族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드 이외의 자신 필드의 앞면 표시 몬스터(어류족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -132999,7 +133267,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133018,6 +133287,11 @@ sets:
     set_name: Transamu of Transcendence
     rarities:
     - Rare
+  ko:
+  - set_number: RD/KP16-KR034
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
 is_translation_unofficial:
   text:
     en: true
@@ -133033,7 +133307,7 @@ name:
   pt:
   ja: ミスト・アサシン
   ja_romaji: Misuto Asashin
-  ko:
+  ko: 미스트 어쌔신
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133047,7 +133321,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -133060,7 +133335,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」「フュージョンキャンセル」を合計２枚まで選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" "퓨전 캔슬"을 합계 2장까지 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133075,6 +133351,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP035
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR035
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -133095,7 +133376,7 @@ name:
   pt:
   ja: <ruby>七<rt>しち</rt></ruby><ruby>宝<rt>ほう</rt></ruby><ruby>神<rt>じん</rt></ruby>－<ruby>良<rt>りょう</rt></ruby><ruby>財<rt>ざい</rt></ruby>
   ja_romaji: Shichihōjin - Ryōzai
-  ko:
+  ko: 칠보신－양재
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133109,7 +133390,8 @@ summoning_condition:
   pt:
   ja: |-
     自分の墓地にモンスター（守備力２７００）または「七宝船」がある場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(수비력 2700) 또는 "칠보선"이 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -133122,7 +133404,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133137,7 +133420,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル７）と自分フィールドの裏側表示の魔法・罠カードは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 7)와 자신 필드의 뒷면 표시의 마법 / 함정 카드는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133152,6 +133436,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP036
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR036
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -133174,7 +133465,7 @@ name:
   pt:
   ja: プライム・ピアース・ジャイアント
   ja_romaji: Puraimu Piāsu Jaianto
-  ko:
+  ko: 프라임 피어스 자이언트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133188,7 +133479,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133203,7 +133495,8 @@ effect:
   pt:
   ja: |-
     自分のモンスター（レベル７以上／光属性）の攻撃は貫通する。相手ターンの間、自分フィールドのモンスターはフュージョン召喚の素材にできない。
-  ko:
+  ko: |-
+    자신 몬스터(레벨 7 이상 / 빛 속성)의 공격은 관통한다. 상대 턴 동안, 자신 필드의 몬스터는 퓨전 소환의 소재로 할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133222,7 +133515,8 @@ materials:
   pt:
   ja: |-
     「プライム・ドワーフ」＋モンスター（レベル８以下／光属性）
-  ko:
+  ko: |-
+    "프라임 드워프" ＋ 몬스터(레벨 8 이하 / 빛 속성)
   zh-TW:
   zh-CN:
 series:
@@ -133233,6 +133527,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP037
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR037
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -133253,7 +133552,7 @@ name:
   pt:
   ja: プライムキャット・ストライニャー
   ja_romaji: Puraimukyatto Sutorainyā
-  ko:
+  ko: 프라임캣 스트라이냐
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133267,7 +133566,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133282,7 +133582,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル７以上／光属性）の攻撃力は２００アップし、相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 7 이상 / 빛 속성)의 공격력은 200 올리고, 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133301,7 +133602,8 @@ materials:
   pt:
   ja: |-
     「プライムクロー・ガール」＋モンスター（光属性）
-  ko:
+  ko: |-
+    "프라임클로 걸" ＋ 몬스터(빛 속성)
   zh-TW:
   zh-CN:
 series:
@@ -133313,6 +133615,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP038
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR038
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -133333,7 +133640,7 @@ name:
   pt:
   ja: トランザム・プライム・フルアーマーノヴァ
   ja_romaji: Toranzamu Puraimu Furuāmānova
-  ko:
+  ko: 트랜잠 프라임 풀아머노바
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133347,7 +133654,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133362,7 +133670,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は、［お互いの墓地のモンスターの種族の種類］×３００アップする。お互いの墓地のモンスターの種族が５種類以上の場合、このカードは相手の効果では破壊されず、１０種類以上の場合、さらにこのカードの攻撃力は３０００アップする。
-  ko:
+  ko: |-
+    이 카드의 공격력은, [서로의 묘지의 몬스터 종족의 종류] × 300 올린다. 서로의 묘지의 몬스터 종족이 5종류 이상일 경우, 이 카드는 상대의 효과로는 파괴되지 않으며, 10종류 이상일 경우, 추가로 이 카드의 공격력은 3000 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133381,7 +133690,8 @@ materials:
   pt:
   ja: |-
     「トランザム・プライム・アーマーノヴァ」＋「トランザム・ライナック」
-  ko:
+  ko: |-
+    "트랜잠 프라임 아머노바" ＋ "트랜잠 라이나크"
   zh-TW:
   zh-CN:
 series:
@@ -133393,6 +133703,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP039
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR039
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -133415,7 +133732,7 @@ name:
   pt:
   ja: トランザムヴェルグ・ライナック
   ja_romaji: Toranzamuverugu Rainakku
-  ko:
+  ko: 트랜잠베르그 라이나크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133429,7 +133746,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード３枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -133442,7 +133760,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は次の相手ターン終了時まで９００アップする。この効果の条件でモンスター（光属性・闇属性）が墓地へ送られた場合、さらに相手フィールドの全ての表側表示モンスターの攻撃力を次の相手ターン終了時まで１０００ダウンできる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 다음 상대 턴 종료시까지 900 올린다. 이 효과의 조건으로 몬스터(빛 속성・어둠 속성)가 묘지로 보내졌을 경우, 추가로 상대 필드의 모든 앞면 표시 몬스터의 공격력을 다음 상대 턴 종료시까지 1000 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133461,7 +133780,8 @@ materials:
   pt:
   ja: |-
     「トランザム・ライナック」＋「ヴォイドヴェルグ・レクイエム」
-  ko:
+  ko: |-
+    "트랜잠 라이나크" ＋ "보이드베르그 레퀴엠"
   zh-TW:
   zh-CN:
 series:
@@ -133472,6 +133792,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP040
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR040
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -133493,7 +133819,7 @@ name:
   pt:
   ja: ジョインテック・トライ・ダイナベース
   ja_romaji: Jointekku Torai Dainabēsu
-  ko:
+  ko: 조인테크 트라이 다이너베이스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133507,7 +133833,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133522,7 +133849,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃は貫通する。元々のカード名が「ヴォイドヴェルグ・レクイエム」「アビスレイヤー・リヴァイアナイト」のモンスターをそれぞれ素材として墓地へ送ってこのカードをフュージョン召喚したターン、このカードは３回攻撃できる。
-  ko:
+  ko: |-
+    이 카드의 공격은 관통한다. 원래의 카드명이 "보이드베르그 레퀴엠" "어비스슬레이어 리바이어나이트"인 몬스터를 각각 소재로서 묘지로 보내고 이 카드를 퓨전 소환한 턴에, 이 카드는 3회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133541,7 +133869,8 @@ materials:
   pt:
   ja: |-
     「ジョインテック・ネストライダー・タンク」＋モンスター（機械族以外）×２
-  ko:
+  ko: |-
+    "조인테크 네스트라이더 탱크" ＋ 몬스터(기계족 이외) × 2
   zh-TW:
   zh-CN:
 series:
@@ -133552,6 +133881,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP041
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR041
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -133572,7 +133906,7 @@ name:
   pt:
   ja: <ruby>ＳＰ<rt>スーパー</rt></ruby>グラファガス・アーチャー
   ja_romaji: Sūpā Gurafagasu Āchā
-  ko:
+  ko: SP 그라파가스 아처
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133586,7 +133920,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル７／炎族）１体をデッキの上に戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 7 / 화염족) 1장을 덱 위로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -133599,7 +133934,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで２５００アップする。その後、相手フィールドの表側表示モンスター（レベル９以下）１体を選んでその攻撃力をターン終了時まで１５００ダウンできる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 2500 올린다. 그 후, 상대 필드의 앞면 표시 몬스터(레벨 9 이하) 1장을 고르고 그 공격력을 턴 종료시까지 1500 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133618,7 +133954,8 @@ materials:
   pt:
   ja: |-
     「クロマトグラファガス」＋「ＳＰアシスタント・アーチ」
-  ko:
+  ko: |-
+    "크로마토그라파가스" ＋ "SP(슈퍼) 어시스턴트 아치"
   zh-TW:
   zh-CN:
 series:
@@ -133629,6 +133966,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP042
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR042
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -133650,7 +133993,7 @@ name:
   pt:
   ja: <ruby>華<rt>か</rt></ruby><ruby>蝶<rt>ちょう</rt></ruby><ruby>風<rt>ふう</rt></ruby><ruby>彩<rt>さい</rt></ruby>のプロフェシーフレイル
   ja_romaji: Kachōfūsai no Purofeshī Fureiru
-  ko:
+  ko: 화접풍채의 프로퍼시프레일
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133664,7 +134007,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -133677,7 +134021,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。その後、相手の墓地のモンスターを全てデッキに戻す事ができる。戻した場合、さらにこのカードの攻撃力はターン終了時まで１２００アップし、自分は１枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 그 후, 상대 묘지의 몬스터를 전부 덱으로 되돌릴 수 있다. 되돌렸을 경우, 추가로 이 카드의 공격력은 턴 종료시까지 1200 올리고, 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133696,7 +134041,8 @@ materials:
   pt:
   ja: |-
     「風彩のプロフェシーフレーズ」＋「フィドルバドゥール」
-  ko:
+  ko: |-
+    "풍채의 프로퍼시프레이즈" ＋ "피들바두르"
   zh-TW:
   zh-CN:
 series:
@@ -133707,6 +134053,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP043
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR043
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -133728,7 +134080,7 @@ name:
   pt:
   ja: セレブローズ・インフルエンサーズ
   ja_romaji: Serebu Rōzu Infuruensāzu
-  ko:
+  ko: 셀레브로즈 인플루언서즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133742,7 +134094,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -133755,7 +134108,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のモンスター１体を選んでデッキの下に戻し、このカードの攻撃力はターン終了時まで、［この効果で戻したモンスターのレベル］×２００アップする。このカードが装備魔法カードを装備している場合、さらにこのターン、このカードは効果では破壊されず、モンスターに２回攻撃できる。
-  ko:
+  ko: |-
+    상대 묘지의 몬스터 1장을 골라 덱 아래로 되돌리고, 이 카드의 공격력은 턴 종료시까지, [이 효과로 되돌린 몬스터의 레벨] × 200 올린다. 이 카드가 장착 마법 카드를 장착하고 있을 경우, 추가로 이 턴에, 이 카드는 효과로는 파괴되지 않으며, 몬스터에 2회 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133774,7 +134128,8 @@ materials:
   pt:
   ja: |-
     「セレブローズ・エンチャンター」＋「セレブローズ・ウィズ」
-  ko:
+  ko: |-
+    "셀레브로즈 인챈터" ＋ "셀레브로즈 위즈"
   zh-TW:
   zh-CN:
 series:
@@ -133785,6 +134140,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP044
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR044
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -133807,7 +134169,7 @@ name:
   pt:
   ja: <ruby>花<rt>か</rt></ruby><ruby>牙<rt>げ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>波<rt>ば</rt></ruby>ムーリン・ドゥーク
   ja_romaji: Kage Ichiba Mūrin Dūku
-  ko:
+  ko: 화아일파 무린 두크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133821,7 +134183,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -133834,7 +134197,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［自分フィールドのモンスターの数］×５００アップする。その後、相手に７００ダメージを与える。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지, [자신 필드의 몬스터의 수] × 500 올린다. 그 후, 상대에게 700 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133853,7 +134217,8 @@ materials:
   pt:
   ja: |-
     「花牙アーマー・クレマチス」＋「花牙武者のリンドウ」
-  ko:
+  ko: |-
+    "화아아머 클레마티스" ＋ "화아무사의 린도"
   zh-TW:
   zh-CN:
 series:
@@ -133864,6 +134229,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP045
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR045
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -133884,7 +134254,7 @@ name:
   pt:
   ja: <ruby>蒼<rt>そう</rt></ruby><ruby>救<rt>きゅう</rt></ruby>の<ruby>晦<rt>かい</rt></ruby><ruby>冥<rt>めい</rt></ruby> ネルクリタ
   ja_romaji: Sōkyū no Kaimei Nerukurita
-  ko:
+  ko: 창구의 회명 넬크리타
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133898,7 +134268,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -133913,7 +134284,8 @@ effect:
   pt:
   ja: |-
     装備魔法カードを装備している自分のモンスター（天界戦士族・戦士族・天使族）の攻撃は貫通する。
-  ko:
+  ko: |-
+    장착 마법 카드를 장착하고 있는 자신 몬스터(천계전사족・전사족・천사족)의 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -133932,7 +134304,8 @@ materials:
   pt:
   ja: |-
     「蒼救騎士 セイル」＋「蒼救天使 ルーア」
-  ko:
+  ko: |-
+    "창구기사 세일" ＋ "창구천사 루아"
   zh-TW:
   zh-CN:
 series:
@@ -133943,6 +134316,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP046
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR046
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -133963,7 +134341,7 @@ name:
   pt:
   ja: <ruby>疾<rt>しっ</rt></ruby><ruby>風<rt>ぷう</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>ガイア
   ja_romaji: Shippū no Ryūkishi Gaia
-  ko:
+  ko: 질풍의 용기사 가이아
   ko_rr:
   zh-TW:
   zh-CN:
@@ -133977,7 +134355,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -133990,7 +134369,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードの攻撃は貫通する。自分の手札が０枚の場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드의 공격은 관통한다. 자신의 패가 0장일 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -134009,7 +134389,8 @@ materials:
   pt:
   ja: |-
     モンスター（戦士族／守備力２１００）＋「カース・オブ・ドラゴン」
-  ko:
+  ko: |-
+    몬스터(전사족 / 수비력 2100) ＋ "커스 오브 드래곤"
   zh-TW:
   zh-CN:
 series:
@@ -134020,6 +134401,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP047
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR047
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -134041,7 +134428,7 @@ name:
   pt:
   ja: プライム・コール
   ja_romaji: Puraimu Kōru
-  ko:
+  ko: 프라임 콜
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134055,7 +134442,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが光属性のみの場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 빛 속성뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134068,7 +134456,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター１体を選んで手札に加える。さらに自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。この効果の発動後、ターン終了時まで自分は「プライム・ドワーフ」以外のモンスターの効果を発動できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 1장을 고르고 패에 넣는다. 추가로 자신 묘지의 "퓨전" 1장을 고르고 패에 넣을 수 있다. 이 효과의 발동 후, 턴 종료시까지 자신은 "프라임 드워프" 이외의 몬스터의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134081,6 +134470,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP048
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR048
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134101,7 +134495,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 천사의 주사위
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134115,7 +134509,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -134128,7 +134523,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。自分フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００アップする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 자신 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134141,6 +134537,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP049
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR049
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134159,7 +134560,7 @@ name:
   pt:
   ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>なサイコロ
   ja_romaji: Gōyoku na Saikoro
-  ko:
+  ko: 욕망의 주사위
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134173,7 +134574,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、手札のサイコロを振る効果を持つカード３枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신의 덱의 카드가 10장 이상일 경우, 패의 주사위를 던지는 효과를 가지는 카드 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134186,7 +134588,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。自分は［出た目の数］だけドローする。３以下が出た場合、さらに自分の墓地の「天使のサイコロ」「悪魔のサイコロ」を合計２枚まで選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 자신은 [나온 눈의 수]만큼 드로우한다. 3 이하가 나왔을 경우, 추가로 자신 묘지의 "천사의 주사위" "악마의 주사위"를 합계 2장까지 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134199,6 +134602,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP050
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR050
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -134219,7 +134627,7 @@ name:
   pt:
   ja: <ruby>顕<rt>けん</rt></ruby><ruby>現<rt>げん</rt></ruby>の<ruby>秘<rt>ひ</rt></ruby><ruby>儀<rt>ぎ</rt></ruby>
   ja_romaji: Kengen no Higi
-  ko:
+  ko: 현현의 비의
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134233,7 +134641,8 @@ requirement:
   pt:
   ja: |-
     自分の手札・フィールドのモンスターを２体まで墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신의 패 / 필드의 몬스터를 2장까지 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134246,7 +134655,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。その後、自分の墓地のモンスター（レベル５以上／光属性／魔法使い族）１体を選んで自分フィールドに表側表示で特殊召喚できる。この効果の発動後、ターン終了時まで自分はモンスター（光属性／魔法使い族）以外のモンスターの効果を発動できない。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신 묘지의 몬스터(레벨 5 이상 / 빛 속성 / 마법사족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터(빛 속성 / 마법사족) 이외의 몬스터의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134257,6 +134667,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP051
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR051
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -134279,7 +134696,7 @@ name:
   pt:
   ja: アビスカイト・マッピング
   ja_romaji: Abisukaito Mappingu
-  ko:
+  ko: 어비스카이트 매핑
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134293,7 +134710,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「アビスカイト・プリベントウォール」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "어비스카이트 프리벤트월"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -134306,7 +134724,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -134319,7 +134738,8 @@ effect:
   pt:
   ja: |-
     自分は［自分フィールドの表側表示モンスター（海竜族）の数］×３００ＬＰ回復する。その後、自分の墓地の「アビスカイト・パーティ」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신은 [자신 필드의 앞면 표시 몬스터(해룡족)의 수] × 300 LP 회복한다. 그 후, 자신 묘지의 "어비스카이트 파티" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134332,6 +134752,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP052
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR052
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -134353,7 +134779,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby>カイザン
   ja_romaji: Himitsu Kaizan
-  ko:
+  ko: 비밀 카이잔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134367,7 +134793,8 @@ requirement:
   pt:
   ja: |-
     モンスター（光属性／爬虫類族）２体を含む手札３枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    몬스터(빛 속성 / 파충류족) 2장을 포함하는 패 3장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134380,7 +134807,8 @@ effect:
   pt:
   ja: |-
     自分は３枚ドローする。その後、相手フィールドの表側表示モンスター（レベル８以下）１体を選んでその攻撃力をターン終了時まで１３００ダウンできる。
-  ko:
+  ko: |-
+    자신은 3장 드로우한다. 그 후, 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 그 공격력을 턴 종료시까지 1300 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134393,6 +134821,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP053
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR053
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134413,7 +134846,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>捜<rt>そう</rt></ruby><ruby>査<rt>さ</rt></ruby><ruby>車<rt>モービル</rt></ruby>サンダーバード
   ja_romaji: Himitsu Sōsa Mōbiru Sandābādo
-  ko:
+  ko: 비밀수사모빌 썬더버드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134427,7 +134860,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／爬虫類族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 파충류족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134440,7 +134874,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は３００アップし、直接攻撃できる。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 300 올리고, 직접 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134453,6 +134888,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP054
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR054
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134473,7 +134913,7 @@ name:
   pt:
   ja: ロイヤルデモンズ・キングスリターン
   ja_romaji: Roiyaru Demonzu Kingusu Ritān
-  ko:
+  ko: 로얄데먼즈 킹스리턴
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134487,7 +134927,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134500,7 +134941,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル３以上）１体を選び、そのレベルをターン終了時まで２下げる。その後、自分の墓地のモンスター（レベル７以上／悪魔族／守備力０）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 3 이상) 1장을 고르고, 그 레벨을 턴 종료시까지 2 내린다. 그 후, 자신 묘지의 몬스터(레벨 7 이상 / 악마족 / 수비력 0) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134514,6 +134956,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP055
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR055
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -134536,7 +134985,7 @@ name:
   pt:
   ja: <ruby>電<rt>でん</rt></ruby><ruby>脳<rt>のう</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>器<rt>き</rt></ruby>
   ja_romaji: Dennō Kasokuki
-  ko:
+  ko: 전뇌가속기
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134550,7 +134999,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードの効果は無効化されない。
-  ko:
+  ko: |-
+    이 카드의 효과는 무효화되지 않는다.
   zh-TW:
   zh-CN:
 requirement:
@@ -134563,7 +135013,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（機械族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(기계족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134576,7 +135027,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は３００アップする。装備モンスターの元々のカード名が「人造人間－サイコ・ショッカー」の場合、その永続効果は「相手は罠カードを発動できず、相手の罠カードの効果は無効化される」として適用される。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 300 올린다. 장착 몬스터의 원래의 카드명이 "인조인간 －사이코 쇼커－"일 경우, 그 지속 효과는 "상대는 함정 카드를 발동할 수 없으며, 상대의 함정 카드의 효과는 무효화된다"로서 적용된다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134589,6 +135041,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP056
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR056
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134609,7 +135066,7 @@ name:
   pt:
   ja: マシン・インスペクター
   ja_romaji: Mashin Insupekutā
-  ko:
+  ko: 머신 인스펙터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134623,7 +135080,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -134636,7 +135094,8 @@ effect:
   pt:
   ja: |-
     お互いは、自身のデッキの上からカードを４枚めくり、お互いに確認する。自分はその８枚の中からモンスター（機械族）または罠カードを合計２枚まで選んで墓地へ送る事ができる。お互いは自身の残りのカードを好きな順番でデッキの下に戻す。この効果で罠カードを墓地へ送った場合、さらに自分は１枚ドローする。
-  ko:
+  ko: |-
+    양쪽 플레이어는, 자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 그 8장 중에서 몬스터(기계족) 또는 함정 카드를 합계 2장까지 고르고 묘지로 보낼 수 있다. 양쪽 플레이어는 자신의 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다. 이 효과로 함정 카드를 묘지로 보냈을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134649,6 +135108,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP057
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR057
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134669,7 +135133,7 @@ name:
   pt:
   ja: ジョインテック・ジョイント
   ja_romaji: Jointekku Jointo
-  ko:
+  ko: 조인테크 조인트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134683,7 +135147,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134696,7 +135161,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで表側攻撃表示または裏側守備表示にする。その後、自分の手札・フィールドのモンスターを素材として墓地へ送ってモンスター（レベル９以下／地属性・闇属性／機械族）をフュージョン召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 앞면 공격 표시 또는 뒷면 수비 표시로 한다. 그 후, 자신의 패 / 필드의 몬스터를 소재로서 묘지로 보내고 몬스터(레벨 9 이하 / 땅 속성・어둠 속성 / 기계족)를 퓨전 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134711,6 +135177,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP058
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR058
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -134732,7 +135204,7 @@ name:
   pt:
   ja: <ruby>宇宙<rt>ソラ</rt></ruby>の<ruby>脅<rt>きょう</rt></ruby><ruby>威<rt>い</rt></ruby>
   ja_romaji: Sora no Kyōi
-  ko:
+  ko: 소라의 위협
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134746,7 +135218,8 @@ requirement:
   pt:
   ja: |-
     １０００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    1000 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134759,7 +135232,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。その後、そのカードを自分フィールドにセットできる（モンスターの場合、裏側守備表示で特殊召喚できる）。この効果で墓地のモンスター（レベル２）を特殊召喚した場合、さらに相手フィールドの魔法・罠カード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 그 후, 그 카드를 자신 필드에 세트할 수 있다(몬스터일 경우, 뒷면 수비 표시로 특수 소환할 수 있다). 이 효과로 묘지의 몬스터(레벨 2)를 특수 소환했을 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134772,6 +135246,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP059
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP16-KR059
     set_name: Transamu of Transcendence
     rarities:
     - Super Rare
@@ -134793,7 +135273,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 마법 제거
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134807,7 +135287,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -134820,7 +135301,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示の魔法カードまたは裏側表示の魔法・罠カード１枚を選ぶ。選んだカードが表側表示の場合、そのカードを破壊する。選んだカードが裏側表示の場合、そのカードを確認する。魔法カードだった場合、さらにそのカードを破壊する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시의 마법 카드 또는 뒷면 표시의 마법 / 함정 카드 1장을 고른다. 고른 카드가 앞면 표시일 경우, 그 카드를 파괴한다. 고른 카드가 뒷면 표시일 경우, 그 카드를 확인한다. 마법 카드였을 경우, 추가로 그 카드를 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -134831,6 +135313,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP060
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR060
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -134849,7 +135336,7 @@ name:
   pt:
   ja: アビスカイト・レイ・モノクローム
   ja_romaji: Abisukaito Rei Monokurōmu
-  ko:
+  ko: 어비스카이트 레이 모노크롬
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134863,7 +135350,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134876,7 +135364,8 @@ effect:
   pt:
   ja: |-
     お互いの墓地のモンスター（レベル４以下／光属性・闇属性）を合計３体選んで持ち主のデッキに戻す。その後、攻撃してきたモンスターの攻撃力はターン終了時まで、［この効果で戻したモンスターのレベルの合計］×２００ダウンする。
-  ko:
+  ko: |-
+    서로의 묘지의 몬스터(레벨 4 이하 / 빛 속성・어둠 속성)를 합계 3장 고르고 주인의 덱으로 되돌린다. 그 후, 공격해 온 몬스터의 공격력은 턴 종료시까지, [이 효과로 되돌린 몬스터의 레벨의 합계] × 200 내린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -134889,6 +135378,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP061
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR061
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134909,7 +135403,7 @@ name:
   pt:
   ja:
   ja_romaji:
-  ko:
+  ko: 악마의 주사위
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134923,7 +135417,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134936,7 +135431,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 상대 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 내린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -134949,6 +135445,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP062
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR062
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -134967,7 +135468,7 @@ name:
   pt:
   ja: <ruby>阿<rt>あ</rt></ruby><ruby>修<rt>しゅ</rt></ruby><ruby>羅<rt>ラ</rt></ruby>のサイコロ
   ja_romaji: Ashura no Saikoro
-  ko:
+  ko: 아수라의 주사위
   ko_rr:
   zh-TW:
   zh-CN:
@@ -134981,7 +135482,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを表側表示で召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 앞면 표시로 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -134994,7 +135496,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。［出た目の数］×１００ダメージを相手に与え、相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［出た目の数］×１００ダウンする。その後、自分フィールドの全ての表側表示モンスターの攻撃力・守備力をターン終了時まで、［出た目の数］×１００アップできる。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. [나온 눈의 수] × 100 데미지를 상대에게 주고, 상대 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력은 턴 종료시까지, [나온 눈의 수] × 100 내린다. 그 후, 자신 필드의 모든 앞면 표시 몬스터의 공격력 / 수비력을 턴 종료시까지, [나온 눈의 수] × 100 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -135007,6 +135510,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP063
+    set_name: Transamu of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR063
     set_name: Transamu of Transcendence
     rarities:
     - Common
@@ -135027,7 +135535,7 @@ name:
   pt:
   ja: フュージョニック・ディフェンス
   ja_romaji: Fyūjonikku Difensu
-  ko:
+  ko: 퓨저닉 디펜스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -135041,7 +135549,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -135054,7 +135563,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「フュージョン」または「フュージョンキャンセル」１枚を選んで自分の魔法＆罠ゾーンにセットする。その後、自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、選んだモンスターは戦闘と効果では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지의 "퓨전" 또는 "퓨전 캔슬" 1장을 고르고 자신의 마법 & 함정 존에 세트한다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고를 수 있다. 고른 경우, 이 턴에, 고른 몬스터는 전투와 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -135065,6 +135575,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP064
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR064
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -135085,7 +135600,7 @@ name:
   pt:
   ja: <ruby>秘<rt>ひ</rt></ruby><ruby>密<rt>みつ</rt></ruby><ruby>ＦＩＬＥ<rt>ファイル</rt></ruby>３０００－ファイナル<ruby>惨<rt>さん</rt></ruby><ruby>劇<rt>げき</rt></ruby>
   ja_romaji: Himitsu Fairu Sanzen - Fainaru Sangeki
-  ko:
+  ko: 비밀FILE3000－파이널 참극
   ko_rr:
   zh-TW:
   zh-CN:
@@ -135099,7 +135614,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／爬虫類族）が３体の場合、相手モンスターの攻撃宣言時、自分の墓地のモンスター（光属性／爬虫類族）３体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 파충류족)가 3장일 경우, 상대 몬스터의 공격 선언시, 자신 묘지의 몬스터(빛 속성 / 파충류족) 3장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -135112,7 +135628,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃表示モンスターを全て破壊する。その後、相手に３０００ダメージを与える。
-  ko:
+  ko: |-
+    상대 필드의 공격 표시 몬스터를 전부 파괴한다. 그 후, 상대에게 3000 데미지를 준다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -135125,6 +135642,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP065
+    set_name: Transamu of Transcendence
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP16-KR065
     set_name: Transamu of Transcendence
     rarities:
     - Rare
@@ -135145,7 +135667,7 @@ name:
   pt:
   ja: サンセットリバース
   ja_romaji: Sansetto Ribāsu
-  ko:
+  ko: 선셋리버스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -135159,7 +135681,8 @@ requirement:
   pt:
   ja: |-
     相手ターンに相手がドローした時、または自分フィールドのモンスターが相手の効果で破壊された時に発動できる。
-  ko:
+  ko: |-
+    상대 턴에 상대가 드로우했을 때, 또는 자신 필드의 몬스터가 상대의 효과로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -135172,7 +135695,8 @@ effect:
   pt:
   ja: |-
     自分の手札または自分の墓地のモンスター１体を選び、自分フィールドに裏側守備表示で特殊召喚する。その後、このカード以外の自分フィールドのカードを３枚まで選ぶ。このターン、選んだカードは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    자신의 패 또는 자신 묘지의 몬스터 1장을 고르고, 자신 필드에 뒷면 수비 표시로 특수 소환한다. 그 후, 이 카드 이외의 자신 필드의 카드를 3장까지 고른다. 이 턴에, 고른 카드는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -135183,6 +135707,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP16-JP066
+    set_name: Transamu of Transcendence
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP16-KR066
     set_name: Transamu of Transcendence
     rarities:
     - Ultra Rare
@@ -135205,7 +135736,7 @@ name:
   pt:
   ja: トランザム・スクライド
   ja_romaji: Toranzamu Sukuraido
-  ko:
+  ko: 트랜잠 스퀴라이드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -135219,7 +135750,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -135232,7 +135764,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。この効果でモンスター（光属性／ギャラクシー族）が墓地へ送られた場合、自分フィールドの表側表示モンスターを３体まで選ぶ事ができる。選んだ場合、このターン、選んだモンスターの攻撃は貫通する。この効果で「トランザム・ライナック」を選んだ場合、さらに相手フィールドの攻撃表示モンスターを全て表側守備表示にできる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 효과로 몬스터(빛 속성 / 갤럭시족)가 묘지로 보내졌을 경우, 자신 필드의 앞면 표시 몬스터를 3장까지 고를 수 있다. 고른 경우, 이 턴에, 고른 몬스터의 공격은 관통한다. 이 효과로 "트랜잠 라이나크"를 고른 경우, 추가로 상대 필드의 공격 표시 몬스터를 전부 앞면 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -135252,6 +135785,11 @@ sets:
     set_name: Saikyō Jump March 2024 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP16-KRS02
+    set_name: Transamu of Transcendence
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true
