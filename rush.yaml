@@ -47696,7 +47696,7 @@ atk: 1800
 def: 1600
 materials:
   en: |-
-    "Flame Manipulator" + "Masaki the Legendary Swordsman"
+    "Flame Manipulator (Rush Duel)" + "Masaki the Legendary Swordsman (Rush Duel)"
   de:
   es:
   fr:
@@ -97344,7 +97344,7 @@ images:
 - index: 1
   image: FiveHeadedDragon-RDLGP1-JP-UR.png
 - index: 2
-  image: FiveHeadedDragon-RDKP17-JP-OP.png
+  image: FiveHeadedDragon-RDKP17-JP-ORR.png
 sets:
   ja:
   - set_number: RD/LGP1-JP001
@@ -140530,7 +140530,751 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1052854
 ---
-konami_id:
+konami_id: 20298
+name:
+  en: Stone Chariot Gravelriot
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>岩<rt>がん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>戦<rt>せん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>ジャリオット
+  ja_romaji: Gansekisensha Jariotto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    An ancient tank that drives with incredible balance. It shatters the balance of the enemy forces by penetrating a single point.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    見事なバランスで進行する古い戦車。一点突破で敵陣のバランスを崩す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Rock / Normal
+attribute: EARTH
+level: 6
+atk: 1800
+def: 2000
+series:
+- Stone
+images:
+- index: 1
+  image: StoneChariotGravelriot-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP001
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057087
+---
+konami_id: 20299
+name:
+  en: Gravebronze Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: グレイブロンズ・ドラゴン
+  ja_romaji: Gureiburonzu Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    A giant dragon that has a stately sheen. Its scales are said to grant the wishes of those who obtain them.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    重厚な輝きを放つ巨竜。そのウロコは手にした者の願いを叶えるという。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Normal
+attribute: EARTH
+level: 7
+atk: 2500
+def: 800
+images:
+- index: 1
+  image: GravebronzeDragon-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP002
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051652
+---
+konami_id: 20300
+name:
+  en: Hybridrive Scale
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハイブリッドライブ・スケイル
+  ja_romaji: Haiburiddoraibu Sukeiru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have a LIGHT Attribute Dragon Type monster and an EARTH Attribute Machine Type monster in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（光属性／ドラゴン族）とモンスター（地属性／機械族）がいる場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top card of your Deck to the Graveyard. Then, this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Dragon Type or Machine Type monster in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの一番上のカードを墓地へ送る。さらにこのターン、モンスター（ドラゴン族・機械族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 3
+atk: 800
+def: 700
+series:
+- Hybridrive
+images:
+- index: 1
+  image: HybridriveScale-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP003
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051252
+---
+konami_id: 20301
+name:
+  en: Hybridrive Tusk
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハイブリッドライブ・タスク
+  ja_romaji: Haiburiddoraibu Tasuku
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 "Hybridrive Screwdriver" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地の「ハイブリッドライブ・スクリュードライバー」１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 3
+atk: 800
+def: 700
+series:
+- Hybridrive
+images:
+- index: 1
+  image: HybridriveTusk-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP004
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044916
+---
+konami_id: 20302
+name:
+  en: Hybridrive Lizard
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハイブリッドライブ・リザード
+  ja_romaji: Haiburiddoraibu Rizādo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Hybridrive Scale" or 1 "Hybridrive Tusk" from your Graveyard to your field in face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ハイブリッドライブ・スケイル」または「ハイブリッドライブ・タスク」１体を選び、自分フィールドに表側守備表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 3
+atk: 800
+def: 700
+series:
+- Hybridrive
+images:
+- index: 1
+  image: HybridriveLizard-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP005
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051254
+---
+konami_id: 20303
+name:
+  en: Hybridrive Screwdriver
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ハイブリッドライブ・スクリュードライバー
+  ja_romaji: Haiburiddoraibu Sukuryūdoraibā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place 2 Dragon Type monsters and 2 Machine Type monsters from your Graveyard on the bottom of your Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター（ドラゴン族）２体とモンスター（機械族）２体を好きな順番でデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 monster on the field. Then, neither player can Normal or Special Summon monsters with the same original name as the monster destroyed by this effect face-up until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドのモンスター１体を選んで破壊する。さらに次の相手ターン終了時まで、お互いはこの効果で破壊したモンスターと元々のカード名が同じモンスターを表側表示で召喚・特殊召喚できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 7
+atk: 2500
+def: 1600
+series:
+- Hybridrive
+images:
+- index: 1
+  image: HybridriveScrewdriver-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP006
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044917
+---
+konami_id: 20304
+name:
+  en: Straynge Cat Witch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: はぐれ使い<ruby>魔<rt>ま</rt></ruby><ruby>女<rt>じょ</rt></ruby>
+  ja_romaji: Hagure Tsukaimajo
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have no other monsters on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Sevens Road Charm Witch" or 1 "Sevens Road Witch" from your Graveyard face-up to your field. Then, you can add 1 "Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「セブンスロード・チャームウィッチ」または「セブンスロード・ウィッチ」１体を選び、自分フィールドに表側表示で特殊召喚する。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: EARTH
+level: 1
+atk: 0
+def: 1400
+series:
+- Straynge Cat
+images:
+- index: 1
+  image: StrayngeCatWitch-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP007
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044915
+---
+konami_id: 20305
+name:
+  en: Releaslayer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: リリースレイヤー
+  ja_romaji: Rirīsureiyā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top card of your Deck to the Graveyard. Then, if you sent a Spellcaster Type monster to the Graveyard by this effect, this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Spellcaster Type monster in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの一番上のカードを墓地へ送る。この効果でモンスター（魔法使い族）が墓地へ送られた場合、さらにこのターン、モンスター（闇属性／魔法使い族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: DARK
+level: 4
+atk: 1300
+def: 0
+images:
+- index: 1
+  image: Releaslayer-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP008
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051258
+---
+konami_id: 20306
+name:
+  en: Chemispet Parakeet
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミスペット・インコ
+  ja_romaji: Kemisupetto Inko
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have no other monsters on your field, reveal 1 Pyro/Aqua/Thunder Type monster in your hand to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外のモンスターがいない場合、手札のモンスター（炎族・水族・雷族）１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can add to your hand 1 Pyro/Aqua/Thunder Type monster from among the cards sent, with the same Level as [the Level of the monster revealed to meet the requirement].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード３枚を墓地へ送る。その後、その中から［この効果の条件で見せたモンスターのレベル］と同じレベルを持つモンスター（炎族・水族・雷族）１体を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Pyro / Effect
+attribute: FIRE
+level: 1
+atk: 600
+def: 0
+series:
+- Chemistry
+images:
+- index: 1
+  image: ChemispetParakeet-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP009
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044912
+---
+konami_id: 20307
+name:
+  en: Dice Key Mekuru
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・メクル
+  ja_romaji: Daisukī Mekuru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札１枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Excavate the top 6 cards of your Deck. You can add 1 excavated "Dice Key Ribbon" or 1 excavated LIGHT Attribute monster with an effect that requires a die roll to your hand. Place the remaining cards on the bottom of your Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカードを６枚めくり、お互いに確認する。自分はその中から「ダイスキー・リボン」またはサイコロを振る効果を持つモンスター（光属性）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 1
+atk: 100
+def: 100
+series:
+- Dice
+images:
+- index: 1
+  image: DiceKeyMekuru-RDKP17-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP010
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055486
+---
+konami_id: 20308
+name:
+  en: Dice Key Kuu
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・クゥ
+  ja_romaji: Daisukī Kwu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Dice Key Nel" from your Graveyard to your hand. Then, roll a six-sided die. You can place 1 face-up Defense Position monster from your opponent's field on the top of the owner's Deck if the result was 6.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ダイスキー・ネル」１体を選んで手札に加える。その後、サイコロを１回振る。６が出た場合、相手フィールドの表側守備表示モンスター１体を選んで持ち主のデッキの上に戻す事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 1200
+series:
+- Dice
+images:
+- index: 1
+  image: DiceKeyKuu-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP011
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055506
+---
+konami_id: 20309
+name:
+  en: Dice Key Ribbon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・リボン
+  ja_romaji: Daisukī Ribon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send this face-up card from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon 1 "Dice Key Mekuru" or 1 LIGHT Attribute monster with an effect that requires a die roll from your Graveyard face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「ダイスキー・メクル」またはサイコロを振る効果を持つモンスター（光属性）１体を選び、自分フィールドに表側表示で特殊召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 6
+atk: 800
+def: 800
+series:
+- Dice
+images:
+- index: 1
+  image: DiceKeyRibbon-RDKP17-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP012
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055484
+---
+konami_id: 20310
 name:
   en: Cybersepice Hotpot
   de:
@@ -140552,7 +141296,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -140564,7 +141309,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル７以上／炎属性／サイバース族）１体または「スパイスクロース・ミックス」１枚を選んで手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -140578,7 +141324,7 @@ series:
 - Cybersepice
 images:
 - index: 1
-  image: CybersepiceHotpot-RDKP17-JP-OP.png
+  image: CybersepiceHotpot-RDKP17-JP-C.png
 sets:
   ja:
   - set_number: RD/KP17-JP013
@@ -140592,7 +141338,71 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044904
 ---
-konami_id:
+konami_id: 20311
+name:
+  en: Cybersepice Cinnamon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバースパイス・シナモン
+  ja_romaji: Saibāsupaisu Shinamon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent excavates the top card of their Deck. Then, if that card is a Level 5 or higher monster, you can Special Summon 1 monster from your hand face-up to your field. Your opponent places the excavated card on the top of their Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のデッキの一番上のカードをめくり、お互いに確認する。そのカードがモンスター（レベル５以上）だった場合、さらに自分は手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。相手はめくったカードを元に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: FIRE
+level: 2
+atk: 400
+def: 700
+series:
+- Cybersepice
+images:
+- index: 1
+  image: CybersepiceCinnamon-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP014
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1050353
+---
+konami_id: 20312
 name:
   en: Cybersepice Turmeric
   de:
@@ -140614,7 +141424,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキのカードが１０枚以上で、自分フィールドにこのカード以外の表側表示モンスター（炎属性／サイバース族）がいる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -140626,7 +141437,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手の魔法＆罠ゾーンの裏側表示のカード１枚を選んで確認する。そのカードが罠カードだった場合、さらに自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -140640,7 +141452,7 @@ series:
 - Cybersepice
 images:
 - index: 1
-  image: CybersepiceTurmeric-RDKP17-JP-OP.png
+  image: CybersepiceTurmeric-RDKP17-JP-R.png
 sets:
   ja:
   - set_number: RD/KP17-JP015
@@ -140654,7 +141466,134 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044905
 ---
-konami_id:
+konami_id: 20313
+name:
+  en: Cybersepice Cumin
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバースパイス・クミン
+  ja_romaji: Saibāsupaisu Kumin
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent excavates the top card of their Deck. If that card is a monster, inflict damage to your opponent equal to [its Level] x 100. Your opponent places the excavated card on the top of their Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のデッキの一番上のカードをめくり、お互いに確認する。そのカードがモンスターだった場合、［そのレベル］×１００ダメージを相手に与える。相手はめくったカードを元に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: FIRE
+level: 3
+atk: 900
+def: 300
+series:
+- Cybersepice
+images:
+- index: 1
+  image: CybersepiceCumin-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP016
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1046111
+---
+konami_id: 20314
+name:
+  en: Wheatcloth Demeter
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ウィトクロース・デメテル
+  ja_romaji: Witokurōsu Demeteru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During a turn you have not Special Summoned a monster from the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分が墓地からモンスターを特殊召喚していないターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent excavates the top 2 cards of their Deck. You can Special Summon 1 monster with a Level equal to or lower than [the total Levels of the excavated monsters] from your Graveyard face-up to your field. Your opponent places the excavated cards on the top of their Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のデッキの上からカードを２枚めくり、お互いに確認する。自分は［その中のモンスターのレベルの合計］以下のレベルを持つ、自分の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。相手はめくったカードを好きな順番でデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: FIRE
+level: 7
+atk: 2200
+def: 0
+images:
+- index: 1
+  image: WheatclothDemeter-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP017
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1050669
+---
+konami_id: 20315
 name:
   en: Cybersepice Nutmeg
   de:
@@ -140676,7 +141615,8 @@ summoning_condition:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードはモンスター（サイバース族）１体をリリースして攻撃表示でアドバンス召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -140688,7 +141628,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -140700,7 +141641,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    お互いのデッキの一番上のカードを墓地へ送る。その後、自分はその中から１枚を選んで持ち主のデッキの上か下に戻す事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -140731,146 +141673,60 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044906
 ---
-konami_id:
+konami_id: 20316
 name:
-  en: Cybersepice Queen Cinnamon
+  en: Cybersepice Garam Masala
   de:
   es:
   fr:
   it:
   pt:
-  ja: サイバースパイス・クイーンシナモン
-  ja_romaji: Saibāsupaisu Kuīn Shinamon
+  ja: サイバースパイス・ガラムマサラ
+  ja_romaji: Saibāsupaisu Garamu Masara
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Shuffle 3 monsters from your Graveyard into the Deck.
+    Your opponent has a face-up monster on their field.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドに表側表示モンスターがいる場合に発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Each player excavates the top 2 cards of their Deck. Then, inflict damage to your opponent equal to [the total Levels of the excavated monsters] x 100. Each player places their excavated cards on the top of their Deck in any order.
+    Your opponent excavates the top 3 cards of their Deck. 1 face-up monster on your opponent's field loses ATK equal to [the total Levels of the excavated monsters] x 300 until the end of this turn. Your opponent places the excavated cards on the top of their Deck in any order.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手は自身のデッキの上からカードを３枚めくり、お互いに確認する。自分は相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、［めくったカードの中のモンスターのレベルの合計］×３００ダウンする。相手はめくったカードを好きな順番でデッキの上に戻す。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Cyberse / Fusion / Effect
+monster_type_line: Cyberse / Effect
 attribute: FIRE
-level: 9
-atk: 2800
-def: 2500
-materials:
-  en: |-
-    "Cybersepice Cinnamon" + "Cybersepice Hotpot"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
+level: 7
+atk: 2400
+def: 0
 series:
 - Cybersepice
 images:
 - index: 1
-  image: CybersepiceQueenCinnamon-RDKP17-JP-OP.png
+  image: CybersepiceGaramMasala-RDKP17-JP-SR.png
 sets:
   ja:
-  - set_number: RD/KP17-JP046
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1044907
----
-konami_id:
-name:
-  en: Dark Matter Enigmata
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・エニグマータ
-  ja_romaji: Dākumatā Enigumāta
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the total original ATK of the monsters used as material for its Fusion Summon]. If you have a face-down monster on your field, this card cannot be destroyed by your opponent's card effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 0
-def: 0
-materials:
-  en: |-
-    "Dark Matter Mist" + "Dark Matter Mist"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterEnigmata-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP048
+  - set_number: RD/KP17-JP019
     set_name: Burst Rex of Awakening
     rarities:
     - Super Rare
@@ -140880,9 +141736,73 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044908
+yugipedia_page_id: 1053225
 ---
-konami_id:
+konami_id: 20317
+name:
+  en: Dark Matter Deadcheer
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・デッドエール
+  ja_romaji: Dākumatā Deddoēru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send 1 monster from your field to the Graveyard. Then, you can Special Summon 1 Level 5 Galaxy Type monster with 1300 DEF from your Graveyard to your field in face-up Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地のモンスター（レベル５／ギャラクシー族／守備力１３００）１体を選んで自分フィールドに表側攻撃表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 2
+atk: 400
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterDeadcheer-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP020
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054594
+---
+konami_id: 20318
 name:
   en: Dark Matter Lockdoll
   de:
@@ -140904,7 +141824,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    手札のモンスター（闇属性／ギャラクシー族／守備力１３００）１体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -140916,7 +141837,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「ダークマター・ミスト」になる。その後、自分は１枚ドローできる。
   ko:
   zh-TW:
   zh-CN:
@@ -140930,7 +141852,7 @@ series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterLockDoll-RDKP17-JP-OP.png
+  image: DarkMatterLockdoll-RDKP17-JP-C.png
 sets:
   ja:
   - set_number: RD/KP17-JP021
@@ -140944,7 +141866,71 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044909
 ---
-konami_id:
+konami_id: 20319
+name:
+  en: Dark Matter Jelly
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ジェリー
+  ja_romaji: Dākumatā Jerī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have a face-up DARK Attribute Galaxy Type monster on your field other than this card, send 1 face-down monster from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドにこのカード以外の表側表示モンスター（闇属性／ギャラクシー族）がいる場合、自分フィールドの裏側表示モンスター１体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent cannot activate Trap Cards during the Battle Phase this turn. Then, change this card to face-down Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このターン、相手はバトルフェイズ中に罠カードを発動できない。さらに、このカードを裏側守備表示にする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 3
+atk: 1200
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterJelly-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP022
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054595
+---
+konami_id: 20320
 name:
   en: Dark Matter Craydoll
   de:
@@ -140966,7 +141952,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ５００ＬＰを払って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -140978,7 +141965,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「ダークマター・ミスト」になる。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -140992,7 +141980,7 @@ series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterCraydoll-RDKP17-JP-OP.png
+  image: DarkMatterCraydoll-RDKP17-JP-SR.png
 sets:
   ja:
   - set_number: RD/KP17-JP023
@@ -141007,7 +141995,137 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044910
 ---
-konami_id:
+konami_id: 20321
+name:
+  en: Dark Matter String
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ストリング
+  ja_romaji: Dākumatā Sutoringu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 Level 5 or lower DARK Attribute Galaxy Type monster with 1300 DEF in your hand to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（レベル５以下／闇属性／ギャラクシー族／守備力１３００）１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Special Summon the monster revealed to meet the requirement to your field in face-up Attack Position or face-down Defense Position. Then, this card gains 700 ATK until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    この効果の条件で見せたモンスターを自分フィールドに表側攻撃表示または裏側守備表示で特殊召喚する。その後、このカードの攻撃力は次の相手ターン終了時まで７００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterString-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP024
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054598
+---
+konami_id: 20322
+name:
+  en: Dark Matter Knight
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・ナイト
+  ja_romaji: Dākumatā Naito
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the total number of face-up Fusion Monsters on your field and face-down monsters on your field] x 500.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［自分フィールドの表側表示のフュージョンモンスターの数と自分フィールドの裏側表示モンスターの数の合計］×５００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterKnight-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP025
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054599
+---
+konami_id: 20323
 name:
   en: Dark Matter Hazardoll
   de:
@@ -141029,7 +142147,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードを召喚・特殊召喚した自分メインフェイズに、デッキの上からカード３枚を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -141041,7 +142160,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードのカード名はこのターン、「ダークマター・ミスト」になる。その後、自分の墓地の「ダークマター・クレイドール」または「ダークマター・ロックドール」１体を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -141055,7 +142175,7 @@ series:
 - Dark Matter
 images:
 - index: 1
-  image: DarkMatterHazardoll-RDKP17-JP-OP.png
+  image: DarkMatterHazardoll-RDKP17-JP-SR.png
 sets:
   ja:
   - set_number: RD/KP17-JP026
@@ -141070,58 +142190,124 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044911
 ---
-konami_id:
+konami_id: 20324
 name:
-  en: Chemispet Parakeet
+  en: Dark Matter Freya
   de:
   es:
   fr:
   it:
   pt:
-  ja: ケミスペット・インコ
-  ja_romaji: Kemisupetto Inko
+  ja: ダークマター・フレイヤ
+  ja_romaji: Dākumatā Fureiya
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    If you have no other monsters on your field, reveal 1 Pyro/Aqua/Thunder Type monster in your hand to your opponent.
+    Change this card's battle position.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの表示形式を変更して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, you can add to your hand 1 Pyro/Aqua/Thunder Type monster from among the cards sent, with the same Level as [the Level of the monster revealed to meet the requirement].
+    Choose 1 face-up DARK Attribute Galaxy Type monster on your field. If it attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). Then, you can change 1 face-up monster on the field to face-up Defense Position or face-down Defense Position.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター（闇属性／ギャラクシー族）１体を選ぶ。このターン、そのモンスターの攻撃は貫通する。さらに、自分または相手フィールドの表側表示モンスター１体を選んで表側守備表示または裏側守備表示にできる。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Pyro / Effect
-attribute: FIRE
-level: 1
-atk: 600
-def: 0
+monster_type_line: Galaxy / Effect
+attribute: DARK
+level: 5
+atk: 1800
+def: 1300
 series:
-- Chemistry
+- Dark Matter
 images:
 - index: 1
-  image: ChemispetParakeet-RDKP17-JP-OP.png
+  image: DarkMatterFreya-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP009
+  - set_number: RD/KP17-JP027
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054600
+---
+konami_id: 20325
+name:
+  en: Stone Machine Gareking
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>岩<rt>がん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>魔神<rt>マシン</rt></ruby>ガレキング
+  ja_romaji: Ganseki Mashin Garekingu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 2 face-up Rock Type Normal Monsters on your field, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示の通常モンスター（岩石族）が２体の場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 1400 ATK until the end of this turn. Then, if you have 3 Level 5-7 face-up monsters with different Levels on your field, you can destroy all face-up Level 7 or lower monsters on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで１４００アップする。自分フィールドのレベルが異なる表側表示モンスター（レベル５～７）が３体の場合、さらに相手フィールドの表側表示モンスター（レベル７以下）を全て破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Rock / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 1400
+series:
+- Stone
+images:
+- index: 1
+  image: StoneMachineGareking-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP028
     set_name: Burst Rex of Awakening
     rarities:
     - Rare
@@ -141130,9 +142316,9 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044912
+yugipedia_page_id: 1057086
 ---
-konami_id:
+konami_id: 20326
 name:
   en: Dragonic Geist
   de:
@@ -141154,7 +142340,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、自分フィールドの表側表示の効果モンスター（レベル４以下）２体を墓地へ送って発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -141166,7 +142353,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（レベル７／地属性・闇属性／攻撃力２５００）１体を選び、自分フィールドに表側表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -141178,7 +142366,7 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: DragonicGeist-RDKP17-JP-OP.png
+  image: DragonicGeist-RDKP17-JP-C.png
 sets:
   ja:
   - set_number: RD/KP17-JP029
@@ -141192,121 +142380,58 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044914
 ---
-konami_id:
+konami_id: 20327
 name:
-  en: Straynge Cat Witch
+  en: Twin Edge Phantom Dragon
   de:
   es:
   fr:
   it:
   pt:
-  ja: はぐれ使い<ruby>魔<rt>ま</rt></ruby><ruby>女<rt>じょ</rt></ruby>
-  ja_romaji: Hagure Tsukaimajo
+  ja: ツインエッジ・ファントム・ドラゴン
+  ja_romaji: Tsuin Ejji Fantomu Doragon
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    You have no other monsters on your field.
+    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, change this card's battle position.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、このカードの表示形式を変更して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 "Sevens Road Charm Witch" or 1 "Sevens Road Witch" from your Graveyard face-up to your field. Then, you can add 1 "Fusion" from your Graveyard to your hand.
+    This turn, 1 face-up Level 7 DARK Attribute Dragon Type monster with 2500 ATK on your field gains 500 ATK, and can make up to 2 attacks on monsters.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター（レベル７／闇属性／ドラゴン族／攻撃力２５００）１体を選ぶ。このターン、そのモンスターの攻撃力は５００アップし、モンスターに２回攻撃できる。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: EARTH
-level: 1
-atk: 0
-def: 1400
-series:
-- Straynge Cat
-images:
-- index: 1
-  image: StrayngeCatWitch-RDKP17-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP007
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1044915
----
-konami_id:
-name:
-  en: Hybridrive Tusk
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハイブリッドライブ・タスク
-  ja_romaji: Haiburiddoraibu Tasuku
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, you can add 1 "Hybridrive Screwdriver" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
+monster_type_line: Dragon / Effect
+attribute: DARK
 level: 3
-atk: 800
-def: 700
-series:
-- Hybridrive
+atk: 1000
+def: 0
 images:
 - index: 1
-  image: HybridriveTusk-RDKP17-JP-OP.png
+  image: TwinEdgePhantomDragon-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP004
+  - set_number: RD/KP17-JP030
     set_name: Burst Rex of Awakening
     rarities:
     - Common
@@ -141315,60 +142440,438 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044916
+yugipedia_page_id: 1056156
 ---
-konami_id:
+konami_id: 20328
 name:
-  en: Hybridrive Screwdriver
+  en: Royal Wisdom Guards
   de:
   es:
   fr:
   it:
   pt:
-  ja: ハイブリッドライブ・スクリュードライバー
-  ja_romaji: Haiburiddoraibu Sukuryūdoraibā
+  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>近<rt>この</rt></ruby><ruby>衛<rt>え</rt></ruby><ruby>兵<rt>へい</rt></ruby>
+  ja_romaji: Kentei Konoehei
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Place 2 Dragon Type monsters and 2 Machine Type monsters from your Graveyard on the bottom of your Deck in any order.
+    If you have 10 or more cards in your Deck, shuffle 4 monsters with 1000 DEF from your Graveyard into the Deck, except monsters with 1200 ATK.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、自分の墓地のモンスター（攻撃力１２００以外／守備力１０００）４体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Destroy 1 monster on the field. Then, neither player can Normal or Special Summon monsters with the same original name as the monster destroyed by this effect face-up until the end of your opponent's next turn.
+    Draw 1 card. Then, increase this card's Level by 2 until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、このカードのレベルはターン終了時まで２上がる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: DARK
+level: 3
+atk: 1200
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: RoyalWisdomGuards-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP031
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055262
+---
+konami_id: 20329
+name:
+  en: Advance Form
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アドバンス・フォーム
+  ja_romaji: Adobansu Fōmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 2 cards from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドのカードを２枚まで墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle monsters from your opponent's Graveyard into the Deck equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can add 1 "Advance Impact" or 1 "Emperor Realm" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のモンスターを［この効果の条件で墓地へ送ったカードの数］だけ選んでデッキに戻す。その後、自分の墓地の「アドバンス・インパクト」または「エンペラー・レルム」１枚を選んで手札に加える事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 4
+atk: 800
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: AdvanceForm-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP032
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055260
+---
+konami_id: 20330
+name:
+  en: Granmarg the Rock Monarch
   de:
   es:
   fr:
   it:
   pt:
   ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Tribute Summoned this card in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを攻撃表示でアドバンス召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy 1 face-down card on the field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手フィールドの裏側表示のカード１枚を選んで破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Rock / Effect
+attribute: EARTH
+level: 6
+atk: 2400
+def: 1000
+series:
+- Monarch
+legend: true
+images:
+- index: 1
+  image: GranmargtheRockMonarch-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP033
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1055194
+---
+konami_id: 20331
+name:
+  en: Watermirror Serpent
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ウォーターミラー・サーペント
+  ja_romaji: Wōtāmirā Sāpento
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, shuffle 2 non-Fusion Monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、フュージョンモンスター以外の自分の墓地のモンスター２体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Fusion Summon by sending 1 Level 7 WATER Attribute or EARTH Attribute Dragon Type monster and 2 or more Dragon Type monsters from your hand and/or field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の手札・フィールドの、モンスター（レベル７／水属性・地属性／ドラゴン族）１体とモンスター（ドラゴン族）２体以上を墓地へ送り、フュージョン召喚する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: WATER
+level: 2
+atk: 0
+def: 800
+images:
+- index: 1
+  image: WatermirrorSerpent-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP034
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1056652
+---
+konami_id: 20332
+name:
+  en: Dragon Remover
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴン・リムーバー
+  ja_romaji: Doragon Rimūbā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, change the battle position of 1 face-up Level 7 or higher Dragon Type monster on your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分フィールドの表側表示モンスター（レベル７以上／ドラゴン族）１体の表示形式を変更して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Look at 1 face-down card in your opponent's Spell & Trap Zone. Then, if that card is a Trap Card, destroy it.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の魔法＆罠ゾーンの裏側表示のカード１枚を選んで確認する。そのカードが罠カードだった場合、さらに選んだカードを破壊する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: EARTH
+level: 3
+atk: 500
+def: 1000
+images:
+- index: 1
+  image: DragonRemover-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP035
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1056550
+---
+konami_id: 20333
+name:
+  en: Fusionic Tribevern
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: フュージョニック・トライバーン
+  ja_romaji: Fyūjonikku Toraibān
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターがハイドラゴン族・ドラゴン族のみの場合、デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Increase this card's Level by 4 until the end of this turn. Then, you can add 1 "Watermirror Serpent" or 1 "Dragon Tribe Fusion" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードのレベルはターン終了時まで４上がる。その後、自分の墓地の「ウォーターミラー・サーペント」１体または「ドラゴン・トライブ・フュージョン」１枚を選んで手札に加える事ができる。
   ko:
   zh-TW:
   zh-CN:
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: LIGHT
-level: 7
-atk: 2500
-def: 1600
-series:
-- Hybridrive
+level: 3
+atk: 600
+def: 800
 images:
 - index: 1
-  image: HybridriveScrewdriver-RDKP17-JP-OP.png
+  image: FusionicTribevern-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP006
+  - set_number: RD/KP17-JP036
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1056655
+---
+konami_id: 20334
+name:
+  en: Fadronir the Pure
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>純<rt>じゅん</rt></ruby><ruby>真<rt>しん</rt></ruby>のファドロニール
+  ja_romaji: Junshin no Fadoronīru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have not drawn a card during the Main Phase of the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、自分がこのメインフェイズにドローしていない場合に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Each player draws 1 card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いは１枚ドローする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Effect
+attribute: LIGHT
+level: 3
+atk: 700
+def: 100
+images:
+- index: 1
+  image: FadronirthePure-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP037
     set_name: Burst Rex of Awakening
     rarities:
     - Ultra Rare
@@ -141379,9 +142882,1044 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044917
+yugipedia_page_id: 1055877
 ---
-konami_id:
+konami_id: 20335
+name:
+  en: Data Eater
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: データーイーター
+  ja_romaji: Dēta Ītā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Reveal 1 EARTH Attribute monster and 1 non-EARTH Attribute monster in your hand to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札のモンスター（地属性）１体とモンスター（地属性以外）１体を相手に見せて発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle 2 cards from your opponent's Graveyard into the Deck. Then, you can make 1 face-up monster on your field gain 500 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のカード２枚を選んでデッキに戻す。その後、自分フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで５００アップできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 3
+atk: 800
+def: 700
+images:
+- index: 1
+  image: DataEater-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP038
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057090
+---
+konami_id: 20336
+name:
+  en: Defrostrooper Mk-II
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: デフロストルーパー<ruby>改<rt>かい</rt></ruby>
+  ja_romaji: Defurosutorūpā Kai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict 200 damage to your opponent. Then, if you have a Level 3 FIRE Attribute Cyberse Type monster or an Equip Spell Card in your Graveyard, you can make 1 face-up monster on your opponent's field lose 600 ATK/DEF until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手に２００ダメージを与える。自分の墓地にモンスター（レベル３／炎属性／サイバース族）または装備魔法カードがある場合、さらに相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力をターン終了時まで６００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Effect
+attribute: FIRE
+level: 4
+atk: 1200
+def: 1200
+images:
+- index: 1
+  image: DefrostrooperMkII-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP039
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057199
+---
+konami_id: 20337
+name:
+  en: Plus Skull
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: タスドクロ
+  ja_romaji: Dasudokuro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Change this Attack Position card to face-up Defense Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃表示のこのカードを表側守備表示にして発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up DARK Attribute Fiend Type monster on your field with 0 original ATK and DEF gains 1000 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの元々の攻撃力・守備力が０の表側表示モンスター（闇属性／悪魔族）１体を選ぶ。このターン、そのモンスターの攻撃力は１０００アップし、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 4
+atk: 1300
+def: 0
+images:
+- index: 1
+  image: PlusSkull-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP040
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1056950
+---
+konami_id: 20338
+name:
+  en: Multiply Skull
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: マスドクロ
+  ja_romaji: Masudokuro
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This face-up card can be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Fiend Type Effect Monster with 0 ATK/0 DEF in Attack Position.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    効果モンスター（闇属性／悪魔族／攻撃力０／守備力０）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 4
+atk: 1300
+def: 0
+images:
+- index: 1
+  image: MultiplySkull-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP041
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1056952
+---
+konami_id: 20339
+name:
+  en: Deity of Seven Treasures - Beidai
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>七<rt>しち</rt></ruby><ruby>宝<rt>ほう</rt></ruby><ruby>神<rt>じん</rt></ruby>－<ruby>米<rt>べい</rt></ruby><ruby>大<rt>だい</rt></ruby>
+  ja_romaji: Shichihōjin - Beidai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    If you have a monster with 2700 DEF or "Ship of Seven Treasures" in your Graveyard, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスター（守備力２７００）または「七宝船」がある場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Send the top 2 cards of your Deck to the Graveyard. Then, you can make 1 face-up monster on your opponent's field lose 700 ATK/DEF until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキの上からカード２枚を墓地へ送る。その後、相手フィールドの表側表示モンスター１体を選んでその攻撃力・守備力を次の相手ターン終了時まで７００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 7
+atk: 2300
+def: 1700
+images:
+- index: 1
+  image: DeityofSevenTreasuresBeidai-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP042
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057698
+---
+konami_id: 20340
+name:
+  en: God Maju Garzett
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>神<rt>ゴッド</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>獣<rt>じゅう</rt></ruby> ガーゼット
+  ja_romaji: Goddo Majū Gāzetto
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+summoning_condition:
+  en: |-
+    You can Tribute Summon this card in Attack Position by Tributing 3 Effect Monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは効果モンスター３体をリリースして攻撃表示でアドバンス召喚できる。
+  ko:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the total original ATK of the Effect Monsters Tributed for its Tribute Summon in Attack Position]. This card that was Normal Summoned by Tributing 3 monsters gains 800 ATK.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［このカードを攻撃表示でアドバンス召喚する時にリリースした効果モンスターの元々の攻撃力の合計］だけアップする。モンスター３体をリリースして召喚したこのカードの攻撃力は８００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fiend / Effect
+attribute: DARK
+level: 8
+atk: 0
+def: 0
+series:
+- Garzett
+images:
+- index: 1
+  image: GodMajuGarzett-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP043
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055306
+---
+konami_id: 20341
+name:
+  en: Bluetech Burst Rex
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ブルーテック・バーストレックス
+  ja_romaji: Burūtekku Bāsuto Rekkusu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During your Main Phase that you Fusion Summoned this card, shuffle 3 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードをフュージョン召喚した自分メインフェイズに、自分の墓地のモンスター３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy up to 3 face-down cards on your opponent's field, and this card gains ATK equal to [the number of destroyed cards] x 500 until the end of this turn. Then, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの裏側表示のカードを３枚まで選んで破壊し、このカードの攻撃力はターン終了時まで、［破壊したカードの数］×５００アップする。その後、相手フィールドの全ての表側表示モンスターの攻撃力をターン終了時まで１０００ダウンできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3300
+def: 2500
+materials:
+  en: |-
+    "Blue Tooth Burst Dragon" + "Jointech Rex"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「碧牙の爆速竜」＋「ジョインテック・レックス」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- High Tech Dragon
+images:
+- index: 1
+  image: BluetechBurstRex-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP044
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044920
+---
+konami_id: 20342
+name:
+  en: Sevens Road Ultima Witch
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: セブンスロード・アルテマウィッチ
+  ja_romaji: Sebunsu Rōdo Arutema Wicchi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle 1 Spell Card from your opponent's Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand. If you do, you can only activate 1 Normal Spell Card until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地の魔法カード１枚を選んでデッキに戻す。その後、自分の墓地の魔法カード１枚を選んで手札に加える事ができる。加えた場合、この効果の発動後、ターン終了時まで自分は通常魔法カードを１枚しか発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Fusion / Effect
+attribute: DARK
+level: 10
+atk: 3300
+def: 1600
+materials:
+  en: |-
+    "Sevens Road Witch" + 1 Magical Knight Type or Spellcaster Type Fusion Monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「セブンスロード・ウィッチ」＋フュージョンモンスター（魔導騎士族・魔法使い族）
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Sevens Road
+images:
+- index: 1
+  image: SevensRoadUltimaWitch-RDKP17-JP-UR.png
+- index: 2
+  image: SevensRoadUltimaWitch-RDKP17-JP-ORR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP045
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051262
+---
+konami_id: 20343
+name:
+  en: Cybersepice Queen Cinnamon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバースパイス・クイーンシナモン
+  ja_romaji: Saibāsupaisu Kuīn Shinamon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Shuffle 3 monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスター３体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Each player excavates the top 2 cards of their Deck. Then, inflict damage to your opponent equal to [the total Levels of the excavated monsters] x 100. Each player places their excavated cards on the top of their Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いは自身のデッキの上からカードを２枚めくり、お互いに確認する。その後、［その中のモンスターのレベルの合計］×１００ダメージを相手に与える。お互いは自身がめくったカードをデッキに戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Fusion / Effect
+attribute: FIRE
+level: 9
+atk: 2800
+def: 2500
+materials:
+  en: |-
+    "Cybersepice Cinnamon" + "Cybersepice Hotpot"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「サイバースパイス・シナモン」＋「サイバースパイス・ホットポット」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Cybersepice
+images:
+- index: 1
+  image: CybersepiceQueenCinnamon-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP046
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044907
+---
+konami_id: 20344
+name:
+  en: Cybersepice Curry Bread Pandora Drapery
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイバースパイス・カリーパンドラペリー
+  ja_romaji: Saibāsupaisu Karīpandoraperī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent excavates the top 4 cards of their Deck. If a Spell/Trap Card(s) is among the excavated cards, you can destroy all Spell/Trap Cards on your opponent's field. Your opponent places the excavated cards on the top of their Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のデッキの上からカードを４枚めくり、お互いに確認する。その中に魔法・罠カードがあった場合、相手フィールドの魔法・罠カードを全て破壊できる。相手はめくったカードを好きな順番でデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Cyberse / Fusion / Effect
+attribute: FIRE
+level: 9
+atk: 3300
+def: 2500
+materials:
+  en: |-
+    "Cybersepice Garam Masala" + "Wheatcloth Demeter"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「サイバースパイス・ガラムマサラ」＋「ウィトクロース・デメテル」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Cybersepice
+images:
+- index: 1
+  image: CybersepiceCurryBreadPandoraDrapery-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP047
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1053231
+---
+konami_id: 20345
+name:
+  en: Dark Matter Enigmata
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・エニグマータ
+  ja_romaji: Dākumatā Enigumāta
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card gains ATK equal to [the total original ATK of the monsters used as material for its Fusion Summon]. If you have a face-down monster on your field, this card cannot be destroyed by your opponent's card effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は、［このカードをフュージョン召喚する時に素材としたモンスターの元々の攻撃力の合計］だけアップする。自分フィールドに裏側表示モンスターがいる場合、このカードは相手の効果では破壊されない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 0
+def: 0
+materials:
+  en: |-
+    "Dark Matter Mist" + "Dark Matter Mist"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ダークマター・ミスト」＋「ダークマター・ミスト」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterEnigmata-RDKP17-JP-SR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP048
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044908
+---
+konami_id: 20346
+name:
+  en: Dark Matter Enigknight Sieger
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・エニグナイト・ズウィーガー
+  ja_romaji: Dākumatā Enigunaito Zuwīgā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    なし
+  ko:
+  zh-TW:
+  zh-CN:
+effect_types:
+- Continuous
+effect:
+  en: |-
+    This card cannot be destroyed by your opponent's card effects. All face-up Level 7-9 monsters on your opponent's field lose ATK equal to [the number of face-down monsters on your field] x 1000.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは相手の効果では破壊されない。相手フィールドの全ての表側表示モンスター（レベル７～９）の攻撃力は、［自分フィールドの裏側表示モンスターの数］×１０００ダウンする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 9
+atk: 2800
+def: 1300
+materials:
+  en: |-
+    "Dark Matter Knight" + "Dark Matter Mist"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ダークマター・ナイト」＋「ダークマター・ミスト」
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterEnigknightSieger-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP049
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054601
+---
+konami_id: 20347
+name:
+  en: Blue-Eyes Blazing Bright Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>青眼の激煌龍<rt>ブルーアイズ・ブレイジング・ブライト・ドラゴン</rt></ruby>
+  ja_romaji: Burūaizu Bureijingu Buraito Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains 500 ATK until the end of your opponent's next turn. Then, if you have "Engine of Destruction" in your Graveyard, you can destroy 1 monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は次の相手ターン終了時まで５００アップする。自分の墓地に「エンジン・オブ・デストラクション」がある場合、さらに相手フィールドのモンスター１体を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: LIGHT
+level: 10
+atk: 3000
+def: 3000
+materials:
+  en: |-
+    "Blue-Eyes White Dragon" + 1 Level 8 LIGHT Attribute Dragon Type monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「青眼の白龍」＋モンスター（レベル８／光属性／ドラゴン族）
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Blue-Eyes
+images:
+- index: 1
+  image: BlueEyesBlazingBrightDragon-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP050
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054732
+---
+konami_id: 20348
+name:
+  en: Tribemirror Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: トライブミラー・ドラゴン
+  ja_romaji: Toraibumirā Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send the top card of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    デッキの一番上のカードを墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This turn, 1 face-up monster on your field cannot be destroyed by card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターは効果では破壊されず、その攻撃は貫通する。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Fusion / Effect
+attribute: LIGHT
+level: 9
+atk: 3300
+def: 3300
+materials:
+  en: |-
+    1 Level 7 EARTH Attribute Dragon Type monster + 2 Dragon Type monsters
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター（レベル７／地属性／ドラゴン族）＋モンスター（ドラゴン族）×２
+  ko:
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: TribemirrorDragon-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP051
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1051648
+---
+konami_id: 20349
 name:
   en: Hybridrive Back Fusion
   de:
@@ -141403,7 +143941,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（ドラゴン族・機械族）を合計４体デッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -141415,7 +143954,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手は自身の墓地のモンスター１体を選び、自身のフィールドに裏側守備表示で特殊召喚する。その後、自分は自分の墓地の、モンスター（ドラゴン族）１体とモンスター（機械族）１体を素材としてデッキに戻してフュージョン召喚できる。この効果の発動後、ターン終了時まで自分はフュージョンモンスターでしか攻撃できない。
   ko:
   zh-TW:
   zh-CN:
@@ -141442,150 +143982,76 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1044918
 ---
-konami_id:
+konami_id: 20350
 name:
-  en: Jest of the Cosmos Princess
+  en: Hybridrive Restruct
   de:
   es:
   fr:
   it:
   pt:
-  ja: コスモス<ruby>姫<rt>ひめ</rt></ruby>のお<ruby>戯<rt>たわむ</rt></ruby>れ
-  ja_romaji: Kosumosu Hime no Otawamure
+  ja: ハイブリッドライブ・リストラクト
+  ja_romaji: Haiburiddoraibu Risutorakuto
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Send 3 cards from your hand to the Graveyard, including 2 monsters.
+    Place 2 LIGHT Attribute Dragon Type monsters from your Graveyard on the bottom of your Deck in any order.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（光属性／ドラゴン族）２体を好きな順番でデッキの下に戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Destroy up to 2 cards on your opponent's field. Then, if your opponent has 2 or more cards on their field, you can draw 2 cards.
+    Special Summon 1 EARTH Attribute Machine Type monster from your Graveyard face-up to your field.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（地属性／機械族）１体を選び、自分フィールドに表側表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
-images:
-- index: 1
-  image: JestoftheCosmosPrincess-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP058
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1044919
----
-konami_id:
-name:
-  en: Bluetech Burst Rex
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ブルーテック・バーストレックス
-  ja_romaji: Burūtekku Bāsuto Rekkusu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During your Main Phase that you Fusion Summoned this card, shuffle 3 monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy up to 3 face-down cards on your opponent's field, and this card gains ATK equal to [the number of destroyed cards] x 500 until the end of this turn. Then, you can make all face-up monsters on your opponent's field lose 1000 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3300
-def: 2500
-materials:
-  en: |-
-    "Blue Tooth Burst Dragon" + "Jointech Rex"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
 series:
-- High Tech Dragon
+- Hybridrive
 images:
 - index: 1
-  image: BluetechBurstRex-RDKP17-JP-OP.png
+  image: HybridriveRestruct-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP044
+  - set_number: RD/KP17-JP053
     set_name: Burst Rex of Awakening
     rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
+    - Common
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
-yugipedia_page_id: 1044920
+yugipedia_page_id: 1051256
 ---
-konami_id:
+konami_id: 20351
 name:
-  en: Cybersepice Cumin
+  en: Blue Tooth Reconnect
   de:
   es:
   fr:
   it:
   pt:
-  ja: サイバースパイス・クミン
-  ja_romaji: Saibāsupaisu Kumin
+  ja: ブルー・トゥース・リコネクト
+  ja_romaji: Burū Tūsu Rikonekuto
   ko:
   ko_rr:
   zh-TW:
@@ -141598,36 +144064,34 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Your opponent excavates the top card of their Deck. If that card is a monster, inflict damage to your opponent equal to [its Level] x 100. Your opponent places the excavated card on the top of their Deck.
+    Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 "Blue Tooth Burst Dragon" from your Graveyard face-up to your field.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の墓地のモンスター（光属性／ドラゴン族）２体を選んでデッキに戻す。その後、自分の墓地の「碧牙の爆速竜」１体を選んで自分フィールドに表側表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: FIRE
-level: 3
-atk: 900
-def: 300
+card_type: Spell
+property: Normal
 series:
-- Cybersepice
+- High Tech Dragon
 images:
 - index: 1
-  image: CybersepiceCumin-RDKP17-JP-OP.png
+  image: BlueToothReconnect-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP016
+  - set_number: RD/KP17-JP054
     set_name: Burst Rex of Awakening
     rarities:
     - Common
@@ -141636,9 +144100,9 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1046111
+yugipedia_page_id: 1053557
 ---
-konami_id:
+konami_id: 20352
 name:
   en: Spice Cross Mix
   de:
@@ -141660,7 +144124,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
@@ -141672,7 +144137,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分の手札・フィールドのモンスター（炎属性／サイバース族）を素材として墓地へ送り、フュージョン召喚する。その後、相手の墓地のカード１枚を選んでデッキの上か下に戻す事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -141697,16 +144163,76 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1048511
 ---
-konami_id:
+konami_id: 20353
 name:
-  en: Cybersepice Cinnamon
+  en: Dark Matter Storm
   de:
   es:
   fr:
   it:
   pt:
-  ja: サイバースパイス・シナモン
-  ja_romaji: Saibāsupaisu Shinamon
+  ja: ダークマター・ストーム
+  ja_romaji: Dākumatā Sutōmu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 2 face-down monsters from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドの裏側表示モンスター２体を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy all Spell/Trap Cards on your opponent's field. You can only attack with DARK Attribute Galaxy Type Effect Monsters this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドの魔法・罠カードを全て破壊する。このターン、自分は効果モンスター（闇属性／ギャラクシー族）でしか攻撃できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterStorm-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP056
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054602
+---
+konami_id: 20354
+name:
+  en: Dark Matter Force
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・フォース
+  ja_romaji: Dākumatā Fōsu
   ko:
   ko_rr:
   zh-TW:
@@ -141719,279 +144245,34 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    なし
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Your opponent excavates the top card of their Deck. Then, if that card is a Level 5 or higher monster, you can Special Summon 1 monster from your hand face-up to your field. Your opponent places the excavated card on the top of their Deck.
+    1 face-up "Dark Matter Enigmata" or 1 face-up "Dark Matter Enigknight Sieger" on your field gains ATK equal to [the original ATK of the face-up monster with the highest original ATK on your opponent's field] until the end of this turn.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: FIRE
-level: 2
-atk: 400
-def: 700
-series:
-- Cybersepice
-images:
-- index: 1
-  image: CybersepiceCinnamon-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP014
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1050353
----
-konami_id:
-name:
-  en: Wheatcloth Demeter
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ウィトクロース・デメテル
-  ja_romaji: Witokurōsu Demeteru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During a turn you have not Special Summoned a monster from the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent excavates the top 2 cards of their Deck. You can Special Summon 1 monster with a Level equal to or lower than [the total Levels of the excavated monsters] from your Graveyard face-up to your field. Your opponent places the excavated cards on the top of their Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: FIRE
-level: 7
-atk: 2200
-def: 0
-images:
-- index: 1
-  image: WheatclothDemeter-RDKP17-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP017
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1050669
----
-konami_id:
-name:
-  en: Hybridrive Scale
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハイブリッドライブ・スケイル
-  ja_romaji: Haiburiddoraibu Sukeiru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have a LIGHT Attribute Dragon Type monster and an EARTH Attribute Machine Type monster in your Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top card of your Deck to the Graveyard. Then, this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a Dragon Type or Machine Type monster in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 3
-atk: 800
-def: 700
-series:
-- Hybridrive
-images:
-- index: 1
-  image: HybridriveScale-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP003
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1051252
----
-konami_id:
-name:
-  en: Hybridrive Lizard
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハイブリッドライブ・リザード
-  ja_romaji: Haiburiddoraibu Rizādo
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Hybridrive Scale" or 1 "Hybridrive Tusk" from your Graveyard to your field in face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 3
-atk: 800
-def: 700
-series:
-- Hybridrive
-images:
-- index: 1
-  image: HybridriveLizard-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP005
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1051254
----
-konami_id:
-name:
-  en: Hybridrive Restruct
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ハイブリッドライブ・リストラクト
-  ja_romaji: Haiburiddoraibu Risutorakuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Place 2 LIGHT Attribute Dragon Type monsters from your Graveyard on the bottom of your Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 EARTH Attribute Machine Type monster from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示の「ダークマター・エニグマータ」または「ダークマター・エニグナイト・ズウィーガー」１体を選び、その攻撃力をターン終了時まで、［相手フィールドの元々の攻撃力が一番高い表側表示モンスターの元々の攻撃力］だけアップする。
   ko:
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Normal
 series:
-- Hybridrive
+- Dark Matter
 images:
 - index: 1
-  image: HybridriveRestruct-RDKP17-JP-OP.png
+  image: DarkMatterForce-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP053
+  - set_number: RD/KP17-JP057
     set_name: Burst Rex of Awakening
     rarities:
     - Common
@@ -142000,9 +144281,69 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1051256
+yugipedia_page_id: 1054603
 ---
-konami_id:
+konami_id: 20355
+name:
+  en: Jest of the Cosmos Princess
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: コスモス<ruby>姫<rt>ひめ</rt></ruby>のお<ruby>戯<rt>たわむ</rt></ruby>れ
+  ja_romaji: Kosumosu Hime no Otawamure
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 3 cards from your hand to the Graveyard, including 2 monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    モンスター２体を含む手札３枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Destroy up to 2 cards on your opponent's field. Then, if your opponent has 2 or more cards on their field, you can draw 2 cards.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドのカードを２枚まで選んで破壊する。その後、相手フィールドにカードが２枚以上ある場合、自分は２枚ドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+images:
+- index: 1
+  image: JestoftheCosmosPrincess-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP058
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1044919
+---
+konami_id: 20356
 name:
   en: Hybridrive Bumper
   de:
@@ -142024,7 +144365,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手モンスターの攻撃宣言時、自分の墓地のモンスター（ドラゴン族・機械族）を合計４体デッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -142036,7 +144378,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    攻撃してきたモンスターの攻撃力はターン終了時まで１６００ダウンする。この効果の条件で戻したモンスターの種族が２種類の場合、さらに相手フィールドの表側表示モンスター（レベル９以下）１体を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -142046,7 +144389,7 @@ series:
 - Hybridrive
 images:
 - index: 1
-  image: HybridriveBumper-RDKP17-JP-OP.png
+  image: HybridriveBumper-RDKP17-JP-C.png
 sets:
   ja:
   - set_number: RD/KP17-JP059
@@ -142060,56 +144403,116 @@ is_translation_unofficial:
     en: true
 yugipedia_page_id: 1051257
 ---
-konami_id:
+konami_id: 20357
 name:
-  en: Releaslayer
+  en: Spice Cross Secret Recipe
   de:
   es:
   fr:
   it:
   pt:
-  ja: リリースレイヤー
-  ja_romaji: Rirīsureiyā
+  ja: スパイスクロース・シークレットレシピ
+  ja_romaji: Supaisukurōsu Shīkuretto Reshipi
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    During the turn you Normal Summoned this card.
+    When your opponent Normal or Special Summons a monster, shuffle 2 Cyberse Type monsters from your Graveyard into the Deck.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター（サイバース族）２体をデッキに戻して発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Send the top card of your Deck to the Graveyard. Then, if you sent a Spellcaster Type monster to the Graveyard by this effect, this turn, this face-up card can be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Spellcaster Type monster in Attack Position.
+    Change 1 face-up Level 9 or lower monster on your opponent's field to face-down Defense Position. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの表側表示モンスター（レベル９以下）１体を選んで裏側守備表示にする。その後、相手の墓地のカード１枚を選んでデッキの上か下に戻す事ができる。
   ko:
   zh-TW:
   zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Effect
-attribute: DARK
-level: 4
-atk: 1300
-def: 0
+card_type: Trap
+property: Normal
+series:
+- Cybersepice
 images:
 - index: 1
-  image: Releaslayer-RDKP17-JP-OP.png
+  image: SpiceCrossSecretRecipe-RDKP17-JP-R.png
 sets:
   ja:
-  - set_number: RD/KP17-JP008
+  - set_number: RD/KP17-JP060
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057028
+---
+konami_id: 20358
+name:
+  en: Spice Cross Black Pepper
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: スパイスクロース・ブラックペッパー
+  ja_romaji: Supaisukurōsu Burakku Peppā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a card(s) is sent from your opponent's Deck to the Graveyard while you have 3 or more FIRE Attribute Cyberse Type monsters with different names in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にカード名が異なるモンスター（炎属性／サイバース族）が３体以上いる場合、相手のデッキのカードが墓地へ送られた時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose 5 cards in your opponent's Graveyard, including 2 Level 4 or lower monsters. Your opponent places them on top of their Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分はモンスター（レベル４以下）２体を含む相手の墓地のカード５枚を選ぶ。相手はそのカードを好きな順番でデッキの上に戻す。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Cybersepice
+images:
+- index: 1
+  image: SpiceCrossBlackPepper-RDKP17-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP061
     set_name: Burst Rex of Awakening
     rarities:
     - Common
@@ -142118,74 +144521,301 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1051258
+yugipedia_page_id: 1053237
 ---
-konami_id:
+konami_id: 20359
 name:
-  en: Sevens Road Ultima Witch
+  en: Dark Matter Eliminate
   de:
   es:
   fr:
   it:
   pt:
-  ja: セブンスロード・アルテマウィッチ
-  ja_romaji: Sebunsu Rōdo Arutema Wicchi
+  ja: ダークマター・アサシネイト
+  ja_romaji: Dākumatā Asashineito
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    None
+    When your opponent Normal or Special Summons a monster.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時に発動できる。
   ko:
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Shuffle 1 Spell Card from your opponent's Graveyard into the Deck. Then, you can add 1 Spell Card from your Graveyard to your hand. If you do, you can only activate 1 Normal Spell Card until the end of this turn.
+    Reveal 1 face-down card on the field. Then, if that card is a Monster Card with 1300 DEF, you can destroy 1 face-up Level 8 or lower monster or 1 face-down card on your opponent's field.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分または相手フィールドの裏側表示のカード１枚を選び、お互いに確認する。そのカードがモンスターカード（守備力１３００）だった場合、さらに相手フィールドの表側表示モンスター（レベル８以下）１体または裏側表示のカード１枚を選んで破壊できる。
   ko:
   zh-TW:
   zh-CN:
-card_type: Monster
-monster_type_line: Spellcaster / Fusion / Effect
-attribute: DARK
-level: 10
-atk: 3300
-def: 1600
-materials:
-  en: |-
-    "Sevens Road Witch" + 1 Magical Knight Type or Spellcaster Type Fusion Monster
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
+card_type: Trap
+property: Normal
 series:
-- Sevens Road
+- Dark Matter
 images:
 - index: 1
-  image: SevensRoadUltimaWitch-RDKP17-JP-UR.png
-- index: 2
-  image: SevensRoadUltimaWitch-RDKP17-JP-ORR-AA.png
+  image: DarkMatterEliminate-RDKP17-JP-C.png
 sets:
   ja:
-  - set_number: RD/KP17-JP045
+  - set_number: RD/KP17-JP062
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1057171
+---
+konami_id: 20360
+name:
+  en: JAM:P Catch!
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>ＪＡＭ：Ｐ<rt>ジャンプ</rt></ruby>キャッチ！
+  ja_romaji: Janpu Kyacchi!
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When an opponent's monster declares an attack, shuffle 2 to 4 Psychic Type monsters from your Graveyard into the Deck.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手モンスターの攻撃宣言時、自分の墓地のモンスター（サイキック族）２～４体をデッキに戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Change the attacking monster to face-up Defense Position. Then, if you have a Psychic Type Normal Monster in your Graveyard, you can draw until you have 6 cards in your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    攻撃してきたモンスターを表側守備表示にする。自分の墓地に通常モンスター（サイキック族）がいる場合、さらに自分は手札が６枚になるようにドローできる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- JAM
+images:
+- index: 1
+  image: JAMPCatch-RDKP17-JP-SR.png
+- index: 2
+  image: JAMPCatch-RDKP17-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP063
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055800
+---
+konami_id: 20361
+name:
+  en: Dragonic Domination
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ドラゴニック・ドミネーション
+  ja_romaji: Doragonikku Dominēshon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Inflict 400 damage to your opponent. Then, if you have a face-up Level 7 or higher Dragon Type monster on your field, you can destroy 1 face-up Level 8 or lower Effect Monster on your opponent's field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手に４００ダメージを与える。自分フィールドに表側表示モンスター（レベル７以上／ドラゴン族）がいる場合、さらに相手フィールドの表側表示の効果モンスター（レベル８以下）１体を選んで破壊できる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+series:
+- Blue-Eyes
+images:
+- index: 1
+  image: DragonicDomination-RDKP17-JP-SR.png
+- index: 2
+  image: DragonicDomination-RDKP17-JP-ScR-AA.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP064
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1054731
+---
+konami_id: 20362
+name:
+  en: Auspicious Arrival of Divine Doubt
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>神<rt>しん</rt></ruby><ruby>疑<rt>ぎ</rt></ruby>の<ruby>光<rt>こう</rt></ruby><ruby>来<rt>らい</rt></ruby>
+  ja_romaji: Shingi no Kōrai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When a monster(s) is sent from your opponent's field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドのモンスターが墓地へ送られた時に発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 2 cards. Then, you can send 1 random card from your opponent's hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は２枚ドローする。その後、相手の手札をランダムに１枚選んで墓地へ送る事ができる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: AuspiciousArrivalofDivineDoubt-RDKP17-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP065
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055751
+---
+konami_id: 20363
+name:
+  en: Invitation to a Delirious Dream
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>夢<rt>む</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>誘<rt>いざな</rt></ruby>い
+  ja_romaji: Muchū no Izanai
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    When your opponent Normal or Special Summons a monster, place 1 monster from your field and 1 card from your hand on the bottom of the owner's Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手がモンスターを召喚・特殊召喚した時、自分フィールドのモンスター１体と手札１枚を好きな順番で持ち主のデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Take control of 1 face-up Level 8 or lower monster on your opponent's field, except a Maximum Monster. While the monster you took control of by this effect is face-up on the field, it cannot attack or activate its effects.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    マキシマムモンスター以外の相手フィールドの表側表示モンスター（レベル８以下）１体を選んでそのコントロールを得る。この効果でコントロールを得たモンスターはフィールドに表側表示でいる限り、攻撃できず効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: InvitationtoaDeliriousDream-RDKP17-JP-UR.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP066
     set_name: Burst Rex of Awakening
     rarities:
     - Ultra Rare
@@ -142196,129 +144826,7 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1051262
----
-konami_id:
-name:
-  en: Tribemirror Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: トライブミラー・ドラゴン
-  ja_romaji: Toraibumirā Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up monster on your field cannot be destroyed by card effects, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: LIGHT
-level: 9
-atk: 3300
-def: 3300
-materials:
-  en: |-
-    1 Level 7 EARTH Attribute Dragon Type monster + 2 Dragon Type monsters
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-images:
-- index: 1
-  image: TribemirrorDragon-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP051
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1051648
----
-konami_id:
-name:
-  en: Gravebronze Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: グレイブロンズ・ドラゴン
-  ja_romaji: Gureiburonzu Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    A giant dragon that has a stately sheen. Its scales are said to grant the wishes of those who obtain them.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Normal
-attribute: EARTH
-level: 7
-atk: 2500
-def: 800
-images:
-- index: 1
-  image: GravebronzeDragon-RDKP17-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP002
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1051652
+yugipedia_page_id: 1054494
 ---
 konami_id:
 name:
@@ -142371,317 +144879,6 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1052181
----
-konami_id:
-name:
-  en: Cybersepice Garam Masala
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイバースパイス・ガラムマサラ
-  ja_romaji: Saibāsupaisu Garamu Masara
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Your opponent has a face-up monster on their field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent excavates the top 3 cards of their Deck. 1 face-up monster on your opponent's field loses ATK equal to [the total Levels of the excavated monsters] x 300 until the end of this turn. Your opponent places the excavated cards on the top of their Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: FIRE
-level: 7
-atk: 2400
-def: 0
-series:
-- Cybersepice
-images:
-- index: 1
-  image: CybersepiceGaramMasala-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP019
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1053225
----
-konami_id:
-name:
-  en: Cybersepice Curry Bread Pandora Drapery
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: サイバースパイス・カリーパンドラペリー
-  ja_romaji: Saibāsupaisu Karīpandoraperī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent excavates the top 4 cards of their Deck. If a Spell/Trap Card(s) is among the excavated cards, you can destroy all Spell/Trap Cards on your opponent's field. Your opponent places the excavated cards on the top of their Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Fusion / Effect
-attribute: FIRE
-level: 9
-atk: 3300
-def: 2500
-materials:
-  en: |-
-    "Cybersepice Garam Masala" + "Wheatcloth Demeter"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Cybersepice
-images:
-- index: 1
-  image: CybersepiceCurryBreadPandoraDrapery-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP047
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1053231
----
-konami_id:
-name:
-  en: Spice Cross Black Pepper
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スパイスクロース・ブラックペッパー
-  ja_romaji: Supaisukurōsu Burakku Peppā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a card(s) is sent from your opponent's Deck to the Graveyard while you have 3 or more FIRE Attribute Cyberse Type monsters with different names in your Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Choose 5 cards in your opponent's Graveyard, including 2 Level 4 or lower monsters. Your opponent places them on top of their Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Cybersepice
-images:
-- index: 1
-  image: SpiceCrossBlackPepper-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP061
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1053237
----
-konami_id:
-name:
-  en: Blue Tooth Reconnect
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ブルー・トゥース・リコネクト
-  ja_romaji: Burū Tūsu Rikonekuto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle 2 LIGHT Attribute Dragon Type monsters from your Graveyard into the Deck. Then, you can Special Summon 1 "Blue Tooth Burst Dragon" from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- High Tech Dragon
-images:
-- index: 1
-  image: BlueToothReconnect-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP054
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1053557
----
-konami_id:
-name:
-  en: Invitation to a Delirious Dream
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>夢<rt>む</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>誘<rt>いざな</rt></ruby>い
-  ja_romaji: Muchū no Izanai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster, place 1 monster from your field and 1 card from your hand on the bottom of the owner's Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Take control of 1 face-up Level 8 or lower monster on your opponent's field, except a Maximum Monster. While the monster you took control of by this effect is face-up on the field, it cannot attack or activate its effects.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: InvitationtoaDeliriousDream-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP066
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054494
 ---
 konami_id:
 name:
@@ -142759,1640 +144956,6 @@ yugipedia_page_id: 1054541
 ---
 konami_id:
 name:
-  en: Dark Matter Deadcheer
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・デッドエール
-  ja_romaji: Dākumatā Deddoēru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send 1 monster from your field to the Graveyard. Then, you can Special Summon 1 Level 5 Galaxy Type monster with 1300 DEF from your Graveyard to your field in face-up Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 2
-atk: 400
-def: 1300
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterDeadcheer-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP020
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054594
----
-konami_id:
-name:
-  en: Dark Matter Jelly
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・ジェリー
-  ja_romaji: Dākumatā Jerī
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have a face-up DARK Attribute Galaxy Type monster on your field other than this card, send 1 face-down monster from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Your opponent cannot activate Trap Cards during the Battle Phase this turn. Then, change this card to face-down Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 3
-atk: 1200
-def: 1300
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterJelly-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP022
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054595
----
-konami_id:
-name:
-  en: Dark Matter String
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・ストリング
-  ja_romaji: Dākumatā Sutoringu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Reveal 1 Level 5 or lower DARK Attribute Galaxy Type monster with 1300 DEF in your hand to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon the monster revealed to meet the requirement to your field in face-up Attack Position or face-down Defense Position. Then, this card gains 700 ATK until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 5
-atk: 1800
-def: 1300
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterString-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP024
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054598
----
-konami_id:
-name:
-  en: Dark Matter Knight
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・ナイト
-  ja_romaji: Dākumatā Naito
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the total number of face-up Fusion Monsters on your field and face-down monsters on your field] x 500.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 5
-atk: 1800
-def: 1300
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterKnight-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP025
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054599
----
-konami_id:
-name:
-  en: Dark Matter Freya
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・フレイヤ
-  ja_romaji: Dākumatā Fureiya
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Change this card's battle position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Choose 1 face-up DARK Attribute Galaxy Type monster on your field. If it attacks a Defense Position monster this turn, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference). Then, you can change 1 face-up monster on the field to face-up Defense Position or face-down Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: DARK
-level: 5
-atk: 1800
-def: 1300
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterFreya-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP027
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054600
----
-konami_id:
-name:
-  en: Dark Matter Enigknight Sieger
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・エニグナイト・ズウィーガー
-  ja_romaji: Dākumatā Enigunaito Zuwīgā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card cannot be destroyed by your opponent's card effects. All face-up Level 7-9 monsters on your opponent's field lose ATK equal to [the number of face-down monsters on your field] x 1000.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Fusion / Effect
-attribute: DARK
-level: 9
-atk: 2800
-def: 1300
-materials:
-  en: |-
-    "Dark Matter Knight" + "Dark Matter Mist"
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterEnigknightSieger-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP049
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054601
----
-konami_id:
-name:
-  en: Dark Matter Storm
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・ストーム
-  ja_romaji: Dākumatā Sutōmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 2 face-down monsters from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy all Spell/Trap Cards on your opponent's field. You can only attack with DARK Attribute Galaxy Type Effect Monsters this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterStorm-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP056
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054602
----
-konami_id:
-name:
-  en: Dark Matter Force
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・フォース
-  ja_romaji: Dākumatā Fōsu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    1 face-up "Dark Matter Enigmata" or 1 face-up "Dark Matter Enigknight Sieger" on your field gains ATK equal to [the original ATK of the face-up monster with the highest original ATK on your opponent's field] until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Spell
-property: Normal
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterForce-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP057
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054603
----
-konami_id:
-name:
-  en: Dragonic Domination
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴニック・ドミネーション
-  ja_romaji: Doragonikku Dominēshon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Inflict 400 damage to your opponent. Then, if you have a face-up Level 7 or higher Dragon Type monster on your field, you can destroy 1 face-up Level 8 or lower Effect Monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Blue-Eyes
-images:
-- index: 1
-  image: DragonicDomination-RDKP17-JP-SR.png
-- index: 2
-  image: DragonicDomination-RDKP17-JP-ScR-AA.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP064
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054731
----
-konami_id:
-name:
-  en: Blue-Eyes Blazing Bright Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>青眼の激煌龍<rt>ブルーアイズ・ブレイジング・ブライト・ドラゴン</rt></ruby>
-  ja_romaji: Burūaizu Bureijingu Buraito Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 500 ATK until the end of your opponent's next turn. Then, if you have "Engine of Destruction" in your Graveyard, you can destroy 1 monster on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Fusion / Effect
-attribute: LIGHT
-level: 10
-atk: 3000
-def: 3000
-materials:
-  en: |-
-    "Blue-Eyes White Dragon" + 1 Level 8 LIGHT Attribute Dragon Type monster
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-series:
-- Blue-Eyes
-images:
-- index: 1
-  image: BlueEyesBlazingBrightDragon-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP050
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1054732
----
-konami_id:
-name:
-  en: Granmarg the Rock Monarch
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ja_romaji:
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Tribute Summoned this card in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Destroy 1 face-down card on the field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Rock / Effect
-attribute: EARTH
-level: 6
-atk: 2400
-def: 1000
-series:
-- Monarch
-legend: true
-images:
-- index: 1
-  image: GranmargtheRockMonarch-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP033
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  text:
-    en: true
-yugipedia_page_id: 1055194
----
-konami_id:
-name:
-  en: Advance Form
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: アドバンス・フォーム
-  ja_romaji: Adobansu Fōmu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send up to 2 cards from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle monsters from your opponent's Graveyard into the Deck equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can add 1 "Advance Impact" or 1 "Emperor Realm" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Galaxy / Effect
-attribute: LIGHT
-level: 4
-atk: 800
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: AdvanceForm-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP032
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055260
----
-konami_id:
-name:
-  en: Royal Wisdom Guards
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>賢<rt>けん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>近<rt>この</rt></ruby><ruby>衛<rt>え</rt></ruby><ruby>兵<rt>へい</rt></ruby>
-  ja_romaji: Kentei Konoehei
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 10 or more cards in your Deck, shuffle 4 monsters with 1000 DEF from your Graveyard into the Deck, except monsters with 1200 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 1 card. Then, increase this card's Level by 2 until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: DARK
-level: 3
-atk: 1200
-def: 1000
-series:
-- Monarch
-images:
-- index: 1
-  image: RoyalWisdomGuards-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP031
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055262
----
-konami_id:
-name:
-  en: God Maju Garzett
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>神<rt>ゴッド</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>獣<rt>じゅう</rt></ruby> ガーゼット
-  ja_romaji: Goddo Majū Gāzetto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    You can Tribute Summon this card in Attack Position by Tributing 3 Effect Monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This card gains ATK equal to [the total original ATK of the Effect Monsters Tributed for its Tribute Summon in Attack Position]. This card that was Normal Summoned by Tributing 3 monsters gains 800 ATK.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 8
-atk: 0
-def: 0
-series:
-- Garzett
-images:
-- index: 1
-  image: GodMajuGarzett-RDKP17-JP-R.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP043
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055306
----
-konami_id:
-name:
-  en: Dice Key Ribbon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダイスキー・リボン
-  ja_romaji: Daisukī Ribon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send this face-up card from your field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Special Summon 1 "Dice Key Mekuru" or 1 LIGHT Attribute monster with an effect that requires a die roll from your Graveyard face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 6
-atk: 800
-def: 800
-series:
-- Dice
-images:
-- index: 1
-  image: DiceKeyRibbon-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP012
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055484
----
-konami_id:
-name:
-  en: Dice Key Mekuru
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダイスキー・メクル
-  ja_romaji: Daisukī Mekuru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Send 1 card from your hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Excavate the top 6 cards of your Deck. You can add 1 excavated "Dice Key Ribbon" or 1 excavated LIGHT Attribute monster with an effect that requires a die roll to your hand. Place the remaining cards on the bottom of your Deck in any order.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 1
-atk: 100
-def: 100
-series:
-- Dice
-images:
-- index: 1
-  image: DiceKeyMekuru-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP010
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055486
----
-konami_id:
-name:
-  en: Dice Key Kuu
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダイスキー・クゥ
-  ja_romaji: Daisukī Kwu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Add 1 "Dice Key Nel" from your Graveyard to your hand. Then, roll a six-sided die. You can place 1 face-up Defense Position monster from your opponent's field on the top of the owner's Deck if the result was 6.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 3
-atk: 300
-def: 1200
-series:
-- Dice
-images:
-- index: 1
-  image: DiceKeyKuu-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP011
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055506
----
-konami_id:
-name:
-  en: Auspicious Arrival of Divine Doubt
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>神<rt>しん</rt></ruby><ruby>疑<rt>ぎ</rt></ruby>の<ruby>光<rt>こう</rt></ruby><ruby>来<rt>らい</rt></ruby>
-  ja_romaji: Shingi no Kōrai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When a monster(s) is sent from your opponent's field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Draw 2 cards. Then, you can send 1 random card from your opponent's hand to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-images:
-- index: 1
-  image: AuspiciousArrivalofDivineDoubt-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP065
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055751
----
-konami_id:
-name:
-  en: JAM:P Catch!
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>ＪＡＭ：Ｐ<rt>ジャンプ</rt></ruby>キャッチ！
-  ja_romaji: Janpu Kyacchi!
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When an opponent's monster declares an attack, shuffle 2 to 4 Psychic Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change the attacking monster to face-up Defense Position. Then, if you have a Psychic Type Normal Monster in your Graveyard, you can draw until you have 6 cards in your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- JAM
-images:
-- index: 1
-  image: JAMPCatch-RDKP17-JP-SR.png
-- index: 2
-  image: JAMPCatch-RDKP17-JP-ScR-AA.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP063
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Super Rare
-    - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055800
----
-konami_id:
-name:
-  en: Fadronir the Pure
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>純<rt>じゅん</rt></ruby><ruby>真<rt>しん</rt></ruby>のファドロニール
-  ja_romaji: Junshin no Fadoronīru
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    You have not drawn a card during the Main Phase of the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Each player draws 1 card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 3
-atk: 700
-def: 100
-images:
-- index: 1
-  image: FadronirthePure-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP037
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1055877
----
-konami_id:
-name:
-  en: Twin Edge Phantom Dragon
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ツインエッジ・ファントム・ドラゴン
-  ja_romaji: Tsuin Ejji Fantomu Doragon
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, change this card's battle position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up Level 7 DARK Attribute Dragon Type monster with 2500 ATK on your field gains 500 ATK, and can make up to 2 attacks on monsters.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: DARK
-level: 3
-atk: 1000
-def: 0
-images:
-- index: 1
-  image: TwinEdgePhantomDragon-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP030
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056156
----
-konami_id:
-name:
-  en: Dragon Remover
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ドラゴン・リムーバー
-  ja_romaji: Doragon Rimūbā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card, change the battle position of 1 face-up Level 7 or higher Dragon Type monster on your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Look at 1 face-down card in your opponent's Spell & Trap Zone. Then, if that card is a Trap Card, destroy it.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: EARTH
-level: 3
-atk: 500
-def: 1000
-images:
-- index: 1
-  image: DragonRemover-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP035
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056550
----
-konami_id:
-name:
-  en: Watermirror Serpent
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ウォーターミラー・サーペント
-  ja_romaji: Wōtāmirā Sāpento
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, shuffle 2 non-Fusion Monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Fusion Summon by sending 1 Level 7 WATER Attribute or EARTH Attribute Dragon Type monster and 2 or more Dragon Type monsters from your hand and/or field to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: WATER
-level: 2
-atk: 0
-def: 800
-images:
-- index: 1
-  image: WatermirrorSerpent-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP034
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056652
----
-konami_id:
-name:
-  en: Fusionic Tribevern
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: フュージョニック・トライバーン
-  ja_romaji: Fyūjonikku Toraibān
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If the only monsters in your Graveyard are High Dragon Type and/or Dragon Type, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Increase this card's Level by 4 until the end of this turn. Then, you can add 1 "Watermirror Serpent" or 1 "Dragon Tribe Fusion" from your Graveyard to your hand.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Dragon / Effect
-attribute: LIGHT
-level: 3
-atk: 600
-def: 800
-images:
-- index: 1
-  image: FusionicTribevern-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP036
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056655
----
-konami_id:
-name:
-  en: Plus Skull
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: タスドクロ
-  ja_romaji: Dasudokuro
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Change this Attack Position card to face-up Defense Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This turn, 1 face-up DARK Attribute Fiend Type monster on your field with 0 original ATK and DEF gains 1000 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 4
-atk: 1300
-def: 0
-images:
-- index: 1
-  image: PlusSkull-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP040
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056950
----
-konami_id:
-name:
-  en: Multiply Skull
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: マスドクロ
-  ja_romaji: Masudokuro
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect_types:
-- Continuous
-effect:
-  en: |-
-    This face-up card can be treated as 2 Tributes for the Tribute Summon of a DARK Attribute Fiend Type Effect Monster with 0 ATK/0 DEF in Attack Position.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fiend / Effect
-attribute: DARK
-level: 4
-atk: 1300
-def: 0
-images:
-- index: 1
-  image: MultiplySkull-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP041
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1056952
----
-konami_id:
-name:
   en: Copycat
   de:
   es:
@@ -144449,425 +145012,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1056956
----
-konami_id:
-name:
-  en: Spice Cross Secret Recipe
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: スパイスクロース・シークレットレシピ
-  ja_romaji: Supaisukurōsu Shīkuretto Reshipi
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster, shuffle 2 Cyberse Type monsters from your Graveyard into the Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Change 1 face-up Level 9 or lower monster on your opponent's field to face-down Defense Position. Then, you can place 1 card from your opponent's Graveyard on either the top or bottom of their Deck.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Cybersepice
-images:
-- index: 1
-  image: SpiceCrossSecretRecipe-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP060
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057028
----
-konami_id:
-name:
-  en: Stone Machine Gareking
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>岩<rt>がん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>魔神<rt>マシン</rt></ruby>ガレキング
-  ja_romaji: Ganseki Mashin Garekingu
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    If you have 2 face-up Rock Type Normal Monsters on your field, send the top card of your Deck to the Graveyard.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    This card gains 1400 ATK until the end of this turn. Then, if you have 3 Level 5-7 face-up monsters with different Levels on your field, you can destroy all face-up Level 7 or lower monsters on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Rock / Effect
-attribute: EARTH
-level: 7
-atk: 2500
-def: 1400
-series:
-- Stone
-images:
-- index: 1
-  image: StoneMachineGareking-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP028
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057086
----
-konami_id:
-name:
-  en: Stone Chariot Gravelriot
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>岩<rt>がん</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>戦<rt>せん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>ジャリオット
-  ja_romaji: Gansekisensha Jariotto
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-text:
-  en: |-
-    An ancient tank that drives with incredible balance. It shatters the balance of the enemy forces by penetrating a single point.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Rock / Normal
-attribute: EARTH
-level: 6
-atk: 1800
-def: 2000
-series:
-- Stone
-images:
-- index: 1
-  image: StoneChariotGravelriot-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP001
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057087
----
-konami_id:
-name:
-  en: Data Eater
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: データーイーター
-  ja_romaji: Dēta Ītā
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    Reveal 1 EARTH Attribute monster and 1 non-EARTH Attribute monster in your hand to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Shuffle 2 cards from your opponent's Graveyard into the Deck. Then, you can make 1 face-up monster on your field gain 500 ATK until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Machine / Effect
-attribute: EARTH
-level: 3
-atk: 800
-def: 700
-images:
-- index: 1
-  image: DataEater-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP038
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057090
----
-konami_id:
-name:
-  en: Dark Matter Eliminate
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: ダークマター・アサシネイト
-  ja_romaji: Dākumatā Asashineito
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    When your opponent Normal or Special Summons a monster.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Reveal 1 face-down card on the field. Then, if that card is a Monster Card with 1300 DEF, you can destroy 1 face-up Level 8 or lower monster or 1 face-down card on your opponent's field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Trap
-property: Normal
-series:
-- Dark Matter
-images:
-- index: 1
-  image: DarkMatterEliminate-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP062
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057171
----
-konami_id:
-name:
-  en: Defrostrooper Mk-II
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: デフロストルーパー<ruby>改<rt>かい</rt></ruby>
-  ja_romaji: Defurosutorūpā Kai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    During the turn you Normal Summoned this card.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Inflict 200 damage to your opponent. Then, if you have a Level 3 FIRE Attribute Cyberse Type monster or an Equip Spell Card in your Graveyard, you can make 1 face-up monster on your opponent's field lose 600 ATK/DEF until the end of this turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Cyberse / Effect
-attribute: FIRE
-level: 4
-atk: 1200
-def: 1200
-images:
-- index: 1
-  image: DefrostrooperMkII-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP039
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057199
----
-konami_id:
-name:
-  en: Deity of Seven Treasures - Beidai
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja: <ruby>七<rt>しち</rt></ruby><ruby>宝<rt>ほう</rt></ruby><ruby>神<rt>じん</rt></ruby>－<ruby>米<rt>べい</rt></ruby><ruby>大<rt>だい</rt></ruby>
-  ja_romaji: Shichihōjin - Beidai
-  ko:
-  ko_rr:
-  zh-TW:
-  zh-CN:
-summoning_condition:
-  en: |-
-    If you have a monster with 2700 DEF or "Ship of Seven Treasures" in your Graveyard, you can Special Summon this card from your hand face-up to your field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-requirement:
-  en: |-
-    None
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-effect:
-  en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, you can make 1 face-up monster on your opponent's field lose 700 ATK/DEF until the end of your opponent's next turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
-card_type: Monster
-monster_type_line: Fairy / Effect
-attribute: LIGHT
-level: 7
-atk: 2300
-def: 1700
-images:
-- index: 1
-  image: DeityofSevenTreasuresBeidai-RDKP17-JP-OP.png
-sets:
-  ja:
-  - set_number: RD/KP17-JP042
-    set_name: Burst Rex of Awakening
-    rarities:
-    - Ultra Rare
-    - Secret Rare
-    - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
-yugipedia_page_id: 1057698
