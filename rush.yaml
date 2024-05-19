@@ -132521,6 +132521,8 @@ def: 1500
 images:
 - index: 1
   image: SevensFearMagician-RDKP16-JP-SR.png
+- index: 2
+  image: SevensFearMagician-RDBDG8-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP16-JP024
@@ -144966,7 +144968,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Choose 1 face-up monster on your opponent's field with 100 or more original ATK. While this card is face-up, it gains ATK equal to [that monster's original ATK], and if that monster's original DEF is 100 or more, this card gains DEF equal to [that monster's original DEF].
+    Choose 1 face-up monster on your opponent's field with 100 or more original ATK. While this card is face-up, it gains ATK equal to [that monster's original ATK], and if that monster's original DEF is 100 or higher, this card gains DEF equal to [that monster's original DEF].
   de:
   es:
   fr:
@@ -145545,3 +145547,79 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1059078
+---
+konami_id:
+name:
+  en: Dark Matter Emperor Dragon
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダークマター・エンペラー・ドラゴン
+  ja_romaji: Dākumatā Enperā Doragon
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    TBA
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Fusion / Effect
+attribute: DARK
+level: 8
+atk: 3000
+def: 2500
+materials:
+  en: |-
+    "Dark Matter Dragon" + "Contact Dark Matter Wyvern"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+series:
+- Dark Matter
+images:
+- index: 1
+  image: DarkMatterEmperorDragon-OW.png
+sets:
+  ja:
+  - set_number: RD/KP18-JP0??
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1059491
