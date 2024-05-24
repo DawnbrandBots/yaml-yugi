@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Link: você pode fazer com que seu oponente compre 1 card. Se um monstro "Trapestrela" com a face para cima para o qual este card apontar for destruído em batalha ou por um efeito de card: você pode causar 200 de dano ao seu oponente para cada card na mão dele. Você só pode usar este efeito de "Trapestrela Florescente" uma vez por turno.
   ja: |-
     レベル２以下の「トリックスター」モンスター１体
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。相手はデッキから１枚ドローする。②：このカードのリンク先の「トリックスター」モンスターが戦闘・効果で破壊された場合に発動できる。相手の手札の数×２００ダメージを相手に与える。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがＬ召喚した場合に発動できる。相手は１枚ドローする。②：このカードのリンク先の表側表示の「トリックスター」モンスターが戦闘・効果で破壊された場合に発動できる。相手の手札の数×２００ダメージを相手に与える。
   ko: |-
     레벨 2 이하의 "트릭스터" 몬스터 1장
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 상대는 덱에서 1장 드로우한다. ②: 이 카드의 링크 앞의 "트릭스터" 몬스터가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 상대 패의 수 × 200 데미지를 상대에게 준다.
@@ -107,9 +107,10 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Common
-  - set_number: DP29-JP0??
+  - set_number: DP29-JP047
     set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
+    - Common
   ko:
   - set_number: FLOD-KR039
     set_name: Flames of Destruction
