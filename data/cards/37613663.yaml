@@ -1,7 +1,7 @@
 konami_id: 20232
 password: 37613663
 name:
-  en: Millennium Cross
+  en: Millennium Ankh
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Show 5 "Forbidden One" Monster Cards from your hand, Deck, and/or face-up field, then Special Summon 1 "The Phantom Exodia Incarnate" from your Extra Deck, then shuffle any face-up Monster Cards you control into the Deck, except "Exodia" Monster Cards whose original Level is 10 or higher, "Millennium" Monster Cards, and "Sengenjin", also you cannot Summon monsters for the rest of this turn (but you can Normal Set). After activation, shuffle this card into the Deck instead of sending it to the GY.
+    Show 5 "Forbidden One" Monster Cards from your hand, Deck, and/or face-up field, then Special Summon 1 "The Unstoppable Exodia Incarnate" from your Extra Deck, then shuffle the face-up Monster Cards you control into the Deck, except "Exodia" Monster Cards whose original Levels are 10 or higher, and "Millennium" Monster Cards, also you cannot Summon for the rest of this turn. After activation, shuffle this card into the Deck instead of sending it to the GY.
   de:
   es:
   fr:
@@ -32,8 +32,48 @@ series:
 - Sennen
 images:
 - index: 1
-  image: MillenniumCross-INFO-JP-R.png
+  image: MillenniumAnkh-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-ENSP1
+    set_name: The Infinite Forbidden Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-EN053
+    set_name: The Infinite Forbidden
+    rarities:
+  de:
+  - set_number: INFO-DESP1
+    set_name: The Infinite Forbidden Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-DE053
+    set_name: The Infinite Forbidden
+    rarities:
+  fr:
+  - set_number: INFO-FRSP1
+    set_name: The Infinite Forbidden Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-FR053
+    set_name: The Infinite Forbidden
+    rarities:
+  it:
+  - set_number: INFO-ITSP1
+    set_name: The Infinite Forbidden Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-IT053
+    set_name: The Infinite Forbidden
+    rarities:
+  pt:
+  - set_number: INFO-PTSP1
+    set_name: The Infinite Forbidden Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-PT053
+    set_name: The Infinite Forbidden
+    rarities:
   ja:
   - set_number: INFO-JP053
     set_name: The Infinite Forbidden
@@ -42,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1042468
