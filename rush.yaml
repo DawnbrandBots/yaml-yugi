@@ -145768,6 +145768,10 @@ images:
   image: HeroBoy-RDSD0B-JP-OP.png
 sets:
   ja:
+  - set_number: RD/SD0B-JP012
+    set_name: 'Structure Deck: Birth of Hero'
+    rarities:
+    - Common
   - set_number: RD/SD0B-JPS13
     set_name: 'Structure Deck: Birth of Hero'
     rarities:
@@ -145778,3 +145782,47 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1060872
+---
+konami_id:
+name:
+  en: 'Luster Dragon #2'
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    This dragon feeds on emerald. Enchanted by this monster even when attacked, few people live to tell of its beauty.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Dragon / Normal
+attribute: WIND
+level: 6
+atk: 2400
+def: 1400
+legend: true
+images:
+- index: 1
+  image: LusterDragon-RDVC24-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/VC24-JP001
+    set_name: Jump Victory Carnival 2024 promotional card
+    rarities:
+    - Ultra Rare
+yugipedia_page_id: 1060953
