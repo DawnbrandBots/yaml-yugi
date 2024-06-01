@@ -1,7 +1,7 @@
 konami_id: 19619
 password: 96402918
 name:
-  en: Lancea, Dragonic Ancestor of the Ice Spirit Mountain
+  en: Lancea, Ancestral Dragon of the Ice Mountain
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 WATER Tuner + 1+ non-Tuner monsters
-    Once per Chain, if your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 "Ice Barrier" monster from your hand, Deck, Extra Deck, or GY, then you can change 1 opponent's Attack Position monster to Defense Position. You can only use this effect of "Lancea, Dragonic Ancestor of the Ice Spirit Mountain" up to twice per turn. If this face-up Synchro Summoned card in its owner's control leaves the field by an opponent's card: You can Special Summon 1 "Ice Barrier" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)
+    Once per Chain, if your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon 1 "Ice Barrier" monster from your hand, Deck, Extra Deck, or GY, then you can change 1 Attack Position monster your opponent controls to Defense Position. You can only use this effect of "Lancea, Ancestral Dragon of the Ice Mountain" twice per turn. If this face-up Synchro Summoned card in its owner's control leaves the field because of an opponent's card: You can Special Summon 1 "Ice Barrier" Synchro Monster from your Extra Deck. (This is treated as a Synchro Summon.)
   de:
   es:
   fr:
@@ -41,28 +41,33 @@ def: 2700
 materials: 1 WATER Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: LanceaDragonicAncestoroftheIceSpiritMountain-TW01-JP-C.png
+  image: LanceaAncestralDragonoftheIceMountain-TW01-JP-C.png
 sets:
   en:
-  - set_number: BLTR-EN???
+  - set_number: BLTR-EN005
     set_name: 'Battles of Legend: Terminal Revenge'
     rarities:
+    - Ultra Rare
   de:
-  - set_number: BLTR-DE???
+  - set_number: BLTR-DE005
     set_name: 'Battles of Legend: Terminal Revenge'
     rarities:
+    - Ultra Rare
   fr:
-  - set_number: BLTR-FR???
+  - set_number: BLTR-FR005
     set_name: 'Battles of Legend: Terminal Revenge'
     rarities:
+    - Ultra Rare
   it:
-  - set_number: BLTR-IT???
+  - set_number: BLTR-IT005
     set_name: 'Battles of Legend: Terminal Revenge'
     rarities:
+    - Ultra Rare
   pt:
-  - set_number: BLTR-PT???
+  - set_number: BLTR-PT005
     set_name: 'Battles of Legend: Terminal Revenge'
     rarities:
+    - Ultra Rare
   ja:
   - set_number: TW01-JP001
     set_name: Terminal World (set)
@@ -92,9 +97,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1012511
