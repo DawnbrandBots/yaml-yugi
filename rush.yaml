@@ -146298,7 +146298,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Reveal 1 Level 6 or 7 Warrior Type Fusion Monster in your Extra Deck.
+    Reveal 1 Level 6 or 7 Warrior Type Fusion Monster in your Extra Deck to your opponent.
   de:
   es:
   fr:
@@ -146310,7 +146310,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Excavate the top 4 cards of your Deck. You can add up to 2 excavated Normal Monsters to your hand whose names are mentioned as material on the monster revealed to meet the requirement. Place the rest on the bottom of the Deck in any order.
+    Excavate the top 4 cards of your Deck. You can add up to 2 excavated Normal Monsters whose names are mentioned as material on the monster revealed to meet the requirement to your hand. Place the remaining cards on the bottom of your Deck in any order.
   de:
   es:
   fr:
@@ -146326,6 +146326,8 @@ attribute: LIGHT
 level: 4
 atk: 1000
 def: 1000
+series:
+- Elemental HERO
 images:
 - index: 1
   image: RisingHEROArgent-RDSD0B-JP-OP.png
@@ -146334,6 +146336,7 @@ sets:
   - set_number: RD/SD0B-JP0??
     set_name: 'Structure Deck: Birth of Hero'
     rarities:
+    - Common
   - set_number: RD/SD0B-JPS11
     set_name: 'Structure Deck: Birth of Hero'
     rarities:
