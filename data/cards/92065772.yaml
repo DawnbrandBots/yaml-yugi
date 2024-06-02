@@ -12,7 +12,7 @@ name:
   ko: 빙결계에 사는 마취충
   ko_rr:
   zh-TW: 住在冰結界的魔醉蟲
-  zh-CN: 住在冰结界的魔醉虫
+  zh-CN: 栖居冰结界的魔醉虫
 text:
   en: |-
     When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.
@@ -35,7 +35,8 @@ text:
   zh-TW: |-
     在此卡召喚成功時，指定１處未使用的怪獸區發動。只要此卡以正面表示存在於場上，指定的怪獸區就無法使用。
   zh-CN: |-
-    这张卡召唤成功时，指定没有使用的怪兽卡区域1处发动。只要这张卡在场上表侧表示存在，指定的怪兽卡区域不能使用。
+    ①：此卡召唤的情况下，指定１处未使用的主要怪兽区域发动。此卡获得以下效果。
+    ●只要此卡存在于怪兽区域，所指定的区域不可使用。
 card_type: Monster
 monster_type_line: Insect / Effect
 attribute: WATER
@@ -96,6 +97,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC010
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

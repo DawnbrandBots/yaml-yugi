@@ -12,7 +12,7 @@ name:
   ko: 블리자드 워리어
   ko_rr:
   zh-TW: 暴風雪戰士
-  zh-CN: 雪暴战士
+  zh-CN: 暴风雪战士
 text:
   en: |-
     If this card destroys an opponent's monster by battle: Look at the top card of their Deck and place it on the top or bottom of the Deck.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡因戰鬥被對方怪獸破壞時，確認對方牌組最上方的卡後，送回牌組最上方或最下方。
   zh-CN: |-
-    这张卡战斗破坏对方怪兽的场合，把对方卡组最上面的卡确认并回到卡组最上面或者最下面。
+    ①：此卡战斗破坏对手怪兽的情况下发动。确认对手牌组最上面的卡，放回牌组最上面或最下面。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -120,6 +120,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC006
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

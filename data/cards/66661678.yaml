@@ -12,7 +12,7 @@ name:
   ko: 빙결계의 로얄 나이트
   ko_rr:
   zh-TW: 冰結界的皇家騎士
-  zh-CN: 冰结界的王家骑士
+  zh-CN: 冰结界的皇家骑士
 text:
   en: |-
     If this card is Tribute Summoned: Special Summon 1 "Ice Coffin Token" (Aqua/WATER/Level 1/ATK 1000/DEF 0) in Attack Position to your opponent's field. This Token cannot be Tributed for a Tribute Summon.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡升級召喚成功時，以攻擊表示特殊召喚１隻「冰棺衍生物」（水族・水・星１・攻１０００／守０）至對方場上。此衍生物無法為升級召喚解放。
   zh-CN: |-
-    这张卡上级召唤成功时，在对方场上把1只「冰棺衍生物」（水族·水·1星·攻1000／守0）攻击表示特殊召唤。这衍生物不能为上级召唤而解放。
+    ①：此卡上级召唤的情况下发动。将１只“冰棺衍生物”（水族・水・星１・攻１０００／守０）以攻击表示特殊召唤至对手场上。此衍生物不可为上级召唤而解放。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -120,6 +120,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC009
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
