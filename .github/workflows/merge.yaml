@@ -32,10 +32,7 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-      - uses: actions/checkout@v4
-        with:
-          path: aggregate
-          ref: aggregate
+      - run: mkdir aggregate
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
@@ -106,16 +103,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: yaml-yugi/src/web
-      - if: steps.commit.outputs.status > 0
-        working-directory: aggregate
-        name: Commit aggregate
-        run: |
-          git config user.name GitHub Actions
-          git config user.email noreply@github.com
-          git add .
-          git commit -m "Merge: ${{ github.run_number }} (${{ github.run_id }})" -m "$(git -C ../yaml-yugi rev-parse @)"
-          git pull --rebase origin aggregate
-          git push
       - if: steps.commit.outputs.status > 0
         uses: actions/setup-node@v4
         with:
