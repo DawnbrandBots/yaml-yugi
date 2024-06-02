@@ -32,7 +32,7 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-      - run: mkdir aggregate
+      - run: mkdir aggregate && curl -fsSLo aggregate/master-duel-raw.json https://dawnbrandbots.github.io/yaml-yugi/master-duel-raw.json
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
