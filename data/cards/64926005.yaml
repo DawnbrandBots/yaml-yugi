@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     在正面攻擊表示的此卡變為守備表示時，破壞此卡，從牌組抽１張牌。
   zh-CN: |-
-    场上表侧攻击表示存在的这张卡变成表侧守备表示时，这张卡破坏，从卡组抽1张卡。
+    ①：表侧攻击表示的此卡变为守备表示的情况下发动。将此卡破坏，自己抽１张。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -145,6 +145,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC016
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

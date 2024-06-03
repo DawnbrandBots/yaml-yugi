@@ -12,7 +12,7 @@ name:
   ko: 빙결계의 호장 그루나드
   ko_rr: Binggyeolgye-ui Hojang Geurunadeu
   zh-TW: 冰結界的虎將 神兵
-  zh-CN: 冰结界的虎将 神兵
+  zh-CN: 冰结界的虎将 古尔纳德
 text:
   en: |-
     During your Main Phase, you can Normal Summon 1 "Ice Barrier" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：只要此卡存在於怪獸區，我方就除了通常召喚以外僅限一次，可額外在我方主要階段召喚１隻「冰結界」怪獸。
   zh-CN: |-
-    只要这张卡在场上表侧表示存在，自己的主要阶段时只有1次，自己可以在通常召唤外加上把1只名字带有「冰结界」的怪兽召唤。
+    ①：只要此卡存在于怪兽区域，自己除通常召唤外仅可追加１次，在自己的主要阶段召唤１只“冰结界”怪兽。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -148,6 +148,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC020
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

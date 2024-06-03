@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：只要我方場上存在其他「冰結界」怪獸，持有攻擊力高於此卡守備力以上的對方怪獸就無法進行攻擊宣言。
   zh-CN: |-
-    只要自己场上有这张卡以外的名字带有「冰结界」的怪兽存在，持有这张卡的守备力以上的攻击力的对方怪兽不能攻击宣言。
+    ①：只要自己场上存在其他“冰结界”怪兽，攻击力在此卡的守备力以上的对手怪兽不可攻击宣言。
 card_type: Monster
 monster_type_line: Aqua / Tuner / Effect
 attribute: WATER
@@ -148,6 +148,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC021
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可捨棄１張手牌，宣言１個屬性發動。宣言的屬性的怪獸無法將此卡選為攻擊對象。只要此卡以正面表示存在於場上，此效果就僅限使用１次。
   zh-CN: |-
-    丢弃1张手卡，宣言1个属性才能发动。宣言的属性的怪兽不能选择这张卡作为攻击对象。这个效果只在这张卡在场上表侧表示存在能使用1次。
+    ①：只要此卡以表侧表示存在，仅限１次，舍弃１张手牌，宣言１个属性可以发动。所宣言的属性的怪兽不可将表侧表示的此卡选择为攻击对象。
 card_type: Monster
 monster_type_line: Spellcaster / Tuner / Effect
 attribute: WATER
@@ -120,6 +120,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC014
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

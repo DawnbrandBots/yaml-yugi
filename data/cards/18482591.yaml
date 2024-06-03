@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：只要我方場上存在其他「冰結界」怪獸，雙方就必須覆蓋魔法卡才可發動，覆蓋的玩家必須等到下一個我方回合才可發動。
   zh-CN: |-
-    只要自己场上有这张卡以外的名字带有「冰结界」的怪兽存在，双方魔法卡若不盖放则不能发动，直到从盖放的玩家来看的下次的自己回合到来不能发动。
+    ①：只要自己场上存在其他“冰结界”怪兽，双方不放置魔法卡就不可发动，且站在放置的玩家的角度，直到自己下个回合到来为止不可发动。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: WATER
@@ -148,6 +148,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC022
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

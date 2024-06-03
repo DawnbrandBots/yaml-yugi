@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：在此卡召喚・反轉召喚成功的狀況下發動。將此卡變為守備表示。②：只要此卡存在於怪獸區，我方場上的「冰結界」怪獸就不會因魔法・陷阱卡的效果被破壞。
   zh-CN: |-
-    这张卡召唤·反转召唤成功时，变成守备表示。只要这张卡在场上表侧表示存在，自己场上的名字带有「冰结界」的怪兽不会被魔法·陷阱卡的效果破坏。
+    ①：此卡召唤・反转召唤的情况下发动。将此卡改成守备表示。②：只要此卡存在于怪兽区域，自己场上的“冰结界”怪兽不会因魔法・陷阱卡的效果被破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: WATER
@@ -148,6 +148,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC011
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

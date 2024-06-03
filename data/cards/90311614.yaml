@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     在我方場上的正面表示怪獸僅存在等級２以下怪獸的狀況下，此卡可直接攻擊對方玩家。
   zh-CN: |-
-    自己场上表侧表示存在的怪兽只有2星以下的怪兽的场合，这张卡可以直接攻击对方玩家。
+    ①：自己场上表侧表示的怪兽仅有等级２以下的怪兽的情况下，此卡可直接攻击。
 card_type: Monster
 monster_type_line: Aqua / Tuner / Effect
 attribute: WATER
@@ -120,6 +120,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC017
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

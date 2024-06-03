@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：１回合１次，可從手牌將１隻「冰結界」怪獸送至墓地發動。此怪獸以正面表示存在的期間，在下一個我方回合結束前雙方無法發動魔法卡。
   zh-CN: |-
-    1回合1次，从手卡把1只名字带有「冰结界」的怪兽送去墓地才能发动。只要这张卡在场上表侧表示存在，直到下次的自己回合的结束阶段时双方不能把魔法卡发动。
+    ①：１回合１次，从手牌将１只“冰结界”怪兽送至墓地可以发动。此怪兽以表侧表示存在期间，直至下个自己的回合结束时为止，双方不可发动魔法卡。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: WATER
@@ -152,6 +152,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW01-SC019
+    set_name: Terminal World (set)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
