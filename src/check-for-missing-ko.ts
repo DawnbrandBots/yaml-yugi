@@ -20,9 +20,11 @@ if (process.argv.length < 3) {
 		}
 	}
 	if (missingKoreanTranslation.length) {
-		console.log(`yugipedia_page_id\tkonami_id\tpassword\tfake_password\tname.en\tname.ja`)
+		console.log(`yugipedia_page_id\tkonami_id\tpassword\tfake_password\tname.en\tname.ja`);
 		for (const card of missingKoreanTranslation) {
-			console.log(`${card.yugipedia_page_id}\t${card.konami_id}\t${card.password}\t${card.fake_password}\t[${card.name.en}]\t[${card.name.ja}]`);
+			console.log(
+				`${card.yugipedia_page_id}\t${card.konami_id}\t${card.password}\t${card.fake_password}\t[${card.name.en}]\t[${card.name.ja}]`
+			);
 		}
 		process.exit(2);
 	}

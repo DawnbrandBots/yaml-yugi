@@ -10,12 +10,9 @@ if (process.argv.length < 3) {
 
 // https://yugipedia.com/wiki/Card_Number
 // See also job_ocgtcg.py:annotate_assignments
-function isPrereleaseMissingCardNumber(card: any) {
-	const release = card.sets.ja?.length
-		? card.sets.ja[0]
-		: card.sets.en?.length
-		? card.sets.en[0]
-		: null;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function isPrereleaseMissingCardNumber(card: any): boolean {
+	const release = card.sets.ja?.length ? card.sets.ja[0] : card.sets.en?.length ? card.sets.en[0] : null;
 	if (!release) {
 		console.error(`ERROR: ${card.yugipedia_page_id}\t[${card.name.en}]\tNo JP or EN sets found!`);
 		return true;
@@ -25,18 +22,17 @@ function isPrereleaseMissingCardNumber(card: any) {
 	const position = release.set_number.split("-")[1].slice(3);
 	const isMissing = isNaN(Number(position));
 	if (isMissing) {
-		console.warn(`WARNING: ${card.yugipedia_page_id}\t[${card.name.en}]\tNot counted due to unknown set position ${position}`);
+		console.warn(
+			`WARNING: ${card.yugipedia_page_id}\t[${card.name.en}]\tNot counted due to unknown set position ${position}`
+		);
 	}
 	return isMissing;
 }
 
 // Okay to skip these before print, e.g. Anotherverse Gluttonia
-function isPrereleasePrizeCard(card: any) {
-	const release = card.sets.ja?.length
-		? card.sets.ja[0]
-		: card.sets.en?.length
-		? card.sets.en[0]
-		: null;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function isPrereleasePrizeCard(card: any): boolean {
+	const release = card.sets.ja?.length ? card.sets.ja[0] : card.sets.en?.length ? card.sets.en[0] : null;
 	const isPrizeCard = release?.set_number.split("-")[0] === "YCSW";
 	if (isPrizeCard) {
 		console.warn(`WARNING: ${card.yugipedia_page_id}\t[${card.name.en}]\tNot counted due to being a prize card`);
@@ -50,7 +46,12 @@ function isPrereleasePrizeCard(card: any) {
 	for (const file of files) {
 		if (file.endsWith(".json")) {
 			const card = JSON.parse(await fs.promises.readFile(path.join(process.argv[2], file), "utf8"));
-			if (!card.password && !card.fake_password && !isPrereleaseMissingCardNumber(card) && !isPrereleasePrizeCard(card)) {
+			if (
+				!card.password &&
+				!card.fake_password &&
+				!isPrereleaseMissingCardNumber(card) &&
+				!isPrereleasePrizeCard(card)
+			) {
 				missingFakePasswords.push(card);
 			}
 		}

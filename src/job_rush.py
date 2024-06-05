@@ -8,20 +8,32 @@ from typing import Any, Dict, List, Optional
 
 from ruamel.yaml import YAML
 
-from common import int_or_og, initial_parse, int_or_none, replace_interlinear_annotations, transform_names, transform_texts, annotate_shared, \
-    transform_sets, transform_image, transform_multilanguage, write, load_ko_csv, str_or_none
+from common import (
+    int_or_og,
+    initial_parse,
+    int_or_none,
+    replace_interlinear_annotations,
+    transform_names,
+    transform_texts,
+    annotate_shared,
+    transform_sets,
+    transform_image,
+    transform_multilanguage,
+    write,
+    load_ko_csv,
+    str_or_none,
+)
 
 module_logger = logging.getLogger(__name__)
 
 
 def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
     konami_id = int_or_none(wikitext.get("database_id"))
-    document = {
-        "konami_id": konami_id,
-        "name": transform_names(wikitext)
-    }
+    document = {"konami_id": konami_id, "name": transform_names(wikitext)}
     if "summoning_condition" in wikitext:
-        document["summoning_condition"] = transform_multilanguage(wikitext, "summoning_condition")
+        document["summoning_condition"] = transform_multilanguage(
+            wikitext, "summoning_condition"
+        )
     if "requirement" in wikitext:  # everything except Normal Monsters
         document["requirement"] = transform_multilanguage(wikitext, "requirement")
         if wikitext.get("effect_types"):
@@ -50,7 +62,7 @@ def overwrite_field(
     document: Dict[str, Any],
     source: Dict[str, str],
     key: str,
-    key_source: Optional[str] = None
+    key_source: Optional[str] = None,
 ) -> None:
     if key_source is None:
         key_source = key
@@ -65,7 +77,9 @@ def overwrite_field(
             logger.warn(f"Extraneous value for {key_source}")
 
 
-def overwrite(logger: logging.Logger, document: Dict[str, Any], source: Dict[str, str]) -> None:
+def overwrite(
+    logger: logging.Logger, document: Dict[str, Any], source: Dict[str, str]
+) -> None:
     overwrite_field(logger, document, source, "text", "non_effect_monster_text")
     for key in ["name", "summoning_condition", "materials", "requirement", "effect"]:
         overwrite_field(logger, document, source, key)
@@ -75,10 +89,12 @@ def merge_ko(
     logger: logging.Logger,
     document: Dict[str, Any],
     ko_override: Optional[Dict[int, Dict[str, str]]],
-    ko_prerelease: Optional[Dict[int, Dict[str, str]]]
+    ko_prerelease: Optional[Dict[int, Dict[str, str]]],
 ) -> None:
     override = ko_override.get(document["konami_id"]) if ko_override else None
-    prerelease = ko_prerelease.get(document["yugipedia_page_id"]) if ko_prerelease else None
+    prerelease = (
+        ko_prerelease.get(document["yugipedia_page_id"]) if ko_prerelease else None
+    )
     if override:
         sublogger = logger.getChild("override")
         sublogger.info(f"[{document['name']['ko']}] -> [{override['name']}]")
@@ -97,7 +113,7 @@ def merge_ko(
 
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
     if document["konami_id"] is not None:
-        basename = document['konami_id']
+        basename = document["konami_id"]
     else:
         basename = f"yugipedia{document['yugipedia_page_id']}"
     write(document, basename, yaml, logger)
@@ -109,11 +125,11 @@ def job(
     ko_official_csv: Optional[str] = None,
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
-    return_results=False
+    return_results=False,
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
-    ko_official = load_ko_csv("konami_id", ko_official_csv)
+    ko_official = load_ko_csv("konami_id", ko_official_csv)  # noqa: F841
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
     results = []
@@ -128,12 +144,13 @@ def job(
         properties = initial_parse(yaml, filepath)
         if not properties or (
             # Details unavailable for a new leak
-            properties.get("level") == "???" or
-            properties.get("attribute") == "???" or
-            properties.get("atk") == "???" or
-            properties.get("def") == "???" or
-            properties.get("card_type") == "???" or
-            properties.get("property") == "???" or
+            properties.get("level") == "???"
+            or properties.get("attribute") == "???"
+            or properties.get("atk") == "???"
+            or properties.get("def") == "???"
+            or properties.get("card_type") == "???"
+            or properties.get("property") == "???"
+            or
             # Not legal for play https://ygorganization.com/realspeedduel/
             properties.get("card_type") == "Skill"
         ):

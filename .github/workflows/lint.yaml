@@ -1,0 +1,70 @@
+# SPDX-FileCopyrightText: © 2024 Kevin Lu
+# SPDX-Licence-Identifier: AGPL-3.0-or-later
+name: Lint pipeline code
+on:
+  push:
+    branches: [master]
+    paths:
+      - src/**/*
+  pull_request:
+    branches: [master]
+    paths:
+      - src/**/*
+permissions: {}
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  # https://github.com/DataDog/guarddog
+  guarddog:
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install guarddog
+      - run: guarddog pypi verify src/requirements.txt --output-format sarif --exclude-rules repository_integrity_mismatch > guarddog.sarif
+      - uses: github/codeql-action/upload-sarif@v3
+        with:
+          category: guarddog-builtin
+          sarif_file: guarddog.sarif
+  # https://github.com/astral-sh/ruff
+  lint-python:
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - run: pip install ruff
+      - run: ruff format --check src
+      - run: ruff check --output-format=github src
+        if: ${{ !cancelled() }}
+      - run: ruff check --output-format=sarif src > ruff.sarif
+      - uses: github/codeql-action/upload-sarif@v3
+        with:
+          category: ruff
+          sarif_file: ruff.sarif
+  lint-typescript:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          sparse-checkout: |
+            /*
+            !/data/
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
+          cache-dependency-path: yarn.lock
+      - run: yarn
+      - run: yarn prettier --check 'src/**/*.{js,ts}'
+      - if: ${{ !cancelled() }}
+        run: yarn eslint 'src/**/*.ts'

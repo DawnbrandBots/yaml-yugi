@@ -10,7 +10,9 @@ from job_masterduel import job
 
 parser = ArgumentParser()
 parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")
-parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
+parser.add_argument(
+    "--processes", type=int, default=0, help="number of worker processes, default ncpu"
+)
 
 logger = logging.getLogger(__name__)
 
@@ -24,14 +26,15 @@ def main() -> None:
         logger.info(f"Using {processes} processes.")
 
     files = [
-        os.path.join(args.wikitext_directory, filename) for filename in
-        os.listdir(args.wikitext_directory)
+        os.path.join(args.wikitext_directory, filename)
+        for filename in os.listdir(args.wikitext_directory)
         if os.path.isfile(os.path.join(args.wikitext_directory, filename))
     ]
     if processes == 1:
         cards = map(job, files)
     else:
         from multiprocessing import Pool
+
         with Pool(processes) as pool:
             cards = [card for card in pool.imap_unordered(job, files, 100) if card]
 

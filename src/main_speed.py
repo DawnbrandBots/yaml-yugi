@@ -9,11 +9,20 @@ from typing import Dict, Any, Optional
 
 from ruamel.yaml import YAML
 
-from common import int_or_og, initial_parse, transform_names, transform_multilanguage, transform_sets, write
+from common import (
+    int_or_og,
+    initial_parse,
+    transform_names,
+    transform_multilanguage,
+    transform_sets,
+    write,
+)
 
 parser = ArgumentParser()
 parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")
-parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
+parser.add_argument(
+    "--generate-schema", action="store_true", help="output generated JSON schema file"
+)
 parser.add_argument("--aggregate", help="output aggregate JSON file")
 
 logger = logging.getLogger(__name__)
@@ -29,7 +38,7 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
         "image_front": wikitext.get("image"),
         "image_back": wikitext.get("image2"),
         "sets": transform_sets(wikitext),
-        "yugipedia_page_id": wikitext.get("yugipedia_page_id")
+        "yugipedia_page_id": wikitext.get("yugipedia_page_id"),
     }
 
 

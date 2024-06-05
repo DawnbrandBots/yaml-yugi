@@ -14,13 +14,19 @@ parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")
 parser.add_argument("--assignments", help="fake password assignment YAML")
 parser.add_argument("--zh-CN", help="yaml-yugi-zh card texts")
 parser.add_argument("--tcg", help="TCG Forbidden & Limited List, Konami ID vector JSON")
-parser.add_argument("--ocg", help="OCG Forbidden & Limited List, English name vector JSON")
+parser.add_argument(
+    "--ocg", help="OCG Forbidden & Limited List, English name vector JSON"
+)
 parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
 parser.add_argument("--ko-override", help="yaml-yugi-ko ocg-override.csv")
 parser.add_argument("--ko-prerelease", help="yaml-yugi-ko ocg-prerelease.csv")
 parser.add_argument("--master-duel", help="master-duel-raw.json")
-parser.add_argument("--generate-schema", action="store_true", help="output generated JSON schema file")
-parser.add_argument("--processes", type=int, default=0, help="number of worker processes, default ncpu")
+parser.add_argument(
+    "--generate-schema", action="store_true", help="output generated JSON schema file"
+)
+parser.add_argument(
+    "--processes", type=int, default=0, help="number of worker processes, default ncpu"
+)
 parser.add_argument("--aggregate", help="output aggregate JSON file")
 
 logger = logging.getLogger(__name__)
@@ -44,8 +50,8 @@ def main() -> None:
             ocg = json.load(f)["regulation"]
 
     files = [
-        filename for filename in
-        os.listdir(args.wikitext_directory)
+        filename
+        for filename in os.listdir(args.wikitext_directory)
         if os.path.isfile(os.path.join(args.wikitext_directory, filename))
     ]
 
@@ -64,10 +70,11 @@ def main() -> None:
         cards = job(args.wikitext_directory, files, *arguments)
     else:
         size = math.ceil(len(files) / processes)
-        partitions = [files[i:i+size] for i in range(0, len(files), size)]
+        partitions = [files[i : i + size] for i in range(0, len(files), size)]
         cards = []
 
         from multiprocessing import Pool
+
         with Pool(processes) as pool:
             jobs = [
                 pool.apply_async(job, (args.wikitext_directory, partition, *arguments))

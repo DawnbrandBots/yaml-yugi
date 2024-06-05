@@ -28,7 +28,9 @@ UNOFFICIAL_LANGUAGES = {
 }
 
 
-def set_unofficial_translation_flag(key: str, template: wtp.Template, output: Dict[str, Any]) -> None:
+def set_unofficial_translation_flag(
+    key: str, template: wtp.Template, output: Dict[str, Any]
+) -> None:
     flags = output.setdefault("is_translation_unofficial", {}).setdefault(key, {})
     for lang in template.arguments[0].value.split(","):
         flags[UNOFFICIAL_LANGUAGES[lang.strip()]] = True
@@ -52,7 +54,9 @@ def expand_templates(template: wtp.Template) -> str:
         return ""
 
 
-def initial_parse(yaml: YAML, yaml_file: str, target: str = "CardTable2") -> Optional[Dict[str, str]]:
+def initial_parse(
+    yaml: YAML, yaml_file: str, target: str = "CardTable2"
+) -> Optional[Dict[str, str]]:
     with open(yaml_file) as f:
         document = yaml.load(f)
     properties = {}
@@ -121,11 +125,13 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
         else:
             rarities = None
             logger.warning(f"Sets missing second semicolon: {printing}")
-        result.append({
-            "set_number": set_number.strip(),
-            "set_name": set_name.strip(),
-            "rarities": rarities.split(", ") if rarities else None
-        })
+        result.append(
+            {
+                "set_number": set_number.strip(),
+                "set_name": set_name.strip(),
+                "rarities": rarities.split(", ") if rarities else None,
+            }
+        )
     return result
 
 
@@ -180,7 +186,9 @@ def transform_image(image: str) -> List[Dict[str, str]]:
     return [transform_image_entry(entry) for entry in tokens]
 
 
-def transform_names(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None) -> Dict[str, str]:
+def transform_names(
+    wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None
+) -> Dict[str, str]:
     return {
         "en": wikitext["en_name"],
         "de": wikitext.get("de_name"),
@@ -193,11 +201,13 @@ def transform_names(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = No
         "ko": wikitext.get("ko_name"),
         "ko_rr": wikitext.get("ko_rr_name"),
         "zh-TW": wikitext.get("tc_name"),
-        "zh-CN": wikitext.get("sc_name") or zh_cn_fallback
+        "zh-CN": wikitext.get("sc_name") or zh_cn_fallback,
     }
 
 
-def transform_texts(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None) -> Dict[str, str]:
+def transform_texts(
+    wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None
+) -> Dict[str, str]:
     return {
         "en": str_or_none(wikitext.get("lore")),  # should never be none
         "de": str_or_none(wikitext.get("de_lore")),
@@ -208,7 +218,7 @@ def transform_texts(wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = No
         "ja": str_or_none(wikitext.get("ja_lore")),
         "ko": str_or_none(wikitext.get("ko_lore")),
         "zh-TW": str_or_none(wikitext.get("tc_lore")),
-        "zh-CN": str_or_none(wikitext.get("sc_lore") or zh_cn_fallback)
+        "zh-CN": str_or_none(wikitext.get("sc_lore") or zh_cn_fallback),
     }
 
 
@@ -235,7 +245,7 @@ LINK_ARROW_MAPPING = {
     "Middle-Right": "➡",  # YGOPRODECK: Right
     "Top-Left": "↖",
     "Top-Center": "⬆",  # YGOPRODECK: Top
-    "Top-Right": "↗"
+    "Top-Right": "↗",
 }
 
 
@@ -254,7 +264,10 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
         if "rank" in wikitext:
             document["rank"] = int(wikitext["rank"])
         elif "link_arrows" in wikitext:
-            document["link_arrows"] = [LINK_ARROW_MAPPING[arrow] for arrow in wikitext["link_arrows"].split(", ")]
+            document["link_arrows"] = [
+                LINK_ARROW_MAPPING[arrow]
+                for arrow in wikitext["link_arrows"].split(", ")
+            ]
         else:
             document["level"] = int(wikitext["level"])
         document["atk"] = int_or_og(wikitext["atk"])
@@ -272,7 +285,10 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
                 "ja": str_or_none(wikitext.get("ja_pendulum_effect")),
                 "ko": str_or_none(wikitext.get("ko_pendulum_effect")),
                 "zh-TW": str_or_none(wikitext.get("tc_pendulum_effect")),
-                "zh-CN": str_or_none(wikitext.get("sc_pendulum_effect") or wikitext.get("ourocg_pendulum"))
+                "zh-CN": str_or_none(
+                    wikitext.get("sc_pendulum_effect")
+                    or wikitext.get("ourocg_pendulum")
+                ),
             }
         # bonus derived fields
         if "ritualcard" in wikitext:
@@ -303,11 +319,13 @@ def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] 
         return
     with open(filename, encoding="utf-8-sig") as f:
         reader = DictReader(f)
-        return {
-            int(row[key]): row
-            for row in reader
-        }
+        return {int(row[key]): row for row in reader}
+
 
 # Replace Unicode interlinear annotations with HTML markup https://www.unicode.org/charts/nameslist/n_FFF0.html
 def replace_interlinear_annotations(name: str) -> str:
-    return name.replace("\ufff9", "<ruby>").replace("\ufffa", "<rt>").replace("\ufffb", "</rt></ruby>")
+    return (
+        name.replace("\ufff9", "<ruby>")
+        .replace("\ufffa", "<rt>")
+        .replace("\ufffb", "</rt></ruby>")
+    )

@@ -93,7 +93,7 @@ async function retry<T>(fn: () => T | PromiseLike<T>, times = 4, max = times): P
 const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 
 (async () => {
-    // Allow ? ATK/DEF to be stored
+	// Allow ? ATK/DEF to be stored
 	await opensearch.indices.putMapping({
 		index,
 		body: {
@@ -118,6 +118,7 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 				body: partition
 					.map(
 						card =>
+							// eslint-disable-next-line prefer-template
 							JSON.stringify({ update: { _id: card.yugipedia_page_id } }) +
 							"\n" +
 							JSON.stringify({ doc: card, doc_as_upsert: true }) +

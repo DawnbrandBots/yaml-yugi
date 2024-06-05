@@ -10,12 +10,26 @@ from typing import Any, Dict, List, NamedTuple, Optional, Union
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 
-from common import annotate_shared, initial_parse, int_or_none, int_or_og, replace_interlinear_annotations, transform_image, transform_names, transform_sets, transform_texts, write, load_ko_csv
+from common import (
+    annotate_shared,
+    initial_parse,
+    int_or_none,
+    int_or_og,
+    replace_interlinear_annotations,
+    transform_image,
+    transform_names,
+    transform_sets,
+    transform_texts,
+    write,
+    load_ko_csv,
+)
 
 module_logger = logging.getLogger(__name__)
 
 
-def annotate_zh_cn(yaml: YAML, logger: logging.Logger, zh_cn_dir: str, wikitext: Dict[str, str]) -> None:
+def annotate_zh_cn(
+    yaml: YAML, logger: logging.Logger, zh_cn_dir: str, wikitext: Dict[str, str]
+) -> None:
     password = int_or_none(wikitext.get("password") or "")
     zh_cn_path = os.path.join(zh_cn_dir, f"{password}.yaml")
     if os.path.isfile(zh_cn_path):
@@ -28,22 +42,28 @@ def annotate_zh_cn(yaml: YAML, logger: logging.Logger, zh_cn_dir: str, wikitext:
                 wikitext["ourocg_pendulum"] = document["pendulum"]
 
 
-def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
+def transform_structure(
+    logger: logging.Logger, wikitext: Dict[str, str]
+) -> Optional[Dict[str, Any]]:
     if (
         # Normal monster version OCG prize cards, Tyler, OG Egyptian Gods
-        wikitext.get("database_id") == "none" or
+        wikitext.get("database_id") == "none"
+        or
         # Match winners, Command Duel-Use Card (only one with dbid None), etc. have db ids but no passwords
-        "limitation_text" in wikitext or
+        "limitation_text" in wikitext
+        or
         # Boss Duel cards
-        wikitext.get("ocg_status") == "Illegal" or
+        wikitext.get("ocg_status") == "Illegal"
+        or
         # Details unavailable for a new leak
-        wikitext.get("level") == "???" or
-        wikitext.get("attribute") == "???" or
-        wikitext.get("atk") == "???" or
-        wikitext.get("def") == "???" or
-        wikitext.get("card_type") == "???" or
-        wikitext.get("property") == "???" or
-        wikitext.get("lore") == "TBA" or
+        wikitext.get("level") == "???"
+        or wikitext.get("attribute") == "???"
+        or wikitext.get("atk") == "???"
+        or wikitext.get("def") == "???"
+        or wikitext.get("card_type") == "???"
+        or wikitext.get("property") == "???"
+        or wikitext.get("lore") == "TBA"
+        or
         # Rush Duel cards erroneously added to the Duel Monsters category
         "RD/" in wikitext.get("jp_sets", "")
     ):
@@ -55,7 +75,7 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
         "konami_id": konami_id,
         "password": password,
         "name": transform_names(wikitext, wikitext.get("ourocg_name")),
-        "text": transform_texts(wikitext, wikitext.get("ourocg_text"))
+        "text": transform_texts(wikitext, wikitext.get("ourocg_text")),
     }
     annotate_shared(document, wikitext)
     if wikitext.get("image"):
@@ -63,7 +83,7 @@ def transform_structure(logger: logging.Logger, wikitext: Dict[str, str]) -> Opt
     document["sets"] = transform_sets(wikitext)
     document["limit_regulation"] = {
         "tcg": wikitext.get("tcg_status"),
-        "ocg": wikitext.get("ocg_status")
+        "ocg": wikitext.get("ocg_status"),
     }
     if "tcg_speed_duel_status" in wikitext:
         document["limit_regulation"]["speed"] = wikitext["tcg_speed_duel_status"]
@@ -77,17 +97,33 @@ LIMIT_REGULATION_MAPPING = {
     0: "Forbidden",
     1: "Limited",
     2: "Semi-Limited",
-    None: "Unlimited"
+    None: "Unlimited",
 }
 
 
-def annotate_limit_regulation(document: Dict[str, Any],
-                              tcg_vector: Optional[Dict[str, int]],
-                              ocg_vector: Optional[Dict[str, int]]) -> None:
-    if tcg_vector and document["konami_id"] and document["limit_regulation"]["tcg"] != "Not yet released" and "en" in document["sets"]:
-        document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[tcg_vector.get(str(document["konami_id"]))]
-    if ocg_vector and document["konami_id"] and document["limit_regulation"]["ocg"] != "Not yet released" and "ja" in document["sets"]:
-        document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[ocg_vector.get(str(document["konami_id"]))]
+def annotate_limit_regulation(
+    document: Dict[str, Any],
+    tcg_vector: Optional[Dict[str, int]],
+    ocg_vector: Optional[Dict[str, int]],
+) -> None:
+    if (
+        tcg_vector
+        and document["konami_id"]
+        and document["limit_regulation"]["tcg"] != "Not yet released"
+        and "en" in document["sets"]
+    ):
+        document["limit_regulation"]["tcg"] = LIMIT_REGULATION_MAPPING[
+            tcg_vector.get(str(document["konami_id"]))
+        ]
+    if (
+        ocg_vector
+        and document["konami_id"]
+        and document["limit_regulation"]["ocg"] != "Not yet released"
+        and "ja" in document["sets"]
+    ):
+        document["limit_regulation"]["ocg"] = LIMIT_REGULATION_MAPPING[
+            ocg_vector.get(str(document["konami_id"]))
+        ]
 
 
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
@@ -116,7 +152,9 @@ def load_assignments(yaml: YAML, file: str) -> Assignments:
         if "yugipedia" in item:
             assignments.yugipedia[item["yugipedia"]] = item["fake_password"]
         elif "set_abbreviation" in item:
-            assignments.set_abbreviation[item["set_abbreviation"]] = item["fake_password_range"]
+            assignments.set_abbreviation[item["set_abbreviation"]] = item[
+                "fake_password_range"
+            ]
     return assignments
 
 
@@ -145,11 +183,13 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
             try:
                 position = int(position[start:])
                 if isinstance(assignments.set_abbreviation[set_abbreviation], int):
-                    document["fake_password"] = position + assignments.set_abbreviation[set_abbreviation]
+                    document["fake_password"] = (
+                        position + assignments.set_abbreviation[set_abbreviation]
+                    )
                 else:  # list
                     document["fake_password"] = [
-                        position + fake_range for fake_range in
-                        assignments.set_abbreviation[set_abbreviation]
+                        position + fake_range
+                        for fake_range in assignments.set_abbreviation[set_abbreviation]
                     ]
             except ValueError as e:
                 # Typically unknown card number like 0??
@@ -162,7 +202,7 @@ def mixin_text(
     skey: str,
     document: Dict[str, Any],
     master_duel_card: Dict[str, Any],
-    logger: logging.Logger
+    logger: logging.Logger,
 ) -> None:
     if not document[pkey][ckey]:
         source = master_duel_card.get(skey)
@@ -174,7 +214,9 @@ def mixin_text(
                 document[pkey][ckey] = source
 
 
-def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]) -> None:
+def annotate_master_duel(
+    logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]
+) -> None:
     name = document["name"]["en"]
     master_duel_card = master_duel.get(name)
     # Skip Normal Monster version of Black Luster Soldier since will match the Ritual Monster
@@ -200,15 +242,78 @@ def annotate_master_duel(logger: logging.Logger, document: Dict[str, Any], maste
         mixin_text("text", "zh-TW", "tc_lore", document, master_duel_card, logger)
         mixin_text("text", "zh-CN", "sc_lore", document, master_duel_card, logger)
         if document.get("pendulum_effect"):
-            mixin_text("pendulum_effect", "de", "de_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "es", "es_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "fr", "fr_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "it", "it_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "pt", "pt_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "ja", "ja_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "ko", "ko_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "zh-TW", "tc_pendulum_effect", document, master_duel_card, logger)
-            mixin_text("pendulum_effect", "zh-CN", "sc_pendulum_effect", document, master_duel_card, logger)
+            mixin_text(
+                "pendulum_effect",
+                "de",
+                "de_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "es",
+                "es_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "fr",
+                "fr_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "it",
+                "it_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "pt",
+                "pt_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "ja",
+                "ja_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "ko",
+                "ko_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "zh-TW",
+                "tc_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
+            mixin_text(
+                "pendulum_effect",
+                "zh-CN",
+                "sc_pendulum_effect",
+                document,
+                master_duel_card,
+                logger,
+            )
 
 
 def replace_text(
@@ -217,40 +322,57 @@ def replace_text(
     skey: str,
     document: Dict[str, Any],
     official_card: Dict[str, str],
-    logger: logging.Logger
+    logger: logging.Logger,
 ) -> None:
     source = official_card[skey]
     if document[pkey][ckey] != source:
-        logger.info(f"{pkey}.{ckey} does not match: O[{source}] Y[{document[pkey][ckey]}]")
+        logger.info(
+            f"{pkey}.{ckey} does not match: O[{source}] Y[{document[pkey][ckey]}]"
+        )
         if pkey == "text" or pkey == "pendulum_effect":
             document[pkey][ckey] = LiteralScalarString(source)
         else:
             document[pkey][ckey] = source
 
 
-def replace_with_official(logger: logging.Logger, document: Dict[str, Any], official: Dict[int, Dict[str, str]], lang: str) -> None:
+def replace_with_official(
+    logger: logging.Logger,
+    document: Dict[str, Any],
+    official: Dict[int, Dict[str, str]],
+    lang: str,
+) -> None:
     kid = document["konami_id"]
     if kid and official.get(kid):
         logger.info(f"{kid}: replacing {lang} text with official database")
         replace_text("name", lang, "name", document, official[kid], logger)
         replace_text("text", lang, "text", document, official[kid], logger)
         if document.get("pendulum_effect"):
-            replace_text("pendulum_effect", lang, "pendulum", document, official[kid], logger)
+            replace_text(
+                "pendulum_effect", lang, "pendulum", document, official[kid], logger
+            )
 
 
-def override_ko(logger: logging.Logger, document: Dict[str, Any], ko_override: Dict[int, Dict[str, str]]) -> None:
+def override_ko(
+    logger: logging.Logger,
+    document: Dict[str, Any],
+    ko_override: Dict[int, Dict[str, str]],
+) -> None:
     kid = document["konami_id"]
     if kid and ko_override.get(kid):
         module_logger.info(f"APPLYING OVERRIDE FOR {kid}")
         if ko_override[kid]["name"]:
             logger.info(f"{kid}: overriding name.ko")
-            document["name"]["ko"] = replace_interlinear_annotations(ko_override[kid]["name"])
+            document["name"]["ko"] = replace_interlinear_annotations(
+                ko_override[kid]["name"]
+            )
         if ko_override[kid]["text"]:
             logger.info(f"{kid}: overriding text.ko")
             document["text"]["ko"] = LiteralScalarString(ko_override[kid]["text"])
         if ko_override[kid]["pendulum"]:
             logger.info(f"{kid}: overriding pendulum_effect.ko")
-            document["pendulum_effect"]["ko"] = LiteralScalarString(ko_override[kid]["pendulum"])
+            document["pendulum_effect"]["ko"] = LiteralScalarString(
+                ko_override[kid]["pendulum"]
+            )
 
 
 def job(
@@ -264,18 +386,18 @@ def job(
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
     master_duel_raw_json: Optional[str] = None,
-    return_results=False
+    return_results=False,
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
     ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
-    ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
+    ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)  # noqa: F841
     if master_duel_raw_json:
         with open(master_duel_raw_json) as f:
             raw = json.load(f)
-            master_duel = { card["en_name"]: card for card in raw }
+            master_duel = {card["en_name"]: card for card in raw}
     else:
         master_duel = None
     results = []

@@ -1,11 +1,9 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from argparse import ArgumentParser
-import json
 import logging
 import os
 import sys
-from typing import Any
 
 from ruamel.yaml import YAML
 
@@ -44,13 +42,10 @@ def main() -> None:
                 "ko": properties.get("ko_name"),
                 "ko_rr": properties.get("ko_romanized"),
                 "zh-TW": properties.get("tc_name") or properties.get("zh_name"),
-                "zh-CN": properties.get("sc_name")
+                "zh-CN": properties.get("sc_name"),
             }
             archetypes_map[properties.get("en_name")] = document
-            archetypes_list.append({
-                "en": properties.get("en_name"),
-                **document
-            })
+            archetypes_list.append({"en": properties.get("en_name"), **document})
     write(archetypes_map, "map", yaml, logger)
     write(archetypes_list, "list", yaml, logger)
 
