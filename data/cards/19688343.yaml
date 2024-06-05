@@ -12,7 +12,7 @@ name:
   ko: 버닝나클 크로스 카운터
   ko_rr: Beoningnakeul Keuroseu Kaunteo
   zh-TW: 燃燒拳擊 交叉反擊
-  zh-CN: 燃烧拳交叉反击
+  zh-CN: 燃烧拳击・交叉反击
 text:
   en: |-
     When your opponent activates a monster effect: Destroy 1 "Battlin' Boxer" or "Number" Xyz Monster you control, and if you do, negate the activation, and if you do that, destroy that monster, then you can apply the following effect.
@@ -48,8 +48,8 @@ text:
     此卡名的卡１回合僅限發動１張。 ①：可在對方發動怪獸的效果時發動。將我方場上的１隻「燃燒拳鬥士」超量怪獸或１隻「No.」超量怪獸破壞，將該發動變為無效進行破壞。其後，可適用以下效果。
     ●從額外牌組特殊召喚１隻卡名與破壞的我方怪獸不同的「燃燒拳鬥士」超量怪獸，將此卡做為該怪獸的超量素材。
   zh-CN: |-
-    这个卡名的卡1回合只能发动1张。①：对手发动怪兽的效果时可以发动。将自己场上的1只「BK」多维怪兽或「No.」多维怪兽破坏，使该发动无效并破坏。那之后，可以适用以下的效果。
-    ●从额外卡组将1只与破坏的自己的怪兽卡名不同的「BK」多维怪兽特殊召唤，将这张卡作为那只怪兽的多维素材。
+    此卡名的卡１回合仅可发动１张。①：对手发动怪兽的效果时可以发动。将自己场上的１只“燃烧拳斗士”超量怪兽或“编号”超量怪兽破坏，将该发动无效并破坏。然后，可适用以下效果。
+    ●从额外牌组将卡名与所破坏的自己怪兽不同的１只“燃烧拳斗士”超量怪兽特殊召唤，将此卡作为该怪兽的超量素材。
 card_type: Trap
 property: Counter
 series:
@@ -92,6 +92,11 @@ sets:
   ko:
   - set_number: DP28-KR038
     set_name: 'Duelist Pack: Duelists of Explosion'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP29-SC065
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Rare
 limit_regulation:

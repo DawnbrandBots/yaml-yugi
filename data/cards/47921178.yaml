@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 치프세컨드
   ko_rr: Beoningnakura Chipeusekendeu
   zh-TW: 燃燒拳鬥士 首席教練
-  zh-CN: BK 首席辅导员
+  zh-CN: 燃烧拳斗士 首席辅导员
 text:
   en: |-
     During your Main Phase, you can Normal Summon 1 "Battlin' Boxer" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) When an opponent's monster declares an attack, while you control a Warrior or FIRE monster: You can Special Summon this card from your hand, and if you do, negate that attack, then banish 1 monster on the field until the End Phase. You can only use this effect of "Battlin' Boxer Chief Second" once per turn.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡名的①效果，１回合僅限使用１次。 ①：對方怪獸的攻擊宣言時，如果我方場上存在戰士族怪獸或炎屬性怪獸即可發動。從手牌特殊召喚此卡，將該攻擊變為無效。其後，將場上的１隻怪獸除外直到結束階段。 ②：只要此卡存在於怪獸區，我方就除了通常召喚以外僅限１次，可額外在我方主要階段召喚１隻「燃燒拳鬥士」怪獸。
   zh-CN: |-
-    这个卡名的①效果1回合只能使用1次。①：对手怪兽的攻击宣言时，若自己场上有战士族怪兽或炎属性怪兽存在则可以发动。将这张卡从手牌特殊召唤，使该攻击无效。那之后，将场上的1只怪兽直到结束阶段为止除外。②：只要这张卡在怪兽区存在，自己在通常召唤外就可以追加仅1次，在自己的主要阶段召唤1只「BK」怪兽。
+    此卡名的①效果１回合仅可使用１次。①：对手怪兽攻击宣言时，如果自己场上存在战士族怪兽或炎属性怪兽则可以发动。将此卡从手牌特殊召唤，将该攻击无效。然后，将场上的１只怪兽直至结束阶段为止除外。②：只要此卡存在于怪兽区域，自己除通常召唤外仅可追加１次，在自己的主要阶段召唤１只“燃烧拳斗士”怪兽。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -79,6 +79,11 @@ sets:
   ko:
   - set_number: DP28-KR033
     set_name: 'Duelist Pack: Duelists of Explosion'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP29-SC060
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Rare
 limit_regulation:

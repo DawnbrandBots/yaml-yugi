@@ -12,7 +12,7 @@ name:
   ko: 라스트 카운터
   ko_rr:
   zh-TW: 最終反擊
-  zh-CN: 最后反击
+  zh-CN: 最终反击
 text:
   en: |-
     When an attack is declared involving a "Battlin' Boxer" monster you control and an opponent's monster: Negate the attack, and if you do, send that monster you control to the GY, then 1 "Battlin' Boxer" monster you control (in Attack Position, if you declared the attack) gains ATK equal to the original ATK of that opponent's monster, also proceed to damage calculation using those monsters. Then, you take damage equal to the amount of ATK gained from this effect.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可在我方的冠有「燃燒拳鬥士」之名的怪獸與對方怪獸進行戰鬥的攻擊宣言時發動。將該攻擊變為無效，將該我方怪獸送至墓地。選擇我方場上的１隻冠有「燃燒拳鬥士」之名的怪獸，依據該對方怪獸原本的攻擊力提升其攻擊力，與該對方怪獸進行傷害計算。其後，我方受到因此卡效果提升的攻擊力數值的傷害。
   zh-CN: |-
-    自己场上的名字带有「BK」的怪兽和对方怪兽进行战斗的攻击宣言时才能发动。那次攻击无效，那只自己怪兽送去墓地。自己场上1只名字带有「BK」的怪兽的攻击力上升那只对方怪兽的原本攻击力数值，和那只对方怪兽进行伤害计算。那之后，自己受到这张卡的效果上升的攻击力数值的伤害。
+    ①：自己的“燃烧拳斗士”怪兽与对手怪兽进行战斗的攻击宣言时可以发动。使该攻击无效，将该自己的怪兽送至墓地，自己场上的１只“燃烧拳斗士”怪兽的攻击力上升相当于该对手的怪兽原本攻击力的数值，与该对手怪兽进行战斗并进行伤害计算。然后，自己受到相当于以此效果上升的攻击力数值的伤害。
 card_type: Trap
 property: Counter
 series:
@@ -99,6 +99,11 @@ sets:
   ko:
   - set_number: PRIO-KR071
     set_name: Primal Origin
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC078
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

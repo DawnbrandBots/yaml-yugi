@@ -12,7 +12,7 @@ name:
   ko: 버닝나클 스피릿
   ko_rr: Beoningnakeul Seupirit
   zh-TW: 燃燒拳擊・鬥魂
-  zh-CN: 燃烧拳魂
+  zh-CN: 燃烧拳击・斗魂
 text:
   en: |-
     Send the top card of your Deck to the GY, then target 1 "Battlin' Boxer" monster in your GY; Special Summon that target in face-up Defense Position. You can only activate 1 "Battlin' Boxing Spirits" per turn.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡名的卡１回合僅限發動１張。①：可將牌組最上方的卡送至墓地發動。從我方墓地選擇１隻冠有「燃燒拳鬥士」之名的怪獸以守備表示特殊召喚。
   zh-CN: |-
-    把卡组最上面的卡送去墓地才能发动。选择自己墓地1只名字带有「燃烧拳击手」的怪兽表侧守备表示特殊召唤。「燃烧拳魂」在1回合只能发动1张。
+    此卡名的卡１回合仅可发动１张。①：将牌组最上面的卡送至墓地，以自己墓地的１只“燃烧拳斗士”怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。
 card_type: Spell
 property: Normal
 series:
@@ -123,6 +123,11 @@ sets:
     - Rare
   - set_number: DP28-KR045
     set_name: 'Duelist Pack: Duelists of Explosion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC076
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

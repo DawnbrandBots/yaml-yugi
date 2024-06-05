@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 어퍼커터
   ko_rr: Beoningnakura Epeokeoteo
   zh-TW: 燃燒拳鬥士 上勾拳
-  zh-CN: BK 上勾拳手
+  zh-CN: 燃烧拳斗士 上钩拳手
 text:
   en: |-
     If this card is Normal or Special Summoned: You can add 1 "Battlin' Boxer" monster or 1 "Counter" Counter Trap from your Deck to your hand, except "Battlin' Boxer Uppercutter". If this card is sent to the GY by card effect: You can activate 1 of these effects;
@@ -53,7 +53,7 @@ text:
     ●從我方墓地特殊召喚１隻「燃燒拳鬥士 上勾拳」以外的「燃燒拳鬥士」怪獸。
     ●從我方墓地將１張「反擊」反制陷阱卡覆蓋在我方場上。
   zh-CN: |-
-    这个卡名的①②效果1回合只能有1次使用其中任意1个。①：这张卡召唤·特殊召唤的场合可以发动。从卡组将1只「BK アッパーカッター／BK 上勾拳手」以外的「BK」怪兽或1张「カウンター／反击」反击陷阱卡加入手牌。②：这张卡被效果送入墓地的场合，可以从以下的效果中选择1个发动。●从自己的墓地将1只「BK アッパーカッター／BK 上勾拳手」以外的「BK」怪兽特殊召唤。●从自己的墓地将1张「カウンター／反击」反击陷阱卡盖放到自己的场上。
+    此卡名的①②效果１回合１次，仅可使用其中１个。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将“燃烧拳斗士 上钩拳手”以外的１只“燃烧拳斗士”怪兽或１张“反击”反击陷阱卡加入手牌。②：此卡因效果被送至墓地的情况下，可从以下效果中选择１个发动。●从自己的墓地将“燃烧拳斗士 上钩拳手”以外的１只“燃烧拳斗士”怪兽特殊召唤。●从自己的墓地将１张“反击”反击陷阱卡放置在自己场上。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -99,6 +99,11 @@ sets:
   ko:
   - set_number: DP28-KR032
     set_name: 'Duelist Pack: Duelists of Explosion'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP29-SC059
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Rare
 limit_regulation:

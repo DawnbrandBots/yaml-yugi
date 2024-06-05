@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 프로모터
   ko_rr: Beoningnakura Peuromoteo
   zh-TW: 燃燒拳鬥士 籌辦者
-  zh-CN: BK 赛事承办员
+  zh-CN: 燃烧拳斗士 推广人
 text:
   en: |-
     If your opponent controls a monster: You can Special Summon this card from your hand. You can Tribute this card; Special Summon up to 2 "Battlin' Boxer" monsters with different names from your Deck, except "Battlin' Boxer Promoter". You can banish this card from your GY; increase or decrease the Levels of all "Battlin' Boxer" monsters you currently control by 1. You can only use each effect of "Battlin' Boxer Promoter" once per turn, also you cannot Special Summon monsters during the turn you activate any of this card's effects, except "Battlin' Boxer" monsters.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡名的①②③效果，１回合各僅限使用１次，發動此效果的回合，我方可特殊召喚的怪獸僅限「燃燒拳鬥士」怪獸。 ①：可在對方場上存在怪獸的狀況下發動。從手牌特殊召喚此卡。 ②：可解放此卡發動。從牌組特殊召喚最多２隻「燃燒拳鬥士 籌辦者」以外的「燃燒拳鬥士」怪獸（同名卡最多１張）。 ③：可將墓地的此卡除外發動。我方場上的所有「燃燒拳鬥士」怪獸的等級全部提升１或全部降低１。
   zh-CN: |-
-    这个卡名的①②③效果1回合各能使用1次，这些效果发动的回合，自己特殊召唤的只能是「BK」怪兽。①：对手场上有怪兽存在的场合可以发动。将这张卡从手牌特殊召唤。②：可以将这张卡解放发动。从卡组将2只「BK プロモーター／BK 赛事承办员」以外的「BK」怪兽特殊召唤（同名卡最多1张）。③：可以将墓地的这张卡除外发动。自己场上的「BK」怪兽的等级全部上升1或全部下降1。
+    此卡名的①②③效果１回合仅可各使用１次，发动此效果的回合中，自己仅可特殊召唤“燃烧拳斗士”怪兽。①：对手场上存在怪兽的情况下可以发动。从手牌将此卡特殊召唤。②：解放此卡可以发动。从牌组将“燃烧拳斗士 推广人”以外的最多２只“燃烧拳斗士”怪兽特殊召唤（同名卡最多１张）。③：将墓地的此卡除外可以发动。自己场上的“燃烧拳斗士”怪兽的等级全部上升１或全部下降１。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -83,6 +83,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: DP29-SC061
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

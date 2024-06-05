@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可在我方場上存在冠有「燃燒拳鬥士」之名的怪獸，戰鬥階段中怪獸的效果・魔法・陷阱卡發動時發動。將該發動變為無效進行破壞。
   zh-CN: |-
-    自己场上有名字带有「燃烧拳击手」的怪兽存在的场合才能发动。战斗阶段中发动的效果怪兽的效果·魔法·陷阱卡的发动无效并破坏。
+    ①：自己场上存在“燃烧拳斗士”怪兽，且在战斗阶段中怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
 card_type: Trap
 property: Counter
 series:
@@ -95,6 +95,11 @@ sets:
   ko:
   - set_number: EP14-KR055
     set_name: 'Extra Pack: Knights of Order'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC079
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:
