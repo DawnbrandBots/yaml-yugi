@@ -26,24 +26,24 @@ jobs:
           path: yaml-yugi-ko
           repository: DawnbrandBots/yaml-yugi-ko
           sparse-checkout: |
-            /*.csv
+            *.csv
           sparse-checkout-cone-mode: false
       - uses: actions/checkout@v4
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-      - run: mkdir aggregate && curl -fsSLo aggregate/master-duel-raw.json https://dawnbrandbots.github.io/yaml-yugi/master-duel-raw.json
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           cache: pip
           cache-dependency-path: yaml-yugi/src/requirements.txt
-      - name: Download yaml-yugi-ko exports and TCG/OCG limit regulations
+      - name: Setup dependencies
         run: |
-          curl -fsSLO https://dawnbrandbots.github.io/yaml-yugi-ko/ocg.csv
+          mkdir aggregate
+          curl -fsSLo aggregate/master-duel-raw.json https://dawnbrandbots.github.io/yaml-yugi/master-duel-raw.json
           curl -fsSLo tcg.vector.json https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/tcg/current.vector.json
           curl -fsSLo ocg.vector.json https://dawnbrandbots.github.io/yaml-yugi-limit-regulation/ocg/current.vector.json
-      - run: pip install -r yaml-yugi/src/requirements.txt
+          pip install -r yaml-yugi/src/requirements.txt
       - name: Transform (series)
         working-directory: yaml-yugi/data/series
         run: python3 ../../src/main_archetypes.py ../../../yaml-yugipedia/wikitext/TCG_and_OCG_archetypes
@@ -57,7 +57,7 @@ jobs:
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../../tcg.vector.json \
             --ocg ../../../ocg.vector.json \
-            --ko-official ../../../ocg.csv \
+            --ko-official ../../../yaml-yugi-ko/_site/ocg.csv \
             --ko-override ../../../yaml-yugi-ko/ocg-override.csv \
             --ko-prerelease ../../../yaml-yugi-ko/ocg-prerelease.csv \
             --master-duel ../../../aggregate/master-duel-raw.json \
