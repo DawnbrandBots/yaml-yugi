@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um monstro "Lil-la", você pode Invocar este card por Invocação-Especial (da sua mão). Você só pode Invocar "Live☆Gêmea Ki-sikil Gélida" por Invocação-Especial uma vez por turno desta forma. Se um ou mais cards forem adicionados do Deck Principal à mão do seu oponente por um efeito de card (exceto durante a Etapa de Dano), enquanto você controlar um monstro "Evil★Gêmea": você pode banir este card do seu Cemitério; compre 1 card. Você só pode usar este efeito de "Live☆Gêmea Ki-sikil Gélida" uma vez por turno.
   ja: |-
-    このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドに「リィラ」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：自分フィールドに「イビルツイン」モンスターが存在し、相手がカードの効果でデッキからカードを手札に加えた場合、墓地のこのカードを除外して発動できる。自分はデッキから１枚ドローする。
+    このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドに「リィラ」モンスターが存在する場合、このカードは手札から特殊召喚できる。②：相手がカードの効果でデッキからカードを手札に加えた場合、自分フィールドに「イビルツイン」モンスターが存在していれば、墓地のこのカードを除外して発動できる。自分は１枚ドローする。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 "리일라" 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 자신 필드에 "이빌트윈" 몬스터가 존재하고, 상대가 카드의 효과로 덱에서 카드를 패에 넣었을 경우, 묘지의 이 카드를 제외하여 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
   zh-TW: |-
@@ -115,6 +115,10 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: TT01-JPB04
+    set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
+    rarities:
+    - Common
   ko:
   - set_number: LIOV-KR017
     set_name: Lightning Overdrive

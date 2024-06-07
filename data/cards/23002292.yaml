@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando seu oponente ativar um Card de Armadilha: negue a ativação e, se isso acontecer, Baixe esse card com a face para baixo e, depois, ele pode Baixar 1 outra Armadilha diretamente do Deck dele. Pelo resto deste turno depois que este card resolver, seu oponente não pode ativar Cards de Armadilha. Você pode ativar este card da sua mão ao pagar metade dos seus PV.
   ja: |-
-    このカードはＬＰを半分払って手札から発動する事もできる。①：相手が罠カードを発動した時に発動できる。その発動を無効にし、そのカードをそのままセットする。その後、相手はデッキから罠カード１枚を選んで自身の魔法＆罠ゾーンにセットできる。このカードの発動後、ターン終了時まで相手は罠カードを発動できない。
+    このカードはＬＰを半分払って手札から発動する事もできる。①：相手が罠カードを発動した時に発動できる。その発動を無効にし、そのカードをそのままセットする。その後、相手はデッキから罠カード１枚を自身の魔法＆罠ゾーンにセットできる。このカードの発動後、ターン終了時まで相手は罠カードを発動できない。
   ko: |-
     이 카드는 LP를 절반 지불하고 패에서 발동할 수도 있다. ①: 상대가 함정 카드를 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고, 그 카드를 그대로 세트한다. 그 후, 상대는 덱에서 함정 카드 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다. 이 카드의 발동 후, 턴 종료시까지 상대는 함정 카드를 발동할 수 없다.
   zh-TW: |-
@@ -161,6 +161,10 @@ sets:
     - Common
   - set_number: SR11-JP040
     set_name: 'Structure Deck R: Dragunity Drive'
+    rarities:
+    - Common
+  - set_number: TT01-JPA25
+    set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
   ko:

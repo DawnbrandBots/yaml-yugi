@@ -34,7 +34,7 @@ text:
     Não pode ser destruído em batalha enquanto tiver matéria. No final da Etapa de Dano, se este card batalhou um monstro do oponente: você pode desassociar 1 matéria deste card; devolva esse monstro do oponente para a mão.
   ja: |-
     レベル２モンスター×２
-    ①：Ｘ素材を持っているこのカードは戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に、このカードのＸ素材を１つ取り除いて発動できる。その相手モンスターを持ち主の手札に戻す。
+    ①：Ｘ素材を持っているこのカードは戦闘では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時、このカードのＸ素材を１つ取り除いて発動できる。その相手モンスターを手札に戻す。
   ko: |-
     레벨 2 몬스터 × 2
     ①: 엑시즈 소재를 가지고 있는 이 카드는 전투로는 파괴되지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 상대 몬스터를 주인의 패로 되돌린다.
@@ -136,6 +136,10 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: TT01-JPB34
+    set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
+    rarities:
+    - Common
   ko:
   - set_number: SECE-KR052
     set_name: Secrets of Eternity

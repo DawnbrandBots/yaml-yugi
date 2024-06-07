@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente ativou um efeito de monstro durante este turno: Baixe 1 Magia/Armadilha Normal diretamente do seu Deck, exceto "Estocada da Tática Tripla" ou, se seu oponente controlar um monstro, em vez disso, você pode adicioná-la à sua mão. Esse card Baixado não pode ser ativado neste turno. Você só pode ativar 1 "Estocada da Tática Tripla" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：このターンに相手がモンスターの効果を発動している場合に発動できる。デッキから「三戦の号」以外の通常魔法・通常罠カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。相手フィールドにモンスターが存在する場合、代わりに選んだカードを手札に加える事もできる。
+    このカード名のカードは１ターンに１枚しか発動できない。①：このターンに相手がモンスターの効果を発動している場合に発動できる。デッキから「三戦の号」以外の通常魔法・通常罠カード１枚を自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。相手フィールドにモンスターが存在する場合、セットせず手札に加える事もできる。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 턴에 상대가 몬스터의 효과를 발동하고 있을 경우에 발동할 수 있다. 덱에서 "삼전의 호" 이외의 일반 마법 / 일반 함정 카드 1장을 고르고 자신 필드에 세트한다. 이 효과로 세트한 카드는 이 턴에 발동할 수 없다. 상대 필드에 몬스터가 존재할 경우, 대신에 고른 카드를 패에 넣을 수도 있다.
   zh-TW: |-
@@ -110,6 +110,10 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Rare
+  - set_number: TT01-JPA17
+    set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
+    rarities:
+    - Common
   ko:
   - set_number: PHHY-KR069
     set_name: Photon Hypernova

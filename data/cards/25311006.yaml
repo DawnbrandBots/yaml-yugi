@@ -52,9 +52,9 @@ text:
     Você só pode ativar 1 "Talento da Tática Tripla" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：このターンの自分メインフェイズに相手がモンスターの効果を発動している場合、以下の効果から１つを選択して発動できる。
-    ●自分はデッキから２枚ドローする。
-    ●相手フィールドのモンスター１体を選び、エンドフェイズまでコントロールを得る。
-    ●相手の手札を確認し、その中からカード１枚を選んでデッキに戻す。
+    ●自分は２枚ドローする。
+    ●相手フィールドのモンスター１体のコントロールをエンドフェイズまで得る。
+    ●相手の手札を確認し、その内の１枚を選んでデッキに戻す。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 턴의 자신 메인 페이즈에 상대가 몬스터 효과를 발동하고 있을 경우, 이하의 효과에서 1개를 선택하여 발동할 수 있다.
     ●자신은 덱에서 2장 드로우한다.
@@ -223,6 +223,10 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  - set_number: TT01-JPA18
+    set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
+    rarities:
+    - Common
   ko:
   - set_number: ROTD-KR062
     set_name: Rise of the Duelist

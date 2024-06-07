@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou do Cemitério) ao oferecer como Tributo 2 Monstros Link. Se este card for Invocado por Invocação-Especial: você pode ativar este efeito; se seu oponente controlar 3 ou mais cards, ele deve enviar cards para o Cemitério até controlar 2 cards. Você só pode usar este efeito de "Evil★Gêmeas Ki-sikil & Lil-la" uma vez por turno. Enquanto você tiver um monstro "Ki-sikil" no seu Cemitério e tiver um monstro "Lil-la" no seu Cemitério, este card ganha 2200 de ATK/DEF.
   ja: |-
-    このカードは通常召喚できない。自分フィールドのリンクモンスター２体をリリースした場合のみ手札・墓地から特殊召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合に発動できる。相手は自身のフィールドのカードが３枚以上の場合には２枚になるように墓地へ送らなければならない。②：自分の墓地に「キスキル」モンスター及び「リィラ」モンスターが存在する限り、このカードの攻撃力・守備力は２２００アップする。
+    このカードは通常召喚できない。自分フィールドのＬモンスター２体をリリースした場合のみ手札・墓地から特殊召喚できる。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。相手は自身のフィールドのカードが３枚以上の場合には、２枚になるように墓地へ送らなければならない。②：自分の墓地に「キスキル」モンスター及び「リィラ」モンスターが存在する限り、このカードの攻撃力・守備力は２２００アップする。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드의 링크 몬스터 2장을 릴리스했을 경우에만 패 / 묘지에서 특수 소환할 수 있다. 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 상대는 자신 필드의 카드가 3장 이상일 경우에는 2장이 되도록 묘지로 보내야 한다. ②: 자신 묘지에 "키스킬" 몬스터 및 "리일라" 몬스터가 존재하는 한, 이 카드의 공격력 / 수비력은 2200 올린다.
   zh-TW: |-
@@ -46,7 +46,7 @@ series:
 - Lil-la
 images:
 - index: 1
-  image: EvilTwinsKisikilLilla-SLF1-JP-C.png
+  image: EvilTwinsKisikilLilla-TT01-JP-C.png
   illustration: EvilTwinsKisikilLilla-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: EvilTwinsKisikilLilla-GEIM-EN-UR-1E.png
@@ -94,6 +94,10 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: TT01-JPB01
+    set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
+    rarities:
+    - Common
   ko:
   - set_number: DBGI-KR017
     set_name: 'Deck Build Pack: Genesis Impactors'

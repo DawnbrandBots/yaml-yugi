@@ -27,13 +27,13 @@ text:
   pt: |-
     Seu oponente deve pagar 500 PV para declarar um ataque. Se este card for Invocado por Invocação-Normal ou Especial e você não controlar nenhum outro monstro: você pode Invocar por Invocação-Especial 1 monstro "Ki-sikil" da sua mão ou do Deck. Você só pode usar este efeito de "Live☆Gêmea Lil-la" uma vez por turno.
   ja: |-
-    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、自分フィールドに他のモンスターが存在しなければ発動できる。手札・デッキから「キスキル」モンスター１体を特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手は５００ＬＰを払わなければ攻撃宣言できない。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合、自分フィールドに他のモンスターが存在しなければ発動できる。手札・デッキから「キスキル」モンスター１体を特殊召喚する。②：このカードがモンスターゾーンに存在する限り、相手は５００ＬＰを払わなければ攻撃宣言できない。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 자신 필드에 다른 몬스터가 존재하지 않으면 발동할 수 있다. 패 / 덱에서 "키스킬" 몬스터 1장을 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 상대는 500 LP를 지불하지 않으면 공격 선언할 수 없다.
   zh-TW: |-
     此卡名的①效果，１回合僅限使用１次。①：可在我方場上不存在其他怪獸，此卡召喚・特殊召喚成功的狀況下發動。從手牌・牌組特殊召喚１隻「姬絲吉爾」怪獸。②：只要此卡存在於怪獸區，對方就必須支付５００LP才能進行攻擊宣言。
   zh-CN: |-
-    此卡名的①效果1回合仅可使用1次。①：自己场上没有其他怪兽存在，此卡召唤・特殊召唤成功的情况下可以发动。从手牌·牌组将1只“姬丝吉尔”怪兽特殊召唤。②：只要此卡存在于怪兽区域，对手必须支付500LP才可以攻击宣言。
+    此卡名的①效果1回合仅可使用1次。①：自己场上没有其他怪兽存在，此卡召唤・特殊召唤成功的情况下可以发动。从手牌・牌组将1只“姬丝吉尔”怪兽特殊召唤。②：只要此卡存在于怪兽区域，对手必须支付500LP才可以攻击宣言。
 card_type: Monster
 monster_type_line: Cyberse / Effect
 attribute: DARK
@@ -89,6 +89,10 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: TT01-JPB03
+    set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
+    rarities:
+    - Common
   ko:
   - set_number: DBGI-KR014
     set_name: 'Deck Build Pack: Genesis Impactors'
