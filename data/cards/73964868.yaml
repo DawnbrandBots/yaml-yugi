@@ -34,7 +34,7 @@ text:
     Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 card no campo; devolva o alvo para a mão.
   ja: |-
     光属性レベル５モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、フィールドのカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。この効果は相手ターンでも発動できる。
+    ①：自分・相手ターンに１度、このカードのＸ素材を１つ取り除き、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。
   ko: |-
     빛 속성 레벨 5 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 주인의 패로 되돌린다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -42,8 +42,8 @@ text:
     光屬性等級５怪獸×２
     ①：１回合１次，可去除此卡的１個超量素材，將場上的１張卡做為對象發動。將該卡送回持有者的手牌。此效果在對方回合也可發動。
   zh-CN: |-
-    光属性等级5怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材后，可以场上的1张卡为对象发动。将该卡放回持有者的手牌中。此效果在对手回合也可发动。
+    光属性等级５怪兽×２
+    ①：１回合１次，去除此卡的１个超量素材，以场上的１张卡为对象可以发动。将该卡放回持有者的手牌。此效果在对手回合中也可以发动。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
@@ -177,6 +177,10 @@ sets:
     - Super Rare
   - set_number: 21TP-JP408
     set_name: Tournament Pack 2021 Vol.4
+    rarities:
+    - Common
+  - set_number: TT01-JPC29
+    set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
   ko:

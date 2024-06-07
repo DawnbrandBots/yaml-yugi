@@ -34,7 +34,7 @@ text:
     Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 monstro com a face para cima no campo; até o final deste turno, o alvo não é afetado por efeitos de card, exceto seus próprios.
   ja: |-
     レベル１０モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターはターン終了時まで、自身以外のカードの効果を受けない。この効果は相手ターンでも発動できる。
+    ①：自分・相手ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターはターン終了時まで、自身以外のカードの効果を受けない。
   ko: |-
     레벨 10 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 앞면 표시 몬스터는 턴 종료시까지, 자신 이외의 카드의 효과를 받지 않는다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -42,8 +42,8 @@ text:
     等級１０怪獸×２
     ①：１回合１次，可去除此卡的１個超量素材，將場上的１隻正面表示怪獸做為對象發動。該正面表示怪獸在回合結束前，不受自身以外的卡的效果影響。此效果在對方回合也可發動。
   zh-CN: |-
-    等级10怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材，以场上的1只表侧表示怪兽为对象可以发动。该表侧表示怪兽直至回合结束时为止，不受自身以外的卡的效果影响。此效果在对手回合中也可以发动。
+    等级１０怪兽×２
+    ①：１回合１次，去除此卡的１个超量素材，以场上的１只表侧表示怪兽为对象可以发动。该表侧表示怪兽直至回合结束时为止，不受自身以外的卡的效果影响。此效果在对手回合中也可以发动。
 card_type: Monster
 monster_type_line: Machine / Xyz / Effect
 attribute: EARTH
@@ -164,6 +164,10 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: TT01-JPC31
+    set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
+    rarities:
+    - Common
   ko:
   - set_number: EP15-KR055
     set_name: Extra Pack 2015

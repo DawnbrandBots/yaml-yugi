@@ -34,7 +34,7 @@ text:
     Uma vez por turno: você pode Invocar por Invocação-Especial 1 Monstro Normal de Nível 4 ou menos da sua mão para uma zona sua para a qual este card apontar.
   ja: |-
     通常モンスター１体
-    ①：１ターンに１度、自分メインフェイズに発動できる。手札からレベル４以下の通常モンスター１体をこのカードのリンク先に特殊召喚する。
+    ①：１ターンに１度、自分メインフェイズに発動できる。手札からレベル４以下の通常モンスター１体をこのカードのリンク先となる自分フィールドに特殊召喚する。
   ko: |-
     일반 몬스터 1장
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패에서 레벨 4 이하의 일반 몬스터 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다.
@@ -150,6 +150,10 @@ sets:
     - Common
   - set_number: ST19-JP045
     set_name: Starter Deck 2019
+    rarities:
+    - Common
+  - set_number: TT01-JPC34
+    set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
   ko:

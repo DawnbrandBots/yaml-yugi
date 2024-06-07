@@ -29,7 +29,7 @@ text:
   ja: |-
     ①：ＬＰを半分払って以下の効果を発動できる。
     ●魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。
-    ●自分または相手がモンスターを召喚・反転召喚・特殊召喚する際に発動できる。それを無効にし、そのモンスターを破壊する。
+    ●自分か相手がモンスターを召喚・反転召喚・特殊召喚する際に発動できる。それを無効にし、そのモンスターを破壊する。
   ko: |-
     ①: LP를 절반 지불하고 이하의 효과를 발동할 수 있다.
     ●마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
@@ -521,6 +521,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT01-JPC19
+    set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K127
     set_name: Metal Raiders
