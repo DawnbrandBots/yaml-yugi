@@ -1,7 +1,7 @@
 konami_id: 8927
 password: 9107531
 name:
-  en: Electro Gunner
+  en: Electro Blaster
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If you Normal or Special Summon a FIRE monster(s): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of "Electro Gunner" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.
+    If you Normal or Special Summon a FIRE monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then you can send 1 Level 8 Pyro monster from your Deck to the GY. You can only use this effect of "Electro Blaster" once per turn. Once per turn, if a Spell Card is activated (except during the Damage Step): You can make all FIRE monsters you currently control gain 300 ATK.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 1800
 def: 1400
 images:
 - index: 1
-  image: ElectroGunner-24PP-JP-C.png
+  image: ElectroBlaster-24PP-JP-C.png
 sets:
+  en:
+  - set_number: BLTR-EN024
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE024
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR024
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT024
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT024
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 24PP-JP004
     set_name: Premium Pack 2024
@@ -56,7 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1022443

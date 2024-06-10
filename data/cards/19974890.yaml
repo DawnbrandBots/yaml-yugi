@@ -1,7 +1,7 @@
 konami_id: 19938
 password: 19974890
 name:
-  en: Heaps of Beasts
+  en: Bunch of Beast Bodies
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Change all monsters on the field that were not Normal or Special Summoned this turn to Defense Position, also, this turn, neither player can declare an attack with a monster that was Normal or Special Summoned this turn while they control a Defense Position monster.
+    Change all monsters that were not Normal or Special Summoned this turn to Defense Position. For the rest of this turn, a player who controls a Defense Position monster cannot declare attacks with monsters that were Normal or Special Summoned this turn.
   de:
   es:
   fr:
@@ -30,8 +30,33 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: HeapsofBeasts-24PR-JP-NPR.png
+  image: BunchofBeastBodies-24PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLTR-EN042
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE042
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR042
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT042
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT042
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 24PR-JP005
     set_name: Promotion Pack 2024
@@ -40,9 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1034831

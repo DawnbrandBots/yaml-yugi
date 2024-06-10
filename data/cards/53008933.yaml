@@ -1,7 +1,7 @@
 konami_id: 20036
 password: 53008933
 name:
-  en: Archfiend's Arrival
+  en: Archfiend's Advent
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If you control "Shining Sarcophagus", you can Normal Summon this card without Tributing. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; take control of it until the End Phase, but if you did not control "Shining Sarcophagus" at activation, that monster cannot attack while you control it. You can only use this effect of "Archfiend's Arrival" once per turn. Other monsters you control gain 500 ATK during your turn only.
+    While you control "Shining Sarcophagus", you can Normal Summon this card without Tributing. Other monsters you control gain 500 ATK, during your turn only. If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; take control of it until the End Phase, but that monster cannot attack unless you controlled "Shining Sarcophagus" when this effect was activated. You can only use this effect of "Archfiend's Advent" once per turn.
   de:
   es:
   fr:
@@ -38,8 +38,33 @@ series:
 - Skull Archfiend
 images:
 - index: 1
-  image: ArchfiendsArrival-VX04-JP-UR.png
+  image: ArchfiendsAdvent-VX04-JP-UR.png
 sets:
+  en:
+  - set_number: BLTR-EN046
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BLTR-DE046
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BLTR-FR046
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BLTR-IT046
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BLTR-PT046
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
   ja:
   - set_number: VX04-JP001
     set_name: The Valuable Book EX 4 promotional cards
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1044500

@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 스파
   ko_rr:
   zh-TW: 燃燒拳鬥士 練習對手
-  zh-CN: 燃烧拳击手 练习拳手
+  zh-CN: 燃烧拳斗士 练拳
 text:
   en: |-
     If you control a "Battlin' Boxer" monster, you can Special Summon this card (from your hand). If you do, you cannot conduct your Battle Phase for the rest of this turn.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上存在冠有「燃燒拳鬥士」之名的怪兽的场合，此卡可从手牌特殊召唤。以此方法特殊召唤的场合，此回合我方不能进行战斗阶段。
   zh-CN: |-
-    自己场上有名字带有「燃烧拳击手」的怪兽存在的场合，这张卡可以从手卡特殊召唤。这个方法特殊召唤过的场合，这个回合自己不能进行战斗阶段。
+    ①：自己场上存在“燃烧拳斗士”怪兽的情况下，此卡可从手牌特殊召唤。以此方法特殊召唤的回合，自己无法进行战斗阶段。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -104,6 +104,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC018
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC068
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

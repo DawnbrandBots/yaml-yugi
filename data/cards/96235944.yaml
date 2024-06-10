@@ -1,7 +1,7 @@
 konami_id: 19630
 password: 96235944
 name:
-  en: Void Barrier
+  en: Void Breach
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 炼狱的决界
 text:
   en: |-
-    "Infernoid" monsters you control gain 100 ATK for each of your banished "Infernoid" monsters. If you control no monsters, or only Fiend monsters: You can activate 1 of these effects;
+    "Infernoid" monsters you control gain 100 ATK for each of your banished "Infernoid" monsters. If you control no monsters, or all monsters you control are Fiend monsters: You can activate 1 of these effects;
     ● Add 1 of your banished "Infernoid" monsters to your hand.
     ● Special Summon 1 "Infernoid" monster from your hand, ignoring its Summoning conditions.
-    You can only use this effect of "Void Barrier" once per turn.
+    You can only use this effect of "Void Breach" once per turn.
   de:
   es:
   fr:
@@ -45,8 +45,33 @@ series:
 - Void
 images:
 - index: 1
-  image: VoidBarrier-TW01-JP-C.png
+  image: VoidBreach-TW01-JP-C.png
 sets:
+  en:
+  - set_number: BLTR-EN016
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE016
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR016
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT016
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT016
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: TW01-JP100
     set_name: Terminal World (set)
@@ -81,9 +106,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1012532

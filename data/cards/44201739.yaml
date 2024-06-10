@@ -1,21 +1,21 @@
 konami_id: 19934
 password: 44201739
 name:
-  en: Mirah and Matchnoko
+  en: Mira Match
   de:
   es:
   fr:
   it:
   pt:
   ja: ミラァと<ruby>燐寸之仔<rt>マッチノコ</rt></ruby>
-  ja_romaji: Miraa to Matchinoko
+  ja_romaji: Miraa to Macchinoko
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 text:
   en: |-
-    If this card is in your hand: You can reveal 3 cards from your hand and/or Deck with the same name as cards in your opponent's GY, but different names from each other, and if you do, Special Summon this card. When your opponent activates a card or effect (Quick Effect): You can send this card Summoned by its own effect to the GY; send 1 card with the same name as that opponent's card from your Deck or Extra Deck to the GY, and if you do, negate the activation. You can only use each effect of "Mirah and Matchnoko" once per turn.
+    If this card is in your hand: You can reveal 3 cards with different names from your hand and/or Deck that match the names of 3 different cards in your opponent's GY, and if you do, Special Summon this card. When your opponent activates a card or effect (Quick Effect): You can send this card Summoned by its previous effect to the GY; send 1 card with the same name as that opponent's card from your Deck or Extra Deck to the GY, and if you do, negate the activation. You can only use each effect of "Mira Match" once per turn.
   de:
   es:
   fr:
@@ -34,8 +34,33 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: MirahandMatchnoko-24PR-JP-NPR.png
+  image: MiraMatch-24PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLTR-EN038
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE038
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR038
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT038
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT038
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 24PR-JP001
     set_name: Promotion Pack 2024
@@ -44,9 +69,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1026313

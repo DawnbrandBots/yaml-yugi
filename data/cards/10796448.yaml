@@ -1,13 +1,13 @@
 konami_id: 19935
 password: 10796448
 name:
-  en: A★Speculation
+  en: Ace★Spades Speculation
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>Ａ★<rt>エースター</rt></ruby>スペキュレーション
+  ja: <ruby>Ａ<rt>エー</rt></ruby><ruby>★<rt>スター</rt></ruby>スペキュレーション
   ja_romaji: Ēsutā Supekyurēshon
   ko:
   ko_rr:
@@ -16,8 +16,8 @@ name:
 text:
   en: |-
     1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF
-    You can only Special Summon "A★Speculation(s)" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains this effect based on its battle position.
-    ● Attack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls.
+    You can only Special Summon "Ace★Spades Speculation(s)" once per turn. You can Tribute 1 Attack Position monster and 1 face-down Defense Position monster; Special Summon this card from your GY. This card gains the following effect based on its battle position.
+    ● Attack Position: Gains ATK equal to the highest original ATK among monsters your opponent controls (your choice, if tied).
     ● Defense Position: Cannot be destroyed by battle or card effects.
   de:
   es:
@@ -39,8 +39,33 @@ def: 2500
 materials: 1 monster with 2500 or more ATK + 1 face-down Defense Position monster with 2500 or less DEF
 images:
 - index: 1
-  image: ASpeculation-24PR-JP-NPR.png
+  image: AceSpadesSpeculation-24PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLTR-EN039
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BLTR-DE039
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BLTR-FR039
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BLTR-IT039
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BLTR-PT039
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
   ja:
   - set_number: 24PR-JP002
     set_name: Promotion Pack 2024
@@ -49,9 +74,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1026311

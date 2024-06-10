@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 face-up monster on the field; until the end of this turn, its ATK becomes your opponent's current LP, also any damage they take is halved. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; until the end of this turn, its ATK becomes your current LP, also any damage your opponent takes is halved. You can only use each effect of "Life Hack" once per turn.
+    Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your current LP until the end of this turn. You can only use each effect of "Life Hack" once per turn.
   de:
   es:
   fr:
@@ -32,6 +32,31 @@ images:
 - index: 1
   image: LifeHack-24PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLTR-EN041
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE041
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR041
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT041
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT041
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 24PR-JP004
     set_name: Promotion Pack 2024
@@ -40,9 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1034834

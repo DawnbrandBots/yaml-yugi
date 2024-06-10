@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 헤드기어
   ko_rr: Beoningnakura Hedeugieo
   zh-TW: 燃燒拳鬥士 拳擊頭盔
-  zh-CN: 燃烧拳击手 护头拳手
+  zh-CN: 燃烧拳斗士 护头
 text:
   en: |-
     When this card is Normal Summoned: You can send 1 "Battlin' Boxer" monster from your Deck to the GY. The first time this Attack Position card would be destroyed by battle each turn, it is not destroyed.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡召唤成功时，可从牌组将1只冠有「燃燒拳鬥士」之名的怪兽送入墓地。场上以表侧攻击表示存在的此卡，仅1回合1次不会因战斗而破坏。
   zh-CN: |-
-    这张卡召唤成功时，可以从卡组把1只名字带有「燃烧拳击手」的怪兽送去墓地。场上表侧攻击表示存在的这张卡1回合只有1次不会被战斗破坏。
+    ①：此卡召唤时可以发动。从牌组将１只“燃烧拳斗士”怪兽送至墓地。②：攻击表示的此卡１回合仅１次，不会因战斗被破坏。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -132,6 +132,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC016
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC066
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

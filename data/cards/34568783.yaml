@@ -15,7 +15,7 @@ name:
   zh-CN: 真次代机・水精灵
 text:
   en: |-
-    Once per turn: You can banish 1 "Genex" monster from your GY; this card gains that monster's Attribute, then, if you banished a Tuner to activate this effect, this card can be treated as a Tuner this turn. If you control a "Genex" Synchro Monster: You can target 2 "Genex" monsters in your GY, including this card; add them to your hand, also banish any card sent to your GY for the rest of this turn.
+    Once per turn: You can banish 1 "Genex" monster from your GY; this card gains that monster's Attribute, then if you banished a Tuner to activate this effect, you can treat this card as a Tuner until the end of this turn. If you control a "Genex" Synchro Monster: You can target 2 "Genex" monsters in your GY, including this card; add them to your hand, also for the rest of this turn, any card sent to your GY is banished instead.
   de:
   es:
   fr:
@@ -42,6 +42,31 @@ images:
 - index: 1
   image: RGenexUndine-TW01-JP-C.png
 sets:
+  en:
+  - set_number: BLTR-EN011
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLTR-DE011
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLTR-FR011
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLTR-IT011
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT011
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: TW01-JP052
     set_name: Terminal World (set)
@@ -76,9 +101,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1020543

@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 글라스조
   ko_rr: Beoningnakura Geullaseujo
   zh-TW: 燃燒拳鬥士 玻璃下巴
-  zh-CN: 燃烧拳击手 不堪一击拳手
+  zh-CN: 燃烧拳斗士 脆颌
 text:
   en: |-
     If this card is targeted for an attack: Destroy this card. When this card is sent to the GY by card effect: You can target 1 "Battlin' Boxer" monster in your GY, except "Battlin' Boxer Glassjaw"; add it to your hand.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡被选择为攻击对象时，破坏此卡。此卡因卡牌效果被送入墓地时，可从我方墓地选择1只除「燃燒拳鬥士 玻璃下巴」以外的冠有「燃燒拳鬥士」之名的怪兽加入手牌。
   zh-CN: |-
-    这张卡被选择作为攻击对象时，这张卡破坏。这张卡被卡的效果送去墓地时，可以从自己墓地选择「燃烧拳击手 不堪一击拳手」以外的1只名字带有「燃烧拳击手」的怪兽加入手卡。
+    ①：此卡被选择为攻击对象的情况下发动。将此卡破坏。②：此卡因效果被送至墓地时，以自己墓地“燃烧拳斗士 脆颌”以外的１只“燃烧拳斗士”怪兽为对象可以发动。将该怪兽加入手牌。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -132,6 +132,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC017
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC067
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:
