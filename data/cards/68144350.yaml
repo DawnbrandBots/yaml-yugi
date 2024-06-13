@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 스위치히터
   ko_rr: Beoningnakura Seuwichihiteo
   zh-TW: 燃燒拳鬥士 左右開弓拳手
-  zh-CN: 燃烧拳击手 左右开弓拳手
+  zh-CN: 燃烧拳斗士 换架拳手
 text:
   en: |-
     When this card is Normal Summoned: You can target 1 "Battlin' Boxer" monster in your GY; Special Summon it. You cannot Special Summon any monsters during the turn you activate this effect, except "Battlin' Boxer" monsters.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡召唤成功时，可从我方墓地选择1只冠有「燃燒拳鬥士」之名的怪兽特殊召唤。此效果发动的回合，我方不可特殊召唤除冠有「燃燒拳鬥士」之名怪兽以外的怪兽。
   zh-CN: |-
-    这张卡召唤成功时，可以选择自己墓地1只名字带有「燃烧拳击手」的怪兽特殊召唤。这个效果发动的回合，自己不能把名字带有「燃烧拳击手」的怪兽以外的怪兽特殊召唤。
+    发动此卡的效果的回合中，自己仅可特殊召唤“燃烧拳斗士”怪兽。①：此卡召唤时，以自己墓地的１只“燃烧拳斗士”怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -138,6 +138,11 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  zh-CN:
+  - set_number: DP29-SC069
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

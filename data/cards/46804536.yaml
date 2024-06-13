@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 킹 뎀프시
   ko_rr: Beoningnakura King Dempeusi
   zh-TW: 燃燒拳鬥士 王者登普希
-  zh-CN: BK 王者轮摆式移位拳手
+  zh-CN: 燃烧拳斗士 拳王登普西
 text:
   en: |-
     2 Level 4 monsters
@@ -55,8 +55,9 @@ text:
     此卡名的①②效果，１回合各僅限使用１次。 ①：可在此卡特殊召喚的狀況下發動。從牌組選擇１隻等級４以下的戰士族・炎屬性怪獸或１張「燃燒拳擊」魔法・陷阱卡加入手牌或送至墓地。 ②：可在我方・對方回合發動。去除我方場上的１個超量素材，適用以下效果。
     ●此回合中，對方無法將我方場上的「燃燒拳鬥士」怪獸做為效果對象。
   zh-CN: |-
-    等级4怪兽×2
-    这个卡名的①②效果1回合各能使用1次。①：这张卡特殊召唤的场合可以发动。从卡组选1只等级4以下的战士族·炎属性怪兽或者1张「バーニングナックル／燃烧拳」魔法陷阱卡加入手牌或送入墓地。②：自己·对手的回合可以发动。将自己场上的1个多维素材取除，适用以下的效果。●这个回合中对手不能将自己场上的「BK」怪兽作为效果的对象。
+    等级４怪兽×２
+    此卡名的①②效果１回合仅可各使用１次。①：此卡特殊召唤的情况下可以发动。从牌组挑选１只等级４以下的战士族・炎属性怪兽或１张“燃烧拳击”魔法・陷阱卡，加入手牌或送至墓地。②：在自己・对手回合中可以发动。去除自己场上的１个超量素材，适用以下效果。
+    ●此回合中，对手不可将自己场上的“燃烧拳斗士”怪兽作为效果的对象。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
@@ -107,6 +108,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: DP29-SC063
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

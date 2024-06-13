@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 섀도우
   ko_rr:
   zh-TW: 燃燒拳鬥士 假想拳手
-  zh-CN: 燃烧拳击手 假想敌拳手
+  zh-CN: 燃烧拳斗士 影击
 text:
   en: |-
     During your Main Phase: You can detach 1 material from a "Battlin' Boxer" Xyz Monster you control, and if you do, Special Summon this card from your hand. You can only use this effect of "Battlin' Boxer Shadow" once per turn.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可在我方主要階段時發動。去除我方場上的冠有「燃燒拳鬥士」之名的超量怪獸的１個超量素材，從手牌特殊召喚此卡。「燃燒拳鬥士 假想拳手」的效果１回合僅限使用１次。
   zh-CN: |-
-    自己的主要阶段时才能发动。把自己场上的名字带有「燃烧拳击手」的XYZ怪兽1个XYZ素材取除，这张卡从手卡特殊召唤。「燃烧拳击手 假想敌拳手」的效果1回合只能使用1次。
+    此卡名的效果１回合仅可使用１次。①：此卡存在于手牌的情况下可以发动。去除自己场上的“燃烧拳斗士”超量怪兽的１个超量素材，将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -99,6 +99,11 @@ sets:
   ko:
   - set_number: EP14-KR053
     set_name: 'Extra Pack: Knights of Order'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC071
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

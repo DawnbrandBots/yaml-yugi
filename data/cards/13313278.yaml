@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 베일
   ko_rr:
   zh-TW: 燃燒拳鬥士 面罩
-  zh-CN: 燃烧拳击手 脱险拳手
+  zh-CN: 燃烧拳斗士 护罩
 text:
   en: |-
     When you take battle damage: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the damage you took.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可在我方受到戰鬥傷害時發動。從手牌特殊召喚此卡，依據受到傷害的數值回復我方的LP。
   zh-CN: |-
-    自己受到战斗伤害时才能发动。这张卡从手卡特殊召唤，自己基本分回复受到的伤害的数值。
+    ①：自己受到战斗伤害时可以发动。从手牌将此卡特殊召唤，依所受伤害的数值恢复自己的LP。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: FIRE
@@ -79,6 +79,11 @@ sets:
   ko:
   - set_number: PRIO-KR009
     set_name: Primal Origin
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC070
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:
