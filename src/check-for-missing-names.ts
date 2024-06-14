@@ -10,7 +10,7 @@ if (process.argv.length < 4) {
 
 (async () => {
 	const files = await fs.promises.readdir(process.argv[2]);
-    const lang = process.argv[3];
+	const lang = process.argv[3];
 	const missingNames = [];
 	for (const file of files) {
 		if (file.endsWith(".json")) {
