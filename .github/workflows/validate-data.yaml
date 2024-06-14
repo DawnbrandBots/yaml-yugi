@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2023–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 name: Validate data
 
@@ -52,10 +52,13 @@ jobs:
       - name: Cards are not missing placeholder fake passwords
         if: success() || failure()
         run: yarn check-for-missing-fake-password data/cards
+      - name: Rush Duel cards are not missing Japanese names
+        if: success() || failure()
+        run: yarn check-for-missing-names data/rush ja
         # The following steps will not fail the workflow until yaml-yugi-ko is fully setup
       - name: OCG cards are all translated into Korean
         if: success() || failure()
-        run: yarn check-for-missing-ko-translation data/cards || true
+        run: yarn check-for-missing-names data/cards ko || true
       - name: Rush Duel cards are all translated into Korean
         if: success() || failure()
-        run: yarn check-for-missing-ko-translation data/rush || true
+        run: yarn check-for-missing-names data/rush ko || true

@@ -8,7 +8,7 @@
   "scripts": {
     "load": "ts-node src/load.ts",
     "check-for-missing-fake-password": "ts-node src/assignments/check-for-missing.ts",
-    "check-for-missing-ko-translation": "ts-node src/check-for-missing-ko.ts"
+    "check-for-missing-names": "ts-node src/check-for-missing-names.ts"
   },
   "engines": {
     "node": ">=20",
