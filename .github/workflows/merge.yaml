@@ -70,6 +70,7 @@ jobs:
             ../../../yaml-yugipedia/wikitext/Rush_Duel_cards \
             --ko-override ../../../yaml-yugi-ko/rush-override.csv \
             --ko-prerelease ../../../yaml-yugi-ko/rush-prerelease.csv \
+            --ocg-aggregate ../../../aggregate/cards.json \
             --aggregate ../../../aggregate/rush.json
       - name: Transform (TCG Speed Duel Skills)
         working-directory: yaml-yugi/data/tcg-speed-skill

@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from argparse import ArgumentParser
 import json
@@ -14,6 +14,7 @@ parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")
 parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
 parser.add_argument("--ko-override", help="yaml-yugi-ko rush-override.csv")
 parser.add_argument("--ko-prerelease", help="yaml-yugi-ko rush-prerelease.csv")
+parser.add_argument("--ocg-aggregate", help="cards.json")
 parser.add_argument(
     "--generate-schema", action="store_true", help="output generated JSON schema file"
 )
@@ -43,6 +44,7 @@ def main() -> None:
         args.ko_official,
         args.ko_override,
         args.ko_prerelease,
+        args.ocg_aggregate,
         args.aggregate is not None,
     )
     if processes == 1:

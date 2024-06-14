@@ -1,5 +1,6 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
+import json
 import logging
 import os
 import sys
@@ -111,6 +112,17 @@ def merge_ko(
             flags.setdefault("text", {})["ko"] = True
 
 
+# On Yugipedia, Rush Duel cards inherit their Japanese name from their OCG counterpart
+def annotate_ocg_ja_name(
+    logger: logging.Logger, document: Dict[str, Any], ocg_cards: Dict[str, Any]
+) -> None:
+    name = document["name"]["en"]
+    ocg_card = ocg_cards.get(name)
+    if ocg_card and not document["name"]["ja"]:
+        logger.info(f"Annotating [{name}] with Japanese OCG card name")
+        document["name"]["ja"] = ocg_card["name"]["ja"]
+
+
 def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
     if document["konami_id"] is not None:
         basename = document["konami_id"]
@@ -125,6 +137,7 @@ def job(
     ko_official_csv: Optional[str] = None,
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
+    ocg_aggregate: Optional[str] = None,
     return_results=False,
 ) -> Optional[List[Dict[str, Any]]]:
     yaml = YAML()
@@ -132,6 +145,12 @@ def job(
     ko_official = load_ko_csv("konami_id", ko_official_csv)  # noqa: F841
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)
+    if ocg_aggregate:
+        with open(ocg_aggregate) as f:
+            raw = json.load(f)
+            ocg_cards = {card["name"]["en"]: card for card in raw}
+    else:
+        ocg_cards = None
     results = []
     for i, filename in enumerate(filenames):
         filepath = os.path.join(wikitext_dir, filename)
@@ -159,6 +178,8 @@ def job(
         properties["yugipedia_page_id"] = page_id
         document = transform_structure(properties)
         merge_ko(logger, document, ko_override, ko_prerelease)
+        if ocg_cards:
+            annotate_ocg_ja_name(logger, document, ocg_cards)
         write_output(yaml, logger, document)
         if return_results:
             results.append(document)
