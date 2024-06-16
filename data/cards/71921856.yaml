@@ -12,7 +12,7 @@ name:
   ko: No.79 <ruby>BK<rt>버닝나쿠라</rt></ruby> 항성의 카이저
   ko_rr: Neombeojeu Chilsipgu Beoningnakura Hangseong-ui Kaijeo
   zh-TW: No.79 燃燒拳鬥士 新星凱撒
-  zh-CN: No.79 燃烧拳击手 新星之帝环拳士
+  zh-CN: 编号79 燃烧拳斗士 新星之拳环
 text:
   en: |-
     2 Level 4 monsters
@@ -42,8 +42,8 @@ text:
     等級４怪獸×２
     ①：此卡的攻擊力依據此卡的超量素材的數量×１００進行提升。②：１回合１次，可在我方主要階段發動。從我方手牌・墓地選擇１隻「燃燒拳鬥士」怪獸，重疊至此卡下方做為超量素材。③：在擁有超量素材的此卡被對方破壞送至墓地的狀況下，可將我方墓地的等級４以下的「燃燒拳鬥士」怪獸做為對象發動，數量最多為此卡擁有的超量素材的數量。特殊召喚該怪獸。
   zh-CN: |-
-    4星怪兽×2
-    1回合1次，自己的主要阶段时才能发动。从自己的手卡·墓地选1只名字带有「燃烧拳击手」的怪兽在这张卡下面重叠作为XYZ素材。这张卡的攻击力上升这张卡的XYZ素材数量×100的数值。此外，这张卡被对方破坏送去墓地时，可以从自己墓地选择最多有那个时候这张卡持有的XYZ素材数量的4星以下的名字带有「燃烧拳击手」的怪兽特殊召唤。
+    等级４怪兽×２
+    ①：此卡的攻击力上升相当于此卡的超量素材的数量×１００的数值。②：１回合１次，在自己的主要阶段可以发动。将自己的手牌・墓地的１只“燃烧拳斗士”怪兽作为此卡的超量素材。③：持有超量素材的此卡因对手被破坏并被送至墓地时，以自己墓地的等级４以下的“燃烧拳斗士”怪兽为对象可以发动，数量最多为此卡原先持有的超量素材的数量。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
@@ -124,6 +124,11 @@ sets:
     - Common
   - set_number: DP28-KR044
     set_name: 'Duelist Pack: Duelists of Explosion'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC075
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

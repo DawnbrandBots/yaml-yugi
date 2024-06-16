@@ -12,7 +12,7 @@ name:
   ko: <ruby>BK<rt>버닝나쿠라</rt></ruby> 구속만병 리드블로
   ko_rr:
   zh-TW: 燃燒拳鬥士 拘束蠻兵 前導刺拳
-  zh-CN: 燃烧拳击手 拘束蛮兵 刺拳拳手
+  zh-CN: 燃烧拳斗士 拘束蛮兵 前导刺拳
 text:
   en: |-
     2 Level 4 "Battlin' Boxer" monsters
@@ -42,7 +42,8 @@ text:
     冠有「燃燒拳鬥士」之名的等级4怪兽×2
     我方场上冠有「燃燒拳鬥士」之名的怪兽因战斗或卡牌效果被破坏的场合，可移除此卡的1个超量素材替代该被破坏的1只怪兽。此外，此卡的超量素材被移除时，此卡的攻击力上升800点。
   zh-CN: |-
-    名字带有「燃烧拳击手」的4星怪兽×2。自己场上的名字带有「燃烧拳击手」的怪兽被战斗或者卡的效果破坏的场合，可以作为那1只破坏的怪兽的代替而把这张卡1个XYZ素材取除。此外，这张卡的XYZ素材被取除时，这张卡的攻击力上升800。
+    等级４“燃烧拳斗士”怪兽×２
+    ①：自己场上的“燃烧拳斗士”怪兽将被战斗・效果破坏的情况下，作为该“燃烧拳斗士”怪兽中１只的代替，可去除此卡的１个超量素材。②：此卡的超量素材被去除的情况下发动。此卡的攻击力上升８００。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
@@ -156,6 +157,12 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common
+  zh-CN:
+  - set_number: DP29-SC072
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
+    - Common
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
