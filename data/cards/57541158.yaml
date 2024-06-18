@@ -12,7 +12,7 @@ name:
   ko: 마린세스 슬리피메이든
   ko_rr: Marinseseu Seullipimeideun
   zh-TW: 海晶少女 沉睡擬態革魨
-  zh-CN: 海晶少女 沉睡处女拟态革鲀
+  zh-CN: 海晶少女 眠鳢闺女
 text:
   en: |-
     You can target 1 "Marincess" card you control; Special Summon this card from your hand, and if you do, it gains this effect.
@@ -49,10 +49,9 @@ text:
     ●只要此卡存在於怪獸區，對象卡就不會因對方效果被破壞。
     ②：可將墓地的此卡除外，將我方場上的１隻「海晶少女」連結怪獸做為對象發動。從我方墓地選擇１隻「海晶少女」連結怪獸視為裝備卡，裝備於對象怪獸上。
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：以自己场上1张「海晶少女」卡为对象才能发动。这张卡从手卡特殊召唤，这张卡得到以下效果。
-    ●只要这张卡在怪兽区域存在，作为对象的卡不会被对方的效果破坏。
-    ②：把墓地的这张卡除外，以自己场上1只「海晶少女」连接怪兽为对象才能发动。从自己墓地选1只「海晶少女」连接怪兽当作装备卡使用给作为对象的怪兽装备。
+    此卡名的①②效果１回合仅可各使用１次。①：以自己场上的１张“海晶少女”卡为对象可以发动。从手牌将此卡特殊召唤，此卡获得以下效果。
+    ●只要此卡存在于怪兽区域，对象卡不会因对手的效果被破坏。
+    ②：将墓地的此卡除外，以自己场上的１只“海晶少女”连接怪兽为对象可以发动。从自己的墓地将１只“海晶少女”连接怪兽视为装备魔法卡装备于对象怪兽。
 card_type: Monster
 monster_type_line: Cyberse / Effect
 attribute: WATER
@@ -98,6 +97,11 @@ sets:
   ko:
   - set_number: DP26-KR032
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP29-SC106
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Rare
 limit_regulation:

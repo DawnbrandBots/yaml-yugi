@@ -12,7 +12,7 @@ name:
   ko: 마린세스 스프링걸
   ko_rr: Marinseseu Seupeuringgeol
   zh-TW: 海晶少女 斯氏金翅雀鯛
-  zh-CN: 海晶少女 活跃少女斯氏金翅雀鲷
+  zh-CN: 海晶少女 蓝宝女孩
 text:
   en: |-
     You can banish 1 "Marincess" monster from your GY; Special Summon this card from your hand. If this card is sent to the GY as material for the Link Summon of a WATER monster: You can send cards from the top of your Deck to the GY, equal to the number of "Marincess" monsters you control, then, if a "Marincess" card(s) was sent to the GY by this effect, inflict 200 damage to your opponent for each "Marincess" card sent. You can only use each effect of "Marincess Springirl" once per turn.
@@ -33,9 +33,7 @@ text:
   zh-TW: |-
     此卡名的①②效果，１回合各僅限使用１次。①：可將我方墓地的１隻「海晶少女」怪獸除外發動。從手牌特殊召喚此卡。②：可在將此卡做為水屬性連結怪獸的連結素材被送至墓地的狀況下發動。依我方場上的「海晶少女」怪獸數量，從我方牌組上方將卡送至墓地。在透過此效果將「海晶少女」卡送至墓地的狀況下，另給予對方該「海晶少女」卡數量×２００的傷害。
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。
-    ①：从自己墓地把1只「海晶少女」怪兽除外才能发动。这张卡从手卡特殊召唤。
-    ②：这张卡作为水属性连接怪兽的连接素材送去墓地的场合才能发动。把自己场上的「海晶少女」怪兽数量的卡从自己卡组上面送去墓地。这个效果让「海晶少女」卡被送去墓地的场合，再给与对方那些「海晶少女」卡数量×200伤害。
+    此卡名的①②效果１回合仅可各使用１次。①：从自己的墓地将１只“海晶少女”怪兽除外可以发动。从手牌将此卡特殊召唤。②：此卡作为水属性连接怪兽的连接素材被送至墓地的情况下可以发动。依自己场上的“海晶少女”怪兽的数量，从自己的牌组上面将卡送至墓地。以此效果将“海晶少女”卡送至墓地的情况下，进而给予对手相当于该“海晶少女”卡的数量×２００的伤害。
 card_type: Monster
 monster_type_line: Cyberse / Effect
 attribute: WATER
@@ -85,6 +83,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: DP29-SC105
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
