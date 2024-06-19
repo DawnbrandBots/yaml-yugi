@@ -10,12 +10,14 @@ on:
       - data/**
       - src/test_data_validation.py
       - src/assignments/check-for-missing.ts
+      - src/requirements*
   pull_request:
     paths:
       - .github/workflows/validate-data.yaml
       - data/**
       - src/test_data_validation.py
       - src/assignments/check-for-missing.ts
+      - src/requirements*
   workflow_dispatch:
 
 jobs:
