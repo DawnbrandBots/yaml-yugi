@@ -15,7 +15,7 @@ name:
   zh-CN: 召唤神 艾克佐迪亚
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Forbidden One" monster, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each "Forbidden One" monster in your Graveyard. Unaffected by other cards' effects. Once per turn, during your End Phase: Add 1 "Forbidden One" monster from your Graveyard to your hand. When this card is destroyed by battle and sent to the Graveyard: You can reveal any number of "Forbidden One" monsters in your hand, and if you do, draw 1 card for each.
+    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Forbidden One" monster. Gains 1000 ATK for each "Forbidden One" monster in your GY. Unaffected by other cards' effects. Once per turn, during your End Phase: Add 1 "Forbidden One" monster from your GY to your hand. When this card is destroyed by battle and sent to the GY: You can reveal any number of "Forbidden One" monsters in your hand, and if you do, draw 1 card for each.
   de: |-
     Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 „Exodia, die Verbotene“ oder „Der Verbotenen“-Monster als Tribut anbietest, und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Diese Karte erhält 1000 ATK für jede „Exodia, die Verbotene“ und jedes „Der Verbotenen“-Monster in deinem Friedhof. Bleibt von den Effekten anderer Karten unberührt. Einmal pro Spielzug, während deiner End Phase: Füge deiner Hand 1 „Exodia, die Verbotene“ oder „Der Verbotenen“-Monster von deinem Friedhof hinzu. Wenn diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird: Du kannst eine beliebige Anzahl „Exodia, die Verbotene“ oder „Der Verbotenen“-Monster in deiner Hand vorzeigen und falls du dies tust, ziehe für jedes 1 Karte.
   es: |-
@@ -44,33 +44,58 @@ series:
 - Exodia
 images:
 - index: 1
-  image: TheLegendaryExodiaIncarnate-LDK2-EN-UR-1E.png
+  image: TheLegendaryExodiaIncarnate-BLTR-EN-ScR-1E.png
 sets:
   en:
   - set_number: LDK2-ENY01
     set_name: Legendary Decks II
     rarities:
     - Ultra Rare
+  - set_number: BLTR-EN051
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   de:
   - set_number: LDK2-DEY01
     set_name: Legendary Decks II
     rarities:
     - Ultra Rare
+  - set_number: BLTR-DE051
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   fr:
   - set_number: LDK2-FRY01
     set_name: Legendary Decks II
     rarities:
     - Ultra Rare
+  - set_number: BLTR-FR051
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   it:
   - set_number: LDK2-ITY01
     set_name: Legendary Decks II
     rarities:
     - Ultra Rare
+  - set_number: BLTR-IT051
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   pt:
   - set_number: LDK2-PTY01
     set_name: Legendary Decks II
     rarities:
     - Ultra Rare
+  - set_number: BLTR-PT051
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: MB01-JP001
     set_name: Millennium Box Gold Edition
