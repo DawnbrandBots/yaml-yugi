@@ -15,7 +15,7 @@ name:
   zh-CN: 灵魂变换装置
 text:
   en: |-
-    Once per turn: You can target 1 Xyz Monster you control; attach 1 face-up Level 4 LIGHT monster you control to that target as an Xyz Material. When this card is sent from the field to the Graveyard: Target 2 Level 4 LIGHT Thunder-Type monsters with the same name in your Graveyard; add those targets to your hand.
+    Once per turn: You can target 1 Xyz Monster you control; attach 1 Level 4 LIGHT monster you control to that Xyz Monster. If this card is sent from the field to the GY: Target 2 Level 4 LIGHT Thunder monsters with the same name in your GY; add those targets to your hand.
   de: |-
     Einmal pro Spielzug: Du kannst 1 Xyz-Monster wählen, das du kontrollierst; hänge 1 offenes LICHT Monster der Stufe 4, das du kontrollierst, als Xyz-Material an das gewählte Ziel an. Wenn diese Karte vom Spielfeld auf den Friedhof gelegt wird: Wähle 2 LICHT Monster vom Typ Donner der Stufe 4 mit demselben Namen in deinem Friedhof; füge die gewählten Ziele deiner Hand hinzu.
   es: |-
@@ -38,28 +38,49 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: SpiritConverter-REDU-EN-ScR-1E.png
+  image: SpiritConverter-BLTR-EN-UR-1E.png
 sets:
   en:
   - set_number: REDU-EN099
     set_name: Return of the Duelist
     rarities:
     - Secret Rare
+  - set_number: BLTR-EN099
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   de:
   - set_number: REDU-DE099
     set_name: Return of the Duelist
     rarities:
     - Secret Rare
+  - set_number: BLTR-DE099
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: REDU-FR099
     set_name: Return of the Duelist
     rarities:
     - Secret Rare
+  - set_number: BLTR-FR099
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   it:
   - set_number: REDU-IT099
     set_name: Return of the Duelist
     rarities:
     - Secret Rare
+  - set_number: BLTR-IT099
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLTR-PT099
+    set_name: 'Battles of Legend: Terminal Revenge'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: VE07-JP005
     set_name: V Jump Edition 7
