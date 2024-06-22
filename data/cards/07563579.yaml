@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card no campo for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro "Camaramágico" da sua mão ou Deck, exceto "Camaramágico Plushfogo".
   ja: |-
-    ①：フィールドのこのカードが戦闘・効果で破壊された場合に発動できる。手札・デッキから「Ｅｍヒグルミ」以外の「Ｅｍ」モンスター１体を特殊召喚する。
+    このカード名のモンスター効果は１ターンに１度しか使用できない。①：フィールドのこのカードが戦闘・効果で破壊された場合に発動できる。手札・デッキから「Ｅｍヒグルミ」以外の「Ｅｍ」モンスター１体を特殊召喚する。
   ko: |-
     ①: 필드의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 패 / 덱에서 "Em(엔터메이지) 히구루미" 이외의 "Em(엔터메이지)" 몬스터 1장을 특수 소환한다.
   zh-TW: |-
@@ -55,7 +55,7 @@ pendulum_effect:
   pt: |-
     Se um ou mais monstros "Camaramágico" que você controla forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua Zona de Pêndulo e, depois, sofra 500 de dano. Você só pode usar este efeito de "Camaramágico Plushfogo" uma vez por turno.
   ja: |-
-    「Ｅｍヒグルミ」のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示の「Ｅｍ」モンスターが戦闘・効果で破壊された場合に発動できる。Ｐゾーンのこのカードを特殊召喚する。その後、自分は５００ダメージを受ける。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの表側表示の「Ｅｍ」モンスターが戦闘・効果で破壊された場合に発動できる。このカードを特殊召喚する。その後、自分は５００ダメージを受ける。
   ko: |-
     "Em(엔터메이지) 히구루미"의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 앞면 표시의 "Em(엔터메이지)" 몬스터가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다. 그 후, 자신은 500 데미지를 받는다.
   zh-TW: |-
@@ -101,6 +101,8 @@ sets:
   - set_number: AC04-JP054
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: DOCS-KR016
     set_name: Dimension of Chaos

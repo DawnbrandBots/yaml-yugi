@@ -27,7 +27,7 @@ text:
   pt: |-
     Você não é afetado pelos efeitos de "Mundo Translúcido". Se este card atacar um monstro do oponente, o ATK deste card se torna duas vezes o ATK do alvo do ataque, apenas durante o cálculo de dano. Se este card seria destruído por um efeito de card do oponente, em vez disso, você pode descartar 1 card.
   ja: |-
-    このカードがフィールド上に表側表示で存在する限り、このカードのコントローラーに「クリアー・ワールド」の効果は適用されない。このカードが相手モンスターに攻撃する場合、ダメージ計算時のみこのカードの攻撃力は攻撃対象モンスターの攻撃力の倍になる。このカードが相手のカードの効果によって破壊される場合、代わりに自分の手札を１枚捨てる事ができる。
+    ①：このカードがモンスターゾーンに存在する限り、自分に「クリアー・ワールド」の効果は適用されない。②：このカードの攻撃力は相手モンスターに攻撃するダメージ計算時のみ、その相手モンスターの攻撃力の倍になる。③：フィールドのこのカードが相手の効果で破壊される場合、代わりに自分の手札を１枚捨てる事ができる。
   ko: |-
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 이 카드의 컨트롤러에게 "클리어 월드"의 효과는 적용되지 않는다. 이 카드가 상대 몬스터를 공격했을 경우, 데미지 계산시에만 이 카드의 공격력은 공격 대상 몬스터의 공격력의 배가 된다. 이 카드가 상대 카드의 효과에 의해서 파괴될 경우, 대신에 자신의 패를 1장 버릴 수 있다.
   zh-TW: |-
@@ -83,9 +83,10 @@ sets:
     set_name: Limited Edition 15
     rarities:
     - Ultra Rare
-  - set_number: AC04-JP0??
+  - set_number: AC04-JP031
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
   ko:
   - set_number: PP05-KR018
     set_name: Premium Pack Vol.5

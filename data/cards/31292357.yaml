@@ -27,7 +27,7 @@ text:
   pt: |-
     Se 2 ou mais monstros estiverem no campo, você pode Invocar este card por Invocação-Especial (da sua mão). Quando um card ou efeito que causaria dano a você for ativado (Efeito Rápido): você pode colocar 1 Marcador Camaramágico neste card (máx. 3) e, depois, transforme em 0 esse efeito de dano a você. Quando o 3º Marcador Camaramágico for colocado neste card, seu ATK/DEF se tornam 3300.
   ja: |-
-    ①：フィールドにモンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。②：自分にダメージを与える魔法・罠・モンスターの効果が発動した時に発動できる。このカードにＥｍカウンターを１つ置く（最大３つまで）。その後、その効果で自分が受けるダメージを０にする。③：このカードにＥｍカウンターが３つ置かれた時にこのカードの攻撃力・守備力は３３００になる。
+    ①：フィールドにモンスターが２体以上存在する場合、このカードは手札から特殊召喚できる。②：自分にダメージを与える魔法・罠・モンスターの効果が発動した時に発動できる。このカードにＥｍカウンターを１つ置く（最大３つまで）。その後、その効果で自分が受けるダメージは０になる。③：このカードにＥｍカウンターが置かれ、そのＥｍカウンターが３つになった時に、このカードの攻撃力・守備力は３３００になる。
   ko: |-
     ①: 필드에 몬스터가 2장 이상 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 자신에게 데미지를 주는 마법 / 함정 / 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드에 Em(엔터메이지) 카운터를 1개 놓는다(최대 3개까지). 그 후, 그 효과로 자신이 받는 데미지를 0 으로 한다. ③: 이 카드에 Em(엔터메이지) 카운터가 3개 놓여졌을 때에 이 카드의 공격력 / 수비력은 3300 이 된다.
   zh-TW: |-
@@ -121,9 +121,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
-  - set_number: AC04-JP0??
+  - set_number: AC04-JP052
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
   ko:
   - set_number: CORE-KR017
     set_name: Clash of Rebellions

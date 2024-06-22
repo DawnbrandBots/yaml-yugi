@@ -34,7 +34,7 @@ text:
     Uma vez por turno: você pode desassociar 1 matéria deste card; Invoque por Invocação-Especial 1 Monstro Xyz de ÁGUA de Classe 3 ou menos do seu Deck Adicional. Este card não pode atacar pelo resto deste turno.
   ja: |-
     水属性レベル４モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。ＥＸデッキからランク３以下の水属性Ｘモンスター１体を特殊召喚する。このターン、このカードは攻撃できない。
+    ①：１ターンに１度、このカードのＸ素材を１つ取り除いて発動できる。ＥＸデッキからランク３以下の水属性Ｘモンスター１体を特殊召喚する。この効果の発動後、ターン終了時までこのカードは攻撃できない。
   ko: |-
     물 속성 레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 엑스트라 덱에서 랭크 3 이하의 물 속성 엑시즈 몬스터 1장을 특수 소환한다. 이 턴에, 이 카드는 공격할 수 없다.
@@ -153,6 +153,10 @@ sets:
     - Common
   - set_number: DP26-JP011
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  - set_number: AC04-JP041
+    set_name: Animation Chronicle 2024
     rarities:
     - Common
   ko:

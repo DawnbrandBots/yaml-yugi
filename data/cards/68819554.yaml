@@ -27,16 +27,13 @@ text:
   pt: |-
     Quando um card ou efeito que causaria dano a você for ativado (Efeito Rápido): você pode descartar este card; negue a ativação e, se isso acontecer, destrua esse card. Durante a Fase de Batalha (Efeito Rápido): você pode descartar este card; reduza a 0 o próximo dano de batalha que você sofreria neste turno. Você pode banir este card do seu Cemitério; adicione 1 monstro "Camaramágico" do seu Deck à sua mão, exceto "Camaramágico Malabarista Danoso". Você só pode usar este efeito de "Camaramágico Malabarista Danoso" uma vez por turno.
   ja: |-
-    「Ｅｍダメージ・ジャグラー」の③の効果は１ターンに１度しか使用できない。①：自分にダメージを与える魔法・罠・モンスターの効果が発動した時、このカードを手札から捨てて発動できる。その発動を無効にし破壊する。②：自分または相手のバトルフェイズにこのカードを手札から捨てて発動できる。このターン自分が受ける戦闘ダメージを１度だけ０にする。③：自分メインフェイズに墓地のこのカードを除外して発動できる。デッキから「Ｅｍダメージ・ジャグラー」以外の「Ｅｍ」モンスター１体を手札に加える。
+    このカード名の③の効果は１ターンに１度しか使用できない。①：自分にダメージを与える魔法・罠・モンスターの効果が発動した時、このカードを手札から捨てて発動できる。その発動を無効にし破壊する。②：自分・相手のバトルフェイズに、このカードを手札から捨てて発動できる。このターン、自分が受ける戦闘ダメージは１度だけ０になる。③：墓地のこのカードを除外して発動できる。デッキから「Ｅｍダメージ・ジャグラー」以外の「Ｅｍ」モンスター１体を手札に加える。
   ko: |-
     "Em(엔터메이지) 데미지 저글러"의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신에게 데미지를 주는 마법 / 함정 / 몬스터의 효과가 발동했을 때, 이 카드를 패에서 버리고 발동할 수 있다. 그 발동을 무효로 하고 파괴한다. ②: 자신 또는 상대의 배틀 페이즈에 이 카드를 패에서 버리고 발동할 수 있다. 이 턴에 자신이 받는 전투 데미지를 1번만 0 으로 한다. ③: 자신 메인 페이즈에 묘지의 이 카드를 제외하고 발동할 수 있다. 덱에서 "Em(엔터메이지) 데미지 저글러" 이외의 "Em(엔터메이지)" 몬스터 1장을 패에 넣는다.
   zh-TW: |-
     「娛樂巫師 傷害雜耍人」的③效果１回合僅限使用１次。①：在給予我方傷害的魔法・陷阱・怪獸的效果發動時，可從手牌捨棄此卡發動。將該發動變為無效進行破壞。②：在我方或對方的戰鬥階段，可從手牌捨棄此卡發動。此回合我方受到的戰鬥傷害僅限１次變為０。③：可在我方主要階段將墓地的此卡除外發動。從牌組將１隻「娛樂巫師 傷害雜耍人」以外的「娛樂巫師」怪獸加入手牌。
   zh-CN: |-
-    此卡名的③效果１回合仅可使用１次。
-    ①：给予自己伤害的魔法・陷阱・怪兽的效果发动时，从手牌将此卡舍弃可以发动。将该发动无效并破坏。
-    ②：在自己・对手的战斗阶段，从手牌将此卡舍弃可以发动。此回合仅１次，将自己受到的战斗伤害改成０。
-    ③：在自己的主要阶段将墓地的此卡除外可以发动。从牌组将“娱乐巫师・伤害杂耍人”以外的１只“娱乐巫师”怪兽加入手牌。
+    此卡名的③效果１回合仅可使用１次。①：给予自己伤害的魔法・陷阱・怪兽的效果发动时，从手牌将此卡舍弃可以发动。将该发动无效并破坏。②：在自己・对手的战斗阶段，从手牌将此卡舍弃可以发动。此回合仅１次，将自己受到的战斗伤害改成０。③：在自己的主要阶段将墓地的此卡除外可以发动。从牌组将“娱乐巫师・伤害杂耍人”以外的１只“娱乐巫师”怪兽加入手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: LIGHT
@@ -119,9 +116,10 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Common
-  - set_number: AC04-JP0??
+  - set_number: AC04-JP051
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
   ko:
   - set_number: CORE-KR015
     set_name: Clash of Rebellions

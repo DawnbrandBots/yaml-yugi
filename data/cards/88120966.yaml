@@ -34,7 +34,7 @@ text:
     Até duas vezes por turno, durante sua Fase Principal 1: você pode desassociar 1 matéria deste card e, depois, escolha 1 monstro Invocado por Invocação-Especial que seu oponente controla; destrua-o e, depois, se ele era um Monstro Xyz, cause dano ao seu oponente igual ao ATK original dele.
   ja: |-
     レベル８モンスター×２
-    ①：自分メインフェイズ１に、このカードのＸ素材を１つ取り除き、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを破壊する。破壊したモンスターがＸモンスターだった場合、さらにそのモンスターの元々の攻撃力分のダメージを相手に与える。この効果は１ターンに２度まで使用できる。
+    ①：１ターンに２度まで、自分メインフェイズ１に、このカードのＸ素材を１つ取り除き、相手フィールドの特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを破壊する。破壊したモンスターがＸモンスターだった場合、さらにそのモンスターの元々の攻撃力分のダメージを相手に与える。
   ko: |-
     레벨 8 몬스터 × 2
     ①: 자신 메인 페이즈 1 에, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 파괴한다. 파괴한 몬스터가 엑시즈 몬스터였을 경우, 추가로 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다. 이 효과는 1턴에 2번까지 사용할 수 있다.
@@ -126,9 +126,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
-  - set_number: AC04-JP0??
+  - set_number: AC04-JP046
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: CPZ1-KR019
     set_name: 'Collectors Pack: ZEXAL Version'

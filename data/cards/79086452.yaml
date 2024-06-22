@@ -27,7 +27,7 @@ text:
   pt: |-
     Você pode Invocar este card por Invocação-Especial (da sua mão) ao descartar 1 monstro "Engenhoca Marionete". Você pode banir este card do seu Cemitério; seu oponente não pode escolher monstros "Engenhoca Marionete" que você controla como alvo de efeitos de card neste turno.
   ja: |-
-    ①：このカードは手札の「ギミック・パペット」モンスター１体を捨てて、手札から特殊召喚できる。②：墓地のこのカードを除外して発動できる。このターン、自分フィールドの「ギミック・パペット」モンスターは相手の効果の対象にならない。
+    ①：このカードは手札の「ギミック・パペット」モンスター１体を捨てて、手札から特殊召喚できる。②：墓地のこのカードを除外して発動できる。このターン中、自分フィールドの「ギミック・パペット」モンスターを相手は効果の対象にできない。
   ko: |-
     ①: 이 카드는 패의 "기믹 퍼핏" 몬스터 1장을 버리고, 패에서 특수 소환할 수 있다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. 이 턴에, 자신 필드의 "기믹 퍼핏" 몬스터는 상대 효과의 대상이 되지 않는다.
   zh-TW: |-
@@ -98,9 +98,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Super Rare
-  - set_number: AC04-JP0??
+  - set_number: AC04-JP045
     set_name: Animation Chronicle 2024
     rarities:
+    - Common
   ko:
   - set_number: DP22-KR036
     set_name: 'Duelist Pack: Legend Duelist 5'
