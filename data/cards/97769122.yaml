@@ -12,7 +12,7 @@ name:
   ko: 바리언즈 카오스 드로우
   ko_rr: Barieonjeu Kaoseu Deurou
   zh-TW: 巴利安之混沌抽牌
-  zh-CN: 异晶人的混沌抽卡
+  zh-CN: 巴利安之混沌抽牌
 text:
   en: |-
     To activate this card, you must draw it for your normal draw in your Draw Phase, reveal it, and keep it revealed until Main Phase 1. During that Main Phase: You can activate 1 of these effects;
@@ -49,9 +49,9 @@ text:
     ●可從牌組將１張「七皇」通常魔法卡送至墓地發動。此效果變為與該魔法卡發動時的效果相同。
     ●從牌組將最多２隻怪獸的效果變為無效進行特殊召喚，以全部包含該怪獸在內的我方場上怪獸做為素材，超量召喚１隻「No.」超量怪獸。
   zh-CN: |-
-    ①：自己抽卡阶段通过把通常抽卡的这张卡持续公开，那个回合的主要阶段1，可以从以下效果选择1个发动。
-    ●从卡组把1张「七皇」通常魔法卡送去墓地才能发动。这个效果变成和那张魔法卡发动时的效果相同。
-    ●从卡组把最多2只怪兽效果无效特殊召唤，用包含那些怪兽全部在内的自己场上的怪兽为素材把1只「No.」超量怪兽超量召唤。
+    ①：在自己的抽牌阶段通过持续公开以通常抽牌抽到的此卡，在该回合的主要阶段１，可从以下效果中选择１个发动。
+    ●从牌组将１张“七皇”通常魔法卡送至墓地可以发动。此效果变为与该魔法卡发动时的效果相同。
+    ●从牌组将最多２只怪兽的效果无效并特殊召唤，将自己场上的怪兽（须包含该特殊召唤的全部怪兽）作为素材，进行１只“编号”超量怪兽的超量召唤。
 card_type: Spell
 property: Normal
 series:
@@ -94,6 +94,11 @@ sets:
   ko:
   - set_number: DP26-KR005
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: DP29-SC084
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Rare
 limit_regulation:
