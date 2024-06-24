@@ -1,6 +1,6 @@
 konami_id: 17215
 name:
-  en: Heavenly Rest
+  en: Heavenly Bliss
   de:
   es:
   fr:
@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    When a monster(s) on your field is destroyed by an opponent's attack or their card effect and you have no other monsters on your field.
+    When a monster(s) on your field is destroyed by an opponent's attack or their card effect while you have no other monsters on your field.
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Change 1 face-up monster on your opponent's field to face-down Defense Position. Then, if the original Level of the destroyed monster is 10, you can destroy 1 face-down card on your opponent's field.
+    Change 1 face-up monster on your opponent's field to face-down Defense Position. If the original Level of the destroyed monster was 10, you can destroy 1 face-down card on your opponent's field.
   de:
   es:
   fr:
@@ -46,7 +46,7 @@ series:
 - Heavenly
 images:
 - index: 1
-  image: HeavenlyRest-RDVSP1-JP-C.png
+  image: HeavenlyBliss-RDVSP1-JP-C.png
 sets:
   ja:
   - set_number: RD/GRP1-JP033
@@ -66,9 +66,4 @@ sets:
     set_name: Versus Pack Maximum Force
     rarities:
     - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 715272
