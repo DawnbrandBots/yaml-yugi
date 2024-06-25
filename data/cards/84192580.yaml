@@ -1,7 +1,7 @@
 konami_id: 20206
 password: 84192580
 name:
-  en: Multchummy Purulia
+  en: Mulcharmy Purulia
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN:
 text:
   en: |-
-    If you control no cards (Quick Effect): You can discard this card; apply these effects for the rest of this turn.
+    If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.
     ● Each time your opponent Normal or Special Summons a monster(s) from the hand, immediately draw 1 card.
-    ● During the End Phase, if you have more cards in your hand than the number of cards your opponent controls +6, shuffle random cards from your hand into the Deck equal to the difference.
-    You can only activate the effects of other "Multchummy" monsters once the turn you activate this effect.
+    ● Once, during the End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.
+    You can only activate 1 other "Mulcharmy" monster effect, the turn you activate this effect.
   de:
   es:
   fr:
@@ -36,11 +36,41 @@ level: 4
 atk: 100
 def: 600
 series:
-- Multchummy
+- Mulcharmy
 images:
 - index: 1
-  image: MultchummyPurulia-INFO-JP-R.png
+  image: MulcharmyPurulia-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP027
     set_name: The Infinite Forbidden
@@ -49,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1054656

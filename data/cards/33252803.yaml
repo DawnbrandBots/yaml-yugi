@@ -12,7 +12,7 @@ name:
   ko: <ruby>RUM<rt>랭크 업 매직</rt></ruby>－퀵 카오스
   ko_rr: Raengkeu Eop Maejik - Kwik Kaoseu
   zh-TW: 升階魔法－速攻混沌
-  zh-CN: 升阶魔法-速攻混沌
+  zh-CN: 升阶魔法－速攻混沌
 text:
   en: |-
     Target 1 "Number" Xyz Monster you control, except a "Number C" monster; Special Summon from your Extra Deck, 1 "Number C" monster with the same number in its name as that target, but 1 Rank higher, by using it as the Xyz Material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：可將我方場上的１隻「CNo.」怪獸以外的「No.」超量怪獸做為對象發動。從額外牌組將１隻階級比該我方怪獸高１，擁有相同「No.」數字的「CNo.」怪獸重疊至對象怪獸上方，視為超量召喚進行特殊召喚。
   zh-CN: |-
-    ①：以「混沌No.」怪兽以外的自己场上1只「No.」XYZ怪兽为对象才能发动。比那只自己怪兽阶级高1阶并持有相同「No.」数字的1只「混沌No.」怪兽在作为对象的怪兽上面重叠从额外卡组XYZ召唤。
+    ①：以“混沌编号”怪兽以外的、自己场上的１只“编号”超量怪兽为对象可以发动。从额外牌组将阶级比该自己怪兽高１的、拥有相同“编号”数字的１只“混沌编号”怪兽重叠在对象怪兽上面，视为超量召唤来特殊召唤。
 card_type: Spell
 property: Quick-Play
 series:
@@ -126,6 +126,11 @@ sets:
     - Secret Rare
   - set_number: DP26-KR015
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: DP29-SC101
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:
