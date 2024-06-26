@@ -42,8 +42,8 @@ text:
     等級２以下的「淘氣仙星」怪獸１隻
     此卡名的②效果，１回合僅限使用１次。①：可在此卡連結召喚成功的狀況下發動。對方從牌組抽１張牌。②：可在此卡連結指向的「淘氣仙星」怪獸因戰鬥・效果被破壞的狀況下發動。給予對方對方手牌的數量×２００的傷害。
   zh-CN: |-
-    等级2以下的“淘气仙星”怪兽1只
-    此卡名的②效果1回合仅可使用1次。①：此卡连接召唤成功的情况下可以发动。对手从牌组抽1张。②：此卡连接端的“淘气仙星”怪兽因战斗・效果被破坏的情况下可以发动。给予对手相当于对手手牌数量×200的伤害。
+    等级２以下的“淘气仙星”怪兽１只
+    此卡名的②效果１回合仅可使用１次。①：此卡连接召唤的情况下可以发动。对手抽１张。②：此卡连接端的表侧表示的“淘气仙星”怪兽因战斗・效果被破坏的情况下可以发动。给予对手相当于对手手牌数量×２００的伤害。
 card_type: Monster
 monster_type_line: Fairy / Link / Effect
 attribute: LIGHT
@@ -119,6 +119,10 @@ sets:
   zh-CN:
   - set_number: MGP2-SC021
     set_name: Mega Pack 02
+    rarities:
+    - Common
+  - set_number: DP29-SC052
+    set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
 limit_regulation:

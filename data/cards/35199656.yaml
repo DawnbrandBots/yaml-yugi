@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：可將手牌的此卡出示給對方，將我方場上的１隻「淘氣仙星 曼珠詩華」以外的「淘氣仙星」怪獸做為對象發動。特殊召喚此卡，將對象怪獸送回持有者的手牌。此效果在對方回合也可發動。②：只要此卡存在於怪獸區，每當對方的手牌加入卡時，就給予對方加入的卡的數量×２００的傷害。
   zh-CN: |-
-    ①：向对手出示手牌中的此卡，以自己场上的1只“淘气仙星・曼珠诗华”以外的“淘气仙星”怪兽为对象可以发动。将此卡特殊召唤，将对象怪兽放回持有者的手牌。此效果在对手回合中也可以发动。②：只要此卡存在于怪兽区域，对手手牌每次加入卡，给予对手相当于加入卡张数×200数值的伤害。
+    ①：在自己・对手回合中，向对手出示手牌中的此卡，以自己场上“淘气仙星・曼珠诗华”以外的１只“淘气仙星”怪兽为对象可以发动。将此卡特殊召唤，将对象怪兽放回手牌。②：只要此卡存在于怪兽区域，每当有卡加入对手的手牌，就给予对手相当于加入的卡的数量×２００的伤害。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: LIGHT
@@ -167,6 +167,11 @@ sets:
     set_name: Mega Pack 01
     rarities:
     - Common
+  - set_number: DP29-SC049
+    set_name: 'Duelist Pack: Duelists of Brilliance'
+    rarities:
+    - Common
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
