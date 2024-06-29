@@ -12,7 +12,7 @@ name:
   ko: 마돌체 엔젤리
   ko_rr:
   zh-TW: 魔法甜點 果凍天使
-  zh-CN: 魔偶甜点·果冻天使
+  zh-CN: 魔幻甜点・果冻天使
 text:
   en: |-
     You can Tribute this card; Special Summon 1 "Madolche" monster from your Deck, and if you do, it cannot be destroyed by battle, but shuffle it into the Deck during the End Phase of your next turn. You can only use this effect of "Madolche Anjelly" once per turn. If this card in your possession is destroyed by your opponent's card and sent to your GY: Shuffle this card into the Deck.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡名的①效果，１回合僅限使用１次。①：可解放此卡發動。從牌組特殊召喚１隻「魔法甜點」怪獸。透過此效果特殊召喚的怪獸不會因戰鬥被破壞，在下一個我方回合的結束階段將回到持有者的牌組。②：在此卡被對方破壞送至墓地的狀況下發動。將此卡送回牌組。
   zh-CN: |-
-    这个卡名的①的效果1回合只能使用1次。①：把这张卡解放才能发动。从卡组把1只「魔偶甜点」怪兽特殊召唤。这个效果特殊召唤的怪兽不会被战斗破坏，下次的自己回合的结束阶段回到持有者卡组。②：这张卡被对方破坏送去墓地的场合发动。这张卡回到卡组。
+    此卡名的①效果１回合仅可使用１次。
+    ①：解放此卡可以发动。从牌组将１只“魔幻甜点”怪兽特殊召唤。以此效果特殊召唤的怪兽不会因战斗被破坏，将在下个自己回合的结束阶段被放回牌组。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: EARTH
@@ -141,6 +143,13 @@ sets:
     - Common
   - set_number: QCCP-KR149
     set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC037
+    set_name: Secret Treasures Pack
     rarities:
     - Super Rare
     - Secret Rare

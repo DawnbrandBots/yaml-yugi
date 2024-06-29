@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：從我方牌組選擇２張卡名不同的場地魔法卡，將其中１張覆蓋在我方場上，另１張覆蓋在對方場上。只要透過此效果覆蓋的任一張卡被覆蓋在場地區，雙方就無法發動・覆蓋其他的場地魔法卡。
   zh-CN: |-
-    ①：从自己的牌组挑选2张卡名不同的场地魔法卡。将其中1张放置在自己场上，另1张放置在对手场上。只要有以此效果放置的卡被放置在场地区域，双方不可发动・放置其他的场地魔法卡。
+    ①：从牌组挑选２张卡名不同的场地魔法卡，将其中１张放置在自己场上，另１张放置在对手场上。只要有以此效果放置的卡仍被放置在场地区域，双方不可发动・放置其他的场地魔法卡。
 card_type: Spell
 property: Quick-Play
 images:
@@ -176,6 +176,12 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Common
+  - set_number: BB01-SC139
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Limited
   ocg: Limited

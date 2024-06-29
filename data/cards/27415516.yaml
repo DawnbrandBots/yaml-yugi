@@ -12,7 +12,7 @@ name:
   ko: 수정룡－스트림
   ko_rr:
   zh-TW: 水征龍－川流
-  zh-CN: 水征龙-流龙
+  zh-CN: 水征龙－川流
 text:
   en: |-
     You can discard this card AND 1 Dragon-Type or WATER monster; Special Summon 1 "Tidal, Dragon Ruler of Waterfalls" from your Deck. It cannot attack this turn. You can only use the effect of "Stream, Dragon Ruler of Droplets" once per turn.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     可将1只龙族或水属性怪兽与此卡从手牌舍弃并发动。从牌组特殊召唤1只「瀑征龍－潮汐」。以此效果特殊召唤的怪兽此回合不可攻击。「水征龍－川流」的效果1回合只可使用1次。
   zh-CN: |-
-    把1只　龙族　或者水属性的怪兽和这张卡从手卡丢弃才能发动。从卡组把1只「瀑征龙-潮龙」特殊召唤。这个效果特殊召唤的怪兽在这个回合不能攻击。「水征龙-流龙」的效果1回合只能使用1次。
+    此卡名的效果１回合仅可使用１次。
+    ①：从手牌将１只龙族或水属性的怪兽与此卡舍弃可以发动。从牌组将１只“瀑征龙－狂潮”特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: WATER
@@ -84,6 +85,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC094
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC096
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

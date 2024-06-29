@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡名的卡１回合僅限發動１張。①：可宣言１個卡名發動。將１張宣言的卡從牌組除外。在回合結束前，透過此效果除外的卡及與該卡原本的卡名相同的卡的效果無效化。
   zh-CN: |-
-    此卡名的卡１回合仅可发动１张。①：宣言１个卡名可以发动。将１张宣言的卡从牌组除外。直至回合结束时为止，以此效果除外的卡及与该卡原本卡名相同的卡之效果均被无效化。
+    此卡名的卡１回合仅可发动１张。
+    ①：宣言１个卡名可以发动。将１张宣言的卡从牌组除外。此回合中，以此效果除外的卡及与该卡原本卡名相同的卡的效果均被无效化。
 card_type: Spell
 property: Quick-Play
 series:
@@ -203,6 +204,11 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Common
+  - set_number: BB01-SC140
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Limited

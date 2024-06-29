@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     我方场上以表侧表示存在的冠有「炎王」之名的怪兽因卡牌效果被破坏的场合，可从手牌特殊召唤此卡。此外，此卡因卡牌效果被破坏并送入墓地的场合，下一个准备阶段时发动。从牌组将1张除「炎王獸 巴隆」以外的冠有「炎王」之名的卡牌加入手牌。
   zh-CN: |-
-    自己场上表侧表示存在的名字带有「炎王」的怪兽被卡的效果破坏的场合，这张卡可以从手卡特殊召唤。此外，这张卡被卡的效果破坏送去墓地的场合，下次的准备阶段时发动。从卡组把「炎王兽 巴隆」以外的1张名字带有「炎王」的卡加入手卡。
+    ①：自己场上的表侧表示“炎王”怪兽因效果被破坏的情况下可以发动。从手牌将此卡特殊召唤。
+    ②：此卡因效果被破坏并被送至墓地的情况下，在下个准备阶段发动。从牌组将“炎王兽 巴隆”以外的１张“炎王”卡加入手牌。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: FIRE
@@ -115,6 +116,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BB01-SC011
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

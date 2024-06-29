@@ -12,7 +12,7 @@ name:
   ko: 사일렌스 씨네틀
   ko_rr: Sailleonseu Ssineteul
   zh-TW: 寂靜海刺水母
-  zh-CN: 寂静海刺水母
+  zh-CN: 寂静海刺
 text:
   en: |-
     If you control a WATER monster: You can Special Summon this card from your hand. You cannot Special Summon monsters, except WATER monsters, the turn you activate this effect. You can banish this card from your GY, then target up to 3 WATER monsters in your GY; shuffle them into the Deck. You can only use each effect of "Silent Sea Nettle" once per turn.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡名的①②效果，１回合各僅限使用１次。①：可在我方場上存在水屬性怪獸的狀況下發動。從手牌特殊召喚此卡。發動此效果的回合，我方僅限特殊召喚水屬性怪獸。②：將墓地的此卡除外，可將我方墓地的最多３隻水屬性怪獸做為對象發動。將該怪獸送回牌組。
   zh-CN: |-
-    这个卡名的①②效果1回合各能使用1次。①：自己场上有水属性怪兽存在的场合可以发动。将这张卡从手牌特殊召唤。这个效果发动的回合，自己特殊召唤的只能是水属性怪兽。②：可以将墓地的这张卡除外，以自己墓地的最多3只水属性怪兽为对象发动。使那些怪兽返回卡组。
+    此卡名的①②效果１回合仅可各使用１次。
+    ①：自己场上存在水属性怪兽的情况下可以发动（发动此效果的回合中，自己仅可特殊召唤水属性怪兽）。从手牌将此卡特殊召唤。
+    ②：将墓地的此卡除外，以自己墓地的最多３只水属性怪兽为对象可以发动。将该怪兽放回牌组。
 card_type: Monster
 monster_type_line: Aqua / Effect
 attribute: WATER
@@ -81,6 +83,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: BB01-SC101
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -12,7 +12,7 @@ name:
   ko: 마돌체 티브레이크
   ko_rr:
   zh-TW: 魔法甜點茶歇
-  zh-CN: 魔偶甜点茶休
+  zh-CN: 魔幻甜点・茶歇
 text:
   en: |-
     When a Spell/Trap Card is activated, if you have no monsters in your Graveyard: Negate the activation, and if you do, return it to the hand, then, if you control a face-up "Madolche Puddingcess", you can destroy 1 card your opponent controls.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方墓地不存在怪兽的场合可发动。使魔法、陷阱卡发动无效，并将该卡返回至持有者的手牌。我方场上存在「魔法甜點 布丁公主」的场合，可另挑选对手场上的1张卡牌破坏。
   zh-CN: |-
-    自己墓地没有怪兽存在的场合才能发动。魔法·陷阱卡的发动无效，那张卡回到持有者手卡。自己场上有「魔偶甜点·布丁公主」存在的场合，可以再选对方场上1张卡破坏。
+    ①：自己的墓地不存在怪兽，且魔法・陷阱卡发动时可以发动。将该发动无效，将该卡放回手牌。自己场上存在“魔幻甜点・布丁公主”的情况下，进而可将对手场上的１张卡破坏。
 card_type: Trap
 property: Counter
 series:
@@ -75,6 +75,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC072
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC048
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

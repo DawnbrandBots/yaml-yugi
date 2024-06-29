@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     我方场上以表侧表示存在的冠有「炎王」之名的怪兽因卡牌效果被破坏的场合，可从手牌特殊召唤此卡。此外，此卡被破坏并送入墓地的场合，可挑选我方手牌、场上的1张卡牌破坏。「炎王獸 夜叉」的此效果1回合只可使用1次。
   zh-CN: |-
-    自己场上表侧表示存在的名字带有「炎王」的怪兽被卡的效果破坏的场合，这张卡可以从手卡特殊召唤。此外，这张卡被破坏送去墓地的场合，可以选自己的手卡·场上1张卡破坏。「炎王兽 夜叉」的这个效果1回合只能使用1次。
+    此卡名的②效果１回合仅可使用１次。
+    ①：自己场上的表侧表示“炎王”怪兽因效果被破坏的情况下可以发动。从手牌将此卡特殊召唤。
+    ②：此卡被破坏并被送至墓地的情况下可以发动。将自己的手牌・场上的１张卡破坏。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: FIRE
@@ -135,6 +137,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BB01-SC013
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

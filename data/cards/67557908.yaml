@@ -12,7 +12,7 @@ name:
   ko: No.4 맹독자포 스텔스 크라겐
   ko_rr: Neombeojeu Sa Maengdokjapo Seuteolseu Keuragen
   zh-TW: No.4 猛毒刺胞隱形水母怪
-  zh-CN: No.4 猛毒刺胞 隐形水母怪
+  zh-CN: 编号4 剧毒刺胞 隐形蜇拉肯
 text:
   en: |-
     2 Level 4 WATER monsters
@@ -42,8 +42,10 @@ text:
     水屬性等級４怪獸×２
     ①：場上正面表示的怪獸變為水屬性。②：１回合１次，可在我方・對方主要階段發動。可選擇１隻對方場上的水屬性怪獸破壞，給予對方該攻擊力數值一半的傷害。③：可在超量召喚的此卡被破壞的狀況下發動。以此卡擁有的超量素材數量為限，從額外牌組特殊召喚「隱形水母怪碟狀幼體」。另外，該特殊召喚的怪獸可各從我方墓地選擇最多１隻水屬性怪獸作為該怪獸的超量素材。
   zh-CN: |-
-    水属性等级4怪兽×2
-    ①：场上的表侧表示怪兽变为水属性。②：1回合1次，自己或对手的主要阶段可以发动。选对手场上的1只水属性怪兽破坏，给予对手其攻击力的一半数值的伤害。③：多维召唤的这张卡被破坏的场合可以发动。从额外卡组将最多为这张卡拥有的多维素材的数量的「ステルス・クラーゲン・エフィラ／隐形水母怪 碟状幼体」特殊召唤。接着可以从自己的墓地选各最多1只的水属性怪兽作为那些特殊召唤的怪兽的各自的多维素材。
+    水属性等级４怪兽×２
+    ①：场上的表侧表示怪兽变为水属性。
+    ②：１回合１次，在自己・对手的主要阶段可以发动。将对手场上的１只水属性怪兽破坏，给予对手相当于其攻击力一半数值的伤害。
+    ③：超量召唤的此卡被破坏的情况下可以发动。从额外牌组将“隐形蜇拉肯・碟状幼体”特殊召唤，数量最多为此卡原先持有的超量素材的数量。进而该特殊召唤的怪兽可各从自己的墓地将最多１只水属性怪兽作为其超量素材。
 card_type: Monster
 monster_type_line: Aqua / Xyz / Effect
 attribute: WATER
@@ -102,6 +104,14 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC117
+    set_name: Secret Treasures Pack
+    rarities:
+    - Ultra Rare
+    - Collector's Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

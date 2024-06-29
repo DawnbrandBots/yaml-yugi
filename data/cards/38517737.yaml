@@ -33,7 +33,11 @@ text:
   zh-TW: |-
     此卡無法通常召喚。可在將手牌的１隻「青眼白龍」出示給對方的狀況下特殊召喚。「青眼亞白龍」透過此方法的特殊召喚，１回合僅限１次。①：只要此卡存在於場上・墓地，卡名就視為「青眼白龍」。②：１回合１次，可將對方場上的１隻怪獸做為對象發動。破壞該怪獸。發動此效果的回合，此卡無法攻擊。
   zh-CN: |-
-    此卡不可通常召唤。将手牌的1只“青眼白龙”出示给对手的情况下可以特殊召唤。“青眼亚白龙”以此方法的特殊召唤1回合仅可进行1次。①：此卡只要存在于场上・墓地，卡名视为“青眼白龙”。②：1回合1次，以对手场上的1只怪兽为对象可以发动。将该怪兽破坏。发动此效果的回合中，此卡不可攻击。
+    此卡不可通常召唤。
+    将手牌的１只“青眼白龙”出示给对手的情况下可以特殊召唤。
+    “青眼亚白龙”以此方法的特殊召唤１回合仅可进行１次。
+    ①：此卡只要存在于场上・墓地，卡名视为“青眼白龙”。
+    ②：１回合１次，以对手场上的１只怪兽为对象可以发动（发动此效果的回合中，此卡不可攻击）。将该怪兽破坏。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: LIGHT
@@ -289,6 +293,12 @@ sets:
     set_name: Rarity Collection 20th Anniversary Edition
     rarities:
     - Holographic Rare
+  - set_number: BB01-SC006
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -12,7 +12,7 @@ name:
   ko: 마돌체 마멀메이드
   ko_rr:
   zh-TW: 魔法甜點 橘子醬女僕
-  zh-CN: 魔偶甜点·橘子酱女仆
+  zh-CN: 魔幻甜点・柑橘酱女仆
 text:
   en: |-
     When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. When this card is flipped face-up: You can target 1 "Madolche" Spell/Trap Card in your Graveyard; add that target to your hand.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡因对手被破坏并送入墓地时，此卡返回至牌组。此卡反转时，可从我方墓地选择1张冠有「魔法甜點」之名的魔法、陷阱卡加入手牌。
   zh-CN: |-
-    这张卡被对方破坏送去墓地时，这张卡回到卡组。这张卡反转时，可以选择自己墓地1张名字带有「魔偶甜点」的魔法·陷阱卡加入手卡。
+    ①：此卡反转时，以自己墓地的１张“魔幻甜点”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: EARTH
@@ -79,6 +80,11 @@ sets:
   zh-TW:
   - set_number: ABYR-TC026
     set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC033
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

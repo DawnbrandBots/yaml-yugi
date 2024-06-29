@@ -12,7 +12,7 @@ name:
   ko: 공명의 날개 가루라
   ko_rr:
   zh-TW: 共命之翼 迦樓拉
-  zh-CN: 双生之翼 迦楼拉
+  zh-CN: 共命之翼 迦楼拉
 text:
   en: |-
     2 monsters with the same Type and Attribute, but different names
@@ -42,8 +42,10 @@ text:
     相同種族・屬性卡名不同的怪獸×２
     此卡名的②效果，１回合僅限使用１次。①：與此卡戰鬥時，對對方造成的戰鬥傷害加倍。②：可在此卡被送至墓地的狀況下發動。我方從牌組抽１張牌。
   zh-CN: |-
-    属性·种族相同、卡名不同的怪兽2只
-    这张卡的战斗发生的对对方的战斗伤害变成2倍。这张卡被送去墓地的场合：可以从卡组抽1张。「双生之翼 迦楼拉」的这个效果1回合只能使用1次。
+    种族・属性相同、卡名不同的怪兽×２
+    此卡名的②效果１回合仅可使用１次。
+    ①：因此卡的战斗对对手造成的战斗伤害变为两倍。
+    ②：此卡被送至墓地的情况下可以发动。自己抽１张。
 card_type: Monster
 monster_type_line: Winged Beast / Fusion / Effect
 attribute: DARK
@@ -166,6 +168,14 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC108
+    set_name: Secret Treasures Pack
+    rarities:
+    - Ultra Rare
+    - Collector's Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

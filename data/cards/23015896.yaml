@@ -12,7 +12,7 @@ name:
   ko: 염왕신수 가루도닉스
   ko_rr:
   zh-TW: 炎王神獸 迦樓羅不死鳥
-  zh-CN: 炎王神兽 大鹏不死鸟
+  zh-CN: 炎王神兽 迦楼多尼克斯
 text:
   en: |-
     Once per turn, during the next Standby Phase after this card was destroyed by card effect and sent to the GY: Special Summon this card from the GY. If you do: Destroy all other monsters on the field. When this card is destroyed by battle and sent to the GY: You can Special Summon 1 "Fire King" monster from your Deck, except "Fire King High Avatar Garunix".
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡因卡牌效果被破坏并送入墓地的场合，下一个准备阶段时从墓地特殊召唤此卡。以此效果特殊召唤成功时，破坏除此卡以外的场上的全部怪兽。此外，此卡因战斗被破坏并送入墓地时，可从牌组特殊召唤1只除「炎王神獸 迦樓羅不死鳥」以外的冠有「炎王」之名的怪兽。
   zh-CN: |-
-    这张卡被卡的效果破坏送去墓地的场合，下次的准备阶段时这张卡从墓地特殊召唤。这个效果特殊召唤成功时，这张卡以外的场上的怪兽全部破坏。此外，这张卡被战斗破坏送去墓地时，可以从卡组把「炎王神兽 大鹏不死鸟」以外的1只名字带有「炎王」的怪兽特殊召唤。
+    ①：此卡因效果被破坏并被送至墓地的情况下，在下个准备阶段发动。从墓地将此卡特殊召唤。
+    ②：以此卡的①效果特殊召唤的情况下发动。将场上的其他怪兽全部破坏。
+    ③：此卡因战斗被破坏并被送至墓地时可以发动。从牌组将“炎王神兽 迦楼多尼克斯”以外的１只“炎王”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: FIRE
@@ -116,6 +118,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: BB01-SC010
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

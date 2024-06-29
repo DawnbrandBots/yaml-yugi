@@ -42,8 +42,10 @@ text:
     等級４怪獸×２
     此卡名的①②效果，１回合各僅限使用１次。①：可去除此卡的１個超量素材發動。從我方牌組上方將３張卡送至墓地。在其中有「光道」卡的狀況下，我方依其數量從牌組抽牌。②：可在此卡因戰鬥或對方的效果被破壞的狀況下發動。從我方牌組上方將３張卡送至墓地。在其中有「光道」卡的狀況下，可依其數量選擇場上的卡進行破壞。
   zh-CN: |-
-    4星怪兽×2
-    「光道圣女 密涅瓦」的①②的效果1回合各能使用1次。①：把这张卡1个XYZ素材取除才能发动。从自己卡组上面把3张卡送去墓地。那之中有「光道」卡的场合，自己从卡组抽出那个数量。②：这张卡被战斗或者对方的效果破坏的场合才能发动。从自己卡组上面把3张卡送去墓地。那之中有「光道」卡的场合，可以选最多有那个数量的场上的卡破坏。
+    等级４怪兽×２
+    此卡名的①②效果１回合仅可各使用１次。
+    ①：去除此卡的１个超量素材可以发动。从自己的牌组上面将３张卡送至墓地。其中有“光道”卡的情况下，进而自己依其数量抽牌。
+    ②：此卡因战斗或对手的效果被破坏的情况下可以发动。从自己的牌组上面将３张卡送至墓地。其中有“光道”卡的情况下，进而可将场上的卡破坏，数量最多为其中“光道”卡的数量。
 card_type: Monster
 monster_type_line: Fairy / Xyz / Effect
 attribute: LIGHT
@@ -137,6 +139,14 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+    - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC077
+    set_name: Secret Treasures Pack
+    rarities:
+    - Ultra Rare
+    - Collector's Rare
+    - Secret Rare
     - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited

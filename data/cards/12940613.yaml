@@ -12,7 +12,7 @@ name:
   ko: 마돌체 매너
   ko_rr:
   zh-TW: 魔法甜點禮儀
-  zh-CN: 魔偶甜点礼仪
+  zh-CN: 魔幻甜点・礼仪
 text:
   en: |-
     Target 1 "Madolche" monster in your Graveyard; shuffle that target into the Deck, and if you do, all "Madolche" monsters you currently control gain 800 ATK and DEF, then you can shuffle 1 other monster from your Graveyard into the Deck.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     选择我方墓地的1只冠有「魔法甜點」之名的怪兽返回至牌组，并上升存在于我方场上的全部冠有「魔法甜點」之名怪兽的攻击力、守备力800点。之后，可从我方墓地挑选1只怪兽返回至牌组。
   zh-CN: |-
-    选择自己墓地1只名字带有「魔偶甜点」的怪兽回到卡组，自己场上存在的全部名字带有「魔偶甜点」的怪兽的攻击力·守备力上升800。那之后，可以选自己墓地1只怪兽回到卡组。
+    ①：以自己墓地的１只“魔幻甜点”怪兽为对象可以发动。将该怪兽放回牌组，自己场上的所有“魔幻甜点”怪兽的攻击力・守备力上升８００。然后，可将自己墓地的１只怪兽放回牌组。
 card_type: Trap
 property: Normal
 series:
@@ -75,6 +75,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC070
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC046
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：在我方墓地不存在卡的狀況下，可從手牌將此卡送至墓地發動。在下一個回合結束前，被送至墓地的卡將不前往墓地，而是被除外。此效果在對方回合也可發動。
   zh-CN: |-
-    ①：自己的墓地不存在卡的情况下，从手牌将此卡送至墓地可以发动。直至下个回合结束时为止，被送往墓地的卡不去墓地而直接被除外。此效果在对手回合中也可以发动。
+    ①：在自己・对手回合中，自己的墓地不存在卡的情况下，从手牌将此卡送至墓地可以发动。直至下个回合结束时为止，被送往墓地的卡不去墓地而直接被除外。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -213,6 +213,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: BB01-SC100
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Semi-Limited

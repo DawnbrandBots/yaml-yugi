@@ -12,7 +12,7 @@ name:
   ko: 마돌체 나이츠
   ko_rr:
   zh-TW: 魔法甜點・人偶之夜
-  zh-CN: 魔导人偶之夜
+  zh-CN: 魔幻甜点玩偶之夜
 text:
   en: |-
     When a monster effect is activated, if you have no monsters in your GY: Negate the activation, then if you control "Madolche Puddingcess", shuffle 1 random card from your opponent's hand into the Deck.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方墓地不存在怪兽的场合可发动。使效果怪兽的效果发动无效。我方场上存在「魔法甜點 布丁公主」的场合，进一步随机将对手的1张手牌返回至牌组。
   zh-CN: |-
-    魔偶甜点名：自己墓地没有怪兽存在的场合才能发动。效果怪兽的效果的发动无效。自己场上有「魔偶甜点·布丁公主」存在的场合，再让对方手卡随机1张回到卡组。
+    ①：自己的墓地不存在怪兽，且怪兽的效果发动时可以发动。将该发动无效。自己场上存在“魔幻甜点・布丁公主”的情况下，进而随机将对手的１张手牌放回牌组。
 card_type: Trap
 property: Counter
 series:
@@ -120,6 +120,11 @@ sets:
   zh-TW:
   - set_number: LTGY-TC076
     set_name: Lord of the Tachyon Galaxy
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC050
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

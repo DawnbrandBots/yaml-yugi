@@ -12,7 +12,7 @@ name:
   ko: 염왕수 가네샤
   ko_rr:
   zh-TW: 炎王獸 象頭神
-  zh-CN: 炎王兽 甘尼许
+  zh-CN: 炎王兽 伽内什
 text:
   en: |-
     When a monster effect is activated while this monster is on the field (Quick Effect): You can negate the activation, and if you do, destroy 1 other FIRE monster in your hand or face-up field. If this card is destroyed and sent to the GY: You can target 1 FIRE Beast, Beast-Warrior, or Winged Beast monster in your GY, except "Fire King Avatar Arvata"; Special Summon it, but negate its effects, also destroy it during the End Phase. You can only use each effect of "Fire King Avatar Arvata" once per turn.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡名的①②效果，１回合各僅限使用１次。①：可在此卡存在於場上，怪獸效果發動時發動。將該發動變為無效，選擇我方手牌・場上的１隻此卡以外的炎屬性怪獸破壞。②：在此卡被破壞送至墓地的狀況下，可將我方墓地的１隻「炎王獸 象頭神」以外的炎屬性的獸族・獸戰士族・鳥獸族怪獸做為對象發動。特殊召喚該怪獸。該特殊召喚的怪獸的效果無效化，在結束階段將被破壞。
   zh-CN: |-
-    这个卡名的①②的效果1回合各能使用1次。①：这张卡在场上存在，怪兽的效果发动时才能发动。那个发动无效，选这张卡以外的自己的手卡·场上1只炎属性怪兽破坏。②：这张卡被破坏送去墓地的场合，以「炎王兽 甘尼许」以外的自己墓地1只炎属性的兽族·兽战士族·鸟兽族怪兽为对象才能发动。那只怪兽特殊召唤。那只特殊召唤的怪兽的效果无效化，结束阶段破坏。
+    此卡名的①②效果１回合仅可各使用１次。
+    ①：此卡存在于怪兽区域，且怪兽的效果发动时可以发动。将该发动无效，将自己的手牌・场上（表侧表示）此卡以外的１只炎属性怪兽破坏。
+    ②：此卡被破坏并被送至墓地的情况下，以“炎王兽 伽内什”以外的、自己墓地的１只兽族・兽战士族・鸟兽族的炎属性怪兽为对象可以发动。将该怪兽特殊召唤。该怪兽的效果无效化，将在结束阶段被破坏。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: FIRE
@@ -132,6 +134,13 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC015
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

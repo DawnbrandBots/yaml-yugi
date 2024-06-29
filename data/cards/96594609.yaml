@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     我方场上以表侧表示存在的冠有「炎王」之名的怪兽因卡牌效果被破坏的场合，可从手牌特殊召唤此卡。此外，此卡被破坏并送入墓地的场合，可从牌组将1只炎属性怪兽送入墓地。
   zh-CN: |-
-    自己场上表侧表示存在的名字带有「炎王」的怪兽被卡的效果破坏的场合，这张卡可以从手卡特殊召唤。此外，这张卡被破坏送去墓地的场合，可以从卡组把1只炎属性怪兽送去墓地。
+    ①：自己场上的表侧表示“炎王”怪兽因效果被破坏的情况下可以发动。从手牌将此卡特殊召唤。
+    ②：此卡被破坏并被送至墓地的情况下可以发动。从牌组将１只炎属性怪兽送至墓地。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: FIRE
@@ -113,6 +114,11 @@ sets:
   zh-TW:
   - set_number: SD24-TC004
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC012
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

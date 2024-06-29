@@ -12,7 +12,7 @@ name:
   ko: 샐러맨그레이트 위젤
   ko_rr: Saelleomaen-geureiteu Wijel
   zh-TW: 轉生炎獸 鼬鼠
-  zh-CN: 转生炎兽 黄鼬
+  zh-CN: 转生炎兽 黄鼠狼
 text:
   en: |-
     If you have 2 or more "Salamangreat" monsters in your GY: You can Special Summon this card from your hand. If a "Salamangreat" Ritual, Fusion, Synchro, Xyz, or Link Monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can target 1 other "Salamangreat" monster in your GY; place this card on the bottom of your Deck, and if you do, Special Summon that monster to your opponent's field, then draw 1 card. You can only use each effect of "Salamangreat Weasel" once per turn.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡名的①②效果，１回合各僅限使用１次。 ①：可在我方墓地的「轉生炎獸」怪獸為２隻以上的狀況下發動。從手牌特殊召喚此卡。 ②：此卡存在於墓地的狀態，在「轉生炎獸」儀式・融合・同步・超量・連結怪獸被特殊召喚至我方場上的狀況下，可將我方墓地的１隻此卡以外的「轉生炎獸」怪獸做為對象。將此卡送回牌組的最下方，特殊召喚對象怪獸至對方場上。其後，我方抽１張牌。
   zh-CN: |-
-    这个卡名的①②效果1回合各能使用1次。①：自己墓地的「サラマングレイト／转生炎兽」怪兽为2只以上的场合可以发动。将这张卡从手牌特殊召唤。②：这张卡在墓地存在的状态下，自己场上有「サラマングレイト／转生炎兽」仪式·融合·同调·多维·链接怪兽特殊召唤的场合，可以以这张卡以外的自己墓地的1只「サラマングレイト／转生炎兽」怪兽为对象发动。这张卡返回卡组最下面，将对象怪兽特殊召唤到对手的场上。那之后，自己抽1张。
+    此卡名的①②效果１回合仅可各使用１次。
+    ①：自己墓地的“转生炎兽”怪兽为２只以上的情况下可以发动。从手牌将此卡特殊召唤。
+    ②：此卡存在于墓地的状态下，有“转生炎兽”仪式・融合・同步・超量・连接怪兽被特殊召唤至自己场上的情况下，以自己墓地此卡以外的１只“转生炎兽”怪兽为对象可以发动。将此卡放回牌组最下面，将对象怪兽特殊召唤至对手场上。然后，自己抽１张。
 card_type: Monster
 monster_type_line: Cyberse / Tuner / Effect
 attribute: FIRE
@@ -83,6 +85,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC081
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

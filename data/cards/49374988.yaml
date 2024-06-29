@@ -12,7 +12,7 @@ name:
   ko: 마돌체 메이플
   ko_rr:
   zh-TW: 魔法甜點 楓糖漿羊
-  zh-CN: 魔偶甜点·枫糖浆绵羊
+  zh-CN: 魔幻甜点・枫糖咩咩
 text:
   en: |-
     If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Shuffle this card into your Deck. Once per turn: You can target 1 Attack Position "Madolche" monster you control and 1 face-up Attack Position monster your opponent controls; if both monsters are still on the field, change them to face-up Defense Position, and if you do, the ones changed by this effect cannot have their battle positions changed until the end of your opponent's next turn.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡因对手被破坏并送入墓地时，此卡返回至牌组。1回合1次，可选择我方场上的1只冠有「魔法甜點」之名并以表侧攻击表示存在的怪兽，以及对手场上的1只以表侧攻击表示存在的怪兽并发动。将被选择的2只怪兽变为表侧守备表示，直至下一个对手回合结束时，被选择怪兽不可变更表示形式。
   zh-CN: |-
-    这张卡被对方破坏送去墓地时，这张卡回到卡组。1回合1次，选择自己场上表侧攻击表示存在的1只名字带有「魔偶甜点」的怪兽和对方场上表侧攻击表示存在的1只怪兽才能发动。选择的2只怪兽变成表侧守备表示，直到下次的对方回合结束时，选择的怪兽不能把表示形式变更。
+    ①：１回合１次，以自己场上的１只攻击表示的“魔幻甜点”怪兽和对手场上的１只攻击表示的怪兽为对象可以发动。将该２只怪兽改成表侧守备表示，直至下个对手回合结束时为止，该怪兽不可变更表示形式。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -129,6 +130,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC022
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC027
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

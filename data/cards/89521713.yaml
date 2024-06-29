@@ -12,7 +12,7 @@ name:
   ko: 마돌체 크로완상
   ko_rr:
   zh-TW: 魔法甜點 可頌麵包狗
-  zh-CN: 魔偶甜点·牛角面包狗
+  zh-CN: 魔幻甜点・可颂汪汪
 text:
   en: |-
     When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn: You can target 1 face-up "Madolche" card you control, except this card; return it to the hand, and if you do, increase this card's Level by 1 and ATK by 300.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡因对手被破坏并送入墓地时，此卡返回至牌组。此外，1回合1次，可选择我方场上1张除此卡以外冠有「魔法甜點」之名的卡牌并发动。被选择的卡牌返回至手牌，此卡的等级上升1级，攻击力上升300点。
   zh-CN: |-
-    这张卡被对方破坏送去墓地时，这张卡回到卡组。此外，1回合1次，选择这张卡以外的自己场上1张名字带有「魔偶甜点」的卡才能发动。选择的卡回到手卡，这张卡的等级上升1星，攻击力上升300。
+    ①：１回合１次，以自己场上１张其他的“魔幻甜点”卡为对象可以发动。将该卡放回手牌，此卡的等级上升１，攻击力上升３００。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -79,6 +80,11 @@ sets:
   zh-TW:
   - set_number: ABYR-TC025
     set_name: Abyss Rising
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC032
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 앤틱 기어 프레임
   ko_rr:
   zh-TW: 古代機械齒輪模型
-  zh-CN: 古代的机械素体
+  zh-CN: 古代机械齿轮素体
 text:
   en: |-
     You can discard 1 card; add 1 "Ancient Gear Golem", or 1 Spell/Trap that specifically lists the card "Ancient Gear Golem" in its text, from your Deck to your hand. You can only use this effect of "Ancient Gear Frame" once per turn. If this card attacks, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon up to 3 "Ancient Gear Golem" and/or "Ancient Gear Golem - Ultimate Pound" from your hand, ignoring their Summoning conditions.
@@ -33,10 +33,10 @@ text:
   zh-TW: |-
     此卡名的①效果，１回合僅限使用１次。①：可捨棄１張手牌發動。從牌組將１隻「古代機械齒輪巨人」或１張寫有「古代機械齒輪巨人」卡名的魔法・陷阱卡加入手牌。②：在此卡攻擊的狀況下，對方在傷害步驟結束前無法發動魔法・陷阱卡。③：可在正面表示的此卡因對方的效果從場上離開的狀況下發動。忽略召喚條件從手牌特殊召喚合計最多３隻「古代機械齒輪巨人」、「古代機械齒輪巨人－究極重拳」。
   zh-CN: |-
-    这个卡名的①的效果1回合只能使用1次。
-    ①：丢弃1张手卡才能发动。把1只「古代的机械巨人」或者1张有「古代的机械巨人」的卡名记述的魔法·陷阱卡从卡组加入手卡。
-    ②：这张卡攻击的场合，对方直到伤害步骤结束时魔法·陷阱卡不能发动。
-    ③：表侧表示的这张卡因对方的效果从场上离开的场合才能发动。从手卡把「古代的机械巨人」「古代的机械巨人-究极重击」合计最多3只无视召唤条件特殊召唤。
+    此卡名的①效果１回合仅可使用１次。
+    ①：舍弃１张手牌可以发动。从牌组将１只“古代机械齿轮巨人”或１张记载有其卡名的魔法・陷阱卡加入手牌。
+    ②：此卡攻击的情况下，对手直至伤害步骤结束时为止，不可发动魔法・陷阱卡。
+    ③：表侧表示的此卡因对手的效果从场上离开的情况下可以发动。从手牌将“古代机械齿轮巨人”、“古代机械齿轮巨人－究极重拳”合计最多３只无视召唤条件特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -116,6 +116,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC069
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

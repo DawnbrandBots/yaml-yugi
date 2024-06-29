@@ -12,7 +12,7 @@ name:
   ko: 마돌체 슈바리에
   ko_rr:
   zh-TW: 魔法甜點 泡芙騎士
-  zh-CN: 魔偶甜点·泡芙骑士
+  zh-CN: 魔幻甜点・泡芙骑士
 text:
   en: |-
     When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up "Madolche" monsters for attacks, except "Madolche Chouxvalier".
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡因对手被破坏并送入墓地时，此卡返回至牌组。此外，只要此卡以表侧表示存在于场上，对手不可选择「魔法甜點 泡芙騎士」以外冠有「魔法甜點」之名的怪兽作为攻击对象。
   zh-CN: |-
-    这张卡被对方破坏送去墓地时，这张卡回到卡组。此外，只要这张卡在场上表侧表示存在，对方不能选择「魔偶甜点·泡芙骑士」以外的名字带有「魔偶甜点」的怪兽作为攻击对象。
+    ①：只要此卡存在于怪兽区域，对手怪兽不可将“魔幻甜点・泡芙骑士”以外的“魔幻甜点”怪兽选择为攻击对象。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -79,6 +80,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC023
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC028
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

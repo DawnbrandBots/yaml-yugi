@@ -66,10 +66,11 @@ text:
     ●選擇對方場上的１隻怪獸，在結束階段前獲得控制權。
     ●確認對方手牌，選擇其中１張卡送回牌組。
   zh-CN: |-
-    此卡名的卡１回合仅可发动１张。①：对手在此回合的自己主要阶段有发动过怪兽效果的情况下，可从以下效果中选择１个发动。
-    ●自己从牌组抽２张。
-    ●挑选对手场上的１只怪兽，直至结束阶段为止获得控制权。
-    ●确认对手的手牌，从其中挑选１张卡放回牌组。
+    此卡名的卡１回合仅可发动１张。
+    ①：对手在此回合的自己的主要阶段发动过怪兽效果的情况下，可从以下效果中选择１个发动。
+    ●自己抽２张。
+    ●直至结束阶段为止，获得对手场上的１只怪兽的控制权。
+    ●确认对手的手牌，从其中挑选１张放回牌组。
 card_type: Spell
 property: Normal
 images:
@@ -255,6 +256,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: BB01-SC141
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此回合对手不可进行攻击宣言。
   zh-CN: |-
-    ①：这个回合对手不能进行攻击宣言。
+    ①：此回合，对手不可攻击宣言。
 card_type: Trap
 property: Normal
 images:
@@ -378,6 +378,12 @@ sets:
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common
+  - set_number: BB01-SC144
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -12,7 +12,7 @@ name:
   ko: 마돌체 푸딩세스
   ko_rr:
   zh-TW: 魔法甜點 布丁公主
-  zh-CN: 魔偶甜点·布丁公主
+  zh-CN: 魔幻甜点・布丁公主
 text:
   en: |-
     Gains 800 ATK/DEF while you have no monsters in your GY. If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡因对手被破坏并送入墓地时，此卡返回至牌组。我方墓地不存在怪兽的场合，此卡的攻击力、守备力上升800点。此卡与对手怪兽战斗时，可选择对手场上的1张卡牌破坏。
   zh-CN: |-
-    ①：自己墓地没有怪兽存在的场合，这张卡的攻击力·守备力上升800。②：这张卡和对方怪兽进行战斗的伤害计算后，以对方场上1张卡为对象才能发动。那张对方的卡破坏。③：这张卡被对方破坏送去墓地的场合发动。这张卡回到卡组。
+    ①：自己的墓地不存在怪兽的情况下，此卡的攻击力・守备力上升８００。
+    ②：此卡与对手怪兽进行战斗的伤害计算后，以对手场上的１张卡为对象可以发动。将该对手的卡破坏。
+    ③：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: EARTH
@@ -149,6 +151,14 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC031
+    set_name: Secret Treasures Pack
+    rarities:
+    - Ultra Rare
+    - Collector's Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

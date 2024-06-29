@@ -12,7 +12,7 @@ name:
   ko: 앤틱 기어 하운드독
   ko_rr: Aentik Gieo Haundeudok
   zh-TW: 古代機械齒輪獵犬
-  zh-CN: 古代的机械猎犬
+  zh-CN: 古代机械齿轮猎犬
 text:
   en: |-
     If this card is Normal Summoned: Inflict 600 damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. Once per turn: You can Fusion Summon 1 "Ancient Gear" Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     ①：在此卡召喚成功的狀況下發動。給予對方６００傷害。②：在此卡攻擊的狀況下，對方在傷害步驟結束前無法發動魔法・陷阱卡。③：１回合１次，可在我方主要階段發動。從我方手牌・場上將根據「古代機械齒輪」融合怪獸卡決定的融合素材怪獸送至墓地，從額外牌組融合召喚１隻該融合怪獸。
   zh-CN: |-
-    ①：这张卡召唤成功的场合发动。给与对方600伤害。②：这张卡攻击的场合，对方直到伤害步骤结束时魔法·陷阱卡不能发动。③：1回合1次，自己主要阶段才能发动。从自己的手卡·场上把「古代的机械」融合怪兽卡决定的融合素材怪兽送去墓地，把那1只融合怪兽从额外卡组融合召唤。
+    ①：此卡召唤的情况下发动。给予对手６００伤害。
+    ②：此卡攻击的情况下，对手直至伤害步骤结束时为止，不可发动魔法・陷阱卡。
+    ③：１回合１次，在自己的主要阶段可以发动。以自己的手牌・场上的怪兽作为融合素材，将１只“古代机械齿轮”融合怪兽融合召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -121,6 +123,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC068
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

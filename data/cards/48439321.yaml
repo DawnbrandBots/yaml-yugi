@@ -12,7 +12,7 @@ name:
   ko: 마돌체 왈츠
   ko_rr:
   zh-TW: 魔法甜點華爾滋
-  zh-CN: 魔偶甜点圆舞
+  zh-CN: 魔幻甜点・华尔兹
 text:
   en: |-
     Each time a "Madolche" monster you control attacks or is attacked, after damage calculation: Inflict 300 damage to your opponent.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上冠有「魔法甜點」之名的怪兽进行战斗并计算伤害后，给予对手生命300点伤害。
   zh-CN: |-
-    自己场上的名字带有「魔偶甜点」的怪兽进行战斗的伤害计算后，给与对方基本分300分伤害。
+    ①：此卡存在于魔法与陷阱区域的状态下，在自己的“魔幻甜点”怪兽进行了战斗的伤害计算后发动。给予对手３００伤害。
 card_type: Trap
 property: Continuous
 series:
@@ -75,6 +75,11 @@ sets:
   zh-TW:
   - set_number: REDU-TC071
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BB01-SC047
+    set_name: Secret Treasures Pack
     rarities:
     - Common
 limit_regulation:

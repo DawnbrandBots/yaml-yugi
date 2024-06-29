@@ -12,7 +12,7 @@ name:
   ko: 샐러맨그레이트 티거
   ko_rr: Saelleomaen-geureiteu Tigeo
   zh-TW: 轉生炎獸 猛虎
-  zh-CN: 转生炎兽 跳虎
+  zh-CN: 转生炎兽 老虎
 text:
   en: |-
     You can discard 1 other "Salamangreat" card; Special Summon this card from your hand. You can only use this effect of "Salamangreat Tiger" once per turn. If this card you control would be used as Synchro Material for a FIRE monster, you can treat it as a non-Tuner. Once per turn: You can increase or decrease this card's Level by 1.
@@ -33,7 +33,10 @@ text:
   zh-TW: |-
     此卡名的①效果，１回合僅限使用１次。 ①：可從手牌捨棄１張其他「轉生炎獸」卡發動。從手牌特殊召喚此卡。 ②：在以我方場上的此卡做為炎屬性同步怪獸的同步素材的狀況下，可將此卡視為協調以外的怪獸。 ③：１回合１次，可在我方主要階段發動。此卡的等級提升或降低１。
   zh-CN: |-
-    这个卡名的①效果1回合只能使用1次。①：可以从手牌舍弃1张其他的「サラマングレイト／转生炎兽」卡发动。将这张卡从手牌特殊召唤。②：要将自己场上的这张卡作为炎属性同调怪兽的同调素材的场合，也能将这张卡视为调整以外的怪兽。③：1回合1次，自己的主要阶段可以发动。这张卡的等级上升或下降1。
+    此卡名的①效果１回合仅可使用１次。
+    ①：从手牌将１张其他的“转生炎兽”卡舍弃可以发动。从手牌将此卡特殊召唤。
+    ②：以自己场上的此卡作为炎属性同步怪兽的同步素材的情况下，可将此卡视为协调以外的怪兽。
+    ③：１回合１次，在自己的主要阶段可以发动。此卡的等级上升或下降１。
 card_type: Monster
 monster_type_line: Cyberse / Tuner / Effect
 attribute: FIRE
@@ -81,6 +84,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BB01-SC082
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

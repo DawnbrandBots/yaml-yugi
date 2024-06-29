@@ -12,7 +12,7 @@ name:
   ko: 마탄환의 악마 자미엘
   ko_rr:
   zh-TW: 魔彈魔鬼 扎米爾
-  zh-CN: 魔弹恶魔 萨米尔
+  zh-CN: 魔弹邪魔 萨米尔
 text:
   en: |-
     You can Tribute Summon this card face-up by Tributing 1 "Magical Musket" monster. During either player's turn, you can activate "Magical Musket" Spell/Trap Cards from your hand. Once per turn, during your opponent's End Phase: You can draw cards equal to the number of "Magical Musket" Spell/Trap Cards you activated this turn while this card was face-up on your field. You can only use this effect of "Magical Musket Mastermind Zakiel" once per turn.
@@ -33,7 +33,10 @@ text:
   zh-TW: |-
     可解放１隻「魔彈」怪獸以正面表示升級召喚此卡。此卡名的②效果，１回合僅限使用１次。①：只要此卡存在於怪獸區，我方就可在我方・對方回合從手牌發動「魔彈」魔法・陷阱卡。②：可在對方結束階段發動。依據此回合，我方在此卡以正面表示存在的期間發動的「魔彈」魔法・陷阱卡的數量，我方從牌組抽牌。
   zh-CN: |-
-    这张卡可以把1只「魔弾」怪兽解放表侧表示上级召唤。这个卡名的②的效果1回合只能使用1次。①：只要这张卡在怪兽区域存在，自己·对方回合自己可以把「魔弾」魔法·陷阱卡从手卡发动。②：对方结束阶段才能发动。自己从卡组抽出这个回合这张卡表侧表示存在期间自己发动的「魔弾」魔法·陷阱卡的数量。
+    此卡可通过解放１只“魔弹”怪兽来以表侧表示上级召唤。
+    此卡名的②效果１回合仅可使用１次。
+    ①：只要此卡存在于怪兽区域，自己可在自己・对手回合中从手牌发动“魔弹”魔法・陷阱卡。
+    ②：在对手的结束阶段可以发动。自己依此回合此卡以表侧表示存在期间内自己所发动的“魔弹”魔法・陷阱卡的数量来抽牌。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: LIGHT
@@ -83,6 +86,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BB01-SC058
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

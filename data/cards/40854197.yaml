@@ -42,8 +42,10 @@ text:
     冠有「－英雄」之名的怪獸＋水屬性怪獸
     此卡僅限以融合召喚進行特殊召喚。此卡的攻擊力依據場上的「元素－英雄 絕對零度」以外的水屬性怪獸數量×５００進行提升。此卡從場上離開時，將對方場上的所有怪獸全部破壞。
   zh-CN: |-
-    "－英雄"怪兽＋水属性怪兽
-    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于场上"元素－英雄 绝对零度"以外的水属性怪兽数量×500的数值。②：表侧表示的此卡从场上离开的情况下发动。将对手场上的怪兽全部破坏。
+    “－英雄”怪兽＋水属性怪兽
+    此卡仅可以融合召唤方式特殊召唤。
+    ①：此卡的攻击力上升相当于场上“元素－英雄 绝对零度”以外的水属性怪兽数量×５００的数值。
+    ②：表侧表示的此卡从场上离开，被送至墓地的情况下或被除外的情况下发动。将对手场上的怪兽全部破坏。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: WATER
@@ -166,6 +168,11 @@ sets:
     set_name: "Structure Deck: HERO's Strike Deck Enhancement Pack"
     rarities:
     - Secret Rare
+  - set_number: BB01-SC104
+    set_name: Secret Treasures Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

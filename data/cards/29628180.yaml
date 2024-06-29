@@ -12,7 +12,7 @@ name:
   ko: 마탄환－데드맨즈 버스트
   ko_rr:
   zh-TW: 魔彈－死者連爆
-  zh-CN: 魔弹-死者连发
+  zh-CN: 魔弹－亡者爆击
 text:
   en: |-
     When your opponent activates a Spell/Trap Card while you control a "Magical Musket" monster: Negate the activation, and if you do, destroy that card. You can only activate 1 "Magical Musket - Last Stand" per turn.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡名的卡１回合僅限發動１張。①：在我方場上存在「魔彈」怪獸的狀況下，可在對方發動魔法・陷阱卡時發動。將該發動變為無效進行破壞。
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。①：自己场上有「魔弾」怪兽存在的场合，对方把魔法·陷阱卡发动时才能发动。那个发动无效并破坏。
+    此卡名的卡１回合仅可发动１张。
+    ①：自己场上存在“魔弹”怪兽的情况下，对手发动魔法・陷阱卡时可以发动。将该发动无效并破坏。
 card_type: Trap
 property: Counter
 series:
@@ -89,6 +90,13 @@ sets:
     - Super Rare
   - set_number: QCCP-KR166
     set_name: Quarter Century Chronicle side:Pride
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC065
+    set_name: Secret Treasures Pack
     rarities:
     - Super Rare
     - Secret Rare

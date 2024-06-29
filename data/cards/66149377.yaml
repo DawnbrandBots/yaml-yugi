@@ -12,7 +12,7 @@ name:
   ko: 마탄환－댄싱 니들
   ko_rr: Matanhwan - Daensing Nideul
   zh-TW: 魔彈－舞動之針
-  zh-CN: 魔弹-舞动之针
+  zh-CN: 魔弹－舞跃之针
 text:
   en: |-
     If you control a "Magical Musket" monster: Target up to 3 cards in the GYs; banish them. You can only activate 1 "Magical Musket - Dancing Needle" per turn.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     此卡名的卡１回合僅限發動１張。①：在我方場上存在「魔彈」怪獸的狀況下，可將雙方墓地的合計最多３張卡做為對象發動。將該卡除外。
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。①：自己场上有「魔弾」怪兽存在的场合，以双方墓地的卡合计最多3张为对象才能发动。那些卡除外。
+    此卡名的卡１回合仅可发动１张。
+    ①：自己场上存在“魔弹”怪兽的情况下，以自己・对手的墓地合计最多３张卡为对象可以发动。将该卡除外。
 card_type: Trap
 property: Normal
 series:
@@ -103,6 +104,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  zh-CN:
+  - set_number: BB01-SC063
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

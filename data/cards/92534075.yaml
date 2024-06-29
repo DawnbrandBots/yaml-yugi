@@ -12,7 +12,7 @@ name:
   ko: 마탄환－데블즈 딜
   ko_rr:
   zh-TW: 魔彈－魔鬼交易
-  zh-CN: 魔弹-恶魔交易
+  zh-CN: 魔弹－魔鬼交易
 text:
   en: |-
     "Magical Musket" monsters you control cannot be destroyed by card effects. If this card in your possession is sent to your GY by an opponent's card effect: You can add 1 "Magical Musket" card from your Deck or GY to your hand, except "Magical Musket - Fiendish Deal". You can only activate 1 "Magical Musket - Fiendish Deal" per turn.
@@ -33,7 +33,9 @@ text:
   zh-TW: |-
     此卡名的卡１回合僅限發動１張。①：只要此卡存在於魔法＆陷阱區，我方場上的「魔彈」怪獸就不會因效果被破壞。②：可在此卡因對方的效果被送至墓地的狀況下發動。從我方牌組・墓地選擇１張「魔彈－魔鬼交易」以外的「魔彈」卡加入手牌。
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。①：只要这张卡在魔法与陷阱区域存在，自己场上的「魔弾」怪兽不会被效果破坏。②：这张卡被对方的效果送去墓地的场合才能发动。从自己的卡组·墓地选「魔弹-恶魔交易」以外的1张「魔弾」卡加入手卡。
+    此卡名的卡１回合仅可发动１张。
+    ①：只要此卡存在于魔法与陷阱区域，自己场上的“魔弹”怪兽不会因效果被破坏。
+    ②：此卡因对手的效果被送至墓地的情况下可以发动。从自己的牌组・墓地将“魔弹－魔鬼交易”以外的１张“魔弹”卡加入手牌。
 card_type: Trap
 property: Continuous
 series:
@@ -79,6 +81,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: BB01-SC064
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

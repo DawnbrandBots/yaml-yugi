@@ -12,7 +12,7 @@ name:
   ko: 마돌체 표콜렛
   ko_rr:
   zh-TW: 魔法甜點 巧克力雛鳥
-  zh-CN: 魔偶甜点·巧克力雏鸟
+  zh-CN: 魔幻甜点・巧克力哔哔
 text:
   en: |-
     When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn, when the battle position of a "Madolche" monster(s) you control is changed (and is now face-up), while this card is face-up on the field (except during the Damage Step): You can target 1 monster on the field; change it to face-up Defense Position, and if you do, unless it is a "Madolche" monster, it cannot attack, also its effects are negated.
@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     在此卡被對方破壞送至墓地時，將此卡送回牌組。此外，１回合１次，可在此卡以正面表示存在於場上，我方場上的冠有「魔法甜點」之名的怪獸的表示形式被變更時發動。選擇場上的１隻怪獸變為正面守備表示，在該怪獸為冠有「魔法甜點」之名的怪獸以外的狀況下，該怪獸無法攻擊，效果無效化。
   zh-CN: |-
-    这张卡被对方破坏送去墓地时，这张卡回到卡组。此外，1回合1次，这张卡在场上表侧表示存在，自己场上的名字带有「魔偶甜点」的怪兽的表示形式变更时才能发动。选择场上1只怪兽变成表侧守备表示，那只怪兽是名字带有「魔偶甜点」的怪兽以外的场合，那只怪兽不能攻击，效果无效化。
+    ①：１回合１次，此卡以表侧表示存在于场上，且自己场上的“魔幻甜点”怪兽的表示形式被变更时，以场上的１只怪兽为对象可以发动。将该怪兽改成表侧守备表示，该怪兽为“魔幻甜点”怪兽以外的情况下，该怪兽不可攻击，效果无效化。
+    ②：此卡被对手破坏并被送至墓地的情况下发动。将此卡放回牌组。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -109,6 +110,11 @@ sets:
     set_name: Promotion Pack 2013 Vol.4
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: BB01-SC036
+    set_name: Secret Treasures Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
