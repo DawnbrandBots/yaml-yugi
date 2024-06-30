@@ -39,10 +39,12 @@ your `.git/config` file to look like this:
 #### OCG/TCG card by password
 - Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/cards/00010000.json
 - CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/cards/00010000.json
+- Alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/cards/00010000.json
 
 #### OCG/TCG card without password by Konami ID
 - Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/cards/kdb5000.json
 - CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/cards/kdb5000.json
+- Alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/cards/kdb5000.json
 
 #### Prerelease OCG/TCG card
 Same as above, but with yugipedia&lt;PAGE_ID&gt; file names.
@@ -50,18 +52,22 @@ Same as above, but with yugipedia&lt;PAGE_ID&gt; file names.
 #### Rush Duel card by Konami ID
 - Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/rush/15150.json
 - CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/rush/15150.json
+- Alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/rush/15150.json
 
 #### TCG Speed Duel Skill Card
 - Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/tcg-speed-skill/yugipedia585581.json
 - CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/tcg-speed-skill/yugipedia585581.json
+- Alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/tcg-speed-skill/yugipedia585581.json
 
 ### Aggregations
 
 #### Series and archetypes, JSON and YAML both available
 - As list, Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/series/list.json
 - As list, CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/series/list.json
+- As list, alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/series/list.json
 - As mapping from English name, Canonical download: https://github.com/DawnbrandBots/yaml-yugi/raw/master/data/series/map.json
 - As mapping from English name, CDN with correct MIME type and CORS: https://cdn.jsdelivr.net/gh/DawnbrandBots/yaml-yugi/data/series/map.json
+- As mapping from English name, alternative CDN: https://cdn.statically.io/gh/DawnbrandBots/yaml-yugi/master/data/series/map.json
 
 #### All OCG/TCG cards, including prereleases
 - https://dawnbrandbots.github.io/yaml-yugi/cards.json
