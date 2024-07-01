@@ -1,7 +1,7 @@
 konami_id: 20029
 password: 28958464
 name:
-  en: 'Spell Card: "Monster Reborn"'
+  en: Spell Card "Monster Reborn"
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 monster in either GY; Special Summon it to your field, but it cannot attack or activate its effects this turn. You can only activate 1 "Spell Card: "Monster Reborn"" per turn.
+    Target 1 monster in either GY; Special Summon it to your field, but for the rest of this turn, it cannot attack, and neither player can activate its effects. You can only activate 1 "Spell Card "Monster Reborn"" per turn.
   de:
   es:
   fr:
@@ -32,6 +32,26 @@ images:
 - index: 1
   image: SpellCardMonsterReborn-VJMP-JP-UR.png
 sets:
+  en:
+  - set_number: INFO-EN099
+    set_name: The Infinite Forbidden
+    rarities:
+  de:
+  - set_number: INFO-DE099
+    set_name: The Infinite Forbidden
+    rarities:
+  fr:
+  - set_number: INFO-FR099
+    set_name: The Infinite Forbidden
+    rarities:
+  it:
+  - set_number: INFO-IT099
+    set_name: The Infinite Forbidden
+    rarities:
+  pt:
+  - set_number: INFO-PT099
+    set_name: The Infinite Forbidden
+    rarities:
   ja:
   - set_number: VJMP-JP250
     set_name: V Jump March 2024 promotional card
@@ -40,9 +60,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1035520
