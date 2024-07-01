@@ -33,8 +33,8 @@ text:
     1 Regulador + 1+ monstros não-Reguladores
     Quando este card for Invocado por Invocação-Sincro: você pode destruir todos os cards no campo. Uma vez por turno: você pode banir 1 monstro Planta do seu Cemitério e, depois, escolha 1 monstro em Posição de Defesa que seu oponente controla; coloque o alvo com a face para cima em Posição de Ataque e, se isso acontecer, o ATK dele se torna 0 até o final deste turno.
   ja: |-
-    チューナー＋チューナー<ruby>以<rt>い</rt></ruby><ruby>外<rt>がい</rt></ruby>のモンスター１<ruby>体<rt>たい</rt></ruby><ruby>以<rt>い</rt></ruby><ruby>上<rt>じょう</rt></ruby>
-    ①：このカードがＳ召喚に成功した時に発動できる。フィールドのカードを全て破壊する。②：１ターンに１度、自分の墓地から植物族モンスター１体を除外し、相手フィールドの守備表示モンスター１体を対象として発動できる。その相手の守備表示モンスターを表側攻撃表示にし、その攻撃力はターン終了時まで０になる。
+    チューナー＋チューナー以外のモンスター１体以上
+    ①：このカードがＳ召喚した時に発動できる。フィールドのカードを全て破壊する。②：１ターンに１度、自分の墓地から植物族モンスター１体を除外し、相手フィールドの守備表示モンスター１体を対象として発動できる。その相手の守備表示モンスターを表側攻撃表示にし、その攻撃力はターン終了時まで０になる。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드를 싱크로 소환했을 때에 발동할 수 있다. 필드의 카드를 전부 파괴한다. ②: 1턴에 1번, 자신 묘지에서 식물족 몬스터 1장을 제외하고, 상대 필드의 수비 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 상대의 수비 표시 몬스터를 앞면 공격 표시로 하고, 그 공격력은 턴 종료시까지 0 이 된다.
@@ -42,8 +42,8 @@ text:
     協調＋協調以外的怪獸１隻以上
     ①：可在此卡同步召喚成功時發動。將場上的所有卡全部破壞。②：１回合１次，可從我方墓地將１隻植物族怪獸除外，將對方場上的１隻守備表示怪獸做為對象發動。將該對方守備表示怪獸變為正面攻擊表示，其攻擊力在回合結束前變為０。
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
-    ①：此卡同步召唤成功时可以发动。将场上的卡全部破坏。②：1回合1次，从自己的墓地将1只植物族怪兽除外，以对手场上的1只守备表示怪兽为对象可以发动。将对手的该守备表示怪兽改为表侧攻击表示，其攻击力直至回合结束时为止变为0。
+    协调＋１只以上协调以外的怪兽
+    ①：此卡同步召唤成功时可以发动。将场上的卡全部破坏。②：１回合１次，从自己的墓地将１只植物族怪兽除外，以对手场上的１只守备表示怪兽为对象可以发动。将对手的该守备表示怪兽改为表侧攻击表示，其攻击力直至回合结束时为止变为０。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: FIRE
@@ -349,6 +349,11 @@ sets:
     set_name: 20th Secret Rare Special Pack
     rarities:
     - 20th Secret Rare
+  - set_number: 24EP-JP206
+    set_name: Event Pack 2024 Vol.2
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: CSOC-KR039
     set_name: Crossroads of Chaos

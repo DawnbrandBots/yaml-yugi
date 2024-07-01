@@ -27,7 +27,7 @@ text:
   pt: |-
     Escolha 1 monstro no campo; devolva o alvo para a mão.
   ja: |-
-    ①：フィールドのモンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻す。
+    ①：フィールドのモンスター１体を対象として発動できる。そのモンスターを手札に戻す。
   ko: |-
     ①: 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 주인의 패로 되돌린다.
   zh-TW: |-
@@ -615,6 +615,11 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  - set_number: 24EP-JP214
+    set_name: Event Pack 2024 Vol.2
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: SD2-KR028
     set_name: 'Structure Deck: Zombie Madness'
