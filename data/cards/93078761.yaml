@@ -12,7 +12,7 @@ name:
   ko: 새도전
   ko_rr: Saedojeon
   zh-TW: 擲骰挑戰
-  zh-CN: 从骰挑战
+  zh-CN: 赛挑战
 text:
   en: |-
     Roll a six-sided die, and if you roll a 1 or 6, add 1 card from your Deck to your hand that requires a die roll. If you roll a number other than 1 or 6, roll it again, and apply the appropriate effect.
@@ -57,10 +57,9 @@ text:
     ●１・６：將場上的此卡送回持有者的手牌。
     ●２～５：將場上的此卡送回持有者的牌組的最上方。
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。
-    ①：掷1次骰子，1·6出现的场合，把持有掷骰子效果的1张卡从卡组加入手卡。1·6以外出现的场合，再掷1次骰子，出现数目的以下效果适用。
-    ●1·6：场上的这张卡回到持有者手卡。
-    ●2～5：场上的这张卡回到持有者卡组最上面。
+    此卡名的卡在1个回合中仅可发动1张。①：掷骰子1次，出现1和6时，将牌组中1张拥有掷骰子效果的卡加入手牌。出现1、6以外的数字时，再掷骰子1次，根据出现的数字适用以下效果。
+    ●1、6：将场上的此卡还回持卡人的手牌。
+    ●2～5：将场上的此卡还回持卡人牌组的最上方。
 card_type: Spell
 property: Quick-Play
 images:

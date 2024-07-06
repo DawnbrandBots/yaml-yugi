@@ -12,7 +12,7 @@ name:
   ko: 클리포트 어셈블러
   ko_rr:
   zh-TW: 機殼獨立柱
-  zh-CN: 机壳汇编器 不安定
+  zh-CN: 机壳独立柱
 text:
   en: |-
     Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000
@@ -60,12 +60,12 @@ text:
     惡g善ni道o知d能ru似oy相n們o我y與rg經na已s人i那d吶oG看
     著d活o遠o永l就f吃e實r果i的f樹g命n生i摘rb手o伸t又t他na怕w恐d在na現
   zh-CN: |-
-    qliphoth.exe 中的 0x1i-666 确认到未处理的异常。
-    写入位置 0x00-000 时发生访问冲突。
-    您想忽略此错误并尝试继续吗? <Y/N>...[ ]
-    ===CARNAGE===
-    恶gn善iod道ru知能oy似no相yr们gn我a与s经i已do人G那
-    着doo活lfe远永rif就g吃n子i果r的b树o命t生t摘又n手a伸w他怕d恐n在a现
+    已确认有不受qliphoth.exe的０x１i－６６６操纵的例外。
+    在写入至场所０x００－０００时发生了违规访问行为。
+    请问是否要忽略错误继续执行？＜Y／N＞...[]
+    ＝＝＝CARNAGE＝＝＝
+    gn恶io善dr知uo能yn似oy相rg们n我a与s经d已o人G那do著olf活e永远r就i吃f子
+    g果n的i树r命b生o摘t又t手n伸a他w怕d恐n在a现
 card_type: Monster
 monster_type_line: Machine / Pendulum
 attribute: EARTH
@@ -93,7 +93,7 @@ pendulum_effect:
   zh-TW: |-
     ①：我方可特殊召喚的怪獸僅限「機殼」怪獸。此效果不會被無效化。②：可在我方成功升級召喚的回合的結束階段發動。此回合，依我方為升級召喚解放的「機殼」怪獸數量，我方從牌組抽牌。
   zh-CN: |-
-    ①：自己不是「机壳」怪兽不能特殊召唤。这个效果不会被无效化。②：自己上级召唤成功的回合的结束阶段才能发动。自己从卡组抽出这个回合自己为上级召唤而解放的「机壳」怪兽的数量。
+    ①：我方只可特殊召唤“机壳”怪兽。此效果不会被无效化。②：在我方上级召唤成功回合的结束阶段发动。我方从牌组抽取卡牌，其数量相当于此回合我方以上级召唤为目的而释放的“机壳”怪兽数量。
 series:
 - Qli
 images:

@@ -12,7 +12,7 @@ name:
   ko: <ruby>EM<rt>엔터메이트</rt></ruby> 오홍의 마술사
   ko_rr:
   zh-TW: 娛樂夥伴 五虹的魔術師
-  zh-CN: 娱乐伙伴 五虹之魔术师
+  zh-CN: 娱乐伙伴 五虹魔术师
 text:
   en: |-
     If either player Sets a Spell/Trap on your field while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     ①：可在此卡存在於墓地，魔法・陷阱卡被覆蓋在我方場上的狀況下發動。將墓地的此卡置於我方鐘擺區。
   zh-CN: |-
-    ①：这张卡在墓地存在，自己场上有魔法·陷阱卡被盖放的场合才能发动。墓地的这张卡在自己的灵摆区域放置。
+    ①：此卡存在于墓地，魔法・陷阱卡被放置在自己场上的情况下可以发动。将墓地的此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Spellcaster / Pendulum / Effect
 attribute: LIGHT
@@ -77,7 +77,9 @@ pendulum_effect:
     ●０張：我方場上的怪獸無法攻擊，無法發動效果。
     ●４張以上：我方場上的怪獸的攻擊力變為原本的數值的兩倍。
   zh-CN: |-
-    ①：自己不是从额外卡组不能灵摆召唤。这个效果不会被无效化。②：双方受自身的魔法与陷阱区域盖放的卡数量对应的以下所适用。
+    ①：自己仅可从额外牌组灵摆召唤。此效果不会被无效化。②：双方根据放置在魔法与陷阱区域的卡的数量适用以下内容。
+    ●０张：自己场上的怪兽不可攻击，不可发动效果。
+    ●４张以上：自己场上的怪兽的攻击力变为原本数值的两倍。
 series:
 - Magician
 - Performapal
