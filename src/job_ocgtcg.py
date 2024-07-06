@@ -28,18 +28,28 @@ module_logger = logging.getLogger(__name__)
 
 
 def annotate_zh_cn(
-    yaml: YAML, logger: logging.Logger, zh_cn_dir: str, wikitext: Dict[str, str]
+    yaml: YAML, logger: logging.Logger, document: Dict[str, str], zh_cn_dir: str
 ) -> None:
-    password = int_or_none(wikitext.get("password") or "")
+    if document["name"]["zh-CN"] and document["text"]["zh-CN"]:
+        return
+    password = int_or_none(document.get("password") or "")
     zh_cn_path = os.path.join(zh_cn_dir, f"{password}.yaml")
     if os.path.isfile(zh_cn_path):
         logger.info(f"zh-CN: {zh_cn_path}")
         with open(zh_cn_path) as f:
-            document = yaml.load(f)
-            wikitext["ourocg_name"] = document["name"]
-            wikitext["ourocg_text"] = document["text"]
-            if document.get("pendulum"):
-                wikitext["ourocg_pendulum"] = document["pendulum"]
+            zh_cn = yaml.load(f)
+            if not document["name"]["zh-CN"]:
+                document["name"]["zh-CN"] = zh_cn["name"]
+            if not document["text"]["zh-CN"]:
+                document["text"]["zh-CN"] = LiteralScalarString(zh_cn["text"])
+            if (
+                document.get("pendulum_effect")
+                and not document["pendulum_effect"]["zh-CN"]
+                and zh_cn.get("pendulum")
+            ):
+                document["pendulum_effect"]["zh-CN"] = LiteralScalarString(
+                    zh_cn["pendulum"]
+                )
 
 
 def transform_structure(
@@ -74,8 +84,8 @@ def transform_structure(
     document = {
         "konami_id": konami_id,
         "password": password,
-        "name": transform_names(wikitext, wikitext.get("ourocg_name")),
-        "text": transform_texts(wikitext, wikitext.get("ourocg_text")),
+        "name": transform_names(wikitext),
+        "text": transform_texts(wikitext),
     }
     annotate_shared(document, wikitext)
     if wikitext.get("image"):
@@ -414,8 +424,6 @@ def job(
             logger.info(f"Skip: {filepath}")
             continue
         properties["yugipedia_page_id"] = page_id
-        if zh_cn_dir:
-            annotate_zh_cn(yaml, logger, zh_cn_dir, properties)
         document = transform_structure(logger, properties)
         if document:
             annotate_limit_regulation(document, tcg_vector, ocg_vector)
@@ -427,6 +435,8 @@ def job(
                 annotate_assignments(document, assignments)
             if ko_override:
                 override_ko(logger, document, ko_override)
+            if zh_cn_dir:
+                annotate_zh_cn(yaml, logger, document, zh_cn_dir)
             write_output(yaml, logger, document)
             if return_results:
                 results.append(document)

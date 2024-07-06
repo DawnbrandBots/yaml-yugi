@@ -186,9 +186,7 @@ def transform_image(image: str) -> List[Dict[str, str]]:
     return [transform_image_entry(entry) for entry in tokens]
 
 
-def transform_names(
-    wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None
-) -> Dict[str, str]:
+def transform_names(wikitext: Dict[str, str]) -> Dict[str, str]:
     return {
         "en": wikitext["en_name"],
         "de": wikitext.get("de_name"),
@@ -201,13 +199,11 @@ def transform_names(
         "ko": wikitext.get("ko_name"),
         "ko_rr": wikitext.get("ko_rr_name"),
         "zh-TW": wikitext.get("tc_name"),
-        "zh-CN": wikitext.get("sc_name") or zh_cn_fallback,
+        "zh-CN": wikitext.get("sc_name"),
     }
 
 
-def transform_texts(
-    wikitext: Dict[str, str], zh_cn_fallback: Optional[str] = None
-) -> Dict[str, str]:
+def transform_texts(wikitext: Dict[str, str]) -> Dict[str, str]:
     return {
         "en": str_or_none(wikitext.get("lore")),  # should never be none
         "de": str_or_none(wikitext.get("de_lore")),
@@ -218,7 +214,7 @@ def transform_texts(
         "ja": str_or_none(wikitext.get("ja_lore")),
         "ko": str_or_none(wikitext.get("ko_lore")),
         "zh-TW": str_or_none(wikitext.get("tc_lore")),
-        "zh-CN": str_or_none(wikitext.get("sc_lore") or zh_cn_fallback),
+        "zh-CN": str_or_none(wikitext.get("sc_lore")),
     }
 
 
@@ -285,10 +281,7 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
                 "ja": str_or_none(wikitext.get("ja_pendulum_effect")),
                 "ko": str_or_none(wikitext.get("ko_pendulum_effect")),
                 "zh-TW": str_or_none(wikitext.get("tc_pendulum_effect")),
-                "zh-CN": str_or_none(
-                    wikitext.get("sc_pendulum_effect")
-                    or wikitext.get("ourocg_pendulum")
-                ),
+                "zh-CN": str_or_none(wikitext.get("sc_pendulum_effect")),
             }
         # bonus derived fields
         if "ritualcard" in wikitext:
