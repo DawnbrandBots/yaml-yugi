@@ -1,7 +1,7 @@
 konami_id: 20233
 password: 63017368
 name:
-  en: Shrine of Wedju
+  en: Wedju Temple
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    During your Main Phase: You can place 1 monster from your hand face-up in your Spell & Trap Zone as a Continuous Spell, then place 1 "Millennium" monster from your Deck face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of "Shrine of Wedju" once per turn. If a face-up "Millennium" monster(s) you control is destroyed by battle or card effect, you can place it face-up in your Spell & Trap Zone as a Continuous Spell, instead of sending it to the GY.
+    During your Main Phase: You can place 1 monster from your hand in your Spell & Trap Zone as a face-up Continuous Spell, then place 1 "Millennium" monster from your Deck in your Spell & Trap Zone as a face-up Continuous Spell. You can only use this effect of "Wedju Temple" once per turn. If a face-up "Millennium" monster(s) you control is destroyed by battle or card effect, you can place it in your Spell & Trap Zone as a face-up Continuous Spell, instead of sending it to the GY.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ series:
 - Wedju
 images:
 - index: 1
-  image: ShrineofWedju-INFO-JP-R.png
+  image: WedjuTemple-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN054
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE054
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR054
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT054
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT054
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP054
     set_name: The Infinite Forbidden
@@ -42,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1042451

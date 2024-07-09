@@ -1,7 +1,7 @@
 konami_id: 20234
 password: 402416
 name:
-  en: Exodo Blaze
+  en: Obliterate!!! Blaze
   de:
   es:
   fr:
@@ -12,11 +12,11 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 魔神火焰炮－艾格佐德之焰
 text:
   en: |-
-    One Level 10 or higher monster you control with "Exodia" in its original name gains these effects.
-    ● You can pay half your LP; you cannot activate other cards or their effects for the rest of this turn, also destroy as many cards in the Spell & Trap Zone as possible, then equip 5 "Forbidden One" monsters from your hand and/or Deck to this card, each as an Equip Spell that gives it 2000 ATK.
+    One Level 10 or higher monster on the field with "Exodia" in its original name gains these effects.
+    ● You can pay half your LP; destroy as many cards in the Spell & Trap Zones as possible, then equip 5 "Forbidden One" monsters from your hand and/or Deck to this card as Equip Spells that each give it 2000 ATK, also you cannot activate other cards' effects for the rest of this turn.
     ● If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
   de:
   es:
@@ -29,15 +29,38 @@ text:
     ●このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：场上１只原本卡名包含“艾克佐迪亚”在内的等级１０以上怪兽获得以下效果。
+    ●支付一半LP可以发动。将双方魔法与陷阱区域的卡全部破坏。然后，从手牌・牌组将５只“被封印”怪兽分别视为攻击力上升２０００的装备魔法卡，装备于此卡。此效果发动后，直至回合结束时为止自己不可发动此卡以外的卡的效果。
+    ●此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
 card_type: Spell
 property: Quick-Play
 series:
-- Exodo
+- Exodd
 images:
 - index: 1
-  image: ExodoBlaze-INFO-JP-C.png
+  image: ObliterateBlaze-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN055
+    set_name: The Infinite Forbidden
+    rarities:
+  de:
+  - set_number: INFO-DE055
+    set_name: The Infinite Forbidden
+    rarities:
+  fr:
+  - set_number: INFO-FR055
+    set_name: The Infinite Forbidden
+    rarities:
+  it:
+  - set_number: INFO-IT055
+    set_name: The Infinite Forbidden
+    rarities:
+  pt:
+  - set_number: INFO-PT055
+    set_name: The Infinite Forbidden
+    rarities:
   ja:
   - set_number: INFO-JP055
     set_name: The Infinite Forbidden
@@ -46,9 +69,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1042457

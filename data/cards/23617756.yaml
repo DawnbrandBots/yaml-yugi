@@ -1,7 +1,7 @@
 konami_id: 20247
 password: 23617756
 name:
-  en: Raging Hellfire - Exodo Flame
+  en: Exxod Fires of Rage
   de:
   es:
   fr:
@@ -12,13 +12,14 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 愤怒的业火 艾克佐德之炎
 text:
   en: |-
-    If you control a Level 10 or higher "Exodia" monster: Destroy all cards your opponent controls. You can banish this card from your GY, except the turn it was sent there, then activate 1 of these effects;
+    (This card is always treated as an "Exodd" and "Obliterate!!!" card.)
+    If you control a Level 10 or higher "Exodia" monster: Destroy all cards your opponent controls. If this card is in your GY, except the turn it was sent there: You can banish it, then activate 1 of these effects;
     ● Add 1 "Forbidden One" monster from your Deck or GY to your hand.
     ● Shuffle up to 5 "Forbidden One" monsters from your GY and/or banishment into the Deck.
-    You can only use each effect of "Raging Hellfire - Exodo Flame" once per turn.
+    You can only use each effect of "Exxod Fires of Rage" once per turn.
   de:
   es:
   fr:
@@ -30,16 +31,39 @@ text:
     ●自分の墓地・除外状態の「封印されし」モンスターを５体までデッキに戻す。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名在规则上也视为“艾格佐德”卡。此卡名的①②效果１回合仅可各使用１次。①：自己场上存在等级１０以上的“艾克佐迪亚”怪兽的情况下可以发动。将对手场上的卡全部破坏。②：从墓地将不是在此回合被送至墓地的此卡除外，可从以下效果中选择１个发动。
+    ●从自己的牌组・墓地将１只“被封印”怪兽加入手牌。
+    ●将自己的墓地・除外状态的最多５只“被封印”怪兽放回牌组。
 card_type: Trap
 property: Normal
 series:
-- Exodo
+- Exodd
 - Signature move
 images:
 - index: 1
-  image: RagingHellfireExodoFlame-INFO-JP-C.png
+  image: ExxodFiresofRage-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN068
+    set_name: The Infinite Forbidden
+    rarities:
+  de:
+  - set_number: INFO-DE068
+    set_name: The Infinite Forbidden
+    rarities:
+  fr:
+  - set_number: INFO-FR068
+    set_name: The Infinite Forbidden
+    rarities:
+  it:
+  - set_number: INFO-IT068
+    set_name: The Infinite Forbidden
+    rarities:
+  pt:
+  - set_number: INFO-PT068
+    set_name: The Infinite Forbidden
+    rarities:
   ja:
   - set_number: INFO-JP068
     set_name: The Infinite Forbidden
@@ -48,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1042463
