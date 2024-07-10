@@ -1,7 +1,7 @@
 konami_id: 20195
 password: 24779554
 name:
-  en: Rcia of the White Woods
+  en: Rucia of the White Forest
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If you control a "White Woods" monster: You can Special Summon this card from your hand. You can send 1 Spell/Trap from your hand or field to the GY; draw 1 card. If this card is in your GY (Quick Effect): You can target 1 "White Woods" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of "Rcia of the White Woods" once per turn.
+    If you control a "White Forest" monster: You can Special Summon this card from your hand. You can send 1 Spell/Trap from your hand or field to the GY; draw 1 card. If this card is in your GY (Quick Effect): You can target 1 "White Forest" Synchro Monster you control or in your GY; return it to the Extra Deck, and if you do, Special Summon this card, but negate its effects. You can only use each effect of "Rucia of the White Forest" once per turn.
   de:
   es:
   fr:
@@ -33,11 +33,36 @@ level: 4
 atk: 800
 def: 1500
 series:
-- White Woods
+- White Forest
 images:
 - index: 1
-  image: RciaoftheWhiteWoods-INFO-JP-C.png
+  image: RuciaoftheWhiteForest-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN016
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE016
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR016
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT016
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT016
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP016
     set_name: The Infinite Forbidden
@@ -46,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1053493

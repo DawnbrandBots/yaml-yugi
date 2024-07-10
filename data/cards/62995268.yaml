@@ -1,7 +1,7 @@
 konami_id: 20250
 password: 62995268
 name:
-  en: Woes of the White Woods
+  en: Woes of the White Forest
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Special Summon 1 "White Woods" monster from your hand or Deck, then, immediately after this effect resolves, you can Synchro Summon 1 "White Woods" monster. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Woes of the White Woods" once per turn.
+    Special Summon 1 "White Forest" monster from your hand or Deck, then immediately after this effect resolves, you can Synchro Summon 1 "White Forest" Synchro Monster. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Woes of the White Forest" once per turn.
   de:
   es:
   fr:
@@ -29,11 +29,36 @@ text:
 card_type: Trap
 property: Normal
 series:
-- White Woods
+- White Forest
 images:
 - index: 1
-  image: WoesoftheWhiteWoods-INFO-JP-C.png
+  image: WoesoftheWhiteForest-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN071
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE071
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR071
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT071
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT071
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP071
     set_name: The Infinite Forbidden
@@ -42,9 +67,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1053508

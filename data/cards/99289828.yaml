@@ -1,7 +1,7 @@
 konami_id: 20237
 password: 99289828
 name:
-  en: Legend of the White Woods
+  en: Tales of the White Forest
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If you control an Illusion or Spellcaster monster: Add 1 "White Woods" monster from your Deck to your hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Legend of the White Woods" once per turn.
+    If you control an Illusion or Spellcaster monster: Add 1 "White Forest" monster from your Deck to your hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Tales of the White Forest" once per turn.
   de:
   es:
   fr:
@@ -29,11 +29,41 @@ text:
 card_type: Spell
 property: Normal
 series:
-- White Woods
+- White Forest
 images:
 - index: 1
-  image: LegendoftheWhiteWoods-INFO-JP-R.png
+  image: TalesoftheWhiteForest-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP058
     set_name: The Infinite Forbidden
@@ -42,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1053501

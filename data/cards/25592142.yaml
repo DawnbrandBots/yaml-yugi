@@ -1,7 +1,7 @@
 konami_id: 20192
 password: 25592142
 name:
-  en: Asteria of the White Woods
+  en: Astellar of the White Forest
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 LIGHT Spellcaster Tuner from your Deck. If a Spell/Trap(s) is sent to your GY to activate a monster effect while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Asteria of the White Woods" once per turn.
+    You can send 1 Spell/Trap from your hand or field to the GY; Special Summon 1 LIGHT Spellcaster Tuner from your Deck. If a Spell/Trap(s) is sent to your GY to activate a monster's effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Astellar of the White Forest" once per turn.
   de:
   es:
   fr:
@@ -33,11 +33,41 @@ level: 2
 atk: 0
 def: 0
 series:
-- White Woods
+- White Forest
 images:
 - index: 1
-  image: AsteriaoftheWhiteWoods-INFO-JP-SR.png
+  image: AstellaroftheWhiteForest-INFO-JP-SR.png
 sets:
+  en:
+  - set_number: INFO-EN013
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE013
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR013
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT013
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT013
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP013
     set_name: The Infinite Forbidden
@@ -53,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1053487
