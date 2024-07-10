@@ -8,7 +8,7 @@ name:
   pt:
   ja: ストレンジ・アトラクター
   ja_romaji: Sutorenji Atorakutā
-  ko:
+  ko: 스트레인지 어트랙터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（サイバース族）１体を墓地へ送るか、自分の墓地のレベルが異なるモンスター（サイバース族）５体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(사이버스족) 1장을 묘지로 보내거나, 자신 묘지의 레벨이 다른 몬스터(사이버스족) 5장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。この効果の発動後、ターン終了時まで自分はモンスター（サイバース族以外）の効果を発動できない。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터(사이버스족 이외)의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP017
+    set_name: Over Rush Pack 2
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR017
     set_name: Over Rush Pack 2
     rarities:
     - Ultra Rare

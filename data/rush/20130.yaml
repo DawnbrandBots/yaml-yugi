@@ -8,7 +8,7 @@ name:
   pt:
   ja: ラヴ・セーフティ
   ja_romaji: Ravu Sēfuti
-  ko:
+  ko: 라브 세이프티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの元々の攻撃力・守備力が０の表側表示モンスター（天使族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 원래의 공격력 / 수비력이 0 인 앞면 표시 몬스터(천사족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターと自分の魔法＆罠ゾーンの裏側表示のカードは相手の効果では破壊されない。装備モンスターが自分フィールドに表側表示でいる限り、相手は装備魔法カードを装備していないモンスターに攻撃宣言できない。
-  ko:
+  ko: |-
+    장착 몬스터와 자신의 마법 & 함정 존의 뒷면 표시의 카드는 상대 효과로는 파괴되지 않는다. 장착 몬스터가 자신 필드에 앞면 표시인 한, 상대는 장착 마법 카드를 장착하고 있지 않은 몬스터에 공격 선언할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP051
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR051
     set_name: Over Rush Pack 2
     rarities:
     - Common

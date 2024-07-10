@@ -8,7 +8,7 @@ name:
   pt:
   ja: カオス・フェムトロン
   ja_romaji: Kaosu Femutoron
-  ko:
+  ko: 카오스 펨트론
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターがサイバース族のみの場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 사이버스족뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、その中からモンスター（サイバース族／守備力０）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 그 중에서 몬스터(사이버스족 / 수비력 0) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP012
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR012
     set_name: Over Rush Pack 2
     rarities:
     - Common

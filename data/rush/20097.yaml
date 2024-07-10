@@ -8,7 +8,7 @@ name:
   pt:
   ja: スペース・シードライバー
   ja_romaji: Supēsu Shīdoraibā
-  ko:
+  ko: 스페이스 시드라이버
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上）がいて、自分の墓地のモンスターがサイバース族のみの場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상)가 있고, 자신 묘지의 몬스터가 사이버스족뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル２以上／光属性・闇属性／守備力０）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 2 이상 / 빛 속성・어둠 속성 / 수비력 0) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP016
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR016
     set_name: Over Rush Pack 2
     rarities:
     - Common

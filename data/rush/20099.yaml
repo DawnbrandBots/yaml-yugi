@@ -8,7 +8,7 @@ name:
   pt:
   ja: スペース・コール
   ja_romaji: Supēsu Kōru
-  ko:
+  ko: 스페이스 콜
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,12 +22,13 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（サイバース族）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(사이버스족) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
   en: |-
-    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 Level 7 or higher Cyberse Type monster from among the cards sent face-up to your field. If it was "Space Yggdrago", you can draw 1 card.
+    Send the top 3 cards of your Deck to the Graveyard. Then, you can Special Summon 1 Level 7 or higher Cyberse Type monster from among the cards sent face-up to your field. If you Special Summoned "Space Yggdrago" by this effect, you can also draw 1 card.
   de:
   es:
   fr:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、その中からモンスター（レベル７以上／サイバース族）１体を選んで自分フィールドに表側表示で特殊召喚できる。この効果で「スペース・ユグドラゴ」を選んだ場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 그 중에서 몬스터(레벨 7 이상 / 사이버스족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다. 이 효과로 "스페이스 위그드라고"를 고른 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP018
+    set_name: Over Rush Pack 2
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR018
     set_name: Over Rush Pack 2
     rarities:
     - Super Rare

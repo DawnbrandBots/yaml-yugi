@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>綺<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>の<ruby>神<rt>しん</rt></ruby><ruby>童<rt>どう</rt></ruby> ディアン・ケト
   ja_romaji: Kirei no Shindō Dian Keto
-  ko:
+  ko: 청결의 신동 다이안 켓
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のＬＰが相手より少ない場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신의 LP가 상대보다 적을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１０００ＬＰ回復する。その後、このカードの攻撃力はターン終了時まで１０００アップする。
-  ko:
+  ko: |-
+    자신은 1000 LP 회복한다. 그 후, 이 카드의 공격력은 턴 종료시까지 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP065
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR065
     set_name: Over Rush Pack 2
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: ラヴ・ダヴ
   ja_romaji: Ravu Davu
-  ko:
+  ko: 라브 도브
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札のモンスター（天使族／攻撃力０）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 몬스터(천사족 / 공격력 0) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地の「ラヴ・エンジェル」１体または「ラヴ・セーフティ」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 자신 묘지의 "라브 엔젤" 1장 또는 "라브 세이프티" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP047
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR047
     set_name: Over Rush Pack 2
     rarities:
     - Common

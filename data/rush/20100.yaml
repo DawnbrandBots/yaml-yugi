@@ -8,7 +8,7 @@ name:
   pt:
   ja: スペース・レゾナンス
   ja_romaji: Supēsu Rezonansu
-  ko:
+  ko: 스페이스 레조넌스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（レベル７以上／光属性・闇属性／サイバース族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(레벨 7 이상 / 빛 속성・어둠 속성 / 사이버스족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     手札のモンスター（サイバース族）１体を自分フィールドに表側表示で特殊召喚する。この効果でモンスター（レベル７）を特殊召喚した場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    패의 몬스터(사이버스족) 1장을 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 몬스터(레벨 7)를 특수 소환했을 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP019
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR019
     set_name: Over Rush Pack 2
     rarities:
     - Common

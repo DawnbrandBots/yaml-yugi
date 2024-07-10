@@ -8,7 +8,7 @@ name:
   pt:
   ja: ラヴ・ミリオン
   ja_romaji: Ravu Mirion
-  ko:
+  ko: 라브 밀리언
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     元々の攻撃力が０の自分の表側表示モンスター（天使族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    원래 공격력이 0 인 자신의 앞면 표시 몬스터(천사족)가 공격을 받는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     攻撃してきたモンスターの攻撃力はターン終了時まで１００万ダウンする。自分フィールドに表側表示モンスター（守備力０）がいる場合、さらに攻撃を受けるモンスターの攻撃力はターン終了時まで１００アップする。
-  ko:
+  ko: |-
+    공격해 온 몬스터의 공격력은 턴 종료시까지 1000000 내린다. 자신 필드에 앞면 표시 몬스터(수비력 0)가 있을 경우, 추가로 공격을 받는 몬스터의 공격력은 턴 종료시까지 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP053
+    set_name: Over Rush Pack 2
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR053
     set_name: Over Rush Pack 2
     rarities:
     - Super Rare

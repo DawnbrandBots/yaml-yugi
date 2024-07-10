@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>冠<rt>かん</rt></ruby><ruby>狙<rt>そ</rt></ruby><ruby>楽<rt>がっ</rt></ruby><ruby>姫<rt>き</rt></ruby>トロンボウ
   ja_romaji: Kansogakki Toronbou
-  ko:
+  ko: 관조악희 트럼보우
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送り、手札のモンスター（風属性／戦士族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고, 패의 몬스터(바람 속성 / 전사족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。自分の墓地に通常モンスターがいる場合、さらに自分または相手フィールドのモンスター１体を選んで表示形式を変更できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다. 자신 묘지에 일반 몬스터가 있을 경우, 추가로 자신 또는 상대 필드의 몬스터 1장을 고르고 표시 형식을 변경할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP071
+    set_name: Over Rush Pack 2
+    rarities:
+    - Super Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP2-KR071
     set_name: Over Rush Pack 2
     rarities:
     - Super Rare

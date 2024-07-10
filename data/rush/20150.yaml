@@ -8,7 +8,7 @@ name:
   pt:
   ja: オーバーラッシュ・ストーム
   ja_romaji: Ōbārasshu Sutōmu
-  ko:
+  ko: 오버러시 스톰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスター２体を好きな順番でデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터 2장을 좋아하는 순서대로 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで持ち主のデッキの下に戻す。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 주인의 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP077
+    set_name: Over Rush Pack 2
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP2-KR077
     set_name: Over Rush Pack 2
     rarities:
     - Ultra Rare

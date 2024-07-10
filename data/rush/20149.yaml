@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>のもろこし
   ja_romaji: Tenshi no Morokoshi
-  ko:
+  ko: 천사의 옥수수
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（水族）がいて、自分の墓地にモンスター（水族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(물족)가 있고, 자신 묘지에 몬스터(물족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。その後、自分は手札１枚を選んでデッキの下に戻す。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 그 후, 자신은 패 1장을 고르고 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP076
+    set_name: Over Rush Pack 2
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR076
     set_name: Over Rush Pack 2
     rarities:
     - Super Rare

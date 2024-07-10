@@ -8,7 +8,7 @@ name:
   pt:
   ja: マグネット・リターン
   ja_romaji: Magunetto Ritān
-  ko:
+  ko: 마그넷 리턴
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル４以下／岩石族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 4 이하 / 암석족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル７・８／岩石族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 7・8 / 암석족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP036
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR036
     set_name: Over Rush Pack 2
     rarities:
     - Common

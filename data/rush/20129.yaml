@@ -8,7 +8,7 @@ name:
   pt:
   ja: ラヴ・レター
   ja_romaji: Ravu Retā
-  ko:
+  ko: 라브 레터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスターが３体以上いて、その攻撃力の合計が０の場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터가 3장 이상 있고, 그 공격력의 합계가 0 일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（天使族／攻撃力０）１体を選んで手札に加える。その後、自分の墓地の「ラヴ・メモリー」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(천사족 / 공격력 0) 1장을 고르고 패에 넣는다. 그 후, 자신 묘지의 "라브 메모리" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP050
+    set_name: Over Rush Pack 2
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR050
     set_name: Over Rush Pack 2
     rarities:
     - Ultra Rare

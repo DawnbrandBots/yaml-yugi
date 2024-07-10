@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>電磁双剣<rt>マグネット・ツイン・セイバー</rt></ruby>
   ja_romaji: Magunetto Tsuin Seibā
-  ko:
+  ko: 마그넷 트윈 세이버
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（岩石族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(암석족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は３００アップする。装備モンスターが「結束の戦士マグネット・バルキリオン」の場合、装備モンスターは１ターンに２回までモンスターに攻撃できる。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 300 올린다. 장착 몬스터가 "결속의 전사 마그넷 발키리온"일 경우, 장착 몬스터는 1턴에 2회까지 몬스터에 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP037
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR037
     set_name: Over Rush Pack 2
     rarities:
     - Common

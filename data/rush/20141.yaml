@@ -8,7 +8,7 @@ name:
   pt:
   ja: ダイスキー・ネル
   ja_romaji: Daisukī Neru
-  ko:
+  ko: 다이스키 네루
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにサイコロを振る効果を持つ表側表示モンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 주사위를 던지는 효과를 가지는 앞면 표시 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで表示形式を変更する（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 표시 형식을 변경한다(공격 표시는 앞면 수비 표시로, 수비 표시는 앞면 공격 표시로 한다).
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP068
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP2-KR068
     set_name: Over Rush Pack 2
     rarities:
     - Common

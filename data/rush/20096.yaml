@@ -8,7 +8,7 @@ name:
   pt:
   ja: スペース・バドエクスプロイト
   ja_romaji: Supēsu Badoekusupuroito
-  ko:
+  ko: 스페이스 버드익스플로이트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示モンスター（レベル７以上／サイバース族）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 사이버스족)가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手に５００ダメージを与える。その後、自分の墓地の「ディープワーニング・フュージョン」１枚を選んで自分の魔法＆罠ゾーンにセットできる。
-  ko:
+  ko: |-
+    상대에게 500 데미지를 준다. 그 후, 자신 묘지의 "딥워닝 퓨전" 1장을 고르고 자신의 마법 & 함정 존에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP2-JP015
+    set_name: Over Rush Pack 2
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP2-KR015
     set_name: Over Rush Pack 2
     rarities:
     - Common
