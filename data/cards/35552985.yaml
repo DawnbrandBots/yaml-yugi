@@ -1,7 +1,7 @@
 konami_id: 20241
 password: 35552985
 name:
-  en: Fiendsmith Sanctus
+  en: Fiendsmith's Sanct
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If you control no face-up monsters, or all face-up monsters you control are LIGHT Fiend monsters: Special Summon 1 "Fiendsmith Token" (Fiend/LIGHT/Level 1/ATK 0/DEF 0), also you cannot declare attacks for the rest of this turn, except with Fiend monsters. If a face-up "Fiendsmith" monster(s) you control is destroyed by an opponent's card effect while this card is in your GY: You can Set this card. You can only use each effect of "Fiendsmith Sanctus" once per turn.
+    If you control no face-up monsters, or the only face-up monsters you control are LIGHT Fiend monsters: Special Summon 1 "Fiendsmith Token" (Fiend/LIGHT/Level 1/ATK 0/DEF 0), also you cannot declare attacks for the rest of this turn, except with Fiend monsters. If a face-up "Fiendsmith" monster(s) you control is destroyed by an opponent's card effect, while this card is in your GY: You can Set this card. You can only use each effect of "Fiendsmith's Sanct" once per turn.
   de:
   es:
   fr:
@@ -32,8 +32,33 @@ series:
 - Fiendsmith
 images:
 - index: 1
-  image: FiendsmithSanctus-INFO-JP-C.png
+  image: FiendsmithsSanct-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN062
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE062
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR062
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT062
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT062
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP062
     set_name: The Infinite Forbidden
@@ -42,9 +67,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048160

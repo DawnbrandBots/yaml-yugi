@@ -1,7 +1,7 @@
 konami_id: 20240
 password: 98567237
 name:
-  en: Fiendsmith Tractus
+  en: Fiendsmith's Tract
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 "Fiendsmith" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. You can only use each effect of "Fiendsmith Tractus" once per turn.
+    Add 1 LIGHT Fiend monster from your Deck to your hand, then discard 1 card. You can banish this card from your GY; Fusion Summon 1 "Fiendsmith" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of "Fiendsmith's Tract" once per turn.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ series:
 - Fiendsmith
 images:
 - index: 1
-  image: FiendsmithTractus-INFO-JP-R.png
+  image: FiendsmithsTract-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP061
     set_name: The Infinite Forbidden
@@ -42,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048158

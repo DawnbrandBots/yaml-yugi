@@ -1,7 +1,7 @@
 konami_id: 20226
 password: 49867899
 name:
-  en: Fiendsmith Sequentia
+  en: Fiendsmith's Sequence
   de:
   es:
   fr:
@@ -16,9 +16,9 @@ name:
 text:
   en: |-
     2 monsters, including a LIGHT Fiend monster
-    During your Main Phase: You can Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by shuffling its materials from your GY into the Deck. You can target 1 non-Link LIGHT Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell with this effect.
+    During your Main Phase: You can Fusion Summon 1 Fiend Fusion Monster from your Extra Deck, by shuffling its materials from your GY into the Deck. You can target 1 LIGHT non-Link Fiend monster you control; equip this card from your field or GY to that monster you control as an Equip Spell with the following effect.
     ● Your opponent cannot target the equipped monster with card effects.
-    You can only use each effect of "Fiendsmith Sequentia" once per turn.
+    You can only use each effect of "Fiendsmith's Sequence" once per turn.
   de:
   es:
   fr:
@@ -42,8 +42,33 @@ series:
 - Fiendsmith
 images:
 - index: 1
-  image: FiendsmithSequentia-INFO-JP-C.png
+  image: FiendsmithsSequence-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP047
     set_name: The Infinite Forbidden
@@ -52,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048155
