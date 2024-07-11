@@ -11,7 +11,7 @@ name:
   ja_romaji: Chikai no Enburēma
   ko: 맹세의 엠블레마
   ko_rr: Mengse-ui Embeullema
-  zh-TW:
+  zh-TW: 起誓的徽紋
   zh-CN: 起誓的徽纹
 text:
   en: |-
@@ -48,7 +48,10 @@ text:
     このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。●デッキから「センチュリオン」モンスター１体を永続罠カード扱いで自分の魔法＆罠ゾーンに表側表示で置く。このターン、この効果で置いたカードまたはそのカードと元々のカード名が同じカードが自分フィールドに表側表示で存在する間、自分は「センチュリオン」モンスターしかＥＸデッキから特殊召喚できない。●デッキから「センチュリオン」魔法・罠カード１枚を自分フィールドにセットする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●덱에서 "센츄리온" 몬스터 1장을 지속 함정 카드로 취급하고 자신의 마법 & 함정 존에 앞면 표시로 놓는다. 이 턴에, 이 효과로 놓은 카드 또는 그 카드와 원래의 카드명이 같은 카드가 자신 필드에 앞면 표시로 존재하는 동안, 자신은 "센츄리온" 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. ●덱에서 "센츄리온" 마법 / 함정 카드 1장을 자신 필드에 세트한다.
-  zh-TW:
+  zh-TW: |-
+    此卡名的卡１回合僅可發動１張。 ①：可從以下效果中選擇１個發動。
+    ●從牌組將１隻「百夫騎」怪獸視為永續陷阱卡，以表側表示放在自己的魔法與陷阱區域。此回合，以此效果所放的卡或原本卡名與該卡相同的卡以表側表示存在於自己場上期間，自己從額外牌組僅可特殊召喚「百夫騎」怪獸。
+    ●從牌組將１張「百夫騎」魔法・陷阱卡放置在自己場上。
   zh-CN: |-
     此卡名的卡１回合仅可发动１张。
     ①：可从以下效果中选择１个发动。
@@ -60,7 +63,11 @@ series:
 - Emblema
 images:
 - index: 1
+  image: EmblemaOath-DBVS-JP-UR.png
+  illustration: EmblemaOath-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: EmblemaOath-VASM-EN-UR-1E.png
+  illustration: EmblemaOath-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: VASM-EN021
@@ -109,3 +116,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1005864
+master_duel_rarity: UR
