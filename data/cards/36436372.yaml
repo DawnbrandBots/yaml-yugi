@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can send 1 "Gimmick Puppet" monster with a different Level from your Deck to the GY; this card's Level becomes the sent monster's. You can only use this effect of "Gimmick Puppet Little Soldiers" once per turn. You can banish this card from your GY, then target up to 2 "Gimmick Puppet" monsters you control; increase their Levels by 4 until the end of this turn.
+    If this card is Normal or Special Summoned: You can send 1 "Gimmick Puppet" monster with a different Level than this card from your Deck to the GY; this card's Level becomes that monster's. You can only use this effect of "Gimmick Puppet Little Soldiers" once per turn. You can banish this card from your GY, then target up to 2 "Gimmick Puppet" monsters you control; increase their Levels by 4 until the end of this turn.
   de:
   es:
   fr:
@@ -39,6 +39,31 @@ images:
 - index: 1
   image: GimmickPuppetLittleSoldiers-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN007
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE007
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR007
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT007
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT007
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP007
     set_name: The Infinite Forbidden
@@ -47,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048624

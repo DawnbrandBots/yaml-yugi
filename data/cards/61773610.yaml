@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If a non-Ritual Monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 "Skull Guardian" from your hand or Deck. You can send this face-up card from the Spell & Trap Zone to the GY, then target 1 Ritual Monster you control; it gains ATK equal to the total original ATK of all other monsters currently on the field, until the end of this turn. You can only use each effect of "Guardian of the Voiceless Voice" once per turn, and cannot activate more than 1 in the same Chain.
+    If a face-up monster(s) you control is destroyed by battle or card effect, except Ritual Monsters: You can Special Summon 1 "Skull Guardian" from your hand or Deck. You can send this face-up card to the GY, then target 1 Ritual Monster you control; it gains ATK equal to the combined original ATK of the other monsters currently on the field, until the end of this turn. You can only use each effect of "Guardian of the Voiceless Voice" once per turn, and cannot activate more than 1 in the same Chain.
   de:
   es:
   fr:
@@ -35,6 +35,31 @@ images:
 - index: 1
   image: GuardianoftheVoicelessVoice-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN074
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE074
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR074
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT074
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT074
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP074
     set_name: The Infinite Forbidden
@@ -43,9 +68,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1051954

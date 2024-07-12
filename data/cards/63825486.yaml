@@ -1,7 +1,7 @@
 konami_id: 20187
 password: 63825486
 name:
-  en: Gimmick Puppet Bloody Doll
+  en: Gimmick Puppet Rouge Doll
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If this card is in your hand: You can reveal 1 "Gimmick Puppet" Xyz Monster in your Extra Deck; Special Summon both 1 "Gimmick Puppet" monster from your Deck with a Level equal to the revealed monster's Rank, and this card. If this card is sent to the GY, except from the hand: You can add this card to your hand. You can only use each effect of "Gimmick Puppet Bloody Doll" once per turn. You cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except "Gimmick Puppet" monsters.
+    If this card is in your hand: You can reveal 1 "Gimmick Puppet" Xyz Monster in your Extra Deck; Special Summon both this card, and 1 "Gimmick Puppet" monster with the same Level as the revealed monster's Rank from your Deck. If this card is sent to the GY, except from the hand: You can add it to your hand. You can only use each effect of "Gimmick Puppet Rouge Doll" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either of this card's effects, except "Gimmick Puppet" monsters.
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ series:
 - Puppet
 images:
 - index: 1
-  image: GimmickPuppetBloodyDoll-INFO-JP-R.png
+  image: GimmickPuppetRougeDoll-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN008
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE008
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR008
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT008
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT008
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP008
     set_name: The Infinite Forbidden
@@ -47,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048625

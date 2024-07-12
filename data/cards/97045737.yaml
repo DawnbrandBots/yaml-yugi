@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: Negate that effect, then, if you have a Trap in your GY, destroy that negated card. You cannot activate DARK, WATER, and FIRE monster effects for the rest of this Duel after this card activated from the hand resolves. You can only activate 1 "Dominus Purge" per turn.
+    If your opponent controls a card, you can activate this card from your hand. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: Negate that effect, then if you have a Trap in your GY, destroy that card. If you activated this card from your hand, you cannot activate the effects of DARK, WATER, and FIRE monsters for the rest of this Duel. You can only activate 1 "Dominus Purge" per turn.
   de:
   es:
   fr:
@@ -32,6 +32,36 @@ images:
 - index: 1
   image: DominusPurge-INFO-JP-SR.png
 sets:
+  en:
+  - set_number: INFO-EN078
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: INFO-DE078
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: INFO-FR078
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: INFO-IT078
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: INFO-PT078
+    set_name: The Infinite Forbidden
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: INFO-JP078
     set_name: The Infinite Forbidden
@@ -47,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1055756

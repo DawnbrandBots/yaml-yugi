@@ -1,7 +1,7 @@
 konami_id: 9255
 password: 70117791
 name:
-  en: Bombing Beast Fire Bomber
+  en: Blazing Bombardment Beast
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Machine monster + 1 Pyro monster
-    If this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy it, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of "Bombing Beast Fire Bomber" once per turn.
+    If this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of "Blazing Bombardment Beast" once per turn.
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ def: 2400
 materials: 1 Machine-Type monster + 1 Pyro-Type monster
 images:
 - index: 1
-  image: BombingBeastFireBomber-VJMP-JP-UR.png
+  image: BlazingBombardmentBeast-VJMP-JP-UR.png
 sets:
+  en:
+  - set_number: INFO-EN097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: VJMP-JP247
     set_name: V Jump Spring 2024 subscription bonus
@@ -47,7 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1050415
