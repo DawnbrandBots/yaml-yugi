@@ -1,7 +1,7 @@
 konami_id: 20246
 password: 97223101
 name:
-  en: BBS - Be Back Site
+  en: That's 10!
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Each time a card or effect is activated, except "BBS - Be Back Site" (except during the Damage Step): You can place 1 Access Counter on this card (max. 10). Monsters you control gain 100 ATK for each Access Counter on this card. If the 10th Access Counter is placed on this card: You can return this card to the hand, and if you do, Set 1 Continuous Trap directly from your Deck with an effect that Special Summons itself as a monster. It can be activated this turn.
+    Each time a card or effect is activated, except "That's 10!": You can place 1 Access Counter on this card (max. 10). Monsters you control gain 100 ATK for each Access Counter on this card. If the 10th Access Counter is placed on this card: You can return this card to the hand, and if you do, Set from your Deck, 1 Continuous Trap with an effect that Special Summons itself as a monster. It can be activated this turn.
   de:
   es:
   fr:
@@ -30,8 +30,33 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: BBSBeBackSite-INFO-JP-NR.png
+  image: Thats10-INFO-JP-NR.png
 sets:
+  en:
+  - set_number: INFO-EN067
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE067
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR067
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT067
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT067
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP067
     set_name: The Infinite Forbidden
@@ -40,9 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1056073

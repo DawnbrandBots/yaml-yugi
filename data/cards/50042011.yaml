@@ -1,7 +1,7 @@
 konami_id: 20199
 password: 50042011
 name:
-  en: Mementotlan Mystical Sheep
+  en: Mementotlan Shleepy
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If a monster(s) in your possession was destroyed by card effect this turn (Quick Effect): You can Special Summon this card from your hand. If this card is Normal or Special Summoned (except during the Damage Step): You can Fusion Summon 1 "Memento" Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If this card is destroyed by battle or card effect: You can send 1 "Memento" card from your Deck to the GY, except "Mementotlan Mystical Sheep". You can only use each effect of "Mementotlan Mystical Sheep" once per turn.
+    During the turn a monster(s) in your possession was destroyed by card effect (Quick Effect): You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can Fusion Summon 1 "Memento" Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is destroyed by battle or card effect: You can send 1 "Memento" card from your Deck to the GY, except "Mementotlan Shleepy". You can only use each effect of "Mementotlan Shleepy" once per turn.
   de:
   es:
   fr:
@@ -36,8 +36,33 @@ series:
 - Memento
 images:
 - index: 1
-  image: MementotlanMysticalSheep-INFO-JP-C.png
+  image: MementotlanShleepy-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN020
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE020
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR020
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT020
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT020
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP020
     set_name: The Infinite Forbidden
@@ -46,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1055490

@@ -1,7 +1,7 @@
 konami_id: 20245
 password: 60238002
 name:
-  en: Interdimensional Matter Translocator
+  en: Interdimensional Matter Forwarder
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster whose effects are negated; banish it, then return it to the field. Before resolving an opponent's card effect that targets this face-up card, banish this card until the End Phase of the next turn. You can only use each effect of "Interdimensional Matter Translocator" once per turn.
+    You can target 1 monster on the field; banish it, then return it to the field. If your opponent activates a card or effect: You can target 1 face-up monster on the field whose effects are negated; banish it, then return it to the field. Before resolving an opponent's card effect that targets this card on the field, banish this card, until the End Phase of the next turn. You can only use each effect of "Interdimensional Matter Forwarder" once per turn.
   de:
   es:
   fr:
@@ -30,8 +30,33 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: InterdimensionalMatterTranslocator-INFO-JP-C.png
+  image: InterdimensionalMatterForwarder-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN066
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE066
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR066
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT066
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT066
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP066
     set_name: The Infinite Forbidden
@@ -40,9 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1056048

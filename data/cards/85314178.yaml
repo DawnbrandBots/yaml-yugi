@@ -15,8 +15,8 @@ name:
   zh-CN:
 text:
   en: |-
-    If a Field Spell Card is activated: You can Special Summon this card from your hand in Defense Position. You can target 1 face-up card in the Field Zone, then activate this effect based on its controller;
-    ● You: Destroy it, and if you do, add 1 Field Spell with a different name from your Deck to your hand.
+    If a Field Spell Card is activated: You can Special Summon this card from your hand in Defense Position. You can target 1 face-up card in the Field Zone, then activate the appropriate effect, based on which player controls that card;
+    ● You: Destroy it, and if you do, add 1 Field Spell from your Deck to your hand with a different name.
     ● Your opponent: Negate its effects (until the end of this turn), and if you do, add 1 Field Spell from your Deck to your hand.
     You can only use each effect of "Cosmo Queen the Queen of Prayers" once per turn.
   de:
@@ -39,6 +39,31 @@ images:
 - index: 1
   image: CosmoQueentheQueenofPrayers-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN024
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE024
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR024
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT024
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT024
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP024
     set_name: The Infinite Forbidden
@@ -47,7 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1054195

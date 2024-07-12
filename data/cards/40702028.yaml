@@ -1,7 +1,7 @@
 konami_id: 20220
 password: 40702028
 name:
-  en: DPA Jeanne d'Moore
+  en: DPH Gendamoore
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    If this card is Synchro Summoned: You can Special Summon 1 Level 4 Cyberse monster from your GY in Defense Position, but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. When your Cyberse monster battles an opponent's monster and inflicts battle damage to them: You can banish this card from your GY; inflict an equal amount of damage to your opponent. You can only use each effect of "DPA Jeanne d'Moore" once per turn.
+    If this card is Synchro Summoned: You can Special Summon 1 Level 4 Cyberse monster from your GY in Defense Position, but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. When your Cyberse monster battles an opponent's monster and inflicts battle damage to them: You can banish this card from your GY; inflict that much damage to your opponent. You can only use each effect of "DPH Gendamoore" once per turn.
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ def: 2800
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: DPAJeannedMoore-INFO-JP-C.png
+  image: DPHGendamoore-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN041
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE041
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR041
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT041
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT041
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP041
     set_name: The Infinite Forbidden
@@ -47,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048548

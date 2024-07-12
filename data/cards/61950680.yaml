@@ -1,7 +1,7 @@
 konami_id: 20242
 password: 61950680
 name:
-  en: Emblema Atonement
+  en: Emblema Salvation
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Banish 1 face-up "Centur-Ion" Monster Card from your Spell & Trap Zone, then target 1 card your opponent controls; banish it. If this Set card is destroyed, or banished, by an opponent's activated effect: You can place 2 "Centur-Ion" monsters with different names from your hand, Deck, GY, and/or banishment in your Spell & Trap Zone as face-up Continuous Traps. You can only activate 1 "Emblema Atonement" per turn.
+    Banish 1 face-up "Centur-Ion" Monster Card from your Spell & Trap Zone, then target 1 card your opponent controls; banish it. If this Set card in its owner's control is destroyed or banished by an opponent's activated effect: You can place 2 "Centur-Ion" monsters with different names from your hand, Deck, GY, and/or banishment in your Spell & Trap Zone as face-up Continuous Traps. You can only activate 1 "Emblema Salvation" per turn.
   de:
   es:
   fr:
@@ -32,8 +32,33 @@ series:
 - Emblema
 images:
 - index: 1
-  image: EmblemaAtonement-INFO-JP-C.png
+  image: EmblemaSalvation-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN063
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE063
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR063
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT063
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT063
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP063
     set_name: The Infinite Forbidden
@@ -42,9 +67,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1055532

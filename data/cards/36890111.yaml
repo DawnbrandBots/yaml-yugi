@@ -1,7 +1,7 @@
 konami_id: 20235
 password: 36890111
 name:
-  en: Mansion of the Underworld Dolls
+  en: Mansion of the Dreadful Dolls
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    When this card is activated: You can add 1 "Gimmick Puppet" monster from your Deck to your hand. "Gimmick Puppet" monsters you control cannot be destroyed by battle, also they are unaffected by your opponent's activated non-Xyz monster effects. Once per turn: You can detach 1 Xyz Material from a monster you control, then target 1 "Gimmick Puppet" monster in your GY; Special Summon it to your opponent's field in Defense Position. You can only activate 1 "Mansion of the Underworld Dolls" per turn.
+    When this card is activated: You can add 1 "Gimmick Puppet" monster from your Deck to your hand. "Gimmick Puppet" monsters you control cannot be destroyed by battle, and are unaffected by the activated effects of your opponent's monsters, except their Xyz Monsters. Once per turn: You can detach 1 material from an Xyz Monster you control, then target 1 "Gimmick Puppet" monster in your GY; Special Summon it to your opponent's field in Defense Position. You can only activate 1 "Mansion of the Dreadful Dolls" per turn.
   de:
   es:
   fr:
@@ -30,8 +30,33 @@ card_type: Spell
 property: Field
 images:
 - index: 1
-  image: MansionoftheUnderworldDolls-INFO-JP-C.png
+  image: MansionoftheDreadfulDolls-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN056
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE056
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR056
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT056
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT056
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP056
     set_name: The Infinite Forbidden
@@ -40,9 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048630

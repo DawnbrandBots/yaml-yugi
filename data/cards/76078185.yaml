@@ -1,7 +1,7 @@
 konami_id: 20224
 password: 76078185
 name:
-  en: Heretical Phoboscobos
+  en: Heretical Phobos Covos
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 4 monsters
-    You can target 1 Effect Monster your opponent controls; negate its effects, then, if it battled this turn, you can take control of it until the End Phase. This is a Quick Effect if this card has an Illusion monster as material. You can only use this effect of "Heretical Phoboscobos" once per turn. If this card battles a monster, neither can be destroyed by that battle.
+    You can target 1 Effect Monster your opponent controls; negate its effects, then if it battled this turn, you can take control of it until the End Phase. This is a Quick Effect if this card has an Illusion monster as material. You can only use this effect of "Heretical Phobos Covos" once per turn. If this card battles a monster, neither can be destroyed by that battle.
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ def: 1500
 materials: 2 Level 4 monsters
 images:
 - index: 1
-  image: HereticalPhoboscobos-INFO-JP-R.png
+  image: HereticalPhobosCovos-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN045
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+  de:
+  - set_number: INFO-DE045
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: INFO-FR045
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+  it:
+  - set_number: INFO-IT045
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: INFO-PT045
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
   ja:
   - set_number: INFO-JP045
     set_name: The Infinite Forbidden
@@ -47,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048550

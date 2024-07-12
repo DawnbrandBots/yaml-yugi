@@ -1,7 +1,7 @@
 konami_id: 20230
 password: 74139959
 name:
-  en: Astral World Tree Illumistil
+  en: Cosmic Tree Irmistil
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3+ Effect Monsters
-    You can only control 1 "Astral World Tree Illumistil". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to its ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
+    You can only control 1 "Cosmic Tree Irmistil". Each time your opponent Special Summons a monster(s) face-up during the Main Phase, you gain LP equal to their ATK. Once per turn (Quick Effect): You can pay LP in multiples of 1000 (max. 3000); this card gains that much ATK.
   de:
   es:
   fr:
@@ -41,8 +41,33 @@ atk: 2000
 materials: 3+ Effect Monsters
 images:
 - index: 1
-  image: AstralWorldTreeIllumistil-INFO-JP-R.png
+  image: CosmicTreeIrmistil-INFO-JP-R.png
 sets:
+  en:
+  - set_number: INFO-EN051
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE051
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR051
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT051
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT051
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP051
     set_name: The Infinite Forbidden
@@ -51,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1048552

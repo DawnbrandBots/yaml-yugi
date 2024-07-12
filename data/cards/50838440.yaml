@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    During your opponent's End Phase, if your opponent has more total cards in their hand and field than you do: Special Summon 3 Normal Monsters from your GY. You can banish this card from your GY, then target 3 Monster Cards you control with different original names; Set 1 Spell/Trap directly from your hand or Deck that mentions all 3 of those cards' original names.
+    During your opponent's End Phase, if your opponent has more total cards in their hand and field than you have in your hand and field: Special Summon 3 Normal Monsters from your GY. You can banish this card from your GY, then target 3 Monster Cards you control with different original names; Set 1 Spell/Trap from your hand or Deck that mentions the original names of all 3 targets.
   de:
   es:
   fr:
@@ -32,6 +32,31 @@ images:
 - index: 1
   image: ThreeinOne-INFO-JP-NR.png
 sets:
+  en:
+  - set_number: INFO-EN080
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE080
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR080
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT080
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT080
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP080
     set_name: The Infinite Forbidden
@@ -40,7 +65,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1055327

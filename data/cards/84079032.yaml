@@ -1,7 +1,7 @@
 konami_id: 20209
 password: 84079032
 name:
-  en: Menkoumori
+  en: Bettan Bat
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Up to thrice per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; toss a coin and if the result is heads, change it to face-up Attack Position, or if the result is tails, change it to face-down Defense Position. Once per turn, if a monster(s) on the field is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, while this card is in the Monster Zone, even during the Damage Step: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.
+    Up to thrice per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; toss a coin and if the result is heads, change it to face-up Attack Position, or if the result is tails, change it to face-down Defense Position. Once per turn, if another monster(s) on the field is flipped face-up, or a face-up monster(s) is changed to face-down Defense Position, even during the Damage Step: You can target 1 of them; change it to face-up Attack Position or face-down Defense Position.
   de:
   es:
   fr:
@@ -34,8 +34,33 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: Menkoumori-INFO-JP-C.png
+  image: BettanBat-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN030
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE030
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR030
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT030
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT030
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP030
     set_name: The Infinite Forbidden
@@ -44,9 +69,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1056050

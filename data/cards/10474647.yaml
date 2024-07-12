@@ -1,7 +1,7 @@
 konami_id: 20210
 password: 10474647
 name:
-  en: May Malaipard
+  en: Depresspard
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    If this is the only card in your hand: You can Special Summon this card. If Summoned this way: Its ATK becomes 2500 until the end of your opponent's turn. If this card battles an opponent's monster, you take any battle damage your opponent would have taken from that battle, instead. If you take damage from a battle involving this card: Change its ATK to 0, then, if your LP are 2000 or less, its ATK becomes 5000.
+    If this is the only card in your hand: You can Special Summon this card. If you do: This card's ATK becomes 2500 until the end of your opponent's turn. If this card battles an opponent's monster, you take any battle damage your opponent would have taken from that battle. If you take damage from battles involving this card: This card's ATK becomes 0, then if your LP are 2000 or less, this card's ATK becomes 5000.
   de:
   es:
   fr:
@@ -34,8 +34,33 @@ atk: 100
 def: 100
 images:
 - index: 1
-  image: MayMalaipard-INFO-JP-NR.png
+  image: Depresspard-INFO-JP-NR.png
 sets:
+  en:
+  - set_number: INFO-EN031
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE031
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR031
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT031
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT031
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP031
     set_name: The Infinite Forbidden
@@ -44,9 +69,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1056051

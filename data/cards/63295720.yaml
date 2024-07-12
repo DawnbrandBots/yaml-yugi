@@ -1,7 +1,7 @@
 konami_id: 20236
 password: 63295720
 name:
-  en: Dragon's Glory of Light and Dark
+  en: Dragon's Light and Darkness
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 龙之影光
 text:
   en: |-
-    Activate 1 of these effects (but you can only use each effect of "Dragon's Glory of Light and Dark" once per turn);
-    ● Shuffle 1 Level 8 Dragon monster from your hand into the Deck, and if you do, add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand.
+    Activate 1 of these effects (but you can only use each effect of "Dragon's Light and Darkness" once per turn);
+    ● Shuffle 1 Level 8 Dragon monster from your hand into the Deck and add 1 Level 8 Dragon monster with a different Attribute from your Deck to your hand.
     ● Target 1 Dragon monster you control; it gains ATK equal to its Level x 200.
-    ● When a card or effect is activated that targets a Dragon monster(s) you control: Negate that effect.
+    ● When a card or effect is activated that targets a Dragon monster you control: Negate that effect.
   de:
   es:
   fr:
@@ -42,8 +42,33 @@ series:
 - Light and Darkness Dragon
 images:
 - index: 1
-  image: DragonsGloryofLightandDark-INFO-JP-C.png
+  image: DragonsLightandDarkness-INFO-JP-C.png
 sets:
+  en:
+  - set_number: INFO-EN057
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  de:
+  - set_number: INFO-DE057
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  fr:
+  - set_number: INFO-FR057
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  it:
+  - set_number: INFO-IT057
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  pt:
+  - set_number: INFO-PT057
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ja:
   - set_number: INFO-JP057
     set_name: The Infinite Forbidden
@@ -52,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1055278
