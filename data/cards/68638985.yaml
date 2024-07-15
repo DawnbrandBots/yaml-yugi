@@ -40,6 +40,9 @@ attribute: WATER
 level: 2
 atk: 700
 def: 500
+series:
+- Slime
+- Toad
 images:
 - index: 1
   image: SlimeToad-OP03-EN-C-UE.png
@@ -91,15 +94,6 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
-  ko:
-  - set_number: TP05-KR005
-    set_name: Tournament Pack 2010 Vol.5
-    rarities:
-    - Common
-  - set_number: AE14-KR014
-    set_name: Advanced Event Pack 2019 Vol.2
-    rarities:
-    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
