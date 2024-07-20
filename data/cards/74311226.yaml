@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     只要此卡以表侧表示存在于场上，我方场上等级3或以下的海龙族怪兽可直接攻击对手玩家。此外，此卡为了发动水属性怪兽的效果被送入墓地时，从牌组将1只「海皇的龍騎隊」以外的海龙族怪兽加入手牌。
   zh-CN: |-
-    ①：只要此卡存在于怪兽区，可直接攻击我方等级３或以下的海龙族怪兽。②：此卡为了发动水属性怪兽的效果被送入墓地的场合发动。从牌组将１只除“海皇的龙骑队”以外的海龙族怪兽加入手牌。
+    ①：只要此卡存在于怪兽区域，自己的等级3以下的海龙族怪兽可以直接攻击。②：此卡为发动水属性怪兽的效果被送至墓地的情况下发动。从牌组将“海皇的龙骑队”以外的1只海龙族怪兽加入手牌。
 card_type: Monster
 monster_type_line: Sea Serpent / Effect
 attribute: WATER
@@ -130,6 +130,11 @@ sets:
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: INFO-SC091
+    set_name: Infinite Forbidden
+    rarities:
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
