@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20513
+password: 71456737
 name:
   en: Battlewasp - Sachi the Ritual Bow
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    昆虫族チューナー＋チューナー以外のモンスター１体以上
+    このカード名の③の効果は１ターンに１度しか使用できない。①：このカードがＳ召喚した場合に発動できる。このカードをチューナーとして扱う。②：１ターンに１度、自分フィールドの永続魔法カード１枚を手札に戻して発動できる。このターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに「Ｂ・Ｆ」モンスター１体を召喚できる。③：このカードがＳ素材として墓地へ送られた場合に発動できる。自分の除外状態の「Ｂ・Ｆ」モンスターの数×１００ダメージを相手に与える。
   ko:
   zh-TW:
   zh-CN:
@@ -37,19 +39,19 @@ series:
 - Battlewasp
 images:
 - index: 1
-  image: BattlewaspSachitheRitualBow-ROTA-JP-OP.png
+  image: BattlewaspSachitheRitualBow-ROTA-JP-C.png
 sets:
   ja:
   - set_number: ROTA-JP037
     set_name: Rage of the Abyss
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1072055
-fake_password: 101206037

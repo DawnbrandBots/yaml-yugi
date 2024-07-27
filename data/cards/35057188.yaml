@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20512
+password: 35057188
 name:
   en: Battlewasp - Gran Partisan the Revolution
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    チューナー＋チューナー以外のモンスター１体以上
+    このカード名の③の効果は１ターンに１度しか使用できない。①：このカードはモンスターゾーンに存在する限り、効果では破壊されない。②：自分フィールドの昆虫族Ｓモンスターの攻撃力は、自分の除外状態の昆虫族モンスターの数×２００アップする。③：このカードが除外された場合に発動できる。このカードを特殊召喚する。その後、自分の除外状態の昆虫族モンスターの数まで相手フィールドのカードを破壊できる。その場合、さらに破壊した数×５００ダメージを相手に与える。
   ko:
   zh-TW:
   zh-CN:
@@ -37,19 +39,26 @@ series:
 - Battlewasp
 images:
 - index: 1
-  image: BattlewaspGranPartisantheRevolution-ROTA-JP-OP.png
+  image: BattlewaspGranPartisantheRevolution-ROTA-JP-SR.png
 sets:
   ja:
   - set_number: ROTA-JP036
     set_name: Rage of the Abyss
     rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-JP036
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1072054
-fake_password: 101206036
