@@ -2,28 +2,48 @@ konami_id: 5487
 password: 3103067
 name:
   en: Attack Guidance Armor
-  de:
-  es:
-  fr:
+  de: Angriffsumleitung
+  es: Armadura de Ataque Guiado
+  fr: Arme Redirectrice d'Attaque
   it: Armatura dall'Attacco Guidato
-  pt:
+  pt: Armadura Condutora de Ataque
   ja: <ruby>攻<rt>こう</rt></ruby><ruby>撃<rt>げき</rt></ruby><ruby>誘<rt>ゆう</rt></ruby><ruby>導<rt>どう</rt></ruby>アーマー
   ja_romaji: Kōgeki Yūdō Āmā
   ko: 공격유도 아머
   ko_rr: Gonggyeonk-yudo Ameo
-  zh-TW:
-  zh-CN: 攻击诱导装甲
+  zh-TW: 攻擊誘導鎧甲
+  zh-CN: 攻击诱导铠甲
 text:
   en: |-
     When a monster declares an attack: Activate 1 of these effects;
     ● Destroy the attacking monster.
     ● Target 1 monster on either field, except the attacking monster; change the attack target to it and perform damage calculation.
     You can only activate 1 "Attack Guidance Armor" per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Wenn ein Monster einen Angriff deklariert: Aktiviere 1 dieser Effekte;
+    ●Zerstöre das angreifende Monster.
+    ●Wähle 1 Monster auf einer beliebigen Spielfeldseite, außer dem angreifenden Monster; ändere das Angriffsziel darauf und führe die Schadensberechnung durch.
+    Du kannst nur 1 „Angriffsumleitung“ pro Spielzug aktivieren.
+  es: |-
+    Cuando un monstruo declara un ataque: activa 1 de estos efectos;
+    ●Destruye el monstruo atacante.
+    ●Selecciona 1 monstruo en cualquier Campo, excepto el monstruo atacante; cambia el objetivo del ataque a éste y haz el cálculo de daño.
+    Sólo puedes activar 1 "Armadura de Ataque Guiado" por turno.
+  fr: |-
+    Lorsqu'un monstre déclare une attaque : activez 1 de ces effets ;
+    ●Détruisez le monstre attaquant.
+    ●Ciblez 1 monstre sur l'un des Terrains (le monstre attaquant exclu) ; transférez-lui la cible de l'attaque et faites le calcul des dommages.
+    Vous ne pouvez activer qu'1 "Arme Redirectrice d'Attaque" par tour.
+  it: |-
+    Quando un mostro dichiara un attacco: attiva 1 di questi effetti;
+    ●Distruggi il mostro attaccante.
+    ●Scegli come bersaglio 1 mostro su qualsiasi Terreno, eccetto il mostro attaccante; cambia il bersaglio dell'attacco su di esso ed effettua il calcolo dei danni.
+    Puoi attivare solo 1 "Armatura Guida Attacco" per turno.
+  pt: |-
+    Quando um monstro declarar um ataque: ative 1 desses efeitos;
+    ●Destrua o monstro atacante.
+    ●Escolha 1 monstro em qualquer campo, exceto o monstro atacante; mude o alvo do ataque para ele e realize o cálculo de dano.
+    Você só pode ativar 1 "Armadura Condutora de Ataque" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：自分または相手のモンスターの攻撃宣言時に、以下の効果から１つを選択して発動できる。
     ●その攻撃モンスターを破壊する。
@@ -32,11 +52,14 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 또는 상대 몬스터의 공격 선언시에, 이하의 효과에서 1개를 선택하고 발동할 수 있다.
     ●그 공격 몬스터를 파괴한다.
     ●그 공격 몬스터 이외의 자신 또는 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 공격 대상을 그 몬스터로 옮겨 데미지 계산을 실행한다.
-  zh-TW:
+  zh-TW: |-
+    此卡名的卡１回合僅可發動１張。①：自己或對手的怪獸的攻擊宣言時，可從以下效果中選擇１個發動。
+    ●將該攻擊怪獸破壞。
+    ●以該攻擊怪獸以外的、自己或對手場上的１隻怪獸為對象可以發動。攻擊對象移換為該怪獸並進行傷害計算。
   zh-CN: |-
-    这个卡名的卡1回合只能发动1张。①：自己或者对手的怪兽的攻击宣言时，可以从以下的效果中选择1个发动。
-    ●将那只攻击怪兽破坏。
-    ●可以以那只攻击怪兽以外的自己或者对手场上的1只怪兽为对象发动。将攻击对象转移为那只怪兽来进行伤害计算。
+    此卡名的卡１回合仅可发动１张。①：自己或对手的怪兽的攻击宣言时，可从以下效果中选择１个发动。
+    ●将该攻击怪兽破坏。
+    ●以该攻击怪兽以外的、自己或对手场上的１只怪兽为对象可以发动。攻击对象移换为该怪兽并进行伤害计算。
 card_type: Trap
 property: Normal
 images:
@@ -66,3 +89,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 708400
+master_duel_rarity: SR
