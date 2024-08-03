@@ -1,20 +1,20 @@
 konami_id:
 name:
-  en: Fake Neos
+  en: Cross Loader
   de:
   es:
   fr:
   it:
   pt:
-  ja: フェイク・ネオス
-  ja_romaji: Feiku Neosu
+  ja: クロス・ローダー
+  ja_romaji: Kurosu Rōdā
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    Send the top 2 cards of your Deck to the Graveyard.
+    During the turn you Normal Summoned this card.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    This card's name becomes "Elemental HERO Neos" this turn. You can only attack with Warrior Type monsters this turn.
+    Special Summon 1 Level 7 Warrior Type monster with 2500 ATK/2000 DEF from your Graveyard face-up to your field. You can only attack with Warrior Type monsters this turn.
   de:
   es:
   fr:
@@ -38,19 +38,18 @@ effect:
   zh-CN:
 card_type: Monster
 monster_type_line: Warrior / Effect
-attribute: LIGHT
-level: 4
-atk: 1300
-def: 1000
+attribute: DARK
+level: 2
+atk: 400
+def: 400
 series:
-- Elemental HERO
 - Neos
 images:
 - index: 1
-  image: FakeNeos-RDKP18-JP-OP.png
+  image: CrossLoader-RDKP18-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP18-JP019
+  - set_number: RD/KP18-JP016
     set_name: Dark Matter of Phantoms
     rarities:
     - Common
@@ -59,4 +58,4 @@ is_translation_unofficial:
     en: true
   text:
     en: true
-yugipedia_page_id: 1073702
+yugipedia_page_id: 1074632
