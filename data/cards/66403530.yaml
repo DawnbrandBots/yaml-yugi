@@ -34,7 +34,7 @@ text:
     Você não pode Invocar/Baixar monstros em uma Zona de Monstros Adicional para a qual este card apontar. Ganha 200 de ATK para cada card banido. Se outro monstro for Invocado por Invocação-Especial em uma zona para a qual um Monstro Link apontar, enquanto este monstro estiver no campo: bana todos os cards no campo. Uma vez por turno, durante a Fase de Apoio do próximo turno depois que este card foi banido por seu próprio efeito: Invoque este card banido por Invocação-Especial.
   ja: |-
     効果モンスター２体以上
-    自分はこのカードのリンク先となるＥＸモンスターゾーンにモンスターを出せない。①：このカードの攻撃力は除外されているカードの数×２００アップする。②：このカードが既にモンスターゾーンに存在する状態で、このカード以外のモンスターがリンクモンスターのリンク先に特殊召喚された場合に発動する。フィールドのカードを全て除外する。③：このカードが自身の効果で除外された場合、次のターンのスタンバイフェイズに発動する。除外されているこのカードを特殊召喚する。
+    自分はこのカードのリンク先となるＥＸモンスターゾーンにモンスターを出せない。①：このカードの攻撃力は、除外状態のカードの数×２００アップする。②：このカードがモンスターゾーンに存在する状態で、Ｌモンスターのリンク先にモンスターが特殊召喚された場合に発動する。フィールドのカードを全て除外する。③：このカードが自身の効果で除外された場合、次のターンのスタンバイフェイズに発動する。除外状態のこのカードを特殊召喚する。
   ko: |-
     효과 몬스터 2장 이상
     자신은 이 카드의 링크 앞이 되는 엑스트라 몬스터 존에 몬스터를 낼 수 없다. ①: 이 카드의 공격력은 제외되어 있는 카드의 수 × 200 올린다. ②: 이 카드가 이미 몬스터 존에 존재하는 상태이고, 이 카드 이외의 몬스터가 링크 몬스터의 링크 앞에 특수 소환되었을 경우에 발동한다. 필드의 카드를 전부 제외한다. ③: 이 카드가 자신의 효과로 제외되었을 경우, 다음 턴의 스탠바이 페이즈에 발동한다. 제외되어 있는 이 카드를 특수 소환한다.
@@ -110,6 +110,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Ultra Rare
+  - set_number: DBCB-JP027
+    set_name: 'Deck Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: SD36-KR041
     set_name: 'Structure Deck: Revolver'

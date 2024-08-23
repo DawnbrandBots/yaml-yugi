@@ -53,7 +53,7 @@ effect:
   ja: |-
     このカードはモンスター（闇属性・地属性・水属性・炎属性・風属性）との戦闘では破壊されない。
   ko: |-
-    이 카드는 몬스터(어둠 속성 / 땅 속성 / 물 속성 / 화염 속성 / 바람 속성)와의 전투로는 파괴되지 않는다.
+    이 카드는 몬스터(어둠 속성・땅 속성・물 속성・화염 속성・바람 속성)와의 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -98,6 +98,10 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: RD/KP17-KR000
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Over Rush Rare
 is_translation_unofficial:
   text:
     en: true

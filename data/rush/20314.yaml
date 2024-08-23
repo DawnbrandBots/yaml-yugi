@@ -8,7 +8,7 @@ name:
   pt:
   ja: ウィトクロース・デメテル
   ja_romaji: Witokurōsu Demeteru
-  ko:
+  ko: 위트클로스 데메테르
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が墓地からモンスターを特殊召喚していないターンに発動できる。
-  ko:
+  ko: |-
+    자신이 묘지에서 몬스터를 특수 소환하고 있지 않은 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手は自身のデッキの上からカードを２枚めくり、お互いに確認する。自分は［その中のモンスターのレベルの合計］以下のレベルを持つ、自分の墓地のモンスター１体を選んで自分フィールドに表側表示で特殊召喚できる。相手はめくったカードを好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    상대는 자신의 덱 위에서 카드를 2장 넘기고, 서로 확인한다. 자신은 [그 중의 몬스터 레벨의 합계] 이하의 레벨을 가지는, 자신 묘지의 몬스터 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다. 상대는 넘긴 카드를 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP017
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP17-KR017
     set_name: Burst Rex of Awakening
     rarities:
     - Rare

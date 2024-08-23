@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>神<rt>ゴッド</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>獣<rt>じゅう</rt></ruby> ガーゼット
   ja_romaji: Goddo Majū Gāzetto
-  ko:
+  ko: 갓마수 가젯트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは効果モンスター３体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 효과 몬스터 3장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -50,7 +52,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は、［このカードを攻撃表示でアドバンス召喚する時にリリースした効果モンスターの元々の攻撃力の合計］だけアップする。モンスター３体をリリースして召喚したこのカードの攻撃力は８００アップする。
-  ko:
+  ko: |-
+    이 카드의 공격력은, [이 카드를 공격 표시로 어드밴스 소환할 때에 릴리스한 효과 몬스터의 원래 공격력의 합계]만큼 올린다. 몬스터 3장을 릴리스하고 일반 소환한 이 카드의 공격력은 800 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -67,6 +70,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP043
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP17-KR043
     set_name: Burst Rex of Awakening
     rarities:
     - Rare

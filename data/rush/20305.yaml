@@ -8,7 +8,7 @@ name:
   pt:
   ja: リリースレイヤー
   ja_romaji: Rirīsureiyā
-  ko:
+  ko: 릴리스슬레이어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。この効果でモンスター（魔法使い族）が墓地へ送られた場合、さらにこのターン、モンスター（闇属性／魔法使い族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 효과로 몬스터(마법사족)가 묘지로 보내졌을 경우, 추가로 이 턴에, 몬스터(어둠 속성 / 마법사족)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP008
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP17-KR008
     set_name: Burst Rex of Awakening
     rarities:
     - Common

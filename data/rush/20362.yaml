@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>神<rt>しん</rt></ruby><ruby>疑<rt>ぎ</rt></ruby>の<ruby>光<rt>こう</rt></ruby><ruby>来<rt>らい</rt></ruby>
   ja_romaji: Shingi no Kōrai
-  ko:
+  ko: 신의의 광래
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドのモンスターが墓地へ送られた時に発動できる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터가 묘지로 보내졌을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。その後、相手の手札をランダムに１枚選んで墓地へ送る事ができる。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 그 후, 상대의 패를 무작위로 1장 고르고 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP065
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP17-KR065
     set_name: Burst Rex of Awakening
     rarities:
     - Rare

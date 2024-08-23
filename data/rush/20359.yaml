@@ -8,7 +8,7 @@ name:
   pt:
   ja: ダークマター・アサシネイト
   ja_romaji: Dākumatā Asashineito
-  ko:
+  ko: 다크매터 어쌔시네이트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分または相手フィールドの裏側表示のカード１枚を選び、お互いに確認する。そのカードがモンスターカード（守備力１３００）だった場合、さらに相手フィールドの表側表示モンスター（レベル８以下）１体または裏側表示のカード１枚を選んで破壊できる。
-  ko:
+  ko: |-
+    자신 또는 상대 필드의 뒷면 표시의 카드 1장을 고르고, 서로 확인한다. 그 카드가 몬스터 카드(수비력 1300)였을 경우, 추가로 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장 또는 뒷면 표시의 카드 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP062
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP17-KR062
     set_name: Burst Rex of Awakening
     rarities:
     - Common

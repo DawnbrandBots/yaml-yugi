@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>夢<rt>む</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>誘<rt>いざな</rt></ruby>い
   ja_romaji: Muchū no Izanai
-  ko:
+  ko: 몽중의 권유
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、自分フィールドのモンスター１体と手札１枚を好きな順番で持ち主のデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 자신 필드의 몬스터 1장과 패 1장을 좋아하는 순서대로 주인의 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     マキシマムモンスター以外の相手フィールドの表側表示モンスター（レベル８以下）１体を選んでそのコントロールを得る。この効果でコントロールを得たモンスターはフィールドに表側表示でいる限り、攻撃できず効果を発動できない。
-  ko:
+  ko: |-
+    맥시멈 몬스터 이외의 상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 그 컨트롤을 얻는다. 이 효과로 컨트롤을 얻은 몬스터는 필드에 앞면 표시인 한, 공격할 수 없으며 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP066
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP17-KR066
     set_name: Burst Rex of Awakening
     rarities:
     - Ultra Rare

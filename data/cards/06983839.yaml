@@ -34,7 +34,7 @@ text:
     Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 Magia/Armadilha no campo; destrua-a.
   ja: |-
     レベル４モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。
+    ①：自分・相手ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     레벨 4 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -148,6 +148,8 @@ sets:
   - set_number: DBCB-JP013
     set_name: 'Deck Build Pack: Crossover Breakers'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: EP17-KR050
     set_name: Extra Pack 2017

@@ -27,7 +27,7 @@ text:
   pt: |-
     Compre 2 cards e, depois, bana 1 monstro de TREVAS da sua mão ou, se você não tiver nenhum na sua mão, envie toda a sua mão para o Cemitério.
   ja: |-
-    ①：自分はデッキから２枚ドローし、その後手札の闇属性モンスター１体を除外する。手札に闇属性モンスターが無い場合、手札を全て墓地へ送る。
+    ①：自分は２枚ドローする。その後、手札に闇属性モンスターが存在する場合、その内の１体を選んで除外する。存在しない場合、自分の手札を全て墓地へ送る。
   ko: |-
     ①: 자신은 덱에서 2장 드로우하고, 그 후 패의 어둠 속성 몬스터 1장을 제외한다. 패에 어둠 속성 몬스터가 없을 경우, 패를 전부 묘지로 보낸다.
   zh-TW: |-
@@ -399,6 +399,11 @@ sets:
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common
+  - set_number: DBCB-JP028
+    set_name: 'Deck Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: EXP1-KR027
     set_name: Extra Pack

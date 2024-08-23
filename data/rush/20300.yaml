@@ -8,7 +8,7 @@ name:
   pt:
   ja: ハイブリッドライブ・スケイル
   ja_romaji: Haiburiddoraibu Sukeiru
-  ko:
+  ko: 하이브리드라이브 스케일
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（光属性／ドラゴン族）とモンスター（地属性／機械族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(빛 속성 / 드래곤족)와 몬스터(땅 속성 / 기계족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。さらにこのターン、モンスター（ドラゴン族・機械族）を攻撃表示でアドバンス召喚する場合、表側表示のこのカードは２体分のリリースにできる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 추가로 이 턴에, 몬스터(드래곤족・기계족)를 공격 표시로 어드밴스 소환할 경우, 앞면 표시의 이 카드는 2장만큼의 릴리스로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP17-JP003
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP17-KR003
     set_name: Burst Rex of Awakening
     rarities:
     - Common
