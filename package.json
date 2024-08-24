@@ -8,7 +8,9 @@
   "scripts": {
     "load": "ts-node src/load.ts",
     "check-for-missing-fake-password": "ts-node src/assignments/check-for-missing.ts",
-    "check-for-missing-names": "ts-node src/check-for-missing-names.ts"
+    "check-for-missing-names": "ts-node src/check-for-missing-names.ts",
+    "format:check": "yarn prettier --check 'src/**/*.{js,ts}'",
+    "lint": "eslint 'src/**/*.ts'"
   },
   "engines": {
     "node": ">=20",

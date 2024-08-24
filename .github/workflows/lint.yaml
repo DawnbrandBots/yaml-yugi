@@ -65,6 +65,6 @@ jobs:
           cache: yarn
           cache-dependency-path: yarn.lock
       - run: yarn
-      - run: yarn prettier --check 'src/**/*.{js,ts}'
+      - run: yarn format:check
       - if: ${{ !cancelled() }}
-        run: yarn eslint 'src/**/*.ts'
+        run: yarn lint
