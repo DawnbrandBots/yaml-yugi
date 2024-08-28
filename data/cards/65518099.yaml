@@ -27,14 +27,14 @@ text:
     C:\tierra\qliphort.exe zulassen? <J/N>...[J]
     Autonomie-Modus wird gebootet...''
   es: |-
-    Iníciando en Modo Réplica...
+    Iniciando en Modo Réplica...
     Ocurrió un error mientras se ejecutaba C:\sophia\zefra.exe
     Editor desconocido.
-    ¿Permitir ejecutar C:\tierra\qlifuerte.exe? <S/N>.. [S]
-    Iníciando en Modo Autónomo...''
+    ¿Permitir ejecutar C:\tierra\qlifuerte.exe? <S/N>... [S]
+    Iniciando en Modo Autónomo...''
   fr: |-
     Démarrage en Mode Réplique...
-    Une erreur est survenue lors de l’exécution de C:\sophia\zefra.exe
+    Une erreur est survenue lors de l'exécution de C:\sophia\zefra.exe
     Éditeur inconnu.
     Autoriser C:\tierra\qliphort.exe ? <O/N>...[O]
     Démarrage en Mode Autonomie...''
@@ -46,16 +46,16 @@ text:
     Avvio in Modalità Autonoma...''
   pt: |-
     Reiniciando em Modo de Réplica...
-    Um erro aconteceu ao executar C:\sophia\zefra.exe
+    Um erro aconteceu ao executar C:\sofia\zefra.exe
     Autor desconhecido.
     Permitir C:\tierra\qliphort.exe ? <S/N>...[S]
-    Reinciando em Modo Autônomo...''
+    Reiniciando em Modo Autônomo...''
   ja: |-
-    システムをレプリカモードで<ruby>起<rt>き</rt></ruby><ruby>動<rt>どう</rt></ruby>する<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>をしています...
-    C:¥sophia¥sefiroth.exe <ruby>実<rt>じっ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にエラーが<ruby>発<rt>はっ</rt></ruby><ruby>生<rt>せい</rt></ruby>しました。
-    <ruby>次<rt>つぎ</rt></ruby>の<ruby>不<rt>ふ</rt></ruby><ruby>明<rt>めい</rt></ruby>な<ruby>発<rt>はっ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>元<rt>もと</rt></ruby>からのファイルを<ruby>実<rt>じっ</rt></ruby><ruby>行<rt>こう</rt></ruby>しようとしています。
-    C:¥tierra¥qliphoth.exe の<ruby>実<rt>じっ</rt></ruby><ruby>行<rt>こう</rt></ruby>を<ruby>許<rt>きょ</rt></ruby><ruby>可<rt>か</rt></ruby>しますか？ <Y/N>...[Y]
-    システムを<ruby>自<rt>じ</rt></ruby><ruby>立<rt>りつ</rt></ruby>モードで<ruby>起<rt>き</rt></ruby><ruby>動<rt>どう</rt></ruby>します。
+    システムをレプリカモードで起動する準備をしています...
+    C：\sophia\sefiroth.exe 実行中にエラーが発生しました。
+    次の不明な発行元からのプログラムを実行しようとしています。
+    C：\tierra\qliphoth.exe の実行を許可しますか？ ＜Y／N＞...［Y］
+    システムを自律モードで起動します。
   ko: |-
     시스템을 레플리카 모드로 기동할 준비를 하고 있습니다...
     C:\sophia\sefiroth.exe 실행 중에 에러가 발생했습니다.
@@ -85,7 +85,7 @@ pendulum_effect:
   en: |-
     You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. Once per turn: You can pay 800 LP; add 1 "Qli" card from your Deck to your hand, except "Qliphort Scout".
   de: |-
-    Du kannst keine als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 800 LP zahlen; füge einer Hand 1 „Qli“-Karte von deinem Deck hinzu, außer „Qliphort-Kundschafter“.
+    Du kannst keine Monster als Spezialbeschwörung beschwören, außer „Qli“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug: Du kannst 800 LP zahlen; füge deiner Hand 1 „Qli“-Karte von deinem Deck hinzu, außer „Qliphort-Kundschafter“.
   es: |-
     No puedes Invocar monstruos de Modo Especial, excepto monstruos "Qli". Este efecto no puede ser negado. Una vez por turno: puedes pagar 800 LP; añade a tu mano 1 carta "Qli" en tu Deck, excepto "Explorador Qlifuerte".
   fr: |-
@@ -93,9 +93,9 @@ pendulum_effect:
   it: |-
     Non puoi Evocare Specialmente mostri, eccetto mostri "Qli". Questo effetto non può essere annullato. Una volta per turno: puoi pagare 800 LP; aggiungi 1 carta "Qli" dal tuo Deck alla tua mano, eccetto "Scout Qliphort".
   pt: |-
-    Você não pode Invocar monstros por Invcação-Especial, exceto monstros "Qli". Este efeito não pode ser negado. Uma vez por turno: você pode pagar 800 PV; adicione 1 card "Qli" do seu Deck à sua mão, exceto "Batedor Qliphort".
+    Você não pode Invocar monstros por Invocação-Especial, exceto monstros "Qli". Este efeito não pode ser negado. Uma vez por turno: você pode pagar 800 PV; adicione 1 card "Qli" do seu Deck à sua mão, exceto "Batedor Qliphort".
   ja: |-
-    ①：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>は「クリフォート」モンスターしか<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅう</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>できない。この<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>は<ruby>無<rt>む</rt></ruby><ruby>効<rt>こう</rt></ruby><ruby>化<rt>か</rt></ruby>されない。②：１ターンに１<ruby>度<rt>ど</rt></ruby>、８００<ruby>ＬＰ<rt>ライフポイント</rt></ruby>を<ruby>払<rt>は</rt></ruby>って<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。デッキから「クリフォート・ツール」以外の「クリフォート」カード１枚を<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>える。
+    ①：自分は「クリフォート」モンスターしか特殊召喚できない。この効果は無効化されない。②：１ターンに１度、８００ＬＰを払って発動できる。デッキから「クリフォート・ツール」以外の「クリフォート」カード１枚を手札に加える。
   ko: |-
     ①: 자신은 "클리포트" 몬스터밖에 특수 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 1턴에 1번, 800 LP를 지불하고 발동할 수 있다. 덱에서 "클리포트 툴" 이외의 "클리포트" 카드 1장을 패에 넣는다.
   zh-TW: |-
