@@ -1,20 +1,20 @@
 konami_id:
 name:
-  en: Ancient Gear Golem
+  en: Ancient Gear Tyranno
   de:
   es:
   fr:
   it:
   pt:
-  ja: <ruby>古代の機械巨人<rt>アンティーク・ギアゴーレム</rt></ruby>
-  ja_romaji:
+  ja: <ruby>古代の機械恐獣<rt>アンティーク・ギアティラノ</rt></ruby>
+  ja_romaji: Antīku Gia Tirano
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 summoning_condition:
   en: |-
-    This card cannot be Special Summoned.
+    If you have a face-up EARTH Attribute Machine Type monster with a Continuous Effect on your field, you can Normal Summon this card for 1 less Tribute.
   de:
   es:
   fr:
@@ -40,7 +40,7 @@ effect_types:
 - Continuous
 effect:
   en: |-
-    Your opponent cannot activate Trap Cards when this card declares an attack, and if it attacks a Defense Position monster, inflict piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference).
+    Your opponent cannot activate Trap Cards when this card declares an attack.
   de:
   es:
   fr:
@@ -54,21 +54,22 @@ card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
 level: 8
-atk: 3000
-def: 3000
+atk: 2500
+def: 2500
 series:
 - Ancient Gear
-legend: true
 images:
 - index: 1
-  image: AncientGearGolem-RDLGP2-JP-OP.png
+  image: AncientGearTyranno-RDLGP2-JP-OP.png
 sets:
   ja:
-  - set_number: RD/LGP2-JP004
+  - set_number: RD/LGP2-JP005
     set_name: Neo Legend Awakening Pack
     rarities:
     - Over Rush Rare
 is_translation_unofficial:
+  name:
+    en: true
   text:
     en: true
-yugipedia_page_id: 1075977
+yugipedia_page_id: 1076079
