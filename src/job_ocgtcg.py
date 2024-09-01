@@ -334,7 +334,8 @@ def replace_text(
     official_card: Dict[str, str],
     logger: logging.Logger,
 ) -> None:
-    source = official_card[skey]
+    # CSV only has empty strings, but null is preferred for YAML and JSON
+    source = official_card[skey] or None
     if document[pkey][ckey] != source:
         logger.info(
             f"{pkey}.{ckey} does not match: O[{source}] Y[{document[pkey][ckey]}]"
