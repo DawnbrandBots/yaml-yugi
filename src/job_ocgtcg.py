@@ -216,7 +216,7 @@ def mixin_text(
 ) -> None:
     if not document[pkey][ckey]:
         source = master_duel_card.get(skey)
-        if source:
+        if source and source != ".":
             logger.info(f"Merging in Master Duel {pkey}.{ckey}")
             if pkey == "text" or pkey == "pendulum_effect":
                 document[pkey][ckey] = LiteralScalarString(source)
