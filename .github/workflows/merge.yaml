@@ -32,6 +32,10 @@ jobs:
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
+      - uses: actions/checkout@v4
+        with:
+          repository: db-ygoresources-com/yugioh-card-history
+          path: yugioh-card-history
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -98,12 +102,7 @@ jobs:
         run: |
           sed -s '1i---' data/cards/*.yaml > ../aggregate/cards.yaml
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
-      - if: steps.commit.outputs.status > 0
-        run: cp aggregate/* yaml-yugi/src/web
-      - if: steps.commit.outputs.status > 0
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: yaml-yugi/src/web
+
       - if: steps.commit.outputs.status > 0
         uses: actions/setup-node@v4
         with:
@@ -113,6 +112,35 @@ jobs:
       - if: steps.commit.outputs.status > 0
         working-directory: yaml-yugi
         run: yarn
+
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history ja > ../aggregate/discrepancy.ja.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history en > ../aggregate/discrepancy.en.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history de > ../aggregate/discrepancy.de.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history es > ../aggregate/discrepancy.es.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history fr > ../aggregate/discrepancy.fr.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history it > ../aggregate/discrepancy.it.json || true
+      - if: steps.commit.outputs.status > 0
+        working-directory: yaml-yugi
+        run: yarn --silent check-for-ygoresources-discrepancies ../yugioh-card-history pt > ../aggregate/discrepancy.pt.json || true
+
+      - if: steps.commit.outputs.status > 0
+        run: cp aggregate/* yaml-yugi/src/web
+      - if: steps.commit.outputs.status > 0
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: yaml-yugi/src/web
       - if: steps.commit.outputs.status > 0
         working-directory: yaml-yugi
         name: Load (push)
