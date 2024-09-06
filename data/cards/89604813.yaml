@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20607
+password: 89604813
 name:
   en: Blue-Eyes Spirit Ultimate Dragon
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    チューナー２体以上＋チューナー以外の「ブルーアイズ」モンスター１体
+    このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分の墓地のカードを相手は除外できない。②：カードの効果がフィールドで発動した時に発動できる。その発動を無効にし、このカードの攻撃力をターン終了時まで１０００アップする。③：このカードが戦闘・効果で破壊された場合に発動できる。自分の墓地から「青眼の究極霊竜」以外のドラゴン族・光属性モンスター１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -37,20 +39,24 @@ series:
 - Blue-Eyes
 images:
 - index: 1
-  image: BlueEyesSpiritUltimateDragon-SD47-JP-OP.png
+  image: BlueEyesSpiritUltimateDragon-SD47-JP-UR.png
 sets:
   ja:
   - set_number: SD47-JP032
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Ultra Rare
+  - set_number: SD47-JPP06
+    set_name: 'Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack'
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1069783
-fake_password: 100347032

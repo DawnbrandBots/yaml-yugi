@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20609
+password: 42097666
 name:
   en: Spirit with Eyes of Blue
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    レベル４以下のドラゴン族・魔法使い族モンスター１体
+    このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがL召喚した場合に発動できる。デッキから「光の霊堂」１枚を選び、手札に加えるか墓地へ送る。②：このカードがモンスターゾーンに存在する限り、自分はドラゴン族モンスターしか特殊召喚できない。③：このカードをリリースして発動できる。自分の手札・墓地から「ブルーアイズ」モンスター１体を特殊召喚する。この効果で墓地から特殊召喚した効果モンスターは攻撃できず、効果は無効化される。
   ko:
   zh-TW:
   zh-CN:
@@ -38,19 +40,24 @@ series:
 - Field Searcher
 images:
 - index: 1
-  image: SpiritwithEyesofBlue-SD47-JP-OP.png
+  image: SpiritwithEyesofBlue-SD47-JP-NPR.png
 sets:
   ja:
   - set_number: SD47-JP034
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD47-JPP08
+    set_name: 'Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1074773
-fake_password: 100347034

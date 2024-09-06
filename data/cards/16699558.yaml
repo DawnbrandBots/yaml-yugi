@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20608
+password: 16699558
 name:
   en: Indigo-Eyes Silver Dragon
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ドラゴン族レベル８モンスター×２
+    このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＸ召喚した場合に発動できる。相手フィールドの全ての表側表示カードの効果は無効化される。②：通常モンスターをＸ素材としていないこのカードは直接攻撃できない。③：このカードのＸ素材を１つ取り除き、自分の墓地・除外状態の通常モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの攻撃力は１０００アップする。
   ko:
   zh-TW:
   zh-CN:
@@ -35,19 +37,24 @@ def: 0
 materials: 2 Level 8 Dragon-Type monsters
 images:
 - index: 1
-  image: IndigoEyesSilverDragon-SD47-JP-OP.png
+  image: IndigoEyesSilverDragon-SD47-JP-NPR.png
 sets:
   ja:
   - set_number: SD47-JP033
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD47-JPP07
+    set_name: 'Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1078685
-fake_password: 100347033

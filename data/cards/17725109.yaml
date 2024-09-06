@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20605
+password: 17725109
 name:
   en: Saga of the Blue-Eyed Dragon
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分のデッキ・墓地・除外状態の「ブルーアイズ」モンスター１体を守備表示で特殊召喚する。自分フィールドに「青眼の白龍」が存在しない場合には、この効果で「青眼の白龍」しか特殊召喚できない。このターン、自分はドラゴン族モンスターしかＥＸデッキから特殊召喚できない。②：墓地のこのカードを除外して発動できる。「ブルーアイズ」モンスターを含む、自分の手札・フィールドのモンスターを融合素材とし、融合モンスター１体を融合召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -29,19 +30,24 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: SagaoftheBlueEyedDragon-SD47-JP-OP.png
+  image: SagaoftheBlueEyedDragon-SD47-JP-NPR.png
 sets:
   ja:
   - set_number: SD47-JP019
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD47-JPP04
+    set_name: 'Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1069780
-fake_password: 100347019

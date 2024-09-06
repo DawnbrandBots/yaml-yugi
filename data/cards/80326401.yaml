@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20604
+password: 80326401
 name:
   en: Prayers with Eyes of Blue
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札を１枚捨てて発動できる。「青き眼の祈り」を除く、「青眼の白龍」のカード名が記された魔法・罠カード１枚と光属性・レベル１チューナー１体をデッキから手札に加える。②：墓地のこのカードを除外し、自分フィールドの「青眼の白龍」１体を対象として発動できる。ＥＸデッキから「ブルーアイズ」モンスター１体を攻撃力４００アップの装備魔法カード扱いで対象のモンスターに装備する。
   ko:
   zh-TW:
   zh-CN:
@@ -31,19 +32,25 @@ series:
 - with Eyes of Blue
 images:
 - index: 1
-  image: PrayerswithEyesofBlue-SD47-JP-OP.png
+  image: PrayerswithEyesofBlue-SD47-JP-NPR.png
 sets:
   ja:
   - set_number: SD47-JP018
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD47-JPP03
+    set_name: 'Structure Deck: Advent of the Eyes of Blue Legendary Majesty Inheritance Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
   text:
     en: true
 yugipedia_page_id: 1069777
-fake_password: 100347018
