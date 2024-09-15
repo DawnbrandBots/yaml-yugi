@@ -9,7 +9,7 @@ name:
   ja: ワイト
   ja_romaji:
   ko: 저주받은 하인
-  ko_rr:
+  ko_rr: Jeojubad-eun Hain
   zh-TW:
   zh-CN:
 text:
@@ -36,6 +36,8 @@ attribute: DARK
 level: 1
 atk: 300
 def: 200
+series:
+- Wight
 images:
 - index: 1
   image: SkullServant-RDSST1-JP-C.png
@@ -47,6 +49,10 @@ sets:
     - Common
   - set_number: RD/SST1-JP030
     set_name: Saikyo Starter Deck
+    rarities:
+    - Common
+  - set_number: RD/LGP2-JP055
+    set_name: Neo Legend Awakening Pack
     rarities:
     - Common
   ko:
