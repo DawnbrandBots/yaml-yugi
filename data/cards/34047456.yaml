@@ -27,7 +27,7 @@ text:
   pt: |-
     Escolha um número de monstros no campo e/ou nos Cemitérios, igual à diferença entre seus cards banidos e os do seu oponente; bana-os e, depois, seu oponente pode Invocar por Invocação-Especial 1 monstro do Deck dele. Você só pode ativar 1 "Gigantesca Cruz-Trovão" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：お互いのフィールド・墓地のモンスターの中から、除外されているお互いのカードの枚数の差の数だけ対象として発動できる。そのモンスターを除外する。その後、相手は自身のデッキからモンスター１体を特殊召喚できる。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分と相手の除外状態のカードの枚数の差の数だけ、お互いのフィールド・墓地のモンスターを対象として発動できる。そのモンスターを除外する。その後、相手は自身のデッキからモンスター１体を特殊召喚できる。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 서로의 필드 / 묘지의 몬스터 중에서, 제외되어 있는 서로의 카드 매수의 차의 수만큼 대상으로 하고 발동할 수 있다. 그 몬스터를 제외한다. 그 후, 상대는 자신의 덱에서 몬스터 1장을 특수 소환할 수 있다.
   zh-TW: |-
@@ -70,6 +70,10 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Common
+  - set_number: CF01-JP156
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PHHY-KR072
     set_name: Photon Hypernova

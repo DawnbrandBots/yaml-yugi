@@ -27,7 +27,7 @@ text:
   pt: |-
     Enquanto este card estiver equipado a um monstro, o monstro equipado ganha 400 de ATK/DEF para cada monstro banido. Você só pode usar 1 dos seguintes efeitos de "Gelojade Aegirocassis da Criação" por turno e apenas uma vez por turno. Se este card estiver na sua mão ou no Cemitério (exceto durante a Etapa de Dano) (Efeito Rápido): você pode escolher 1 monstro "Gelojade" que você controla; equipe este card a esse monstro que você controla. Enquanto este card estiver equipado a um monstro: você pode Invocar este card por Invocação-Especial.
   ja: |-
-    このカード名の①③の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが手札・墓地に存在する場合、自分フィールドの「氷水」モンスター１体を対象として発動できる。このカードを装備カード扱いとしてその自分のモンスターに装備する。この効果は相手ターンでも発動できる。②：このカードを装備したモンスターの攻撃力・守備力は、除外されているモンスターの数×４００アップする。③：このカードが装備されている場合に発動できる。このカードを特殊召喚する。
+    このカード名の①③の効果は１ターンに１度、いずれか１つしか使用できない。①：自分・相手ターンに、このカードが手札・墓地に存在する場合、自分フィールドの「氷水」モンスター１体を対象として発動できる。このカードを装備魔法カード扱いでその自分のモンスターに装備する。②：このカードを装備したモンスターの攻撃力・守備力は、除外状態のモンスターの数×４００アップする。③：このカードが装備されている場合に発動できる。このカードを特殊召喚する。
   ko: |-
     이 카드명의 ①③의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재할 경우, 자신 필드의 "히스이" 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 장착 카드로 취급하고 그 자신 몬스터에 장착한다. 이 효과는 상대 턴에도 발동할 수 있다. ②: 이 카드를 장착한 몬스터의 공격력 / 수비력은, 제외되어 있는 몬스터의 수 × 400 올린다. ③: 이 카드가 장착되어 있을 경우에 발동할 수 있다. 이 카드를 특수 소환한다.
   zh-TW: |-
@@ -96,6 +96,10 @@ sets:
     set_name: Power of the Elements
     rarities:
     - Rare
+  - set_number: CF01-JP152
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: POTE-KR010
     set_name: Power of the Elements

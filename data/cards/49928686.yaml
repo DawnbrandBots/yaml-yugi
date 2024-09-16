@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um monstro de Nível/Classe 2, você pode Invocar este card por Invocação-Especial (da sua mão). Você só pode Invocar "Pixies Spright" por Invocação-Especial uma vez por turno desta forma. Durante o cálculo de dano, se outro monstro de Nível/Classe/Link 2 que você controla batalhar um monstro do oponente (Efeito Rápido): você pode enviar este card da sua mão ou do campo para o Cemitério; até o final deste turno, esse monstro que você controla ganha ATK/DEF igual ao ATK do monstro do oponente. Você só pode usar este efeito de "Pixies Spright" uma vez por turno.
   ja: |-
-    このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドにレベル２またはランク２のモンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカード以外の自分のレベル２・ランク２・リンク２のモンスターが相手モンスターと戦闘を行うダメージ計算時に、手札・フィールドのこのカードを墓地へ送って発動できる。その自分のモンスターの攻撃力・守備力はターン終了時まで、その相手モンスターの攻撃力分アップする。
+    このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドにレベル２かランク２のモンスターが存在する場合、このカードは手札から特殊召喚できる。②：他の自分のレベル２・ランク２・リンク２のモンスターが相手モンスターと戦闘を行うダメージ計算時に、手札・フィールドのこのカードを墓地へ送って発動できる。その自分のモンスターの攻撃力・守備力はターン終了時まで、その相手モンスターの攻撃力分アップする。
   ko: |-
     이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 레벨 2 또는 랭크 2 의 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드 이외의 자신의 레벨 2 / 랭크 2 / 링크 2 의 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산시에, 패 / 필드의 이 카드를 묘지로 보내고 발동할 수 있다. 그 자신 몬스터의 공격력 / 수비력은 턴 종료시까지, 그 상대 몬스터의 공격력만큼 올린다.
   zh-TW: |-
@@ -96,6 +96,10 @@ sets:
     set_name: Power of the Elements
     rarities:
     - Common
+  - set_number: CF01-JP123
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: POTE-KR005
     set_name: Power of the Elements

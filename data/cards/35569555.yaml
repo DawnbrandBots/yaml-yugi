@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for ativado: você pode adicionar 1 Monstro de Ritual "Dogmatika" ou 1 Magia de Ritual "Dogmatika" do seu Deck à sua mão e, depois, se seu oponente controlar um monstro, você pode adicionar 1 card "Dogmatika" do seu Deck à sua mão. Uma vez por turno, se você controlar um Monstro de Ritual "Dogmatika": você pode olhar o Deck Adicional de qualquer duelista e enviar 1 monstro de lá para o Cemitério. Você só pode ativar 1 "Dogmatikamatriz" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、以下の効果を適用できる。●デッキから「ドラグマ」儀式モンスター１体または「ドラグマ」儀式魔法カード１枚を手札に加える。相手フィールドにモンスターが存在する場合、さらにデッキから「ドラグマ」カード１枚を手札に加える事ができる。②：１ターンに１度、自分フィールドに「ドラグマ」儀式モンスターが存在する場合に発動できる。自分または相手のＥＸデッキを確認し、その内のモンスター１体を選んで墓地へ送る。
+    このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、以下の効果を適用できる。●デッキから「ドラグマ」儀式モンスター１体か「ドラグマ」儀式魔法カード１枚を手札に加える。相手フィールドにモンスターが存在する場合、さらにデッキから「ドラグマ」カード１枚を手札に加える事ができる。②：１ターンに１度、自分フィールドに「ドラグマ」儀式モンスターが存在する場合に発動できる。自分か相手のＥＸデッキを確認し、その内のモンスター１体を墓地へ送る。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 카드의 발동시의 효과 처리로서, 이하의 효과를 적용할 수 있다.
     ●덱에서 "드래그마" 의식 몬스터 1장 또는 "드래그마" 의식 마법 카드 1장을 패에 넣는다. 상대 필드에 몬스터가 존재할 경우, 추가로 덱에서 "드래그마" 카드 1장을 패에 넣을 수 있다.
@@ -74,6 +74,10 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Common
+  - set_number: CF01-JP148
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PHHY-KR055
     set_name: Photon Hypernova
