@@ -34,7 +34,7 @@ text:
     Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 monstro Besta, Besta-Guerreira ou Besta Alada de Nível 4 ou menos da sua mão e, além disso, você não pode usar monstros como Matéria Link pelo resto deste turno, exceto monstros Besta, Besta-Guerreira ou Besta Alada. Se este card for enviado para o Cemitério: você pode comprar 1 card e, depois, coloque 1 card da sua mão no fundo do Deck. Você só pode usar cada efeito de "Ferrijit, o Florescer Estéril da Tri-Brigada" uma vez por turno.
   ja: |-
     獣族・獣戦士族・鳥獣族モンスター２体
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札からレベル４以下の獣族・獣戦士族・鳥獣族モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は獣族・獣戦士族・鳥獣族モンスターしかリンク素材にできない。②：このカードが墓地へ送られた場合に発動できる。自分はデッキから１枚ドローし、その後手札を１枚選んでデッキの一番下に戻す。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札からレベル４以下の獣族・獣戦士族・鳥獣族モンスター１体を特殊召喚する。この効果の発動後、ターン終了時まで自分は獣族・獣戦士族・鳥獣族モンスターしかＬ素材にできない。②：このカードが墓地へ送られた場合に発動できる。自分は１枚ドローする。その後、自分の手札を１枚選んでデッキの一番下に戻す。
   ko: |-
     야수족 / 야수전사족 / 비행야수족 몬스터 2장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 패에서 레벨 4 이하의 야수족 / 야수전사족 / 비행야수족 몬스터 1장을 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 야수족 / 야수전사족 / 비행야수족 몬스터밖에 링크 소재로 할 수 없다. ②: 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우하고, 그 후 패를 1장 골라 덱 맨 아래로 되돌린다.
@@ -43,9 +43,7 @@ text:
     此卡名的①②效果，１回合各僅限使用１次。①：可在我方主要階段發動。從手牌特殊召喚１隻等級４以下的獸族・獸戰士族・鳥獸族怪獸。此效果發動後，在回合結束前我方僅限以獸族・獸戰士族・鳥獸族怪獸做為連結素材。②：可在此卡被送至墓地的狀況下發動。我方從牌組抽１張牌，其後選擇１張手牌送回牌組的最下方。
   zh-CN: |-
     兽族・兽战士族・鸟兽族怪兽２只
-    此卡名的①②效果１回合仅可各使用１次。
-    ①：在自己的主要阶段可以发动。从手牌将１只等级４以下的兽族・兽战士族・鸟兽族怪兽特殊召唤。此效果发动后，直至回合结束时为止，自己仅可将兽族・兽战士族・鸟兽族怪兽作为连接素材。
-    ②：此卡被送至墓地的情况下可以发动。自己抽１张。然后，挑选１张自己的手牌放回牌组最下面。
+    此卡名的①②效果１回合仅可各使用１次。①：在自己的主要阶段可以发动。从手牌将１只等级４以下的兽族・兽战士族・鸟兽族怪兽特殊召唤。此效果发动后，直至回合结束时为止，自己仅可将兽族・兽战士族・鸟兽族怪兽作为连接素材。②：此卡被送至墓地的情况下可以发动。自己抽１张。然后，挑选１张自己的手牌放回牌组最下面。
 card_type: Monster
 monster_type_line: Beast / Link / Effect
 attribute: EARTH
@@ -122,7 +120,7 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
-  - set_number: CF01-JP???
+  - set_number: CF01-JP015
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
