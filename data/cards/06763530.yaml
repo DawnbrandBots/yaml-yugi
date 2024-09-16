@@ -39,7 +39,7 @@ text:
     ● Invoque por Invocação-Fusão 1 Monstro de Fusão de Nível 8 ou mais do seu Deck Adicional, ao banir Matérias de Fusão listadas nele de qualquer campo.
     Você só pode ativar 1 "Banimento Marcado" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の、「デスピア」モンスターまたはレベル８以上の融合モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。その後、以下の効果を適用できる。●自分・相手フィールドから、レベル８以上の融合モンスターカードによって決められた融合素材モンスターを除外し、その融合モンスター１体をＥＸデッキから融合召喚する。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地の、「デスピア」モンスターまたはレベル８以上の融合モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。その後、以下の効果を適用できる。●自分・相手フィールドのモンスターを融合素材として除外し、レベル８以上の融合モンスター１体を融合召喚する。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 묘지의, "데스피아" 몬스터 또는 레벨 8 이상의 융합 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 그 후, 이하의 효과를 적용할 수 있다.
     ●자신 / 상대 필드에서, 레벨 8 이상의 융합 몬스터 카드에 기재된 융합 소재 몬스터를 제외하고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.
@@ -106,6 +106,10 @@ sets:
     set_name: Dimension Force
     rarities:
     - Rare
+  - set_number: CF01-JP097
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DIFO-KR072
     set_name: Dimension Force

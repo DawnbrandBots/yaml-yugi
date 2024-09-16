@@ -27,7 +27,7 @@ text:
   pt: |-
     Se um card com a face para cima estiver em uma Zona do Campo, você pode Invocar este card por Invocação-Especial (da sua mão). Você só pode Invocar "Gelojade Kosmochlor" por Invocação-Especial uma vez por turno desta forma. Enquanto "Berço Enion, Cenote de Gelojade" estiver no campo, monstros que seu oponente controla só podem ativar seus efeitos no turno em que forem Invocados. Se um monstro "Gelojade" seu batalhar um monstro do oponente, esse monstro do oponente perde 1000 de ATK apenas durante esse cálculo de dano.
   ja: |-
-    このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：フィールドゾーンに表側表示でカードが存在する場合、このカードは手札から特殊召喚できる。②：フィールドに「氷水底イニオン・クレイドル」が存在する限り、相手フィールドのモンスターは召喚・反転召喚・特殊召喚されたターンにしか効果を発動できない。③：自分の「氷水」モンスターが相手モンスターと戦闘を行うダメージ計算時のみ、その相手モンスターの攻撃力は１０００ダウンする。
+    このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：フィールドゾーンに表側表示カードが存在する場合、このカードは手札から特殊召喚できる。②：フィールドに「氷水底イニオン・クレイドル」が存在する限り、このターンに召喚・反転召喚・特殊召喚されたモンスターを除く、フィールドのモンスターの効果を相手は発動できない。③：自分の「氷水」モンスターが相手モンスターと戦闘を行うダメージ計算時のみ、その相手モンスターの攻撃力は１０００ダウンする。
   ko: |-
     이 카드명의 ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없다. ①: 필드 존에 앞면 표시로 카드가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 필드에 "히스이테이 이니온 크레이들"이 존재하는 한, 상대 필드의 몬스터는 일반 소환 / 반전 소환 / 특수 소환된 턴에밖에 효과를 발동할 수 없다. ③: 자신의 "히스이" 몬스터가 상대 몬스터와 전투를 실행하는 데미지 계산시에만, 그 상대 몬스터의 공격력은 1000 내린다.
   zh-TW: |-
@@ -104,6 +104,10 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  - set_number: CF01-JP083
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BACH-KR006
     set_name: Battle of Chaos

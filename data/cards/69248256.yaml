@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Sincro: você pode adicionar à sua mão ou banir 1 card "Espadalma" do seu Deck. (Efeito Rápido): você pode banir 1 card "Espadalma" ou 1 monstro Wyrm da sua mão ou do Cemitério e, depois, escolha 1 outro Monstro de Efeito no campo; negue seus efeitos até o final deste turno. Você só pode usar 1 efeito de "Espadalma Grão-mestre - Chixiao" por turno e apenas uma vez por turno.
   ja: |-
     チューナー＋チューナー以外の幻竜族モンスター１体以上
-    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがＳ召喚に成功した場合に発動できる。デッキから「相剣」カード１枚を手札に加えるか除外する。②：自分の手札・墓地から「相剣」カード１枚または幻竜族モンスター１体を除外し、このカード以外のフィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
+    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがＳ召喚した場合に発動できる。デッキから「相剣」カード１枚を選び、手札に加えるか除外する。②：自分・相手ターンに、自分の手札・墓地から「相剣」カード１枚か幻竜族モンスター１体を除外し、フィールドの他の効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。
   ko: |-
     튜너 ＋ 튜너 이외의 환룡족 몬스터 1장 이상
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "상검" 카드 1장을 패에 넣거나 제외한다. ②: 자신의 패 / 묘지에서 "상검" 카드 1장 또는 환룡족 몬스터 1장을 제외하고, 이 카드 이외의 필드의 효과 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -119,6 +119,10 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: CF01-JP075
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BODE-KR041
     set_name: Burst of Destiny

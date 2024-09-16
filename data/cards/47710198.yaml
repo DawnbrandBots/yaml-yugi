@@ -34,7 +34,7 @@ text:
     Se você Invocar outro monstro Wyrm por Invocação-Sincro, enquanto este monstro estiver no campo: você pode comprar 1 card. Se seu oponente Invocar um ou mais monstros por Invocação-Especial (exceto durante a Etapa de Dano): você pode banir 1 desses monstros e, se isso acontecer, cause 1200 de dano ao seu oponente. Quando seu oponente ativar um Card de Magia/Armadilha ou seus efeitos (Efeito Rápido): você pode banir esse card e, se isso acontecer, cause 1200 de dano ao seu oponente. Você só pode usar cada efeito de "Espadalma Soberano Sinistro - Qixing Longyuan" uma vez por turno.
   ja: |-
     チューナー＋チューナー以外の幻竜族モンスター１体以上
-    このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがフィールドに存在し、自分が他の幻竜族ＳモンスターのＳ召喚に成功した場合に発動できる。自分はデッキから１枚ドローする。②：相手がモンスターの特殊召喚に成功した場合に発動できる。その内の１体を選んで除外し、相手に１２００ダメージを与える。③：相手が魔法・罠カードの効果を発動した時に発動できる。そのカードを除外し、相手に１２００ダメージを与える。
+    このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する状態で、自分が幻竜族ＳモンスターをＳ召喚した場合に発動できる。自分は１枚ドローする。②：相手がモンスターを特殊召喚した場合に発動できる。その内の１体を除外し、相手に１２００ダメージを与える。③：相手が魔法・罠カードの効果を発動した時に発動できる。そのカードを除外し、相手に１２００ダメージを与える。
   ko: |-
     튜너 ＋ 튜너 이외의 환룡족 몬스터 1장 이상
     이 카드명의 ①②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 필드에 존재하고, 자신이 다른 환룡족 싱크로 몬스터의 싱크로 소환에 성공했을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 상대가 몬스터의 특수 소환에 성공했을 경우에 발동할 수 있다. 그 중의 1장을 골라 제외하고, 상대에게 1200 데미지를 준다. ③: 상대가 마법 / 함정 카드의 효과를 발동했을 때에 발동할 수 있다. 그 카드를 제외하고, 상대에게 1200 데미지를 준다.
@@ -114,6 +114,10 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: CF01-JP089
+    set_name: 'Complete File: Story of White'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BACH-KR041
     set_name: Battle of Chaos
