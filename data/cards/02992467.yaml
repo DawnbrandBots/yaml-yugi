@@ -46,11 +46,15 @@ atk: 300
 def: 2100
 images:
 - index: 1
-  image: ClickEcho-DUNE-EN-C-1E.png
+  image: ClickEcho-MP24-EN-C-1E.png
 sets:
   en:
   - set_number: DUNE-EN030
     set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: MP24-EN367
+    set_name: '25th Anniversary Tin: Dueling Mirrors'
     rarities:
     - Common
   de:
@@ -58,9 +62,17 @@ sets:
     set_name: Duelist Nexus
     rarities:
     - Common
+  - set_number: MP24-DE367
+    set_name: '25th Anniversary Tin: Dueling Mirrors'
+    rarities:
+    - Common
   fr:
   - set_number: DUNE-FR030
     set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: MP24-FR367
+    set_name: '25th Anniversary Tin: Dueling Mirrors'
     rarities:
     - Common
   it:
@@ -68,9 +80,17 @@ sets:
     set_name: Duelist Nexus
     rarities:
     - Common
+  - set_number: MP24-IT367
+    set_name: '25th Anniversary Tin: Dueling Mirrors'
+    rarities:
+    - Common
   pt:
   - set_number: DUNE-PT030
     set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: MP24-PT367
+    set_name: '25th Anniversary Tin: Dueling Mirrors'
     rarities:
     - Common
   ja:
