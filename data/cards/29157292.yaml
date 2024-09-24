@@ -1,7 +1,7 @@
 konami_id: 20484
 password: 29157292
 name:
-  en: Metal Copycat
+  en: Metal Illusionist
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 钢铁幻象师
 text:
   en: |-
-    This card's Level is increased by 4 during your opponent's turn only. You can only use each of the following effects of "Metal Copycat" once per turn. If this card is Normal or Special Summoned: You can Set 1 "Metalmorph" Trap directly from your Deck, then, if you have "Enhanced Metalmorph" in your GY, you can draw 1 card. You can declare 1 Monster Type; this card becomes that Type until the end of your opponent's turn.
+    Increase this card's Level by 4 during your opponent's turn only. You can only use each of the following effects of "Metal Illusionist" once per turn. If this card is Normal or Special Summoned: You can Set 1 "Metalmorph" Trap from your Deck, then if "Max Metalmorph" is in your GY, you can draw 1 card. You can declare 1 other Monster Type; this card becomes that Type, until the end of your opponent's turn.
   de:
   es:
   fr:
@@ -35,8 +35,28 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: MetalCopycat-ROTA-JP-R.png
+  image: MetalIllusionist-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN008
+    set_name: Rage of the Abyss
+    rarities:
+  de:
+  - set_number: ROTA-DE008
+    set_name: Rage of the Abyss
+    rarities:
+  fr:
+  - set_number: ROTA-FR008
+    set_name: Rage of the Abyss
+    rarities:
+  it:
+  - set_number: ROTA-IT008
+    set_name: Rage of the Abyss
+    rarities:
+  pt:
+  - set_number: ROTA-PT008
+    set_name: Rage of the Abyss
+    rarities:
   ja:
   - set_number: ROTA-JP008
     set_name: Rage of the Abyss
@@ -50,9 +70,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064298
