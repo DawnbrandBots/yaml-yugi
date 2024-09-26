@@ -1,7 +1,7 @@
 konami_id: 20530
 password: 20934683
 name:
-  en: Azamina Ofeiletis
+  en: Azamina Debtors
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 圣徒・负疚
 text:
   en: |-
-    During the Main Phase: Reveal 1 "Azamina" Fusion Monster in your Extra Deck and send 1 "Sinful Spoils" card from your hand and/or field to the GY for every 4 Levels the revealed monster has (if those cards are Set, reveal them), then Special Summon it. (This is treated as a Fusion Summon.) During your Main Phase: You can banish this card from your GY, then target 1 "Azamina" monster in your GY; Special Summon it. You can only use 1 "Azamina Ofeiletis" effect per turn, and only once that turn.
+    During the Main Phase: Reveal 1 "Azamina" Fusion Monster in your Extra Deck, and for every 4 Levels it has (round down), send 1 "Sinful Spoils" card from your hand and/or field to the GY (if face-down, reveal it), then Special Summon that revealed monster. (This is treated as a Fusion Summon.) During your Main Phase: You can banish this card from your GY, then target 1 "Azamina" monster in your GY; Special Summon it. You can only use 1 "Azamina Debtors" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -33,8 +33,28 @@ series:
 - Azamina
 images:
 - index: 1
-  image: AzaminaOfeiletis-ROTA-JP-C.png
+  image: AzaminaDebtors-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN054
+    set_name: Rage of the Abyss
+    rarities:
+  de:
+  - set_number: ROTA-DE054
+    set_name: Rage of the Abyss
+    rarities:
+  fr:
+  - set_number: ROTA-FR054
+    set_name: Rage of the Abyss
+    rarities:
+  it:
+  - set_number: ROTA-IT054
+    set_name: Rage of the Abyss
+    rarities:
+  pt:
+  - set_number: ROTA-PT054
+    set_name: Rage of the Abyss
+    rarities:
   ja:
   - set_number: ROTA-JP054
     set_name: Rage of the Abyss
@@ -48,9 +68,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1068889

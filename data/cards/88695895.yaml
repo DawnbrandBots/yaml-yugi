@@ -1,7 +1,7 @@
 konami_id: 20550
 password: 88695895
 name:
-  en: Sinful Spoils Offenders
+  en: Guilt of the Sinful Spoils
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 罪宝的咎人
 text:
   en: |-
-    If your opponent Special Summons a monster(s) from the Deck and/or Extra Deck and you control a "Diabellstar" Monster Card: Target 1 monster they control; shuffle it into the Deck. During the Damage Step, if your "Diabellstar" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of "Sinful Spoils Offenders" once per turn.
+    If your opponent Special Summons a monster(s) from the Deck or Extra Deck and you control a "Diabellstar" Monster Card (except during the Damage Step): Target 1 monster your opponent controls; shuffle it into the Deck. During the Damage Step, when your "Diabellstar" monster battles an opponent's monster: You can banish this card from your GY; that opponent's monster's ATK becomes halved until the end of this turn. You can only use each effect of "Guilt of the Sinful Spoils" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,28 @@ series:
 - Sinful Spoils
 images:
 - index: 1
-  image: SinfulSpoilsOffenders-ROTA-JP-C.png
+  image: GuiltoftheSinfulSpoils-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN074
+    set_name: Rage of the Abyss
+    rarities:
+  de:
+  - set_number: ROTA-DE074
+    set_name: Rage of the Abyss
+    rarities:
+  fr:
+  - set_number: ROTA-FR074
+    set_name: Rage of the Abyss
+    rarities:
+  it:
+  - set_number: ROTA-IT074
+    set_name: Rage of the Abyss
+    rarities:
+  pt:
+  - set_number: ROTA-PT074
+    set_name: Rage of the Abyss
+    rarities:
   ja:
   - set_number: ROTA-JP074
     set_name: Rage of the Abyss
@@ -48,9 +68,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1068906
