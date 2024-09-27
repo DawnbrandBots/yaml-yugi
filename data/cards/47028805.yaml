@@ -1,7 +1,7 @@
 konami_id: 20503
 password: 47028805
 name:
-  en: Lil' Maji Mage
+  en: L Magi Mergy
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 码集小魔吉
 text:
   en: |-
-    During the Main Phase, if this card is in your hand (Quick Effect): You can Tribute 1 Cyberse monster or Link Monster; Special Summon this card. You can only use this effect of "Lil' Maji Mage" once per turn. Gains ATK equal to the total Link Ratings of all Link Monsters in your GY x 400.
+    Gains ATK equal to the total Link Rating of the Link Monsters in your GY x 400. During the Main Phase, if this card is in your hand (Quick Effect): You can Tribute 1 Cyberse monster or 1 Link Monster; Special Summon this card. You can only use this effect of "L Magi Mergy" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 0
 def: 1200
 images:
 - index: 1
-  image: LilMajiMage-ROTA-JP-C.png
+  image: LMagiMergy-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN027
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE027
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR027
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT027
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT027
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP027
     set_name: Rage of the Abyss
@@ -50,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1069114

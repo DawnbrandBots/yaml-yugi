@@ -1,7 +1,7 @@
 konami_id: 20504
 password: 73413514
 name:
-  en: Dream Absorber
+  en: Neverending Nightmare Absorber
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 梦幻吸收体
 text:
   en: |-
-    If your opponent activates a monster effect in the hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the effect was activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of "Dream Absorber" once per turn. Each time your opponent activates a monster effect, this card gains 1000 ATK immediately after it resolves.
+    Gains 1000 ATK each time your opponent activates a monster effect. If your opponent activates a monster effect in their hand, GY, or banishment (except during the Damage Step): You can Special Summon this card from your GY (if it was there when they activated) or hand (even if not), but destroy it during the End Phase. You can only use this effect of "Neverending Nightmare Absorber" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: DreamAbsorber-ROTA-JP-C.png
+  image: NeverendingNightmareAbsorber-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN028
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE028
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR028
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT028
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT028
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP028
     set_name: Rage of the Abyss
@@ -50,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064398

@@ -1,7 +1,7 @@
 konami_id: 20528
 password: 67441879
 name:
-  en: Battlewasp - Wind
+  en: Battlewasp Wind
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 蜂军之风
 text:
   en: |-
-    Up to twice per turn, if a "Battlewasp" monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of them; add 1 "Battlewasp" monster with less ATK from your Deck to your hand. Once per turn: You can target 1 Insect monster you control that has a Level; if you use it as Synchro Material this turn, you can treat it as a Tuner. You can only activate 1 "Battlewasp - Wind" per turn.
+    Twice per turn, if a "Battlewasp" monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of them; add 1 "Battlewasp" monster with less ATK than that monster from your Deck to your hand. Once per turn: You can target 1 Insect monster you control with a Level; this turn, you can treat it as a Tuner if used as Synchro Material. You can only activate 1 "Battlewasp Wind" per turn.
   de:
   es:
   fr:
@@ -35,6 +35,31 @@ images:
 - index: 1
   image: BattlewaspWind-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN052
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE052
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR052
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT052
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT052
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP052
     set_name: Rage of the Abyss
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072057

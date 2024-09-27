@@ -1,7 +1,7 @@
 konami_id: 20511
 password: 8963089
 name:
-  en: Eosvarog, Forger of the Dawn
+  en: Heosvarog the Mechanical Dawn
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 LIGHT Machine monsters
-    If this card is Fusion Summoned: You can activate this effect; during the Standby Phase of the next turn, add 1 card from your GY to your hand with an effect that Fusion Summons. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish 1 face-up LIGHT Machine monster you control OR 2 LIGHT Machine monsters from your GY; negate the activation. You can only use each effect of "Eosvarog, Forger of the Dawn" once per turn.
+    If this card is Fusion Summoned: You can activate this effect; during the Standby Phase of the next turn, add 1 card from your GY to your hand, with an effect that Fusion Summons a monster(s). When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can banish 1 face-up LIGHT Machine monster you control or 2 LIGHT Machine monsters from your GY; negate the activation. You can only use each effect of "Heosvarog the Mechanical Dawn" once per turn.
   de:
   es:
   fr:
@@ -39,8 +39,33 @@ def: 2800
 materials: 2 LIGHT Machine-Type monsters
 images:
 - index: 1
-  image: EosvarogForgeroftheDawn-ROTA-JP-SR.png
+  image: HeosvarogtheMechanicalDawn-ROTA-JP-SR.png
 sets:
+  en:
+  - set_number: ROTA-EN035
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+  de:
+  - set_number: ROTA-DE035
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: ROTA-FR035
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+  it:
+  - set_number: ROTA-IT035
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: ROTA-PT035
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
   ja:
   - set_number: ROTA-JP035
     set_name: Rage of the Abyss
@@ -68,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1069121

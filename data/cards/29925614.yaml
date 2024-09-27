@@ -1,7 +1,7 @@
 konami_id: 20487
 password: 29925614
 name:
-  en: Chaotic Allure Queen
+  en: Chaos Allure Queen
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 混沌的魅惑女王
 text:
   en: |-
-    You can discard 1 other LIGHT or DARK monster; Special Summon this card from your hand. You can target 1 monster in either GY; equip it to this card, and if you do, this card's name becomes that monster's (until the End Phase), then, if it is a LIGHT or DARK Monster Card, you can Special Summon 1 DARK "Allure Queen" monster from your Deck or GY. You can only use each effect of "Chaotic Allure Queen" once per turn.
+    You can discard 1 other LIGHT or DARK monster; Special Summon this card from your hand. You can target 1 monster in either GY; equip it to this card as an Equip Spell, and if you do, this card's name becomes that equipped monster's name (until the End Phase), then if you equipped a LIGHT or DARK Monster Card by this effect, you can Special Summon 1 DARK "Allure Queen" monster from your Deck or GY. You can only use each effect of "Chaos Allure Queen" once per turn.
   de:
   es:
   fr:
@@ -37,8 +37,33 @@ series:
 - Allure Queen
 images:
 - index: 1
-  image: ChaoticAllureQueen-ROTA-JP-R.png
+  image: ChaosAllureQueen-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN011
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE011
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR011
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT011
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT011
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP011
     set_name: Rage of the Abyss
@@ -52,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1070926

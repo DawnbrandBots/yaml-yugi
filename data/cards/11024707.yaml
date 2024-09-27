@@ -1,7 +1,7 @@
 konami_id: 20502
 password: 11024707
 name:
-  en: Purrfect Lander
+  en: Flipping Feline
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 回猫
 text:
   en: |-
-    If this card is sent from the hand or Deck to the GY: You can Special Summon this card in face-down Defense Position. If a monster(s) is sent from the hand or Deck to your GY, while you control this monster that was flipped face-up (except during the Damage Step): You can target 1 of them; Special Summon it in face-down Defense Position. You can only use each effect of "Purrfect Lander" once per turn.
+    If this card is sent from the hand or Deck to the GY: You can Special Summon it in face-down Defense Position. After this card was flipped face-up, if a monster(s) is sent from the hand and/or Deck to your GY, while this card is in the Monster Zone: You can target 1 of them; Special Summon it in face-down Defense Position. You can only use each effect of "Flipping Feline" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 200
 def: 200
 images:
 - index: 1
-  image: PurrfectLander-ROTA-JP-C.png
+  image: FlippingFeline-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN026
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE026
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR026
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT026
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT026
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP026
     set_name: Rage of the Abyss
@@ -50,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072888

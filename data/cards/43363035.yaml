@@ -1,7 +1,7 @@
 konami_id: 20497
 password: 43363035
 name:
-  en: Transient Titan of Tartarus
+  en: Wandering Titan of Tartarus
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 塔尔塔牢斯的徊神
 text:
   en: |-
-    If this card is sent from the Deck to the GY: Send as many cards you control as possible to the GY, and if you do, Special Summon this card, then send cards your opponent controls to the GY, up to the number of cards sent to the GY by this effect. Neither player can activate monster effects in response to this effect's activation. If this card is sent to the GY, except from the Deck: You can send 1 card from your hand to the GY; send 1 card on the field to the GY. You can only use 1 "Transient Titan of Tartarus" effect per turn, and only once that turn.
+    If this card is sent from the Deck to the GY: Send as many cards you control as possible to the GY, and if you do, Special Summon this card, then send cards your opponent controls to the GY up to the number sent to the GY by this effect. Neither player can activate monster effects in response to this effect's activation. If this card is sent to the GY, except from the Deck: You can send 1 card from your hand to the GY; send 1 card on the field to the GY. You can only use 1 "Wandering Titan of Tartarus" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 2600
 def: 0
 images:
 - index: 1
-  image: TransientTitanofTartarus-ROTA-JP-R.png
+  image: WanderingTitanofTartarus-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN021
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE021
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR021
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT021
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT021
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP021
     set_name: Rage of the Abyss
@@ -55,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072882

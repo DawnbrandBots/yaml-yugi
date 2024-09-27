@@ -1,21 +1,21 @@
 konami_id: 20483
 password: 53753697
 name:
-  en: Fiend Beast Zoa
+  en: Zoa the Fiendish Beast
   de:
   es:
   fr:
   it:
   pt:
   ja: <ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>獣<rt>じゅう</rt></ruby>デビルゾア
-  ja_romaji: Akumajū Debiruzoa
+  ja_romaji: Akumajū Debiru Zoa
   ko:
   ko_rr:
   zh-TW:
   zh-CN: 恶之魔兽 戴比鲁佐亚
 text:
   en: |-
-    If your opponent controls a monster, you can Normal Summon this card without Tributing. You can only use each of the following effects of "Fiend Beast Zoa" once per turn. If this card is in your hand: You can Special Summon it in Defense Position, then, if you do not have "Max Metalmorph" in your GY, your opponent can Special Summon 1 monster from their hand. During your Main Phase: You can Set 1 "Metalmorph" Trap from your Deck.
+    If your opponent controls a monster, you can Normal Summon this card without Tributing. You can only use each of the following effects of "Zoa the Fiendish Beast" once per turn. If this card is in your hand: You can Special Summon this card in Defense Position, then if "Max Metalmorph" is not in your GY, your opponent can Special Summon 1 monster from their hand. During your Main Phase: You can Set 1 "Metalmorph" Trap from your Deck.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ atk: 2600
 def: 1900
 images:
 - index: 1
-  image: FiendBeastZoa-ROTA-JP-C.png
+  image: ZoatheFiendishBeast-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP007
     set_name: Rage of the Abyss
@@ -50,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064296

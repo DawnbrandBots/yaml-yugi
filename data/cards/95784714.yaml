@@ -1,7 +1,7 @@
 konami_id: 20523
 password: 95784714
 name:
-  en: Flying Mary
+  en: Flying Mary, the Wandering Ghost Ship
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Zombie monsters
-    You can target 1 Level 5 or higher Zombie monster in your GY or banishment; place this card face-up in your Spell & Trap Zone as a Continuous Spell, and if you do, Special Summon that monster. While this card is a Continuous Spell: You can target 1 Level 5 or higher Zombie monster you control; destroy 1 monster your opponent controls with an equal or lower ATK. You can only use each effect of "Flying Mary" once per turn.
+    You can target 1 of your Level 5 or higher Zombie monsters that is banished or in your GY; place this card in your Spell & Trap Zone as a face-up Continuous Spell, and if you do, Special Summon that monster. While this card is a Continuous Spell: You can target 1 Level 5 or higher Zombie monster you control; destroy 1 monster your opponent controls with ATK less than or equal to that monster. You can only use each effect of "Flying Mary, the Wandering Ghost Ship" once per turn.
   de:
   es:
   fr:
@@ -40,8 +40,38 @@ atk: 0
 materials: 2 Zombie monsters
 images:
 - index: 1
-  image: FlyingMary-ROTA-JP-R.png
+  image: FlyingMarytheWanderingGhostShip-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN047
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: ROTA-DE047
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: ROTA-FR047
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: ROTA-IT047
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: ROTA-PT047
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: ROTA-JP047
     set_name: Rage of the Abyss
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1069123

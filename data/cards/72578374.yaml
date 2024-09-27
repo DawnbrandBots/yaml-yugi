@@ -1,7 +1,7 @@
 konami_id: 20510
 password: 72578374
 name:
-  en: Protostar Dragon of the Void
+  en: Khaos Starsource Dragon
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 LIGHT or DARK Dragon monster + 1 Dragon monster
-    If this card is Fusion Summoned: You can target cards your opponent controls up to the number of your LIGHT and DARK monsters used as its Fusion Material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of "Protostar Dragon of the Void" once per turn.
+    If this card is Fusion Summoned: You can target cards your opponent controls, up to the number of LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of "Khaos Starsource Dragon" once per turn.
   de:
   es:
   fr:
@@ -39,8 +39,33 @@ def: 2500
 materials: 1 LIGHT or DARK Dragon-Type monster + 1 Dragon-Type monster
 images:
 - index: 1
-  image: ProtostarDragonoftheVoid-ROTA-JP-R.png
+  image: KhaosStarsourceDragon-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN034
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE034
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR034
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT034
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT034
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP034
     set_name: Rage of the Abyss
@@ -54,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064395

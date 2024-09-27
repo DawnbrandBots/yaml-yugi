@@ -1,7 +1,7 @@
 konami_id: 20524
 password: 32278723
 name:
-  en: Surface Aqua Jet
+  en: Aqua Jet Surface
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 水波喷气机・上浮
 text:
   en: |-
-    Special Summon 1 Level 4 or lower Fish, Sea Serpent, or Aqua monster from your hand or GY, and if you do, you cannot Special Summon from the Extra Deck, except Xyz Monsters, while you control that face-up Special Summoned monster. If your opponent controls an Attack Position monster: You can banish this card from your GY, then target 1 Fish, Sea Serpent, or Aqua monster you control; it gains 1000 ATK until the end of this turn. You can only use each effect of "Surface Aqua Jet" once per turn.
+    Special Summon 1 Level 4 or lower Fish, Sea Serpent, or Aqua monster from your hand or GY, but you cannot Special Summon from the Extra Deck, except Xyz Monsters, while you control that face-up monster. If your opponent controls an Attack Position monster: You can banish this card from your GY, then target 1 Fish, Sea Serpent, or Aqua monster you control; it gains 1000 ATK until the end of this turn. You can only use each effect of "Aqua Jet Surface" once per turn.
   de:
   es:
   fr:
@@ -31,8 +31,33 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: SurfaceAquaJet-ROTA-JP-C.png
+  image: AquaJetSurface-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN048
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE048
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR048
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT048
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT048
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP048
     set_name: Rage of the Abyss
@@ -46,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1058521
