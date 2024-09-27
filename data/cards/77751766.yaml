@@ -1,7 +1,7 @@
 konami_id: 20556
 password: 77751766
 name:
-  en: Slapdash Summer Schoolwork Success
+  en: Summer Schoolwork Successful!
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 火器的祝台
 text:
   en: |-
-    Activate this card by placing 5 Success Counters on it. If a monster(s) is Special Summoned from the Extra Deck, and/or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Success Counter from this card, then, if there are no Success Counters on it, destroy it, and if you do, gain 4000 LP, then Set 1 "Schoolwork Success" Trap from your Deck or GY, then, if you have 1 or less cards in your Deck, you win the Duel.
+    Activate this card by placing 5 Schoolwork Counters on it. If a monster(s) is Special Summoned from the Extra Deck, or a card(s) is sent from the Deck to the GY, by a Spell/Trap effect: Remove 1 Schoolwork Counter from this card, then if the number of Schoolwork Counters on this card is now 0, destroy this card, and if you do, gain 4000 LP, then Set 1 "Schoolwork" Trap from your Deck or GY, then if you have 1 or less cards in your Deck, you win the Duel.
   de:
   es:
   fr:
@@ -30,12 +30,37 @@ text:
 card_type: Trap
 property: Continuous
 series:
-- Schoolwork Success
+- Schoolwork
 - Duel winner
 images:
 - index: 1
-  image: SlapdashSummerSchoolworkSuccess-ROTA-JP-NR.png
+  image: SummerSchoolworkSuccessful-ROTA-JP-NR.png
 sets:
+  en:
+  - set_number: ROTA-EN080
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE080
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR080
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT080
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT080
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP080
     set_name: Rage of the Abyss
@@ -49,9 +74,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072893

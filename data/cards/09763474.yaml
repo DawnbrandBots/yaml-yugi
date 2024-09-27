@@ -34,8 +34,7 @@ text:
     Você pode banir 1 monstro do seu campo com a face para cima ou Cemitério com 2000 ou menos de ATK e, depois, escolha 1 monstro com a face para cima no campo; faça com que o ATK dele se torne igual ao ATK original do monstro banido para ativar este efeito (até o final deste turno) e, depois, se você baniu um monstro que era originalmente um Réptil, compre 1 card. Você só pode usar este efeito de "Lagartose Abatido" uma vez por turno.
   ja: |-
     カード名が異なるモンスター２体
-    このカード名の効果は１ターンに１度しか使用できない。
-    ①：自分のフィールド（表側表示）・墓地から攻撃力２０００以下のモンスター１体を除外し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力をターン終了時まで、この効果を発動するために除外したモンスターの元々の攻撃力と同じにする。元々の種族が爬虫類族のモンスターを除外してこの効果を発動した場合、さらに自分は１枚ドローする。
+    このカード名の効果は１ターンに１度しか使用できない。①：自分のフィールド（表側表示）・墓地から攻撃力２０００以下のモンスター１体を除外し、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力をターン終了時まで、この効果を発動するために除外したモンスターの元々の攻撃力と同じにする。元々の種族が爬虫類族のモンスターを除外してこの効果を発動した場合、さらに自分は１枚ドローする。
   ko: |-
     카드명이 다른 몬스터 2장
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 필드(앞면 표시) / 묘지에서 공격력이 2000 이하인 몬스터 1장을 제외하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력을 턴 종료시까지, 이 효과를 발동하기 위해 제외한 몬스터의 원래 공격력과 같게 한다. 원래의 종족이 파충류족인 몬스터를 제외하고 이 효과를 발동했을 경우, 추가로 자신은 1장 드로우한다.
@@ -82,8 +81,13 @@ sets:
     set_name: Legacy of Destruction
     rarities:
     - Common
+  ja:
+  - set_number: WPP5-JP059
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 1054878
 master_duel_rarity: R

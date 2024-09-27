@@ -1,7 +1,7 @@
 konami_id: 20552
 password: 41488249
 name:
-  en: Primoredial Opener
+  en: Primite Howl
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 原石之号咆
 text:
   en: |-
-    Declare 1 Normal Monster's name; apply this effect, then, if you control no monsters, you can Special Summon 1 Normal Monster with the declared name from your Deck or GY. Once applied, you take no battle damage from battles involving your Normal Monsters with the declared name and "Primoredial" monsters this turn. During your opponent's turn: You can banish this card from your GY, then target 1 Normal Monster you control or in your GY; take control of 1 monster your opponent controls with higher ATK until the End Phase.
+    Declare 1 Normal Monster Card name; you take no battle damage from battles involving your declared Normal Monsters or your "Primite" monsters (for the rest of this turn), then if you control no monsters, you can Special Summon 1 declared Normal Monster from your Deck or GY. During your opponent's turn: You can banish this card from your GY, then target 1 Normal Monster you control or in your GY; take control of 1 monster your opponent controls with higher ATK than that monster, until the End Phase.
   de:
   es:
   fr:
@@ -30,11 +30,36 @@ text:
 card_type: Trap
 property: Normal
 series:
-- Primoredial
+- Primite
 images:
 - index: 1
-  image: PrimoredialOpener-ROTA-JP-C.png
+  image: PrimiteHowl-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN076
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE076
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR076
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT076
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT076
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP076
     set_name: Rage of the Abyss
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064097

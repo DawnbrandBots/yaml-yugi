@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as an "Armored Xyz" card.)
-    You can send 1 WATER Xyz Monster from your Extra Deck to the GY, then target 1 Fish monster in your GY with a Level equal to the sent monster's Rank; Special Summon it. During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 WATER Xyz Monster you control; equip this card to it as an Equip Spell that gives it 500 ATK. You can only use each effect of "Armored Shark" once per turn.
+    You can send 1 WATER Xyz Monster from your Extra Deck to the GY, then target 1 Fish monster in your GY with the same Level as the Rank of that monster; Special Summon it. During your opponent's turn, if this card is in your GY (Quick Effect): You can target 1 WATER Xyz Monster you control; equip this card to that monster as an Equip Spell that gives it 500 ATK. You can only use each effect of "Armored Shark" once per turn.
   de:
   es:
   fr:
@@ -42,6 +42,31 @@ images:
 - index: 1
   image: ArmoredShark-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN003
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE003
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR003
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT003
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT003
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP003
     set_name: Rage of the Abyss
@@ -55,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1058512

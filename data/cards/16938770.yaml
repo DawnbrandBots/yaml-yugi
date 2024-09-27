@@ -15,7 +15,7 @@ name:
   zh-CN: 超量波塞冬飞溅
 text:
   en: |-
-    If you control an Xyz Monster that has an Xyz Monster as material: Declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute that are not equipped with an Equip Spell. You can banish this card from your GY and detach 1 Xyz Material from a monster you control; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your GY to either field. You can only use 1 "Xyz Poseidon Splash" effect per turn, and only once that turn.
+    If you control an Xyz Monster that has an Xyz Monster as material: Declare 1 monster Attribute on the field; destroy all monsters on the field with that Attribute, except monsters equipped with an Equip Spell. You can banish this card from your GY and detach 1 material from a monster you control; Special Summon 1 Fish, Sea Serpent, or Aqua monster from your GY to either field. You can only use 1 "Xyz Poseidon Splash" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -35,6 +35,31 @@ images:
 - index: 1
   image: XyzPoseidonSplash-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN069
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE069
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR069
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT069
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT069
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP069
     set_name: Rage of the Abyss
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1058548

@@ -1,7 +1,7 @@
 konami_id: 20546
 password: 53323475
 name:
-  en: Puppet Shark Style
+  en: Puppet Shark
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 傀儡风仪－傀偶鲨鱼
 text:
   en: |-
-    Detach 1 material from a monster on the field, and if you do, excavate the top 4 cards of your Deck, choose 1 of them, and apply this effect based on its type, also place the rest on top of the Deck in the same order.
+    Detach 1 material from a monster on either field, and if you do, excavate the top 4 cards of your Deck, choose 1 of them, and apply the appropriate effect based on its card type, also place the rest on top of the Deck in the same order.
     ● Monster/Spell: Add it to your hand.
     ● Trap: Set it. It can be activated this turn.
-    You can only activate 1 "Puppet Shark Style" per turn.
+    You can only activate 1 "Puppet Shark" per turn.
   de:
   es:
   fr:
@@ -41,8 +41,33 @@ series:
 - Shark
 images:
 - index: 1
-  image: PuppetSharkStyle-ROTA-JP-R.png
+  image: PuppetShark-ROTA-JP-R.png
 sets:
+  en:
+  - set_number: ROTA-EN070
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE070
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR070
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT070
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT070
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP070
     set_name: Rage of the Abyss
@@ -56,9 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072064

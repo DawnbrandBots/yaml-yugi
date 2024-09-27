@@ -1,7 +1,7 @@
 konami_id: 20527
 password: 21056275
 name:
-  en: Armament Swarm
+  en: Armed Rebeellion
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 武装蜂起
 text:
   en: |-
-    Special Summon 1 Insect monster with 1000 or less ATK from your hand or Deck, and if you Special Summon it from the Deck, send 1 monster you control to the GY. You cannot Special Summon for the rest of this turn after this card resolves, except Insect monsters. If a face-up Insect Synchro Monster(s) you control is destroyed by battle or card effect while this card is in your GY: You can banish this card; add 1 "Summoning Swarm" from your Deck to your hand. You can only activate 1 "Armament Swarm" per turn.
+    Special Summon 1 Insect monster with 1000 or less ATK from your hand or Deck, then if you Special Summoned from the Deck, send 1 monster you control to the GY, also you cannot Special Summon for the rest of this turn after this card resolves, except Insect monsters. If a face-up Insect Synchro Monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can banish this card; add 1 "Summoning Swarm" from your Deck to your hand. You can only activate 1 "Armed Rebeellion" per turn.
   de:
   es:
   fr:
@@ -31,8 +31,33 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: ArmamentSwarm-ROTA-JP-C.png
+  image: ArmedRebeellion-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN051
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE051
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR051
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT051
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT051
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP051
     set_name: Rage of the Abyss
@@ -46,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1072058

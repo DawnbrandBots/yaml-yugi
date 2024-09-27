@@ -27,7 +27,7 @@ text:
   pt: |-
     Este card não pode ser Invocado por Invocação-Normal ou Baixado. Este card não ser pode ser Invocado, por Invocação-Especial, exceto pelo efeito de "Cavaleiro da Chama Negra". Durante o cálculo de dano, aumente o ATK deste card pelo ATK original do monstro do seu adversário. Durante a End Phase do turno em que este card realizou um combate, remova este card de jogo.
   ja: |-
-    このカードは「黒炎の騎士－ブラック・フレア・ナイト－」の効果でのみ特殊召喚が可能。ダメージ計算時、このカードの攻撃力に相手モンスターの元々の攻撃力を加える。戦闘を行ったターンのエンドフェイズ時に、このカードをゲームから除外する。
+    このカードは通常召喚できず、「黒炎の騎士－ブラック・フレア・ナイト－」の効果でのみ特殊召喚できる。①：このカードの攻撃力は相手モンスターと戦闘を行うダメージ計算時のみ、その相手モンスターの元々の攻撃力分アップする。②：このカードが戦闘を行ったターンのエンドフェイズに発動する。このカードを除外する。
   ko: |-
     이 카드는 일반 소환/세트할 수 없다. "블랙 플레어 나이트"의 효과로만 특수 소환이 가능. 데미지 계산시, 이 카드의 공격력에 상대 몬스터의 원래 공격력을 더한다. 전투를 실행한 턴의 엔드 페이즈시에, 이 카드를 게임에서 제외한다.
   zh-TW: |-
@@ -134,6 +134,10 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Super Rare
+  - set_number: WPP5-JP013
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR018
     set_name: Dark Crisis

@@ -15,7 +15,7 @@ name:
   zh-CN: 善德风暴
 text:
   en: |-
-    Target 1 Fish, Sea Serpent, or Aqua monster you control and 2 cards your opponent controls; destroy them. You can banish this card from your GY, then target 1 face-up monster on the field; if it is a WATER monster, the next time it would be destroyed by card effect this turn, it is not destroyed. Otherwise, its Attribute becomes WATER. You can only use each effect of "Virtue Stream" once per turn.
+    Target 1 Fish, Sea Serpent, or Aqua monster you control and 2 cards your opponent controls; destroy them. You can banish this card from your GY, then target 1 face-up monster on the field; if it is a WATER monster, the next time it would be destroyed by card effect this turn, it is not destroyed. If it is not, it becomes WATER. You can only use each effect of "Virtue Stream" once per turn.
   de:
   es:
   fr:
@@ -35,6 +35,31 @@ images:
 - index: 1
   image: VirtueStream-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN068
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE068
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR068
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT068
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT068
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP068
     set_name: Rage of the Abyss
@@ -48,9 +73,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1058538

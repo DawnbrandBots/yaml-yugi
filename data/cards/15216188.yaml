@@ -16,7 +16,8 @@ name:
 text:
   en: |-
     (This card is always treated as a "Metalmorph" card.)
-    If a monster(s) you control is destroyed by battle or an opponent's card effect: Target 1 of them; Special Summon it, then, if it is a Level 5 or higher Machine monster and you have another "Metalmorph" Trap on your field or in your GY, you can destroy as many monsters your opponent controls as possible, then you can inflict damage to them equal to the Summoned monster's original ATK.
+    If a monster(s) you control is destroyed by battle or an opponent's card effect: Target 1 of those monsters; Special Summon it, then if you Special Summoned a Level 5 or higher Machine monster by this effect and have a "Metalmorph" Trap on your field or GY, except this card on the field, you can apply this effect.
+    ● Destroy as many monsters your opponent controls as possible, then you can inflict damage to your opponent, equal to that Special Summoned monster's original ATK.
   de:
   es:
   fr:
@@ -37,6 +38,31 @@ images:
 - index: 1
   image: TimeEngine-ROTA-JP-C.png
 sets:
+  en:
+  - set_number: ROTA-EN072
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  de:
+  - set_number: ROTA-DE072
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  fr:
+  - set_number: ROTA-FR072
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  it:
+  - set_number: ROTA-IT072
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  pt:
+  - set_number: ROTA-PT072
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ja:
   - set_number: ROTA-JP072
     set_name: Rage of the Abyss
@@ -50,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064308
