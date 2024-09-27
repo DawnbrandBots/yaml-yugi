@@ -7,8 +7,8 @@ name:
   fr: Nuée de Mille-Pattes
   it: Sciame di Millepiedi
   pt: Praga de Centopeias
-  ja:
-  ja_romaji:
+  ja: ムカデの<ruby>進<rt>しん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>
+  ja_romaji: Mukude no Shingun
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Se questa carta viene scoperta: puoi scegliere come bersaglio 1 altro mostro sul Terreno; mettilo scoperto in Posizione di Attacco o coperto in Posizione di Difesa. Puoi utilizzare questo effetto di "Sciame di Millepiedi" una sola volta per turno. Una volta per turno, durante la tua Main Phase: puoi mettere questa carta coperta in Posizione di Difesa.
   pt: |-
     Se este card for virado com a face para cima: você pode escolher 1 outro monstro no campo; coloque-o com a face para cima em Posição de Ataque ou com a face para baixo em Posição de Defesa. Você só pode usar este efeito de "Praga de Centopeias" uma vez por turno. Uma vez por turno, durante sua Fase Principal: você pode colocar este card com a face para baixo em Posição de Defesa.
-  ja:
+  ja: |-
+    このカード名の②の効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカードを裏側守備表示にする（１ターンに１度のみ）。②：このカードがリバースした場合、フィールドの他のモンスター１体を対象として発動できる。そのモンスターを表側攻撃表示か裏側守備表示にする。
   ko:
   zh-TW:
   zh-CN:
@@ -65,6 +66,11 @@ sets:
   pt:
   - set_number: PHNI-PT085
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP050
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

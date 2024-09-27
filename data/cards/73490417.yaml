@@ -7,8 +7,8 @@ name:
   fr: Résident de la Jungle
   it: Abitante della Giungla
   pt: Habitante da Selva
-  ja:
-  ja_romaji:
+  ja: <ruby>密<rt>みつ</rt></ruby><ruby>林<rt>りん</rt></ruby>に<ruby>潜<rt>ひそ</rt></ruby>む<ruby>者<rt>もの</rt></ruby>
+  ja_romaji: Mitsurin ni Hisomu Mono
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta. Mentre ci sono 2 carte nelle Zone Terreno, il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte. Puoi utilizzare ognuno dei seguenti effetti di "Abitante della Giungla" una sola volta per turno. Puoi bandire 1 mostro LUCE o OSCURITÀ dal tuo Cimitero; Evoca Specialmente questa carta dalla tua mano. Se questa carta sotto il comando del suo proprietario viene distrutta da una carta dell'avversario: puoi mischiare fino a 2 delle tue Magie Terreno dal tuo Cimitero o dalle tue carte bandite nel Deck, poi puoi distruggere fino a quel numero di carte controllate dal tuo avversario.
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card. Enquanto houver 2 cards nas Zonas do Campo, seu oponente não pode escolher este card como alvo de efeitos de card. Você só pode usar cada um dos seguintes efeitos de "Habitante da Selva" uma vez por turno. Você pode banir 1 monstro de LUZ ou de TREVAS do seu Cemitério; Invoque este card por Invocação-Especial da sua mão. Se este card em posse do seu dono for destruído por um card do oponente: você pode embaralhar no Deck até 2 das suas Magias de Campo do seu Cemitério ou banimento e, depois, você pode destruir até esse número de cards que seu oponente controla.
-  ja:
+  ja: |-
+    このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から光・闇属性モンスター１体を除外して発動できる。このカードを手札から特殊召喚する。②：フィールドゾーンにカードが２枚存在する限り、相手はこのカードを効果の対象にできない。③：このカードが相手によって破壊された場合に発動できる。自分の墓地・除外状態のフィールド魔法カードを２枚までデッキに戻す。その後、戻した数まで相手フィールドのカードを破壊できる。
   ko:
   zh-TW:
   zh-CN:
@@ -63,6 +64,11 @@ sets:
   pt:
   - set_number: LEDE-PT085
     set_name: Legacy of Destruction
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP044
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

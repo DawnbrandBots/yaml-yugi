@@ -7,8 +7,8 @@ name:
   fr: Force Xyz
   it: Forza Xyz
   pt: Força Xyz
-  ja:
-  ja_romaji:
+  ja: エクシーズ・フォース
+  ja_romaji: Ekushīzu Fōsu
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Manda 1 carta "Xyz" dal tuo Deck al Cimitero, eccetto "Forza Xyz", o se sul Terreno c'è un Mostro Xyz che ha un Mostro Xyz come materiale, puoi invece aggiungere la carta "Xyz" alla tua mano. Durante la tua Main Phase, eccetto nel turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero; stacca 1 materiale da un Mostro Xyz su qualsiasi Terreno, poi, se il materiale staccato era un Mostro Xyz, puoi Evocare Specialmente quel mostro dal tuo Cimitero o dalle tue carte bandite, in Posizione di Difesa. Puoi utilizzare ogni effetto di "Forza Xyz" una sola volta per turno.
   pt: |-
     Envie 1 card "Xyz" do seu Deck para o Cemitério, exceto "Força Xyz", ou, se um Monstro Xyz que tiver um Monstro Xyz como matéria estiver no campo, em vez disso, você pode adicionar o card "Xyz" à sua mão. Durante sua Fase Principal, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério; desassocie 1 matéria de um Monstro Xyz em qualquer campo e, depois, se a matéria desassociada era um Monstro Xyz, você pode Invocar esse monstro por Invocação-Especial do seu Cemitério ou do seu banimento, em Posição de Defesa. Você só pode usar cada efeito de "Força Xyz" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「エクシーズ・フォース」以外の「エクシーズ」カード１枚を墓地へ送る。ＸモンスターをＸ素材としているＸモンスターがフィールドに存在する場合、墓地へ送らず手札に加える事もできる。②：このターンに墓地へ送られていないこのカードを墓地から除外して発動できる。フィールドのＸ素材を１つ取り除く。取り除いたＸ素材がＸモンスターだった場合、さらに自分の墓地・除外状態のそのＸモンスターを守備表示で特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -61,6 +62,11 @@ sets:
   pt:
   - set_number: PHNI-PT089
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP064
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

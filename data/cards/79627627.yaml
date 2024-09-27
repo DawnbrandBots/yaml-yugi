@@ -7,8 +7,8 @@ name:
   fr: Convoiseauble
   it: Convertuccellibile
   pt: Converpássaro
-  ja:
-  ja_romaji:
+  ja: <ruby>半<rt>はん</rt></ruby><ruby>纏<rt>てん</rt></ruby><ruby>鳥<rt>ちょう</rt></ruby><ruby>官<rt>かん</rt></ruby>－コンバード
+  ja_romaji: Hanten Chōkan - Konbādo
   ko:
   ko_rr:
   zh-TW:
@@ -32,7 +32,8 @@ text:
   pt: |-
     VIRE: Você pode Invocar por Invocação-Especial 1 monstro de Virar de Nível 5 ou mais do seu Deck com a face para baixo em Posição de Defesa, exceto "Converpássaro".
     Durante a Fase de Batalha, se este card estiver na sua mão (Efeito Rápido): você pode escolher 1 monstro com a face para baixo no campo; envie-o para o Cemitério e, se isso acontecer, Invoque este card por Invocação-Especial com a face para baixo em Posição de Defesa. Você só pode usar cada efeito de "Converpássaro" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分・相手のバトルフェイズに、フィールドの裏側表示モンスター１体を対象として発動できる。そのモンスターを墓地へ送り、このカードを裏側守備表示で特殊召喚する。②：このカードがリバースした場合に発動できる。「半纏鳥官－コンバード」を除く、レベル５以上のリバースモンスター１体をデッキから裏側守備表示で特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -69,6 +70,11 @@ sets:
   pt:
   - set_number: PHNI-PT084
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP045
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

@@ -7,8 +7,8 @@ name:
   fr: Chevalier Pyrite
   it: Cavaliere Pirite
   pt: Cavaleiro Pirita
-  ja:
-  ja_romaji:
+  ja: <ruby>黄鉄の愚騎士<rt>パイライト・ナイト</rt></ruby>
+  ja_romaji: Pairaito Naito
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Se questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 1 mostro Guerriero (TERRA o FUOCO) che controlli, eccetto "Cavaliere Pirite"; fallo ritornare nella mano e, se lo fai, Evoca Specialmente questa carta, poi Evoca Specialmente 1 "Segna-Pirite" (Guerriero/FUOCO/Livello 4/ATK 0/DEF 2000) sul Terreno del tuo avversario in Posizione di Difesa. Durante la Battle Phase (Effetto Rapido): puoi Evocare Specialmente 1 mostro Guerriero dalla tua mano. Puoi utilizzare ogni effetto di "Cavaliere Pirite" una sola volta per turno.
   pt: |-
     Se este card estiver na sua mão ou no Cemitério: você pode escolher 1 monstro Guerreiro (de TERRA ou de FOGO) que você controla, exceto "Cavaleiro Pirita"; devolva-o para a mão e, se isso acontecer, Invoque este card por Invocação-Especial e, depois, Invoque por Invocação-Especial 1 "Ficha de Pirita" (Guerreiro/FOGO/Nível 4/ATK 0/DEF 2000) no campo do seu oponente em Posição de Defesa. Durante a Fase de Batalha (Efeito Rápido): você pode Invocar por Invocação-Especial 1 monstro Guerreiro da sua mão. Você só pode usar cada efeito de "Cavaleiro Pirita" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札・墓地に存在する場合、「黄鉄の愚騎士」以外の自分フィールドの地・炎属性の戦士族モンスター１体を対象として発動できる。そのモンスターを手札に戻し、このカードを特殊召喚する。その後、相手フィールドに「黄鉄トークン」（戦士族・炎・星４・攻０／守２０００）１体を守備表示で特殊召喚する。②：自分・相手のバトルフェイズに発動できる。手札から戦士族モンスター１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -65,6 +66,11 @@ sets:
     set_name: Legacy of Destruction
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP5-JP047
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

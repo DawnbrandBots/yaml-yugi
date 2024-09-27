@@ -7,8 +7,8 @@ name:
   fr: Arsenal Psychique
   it: Arsenale Psichico
   pt: Arsenal Psíquico
-  ja:
-  ja_romaji:
+  ja: <ruby>大電脳兵廠<rt>サイコ・アーセナル</rt></ruby>
+  ja_romaji: Saiko Āsenaru
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Scegli come bersaglio 1 mostro Psichico che controlli e paga LP pari al suo Livello x 200; aggiungi 1 mostro Macchina con lo stesso Attributo ma con un Livello superiore dal tuo Deck alla tua mano. Durante la tua Main Phase, eccetto nel turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 ciascuno dei tuoi mostri Psichico e Macchina banditi; metti 1 di essi in fondo al Deck e, se lo fai, aggiungi l'altro alla tua mano. Puoi utilizzare ogni effetto di "Arsenale Psichico" una sola volta per turno.
   pt: |-
     Escolha 1 monstro Psíquico que você controla e pague PV igual ao seu Nível x 200; adicione 1 monstro Máquina com o mesmo Atributo, mas de Nível maior, do seu Deck à sua mão. Durante sua Fase Principal, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério e, depois, escolha 1 de cada dentre seus monstros Psíquico e Máquina banidos; coloque 1 deles no fundo do Deck e, se isso acontecer, adicione o outro à sua mão. Você só pode usar cada efeito de "Arsenal Psíquico" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのサイキック族モンスター１体を対象とし、そのレベル×２００LPを払って発動できる。そのモンスターよりレベルが高く、同じ属性を持つ機械族モンスター１体をデッキから手札に加える。②：このターンに墓地へ送られていないこのカードを墓地から除外し、自分の除外状態の、サイキック族モンスターと機械族モンスターを１体ずつ対象として発動できる。その内の１体をデッキの一番下に戻し、もう１体を手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -61,6 +62,11 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP5-JP061
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

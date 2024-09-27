@@ -7,8 +7,8 @@ name:
   fr: Ken le Guerrier Dragon
   it: Ken il Drago Guerriero
   pt: Ken, o Dragão Guerreiro
-  ja:
-  ja_romaji:
+  ja: <ruby>毘<rt>び</rt></ruby><ruby>龍<rt>りゅう</rt></ruby><ruby>之<rt>の</rt></ruby><ruby>謙<rt>けん</rt></ruby>
+  ja_romaji: Biryū no Ken
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Una volta per turno, alla fine della Battle Phase: fai ritornare questa carta dal Terreno nella mano. Puoi utilizzare ognuno dei seguenti effetti di "Ken il Drago Guerriero" una sola volta per turno. Durante la tua Main Phase: puoi Evocare Specialmente 1 "Gen la Tigre Diamante" dalla tua mano o Deck sul Terreno del tuo avversario in Posizione di Difesa. Se questa carta viene Evocata Specialmente dall'effetto di "Gen la Tigre Diamante": il tuo avversario pesca 2 carte, poi lui scarta 1 carta.
   pt: |-
     Uma vez por turno, no final da Fase de Batalha: devolva este card do campo para a mão. Você só pode usar cada um dos seguintes efeitos de "Ken, o Dragão Guerreiro" uma vez por turno. Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 "Gen, o Tigre de Diamante" da sua mão ou do Deck no campo do seu oponente em Posição de Defesa. Se este card for Invocado por Invocação-Especial pelo efeito de "Gen, o Tigre de Diamante": seu oponente compra 2 cards e, depois, ele descarta 1 card.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。手札・デッキから「虎菱之玄」１体を相手フィールドに守備表示で特殊召喚する。②：このカードが「虎菱之玄」の効果で特殊召喚した場合に発動する。相手は２枚ドローする。その後、相手は手札を１枚選んで捨てる。③：自分・相手のバトルフェイズ終了時に発動する。フィールドのこのカードを手札に戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -85,6 +86,11 @@ sets:
     set_name: '25th Anniversary Tin: Dueling Mirrors'
     rarities:
     - Ultra Rare
+  ja:
+  - set_number: WPP5-JP051
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

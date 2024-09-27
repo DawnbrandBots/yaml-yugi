@@ -7,8 +7,8 @@ name:
   fr: Tricorne le Concert Cacophonique
   it: Tricorno il Concerto Cacofonico
   pt: Tricórnio, o Concerto Cacofônico
-  ja:
-  ja_romaji:
+  ja: <ruby>響<rt>きょう</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>従<rt>じゅう</rt></ruby>トライコーン
+  ja_romaji: Kyōmajū Toraikōn
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Se uno o più mostri sotto il tuo comando vengono distrutti in battaglia o dall'effetto di una carta: puoi Evocare Specialmente questa carta dalla tua mano. Se questa carta viene mandata dal Terreno al Cimitero: puoi scegliere come bersaglio 1 mostro nel tuo Cimitero con sia lo stesso Tipo che Attributo di un mostro che controlli; aggiungi quel mostro alla tua mano. Puoi utilizzare ogni effetto di "Tricorno il Concerto Cacofonico" una sola volta per turno.
   pt: |-
     Se um ou mais monstros em sua posse forem destruídos em batalha ou por um efeito de card: você pode Invocar este card por Invocação-Especial da sua mão. Se este card for enviado do campo para o Cemitério: você pode escolher 1 monstro no seu Cemitério com o mesmo Tipo e o mesmo Atributo de um monstro que você controla; adicione esse monstro à sua mão. Você só pode usar cada efeito de "Tricórnio, o Concerto Cacofônico" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分のモンスターが戦闘・効果で破壊された場合に発動できる。このカードを手札から特殊召喚する。②：このカードがフィールドから墓地へ送られた場合、自分フィールドのモンスターのいずれかと同じ種族・属性を持つ、自分の墓地のモンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -63,6 +64,11 @@ sets:
   pt:
   - set_number: PHNI-PT087
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP055
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

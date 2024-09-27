@@ -7,8 +7,8 @@ name:
   fr: Aiza Dragonne de la Dévotion Dérangée
   it: Aiza la Dragonessa della Devozione Folle
   pt: Aiza, a Dragonesa da Devoção Perturbadora
-  ja:
-  ja_romaji:
+  ja: <ruby>狂<rt>きょう</rt></ruby><ruby>愛<rt>あい</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>娘<rt>こ</rt></ruby>アイザ
+  ja_romaji: Kyōai no Ryūko Aiza
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Se questa carta viene Evocata Specialmente: puoi mettere 1 Segnalino Folle su 1 mostro scoperto controllato dal tuo avversario ed esso non può essere utilizzato come materiale per un'Evocazione tramite Fusione, Synchro, Xyz o Link mentre ha quel segnalino. All'inizio del Damage Step, se questa carta combatte con un mostro dell'avversario con un Segnalino Folle: puoi distruggere quel mostro dell'avversario e, se lo fai, entrambi i giocatori subiscono danno pari al suo ATK originale, inoltre distruggi questa carta alla fine di questa Battle Phase. Puoi utilizzare ogni effetto di "Aiza la Dragonessa della Devozione Folle" una sola volta per turno.
   pt: |-
     Se este card for Invocado por Invocação-Especial: você pode colocar 1 Marcador de Perturbação em 1 monstro com a face para cima que seu oponente controla, e ele não pode ser usado como matéria para uma Invocação-Fusão, Sincro, Xyz ou Link enquanto tiver esse marcador. No começo da Etapa de Dano, se este card batalhar um monstro do oponente com um Marcador de Perturbação: você pode destruir esse monstro do oponente e, se isso acontecer, os dois duelistas sofrem dano igual ao ATK original dele e, além disso, destrua este card no final desta Fase de Batalha. Você só pode usar cada efeito de "Aiza, a Dragonesa da Devoção Perturbadora" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。相手フィールドの表側表示モンスター１体に狂愛カウンターを１つ置く。狂愛カウンターが置かれているモンスターは融合・S・X・L召喚の素材にできない。②：狂愛カウンターが置かれている相手モンスターとこのカードが戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを破壊し、お互いにその元々の攻撃力分のダメージを受ける。このカードはそのバトルフェイズ終了時に破壊される。
   ko:
   zh-TW:
   zh-CN:
@@ -63,6 +64,11 @@ sets:
   pt:
   - set_number: LEDE-PT088
     set_name: Legacy of Destruction
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP049
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:

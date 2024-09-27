@@ -7,8 +7,8 @@ name:
   fr: Coup de Coucher du Soleil
   it: Battito del Tramonto
   pt: Ritmo do Pôr do Sol
-  ja:
-  ja_romaji:
+  ja: サンセット・ビート
+  ja_romaji: Sansetto Bīto
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Se un mostro scoperto che controlli viene messo coperto in Posizione di Difesa: puoi scegliere come bersaglio 1 carta sul Terreno; distruggila. Se uno o più mostri Scoperta che controlli vengono scoperti, anche durante il Damage Step: puoi scegliere 1 di essi come bersaglio; infliggi al tuo avversario danno pari al suo Livello x 200. Puoi utilizzare ogni effetto di "Battito del Tramonto" una sola volta per turno.
   pt: |-
     Se um monstro com a face para cima que você controla for colocado com a face para baixo em Posição de Defesa: você pode escolher 1 card no campo; destrua-o. Se um ou mais monstros de Virar que você controla forem virados com a face para cima, mesmo durante a Etapa de Dano: você pode escolher 1 deles; cause dano ao seu oponente igual ao Nível dele x 200. Você só pode usar cada efeito de "Ritmo do Pôr do Sol" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスターが裏側守備表示になった場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：自分フィールドのリバースモンスターがリバースした場合、その内の１体を対象として発動できる（ダメージステップでも発動可能）。そのモンスターのレベル×２００ダメージを相手に与える。
   ko:
   zh-TW:
   zh-CN:
@@ -61,6 +62,11 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP5-JP062
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

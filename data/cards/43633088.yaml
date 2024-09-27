@@ -7,8 +7,8 @@ name:
   fr: Apport d'Urgence
   it: Apporto di Emergenza
   pt: Transporte de Emergência
-  ja:
-  ja_romaji:
+  ja: <ruby>緊<rt>きん</rt></ruby><ruby>急<rt>きゅう</rt></ruby>アポート
+  ja_romaji: Kinkyū Apōto
   ko:
   ko_rr:
   zh-TW:
@@ -26,7 +26,8 @@ text:
     Scegli come bersaglio 1 dei tuoi mostri Psichico di Livello 5 o inferiore che è bandito o nel tuo Cimitero; Evocalo Specialmente.
   pt: |-
     Escolha 1 dos seus monstros Psíquico de Nível 5 ou menos que estiverem banidos ou no seu Cemitério; Invoque-o por Invocação-Especial.
-  ja:
+  ja: |-
+    ①：自分の墓地・除外状態のレベル５以下のサイキック族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -59,6 +60,11 @@ sets:
   pt:
   - set_number: PHNI-PT083
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  ja:
+  - set_number: WPP5-JP068
+    set_name: World Premiere Pack 2024
     rarities:
     - Common
 limit_regulation:
