@@ -27,7 +27,7 @@ text:
   pt: |-
     Escolha 1 monstro com a face para baixo no campo; destrua o alvo e, se isso acontecer, bana-o e, depois, se ele era um monstro de Virar, cada duelista revela o seu Deck Principal e, depois, bane dele todos os cards com aquele nome de monstro.
   ja: |-
-    フィールド上に裏側表示で存在するモンスター１体を選択して破壊し、ゲームから除外する。それがリバース効果モンスターだった場合、お互いのデッキを確認し、同名カードを全てゲームから除外する。
+    ①：フィールドの裏側表示モンスター１体を対象として発動できる。その裏側表示モンスターを破壊し除外する。除外したモンスターがリバースモンスターだった場合、さらにお互いはお互いのデッキを確認し、その中から自分は除外したモンスターの同名モンスターを全て除外する。
   ko: |-
     뒷면 표시의 몬스터 1장을 파괴하여 게임에서 제외한다. 만약 그것이 리버스 효과 몬스터였을 경우, 서로의 덱을 확인하여, 파괴한 몬스터와 같은 이름의 카드를 전부 게임에서 제외한다. 그 후 덱을 셔플한다.
   zh-TW: |-
@@ -451,6 +451,11 @@ sets:
     set_name: The Gold Box
     rarities:
     - Gold Rare
+  - set_number: 24EP-JP310
+    set_name: Event Pack 2024 Vol.3
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PSV-K034
     set_name: Pharaoh's Servant

@@ -34,7 +34,7 @@ text:
     Os efeitos deste card só podem ser aplicados/resolvidos enquanto ele tiver Matérias Xyz. Este card não pode ser destruído por efeitos de card. No final da Fase de Batalha, se este card atacou ou foi atacado: Escolha 1 card que seu oponente controla; destrua o alvo. Durante cada uma das suas Fases Finais: Desassocie 1 Matéria Xyz deste card.
   ja: |-
     レベル５モンスター×２
-    このカードの効果はこのカードのエクシーズ素材がなければ適用されない。このカードはカードの効果では破壊されない。このカードが戦闘を行ったバトルフェイズ終了時、相手フィールド上に存在するカード１枚を選択して破壊する。自分のエンドフェイズ毎にこのカードのエクシーズ素材を１つ取り除く。
+    このカードの効果はこのカードがＸ素材を持っている場合のみ適用される。①：フィールドのこのカードは効果では破壊されない。②：このカードが戦闘を行ったバトルフェイズ終了時、相手フィールドのカード１枚を対象として発動する。その相手のカードを破壊する。③：自分エンドフェイズに発動する。このカードのＸ素材を１つ取り除く。
   ko: |-
     레벨 5 몬스터 × 2
     이 카드의 효과는 이 카드의 엑시즈 소재가 없으면 적용되지 않는다. 이 카드는 카드의 효과로는 파괴되지 않는다. 이 카드가 전투를 실행한 배틀 페이즈 종료시, 상대 필드 위에 존재하는 카드 1장을 선택하고 파괴한다. 자신의 엔드 페이즈마다 이 카드의 엑시즈 소재를 1개 제거한다.
@@ -103,6 +103,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultimate Rare
+  - set_number: 24EP-JP307
+    set_name: Event Pack 2024 Vol.3
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: GENF-KR044
     set_name: Generation Force

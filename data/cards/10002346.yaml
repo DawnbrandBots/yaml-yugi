@@ -34,7 +34,7 @@ text:
     Se este card com a face para cima seria destruído, em vez disso, você pode desassociar 1 Matéria Xyz deste card. Monstros com a face para cima que você controla ganham 200 de ATK e DEF para cada Matéria Xyz associada a este card.
   ja: |-
     レベル２モンスター×２
-    フィールド上のこのカードが破壊される場合、代わりにこのカードのエクシーズ素材を１つ取り除く事ができる。このカードがフィールド上に表側表示で存在する限り、自分フィールド上のモンスターの攻撃力・守備力は、このカードのエクシーズ素材の数×２００ポイントアップする。
+    ①：このカードがモンスターゾーンに存在する限り、自分フィールドのモンスターの攻撃力・守備力は、このカードのＸ素材の数×２００アップする。②：このカードが破壊される場合、代わりにこのカードのＸ素材を１つ取り除く事ができる。
   ko: |-
     레벨 2 몬스터 × 2
     필드 위의 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위 몬스터의 공격력 / 수비력은, 이 카드의 엑시즈 소재의 수 × 200 포인트 올린다.
@@ -106,6 +106,11 @@ sets:
     - Common
     - Gold Rare
     - Gold Secret Rare
+  - set_number: 24EP-JP306
+    set_name: Event Pack 2024 Vol.3
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: YSD6-KR042
     set_name: Starter Deck 2011

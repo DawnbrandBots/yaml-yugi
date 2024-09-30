@@ -34,7 +34,7 @@ text:
     No começo da Etapa de Dano, se este card batalhar um monstro com a face para cima que não seja de TREVAS: destrua esse monstro.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
-    このカードが闇属性以外のフィールド上に表側表示で存在するモンスターと戦闘を行う場合、ダメージ計算を行わずそのモンスターを破壊する。
+    ①：このカードが闇属性以外の表側表示モンスターと戦闘を行うダメージステップ開始時に発動する。そのモンスターを破壊する。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드가 어둠 속성 이외의 몬스터와 전투를 실행할 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
@@ -185,6 +185,11 @@ sets:
     set_name: The Gold Box
     rarities:
     - Gold Rare
+  - set_number: 24EP-JP305
+    set_name: Event Pack 2024 Vol.3
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: GS02-KR010
     set_name: Gold Series 2010

@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno: você pode selecionar um número de 1 a 3 e, depois, envie esse número de cards do topo do seu Deck para o Cemitério; até o final deste turno, este card ganha 500 de ATK para cada card enviado para o Cemitério desta forma. Se este card que você controla for destruído e enviado para o seu Cemitério: compre 1 card.
   ja: |-
-    ①：１ターンに１度、自分のデッキの上からカードを３枚まで墓地へ送って発動できる。このカードの攻撃力はターン終了時まで、この効果を発動するために墓地へ送ったカードの数×５００アップする。②：自分フィールドのこのカードが破壊され墓地へ送られた場合に発動する。自分はデッキから１枚ドローする。
+    ①：１ターンに１度、自分のデッキの上からカードを３枚まで墓地へ送って発動できる。このカードの攻撃力はターン終了時まで、この効果を発動するために墓地へ送ったカードの数×５００アップする。②：自分フィールドのこのカードが破壊され墓地へ送られた場合に発動する。自分は１枚ドローする。
   ko: |-
     ①: 1턴에 1번, 자신의 덱 위에서 카드를 3장까지 묘지로 보내고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 이 효과를 발동하기 위해 묘지로 보낸 카드의 수 × 500 올린다. ②: 자신 필드의 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동한다. 자신은 덱에서 1장 드로우한다.
   zh-TW: |-
@@ -446,6 +446,11 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Common
+  - set_number: 24EP-JP303
+    set_name: Event Pack 2024 Vol.3
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DP03-KR009
     set_name: 'Duelist Pack: Jaden Yuki 2'
