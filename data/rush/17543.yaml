@@ -1,6 +1,6 @@
 konami_id: 17543
 name:
-  en: Card Reprinting
+  en: Card Restoration
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Draw until you have 5 cards in your hand and reveal your entire hand to your opponent. If a monster(s) is among them, gain LP equal to [the number of those monsters] x 200.
+    Draw until you have 5 cards in your hand and reveal your hand. If you have a monster in your hand, also gain LP equal to [the number of monsters in your hand] x 200.
   de:
   es:
   fr:
@@ -44,7 +44,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: CardReprinting-RDLGP1-JP-C.png
+  image: CardRestoration-RDLGP1-JP-C.png
 sets:
   ja:
   - set_number: RD/KP09-JP057
@@ -64,7 +64,4 @@ sets:
     set_name: Legend Awakening Pack
     rarities:
     - Common
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 714219
