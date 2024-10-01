@@ -1,6 +1,6 @@
 konami_id: 18694
 name:
-  en: Steel Steed Martin Vinary
+  en: Steel Steed Martin Vainari
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Toss a coin a number of times equal to [the number of face-up monsters on your opponent's field]. This card can attack twice during this turn if at least 1 of the results is heads. Then, this card inflicts piercing battle damage (if the ATK of the attacking monster exceeds the DEF of the attack target, inflict the difference) if it attacks a Defense Position monster this turn and the result is 3 heads.
+    Toss a coin a number of times equal to [the number of face-up monsters on your opponent's field]. 1/2/3 head(s): This turn, this card can attack twice. 3 heads: This turn, this card also inflicts piercing battle damage.
   de:
   es:
   fr:
@@ -48,7 +48,7 @@ atk: 2400
 def: 1700
 images:
 - index: 1
-  image: SteelSteedMartinVinary-RDLGP1-JP-R.png
+  image: SteelSteedMartinVainari-RDLGP1-JP-R.png
 sets:
   ja:
   - set_number: RD/LGP1-JP016
@@ -60,9 +60,4 @@ sets:
     set_name: Legend Awakening Pack
     rarities:
     - Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 716874
