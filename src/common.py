@@ -288,6 +288,8 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
             document["ritual_spell"] = wikitext["ritualcard"]
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]
+    if "limitation_text" in wikitext:
+        document["limitation_text"] = wikitext["limitation_text"]
     if "archseries" in wikitext:
         # Convert bulleted list to array and remove " (archetype)"
         document["series"] = [
