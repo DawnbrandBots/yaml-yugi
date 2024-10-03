@@ -15,8 +15,8 @@ if (process.argv.length < 4) {
 	for (const file of files) {
 		if (file.endsWith(".json")) {
 			const card = JSON.parse(await fs.promises.readFile(path.join(process.argv[2], file), "utf8"));
-            // Only consider cards with a Japanese print. This currently excludes the Rush Duel 2024 World Championship
-            // match winner prize cards 20702 and 20703, which were only printed in English.
+			// Only consider cards with a Japanese print. This currently excludes the Rush Duel 2024 World Championship
+			// match winner prize cards 20702 and 20703, which were only printed in English.
 			if (!card.name[lang] && card.sets.ja) {
 				missingNames.push(card);
 			}
