@@ -289,7 +289,7 @@ def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
         if "materials" in wikitext:
             document["materials"] = wikitext["materials"]
     if "limitation_text" in wikitext:
-        document["limitation_text"] = wikitext["limitation_text"]
+        document["cannot_be_used_in_official_duels"] = True
     if "archseries" in wikitext:
         # Convert bulleted list to array and remove " (archetype)"
         document["series"] = [
