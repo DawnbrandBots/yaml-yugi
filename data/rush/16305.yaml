@@ -21,7 +21,7 @@ requirement:
   it:
   pt:
   ja: |-
-    手札１枚を墓地へ送って発動できる。
+    自分の墓地にモンスターがいる場合、手札１枚を墓地へ送って発動できる。
   ko: |-
     패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
@@ -60,6 +60,7 @@ sets:
     set_name: Neo Legend Awakening Pack
     rarities:
     - Super Rare
+    - Ultra Parallel Rare
   ko:
   - set_number: RD/EV01-KR003
     set_name: Event Pack 2021 Vol.1
