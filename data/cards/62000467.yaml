@@ -12,7 +12,7 @@ name:
   ko: 검투수 드라가시스
   ko_rr:
   zh-TW: 劍鬥獸 德拉伽塞斯
-  zh-CN: 剑斗兽 德兰戈西斯
+  zh-CN: 剑斗兽 德拉加瑟斯
 text:
   en: |-
     2 "Gladiator Beast" monsters
@@ -43,7 +43,7 @@ text:
     此卡名的②效果，１回合僅限使用１次。①：在我方的「劍鬥獸」怪獸攻擊的狀況下，該怪獸不會因該戰鬥被破壞，對方在傷害步驟結束前無法發動魔法・陷阱・怪獸的效果。②：此卡進行戰鬥後的戰鬥階段結束時，可將此卡送回持有者的額外牌組發動。從牌組特殊召喚２隻「劍鬥獸」怪獸（同名卡最多１張）。
   zh-CN: |-
     “剑斗兽”怪兽２只
-    此卡名的②效果１回合仅可使用１次。①：自己的“剑斗兽”怪兽攻击的情况下，该怪兽不会因该战斗被破坏，对手直至伤害步骤结束时为止，不可发动魔法・陷阱・怪兽的效果。②：此卡进行战斗的战斗阶段结束时，将此卡放回持有者的额外牌组可以发动。从牌组将２只“剑斗兽”怪兽特殊召唤（同名卡最多１张）。
+    此卡名的②效果１回合仅可使用１次。①：自己的“剑斗兽”怪兽攻击的情况下，该怪兽不会因该战斗被破坏，对手直至伤害步骤结束时为止，不可发动魔法・陷阱・怪兽的效果。②：此卡进行过战斗的战斗阶段结束时，将此卡放回额外牌组可以发动。从牌组将２只“剑斗兽”怪兽特殊召唤（同名卡最多１张）。
 card_type: Monster
 monster_type_line: Winged Beast / Link / Effect
 attribute: WIND
@@ -114,6 +114,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: WPS1-SC097
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

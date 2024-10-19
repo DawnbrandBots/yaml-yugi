@@ -12,7 +12,7 @@ name:
   ko: 검투수 네로키우스
   ko_rr:
   zh-TW: 劍鬥獸 尼祿
-  zh-CN: 剑斗兽尼禄
+  zh-CN: 剑斗兽 尼禄基乌斯
 text:
   en: |-
     3 "Gladiator Beast" monsters
@@ -43,7 +43,7 @@ text:
     僅限在將我方場上的上述卡送回牌組的狀況下，可從額外牌組特殊召喚（不需要「融合」）。①：此卡不會因戰鬥被破壞，在此卡進行戰鬥的狀況下，對方在傷害步驟結束前無法發動魔法・陷阱・怪獸的效果。②：此卡進行戰鬥後的戰鬥階段結束時，可將此卡送回額外牌組發動。從牌組特殊召喚２隻「劍鬥獸」怪獸。
   zh-CN: |-
     “剑斗兽”怪兽×３
-    仅限于将我方场上的上述卡牌返回至牌组的场合，可从额外牌组特殊召唤（不需要“融合”）。①：此卡不会因战斗被破坏，此卡进行战斗的场合，直至伤害阶段结束时，对手不可发动魔法、陷阱、怪兽的效果。②：此卡进行了战斗的战斗阶段结束时，可将此卡返回至额外牌组并发动。从牌组特殊召唤２只“剑斗兽”怪兽。
+    此卡从额外牌组仅可在将自己场上的上述卡放回牌组・额外牌组的情况下特殊召唤。①：此卡不会因战斗被破坏，此卡进行战斗的情况下，对手直至伤害步骤结束时为止，不可发动魔法・陷阱・怪兽的效果。②：此卡进行过战斗的战斗阶段结束时，将此卡放回额外牌组可以发动。从牌组将２只“剑斗兽”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Winged Beast / Fusion / Effect
 attribute: DARK
@@ -113,6 +113,11 @@ sets:
     set_name: 'Extra Pack: Knights of Order'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: WPS1-SC093
+    set_name: World Premiere Pack 2024
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
