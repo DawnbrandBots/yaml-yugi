@@ -1,7 +1,7 @@
 konami_id:
 password:
 name:
-  en: Hallo the Great Spirit of Tricks
+  en: Hallo, the Spirit of Tricks
   de:
   es:
   fr:
@@ -15,10 +15,11 @@ name:
   zh-CN:
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can make your opponent choose 1 of these effects for you to apply. You must control this face-up card to activate and to resolve this effect.
-    ● This card gains 800 ATK for each Fiend monster in your GY.
+    If this card is Normal or Special Summoned: You can activate this effect; if you still control this face-up card, your opponent chooses 1 of these effects for you to apply.
+    ● This card gains 800 ATK for each Fiend monster currently in your GY.
     ● Inflict 500 damage to your opponent for each Fiend monster in your GY.
-    If this card is destroyed by battle or effect: You can send 1 monster your opponent controls to the GY. You can only use each effect of "Hallo the Great Spirit of Tricks" once per turn.
+    If this card is destroyed by battle or effect: You can send 1 monster your opponent controls to the GY.
+    You can only use each effect of "Hallo, the Spirit of Tricks" once per turn.
   de:
   es:
   fr:
@@ -36,7 +37,7 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: HallotheGreatSpiritofTricks-SUDA-JP-OP.png
+  image: HallotheSpiritofTricks-SUDA-JP-OP.png
 sets:
   ja:
   - set_number: SUDA-JP026
@@ -46,10 +47,5 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1088356
 fake_password: 101207026
