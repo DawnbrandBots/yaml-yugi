@@ -8,7 +8,7 @@ name:
   pt:
   ja: フレンドラゴン
   ja_romaji: Furendoragon
-  ko:
+  ko: 프렌드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示の通常モンスター（戦士族）がいる場合、このカードは手札から自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 일반 몬스터(전사족)가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード４枚を墓地へ送る。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 4장을 묘지로 보낸다. 그 후, 자신 묘지의 "퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,6 +72,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0B-JPS12
+    set_name: 'Structure Deck: Birth of Hero'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0B-KR011
+    set_name: 'Structure Deck: Birth of Hero'
+    rarities:
+    - Common
+  - set_number: RD/SD0B-KRS12
     set_name: 'Structure Deck: Birth of Hero'
     rarities:
     - Super Rare
