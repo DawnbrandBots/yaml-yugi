@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque por Invocação-Fusão 1 Monstro de Fusão Demônio do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão. Seu oponente não pode escolhê-lo como alvo de efeitos de card neste turno.
   ja: |-
-    ①：自分の手札・フィールドから、悪魔族の融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をＥＸデッキから融合召喚する。この効果で特殊召喚したモンスターは、このターン相手の効果の対象にならない。
+    ①：自分の手札・フィールドのモンスターを融合素材とし、悪魔族の融合モンスター１体を融合召喚する。このターン、相手はこの効果で特殊召喚したモンスターを効果の対象にできない。
   ko: |-
     ①: 자신의 패 / 필드에서, 악마족 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. 이 효과로 특수 소환한 몬스터는, 이 턴에 상대 효과의 대상이 되지 않는다.
   zh-TW: |-
@@ -177,6 +177,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  - set_number: SUDA-JPS01
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: GLAS-KR047
     set_name: Gladiator's Assault
