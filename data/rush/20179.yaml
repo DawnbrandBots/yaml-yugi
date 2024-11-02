@@ -8,7 +8,7 @@ name:
   pt:
   ja: スカイエンペラー・ミニオン
   ja_romaji: Sukai Enperā Minion
-  ko:
+  ko: 스카이엠페러 미니온
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はその中から「スペース・ユグドラゴ」またはマキシマムモンスター（サイバース族）１体を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの上に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 그 중에서 "스페이스 위그드라고" 또는 맥시멈 몬스터(사이버스족)를 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 위로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,12 @@ sets:
     set_name: Saikyō Jump May 2024 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/EV06-KR004
+    set_name: Rush Duel Event Pack 2024 Vol.2
+    rarities:
+    - Common
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
