@@ -1,0 +1,63 @@
+konami_id:
+name:
+  en: Dice Key Mix
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ダイスキー・ミクス
+  ja_romaji: Daisukī Mikusu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    None
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Roll a six-sided die. Apply the appropriate effect based on the result.
+    ● 1: Destroy 1 card on your field.
+    ● 2-6: Fusion Summon by sending Fairy Type monsters from your field to the Graveyard as material. Then, if the result was 5 or 6, the monster Special Summoned by this effect cannot be destroyed by your opponent's card effects this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 3
+atk: 300
+def: 1200
+series:
+- Dice
+images:
+- index: 1
+  image: DiceKeyMix-RDKP19-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP19-JP007
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1093049
