@@ -63,6 +63,8 @@ def transform_structure(
         "limitation_text" in wikitext
         or
         # Boss Duel cards
+        wikitext.get("jp_sets", "").startswith("BD-JP")
+        or
         wikitext.get("ocg_status") == "Illegal"
         or
         # Details unavailable for a new leak
