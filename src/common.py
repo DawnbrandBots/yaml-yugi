@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from csv import DictReader
 import json
@@ -324,3 +324,11 @@ def replace_interlinear_annotations(name: str) -> str:
         .replace("\ufffa", "<rt>")
         .replace("\ufffb", "</rt></ruby>")
     )
+
+
+def load_unreleased_csv(filename: Optional[str]) -> Dict[str, Dict[str, str]]:
+    if not filename:
+        return {}
+    with open(filename) as f:
+        reader = DictReader(f)
+        return {row["English name"]: row for row in reader}

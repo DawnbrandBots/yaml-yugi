@@ -61,6 +61,7 @@ jobs:
             --assignments ../../src/assignments/assignments.yaml \
             --tcg ../../../tcg.vector.json \
             --ocg ../../../ocg.vector.json \
+            --unreleased ../../../yaml-yugipedia/semantic-mediawiki/unreleased.csv \
             --ko-official ../../../yaml-yugi-ko/_site/ocg.csv \
             --ko-override ../../../yaml-yugi-ko/ocg-override.csv \
             --ko-prerelease ../../../yaml-yugi-ko/ocg-prerelease.csv \

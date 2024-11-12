@@ -22,6 +22,7 @@ from common import (
     transform_texts,
     write,
     load_ko_csv,
+    load_unreleased_csv,
 )
 
 module_logger = logging.getLogger(__name__)
@@ -65,6 +66,7 @@ def transform_structure(
         # Boss Duel cards
         wikitext.get("jp_sets", "").startswith("BD-JP")
         or
+        # Deprecated: https://yugipedia.com/wiki/Category:Cards_with_a_manual_status
         wikitext.get("ocg_status") == "Illegal"
         or
         # Details unavailable for a new leak
@@ -115,9 +117,24 @@ LIMIT_REGULATION_MAPPING = {
 
 def annotate_limit_regulation(
     document: Dict[str, Any],
+    unreleased: Dict[str, Dict[str, str]],
     tcg_vector: Optional[Dict[str, int]],
     ocg_vector: Optional[Dict[str, int]],
 ) -> None:
+    if (
+        (release := unreleased.get(document["name"]["en"]))
+        # Exclude The Seal of Orichalcos (UDE promo) and some others
+        and release.get("OCG status") != "Illegal"
+        and release.get("TCG status") != "Illegal"
+    ):
+        document["limit_regulation"]["tcg"] = release.get(
+            "TCG status", "Not yet released"
+        )
+        document["limit_regulation"]["ocg"] = release.get(
+            "OCG status", "Not yet released"
+        )
+        if speed := release.get("TCG Speed Duel status"):
+            document["limit_regulation"]["speed"] = speed
     if (
         tcg_vector
         and document["konami_id"]
@@ -395,6 +412,7 @@ def job(
     assignment_file: Optional[str] = None,
     tcg_vector: Optional[Dict[str, int]] = None,
     ocg_vector: Optional[Dict[str, int]] = None,
+    unreleased_csv: Optional[str] = None,
     ko_official_csv: Optional[str] = None,
     ko_override_csv: Optional[str] = None,
     ko_prerelease_csv: Optional[str] = None,
@@ -404,6 +422,7 @@ def job(
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
+    unreleased = load_unreleased_csv(unreleased_csv)
     ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)  # noqa: F841
@@ -429,7 +448,7 @@ def job(
         properties["yugipedia_page_id"] = page_id
         document = transform_structure(logger, properties)
         if document:
-            annotate_limit_regulation(document, tcg_vector, ocg_vector)
+            annotate_limit_regulation(document, unreleased, tcg_vector, ocg_vector)
             if ko_official:
                 replace_with_official(logger, document, ko_official, "ko")
             if master_duel:

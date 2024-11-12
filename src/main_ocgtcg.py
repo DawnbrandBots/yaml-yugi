@@ -17,6 +17,9 @@ parser.add_argument("--tcg", help="TCG Forbidden & Limited List, Konami ID vecto
 parser.add_argument(
     "--ocg", help="OCG Forbidden & Limited List, English name vector JSON"
 )
+parser.add_argument(
+    "--unreleased", help="Semantic MediaWiki unreleased cards CSV export"
+)
 parser.add_argument("--ko-official", help="yaml-yugi-ko official database CSV")
 parser.add_argument("--ko-override", help="yaml-yugi-ko ocg-override.csv")
 parser.add_argument("--ko-prerelease", help="yaml-yugi-ko ocg-prerelease.csv")
@@ -60,6 +63,7 @@ def main() -> None:
         args.assignments,
         tcg,
         ocg,
+        args.unreleased,
         args.ko_official,
         args.ko_override,
         args.ko_prerelease,
