@@ -124,15 +124,11 @@ def annotate_limit_regulation(
     if (
         (release := unreleased.get(document["name"]["en"]))
         # Exclude The Seal of Orichalcos (UDE promo) and some others
-        and release.get("OCG status") != "Illegal"
-        and release.get("TCG status") != "Illegal"
+        and (ocg := release.get("OCG status")) != "Illegal"
+        and (tcg := release.get("TCG status")) != "Illegal"
     ):
-        document["limit_regulation"]["tcg"] = release.get(
-            "TCG status", "Not yet released"
-        )
-        document["limit_regulation"]["ocg"] = release.get(
-            "OCG status", "Not yet released"
-        )
+        document["limit_regulation"]["tcg"] = tcg or "Not yet released"
+        document["limit_regulation"]["ocg"] = ocg or "Not yet released"
         if speed := release.get("TCG Speed Duel status"):
             document["limit_regulation"]["speed"] = speed
     if (
