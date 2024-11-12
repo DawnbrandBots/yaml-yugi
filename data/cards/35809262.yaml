@@ -33,7 +33,7 @@ text:
     "Aviário, o HERÓI do Elemento" + "Burstinatrix, o HERÓI do Elemento"
     Deve ser Invocado por Invocação-Fusão. Quando este card destruir um monstro em batalha e enviá-lo para o Cemitério: cause dano ao seu oponente igual ao ATK do monstro destruído no Cemitério.
   ja: |-
-    「<ruby>Ｅ・ＨＥＲＯ<rt>エレメンタルヒーロー</rt></ruby> フェザーマン」＋「<ruby>Ｅ・ＨＥＲＯ<rt>エレメンタルヒーロー</rt></ruby> バーストレディ」
+    「Ｅ・ＨＥＲＯ フェザーマン」＋「Ｅ・ＨＥＲＯ バーストレディ」
     このカードは融合召喚でしか特殊召喚できない。①：このカードが戦闘でモンスターを破壊し墓地へ送った場合に発動する。そのモンスターの元々の攻撃力分のダメージを相手に与える。
   ko: |-
     "엘리멘틀 히어로 페더맨" ＋ "엘리멘틀 히어로 버스트 레이디"
@@ -42,7 +42,7 @@ text:
     「元素－英雄 羽毛人」＋「元素－英雄 爆炎女郎」
     此卡僅限以融合召喚進行特殊召喚。①：在此卡因戰鬥破壞怪獸送至墓地的狀況下發動。給予對方等同於該怪獸原本攻擊力數值的傷害。
   zh-CN: |-
-    "元素－英雄 羽毛人"＋"元素－英雄 爆炎女郎"
+    “元素-英雄 羽毛人”＋“元素-英雄 爆炎女郎”
     此卡仅可以融合召唤方式特殊召唤。①：此卡战斗破坏怪兽并将其送至墓地的情况下发动。给予对手该怪兽的原本攻击力数值的伤害。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
@@ -58,6 +58,9 @@ series:
 images:
 - index: 1
   image: ElementalHEROFlameWingman-RA03-EN-PlScR-1E.png
+  illustration: ElementalHEROFlameWingman-MADU-EN-VG-artwork.png
+- index: 2
+  image: ElementalHEROFlameWingman-CCC2-JP-OP.png
 sets:
   en:
   - set_number: TLM-EN035
@@ -270,6 +273,10 @@ sets:
     set_name: Power of the Elements +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  - set_number: CCC2-JP002
+    set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 1
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: TLM-KR035
     set_name: The Lost Millennium

@@ -35,10 +35,16 @@ def: 200
 images:
 - index: 1
   image: SteamKnightHamburk-CCC1-JP-NPR.png
+- index: 2
+  image: SteamKnightHamburk-CCC2-JP-OP.png
 sets:
   ja:
   - set_number: CCC1-JPS01
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign Part 2
+    rarities:
+    - Normal Parallel Rare
+  - set_number: CCC2-JPS01
+    set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 1
     rarities:
     - Normal Parallel Rare
 limit_regulation:

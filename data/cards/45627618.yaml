@@ -34,7 +34,7 @@ text:
     Se você puder Invocar por Invocação-Pêndulo de Nível 7, você pode Invocar este card com a face para cima no seu Deck Adicional por Invocação-Pêndulo. Se este card for Invocado por Invocação-Xyz ao usar um Monstro Xyz como matéria: destrua tantos monstros de Nível 7 ou menos que seu oponente controla quanto possível e, se isso acontecer, cause 1000 de dano ao seu oponente para cada card destruído e, além disso, este card pode realizar 3 ataques durante cada Fase de Batalha neste turno. Se este card na Zona de Monstros for destruído em batalha ou por um efeito de card: você pode destruir tantos cards nas suas Zonas de Pêndulo quanto possível (mín. 1) e, se isso acontecer, coloque este card na sua Zona de Pêndulo.
   ja: |-
     ドラゴン族レベル７モンスター×２
-    レベル７が<ruby>Ｐ<rt>ペンデュラム</rt></ruby>召喚可能な場合にＥＸデッキの表側表示のこのカードは<ruby>Ｐ<rt>ペンデュラム</rt></ruby>召喚できる。①：このカードが<ruby>Ｘ<rt>エクシーズ</rt></ruby>モンスターを素材として<ruby>Ｘ<rt>エクシーズ</rt></ruby>召喚に成功した場合に発動する。相手フィールドのレベル７以下のモンスターを全て破壊し、破壊した数×１０００ダメージを相手に与える。このターン、このカードは１度のバトルフェイズ中に３回攻撃できる。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。自分の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンのカードを全て破壊し、このカードを自分の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンに置く。
+    レベル７がＰ召喚可能な場合にＥＸデッキの表側表示のこのカードはＰ召喚できる。①：このカードがＸモンスターを素材としてＸ召喚に成功した場合に発動する。相手フィールドのレベル７以下のモンスターを全て破壊し、破壊した数×１０００ダメージを相手に与える。このターン、このカードは１度のバトルフェイズ中に３回攻撃できる。②：モンスターゾーンのこのカードが戦闘・効果で破壊された場合に発動できる。自分のＰゾーンのカードを全て破壊し、このカードを自分のＰゾーンに置く。
   ko: |-
     드래곤족 레벨 7 몬스터 × 2
     레벨 7 이 펜듈럼 소환 가능한 경우에 엑스트라 덱의 앞면 표시의 이 카드는 펜듈럼 소환할 수 있다. ①: 이 카드가 엑시즈 몬스터를 소재로서 엑시즈 소환에 성공했을 경우에 발동한다. 상대 필드의 레벨 7 이하의 몬스터를 전부 파괴하고, 파괴한 수 × 1000 데미지를 상대에게 준다. 이 턴에, 이 카드는 1번의 배틀 페이즈 중에 3회 공격할 수 있다. ②: 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 펜듈럼 존의 카드를 전부 파괴하고, 이 카드를 자신의 펜듈럼 존에 놓는다.
@@ -65,7 +65,7 @@ pendulum_effect:
   pt: |-
     Uma vez por turno, se você não tiver cards na sua outra Zona de Pêndulo: você pode colocar na sua Zona de Pêndulo 1 Monstro Pêndulo do seu Deck.
   ja: |-
-    ①：１ターンに１度、もう片方の自分の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンにカードが存在しない場合に発動できる。デッキから<ruby>Ｐ<rt>ペンデュラム</rt></ruby>モンスター１体を選び、自分の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>ゾーンに置く。
+    ①：１ターンに１度、もう片方の自分のＰゾーンにカードが存在しない場合に発動できる。デッキからＰモンスター１体を選び、自分のＰゾーンに置く。
   ko: |-
     ①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 고르고, 자신의 펜듈럼 존에 놓는다.
   zh-TW: |-
@@ -81,6 +81,9 @@ series:
 images:
 - index: 1
   image: OddEyesRebellionDragon-BLCR-EN-UR-1E.png
+  illustration: OddEyesRebellionDragon-MADU-EN-VG-artwork.png
+- index: 2
+  image: OddEyesRebellionDragon-CCC2-JP-OP.png
 sets:
   en:
   - set_number: CORE-EN051
@@ -188,6 +191,10 @@ sets:
     set_name: Dimension Force +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  - set_number: CCC2-JP005
+    set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: CORE-KR051
     set_name: Clash of Rebellions
