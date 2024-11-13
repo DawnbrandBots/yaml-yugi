@@ -61,7 +61,7 @@ jobs:
           sparse-checkout-cone-mode: false
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version-file: .node-version
           cache: yarn
           cache-dependency-path: yarn.lock
       - run: yarn

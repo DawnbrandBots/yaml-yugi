@@ -14,7 +14,7 @@
     "lint": "eslint 'src/**/*.ts'"
   },
   "engines": {
-    "node": ">=20",
+    "node": ">=22",
     "yarn": "1.22.x"
   },
   "dependencies": {
@@ -24,7 +24,7 @@
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
-    "@alphakretin/essentials": "^6.2.0",
+    "@alphakretin/essentials": "^7.0.0",
     "@types/js-yaml": "^4.0.9"
   },
   "eslintConfig": {
