@@ -107,7 +107,7 @@ jobs:
       - if: steps.commit.outputs.status > 0
         uses: actions/setup-node@v4
         with:
-          node-version-file: .node-version
+          node-version-file: yaml-yugi/.node-version
           cache: yarn
           cache-dependency-path: yaml-yugi/yarn.lock
       - if: steps.commit.outputs.status > 0
