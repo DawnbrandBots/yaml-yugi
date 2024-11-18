@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão. Este card ganha 500 de ATK para cada monstro Dragão que você controla, exceto este card.
   ja: |-
     「カオス・ソルジャー」＋「青眼の究極竜」
-    このカードは融合召喚でしか特殊召喚できない。①：このカードの攻撃力は、このカード以外の自分フィールドのドラゴン族モンスターの数×５００アップする。
+    このカードは融合召喚でしか特殊召喚できない。①：このカードの攻撃力は、自分フィールドの他のドラゴン族モンスターの数×５００アップする。
   ko: |-
     "카오스 솔저" ＋ "궁극의 푸른 눈의 백룡"
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드의 공격력은, 이 카드 이외의 자신 필드의 드래곤족 몬스터의 수 × 500 올린다.
@@ -171,6 +171,11 @@ sets:
     set_name: Battle of Chaos +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  - set_number: QCLP-JP019
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: SRL-KRPR1
     set_name: Spell Ruler promotional cards

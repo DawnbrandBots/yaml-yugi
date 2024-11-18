@@ -27,7 +27,7 @@ text:
   pt: |-
     O ATK/DEF deste card se tornam o número dos seus cards banidos x 400.
   ja: |-
-    ①：このカードの攻撃力・守備力は、除外されている自分のカードの数×４００になる。
+    ①：このカードの攻撃力・守備力は、自分の除外状態のカードの数×４００になる。
   ko: |-
     ①: 이 카드의 공격력 / 수비력은, 제외되어 있는 자신의 카드의 수 × 400 이 된다.
   zh-TW: |-
@@ -198,6 +198,12 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: QCLP-JP014
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: IOC-KR024
     set_name: Invasion of Chaos

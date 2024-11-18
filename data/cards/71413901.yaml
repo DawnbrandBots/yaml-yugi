@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: coloque 1 Marcador de Magia nele (máx. 1). Ganha 300 de ATK para cada Marcador de Magia nele. Você pode remover 1 Marcador de Magia deste card e, depois, escolha 1 Magia/Armadilha no campo; destrua o alvo.
   ja: |-
-    ①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×３００アップする。③：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
+    ①：このカードが召喚した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×３００アップする。③：このカードの魔力カウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다(최대 1개까지). ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 300 올린다. ③: 이 카드의 마력 카운터를 1개 제거하고, 필드의 마법 / 함정 카드 1장을 대상으로 하여 발동할 수 있다. 그 마법 / 함정 카드를 파괴한다.
   zh-TW: |-
@@ -446,6 +446,11 @@ sets:
     set_name: Area Championship 2024 December prize card
     rarities:
     - Quarter Century Secret Rare
+  - set_number: QCLP-JP013
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: MFC-KR071
     set_name: Magician's Force

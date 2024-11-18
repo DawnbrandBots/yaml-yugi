@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão. Quando um Card de Magia for ativado (Efeito Rápido): você pode descartar 1 card; negue a ativação e, se isso acontecer, destrua-o. Este card deve estar com a face para cima no campo para ativar e resolver este efeito. Ganha 500 de ATK para cada monstro Dragão no campo e no Cemitério.
   ja: |-
     「ブラック・マジシャン」＋「バスター・ブレイダー」
-    このカードは融合召喚でしか特殊召喚できない。①：このカードの攻撃力は、お互いのフィールド・墓地のドラゴン族モンスターの数×５００アップする。②：魔法カードが発動した時、手札を１枚捨てて発動できる。このカードがフィールドに表側表示で存在する場合、その発動を無効にし破壊する。
+    このカードは融合召喚でしか特殊召喚できない。①：このカードの攻撃力は、お互いのフィールド・墓地のドラゴン族モンスターの数×５００アップする。②：魔法カードが発動した時、手札を１枚捨てて発動できる。このカードがモンスターゾーンに表側表示で存在する場合、その発動を無効にし破壊する。
   ko: |-
     "블랙 매지션" ＋ "버스터 블레이더"
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드의 공격력은, 서로의 필드 / 묘지의 드래곤족 몬스터의 수 × 500 올린다. ②: 마법 카드가 발동했을 때, 패를 1장 버리고 발동할 수 있다. 이 카드가 필드에 앞면 표시로 존재할 경우, 그 발동을 무효로 하고 파괴한다.
@@ -346,6 +346,11 @@ sets:
     set_name: Yu-Gi-Oh! Card Game x 7-Eleven Collaboration Campaign
     rarities:
     - Normal Parallel Rare
+  - set_number: QCLP-JP021
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: DMG-KR001
     set_name: Duel Master's Guide promotional cards

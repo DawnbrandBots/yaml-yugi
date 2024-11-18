@@ -27,7 +27,7 @@ text:
   pt: |-
     Durante a Fase Final, se este card foi Invocado por Invocação-Normal ou Especial neste turno: você pode escolher 1 Magia no seu Cemitério; adicione-a à sua mão. Você só pode usar este efeito de "Mago Negro do Caos" uma vez por turno. Se este card destruir um monstro do oponente em batalha, depois do cálculo de dano: bana esse monstro do oponente. Se este card com a face para cima deixaria o campo, em vez disso, bana-o.
   ja: |-
-    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功したターンのエンドフェイズに、自分の墓地の魔法カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが戦闘で相手モンスターを破壊したダメージ計算後に発動する。その相手モンスターを除外する。③：表側表示のこのカードはフィールドから離れた場合に除外される。
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚したターンのエンドフェイズに、自分の墓地の魔法カード１枚を対象として発動できる。そのカードを手札に加える。②：このカードが戦闘で相手モンスターを破壊したダメージ計算後に発動する。その相手モンスターを除外する。③：表側表示のこのカードはフィールドから離れた場合に除外される。
   ko: |-
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공한 턴의 엔드 페이즈에, 자신 묘지의 마법 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. ②: 이 카드가 전투로 상대 몬스터를 파괴한 데미지 계산 후에 발동한다. 그 상대 몬스터를 제외한다. ③: 앞면 표시의 이 카드는 필드에서 벗어났을 경우에 제외된다.
   zh-TW: |-
@@ -44,7 +44,7 @@ series:
 - Magician
 images:
 - index: 1
-  image: DarkMagicianofChaos-SR08-JP-C.png
+  image: DarkMagicianofChaos-QCLP-JP-UR.png
   illustration: DarkMagicianofChaos-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: DarkMagicianofChaos-RA03-EN-PlScR-1E.png
@@ -324,6 +324,12 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  - set_number: QCLP-JP018
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: IOC-KR065
     set_name: Invasion of Chaos

@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque este card por Invocação-Especial em Posição de Defesa como um Monstro de Efeito (Aqua/ÁGUA/Nível 10/ATK 0/DEF 3000). (Este card ainda é considerado uma Armadilha.) Se Invocado desta forma, este card não pode atacar.
   ja: |-
-    ①：このカードは発動後、効果モンスター（水族・水・星１０・攻０／守３０００）となり、モンスターゾーンに守備表示で特殊召喚する。このカードは罠カードとしても扱う。②：このカードの効果で特殊召喚されたこのカードは攻撃できない。
+    ①：このカードは発動後、効果モンスター（水族・水・星１０・攻０／守３０００）となり、モンスターゾーンに守備表示で特殊召喚する（罠カードとしても扱う）。②：このカードの効果で特殊召喚されたこのカードは攻撃できない。
   ko: |-
     ①: 이 카드는 발동 후, 효과 몬스터(물족 / 물 / 레벨 10 / 공 0 / 수 3000)가 되어, 몬스터 존에 수비 표시로 특수 소환한다. 이 카드는 함정 카드로도 취급한다. ②: 이 카드의 효과로 특수 소환된 이 카드는 공격할 수 없다.
   zh-TW: |-
@@ -290,6 +290,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Super Rare
+  - set_number: QCLP-JP024
+    set_name: Quarter Century Limited Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: LON-KRPR1
     set_name: Labyrinth of Nightmare promotional cards
