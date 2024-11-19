@@ -8,7 +8,7 @@ name:
   pt:
   ja: サイクイップ・ダ・カーポ
   ja_romaji: Saikuippu Da Kāpo
-  ko:
+  ko: 사이큅 다 카포
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「フュージョン」または「サイクイップ・フュージョン」１枚を選んでデッキの上か下に戻す事ができる。戻した場合、さらに自分の墓地のモンスター（風属性／サイキック族）、「フュージョン」、「サイクイップ・フュージョン」の中から１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 "퓨전" 또는 "사이큅 퓨전" 1장을 고르고 덱 위나 아래로 되돌릴 수 있다. 되돌렸을 경우, 추가로 자신 묘지의 몬스터(바람 속성 / 사이킥족), "퓨전", "사이큅 퓨전" 중에서 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP052
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR052
     set_name: Dark Matter of Phantoms
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>叛<rt>はん</rt></ruby><ruby>骨<rt>こつ</rt></ruby>のガイガスト
   ja_romaji: Hankotsu no Gaigasuto
-  ko:
+  ko: 반골의 가이가스트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが５体以上の場合、手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 5장 이상일 경우, 패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体を選んで破壊する。このターン、自分は表側表示のこのカードをアドバンス召喚のためにはリリースできない。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장을 고르고 파괴한다. 이 턴에, 자신은 앞면 표시의 이 카드를 어드밴스 소환을 위해서는 릴리스할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP031
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP18-KR031
     set_name: Dark Matter of Phantoms
     rarities:
     - Ultra Rare

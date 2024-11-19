@@ -8,7 +8,7 @@ name:
   pt:
   ja: フィッシャーランチャー
   ja_romaji: Fisshā Ranchā
-  ko:
+  ko: 피셔 런처
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（魚族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(어류족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、自分は１枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 그 후, 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP059
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR059
     set_name: Dark Matter of Phantoms
     rarities:
     - Common

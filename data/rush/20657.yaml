@@ -8,7 +8,7 @@ name:
   pt:
   ja: サイバー・オステウス
   ja_romaji: Saibā Osuteusu
-  ko:
+  ko: 사이버 오스테우스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -37,7 +38,8 @@ effect:
   pt:
   ja: |-
     自分ターンの間、相手フィールドの表側表示モンスターの攻撃力・守備力は６００ダウンする。
-  ko:
+  ko: |-
+    자신 턴 동안, 상대 필드의 앞면 표시 몬스터의 공격력 / 수비력은 600 내린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -56,7 +58,8 @@ materials:
   pt:
   ja: |-
     「サイバー・シャーク」＋「サイバー・シャーク」
-  ko:
+  ko: |-
+    "사이버 샤크" ＋ "사이버 샤크"
   zh-TW:
   zh-CN:
 images:
@@ -65,6 +68,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP050
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR050
     set_name: Dark Matter of Phantoms
     rarities:
     - Common

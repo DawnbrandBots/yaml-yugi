@@ -8,7 +8,7 @@ name:
   pt:
   ja: フォルスムーン
   ja_romaji: Forusu Mūn
-  ko:
+  ko: 포르스문
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地にモンスター（ギャラクシー族／守備力１３００）が２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지에 몬스터(갤럭시족 / 수비력 1300)가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（ギャラクシー族／守備力１３００）１体を選び、自分フィールドに裏側守備表示で特殊召喚する。その後、このカードを裏側守備表示にできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(갤럭시족 / 수비력 1300) 1장을 고르고, 자신 필드에 뒷면 수비 표시로 특수 소환한다. 그 후, 이 카드를 뒷면 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP034
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR034
     set_name: Dark Matter of Phantoms
     rarities:
     - Common

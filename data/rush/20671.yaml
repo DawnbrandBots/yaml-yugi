@@ -8,7 +8,7 @@ name:
   pt:
   ja: イチゴの<ruby>別<rt>わか</rt></ruby>れ
   ja_romaji: Ichigo no Wakare
-  ko:
+  ko: 딸기의 이별
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時、自分の墓地にモンスター（水族／攻撃力１００）が５体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 상대의 공격 또는 상대의 효과로 파괴되었을 때, 자신 묘지에 몬스터(물족 / 공격력 100)가 5장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP062
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR062
     set_name: Dark Matter of Phantoms
     rarities:
     - Common

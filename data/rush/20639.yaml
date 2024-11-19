@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>叛<rt>はん</rt></ruby><ruby>骨<rt>こつ</rt></ruby>のスフレース
   ja_romaji: Hankotsu no Sufurēsu
-  ko:
+  ko: 반골의 스플레이스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで表示形式を変更する。自分の墓地のモンスターが５体以上の場合、さらに自分の墓地の「叛骨のガイガスト」１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 표시 형식을 변경한다. 자신 묘지의 몬스터가 5장 이상일 경우, 추가로 자신 묘지의 "반골의 가이가스트" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -55,6 +57,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP030
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP18-KR030
     set_name: Dark Matter of Phantoms
     rarities:
     - Super Rare

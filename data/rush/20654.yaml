@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>帝<rt>てい</rt></ruby>バクハカイザー
   ja_romaji: Genkaitei Bakuhakaizā
-  ko:
+  ko: 환괴 제왕 바쿠하카이저
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（幻竜族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(환룡족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のカードを３枚まで選んでデッキに戻す。この効果の条件でモンスター（レベル８以上）を墓地へ送った場合、さらにこのカードの攻撃力はターン終了時まで、［この効果で戻したカードの数］×３００アップする。
-  ko:
+  ko: |-
+    상대 묘지의 카드를 3장까지 고르고 덱으로 되돌린다. 이 효과의 조건으로 몬스터(레벨 8 이상)를 묘지로 보냈을 경우, 추가로 이 카드의 공격력은 턴 종료시까지, [이 효과로 되돌린 카드의 수] × 300 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,7 +56,8 @@ materials:
   pt:
   ja: |-
     「幻壊兵ヘル・メット」＋モンスター（幻竜族）
-  ko:
+  ko: |-
+    "환괴병 헬 멧" ＋ 몬스터(환룡족)
   zh-TW:
   zh-CN:
 series:
@@ -65,6 +68,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP18-JP045
+    set_name: Dark Matter of Phantoms
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP18-KR045
     set_name: Dark Matter of Phantoms
     rarities:
     - Common
