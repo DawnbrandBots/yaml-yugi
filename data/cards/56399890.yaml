@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for descartado para o Cemitério: escolha 1 card com a face para cima no campo; destrua o alvo.
   ja: |-
-    このカードが手札から墓地へ捨てられた時、フィールド上に表側表示で存在するカード１枚を破壊する。
+    ①：このカードが手札から墓地へ捨てられた場合、フィールドの表側表示カード１枚を対象として発動する。その表側表示カードを破壊する。
   ko: |-
     이 카드가 패에서 묘지에 버려졌을 때, 필드 위에 앞면 표시로 존재하는 카드 1장을 파괴한다.
   zh-TW: |-
@@ -105,6 +105,10 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Rare Parallel Rare
+  - set_number: TW02-JP013
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR007
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

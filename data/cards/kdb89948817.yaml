@@ -1,4 +1,4 @@
-konami_id:
+konami_id: 89948817
 password:
 name:
   en: Jurrac Volcano
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分フィールドの恐竜族モンスター１体を破壊し、デッキから「ジュラック」モンスター１体を特殊召喚する。②：相手がモンスターを特殊召喚した場合、このターンに相手がモンスターの効果を４回以上発動していれば発動できる。ＥＸデッキから「ジュラック・メテオ」１体をＳ召喚扱いで特殊召喚する。③：自分フィールドの「ジュラック」モンスターが効果で破壊される場合、代わりに自分の墓地の恐竜族モンスター１体を除外できる。
   ko:
   zh-TW:
   zh-CN:
@@ -31,13 +32,16 @@ series:
 - Jurrac
 images:
 - index: 1
-  image: JurracVolcano-TW02-JP-OP.png
+  image: JurracVolcano-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP030
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for destruído em batalha e enviado para o Cemitério: seu oponente pode descartar 1 card para negar o efeito deste card, caso contrário, destrua o monstro que destruiu este card.
   ja: |-
-    このカードが戦闘によって破壊され墓地へ送られた時に発動する。相手は手札を１枚捨ててこのカードの効果を無効にできる。捨てなかった場合、このカードを破壊したモンスターを破壊する。
+    ①：このカードが戦闘で破壊され墓地へ送られた場合に発動する。相手は手札を１枚選んで捨ててこの効果を無効にできる。捨てなかった場合、このカードを破壊したモンスターを破壊する。
   ko: |-
     이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때 발동한다. 상대는 패를 1장 버리고 이 카드의 효과를 무효로 할 수 있다. 버리지 않았을 경우, 이 카드를 파괴한 몬스터를 파괴한다.
   zh-TW: |-
@@ -104,6 +104,10 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW02-JP036
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR016
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

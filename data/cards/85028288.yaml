@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Especial. Não pode ser alvo de efeitos de Armadilha ou de monstro. Uma vez por turno: você pode banir 1 monstro "Jurrac" com ATK de 1700 ou menos do seu Cemitério; este card ganha 1000 de ATK até a Fase Final.
   ja: |-
-    このカードは特殊召喚できない。このカードはフィールド上に表側表示で存在する限り、罠・効果モンスターの効果の対象にならない。また、１ターンに１度、自分の墓地の攻撃力１７００以下の「ジュラック」と名のついたモンスター１体をゲームから除外して発動できる。このカードの攻撃力はエンドフェイズ時まで１０００ポイントアップする。
+    このカードは特殊召喚できない。①：お互いはフィールドのこのカードを罠・モンスターの効果の対象にできない。②：１ターンに１度、自分の墓地から攻撃力１７００以下の「ジュラック」モンスター１体を除外して発動できる。このカードの攻撃力はターン終了時まで１０００アップする。
   ko: |-
     이 카드는 특수 소환할 수 없다. 이 카드는 필드 위에 앞면 표시로 존재하는 한, 함정/효과 몬스터의 효과의 대상으로 할 수 없다. 1턴에 1번 자신의 묘지에 존재하는 공격력 1700 이하의 "쥬락"이라는 이름이 붙은 몬스터 1장을 게임에서 제외하는 것으로, 이 카드의 공격력은 엔드 페이즈시까지 1000 포인트 올린다.
   zh-TW: |-
@@ -105,6 +105,12 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW02-JP033
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR039
     set_name: Hidden Arsenal 3

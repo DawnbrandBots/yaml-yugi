@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno: você pode descartar qualquer número de cards e, se isso acontecer, até o final deste turno, este card ganha 1 Nível e 400 de ATK para cada card descartado.
   ja: |-
-    ①：１ターンに１度、自分メインフェイズに発動できる。自分の手札を任意の枚数選んで捨て、ターン終了時まで、このカードのレベルは捨てた数だけ上がり、攻撃力は捨てた数×４００アップする。
+    ①：１ターンに１度、自分メインフェイズに発動できる。自分の手札を任意の数だけ選んで捨て、ターン終了時まで、このカードのレベルは捨てた数だけ上がり、攻撃力は捨てた数×４００アップする。
   ko: |-
     ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 자신의 패를 임의의 매수 골라 버리고, 턴 종료시까지, 이 카드의 레벨은 버린 수만큼 오르며, 공격력은 버린 수 × 400 올린다.
   zh-TW: |-
@@ -173,6 +173,10 @@ sets:
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
+  - set_number: TW02-JP005
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA-KRSE1
     set_name: 'Hidden Arsenal: Special Edition'

@@ -34,7 +34,7 @@ text:
     O ATK e DEF deste card são iguais à soma do ATK original dos Monstros-Matéria Sincro usados para a sua Invocação-Sincro. Se este card atacar um monstro com a face para baixo em Posição de Defesa, você pode destruir o monstro imediatamente com o efeito deste card sem virá-lo com a face para cima ou aplicar o cálculo de dano.
   ja: |-
     チューナー＋チューナー以外の恐竜族モンスター１体以上
-    このカードの攻撃力・守備力は、このカードのシンクロ素材としたモンスターの元々の攻撃力を合計した数値になる。また、このカードが裏側守備表示のモンスターを攻撃した場合、ダメージ計算を行わず裏側守備表示のままそのモンスターを破壊できる。
+    ①：このカードの攻撃力・守備力は、このカードのＳ素材としたモンスターの元々の攻撃力を合計した数値になる。②：このカードが裏側守備表示モンスターを攻撃したダメージステップ開始時に発動できる。その裏側守備表示モンスターを破壊する。
   ko: |-
     튜너 ＋ 튜너 이외의 공룡족 몬스터 1장 이상
     이 카드의 공격력/수비력은, 이 카드의 싱크로 소재로 한 몬스터의 원래 공격력을 합계한 수치가 된다. 이 카드가 뒷면 수비 표시의 몬스터를 공격했을 경우, 데미지 계산을 실행하지 않고 뒷면 수비 표시인 채로 그 몬스터를 파괴할 수 있다.
@@ -90,6 +90,10 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW02-JP039
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA03-KR027
     set_name: Hidden Arsenal 3

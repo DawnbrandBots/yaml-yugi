@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for descartado para o Cemitério: Invoque-o por Invocação-Especial. Se Invocado desta forma, ele ganha 200 de ATK, mas bana-o quando ele deixar o campo.
   ja: |-
-    このカードが手札から墓地へ捨てられた時、このカードを自分フィールド上に特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は２００ポイントアップし、フィールド上から離れた場合ゲームから除外される。
+    ①：このカードが手札から墓地へ捨てられた場合に発動する。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、攻撃力が２００アップし、フィールドから離れた場合に除外される。
   ko: |-
     이 카드가 패에서 묘지에 버려졌을 때, 이 카드를 자신 필드 위에 특수 소환한다. 이 효과로 특수 소환한 이 카드의 공격력은 200 포인트 올리고, 필드 위에서 벗어났을 경우 게임에서 제외된다.
   zh-TW: |-
@@ -105,6 +105,10 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW02-JP015
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR009
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20929
+password: 52553102
 name:
   en: Jurrac Astero
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    チューナー＋チューナー以外の恐竜族モンスター１体以上
+    ①：このカードがＳ召喚した場合に発動できる。自分のデッキ・墓地から「ジュラック」魔法・罠カード１枚を自分フィールドにセットする。②：１ターンに１度、相手がモンスターを特殊召喚する際に、自分の墓地から恐竜族モンスター２体を除外して発動できる。それを無効にし、そのモンスターを破壊する。③：相手ターンに、自分の墓地からこのカードを含む「ジュラック」モンスター２体を除外して発動できる。ＥＸデッキから「ジュラック・メテオ」１体をＳ召喚扱いで特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -37,13 +39,16 @@ series:
 - Jurrac
 images:
 - index: 1
-  image: JurracAstero-TW02-JP-OP.png
+  image: JurracAstero-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP029
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -53,4 +58,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1079582
-fake_password: 100439029

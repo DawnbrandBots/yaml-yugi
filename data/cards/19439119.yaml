@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for descartado para o Cemitério: escolha 1 outro monstro "Mitológico(a)" de Nível 4 ou menos no seu Cemitério; Invoque o alvo por Invocação-Especial.
   ja: |-
-    ①：このカードが手札から墓地へ捨てられた場合、このカード以外の自分の墓地のレベル４以下の「魔轟神」モンスター１体を対象として発動する。そのモンスターを特殊召喚する。
+    ①：このカードが手札から墓地へ捨てられた場合、自分の墓地の他のレベル４以下の「魔轟神」モンスター１体を対象として発動する。そのモンスターを特殊召喚する。
   ko: |-
     이 카드가 패에서 묘지에 버려졌을 때 자신의 묘지에 존재하는 이 카드 이외의 레벨 4 이하의 "마굉신"이라는 이름이 붙은 몬스터 1장을 특수 소환한다.
   zh-TW: |-
@@ -113,6 +113,12 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  - set_number: TW02-JP009
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR002
     set_name: Hidden Arsenal 3

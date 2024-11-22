@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um monstro do Tipo Dinossauro com ATK 2500 ou mais: destrua todos os cards no campo.
   ja: |-
-    自分フィールド上に攻撃力２５００以上の恐竜族モンスターが存在する場合に発動できる。フィールド上のカードを全て破壊する。
+    ①：自分フィールドに攻撃力２５００以上の恐竜族モンスターが存在する場合に発動できる。フィールドのカードを全て破壊する。
   ko: |-
     자신 필드 위에 공격력 2500 이상의 공룡족 몬스터가 존재할 경우에 발동할 수 있다. 필드 위의 카드를 전부 파괴한다.
   zh-TW: |-
@@ -92,6 +92,12 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Common
+  - set_number: TW02-JP041
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: CBLZ-KR079
     set_name: Cosmo Blazer

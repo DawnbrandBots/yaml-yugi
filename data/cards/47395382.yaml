@@ -34,7 +34,7 @@ text:
     Quando este card for Invocado por Invocação-Sincro: você pode comprar até ter 2 cards na sua mão.
   ja: |-
     「魔轟神」チューナー＋チューナー以外のモンスター１体以上
-    ①：このカードがＳ召喚に成功した時に発動できる。自分は手札が２枚になるようにデッキからドローする。
+    ①：このカードがＳ召喚した時に発動できる。自分は手札が２枚になるようにドローする。
   ko: |-
     "마굉신"이라는 이름이 붙은 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     자신의 패가 1장 이하일 경우, 이 카드가 싱크로 소환에 성공했을 때, 자신의 패가 2장이 될 때까지 덱에서 카드를 드로우할 수 있다.
@@ -42,7 +42,7 @@ text:
     「魔轟神」協調＋協調以外的怪獸１隻以上
     ①：可在此卡同步召喚成功時發動。我方從牌組抽牌使手牌變為２張。
   zh-CN: |-
-    "魔轰神"协调＋1只以上协调以外的怪兽
+    “魔轰神”协调+1只以上协调以外的怪兽
     ①：此卡同步召唤成功时可以发动。自己从牌组抽牌，直至手牌为2张。
 card_type: Monster
 monster_type_line: Fiend / Synchro / Effect
@@ -121,6 +121,12 @@ sets:
     set_name: Tournament Pack 2020 Vol.4
     rarities:
     - Common
+  - set_number: TW02-JP022
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR058
     set_name: Hidden Arsenal 3

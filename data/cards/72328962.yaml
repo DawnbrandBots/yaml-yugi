@@ -27,13 +27,13 @@ text:
   pt: |-
     Se este card estiver no seu Cemitério: você pode enviar 2 cards da sua mão para o Cemitério, exceto "Soulkius Mitológico"; Invoque este card por Invocação-Especial.
   ja: |-
-    手札から「魔轟神ソルキウス」以外のカード２枚を墓地へ送って発動する。このカードを墓地から特殊召喚する。
+    ①：このカードが墓地に存在する場合、手札から「魔轟神ソルキウス」以外のカード２枚を墓地へ送って発動できる。このカードを特殊召喚する。
   ko: |-
     패에서 "마굉신 소울키우스" 이외의 카드 2장을 묘지로 보내고 발동한다. 이 카드를 묘지에서 특수 소환한다.
   zh-TW: |-
     在此卡存在於墓地的狀況下，可將手牌的２張「魔轟神索爾基烏斯」以外的卡送至墓地發動。從墓地特殊召喚此卡。
   zh-CN: |-
-    ①：此卡存在于墓地的情况下，从手牌将"魔轰神索尔基乌斯"以外的2张卡送至墓地可以发动。将此卡特殊召唤。
+    ①：此卡存在于墓地的情况下，从手牌将“魔轰神索尔基乌斯”以外的2张卡送至墓地可以发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: LIGHT
@@ -129,6 +129,10 @@ sets:
     set_name: Duel Terminal Chronicle 2 - Chapter of Chaos
     rarities:
     - Duel Terminal Super Parallel Rare
+  - set_number: TW02-JP011
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA03-KR004
     set_name: Hidden Arsenal 3

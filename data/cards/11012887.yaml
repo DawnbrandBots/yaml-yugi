@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card destruir um monstro do oponente em batalha: você pode Invocar por Invocação-Especial 1 monstro "Jurrac" com 1700 ou menos de ATK do seu Deck, mas ele não pode declarar um ataque neste turno.
   ja: |-
-    このカードが戦闘によって相手モンスターを破壊した場合、デッキから攻撃力１７００以下の「ジュラック」と名のついたモンスター１体を特殊召喚できる。この効果で特殊召喚したモンスターは、このターン攻撃宣言できない。
+    ①：このカードが戦闘で相手モンスターを破壊した時に発動できる。デッキから攻撃力１７００以下の「ジュラック」モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターは、このターン攻撃宣言できない。
   ko: |-
     이 카드가 전투에 의해서 상대 몬스터를 파괴했을 경우, 덱에서 공격력 1700 이하의 "쥬락"이라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터는 이 턴에 공격 선언을 할 수 없다.
   zh-TW: |-
@@ -117,6 +117,12 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common
+  - set_number: TW02-JP034
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA03-KR040
     set_name: Hidden Arsenal 3

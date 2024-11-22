@@ -27,13 +27,13 @@ text:
   pt: |-
     Durante sua Fase Principal: você pode descartar 1 monstro "Mitológico(a)" e, se isso acontecer, Invoque este card por Invocação-Especial da sua mão. Quando este card for Invocado por Invocação-Especial desta forma: você pode Invocar por Invocação-Especial 1 monstro "Mitológico(a)" de Nível 2 ou menos da sua mão.
   ja: |-
-    自分のメインフェイズ時に発動する事ができる。手札から「魔轟神」と名のついたモンスター１体を捨て、このカードを手札から特殊召喚する。この効果で特殊召喚に成功した時、手札からレベル２以下の「魔轟神」と名のついたモンスター１体を特殊召喚する事ができる。
+    ①：このカードが手札に存在する場合に発動できる。手札から「魔轟神」モンスター１体を選んで捨て、このカードを特殊召喚する。②：このカードの①の効果で特殊召喚した時に発動できる。手札からレベル２以下の「魔轟神」モンスター１体を特殊召喚する。
   ko: |-
     자신의 메인 페이즈시에 발동할 수 있다. 패에서 "마굉신"이라는 이름이 붙은 몬스터 1장을 버리고, 이 카드를 패에서 특수 소환한다. 이 효과로 특수 소환에 성공했을 때, 패에서 레벨 2 이하의 "마굉신"이라는 이름이 붙은 몬스터 1장을 특수 소환할 수 있다.
   zh-TW: |-
     可在我方主要階段時發動。從手牌捨棄１隻冠有「魔轟神」之名的怪獸，從手牌特殊召喚此卡。透過此效果特殊召喚成功時，從手牌特殊召喚１隻等級２以下的冠有「魔轟神」之名的怪獸。
   zh-CN: |-
-    ①：此卡存在于手牌的情况下可以发动。从手牌将1只"魔轰神"怪兽舍弃，将此卡特殊召唤。②：以此卡的①效果特殊召唤成功时可以发动。从手牌将1只等级2以下的"魔轰神"怪兽特殊召唤。
+    ①：此卡存在于手牌的情况下可以发动。从手牌将1只“魔轰神”怪兽舍弃，将此卡特殊召唤。②：以此卡的①效果特殊召唤成功时可以发动。从手牌将1只等级2以下的“魔轰神”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: LIGHT
@@ -105,6 +105,10 @@ sets:
     set_name: Duel Terminal Chronicle 3 - Chapter of Destruction
     rarities:
     - Duel Terminal Normal Parallel Rare
+  - set_number: TW02-JP016
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: HA04-KR010
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

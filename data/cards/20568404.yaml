@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20928
+password: 20568404
 name:
   en: Jurrac Stigo
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①の効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分フィールドのカード１枚を破壊し、デッキから恐竜族モンスター１体を墓地へ送る。その後、レベルの合計がデッキから墓地へ送ったモンスターと同じになるように、手札・デッキから「ジュラック・スティゴ」以外の「ジュラック」モンスターを召喚条件を無視して特殊召喚できる。このターン、自分は恐竜族モンスターしか特殊召喚できない。②：このカードが戦闘で破壊された時に発動できる。フィールドの表側表示カード１枚を手札に戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -35,13 +36,15 @@ series:
 - Jurrac
 images:
 - index: 1
-  image: JurracStigo-TW02-JP-OP.png
+  image: JurracStigo-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP028
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -51,4 +54,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1079583
-fake_password: 100439028

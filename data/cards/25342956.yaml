@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20931
+password: 25342956
 name:
   en: Gem-Knight Master Diamond Dispersion
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「ジェム」モンスター×３
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、フィールドのこのカードを墓地へ送って発動できる。自分のＥＸデッキ・墓地から岩石族以外の「ジェム」モンスターを３体まで召喚条件を無視して特殊召喚する（同名カードは１枚まで）。このターン、自分は融合モンスターしかＥＸデッキから特殊召喚できない。②：このカードが墓地に存在する状態で、自分の「ジェムナイト」融合モンスターが戦闘で破壊された時に発動できる。このカードを特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -38,13 +40,16 @@ series:
 - Gem-Knight
 images:
 - index: 1
-  image: GemKnightMasterDiamondDispersion-TW02-JP-OP.png
+  image: GemKnightMasterDiamondDispersion-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP042
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -54,4 +59,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1087282
-fake_password: 100439042
