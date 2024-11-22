@@ -34,7 +34,7 @@ text:
     Deve primeiro ser Invocado por Invocação-Fusão com os Monstros-Matéria de Fusão acima. Uma vez por turno: Você pode oferecer como Tributo 1 monstro "-Gema" com a face para cima; este card ganha ATK igual ao ATK do monstro oferecido como Tributo no campo até a Fase Final. Se este card atacar um monstro em Posição de Defesa, cause Dano de Batalha perfurante ao seu oponente.
   ja: |-
     「ジェムナイト・ガネット」＋「ジェムナイト」モンスター
-    このカードは上記カードを融合素材にした融合召喚でのみエクストラデッキから特殊召喚できる。①：１ターンに１度、このカード以外の自分フィールドの表側表示の「ジェム」モンスター１体をリリースして発動できる。このカードの攻撃力はターン終了時まで、リリースしたモンスターの攻撃力分アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。
+    このカードは上記のカードを融合素材にした融合召喚でのみＥＸデッキから特殊召喚できる。①：１ターンに１度、自分フィールドの他の表側表示の「ジェム」モンスター１体をリリースして発動できる。このカードの攻撃力はターン終了時まで、リリースしたモンスターの攻撃力分アップする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
   ko: |-
     "젬나이트 가넷" ＋ "젬나이트" 몬스터
     이 카드는 상기 카드를 융합 소재로 한 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 1턴에 1번, 이 카드 이외의 자신 필드의 앞면 표시 "젬" 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지 릴리스한 몬스터의 공격력만큼 올린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
@@ -97,6 +97,10 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  - set_number: TW02-JP055
+    set_name: Terminal World 2
+    rarities:
     - Normal Parallel Rare
   ko:
   - set_number: HA05-KR019

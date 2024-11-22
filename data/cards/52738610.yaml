@@ -27,7 +27,7 @@ text:
   pt: |-
     Seu oponente não pode ativar cards ou efeitos em resposta à ativação de um Card de Magia de Ritual "Necroz". Monstros de Ritual "Necroz" que você controla não podem ser escolhidos como alvo de efeitos de card do oponente. Se este card for oferecido como Tributo por um efeito de card: você pode escolher 1 dos seus monstros "Necroz" banidos, exceto "Princesa da Dança de Necroz": adicione-o à sua mão. Você só pode usar este efeito de "Princesa da Dança de Necroz" uma vez por turno.
   ja: |-
-    「影霊衣の舞姫」の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、「影霊衣」儀式魔法カードの発動に対して相手は魔法・罠・モンスターの効果を発動できず、自分フィールドの「影霊衣」儀式モンスターは相手の効果の対象にならない。②：このカードが効果でリリースされた場合、「影霊衣の舞姫」以外の除外されている自分の「影霊衣」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、「影霊衣」儀式魔法カードの発動に対して相手は魔法・罠・モンスターの効果を発動できず、自分フィールドの「影霊衣」儀式モンスターを相手は効果の対象にできない。②：このカードが効果でリリースされた場合、「影霊衣の舞姫」以外の自分の除外状態の「影霊衣」モンスター１体を対象として発動できる。そのモンスターを手札に加える。
   ko: |-
     "네크로즈의 무희"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, "네크로즈" 의식 마법 카드의 발동에 대하여 상대는 마법 / 함정 / 몬스터의 효과를 발동할 수 없으며, 자신 필드의 "네크로즈" 의식 몬스터는 상대 효과의 대상이 되지 않는다. ②: 이 카드가 효과로 릴리스되었을 경우, "네크로즈의 무희" 이외의 제외되어 있는 자신의 "네크로즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다.
   zh-TW: |-
@@ -96,6 +96,10 @@ sets:
     set_name: Secrets of Eternity
     rarities:
     - Common
+  - set_number: TW02-JP079
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SECE-KR028
     set_name: Secrets of Eternity

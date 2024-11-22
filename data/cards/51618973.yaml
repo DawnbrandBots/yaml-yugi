@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20935
+password: 51618973
 name:
   en: Avance, Swordsman of the Nekroz
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の③の効果はデュエル中に１度しか使用できない。①：このカードが召喚した時に発動できる。デッキから「影霊衣の魔剣士 アバンス」以外の「影霊衣」モンスター１体を特殊召喚する。②：「影霊衣」儀式モンスター１体を儀式召喚する場合、自分フィールドのこのカード１枚で儀式召喚に必要な分のリリースとして使用できる。③：このカードが効果でリリースされた場合に発動できる。自分の除外状態の「影霊衣」カードを任意の数だけ手札に加える（同名カードは１枚まで）。
   ko:
   zh-TW:
   zh-CN:
@@ -35,13 +36,15 @@ series:
 - Nekroz
 images:
 - index: 1
-  image: AvanceSwordsmanoftheNekroz-TW02-JP-OP.png
+  image: AvanceSwordsmanoftheNekroz-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP072
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -51,4 +54,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1094166
-fake_password: 100439072

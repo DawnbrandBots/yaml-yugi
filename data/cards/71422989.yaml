@@ -39,7 +39,7 @@ text:
     ● Invoque por Invocação-Fusão 1 Monstro de Fusão "Cavaleiro-Gema" do seu Deck Adicional, ao banir as Matérias de Fusão listadas nele da sua mão ou do seu lado do campo.
     Você só pode ativar 1 "Absorver Fusão" por turno. Você não pode Invocar monstros por Invocação-Especial no turno em que ativar este card, exceto monstros "Cavaleiro-Gema".
   ja: |-
-    「吸光融合」は１ターンに１枚しか発動できず、このカードを発動するターン、自分は「ジェムナイト」モンスターしか特殊召喚できない。①：デッキから「ジェムナイト」カード１枚を手札に加える。その後、以下の効果を適用できる。●自分の手札・フィールドから、「ジェムナイト」融合モンスターカードによって決められた融合素材モンスターを除外し、その融合モンスター１体をエクストラデッキから融合召喚する。
+    このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分は「ジェムナイト」モンスターしか特殊召喚できない。①：デッキから「ジェムナイト」カード１枚を手札に加える。その後、以下の効果を適用できる。●自分の手札・フィールドのモンスターを融合素材として除外し、「ジェムナイト」融合モンスター１体を融合召喚する。
   ko: |-
     "앱소프 퓨전"은 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에 자신은 "젬나이트" 몬스터밖에 특수 소환할 수 없다. ①: 덱에서 "젬나이트" 카드 1장을 패에 넣는다. 그 후, 이하의 효과를 적용할 수 있다.
     ●자신의 패 / 필드에서 "젬나이트" 융합 몬스터 카드에 기재된 융합 소재 몬스터를 제외하고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.
@@ -87,6 +87,10 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  - set_number: TW02-JP070
+    set_name: Terminal World 2
+    rarities:
     - Normal Parallel Rare
   ko:
   - set_number: SPRG-KR044

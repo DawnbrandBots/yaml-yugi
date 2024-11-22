@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for ativado: Invoque por Invocação-Fusão 1 Monstro de Fusão "Cavaleiro-Gema" do seu Deck Adicional, usando monstros do seu Deck como Matéria de Fusão, mas mude o ATK/DEF dele para 0. Se este card deixar o campo, destrua esse monstro. Uma vez por turno: você pode descartar 1 Magia; até o final do turno do seu oponente, o monstro Invocado por Invocação-Especial pelo efeito deste card ganha ATK/DEF iguais ao seu ATK/DEF originais. Você só pode ativar 1 "Fusão Brilhante" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時に、自分のデッキから「ジェムナイト」融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体を、攻撃力・守備力を０にしてＥＸデッキから融合召喚する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：１ターンに１度、手札の魔法カード１枚を捨てて発動できる。このカードの効果で特殊召喚したモンスターの攻撃力・守備力は相手ターン終了時まで元々の数値分アップする。
+    このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、自分のデッキのモンスターを融合素材とし、「ジェムナイト」融合モンスター１体を攻撃力・守備力を０にして融合召喚する。このカードがフィールドから離れる時にそのモンスターは破壊される。②：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。このカードの①の効果で特殊召喚したモンスターの攻撃力・守備力は相手ターン終了時まで元々の数値分アップする。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이 카드의 발동시에, 자신의 덱에서 "젬나이트" 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을, 공격력 / 수비력을 0 으로 하여 엑스트라 덱에서 융합 소환한다. 이 카드가 필드에서 벗어났을 때에 그 몬스터는 파괴된다. ②: 1턴에 1번, 패의 마법 카드 1장을 버리고 발동할 수 있다. 이 카드의 효과로 특수 소환한 몬스터의 공격력 / 수비력은 상대 턴 종료시까지 원래의 수치만큼 올린다.
   zh-TW: |-
@@ -136,6 +136,12 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  - set_number: TW02-JP071
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Super Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: CORE-KR056
     set_name: Clash of Rebellions

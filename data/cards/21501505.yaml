@@ -34,7 +34,7 @@ text:
     Durante o turno de qualquer duelista, quando outro card ou efeito for ativado que escolha como alvo exatamente 1 card no campo (e nenhum outro card): você pode desassociar 1 Matéria Xyz deste card e, depois, escolher como alvo outro card no campo que seria um alvo apropriado para esse card/efeito; esse card/efeito agora escolhem o novo alvo.
   ja: |-
     レベル４モンスター×２
-    フィールド上のカード１枚を対象にする魔法・罠・効果モンスターの効果が発動した時、このカードのエクシーズ素材を１つ取り除いて発動できる。その対象を自分・相手フィールド上の正しい対象となる別のカードに移し替える。
+    ①：フィールドのカード１枚のみを対象とする他の魔法・罠・モンスターの効果が発動した時、このカードのＸ素材を１つ取り除き、フィールドの正しい対象となる別のカード１枚を対象として発動できる。その効果の対象を正しい対象となるそのカードに移し替える。
   ko: |-
     레벨 4 몬스터 × 2
     필드 위의 카드 1장을 대상으로 하는 마법 / 함정 / 효과 몬스터의 효과가 발동했을 때, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 그 대상을 자신 / 상대 필드 위의 적절한 대상이 되는 다른 카드에게 옮긴다.
@@ -125,6 +125,10 @@ sets:
     set_name: Primal Origin
     rarities:
     - Super Rare
+  - set_number: TW02-JP067
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: PRIO-KR054
     set_name: Primal Origin

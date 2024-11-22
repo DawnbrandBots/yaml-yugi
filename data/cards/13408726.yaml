@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20937
+password: 13408726
 name:
   en: Nekroz of Metaltron
   de:
@@ -21,7 +21,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「影霊衣」儀式魔法カードにより降臨
+    このカードはレベル９以外のモンスターのみを使用した儀式召喚でしか特殊召喚できない。このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分・相手のメインフェイズに、相手フィールドの表側表示モンスター１体を対象として発動できる。このカードをエンドフェイズまで除外し、対象のモンスターを除外する。②：自分の「影霊衣」モンスターが戦闘で破壊したモンスターは墓地へは行かず除外される。
   ko:
   zh-TW:
   zh-CN:
@@ -40,7 +42,8 @@ pendulum_effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の「影霊衣」カードが表側で除外された場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを除外する。
   ko:
   zh-TW:
   zh-CN:
@@ -48,13 +51,16 @@ series:
 - Nekroz
 images:
 - index: 1
-  image: NekrozofMetaltron-TW02-JP-OP.png
+  image: NekrozofMetaltron-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP074
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -64,4 +70,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1094170
-fake_password: 100439074

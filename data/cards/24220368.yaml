@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20934
+password: 24220368
 name:
   en: Gem-Knight Dispersion
   de:
@@ -23,7 +23,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。
+    ●自分の手札・フィールドのモンスターを融合素材とし、「ジェムナイト」融合モンスター１体を融合召喚する。自分の墓地に「ジェムナイト・フュージョン」が存在する場合、デッキ・ＥＸデッキの岩石族以外の「ジェムナイト」モンスターも２体まで融合素材とする事ができる。
+    ●自分のデッキ・除外状態の「ジェム」モンスター１体を手札に加える。このターンのメインフェイズの間、相手が受ける効果ダメージは半分になる。
   ko:
   zh-TW:
   zh-CN:
@@ -34,13 +37,15 @@ series:
 - Gem-Knight
 images:
 - index: 1
-  image: GemKnightDispersion-TW02-JP-OP.png
+  image: GemKnightDispersion-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP045
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -50,4 +55,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1087294
-fake_password: 100439045

@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 20932
+password: 51831560
 name:
   en: Gem-Knight Nepyrim
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「ジェムナイト・ネピリム」以外の「ジェムナイト」カード１枚を手札に加える。このターンのメインフェイズの間、相手が受ける効果ダメージは半分になる。②：自分メインフェイズに発動できる。「ジェム」モンスター１体の召喚を行う。③：このカードが手札・デッキから墓地へ送られた場合に発動できる。自分の手札を１枚選んで墓地へ送り、このカードを特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -36,13 +37,16 @@ series:
 - Gem-Knight
 images:
 - index: 1
-  image: GemKnightNepyrim-TW02-JP-OP.png
+  image: GemKnightNepyrim-TW02-JP-NPR.png
 sets:
   ja:
   - set_number: TW02-JP043
     set_name: Terminal World 2
     rarities:
     - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
+    - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
@@ -52,4 +56,3 @@ is_translation_unofficial:
   text:
     en: true
 yugipedia_page_id: 1087288
-fake_password: 100439043

@@ -34,7 +34,7 @@ text:
     Primeiro deve ser Invocado por Invocação-Fusão. Este card ganha 100 de ATK para cada monstro "-Gema" em seu Cemitério. Uma vez por turno: você pode banir 1 Monstro de Fusão "Cavaleiro-Gema" de nível 7 ou menos dos seu Cemitério; até a Fase Final, o nome e o efeito original deste card se tornam o moesmo do monstro banido.
   ja: |-
     「ジェムナイト」モンスター×３
-    このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードの攻撃力は、自分の墓地の「ジェム」モンスターの数×１００アップする。②：１ターンに１度、自分の墓地のレベル７以下の「ジェムナイト」融合モンスター１体を除外して発動できる。エンドフェイズまで、このカードは除外したモンスターと同名カードとして扱い、同じ効果を得る。
+    このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードの攻撃力は、自分の墓地の「ジェム」モンスターの数×１００アップする。②：１ターンに１度、自分の墓地からレベル７以下の「ジェムナイト」融合モンスター１体を除外して発動できる。このカードはエンドフェイズまで、除外したモンスターの元々のカード名・効果と同じカード名・効果を得る。
   ko: |-
     "젬나이트" 몬스터 × 3
     이 카드는 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 이 카드의 공격력은 자신 묘지의 "젬" 몬스터의 수 × 100 올린다. ②: 1턴에 1번, 자신 묘지의 레벨 7 이하의 "젬나이트" 융합 몬스터 1장을 제외하고 발동할 수 있다. 엔드 페이즈까지 이 카드는 제외한 몬스터와 같은 이름의 카드로 취급하고, 같은 효과를 얻는다.
@@ -131,6 +131,12 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  - set_number: TW02-JP063
+    set_name: Terminal World 2
+    rarities:
+    - Normal Parallel Rare
+    - Ultra Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: HA07-KR059
     set_name: 'Hidden Arsenal 7: Knight of Stars'

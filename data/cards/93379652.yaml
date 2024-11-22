@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão primeiro. Uma vez por turno: Você pode enviar 1 card "Cavaleiro-Gema" da sua mão ao Cemitério para escolher 1 card com a face para cima no campo; destrua o alvo.
   ja: |-
     「ジェムナイト」モンスター＋雷族モンスター
-    このカードは融合召喚でのみエクストラデッキから特殊召喚できる。①：１ターンに１度、手札から「ジェムナイト」カード１枚を墓地へ送り、フィールドの表側表示のカード１枚を対象として発動できる。その表側表示のカードを破壊する。
+    このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：１ターンに１度、手札から「ジェムナイト」カード１枚を墓地へ送り、フィールドの表側表示カード１枚を対象として発動できる。その表側表示カードを破壊する。
   ko: |-
     "젬나이트" 몬스터 ＋ 번개족 몬스터
     이 카드는 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 1턴에 1번, 패에서 "젬나이트" 카드 1장을 묘지로 보내고, 필드의 앞면 표시 카드 1장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 카드를 파괴한다.
@@ -95,6 +95,10 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  - set_number: TW02-JP059
+    set_name: Terminal World 2
+    rarities:
     - Normal Parallel Rare
   ko:
   - set_number: HA06-KR020
