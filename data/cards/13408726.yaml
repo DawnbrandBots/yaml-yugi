@@ -36,7 +36,7 @@ def: 3000
 pendulum_scale: 5
 pendulum_effect:
   en: |-
-    If your "Nekroz" card(s) is banished face-up: You can target 1 Spell/Trap on the field; banish it. You can only use this effect of "Nekroz of Metaltron" once per turn.
+    If your "Nekroz" card(s) is banished face-up (except during the Damage Step): You can target 1 Spell/Trap on the field; banish it. You can only use this effect of "Nekroz of Metaltron" once per turn.
   de:
   es:
   fr:
@@ -63,7 +63,7 @@ sets:
     - Quarter Century Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
