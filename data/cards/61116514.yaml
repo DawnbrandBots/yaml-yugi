@@ -1,7 +1,7 @@
 konami_id: 20576
 password: 61116514
 name:
-  en: Palma Ryzeal
+  en: Palm Ryzeal
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 脉离・雷热涡炉
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 1 "Ryzeal" monster from your hand or GY into the Deck/Extra Deck. You cannot Special Summon from the Extra Deck, except Rank 4 Xyz Monsters. Once per turn, if this card battles an opponent's monster, during damage calculation: You can send 1 Level 4 monster from your hand or Deck to the GY, and if you do, this card gains ATK equal to that monster's, until the end of the Battle Phase.
+    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 1 "Ryzeal" monster from your hand or GY into the Deck/Extra Deck. You cannot Special Summon from the Extra Deck, except Rank 4 Xyz Monsters. Once per turn, during damage calculation, if this card battles an opponent's monster: You can send 1 Level 4 monster from your hand or Deck to the GY, and if you do, this card gains ATK equal to that monster's ATK, until the end of the Battle Phase.
   de:
   es:
   fr:
@@ -38,8 +38,33 @@ series:
 - Ryzeal
 images:
 - index: 1
-  image: PalmaRyzeal-DBCB-JP-C.png
+  image: PalmRyzeal-DBCB-JP-C.png
 sets:
+  en:
+  - set_number: CRBR-EN005
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  de:
+  - set_number: CRBR-DE005
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  fr:
+  - set_number: CRBR-FR005
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  it:
+  - set_number: CRBR-IT005
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  pt:
+  - set_number: CRBR-PT005
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
   ja:
   - set_number: DBCB-JP005
     set_name: 'Deck Build Pack: Crossover Breakers'
@@ -61,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1069458

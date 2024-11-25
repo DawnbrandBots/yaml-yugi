@@ -1,7 +1,7 @@
 konami_id: 20581
 password: 33787730
 name:
-  en: Ryzeal Hole Thruster
+  en: Ryzeal Plasma Hole
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 雷热涡炉・空洞电冲炮
 text:
   en: |-
-    Target face-up cards your opponent controls, up to the number of "Ryzeal" Xyz Monsters you control; destroy them, then you can attach 1 "Ryzeal" card from your GY to 1 Rank 4 Xyz Monster you control as material. You can banish this card from your GY; immediately after this effect resolves, Xyz Summon using monsters you control, including a "Ryzeal" monster. You can only use each effect of "Ryzeal Hole Thruster" once per turn.
+    Target face-up cards your opponent controls, up to the number of "Ryzeal" Xyz Monsters you control; destroy them, then you can attach 1 "Ryzeal" card from your GY to 1 Rank 4 Xyz Monster you control. You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control, including a "Ryzeal" monster. You can only use each effect of "Ryzeal Plasma Hole" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,33 @@ series:
 - Ryzeal
 images:
 - index: 1
-  image: RyzealHoleThruster-DBCB-JP-C.png
+  image: RyzealPlasmaHole-DBCB-JP-C.png
 sets:
+  en:
+  - set_number: CRBR-EN010
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  de:
+  - set_number: CRBR-DE010
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  fr:
+  - set_number: CRBR-FR010
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  it:
+  - set_number: CRBR-IT010
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
+  pt:
+  - set_number: CRBR-PT010
+    set_name: Crossover Breakers
+    rarities:
+    - Rare
   ja:
   - set_number: DBCB-JP010
     set_name: 'Deck Build Pack: Crossover Breakers'
@@ -58,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1069461

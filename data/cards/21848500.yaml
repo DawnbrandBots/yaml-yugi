@@ -1,7 +1,7 @@
 konami_id: 20587
 password: 21848500
 name:
-  en: Maliss <Q> HEARTS OF CRYPTER
+  en: Maliss <Q> Hearts Crypter
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3 monsters, including a "Maliss" monster
-    (Quick Effect): You can target 1 of your banished "Maliss" cards; shuffle it into the Deck, and if you do, banish 1 card on the field. This effect's activation and effect cannot be negated if this card points to a monster. If this card is banished: You can pay 900 LP; Special Summon this card, and if you do, its ATK becomes doubled. You can only use each effect of "Maliss <Q> HEARTS OF CRYPTER" once per turn.
+    (Quick Effect): You can target 1 of your banished "Maliss" cards; shuffle it into the Deck, and if you do, banish 1 card on the field (while this card points to a monster, this effect and its activation cannot be negated). If this card is banished: You can pay 900 LP; Special Summon it and double its ATK. You can only use each effect of "Maliss <Q> Hearts Crypter" once per turn.
   de:
   es:
   fr:
@@ -45,8 +45,33 @@ series:
 - Maliss
 images:
 - index: 1
-  image: MalissQHEARTSOFCRYPTER-DBCB-JP-UR.png
+  image: MalissQHeartsCrypter-DBCB-JP-UR.png
 sets:
+  en:
+  - set_number: CRBR-EN020
+    set_name: Crossover Breakers
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: CRBR-DE020
+    set_name: Crossover Breakers
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: CRBR-FR020
+    set_name: Crossover Breakers
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: CRBR-IT020
+    set_name: Crossover Breakers
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: CRBR-PT020
+    set_name: Crossover Breakers
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DBCB-JP020
     set_name: 'Deck Build Pack: Crossover Breakers'
@@ -65,9 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1064994
