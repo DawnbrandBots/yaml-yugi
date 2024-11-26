@@ -1,6 +1,6 @@
 konami_id: 17520
 name:
-  en: Anglered Digra
+  en: Ungrad Diggra
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Send the top 2 cards of your Deck to the Graveyard. Then, if an Insect Type monster(s) is among the cards sent, this card gains ATK equal to [the number of monsters sent to the Graveyard by this effect] x 400 until the end of this turn.
+    Send the top 2 cards of your Deck to the Graveyard. If an Insect Type monster(s) is among the cards sent, this card also gains ATK equal to [the number of monsters sent to the Graveyard by this effect] x 400 until the end of this turn.
   de:
   es:
   fr:
@@ -48,7 +48,7 @@ atk: 2400
 def: 1600
 images:
 - index: 1
-  image: AngleredDigra-RDKP09-JP-SR.png
+  image: UngradDiggra-RDKP09-JP-SR.png
 sets:
   ja:
   - set_number: RD/KP09-JP034
@@ -60,9 +60,4 @@ sets:
     set_name: 'Deck Mod Pack: Galaxy of Fate!!'
     rarities:
     - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 712916
