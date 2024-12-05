@@ -14,8 +14,7 @@ name:
   zh-TW: 步向破滅的速攻抽卡
   zh-CN: 步向破灭的速攻抽卡
 text:
-  en: |-
-    If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.
+  en:
   de: |-
     Falls ein Spieler am Beginn seiner Draw Phase keine Karten in seiner Hand hat, kann er zusätzlich zu seinem normalen Ziehen 1 weitere Karte ziehen. Der Beherrscher dieser Karte verliert während seiner End Phase 700 Life Points. (Falls er weniger als 700 hat, werden diese stattdessen zu 0.) Wenn diese offene Karte vom Spielfeld entfernt wird, füge dem Spieler, der sie kontrolliert hat, 3000 Schaden zu.
   es: |-
@@ -27,7 +26,9 @@ text:
   pt: |-
     Se qualquer duelista não tiver cards na sua mão no começo da Fase de Compra dele, ele pode comprar mais 1 card em adição à sua compra normal. O controlador deste card perde 700 PV durante a Fase Final dele. (Se tiver menos que 700, em vez disso, ele se torna 0.) Quando este card com a face para cima deixar o campo, cause 3000 de dano ao duelista que o controlava.
   ja: |-
-    お互いのプレイヤーはドローフェイズ開始時に手札が０枚だった場合、通常のドローに加えてもう１枚ドローする事ができる。このカードのコントローラーは自分のターンのエンドフェイズ毎に７００ライフポイントを払う。この時にライフポイントが７００未満だった場合、ライフポイントは０になる。自分フィールド上に表側表示で存在するこのカードがフィールド上から離れた時、自分は３０００ポイントダメージを受ける。
+    このカードのコントローラーは自分エンドフェイズ毎に７００ＬＰを払う（払えない場合、ＬＰは０になる）。
+    ①：ターンプレイヤーはドローフェイズ開始時に手札が０枚だった場合、通常のドローをした時に発動できる。自分は１枚ドローする。
+    ②：表側表示のこのカードがフィールドから離れる時に自分は３０００ダメージを受ける。
   ko: |-
     양쪽 플레이어는 드로우 페이즈 시작시에 패가 0장이었을 경우, 일반 드로우 외에도 1장 더 드로우할 수 있다. 이 카드의 컨트롤러는 자신 턴의 엔드 페이즈마다 700 라이프 포인트를 지불한다. 이때 라이프 포인트가 700 미만이었을 경우, 라이프 포인트는 0 이 된다. 자신 필드 위에 앞면 표시로 존재하는 이 카드가 필드 위에서 벗어났을 때, 자신은 3000 포인트 데미지를 받는다.
   zh-TW: |-

@@ -14,9 +14,7 @@ name:
   zh-TW: 元素－英雄 絕對零度
   zh-CN: 元素－英雄 绝对零度
 text:
-  en: |-
-    1 "HERO" monster + 1 WATER monster
-    Must be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except "Elemental HERO Absolute Zero". If this card leaves the field: Destroy all monsters your opponent controls.
+  en:
   de: |-
     1 „HELD“-Monster + 1 WASSER Monster
     Muss als Fusionsbeschwörung beschworen werden. Erhält 500 ATK für jedes WASSER Monster auf dem Spielfeld, außer „Elementar-HELD Absoluter Nullpunkt“. Falls diese Karte das Spielfeld verlässt: Zerstöre alle Monster, die dein Gegner kontrolliert.
@@ -33,8 +31,10 @@ text:
     1 monstro "HERÓI" + 1 monstro de ÁGUA
     Deve ser Invocado por Invocação-Fusão. Ganha 500 de ATK para cada monstro de ÁGUA no campo, exceto "Zero Absoluto, o HERÓI do Elemento". Se este card deixar o campo: destrua todos os monstros que seu oponente controla.
   ja: |-
-    「<ruby>ＨＥＲＯ<rt>ヒーロー</rt></ruby>」と名のついたモンスター＋水属性モンスター
-    このカードは融合召喚でしか特殊召喚できない。このカードの攻撃力は、フィールド上に表側表示で存在する「Ｅ・ＨＥＲＯ アブソルートＺｅｒｏ」以外の水属性モンスターの数×５００ポイントアップする。このカードがフィールド上から離れた時、相手フィールド上に存在するモンスターを全て破壊する。
+    「ＨＥＲＯ」モンスター＋水属性モンスター
+    このカードは融合召喚でしか特殊召喚できない。
+    ①：このカードの攻撃力は、「Ｅ・ＨＥＲＯ　アブソルートＺｅｒｏ」以外のフィールドの水属性モンスターの数×５００アップする。
+    ②：表側表示のこのカードがフィールドから離れ、墓地へ送られた場合または除外された場合に発動する。相手フィールドのモンスターを全て破壊する。
   ko: |-
     "히어로"라는 이름이 붙은 몬스터 ＋ 물 속성 몬스터
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드의 공격력은 필드 위에 앞면 표시로 존재하는 "엘리멘틀 히어로 앱솔루트 Zero" 이외의 물 속성 몬스터의 수 × 500 포인트 올린다. 이 카드가 필드 위에서 벗어났을 때, 상대 필드 위에 존재하는 몬스터를 전부 파괴한다.
@@ -43,7 +43,7 @@ text:
     此卡僅限以融合召喚進行特殊召喚。此卡的攻擊力依據場上的「元素－英雄 絕對零度」以外的水屬性怪獸數量×５００進行提升。此卡從場上離開時，將對方場上的所有怪獸全部破壞。
   zh-CN: |-
     “－英雄”怪兽＋水属性怪兽
-    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于场上“元素－英雄 绝对零度”以外的水属性怪兽数量×５００的数值。②：表侧表示的此卡从场上离开，被送至墓地的情况下或被除外的情况下发动。将对手场上的怪兽全部破坏。
+    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于场上“元素－英雄 绝对零度”以外的水属性怪兽数量×５００的数值。②：表侧表示的此卡从场上离开的情况下发动。将对手场上的怪兽全部破坏。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: WATER

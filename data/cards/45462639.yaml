@@ -14,8 +14,7 @@ name:
   zh-TW: 暗紅之魔導師
   zh-CN: 暗红之魔导师
 text:
-  en: |-
-    If this card is Normal Summoned: Place 2 Spell Counters on it. Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. Gains 300 ATK for each Spell Counter on it. Once per turn: You can remove 2 Spell Counters from this card; discard 1 random card from your opponent's hand.
+  en:
   de: |-
     Falls diese Karte als Normalbeschwörung beschworen wird: Lege 2 Zauberzählmarken darauf. Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn jener Zauber aufgelöst wird. Erhält für jede Zauberzählmarke auf dieser Karte 300 ATK. Einmal pro Spielzug: Du kannst 2 Zauberzählmarken von dieser Karte entfernen; wirf 1 zufällige Karte von der Hand deines Gegners ab.
   es: |-
@@ -27,7 +26,10 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: coloque 2 Marcadores de Magia sobre ele. Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 300 de ATK para cada Marcador de Magia sobre ele. Uma vez por turno: você pode remover 2 Marcadores de Magia deste card; descarte 1 card aleatório da mão do seu oponente.
   ja: |-
-    このカードが召喚に成功した時、このカードに魔力カウンターを２つ置く。このカードがフィールド上に表側表示で存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに乗っている魔力カウンター１個につき、このカードの攻撃力は３００ポイントアップする。１ターンに１度、このカードに乗っている魔力カウンターを２つ取り除く事で、相手の手札をランダムに１枚捨てる。
+    ①：このカードが召喚した場合に発動する。このカードに魔力カウンターを２つ置く。
+    ②：このカードがモンスターゾーンに存在する限り、自分か相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。
+    ③：このカードの攻撃力は、このカードの魔力カウンターの数×３００アップする。
+    ④：１ターンに１度、このカードの魔力カウンターを２つ取り除いて発動できる。相手の手札をランダムに１枚捨てる。
   ko: |-
     이 카드가 일반 소환에 성공했을 때, 이 카드에 마력 카운터를 2개 놓는다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 300 포인트 올린다. 1턴에 1번, 이 카드에 얹혀 있는 마력 카운터를 2개 제거하는 것으로, 상대의 패를 무작위로 1장 버린다.
   zh-TW: |-
@@ -147,7 +149,7 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD16-JP008
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   ko:
@@ -156,7 +158,7 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD16-KR008
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
 limit_regulation:
