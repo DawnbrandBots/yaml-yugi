@@ -14,9 +14,7 @@ name:
   zh-TW: 月華龍 黑薔薇
   zh-CN: 月华龙 黑蔷薇
 text:
-  en: |-
-    1 Tuner + 1+ non-Tuner monsters
-    If this card is Special Summoned, or a Level 5 or higher monster(s) is Special Summoned to your opponent's field: Target 1 Special Summoned monster your opponent controls; return that target to the hand. You can only use this effect of "Black Rose Moonlight Dragon" once per turn.
+  en:
   de: |-
     1 Empfänger + 1+ Nicht-Empfänger-Monster
     Falls diese Karte als Spezialbeschwörung beschworen wird oder ein oder mehr Monster der Stufe 5 oder höher als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden: Wähle 1 als Spezialbeschwörung beschworenes Monster, das dein Gegner kontrolliert; gib jenes gewählte Ziel auf die Hand zurück. Du kannst diesen Effekt von „Schwarzer Rosen-Mondlichtdrache“ nur einmal pro Spielzug verwenden.
@@ -35,8 +33,9 @@ text:
     1 Regulador + 1+ monstros não-Reguladores
     Se este card for Invocado por Invocação-Especial, ou se um ou mais monstros de Nível 5 ou mais forem Invocados por Invocação-Especial no campo do seu oponente: escolha 1 monstro Invocado por Invocação-Especial que seu oponente controla; devolva o alvo para a mão. Você só pode usar este efeito de "Dragão do Luar da Rosa Negra" uma vez por turno.
   ja: |-
-    チューナー＋チューナー<ruby>以<rt>い</rt></ruby><ruby>外<rt>がい</rt></ruby>のモンスター１<ruby>体<rt>たい</rt></ruby><ruby>以<rt>い</rt></ruby><ruby>上<rt>じょう</rt></ruby>
-    このカードが<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>に<ruby>成<rt>せい</rt></ruby><ruby>功<rt>こう</rt></ruby>した<ruby>時<rt>とき</rt></ruby>、または<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>フィールド<ruby>上<rt>じょう</rt></ruby>にレベル５<ruby>以<rt>い</rt></ruby><ruby>上<rt>じょう</rt></ruby>のモンスターが<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>された<ruby>時<rt>とき</rt></ruby>に<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>する。<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>フィールド<ruby>上<rt>じょう</rt></ruby>の<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>されたモンスター１<ruby>体<rt>たい</rt></ruby>を<ruby>選<rt>せん</rt></ruby><ruby>択<rt>たく</rt></ruby>して<ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>の<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>す。「<ruby>月<rt>げっ</rt></ruby><ruby>華<rt>か</rt></ruby><ruby>竜<rt>りゅう</rt></ruby> ブラック・ローズ」の<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>は１ターンに１<ruby>度<rt>ど</rt></ruby>しか<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できない。
+    チューナー＋チューナー以外のモンスター１体以上
+    このカード名の効果は１ターンに１度しか使用できない。
+    ①：このカードが特殊召喚した場合、または相手フィールドにレベル５以上のモンスターが特殊召喚された場合、相手フィールドの特殊召喚されたモンスター１体を対象として発動する。その相手モンスターを手札に戻す。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 특수 소환했을 경우, 또는 상대 필드에 레벨 5 이상의 몬스터가 특수 소환되었을 경우, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하고 발동한다. 그 상대 몬스터를 패로 되돌린다.
@@ -47,7 +46,8 @@ text:
     將該對手怪獸送回持有者的手牌。
   zh-CN: |-
     协调＋１只以上协调以外的怪兽
-    此卡名的效果１回合仅可使用１次。①：此卡特殊召唤成功的情况下，或等级５以上的怪兽被特殊召唤至对手场上的情况下，以对手场上１只被特殊召唤的怪兽为对象发动。将该对手怪兽放回持有者的手牌。
+    此卡名的效果1回合仅可使用1次。
+    ①：此卡特殊召唤的情况下，或等级5以上的怪兽被特殊召唤至对手场上的情况下，以对手场上的1只被特殊召唤的怪兽为对象发动。将该对手怪兽放回手牌。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT

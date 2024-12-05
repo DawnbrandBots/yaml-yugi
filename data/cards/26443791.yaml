@@ -14,9 +14,7 @@ name:
   zh-TW: 蜂軍－決戰巨弩砲蜂
   zh-CN: 蜂军－决战之重弩巨炮
 text:
-  en: |-
-    1 Tuner + 1+ non-Tuner monsters
-    If this card is Special Summoned: You can banish all Insect monsters from your GY; all monsters your opponent currently controls lose 500 ATK/DEF for each of your banished Insect monsters. If this card attacks a Defense Position monster, inflict piercing battle damage. If this Synchro Summoned card in its owner's control is destroyed by an opponent's card: You can Special Summon 3 of your banished Level 11 or lower Insect monsters.
+  en:
   de: |-
     1 Empfänger + 1+ Nicht-Empfänger-Monster
     Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle Insekt-Monster von deinem Friedhof verbannen; alle Monster, die dein Gegner derzeit kontrolliert, verlieren für jedes deiner verbannten Insekt-Monster 500 ATK/DEF. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Falls diese als Synchrobeschwörung beschworene Karte, die ihr Besitzer kontrolliert, durch eine Karte eines Gegners zerstört wird: Du kannst 3 deiner verbannten Insekt-Monster der Stufe 11 oder niedriger als Spezialbeschwörung beschwören.
@@ -34,7 +32,9 @@ text:
     Se este card for Invocado por Invocação-Especial: você pode banir todos os monstros Inseto do seu Cemitério; todos os monstros que seu oponente controla atualmente perdem 500 de ATK/DEF para cada um dos seus monstros Inseto banidos. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Se este card Invocado por Invocação-Sincro sob o controle do seu dono for destruído por um card do oponente: você pode Invocar por Invocação-Especial 3 dos seus monstros Inseto banidos de Nível 11 ou menos.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
-    ①：このカードが特殊召喚に成功した場合、自分の墓地の昆虫族モンスターを全て除外して発動できる。相手フィールドの全てのモンスターの攻撃力・守備力は、除外されている自分の昆虫族モンスターの数×５００ダウンする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。③：Ｓ召喚したこのカードが相手によって破壊された場合に発動できる。除外されている自分のレベル１１以下の昆虫族モンスター３体を選んで特殊召喚する。
+    ①：このカードが特殊召喚した場合、自分の墓地の昆虫族モンスターを全て除外して発動できる。相手フィールドの全てのモンスターの攻撃力・守備力は、自分の除外状態の昆虫族モンスターの数×５００ダウンする。
+    ②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
+    ③：Ｓ召喚したこのカードが相手によって破壊された場合に発動できる。自分の除外状態のレベル１１以下の昆虫族モンスター３体を特殊召喚する。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 이 카드가 특수 소환에 성공했을 경우, 자신 묘지의 곤충족 몬스터를 전부 제외하고 발동할 수 있다. 상대 필드의 모든 몬스터의 공격력 / 수비력은, 제외되어 있는 자신의 곤충족 몬스터의 수 × 500 내린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ③: 싱크로 소환한 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 제외되어 있는 자신의 레벨 11 이하의 곤충족 몬스터 3장을 골라 특수 소환한다.
@@ -42,8 +42,8 @@ text:
     協調＋協調以外的怪獸１隻以上
     ①：在此卡特殊召喚成功的狀況下，可將我方墓地的所有昆蟲族怪獸除外發動。對方場上的所有怪獸的攻擊力・守備力依據我方被除外的昆蟲族怪獸數量×５００進行降低。②：在此卡攻擊守備表示怪獸的狀況下，給予攻擊力超過該守備力數值的戰鬥傷害。③：可在同步召喚的此卡被對方破壞的狀況下發動。選擇我方３隻被除外的等級１１以下的昆蟲族怪獸特殊召喚。
   zh-CN: |-
-    协调＋协调以外的怪兽１只以上
-    ①：此卡特殊召唤的情况下，将自己墓地的昆虫族怪兽全部除外可以发动。对手场上所有怪兽的攻击力・守备力下降相当于自己除外状态的昆虫族怪兽的数量×５００的数值。②：此卡攻击了守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。③：同步召唤的此卡被对手破坏的情况下可以发动。将自己除外状态的３只等级１１以下的昆虫族怪兽特殊召唤。
+    协调＋协调以外的怪兽１只或以上
+    ①：此卡特殊召唤成功的场合，可将我方墓地的所有昆虫族怪兽除外并发动。对手场上所有怪兽的攻击力、守备力下降被除外之我方昆虫族怪兽数量×５００。②：此卡攻击了守备表示怪兽的场合，给予攻击力超过该守备力数值的战斗伤害。③：同步召唤而来的此卡因对手被破坏的场合，可发动。挑选被除外的我方等级１１或以下的３只昆虫族怪兽并特殊召唤。
 card_type: Monster
 monster_type_line: Insect / Synchro / Effect
 attribute: WIND

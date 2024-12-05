@@ -14,9 +14,7 @@ name:
   zh-TW: 武器手套
   zh-CN: 支援武器手
 text:
-  en: |-
-    1 Tuner + 1+ non-Tuner monsters
-    Once per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.
+  en:
   de: |-
     1 Empfänger + 1+ Nicht-Empfänger-Monster
     Einmal pro Spielzug kannst du: 1 Monster auf dem Spielfeld wählen; rüste jenes gewählte Ziel mit dieser Karte aus, ODER: Diese Karte ausklinken und als Spezialbeschwörung in die Angriffsposition beschwören. Solange jenes gewählte Ziel durch diesen Effekt ausgerüstet ist, erhält es 1000 ATK. Falls jenes gewählte Ziel ein Monster durch Kampf zerstört und auf den Friedhof legt: Füge deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zu.
@@ -33,17 +31,23 @@ text:
     1 Regulador + 1+ monstros não-Reguladores
     Uma vez por turno, você pode: escolher 1 monstro no campo; equipe este card no alvo, OU: desequipe este card e Invoque-o por Invocação-Especial em Posição de Ataque. Enquanto estiver equipado por este efeito, o alvo ganha 1000 de ATK. Se o alvo destruir um monstro em batalha e enviá-lo para o Cemitério: cause dano ao seu oponente igual ao ATK original do monstro destruído.
   ja: |-
-    チューナー＋チューナー以外の モンスター１体以上
-    １ターンに１度、自分のメインフェイズ時に装備カード扱いとしてモンスターに装備、または装備を解除して表側攻撃表示で特殊召喚できる。この効果で装備カード扱いになっている場合のみ、装備モンスターの攻撃力は１０００ポイントアップする。また、装備モンスターが戦闘によってモンスターを破壊し墓地へ送った時、破壊したモンスターの元々の攻撃力分のダメージを相手ライフに与える。
+    チューナー＋チューナー以外のモンスター１体以上
+    ①：１ターンに１度、以下の効果から１つを選択して発動できる。
+    ●フィールドの表側表示モンスター１体を対象とし、このカードを攻撃力１０００アップの装備魔法カード扱いで装備する。
+    ●この効果で装備されているこのカードを攻撃表示で特殊召喚する。
+    ②：このカードの効果でこのカードを装備したモンスターが戦闘でモンスターを破壊し墓地へ送った場合に発動する。その破壊したモンスターの元々の攻撃力分のダメージを相手に与える。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     1턴에 1번, 자신의 메인 페이즈시에 장착 카드로 취급하고 몬스터에 장착, 또는 장착을 해제하고 앞면 공격 표시로 특수 소환할 수 있다. 이 효과로 장착 카드 취급이 되어 있을 경우에만, 장착 몬스터의 공격력은 1000 포인트 올린다. 장착 몬스터가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 파괴한 몬스터의 공격력만큼 데미지를 상대 라이프에 준다.
   zh-TW: |-
-    协调＋协调以外的怪兽1只或以上
-    1回合1次，可在我方主要阶段时当作装备卡装备至怪兽，或者可解除装备以表侧攻击表示特殊召唤。只在以此效果当作装备卡使用的场合，装备怪兽的攻击力上升1000点。此外，装备怪兽因战斗破坏怪兽并送入墓地时，给予对手生命与已破坏怪兽原本攻击力数值相等的伤害。
+    協調＋協調以外的怪獸１隻以上
+    １回合１次，可在我方的主要階段時，將此卡視為裝備卡裝備於怪獸，或解除裝備以攻擊表示特殊召喚。僅限在透過此效果視為裝備卡的狀況下，裝備怪獸的攻擊力提升１０００，裝備怪獸因戰鬥破壞怪獸送至墓地時，給予對方LP等同於破壞的怪獸的原本的攻擊力數值的傷害。
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
-    ①：1回合1次，可从以下效果中选择1个发动。●以场上的1只表侧表示怪兽为对象，将此卡视为攻击力上升1000的装备卡，装备于该怪兽。●将被装备的此卡以攻击表示特殊召唤。②：以此卡的效果装备了此卡的怪兽战斗破坏怪兽并将其送至墓地的情况下发动。给予对手相当于该破坏的怪兽原本攻击力数值的伤害。
+    协调＋１只以上协调以外的怪兽
+    ①：１回合１次，可从以下效果中选择１个发动。
+    ●以场上的１只表侧表示怪兽为对象，将此卡视为攻击力上升１０００的装备卡，装备于该怪兽。
+    ●将被装备的此卡以攻击表示特殊召唤。
+    ②：以此卡的效果装备了此卡的怪兽战斗破坏怪兽并将其送至墓地的情况下发动。给予对手相当于该破坏的怪兽原本攻击力数值的伤害。
 card_type: Monster
 monster_type_line: Machine / Synchro / Effect
 attribute: LIGHT

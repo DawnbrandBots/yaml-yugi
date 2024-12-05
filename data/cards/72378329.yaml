@@ -14,9 +14,7 @@ name:
   zh-TW: 獸眼鐘擺龍
   zh-CN: 猛兽眼灵摆龙
 text:
-  en: |-
-    1 DARK Dragon-Type monster + 1 Beast-Type monster
-    Must be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use "Polymerization"), and cannot be Special Summoned by other ways. If this card destroys a monster by battle: Inflict damage to your opponent equal to the original ATK of the Beast-Type Fusion Material used for this card's Summon.
+  en:
   de: |-
     1 FINSTERNIS Monster vom Typ Drache + 1 Monster vom Typ Ungeheuer
     Muss entweder als Fusionsbeschwörung beschworen werden, oder als Spezialbeschwörung beschworen werden, indem du die oben aufgeführten Karten, die du kontrollierst, als Tribut anbietest (in diesem Fall wird die Zauberkarte „Polymerisation“ nicht benötigt), und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls diese Karte ein Monster durch Kampf zerstört: Füge deinem Gegner Schaden in Höhe der Grund-ATK des für die Beschwörung dieser Karte verwendeten Fusionsmaterials vom Typ Ungeheuer zu.
@@ -31,10 +29,12 @@ text:
     Deve essere Evocato tramite Fusione, oppure Evocato Specialmente offrendo come Tributo le carte sopra indicate che controlli (nel qual caso non utilizzi "Polimerizzazione"), e non può essere Evocato Specialmente in altri modi. Se questa carta distrugge un mostro in battaglia: infliggi al tuo avversario danno pari all'ATK originale del Materiale da Fusione di Tipo Bestia utilizzato per l'Evocazione di questa carta.
   pt: |-
     1 monstro de TREVAS do Tipo Dragão + 1 monstro do Tipo Besta
-    Você deve Invocá-lo por Invocação-Fusão ou Invocação-Especial ao oferecer como Tributo os cards acima que você controla (e nesse caso, você não usa "Polimerização") e não pode Invocá-lo por Invocação-Especial de nenhuma outra forma. Se este card destruir um monstro em batalha: cause dano ao seu oponente igual ao ATK original da Matéria de Fusão do Tipo Besta usado para a Invocação deste card.
+    Você deve Invocá-lo por Invocação-Fusão ou Invocação-Especial ao oferecer como Tributo os cards acima que você controla (e nesse caso, você não usa "Polimerização") e não pode Invocá-lo por Invocação-Especial de nenhuma outra forma. Se este card destruir um monstro em batalha: cause dano ao seu oponente igual ao ATK original da Matéria de Fusão do Tipo Besta usada para a Invocação deste card.
   ja: |-
     ドラゴン族・闇属性モンスター＋獣族モンスター
-    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●自分フィールドの上記カードをリリースした場合にエクストラデッキから特殊召喚できる（「融合」は必要としない）。①：このカードが戦闘でモンスターを破壊した場合に発動する。このカードの融合素材とした獣族モンスター１体の元々の攻撃力分のダメージを相手に与える。
+    このカードは融合召喚及び以下の方法でのみ特殊召喚できる。
+    ●自分フィールドの上記のカードをリリースした場合にＥＸデッキから特殊召喚できる。
+    ①：このカードが戦闘でモンスターを破壊した場合に発動する。このカードの融合素材とした獣族モンスター１体の元々の攻撃力分のダメージを相手に与える。
   ko: |-
     드래곤족 / 어둠 속성 몬스터 ＋ 야수족 몬스터
     이 카드는 융합 소환 및 이하의 방법으로만 특수 소환할 수 있다.
@@ -44,7 +44,9 @@ text:
     此卡僅限透過融合召喚及以下的方式特殊召喚。●可在解放我方場上的上述卡的狀況下，從額外牌組特殊召喚（不需要「融合」）。①：在此卡因戰鬥破壞怪獸的狀況下發動。給予對方等同於１隻做為此卡的融合素材的獸族怪獸的原本的攻擊力數值的傷害。
   zh-CN: |-
     龙族・暗属性怪兽＋兽族怪兽
-    此卡仅可以融合召唤及以下方法特殊召唤。●解放自己场上的上述卡的情况下，可从额外牌组特殊召唤（无需"融合"）。①：此卡战斗破坏怪兽的情况下发动。给予对手作为此卡融合素材的1只兽族怪兽原本攻击力数值的伤害。
+    此卡仅可以融合召唤及以下方法特殊召唤。
+    ●解放自己场上的上述卡的情况下，可从额外牌组特殊召唤（无需“融合”）。
+    ①：此卡战斗破坏怪兽的情况下发动。给予对手作为此卡融合素材的１只兽族怪兽原本攻击力数值的伤害。
 card_type: Monster
 monster_type_line: Dragon / Fusion / Effect
 attribute: EARTH

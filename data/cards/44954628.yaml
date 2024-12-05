@@ -14,8 +14,7 @@ name:
   zh-TW: 巨大戰艦 泰特朗
   zh-CN: 巨大战舰 泰特朗
 text:
-  en: |-
-    When this card is Normal Summoned, put 3 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. Once per turn, you can remove 1 counter on this card to destroy 1 Spell or Trap Card on the field.
+  en:
   de: |-
     Lege 3 Zählmarken auf diese Karte, wenn du sie als Normalbeschwörung beschwörst. Diese Karte wird nicht als Ergebnis eines Kampfes zerstört. Falls diese Karte mit einem Monster kämpft, entferne am Ende des Damage Steps 1 Zählmarke von dieser Karte. Falls diese Karte ohne Zählmarken kämpft, zerstöre diese Karte am Ende des Damage Steps. Entferne außerdem 1 Zählmarke von dieser Karte, um 1 Zauber- oder Fallenkarte auf dem Spielfeld zu zerstören. Du kannst diesen Effekt nur einmal pro Spielzug benutzen.
   es: |-
@@ -27,7 +26,10 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal, coloque 3 marcadores nele. Este card não pode ser destruído em batalha. Se este card for atacado ou atacar, remova 1 marcador deste card no final da Etapa de Dano. Se você não puder, destrua-o. Uma vez por turno, você pode remover 1 marcador deste card para destruir 1 Card de Magia ou Armadilha no campo.
   ja: |-
-    このカードの召喚時にカウンターを３つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にこのカードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。また、このカードのカウンターを１つ取り除く事で、フィールド上の魔法・罠カード１枚を破壊する。この効果は１ターンに１度しか使用できない。
+    ①：このカードが召喚した場合に発動する。このカードにカウンターを３つ置く。
+    ②：このカードは戦闘では破壊されない。
+    ③：このカードが戦闘を行ったダメージステップ終了時に発動する。このカードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行っていた場合、代わりにこのカードを破壊する。
+    ④：１ターンに１度、このカードのカウンターを１つ取り除き、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드의 일반 소환시에 카운터를 3개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다. 또한, 이 카드의 카운터를 1개 제거하는 것으로, 필드 위의 마법/함정 카드 1장을 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW: |-

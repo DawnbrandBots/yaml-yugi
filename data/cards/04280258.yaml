@@ -14,9 +14,7 @@ name:
   zh-TW: 召命之神弓－阿波羅薩
   zh-CN: 召命之神弓－阿波罗萨
 text:
-  en: |-
-    2+ monsters with different names, except Tokens
-    You can only control 1 "Apollousa, Bow of the Goddess". The original ATK of this card becomes 800 x the number of Link Materials used for its Link Summon. Once per Chain, when your opponent activates a monster effect (Quick Effect): You can make this card lose exactly 800 ATK, and if you do, negate the activation.
+  en:
   de: |-
     2+ Monster mit unterschiedlichen Namen, außer Spielmarken
     Du kannst nur 1 „Apollousa, Bogen der Göttin“ kontrollieren. Die Grund-ATK dieser Karte werden zu 800 x die Anzahl des für ihre Linkbeschwörung verwendeten Linkmaterials. Einmal pro Kette, wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst diese Karte genau 800 ATK verlieren lassen und falls du dies tust, annulliere die Aktivierung.
@@ -34,7 +32,9 @@ text:
     Você só pode controlar 1 "Apollousa, o Arco da Deusa". O ATK original deste card se torna 800 x o número de Matérias Link usadas para a sua Invocação-Link. Uma vez por Corrente, quando seu oponente ativar um efeito de monstro (Efeito Rápido): você pode fazer com que este card perca exatamente 800 de ATK e, se isso acontecer, negue a ativação.
   ja: |-
     トークン以外のカード名が異なるモンスター２体以上
-    このカードの③の効果は同一チェーン上では１度しか発動できない。①：「召命の神弓－アポロウーサ」は自分フィールドに１体しか表側表示で存在できない。②：このカードの元々の攻撃力は、このカードのリンク素材としたモンスターの数×８００になる。③：相手がモンスターの効果を発動した時に発動できる。このカードの攻撃力を８００ダウンし、その発動を無効にする。
+    ①：「召命の神弓－アポロウーサ」は自分フィールドに１枚しか表側表示で存在できない。
+    ②：このカードの元々の攻撃力は、このカードのＬ素材としたモンスターの数×８００になる。
+    ③：相手がモンスターの効果を発動した時に発動できる（同一チェーン上では１度まで）。このカードの攻撃力を８００ダウンし、その発動を無効にする。
   ko: |-
     토큰 이외의 카드명이 다른 몬스터 2장 이상
     이 카드의 ③의 효과는 동일한 체인 위에서는 1번밖에 발동할 수 없다. ①: "소명의 신궁－아폴로우사"는 자신 필드에 1장밖에 앞면 표시로 존재할 수 없다. ②: 이 카드의 원래 공격력은, 이 카드의 링크 소재로 한 몬스터의 수 × 800 이 된다. ③: 상대가 몬스터의 효과를 발동했을 때에 발동할 수 있다. 이 카드의 공격력을 800 내리고, 그 발동을 무효로 한다.
@@ -42,8 +42,8 @@ text:
     衍生物以外的卡名不同的怪獸２隻以上
     此卡的③效果，同一連鎖上僅限發動１次。①：「召命之神弓－阿波羅薩」在我方場上僅限以正面表示存在１隻。②：此卡原本的攻擊力變為做為此卡連結素材的怪獸數量×８００。③：可在對方發動怪獸的效果時發動。此卡的攻擊力降低８００，將該發動變為無效。
   zh-CN: |-
-    衍生物以外的、卡名不同的怪兽２只以上
-    此卡的③效果在同一连锁上仅可发动１次。①：“召命之神弓－阿波罗萨”在自己场上仅可有１张以表侧表示存在。②：此卡原本的攻击力变为相当于此卡连接素材的怪兽数量×８００的数值。③：对手发动怪兽的效果时可以发动。此卡的攻击力下降８００，将该发动无效。
+    衍生物以外的卡名不同的怪兽2只以上
+    此卡的③效果在同一连锁上仅可发动1次。①：“召命之神弓-阿波罗萨”在自己场上仅可有1只以表侧表示存在。②：此卡原本的攻击力变为相当于作为此卡连接素材的怪兽数量×800的数值。③：对手发动怪兽的效果时可以发动。此卡的攻击力下降800，将该发动无效。
 card_type: Monster
 monster_type_line: Fairy / Link / Effect
 attribute: WIND
