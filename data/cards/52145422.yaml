@@ -14,9 +14,7 @@ name:
   zh-TW: 灰搖籃龍
   zh-CN: 灰篮龙
 text:
-  en: |-
-    1 Aqua-Type Tuner + 1 or more non-Tuner monsters
-    When this card is Synchro Summoned: You can target cards your opponent controls, up to the number of WATER monsters used for the Synchro Summon of this card; destroy them. If this card is destroyed by battle or card effect and sent to the Graveyard: You can target 1 other WATER monster in your Graveyard; Special Summon it, but its effects are negated. You can only use each effect of "Graydle Dragon" once per turn.
+  en:
   de: |-
     1 Empfänger-Monster vom Typ Aqua + 1 oder mehr Nicht-Empfänger-Monster
     Wenn diese Karte als Synchrobeschwörung beschworen wird: Du kannst Karten wählen, die dein Gegner kontrolliert, bis zur Anzahl der WASSER Monster, die für die Synchrobeschwörung dieser Karte verwendet wurden; zerstöre sie. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst 1 anderes WASSER Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber seine Effekte werden annulliert. Du kannst jeden Effekt von „Graulien Drache“ nur einmal pro Spielzug verwenden.
@@ -34,7 +32,9 @@ text:
     Quando este card for Invocado por Invocação-Sincro: você pode escolher cards que seu oponente controla, até o número de monstros de ÁGUA usados para a Invocação-Sincro deste card; destrua-os. Se este card for destruído em batalha ou por um efeito de card e enviado para o Cemitério: você pode escolher 1 outro monstro de ÁGUA no seu Cemitério; Invoque-o por Invocação-Especial, mas seus efeitos são negados. Você só pode usar cada efeito de "Alicercinza Dragão" uma vez por turno.
   ja: |-
     水族チューナー＋チューナー以外のモンスター１体以上
-    「グレイドル・ドラゴン」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＳ召喚に成功した時、そのＳ素材とした水属性モンスターの数まで相手フィールドのカードを対象として発動できる。そのカードを破壊する。②：このカードが戦闘・効果で破壊され墓地へ送られた場合、このカード以外の自分の墓地の水属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。
+    ①：このカードがＳ召喚した時、そのＳ素材とした水属性モンスターの数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。
+    ②：このカードが戦闘・効果で破壊され墓地へ送られた場合、自分の墓地の他の水属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。
   ko: |-
     물족 튜너 ＋ 튜너 이외의 몬스터 1장 이상
     "그레이돌 드래곤"의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소환에 성공했을 때, 그 싱크로 소재로 한 물 속성 몬스터의 수까지 상대 필드의 카드를 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다. ②: 이 카드가 전투 / 효과로 파괴되어 묘지로 보내졌을 경우, 이 카드 이외의 자신 묘지의 물 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
@@ -42,10 +42,8 @@ text:
     水族協調＋協調以外的怪獸１隻以上
     「灰搖籃龍」的①②效果，１回合各僅限使用１次。①：此卡同步召喚成功時，可將對方場上的卡做為對象發動，數量最多為做為其同步素材的水屬性怪獸的數量。破壞該卡。②：在此卡因戰鬥・效果被破壞送至墓地的狀況下，可將我方墓地的１隻此卡以外的水屬性怪獸做為對象發動。特殊召喚該怪獸。透過此效果特殊召喚的怪獸效果無效化。
   zh-CN: |-
-    水族协调＋协调以外的怪兽１只以上
-    此卡名的①②效果１回合仅可各使用１次。
-    ①：此卡同步召唤时，以对手场上的卡为对象可以发动，数量最多为作为其同步素材的水属性怪兽的数量。将该卡破坏。
-    ②：此卡因战斗・效果被破坏并被送至墓地的情况下，以自己墓地的１只其他水属性怪兽为对象可以发动。将该怪兽特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
+    水族协调＋协调以外的怪兽１只或以上
+    “灰篮龙”的①②效果１回合只可各使用１次。①：此卡同步召唤成功时，可以对手场上的卡牌为对象发动，其数量最多为作为该同步素材中水属性怪兽的数量。②：此卡因战斗、效果被破坏并送入墓地的场合，可以１只除此卡以外的我方墓地的水属性怪兽为对象发动。特殊召唤该怪兽。以此效果特殊召唤的怪兽的效果被无效化。
 card_type: Monster
 monster_type_line: Aqua / Synchro / Effect
 attribute: WATER

@@ -14,9 +14,7 @@ name:
   zh-TW: 琰魔龍 闇紅惡魔 邃淵
   zh-CN: 琰魔龙 暗红恶魔邃渊
 text:
-  en: |-
-    1 Tuner + 1 non-Tuner DARK Dragon Synchro Monster
-    (Quick Effect): You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. When this card inflicts battle damage to your opponent: You can target 1 Tuner in your GY; Special Summon it in Defense Position. You can only use each effect of "Hot Red Dragon Archfiend Abyss" once per turn.
+  en:
   de: |-
     1 Empfänger + 1 FINSTERNIS Drache-Nicht-Empfänger-Synchromonster
     (Schnelleffekt): Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert; annulliere ihre Effekte bis zum Ende dieses Spielzugs. Wenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 Empfänger in deinem Friedhof wählen; beschwöre ihn als Spezialbeschwörung in die Verteidigungsposition. Du kannst jeden Effekt von „Glühender Rotdrachen-Erzunterweltler Abyss“ nur einmal pro Spielzug verwenden.
@@ -34,7 +32,9 @@ text:
     (Efeito Rápido): você pode escolher 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno. Quando este card causar dano de batalha ao seu oponente: você pode escolher 1 Regulador no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa. Você só pode usar cada efeito de "Abrasador Dragão Vermelho Arquidemônio do Abismo" uma vez por turno.
   ja: |-
     チューナー＋チューナー以外のドラゴン族・闇属性Ｓモンスター１体
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手ターンに、相手フィールドの表側表示カード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。②：このカードが相手に戦闘ダメージを与えた時、自分の墓地のチューナー１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。
+    ①：自分・相手ターンに、相手フィールドの表側表示カード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。
+    ②：このカードが相手に戦闘ダメージを与えた時、自分の墓地のチューナー１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
   ko: |-
     튜너 ＋ 튜너 이외의 드래곤족 / 어둠 속성 싱크로 몬스터 1장
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대 턴에, 상대 필드의 앞면 표시 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과를 턴 종료시까지 무효로 한다. ②: 이 카드가 상대에게 전투 데미지를 주었을 때, 자신 묘지의 튜너 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다.
@@ -42,8 +42,10 @@ text:
     協調＋協調以外的龍族・闇屬性同步怪獸１隻
     此卡名的①②效果，１回合各僅限使用１次。①：可將對方場上的１張正面表示的卡做為對象發動。該卡的效果在回合結束前變為無效。此效果在對方回合也可發動。②：此卡給予對方戰鬥傷害時，可將我方墓地的１隻協調做為對象發動。以守備表示特殊召喚該怪獸。
   zh-CN: |-
-    协调＋协调以外的龙族・暗属性同步怪兽1只
-    此卡名的①②效果1回合仅可各使用1次。①：可以对手场上的1张表侧表示的卡为对象发动。将该卡的效果直至回合结束时为止无效。此效果在对手回合中也可以发动。②：此卡给予对手战斗伤害时，可以自己墓地的1只协调为对象发动。以守备表示形式将该怪兽特殊召唤。
+    协调＋协调以外的龙族・暗属性同步怪兽１只
+    此卡名的①②效果１回合仅可各使用１次。
+    ①：在自己・对手回合中，以对手场上的１张表侧表示的卡为对象可以发动。将该卡的效果直至回合结束时为止无效。
+    ②：此卡给予对手战斗伤害时，以自己墓地的１只协调为对象可以发动。将该怪兽以守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: DARK

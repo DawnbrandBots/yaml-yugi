@@ -14,11 +14,7 @@ name:
   zh-TW: 破壞龍鋼多拉－極巨烈光閃
   zh-CN: 破坏龙 钢多拉－烈光闪
 text:
-  en: |-
-    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 other monsters from your hand and/or field to the GY. Gains 300 ATK for each banished card. Once per turn: You can pay half your LP; apply 1 of these effects, depending on the number of "Gandora" monsters with different names in your GY.
-    ● 1: Destroy all other cards on the field.
-    ● 2: Banish all other cards on the field.
-    ● 3+: Banish all other cards on the field and in the GYs.
+  en:
   de: |-
     Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 2 andere Monster von deiner Hand und/oder Spielfeldseite auf den Friedhof legst. Erhält für jede verbannte Karte 300 ATK. Einmal pro Spielzug: Du kannst die Hälfte deiner LP zahlen; führe 1 dieser Effekte aus, abhängig von der Anzahl der „Gandora“-Monster mit unterschiedlichen Namen in deinem Friedhof.
     ●1: Zerstöre alle anderen Karten auf dem Spielfeld.
@@ -45,7 +41,13 @@ text:
     ●2: Bana todos os outros cards no campo.
     ●3+: Bana todos os outros cards no campo e nos Cemitérios.
   ja: |-
-    このカードは通常召喚できない。このカード以外の自分の手札・フィールドのモンスター２体を墓地へ送った場合に特殊召喚できる。①：このカードの攻撃力は除外されているカードの数×３００アップする。②：１ターンに１度、ＬＰを半分払って発動できる。自分の墓地の「ガンドラ」モンスターの種類によって以下を適用する。●１種類：このカード以外のフィールドのカードを全て破壊する。●２種類：このカード以外のフィールドのカードを全て除外する。●３種類以上：このカード以外のお互いのフィールド・墓地のカードを全て除外する。
+    このカードは通常召喚できない。
+    このカード以外の自分の手札・フィールドのモンスター２体を墓地へ送った場合に特殊召喚できる。
+    ①：このカードの攻撃力は、除外状態のカードの数×３００アップする。
+    ②：１ターンに１度、ＬＰを半分払って発動できる。自分の墓地の「ガンドラ」モンスターの種類によって以下を適用する。
+    ●１種類：フィールドの他のカードを全て破壊する。
+    ●２種類：フィールドの他のカードを全て除外する。
+    ●３種類以上：このカード以外のお互いのフィールド・墓地のカードを全て除外する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 이 카드 이외의 자신의 패 / 필드의 몬스터 2장을 묘지로 보냈을 경우에 특수 소환할 수 있다. ①: 이 카드의 공격력은 제외되어 있는 카드의 수 × 300 올린다. ②: 1턴에 1번, LP를 절반 지불하고 발동할 수 있다. 자신 묘지의 "간드라" 몬스터의 종류에 따라 이하를 적용한다.
     ●1종류: 이 카드 이외의 필드의 카드를 전부 파괴한다.
@@ -57,7 +59,10 @@ text:
     ●２種：將場上的此卡以外的所有卡全部除外。
     ●３種以上：將雙方場上・墓地的此卡以外的所有卡全部除外。
   zh-CN: |-
-    此卡不可通常召唤。将自己手牌・场上此卡以外的２只怪兽送至墓地的情况下可以特殊召唤。①：此卡的攻击力上升相当于除外状态的卡的数量×３００的数值。②：１回合１次，支付一半LP可以发动。根据自己墓地的“钢多拉”怪兽的种类适用以下内容。●１种：将场上的其他卡全部破坏。●２种：将场上的其他卡全部除外。●３种以上：将此卡以外的、双方场上・墓地的卡全部除外。
+    此卡不可通常召唤。我方手牌、场上２只除此卡以外的怪兽被送入墓地的场合，可进行特殊召唤。①：此卡的攻击力上升相当于被除外卡牌的数量×３００。②：１回合１次，可支付一半生命点数并发动。根据我方墓地的“钢多拉”怪兽种类适用以下效果。
+    ●１种：破坏场上除此卡以外的所有卡牌。
+    ●２种：将场上除此卡以外的所有卡牌除外。
+    ●３种或以上：将场上除此卡以外双方场上、墓地的所有卡牌除外。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: DARK
