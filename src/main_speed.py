@@ -33,7 +33,7 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
         "name": transform_names(wikitext),
         "type_line": wikitext["types"],
         "activation": transform_multilanguage(wikitext, "skill_activation"),
-        "effect": transform_multilanguage(wikitext, "lore"),
+        "effect": transform_multilanguage(wikitext, "text"),
         "character": wikitext.get("character"),  # bonus field
         "image_front": wikitext.get("image"),
         "image_back": wikitext.get("image2"),

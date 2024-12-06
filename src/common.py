@@ -203,21 +203,6 @@ def transform_names(wikitext: Dict[str, str]) -> Dict[str, str]:
     }
 
 
-def transform_texts(wikitext: Dict[str, str]) -> Dict[str, str]:
-    return {
-        "en": str_or_none(wikitext.get("lore")),  # should never be none
-        "de": str_or_none(wikitext.get("de_lore")),
-        "es": str_or_none(wikitext.get("es_lore")),
-        "fr": str_or_none(wikitext.get("fr_lore")),
-        "it": str_or_none(wikitext.get("it_lore")),
-        "pt": str_or_none(wikitext.get("pt_lore")),
-        "ja": str_or_none(wikitext.get("ja_lore")),
-        "ko": str_or_none(wikitext.get("ko_lore")),
-        "zh-TW": str_or_none(wikitext.get("tc_lore")),
-        "zh-CN": str_or_none(wikitext.get("sc_lore")),
-    }
-
-
 def transform_multilanguage(wikitext: Dict[str, str], basename: str) -> Dict[str, str]:
     return {
         "en": str_or_none(wikitext.get(basename)),

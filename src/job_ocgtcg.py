@@ -19,7 +19,7 @@ from common import (
     transform_image,
     transform_names,
     transform_sets,
-    transform_texts,
+    transform_multilanguage,
     write,
     load_ko_csv,
     load_unreleased_csv,
@@ -89,7 +89,7 @@ def transform_structure(
         "konami_id": konami_id,
         "password": password,
         "name": transform_names(wikitext),
-        "text": transform_texts(wikitext),
+        "text": transform_multilanguage(wikitext, "text"),
     }
     annotate_shared(document, wikitext)
     if wikitext.get("image"):
