@@ -14,10 +14,9 @@ name:
   zh-TW: 火箭穿射器
   zh-CN: 火箭穿射器
 text:
-  en: |-
-    While the equipped monster is attacking, it cannot be destroyed by battle. At the end of the Damage Step, if the equipped monster attacked: The attack target loses ATK equal to the ATK of the equipped monster, until the End Phase.
+  en:
   de: |-
-    Solange das ausgerüstete Monster angreift, kann es nicht durch Kampf zerstört werden. (Führe die Schadensberechnung normal durch.) Am Ende des Damage Steps, wenn das ausgerüstete Monster angreift, verliert das angegriffene Monster bis zur End Phase ATK in Höhe der ATK des ausgerüsteten Monsters.
+    Solange das ausgerüstete Monster angreift, kann es nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls das ausgerüstete Monster angegriffen hat: Das Angriffsziel verliert bis zur End Phase ATK in Höhe der ATK des ausgerüsteten Monsters.
   es: |-
     Mientras el monstruo equipado esté atacando, no puede ser destruido en batalla. Al final del Damage Step, si el monstruo equipado atacó: el objetivo del ataque pierde ATK igual al ATK del monstruo equipado, hasta la End Phase.
   fr: |-
@@ -27,7 +26,8 @@ text:
   pt: |-
     Enquanto o monstro equipado estiver atacando, ele não pode ser destruído em batalha. No final da Etapa de Dano, se o monstro equipado atacou: até a Fase Final, o alvo do ataque perde ATK igual ao ATK do monstro equipado.
   ja: |-
-    装備モンスターが攻撃する場合、装備モンスターは戦闘では破壊されない。装備モンスターが攻撃を行ったダメージステップ終了時、装備モンスターの攻撃を受けたモンスターの攻撃力は、エンドフェイズ時まで装備モンスターの攻撃力分ダウンする。
+    ①：装備モンスターは攻撃する場合、その戦闘では破壊されない。
+    ②：装備モンスターがモンスターに攻撃を行ったダメージステップ終了時に発動する。攻撃対象モンスターの攻撃力は、ターン終了時まで装備モンスターの攻撃力分ダウンする。
   ko: |-
     장착 몬스터가 공격할 경우, 장착 몬스터는 전투로는 파괴되지 않는다. 장착 몬스터가 공격을 실행한 데미지 스텝 종료시, 장착 몬스터의 공격을 받은 몬스터의 공격력은, 엔드 페이즈시까지 장착 몬스터의 공격력만큼 내린다.
   zh-TW: |-

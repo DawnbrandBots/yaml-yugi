@@ -14,9 +14,7 @@ name:
   zh-TW: 聖影依 凱烏斯
   zh-CN: 圣影依 凯乌斯
 text:
-  en: |-
-    FLIP: You can Special Summon 1 "Shaddoll" monster from your hand in face-up or face-down Defense Position.
-    If this card is sent to the GY by a card effect: You can send 1 "Shaddoll" monster from your hand to the GY, and if you do, for the rest of this turn, all monsters you control gain ATK/DEF equal to the original Level of that monster sent to the GY x 100. You can only use 1 "Qadshaddoll Keios" effect per turn, and only once that turn.
+  en:
   de: |-
     FLIPP: Du kannst 1 „Schattenpuppe“-Monster als Spezialbeschwörung von deiner Hand in die offene oder verdeckte Verteidigungsposition beschwören.
     Falls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 „Schattenpuppe“-Monster von deiner Hand auf den Friedhof legen und falls du dies tust, erhalten alle Monster, die du kontrollierst, für den Rest dieses Spielzugs ATK/DEF in Höhe der Grund-Stufe des auf den Friedhof gelegten Monsters x 100. Du kannst nur 1 Effekt von „Qadschattenpuppe Keios“ pro Spielzug verwenden und in dem Spielzug nur einmal.
@@ -33,7 +31,9 @@ text:
     VIRE: Você pode Invocar por Invocação-Especial 1 monstro "Sombraneco" da sua mão com a face para cima ou com a face para baixo em Posição de Defesa.
     Se este card for enviado para o Cemitério por um efeito de card: você pode enviar 1 monstro "Sombraneco" da sua mão para o Cemitério e, se isso acontecer, pelo resto deste turno, todos os monstros que você controla ganham ATK/DEF igual ao Nível original desse monstro enviado para o Cemitério x 100. Você só pode usar 1 efeito de "Keios Qadsombraneco" por turno e apenas uma vez por turno.
   ja: |-
-    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合に発動できる。手札から「シャドール」モンスター１体を表側守備表示または裏側守備表示で特殊召喚する。②：このカードが効果で墓地へ送られた場合に発動できる。手札から「シャドール」モンスター１体を墓地へ送る。このターン中、以下の効果を適用する。●自分フィールドのモンスターの攻撃力・守備力はこの効果で墓地へ送ったモンスターの元々のレベル×１００アップする。
+    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。
+    ①：このカードがリバースした場合に発動できる。手札から「シャドール」モンスター１体を表側守備表示か裏側守備表示で特殊召喚する。
+    ②：このカードが効果で墓地へ送られた場合に発動できる。手札から「シャドール」モンスター１体を墓地へ送る。このターン中、自分フィールドのモンスターの攻撃力・守備力は、この効果で墓地へ送ったモンスターの元々のレベル×１００アップする。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 리버스했을 경우에 발동할 수 있다. 패에서 "섀도르" 몬스터 1장을 앞면 수비 표시 또는 뒷면 수비 표시로 특수 소환한다. ②: 이 카드가 효과로 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 "섀도르" 몬스터 1장을 묘지로 보낸다. 이 턴 중에, 이하의 효과를 적용한다.
     ●자신 필드의 몬스터의 공격력 / 수비력은 이 효과로 묘지로 보낸 몬스터의 원래의 레벨 × 100 올린다.
@@ -41,7 +41,8 @@ text:
     此卡名的①②效果，１回合僅限使用１次其中１個效果。①：可在此卡反轉的狀況下發動。從手牌以正面守備表示或反面守備表示特殊召喚１隻「影依」怪獸。②：可在此卡因效果被送至墓地的狀況下發動。從手牌將１隻「影依」怪獸送至墓地。此回合中，適用以下效果。
     ●我方場上的怪獸的攻擊力・守備力依據透過此效果送至墓地的怪獸原本的等級×１００進行提升。
   zh-CN: |-
-    此卡名的①②效果1回合1次，仅可使用其中1个。①：在此卡反转的情况下可以发动。从手牌中以表侧守备表示或里侧守备表示将1只“影依”怪兽特殊召唤。②：在此卡因效果被送至墓地的情况下可以发动。从手牌将1只“影依”怪兽送至墓地。在此回合中适用以下效果。●自己场上怪兽的攻击力・守备力上升以此效果被送至墓地的怪兽的原本等级×100。
+    此卡名的①②效果1回合1次，仅可使用其中1个。①：在此卡反转的情况下可以发动。从手牌中以表侧守备表示或里侧守备表示将1只“影依”怪兽特殊召唤。②：在此卡因效果被送至墓地的情况下可以发动。从手牌将1只“影依”怪兽送至墓地。在此回合中适用以下效果。
+    ●自己场上怪兽的攻击力・守备力上升以此效果被送至墓地的怪兽的原本等级×100。
 card_type: Monster
 monster_type_line: Spellcaster / Flip / Effect
 attribute: LIGHT

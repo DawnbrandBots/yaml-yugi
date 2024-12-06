@@ -14,8 +14,7 @@ name:
   zh-TW: 召喚僧
   zh-CN: 召唤僧
 text:
-  en: |-
-    While this card is face-up on the field, it cannot be Tributed. If this card is Normal or Flip Summoned: Change this card to Defense Position. Once per turn: You can discard 1 Spell; Special Summon 1 Level 4 monster from your Deck, but that monster cannot attack this turn.
+  en:
   de: |-
     Solange diese Karte offen auf dem Spielfeld liegt, kann sie nicht als Tribut angeboten werden. Falls diese Karte als Normal- oder Flippbeschwörung beschworen wird: Ändere diese Karte in die Verteidigungsposition. Einmal pro Spielzug: Du kannst 1 Zauber abwerfen; beschwöre 1 Monster der Stufe 4 als Spezialbeschwörung von deinem Deck, aber jenes Monster kann in diesem Spielzug nicht angreifen.
   es: |-
@@ -27,15 +26,15 @@ text:
   pt: |-
     Enquanto este card estiver com a face para cima no campo, ele não pode ser oferecido como Tributo. Se este card for Invocado por Invocação-Normal ou Virar: coloque este card em Posição de Defesa. Uma vez por turno: você pode descartar 1 Magia; Invoque por Invocação-Especial 1 monstro de Nível 4 do seu Deck, mas esse monstro não pode atacar neste turno.
   ja: |-
-    ①：このカードが召喚・反転召喚した場合に発動する。このカードを守備表示にする。②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。
+    ①：このカードが召喚・反転召喚した場合に発動する。このカードを守備表示にする。
+    ②：このカードがモンスターゾーンに存在する限り、このカードはリリースできない。
+    ③：１ターンに１度、手札から魔法カード１枚を捨てて発動できる。デッキからレベル４モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターン攻撃できない。
   ko: |-
     ①: 이 카드를 일반 소환 / 반전 소환했을 경우에 발동한다. 이 카드를 수비 표시로 한다. ②: 이 카드가 몬스터 존에 존재하는 한, 이 카드는 릴리스할 수 없다. ③: 1턴에 1번, 패에서 마법 카드 1장을 버리고 발동할 수 있다. 덱에서 레벨 4 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴에 공격할 수 없다.
   zh-TW: |-
-    此卡不可释放。此卡召唤、反转召唤成功时，变更为守备表示。1回合1次，透过从手牌舍弃1张魔法卡，从牌组特殊召唤1只等级4怪兽。此效果特殊召唤的怪兽，在此回合不可攻击。
+    ①：在此卡召喚・反轉召喚成功的狀況下發動。將此卡變為守備表示。②：只要此卡存在於怪獸區，就無法解放此卡。③：１回合１次，可從手牌捨棄１張魔法卡發動。從牌組特殊召喚１隻等級４怪獸。透過此效果特殊召喚的怪獸在此回合無法攻擊。
   zh-CN: |-
-    ①：此卡召唤・反转召唤的情况下发动。将此卡改成守备表示。
-    ②：只要此卡存在于怪兽区域，此卡不可解放。
-    ③：１回合１次，从手牌将１张魔法卡舍弃可以发动。从牌组将１只等级４怪兽特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
+    ①：此卡召唤・反转召唤成功的情况下发动。将此卡改成守备表示。②：只要此卡存在于怪兽区域，此卡不可解放。③：１回合１次，从手牌将１张魔法卡舍弃可以发动。从牌组将１只等级４怪兽特殊召唤。以此效果特殊召唤的怪兽在此回合不可攻击。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -261,7 +260,7 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD16-JP007
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   - set_number: SD22-JP017
@@ -311,7 +310,7 @@ sets:
     - Ultra Rare
     - Secret Rare
   - set_number: SD16-KR007
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   - set_number: SD22-KR017

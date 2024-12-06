@@ -14,8 +14,7 @@ name:
   zh-TW: 新宇俠賢者
   zh-CN: 新宇贤人
 text:
-  en: |-
-    Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up "Elemental HERO Neos" and 1 face-up "Yubel" you control to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.
+  en:
   de: |-
     Kann nicht als Normalbeschwörung beschworen oder gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 offenen „Elementar-HELD Neos“ und 1 offenen „Yubel“, die du kontrollierst, auf den Friedhof legst. Kann nicht durch Karteneffekte zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster eines Gegners gekämpft hat: Füge deinem Gegner Schaden in Höhe der ATK jenes Monsters des Gegners zu, zusätzlich erhältst du LP in Höhe der DEF jenes Monsters des Gegners.
   es: |-
@@ -27,13 +26,18 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal ou Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao enviar 1 "Neos, o HERÓI do Elemento" com a face para cima e 1 "Yubel" com a face para cima que você controla para o Cemitério. Não pode ser destruído por efeitos de card. No final da Etapa de Dano, se este card batalhou um monstro do oponente: cause dano ao seu oponente igual ao ATK desse monstro do oponente e, além disso, você ganha PV igual à DEF desse monstro do oponente.
   ja: |-
-    このカードは通常召喚できない。自分のモンスターゾーンの表側表示の、「Ｅ・ＨＥＲＯ ネオス」と「ユベル」を１体ずつ墓地へ送った場合のみ特殊召喚できる。①：フィールドのこのカードは効果では破壊されない。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動する。その相手モンスターの攻撃力分のダメージを相手に与える。その相手モンスターの守備力分だけ自分のＬＰを回復する。
+    このカードは通常召喚できない。
+    自分のモンスターゾーンの表側表示の、「Ｅ・ＨＥＲＯ　ネオス」と「ユベル」を１体ずつ墓地へ送った場合のみ特殊召喚できる。
+    ①：フィールドのこのカードは効果では破壊されない。
+    ②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時に発動する。以下の効果を同時に適用する。
+    ●その相手モンスターの攻撃力分のダメージを相手に与える。
+    ●その相手モンスターの守備力分だけ自分のＬＰを回復する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 몬스터 존의 앞면 표시의, "엘리멘틀 히어로 네오스"와 "유벨"을 1장씩 묘지로 보냈을 경우에만 특수 소환할 수 있다. ①: 필드의 이 카드는 효과로는 파괴되지 않는다. ②: 이 카드가 상대 몬스터와 전투를 실행한 데미지 스텝 종료시에 발동한다. 그 상대 몬스터의 공격력만큼의 데미지를 상대에게 준다. 그 상대 몬스터의 수비력만큼만 자신의 LP를 회복한다.
   zh-TW: |-
     此卡無法通常召喚。可將我方怪獸區的正面表示的，「元素－英雄 新宇俠」與「尤貝爾」各１隻送至墓地特殊召喚。①：場上的此卡不會因效果被破壞。②：在此卡與對方怪獸進行戰鬥的傷害步驟結束時發動。給予對方等同於該對方怪獸的攻擊力數值的傷害。依據該對方怪獸的守備力數值回復我方LP。
   zh-CN: |-
-    此卡不可通常召唤。仅可在将自己怪兽区域的、表侧表示的“元素－英雄 新宇侠”和“尤贝尔”各１只送至墓地的情况下特殊召唤。①：场上的此卡不会因效果被破坏。②：此卡与对手怪兽进行战斗的伤害步骤结束时发动。给予对手相当于该对手怪兽攻击力数值的伤害。依该对手怪兽守备力的数值恢复自己的LP。
+    此卡不可通常召唤。仅限将我方场上表侧表示的“元素－英雄 新宇侠”和“尤贝尔”各１只送入墓地的场合，可特殊召唤。此卡进行战斗的场合，在伤害步骤结束时，给予对手生命相当于对手怪兽攻击力的伤害，我方回复相当于该怪兽守备力的生命点数。此卡不会因卡牌的效果而被破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: LIGHT

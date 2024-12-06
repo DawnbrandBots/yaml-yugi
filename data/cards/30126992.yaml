@@ -14,8 +14,7 @@ name:
   zh-TW: 光芒 迪亞波邏斯
   zh-CN: 光芒 迪亚波逻斯
 text:
-  en: |-
-    Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.
+  en:
   de: |-
     Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 5 oder mehr LICHT Monster mit unterschiedlichen Namen in deinem Friedhof hast. Einmal pro Spielzug: Du kannst 1 LICHT Monster von deinem Friedhof verbannen und dann 1 gesetzte Karte wählen, die dein Gegner kontrolliert; zeige das gewählte Ziel vor, dann lege das gewählte Ziel auf oder unter das Deck.
   es: |-
@@ -23,11 +22,13 @@ text:
   fr: |-
     Ni Invocable Normalement ni Posable. Doit d'abord être Invoquée Spécialement (depuis votre main) en ayant min. 5 monstres LUMIÈRE de noms différents dans votre Cimetière. Une fois par tour : vous pouvez bannir 1 monstre LUMIÈRE depuis votre Cimetière, puis ciblez 1 carte Posée contrôlée par votre adversaire ; révélez la cible, puis placez la cible au-dessus ou au-dessous du Deck.
   it: |-
-    Non può essere Evocato Normalmente o Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) avendo 5 o più mostri LUCE con nomi diversi nel tuo Cimitero. Una volta per turno: puoi bandire 1 mostro LUCE dal tuo Cimitero per scegliere come bersaglio 1 carta Posizionata controllata dal tuo avversario; rivela quel bersaglio, poi fa ritornare quel bersaglio in cima oppure in fondo al Deck.
+    Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) avendo 5 o più mostri LUCE con nomi diversi nel tuo Cimitero. Una volta per turno: puoi bandire 1 mostro LUCE dal tuo Cimitero, poi scegliere come bersaglio 1 carta Posizionata controllata dal tuo avversario; rivela quel bersaglio, poi metti quel bersaglio in cima oppure in fondo al Deck.
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Você primeiro deve Invocá-lo por Invocação-Especial (da sua mão) ao ter 5 ou mais monstros de LUZ com nomes diferentes no seu Cemitério. Uma vez por turno: você pode banir 1 monstro de LUZ do seu Cemitério e, depois, escolher 1 card Baixado que seu oponente controla; revele o alvo e, depois, coloque o alvo no topo ou no fundo do Deck.
   ja: |-
-    このカードは通常召喚できない。自分の墓地の光属性モンスターが５種類以上の場合に特殊召喚できる。１ターンに１度、自分の墓地の光属性モンスター１体をゲームから除外して発動できる。相手フィールド上にセットされたカード１枚を選択して確認し、持ち主のデッキの一番上または一番下に戻す。
+    このカードは通常召喚できない。
+    自分の墓地の光属性モンスターが５種類以上の場合に特殊召喚できる。
+    ①：１ターンに１度、自分の墓地から光属性モンスター１体を除外し、相手フィールドの裏側表示カード１枚を対象として発動できる。その相手の裏側表示カードを確認し、デッキの一番上か一番下に戻す。
   ko: |-
     이 카드는 일반 소환 / 세트할 수 없다. 자신 묘지의 빛 속성 몬스터가 5종류 이상일 경우에 특수 소환할 수 있다. 1턴에 1번, 자신 묘지의 빛 속성 몬스터 1장을 게임에서 제외하고 발동할 수 있다. 상대 필드 위에 세트된 카드 1장을 선택하여 확인하고, 주인 덱의 맨 위 또는 맨 아래로 되돌린다.
   zh-TW: |-
@@ -93,7 +94,7 @@ sets:
     rarities:
     - Rare
   - set_number: DS14-JPL12
-    set_name: 'Duelist Set: Version Lightlord Judgment'
+    set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
   ko:
@@ -102,7 +103,7 @@ sets:
     rarities:
     - Rare
   - set_number: DS14-KRL12
-    set_name: 'Duelist Set: Version Lightlord Judgment'
+    set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
 limit_regulation:

@@ -14,15 +14,13 @@ name:
   zh-TW: 廢品狂戰鬼
   zh-CN: 废品狂战鬼
 text:
-  en: |-
-    "Junk Synchron" + 1 or more non-Tuner monsters
-    You can banish 1 "Junk" monster from your Graveyard, then target 1 face-up monster your opponent controls; that target loses ATK equal to the banished monster's ATK. At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.
+  en:
   de: |-
     „Gerümpelsynchronisierer“ + 1 oder mehr Nicht-Empfänger-Monster
     Du kannst 1 „Gerümpel“-Monster von deinem Friedhof verbannen und dann 1 offenes Monster wählen, das dein Gegner kontrolliert; das gewählte Ziel verliert ATK in Höhe der ATK des verbannten Monsters. Am Beginn des Damage Steps, falls diese Karte ein Monster in Verteidigungsposition angreift: Zerstöre das Monster.
   es: |-
     "Sincronizador de Basura" + 1 o más monstruos que no sean Cantantes
-    Puedes retirar del juego 1 monstruo "Basura" en tu Cementerio y seleccionar 1 monstruo boca arriba que controle tu adversario. Ese monstruo pierde tanto ATK como el ATK del monstruo retirado del juego. Si esta carta ataca a un monstruo en Posición de Defensa, destruye a ese monstruo al comienzo del Damage Step (sin aplicar cálculo de daño).
+    Puedes desterrar 1 monstruo "Basura" en tu Cementerio, y después seleccionar 1 monstruo boca arriba que controle tu adversario; ese objetivo pierde tanto ATK como el ATK del monstruo desterrado. Al comienzo del Damage Step, si esta carta ataca un monstruo en Posición de Defensa: destruye ese monstruo.
   fr: |-
     "Robot Synchronique" + 1 monstre non-Syntoniseur ou plus
     Vous pouvez bannir 1 monstre "Robot" ("Robot Patrouilleur", "Chevalier Robotisé", "Robot d'Assistance au Combat", "Robot Hyper Synchronique" et "Robot Vrille Koa'ki Meiru" exclus) depuis votre Cimetière, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; la cible perd une ATK égale à l'ATK du monstre banni. Au début de la Damage Step, si cette carte attaque un monstre en Position de Défense : détruisez le monstre.
@@ -34,7 +32,8 @@ text:
     Você pode banir 1 monstro "Sucata" do seu Cemitério e, depois, escolher 1 monstro com a face para cima que seu oponente controla; o alvo perde ATK igual ao ATK do monstro banido. No começo da Etapa de Dano, se este card atacar um monstro em Posição de Defesa: destrua esse monstro.
   ja: |-
     「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上
-    自分の墓地に存在する「ジャンク」と名のついたモンスター１体をゲームから除外し、相手フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択した相手モンスターの攻撃力は、除外したモンスターの攻撃力分ダウンする。また、このカードが守備表示のモンスターを攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。
+    ①：自分の墓地から「ジャンク」モンスター１体を除外し、相手フィールドの表側表示モンスター１体を対象として発動できる。その相手モンスターの攻撃力は、この効果を発動するために除外したモンスターの攻撃力分ダウンする。
+    ②：このカードが守備表示モンスターを攻撃するダメージステップ開始時に発動する。そのモンスターを破壊する。
   ko: |-
     "정크 싱크론" ＋ 튜너 이외의 몬스터 1장 이상
     자신의 묘지에 존재하는 "정크"라는 이름이 붙은 몬스터 1장을 게임에서 제외하고, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 발동한다. 선택한 상대 몬스터의 공격력은, 제외한 몬스터의 공격력만큼 내린다. 또한, 이 카드가 수비 표시의 몬스터를 공격했을 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
@@ -42,8 +41,8 @@ text:
     「廢品同步士」＋協調以外的怪獸１隻以上
     可將我方墓地的１隻冠有「廢品」之名的怪獸從遊戲除外，選擇對方場上的１隻正面表示怪獸發動。選擇的對方怪獸的攻擊力，依據除外的怪獸的攻擊力數值進行降低。此外，此卡攻擊守備表示怪獸的傷害步驟開始時，破壞該怪獸。
   zh-CN: |-
-    "废品同步士"＋1只以上协调以外的怪兽
-    ①：将自己墓地1只"废品"怪兽除外，以对手场上的1只表侧表示怪兽为对象可以发动。该对手怪兽的攻击力下降相当于为发动此效果除外的怪兽的攻击力的数值。②：此卡攻击守备表示怪兽的伤害步骤开始时发动。将该怪兽破坏。
+    “废品同步士”＋1只以上协调以外的怪兽
+    ①：将自己墓地1只“废品”怪兽除外，以对手场上的1只表侧表示怪兽为对象可以发动。该对手怪兽的攻击力下降相当于为发动此效果除外的怪兽的攻击力的数值。②：此卡攻击守备表示怪兽的伤害步骤开始时发动。将该怪兽破坏。
 card_type: Monster
 monster_type_line: Warrior / Synchro / Effect
 attribute: WIND

@@ -14,8 +14,7 @@ name:
   zh-TW: 沉默魔術師 LV4
   zh-CN: 沉默魔术师 LV4
 text:
-  en: |-
-    Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 "Silent Magician LV8" from your hand or Deck.
+  en:
   de: |-
     Jedes Mal, wenn dein Gegner eine oder mehr Karten zieht, lege 1 Zauberzählmarke (max. 5) auf diese Karte. Diese Karte erhält 500 ATK für jede Zauberzählmarke auf dieser Karte. Während der Standby Phase deines nächsten Spielzugs, nachdem die 5. Zauberzählmarke auf diese Karte gelegt wurde: Du kannst diese offene Karte mit 5 Zauberzählmarken darauf auf den Friedhof legen; beschwöre 1 „Schweigsamer Magier LV8“ als Spezialbeschwörung von deiner Hand oder deinem Deck.
   es: |-
@@ -27,7 +26,9 @@ text:
   pt: |-
     Sempre que seu oponente comprar um ou mais cards, coloque 1 Marcador de Magia neste card (máx. 5). Este card ganha 500 de ATK para cada Marcador de Magia sobre ele. Durante a Fase de Apoio do seu próximo turno depois que o 5º Marcador de Magia for colocado neste card: você pode enviar este card com a face para cima com 5 Marcadores de Magia sobre ele para o Cemitério; Invoque por Invocação-Especial 1 "Mago Silencioso LV8" da sua mão ou Deck.
   ja: |-
-    ①：このカードがモンスターゾーンに存在する限り、相手がカードをドローする度に、このカードに魔力カウンターを１つ置く（最大５つまで）。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードに５つ目の魔力カウンターが置かれた次の自分ターンのスタンバイフェイズ時、魔力カウンターが５つ置かれているこのカードを墓地へ送って発動できる。手札・デッキから「サイレント・マジシャン ＬＶ８」１体を特殊召喚する。
+    ①：このカードがモンスターゾーンに存在する限り、相手がカードをドローする度に、このカードに魔力カウンターを１つ置く（最大５つまで）。
+    ②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。
+    ③：このカードに５つ目の魔力カウンターが置かれた次の自分ターンのスタンバイフェイズに、魔力カウンターが５つ置かれているこのカードを墓地へ送って発動できる。手札・デッキから「サイレント・マジシャン　ＬＶ８」１体を特殊召喚する。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대가 카드를 드로우할 때마다, 이 카드에 마력 카운터를 1개 놓는다(최대 5개까지). ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 500 올린다. ③: 이 카드에 5개째의 마력 카운터가 놓여진 다음 자신 턴의 스탠바이 페이즈에, 마력 카운터가 5개 놓여 있는 이 카드를 묘지로 보내고 발동할 수 있다. 패 / 덱에서 "사일런트 매지션 LV8" 1장을 특수 소환한다.
   zh-TW: |-
@@ -166,7 +167,7 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: SD16-JP005
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   - set_number: 15AY-JPC05
@@ -183,7 +184,7 @@ sets:
     - Common
   ko:
   - set_number: SD16-KR005
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   - set_number: MB01-KR014

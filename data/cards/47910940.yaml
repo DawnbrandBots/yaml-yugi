@@ -14,9 +14,7 @@ name:
   zh-TW: 海晶少女 魔泡大堡礁
   zh-CN: 海晶少女 魔泡大堡礁
 text:
-  en: |-
-    2+ WATER monsters
-    Once per turn, during each Standby Phase: You can banish 1 WATER monster from your GY or face-up field; draw 1 card. Each time a monster(s) is banished face-up: This card gains 600 ATK for each, until the end of this turn. You can send 1 WATER monster from your hand to the GY; Special Summon 1 of your banished "Marincess" monsters. You can only use this effect of "Marincess Great Bubble Reef" once per turn.
+  en:
   de: |-
     2+ WASSER Monster
     Einmal pro Spielzug, während jeder Standby Phase: Du kannst 1 WASSER Monster von deinem Friedhof oder offen von deiner Spielfeldseite verbannen; ziehe 1 Karte. Jedes Mal, wenn ein oder mehr Monster offen verbannt werden: Diese Karte erhält bis zum Ende dieses Spielzugs für jedes 600 ATK. Du kannst 1 WASSER Monster von deiner Hand auf den Friedhof legen; beschwöre 1 deiner verbannten „Marinzessin“-Monster als Spezialbeschwörung. Du kannst diesen Effekt von „Marinzessin Großes Blasenriff“ nur einmal pro Spielzug verwenden.
@@ -34,7 +32,10 @@ text:
     Uma vez por turno, durante cada Fase de Apoio: você pode banir 1 monstro de ÁGUA do seu Cemitério ou do campo com a face para cima; compre 1 card. Sempre que um ou mais monstros forem banidos com a face para cima: até o final deste turno, este card ganha 600 de ATK para cada um. Você pode enviar 1 monstro de ÁGUA da sua mão para o Cemitério; Invoque por Invocação-Especial 1 dos seus monstros "Marincesa" banidos. Você só pode usar este efeito de "Marincesa Grande Recife de Bolhas" uma vez por turno.
   ja: |-
     水属性モンスター２体以上
-    このカード名の③の効果は１ターンに１度しか使用できない。①：お互いのスタンバイフェイズに、自分の墓地及び自分フィールドの表側表示モンスターの中から、水属性モンスター１体を除外して発動できる。自分はデッキから１枚ドローする。②：モンスターが除外される度に発動する。このカードの攻撃力はターン終了時までその除外されたモンスターの数×６００アップする。③：手札から水属性モンスター１体を墓地へ送って発動できる。除外されている自分の「マリンセス」モンスター１体を選んで特殊召喚する。
+    このカード名の③の効果は１ターンに１度しか使用できない。
+    ①：自分・相手のスタンバイフェイズに、自分のフィールド（表側表示）・墓地から水属性モンスター１体を除外して発動できる。自分は１枚ドローする。
+    ②：モンスターが表側で除外される度に発動する。このカードの攻撃力はターン終了時までその除外されたモンスターの数×６００アップする。
+    ③：手札から水属性モンスター１体を墓地へ送って発動できる。自分の除外状態の「マリンセス」モンスター１体を特殊召喚する。
   ko: |-
     물 속성 몬스터 2장 이상
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 서로의 스탠바이 페이즈에, 자신 묘지 및 자신 필드의 앞면 표시 몬스터 중에서, 물 속성 몬스터 1장을 제외하고 발동할 수 있다. 자신은 덱에서 1장 드로우한다. ②: 몬스터가 제외될 때마다 발동한다. 이 카드의 공격력은 턴 종료시까지 그 제외된 몬스터의 수 × 600 올린다. ③: 패에서 물 속성 몬스터 1장을 묘지로 보내고 발동할 수 있다. 제외되어 있는 자신의 "마린세스" 몬스터 1장을 고르고 특수 소환한다.
@@ -43,7 +44,7 @@ text:
     此卡名的③效果１回合僅限使用１次。①：在雙方準備階段，可從我方墓地及我方場上的正面表示的怪獸中，將１隻水屬性怪獸除外發動。我方從牌組抽１張牌。②：每當怪獸被除外時發動。此卡的攻擊力在回合結束前依據被除外的怪獸數量×６００進行提升。③：可從手牌將１隻水屬性怪獸送至墓地發動。選擇我方１隻被除外的「海晶少女」怪獸特殊召喚。
   zh-CN: |-
     水属性怪兽2只以上
-    此卡名的③效果1回合仅可使用1次。①：在双方的准备阶段，从自己的墓地及自己场上的表侧表示怪兽中将1只水属性怪兽除外可以发动。自己从牌组抽1张。②：每次怪兽被除外都会发动。此卡的攻击力直至回合结束时为止，上升相当于该被除外怪兽数量×600的数值。③：从手牌将1只水属性怪兽送至墓地可以发动。挑选自己1只被除外的"海晶少女"怪兽特殊召唤。
+    此卡名的③效果1回合仅可使用1次。①：在双方的准备阶段，从自己的墓地及自己场上的表侧表示怪兽中将1只水属性怪兽除外可以发动。自己从牌组抽1张。②：每次怪兽被除外都会发动。此卡的攻击力直至回合结束时为止，上升相当于该被除外怪兽数量×600的数值。③：从手牌将1只水属性怪兽送至墓地可以发动。挑选自己1只被除外的“海晶少女”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Cyberse / Link / Effect
 attribute: WATER

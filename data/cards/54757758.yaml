@@ -14,9 +14,7 @@ name:
   zh-TW: 沼地的泥龍
   zh-CN: 沼地泥龙
 text:
-  en: |-
-    2 monsters with the same Attribute but different Types
-    Your opponent cannot target this card, or monsters on the field with the same Attribute as this card, with card effects. Once per turn (Quick Effect): You can declare 1 Attribute; this card becomes that Attribute until the end of this turn.
+  en:
   de: |-
     2 Monster mit derselben Eigenschaft, aber unterschiedlichen Typen
     Dein Gegner kann weder diese Karte noch Monster auf dem Spielfeld mit derselben Eigenschaft wie diese Karte als Ziel für Karteneffekte wählen. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Eigenschaft deklarieren; diese Karte wird bis zum Ende dieses Spielzugs zu jener Eigenschaft.
@@ -34,7 +32,8 @@ text:
     Seu oponente não pode escolher este card, ou monstros no campo com o mesmo Atributo que o deste card, como alvo de efeitos de card. Uma vez por turno (Efeito Rápido): você pode declarar 1 Atributo; até o final deste turno, este card se torna desse Atributo.
   ja: |-
     同じ属性で種族が異なるモンスター×２
-    ①：このカードがモンスターゾーンに存在する限り、相手はこのカード及びこのカードと同じ属性を持つフィールドのモンスターを効果の対象にできない。②：１ターンに１度、属性を１つ宣言して発動できる。このカードはターン終了時まで宣言した属性になる。この効果は相手ターンでも発動できる。
+    ①：このカードがモンスターゾーンに存在する限り、相手はこのカード及びこのカードと同じ属性を持つフィールドのモンスターを効果の対象にできない。
+    ②：自分・相手ターンに１度、属性を１つ宣言して発動できる。このカードはターン終了時まで宣言した属性になる。
   ko: |-
     같은 속성으로 종족이 다른 몬스터 × 2
     ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 이 카드 및 이 카드와 같은 속성을 가지는 필드의 몬스터를 효과의 대상으로 할 수 없다. ②: 1턴에 1번, 속성을 1개 선언하고 발동할 수 있다. 이 카드는 턴 종료시까지 선언한 속성이 된다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -42,9 +41,8 @@ text:
     屬性相同，種族不同的怪獸×２
     ①：只要此卡存在於怪獸區，對方就無法將此卡及場上的屬性與此卡相同的怪獸做為效果對象。②：１回合１次，可宣言１個屬性發動。此卡在回合結束前變為宣言的屬性。此效果在對方回合也可發動。
   zh-CN: |-
-    同属性而种族不同的怪兽×２
-    ①：只要此卡存在于怪兽区域，对手不可将此卡及场上拥有与此卡同属性的怪兽作为效果的对象。
-    ②：在每个自己・对手回合中１次，宣言１个属性可以发动。此卡直至回合结束时为止变为所宣言的属性。
+    同属性而种族不同的怪兽×2
+    ①：只要此卡存在于怪兽区域，对手不可将此卡及场上拥有与此卡同属性的怪兽作为效果的对象。②：1回合1次，宣言1个属性可以发动。此卡直至回合结束时为止变为宣言的属性。此效果在对手回合中也可以发动。
 card_type: Monster
 monster_type_line: Wyrm / Fusion / Effect
 attribute: WATER
