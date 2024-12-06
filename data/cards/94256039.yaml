@@ -14,7 +14,8 @@ name:
   zh-TW: 通天塔
   zh-CN: 通天塔
 text:
-  en:
+  en: |-
+    Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. If the 4th Spell Counter is placed on this card: Destroy this card, and if you do, the player who activated the Spell Card at that time takes 3000 damage.
   de: |-
     Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege eine Zauberzählmarke auf diese Karte. Wenn die 4. Zauberzählmarke auf diese Karte gelegt wird, zerstöre diese Karte und füge dem Spieler, der die Zauberkarte zu der Zeit aktiviert hat, 3000 Punkte Schaden zu.
   es: |-
@@ -26,8 +27,7 @@ text:
   pt: |-
     Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver. Se o 4º Marcador de Magia for colocado neste card: destrua este card e, se isso acontecer, o duelista que ativou o Card de Magia nesse momento sofre 3000 de dano.
   ja: |-
-    ①：このカードが魔法＆罠ゾーンに存在する限り、自分か相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。
-    ②：このカードに４つ目の魔力カウンターが置かれた場合に発動する。このカードを破壊し、その時に魔法カードを発動したプレイヤーに３０００ダメージを与える。
+    このカードがフィールド上に存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。このカードに４つ目の魔力カウンターが乗った時にこのカードを破壊し、その時に魔法カードを発動したプレイヤーは３０００ポイントダメージを受ける。
   ko: |-
     자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 얹는다. 4개째 마력 카운터가 얹혔을 때 이 카드를 파괴하고, 그 때 마법 카드를 발동한 플레이어는 3000 포인트 데미지를 받는다.
   zh-TW: |-
@@ -127,7 +127,7 @@ sets:
     rarities:
     - Common
   - set_number: SD16-JP037
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
   ko:
@@ -140,7 +140,7 @@ sets:
     rarities:
     - Common
   - set_number: SD16-KR037
-    set_name: 'Structure Deck: Lord of the Magician'
+    set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
 limit_regulation:

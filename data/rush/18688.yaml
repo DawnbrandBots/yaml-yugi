@@ -12,6 +12,20 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    This card cannot be Special Summoned.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードは特殊召喚できない。
+  ko: |-
+    이 카드는 특수 소환할 수 없다.
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     None
@@ -29,14 +43,17 @@ requirement:
 effect_types:
 - Continuous
 effect:
-  en:
+  en: |-
+    Neither player can Special Summon monsters.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
+  ja: |-
+    お互いはモンスターを特殊召喚できない。
+  ko: |-
+    양쪽 플레이어는 몬스터를 특수 소환할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
