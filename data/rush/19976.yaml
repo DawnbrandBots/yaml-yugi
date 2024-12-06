@@ -12,6 +12,20 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    If a player has a Trap Card in their Graveyard, you can Special Summon this card from your hand face-up to your field.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分または相手の墓地に罠カードがある場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko: |-
+    자신 또는 상대의 묘지에 함정 카드가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     Send this face-up card from your field to the Graveyard.
@@ -27,14 +41,17 @@ requirement:
   zh-TW:
   zh-CN:
 effect:
-  en:
+  en: |-
+    Special Summon 1 "Jinzo" from your Graveyard face-up to your field. Then, you can look at all face-down cards in your opponent's Spell & Trap Zone. If you do, destroy all Trap Cards among them.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
+  ja: |-
+    自分の墓地の「人造人間－サイコ・ショッカー」１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手の魔法＆罠ゾーンの裏側表示のカードを全て確認できる。確認した場合、さらにその中の罠カードを全て破壊する。
+  ko: |-
+    자신 묘지의 "인조인간 －사이코 쇼커－" 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 상대의 마법 & 함정 존의 뒷면 표시의 카드를 전부 확인할 수 있다. 확인했을 경우, 추가로 그 중의 함정 카드를 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster

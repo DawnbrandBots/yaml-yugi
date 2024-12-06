@@ -12,6 +12,19 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    You can Summon this card by Contact Fusion.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードはコンタクトフュージョンできる。
+  ko:
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     None
@@ -28,13 +41,15 @@ requirement:
 effect_types:
 - Continuous
 effect:
-  en:
+  en: |-
+    This card gains ATK equal to [the number of monsters on your opponent's field] x 1000. If you have a face-down monster on your field, this Attack Position card cannot be destroyed by battle or card effects.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカードの攻撃力は、［相手フィールドのモンスターの数］×１０００アップする。自分フィールドに裏側表示モンスターがいる場合、攻撃表示のこのカードは戦闘と効果では破壊されない。
   ko:
   zh-TW:
   zh-CN:

@@ -12,6 +12,20 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    If you have "Hybridrive Screwdriver" face-up on your field, you can Normal Summon this card without Tributing.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分フィールドに表側表示の「ハイブリッドライブ・スクリュードライバー」がいる場合、このカードはリリースなしで召喚できる。
+  ko: |-
+    자신 필드에 앞면 표시의 "하이브리드라이브 스크류드라이버"가 있을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다.
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     None
@@ -29,14 +43,17 @@ requirement:
 effect_types:
 - Continuous
 effect:
-  en:
+  en: |-
+    This card inflicts piercing battle damage. If you have a face-up Dragon Type monster on your field, face-up Dragon Type and Machine Type monsters on your field cannot be destroyed by your opponent's card effects.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
+  ja: |-
+    このカードの攻撃は貫通する。自分フィールドに表側表示モンスター（ドラゴン族）がいる場合、自分フィールドの表側表示モンスター（ドラゴン族・機械族）は相手の効果では破壊されない。
+  ko: |-
+    이 카드의 공격은 관통한다. 자신 필드에 앞면 표시 몬스터(드래곤족)가 있을 경우, 자신 필드의 앞면 표시 몬스터(드래곤족・기계족)는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster

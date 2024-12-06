@@ -12,6 +12,20 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    You can Special Summon this card from your hand face-up to your field by revealing 1 other Level 6 monster with 500 DEF in your hand to your opponent.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカード以外の手札のモンスター（レベル６／守備力５００）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
+  ko: |-
+    이 카드 이외의 패의 몬스터(레벨 6 / 수비력 500) 1장을 상대에게 보여주고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     Send the top card of your Deck to the Graveyard.
@@ -27,14 +41,17 @@ requirement:
   zh-TW:
   zh-CN:
 effect:
-  en:
+  en: |-
+    Gain 500 LP.
   de:
   es:
   fr:
   it:
   pt:
-  ja:
-  ko:
+  ja: |-
+    自分は５００ＬＰ回復する。
+  ko: |-
+    자신은 500 LP 회복한다.
   zh-TW:
   zh-CN:
 card_type: Monster

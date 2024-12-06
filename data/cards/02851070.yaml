@@ -14,7 +14,8 @@ name:
   zh-TW: 魔鏡導士 限界反射者
   zh-CN: 魔镜导士反射弹回者
 text:
-  en:
+  en: |-
+    Before damage calculation, if this card is being attacked by an opponent's monster, and was in Attack Position at the start of the Damage Step: Inflict damage to your opponent equal to the attacking monster's ATK. If you do, after damage calculation: Destroy this card.
   de: |-
     Vor der Schadensberechnung, falls diese Karte von einem Monster eines Gegners angegriffen wird und am Beginn des Damage Steps in Angriffsposition lag: Füge deinem Gegner Schaden in Höhe der ATK des angreifenden Monsters zu. Falls du dies tust, nach der Schadensberechnung: Zerstöre diese Karte.
   es: |-
@@ -26,12 +27,11 @@ text:
   pt: |-
     Antes do cálculo de dano, se este card estiver sendo atacado por um monstro do oponente e estava em Posição de Ataque no começo da Etapa de Dano: cause dano ao seu oponente igual ao ATK do monstro atacante. Se isso acontecer, depois do cálculo de dano: destrua este card.
   ja: |-
-    ①：攻撃表示のこのカードが攻撃対象に選択された場合、そのダメージ計算前に発動する。攻撃モンスターの攻撃力分のダメージを相手に与える。
-    ②：このカードの①の効果で相手にダメージを与えた場合、そのダメージ計算後に発動する。このカードを破壊する。
+    フィールド上に表側攻撃表示で存在するこのカードが相手モンスターに攻撃された場合、そのダメージ計算前に攻撃モンスターの攻撃力分のダメージを相手ライフに与え、そのダメージ計算後にこのカードを破壊する。
   ko: |-
     필드 위에 앞면 공격 표시로 존재하는 이 카드가 상대 몬스터에게 공격받았을 경우, 그 데미지 계산 전에 공격 몬스터의 공격력만큼의 데미지를 상대 라이프에 주어, 그 데미지 계산 후에 이 카드를 파괴한다.
   zh-TW: |-
-    在攻擊表示的此卡被對方怪獸攻擊的狀況下，在該傷害計算前，依據攻擊怪獸的攻擊力給予對方LP傷害，在該傷害計算後破壞此卡。
+    场上以表侧攻击表示存在的此卡受到对手怪兽攻击的场合，将在该伤害计算之前给予对手生命相当于该攻击力值的伤害，此卡于伤害计算后破坏。
   zh-CN: |-
     ①：在攻击表示的此卡被选择为攻击对象的情况下，在伤害计算前发动。给对手等同于攻击怪兽的攻击力数值的伤害。②：在用此卡的①效果给了对手伤害的情况下，在该伤害计算后发动。将此卡破坏。
 card_type: Monster

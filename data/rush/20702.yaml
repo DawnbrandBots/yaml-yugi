@@ -12,6 +12,18 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    Can't be Special Summoned. Needs 3 Dragon Tributes to Normal Summon (can't be Normal Set).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
     None
@@ -27,7 +39,8 @@ requirement:
 effect_types:
 - Continuous
 effect:
-  en:
+  en: |-
+    If this card attacks your opponent directly and reduces their LP to 0, you win the Match.
   de:
   es:
   fr:
