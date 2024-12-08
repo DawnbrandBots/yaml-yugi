@@ -31,9 +31,7 @@ def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
     konami_id = int_or_none(wikitext.get("database_id"))
     document = {"konami_id": konami_id, "name": transform_names(wikitext)}
     if "condition" in wikitext:
-        document["summoning_condition"] = transform_multilanguage(
-            wikitext, "condition"
-        )
+        document["summoning_condition"] = transform_multilanguage(wikitext, "condition")
     if "requirement" in wikitext:  # everything except Normal Monsters
         document["requirement"] = transform_multilanguage(wikitext, "requirement")
         if wikitext.get("effect_types"):
