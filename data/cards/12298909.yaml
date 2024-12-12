@@ -15,7 +15,7 @@ name:
   zh-CN: 物质龙
 text:
   en: |-
-    Any effect that would inflict damage to a player increases their Life Points by the same amount, instead. During either player's turn, when a card or effect is activated that would destroy a monster(s) on the field: You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy it.
+    Any effect that would inflict damage to a player increases their LP by the same amount, instead. When a card or effect is activated that would destroy a monster(s) on the field (Quick Effect): You can send 1 card from your hand to the GY; negate the activation, and if you do, destroy it.
   de: |-
     Effekte die einem Spieler Schaden zufügen würden, erhöhen stattdessen seine Life Points um die selbe Menge. Wenn der Effekt einer Karte aktiviert wird, der ein Monster auf dem Spielfeld zerstört, kannst du eien Karte von deiner Hand auf den Friedhof legen, um seine Aktivierung zu annullieren und die Karte zu zerstören.
   es: |-
@@ -42,7 +42,7 @@ atk: 2400
 def: 2000
 images:
 - index: 1
-  image: PrimeMaterialDragon-PGLD-EN-GUR-1E.png
+  image: PrimeMaterialDragon-SBC2-NA-C-1E.png
 sets:
   en:
   - set_number: PTDN-EN087
@@ -147,6 +147,6 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 88544
 master_duel_rarity: SR

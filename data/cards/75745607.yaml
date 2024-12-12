@@ -15,7 +15,7 @@ name:
   zh-CN: 火之迦具土
 text:
   en: |-
-    This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. If this card inflicts Battle Damage to your opponent, they discard all cards in their hand during the next Draw Phase, before they draw.
+    Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. If this card inflicts battle damage to your opponent: They discard their entire hand during the Draw Phase of the next turn, before the turn player draws.
   de: |-
     Diese Karte kann nicht als Spezialbeschwörung beschworen werden. Diese Karte kehrt in der End Phase des Spielzugs, in dem sie als Normalbeschwörung beschworen oder aufgedeckt wurde, auf die Hand ihres Besitzers zurück. Falls diese Karte deinem Gegner Kampfschaden zufügt, wirft er während seiner nächsten Draw Phase alle Karten von seiner Hand ab, bevor er zieht.
   es: |-
@@ -36,7 +36,7 @@ text:
   zh-CN: |-
     这张卡不能特殊召唤。召唤·反转的回合的结束阶段时回到持有者手卡。此外，这张卡给与对方基本分战斗伤害时发动。下个回合的抽卡阶段的抽卡前对方把手卡全部丢弃。
 card_type: Monster
-monster_type_line: Pyro / Spirit
+monster_type_line: Pyro / Spirit / Effect
 attribute: FIRE
 level: 8
 atk: 2800
@@ -46,7 +46,7 @@ images:
   image: HinoKaguTsuchi-BE02-JP-UR.jpg
   illustration: HinoKaguTsuchi-MADU-JP-VG-artwork.png
 - index: '1.1'
-  image: HinoKaguTsuchi-RP02-EN-SR-UE.png
+  image: HinoKaguTsuchi-SBC2-NA-C-1E.png
   illustration: HinoKaguTsuchi-MADU-EN-VG-artwork.png
 sets:
   en:
@@ -133,6 +133,6 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 8256
 master_duel_rarity: SR

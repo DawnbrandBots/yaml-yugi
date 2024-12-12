@@ -15,7 +15,7 @@ name:
   zh-CN: X・E・N・O
 text:
   en: |-
-    FLIP: Take control of 1 monster on your opponent's side of the field until the end of the turn that this card's effect is activated. When the controlled monster attacks, it can attack your opponent's Life Points directly.
+    FLIP: Target 1 monster your opponent controls; gain control of it (until the End Phase), and if you do, it can attack your opponent directly this turn.
   de: |-
     FLIPP: Übernimm die Kontrolle über 1 Monster auf der Spielfeldseite deines Gegners bis zum Ende des Spielzugs, in dem der Effekt dieser Karte aktiviert wurde. Wenn das kontrollierte Monster angreift, kann es die Life Points deines Gegners direkt angreifen.
   es: |-
@@ -33,14 +33,14 @@ text:
   zh-CN: |-
     反转：选择对方场上存在的1只怪兽，直到结束阶段时得到控制权。这个效果得到控制权的怪兽在这个回合可以直接攻击对方玩家。
 card_type: Monster
-monster_type_line: Fiend / Effect
+monster_type_line: Fiend / Flip / Effect
 attribute: WATER
 level: 2
 atk: 200
 def: 100
 images:
 - index: 1
-  image: JowlsofDarkDemise-DB2-EN-C-UE.png
+  image: JowlsofDarkDemise-SBC2-NA-C-1E.png
 sets:
   en:
   - set_number: DB2-EN212
@@ -103,6 +103,6 @@ sets:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
-  speed: Not yet released
+  speed: Unlimited
 yugipedia_page_id: 14298
 master_duel_rarity: R
