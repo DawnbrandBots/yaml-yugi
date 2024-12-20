@@ -27,12 +27,12 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card "Orcust" ou "Legado Mundial" do seu Deck para o Cemitério e, depois, se houver 2 ou mais outros cards na coluna deste card, considere este card como um Regulador neste turno. Se você não controlar nenhum outro monstro: você pode Invocar por Invocação-Especial 1 "Ficha de Legado Mundial" (Máquina/TREVAS/Nível 1/ATK 0/DEF 0) no campo dos dois duelistas em Posição de Defesa. Você só pode usar cada efeito de "Girsu, o Mekk-Cavaleiro Orcust" uma vez por turno.
   ja: |-
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「オルフェゴール」カードまたは「星遺物」カード１枚を墓地へ送る。このカードと同じ縦列に他のカードが２枚以上存在する場合、さらにこのターン、このカードをチューナーとして扱う。②：自分フィールドに他のモンスターが存在しない場合に発動できる。お互いのフィールドに「星遺物トークン」（機械族・闇・星１・攻／守０）を１体ずつ守備表示で特殊召喚する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「オルフェゴール」カードか「星遺物」カード１枚を墓地へ送る。このカードと同じ縦列に他のカードが２枚以上存在する場合、さらにこのターン、このカードをチューナーとして扱う。②：自分フィールドに他のモンスターが存在しない場合に発動できる。お互いのフィールドに「星遺物トークン」（機械族・闇・星１・攻／守０）を１体ずつ守備表示で特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "오르페골" 카드 또는 "성유물" 카드 1장을 묘지로 보낸다. 이 카드와 같은 세로열에 다른 카드가 2장 이상 존재할 경우, 추가로 이 턴에, 이 카드를 튜너로 취급한다. ②: 자신 필드에 다른 몬스터가 존재하지 않을 경우에 발동할 수 있다. 서로의 필드에 "성유물 토큰"(기계족 / 어둠 / 레벨 1 / 공 0 / 수 0)을 1장씩 수비 표시로 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张"自鸣天琴"卡或"星遗物"卡送至墓地。有2张以上的卡与此卡存在于同一纵列的情况下，进而在此回合将此卡视为协调。②：自己场上没有其他怪兽存在的情况下可以发动。将各1只"星遗物衍生物"（机械族・暗・星1・攻／守0）以守备表示特殊召唤至双方场上。
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张“自鸣天琴”卡或“星遗物”卡送至墓地。有2张以上的卡与此卡存在于同一纵列的情况下，进而在此回合将此卡视为协调。②：自己场上没有其他怪兽存在的情况下可以发动。将各1只“星遗物衍生物”（机械族・暗・星1・攻/守0）以守备表示特殊召唤至双方场上。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -146,6 +146,13 @@ sets:
     set_name: Eternity Code
     rarities:
     - Rare
+  - set_number: QCTB-JP042
+    set_name: Quarter Century Trinity Box
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ETCO-KR024
     set_name: Eternity Code

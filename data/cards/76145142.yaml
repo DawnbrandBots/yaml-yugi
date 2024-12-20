@@ -34,7 +34,7 @@ text:
     Este card linkado não pode ser destruído por efeitos de card. Você pode escolher 2 dos seus monstros Máquinas banidos; embaralhe-os no Deck e, depois, você pode enviar para o Cemitério 1 monstro linkado que seu oponente controla. Este card não pode atacar no turno em que você ativar este efeito. Você só pode usar este efeito de "Longirsu, o Orcust Orquestrador" uma vez por turno.
   ja: |-
     「オルフェゴール」モンスターを含む効果モンスター２体以上
-    このカード名の②の効果は１ターンに１度しか使用できない。①：リンク状態のこのカードは効果では破壊されない。②：除外されている自分の機械族モンスター２体を対象として発動できる。そのモンスターをデッキに戻す。その後、リンク状態の相手モンスター１体を選んで墓地へ送る事ができる。この効果を発動するターン、このカードは攻撃できない。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：リンク状態のこのカードは効果では破壊されない。②：自分の除外状態の機械族モンスター２体を対象として発動できる（この効果を発動するターン、このカードは攻撃できない）。そのモンスターをデッキに戻す。その後、リンク状態の相手モンスター１体を墓地へ送る事ができる。
   ko: |-
     "오르페골" 몬스터를 포함하는 효과 몬스터 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 링크 상태의 이 카드는 효과로는 파괴되지 않는다. ②: 제외되어 있는 자신의 기계족 몬스터 2장을 대상으로 하고 발동할 수 있다. 그 몬스터를 덱으로 되돌린다. 그 후, 링크 상태의 상대 몬스터 1장을 골라 묘지로 보낼 수 있다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다.
@@ -89,6 +89,12 @@ sets:
     - Super Rare
     - Secret Rare
     - 20th Secret Rare
+  - set_number: QCTB-JP048
+    set_name: Quarter Century Trinity Box
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: SOFU-KR044
     set_name: Soul Fusion

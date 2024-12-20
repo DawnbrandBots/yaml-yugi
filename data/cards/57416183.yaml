@@ -27,12 +27,12 @@ text:
   pt: |-
     Escolha 1 monstro Dragão que você controla e 1 card que seu oponente controla ou no Cemitério dele; devolva-os para a mão. Você pode banir este card do seu Cemitério; Invoque por Invocação-Especial 1 monstro "Dragãozela" da sua mão ou do Cemitério em Posição de Defesa, mas devolva-o para a mão durante a Fase Final. Você só pode usar 1 efeito de "Arrumação Dragãozela" por turno e apenas uma vez por turno.
   ja: |-
-    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドのドラゴン族モンスター１体と相手のフィールド・墓地のカード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。②：墓地のこのカードを除外して発動できる。自分の手札・墓地から「ドラゴンメイド」モンスター１体を選んで守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。
+    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分フィールドのドラゴン族モンスター１体と相手のフィールド・墓地のカード１枚を対象として発動できる。そのカードを手札に戻す。②：墓地のこのカードを除外して発動できる。自分の手札・墓地から「ドラゴンメイド」モンスター１体を守備表示で特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに手札に戻る。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신 필드의 드래곤족 몬스터 1장과 상대의 필드 / 묘지의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 주인의 패로 되돌린다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. 자신의 패 / 묘지에서 "드래곤메이드" 몬스터 1장을 고르고 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 주인의 패로 되돌아간다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合1次，仅可使用其中1个。①：以自己场上的1只龙族怪兽和对手场上・墓地的1张卡为对象可以发动。将该卡放回持有者的手牌。②：将墓地的此卡除外可以发动。从自己的手牌・墓地挑选1只"龙女仆"怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽于结束阶段放回持有者的手牌。
+    此卡名的①②效果１回合１次，仅可使用其中１个。①：以自己场上的１只龙族怪兽和对手场上・墓地的１张卡为对象可以发动。将该卡放回持有者的手牌。②：将墓地的此卡除外可以发动。从自己的手牌・墓地挑选１只“龙女仆”怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽于结束阶段放回持有者的手牌。
 card_type: Trap
 property: Normal
 series:
@@ -101,6 +101,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: QCTB-JP018
+    set_name: Quarter Century Trinity Box
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ROTD-KR077
     set_name: Rise of the Duelist

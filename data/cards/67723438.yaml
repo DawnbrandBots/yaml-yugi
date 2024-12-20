@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque por Invocação-Especial 1 monstro Psíquico de Nível 3 ou menos da sua mão ou do Deck, mas bana-o durante a Fase Final deste turno.
   ja: |-
-    ①：手札・デッキからレベル３以下のサイキック族モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターは、このターンのエンドフェイズに除外される。
+    ①：手札・デッキからレベル３以下のサイキック族モンスター１体を特殊召喚する。この効果で特殊召喚したモンスターはこのターンのエンドフェイズに除外される。
   ko: |-
     ①: 패 / 덱에서 레벨 3 이하의 사이킥족 몬스터 1장을 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 이 턴의 엔드 페이즈에 제외된다.
   zh-TW:
@@ -252,6 +252,10 @@ sets:
     set_name: 'Deck Build Pack: Grand Creators'
     rarities:
     - Common
+    - Normal Parallel Rare
+  - set_number: QCTB-JP059
+    set_name: Quarter Century Trinity Box
+    rarities:
     - Normal Parallel Rare
   ko:
   - set_number: TDGS-KR053

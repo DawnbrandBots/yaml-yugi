@@ -27,12 +27,12 @@ text:
   pt: |-
     Não pode ser destruído em batalha com um Monstro Link. Você pode banir este card do seu Cemitério e, depois, escolher 1 monstro com a face para cima no campo; pelo resto deste turno você não pode Invocar monstros por Invocação-Especial, exceto monstros de TREVAS e, além disso, envie 1 monstro Máquina de TREVAS do seu Deck para o Cemitério, exceto "Cavaleira do Pesadelo Orcust" e, se isso acontecer, até o final deste turno, o monstro alvo ganha ATK igual ao Nível do monstro enviado para o Cemitério x 100. Você só pode usar este efeito de "Cavaleira do Pesadelo Orcust" uma vez por turno.
   ja: |-
-    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードはリンクモンスターとの戦闘では破壊されない。②：墓地のこのカードを除外し、フィールドの表側表示モンスター１体を対象として発動できる。デッキから「オルフェゴール・トロイメア」以外の機械族・闇属性モンスター１体を墓地へ送る。対象のモンスターの攻撃力はターン終了時まで、墓地へ送ったモンスターのレベル×１００アップする。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：このカードはLモンスターとの戦闘では破壊されない。②：墓地のこのカードを除外し、フィールドの表側表示モンスター１体を対象として発動できる。デッキから「オルフェゴール・トロイメア」以外の機械族・闇属性モンスター１体を墓地へ送り、対象のモンスターの攻撃力をターン終了時まで、墓地へ送ったモンスターのレベル×１００アップする。この効果の発動後、ターン終了時まで自分は闇属性モンスターしか特殊召喚できない。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 링크 몬스터와의 전투로는 파괴되지 않는다. ②: 묘지의 이 카드를 제외하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 덱에서 "오르페골 트로이메어" 이외의 기계족 / 어둠 속성 몬스터 1장을 묘지로 보낸다. 대상 몬스터의 공격력은 턴 종료시까지, 묘지로 보낸 몬스터의 레벨 × 100 올린다. 이 효과의 발동 후, 턴 종료시까지 자신은 어둠 속성 몬스터밖에 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    此卡名的②效果1回合仅可使用1次。①：此卡不会因与连接怪兽的战斗被破坏。②：将墓地的此卡除外，以场上1只表侧表示怪兽为对象可以发动。从牌组将1只"自鸣天琴・梦魇曲"以外的机械族・暗属性怪兽送至墓地。对象怪兽的攻击力直至回合结束时为止，上升相当于送至墓地的怪兽的等级×100的数值。此效果发动后，直至回合结束时为止自己仅可特殊召唤暗属性怪兽。
+    此卡名的②效果1回合仅可使用1次。①：此卡不会因与连接怪兽的战斗被破坏。②：将墓地的此卡除外，以场上1只表侧表示怪兽为对象可以发动。从牌组将1只“自鸣天琴・梦魇曲”以外的机械族・暗属性怪兽送至墓地。对象怪兽的攻击力直至回合结束时为止，上升相当于送至墓地的怪兽的等级×100的数值。此效果发动后，直至回合结束时为止自己仅可特殊召唤暗属性怪兽。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -96,6 +96,13 @@ sets:
     set_name: Savage Strike
     rarities:
     - Rare
+  - set_number: QCTB-JP041
+    set_name: Quarter Century Trinity Box
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SAST-KR021
     set_name: Savage Strike

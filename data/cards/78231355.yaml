@@ -27,12 +27,12 @@ text:
   pt: |-
     Invoque por Invocação-Especial 1 monstro "Dragãozela" da sua mão ou do Cemitério em Posição de Defesa e, depois, você pode enviar 1 monstro "Dragãozela" com o mesmo Atributo, mas com um Nível diferente, do seu Deck para o Cemitério. Você só pode ativar 1 "Hospitalidade Dragãozela" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・墓地から「ドラゴンメイド」モンスター１体を選んで守備表示で特殊召喚する。その後、特殊召喚したモンスターと同じ属性でレベルが異なる「ドラゴンメイド」モンスター１体をデッキから墓地へ送る事ができる。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・墓地から「ドラゴンメイド」モンスター１体を守備表示で特殊召喚する。その後、この効果で特殊召喚したモンスターとはレベルが異なり属性が同じ「ドラゴンメイド」モンスター１体をデッキから墓地へ送る事ができる。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패 / 묘지에서 "드래곤메이드" 몬스터 1장을 고르고 수비 표시로 특수 소환한다. 그 후, 특수 소환한 몬스터와 같은 속성으로 레벨이 다른 "드래곤메이드" 몬스터 1장을 덱에서 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡1回合仅可发动1张。①：从自己的手牌・墓地挑选1只"龙女仆"怪兽以守备表示特殊召唤。然后，可将1只与特殊召唤的怪兽属性相同、等级不同的"龙女仆"怪兽从牌组送至墓地。
+    此卡名的卡1回合仅可发动1张。①：从自己的手牌・墓地挑选1只“龙女仆”怪兽以守备表示特殊召唤。然后，可将1只与特殊召唤的怪兽属性相同、等级不同的“龙女仆”怪兽从牌组送至墓地。
 card_type: Spell
 property: Normal
 series:
@@ -153,6 +153,10 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  - set_number: QCTB-JP014
+    set_name: Quarter Century Trinity Box
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: DBMF-KR023
     set_name: 'Deck Build Pack: Mystic Fighters'
