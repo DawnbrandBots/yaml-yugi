@@ -1,7 +1,7 @@
 konami_id: 20764
 password: 87126721
 name:
-  en: Mulcharmy Nyalus
+  en: Mulcharmy Meowls
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     If you control no cards (Quick Effect): You can discard this card; apply these effects this turn.
-    ● Each time your opponent Special Summons a monster(s) from the GY and/or banishment, immediately draw 1 card.
+    ● Each time your opponent Special Summons a monster(s) from any GY(s) or banishment, immediately draw 1 card.
     ● Once, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6.
     You can only activate 1 other "Mulcharmy" monster effect, the turn you activate this effect.
   de:
@@ -42,8 +42,38 @@ series:
 - Mulcharmy
 images:
 - index: 1
-  image: MulcharmyNyalus-SUDA-JP-R.png
+  image: MulcharmyMeowls-SUDA-JP-R.png
 sets:
+  en:
+  - set_number: SUDA-EN025
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: SUDA-DE025
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: SUDA-FR025
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: SUDA-IT025
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: SUDA-PT025
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: SUDA-JP025
     set_name: Supreme Darkness
@@ -57,9 +87,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1089572

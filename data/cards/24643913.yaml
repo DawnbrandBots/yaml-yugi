@@ -1,7 +1,7 @@
 konami_id: 20762
 password: 24643913
 name:
-  en: Liberator Etho
+  en: Liberator Eto
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 叛革者 哀陀
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by paying half your LP while your opponent has a Monster Card on their field or GY with an effect that activates in the hand or Monster Zone in response to a card or effect activation. You can only Special Summon "Liberator Etho" once per turn this way. This card's Special Summon cannot be negated. While this card is in the Monster Zone, it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon, also it is unaffected by monster effects activated on your opponent's field during your turn only.
+    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by paying half your LP, while your opponent has a Monster Card in their field or GY with an effect that activates in the hand or Monster Zone in response to a card or effect activation. You can only Special Summon "Liberator Eto" once per turn this way. This card's Special Summon cannot be negated. This face-up card cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon, also during your turn only, it is unaffected by monster effects activated on your opponent's field.
   de:
   es:
   fr:
@@ -37,8 +37,38 @@ atk: 4000
 def: 0
 images:
 - index: 1
-  image: LiberatorEtho-SUDA-JP-UR.png
+  image: LiberatorEto-SUDA-JP-UR.png
 sets:
+  en:
+  - set_number: SUDA-EN023
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: SUDA-DE023
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: SUDA-FR023
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: SUDA-IT023
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: SUDA-PT023
+    set_name: Supreme Darkness
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: SUDA-JP023
     set_name: Supreme Darkness
@@ -68,9 +98,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1089913

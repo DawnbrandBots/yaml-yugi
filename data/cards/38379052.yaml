@@ -1,7 +1,7 @@
 konami_id: 20810
 password: 38379052
 name:
-  en: Argostars - Eteo the Dragon Slayer
+  en: Argostars - Slayer Eteo
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 阿尔戈☆群星－屠龙的厄忒欧
 text:
   en: |-
-    Warrior monsters you control cannot be destroyed by card effects. Once per turn, when your opponent activates a card or effect: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then, if you have any banished "Argostars" monster(s), you can return 1 card on the field to the hand.
-    ● Once per turn (Quick Effect): You can place this card in your Spell & Trap Zone face-up.
+    While this card is face-up in the Spell & Trap Zone, Warrior monsters you control cannot be destroyed by card effects. Once per turn, when your opponent activates a card or effect: You can Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then if you have a banished "Argostars" monster, you can return 1 card on the field to the hand.
+    ● Once per turn (Quick Effect): You can place this card face-up in your Spell & Trap Zone.
   de:
   es:
   fr:
@@ -36,8 +36,28 @@ series:
 - Trap Monster
 images:
 - index: 1
-  image: ArgostarsEteotheDragonSlayer-SUDA-JP-C.png
+  image: ArgostarsSlayerEteo-SUDA-JP-C.png
 sets:
+  en:
+  - set_number: SUDA-EN073
+    set_name: Supreme Darkness
+    rarities:
+  de:
+  - set_number: SUDA-DE073
+    set_name: Supreme Darkness
+    rarities:
+  fr:
+  - set_number: SUDA-FR073
+    set_name: Supreme Darkness
+    rarities:
+  it:
+  - set_number: SUDA-IT073
+    set_name: Supreme Darkness
+    rarities:
+  pt:
+  - set_number: SUDA-PT073
+    set_name: Supreme Darkness
+    rarities:
   ja:
   - set_number: SUDA-JP073
     set_name: Supreme Darkness
@@ -51,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1079179
