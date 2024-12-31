@@ -34,14 +34,14 @@ text:
     Deve ser Invocado por Invocação-Sincro e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Na primeira vez que cada card que você controla seria destruído a cada turno, em batalha ou por um efeito de card, ele não é destruído. Uma vez por turno, durante o turno de qualquer duelista, quando seu oponente ativar um efeito de monstro; você pode negar esse efeito e, se isso acontecer, destrua 1 card no campo. Você pode banir este card do seu Cemitério e, depois, escolher 1 monstro "Poeira Estelar" de Nível 8 ou menos no seu Cemitério; Invoque-o por Invocação-Especial.
   ja: |-
     Ｓモンスターのチューナー１体＋チューナー以外のＳモンスター２体以上
-    このカードはＳ召喚でしか特殊召喚できない。①：自分フィールドのカードはそれぞれ１ターンに１度だけ戦闘・効果では破壊されない。②：１ターンに１度、相手がモンスターの効果を発動した時に発動できる。その効果を無効にし、フィールドのカード１枚を選んで破壊する。③：墓地のこのカードを除外し、自分の墓地のレベル８以下の「スターダスト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
+    このカードはＳ召喚でしか特殊召喚できない。①：自分フィールドのカードはそれぞれ１ターンに１度だけ戦闘・効果では破壊されない。②：１ターンに１度、相手がモンスターの効果を発動した時に発動できる。その効果を無効にし、フィールドのカード１枚を破壊する。③：墓地のこのカードを除外し、自分の墓地のレベル８以下の「スターダスト」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。
   ko: |-
     싱크로 몬스터의 튜너 ＋ 튜너 이외의 싱크로 몬스터 2장 이상
     이 카드는 싱크로 소환으로밖에 특수 소환할 수 없다. ①: 자신 필드의 카드는 각각 1턴에 1번만 전투 / 효과로는 파괴되지 않는다. ②: 1턴에 1번, 상대가 몬스터의 효과를 발동했을 때에 발동할 수 있다. 그 효과를 무효로 하고, 필드의 카드 1장을 골라 파괴한다. ③: 묘지의 이 카드를 제외하고, 자신 묘지의 레벨 8 이하의 "스타더스트" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    同步怪兽的协调＋2只以上协调以外的同步怪兽
-    此卡仅可以同步召唤方式特殊召唤。①：自己场上的每张卡1回合仅1次，不会因战斗・效果被破坏。②：1回合1次，对手发动怪兽的效果时可以发动。将该效果无效，挑选场上的1张卡破坏。③：将墓地的此卡除外，以自己墓地的1只等级8以下的"星尘"怪兽为对象可以发动。将该怪兽特殊召唤。
+    同步怪兽的协调＋２只以上协调以外的同步怪兽
+    此卡仅可以同步召唤方式特殊召唤。①：自己场上的每张卡１回合仅１次，不会因战斗・效果被破坏。②：１回合１次，对手发动怪兽的效果时可以发动。将该效果无效，挑选场上的１张卡破坏。③：将墓地的此卡除外，以自己墓地的１只等级８以下的“星尘”怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: LIGHT
@@ -106,6 +106,10 @@ sets:
     set_name: 20th Legendary Collection
     rarities:
     - Secret Rare
+  - set_number: 24TP-JP507
+    set_name: Tournament Pack 2024 Vol.5
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SHVI-KR082
     set_name: Shining Victories
