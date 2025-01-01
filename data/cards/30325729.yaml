@@ -12,7 +12,7 @@ name:
   ko: 사신 부메랑
   ko_rr:
   zh-TW: 死神迴力鏢
-  zh-CN: 死神回力镖
+  zh-CN: 死神回旋镖
 text:
   en: |-
     A boomerang with brains that will pursue a target to the ends of the earth.
@@ -32,7 +32,7 @@ text:
     겨냥한 표적을 노려 어디라도 날아갈 수 있는 의지를 가진 부메랑.
   zh-TW:
   zh-CN: |-
-    确定目标后，无论敌人逃到哪里都会追脑瓜，带有意识的回旋镖。
+    具有意志，坚持对着所瞄准目标飞去的回旋镖。
 card_type: Monster
 monster_type_line: Fiend / Normal
 attribute: FIRE
@@ -120,6 +120,11 @@ sets:
   ko:
   - set_number: PSV-K099
     set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 24SP-SC505
+    set_name: Entry Pack 2024 Vol.5
     rarities:
     - Common
 limit_regulation:
