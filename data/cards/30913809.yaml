@@ -1,7 +1,7 @@
 konami_id: 20790
 password: 30913809
 name:
-  en: The Wave of Light
+  en: Light Force
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 光之波动
 text:
   en: |-
-    Once per turn, during your Standby Phase, if you do not have "Light Barrier" in your Field Zone: Toss a coin. If the result is tails, the following effects are negated until your next Standby Phase.
+    Once per turn, during your Standby Phase, if "Light Barrier" is not in your Field Zone: Toss a coin. If tails, the following effects are negated until your next Standby Phase.
     ● Fairy monsters you control gain 300 ATK/DEF.
-    ● You can discard 1 card; add 2 "Arcana Force" monsters with different names from each other from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except "Arcana Force" monsters. You can only use this effect of "The Wave of Light" once per turn.
+    ● You can discard 1 card; add 2 "Arcana Force" monsters with different names from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except "Arcana Force" monsters. You can only use this effect of "Light Force" once per turn.
   de:
   es:
   fr:
@@ -33,10 +33,26 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: TheWaveofLight-SUDA-JP-C.png
+  image: LightForce-SUDA-JP-C.png
 sets:
   en:
   - set_number: SUDA-EN053
+    set_name: Supreme Darkness
+    rarities:
+  de:
+  - set_number: SUDA-DE053
+    set_name: Supreme Darkness
+    rarities:
+  fr:
+  - set_number: SUDA-FR053
+    set_name: Supreme Darkness
+    rarities:
+  it:
+  - set_number: SUDA-IT053
+    set_name: Supreme Darkness
+    rarities:
+  pt:
+  - set_number: SUDA-PT053
     set_name: Supreme Darkness
     rarities:
   ja:
@@ -52,9 +68,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1088379
