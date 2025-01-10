@@ -1,7 +1,7 @@
 konami_id: 20766
 password: 50915474
 name:
-  en: Goddess of Duality
+  en: Goddess of the Two Sides
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 表里女神
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can add 1 monster from your Deck to your hand that has a coin tossing effect, except "Goddess of Duality". During your Main Phase: You can toss a coin and call it. If you call it right, the ATK of all monsters you currently control become doubled until the end of this turn. If you call it wrong, send as many monsters you control as possible to the GY, and if you do, draw 1 card. You can only use each effect of "Goddess of Duality" once per turn.
+    If this card is Normal or Special Summoned: You can add 1 monster from your Deck to your hand that has a coin tossing effect, except "Goddess of the Two Sides". During your Main Phase: You can toss a coin and call it. If you call it right, double the ATK of all monsters you currently control until the end of this turn. If you call it wrong, send as many monsters you control to the GY as possible (min. 1), and if you do, draw 1 card. You can only use each effect of "Goddess of the Two Sides" once per turn.
   de:
   es:
   fr:
@@ -35,12 +35,33 @@ atk: 950
 def: 700
 images:
 - index: 1
-  image: GoddessofDuality-SUDA-JP-NR.png
+  image: GoddessoftheTwoSides-SUDA-JP-NR.png
 sets:
   en:
   - set_number: SUDA-EN029
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE029
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR029
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT029
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT029
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP029
     set_name: Supreme Darkness
@@ -54,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1090431

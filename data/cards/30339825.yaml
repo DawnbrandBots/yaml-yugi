@@ -1,7 +1,7 @@
 konami_id: 20801
 password: 30339825
 name:
-  en: He Arkho - "Hudor"
+  en: Hydor, the Base of All Things
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 万物始源－“水”
 text:
   en: |-
-    Target 1 monster in either GY; destroy 1 WATER monster its owner controls, and if you do, Special Summon the targeted monster to that player's field in Defense Position. If this card is in your GY, except the turn it was sent there: You can banish it, then target 1 WATER monster in either GY; destroy 1 monster its owner controls, and if you do, Special Summon the targeted monster to that player's field in Defense Position. You can only use 1 "He Arkho - "Hudor"" effect per turn, and only once that turn.
+    Target 1 monster in either GY; destroy 1 WATER monster on the target's owner's field, and if you do, Special Summon that target to that field in Defense Position. If this card is in your GY, except the turn it was sent there: You can banish this card, then target 1 WATER monster in either GY; destroy 1 monster on the targeted monster's owner's field, and if you do, Special Summon that targeted monster to that field in Defense Position. You can only use 1 "Hydor, the Base of All Things" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -31,12 +31,33 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: HeArkhoHudor-SUDA-JP-C.png
+  image: HydortheBaseofAllThings-SUDA-JP-C.png
 sets:
   en:
   - set_number: SUDA-EN064
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE064
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR064
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT064
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT064
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP064
     set_name: Supreme Darkness
@@ -50,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1090432
