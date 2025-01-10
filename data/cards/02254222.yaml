@@ -15,7 +15,7 @@ name:
   zh-CN: 疾行机人 翼同步士
 text:
   en: |-
-    If this card is added to the Extra Deck face-up and there are 2 or more different Monster Types among the WIND Synchro Monsters you control: You can send 1 "Speedroid" Spell/Trap from your Deck to the GY. You can only use this effect of "Speedroid Wing Synchron" once per turn.
+    If this card is added to your Extra Deck face-up, and you control 2 or more different Types of WIND Synchro Monsters: You can send 1 "Speedroid" Spell/Trap from your Deck to the GY. You can only use this effect of "Speedroid Wing Synchron" once per turn.
   de:
   es:
   fr:
@@ -36,7 +36,7 @@ def: 1000
 pendulum_scale: 4
 pendulum_effect:
   en: |-
-    Once per turn: You can destroy both this card and 1 Level 2 WIND Pendulum Monster Card in your Pendulum Zone, and if you do, Special Summon 1 "Clear Wing Synchro Dragon" from your Extra Deck (this is treated as a Synchro Summon), also, for the rest of this turn, cards in your Pendulum Zone cannot be destroyed by card effects, also you cannot Special Summon, except WIND monsters.
+    Once per turn: You can destroy this card and 1 Level 2 WIND Pendulum Monster Card in your Pendulum Zone, and if you do, Special Summon 1 "Clear Wing Synchro Dragon" from your Extra Deck (this is treated as a Synchro Summon), also for the rest of this turn, cards in your Pendulum Zones cannot be destroyed by card effects, and you cannot Special Summon, except WIND monsters.
   de:
   es:
   fr:
@@ -61,6 +61,27 @@ sets:
   - set_number: SUDA-EN007
     set_name: Supreme Darkness
     rarities:
+    - Super Rare
+  de:
+  - set_number: SUDA-DE007
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: SUDA-FR007
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+  it:
+  - set_number: SUDA-IT007
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: SUDA-PT007
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
   ja:
   - set_number: SUDA-JP007
     set_name: Supreme Darkness
@@ -74,9 +95,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1079052

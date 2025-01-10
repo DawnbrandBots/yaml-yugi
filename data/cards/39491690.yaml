@@ -1,7 +1,7 @@
 konami_id: 20807
 password: 39491690
 name:
-  en: Azamina Unleashing
+  en: Azamina Aphes
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as a "White Forest" card.)
-    Target cards on the field up to the number of Fusion and Synchro Monsters (Fiend, Illusion, and Spellcaster) you control and in your GY; return them to the hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Azamina Unleashing" once per turn.
+    Target cards on the field, up to the number of Fusion and Synchro Monsters in your field and GY that are Fiend, Illusion, or Spellcaster; return them to the hand. If this card is sent to the GY to activate a monster effect: You can Set this card. You can only use each effect of "Azamina Aphes" once per turn.
   de:
   es:
   fr:
@@ -35,12 +35,33 @@ series:
 - White Forest
 images:
 - index: 1
-  image: AzaminaUnleashing-SUDA-JP-C.png
+  image: AzaminaAphes-SUDA-JP-C.png
 sets:
   en:
   - set_number: SUDA-EN070
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE070
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR070
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT070
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT070
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP070
     set_name: Supreme Darkness
@@ -54,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1085956

@@ -1,7 +1,7 @@
 konami_id: 20800
 password: 4341721
 name:
-  en: Trick or Treat!
+  en: Hallo-Ween!
   de:
   es:
   fr:
@@ -31,12 +31,33 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: TrickorTreat-SUDA-JP-C.png
+  image: HalloWeen-SUDA-JP-C.png
 sets:
   en:
   - set_number: SUDA-EN063
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE063
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR063
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT063
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT063
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP063
     set_name: Supreme Darkness
@@ -50,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1088358

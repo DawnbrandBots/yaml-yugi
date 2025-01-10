@@ -15,10 +15,10 @@ name:
   zh-CN: 原物质之突破临界
 text:
   en: |-
-    When a Spell/Trap Card, or monster effect, is activated: Add 1 of your cards attached to 1 "Materiactor" Xyz Monster you control to your hand, and if you do, negate the activation, then apply this effect based on the added card's type.
+    When a Spell/Trap Card, or monster effect, is activated: Add 1 of your materials from a "Materiactor" Xyz Monster you control to your hand, and if you do, negate the activation, then apply the following effect based on the card type added.
     ● Monster: Place 1 card from your hand on the bottom of the Deck.
-    ● Spell: All "Materiactor" Xyz Monsters you currently control gain 1000 ATK.
-    ● Trap: You can Set the added card.
+    ● Spell: "Materiactor" Xyz Monsters you control gain 1000 ATK.
+    ● Trap: You can Set that added card.
     You can only activate 1 "Materiactor Critical" per turn.
   de:
   es:
@@ -46,6 +46,27 @@ sets:
   - set_number: SUDA-EN074
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE074
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR074
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT074
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT074
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP074
     set_name: Supreme Darkness
@@ -59,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1085408

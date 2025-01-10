@@ -15,7 +15,7 @@ name:
   zh-CN: 运否的天赋罗－EBI
 text:
   en: |-
-    Went to EDO-FRONT, which is the talk of town. The Tempura here is not only massive in scale, but its beautiful appearance has earned it the nickname "Kinpura". Although the port is filled with the latest state-of-the-art facilities and has a cross-cultural feel to it, the air is filled with a rich aroma that evokes a certain sense of nostalgia, and the occasional crackling and popping sound echoes through the air, lifting one's spirits. Although I had long awaited this Tempura, the rough conditions in the surrounding airspace meant it could not enter the port today. Due to my poor luck, I had to hand in a practically blank report. It's really regrettable as I've been looking forward to this for over a year, but I think at the end of the day I'll give this 3 stars.
+    We went to EDO-FRONT, which has been the talk of the town. The scale of the Tempura here is not only large but also so beautifully shaped that it has earned the nickname of "Golden Tempura". The state-of-the-art facilities and the atmosphere of other cultures are all in the harbor, but there is also a mellow, nostalgic aroma in the air, and the occasional crackle of the crackling sounds will lift your spirits. We have been looking forward to this cruise for a year, but I think 3 stars is just about right.
   de:
   es:
   fr:
@@ -36,7 +36,10 @@ def: 0
 pendulum_scale: 8
 pendulum_effect:
   en: |-
-    You can target 1 card in your Pendulum Zone; toss a coin and if the result is heads, Special Summon it, or if the result is tails, destroy it, and if you do, you lose LP equal to its Pendulum Scale x 300. You can only use this effect of "Tempura of Fortune - EBI" once per turn.
+    You can target 1 card in your Pendulum Zone; toss a coin.
+    ● Heads: Special Summon it.
+    ● Tails: Destroy it, but lose LP equal to its Pendulum Scale x 300.
+    You can only use this effect of "Tempura of Fortune - EBI" once per turn.
   de:
   es:
   fr:
@@ -56,6 +59,27 @@ sets:
   - set_number: SUDA-EN030
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE030
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR030
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT030
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT030
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP030
     set_name: Supreme Darkness
@@ -68,8 +92,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
-is_translation_unofficial:
-  text:
-    en: true
+  ocg: Unlimited
 yugipedia_page_id: 1084954

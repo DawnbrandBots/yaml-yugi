@@ -1,7 +1,7 @@
 konami_id: 20763
 password: 51132012
 name:
-  en: Great Knight of the Red Lotus
+  en: Grand Knight of the Red Lotus
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 大红莲魔斗士
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling up to 3 non-Effect Monsters from your GY into the Deck/Extra Deck. You can only Special Summon "Great Knight of the Red Lotus" once per turn this way. If Summoned this way, it gains 800 ATK for each Normal Monster shuffled into the Deck for its Summon. Once per turn: You can target 1 monster on the field and 1 non-Effect Monster in your GY; destroy that monster on the field, and if you do, Special Summon that monster from the GY.
+    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by shuffling up to 3 non-Effect Monsters from your GY into the Deck/Extra Deck. You can only Special Summon "Grand Knight of the Red Lotus" once per turn this way. If Summoned this way, this card gains 800 ATK for each Normal Monster shuffled into the Deck for its Summon. Once per turn, you can target 1 monster on the field and 1 non-Effect Monster in your GY; destroy that monster on the field, and if you do, Special Summon that other monster from your GY.
   de:
   es:
   fr:
@@ -35,12 +35,33 @@ atk: 2100
 def: 1800
 images:
 - index: 1
-  image: GreatKnightoftheRedLotus-SUDA-JP-C.png
+  image: GrandKnightoftheRedLotus-SUDA-JP-C.png
 sets:
   en:
   - set_number: SUDA-EN024
     set_name: Supreme Darkness
     rarities:
+    - Common
+  de:
+  - set_number: SUDA-DE024
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  fr:
+  - set_number: SUDA-FR024
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  it:
+  - set_number: SUDA-IT024
+    set_name: Supreme Darkness
+    rarities:
+    - Common
+  pt:
+  - set_number: SUDA-PT024
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ja:
   - set_number: SUDA-JP024
     set_name: Supreme Darkness
@@ -54,9 +75,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1090430
