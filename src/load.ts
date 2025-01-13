@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: © 2022–2023 Kevin Lu
+// SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 // SPDX-Licence-Identifier: AGPL-3.0-or-later
 import fs from "fs";
 import yaml from "js-yaml";
@@ -115,16 +115,10 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 		const response = await retry(() =>
 			opensearch.bulk({
 				index,
-				body: partition
-					.map(
-						card =>
-							// eslint-disable-next-line prefer-template
-							JSON.stringify({ update: { _id: card.yugipedia_page_id } }) +
-							"\n" +
-							JSON.stringify({ doc: card, doc_as_upsert: true }) +
-							"\n"
-					)
-					.join("")
+				body: partition.flatMap(card => [
+					{ update: { _id: card.yugipedia_page_id } },
+					{ doc: card, doc_as_upsert: true }
+				])
 			})
 		);
 		if (response.body.errors) {
