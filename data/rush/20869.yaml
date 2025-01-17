@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>古<rt>いにしえ</rt></ruby>の<ruby>決<rt>けっ</rt></ruby><ruby>戦<rt>せん</rt></ruby>
   ja_romaji: Inishie no Kessen
-  ko:
+  ko: 고대의 결전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     手札または墓地にあるこのカードはレジェンドカードになる。
-  ko:
+  ko: |-
+    패 또는 묘지에 있는 이 카드는 레전드 카드가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／守備力３００）を３体まで選ぶ。このターン、そのモンスターの攻撃力は５００アップし、相手の罠カードの効果では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 수비력 300)를 3장까지 고른다. 이 턴에, 그 몬스터의 공격력은 500 올리고, 상대의 함정 카드의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -61,6 +64,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP050
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP2-KR050
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common

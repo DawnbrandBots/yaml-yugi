@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>伝<rt>でん</rt></ruby><ruby>説<rt>せつ</rt></ruby>の<ruby>種<rt>たね</rt></ruby><ruby>火<rt>び</rt></ruby>
   ja_romaji: Densetsu no Tanebi
-  ko:
+  ko: 전설의 불씨
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地にレジェンドモンスター（炎属性／炎族）がいる場合、相手フィールドの表側表示モンスターを２体まで選んで破壊できる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지에 레전드 몬스터(화염 속성 / 화염족)가 있을 경우, 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP061
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP2-KR061
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common

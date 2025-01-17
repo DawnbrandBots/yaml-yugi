@@ -39,7 +39,7 @@ effect:
   ja: |-
     このカードの攻撃力は、［自分の墓地のモンスターの数］×１００アップする。
   ko: |-
-    이 카드의 공격력은, [자신 묘지 몬스터의 수] × 100 올린다.
+    이 카드의 공격력은, [자신 묘지의 몬스터의 수] × 100 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -67,6 +67,11 @@ sets:
     set_name: Megaroad Pack
     rarities:
     - Ultra Rare
+  - set_number: RD/LGP2-KR058
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true

@@ -8,7 +8,7 @@ name:
   pt:
   ja: イマジナリー・リアクター
   ja_romaji: Imajinarī Riakutā
-  ko:
+  ko: 이매지너리 리액터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상일 경우, 덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名は次の相手ターン終了時まで、「イマジナリー・アクター」になる。その後、自分の墓地の「死者転生」１枚を選んでデッキの下に戻す事ができる。戻した場合、さらに自分は２枚ドローできる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 다음 상대 턴 종료시까지, "이매지너리 액터"가 된다. 그 후, 자신 묘지의 "죽은 자의 환생" 1장을 고르고 덱 아래로 되돌릴 수 있다. 되돌렸을 경우, 추가로 자신은 2장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP025
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/LGP2-KR025
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common

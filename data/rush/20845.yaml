@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>古代の歯車冠<rt>アンティーク・ギアクラウン</rt></ruby>
   ja_romaji: Antīku Gia Kuraun
-  ko:
+  ko: 앤틱 기어 크라운
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地のモンスターが機械族のみの場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지의 몬스터가 기계족뿐일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「歯車街区」または「古代の機械変速」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 "기어 섹션" 또는 "앤틱 기어 체인지" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP011
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/LGP2-KR011
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common

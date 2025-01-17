@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>古代の機械変速<rt>アンティーク・ギアチェンジ</rt></ruby>
   ja_romaji: Antīku Gia Chenji
-  ko:
+  ko: 앤틱 기어 체인지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの元々の攻撃力・守備力が同じ数値の表側表示モンスター（地属性／機械族）１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 원래의 공격력 / 수비력이 같은 수치인 앞면 표시 몬스터(땅 속성 / 기계족) 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力は４００アップする。装備モンスターが「古代の機械巨人」または「古代の機械獣」の場合、さらにその攻撃力は６００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력은 400 올린다. 장착 몬스터가 "앤틱 기어 골렘" 또는 "앤틱 기어 비스트"일 경우, 추가로 그 공격력은 600 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP013
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP2-KR013
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common

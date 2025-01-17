@@ -8,7 +8,7 @@ name:
   pt:
   ja: アトラクト・ゴーレム
   ja_romaji: Atorakuto Gōremu
-  ko:
+  ko: 어트랙트 골렘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札の通常モンスター（光属性／守備力５００）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패의 일반 몬스터(빛 속성 / 수비력 500) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、相手に５００ダメージを与える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 상대에게 500 데미지를 줄 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/LGP2-JP026
+    set_name: Neo Legend Awakening Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/LGP2-KR026
     set_name: Neo Legend Awakening Pack
     rarities:
     - Common
