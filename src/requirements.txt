@@ -16,7 +16,7 @@ jsonschema==4.23.0
     # via -r requirements.in
 jsonschema-specifications==2024.10.1
     # via jsonschema
-referencing==0.35.1
+referencing==0.36.1
     # via
     #   jsonschema
     #   jsonschema-specifications
@@ -30,6 +30,8 @@ ruamel-yaml==0.18.10
     # via -r requirements.in
 ruamel-yaml-clib==0.2.12
     # via ruamel-yaml
+typing-extensions==4.12.2
+    # via referencing
 wcwidth==0.2.13
     # via wikitextparser
 wikitextparser==0.56.3
