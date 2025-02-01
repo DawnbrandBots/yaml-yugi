@@ -1,7 +1,7 @@
 konami_id: 20606
 password: 43219114
 name:
-  en: Majesty with Dragons of White
+  en: Majesty of the White Dragons
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 白之龙的威光
 text:
   en: |-
-    Show up to 3 "Blue-Eyes White Dragon(s)" from your hand, face-up field, and/or GY, then destroy that many cards your opponent controls. You can banish this card from your GY; Ritual Summon 1 Ritual Monster from your hand, by Tributing "Blue-Eyes White Dragon(s)" from your hand or field whose total Levels exactly equal the Level of that Ritual Monster. You can only use each effect of "Majesty with Dragons of White" once per turn.
+    Show up to 3 of the "Blue-Eyes White Dragon" in your hand, face-up Monster Zone, and/or GY, then destroy an equal number of cards your opponent controls. You can banish this card from your GY; Ritual Summon 1 Ritual Monster from your hand, by Tributing "Blue-Eyes White Dragon(s)" from your hand or field whose total Levels equal its Level. You can only use each effect of "Majesty of the White Dragons" once per turn.
   de:
   es:
   fr:
@@ -32,8 +32,33 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: MajestywithDragonsofWhite-SD47-JP-NPR.png
+  image: MajestyoftheWhiteDragons-SD47-JP-NPR.png
 sets:
+  en:
+  - set_number: SDWD-EN027
+    set_name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarities:
+    - Super Rare
+  de:
+  - set_number: SDWD-DE027
+    set_name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: SDWD-FR027
+    set_name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarities:
+    - Super Rare
+  it:
+  - set_number: SDWD-IT027
+    set_name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: SDWD-PT027
+    set_name: 'Structure Deck: Blue-Eyes White Destiny'
+    rarities:
+    - Super Rare
   ja:
   - set_number: SD47-JP027
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
@@ -67,9 +92,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1074772
