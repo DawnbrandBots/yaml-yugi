@@ -151,7 +151,7 @@ def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
         sets["en"] = en
     if "de_sets" in wikitext:
         sets["de"] = parse_sets(wikitext["de_sets"])
-    if "es_sets" in wikitext:
+    if "sp_sets" in wikitext:
         sets["es"] = parse_sets(wikitext["sp_sets"])
     if "fr_sets" in wikitext:
         sets["fr"] = parse_sets(wikitext["fr_sets"])
