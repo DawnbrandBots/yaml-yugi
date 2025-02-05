@@ -139,6 +139,7 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
 def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
     sets = {}
     en = []
+    fr = []
     if "en_sets" in wikitext:
         en.extend(parse_sets(wikitext["en_sets"]))
     if "na_sets" in wikitext:
@@ -154,7 +155,11 @@ def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
     if "sp_sets" in wikitext:
         sets["es"] = parse_sets(wikitext["sp_sets"])
     if "fr_sets" in wikitext:
-        sets["fr"] = parse_sets(wikitext["fr_sets"])
+        fr.extend(parse_sets(wikitext["fr_sets"]))
+    if "fc_sets" in wikitext:
+        fr.extend(parse_sets(wikitext["fc_sets"]))
+    if len(fr):
+        sets["fr"] = fr
     if "it_sets" in wikitext:
         sets["it"] = parse_sets(wikitext["it_sets"])
     if "pt_sets" in wikitext:
