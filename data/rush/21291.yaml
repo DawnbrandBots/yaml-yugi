@@ -1,0 +1,60 @@
+konami_id: 21291
+name:
+  en: Bazoo the Soul-Eater
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魂<rt>たましい</rt></ruby>を<ruby>喰<rt>く</rt></ruby>らう<ruby>者<rt>もの</rt></ruby> バズー
+  ja_romaji:
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Place up to 3 monsters from your Graveyard on the bottom of the Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地のモンスターを３体まで好きな順番でデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains ATK equal to [the number of monsters placed to meet the requirement] x 300 until the end of your opponent's next turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力は次の相手ターン終了時まで、［この効果の条件で戻したモンスターの数］×３００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Beast / Effect
+attribute: EARTH
+level: 4
+atk: 1600
+def: 900
+legend: true
+images:
+- index: 1
+  image: BazootheSoulEater-RDKP20-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP20-JP040
+    set_name: Galactica of Eternity
+    rarities:
+    - Rare
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1109413
