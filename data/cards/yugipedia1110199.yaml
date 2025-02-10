@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 星宿枪手 卢奇亚斯
 text:
   en: |-
     If this card is Normal or Special Summoned: You can add 1 "Dragon Tail" monster from your Deck to your hand, except "Dragon Tail Lucias". If this card is sent to the GY as material for a Fusion Summon: You can Set 1 "Dragon Tail" Spell/Trap from your Deck. You can only use each effect of "Dragon Tail Lucias" once per turn.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将“星宿枪手 卢奇亚斯”以外的1只“星宿”怪兽加入手牌。②：此卡作为融合召唤的素材被送至墓地的情况下可以发动。从牌组将1张“星宿”魔法・陷阱卡放置在自己场上。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: EARTH
@@ -41,9 +42,13 @@ sets:
   - set_number: DBJH-JP001
     set_name: 'Deck Build Pack: Justice Hunters'
     rarities:
+  zh-CN:
+  - set_number: DBJH-SC001
+    set_name: 'Deck Build Pack: Justice Hunters'
+    rarities:
 limit_regulation:
-  tcg: Not yet released
-  ocg: Not yet released
+  tcg:
+  ocg:
 is_translation_unofficial:
   name:
     en: true
