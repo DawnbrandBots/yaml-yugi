@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>機<rt>き</rt></ruby><ruby>動<rt>どう</rt></ruby><ruby>砕<rt>さい</rt></ruby><ruby>撃<rt>げき</rt></ruby> ギア・クラッシャー
   ja_romaji: Kidōsaigeki Gia Kurasshā
-  ko:
+  ko: 기동쇄격 기어 크러셔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル４／地属性／機械族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 4 / 땅 속성 / 기계족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル８以下）１体または裏側表示のカード１枚を選んで破壊する。このターン、自分はモンスター（地属性／機械族）でしか攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 8 이하) 1장 또는 뒷면 표시의 카드 1장을 고르고 파괴한다. 이 턴에, 자신은 몬스터(땅 속성 / 기계족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP051
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP19-KR051
     set_name: Salamandeus of Scorching
     rarities:
     - Common

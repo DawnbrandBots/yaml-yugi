@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>起<rt>き</rt></ruby><ruby>動<rt>どう</rt></ruby><ruby>指<rt>し</rt></ruby><ruby>令<rt>れい</rt></ruby> ギア・フォース
   ja_romaji:
-  ko:
+  ko: 기동지령 기어 포스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが表側表示モンスター（レベル４以上／地属性／機械族）のみの場合、相手のモンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 앞면 표시 몬스터(레벨 4 이상 / 땅 속성 / 기계족)뿐일 경우, 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの攻撃表示モンスター（レベル８以下）を［自分フィールドのモンスターの数］まで選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 공격 표시 몬스터(레벨 8 이하)를 [자신 필드의 몬스터의 수]까지 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP059
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP19-KR059
     set_name: Salamandeus of Scorching
     rarities:
     - Common

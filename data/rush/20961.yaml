@@ -8,7 +8,7 @@ name:
   pt:
   ja: ロードスターの<ruby>魔<rt>ま</rt></ruby><ruby>剣<rt>けん</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Rōdosutā no Makenshi
-  ko:
+  ko: 로드스타의 마검사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「ロードスターの剣士」になる。その後、自分の墓地の「セブンスフィアー・マジシャン」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "로드스타의 검사"가 된다. 그 후, 자신 묘지의 "세븐즈피어 매지션" 1장을 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP010
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP19-KR010
     set_name: Salamandeus of Scorching
     rarities:
     - Common

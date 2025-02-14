@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>恵<rt>けい</rt></ruby><ruby>雷<rt>らい</rt></ruby>のかかし
   ja_romaji: Keirai no Kakashi
-  ko:
+  ko: 혜뢰의 허수아비
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手モンスターの攻撃宣言時、自分の墓地のモンスター（レベル４以下／雷族）１体をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    상대 몬스터의 공격 선언시, 자신 묘지의 몬스터(레벨 4 이하 / 번개족) 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。その後、相手の墓地のカードを３枚まで選んでデッキに戻す事ができる。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 그 후, 상대 묘지의 카드를 3장까지 고르고 덱으로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP060
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP19-KR060
     set_name: Salamandeus of Scorching
     rarities:
     - Common

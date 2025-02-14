@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>のお<ruby>注<rt>ちゅう</rt></ruby><ruby>射<rt>しゃ</rt></ruby>
   ja_romaji: Tenshi no Ochūsha
-  ko:
+  ko: 천사의 주사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手ターンに相手がドローした時、または相手がモンスターを召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대 턴에 상대가 드로우했을 때, 또는 상대가 몬스터를 일반 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地にモンスター（地属性／攻撃力４００／守備力１５００）がいる場合、相手フィールドのモンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터 1장을 고르고 묘지로 보낸다. 그 후, 자신 묘지에 몬스터(땅 속성 / 공격력 400 / 수비력 1500)가 있을 경우, 상대 필드의 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -53,6 +55,11 @@ sets:
     set_name: Battle Pack 2024 Vol.4
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP19-KR061
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

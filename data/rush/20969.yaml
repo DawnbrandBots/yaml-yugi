@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>古代の機械蠍尾獣<rt>アンティーク・ギアガジェルコア</rt></ruby>
   ja_romaji: Antīku Gia Gajerukoa
-  ko:
+  ko: 앤틱 기어 가젤 코어
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地の「グリーン・ガジェット」「レッド・ガジェット」「イエロー・ガジェット」のいずれか１体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 "그린 가제트" "레드 가제트" "옐로 가제트" 중 어느 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。このターン、自分はモンスター（地属性／機械族）でしか攻撃できない。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 이 턴에, 자신은 몬스터(땅 속성 / 기계족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Pack 2024 Vol.4
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP19-KR018
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

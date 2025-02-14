@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>昂<rt>こう</rt></ruby><ruby>光<rt>こう</rt></ruby>の<ruby>呪<rt>じゅ</rt></ruby><ruby>縛<rt>ばく</rt></ruby>
   ja_romaji: Kōkō no Jubaku
-  ko:
+  ko: 앙광의 저주
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手の手札が１枚以下の場合に発動できる。
-  ko:
+  ko: |-
+    상대의 패가 1장 이하일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで表側攻撃表示または裏側守備表示にする。このターンに相手が罠カードを発動している場合、またはこのターンが後攻プレイヤーの最初のターンの場合、さらにお互いは２枚ドローする。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 앞면 공격 표시 또는 뒷면 수비 표시로 한다. 이 턴에 상대가 함정 카드를 발동하고 있을 경우, 또는 이 턴이 후공 플레이어의 최초의 턴일 경우, 추가로 양쪽 플레이어는 2장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -49,6 +51,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP056
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP19-KR056
     set_name: Salamandeus of Scorching
     rarities:
     - Ultra Rare

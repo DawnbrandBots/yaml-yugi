@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>時<rt>とき</rt></ruby>の<ruby>機<rt>き</rt></ruby><ruby>械<rt>かい</rt></ruby>－タイム・マシーン
   ja_romaji:
-  ko:
+  ko: 시간의 기계－타임머신
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     モンスター１体のみが戦闘で破壊された時に発動できる。
-  ko:
+  ko: |-
+    몬스터 1장만이 전투로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     そのモンスターを、そのモンスターが破壊された時のコントローラーのフィールドに同じ表示形式で墓地から特殊召喚する（そのモンスターがマキシマムモードだった場合、その全てを揃えてマキシマムモードで特殊召喚する）。
-  ko:
+  ko: |-
+    그 몬스터를, 그 몬스터가 파괴되었을 때의 컨트롤러의 필드에 같은 표시 형식으로 묘지에서 특수 소환한다(그 몬스터가 맥시멈 모드였을 경우, 그 전부를 모아 맥시멈 모드로 특수 소환한다).
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP058
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP19-KR058
     set_name: Salamandeus of Scorching
     rarities:
     - Super Rare

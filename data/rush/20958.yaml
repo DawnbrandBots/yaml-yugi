@@ -8,7 +8,7 @@ name:
   pt:
   ja: ダイスキー・ミクス
   ja_romaji: Daisukī Mikusu
-  ko:
+  ko: 다이스키 믹스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     サイコロを１回振る。出た目の効果を適用する。●１：自分フィールドのカード１枚を選んで破壊する。●２～６：自分フィールドのモンスター（天使族）を素材として墓地へ送り、フュージョン召喚する。出た目が５・６の場合、さらにこのターン、この効果で特殊召喚したモンスターは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    주사위를 1회 던진다. 나온 눈의 효과를 적용한다. ●1: 자신 필드의 카드 1장을 고르고 파괴한다. ●2~6: 자신 필드의 몬스터(천사족)를 소재로서 묘지로 보내고, 퓨전 소환한다. 나온 눈이 5・6 일 경우, 추가로 이 턴에, 이 효과로 특수 소환한 몬스터는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Pack 2024 Vol.4
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP19-KR007
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

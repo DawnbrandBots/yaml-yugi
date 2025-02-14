@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>語<rt>かた</rt></ruby>り<ruby>継<rt>つ</rt></ruby>がれし<ruby>英雄譚<rt>オモイデ</rt></ruby>
   ja_romaji: Kataritsugareshi Omoide
-  ko:
+  ko: 전해 내려오는 영웅담
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     手札または墓地にあるこのカードはレジェンドカードになる。
-  ko:
+  ko: |-
+    패 또는 묘지에 있는 이 카드는 레전드 카드가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、自分の墓地のモンスター２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상일 경우, 자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード４枚を墓地へ送る。その後、その中からレジェンドモンスターとレジェンド罠カードをそれぞれ１枚まで選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 4장을 묘지로 보낸다. 그 후, 그 중에서 레전드 몬스터와 레전드 함정 카드를 각각 1장까지 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -63,6 +66,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP19-JP054
+    set_name: Salamandeus of Scorching
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP19-KR054
     set_name: Salamandeus of Scorching
     rarities:
     - Super Rare
