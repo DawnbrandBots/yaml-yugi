@@ -34,16 +34,14 @@ text:
     Uma vez por turno, durante sua Fase de Apoio, desassocie 1 matéria deste card. Se não puder, destrua-o. Este card em Posição de Ataque não pode ser destruído pelos efeitos de card do seu oponente. Seu oponente não pode escolher este card em Posição de Ataque como alvo de efeitos de card. Enquanto este card estiver com a face para cima em Posição de Defesa, coloque em Posição de Defesa todos os monstros com a face para cima no campo e, além disso, negue os efeitos ativados dos monstros que estavam em Posição de Defesa quando esse efeito foi ativado.
   ja: |-
     レベル４モンスター×２
-    このカードのコントローラーは、自分スタンバイフェイズ毎にこのカードのＸ素材を１つ取り除く。取り除けない場合、このカードを破壊する。①：このカードがモンスターゾーンに攻撃表示で存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。②：このカードがモンスターゾーンに守備表示で存在する限り、フィールドの表側表示モンスターは守備表示になり、守備表示モンスターが発動した効果は無効化される。
+    このカードのコントローラーは、自分スタンバイフェイズ毎にこのカードのＸ素材を１つ取り除く（取り除けない場合、このカードを破壊する）。①：このカードがモンスターゾーンに攻撃表示で存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。②：このカードがモンスターゾーンに守備表示で存在する限り、フィールドの表側表示モンスターは守備表示になり、守備表示モンスターが発動した効果は無効化される。
   ko: |-
     레벨 4 몬스터 × 2
     이 카드의 컨트롤러는, 자신 스탠바이 페이즈마다 이 카드의 엑시즈 소재를 1개 제거한다. 제거할 수 없을 경우, 이 카드를 파괴한다. ①: 이 카드가 몬스터 존에 공격 표시로 존재하는 한, 이 카드는 상대 효과로는 파괴되지 않으며, 상대는 이 카드를 효과의 대상으로 할 수 없다. ②: 이 카드가 몬스터 존에 수비 표시로 존재하는 한, 필드의 앞면 표시 몬스터는 수비 표시가 되고, 수비 표시 몬스터가 발동한 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
     等级４怪兽×２
-    此卡的控制者在每次自己的准备阶段去除此卡的１个超量素材。无法去除的情况下，将此卡破坏。
-    ①：只要此卡以攻击表示存在于怪兽区域，此卡不会因对手的效果被破坏，对手不可将此卡作为效果的对象。
-    ②：只要此卡以守备表示存在于怪兽区域，场上的表侧表示怪兽变为守备表示，守备表示怪兽发动的效果无效化。
+    此卡的控制者在每次自己的准备阶段去除此卡的１个超量素材。无法去除的情况下，将此卡破坏。①：只要此卡以攻击表示存在于怪兽区域，此卡不会因对手的效果被破坏，对手不可将此卡作为效果的对象。②：只要此卡以守备表示存在于怪兽区域，场上的表侧表示怪兽变为守备表示，守备表示怪兽发动的效果无效化。
 card_type: Monster
 monster_type_line: Fiend / Xyz / Effect
 attribute: EARTH
@@ -187,6 +185,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: QCAC-JP013
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CP17-KR042
     set_name: Collectors Pack 2017
