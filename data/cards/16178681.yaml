@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card batalhar um monstro do oponente, qualquer dano de batalha que este card causar ao seu oponente é dobrado.
   ja: |-
-    ①：このカードが<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>モンスターと<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、このカードが<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>に<ruby>与<rt>あた</rt></ruby>える<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>ダメージは<ruby>倍<rt>ばい</rt></ruby>になる。
+    ①：このカードが相手モンスターとの戦闘で相手に与える戦闘ダメージは倍になる。
   ko: |-
     ①: 이 카드가 상대 몬스터와의 전투로 상대에게 주는 전투 데미지는 배가 된다.
   zh-TW:
@@ -54,13 +54,13 @@ pendulum_effect:
   pt: |-
     Você pode reduzir a 0 o dano de batalha que você sofrer de um ataque envolvendo um Monstro Pêndulo que você controla. Durante sua Fase Final: você pode destruir este card e, se isso acontecer, adicione 1 Monstro Pêndulo com 1500 ou menos de ATK do seu Deck à sua mão. Você só pode usar cada Efeito de Pêndulo de "Dragão Pêndulo de Olhos Anômalos" uma vez por turno.
   ja: |-
-    このカード<ruby>名<rt>めい</rt></ruby>の①②の<ruby>Ｐ<rt>ペンデュラム</rt></ruby><ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>はそれぞれ１ターンに１<ruby>度<rt>ど</rt></ruby>しか<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できない。①：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>モンスターの<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>で<ruby>発<rt>はっ</rt></ruby><ruby>生<rt>せい</rt></ruby>する<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>への<ruby>戦<rt>せん</rt></ruby><ruby>闘<rt>とう</rt></ruby>ダメージを０にできる。②：<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>エンドフェイズに<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。このカードを<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>し、デッキから<ruby>攻<rt>こう</rt></ruby><ruby>撃<rt>げき</rt></ruby><ruby>力<rt>りょく</rt></ruby>１５００<ruby>以<rt>い</rt></ruby><ruby>下<rt>か</rt></ruby>の<ruby>Ｐ<rt>ペンデュラム</rt></ruby>モンスター１<ruby>体<rt>たい</rt></ruby>を<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>える。
+    このカード名の①②のＰ効果はそれぞれ１ターンに１度しか使用できない。①：自分のＰモンスターの戦闘で発生する自分への戦闘ダメージを０にできる。②：自分エンドフェイズに発動できる。このカードを破壊し、デッキから攻撃力１５００以下のＰモンスター１体を手札に加える。
   ko: |-
     이 카드명의 ①②의 펜듈럼 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신의 펜듈럼 몬스터의 전투로 발생하는 자신에게로의 전투 데미지를 0 으로 할 수 있다. ②: 자신 엔드 페이즈에 발동할 수 있다. 이 카드를 파괴하고, 덱에서 공격력 1500 이하의 펜듈럼 몬스터 1장을 패에 넣는다.
   zh-TW: |-
     此卡名的①②鐘擺效果，１回合各僅限使用１次。①：可將因我方的鐘擺怪獸的戰鬥對我方造成的戰鬥傷害變為０。②：可在我方結束階段發動。破壞此卡，從牌組將１隻攻擊力１５００以下的鐘擺怪獸加入手牌。
   zh-CN: |-
-    此卡名的①②的灵摆效果1回合仅可各使用1次。①：可将自己的灵摆怪兽战斗发生的对自己的战斗伤害改成0。②：在自己的结束阶段可以发动。将此卡破坏，从牌组将1只攻击力1500以下的灵摆怪兽加入手牌。
+    此卡名的①②的灵摆效果１回合仅可各使用１次。①：可将自己的灵摆怪兽战斗发生的对自己的战斗伤害改成０。②：在自己的结束阶段可以发动。将此卡破坏，从牌组将１只攻击力１５００以下的灵摆怪兽加入手牌。
 series:
 - -Eyes Dragon
 - Four Dimensional Dragons
@@ -362,6 +362,12 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign Part 2
     rarities:
     - Normal Parallel Rare
+  - set_number: QCAC-JP035
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DUEA-KR004
     set_name: Duelist Alliance

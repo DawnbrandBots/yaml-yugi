@@ -34,14 +34,14 @@ text:
     Monstros que seu oponente controla perdem 100 de ATK/DEF para cada Magia no seu Cemitério. Uma vez por turno, durante a Fase Final, se este card foi Invocado por Invocação-Especial neste turno: você pode adicionar 1 Magia "Força Celeste" com um nome diferente que o dos cards no seu Cemitério, do seu Deck à sua mão. Você só pode Invocar um ou mais "Força Celeste - Ás - Shizuku" por Invocação-Especial uma vez por turno.
   ja: |-
     水属性以外の「閃刀姫」モンスター１体
-    自分は「閃刀姫－シズク」を１ターンに１度しか特殊召喚できない。①：相手フィールドのモンスターの攻撃力・守備力は、自分の墓地の魔法カードの数×１００ダウンする。②：このカードを特殊召喚したターンのエンドフェイズに発動できる。デッキから、同名カードが自分の墓地に存在しない「閃刀」魔法カード１枚を手札に加える。
+    自分は「閃刀姫－シズク」を１ターンに１度しか特殊召喚できない。①：相手フィールドのモンスターの攻撃力・守備力は、自分の墓地の魔法カードの数×１００ダウンする。②：このカードが特殊召喚したターンのエンドフェイズに発動できる。同名カードが自分の墓地に存在しない「閃刀」魔法カード１枚をデッキから手札に加える。
   ko: |-
     물 속성 이외의 "섬도희" 몬스터 1장
     자신은 "섬도희－시즈쿠"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 상대 필드의 몬스터의 공격력 / 수비력은, 자신 묘지의 마법 카드의 수 × 100 내린다. ②: 이 카드를 특수 소환한 턴의 엔드 페이즈에 발동할 수 있다. 덱에서, 같은 이름의 카드가 자신 묘지에 존재하지 않는 "섬도" 마법 카드 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    水属性以外的"闪刀姬"怪兽1只
-    自己1个回合只可特殊召唤1次"闪刀姬－雫"。①：对手场上的怪兽的攻击力・守备力下降自己墓地的魔法卡数量×100。②：特殊召唤这张卡的回合的结束阶段可以发动。从牌组将同名卡不存在于自己墓地的1张"闪刀"魔法卡加入手牌。
+    水属性以外的“闪刀姬”怪兽１只
+    自己１个回合只可特殊召唤１次“闪刀姬－雫”。①：对手场上的怪兽的攻击力・守备力下降自己墓地的魔法卡数量×１００。②：特殊召唤这张卡的回合的结束阶段可以发动。从牌组将同名卡不存在于自己墓地的１张“闪刀”魔法卡加入手牌。
 card_type: Monster
 monster_type_line: Machine / Link / Effect
 attribute: WATER
@@ -245,6 +245,12 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  - set_number: QCAC-JP060
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBDS-KR028
     set_name: 'Deck Build Pack: Dark Savers'

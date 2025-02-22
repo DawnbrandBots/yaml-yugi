@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     “淘气仙星”怪兽２只
-    ①：只要此卡存在于怪兽区域，每当有“淘气仙星”怪兽被召唤・特殊召唤至此卡的连接端，就给予对手２００伤害。②：此卡连接端的“淘气仙星”怪兽不会因战斗・效果被破坏。③：对手每次因“淘气仙星”怪兽的效果受到伤害就发动。此卡的攻击力直至回合结束时为止，上升相当于该伤害的数值。
+    ①：只要此卡存在于怪兽区域，每当有“淘气仙星”怪兽被召唤・特殊召唤至此卡的连接端，就给予对手２００伤害。②：此卡连接端的“淘气仙星”怪兽不会因战斗・效果被破坏。③：每当对手因“淘气仙星”怪兽的效果受到伤害就发动。此卡的攻击力直至回合结束时为止，上升相当于该伤害的数值。
 card_type: Monster
 monster_type_line: Fairy / Link / Effect
 attribute: LIGHT
@@ -54,13 +54,13 @@ series:
 - Trickstar
 images:
 - index: 1
-  image: TrickstarHollyAngel-DP29-JP-C.png
+  image: TrickstarHollyAngel-QCAC-JP-SR.png
   illustration: TrickstarHollyAngel-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: TrickstarHollyAngel-MP18-EN-UR-1E.png
   illustration: TrickstarHollyAngel-MADU-EN-VG-artwork.png
 - index: 2
-  image: TrickstarHollyAngel-LVB1-JP-EScR.png
+  image: TrickstarHollyAngel-QCAC-JP-ScR-AA.png
   illustration: TrickstarHollyAngel-OW-2.png
 - index: '2.1'
   image: TrickstarHollyAngel-DUPO-EN-UR-1E.png
@@ -159,6 +159,12 @@ sets:
     set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
+  - set_number: QCAC-JP042
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: COTD-KR044
     set_name: Code of the Duelist

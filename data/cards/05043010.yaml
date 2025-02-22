@@ -34,14 +34,14 @@ text:
     Uma vez enquanto estiver com a face para cima no campo (Efeito Rápido): você pode escolher monstros no campo e/ou no Cemitério até o número de monstros co-linkados a este card; devolva-os para a mão. Se um monstro para o qual este card apontar for destruído em batalha ou enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro Ciberso da sua mão. Você só pode usar cada efeito de "Dragão Firewall" uma vez por turno.
   ja: |-
     モンスター２体以上
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがフィールドに表側表示で存在する限り１度だけ、このカードの相互リンク先のモンスターの数まで、自分または相手の、フィールド・墓地のモンスターを対象として発動できる。そのモンスターを持ち主の手札に戻す。この効果は相手ターンでも発動できる。②：このカードのリンク先のモンスターが、戦闘で破壊された場合、または墓地へ送られた場合に発動できる。手札からサイバース族モンスター１体を特殊召喚する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがフィールドに表側表示で存在する限り１度だけ、自分・相手ターンに、このカードの相互リンク先のモンスターの数まで、自分・相手の、フィールド・墓地のモンスターを対象として発動できる。そのモンスターを手札に戻す。②：このカードのリンク先のモンスターが、戦闘で破壊された場合または墓地へ送られた場合に発動できる。手札からサイバース族モンスター１体を特殊召喚する。
   ko: |-
     몬스터 2장 이상
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 필드에 앞면 표시로 존재하는 한 1번만, 자신 / 상대 턴에, 이 카드의 상호 링크 앞의 몬스터의 수까지, 자신 / 상대의, 필드 / 묘지의 몬스터를 대상으로 하고 발동할 수 있다. 그 몬스터를 패로 되돌린다. ②: 이 카드의 링크 앞의 몬스터가, 전투로 파괴되었을 경우 또는 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 사이버스족 몬스터 1장을 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    怪兽2只以上
-    此卡名的①②效果1回合仅可各使用1次。①：只要此卡在场上以表侧表示存在，仅限1次，以自己或对手的场上・墓地的怪兽为对象可以发动，数量最多为此卡的相互连接端的怪兽数量。将该怪兽放回持有者的手牌。此效果在对手回合中也可以发动。②：此卡连接端的怪兽，因战斗被破坏的情况下，或被送至墓地的情况下可以发动。从手牌将1只电子界族怪兽特殊召唤。
+    怪兽２只以上
+    此卡名的①②效果１回合仅可各使用１次。①：只要此卡在场上以表侧表示存在，仅限１次，以自己或对手的场上・墓地的怪兽为对象可以发动，数量最多为此卡的相互连接端的怪兽数量。将该怪兽放回持有者的手牌。此效果在对手回合中也可以发动。②：此卡连接端的怪兽，因战斗被破坏的情况下，或被送至墓地的情况下可以发动。从手牌将１只电子界族怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Cyberse / Link / Effect
 attribute: LIGHT
@@ -244,6 +244,12 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign Part 2
     rarities:
     - Normal Parallel Rare
+  - set_number: QCAC-JP039
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: COTD-KR043
     set_name: Code of the Duelist

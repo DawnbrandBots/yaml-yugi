@@ -34,7 +34,7 @@ text:
     Uma vez por turno, quando um Card de Magia/Armadilha ou efeito de monstro for ativado (Efeito Rápido): você pode enviar o mesmo tipo de card (Monstro, Magia ou Armadilha) da sua mão para o Cemitério; negue a ativação e, se isso acontecer, bana esse card.
   ja: |-
     「召喚師アレイスター」＋光属性モンスター
-    ①：１ターンに１度、モンスターの効果・魔法・罠カードが発動した時、そのカードと同じ種類（モンスター・魔法・罠）の手札を１枚墓地へ送って発動できる。その発動を無効にし除外する。
+    ①：１ターンに１度、モンスターの効果・魔法・罠カードが発動した時、その効果と同じ種類（モンスター・魔法・罠）のカード１枚を手札から墓地へ送って発動できる。その発動を無効にし除外する。
   ko: |-
     "소환사 알레이스터" ＋ 빛 속성 몬스터
     ①: 1턴에 1번, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때, 그 카드와 같은 종류(몬스터 / 마법 / 함정)의 패를 1장 묘지로 보내고 발동할 수 있다. 그 발동을 무효로 하고 제외한다.
@@ -178,6 +178,12 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  - set_number: QCAC-JP057
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SPFE-KR032
     set_name: 'Booster SP: Fusion Enforcers'

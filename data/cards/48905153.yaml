@@ -34,14 +34,14 @@ text:
     Uma vez por turno, você também pode Invocar "Dridente Zoodíaco" por Invocação-Xyz ao usar 1 monstro "Zoodíaco(a)" que você controla com um nome diferente como matéria. (Transfira as matérias dele para este card.) Ganha ATK/DEF igual ao ATK/DEF de todos os monstros "Zoodíaco(a)" associados a ele como matéria. Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card e, depois, escolha 1 card com a face para cima no campo; destrua-o.
   ja: |-
     レベル４モンスター×４
-    「十二獣ドランシア」は１ターンに１度、同名カード以外の自分フィールドの「十二獣」モンスターの上に重ねてＸ召喚する事もできる。①：このカードの攻撃力・守備力は、このカードがＸ素材としている「十二獣」モンスターのそれぞれの数値分アップする。②：１ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの表側表示のカード１枚を対象として発動できる。そのカードを破壊する。この効果は相手ターンでも発動できる。
+    「十二獣ドランシア」は１ターンに１度、同名カード以外の自分フィールドの「十二獣」モンスターの上に重ねてＸ召喚する事もできる。①：このカードの攻撃力・守備力は、このカードがＸ素材としている「十二獣」モンスターのそれぞれの数値分アップする。②：自分・相手ターンに１度、このカードのＸ素材を１つ取り除き、フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     레벨 4 몬스터 × 4
     "십이수 드란시아"는 1턴에 1번, 같은 이름의 카드 이외의 자신 필드의 "십이수" 몬스터 위에 겹쳐 엑시즈 소환할 수도 있다. ①: 이 카드의 공격력 / 수비력은, 이 카드가 엑시즈 소재로 하고 있는 "십이수" 몬스터 각각의 수치만큼 올린다. ②: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 필드의 앞면 표시 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    等级4怪兽×4
-    “十二兽 辰枪”1回合1次，也可重叠在同名卡以外的、自己场上的“十二兽”怪兽上面来超量召唤。①：此卡的攻击力・守备力分别上升此卡持有的超量素材中“十二兽”怪兽的相应数值。②：在每个自己・对手回合中1次，去除此卡的1个超量素材，以场上的1张表侧表示卡为对象可以发动。将该卡破坏。
+    等级４怪兽×４
+    “十二兽 辰枪”１回合１次，也可重叠在同名卡以外的、自己场上的“十二兽”怪兽上面来超量召唤。①：此卡的攻击力・守备力分别上升此卡持有的超量素材中“十二兽”怪兽的相应数值。②：在每个自己・对手回合中１次，去除此卡的１个超量素材，以场上的１张表侧表示卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Beast-Warrior / Xyz / Effect
 attribute: EARTH
@@ -140,6 +140,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  - set_number: QCAC-JP089
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: RATE-KR053
     set_name: Raging Tempest

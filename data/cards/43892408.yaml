@@ -34,8 +34,8 @@ text:
     "Pequena Maga Negra" + 1 monstro Dragão
     Deve ser Invocado por Invocação-Fusão com as Matérias de Fusão acima ou com "O Olho de Timaeus". Uma vez por turno (Efeito Rápido): você pode enviar 1 card da sua mão para o Cemitério e, depois, escolha 1 card com a face para cima no campo; destrua o alvo.
   ja: |-
-    「ブラック・マジシャン・ガール」＋ドラゴン<ruby>族<rt>ぞく</rt></ruby>モンスター
-    このカードは<ruby>上<rt>じょう</rt></ruby><ruby>記<rt>き</rt></ruby>カードを<ruby>融<rt>ゆう</rt></ruby><ruby>合<rt>ごう</rt></ruby><ruby>素<rt>そ</rt></ruby><ruby>材<rt>ざい</rt></ruby>にした<ruby>融<rt>ゆう</rt></ruby><ruby>合<rt>ごう</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>または「ティマイオスの<ruby>眼<rt>まなこ</rt></ruby>」の<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>でのみ<ruby>特<rt>とく</rt></ruby><ruby>殊<rt>しゅ</rt></ruby><ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>できる。①：１ターンに１<ruby>度<rt>ど</rt></ruby>、<ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby>を１<ruby>枚<rt>まい</rt></ruby><ruby>墓<rt>ぼ</rt></ruby><ruby>地<rt>ち</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>り、フィールドの<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>のカード１<ruby>枚<rt>まい</rt></ruby>を<ruby>対<rt>たい</rt></ruby><ruby>象<rt>しょう</rt></ruby>として<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。その<ruby>表<rt>おもて</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>示<rt>じ</rt></ruby>のカードを<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>する。この<ruby>効<rt>こう</rt></ruby><ruby>果<rt>か</rt></ruby>は<ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>ターンでも<ruby>発<rt>はつ</rt></ruby><ruby>動<rt>どう</rt></ruby>できる。
+    「ブラック・マジシャン・ガール」＋ドラゴン族モンスター
+    このカードは上記のカードを融合素材にした融合召喚及び、「ティマイオスの眼」の効果でのみ特殊召喚できる。①：自分・相手ターンに１度、手札を１枚墓地へ送り、フィールドの表側表示カード１枚を対象として発動できる。その表側表示カードを破壊する。
   ko: |-
     "블랙 매지션 걸" ＋ 드래곤족 몬스터
     이 카드는 상기 카드를 융합 소재로 한 융합 소환 또는 "티마이오스의 눈"의 효과로만 특수 소환할 수 있다. ①: 1턴에 1번, 패를 1장 묘지로 보내고, 필드의 앞면 표시의 카드 1장을 대상으로 하여 발동할 수 있다. 그 앞면 표시의 카드를 파괴한다. 이 효과는 상대 턴에도 발동할 수 있다.
@@ -213,6 +213,12 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  - set_number: QCAC-JP020
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CPL1-KR004
     set_name: 'Collectors Pack: Duelist of Legend Version'

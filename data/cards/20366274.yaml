@@ -34,17 +34,14 @@ text:
     Primeiro deve ser Invocado por Invocação-Fusão. Se este card for Invocado por Invocação-Especial: você pode enviar 1 card "Sombraneco" do seu Deck para o Cemitério. No começo da Etapa de Dano, se este card batalhar um monstro Invocado por Invocação-Especial: destrua esse monstro. Se este card for enviado para o Cemitério: você pode escolher 1 Magia/Armadilha "Sombraneco" no seu Cemitério; adicione-a à sua mão.
   ja: |-
     「シャドール」モンスター＋光属性モンスター
-    このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードが特殊召喚に成功した場合に発動できる。デッキから「シャドール」カード１枚を墓地へ送る。②：このカードが特殊召喚されたモンスターと戦闘を行うダメージステップ開始時に発動する。そのモンスターを破壊する。③：このカードが墓地へ送られた場合、自分の墓地の「シャドール」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
+    このカードは融合召喚でのみＥＸデッキから特殊召喚できる。①：このカードが特殊召喚した場合に発動できる。デッキから「シャドール」カード１枚を墓地へ送る。②：このカードが特殊召喚されたモンスターと戦闘を行うダメージステップ開始時に発動する。そのモンスターを破壊する。③：このカードが墓地へ送られた場合、自分の墓地の「シャドール」魔法・罠カード１枚を対象として発動できる。そのカードを手札に加える。
   ko: |-
     "섀도르" 몬스터 ＋ 빛 속성 몬스터
     이 카드는 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "섀도르" 카드 1장을 묘지로 보낸다. ②: 이 카드가 특수 소환된 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동한다. 그 몬스터를 파괴한다. ③: 이 카드가 묘지로 보내졌을 경우, 자신 묘지의 "섀도르" 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다.
   zh-TW:
   zh-CN: |-
     “影依”怪兽＋光属性怪兽
-    此卡从额外牌组仅可通过融合召唤来特殊召唤。
-    ①：此卡特殊召唤的情况下可以发动。从牌组中将１张“影依”卡送至墓地。
-    ②：此卡与被特殊召唤的怪兽进行战斗的伤害步骤开始时发动。将该怪兽破坏。
-    ③：此卡被送至墓地的情况下，以自己墓地的１张“影依”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
+    此卡从额外牌组仅可通过融合召唤来特殊召唤。①：此卡特殊召唤的情况下可以发动。从牌组中将１张“影依”卡送至墓地。②：此卡与被特殊召唤的怪兽进行战斗的伤害步骤开始时发动。将该怪兽破坏。③：此卡被送至墓地的情况下，以自己墓地的１张“影依”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
 card_type: Monster
 monster_type_line: Fairy / Fusion / Effect
 attribute: LIGHT
@@ -215,6 +212,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: QCAC-JP055
+    set_name: Quarter Century Art Collection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DUEA-KR049
     set_name: Duelist Alliance
