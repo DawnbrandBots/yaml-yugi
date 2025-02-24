@@ -1,7 +1,7 @@
 konami_id: 21153
 password: 95718355
 name:
-  en: Regenesis Archfiend Bemidbar
+  en: Regenesis Archfiend
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 再世荒恶魔神 贝米德巴尔
 text:
   en: |-
-    You can Special Summon this card (from your hand) by revealing 1 other monster in your hand with 2500 ATK or DEF. You can only Special Summon "Regenesis Archfiend Bemidbar" once per turn this way. You can only use each of the following effects of "Regenesis Archfiend Bemidbar" once per turn. If this card is Normal or Special Summoned: You can add 1 "Regenesis" card from your Deck or banishment to your hand, except "Regenesis Archfiend Bemidbar". During your opponent's End Phase, if this card is in your GY because it was sent there this turn: You can add it to your hand.
+    You can Special Summon this card (from your hand) by revealing another monster with 2500 ATK or DEF in your hand. You can only Special Summon "Regenesis Archfiend" once per turn this way. You can only use each of the following effects of "Regenesis Archfiend" once per turn. If this card is Normal or Special Summoned: You can add 1 "Regenesis" card from your Deck or banishment to your hand, except "Regenesis Archfiend". During your opponent's End Phase, if this card is in the GY because it was sent there this turn: You can add this card to your hand.
   de:
   es:
   fr:
@@ -38,8 +38,68 @@ series:
 - Regenesis
 images:
 - index: 1
-  image: RegenesisArchfiendBemidbar-ALIN-JP-SR.png
+  image: RegenesisArchfiend-ALIN-JP-SR.png
 sets:
+  en:
+  - set_number: ALIN-ENSP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-EN016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: ALIN-DESP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-DE016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  es:
+  - set_number: ALIN-SPSP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-SP016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: ALIN-FRSP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-FR016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: ALIN-ITSP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-IT016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: ALIN-PTSP1
+    set_name: Alliance Insight Premiere! promotional card
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-PT016
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: ALIN-JP016
     set_name: Alliance Insight
@@ -67,9 +127,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1105986
