@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Each player has a face-up Level 7 or higher monster on their field.
+    Both players have a face-up Level 7 or higher monster on their field.
   de:
   es:
   fr:
@@ -27,7 +27,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Inflict damage to your opponent equal to [the Level of 1 face-up monster on your field] x 100. This turn, you can only attack with 1 monster.
+    Choose 1 face-up monster on your field and inflict damage to your opponent equal to [the chosen monster's Level] x 100. You can only attack with 1 monster this turn.
   de:
   es:
   fr:
@@ -49,7 +49,4 @@ sets:
     set_name: Battle Pack 2022 Vol.4
     rarities:
     - Common
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 715593
