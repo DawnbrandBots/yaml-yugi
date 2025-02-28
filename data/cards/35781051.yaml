@@ -26,7 +26,10 @@ text:
     Lorsque cette carte est Invoquée, lancez une pièce : ● Face : Chaque fois que votre adversaire Invoque Normalement ou Pose un monstre, vous pouvez Invoquer Spécialement 1 monstre "Force Arcane" depuis votre main. ● Pile : Chaque fois que votre adversaire Invoque Normalement ou Pose un monstre, envoyez 1 carte depuis votre main au Cimetière.
   it: |-
     Quando questa carta viene Evocata, lancia una moneta: ● Testa: Ogni volta che il tuo avversario Evoca tramite Evocazione Normale o Posiziona un mostro, tu puoi Evocare tramite Evocazione Speciale 1 mostro "Energia Arcana" dalla tua mano. ● Croce: Ogni volta che il tuo avversario Evoca tramite Evocazione Normale o Posiziona un mostro, manda 1 carta dalla tua mano al Cimitero.
-  pt:
+  pt: |-
+    Se este card for Invocado: lance uma moeda.
+    ● Cara: Quando seu oponente Invocar um monstro por Invocação-Normal/Baixar: você pode Invocar por Invocação-Especial 1 monstro "Força Arcana" da sua mão.
+    ● Coroa: Sempre que seu oponente Invocar um monstro por Invocação-Normal/Baixar: envie 1 card da sua mão para o Cemitério.
   ja: |-
     このカードが召喚・反転召喚・特殊召喚に成功した時、コイントスを１回行い以下の効果を得る。● 表：相手がモンスターの通常召喚に成功する度に手札から「アルカナフォース」と名のついたモンスター１体を自分フィールド上に特殊召喚する事ができる。● 裏：相手がモンスターの通常召喚に成功する度に自分は手札のカード１枚を墓地へ送る。
   ko: |-
@@ -77,6 +80,11 @@ sets:
   it:
   - set_number: LODT-IT010
     set_name: Light of Destruction
+    rarities:
+    - Common
+  pt:
+  - set_number: OP27-PT030
+    set_name: OTS Tournament Pack 27
     rarities:
     - Common
   ja:

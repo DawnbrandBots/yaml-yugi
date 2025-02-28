@@ -24,7 +24,8 @@ text:
     Sélectionnez 1 monstre "Force Arcane" que vous contrôlez. Retirez du jeu 1 monstre "Force Arcane" depuis un des Cimetières. Jusqu'à la End Phase, l'effet du monstre sélectionné devient l'effet du monstre retiré pour le même résultat d'un lancer de pièce.
   it: |-
     Seleziona 1 mostro "Energia Arcana" che controlli. Rimuovi dal gioco 1 mostro "Energia Arcana" dal Cimitero di un Giocatore. Fino alla End Phase, l'effetto del mostro selezionato diventa l'effetto del mostro rimosso con lo stesso risultato del lancio della moneta.
-  pt:
+  pt: |-
+    Escolha 1 monstro "Força Arcana" que você controla e 1 monstro "Força Arcana" em qualquer Cemitério; bana o segundo alvo do Cemitério e, se isso acontecer, até a Fase Final, o efeito do primeiro alvo ganho como resultado de um lançamento de moeda se torna o efeito do monstro banido pelo mesmo resultado de lançamento de moeda.
   ja: |-
     自分フィールド上に表側表示で存在する「アルカナフォース」と名のついたモンスター１体を選択して発動する。墓地に存在する「アルカナフォース」と名のついたモンスター１体をゲームから除外する。エンドフェイズ時まで、選択したモンスターがコイントスによって得た効果は、ゲームから除外したモンスターがコイントスによって得る効果と同じ効果になる。
   ko: |-
@@ -65,6 +66,11 @@ sets:
   it:
   - set_number: LODT-IT069
     set_name: Light of Destruction
+    rarities:
+    - Common
+  pt:
+  - set_number: OP27-PT037
+    set_name: OTS Tournament Pack 27
     rarities:
     - Common
   ja:
