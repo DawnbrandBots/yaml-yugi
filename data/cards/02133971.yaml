@@ -15,7 +15,7 @@ name:
   zh-CN: 联合控制器
 text:
   en: |-
-    1 LIGHT Machine monster  + "Y-Dragon Yearhead" or "Z-Zillion Tank"
+    1 LIGHT Machine monster  + "Y-Yare Head" or "Z-Zillion Tank"
     Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. If this card is Special Summoned from the Extra Deck: You can add 1 Spell/Trap from your Deck to your hand that mentions "Union monster" in its text. You can only use this effect of "Union Controller" once per turn. Once per turn, during your Main Phase: You can Special Summon 1 LIGHT Machine Normal or Union monster from your hand.
   de:
   es:
@@ -38,15 +38,41 @@ attribute: LIGHT
 level: 6
 atk: 2200
 def: 1900
-materials: 1 LIGHT Machine-Type monster + "Y-Dragon Yearhead" or "Z-Zillion Tank"
+materials: 1 LIGHT Machine-Type monster + "Y-Yare Head" or "Z-Zillion Tank"
 images:
 - index: 1
   image: UnionController-DP29-JP-SR.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN022
     set_name: Maze of the Master
     rarities:
+    - Secret Rare
+  de:
+  - set_number: MZTM-DE022
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: MZTM-SP022
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: MZTM-FR022
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: MZTM-IT022
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: MZTM-PT022
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DP29-JP023
     set_name: 'Duelist Pack: Duelists of Brilliance'
@@ -68,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1057681
