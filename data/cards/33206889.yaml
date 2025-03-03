@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 "Performage" monsters
-    Your opponent cannot target "Performage" monsters you control with card effects, also they cannot be destroyed by your card effects. Your opponent's monsters cannot target this card for attacks while you control a "Performage" monster other than "Performage Trapeze Witch". When an attack is declared involving your "Performage" monster and an opponent's monster: You can make that opponent's monster lose 600 ATK.
+    "Performage" monsters you control cannot be destroyed by your card effects, also your opponent cannot target them with card effects. While you control a "Performage" monster, except "Performage Trapeze Witch", your opponent's monsters cannot target this card for attacks. When an attack is declared involving your "Performage" monster and an opponent's monster: You can make that opponent's monster lose 600 ATK.
   de:
   es:
   fr:
@@ -46,9 +46,35 @@ images:
   image: PerformageTrapezeWitch-AC04-JP-C.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN053
     set_name: Maze of the Master
     rarities:
+    - Super Rare
+  de:
+  - set_number: MZTM-DE053
+    set_name: Maze of the Master
+    rarities:
+    - Super Rare
+  es:
+  - set_number: MZTM-SP053
+    set_name: Maze of the Master
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: MZTM-FR053
+    set_name: Maze of the Master
+    rarities:
+    - Super Rare
+  it:
+  - set_number: MZTM-IT053
+    set_name: Maze of the Master
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: MZTM-PT053
+    set_name: Maze of the Master
+    rarities:
+    - Super Rare
   ja:
   - set_number: AC04-JP022
     set_name: Animation Chronicle 2024
@@ -71,7 +97,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1063263

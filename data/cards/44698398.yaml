@@ -1,7 +1,7 @@
 konami_id: 20280
 password: 44698398
 name:
-  en: Dragluxion
+  en: Divine Golden Shadow Dragon Dragluxion
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 8 monsters
-    If this card is Special Summoned from the Extra Deck: You can add 1 "Galaxy" or "Tachyon" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon 1 Rank 8 Dragon Xyz Monster with 3000 ATK from your Extra Deck, by using this card you control as material, then you can attach 1 "Galaxy" monster from your Extra Deck to it as additional material. (This is treated as an Xyz Summon. Transfer this card's materials to the Summoned monster.) You can only use each effect of "Dragluxion" once per turn.
+    If this card is Special Summoned from the Extra Deck: You can add 1 "Galaxy" or "Tachyon" card from your Deck to your hand. You can detach 2 materials from this card; Special Summon from your Extra Deck, 1 Rank 8 Dragon Xyz Monster with 3000 ATK, using this card you control as material (this is treated as an Xyz Summon, transfer its materials to the Summoned monster), then you can attach 1 "Galaxy" monster from your Extra Deck to it. You can only use each effect of "Divine Golden Shadow Dragon Dragluxion" once per turn.
   de:
   es:
   fr:
@@ -41,12 +41,38 @@ def: 3000
 materials: 2 Level 8 monsters
 images:
 - index: 1
-  image: Dragluxion-DP29-JP-UR.png
+  image: DivineGoldenShadowDragonDragluxion-DP29-JP-UR.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN014
     set_name: Maze of the Master
     rarities:
+    - Ultra Rare
+  de:
+  - set_number: MZTM-DE014
+    set_name: Maze of the Master
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: MZTM-SP014
+    set_name: Maze of the Master
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: MZTM-FR014
+    set_name: Maze of the Master
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: MZTM-IT014
+    set_name: Maze of the Master
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: MZTM-PT014
+    set_name: Maze of the Master
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DP29-JP004
     set_name: 'Duelist Pack: Duelists of Brilliance'
@@ -71,9 +97,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1054112

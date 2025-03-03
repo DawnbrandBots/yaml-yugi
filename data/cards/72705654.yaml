@@ -15,7 +15,7 @@ name:
   zh-CN: 时空云笼
 text:
   en: |-
-    If this card is added to your hand, except by drawing it: You can Special Summon it. You can Tribute this card; Special Summon 1 "Tachyon" monster from your Deck or GY, except "Tachyon Cloudragon". If you Special Summon a Dragon Xyz Monster(s) (except during the Damage Step): You can target 1 of them; attach this card to it as material from the GY (if it was there when the monster was Summoned) or hand (even if not). You can only use each effect of "Tachyon Cloudragon" once per turn.
+    If this card is added to your hand, except by drawing it: You can Special Summon this card. You can Tribute this card; Special Summon 1 "Tachyon" monster from your Deck or GY, except "Tachyon Cloudragon". If you Special Summon a Dragon Xyz Monster(s) (except during the Damage Step): You can target 1 of them; attach this card to that monster, from the GY (if it was there when the monster was Special Summoned) or hand (even if not), as material. You can only use each effect of "Tachyon Cloudragon" once per turn.
   de:
   es:
   fr:
@@ -41,9 +41,35 @@ images:
   image: TachyonCloudragon-DP29-JP-R.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN012
     set_name: Maze of the Master
     rarities:
+    - Rare
+  de:
+  - set_number: MZTM-DE012
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  es:
+  - set_number: MZTM-SP012
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  fr:
+  - set_number: MZTM-FR012
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  it:
+  - set_number: MZTM-IT012
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  pt:
+  - set_number: MZTM-PT012
+    set_name: Maze of the Master
+    rarities:
+    - Rare
   ja:
   - set_number: DP29-JP002
     set_name: 'Duelist Pack: Duelists of Brilliance'
@@ -62,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1054108

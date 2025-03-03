@@ -15,9 +15,9 @@ name:
   zh-CN: 死灵之残像
 text:
   en: |-
-    Equip only to a Level 5 or higher Fiend or Zombie monster. When an attack is declared involving the equipped monster and an opponent's monster: You can make that opponent's monster lose ATK equal to the equipped monster's. You can activate 1 of these effects;
+    Equip only to a Level 5 or higher Fiend or Zombie monster. When an attack is declared involving the equipped monster and an opponent's monster: You can make that opponent's monster lose ATK equal to the equipped monster's ATK. You can activate 1 of these effects;
     ● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field.
-    ● Special Summon 1 "Doppelganger Token" (Level 5/ATK ?/DEF 0) with the same Type, Attribute, and ATK as the equipped monster.
+    ● Special Summon 1 "Doppelganger Token" (Level 5/ATK ?/DEF 0) with the equipped monster's Type, Attribute, and ATK.
     You can only use this effect of "Spirit Illusion" once per turn.
   de:
   es:
@@ -41,9 +41,35 @@ images:
   image: SpiritIllusion-AC04-JP-C.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN034
     set_name: Maze of the Master
     rarities:
+    - Rare
+  de:
+  - set_number: MZTM-DE034
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  es:
+  - set_number: MZTM-SP034
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  fr:
+  - set_number: MZTM-FR034
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  it:
+  - set_number: MZTM-IT034
+    set_name: Maze of the Master
+    rarities:
+    - Rare
+  pt:
+  - set_number: MZTM-PT034
+    set_name: Maze of the Master
+    rarities:
+    - Rare
   ja:
   - set_number: AC04-JP003
     set_name: Animation Chronicle 2024
@@ -64,7 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1058428
