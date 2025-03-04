@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    When your opponent Special Summons a monster(s): You can discard this card and 1 Spell; destroy that monster(s). You can only use this effect of "Singularity Fiend" once per turn.
+    When your opponent Special Summons a monster(s) (except during the Damage Step): You can discard this card and 1 Spell; destroy that monster(s). You can only use this effect of "Singularity Fiend" once per turn.
   de:
   es:
   fr:
@@ -38,9 +38,35 @@ images:
   image: SingularityFiend-AC04-JP-SR.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN042
     set_name: Maze of the Master
     rarities:
+    - Secret Rare
+  de:
+  - set_number: MZTM-DE042
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: MZTM-SP042
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: MZTM-FR042
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: MZTM-IT042
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: MZTM-PT042
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
   ja:
   - set_number: AC04-JP011
     set_name: Animation Chronicle 2024
@@ -56,7 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1054449

@@ -15,7 +15,7 @@ name:
   zh-CN: 无限龙 史瓦西
 text:
   en: |-
-    If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except "Schwarzschild Infinity Dragon", but negate its effects. You cannot Special Summon from the Extra Deck the turn you activate this effect, except Dragon Xyz Monsters. You can only use this effect of "Schwarzschild Infinity Dragon" once per turn.
+    If you control no monsters, or your opponent controls a monster with 2000 or more ATK: You can Special Summon this card from your hand, and if you do, Special Summon 1 Level 8 LIGHT or DARK Dragon monster from your Deck in Defense Position, except "Schwarzschild Infinity Dragon", but negate its effects. You can only use this effect of "Schwarzschild Infinity Dragon" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate this effect, except Dragon Xyz Monsters.
   de:
   es:
   fr:
@@ -39,9 +39,35 @@ images:
   image: SchwarzschildInfinityDragon-DP29-JP-SR.png
 sets:
   en:
-  - set_number: MZTM-EN???
+  - set_number: MZTM-EN013
     set_name: Maze of the Master
     rarities:
+    - Secret Rare
+  de:
+  - set_number: MZTM-DE013
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: MZTM-SP013
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: MZTM-FR013
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: MZTM-IT013
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: MZTM-PT013
+    set_name: Maze of the Master
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DP29-JP003
     set_name: 'Duelist Pack: Duelists of Brilliance'
@@ -63,9 +89,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1054110
