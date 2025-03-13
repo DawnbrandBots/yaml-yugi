@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 黯蜜☆惊喜
 text:
   en: |-
     Activate 1 of these effects (but you can only use each effect of "Yummy☆Surprise" once per turn);
@@ -27,7 +27,11 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：可从以下选择1个发动（此卡名的以下效果1回合仅可各选择1次）。
+    ●以自己场上的2只兽族・光属性怪兽和对手场上的2张卡为对象可以发动。将该卡放回手牌。
+    ●从自己手牌・墓地将1只“黯蜜”怪兽特殊召唤。该怪兽此回合不可直接攻击。
+    ●从自己场上（表侧表示）・墓地将1张场地魔法卡放回手牌。然后，可从手牌将1张“黯蜜”场地魔法卡以表侧表示放在自己场上。
 card_type: Spell
 property: Quick-Play
 series:
@@ -40,9 +44,13 @@ sets:
   - set_number: DBJH-JP025
     set_name: 'Deck Build Pack: Justice Hunters'
     rarities:
+  zh-CN:
+  - set_number: DBJH-SC025
+    set_name: 'Deck Build Pack: Justice Hunters'
+    rarities:
 limit_regulation:
-  tcg: Not yet released
-  ocg: Not yet released
+  tcg:
+  ocg:
 is_translation_unofficial:
   name:
     en: true
