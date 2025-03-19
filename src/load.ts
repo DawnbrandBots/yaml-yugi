@@ -115,10 +115,7 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 		const response = await retry(() =>
 			opensearch.bulk({
 				index,
-				body: partition.flatMap(card => [
-					{ update: { _id: card.yugipedia_page_id } },
-					{ doc: card, doc_as_upsert: true }
-				])
+				body: partition.flatMap(card => [{ index: { _id: card.yugipedia_page_id } }, card])
 			})
 		);
 		if (response.body.errors) {
@@ -129,8 +126,8 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 			}
 		}
 		if (i + 500 < cards.length) {
-			console.log("Done, waiting for 10000 ms...");
-			await sleep(10000);
+			console.log("Done, waiting for 5000 ms...");
+			await sleep(5000);
 		}
 	}
 })();
