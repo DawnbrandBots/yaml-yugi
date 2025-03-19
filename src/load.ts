@@ -1,5 +1,6 @@
-// SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
+// SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
 // SPDX-Licence-Identifier: AGPL-3.0-or-later
+import { setTimeout as sleep } from "timers/promises";
 import fs from "fs";
 import yaml from "js-yaml";
 import { Client } from "@opensearch-project/opensearch";
@@ -71,10 +72,6 @@ for (const card of cards) {
 	}
 }
 console.log("Ruby expansion complete");
-
-function sleep(ms: number): Promise<void> {
-	return new Promise(resolve => setTimeout(resolve, ms));
-}
 
 async function retry<T>(fn: () => T | PromiseLike<T>, times = 4, max = times): Promise<T> {
 	try {
