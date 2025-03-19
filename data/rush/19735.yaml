@@ -23,7 +23,7 @@ requirement:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、相手フィールドの表側表示モンスターのレベルの合計が１０以上の場合に発動できる。
   ko: |-
-    상대 필드의 앞면 표시 몬스터의 레벨의 합계가 10 이상일 경우, 이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 상대 필드의 앞면 표시 몬스터의 레벨의 합계가 10 이상일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -62,6 +62,10 @@ sets:
   ko:
   - set_number: RD/KP15-KRS02
     set_name: Red Reboot of Darkness
+    rarities:
+    - Super Rare
+  - set_number: RD/TB02-KR021
+    set_name: 'Triple Build Pack: Evolution Impact'
     rarities:
     - Super Rare
 is_translation_unofficial:

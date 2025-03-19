@@ -8,7 +8,7 @@ name:
   pt:
   ja: マクスヴァスル・ザッハーク
   ja_romaji: Makusuvasuru Zahhāku
-  ko:
+  ko: 맥스배슬 자하크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地のマキシマムモンスター（レベル１０／闇属性／ドラゴン族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 맥시멈 몬스터(레벨 10 / 어둠 속성 / 드래곤족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/TB02-JP022
+    set_name: 'Triple Build Pack: Evolution Impact'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/TB02-KR022
     set_name: 'Triple Build Pack: Evolution Impact'
     rarities:
     - Common

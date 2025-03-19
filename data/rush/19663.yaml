@@ -51,7 +51,7 @@ effect:
   ja: |-
     自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はその中から「メテオ・ドラゴン」１体または「メテオフレア・フュージョン」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
   ko: |-
-    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 넘긴 카드 중에서 "메테오 드래곤" 1장 또는 "메테오플레어 퓨전" 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
+    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 그 중에서 "메테오 드래곤" 1장 또는 "메테오플레어 퓨전" 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -85,6 +85,10 @@ sets:
     set_name: Red Reboot of Darkness
     rarities:
     - Rare
+  - set_number: RD/TB02-KR013
+    set_name: 'Triple Build Pack: Evolution Impact'
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

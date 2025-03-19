@@ -8,7 +8,7 @@ name:
   pt:
   ja: ジュラシック・ドロー
   ja_romaji: Jurashikku Dorō
-  ko:
+  ko: 쥐라기 드로우
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（恐竜族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(공룡족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。このターン、自分はモンスター（恐竜族以外）で攻撃できない。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 이 턴에, 자신은 몬스터(공룡족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/TB02-JP048
+    set_name: 'Triple Build Pack: Evolution Impact'
+    rarities:
+    - Normal Parallel Rare
+  ko:
+  - set_number: RD/TB02-KR048
     set_name: 'Triple Build Pack: Evolution Impact'
     rarities:
     - Normal Parallel Rare
