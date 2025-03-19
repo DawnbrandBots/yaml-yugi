@@ -126,8 +126,8 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 			}
 		}
 		if (i + 500 < cards.length) {
-			console.log("Done, waiting for 5000 ms...");
-			await sleep(5000);
+			console.log("Done, waiting for 10000 ms...");
+			await sleep(10000);
 		}
 	}
 })();
