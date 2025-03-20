@@ -80,7 +80,7 @@ async function retry<T>(fn: () => T | PromiseLike<T>, times = 4, max = times): P
 		if (times === 0) {
 			throw error;
 		}
-		const interval = 2 ** (max - times) * 5000;
+		const interval = 2 ** (max - times) * 6000;
 		console.warn(`Failure, retrying in ${interval} ms...`);
 		await sleep(interval);
 		return await retry(fn, times - 1, max);
@@ -122,9 +122,10 @@ const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 				}
 			}
 		}
+		console.log(`Took: ${response.body.took}`);
 		if (i + 500 < cards.length) {
-			console.log("Done, waiting for 10000 ms...");
-			await sleep(10000);
+			console.log("Done, waiting for 12000 ms...");
+			await sleep(12000);
 		}
 	}
 })();
