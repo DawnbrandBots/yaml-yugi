@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar um monstro com 2000 ou mais de ATK, você pode Invocar este card por Invocação-Especial (da sua mão) com a face para cima em Posição de Defesa. Você só pode Invocar "Impulsionador Revestido" por Invocação-Especial uma vez por turno desta forma. Durante seu turno, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério e, depois, escolher 1 Monstro Xyz com a face para cima que você controla com alguma Matéria Xyz; ele ganha 500 de ATK para cada Matéria Xyz associada a ele.
   ja: |-
-    自分フィールド上に攻撃力２０００以上のモンスターが存在する場合、このカードは手札から表側守備表示で特殊召喚できる。この方法による「オーバーレイ・ブースター」の特殊召喚は１ターンに１度しかできない。また、墓地のこのカードをゲームから除外し、自分フィールド上のエクシーズ素材を持ったエクシーズモンスター１体を選択して発動できる。選択したモンスターの攻撃力は、そのモンスターのエクシーズ素材の数×５００ポイントアップする。この効果はこのカードが墓地へ送られたターンには発動できない。
+    このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分フィールドに攻撃力２０００以上のモンスターが存在する場合、このカードは手札から守備表示で特殊召喚できる。②：このターンに墓地へ送られていないこのカードを墓地から除外し、Ｘ素材を持っている自分フィールドのＸモンスター１体を対象として発動できる。そのモンスターの攻撃力は、自身のＸ素材の数×５００アップする。
   ko: |-
     자신 필드 위에 공격력 2000 이상의 몬스터가 존재할 경우, 이 카드는 패에서 앞면 수비 표시로 특수 소환할 수 있다. 이 방법에 의한 "오버레이 부스터"의 특수 소환은 1턴에 1번밖에 할 수 없다. 또한, 묘지의 이 카드를 게임에서 제외하고, 자신 필드 위의 엑시즈 소재를 가진 엑시즈 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 공격력은, 그 몬스터의 엑시즈 소재의 수 × 500 포인트 올린다. 이 효과는 이 카드가 묘지로 보내진 턴에는 발동할 수 없다.
   zh-TW:
@@ -81,8 +81,10 @@ sets:
     rarities:
     - Common
   - set_number: DBJH-JP042
-    set_name: 'Deck Build Pack: Justice Hunters'
+    set_name: 'Deck-Build Pack: Justice Hunters'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: LVAL-KR006
     set_name: Legacy of the Valiant
