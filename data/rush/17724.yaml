@@ -9,7 +9,7 @@ name:
   ja: <ruby>貪<rt>どん</rt></ruby><ruby>欲<rt>よく</rt></ruby>な<ruby>壺<rt>つぼ</rt></ruby>
   ja_romaji:
   ko: 탐욕의 항아리
-  ko_rr:
+  ko_rr: Tam-yok-ui Hang-ari
   zh-TW:
   zh-CN:
 requirement:
@@ -47,8 +47,12 @@ images:
 - index: 1
   image: PotofAvarice-RDMRP1-JP-ScR.png
   illustration: PotofAvarice-G002-JP-VG-artwork.png
+- index: '1.1'
+  image: PotofAvarice-RDEPP1-KR-C.png
 - index: 2
   image: PotofAvarice-RDS23P-JP-UPR.png
+- index: '2.1'
+  image: PotofAvarice-RDMT24-KR-OP.png
 sets:
   ja:
   - set_number: RD/MRP1-JP100
@@ -57,6 +61,10 @@ sets:
     - Secret Rare
   - set_number: RD/S23P-JP011
     set_name: Tournament Battle February 2024 prize card
+    rarities:
+    - Ultra Parallel Rare
+  - set_number: RD/5TH1-JP020
+    set_name: 5th Anniversary Pack
     rarities:
     - Ultra Parallel Rare
   ko:
