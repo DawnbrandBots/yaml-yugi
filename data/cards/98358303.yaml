@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card no campo for destruído e enviado para o Cemitério: você pode banir 1 monstro do Tipo Psíquico com 2000 ou menos de ATK do seu Deck. Durante a próxima Fase de Apoio, se este card permanecer no Cemitério: Invoque por Invocação-Especial o monstro banido pelo efeito deste card.
   ja: |-
-    フィールド上に存在するこのカードが破壊され墓地へ送られた時、自分のデッキから攻撃力２０００以下のサイキック族モンスター１体をゲームから除外する事ができる。次のスタンバイフェイズ時、この効果で除外したモンスターを特殊召喚する。
+    ①：フィールドのこのカードが破壊され墓地へ送られた時に発動できる。デッキから攻撃力２０００以下のサイキック族モンスター１体を除外する。②：このカードの①の効果でモンスターを除外した場合、次のスタンバイフェイズに墓地で発動する。その除外状態のモンスターを特殊召喚する。
   ko: |-
     필드 위에 존재하는 이 카드가 파괴되어 묘지로 보내졌을 때, 자신의 덱에서 공격력 2000 이하의 사이킥족 몬스터 1장을 게임에서 제외할 수 있다. 다음 스텐바이 페이즈시, 이 효과로 제외한 몬스터를 특수 소환한다.
   zh-TW:
@@ -122,6 +122,10 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  - set_number: 25TP-JP106
+    set_name: Tournament Pack 2025 Vol.1
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: EXVC-KR026
     set_name: Extreme Victory

@@ -34,13 +34,13 @@ text:
     Uma vez por turno, durante a Fase Principal (Efeito Rápido): você pode banir tanto este card com a face para cima do campo quanto 1 card aleatório da mão do seu oponente, com a face para cima, até sua próxima Fase de Apoio. Uma vez por turno, durante a Fase de Apoio do seu oponente: você pode escolher 1 card banido; devolva-o para o Cemitério. Se este card estiver no seu Cemitério: você pode escolher 1 outro card no Cemitério; embaralhe tanto esse card quanto este card do Cemitério no Deck.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
-    ①：１ターンに１度、自分・相手のメインフェイズに発動できる。相手の手札をランダムに１枚選び、そのカードと表側表示のこのカードを次の自分スタンバイフェイズまで表側表示で除外する。②：相手スタンバイフェイズに、除外されている自分または相手のカード１枚を対象として発動できる。そのカードを墓地に戻す。③：このカードが墓地に存在する場合、このカード以外の自分または相手の墓地のカード１枚を対象として発動できる。そのカードと墓地のこのカードをデッキに戻す。
+    ①：１ターンに１度、自分・相手のメインフェイズに発動できる。相手の手札をランダムに１枚選び、そのカードと表側表示のこのカードを次の自分スタンバイフェイズまで表側で除外する。②：相手スタンバイフェイズに、自分か相手の除外状態のカード１枚を対象として発動できる。そのカードを墓地に戻す。③：このカードが墓地に存在する場合、自分か相手の墓地の他のカード１枚を対象として発動できる。そのカードとこのカードをデッキに戻す。
   ko: |-
     튜너 ＋ 튜너 이외의 몬스터 1장 이상
     ①: 1턴에 1번, 자신 / 상대의 메인 페이즈에 발동할 수 있다. 상대의 패를 무작위로 1장 고르고, 그 카드와 앞면 표시의 이 카드를 다음 자신 스탠바이 페이즈까지 앞면 표시로 제외한다. ②: 상대 스탠바이 페이즈에, 제외되어 있는 자신 또는 상대의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 묘지로 되돌린다. ③: 이 카드가 묘지에 존재할 경우, 이 카드 이외의 자신 또는 상대 묘지의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드와 묘지의 이 카드를 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
+    协调+1只以上协调以外的怪兽
     ①：1回合1次，在自己・对手的主要阶段可以发动。随机挑选1张对手的手牌，将该卡与表侧表示的此卡直至下一个自己的准备阶段为止，以表侧表示除外。②：在对手的准备阶段，以被除外的自己或对手的1张卡为对象可以发动。将该卡放回墓地。③：此卡存在于墓地的情况下，以此卡以外的、自己或对手墓地的1张卡为对象可以发动。将该卡与墓地的此卡放回牌组。
 card_type: Monster
 monster_type_line: Psychic / Synchro / Effect
@@ -219,7 +219,7 @@ sets:
     - Collector's Rare
   ja:
   - set_number: SPHR-JP035
-    set_name: 'Booster SP: Highspeed Riders'
+    set_name: 'Booster SP: High-Speed Riders'
     rarities:
     - Secret Rare
   - set_number: RC02-JP025
@@ -232,9 +232,13 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Rare
+  - set_number: 25TP-JP111
+    set_name: Tournament Pack 2025 Vol.1
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: SPHR-KR035
-    set_name: 'Booster SP: Highspeed Riders'
+    set_name: 'Booster SP: High-Speed Riders'
     rarities:
     - Secret Rare
   - set_number: RC02-KR025
