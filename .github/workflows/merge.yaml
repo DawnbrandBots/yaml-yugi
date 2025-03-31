@@ -148,6 +148,7 @@ jobs:
         env:
           OPENSEARCH_URL: ${{ secrets.OS_URL }}
         run: |
+          yarn load ../aggregate/cards.yaml yu-gi-oh_ocg-tcg
           yarn load ../aggregate/rush.yaml yu-gi-oh_rush
   deploy-pages:
     needs: merge
