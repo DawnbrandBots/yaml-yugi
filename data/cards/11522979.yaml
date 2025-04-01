@@ -12,7 +12,7 @@ name:
   ko: <ruby>CNo.<rt>카오스 넘버즈</rt></ruby>69 데스 메달리온 카오스 오브 암즈
   ko_rr:
   zh-TW: CNo.69 徽章死神 混沌盾徽
-  zh-CN: 混沌编号69 徽章死神 混沌盾徽
+  zh-CN: 混沌编号69 徽章死神 混盾徽
 text:
   en: |-
     4 Level 5 monsters
@@ -47,7 +47,9 @@ text:
     ●1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드 위의 엑시즈 몬스터 1장을 선택하여 발동할 수 있다. 엔드 페이즈시까지, 이 카드의 공격력은 선택한 몬스터의 원래 공격력만큼 올리고, 이 카드는 선택한 몬스터와 같은 이름의 카드로 취급하여 같은 효과를 얻는다.
   zh-TW:
   zh-CN: |-
-    5星怪兽×4。对方怪兽的攻击宣言时，可以把对方场上的卡全部破坏。此外，这张卡有「No.69 纹章神 盾徽」在作为XYZ素材的场合，得到以下效果。●1回合1次，把这张卡1个XYZ素材取除，选择对方场上1只XYZ怪兽才能发动。直到结束阶段时，这张卡的攻击力上升选择的怪兽的原本攻击力数值，这张卡当作和选择的怪兽同名卡使用，得到相同效果。
+    等级5怪兽×4
+    ①：对手怪兽攻击宣言时可以发动。将对手场上的卡全部破坏。②：此卡持有“编号69 徽章神 盾徽”作为超量素材的情况下，获得以下效果。
+    ●1回合1次，去除此卡的1个超量素材，以对手场上的1只超量怪兽为对象可以发动。直至结束阶段为止，此卡的攻击力上升该怪兽原本攻击力的数值，此卡获得与该怪兽原本卡名・效果相同的卡名・效果。
 card_type: Monster
 monster_type_line: Psychic / Xyz / Effect
 attribute: LIGHT
@@ -109,6 +111,11 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 25SP-SC114
+    set_name: Entry Pack 2025 Vol.1
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

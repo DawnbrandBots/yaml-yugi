@@ -12,7 +12,7 @@ name:
   ko: 사이킥 블로커
   ko_rr:
   zh-TW: 念動力防衛者
-  zh-CN: 念动力防卫者
+  zh-CN: 念动力阻挡者
 text:
   en: |-
     Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the End of your opponent's next turn.
@@ -31,7 +31,7 @@ text:
     1턴에 1번, 카드명을 1개 선언하고 발동한다. 다음 상대 턴 종료시까지 서로 선언된 카드를 플레이할 수 없다.
   zh-TW:
   zh-CN: |-
-    1回合1次，宣言1个卡名发动。直到下次的对方回合结束时，双方不能使用宣言的卡。
+    ①：1回合1次，宣言1个卡名可以发动。直至对手回合结束时为止，原本卡名与宣言的卡名相同的、双方的卡适用以下内容。●不可出到场上。●不可将卡发动及将效果发动和适用。●不可通常召唤・反转召唤・特殊召唤。●不可攻击及变更表示形式。●不可作为用于需要素材的特殊召唤的素材。
 card_type: Monster
 monster_type_line: Psychic / Effect
 attribute: WIND
@@ -106,6 +106,11 @@ sets:
     set_name: Extra Pack Volume 4
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: 25SP-SC108
+    set_name: Entry Pack 2025 Vol.1
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

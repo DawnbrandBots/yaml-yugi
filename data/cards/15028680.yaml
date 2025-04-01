@@ -12,7 +12,7 @@ name:
   ko: 사이컨덕터 비히마스
   ko_rr:
   zh-TW: 超念導體貝希摩斯
-  zh-CN: 超念导体贝希摩斯
+  zh-CN: 超念导体 铋希摩斯
 text:
   en: |-
     1 Tuner + 1 or more non-Tuner monsters
@@ -40,7 +40,8 @@ text:
     이 카드가 상대 몬스터와 전투를 실행했을 때, 그 몬스터와 이 카드를 게임에서 제외할 수 있다.
   zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上。这张卡和对方怪兽进行过战斗时，可以把那只怪兽和这张卡从游戏中除外。
+    协调＋协调以外的怪兽1只以上
+    ①：此卡与对手怪兽进行战斗的伤害计算后可以发动。将进行了该战斗的各自的怪兽除外。
 card_type: Monster
 monster_type_line: Psychic / Synchro / Effect
 attribute: EARTH
@@ -92,6 +93,11 @@ sets:
     set_name: Judgment of the Light
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 25SP-SC112
+    set_name: Entry Pack 2025 Vol.1
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
