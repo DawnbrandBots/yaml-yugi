@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    If you have a face-up Level 7 or higher Spellcaster Type monster on your field, send 1 EARTH Attribute monster from your hand to the Graveyard.
+    If you have a face-up Level 7 or higher Spellcaster Type monster on your field and a monster with 100 or more ATK in your Graveyard, send 1 EARTH Attribute monster from your hand to the Graveyard.
   de: |-
     Falls du ein offenes Monster des Typs Hexer der Stufe 7 oder höher auf deiner Spielfeldseite hast, lege 1 Monster mit der Eigenschaft ERDE von deiner Hand auf den Friedhof.
   es: |-
@@ -25,7 +25,7 @@ requirement:
     Se hai un mostro scoperto di Tipo Incantatore di Livello 7 o superiore sul tuo Terreno, manda 1 mostro con Attributo TERRA dalla tua mano al Cimitero.
   pt:
   ja: |-
-    自分フィールドに表側表示モンスター（レベル７以上／魔法使い族）がいる場合、手札のモンスター（地属性）１体を墓地へ送って発動できる。
+    自分フィールドに表側表示モンスター（レベル７以上／魔法使い族）がいて、自分の墓地にモンスター（攻撃力１００以上）がいる場合、手札のモンスター（地属性）１体を墓地へ送って発動できる。
   ko: |-
     자신 필드에 앞면 표시 몬스터(레벨 7 이상 / 마법사족)가 있을 경우, 패의 몬스터(땅 속성) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
@@ -70,4 +70,7 @@ sets:
     set_name: 'Deck Mod Pack: Shocking Lightning Attack!!'
     rarities:
     - Rare
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 716491

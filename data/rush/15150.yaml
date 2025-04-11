@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Send the top card of your Deck to the Graveyard.
+    If you have a monster in your Graveyard, send the top card of your Deck to the Graveyard.
   de: |-
     Lege die oberste Karte deines Decks auf den Friedhof.
   es: |-
@@ -25,7 +25,7 @@ requirement:
     Manda la prima carta del tuo Deck al Cimitero.
   pt:
   ja: |-
-    デッキの一番上のカードを墓地へ送って発動できる。
+    自分の墓地にモンスターがいる場合、デッキの一番上のカードを墓地へ送って発動できる。
   ko: |-
     덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
@@ -176,4 +176,7 @@ sets:
     set_name: Megaroad Pack 2
     rarities:
     - Common
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 707848
