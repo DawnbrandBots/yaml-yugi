@@ -15,7 +15,7 @@ name:
   zh-CN: 针异虫
 text:
   en: |-
-    FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.
+    FLIP: Send the top 5 cards of your opponent's Deck to the GY.
   de: |-
     FLIPP: Lege die obersten 5 Karten des Decks deines Gegners auf den Friedhof.
   es: |-
@@ -24,7 +24,8 @@ text:
     FLIP : Envoyez les 5 cartes du dessus du Deck de votre adversaire au Cimetière.
   it: |-
     SCOPRI: Manda al Cimitero le prime 5 carte del Deck del tuo avversario.
-  pt:
+  pt: |-
+    VIRE: Descarte 5 cards do topo do Deck do seu adversário para o Cemitério.
   ja: |-
     リバース：相手のデッキの上からカードを５枚墓地へ捨てる。
   ko: |-
@@ -33,7 +34,7 @@ text:
   zh-CN: |-
     反转：从对方卡组上面把5张卡丢弃去墓地。
 card_type: Monster
-monster_type_line: Insect / Effect
+monster_type_line: Insect / Flip / Effect
 attribute: EARTH
 level: 2
 atk: 750
@@ -43,7 +44,7 @@ series:
 - Worm
 images:
 - index: 1
-  image: NeedleWorm-LCYW-EN-UR-1E.png
+  image: NeedleWorm-RA04-EN-PlScR-1E.png
 sets:
   en:
   - set_number: TP5-EN005
@@ -155,6 +156,12 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: RA04-IT112
+    set_name: Quarter Century Stampede
+    rarities:
+    - Platinum Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: RA04-PT112
     set_name: Quarter Century Stampede
     rarities:
     - Platinum Secret Rare
