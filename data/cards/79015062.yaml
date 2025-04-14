@@ -1,7 +1,7 @@
 konami_id: 21191
 password: 79015062
 name:
-  en: TA.I.es
+  en: A.I. Connect
   de:
   es:
   fr:
@@ -16,9 +16,9 @@ name:
 text:
   en: |-
     Reveal 1 Cyberse monster in your hand; apply this effect based on its Attribute, also you cannot Special Summon for the rest of this turn after this card resolves, except Cyberse monsters.
-    ● DARK: Special Summon the revealed monster, and if you do, add 1 non-DARK Level 4 or lower Cyberse monster from your Deck to your hand.
-    ● Non-DARK: Shuffle the revealed monster into the Deck, and if you do, add 1 "@Ignister" monster with a different Attribute from your Deck to your hand.
-    You can only activate 1 "TA.I.es" per turn.
+    ● DARK: Special Summon the revealed monster, and if you do, add 1 Level 4 or lower non-DARK Cyberse monster from your Deck to your hand.
+    ● Other: Shuffle the revealed monster into the Deck, and if you do, add 1 "@Ignister" monster with a different Attribute from your Deck to your hand.
+    You can only activate 1 "A.I. Connect" per turn.
   de:
   es:
   fr:
@@ -40,8 +40,32 @@ series:
 - A.I.
 images:
 - index: 1
-  image: TAIes-ALIN-JP-R.png
+  image: AIConnect-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN054
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE054
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP054
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR054
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT054
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT054
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP054
     set_name: Alliance Insight
@@ -55,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1097938

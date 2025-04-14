@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     "Queen Azamina" + 1 Fusion or Synchro Monster
-    Must first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 "Saint Azamina" you control and 1 face-up monster your opponent controls. Cannot be destroyed by card effects. Each time your opponent activates a card or effect, all monsters your opponent currently controls lose 500 ATK immediately after it resolves. Your opponent cannot activate the effects of monsters with 0 ATK.
+    Must first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 "Saint Azamina" you control and 1 face-up monster your opponent controls. Cannot be destroyed by card effects. Each time your opponent activates a card or effect, all monsters they control lose 500 ATK when it resolves. Your opponent cannot activate the effects of monsters with 0 ATK.
   de:
   es:
   fr:
@@ -43,6 +43,30 @@ images:
 - index: 1
   image: Azamina-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN035
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE035
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP035
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR035
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT035
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT035
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP035
     set_name: Alliance Insight
@@ -56,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1106088

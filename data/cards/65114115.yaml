@@ -1,7 +1,7 @@
 konami_id: 21206
 password: 65114115
 name:
-  en: Seven Star Sky Style Battojutsu - "Hagun"
+  en: Seven Stars Slash - Army Annihilator Hagun
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 七星天流拔刀术－“破军”
 text:
   en: |-
-    Target 1 face-up monster you control; equip 1 Level 7 monster with the same Type, but a different name, from your hand or Deck to it as an Equip Spell that gives it 700 ATK, but return that Equip Card to the hand during the End Phase. When an opponent's Level/Rank 8 or higher monster is destroyed by battle while this card is in your GY: You can add this card to your hand. You can only activate 1 "Seven Star Sky Style Battojutsu - "Hagun"" per turn.
+    Target 1 face-up monster you control; equip it with 1 Level 7 monster with the same Type but a different name from your hand or Deck as an Equip Spell that gives it 700 ATK, but return that Equip Spell to the hand during the End Phase. When your opponent's Level/Rank 8 or higher monster is destroyed by battle, while this card is in your GY: You can add this card to your hand. You can only activate 1 "Seven Stars Slash - Army Annihilator Hagun" per turn.
   de:
   es:
   fr:
@@ -31,8 +31,32 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: SevenStarSkyStyleBattojutsuHagun-ALIN-JP-NR.png
+  image: SevenStarsSlashArmyAnnihilatorHagun-ALIN-JP-NR.png
 sets:
+  en:
+  - set_number: ALIN-EN069
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE069
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP069
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR069
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT069
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT069
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP069
     set_name: Alliance Insight
@@ -46,9 +70,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1108458
