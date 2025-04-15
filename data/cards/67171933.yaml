@@ -1,7 +1,7 @@
 konami_id: 21197
 password: 67171933
 name:
-  en: Torah Regenesis
+  en: Regenesis Code
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 再世神
 text:
   en: |-
-    Special Summon 1 "Regenesis" monster from your Deck, but send it to the GY during your opponent's End Phase, also you cannot Special Summon from the Extra Deck until the end of the next turn after this card resolves. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished "Regenesis" monsters; Special Summon it. You can only use each effect of "Torah Regenesis" once per turn.
+    Special Summon 1 "Regenesis" monster from your Deck (but send it to the GY during your opponent's End Phase), also until the end of the next turn after this card resolves, you cannot Special Summon from the Extra Deck. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it, then target 1 of your banished "Regenesis" monsters; Special Summon it. You can only use each effect of "Regenesis Code" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,32 @@ series:
 - Regenesis
 images:
 - index: 1
-  image: TorahRegenesis-ALIN-JP-R.png
+  image: RegenesisCode-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN060
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE060
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP060
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR060
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT060
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT060
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP060
     set_name: Alliance Insight
@@ -53,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1105995
