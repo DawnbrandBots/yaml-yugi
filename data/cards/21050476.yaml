@@ -15,7 +15,7 @@ name:
   zh-CN: 阿尔戈☆群星－热斗之帕耳忒
 text:
   en: |-
-    Gains 700 ATK/DEF for each other "Argostars" monster you control with different names. You can only use each of the following effects of "Argostars - Fierce Parthe" once per turn. (Quick Effect): You can reveal this card in your hand; return 1 face-up "Argostars" Continuous Trap you control to the hand, and if you do, Special Summon this card. You can banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.
+    Gains 700 ATK/DEF for each "Argostars" monster with a different name you control, except this card. You can only use each of the following effects of "Argostars - Fierce Parthe" once per turn. (Quick Effect): You can reveal this card in your hand; return 1 "Argostars" Continuous Trap you control to the hand, and if you do, Special Summon this card. You can banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.
   de:
   es:
   fr:
@@ -40,6 +40,30 @@ images:
 - index: 1
   image: ArgostarsFierceParthe-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN020
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE020
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP020
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR020
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT020
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT020
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP020
     set_name: Alliance Insight
@@ -53,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1104706

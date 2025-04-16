@@ -15,7 +15,7 @@ name:
   zh-CN: 转惺龙华－暗轮巴王
 text:
   en: |-
-    You can Tribute 1 "Ryu-Ge" monster from your hand or field, except "Tensei Ryu-Ge Anva"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 "Ryu-Ge" Continuous Spell/Trap from your Deck, GY, or banishment face-up on your field. You can only use each monster effect of "Tensei Ryu-Ge Anva" once per turn.
+    You can Tribute 1 "Ryu-Ge" monster from your hand or field, except "Tensei Ryu-Ge Anva"; Special Summon this card from your hand. If this card is Special Summoned: You can target 1 card on the field; destroy it. If this card is destroyed: You can place 1 "Ryu-Ge" Continuous Spell/Trap from your Deck, GY, or banishment, face-up on your field. You can only use each monster effect of "Tensei Ryu-Ge Anva" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 2100
 pendulum_scale: 11
 pendulum_effect:
   en: |-
-    You cannot Pendulum Summon, except "Ryu-Ge" monsters (this effect cannot be negated). When a card or effect activated by your opponent in response to your "Ryu-Ge" Spell Card or effect activation resolves, you can negate that effect, then destroy this card. You can only use this effect of "Tensei Ryu-Ge Anva" once per turn.
+    You cannot Pendulum Summon, except "Ryu-Ge" monsters (this effect cannot be negated). You can negate your opponent's card or effect activated in response to the activation of your "Ryu-Ge" Spell Card or effect, then destroy this card. You can only use this effect of "Tensei Ryu-Ge Anva" once per turn.
   de:
   es:
   fr:
@@ -56,6 +56,30 @@ images:
 - index: 1
   image: TenseiRyuGeAnva-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN024
+    set_name: Alliance Insight
+    rarities:
+  de:
+  - set_number: ALIN-DE024
+    set_name: Alliance Insight
+    rarities:
+  es:
+  - set_number: ALIN-SP024
+    set_name: Alliance Insight
+    rarities:
+  fr:
+  - set_number: ALIN-FR024
+    set_name: Alliance Insight
+    rarities:
+  it:
+  - set_number: ALIN-IT024
+    set_name: Alliance Insight
+    rarities:
+  pt:
+  - set_number: ALIN-PT024
+    set_name: Alliance Insight
+    rarities:
   ja:
   - set_number: ALIN-JP024
     set_name: Alliance Insight
@@ -69,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1108067
