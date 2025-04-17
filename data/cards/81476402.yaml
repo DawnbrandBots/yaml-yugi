@@ -1,7 +1,7 @@
 konami_id: 21168
 password: 81476402
 name:
-  en: Serpent Night Dragon, the Wicked Dragon
+  en: Wicked Serpent Night Dragon
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 恶夜龙 邪恶骑士龙
 text:
   en: |-
-    You can Tribute 1 DARK monster from your hand or field; Special Summon this card from your hand. You can only use this effect of "Serpent Night Dragon, the Wicked Dragon" once per turn. When this card is destroyed by battle: You can target 1 monster your opponent controls; send it to the GY, then you can Special Summon this card.
+    You can Tribute 1 DARK monster from your hand or field; Special Summon this card from your hand. You can only use this effect of "Wicked Serpent Night Dragon" once per turn. When this card is destroyed by battle: You can target 1 monster your opponent controls; send it to the GY, then you can Special Summon this card.
   de:
   es:
   fr:
@@ -36,8 +36,38 @@ atk: 2350
 def: 2400
 images:
 - index: 1
-  image: SerpentNightDragontheWickedDragon-ALIN-JP-C.png
+  image: WickedSerpentNightDragon-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN031
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE031
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP031
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR031
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT031
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT031
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP031
     set_name: Alliance Insight
@@ -51,9 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1105717

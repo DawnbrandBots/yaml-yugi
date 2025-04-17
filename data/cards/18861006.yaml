@@ -1,7 +1,7 @@
 konami_id: 21169
 password: 18861006
 name:
-  en: Firewing Pegasus, the Crimson Heavenly Horse
+  en: Crimson Firewing Pegasus
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 红飞马 焰翼天马
 text:
   en: |-
-    If your opponent controls more monsters than you do, you can Special Summon this card (from your hand), and if you do, it can attack directly this turn. You can only Special Summon "Firewing Pegasus, the Crimson Heavenly Horse" once per turn this way. When your opponent activates a monster effect on the field (Quick Effect): You can inflict damage to your opponent equal to the Chain Link number of this effect x 300, and if you do, this card cannot be destroyed by card effects activated before this effect in this Chain. You can only use this effect of "Firewing Pegasus, the Crimson Heavenly Horse" once per turn.
+    If your opponent controls more monsters than you do, you can Special Summon this card (from your hand), and if you do, it can attack directly this turn. You can only Special Summon "Crimson Firewing Pegasus" once per turn this way. When your opponent activates a monster effect on the field (Quick Effect): You can inflict damage to your opponent equal to the Chain Link number of this effect x 300, also this card cannot be destroyed by effects activated before this one in this Chain. You can only use this effect of "Crimson Firewing Pegasus" once per turn.
   de:
   es:
   fr:
@@ -36,8 +36,38 @@ atk: 2250
 def: 1800
 images:
 - index: 1
-  image: FirewingPegasustheCrimsonHeavenlyHorse-ALIN-JP-C.png
+  image: CrimsonFirewingPegasus-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN032
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE032
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP032
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR032
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT032
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT032
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP032
     set_name: Alliance Insight
@@ -50,10 +80,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1105720

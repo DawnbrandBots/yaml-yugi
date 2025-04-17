@@ -15,7 +15,7 @@ name:
   zh-CN: 邪恶－英雄 恶意之爪
 text:
   en: |-
-    You can target 1 "HERO" monster on the field; Special Summon this card from your hand in Defense Position, and if you do, that monster gains 300 ATK. You can only use this effect of "Evil HERO Vicious Claws" once per turn. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your GY, then, if you have a monster in your GY that mentions "Dark Fusion", you can destroy 1 card on the field. You can only use this effect of "Evil HERO Vicious Claws" once per Duel.
+    You can target 1 "HERO" monster on the field; Special Summon this card from your hand in Defense Position, and if you do, that monster gains 300 ATK. You can only use this effect of "Evil HERO Vicious Claws" once per turn. If a monster(s) you control is destroyed by battle or card effect, while this card is in your GY: You can Special Summon this card, then if you have a monster that mentions "Dark Fusion" in your GY, you can destroy 1 card on the field. You can only use this effect of "Evil HERO Vicious Claws" once per Duel.
   de:
   es:
   fr:
@@ -42,6 +42,36 @@ images:
 - index: 1
   image: EvilHEROViciousClaws-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN005
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE005
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP005
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR005
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT005
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT005
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP005
     set_name: Alliance Insight
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1105629

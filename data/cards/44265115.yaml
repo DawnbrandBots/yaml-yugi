@@ -15,7 +15,7 @@ name:
   zh-CN: 大脑控制者
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can add 1 "Brain Control" from your Deck to your hand. If you pay LP (except during the Damage Step): You can target 1 face-up monster on the field that has a Level and declare a Level from 1 to 8; it becomes that Level. If this card is sent to the GY as Synchro Material: You can Special Summon this card to your opponent's field in Defense Position, but negate its effects. You can only use each effect of "Brain Controller" once per turn.
+    If this card is Normal or Special Summoned: You can add 1 "Brain Control" from your Deck to your hand. If you pay LP (except during the Damage Step): You can target 1 face-up monster on the field and declare a Level from 1 to 8; that monster becomes that Level. If this card is sent to the GY as Synchro Material: You can Special Summon this card to your opponent's field in Defense Position, but negate its effects. You can only use each effect of "Brain Controller" once per turn.
   de:
   es:
   fr:
@@ -38,6 +38,36 @@ images:
 - index: 1
   image: BrainController-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN033
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE033
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP033
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR033
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT033
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT033
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP033
     set_name: Alliance Insight
@@ -51,9 +81,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1108455

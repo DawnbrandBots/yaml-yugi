@@ -1,7 +1,7 @@
 konami_id: 21144
 password: 98888032
 name:
-  en: Spore the Fairy Cell
+  en: Spore the Fairy Seed
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 妖精胞 孢子
 text:
   en: |-
-    If this card is Special Summoned: You can increase its Level by up to the number of monsters you control. If this card is in your GY and you control "Ancient Fairy Dragon" or a LIGHT Beast, Plant, or Fairy monster: You can Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of "Spore the Fairy Cell" once per turn.
+    If this card is Special Summoned: You can count the number of monsters you control, and have this card gain up to that many Levels. If you control "Ancient Fairy Dragon", or a LIGHT monster (Beast, Plant, or Fairy), and this card is in your GY: You can Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters. You can only use this effect of "Spore the Fairy Seed" once per turn.
   de:
   es:
   fr:
@@ -38,8 +38,38 @@ series:
 - Ancient Fairy Dragon
 images:
 - index: 1
-  image: SporetheFairyCell-ALIN-JP-C.png
+  image: SporetheFairySeed-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN007
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE007
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP007
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR007
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT007
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT007
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP007
     set_name: Alliance Insight
@@ -53,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1104079

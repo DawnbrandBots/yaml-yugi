@@ -1,7 +1,7 @@
 konami_id: 20274
 password: 46533533
 name:
-  en: Pity
+  en: Dipity
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 皮缇
 text:
   en: |-
-    A lil' cutie inside a glass flask, said to bring good luck to its contractor. However, the stopper must never be pulled out. No matter what, you must never, ever, ever...
+    A cute little thing who lives in a glass bottle and is said to bring good luck to the one who makes a contract with it. The lid must never be opened, no matter what happens...
   de:
   es:
   fr:
@@ -35,8 +35,38 @@ atk: 0
 def: 0
 images:
 - index: 1
-  image: Pity-24TP-JP-SPR.png
+  image: Dipity-24TP-JP-SPR.png
 sets:
+  en:
+  - set_number: ALIN-EN097
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE097
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP097
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR097
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT097
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT097
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: 24TP-JP201
     set_name: Tournament Pack 2024 Vol.2
@@ -50,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1051372

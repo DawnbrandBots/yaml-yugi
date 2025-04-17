@@ -16,8 +16,8 @@ name:
 text:
   en: |-
     Once per Chain (Quick Effect): You can pay 600 LP, then activate 1 of these effects;
-    ● If you control monsters of each Level from 1 to 6: Choose 1 face-up monster your opponent controls that has a Level, and destroy all other monsters they control with an equal Level/Rank/Link Rating.
-    ● Choose 1 face-up monster you control that has a Level, and destroy all your opponent's monsters in its column with an equal Level/Rank/Link Rating.
+    ● If you control 6 monsters with different Levels (1, 2, 3, 4, 5, and 6): Choose 1 face-up monster your opponent controls with a Level, and destroy all other monsters your opponent controls with the same Level/Rank/Link Rating as that monster.
+    ● Choose 1 face-up monster you control with a Level, and destroy all of your opponent's monsters in the same column with the same Level/Rank/Link Rating as that monster.
   de:
   es:
   fr:
@@ -40,6 +40,36 @@ images:
 - index: 1
   image: BomberPlace-ALIN-JP-NR.png
 sets:
+  en:
+  - set_number: ALIN-EN034
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE034
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP034
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR034
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT034
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT034
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP034
     set_name: Alliance Insight
@@ -53,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1108456
