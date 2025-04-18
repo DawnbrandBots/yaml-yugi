@@ -1,7 +1,7 @@
 konami_id: 21203
 password: 66236707
 name:
-  en: Gordian Schneider
+  en: Gordian Slicer
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 械刀婪魔皇断
 text:
   en: |-
-    This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for every targeted card, banish 1 card from your hand or 6 cards from your Extra Deck, face-down, then return the targeted cards to the hand.
+    This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for each targeted card, banish 1 card from your hand, or 6 cards from your Extra Deck, face-down, then return those targeted cards to the hand.
   de:
   es:
   fr:
@@ -32,8 +32,44 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: GordianSchneider-ALIN-JP-UR.png
+  image: GordianSlicer-ALIN-JP-UR.png
 sets:
+  en:
+  - set_number: ALIN-EN066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: ALIN-DE066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  es:
+  - set_number: ALIN-SP066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: ALIN-FR066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: ALIN-IT066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: ALIN-PT066
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: ALIN-JP066
     set_name: Alliance Insight
@@ -63,9 +99,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1105603

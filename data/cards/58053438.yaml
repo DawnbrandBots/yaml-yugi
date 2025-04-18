@@ -1,7 +1,7 @@
 konami_id: 21215
 password: 58053438
 name:
-  en: The Psalms of Kings
+  en: Songs of the Dominators
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 列王诗篇
 text:
   en: |-
-    If you have no monsters in your GY, you can activate this card from your hand. When your opponent activates a monster effect on the field: Negate that effect, then if you have a Trap in your GY, you can add 1 "Dominus" card from your Deck to your hand. If you activated this card from your hand, you cannot activate monster effects in the hand, GY, and banishment until the end of the next turn. You can only activate 1 "The Psalms of Kings" per turn.
+    If you have no monsters in your GY, you can activate this card from your hand. When your opponent activates a monster effect on the field: Negate that effect, then if you have a Trap in your GY, you can add 1 "Dominus" card from your Deck to your hand. If you activated this card from your hand, you cannot activate the effects of monsters in your hand, GY, and banishment, until the end of the next turn. You can only activate 1 "Songs of the Dominators" per turn.
   de:
   es:
   fr:
@@ -32,8 +32,44 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ThePsalmsofKings-ALIN-JP-R.png
+  image: SongsoftheDominators-ALIN-JP-R.png
 sets:
+  en:
+  - set_number: ALIN-EN078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  de:
+  - set_number: ALIN-DE078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  es:
+  - set_number: ALIN-SP078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  fr:
+  - set_number: ALIN-FR078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  it:
+  - set_number: ALIN-IT078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
+  pt:
+  - set_number: ALIN-PT078
+    set_name: Alliance Insight
+    rarities:
+    - Secret Rare
+    - Quarter Century Secret Rare
   ja:
   - set_number: ALIN-JP078
     set_name: Alliance Insight
@@ -47,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1107888

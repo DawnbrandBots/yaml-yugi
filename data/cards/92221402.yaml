@@ -15,7 +15,7 @@ name:
   zh-CN: 混沌元素
 text:
   en: |-
-    Add 1 Level 5 or higher LIGHT or DARK Pyro or Aqua monster from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a LIGHT or DARK Pyro or Aqua monster: You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of "Chaotic Elements" once per turn.
+    Add 1 Level 5 or higher monster (LIGHT or DARK, Pyro or Aqua) from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field. If your opponent controls a monster (LIGHT or DARK, Pyro or Aqua): You can banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of "Chaotic Elements" once per turn.
   de:
   es:
   fr:
@@ -34,6 +34,36 @@ images:
 - index: 1
   image: ChaoticElements-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN067
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE067
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP067
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR067
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT067
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT067
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP067
     set_name: Alliance Insight
@@ -47,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1107470

@@ -1,7 +1,7 @@
 konami_id: 21205
 password: 38625110
 name:
-  en: Do it Early, Do it Together
+  en: Let's Go Together
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 晨曦映雪白皎皎 笑语成霜共行脚
 text:
   en: |-
-    If you do not have "Do it Early, Do it Together" in your face-up field, GY, nor banishment: Banish the top 7 cards of your Deck, face-down; your opponent banishes 7 cards from their Extra Deck and/or the top of their Deck, face-down.
+    If you have no "Let's Go Together" in your face-up field, GY, nor banishment: Banish 7 cards from the top of your Deck, face-down; make your opponent banish 7 cards from their Extra Deck and/or top of their Deck, face-down, and they must declare how many are banished from each beforehand.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: DoitEarlyDoitTogether-ALIN-JP-C.png
+  image: LetsGoTogether-ALIN-JP-C.png
 sets:
+  en:
+  - set_number: ALIN-EN068
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  de:
+  - set_number: ALIN-DE068
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  es:
+  - set_number: ALIN-SP068
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  fr:
+  - set_number: ALIN-FR068
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  it:
+  - set_number: ALIN-IT068
+    set_name: Alliance Insight
+    rarities:
+    - Common
+  pt:
+  - set_number: ALIN-PT068
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ja:
   - set_number: ALIN-JP068
     set_name: Alliance Insight
@@ -47,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1108457
