@@ -45,17 +45,20 @@ text:
     ● Adicione 1 "Polimerização" do seu Deck à sua mão.
     Se este card for enviado para o Cemitério como uma Matéria de Fusão para uma Invocação-Fusão: você pode adicionar à sua mão, 1 Monstro Pêndulo "Luzlunar" com a face para cima do seu Deck Adicional ou 1 Monstro "Luzlunar" do seu Cemitério, exceto "Ovelha Negra Luzlunar".
   ja: |-
-    ①：このカードを手札から捨て、以下の効果から１つを選択して発動できる。●「月光黒羊」以外の自分の墓地の「ムーンライト」モンスター１体を選んで手札に加える。●デッキから「融合」１枚を手札に加える。②：このカードが融合召喚の素材となって墓地へ送られた場合に発動できる。「月光黒羊」以外の、自分のエクストラデッキの表側表示の「ムーンライト」Ｐモンスターまたは自分の墓地の「ムーンライト」モンスター１体を選んで手札に加える。
+    ①：このカードを手札から捨て、以下の効果から１つを選択して発動できる。
+    ●自分の墓地から「月光黒羊」以外の「ムーンライト」モンスター１体を手札に加える。
+    ●デッキから「融合」１枚を手札に加える。
+    ②：このカードが融合召喚の素材となって墓地へ送られた場合に発動できる。自分のＥＸデッキ（表側）・墓地から「月光黒羊」以外の「ムーンライト」モンスター１体を手札に加える。
   ko: |-
     ①: 이 카드를 패에서 버리고, 이하의 효과에서 1개를 선택하여 발동할 수 있다.
     ●"문라이트 블랙 시프" 이외의 자신 묘지의 "문라이트" 몬스터 1장을 고르고 패에 넣는다.
     ●덱에서 "융합" 1장을 패에 넣는다. ②: 이 카드가 융합 소환의 소재가 되어 묘지로 보내졌을 경우에 발동할 수 있다. "문라이트 블랙 시프" 이외의, 자신의 엑스트라 덱 앞면 표시의 "문라이트" 펜듈럼 몬스터 또는 자신 묘지의 "문라이트" 몬스터 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：从手牌将此卡舍弃，可从以下效果中选择1个发动。
-    ●挑选自己墓地"月光黑羊"以外的1只"月光"怪兽加入手牌。
-    ●从牌组将1张"融合"加入手牌。
-    ②：此卡作为融合召唤的素材被送至墓地的情况下可以发动。挑选1只自己额外牌组"月光黑羊"以外的表侧表示"月光"灵摆怪兽或自己墓地的"月光"怪兽加入手牌。
+    ①：从手牌将此卡舍弃，可从以下效果中选择１个发动。
+    ●挑选自己墓地“月光黑羊”以外的１只“月光”怪兽加入手牌。
+    ●从牌组将１张“融合”加入手牌。
+    ②：此卡作为融合召唤的素材被送至墓地的情况下可以发动。挑选１只自己额外牌组“月光黑羊”以外的表侧表示“月光”灵摆怪兽或自己墓地的“月光”怪兽加入手牌。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: DARK
@@ -107,6 +110,10 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  - set_number: DUAD-JPS04
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SHVI-KR011
     set_name: Shining Victories
