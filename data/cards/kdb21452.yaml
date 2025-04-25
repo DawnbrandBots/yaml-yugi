@@ -34,9 +34,10 @@ attribute: LIGHT
 level: 3
 atk: 1000
 def: 1200
+materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: TheStarHam-Sample.png
+  image: TheStarHam-DUAD-JP-C.png
 sets:
   ja:
   - set_number: DUAD-JP041
@@ -44,8 +45,8 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
-  ocg: Unlimited
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
