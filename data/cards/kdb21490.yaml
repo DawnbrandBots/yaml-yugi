@@ -1,0 +1,49 @@
+konami_id: 21490
+password:
+name:
+  en: Shipment Error
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>誤出荷<rt>シッピング・エラー</rt></ruby>
+  ja_romaji: Shippingu Erā
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand: The activated effect becomes "Your opponent takes 1 card from their Deck for you to add to your hand, and you must keep that card revealed. During the End Phase of this turn, shuffle it into the Deck, and if you do, draw 1 card".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    ①：デッキからカードを手札に加える効果を含む、魔法・罠・モンスターの効果が発動した時に発動できる。その効果は「相手は自身のデッキからカード１枚を選ぶ。自分はそのカードを手札に加える。自分はこの効果で手札に加えたカードを公開し続け、このターンのエンドフェイズに、公開しているそのカードを元々の持ち主のデッキに戻し、自分は１枚ドローする。」となる。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Trap
+property: Normal
+images:
+- index: 1
+  image: ShipmentError-Sample.png
+sets:
+  ja:
+  - set_number: DUAD-JP079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+limit_regulation:
+  tcg:
+  ocg: Unlimited
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1125048
+fake_password: 101301079
