@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal ou Especial: você pode escavar os 3 cards do topo do seu Deck e, se isso acontecer, você pode adicionar à sua mão 1 Magia/Armadilha "Purrely" escavada e, além disso, coloque o resto no fundo do seu Deck em qualquer ordem. Uma vez por turno, durante sua Fase Principal: você pode revelar 1 Magia Rápida "Purrely" na sua mão, Invoque por Invocação-Especial 1 Monstro Xyz do seu Deck Adicional que mencione esse card, usando este card que você controla como matéria, e associe o card revelado ao monstro Invocado. (Isso é considerado uma Invocação-Xyz.)
   ja: |-
-    ①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分のデッキの上からカードを３枚めくる。その中から「ピュアリィ」魔法・罠カード１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。②：１ターンに１度、自分メインフェイズに発動できる。手札の「ピュアリィ」速攻魔法カード１枚を相手に見せ、そのカード名が記されたＸモンスター１体を、自分フィールドのこのカードの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚し、見せたカードをそのＸモンスターの下に重ねてＸ素材とする。
+    ①：このカードが召喚・特殊召喚した場合に発動できる。自分のデッキの上からカードを３枚めくる。その中から「ピュアリィ」魔法・罠カード１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。②：１ターンに１度、自分メインフェイズに発動できる。手札の「ピュアリィ」速攻魔法カード１枚を相手に見せ、そのカード名が記されたＸモンスター１体を、自分フィールドのこのカードの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚し、見せたカードをそのＸモンスターのＸ素材にする。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 자신의 덱 위에서 카드를 3장 넘긴다. 그 중에서 "퓨어리" 마법 / 함정 카드 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다. ②: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 패의 "퓨어리" 속공 마법 카드 1장을 상대에게 보여주고, 그 카드명이 쓰여진 엑시즈 몬스터 1장을, 자신 필드의 이 카드 위에 겹치고 엑시즈 소환으로 취급하여 엑스트라 덱에서 특수 소환하고, 보여준 카드를 그 엑시즈 몬스터 아래에 겹쳐 엑시즈 소재로 한다.
   zh-TW:
@@ -143,19 +143,23 @@ sets:
     - Collector's Rare
   ja:
   - set_number: DBAD-JP013
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: ULSP-JP005
+    set_name: Ultimate Special Pack
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBAD-KR013
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Common
     - Normal Parallel Rare
   zh-CN:
   - set_number: DBAD-SC013
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Super Rare
     - Collector's Rare

@@ -23,11 +23,11 @@ text:
   fr: |-
     Révélez 1 monstre dans votre main avec 2400 ATK et 1000 DEF, ou 2800 ATK et 1000 DEF ; ajoutez 1 Carte Magie/Piège "Monarque" ("Ténacité des Monarques" exclu) depuis votre Deck à votre main. Vous ne pouvez activer qu'1 "Ténacité des Monarques" par tour.
   it: |-
-    Rivela 1 mostro con 2400 ATK & 1000 DEF, o 2800 ATK & 1000 DEF nella tua mano; aggiungi 1 Carta Magia/Trappola "Monarca/Monarchi" dal tuo Deck alla tua mano, eccetto "Tenacia dei Monarchi". Puoi attivare solo 1 "Tenacia dei Monarchi" per turno.
+    Rivela 1 mostro con ATK 2400 & DEF 1000 oppure ATK 2800 & DEF 1000 nella tua mano; aggiungi 1 Carta Magia/Trappola "Monarca/Monarchi" dal tuo Deck alla tua mano, eccetto "Tenacia dei Monarchi". Puoi attivare solo 1 "Tenacia dei Monarchi" per turno.
   pt: |-
     Revele 1 monstro da sua mão com 2400 de ATK & 1000 de DEF, ou 2800 de ATK & 1000 de DEF; adicione 1 Card de Magia/Armadilha "Monarca" do seu Deck à sua mão, exceto "Tenacidade dos Monarcas". Você só pode ativar 1 "Tenacidade dos Monarcas" por turno.
   ja: |-
-    「帝王の深怨」は１ターンに１枚しか発動できない。①：手札の攻撃力２４００／守備力１０００のモンスター１体または攻撃力２８００／守備力１０００のモンスター１体を相手に見せて発動できる。デッキから「帝王の深怨」以外の「帝王」魔法・罠カード１枚を手札に加える。
+    このカード名のカードは１ターンに１枚しか発動できない。①：手札の攻撃力２４００／守備力１０００のモンスター１体または攻撃力２８００／守備力１０００のモンスター１体を相手に見せて発動できる。デッキから「帝王の深怨」以外の「帝王」魔法・罠カード１枚を手札に加える。
   ko: |-
     "제왕의 심원"은 1턴에 1장밖에 발동할 수 없다. ①: 패의 공격력 2400 / 수비력 1000 인 몬스터 1장 또는 공격력 2800 / 수비력 1000 인 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 덱에서 "제왕의 심원" 이외의 "제왕" 마법 / 함정 카드 1장을 패에 넣는다.
   zh-TW:
@@ -128,6 +128,10 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Common
+  - set_number: DUAD-JPS18
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SECE-KR061
     set_name: Secrets of Eternity

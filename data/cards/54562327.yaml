@@ -27,13 +27,12 @@ text:
   pt: |-
     Revele 1 monstro na sua mão; Invoque por Invocação-Especial 1 monstro "Alma Aniquiladora" com o mesmo Atributo, mas um nome diferente, do seu Deck, mas devolva-o para a mão durante a Fase Final. Você só pode ativar 1 "Aposte sua Alma!" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：手札のモンスター１体を相手に見せて発動できる。見せたモンスターとはカード名が異なり、属性が同じ「ＶＳ」モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに持ち主の手札に戻る。
+    このカード名のカードは１ターンに１枚しか発動できない。①：手札のモンスター１体を相手に見せて発動できる。見せたモンスターとはカード名が異なり、属性が同じ「ＶＳ」モンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに手札に戻る。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패의 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 보여준 몬스터와는 카드명이 다르고, 속성이 같은 "VS(뱅키시 소울)" 몬스터 1장을 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 주인의 패로 되돌아간다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡１回合仅可发动１张。
-    ①：将手牌的１只怪兽出示给对手可以发动。从牌组将１只与所出示的怪兽卡名不同、属性相同的“对击斗魂”怪兽特殊召唤。以此效果特殊召唤的怪兽将在结束阶段放回手牌。
+    此卡名的卡１回合仅可发动１张。①：将手牌的１只怪兽出示给对手可以发动。从牌组将１只与所出示的怪兽卡名不同、属性相同的“对击斗魂”怪兽特殊召唤。以此效果特殊召唤的怪兽将在结束阶段放回手牌。
 card_type: Spell
 property: Normal
 images:
@@ -102,12 +101,16 @@ sets:
     - Prismatic Secret Rare
   ja:
   - set_number: DBWS-JP023
-    set_name: 'Deck Build Pack: Wild Survivors'
+    set_name: 'Deck-Build Pack: Wild Survivors'
     rarities:
     - Super Rare
+  - set_number: ULSP-JP009
+    set_name: Ultimate Special Pack
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBWS-KR023
-    set_name: 'Deck Build Pack: Wild Survivors'
+    set_name: 'Deck-Build Pack: Wild Survivors'
     rarities:
     - Super Rare
   zh-CN:

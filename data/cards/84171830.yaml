@@ -8,7 +8,7 @@ name:
   it: Dominio dei Veri Monarchi
   pt: Domínio dos Verdadeiros Monarcas
   ja: <ruby>真<rt>しん</rt></ruby><ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby><ruby>領<rt>りょう</rt></ruby><ruby>域<rt>いき</rt></ruby>
-  ja_romaji: Shin Tei'ō Ryōiki
+  ja_romaji: Shin Teiō Ryōiki
   ko: 진제왕영역
   ko_rr:
   zh-TW: 真帝王領域
@@ -27,7 +27,7 @@ text:
   pt: |-
     Enquanto você não tiver cards no seu Deck Adicional e você for o único duelista que controla um monstro Invocado por Invocação-Tributo, seu oponente não pode Invocar monstros do Deck Adicional por Invocação-Especial. Se um monstro Invocado por Invocação-Tributo que você controla atacar um monstro do oponente, ele ganha 800 de ATK apenas durante o cálculo de dano. Uma vez por turno: até o final deste turno, você pode reduzir em 2 o Nível de 1 monstro com 2800 de ATK/1000 de DEF na sua mão (mesmo depois que ele for Invocado/Baixado e mesmo que este card deixe o campo).
   ja: |-
-    ①：自分のエクストラデッキにカードが存在せず、自分フィールドにのみアドバンス召喚したモンスターが存在する場合、相手はエクストラデッキからモンスターを特殊召喚できない。②：自分のアドバンス召喚したモンスターの攻撃力は、相手モンスターに攻撃するダメージ計算時のみ８００アップする。③：１ターンに１度、自分メインフェイズにこの効果を発動できる。自分の手札の攻撃力２８００／守備力１０００のモンスター１体を選び、そのモンスターのレベルをターン終了時まで２つ下げる。
+    ①：自分のＥＸデッキにカードが存在せず、自分フィールドにのみＡ召喚したモンスターが存在する限り、相手はＥＸデッキからモンスターを特殊召喚できない。②：自分のＡ召喚したモンスターの攻撃力は、相手モンスターに攻撃するダメージ計算時のみ８００アップする。③：１ターンに１度、自分メインフェイズに発動できる。自分の手札の攻撃力２８００／守備力１０００のモンスター１体のレベルをターン終了時まで２つ下げる。
   ko: |-
     ①: 자신의 엑스트라 덱에 카드가 존재하지 않으며, 자신 필드에만 어드밴스 소환한 몬스터가 존재할 경우, 상대는 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ②: 자신의 어드밴스 소환한 몬스터의 공격력은, 상대 몬스터에 공격하는 데미지 계산시에만 800 올린다. ③: 1턴에 1번, 자신 메인 페이즈에 이 효과를 발동할 수 있다. 자신 패의 공격력 2800 / 수비력 1000 인 몬스터 1장을 고르고, 그 몬스터의 레벨을 턴 종료시까지 2개 내린다.
   zh-TW:
@@ -152,6 +152,10 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Common
+  - set_number: DUAD-JPS19
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SR01-KR024
     set_name: 'Structure Deck R: Advent of the True Monarch'
