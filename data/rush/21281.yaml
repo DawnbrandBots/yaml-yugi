@@ -8,7 +8,7 @@ name:
   pt:
   ja: アニマジカ・ダブルセイバー
   ja_romaji: Animajika Daburu Seibā
-  ko:
+  ko: 애니매지카 더블세이버
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -37,7 +38,8 @@ effect:
   pt:
   ja: |-
     自分がモンスター（獣族）を表側表示で召喚・特殊召喚した時に相手は罠カードを発動できない。自分フィールドの表側表示モンスター（光属性／獣族）のレベルは２上がる。
-  ko:
+  ko: |-
+    자신이 몬스터(야수족)를 앞면 표시로 일반 소환 / 특수 소환했을 때에 상대는 함정 카드를 발동할 수 없다. 자신 필드의 앞면 표시 몬스터(빛 속성 / 야수족)의 레벨은 2 올라간다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -61,6 +63,11 @@ sets:
     set_name: Battle Pack 2025 Vol.1
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP20-KR030
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

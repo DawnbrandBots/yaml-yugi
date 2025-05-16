@@ -8,7 +8,7 @@ name:
   pt:
   ja: デーモンの<ruby>槍<rt>そう</rt></ruby><ruby>兵<rt>へい</rt></ruby>
   ja_romaji: Dēmon no Sōhei
-  ko:
+  ko: 데몬의 창병
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分フィールドに表側表示の「デーモンの召喚」がいる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 필드에 앞면 표시의 "데몬 소환"이 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで破壊する。その後、自分は１枚ドローできる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 파괴한다. 그 후, 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Pack 2025 Vol.1
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP20-KR022
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

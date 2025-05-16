@@ -8,7 +8,7 @@ name:
   pt:
   ja: シルヴァーレッド・パルサー
   ja_romaji: Shiruvāreddo Parusā
-  ko:
+  ko: 실바레드 펄서
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドに表側表示モンスター（レベル７以上）がいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 앞면 표시 몬스터(레벨 7 이상)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の手札または自分の墓地の通常モンスター（レベル７／ギャラクシー族）１体を選び、自分フィールドに表側表示で特殊召喚する。
-  ko:
+  ko: |-
+    자신의 패 또는 자신 묘지의 일반 몬스터(레벨 7 / 갤럭시족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP002
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP20-KR002
     set_name: Galactica of Eternity
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: レクイエム・ストライクバック
   ja_romaji: Rekuiemu Sutoraikubakku
-  ko:
+  ko: 레퀴엠 스트라이크백
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のＬＰが相手より２５００以上少ない場合、自分の表側表示の「ヴォイドヴェルグ・レクイエム」が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    자신의 LP가 상대보다 2500 이상 적을 경우, 자신의 앞면 표시인 "보이드베르그 레퀴엠"이 공격을 받는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その攻撃を無効にする。その後、［攻撃してきたモンスターの攻撃力］だけ相手にダメージを与える事ができる。
-  ko:
+  ko: |-
+    그 공격을 무효로 한다. 그 후, [공격해 온 몬스터의 공격력]만큼 상대에게 데미지를 줄 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP060
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP20-KR060
     set_name: Galactica of Eternity
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: スペア・ガジェット
   ja_romaji: Supea Gajetto
-  ko:
+  ko: 스페어 가제트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は次の相手ターン終了時まで８００アップする。その後、自分の墓地の「グリーン・ガジェット」「レッド・ガジェット」「イエロー・ガジェット」のいずれか１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 다음 상대 턴 종료시까지 800 올린다. 그 후, 자신 묘지의 "그린 가제트" "레드 가제트" "옐로 가제트" 중 어느 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP025
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP20-KR025
     set_name: Galactica of Eternity
     rarities:
     - Common

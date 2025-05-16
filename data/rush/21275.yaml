@@ -8,7 +8,7 @@ name:
   pt:
   ja: カードディフェンダー
   ja_romaji: Kādo Difendā
-  ko:
+  ko: 카드 디펜더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -37,7 +38,8 @@ effect:
   pt:
   ja: |-
     相手ターンの間、自分フィールドの魔法・罠カードは効果では手札・デッキ・ＥＸデッキに戻されない。自分フィールドに表側表示の通常モンスター（戦士族）またはフュージョンモンスター（戦士族）がいる場合、自分フィールドの表側表示モンスターの攻撃力は１０００アップする。
-  ko:
+  ko: |-
+    상대 턴 동안, 자신 필드의 마법 / 함정 카드는 효과로는 패 / 덱 / 엑스트라 덱으로 되돌려지지 않는다. 자신 필드에 앞면 표시의 일반 몬스터(전사족) 또는 퓨전 몬스터(전사족)가 있을 경우, 자신 필드의 앞면 표시 몬스터의 공격력은 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,6 +56,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP024
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP20-KR024
     set_name: Galactica of Eternity
     rarities:
     - Common

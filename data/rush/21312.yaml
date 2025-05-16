@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>任務完了<rt>ニュースタート</rt></ruby>
   ja_romaji: Nyū Sutāto
-  ko:
+  ko: 뉴스타트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時、自分の墓地のモンスター（レベル７）１体または「潜入開始」１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때, 자신 묘지의 몬스터(레벨 7) 1장 또는 "시크릿오더" 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを破壊する。その後、自分は手札が５枚になるようにドローできる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 파괴한다. 그 후, 자신은 패가 5장이 되도록 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP061
+    set_name: Galactica of Eternity
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP20-KR061
     set_name: Galactica of Eternity
     rarities:
     - Ultra Rare

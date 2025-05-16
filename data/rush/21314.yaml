@@ -8,7 +8,7 @@ name:
   pt:
   ja: アニマジカ・マジェスティ
   ja_romaji: Animajika Majesuti
-  ko:
+  ko: 애니매지카 마제스티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（光属性／獣族）１体を選ぶ。選んだモンスターのレベルより低いレベルを持つ相手フィールドの表側表示モンスターを２体まで選んで裏側守備表示にする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(빛 속성 / 야수족) 1장을 고른다. 고른 몬스터의 레벨보다 낮은 레벨을 가지는 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 뒷면 수비 표시로 한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP20-JP063
+    set_name: Galactica of Eternity
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP20-KR063
     set_name: Galactica of Eternity
     rarities:
     - Common
