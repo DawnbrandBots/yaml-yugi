@@ -32,7 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없으며, 묘지에서 특수 소환된 몬스터가 상대 필드에 존재하지 않을 경우, 상대 턴에밖에 발동할 수 없다. ①: 800 LP를 지불하고, 자신 필드의 "엑소시스터" 몬스터 1장을 대상으로 하여 발동할 수 있다. 같은 이름의 카드가 자신 필드에 존재하지 않는 "엑소시스터" 엑시즈 몬스터 1장을, 대상의 자신 몬스터 위에 겹쳐 엑시즈 소환으로 취급하고 엑스트라 덱에서 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡1回合仅可发动1张，对手场上没有从墓地被特殊召唤的怪兽存在的情况下，仅可在对手回合发动。①：支付800LP，以自己场上的1只"驱魔姐妹"怪兽为对象可以发动。将1只自己场上没有同名卡存在的"驱魔姐妹"超量怪兽重叠在自己的对象怪兽上面，视为超量召唤从额外牌组特殊召唤。
+    此卡名的卡1回合仅可发动1张，对手场上不存在从墓地被特殊召唤的怪兽的情况下，仅可在对手回合发动。①：支付800LP，以自己场上的1只“驱魔姐妹”怪兽为对象可以发动。从额外牌组将1只自己场上不存在同名卡的“驱魔姐妹”超量怪兽重叠在自己的对象怪兽上面，视为超量召唤特殊召唤。
 card_type: Spell
 property: Quick-Play
 series:
@@ -101,22 +101,34 @@ sets:
     - Super Rare
   ja:
   - set_number: DBGC-JP022
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT02-JPB14
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: DBGC-KR022
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT02-KRB14
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   zh-CN:
   - set_number: DBGC-SC022
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT02-SCB14
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

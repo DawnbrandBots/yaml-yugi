@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     等级4怪兽×2
-    此卡名的①③效果1回合仅可各使用1次。①：在以"驱魔姐妹"怪兽作为素材将此卡超量召唤成功的自己・对手回合中，以1张对手场上・墓地的卡为对象可以发动。将该卡除外。②：此卡不会因与从墓地被特殊召唤的怪兽的战斗被破坏。③：去除此卡的1个超量素材可以发动。从牌组将1张"驱魔姐妹"魔法・陷阱卡加入手牌。
+    此卡名的①③效果1回合仅可各使用1次。①：在以“驱魔姐妹”怪兽作为素材将此卡超量召唤的自己・对手回合中，以对手场上・墓地的1张卡为对象可以发动。将该卡除外。②：此卡不会因与从墓地被特殊召唤的怪兽的战斗被破坏。③：去除此卡的1个超量素材可以发动。从牌组将1张“驱魔姐妹”魔法・陷阱卡加入手牌。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
@@ -121,22 +121,34 @@ sets:
     - Prismatic Secret Rare
   ja:
   - set_number: DBGC-JP017
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: TT02-JPB24
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: DBGC-KR017
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: TT02-KRB24
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   zh-CN:
   - set_number: DBGC-SC017
-    set_name: 'Deck Build Pack: Grand Creators'
+    set_name: 'Deck-Build Pack: Grand Creators'
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: TT02-SCB24
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
