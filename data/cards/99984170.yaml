@@ -38,7 +38,7 @@ text:
     이 카드명은 룰상 "R－ACE(레스큐 에이스)" 카드로도 취급한다. 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 묘지의 "R－ACE(레스큐 에이스)" 몬스터 1장을 대상으로 하고 발동할 수 있다(자신 필드에 "R－ACE(레스큐 에이스) 하이드런트"가 존재할 경우, 대신에 상대 묘지의 몬스터 1장을 대상으로 할 수도 있다). 그 몬스터를 자신 필드에 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名在规则上也视为“救援王牌”卡。此卡名的卡１回合仅可发动１张。①：以自己墓地的１只“救援王牌”怪兽为对象可以发动。将该怪兽特殊召唤至自己场上。自己场上存在“救援王牌 消防栓”的情况下，作为代替也可以对手墓地的１只怪兽作为对象。
+    此卡名在规则上也视为“救援王牌”卡。此卡名的卡1回合仅可发动1张。①：以自己墓地的1只“救援王牌”怪兽为对象可以发动（自己场上存在“救援王牌 消防栓”的情况下，作为代替也可以对手墓地的1只怪兽作为对象）。将该怪兽特殊召唤至自己场上。
 card_type: Spell
 property: Quick-Play
 series:
@@ -103,21 +103,33 @@ sets:
     - Rare
   ja:
   - set_number: DBAD-JP009
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT02-JPA13
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: DBAD-KR009
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TT02-KRA13
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   zh-CN:
   - set_number: DBAD-SC009
-    set_name: 'Deck Build Pack: Amazing Defenders'
+    set_name: 'Deck-Build Pack: Amazing Defenders'
     rarities:
     - Super Rare
+  - set_number: TT02-SCA13
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
