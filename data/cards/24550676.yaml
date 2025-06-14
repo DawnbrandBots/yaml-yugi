@@ -40,8 +40,8 @@ text:
     이 카드는 상기의 카드를 융합 소재로 한 융합 소환으로만 특수 소환할 수 있다. ①: 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ③: 1턴에 1번, 이 카드가 몬스터를 공격한 데미지 스텝 종료시에 발동할 수 있다. 상대 필드의 특수 소환된 몬스터를 전부 파괴한다.
   zh-TW:
   zh-CN: |-
-    “月光舞豹姬”＋“月光”怪兽×２
-    此卡仅可通过以上述卡作为融合素材的融合召唤来特殊召唤。①：此卡不会成为对手效果的对象，也不会因对手的效果而被破坏。②：此卡在１次战斗阶段中可攻击２次。③：１回合１次，此卡攻击怪兽的伤害步骤结束时可以发动。将对手场上被特殊召唤的怪兽全部破坏。
+    “月光舞豹姬”＋“月光”怪兽×2
+    此卡仅可通过以上述卡作为融合素材的融合召唤来特殊召唤。①：场上的此卡不会因对手的效果被破坏，对手不可将场上的此卡作为效果的对象。②：此卡在1次战斗阶段中可攻击2次。③：1回合1次，此卡攻击怪兽的伤害步骤结束时可以发动。将对手场上被特殊召唤的怪兽全部破坏。
 card_type: Monster
 monster_type_line: Beast-Warrior / Fusion / Effect
 attribute: DARK
@@ -200,6 +200,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  - set_number: DUAD-SCS10
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

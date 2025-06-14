@@ -1,7 +1,7 @@
 konami_id: 21419
 password: 97556336
 name:
-  en: Medius the Innocent
+  en: Medius the Pure
   de:
   es:
   fr:
@@ -12,10 +12,10 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 无垢者 墨迪乌斯
 text:
   en: |-
-    If this card is Normal or Special Summoned: You can take 1 "Imprisoned Deity" monster from your Deck and either add it to your hand or Special Summon it. If this card is in your GY: You can shuffle 1 monster from your hand or face-up field into the Deck, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Medius the Innocent" once per turn.
+    If this card is Normal or Special Summoned: You can add to your hand, or Special Summon, 1 "Power Patron" monster from your Deck. If this card is in your GY: You can shuffle 1 monster from your hand or face-up field into the Deck, and if you do, Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Medius the Pure" once per turn.
   de:
   es:
   fr:
@@ -25,7 +25,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「獄神」モンスター１体を選び、手札に加えるか特殊召喚する。②：このカードが墓地に存在する場合に発動できる。自分の手札・フィールド（表側表示）からモンスター１体をデッキに戻し、このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组挑选1只“狱神”怪兽，加入手牌或特殊召唤。②：此卡存在于墓地的情况下可以发动。从自己手牌・场上（表侧表示）将1只怪兽放回牌组，将此卡特殊召唤。以此效果特殊召唤的此卡从场上离开的情况下，将其除外。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: DARK
@@ -34,20 +35,69 @@ atk: 1800
 def: 1800
 images:
 - index: 1
-  image: MediustheInnocent-DUAD-JP-SR.png
+  image: MediusthePure-DUAD-JP-SR.png
 sets:
+  en:
+  - set_number: ALIN-ENSP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-EN008
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: ALIN-DESP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-DE008
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: ALIN-SPSP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-SP008
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: ALIN-FRSP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-FR008
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: ALIN-ITSP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-IT008
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: ALIN-PTSP1
+    set_name: Duelist's Advance Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: ALIN-PT008
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP008
     set_name: Duelist's Advance
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: DUAD-SC008
+    set_name: Duelist's Advance
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
 limit_regulation:
-  tcg:
+  tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1121599

@@ -38,8 +38,8 @@ text:
     이 카드는 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. 이 카드는 카드의 효과로는 파괴되지 않는다. 이 카드가 수비 표시 몬스터를 공격했을 때, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다. 또한, 이 카드가 전투에 의해서 몬스터를 파괴하고 묘지로 보냈을 때, 파괴한 몬스터의 공격력만큼 자신의 라이프 포인트를 회복한다.
   zh-TW:
   zh-CN: |-
-    念动力族同调怪兽＋念动力族怪兽
-    这张卡用融合召唤才能从额外卡组特殊召唤。这张卡不会被卡的效果破坏。这张卡向守备表示怪兽攻击时，若攻击力超过那个守备力，给与对方基本分那个数值的战斗伤害。此外，这张卡战斗破坏怪兽送去墓地时，自己基本分回复破坏的怪兽的攻击力的数值。
+    念动力族同步怪兽＋念动力族怪兽
+    此卡从额外牌组仅可通过融合召唤来特殊召唤。①：此卡只要存在于怪兽区域，不会因效果被破坏。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。③：此卡战斗破坏怪兽并将其送至墓地的情况下发动。依该怪兽原本攻击力的数值恢复自己的LP。
 card_type: Monster
 monster_type_line: Psychic / Fusion / Effect
 attribute: LIGHT
@@ -90,6 +90,11 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: DUAD-SCS15
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

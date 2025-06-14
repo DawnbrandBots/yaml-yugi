@@ -1,7 +1,7 @@
 konami_id: 21444
 password: 53589300
 name:
-  en: Nerva the Imprisoned Deity of Creation
+  en: Nerva the Power Patron of Creation
   de:
   es:
   fr:
@@ -12,11 +12,11 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 创狱神 涅瓦
 text:
   en: |-
     3 "Artmegia" monsters
-    Must first be either Fusion Summoned, or Special Summoned (from your Extra Deck) in Defense Position by Tributing 3 monsters with different Types. You can only Special Summon "Nerva the Imprisoned Deity of Creation" once per turn. Cannot be destroyed by card effects while a card is in the Field Zone. Once per turn, when you activate an "Artmegia" monster's effect (Quick Effect): You can make the activated effect become "Destroy all cards your opponent controls".
+    Must first be either Fusion Summoned, or Special Summoned (from your Extra Deck) in Defense Position by Tributing 3 monsters with different Types. You can only Special Summon "Nerva the Power Patron of Creation" once per turn. Cannot be destroyed by card effects while a card is in the Field Zone. Once per turn, when you activate an "Artmegia" monster's effect (Quick Effect): You can make the activated effect become "Destroy all cards your opponent controls".
   de:
   es:
   fr:
@@ -27,7 +27,11 @@ text:
     自分は「創獄神ネルヴァ」を１ターンに１度しか特殊召喚できない。このカードは融合召喚及び以下の方法でのみＥＸデッキから特殊召喚できる。●種族が異なる自分フィールドのモンスター３体をリリースした場合に守備表示で特殊召喚できる。①：フィールドゾーンにカードが存在する限り、このカードは効果では破壊されない。②：１ターンに１度、自分が「アルトメギア」モンスターの効果を発動した時に発動できる。その効果は「相手フィールドのカードを全て破壊する」となる。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    “神艺”怪兽×3
+    自己1回合仅可特殊召唤1次“创狱神 涅瓦”。此卡从额外牌组仅可通过融合召唤及以下方法特殊召唤。
+    ●解放自己场上种族不同的3只怪兽的情况下可以守备表示特殊召唤。
+    ①：只要场地区域存在卡，此卡不会因效果被破坏。②：1回合1次，自己发动“神艺”怪兽的效果时可以发动。该效果变为“将对手场上的卡全部破坏”。
 card_type: Monster
 monster_type_line: Illusion / Fusion / Effect
 attribute: EARTH
@@ -36,10 +40,10 @@ atk: 3300
 def: 3300
 materials: 3 "Artmegia" monsters
 series:
-- Imprisoned Deity
+- Power Patron
 images:
 - index: 1
-  image: NervatheImprisonedDeityofCreation-DUAD-JP-UtR.png
+  image: NervathePowerPatronofCreation-DUAD-JP-UtR.png
 sets:
   ja:
   - set_number: DUAD-JP033
@@ -47,8 +51,14 @@ sets:
     rarities:
     - Ultimate Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: DUAD-SC033
+    set_name: Duelist's Advance
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
 limit_regulation:
-  tcg:
+  tcg: Not yet released
   ocg: Unlimited
 is_translation_unofficial:
   name:

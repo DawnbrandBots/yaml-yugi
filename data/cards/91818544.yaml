@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 威咖杯！摩卡
 text:
   en: |-
     FLIP: You can target 1 face-up monster on the field; it gains 1000 ATK, but send it to the GY during the End Phase.
@@ -26,7 +26,8 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドの裏側守備表示モンスター１体を対象として発動できる。このカードを手札から特殊召喚し、対象のモンスターを表側攻撃表示にする。②：このカードがリバースした場合、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターは、攻撃力が１０００アップし、エンドフェイズに墓地へ送られる。③：自分エンドフェイズに発動できる。このカードを裏側守備表示にする。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：以场上的1只里侧守备表示怪兽为对象可以发动。从手牌将此卡特殊召唤，将对象怪兽改成表侧攻击表示。②：此卡反转的情况下，以场上的1只表侧表示怪兽为对象可以发动。该怪兽的攻击力上升1000，并将在结束阶段被送至墓地。③：在自己的结束阶段可以发动。将此卡改成里侧守备表示。
 card_type: Monster
 monster_type_line: Aqua / Flip / Effect
 attribute: WIND
@@ -42,6 +43,12 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Normal Rare
+    - Prismatic Secret Rare
+  zh-CN:
+  - set_number: DUAD-SC028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released

@@ -39,8 +39,8 @@ text:
     ●이 엑시즈 소환에 성공했을 때, 상대 필드의 특수 소환된 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력을 0 으로 한다.
   zh-TW:
   zh-CN: |-
-    ①：以自己场上的１只“我我我魔术师”为对象可以发动。此卡的等级变为与该怪兽相同。②：仅以包含此卡在内的“我我我”怪兽作为素材超量召唤的怪兽获得以下效果。
-    ●此超量召唤成功时，以对手场上１只被特殊召唤的怪兽为对象可以发动。将该怪兽的攻击力改成０。
+    ①：以自己场上的1只“我我我魔术师”为对象可以发动。此卡的等级变为与该怪兽相同。②：以包含此卡在内的、且仅以场上的“我我我”怪兽作为素材超量召唤的怪兽获得以下效果。
+    ●此卡超量召唤时，以对手场上的1只被特殊召唤的怪兽为对象可以发动。将该怪兽的攻击力改成0。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -169,6 +169,11 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  - set_number: DUAD-SCS01
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
