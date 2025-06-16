@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Psychic Tuner + 1+ non-Tuner Psychic monsters
-    You can target 1 banished monster; Special Summon it to your field. During the Main Phase (Quick Effect): You can banish 1 monster from your GY, then target 1 other face-up monster on the field; banish it, then gain LP equal to the banished monster's original ATK. You can only use 1 "Psychic Blaster Mk-II" effect per turn, and only once that turn.
+    You can target 1 banished monster; Special Summon it to your field. During the Main Phase (Quick Effect): You can banish 1 monster from your GY, then target 1 other face-up monster on the field; banish it, then gain LP equal to that banished monster's original ATK. You can only use 1 "Psychic Blaster Mk-II" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -41,6 +41,30 @@ images:
 - index: 1
   image: PsychicBlasterMkII-DUAD-JP-UR.png
 sets:
+  en:
+  - set_number: DUAD-EN040
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: DUAD-DE040
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: DUAD-SP040
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: DUAD-FR040
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: DUAD-IT040
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: DUAD-PT040
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP040
     set_name: Duelist's Advance
@@ -56,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1115557

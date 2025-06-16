@@ -17,7 +17,7 @@ text:
   en: |-
     2 Xyz Monsters with the same Rank
     (This card's original Rank is always treated as 1.)
-    Gains ATK/DEF equal to the total Ranks of all Xyz Monsters you control and in your opponent's GY x 500. Your opponent's monsters cannot target monsters for attacks, except this one, also your opponent cannot target other cards on the field with card effects. Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 material from this card; take control of 1 monster your opponent controls, also this card cannot be destroyed by battle or card effects this turn.
+    Gains ATK/DEF equal to the combined Ranks of all Xyz Monsters you control and in your opponent's GY x 500. Your opponent's monsters cannot target monsters for attacks, except this one, also your opponent cannot target other cards on the field with card effects. Once per turn, when your opponent activates a card or effect on the field (Quick Effect): You can detach 1 material from this card; take control of 1 monster your opponent controls, also for the rest of this turn, this card cannot be destroyed by battle or card effects.
   de:
   es:
   fr:
@@ -49,6 +49,36 @@ images:
 - index: 1
   image: NumberF0UtopicFutureZexal-DUAD-JP-UR.png
 sets:
+  en:
+  - set_number: DUAD-EN042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: DUAD-DE042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: DUAD-SP042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: DUAD-FR042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: DUAD-IT042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: DUAD-PT042
+    set_name: Duelist's Advance
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DUAD-JP042
     set_name: Duelist's Advance
@@ -64,7 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1110721
