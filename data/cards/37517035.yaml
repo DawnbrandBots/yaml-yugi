@@ -1,7 +1,7 @@
 konami_id: 21467
 password: 37517035
 name:
-  en: Artmegia Masterwork - Succession
+  en: Artmage Masterwork -Succession-
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 神艺杰作－继承－
 text:
   en: |-
-    During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an "Artmegia" monster, then, if a card is in the Field Zone, the Summoned monster gains 500 ATK. During your Main Phase: You can banish this card from your GY, then target 3 "Artmegia" cards in your GY with different names; shuffle them into the Deck. You can only use each effect of "Artmegia Masterwork - Succession" once per turn.
+    During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an "Artmage" monster, and if a card is in the Field Zone, that monster gains 500 ATK. During your Main Phase: You can banish this card from your GY, then target 3 "Artmage" cards with different names in your GY; shuffle them into the Deck. You can only use each effect of "Artmage Masterwork -Succession-" once per turn.
   de:
   es:
   fr:
@@ -30,11 +30,35 @@ text:
 card_type: Spell
 property: Quick-Play
 series:
-- Artmegia
+- Artmage
 images:
 - index: 1
-  image: ArtmegiaMasterworkSuccession-DUAD-JP-C.png
+  image: ArtmageMasterworkSuccession-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN056
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: DUAD-DE056
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: DUAD-SP056
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: DUAD-FR056
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: DUAD-IT056
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: DUAD-PT056
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP056
     set_name: Duelist's Advance
@@ -48,9 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1121624

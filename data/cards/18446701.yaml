@@ -33,7 +33,8 @@ text:
   zh-TW: |-
     发动后，此卡转为装备卡，并装备我方场上的1只魔法师族怪兽。装备怪兽1回合中最多2次不会因战斗及卡牌效果而破坏。
   zh-CN: |-
-    ①：以自己场上1只魔法师族怪兽为对象才能把这张卡发动。这张卡当作装备卡使用给那只自己的魔法师族怪兽装备。装备怪兽1回合最多2次不会被战斗·效果破坏。
+    ①：以自己场上的1只魔法师族怪兽为对象可以发动此卡。将此卡视为拥有以下效果的装备卡，装备于该自己的魔法师族怪兽。
+    ●装备怪兽1回合最多2次不会因战斗・效果被破坏。
 card_type: Trap
 property: Normal
 series:
@@ -149,6 +150,11 @@ sets:
   zh-TW:
   - set_number: PR01-TC006
     set_name: Special Promotional Pack 2015 Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC111
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

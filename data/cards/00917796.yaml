@@ -32,7 +32,7 @@ text:
     자신 필드 위의 모든 "가가가"라는 이름이 붙은 몬스터의 공격력은, 다음 자신의 스텐바이 페이즈시까지, 자신 필드 위의 "가가가"라는 이름이 붙은 몬스터의 수 × 500 포인트 올린다. "가가가 태그"는 1턴에 1장밖에 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    自己场上的全部名字带有「我我我」的怪兽的攻击力直到下次的自己的准备阶段时上升自己场上的名字带有「我我我」的怪兽数量×500的数值。「我我我组队」在1回合只能发动1张。
+    此卡名的卡1回合仅可发动1张。①：自己场上的所有“我我我”怪兽的攻击力直至下个自己准备阶段为止，上升相当于自己场上的“我我我”怪兽的数量×500的数值。
 card_type: Spell
 property: Normal
 series:
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: SHSP-KR059
     set_name: Shadow Specters
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC110
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

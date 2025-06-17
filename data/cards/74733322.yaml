@@ -1,7 +1,7 @@
 konami_id: 21465
 password: 74733322
 name:
-  en: Artmegia the Academy City of Divine Arts
+  en: Artmage Academic Arcane Arts Acropolis
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 神艺学都
 text:
   en: |-
-    During your Main Phase, you can Normal Summon 1 "Medius the Pure" in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) You can discard 1 Spell/Trap and declare the name of 1 "Artmegia" monster you do not control; add 1 declared monster from your Deck to your hand, also you cannot Special Summon from outside the Extra Deck for the rest of this turn, except "Artmegia" monsters and "Medius the Pure". (You can only declare each card name once per turn to activate this effect of "Artmegia the Academy City of Divine Arts".)
+    During your Main Phase, you can Normal Summon 1 "Medius the Pure", in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can discard 1 Spell/Trap, and declare 1 "Artmage" Monster Card name that is not among the monsters you control and has not been declared for "Artmage Academic Arcane Arts Acropolis" this turn; add that monster from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except "Artmage" monsters, "Medius the Pure", or from the Extra Deck.
   de:
   es:
   fr:
@@ -30,11 +30,41 @@ text:
 card_type: Spell
 property: Field
 series:
-- Artmegia
+- Artmage
 images:
 - index: 1
-  image: ArtmegiatheAcademyCityofDivineArts-DUAD-JP-R.png
+  image: ArtmageAcademicArcaneArtsAcropolis-DUAD-JP-R.png
 sets:
+  en:
+  - set_number: DUAD-EN054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: DUAD-DE054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: DUAD-SP054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: DUAD-FR054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: DUAD-IT054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: DUAD-PT054
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DUAD-JP054
     set_name: Duelist's Advance
@@ -50,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1121620

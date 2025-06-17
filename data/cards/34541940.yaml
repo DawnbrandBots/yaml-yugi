@@ -1,7 +1,7 @@
 konami_id: 21420
 password: 34541940
 name:
-  en: Artmegia Finemelt
+  en: Artmage Finmel
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 神艺学徒 珐艺美忒
 text:
   en: |-
-    Your opponent cannot target Level 6 or lower "Artmegia" monsters you control with card effects. You can only use each of the following effects of "Artmegia Finemelt" once per turn. If you control an "Artmegia" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you control 3 or more different Monster Types (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also their current ATK become halved until the end of this turn.
+    Your opponent cannot target Level 6 or lower "Artmage" monsters you control with card effects. You can only use each of the following effects of "Artmage Finmel" once per turn. If you control an "Artmage" card: You can Special Summon this card from your hand, then you can draw 1 card. During the Main Phase, if you have 3 or more different Monster Types on your field (Quick Effect): You can negate the effects of all face-up monsters your opponent currently controls, also until the end of this turn, their ATK's become halved.
   de:
   es:
   fr:
@@ -34,11 +34,41 @@ level: 7
 atk: 2400
 def: 1500
 series:
-- Artmegia
+- Artmage
 images:
 - index: 1
-  image: ArtmegiaFinemelt-DUAD-JP-SR.png
+  image: ArtmageFinmel-DUAD-JP-SR.png
 sets:
+  en:
+  - set_number: DUAD-EN009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: DUAD-DE009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: DUAD-SP009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: DUAD-FR009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: DUAD-IT009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: DUAD-PT009
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DUAD-JP009
     set_name: Duelist's Advance
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1121602

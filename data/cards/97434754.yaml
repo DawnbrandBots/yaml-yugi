@@ -1,7 +1,7 @@
 konami_id: 21422
 password: 97434754
 name:
-  en: Artmegia Litera
+  en: Artmage Litera
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 神艺学徒 璃天乐
 text:
   en: |-
-    You take no battle damage from battles involving this card. You can only use each of the following effects of "Artmegia Litera" once per turn. If you control an "Artmegia" card: You can Special Summon this card from your hand, then you can add 1 "Artmegia" card from your GY to your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 "Artmegia" monster from your hand or GY, except "Artmegia Litera", then return this card from the field to the hand.
+    You take no battle damage from battles involving this card. You can only use each of the following effects of "Artmage Litera" once per turn. If you control an "Artmage" card: You can Special Summon this card from your hand, then you can add 1 "Artmage" card from your GY to your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 "Artmage" monster from your hand or GY, except "Artmage Litera", then return this card from the field to the hand.
   de:
   es:
   fr:
@@ -34,11 +34,35 @@ level: 3
 atk: 400
 def: 1800
 series:
-- Artmegia
+- Artmage
 images:
 - index: 1
-  image: ArtmegiaLitera-DUAD-JP-C.png
+  image: ArtmageLitera-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN011
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: DUAD-DE011
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: DUAD-SP011
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: DUAD-FR011
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: DUAD-IT011
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: DUAD-PT011
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP011
     set_name: Duelist's Advance
@@ -53,10 +77,5 @@ sets:
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1121607
