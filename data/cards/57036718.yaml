@@ -32,7 +32,7 @@ text:
     이 카드가 상대 라이프에 전투 데미지를 준 데미지 스텝 종료시, 필드 위에 앞면 표시로 존재하는 공격력이 가장 낮은 몬스터 1장을 파괴하고, 이 카드의 공격력은 800 포인트 내린다.
   zh-TW:
   zh-CN: |-
-    这张卡给与对方基本分战斗伤害的伤害步骤结束时，场上表侧表示存在的1只攻击力最低的怪兽破坏，这张卡的攻击力下降800。
+    ①：此卡给予了对手战斗伤害的伤害步骤结束时发动。将场上攻击力最低的1只怪兽破坏，此卡的攻击力下降800。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -125,6 +125,11 @@ sets:
     - Common
   - set_number: DP14-KR016
     set_name: 'Duelist Pack: Yuma 2: Gogogo & Dododo'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC101
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

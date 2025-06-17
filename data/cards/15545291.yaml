@@ -40,7 +40,8 @@ text:
     ●덱에서 카드를 1장 드로우한다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把1只上级召唤的怪兽解放作上级召唤。这张卡上级召唤成功时，选择场上盖放的最多2张卡破坏。这张卡把地属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。●从卡组抽1张卡。
+    此卡可通过解放1只上级召唤的怪兽来上级召唤。①：此卡上级召唤的情况下，以场上的最多2张里侧表示卡为对象发动。将该里侧表示卡破坏。此卡解放了地属性怪兽来上级召唤的情况下，追加以下效果。
+    ●自己抽1张。
 card_type: Monster
 monster_type_line: Rock / Effect
 attribute: EARTH
@@ -117,6 +118,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 25BZ-SC125
+    set_name: Duelist Advance Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

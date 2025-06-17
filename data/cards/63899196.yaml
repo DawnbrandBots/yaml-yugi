@@ -1,7 +1,7 @@
 konami_id: 21472
 password: 63899196
 name:
-  en: Scheme of the Monarchs
+  en: The Monarchs Masterplan
   de:
   es:
   fr:
@@ -15,7 +15,9 @@ name:
   zh-CN: 帝王的策略
 text:
   en: |-
-    Send 1 "Monarch" Spell/Trap from your Deck to the GY, except "Scheme of the Monarchs". If this card is banished: You can target 1 face-up monster your opponent controls; add 1 monster with the same Attribute, but with 2400 ATK/1000 DEF, from your Deck or GY to your hand, then, immediately after this effect resolves, you can Normal Summon 1 "Zaborg the Thunder Monarch", "Mobius the Frost Monarch", "Thestalos the Firestorm Monarch", "Granmarg the Rock Monarch", "Raiza the Storm Monarch", or "Caius the Shadow Monarch". You can only use this effect of "Scheme of the Monarchs" once per turn.
+    Send 1 "Monarch" Spell/Trap from your Deck to the GY, except "The Monarchs Masterplan". If this card is banished: You can target 1 face-up monster your opponent controls; add 1 monster with the same Attribute that has 2400 ATK/1000 DEF, from your Deck or GY to your hand, then you can apply this effect.
+    ● Immediately after this effect resolves, Normal Summon 1 "Zaborg the Thunder Monarch", "Mobius the Frost Monarch", "Thestalos the Firestorm Monarch", "Granmarg the Rock Monarch", "Raiza the Storm Monarch", or "Caius the Shadow Monarch".
+    You can only use this effect of "The Monarchs Masterplan" once per turn.
   de:
   es:
   fr:
@@ -34,8 +36,32 @@ series:
 - Monarch
 images:
 - index: 1
-  image: SchemeoftheMonarchs-DUAD-JP-C.png
+  image: TheMonarchsMasterplan-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN061
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: DUAD-DE061
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: DUAD-SP061
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: DUAD-FR061
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: DUAD-IT061
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: DUAD-PT061
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP061
     set_name: Duelist's Advance
@@ -48,10 +74,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1115366

@@ -32,7 +32,7 @@ text:
     상대 몬스터의 직접 공격 선언시, 이 카드를 패에서 특수 소환할 수 있다. 또한, 이 카드가 공격 대상으로 선택되었을 때, 패를 1장 버리는 것으로, 이 카드는 그 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN: |-
-    对方怪兽的直接攻击宣言时，这张卡可以从手卡特殊召唤。此外，这张卡被选择作为攻击对象时，可以通过丢弃1张手卡，这张卡不会被那次战斗破坏。
+    ①：对手怪兽的直接攻击宣言时可以发动。从手牌将此卡特殊召唤。②：此卡被选择为攻击对象时，舍弃1张手牌可以发动。此卡不会因该战斗被破坏。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -195,6 +195,11 @@ sets:
     - Rare
   - set_number: ST13-KR011
     set_name: Starter Deck 2013
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC105
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

@@ -1,7 +1,7 @@
 konami_id: 21487
 password: 59983249
 name:
-  en: Culmination of the Monarchs
+  en: Monarchic Perfection
   de:
   es:
   fr:
@@ -15,12 +15,12 @@ name:
   zh-CN: 帝王的极致
 text:
   en: |-
-    Once per Chain, if your opponent Special Summons a monster(s) and you control a Tribute Summoned monster (except during the Damage Step): You can banish 1 "Monarch" Spell/Trap from your GY, then activate 1 of these effects (but you can only use each effect of "Culmination of the Monarchs" once per turn);
+    Once per Chain, if your opponent Special Summons a monster(s), and you control a Tribute Summoned monster (except during the Damage Step): You can banish 1 "Monarch" Spell/Trap from your GY, then activate 1 of these effects (but you can only use each effect of "Monarchic Perfection" once per turn);
     ● Destroy 1 monster on the field.
     ● Destroy up to 2 Spells/Traps on the field.
     ● Discard 1 random card from your opponent's hand.
     ● Destroy 1 face-down card on the field.
-    ● Place 1 card on the field on top of the Deck.
+    ● Place 1 card from the field on top of the Deck.
     ● Banish 1 card on the field.
   de:
   es:
@@ -40,8 +40,32 @@ series:
 - Monarch
 images:
 - index: 1
-  image: CulminationoftheMonarchs-DUAD-JP-C.png
+  image: MonarchicPerfection-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN076
+    set_name: Duelist's Advance
+    rarities:
+  de:
+  - set_number: DUAD-DE076
+    set_name: Duelist's Advance
+    rarities:
+  es:
+  - set_number: DUAD-SP076
+    set_name: Duelist's Advance
+    rarities:
+  fr:
+  - set_number: DUAD-FR076
+    set_name: Duelist's Advance
+    rarities:
+  it:
+  - set_number: DUAD-IT076
+    set_name: Duelist's Advance
+    rarities:
+  pt:
+  - set_number: DUAD-PT076
+    set_name: Duelist's Advance
+    rarities:
   ja:
   - set_number: DUAD-JP076
     set_name: Duelist's Advance
@@ -54,10 +78,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1115370

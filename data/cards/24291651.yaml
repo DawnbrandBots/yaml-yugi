@@ -32,7 +32,7 @@ text:
     필드 위에 앞면 공격 표시로 존재하는 이 카드가 공격 대상으로 선택되었을 때, 이 카드의 표시 형식을 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN: |-
-    场上表侧攻击表示存在的这张卡被选择作为攻击对象时，可以把这张卡的表示形式变成守备表示。
+    ①：攻击表示的此卡被选择为攻击对象时可以发动。将此卡改成守备表示。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: LIGHT
@@ -145,6 +145,11 @@ sets:
     - Common
   - set_number: ST13-KR013
     set_name: Starter Deck 2013
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC102
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

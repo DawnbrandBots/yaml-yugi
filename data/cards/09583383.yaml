@@ -12,7 +12,7 @@ name:
   ko: 가가가 카이저
   ko_rr:
   zh-TW: 我我我帝王
-  zh-CN: 我我我帝王
+  zh-CN: 我我我凯撒
 text:
   en: |-
     Cannot attack unless you control another face-up "Gagaga" monster. Once per turn: You can banish 1 monster from your Graveyard that has a Level; the Levels of all face-up "Gagaga" monsters you currently control become the Level of that monster. This card cannot be used as a Synchro Material Monster.
@@ -32,7 +32,7 @@ text:
   zh-TW: |-
     此卡仅限我方场上存在除此卡以外冠有「我我我」之名的怪兽的场合可攻击。此外，1回合1次，可将我方墓地的1只怪兽从游戏中除外并发动。我方场上冠有「我我我」之名的全部怪兽的等级变成与为了发动此效果而从游戏中除外的怪兽相同等级。此卡不可作为同步素材。
   zh-CN: |-
-    这张卡在自己场上有这张卡以外的名字带有「我我我」的怪兽存在的场合才能攻击。此外，1回合1次，把自己墓地1只怪兽从游戏中除外才能发动。自己场上的全部名字带有「我我我」的怪兽的等级变成和为这个效果发动而从游戏中除外的怪兽相同等级。这张卡不能作为同调素材。
+    此卡不可作为同步素材。①：自己场上不存在其他“我我我”怪兽的情况下，此卡不可攻击。②：1回合1次，从自己墓地将1只怪兽除外可以发动。自己场上的所有“我我我”怪兽的等级变为与除外的怪兽的等级相同。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -85,6 +85,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 25BZ-SC106
+    set_name: Duelist Advance Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
