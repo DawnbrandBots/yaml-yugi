@@ -8,7 +8,7 @@ name:
   pt:
   ja: サイバー・ラッシュ・フュージョン
   ja_romaji: Saibā Rasshu Fyūjon
-  ko:
+  ko: 사이버 러시 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のフィールド・墓地のモンスター（光属性／機械族）を５体まで素材として持ち主のデッキに戻し、「サイバー・ドラゴン」のカード名が素材として記されたモンスターをフュージョン召喚する。その後、この効果で特殊召喚したモンスター以外のモンスターが自分フィールドにいる場合、それらのモンスターを全て破壊する。
-  ko:
+  ko: |-
+    자신의 필드 / 묘지의 몬스터(빛 속성 / 기계족)를 5장까지 소재로서 주인의 덱으로 되돌리고, "사이버 드래곤"의 카드명이 소재로서 쓰여진 몬스터를 퓨전 소환한다. 그 후, 이 효과로 특수 소환한 몬스터 이외의 몬스터가 자신 필드에 있을 경우, 그 몬스터들을 전부 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -52,6 +54,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0C-JPS06
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0C-KR029
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Common
+  - set_number: RD/SD0C-KRS06
     set_name: 'Structure Deck: Chimeratech Cyber'
     rarities:
     - Super Rare

@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヒステリック・パーティー
   ja_romaji:
-  ko:
+  ko: 히스테릭 파티
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手ターンに相手がドローした時、または自分のモンスターが相手の攻撃で破壊された時に発動できる。
-  ko:
+  ko: |-
+    상대 턴에 상대가 드로우했을 때, 또는 자신의 몬스터가 상대의 공격으로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の手札１枚を選んで墓地へ送る。その後、自分の墓地の「ハーピィ・レディ」、「ハーピィ三姉妹」、フュージョンモンスター（風属性／鳥獣族）を合計３体まで選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신의 패 1장을 고르고 묘지로 보낸다. 그 후, 자신 묘지의 "해피 레이디", "해피레이디즈", 퓨전 몬스터(바람 속성 / 비행야수족)를 합계 3장까지 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -52,6 +54,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0D-JPS07
+    set_name: 'Structure Deck: Harpie Lady Sisters'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0D-KR035
+    set_name: 'Structure Deck: Harpie Lady Sisters'
+    rarities:
+    - Common
+  - set_number: RD/SD0D-KRS07
     set_name: 'Structure Deck: Harpie Lady Sisters'
     rarities:
     - Super Rare

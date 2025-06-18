@@ -8,7 +8,7 @@ name:
   pt:
   ja: キメラテック・オーバー・ドラゴン
   ja_romaji:
-  ko:
+  ko: 키메라테크 오버 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードの元々の攻撃力・守備力は、［このカードをフュージョン召喚する時に素材としたモンスターの数］×８００になる。
-  ko:
+  ko: |-
+    이 카드의 원래의 공격력 / 수비력은, [이 카드를 퓨전 소환할 때에 소재로 한 몬스터의 수] × 800 이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -50,7 +52,8 @@ effect:
   pt:
   ja: |-
     フュージョン召喚したこのカードは１ターンに、［このカードをフュージョン召喚する時に素材としたモンスターの数］までモンスターに攻撃できる。
-  ko:
+  ko: |-
+    퓨전 소환한 이 카드는 1턴에, [이 카드를 퓨전 소환할 때에 소재로 한 몬스터의 수]까지 몬스터에 공격할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,7 +72,8 @@ materials:
   pt:
   ja: |-
     「サイバー・ドラゴン」＋モンスター（機械族）１体以上
-  ko:
+  ko: |-
+    "사이버 드래곤" ＋ 몬스터(기계족) 1장 이상
   zh-TW:
   zh-CN:
 series:
@@ -84,6 +88,15 @@ sets:
     rarities:
     - Ultra Rare
   - set_number: RD/SD0C-JPS01
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Over Rush Rare
+  ko:
+  - set_number: RD/SD0C-KR001
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Ultra Rare
+  - set_number: RD/SD0C-KRS01
     set_name: 'Structure Deck: Chimeratech Cyber'
     rarities:
     - Over Rush Rare

@@ -8,7 +8,7 @@ name:
   pt:
   ja: サイバー・ドラゴン・ラケーテ
   ja_romaji: Saibā Doragon Rakēte
-  ko:
+  ko: 사이버 드래곤 라케테
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター（光属性／機械族）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 몬스터(빛 속성 / 기계족) 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「サイバー・ドラゴン」になる。その後、自分フィールドの表側表示モンスター１体を選んでその攻撃力をターン終了時まで５００アップできる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "사이버 드래곤"이 된다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 공격력을 턴 종료시까지 500 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,6 +72,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0C-JPS02
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0C-KR006
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Common
+  - set_number: RD/SD0C-KRS02
     set_name: 'Structure Deck: Chimeratech Cyber'
     rarities:
     - Super Rare

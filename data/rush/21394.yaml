@@ -8,7 +8,7 @@ name:
   pt:
   ja: サイバネティック・オーバーフロー
   ja_romaji:
-  ko:
+  ko: 사이버네틱 오버플로
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚した時、自分の墓地のレベルが異なる「サイバー・ドラゴン」２体を好きな順番でデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환했을 때, 자신 묘지의 레벨이 다른 "사이버 드래곤" 2장을 좋아하는 순서대로 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード２枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 2장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -52,6 +54,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0C-JPS07
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0C-KR037
+    set_name: 'Structure Deck: Chimeratech Cyber'
+    rarities:
+    - Common
+  - set_number: RD/SD0C-KRS07
     set_name: 'Structure Deck: Chimeratech Cyber'
     rarities:
     - Super Rare
