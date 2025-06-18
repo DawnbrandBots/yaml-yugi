@@ -24,7 +24,8 @@ text:
     Votre adversaire ne peut pas cibler de monstres EAU face recto (celui-ci exclu) avec une attaque. Tous les monstres EAU que vous contrôlez gagnent 300 ATK.
   it: |-
     Il tuo avversario non può scegliere come bersaglio per gli attacchi i mostri ACQUA scoperti, eccetto questo. Tutti i mostri ACQUA che controlli guadagnano 300 ATK.
-  pt:
+  pt: |-
+    Os monstros do seu oponente não podem escolher monstros de ÁGUA como alvo de ataques, exceto este. Todos os monstros de ÁGUA que você controla ganham 300 de ATK.
   ja: |-
     このカードがフィールド上に表側表示で存在する限り、相手は他の水属性モンスターを攻撃対象に選択できない。 また、このカードがフィールド上に表側表示で存在する限り、自分フィールド上の水属性モンスターの攻撃力は３００ポイントアップする。
   ko: |-
@@ -69,6 +70,11 @@ sets:
   it:
   - set_number: ABYR-IT019
     set_name: Abyss Rising
+    rarities:
+    - Common
+  pt:
+  - set_number: OP28-PT035
+    set_name: OTS Tournament Pack 28
     rarities:
     - Common
   ja:

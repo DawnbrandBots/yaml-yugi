@@ -24,7 +24,8 @@ text:
     Une fois par tour, si cette carte va être détruite par un effet qui ne la cible pas, elle n'est pas détruite.
   it: |-
     Una volta per turno, se questa carta sta per essere distrutta da un effetto che non la sceglie come bersaglio, essa non viene distrutta.
-  pt:
+  pt: |-
+    A cada turno, na primeira vez que este card seria destruído por um efeito que não o escolhe como alvo, ele não é destruído.
   ja: |-
     このカードは１ターンに１度だけ、対象を指定しないカードの効果では破壊されない。
   ko: |-
@@ -114,6 +115,11 @@ sets:
     rarities:
     - Common
     - Starfoil Rare
+  pt:
+  - set_number: OP28-PT033
+    set_name: OTS Tournament Pack 28
+    rarities:
+    - Common
   ja:
   - set_number: EXP1-JP007
     set_name: Extra Pack

@@ -1,7 +1,7 @@
 konami_id: 21461
 password: 12067160
 name:
-  en: Zilofthonia Gorgon
+  en: Gorgon of Zilofthonia
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2+ Effect Monsters
-    You cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of all monsters this card points to. Cannot be destroyed by battle or monster effects while it points to no monsters.
+    You cannot Summon/Set monsters to a zone(s) this card points to. Monsters this card points to cannot attack, also their activated effects are negated. Gains ATK equal to the total original ATK of monsters this card points to. Cannot be destroyed by battle or monster effects, while this card points to no monsters.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ atk: 100
 materials: 2+ Effect Monsters
 images:
 - index: 1
-  image: ZilofthoniaGorgon-DUAD-JP-UtR.png
+  image: GorgonofZilofthonia-DUAD-JP-UtR.png
 sets:
+  en:
+  - set_number: DUAD-EN050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: DUAD-DE050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: DUAD-SP050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: DUAD-FR050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: DUAD-IT050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: DUAD-PT050
+    set_name: Duelist's Advance
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DUAD-JP050
     set_name: Duelist's Advance
@@ -58,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1124827

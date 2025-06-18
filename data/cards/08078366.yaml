@@ -24,7 +24,8 @@ text:
     Cette carte gagne 800 ATK tant que vous contrôlez un monstre de Type Poisson/Serpent de Mer/Aqua face recto (cette carte exclue).
   it: |-
     Questa carta guadagna 800 ATK mentre controlli un mostro Tipo Pesce, Serpente Marino o Acqua scoperto diverso da questa carta.
-  pt:
+  pt: |-
+    Ganha 800 de ATK enquanto você controlar um monstro Peixe, Serpente Marinha ou Aqua que não seja este card.
   ja: |-
     自分フィールド上にこのカード以外の魚族・海竜族・水族モンスターが存在する場合、このカードの攻撃力は８００ポイントアップする。
   ko: |-
@@ -88,6 +89,11 @@ sets:
     - Common
   - set_number: SDRE-IT006
     set_name: Realm of the Sea Emperor Structure Deck
+    rarities:
+    - Common
+  pt:
+  - set_number: OP28-PT034
+    set_name: OTS Tournament Pack 28
     rarities:
     - Common
   ja:
