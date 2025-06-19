@@ -12,7 +12,7 @@ name:
   ko: 맥스 텔레포터
   ko_rr:
   zh-TW: 極限瞬移者
-  zh-CN: 极限瞬移者
+  zh-CN: 极限瞬动者
 text:
   en: |-
     This card cannot be Special Summoned. You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field.
@@ -32,7 +32,7 @@ text:
     이 카드는 특수 소환할 수 없다. 2000 라이프 포인트를 지불하는 것으로, 자신의 덱에서 레벨 3의 사이킥족 몬스터 2장을 자신 필드 위에 특수 소환한다. 이 효과는 이 카드가 필드 위에 앞면 표시로 존재하는 한, 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡不能特殊召唤。可以通过支付2000基本分，从自己卡组把2只3星的念动力族怪兽在自己场上特殊召唤。这个效果只在这张卡在场上表侧表示存在能使用1次。
+    此卡不可特殊召唤。①：只要此卡以表侧表示存在仅限1次，支付2000LP可以发动。从牌组将2只念动力族・等级3怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Psychic / Effect
 attribute: LIGHT
@@ -76,6 +76,11 @@ sets:
   ko:
   - set_number: EXP2-KR024
     set_name: Extra Pack Volume 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC117
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

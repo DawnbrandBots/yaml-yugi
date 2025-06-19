@@ -32,7 +32,7 @@ text:
     게임에서 제외되어 있는 이 카드가 특수 소환에 성공했을 때, 자신의 덱 맨 위의 카드를 뒷면 표시로 게임에서 제외한다. 이 카드가 필드 위에서 묘지로 보내졌을 때, 이 카드의 효과로 제외한 자신의 카드를 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    从游戏中除外的这张卡特殊召唤成功时，把自己卡组最上面的卡里侧表示从游戏中除外。这张卡从场上送去墓地时，这张卡的效果除外的自己的卡加入手卡。
+    ①：除外状态的此卡特殊召唤的情况下发动。将自己牌组最上面的卡以里侧除外。②：以此卡的①效果除外了卡的此卡从场上被送至墓地的情况下发动。将该自己的除外状态的卡加入手牌。
 card_type: Monster
 monster_type_line: Psychic / Tuner / Effect
 attribute: EARTH
@@ -137,6 +137,11 @@ sets:
   ko:
   - set_number: EXVC-KR023
     set_name: Extreme Victory
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC121
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

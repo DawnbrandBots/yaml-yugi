@@ -32,7 +32,7 @@ text:
     이 카드를 패에서 버리고, 자신 필드 위에 앞면 표시로 존재하는 사이킥족 몬스터 1장을 선택하고 발동한다. 선택한 몬스터를 다음 자신의 스텐바이 페이즈시까지 게임에서 제외한다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    把这张卡从手卡丢弃，选择自己场上表侧表示存在的1只念动力族怪兽发动。选择的怪兽直到下次的自己的准备阶段时从游戏中除外。这个效果在对方回合也能发动。
+    ①：在自己・对手回合中，从手牌将此卡舍弃，以自己场上的1只念动力族怪兽为对象可以发动。将该怪兽直至下个自己的准备阶段为止除外。
 card_type: Monster
 monster_type_line: Psychic / Effect
 attribute: EARTH
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: GENF-KR024
     set_name: Generation Force
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC123
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:
