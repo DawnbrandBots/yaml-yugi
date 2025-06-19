@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as "Hungry Burger".)
-    You can Ritual Summon this card with a "Recipe" card. All monsters your opponent controls must attack this card, if able. You can only use each of the following effects of "Angry Burger" once per turn. You can reveal this card in your hand; add 1 "Nouvelles" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 "Hungry Burger" with 2000 ATK from your hand or Deck.
+    You can Ritual Summon this card with a "Recipe" card. Monsters your opponent controls that can attack must attack this card. You can only use each of the following effects of "Angry Burger" once per turn. You can reveal this card in your hand; add 1 "Nouvelles" monster from your Deck to your hand, and if you do, shuffle this card into the Deck. (Quick Effect): You can Tribute 1 Attack Position monster on either field, and if you do, Special Summon 1 "Hungry Burger" with 2000 ATK from your hand or Deck.
   de:
   es:
   fr:
@@ -40,6 +40,36 @@ images:
 - index: 1
   image: AngryBurger-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP029
     set_name: Duelist's Advance
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1123206

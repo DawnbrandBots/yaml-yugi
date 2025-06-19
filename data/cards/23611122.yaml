@@ -1,7 +1,7 @@
 konami_id: 21483
 password: 23611122
 name:
-  en: Sudden Thunderous Swamp
+  en: Sudden Thunder Swamp
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 急雷之泥沼
 text:
   en: |-
-    When this card is activated: You can discard 1 card, and if you do, Set 1 Continuous Trap from your Deck or GY, with an effect that Special Summons itself as a monster, except the discarded card. If a card(s) you control is destroyed by battle or card effect, and sent to the GY or banished face-up: You can target 1 of them; add 1 card with the same name from your Deck to your hand. You can only use this effect of "Sudden Thunderous Swamp" once per turn. You can only activate 1 "Sudden Thunderous Swamp" per turn.
+    When this card is activated: You can discard 1 card, and if you do, Set 1 Continuous Trap from your Deck or GY, with an effect that Special Summons itself as a monster, except the discarded card. If a card(s) you control is destroyed by battle or card effect, and sent to the GY or banished face-up: You can target 1 of them; add 1 card with the same name from your Deck to your hand. You can only use this effect of "Sudden Thunder Swamp‎" once per turn. You can only activate 1 "Sudden Thunder Swamp‎" per turn.
   de:
   es:
   fr:
@@ -33,8 +33,38 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: SuddenThunderousSwamp-DUAD-JP-C.png
+  image: SuddenThunderSwamp-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT072
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP072
     set_name: Duelist's Advance
@@ -48,9 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1125050

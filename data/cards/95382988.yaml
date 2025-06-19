@@ -1,7 +1,7 @@
 konami_id: 21488
 password: 95382988
 name:
-  en: Regenesis Commandments
+  en: Regenesis Commands
   de:
   es:
   fr:
@@ -19,7 +19,7 @@ text:
     ● Face-up cards: Negate their effects.
     ● Face-down monsters: Cannot change their battle positions.
     ● Face-down Spells/Traps: Cannot be activated until the end of the next turn.
-    You can only activate 1 "Regenesis Commandments" per turn.
+    You can only activate 1 "Regenesis Commands" per turn.
   de:
   es:
   fr:
@@ -43,8 +43,38 @@ series:
 - Regenesis
 images:
 - index: 1
-  image: RegenesisCommandments-DUAD-JP-C.png
+  image: RegenesisCommands-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT077
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP077
     set_name: Duelist's Advance
@@ -60,9 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1124645

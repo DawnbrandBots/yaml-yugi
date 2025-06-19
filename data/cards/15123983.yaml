@@ -1,7 +1,7 @@
 konami_id: 21452
 password: 15123983
 name:
-  en: The Star Ham
+  en: THE Star Ham
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    If this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of "The Star Ham" once per turn.
+    If this card is Synchro Summoned: You can discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner. If this card is in your GY: You can discard 2 cards; Special Summon this card, but banish it when it leaves the field. You can only use each effect of "THE Star Ham" once per turn.
   de:
   es:
   fr:
@@ -39,8 +39,38 @@ def: 1200
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: TheStarHam-DUAD-JP-C.png
+  image: THEStarHam-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT041
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP041
     set_name: Duelist's Advance
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1125052

@@ -1,7 +1,7 @@
 konami_id: 21485
 password: 96004535
 name:
-  en: Xyz Unbreakable Barrier
+  en: Unbreakable Xyz Barrier
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 超量不屈屏障
 text:
   en: |-
-    When a Spell/Trap Card, or monster effect, is activated and you control an Xyz Monster: Negate the activation, then you can detach 2 materials from a monster(s) you control, then destroy 1 card on the field. You can banish this card from your GY, then target 1 Xyz Monster you control; attach 1 LIGHT "Utopia" or "Utopic" Xyz Monster from your GY to it as material. You can only use each effect of "Xyz Unbreakable Barrier" once per turn.
+    When a Spell/Trap Card, or monster effect, is activated while you control an Xyz Monster: Negate the activation, then you can detach 2 materials from a monster(s) you control, then destroy 1 card on the field. You can banish this card from your GY, then target 1 Xyz Monster you control; attach 1 LIGHT "Utopia" or "Utopic" Xyz Monster from your GY to it. You can only use each effect of "Unbreakable Xyz Barrier" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,38 @@ series:
 - Xyz
 images:
 - index: 1
-  image: XyzUnbreakableBarrier-DUAD-JP-C.png
+  image: UnbreakableXyzBarrier-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT074
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP074
     set_name: Duelist's Advance
@@ -50,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1110733
