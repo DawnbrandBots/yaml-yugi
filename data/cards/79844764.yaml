@@ -32,7 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에, 자신은 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ①: 이 턴에, 자신이 몬스터를 어드밴스 소환할 경우에 1번만, 자신 필드의 몬스터 1장 대신에 상대 필드의 몬스터 1장을 릴리스할 수 있다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡1个回合仅可发动1张，此卡发动的回合，自己不可从额外牌组特殊召唤怪兽。①：此回合，自己在要将怪兽上级召唤的情况下，仅限1次，可解放对手场上的1只怪兽作为自己场上1只怪兽的代替。
+    此卡名的卡1回合仅可发动1张，发动此卡的回合中，自己不可从额外牌组特殊召唤怪兽。①：此回合，自己要上级召唤怪兽的情况下，仅限1次，可解放对手场上的1只怪兽作为自己场上1只怪兽的代替。
 card_type: Spell
 property: Quick-Play
 series:
@@ -279,6 +279,10 @@ sets:
     - Normal Parallel Rare
   - set_number: EGO1-SC032
     set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk the Tormentor"
+    rarities:
+    - Common
+  - set_number: 25BZ-SC132
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

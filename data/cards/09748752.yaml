@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     當此卡升級召喚成功時，選擇場上的1張卡牌並將其除外。若除外的卡牌是闇屬性怪獸的情形，可給對手生命造成1000點的傷害。
   zh-CN: |-
-    ①：此卡上级召唤成功的情况下，以场上的1张卡为对象发动。将该卡除外，除外的卡为暗属性怪兽卡的情况下，给对手1000伤害。
+    ①：此卡上级召唤的情况下，以场上的1张卡为对象发动。将该卡除外，除外的卡为暗属性怪兽卡的情况下，给予对手1000伤害。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -323,6 +323,10 @@ sets:
     - Common
   - set_number: SCTP-SC010
     set_name: Entry Pack Volume 1
+    rarities:
+    - Common
+  - set_number: 25BZ-SC134
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

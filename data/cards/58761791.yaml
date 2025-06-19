@@ -1,7 +1,7 @@
 konami_id: 21490
 password: 58761791
 name:
-  en: Shipment Error
+  en: Shipping Error
   de:
   es:
   fr:
@@ -31,8 +31,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ShipmentError-DUAD-JP-C.png
+  image: ShippingError-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT079
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP079
     set_name: Duelist's Advance
@@ -46,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1125048

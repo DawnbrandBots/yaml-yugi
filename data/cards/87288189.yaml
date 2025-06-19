@@ -39,8 +39,7 @@ text:
     ●이 효과의 대상을 2장으로 할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把1只上级召唤的怪兽解放作上级召唤。①：这张卡上级召唤成功的场合，以场上1张卡为对象发动。那张卡除外，给与对方1000伤害。除外的卡是暗属性怪兽卡的场合，从那控制者的手卡·卡组·额外卡组·墓地把同名卡全部除外。这张卡把暗属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。
-    ●这个效果的对象可以变成2张。
+    此卡可通过解放1只上级召唤的怪兽来上级召唤。①：此卡上级召唤的情况下，以场上的1张卡为对象发动（此卡解放了暗属性怪兽来上级召唤的情况下，可将此效果的对象改成2张）。将该卡除外，给予对手1000伤害。除外的卡为暗属性怪兽卡的情况下，进而从其控制者的手牌・牌组・额外牌组・墓地将所有同名卡除外。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -151,6 +150,11 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: 25BZ-SC133
+    set_name: Duelist Advance Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

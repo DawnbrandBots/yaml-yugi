@@ -12,7 +12,7 @@ name:
   ko: 바람 제왕의 가신 가룸
   ko_rr:
   zh-TW: 風帝家臣迦樓姆
-  zh-CN: 风帝家臣 迦楼姆
+  zh-CN: 风帝家臣迦楼姆
 text:
   en: |-
     You can return 1 Tribute Summoned monster you control to the hand; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can add 1 monster with 800 ATK and 1000 DEF from your Deck to your hand, except "Garum the Storm Vassal". You can only use each effect of "Garum the Storm Vassal" once per turn.
@@ -32,7 +32,7 @@ text:
     "바람 제왕가신 가룸"의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 어드밴스 소환된 몬스터 1장을 주인의 패로 되돌리고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 턴에, 자신은 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ②: 이 카드가 어드밴스 소환을 위해 릴리스되었을 경우에 발동할 수 있다. 덱에서 "바람 제왕가신 가룸" 이외의 공격력 800 / 수비력 1000 인 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    「風帝家臣ガルーム」的①②的效果1回合各能使用1次。①：让自己场上1只上级召唤的怪兽回到持有者手卡才能发动。这张卡从手卡特殊召唤。这个回合，自己不能从额外卡组把怪兽特殊召唤。②：这张卡为上级召唤而被解放的场合才能发动。从卡组把「風帝家臣ガルーム」以外的1只攻击力800/守备力1000的怪兽加入手卡。
+    此卡名的①②效果1回合仅可各使用1次。①：将自己场上的1只被上级召唤的怪兽放回手牌可以发动。从手牌将此卡特殊召唤。此回合，自己不可从额外牌组特殊召唤怪兽。②：此卡为上级召唤而被解放的情况下可以发动。从牌组将“风帝家臣迦楼姆”以外的1只攻击力800/守备力1000的怪兽加入手牌。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: WIND
@@ -87,6 +87,11 @@ sets:
   ko:
   - set_number: SR01-KR015
     set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC131
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:

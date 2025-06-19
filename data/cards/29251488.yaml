@@ -36,7 +36,7 @@ def: 1850
 pendulum_scale: 0
 pendulum_effect:
   en: |-
-    During your Main Phase, if this card was activated this turn: You can add 1 "Nouvelles" card from your Deck to your hand, except a Pendulum Monster. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Chef de Nouvelles" once per turn.
+    During your Main Phase, if this card was activated this turn: You can add 1 non-Pendulum "Nouvelles" card from your Deck to your hand. If a monster(s) is Special Summoned to your opponent's field (except during the Damage Step): You can Special Summon this card. You can only use each effect of "Chef de Nouvelles" once per turn.
   de:
   es:
   fr:
@@ -54,6 +54,36 @@ images:
 - index: 1
   image: ChefdeNouvelles-DUAD-JP-C.png
 sets:
+  en:
+  - set_number: DUAD-EN023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT023
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP023
     set_name: Duelist's Advance
@@ -67,9 +97,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1123205

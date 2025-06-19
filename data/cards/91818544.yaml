@@ -15,8 +15,7 @@ name:
   zh-CN: 威咖杯！摩卡
 text:
   en: |-
-    FLIP: You can target 1 face-up monster on the field; it gains 1000 ATK, but send it to the GY during the End Phase.
-    You can target 1 face-down Defense Position monster on the field; Special Summon this card from your hand, and if you do, change that monster to Attack Position. You can only use each of the preceding effects of "WAKE CUP! Mocha" once per turn. Once per turn, during your End Phase: You can change this card to face-down Defense Position.
+    Once per turn, during your End Phase: You can change this card to face-down Defense Position. You can only use each of the following effects of "WAKE CUP! Mocha" once per turn. You can target 1 face-down Defense Position monster on the field; Special Summon this card from your hand, and if you do, change that monster to Attack Position. If this card is flipped face-up: You can target 1 face-up monster on the field; it gains 1000 ATK, but send it to the GY during the End Phase.
   de:
   es:
   fr:
@@ -38,6 +37,36 @@ images:
 - index: 1
   image: WAKECUPMocha-DUAD-JP-NR.png
 sets:
+  en:
+  - set_number: DUAD-EN028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  de:
+  - set_number: DUAD-DE028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  es:
+  - set_number: DUAD-SP028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  fr:
+  - set_number: DUAD-FR028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  it:
+  - set_number: DUAD-IT028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+  pt:
+  - set_number: DUAD-PT028
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ja:
   - set_number: DUAD-JP028
     set_name: Duelist's Advance
@@ -53,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1125054

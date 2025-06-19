@@ -54,9 +54,9 @@ text:
     ●그 몬스터와 카드명이 다른 공격력 2800 / 수비력 1000 인 몬스터 1장을 덱에서 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    「帝王的开岩」的②的效果1回合只能使用1次。①：只要这张卡在魔法与陷阱区域存在，自己不能从额外卡组把怪兽特殊召唤。②：自己以表侧表示对怪兽的上级召唤成功时，可以从以下效果选择1个发动。
-    ●和那只怪兽卡名不同的1只攻击力2400/守备力1000的怪兽从卡组加入手卡。
-    ●和那只怪兽卡名不同的1只攻击力2800/守备力1000的怪兽从卡组加入手卡。
+    此卡名的②效果1回合仅可使用1次。①：只要此卡存在于魔法与陷阱区域，自己不可从额外牌组特殊召唤怪兽。②：自己将怪兽以表侧表示上级召唤时，可从以下效果中选择1个发动。
+    ●从牌组将卡名与该怪兽不同的、1只攻击力2400/守备力1000的怪兽加入手牌。
+    ●从牌组将卡名与该怪兽不同的、1只攻击力2800/守备力1000的怪兽加入手牌。
 card_type: Spell
 property: Continuous
 series:
@@ -159,6 +159,11 @@ sets:
     - Common
   - set_number: SR01-KR026
     set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC128
+    set_name: Duelist Advance Patchwork Pack
     rarities:
     - Common
 limit_regulation:
