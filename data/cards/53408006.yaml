@@ -15,7 +15,7 @@ name:
   zh-CN: 宝石商人
 text:
   en: |-
-    During the Damage Step, in either player's turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.
+    During the Damage Step, when an EARTH Normal Monster you control battles (Quick Effect): You can send this card from your hand to the GY; that monster gains 1000 ATK/DEF until the end of this turn.
   de: |-
     Während des Damage Steps des Spielzugs eines beliebigen Spielers, wenn ein offenes Normales ERDE Monster, das du kontrollierst, angreift oder angegriffen wird: Du kannst diese Karte von deiner Hand auf den Friedhof legen; das Monster erhält bis zur End Phase 1000 ATK und DEF.
   es: |-
@@ -42,13 +42,17 @@ series:
 - Gem-
 images:
 - index: 1
-  image: GemMerchant-HA05-EN-SR-UE.png
+  image: GemMerchant-BLMM-EN-UR-1E.png
 sets:
   en:
   - set_number: HA05-EN006
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: BLMM-EN109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   - set_number: DT05-EN021
     set_name: Duel Terminal 5a
     rarities:
@@ -58,21 +62,42 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: BLMM-DE109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   es:
   - set_number: HA05-SP006
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: BLMM-SP109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: HA05-FR006
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: BLMM-FR109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   it:
   - set_number: HA05-IT006
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Super Rare
+  - set_number: BLMM-IT109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT109
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DT09-JP021
     set_name: Duel Terminal - Vylon Descends!!

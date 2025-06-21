@@ -15,7 +15,7 @@ name:
   zh-CN: 朱罗纪・异特龙
 text:
   en: |-
-    You can Tribute this card to select 1 Level 4 or lower "Jurrac" monster in your Graveyard, except "Jurrac Aeolo". Special Summon that monster from the Graveyard.
+    You can Tribute this card, then target 1 Level 4 or lower "Jurrac" monster in your GY, except "Jurrac Aeolo"; Special Summon it.
   de: |-
     Du kannst diese Karte als Tribut anbieten, um 1 „Jurassier“-Monster der Stufe 4 oder niedriger in deinem Friedhof zu wählen, außer „Jurassier-Aeolo“. Beschwöre das Monster als Spezialbeschwörung vom Friedhof.
   es: |-
@@ -33,7 +33,7 @@ text:
   zh-CN: |-
     ①：解放此卡，以“朱罗纪・异特龙”以外的、自己墓地的1只等级4以下的“朱罗纪”怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
-monster_type_line: Dinosaur / Tuner
+monster_type_line: Dinosaur / Tuner / Effect
 attribute: FIRE
 level: 1
 atk: 200
@@ -42,13 +42,17 @@ series:
 - Jurrac
 images:
 - index: 1
-  image: JurracAeolo-HA04-EN-SR-1E.jpg
+  image: JurracAeolo-BLMM-EN-UR-1E.png
 sets:
   en:
   - set_number: HA04-EN017
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Super Rare
+  - set_number: BLMM-EN106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   - set_number: DT04-EN027
     set_name: Duel Terminal 4
     rarities:
@@ -58,21 +62,42 @@ sets:
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Super Rare
+  - set_number: BLMM-DE106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   es:
   - set_number: HA04-SP017
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Super Rare
+  - set_number: BLMM-SP106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: HA04-FR017
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Super Rare
+  - set_number: BLMM-FR106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   it:
   - set_number: HA04-IT017
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Super Rare
+  - set_number: BLMM-IT106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT106
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DT07-JP027
     set_name: Duel Terminal - Charge of the Genex!!

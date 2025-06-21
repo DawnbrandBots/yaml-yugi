@@ -15,7 +15,7 @@ name:
   zh-CN: DD 刻度测量员
 text:
   en: |-
-    If you control a "D/D" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make its Level become 4. If this card is sent to the GY or added to the Extra Deck face-up: You can target 1 "D/D" Pendulum Monster Card you control; return it to the hand. You can only use each monster effect of "D/D Scale Surveyor" once per turn.
+    If you control a "D/D" Pendulum Monster Card: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can make this card Level 4. If this card is sent to the GY, or added to the Extra Deck face-up: You can target 1 "D/D" Pendulum Monster Card you control; return it to the hand. You can only use each effect of "D/D Scale Surveyor" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 1000
 pendulum_scale: 9
 pendulum_effect:
   en: |-
-    During the Standby Phase: You can target up to 2 cards in the Pendulum Zone; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of "D/D Scale Surveyor" once per turn.
+    During the Standby Phase: You can target up to 2 cards in the Pendulum Zones; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of "D/D Scale Surveyor" once per turn.
   de:
   es:
   fr:
@@ -54,8 +54,38 @@ series:
 - D/D
 images:
 - index: 1
-  image: DDScaleSurveyor-25PP-JP-C.png
+  image: DDScaleSurveyor-BLMM-EN-UR-1E.png
 sets:
+  en:
+  - set_number: BLMM-EN042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLMM-DE042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLMM-SP042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLMM-FR042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLMM-IT042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT042
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 25PP-JP015
     set_name: Premium Pack 2025
@@ -79,9 +109,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1099592

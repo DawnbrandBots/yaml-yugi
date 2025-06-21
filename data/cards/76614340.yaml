@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     "Gem-Knight Garnet" + 1 "Gem-Knight" monster
-    Must first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up "Gem-" monster; this card gains ATK equal to the Tributed monster's ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+    Must first be Fusion Summoned with the above Fusion Materials. Once per turn: You can Tribute 1 other face-up "Gem-" monster; this card gains ATK equal to the ATK that Tributed monster had on the field, until the end of this turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
   de: |-
     „Edelstein-Ritter Granat“ + 1 „Edelstein-Ritter“-Monster
     Muss zuerst als Fusionsbeschwörung mit den oben aufgeführten Fusionsmaterialmonstern beschworen werden. Einmal pro Spielzug: Du kannst 1 offenes „Edelstein“-Monster als Tribut anbieten; diese Karte erhält bis zur End Phase ATK in Höhe der ATK des als Tribut angebotenen Monsters auf dem Spielfeld. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.
@@ -52,13 +52,17 @@ series:
 - Gem-Knight
 images:
 - index: 1
-  image: GemKnightRuby-HA05-EN-ScR-UE.png
+  image: GemKnightRuby-BLMM-EN-UR-1E.png
 sets:
   en:
   - set_number: HA05-EN019
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  - set_number: BLMM-EN136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   - set_number: DT05-EN034
     set_name: Duel Terminal 5a
     rarities:
@@ -68,21 +72,42 @@ sets:
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  - set_number: BLMM-DE136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   es:
   - set_number: HA05-SP019
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  - set_number: BLMM-SP136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: HA05-FR019
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  - set_number: BLMM-FR136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   it:
   - set_number: HA05-IT019
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'
     rarities:
     - Secret Rare
+  - set_number: BLMM-IT136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT136
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DT09-JP034
     set_name: Duel Terminal - Vylon Descends!!

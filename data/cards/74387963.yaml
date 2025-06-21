@@ -15,7 +15,7 @@ name:
   zh-CN: DD 额外测量员
 text:
   en: |-
-    You can discard this card; add 1 face-up "D/D" Pendulum Monster from your Extra Deck to your hand, except "D/D Extra Surveyor". If this card is banished: You can banish cards from the top of your opponent's Deck equal to the number of face-up Pendulum Monsters in their Extra Deck, then you can make 1 "D/D" monster you control gain 200 ATK for each card banished by this effect. You can only use each monster effect of "D/D Extra Surveyor" once per turn.
+    You can discard this card; add 1 face-up "D/D" Pendulum Monster from your Extra Deck to your hand, except "D/D Extra Surveyor". If this card is banished: You can banish the top cards of your opponent's Deck equal to the number of face-up Pendulum Monsters in their Extra Deck, then you can make 1 "D/D" monster you control gain 200 ATK for each card banished. You can only use each effect of "D/D Extra Surveyor" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 0
 pendulum_scale: 4
 pendulum_effect:
   en: |-
-    If a face-up Monster Card(s) your opponent controls is destroyed by battle or card effect: You can target 1 "D/D/D" monster you control; banish 2 cards from your Pendulum Zone, and if you do, the targeted monster can make a second attack during each Battle Phase this turn. You can only use this effect of "D/D Extra Surveyor" once per turn.
+    If a face-up Monster Card(s) your opponent controls is destroyed by battle or card effect: You can target 1 "D/D/D" monster you control; banish 2 cards from your Pendulum Zones, and if you do, that monster can make a second attack during each Battle Phase this turn. You can only use this effect of "D/D Extra Surveyor" once per turn.
   de:
   es:
   fr:
@@ -54,8 +54,38 @@ series:
 - D/D
 images:
 - index: 1
-  image: DDExtraSurveyor-25PP-JP-C.png
+  image: DDExtraSurveyor-BLMM-EN-UR-1E.png
 sets:
+  en:
+  - set_number: BLMM-EN043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLMM-DE043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLMM-SP043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLMM-FR043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLMM-IT043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT043
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 25PP-JP016
     set_name: Premium Pack 2025
@@ -79,9 +109,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1100037

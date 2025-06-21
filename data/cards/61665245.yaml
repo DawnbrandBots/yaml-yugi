@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2+ monsters with the same Type, except Tokens
-    If this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position, to your opponent's zone this card points to. You can target 1 face-up monster this card points to; Special Summon 1 monster from your Deck in Defense Position, with the same Type as that monster, to a zone this card points to, but negate its effects. You can only use this effect of "Summon Sorceress" once per turn.
+    If this card is Link Summoned: You can Special Summon 1 monster from your hand in Defense Position to your opponent's zone this card points to (but negate its effects), then you can Special Summon 1 monster from your Deck in Defense Position with the same Type as that monster (but negate its effects). If you Summon from your Deck this way, you cannot Special Summon for the rest of this turn, except monsters with that same original Type. You can only use this effect of "Summon Sorceress" once per turn.
   de: |-
     2+ Monster mit demselben Typ, außer Spielmarken
     Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Monster als Spezialbeschwörung von deiner Hand in die Verteidigungsposition in die Zone deines Gegners beschwören, auf die diese Karte zeigt. Du kannst 1 offenes Monster wählen, auf das diese Karte zeigt; beschwöre 1 Monster mit demselben Typ wie das Monster als Spezialbeschwörung von deinem Deck in die Verteidigungsposition in eine Zone, auf die diese Karte zeigt, aber annulliere seine Effekte. Du kannst diesen Effekt von „Beschwörungszauberin“ nur einmal pro Spielzug verwenden.
@@ -52,13 +52,17 @@ link_arrows:
 atk: 2400
 images:
 - index: 1
-  image: SummonSorceress-SOFU-EN-SR-LE.png
+  image: SummonSorceress-BLMM-EN-ScR-1E.png
 sets:
   en:
   - set_number: SOFU-ENSE2
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-EN157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   - set_number: JUMP-EN084
     set_name: Weekly Shonen Jump May 2018 membership promotional card
     rarities:
@@ -68,26 +72,46 @@ sets:
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-DE157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   es:
   - set_number: SOFU-SPSE2
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-SP157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   fr:
   - set_number: SOFU-FRSE2
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-FR157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   it:
   - set_number: SOFU-ITSE2
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-IT157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   pt:
   - set_number: SOFU-PTSE2
     set_name: Soul Fusion Special Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-PT157
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Secret Rare
   ja:
   - set_number: VJMP-JP140
     set_name: V Jump January 2018 promotional card

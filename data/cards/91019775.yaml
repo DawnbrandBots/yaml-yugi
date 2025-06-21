@@ -15,7 +15,7 @@ name:
   zh-CN: 废铁车库
 text:
   en: |-
-    If a face-up Machine monster(s) you control is destroyed by battle or card effect: Target up to 3 DARK Machine monsters in your GY; Special Summon them, but change their ATK/DEF to 0. You can banish this card from your GY, then target 1 Machine monster you control; destroy it. You can only use each effect of "Scrap Garage" once per turn.
+    If a face-up Machine monster(s) you control is destroyed by battle or card effect: Target up to 3 DARK Machine monsters in your GY; Special Summon them, but their ATK/DEF become 0. You can banish this card from your GY, then target 1 Machine monster you control; destroy it. You can only use each effect of "Scrap Garage" once per turn.
   de:
   es:
   fr:
@@ -34,8 +34,38 @@ series:
 - Scrap
 images:
 - index: 1
-  image: ScrapGarage-25PP-JP-C.png
+  image: ScrapGarage-BLMM-EN-UR-1E.png
 sets:
+  en:
+  - set_number: BLMM-EN030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLMM-DE030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLMM-SP030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLMM-FR030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLMM-IT030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLMM-PT030
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 25PP-JP003
     set_name: Premium Pack 2025
@@ -59,9 +89,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg:
+  tcg: Unlimited
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1100032

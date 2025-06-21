@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3 Level 4 monsters
-    When this card is Special Summoned: Negate the effects of all other face-up Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name and original effect become the same as that monster. You can only use this effect of "Number 69: Heraldry Crest" once per turn.
+    If this card is Special Summoned: Negate the effects of all other Xyz Monsters currently on the field. You can target 1 other face-up Xyz Monster on the field; until the End Phase, this card's name becomes that monster's original name, also replace this effect with that monster's original effects. You can only use this effect of "Number 69: Heraldry Crest" once per turn.
   de: |-
     3 Monster der Stufe 4
     Wenn diese Karte als Spezialbeschwörung beschworen wird: Annulliere die Effekte aller anderen offenen Xyz-Monster, die sich derzeit auf dem Spielfeld befinden. Du kannst 1 anderes offenes Xyz-Monster auf dem Spielfeld wählen; bis zur End Phase werden Name und Grundeffekt dieser Karte dieselben wie die des Monsters. Du kannst diesen Effekt von „Nummer 69: Wappenhorn“ nur einmal pro Spielzug verwenden.
@@ -57,13 +57,17 @@ series:
 - Heraldry
 images:
 - index: 1
-  image: Number69HeraldryCrest-LTGY-EN-R-1E.png
+  image: Number69HeraldryCrest-BLMM-EN-UR-1E.png
 sets:
   en:
   - set_number: LTGY-EN092
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  - set_number: BLMM-EN153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   de:
   - set_number: LTGY-DE092
     set_name: Lord of the Tachyon Galaxy
@@ -73,26 +77,46 @@ sets:
     set_name: Yu-Gi-Oh! Advent Calendar ZEXAL Edition
     rarities:
     - Super Rare
+  - set_number: BLMM-DE153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   es:
   - set_number: LTGY-SP092
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  - set_number: BLMM-SP153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   fr:
   - set_number: LTGY-FR092
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  - set_number: BLMM-FR153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   it:
   - set_number: LTGY-IT092
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  - set_number: BLMM-IT153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   pt:
   - set_number: LTGY-PT092
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  - set_number: BLMM-PT153
+    set_name: 'Battles of Legend: Monster Mayhem'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: VB15-JP001
     set_name: The Valuable Book 15 promotional cards
