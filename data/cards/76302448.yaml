@@ -11,7 +11,7 @@ name:
   ja_romaji: Arukana Supureddo
   ko: 아르카나 스프레드
   ko_rr:
-  zh-TW:
+  zh-TW: 秘儀牌陣
   zh-CN: 秘仪牌阵
 text:
   en: |-
@@ -58,7 +58,11 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
+  image: ArcanaSpread-SUDA-JP-C.png
+  illustration: ArcanaSpread-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: ArcanaSpread-SUDA-EN-C-1E.png
+  illustration: ArcanaSpread-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: SUDA-EN054
@@ -109,3 +113,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1088375
+master_duel_rarity: R

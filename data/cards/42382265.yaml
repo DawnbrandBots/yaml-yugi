@@ -2,16 +2,16 @@ konami_id: 21070
 password: 42382265
 name:
   en: D/D Scale Surveyor
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: D/D-Bereichsinspekteur
+  es: D/D Agrimensor de Escala
+  fr: D/D Arpenteur d'Échelle
+  it: D/D Supervisore del Valore
+  pt: D/D Pesquisador de Escala
   ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｄ<rt>ディー</rt></ruby>スケール・サーベイヤー
   ja_romaji: Dīdī Sukēru Sābeiyā
   ko: DD 스케일 서베이어
   ko_rr:
-  zh-TW:
+  zh-TW: DD 刻度測量員
   zh-CN: DD 刻度测量员
 text:
   en: |-
@@ -38,16 +38,23 @@ pendulum_scale: 9
 pendulum_effect:
   en: |-
     During the Standby Phase: You can target up to 2 cards in the Pendulum Zones; their Pendulum Scales become 0 until the end of this turn. You can only use this effect of "D/D Scale Surveyor" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Während der Standby Phase: Du kannst bis zu 2 Karten in den Pendelzonen wählen; ihre Pendelbereiche werden bis zum Ende dieses Spielzugs zu 0. Du kannst diesen Effekt von „D/D-Bereichsinspekteur“ nur einmal pro Spielzug verwenden.
+  es: |-
+    Durante la Standby Phase: puedes seleccionar hasta 2 cartas en las Zonas de Péndulo; sus Escalas de Péndulo se convierten en 0 hasta el final de este turno. Sólo puedes usar este efecto de "D/D Agrimensor de Escala" una vez por turno.
+  fr: |-
+    Durant la Standby Phase : vous pouvez cibler max. 2 cartes dans les Zones Pendule ; jusqu'à la fin de ce tour, leur Échelle Pendule devient 0. Vous ne pouvez utiliser cet effet de "D/D Arpenteur d'Échelle" qu'une fois par tour.
+  it: |-
+    Durante la Standby Phase: puoi scegliere come bersaglio fino a 2 carte nelle Zone Pendulum; i loro Valori Pendulum diventano 0 fino alla fine di questo turno. Puoi utilizzare questo effetto di "D/D Supervisore del Valore" una sola volta per turno.
+  pt: |-
+    Durante a Fase de Apoio: você pode escolher até 2 cards nas Zonas de Pêndulo; suas Escalas de Pêndulo se tornam 0 até o final deste turno. Você só pode usar este efeito de "D/D Pesquisador de Escala" uma vez por turno.
   ja: |-
     このカード名のＰ効果は１ターンに１度しか使用できない。①：自分・相手のスタンバイフェイズに、自分・相手のＰゾーンのカードを２枚まで対象として発動できる。そのカードのＰスケールをターン終了時まで０にする。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대의 스탠바이 페이즈에, 자신 / 상대의 펜듈럼 존의 카드를 2장까지 대상으로 하고 발동할 수 있다. 그 카드의 펜듈럼 스케일을 턴 종료시까지 0 으로 한다.
-  zh-TW:
+  zh-TW: |-
+    此卡名的鐘擺效果1回合僅可使用1次。
+    ①：在自己・對手的準備階段，以自己・對手的鐘擺區域的最多2張卡為對象可以發動。將該卡的鐘擺刻度直至回合結束時為止改成0。
   zh-CN: |-
     此卡名的灵摆效果1回合仅可使用1次。①：在自己・对手的准备阶段，以自己・对手的灵摆区域的最多2张卡为对象可以发动。将该卡的灵摆刻度直至回合结束时为止改成0。
 series:
@@ -112,3 +119,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1099592
+master_duel_rarity: SR

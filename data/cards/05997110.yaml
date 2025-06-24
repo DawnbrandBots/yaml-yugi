@@ -2,16 +2,16 @@ konami_id: 21069
 password: 5997110
 name:
   en: D/D Count Surveyor
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: D/D-Zählinspekteur
+  es: D/D Agrimensor Contador
+  fr: D/D Arpenteur de Compte
+  it: D/D Supervisore dei Segnalini
+  pt: D/D Pesquisador de Marcas
   ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｄ<rt>ディー</rt></ruby>カウント・サーベイヤー
   ja_romaji: Dīdī Kaunto Sābeiyā
   ko: DD 카운트 서베이어
   ko_rr:
-  zh-TW:
+  zh-TW: DD 計數測量員
   zh-CN: DD 计数测量员
 text:
   en: |-
@@ -38,16 +38,22 @@ pendulum_scale: 1
 pendulum_effect:
   en: |-
     Once per turn, if you Pendulum Summon a "D/D/D" monster(s): You can target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the third gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Einmal pro Spielzug, falls du ein oder mehr „D/D/D“-Monster als Pendelbeschwörung beschwörst: Du kannst 3 Monster wählen, die dein Gegner kontrolliert und die alle denselben Typ oder dieselbe Eigenschaft haben; biete 2 jener 3 offenen Monster als Tribut an und falls du dies tust, erhält das dritte ATK/DEF in Höhe der Summe der ATK/DEF, die die als Tribut angebotenen Monster auf dem Spielfeld hatten.
+  es: |-
+    Una vez por turno, si Invocas por Péndulo uno o más monstruos "D/D/D": puedes seleccionar 3 monstruos que controle tu adversario con el mismo Tipo o Atributo entre ellos; Sacrifica 2 de esos 3 monstruos boca arriba y, si lo haces, el tercero gana ATK/DEF iguales al total de ATK/DEF que los monstruos Sacrificados tenían en el Campo.
+  fr: |-
+    Une fois par tour, si vous Invoquez par Pendulation un ou plusieurs monstres "D/D/D" : vous pouvez cibler 3 monstres contrôlés par votre adversaire qui ont chacun le même Type ou Attribut ; Sacrifiez 2 de ces 3 monstres face recto, et si vous le faites, le troisième gagne une ATK/DEF égales à la somme des ATK/DEF que les monstres Sacrifiés avaient sur le Terrain.
+  it: |-
+    Una volta per turno, se Evochi Pendulum uno o più mostri "D/D/D": puoi scegliere come bersaglio 3 mostri controllati dal tuo avversario con lo stesso Tipo o Attributo l'uno dell'altro; offri come Tributo 2 di quei 3 mostri scoperti e, se lo fai, il terzo guadagna ATK/DEF pari alla somma degli ATK/DEF che i mostri offerti come Tributo avevano sul Terreno.
+  pt: |-
+    Uma vez por turno, se você Invocar por Invocação-Pêndulo um ou mais monstros "D/D/D": você pode escolher 3 monstros que seu oponente controla com o mesmo Tipo ou Atributo um do outro; ofereça como Tributo 2 desses 3 monstros com a face para cima e, se isso acontecer, o terceiro ganha ATK/DEF igual à soma do ATK/DEF que os monstros oferecidos como Tributo tinham no campo.
   ja: |-
     ①：１ターンに１度、自分が「ＤＤＤ」モンスターをＰ召喚した場合、相手フィールドの、種族が同じモンスター３体か属性が同じモンスター３体を対象として発動できる。その表側表示モンスター３体の内の２体をリリースする。残りの１体の攻撃力・守備力はリリースしたモンスターのそれぞれの数値の合計分アップする。
   ko: |-
     ①: 1턴에 1번, 자신이 "DDD(디디디)" 몬스터를 펜듈럼 소환했을 경우, 상대 필드의, 종족이 같은 몬스터 3장이나 속성이 같은 몬스터 3장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 몬스터 3장 중 2장을 릴리스한다. 남은 1장의 공격력 / 수비력은 릴리스한 몬스터 각각의 수치의 합계만큼 올린다.
-  zh-TW:
+  zh-TW: |-
+    ①：1回合1次，自己將「DDD」怪獸鐘擺召喚的情況下，以對手場上的、3隻種族相同的怪獸或3隻屬性相同的怪獸為對象可以發動。將該3隻表側表示怪獸中的2隻解放。剩餘的1隻的攻擊力・守備力上升相當於所解放怪獸的相應數值的合計。
   zh-CN: |-
     ①：1回合1次，自己将“DDD”怪兽灵摆召唤的情况下，以对手场上的、3只种族相同的怪兽或3只属性相同的怪兽为对象可以发动。将该3只表侧表示怪兽中的2只解放。剩余的1只的攻击力・守备力上升相当于所解放怪兽的相应数值的合计。
 series:
@@ -112,3 +118,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1099590
+master_duel_rarity: UR
