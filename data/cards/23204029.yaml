@@ -40,14 +40,14 @@ text:
     Deve ser Invocado por Invocação-Fusão e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Enquanto estiver com a face para cima no campo, este card também é de Atributo LUZ. Uma vez por turno, durante o turno de qualquer duelista: você pode escolher 1 card com a face para cima no campo; negue os efeitos do alvo até o final deste turno.
   ja: |-
     「Ｍ・ＨＥＲＯ」モンスター×２
-    このカードはルール上「Ｅ・ＨＥＲＯ」モンスターとしても扱う。このカードは融合召喚でしか特殊召喚できない。①：このカードがモンスターゾーンに存在する限り、このカードの属性は「光」としても扱う。②：１ターンに１度、フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。
+    このカード名はルール上「Ｅ・ＨＥＲＯ」カードとしても扱う。このカードは融合召喚でしか特殊召喚できない。①：このカードがモンスターゾーンに存在する限り、このカードの属性は「光」としても扱う。②：自分・相手ターンに１度、フィールドの表側表示カード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。
   ko: |-
     "마스크드 히어로" 몬스터 × 2
     이 카드는 룰상 "엘리멘틀 히어로" 몬스터로도 취급한다. 이 카드는 융합 소환으로밖에 특수 소환할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 속성은 "빛"으로도 취급한다. ②: 1턴에 1번, 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    "假面－英雄"怪兽×2
-    此卡在规则上也视为"元素－英雄"怪兽。此卡仅可以融合召唤方式特殊召唤。①：只要此卡存在于怪兽区域，此卡的属性也视为"光"。②：1回合1次，以场上的1张表侧表示的卡为对象可以发动。将该卡的效果直至回合结束时为止无效。此效果在对手回合中也可以发动。
+    “假面-英雄”怪兽×2
+    此卡在规则上也视为“元素-英雄”怪兽。此卡仅可以融合召唤方式特殊召唤。①：只要此卡存在于怪兽区域，此卡的属性也视为“光”。②：1回合1次，以场上的1张表侧表示的卡为对象可以发动。将该卡的效果直至回合结束时为止无效。此效果在对手回合中也可以发动。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
@@ -97,6 +97,11 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Ultra Rare
+  - set_number: TTP1-JP042
+    set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SD27-KR041
     set_name: "Structure Deck: HERO's Strike"

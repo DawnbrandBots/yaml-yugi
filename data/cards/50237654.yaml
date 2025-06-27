@@ -34,7 +34,7 @@ text:
     Uma vez por turno, se um Card de Magia/Armadilha ou seus efeitos forem ativados (exceto durante a Etapa de Dano): você pode comprar 1 card e, depois, se era uma Magia/Armadilha, você pode Baixá-la e, se era uma Armadilha ou Magia Rápida, você pode ativá-la neste turno. Se este card for destruído: você pode Invocar por Invocação-Especial tanto 1 "Mago Negro" quanto 1 "Pequena Maga Negra" da sua mão, do Deck e/ou do Cemitério.
   ja: |-
     「ブラック・マジシャン」か「ブラック・マジシャン・ガール」＋魔法使い族モンスター
-    ①：１ターンに１度、魔法・罠カードの効果が発動した場合に発動できる。自分は１枚ドローする。そのドローしたカードが魔法・罠カードだった場合、自分フィールドにセットできる。速攻魔法・罠カードをセットした場合、そのカードはセットしたターンでも発動できる。②：このカードが破壊された場合に発動できる。「ブラック・マジシャン」「ブラック・マジシャン・ガール」を１体ずつ自分の手札・デッキ・墓地から特殊召喚する。
+    ①：１ターンに１度、魔法・罠カードの効果が発動した場合に発動できる。自分は１枚ドローする。そのドローしたカードが魔法・罠カードだった場合、さらにそのカードを自分フィールドにセットできる。速攻魔法・罠カードをセットした場合、そのカードはセットしたターンでも発動できる。②：このカードが破壊された場合に発動できる。「ブラック・マジシャン」「ブラック・マジシャン・ガール」を１体ずつ自分の手札・デッキ・墓地から特殊召喚する。
   ko: |-
     "블랙 매지션"이나 "블랙 매지션 걸" ＋ 마법사족 몬스터
     ①: 1턴에 1번, 마법 / 함정 카드의 효과가 발동했을 경우에 발동할 수 있다. 자신은 1장 드로우한다. 그 드로우한 카드가 마법 / 함정 카드였을 경우, 자신 필드에 세트할 수 있다. 속공 마법 / 함정 카드를 세트했을 경우, 그 카드는 세트한 턴에도 발동할 수 있다. ②: 이 카드가 파괴되었을 경우에 발동할 수 있다. "블랙 매지션" "블랙 매지션 걸"을 1장씩 자신의 패 / 덱 / 묘지에서 특수 소환한다.
@@ -205,6 +205,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  - set_number: TTP1-JP015
+    set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
+    rarities:
+    - Common
+    - Prismatic Secret Rare
   ko:
   - set_number: DP23-KR001
     set_name: 'Duelist Pack: Legend Duelist 6'

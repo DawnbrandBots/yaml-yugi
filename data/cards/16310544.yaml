@@ -39,7 +39,7 @@ text:
     ● Destrua cards que seu oponente controla até o número de Magias de Equipamento com nomes diferentes no seu Cemitério e, se isso acontecer, cause 1000 de dano ao seu oponente para cada card destruído.
     Você só pode ativar 1 "Kagura Mikanko" por turno.
   ja: |-
-    「御巫」儀式モンスターの降臨に必要。このカード名のカードは１ターンに１枚しか発動できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から「御巫」儀式モンスター１体を儀式召喚する。その後、以下の効果を適用できる。●自分の墓地の装備魔法カードの種類の数まで相手フィールドのカードを選んで破壊し、破壊した数×１０００ダメージを相手に与える。
+    このカード名のカードは１ターンに１枚しか発動できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から「御巫」儀式モンスター１体を儀式召喚する。その後、以下の効果を適用できる。●自分の墓地の装備魔法カードの種類の数まで相手フィールドのカードを破壊し、破壊した数×１０００ダメージを相手に与える。
   ko: |-
     "미캉코" 의식 몬스터의 의식 소환에 필요. 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 "미캉코" 의식 몬스터 1장을 의식 소환한다. 그 후, 이하의 효과를 적용할 수 있다.
     ●자신 묘지의 장착 마법 카드의 종류의 수까지 상대 필드의 카드를 골라 파괴하고, 파괴한 수 × 1000 데미지를 상대에게 준다.
@@ -52,7 +52,7 @@ series:
 - Mikanko
 images:
 - index: 1
-  image: MikankoKagura-DBAD-JP-C.png
+  image: MikankoKagura-TTP1-JP-C.png
   illustration: MikankoKagura-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: MikankoKagura-AMDE-EN-R-1E.png
@@ -94,6 +94,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TTP1-JP072
+    set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: DBAD-KR034
     set_name: 'Deck-Build Pack: Amazing Defenders'

@@ -27,14 +27,12 @@ text:
   pt: |-
     Deve ser Invocado por Invocação-Especial com "Mudar a Máscara". Qualquer card enviado para o Cemitério do seu oponente, em vez disso, é banido. Uma vez por turno, se seu oponente adicionar um ou mais cards do Deck dele para a mão dele (exceto durante a Fase de Compra ou Etapa de Dano): você pode banir 1 card aleatório da mão do seu oponente.
   ja: |-
-    このカードは「マスク・チェンジ」の効果でのみ特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、相手の墓地へ送られるカードは墓地へは行かず除外される。②：１ターンに１度、相手がドローフェイズ以外でデッキからカードを手札に加えた場合に発動できる。相手の手札をランダムに１枚選んで除外する。
+    このカードは「マスク・チェンジ」の効果でのみ特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、相手の墓地へ送られるカードは墓地へは行かず除外される。②：１ターンに１度、相手がドローフェイズ以外でデッキからカードを手札に加えた場合に発動できる。相手の手札をランダムに１枚除外する。
   ko: |-
     이 카드는 "마스크 체인지"의 효과로만 특수 소환할 수 있다. ①: 이 카드가 몬스터 존에 존재하는 한, 상대 묘지로 보내지는 카드는 묘지로는 가지 않으며 제외된다. ②: 1턴에 1번, 상대가 드로우 페이즈 이외로 덱에서 카드를 패에 넣었을 경우에 발동할 수 있다. 상대의 패를 무작위로 1장 고르고 제외한다.
   zh-TW:
   zh-CN: |-
-    此卡仅可以“假面变换”的效果特殊召唤。
-    ①：只要此卡存在于怪兽区域，被送至对手墓地的卡不去墓地而直接被除外。
-    ②：１回合１次，对手在抽牌阶段以外从牌组将卡加入手牌的情况下可以发动。随机将１张对手的手牌除外。
+    此卡仅可以“假面变换”的效果特殊召唤。①：只要此卡存在于怪兽区域，被送至对手墓地的卡不去墓地而直接被除外。②：１回合１次，对手在抽牌阶段以外从牌组将卡加入手牌的情况下可以发动。随机将１张对手的手牌除外。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: DARK
@@ -49,7 +47,7 @@ images:
   image: MaskedHERODarkLaw-RA01-EN-SR-1E.png
   illustration: MaskedHERODarkLaw-MADU-EN-VG-artwork.png
 - index: 2
-  image: MaskedHERODarkLaw-TTP1-JP-OP.png
+  image: MaskedHERODarkLaw-TTP1-JP-UPR.png
   illustration: MaskedHERODarkLaw-OW.png
 sets:
   en:
@@ -235,6 +233,9 @@ sets:
   - set_number: TTP1-JP040
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
+    - Super Rare
+    - Secret Rare
+    - Ultra Parallel Rare
   ko:
   - set_number: SD27-KR044
     set_name: "Structure Deck: HERO's Strike"

@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão. Ganha 300 de ATK para cada monstro no seu Cemitério e, além disso, não pode ser destruído por efeitos de card. Se este card for Invocado por Invocação-Especial: você pode destruir cards que seu oponente controla até o número de Atributos diferentes entre os monstros no campo. Você só pode usar este efeito de "Homem-Alado Neos Brilhante, o HERÓI do Elemento" uma vez por turno. Se este card destruir um monstro em batalha: cause dano ao seu oponente igual ao ATK original desse monstro.
   ja: |-
     「Ｅ・ＨＥＲＯ ネオス」＋「ウィングマン」融合モンスター
-    このカードは融合召喚でしか特殊召喚できない。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。フィールドのモンスターの属性の種類の数まで相手フィールドのカードを破壊する。②：フィールドのこのカードは、攻撃力が自分の墓地のモンスターの数×３００アップし、効果では破壊されない。③：このカードが戦闘でモンスターを破壊した場合に発動する。そのモンスターの元々の攻撃力分のダメージを相手に与える。
+    このカードは融合召喚でしか特殊召喚できない。このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。フィールドのモンスターの属性の種類の数まで、相手フィールドのカードを破壊する。②：フィールドのこのカードは、攻撃力が自分の墓地のモンスターの数×３００アップし、効果では破壊されない。③：このカードが戦闘でモンスターを破壊した場合に発動する。そのモンスターの元々の攻撃力分のダメージを相手に与える。
   ko: |-
     "엘리멘틀 히어로 네오스" ＋ "윙맨" 융합 몬스터
     이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 특수 소환했을 경우에 발동할 수 있다. 필드의 몬스터의 속성의 종류의 수까지 상대 필드의 카드를 파괴한다. ②: 필드의 이 카드는, 공격력을 자신 묘지의 몬스터의 수 × 300 올리고, 효과로는 파괴되지 않는다. ③: 이 카드가 전투로 몬스터를 파괴했을 경우에 발동한다. 그 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다.
@@ -131,6 +131,10 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  - set_number: TTP1-JP044
+    set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
+    rarities:
+    - Common
   ko:
   - set_number: POTE-KR041
     set_name: Power of the Elements
