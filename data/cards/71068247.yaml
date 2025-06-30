@@ -34,13 +34,13 @@ text:
     Quando um Card de Magia/Armadilha for ativado (Efeito Rápido): você pode desassociar 2 matérias deste card; negue a ativação e, se isso acontecer, destrua-o. Este card perde 300 de ATK enquanto não tiver matérias.
   ja: |-
     風属性レベル３モンスター×２
-    このカードのエクシーズ素材を２つ取り除いて発動できる。魔法・罠カードの発動を無効にし破壊する。このカードのエクシーズ素材が無い場合、このカードの攻撃力は３００ポイントダウンする。
+    ①：魔法・罠カードが発動した時、このカードのＸ素材を２つ取り除いて発動できる。その発動を無効にし破壊する。②：Ｘ素材が無いこのカードの攻撃力は３００ダウンする。
   ko: |-
     바람 속성 레벨 3 몬스터 × 2
     이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 마법 / 함정 카드의 발동을 무효로 하고 파괴한다. 이 카드의 엑시즈 소재가 없을 경우, 이 카드의 공격력은 300 포인트 내린다.
   zh-TW: |-
-    风属性等级3怪兽×2
-    可移除此卡的2个超量素材发动。使魔法、陷阱卡的发动无效并破坏。此卡没有超量素材的场合，此卡的攻击力下降300点。
+    风属性等级３怪兽×２
+    可移除此卡的２个超量素材发动。使魔法、陷阱卡的发动无效并破坏。此卡没有超量素材的场合，此卡的攻击力下降３００点。
   zh-CN: |-
     风属性3星怪兽×2。把这张卡2个XYZ素材取除才能发动。魔法·陷阱卡的发动无效并破坏。这张卡的XYZ素材没有的场合，这张卡的攻击力下降300。
 card_type: Monster
@@ -138,6 +138,10 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: 25TP-JP202
+    set_name: Tournament Pack 2025 Vol.2
+    rarities:
+    - Super Parallel Rare
   ko:
   - set_number: EXP6-KR047
     set_name: 'Extra Pack: Sword of Knights'

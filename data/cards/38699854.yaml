@@ -27,7 +27,7 @@ text:
   pt: |-
     Escolha 1 monstro com a face para baixo no campo; coloque o alvo com a face para cima em Posição de Ataque.
   ja: |-
-    裏側表示でフィールド上に存在するモンスター１体を表側攻撃表示にする。
+    ①：フィールドの裏側表示モンスター１体を対象として発動できる。その裏側表示モンスターを表側攻撃表示にする。
   ko: |-
     뒷면 표시로 필드 위에 존재하는 몬스터 1장을 앞면 공격 표시로 한다.
   zh-TW:
@@ -148,6 +148,10 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  - set_number: 25TP-JP209
+    set_name: Tournament Pack 2025 Vol.2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: PGD-KR034
     set_name: Pharaonic Guardian

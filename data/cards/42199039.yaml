@@ -27,7 +27,7 @@ text:
   pt: |-
     O monstro equipado ganha 0 de ATK. Você pode escolher 1 outro card "Espada Bambu" que você controla; devolve-o para a mão e, se isso acontecer, o monstro equipado pode atacar diretamente seu oponente neste turno. Você só pode usar este efeito de "Espada Bambu Amaldiçoada" uma vez por turno. Se este card for enviado para o Cemitério: você pode adicionar 1 card "Espada Bambu" do seu Deck à sua mão, exceto "Espada Bambu Amaldiçoada".
   ja: |-
-    このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は０アップする。②：このカード以外の自分フィールドの「竹光」カード１枚を対象として発動できる。そのカードを持ち主の手札に戻し、装備モンスターはこのターン相手に直接攻撃できる。③：このカードが墓地へ送られた場合に発動できる。デッキから「妖刀竹光」以外の「竹光」カード１枚を手札に加える。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの攻撃力は０アップする。②：自分フィールドの他の「竹光」カード１枚を対象として発動できる。そのカードを手札に戻し、装備モンスターはこのターン直接攻撃できる。③：このカードが墓地へ送られた場合に発動できる。デッキから「妖刀竹光」以外の「竹光」カード１枚を手札に加える。
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 장착 몬스터의 공격력은 0 올린다. ②: 이 카드 이외의 자신 필드의 "죽도" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 주인의 패로 되돌리고, 장착 몬스터는 이 턴에 상대에게 직접 공격할 수 있다. ③: 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "요도 죽도" 이외의 "죽도" 카드 1장을 패에 넣는다.
   zh-TW:
@@ -80,6 +80,10 @@ sets:
     set_name: "Structure Deck R: Warriors' Strike"
     rarities:
     - Common
+  - set_number: 25TP-JP210
+    set_name: Tournament Pack 2025 Vol.2
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: NECH-KR068
     set_name: The New Challengers
