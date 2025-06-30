@@ -14,7 +14,7 @@ name:
   zh-CN:
 summoning_condition:
   en: |-
-    TBA
+    This card's name becomes "OuTerverSe" while in the Graveyard.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ summoning_condition:
   zh-CN:
 requirement:
   en: |-
-    TBA
+    Shuffle 5 "OuTerverSe" from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    TBA
+    This card becomes Galaxy Type until the end of this turn. Then, this card can attack all opponent's monsters once each this turn.
   de:
   es:
   fr:
@@ -56,7 +56,7 @@ atk: 3500
 def: 2500
 materials:
   en: |-
-    "OuTerverSe Burst Oblivion" + 2 non-LIGHT Attribute non-Galaxy Type monsters
+    "OuTerverSe Burst Oblivion" + 2 non-LIGHT Attribute monsters
   de:
   es:
   fr:
@@ -70,12 +70,14 @@ series:
 - OuTerverSe
 images:
 - index: 1
-  image: OuTerverSeEndlessDoomOblivion-OW.png
+  image: OuTerverSeEndlessDoomOblivion-RDKP22-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP22-JP0??
+  - set_number: RD/KP22-JP029
     set_name: OuTerverSe of Terror
     rarities:
+    - Ultra Rare
+    - Over Rush Rare
 is_translation_unofficial:
   name:
     en: true
