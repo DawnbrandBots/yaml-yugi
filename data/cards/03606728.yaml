@@ -15,7 +15,7 @@ name:
   zh-CN: 我我我女孩
 text:
   en: |-
-    You can target 1 "Gagaga Magician" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other "Gagaga" monsters as Xyz Material gains this effect.
+    You can target 1 "Gagaga Magician" you control; this card's Level becomes the current Level of that monster. An Xyz Monster that was Summoned using only this card and other "Gagaga" monsters as material gains this effect.
     ● When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.
   de: |-
     Du kannst 1 „Gagaga-Magier“ wählen, den du kontrollierst; die Stufe dieser Karte wird dieselbe wie die Stufe des Monsters. Ein Xyz-Monster, das nur mit dieser Karte und anderen „Gagaga“-Monstern als Xyz-Material beschworen wurde, erhält diesen Effekt.
@@ -58,6 +58,8 @@ images:
   illustration: GagagaGirl-MADU-EN-VG-artwork.png
 - index: 2
   image: GagagaGirl-DUAD-JP-PScR.png
+- index: '2.1'
+  image: GagagaGirl-DUAD-EN-StR-1E.png
 sets:
   en:
   - set_number: ORCS-EN003
@@ -73,7 +75,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-EN101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   de:
@@ -90,7 +92,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-DE101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   es:
@@ -107,7 +109,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-SP101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   fr:
@@ -124,7 +126,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-FR101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   it:
@@ -141,7 +143,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-IT101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   pt:
@@ -150,7 +152,7 @@ sets:
     rarities:
     - Common
   - set_number: DUAD-PT101
-    set_name: Duelist Advance
+    set_name: Duelist's Advance
     rarities:
     - Starlight Rare
   ja:
