@@ -1,7 +1,7 @@
 konami_id: 21361
 password: 6153210
 name:
-  en: Ketu Dragon Tail
+  en: Ketu Dracotail
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 计都星宿
 text:
   en: |-
-    Add 1 "Dragon Tail" monster from your Deck to your hand, then, if your opponent controls a monster, you can Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. You can only activate 1 "Ketu Dragon Tail" per turn.
+    Add 1 "Dracotail" monster from your Deck to your hand, then if your opponent controls a monster, you can Fusion Summon 1 Dragon or Spellcaster monster from your Extra Deck, using monsters from your hand or field. You can only activate 1 "Ketu Dracotail" per turn.
   de:
   es:
   fr:
@@ -32,11 +32,41 @@ text:
 card_type: Spell
 property: Normal
 series:
-- Dragon Tail
+- Dracotail
 images:
 - index: 1
-  image: KetuDragonTail-DBJH-JP-C.png
+  image: KetuDracotail-DBJH-JP-C.png
 sets:
+  en:
+  - set_number: JUSH-EN008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  de:
+  - set_number: JUSH-DE008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  es:
+  - set_number: JUSH-SP008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: JUSH-FR008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  it:
+  - set_number: JUSH-IT008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: JUSH-PT008
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
   ja:
   - set_number: DBJH-JP008
     set_name: 'Deck-Build Pack: Justice Hunters'
@@ -58,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1110210

@@ -1,7 +1,7 @@
 konami_id: 21359
 password: 33760966
 name:
-  en: Dragon Tail Altharion
+  en: Dracotail Arthalion
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 星宿爪龙 阿尔扎里昂
 text:
   en: |-
-    1 "Dragon Tail" monster + 1+ monsters in the hand
-    If this card is Fusion Summoned: You can target monsters on the field and/or in any GY(s), up to the number of monsters used as material from the hand; return them to the hand. If 2 or more monsters are sent to the GY at the same time while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Dragon Tail Altharion" once per turn.
+    1 "Dracotail" monster + 1+ monsters in the hand
+    If this card is Fusion Summoned: You can target monsters on the field and/or GYs, up to the number of monsters used as material from the hand; return them to the hand. If 2 or more monsters are sent to the GY at the same time, while this card is in your GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of "Dracotail Arthalion" once per turn.
   de:
   es:
   fr:
@@ -38,13 +38,43 @@ attribute: EARTH
 level: 8
 atk: 3000
 def: 2500
-materials: 1 "Dragon Tail" monster + 1 or more monsters in the hand
+materials: 1 "Dracotail" monster + 1 or more monsters in the hand
 series:
-- Dragon Tail
+- Dracotail
 images:
 - index: 1
-  image: DragonTailAltharion-DBJH-JP-UR.png
+  image: DracotailArthalion-DBJH-JP-UR.png
 sets:
+  en:
+  - set_number: JUSH-EN006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: JUSH-DE006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: JUSH-SP006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: JUSH-FR006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: JUSH-IT006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: JUSH-PT006
+    set_name: Justice Hunters
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DBJH-JP006
     set_name: 'Deck-Build Pack: Justice Hunters'
@@ -63,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1107289
