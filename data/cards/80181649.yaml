@@ -1,7 +1,7 @@
 konami_id: 21385
 password: 80181649
 name:
-  en: '"Case of K9"'
+  en: '"A Case for K9"'
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: “K9刑侦案件”
 text:
   en: |-
-    When this card is activated: You can add 1 "K9" monster from your Deck to your hand. "K9" monsters you control gain 900 ATK the turn your opponent activated a monster effect in the hand or GY. If this card in the Spell & Trap Zone is destroyed by card effect: You can Set 1 "K9" Quick-Play Spell from your Deck or GY. You can only use this effect of ""Case of K9"" once per turn. You can only activate 1 ""Case of K9"" per turn.
+    When this card is activated: You can add 1 "K9" monster from your Deck to your hand. "K9" monsters you control gain 900 ATK during any turn in which your opponent has activated a monster effect in the hand or GY. If this card in the Spell & Trap Zone is destroyed by card effect: You can Set 1 "K9" Quick-Play Spell from your Deck or GY. You can only use this effect of ""A Case for K9"" once per turn. You can only activate 1 ""A Case for K9"" per turn.
   de:
   es:
   fr:
@@ -34,8 +34,38 @@ series:
 - K9
 images:
 - index: 1
-  image: CaseofK9-DBJH-JP-C.png
+  image: ACaseforK9-DBJH-JP-C.png
 sets:
+  en:
+  - set_number: JUSH-EN040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  de:
+  - set_number: JUSH-DE040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  es:
+  - set_number: JUSH-SP040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: JUSH-FR040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  it:
+  - set_number: JUSH-IT040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: JUSH-PT040
+    set_name: Justice Hunters
+    rarities:
+    - Super Rare
   ja:
   - set_number: DBJH-JP040
     set_name: 'Deck-Build Pack: Justice Hunters'
@@ -57,9 +87,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1116701

@@ -15,7 +15,7 @@ name:
   zh-CN: 黯蜜★救赎
 text:
   en: |-
-    Monsters your opponent controls lose 200 ATK for each LIGHT Beast monster you control and in your GY. Once per Chain, if you Synchro Summon a LIGHT Beast Synchro Monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can banish this card from your GY, then target 1 "Yummy" monster you control and 1 monster your opponent controls; switch control of both. You can only use this effect of "Yummy★Redemption" once per turn.
+    Monsters your opponent controls lose 200 ATK for each LIGHT Beast monster in your field and GY. Once per Chain, if you Synchro Summon a LIGHT Beast Synchro Monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. You can banish this card from your GY, then target 1 "Yummy" monster you control and 1 monster your opponent controls; switch control of those 2 monsters. You can only use this effect of "Yummy★Redemption" once per turn.
   de:
   es:
   fr:
@@ -36,6 +36,42 @@ images:
 - index: 1
   image: YummyRedemption-DBJH-JP-C.png
 sets:
+  en:
+  - set_number: JUSH-EN026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
+  de:
+  - set_number: JUSH-DE026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
+  es:
+  - set_number: JUSH-SP026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
+  fr:
+  - set_number: JUSH-FR026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
+  it:
+  - set_number: JUSH-IT026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
+  pt:
+  - set_number: JUSH-PT026
+    set_name: Justice Hunters
+    rarities:
+    - Rare
+    - Super Rare
   ja:
   - set_number: DBJH-JP026
     set_name: 'Deck-Build Pack: Justice Hunters'
@@ -57,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1110660
