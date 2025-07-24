@@ -1,6 +1,6 @@
 konami_id: 18579
 name:
-  en: Nikotamabot
+  en: Tamainabot
   de:
   es:
   fr:
@@ -27,7 +27,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Your opponent draws 1 card and shows it. If that card is a monster, this card gains ATK equal to [the ATK of the shown monster] until the end of this turn.
+    Your opponent draws 1 card and shows it. If it was a monster, this card gains ATK equal to [the shown monster's ATK] until the end of this turn.
   de:
   es:
   fr:
@@ -61,7 +61,7 @@ series:
 - Tamabot
 images:
 - index: 1
-  image: Nikotamabot-RD5TH1-JP-SR.png
+  image: Tamainabot-RD5TH1-JP-SR.png
 sets:
   ja:
   - set_number: RD/23PR-JP003
@@ -72,9 +72,4 @@ sets:
     set_name: 5th Anniversary Pack
     rarities:
     - Super Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 716039
