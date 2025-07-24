@@ -37,7 +37,7 @@ effect:
   ja: |-
     装備モンスターの攻撃力は２００アップし、その攻撃は貫通する。装備モンスターが魔導騎士族の場合、その攻撃力は［装備モンスターのレベル］×２００アップする。
   ko: |-
-    장착 몬스터의 공격력은 200 올리고, 그 공격은 관통한다. 장착 몬스터가 마도 기사족일 경우, 추가로 그 공격력은 [장착 몬스터의 레벨] × 200 올린다.
+    장착 몬스터의 공격력은 200 올리고, 그 공격은 관통한다. 장착 몬스터가 마도 기사족일 경우, 그 공격력은 [장착 몬스터의 레벨] × 200 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -68,6 +68,10 @@ sets:
     set_name: High-Grade Collection
     rarities:
     - Secret Rare
+  - set_number: RD/5TH1-KR125
+    set_name: 5th Anniversary Pack
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true

@@ -37,7 +37,7 @@ effect:
   ja: |-
     自分の墓地のモンスター（レベル６／水属性以外／守備力５００）１体を選んで手札に加える。このターン、自分はモンスター（レベル７以上）で攻撃できない。
   ko: |-
-    자신 묘지의 몬스터(물 속성 이외 / 레벨 6 / 수비력 500) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
+    자신 묘지의 몬스터(레벨 6 / 물 속성 이외 / 수비력 500) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(레벨 7 이상)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -68,6 +68,10 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
+  - set_number: RD/5TH1-KR076
+    set_name: 5th Anniversary Pack
+    rarities:
+    - Super Parallel Rare
 is_translation_unofficial:
   name:
     en: true

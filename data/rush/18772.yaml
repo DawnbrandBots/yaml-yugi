@@ -23,7 +23,7 @@ requirement:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合、手札のモンスター（光属性・闇属性／海竜族）１体を相手に見せてデッキの下に戻して発動できる。
   ko: |-
-    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 몬스터(빛 속성 또는 어둠 속성 / 해룡족) 1장을 상대에게 보여주고 덱 아래로 되돌려 발동할 수 있다.
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 패의 몬스터(빛 속성・어둠 속성 / 해룡족) 1장을 상대에게 보여주고 덱 아래로 되돌려 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -66,6 +66,10 @@ sets:
     set_name: Versus Pack Maximum Force
     rarities:
     - Common
+  - set_number: RD/5TH1-KR109
+    set_name: 5th Anniversary Pack
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   name:
     en: true

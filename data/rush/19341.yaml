@@ -37,7 +37,7 @@ effect:
   ja: |-
     そのモンスターの攻撃力以下の攻撃力を持つ自分の墓地のモンスター１体を選び、自分フィールドに表側攻撃表示で特殊召喚する。その後、相手フィールドの表側表示モンスターを２体まで選んでその攻撃力をターン終了時まで１８００ダウンできる。
   ko: |-
-    그 몬스터의 공격력 이하의 자신 묘지의 몬스터 1장을 고르고, 자신 필드에 앞면 공격 표시로 특수 소환한다. 그 후, 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 그 공격력을 턴 종료시까지 1800 내릴 수 있다.
+    그 몬스터의 공격력 이하의 공격력을 가지는 자신 묘지의 몬스터 1장을 고르고, 자신 필드에 앞면 공격 표시로 특수 소환한다. 그 후, 상대 필드의 앞면 표시 몬스터를 2장까지 고르고 그 공격력을 턴 종료시까지 1800 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -69,5 +69,10 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+    - Over Rush Rare
+  - set_number: RD/5TH1-KR010
+    set_name: 5th Anniversary Pack
+    rarities:
+    - Ultra Parallel Rare
     - Over Rush Rare
 yugipedia_page_id: 978511

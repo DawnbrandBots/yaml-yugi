@@ -8,7 +8,7 @@ name:
   pt:
   ja: ニコタマボット
   ja_romaji: Nikotamabotto
-  ko:
+  ko: 니코타마봇
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手は１枚ドローし、お互いに確認する。そのカードがモンスターだった場合、さらにこのカードの攻撃力はターン終了時まで、［確認したモンスターの攻撃力］だけアップする。
-  ko:
+  ko: |-
+    상대는 1장 드로우하고, 서로 확인한다. 그 카드가 몬스터였을 경우, 추가로 이 카드의 공격력은 턴 종료시까지, [확인한 몬스터의 공격력]만큼 올린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,7 +56,8 @@ materials:
   pt:
   ja: |-
     「タマボット」＋「タマボット」
-  ko:
+  ko: |-
+    "타마봇" ＋ "타마봇"
   zh-TW:
   zh-CN:
 series:
@@ -69,6 +72,11 @@ sets:
     rarities:
     - Normal Parallel Rare
   - set_number: RD/5TH1-JP096
+    set_name: 5th Anniversary Pack
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/5TH1-KR096
     set_name: 5th Anniversary Pack
     rarities:
     - Super Rare
