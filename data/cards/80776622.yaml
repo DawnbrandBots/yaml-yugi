@@ -27,7 +27,7 @@ text:
   pt: |-
     Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer 2 Monstros Pêndulo como Tributo. Você só pode usar cada um dos seguintes efeitos de "DoSolfacorde Coolia" uma vez por turno. Você pode escolher 1 card com a face para cima que seu oponente controla, ou até 2 cards se você tiver uma Escala de Pêndulo ímpar na sua Zona de Pêndulo; negue seus efeitos até o final do turno do seu oponente. Quando um efeito de um monstro no campo com um ATK igual ou menor que a maior Escala de Pêndulo na sua Zona de Pêndulo x 300 for ativado: você pode destruir esse monstro.
   ja: |-
-    このカード名の②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードは自分フィールドのＰモンスター２体をリリースして手札から特殊召喚できる。②：相手フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果を相手ターン終了時まで無効にする。自分のＰゾーンに奇数のＰスケールが存在する場合、この効果の対象を２枚にできる。③：自分のＰゾーンの一番高いＰスケール×３００以下の攻撃力を持つフィールドのモンスターの効果が発動した時に発動できる。そのモンスターを破壊する。
+    このカード名の②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードは自分フィールドのＰモンスター２体をリリースして手札から特殊召喚できる。②：相手フィールドの表側表示カード１枚を対象として発動できる（自分のＰゾーンに奇数のＰスケールが存在する場合、この効果の対象を２枚にできる）。そのカードの効果を相手ターン終了時まで無効にする。③：自分のＰゾーンの一番高いＰスケール×３００以下の攻撃力を持つフィールドのモンスターの効果が発動した時に発動できる。そのモンスターを破壊する。
   ko: |-
     이 카드명의 ②③의 몬스터 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 자신 필드의 펜듈럼 몬스터 2장을 릴리스하고 패에서 특수 소환할 수 있다. ②: 상대 필드의 앞면 표시의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드의 효과를 상대 턴 종료시까지 무효로 한다. 자신의 펜듈럼 존에 홀수의 펜듈럼 스케일이 존재할 경우, 이 효과의 대상을 2장으로 할 수 있다. ③: 자신의 펜듈럼 존의 가장 높은 펜듈럼 스케일 × 300 이하의 공격력을 가지는 필드의 몬스터 효과가 발동했을 때에 발동할 수 있다. 그 몬스터를 파괴한다.
   zh-TW:
@@ -60,12 +60,12 @@ pendulum_effect:
   zh-TW: |-
     ①：我方成功鐘擺召喚「音服和弦」鐘擺怪獸時，對方無法發動怪獸效果・魔法・陷阱卡。
   zh-CN: |-
-    ①：自己的"音服和弦"灵摆怪兽灵摆召唤成功时，对手不可发动怪兽的效果・魔法・陷阱卡。
+    ①：自己的“音服和弦”灵摆怪兽灵摆召唤成功时，对手不可发动怪兽的效果・魔法・陷阱卡。
 series:
 - Solfachord
 images:
 - index: 1
-  image: DoSolfachordCoolia-DBAG-JP-UR.png
+  image: DoSolfachordCoolia-DOOD-JP-UR.png
   illustration: DoSolfachordCoolia-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: DoSolfachordCoolia-ANGU-EN-UR-1E.png
@@ -113,6 +113,10 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: DOOD-JPS18
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBAG-KR021
     set_name: 'Deck-Build Pack: Ancient Guardians'

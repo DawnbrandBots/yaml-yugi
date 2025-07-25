@@ -27,12 +27,12 @@ text:
   pt: |-
     Enquanto você tiver uma Escala de Pêndulo ímpar na sua Zona de Pêndulo, se um Monstro Pêndulo "Solfacorde" seu seria destruído em batalha, em vez disso, você pode destruir este card. Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo "Solfacorde" do seu Deck ao seu Deck Adicional com a face para cima, exceto "FaSolfacorde Fancia". Você só pode usar este efeito de "FaSolfacorde Fancia" uma vez por turno.
   ja: |-
-    このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキから「ファドレミコード・ファンシア」以外の「ドレミコード」Ｐモンスター１体を選び、ＥＸデッキに表側表示で加える。②：自分のＰゾーンに奇数のＰスケールが存在し、自分の「ドレミコード」Ｐモンスターが戦闘で破壊される場合、代わりにこのカードを破壊できる。
+    このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキから「ファドレミコード・ファンシア」以外の「ドレミコード」Ｐモンスター１体をＥＸデッキに表側で加える。②：自分のＰゾーンに奇数のＰスケールが存在し、自分の「ドレミコード」Ｐモンスターが戦闘で破壊される場合、代わりにこのカードを破壊できる。
   ko: |-
     이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 덱에서 "파도레미코드 팬시아" 이외의 "도레미코드" 펜듈럼 몬스터 1장을 고르고, 엑스트라 덱에 앞면 표시로 넣는다. ②: 자신의 펜듈럼 존에 홀수의 펜듈럼 스케일이 존재하고, 자신의 "도레미코드" 펜듈럼 몬스터가 전투로 파괴될 경우, 대신에 이 카드를 파괴할 수 있다.
   zh-TW:
   zh-CN: |-
-    此卡名的①怪兽效果1回合仅可使用1次。①：在自己的主要阶段可以发动。从牌组挑选"发音服和弦・潘西娅"以外的1只"音服和弦"灵摆怪兽以表侧表示加入额外牌组。②：自己的灵摆区域有奇数的灵摆刻度存在、自己的"音服和弦"灵摆怪兽将被战斗破坏的情况下，可破坏此卡作为代替。
+    此卡名的①怪兽效果1回合仅可使用1次。①：在自己的主要阶段可以发动。从牌组挑选“发音服和弦・潘西娅”以外的1只“音服和弦”灵摆怪兽以表侧表示加入额外牌组。②：自己的灵摆区域有奇数的灵摆刻度存在、自己的“音服和弦”灵摆怪兽将被战斗破坏的情况下，可破坏此卡作为代替。
 card_type: Monster
 monster_type_line: Fairy / Pendulum / Effect
 attribute: FIRE
@@ -60,7 +60,7 @@ pendulum_effect:
   zh-TW: |-
     ①：我方鐘擺召喚「音服和弦」鐘擺怪獸不會被無效化。
   zh-CN: |-
-    ①：自己的"音服和弦"灵摆怪兽的灵摆召唤不会被无效化。
+    ①：自己的“音服和弦”灵摆怪兽的灵摆召唤不会被无效化。
 series:
 - Solfachord
 images:
@@ -109,6 +109,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: DOOD-JPS16
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBAG-KR017
     set_name: 'Deck-Build Pack: Ancient Guardians'

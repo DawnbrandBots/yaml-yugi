@@ -34,7 +34,7 @@ text:
     Ganha 100 de ATK para cada Monstro Pêndulo com a face para cima no seu Deck Adicional. Os efeitos ativados dos Monstros Pêndulo para os quais este card apontar não podem ser negados. Uma vez por turno, quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode Invocar por Invocação-Especial 1 card "Solfacorde" com uma Escala de Pêndulo ímpar da sua Zona de Pêndulo em uma zona sua para a qual este card apontar e, se isso acontecer, negue a ativação e, depois, você pode adicionar 1 Monstro Pêndulo "Solfacorde" com uma Escala de Pêndulo par do seu Deck ao seu Deck Adicional com a face para cima.
   ja: |-
     Ｐモンスターを含むモンスター２体以上
-    ①：このカードの攻撃力は自分のＥＸデッキの表側表示のＰモンスターの数×１００アップする。②：このカードのリンク先のＰモンスターが発動した効果は無効化されない。③：１ターンに１度、相手が効果を発動した時に発動できる。自分のＰゾーンのＰスケールが奇数の「ドレミコード」カード１枚をこのカードのリンク先となる自分フィールドに特殊召喚し、その発動を無効にする。その後、デッキからＰスケールが偶数の「ドレミコード」Ｐモンスター１体をＥＸデッキに表側表示で加える事ができる。
+    ①：このカードの攻撃力は、自分のＥＸデッキの表側のＰモンスターの数×１００アップする。②：このカードのリンク先で発動したＰモンスターの効果は無効化されない。③：１ターンに１度、相手が効果を発動した時に発動できる。自分のＰゾーンのＰスケールが奇数の「ドレミコード」カード１枚をこのカードのリンク先となる自分フィールドに特殊召喚し、その発動を無効にする。その後、デッキからＰスケールが偶数の「ドレミコード」Ｐモンスター１体をＥＸデッキに表側で加える事ができる。
   ko: |-
     펜듈럼 몬스터를 포함하는 몬스터 2장 이상
     ①: 이 카드의 공격력은 자신의 엑스트라 덱의 앞면 표시 펜듈럼 몬스터의 수 × 100 올린다. ②: 이 카드의 링크 앞의 펜듈럼 몬스터가 발동한 효과는 무효화되지 않는다. ③: 1턴에 1번, 상대가 효과를 발동했을 때에 발동할 수 있다. 자신의 펜듈럼 존의 펜듈럼 스케일이 홀수인 "도레미코드" 카드 1장을 이 카드의 링크 앞이 되는 자신 필드에 특수 소환하고, 그 발동을 무효로 한다. 그 후, 덱에서 펜듈럼 스케일이 짝수인 "도레미코드" 펜듈럼 몬스터 1장을 엑스트라 덱에 앞면 표시로 넣을 수 있다.
@@ -56,7 +56,7 @@ series:
 - Solfachord
 images:
 - index: 1
-  image: GranSolfachordCoolia-CYAC-JP-SR.png
+  image: GranSolfachordCoolia-DOOD-JP-UR.png
   illustration: GranSolfachordCoolia-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: GranSolfachordCoolia-CYAC-EN-SR-1E.png
@@ -104,6 +104,10 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: DOOD-JPS19
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CYAC-KR049
     set_name: Cyberstorm Access

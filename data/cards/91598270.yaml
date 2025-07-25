@@ -27,12 +27,12 @@ text:
   pt: |-
     Enquanto você tiver uma Escala de Pêndulo par na sua Zona de Pêndulo, se um Monstro Pêndulo "Solfacorde" seu atacar, seu oponente não pode ativar efeitos de monstro até o final da Etapa de Dano. Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha "Solfacorde" do seu Deck à sua mão. Você só pode usar este efeito de "SolSolfacorde Gracia" uma vez por turno.
   ja: |-
-    このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「ドレミコード」魔法・罠カード１枚を手札に加える。②：自分のＰゾーンに偶数のＰスケールが存在し、自分の「ドレミコード」Ｐモンスターが攻撃する場合、相手はダメージステップ終了時までモンスターの効果を発動できない。
+    このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。デッキから「ドレミコード」魔法・罠カード１枚を手札に加える。②：自分のＰゾーンに偶数のＰスケールが存在し、自分の「ドレミコード」Ｐモンスターが攻撃する場合、相手はダメージステップ終了時までモンスターの効果を発動できない。
   ko: |-
     이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "도레미코드" 마법 / 함정 카드 1장을 패에 넣는다. ②: 자신의 펜듈럼 존에 짝수의 펜듈럼 스케일이 존재하고, 자신의 "도레미코드" 펜듈럼 몬스터가 공격할 경우, 상대는 데미지 스텝 종료시까지 몬스터 효과를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    此卡名的①怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张"音服和弦"魔法・陷阱卡加入手牌。②：自己的灵摆区域有偶数的灵摆刻度存在、自己的"音服和弦"灵摆怪兽攻击的情况下，直至伤害步骤结束时为止，对手不可发动怪兽效果。
+    此卡名的①怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张“音服和弦”魔法・陷阱卡加入手牌。②：自己的灵摆区域有偶数的灵摆刻度存在、自己的“音服和弦”灵摆怪兽攻击的情况下，直至伤害步骤结束时为止，对手不可发动怪兽效果。
 card_type: Monster
 monster_type_line: Fairy / Pendulum / Effect
 attribute: WATER
@@ -60,12 +60,12 @@ pendulum_effect:
   zh-TW: |-
     ①：我方成功鐘擺召喚「音服和弦」鐘擺怪獸時，對方無法發動怪獸效果・魔法・陷阱卡。
   zh-CN: |-
-    ①：自己的"音服和弦"灵摆怪兽灵摆召唤成功时，对手不可发动怪兽的效果・魔法・陷阱卡。
+    ①：自己的“音服和弦”灵摆怪兽灵摆召唤成功时，对手不可发动怪兽的效果・魔法・陷阱卡。
 series:
 - Solfachord
 images:
 - index: 1
-  image: SolSolfachordGracia-DBAG-JP-SR.png
+  image: SolSolfachordGracia-DOOD-JP-UR.png
   illustration: SolSolfachordGracia-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: SolSolfachordGracia-ANGU-EN-SR-1E.png
@@ -112,6 +112,10 @@ sets:
     set_name: 'Deck-Build Pack: Ancient Guardians'
     rarities:
     - Super Rare
+  - set_number: DOOD-JPS17
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBAG-KR018
     set_name: 'Deck-Build Pack: Ancient Guardians'
