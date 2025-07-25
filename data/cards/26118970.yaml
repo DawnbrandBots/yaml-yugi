@@ -27,12 +27,12 @@ text:
   pt: |-
     Se este card for enviado para o Cemitério como Matéria Sincro: você pode Invocar por Invocação-Especial 1 monstro "Dragão da Rosa" da sua mão ou do Deck, exceto "Dragão da Rosa Vermelha" e, depois, se ele foi enviado para o Cemitério para a Invocação-Sincro de "Dragão da Rosa Negra" ou de um Monstro Sincro Planta, você também pode adicionar 1 "Rosa Congelada" ou 1 "Florescer da Rosa Mais Negra" do seu Deck à sua mão. Você só pode usar este efeito de "Dragão da Rosa Vermelha" uma vez por turno.
   ja: |-
-    このカード名の効果は１ターンに１度しか使用できない。①：このカードがＳ素材として墓地へ送られた場合に発動できる。手札・デッキから「レッドローズ・ドラゴン」以外の「ローズ・ドラゴン」モンスター１体を特殊召喚する。このカードが「ブラック・ローズ・ドラゴン」または植物族ＳモンスターのＳ素材として墓地へ送られた場合には、さらに「冷薔薇の抱香」または「漆黒の薔薇の開華」１枚をデッキから手札に加える事ができる。
+    このカード名の効果は１ターンに１度しか使用できない。①：このカードがＳ素材として墓地へ送られた場合に発動できる。手札・デッキから「レッドローズ・ドラゴン」以外の「ローズ・ドラゴン」モンスター１体を特殊召喚する。このカードが「ブラック・ローズ・ドラゴン」か植物族ＳモンスターのＳ素材として墓地へ送られていた場合、さらにデッキから「冷薔薇の抱香」か「漆黒の薔薇の開華」１枚を手札に加える事ができる。
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 싱크로 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 패 / 덱에서 "레드 로즈 드래곤" 이외의 "로즈 드래곤" 몬스터 1장을 특수 소환한다. 이 카드가 "블랙 로즈 드래곤" 또는 식물족 싱크로 몬스터의 싱크로 소재로서 묘지로 보내졌을 경우에는, 추가로 "프로즌 로어즈" 또는 "블루밍 로즈" 1장을 덱에서 패에 넣을 수 있다.
   zh-TW:
   zh-CN: |-
-    此卡名的效果1回合仅可使用1次。①：此卡作为同步素材被送至墓地的情况下可以发动。从手牌・牌组将"红蔷薇龙"以外的1只"蔷薇龙"怪兽特殊召唤。此卡作为"黑蔷薇龙"或植物族同步怪兽的同步素材被送至墓地的情况下，进而可从牌组将1张"冷香蔷薇之抱吼"或"漆黑蔷薇之开华"加入手牌。
+    此卡名的效果１回合仅可使用１次。①：此卡作为同步素材被送至墓地的情况下可以发动。从手牌・牌组将“红蔷薇龙”以外的１只“蔷薇龙”怪兽特殊召唤。此卡作为“黑蔷薇龙”或植物族同步怪兽的同步素材被送至墓地的情况下，进而可从牌组将１张“冷香蔷薇之抱吼”或“漆黑蔷薇之开华”加入手牌。
 card_type: Monster
 monster_type_line: Dragon / Tuner / Effect
 attribute: DARK
@@ -105,6 +105,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Rare
+  - set_number: DOOD-JPS02
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP21-KR025
     set_name: 'Duelist Pack: Legend Duelist 4'
