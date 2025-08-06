@@ -240,7 +240,10 @@ def mixin_text(
 
 
 def annotate_master_duel(
-    logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any], title: str
+    logger: logging.Logger,
+    document: Dict[str, Any],
+    master_duel: Dict[str, Any],
+    title: str,
 ) -> None:
     name = document["name"]["en"]
     master_duel_card = master_duel.get(name, master_duel.get(title))
