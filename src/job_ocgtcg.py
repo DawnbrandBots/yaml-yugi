@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import json
 import logging
@@ -422,10 +422,18 @@ def job(
     ko_official = load_ko_csv("konami_id", ko_official_csv)
     ko_override = load_ko_csv("konami_id", ko_override_csv)
     ko_prerelease = load_ko_csv("yugipedia_page_id", ko_prerelease_csv)  # noqa: F841
+    job_logger = module_logger.getChild(current_process().name)
     if master_duel_raw_json:
         with open(master_duel_raw_json) as f:
             raw = json.load(f)
-            master_duel = {card["en_name"]: card for card in raw}
+            master_duel = {}
+            for card in raw:
+                key = card["en_name"]
+                # Edge cases where the Master Duel name differs for some reason (as of writing, Maliss and Reactor)
+                if "main" in card and not card["main"].endswith(" (card)"):
+                    job_logger.info(f"[{key} (Master Duel)] is [{card['main']}]")
+                    key = card["main"]
+                master_duel[key] = card
     else:
         master_duel = None
     results = []
@@ -434,7 +442,7 @@ def job(
         # This should always be int, but code defensively and allow future changes to yaml-yugipedia's structure
         basename = os.path.splitext(filename)[0]
         page_id = int_or_og(basename)
-        logger = module_logger.getChild(current_process().name).getChild(basename)
+        logger = job_logger.getChild(basename)
         logger.info(f"{i}/{len(filenames)} {filepath}")
 
         properties = initial_parse(yaml, filepath)
