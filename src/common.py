@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from csv import DictReader
 import json
@@ -59,7 +59,7 @@ def initial_parse(
 ) -> Optional[Dict[str, str]]:
     with open(yaml_file) as f:
         document = yaml.load(f)
-    properties = {}
+    properties = {"title": document["title"]}
     wikitext = wtp.parse(document["wikitext"])
     if not len(wikitext.templates):
         return

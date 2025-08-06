@@ -240,10 +240,10 @@ def mixin_text(
 
 
 def annotate_master_duel(
-    logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any]
+    logger: logging.Logger, document: Dict[str, Any], master_duel: Dict[str, Any], title: str
 ) -> None:
     name = document["name"]["en"]
-    master_duel_card = master_duel.get(name)
+    master_duel_card = master_duel.get(name, master_duel.get(title))
     # Skip Normal Monster version of Black Luster Soldier since will match the Ritual Monster
     if master_duel_card and document["konami_id"] != 19092:
         logger.info(f"Annotating [{name}] with Master Duel data")
@@ -456,7 +456,7 @@ def job(
             if ko_official:
                 replace_with_official(logger, document, ko_official, "ko")
             if master_duel:
-                annotate_master_duel(logger, document, master_duel)
+                annotate_master_duel(logger, document, master_duel, properties["title"])
             if assignments:
                 annotate_assignments(document, assignments)
             if ko_override:
