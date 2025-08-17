@@ -32,8 +32,7 @@ text:
     ①: 상대 필드에만 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 자신 필드에 링크 3 이상의 "다이너레슬러" 몬스터가 존재하는 한, 자신 필드의 앞면 표시 몬스터는 링크 3 이하의 상대 몬스터가 발동한 효과를 받지 않는다.
   zh-TW:
   zh-CN: |-
-    ①：只有对方场上才有怪兽存在的场合，这张卡可以从手卡特殊召唤。
-    ②：只要自己场上有连接3以上的「恐龙摔跤手」怪兽存在，自己场上的表侧表示怪兽不受连接3以下的对方怪兽发动的效果影响。
+    ①：仅有对手场上才存在怪兽的情况下，此卡可从手牌特殊召唤。②：只要自己场上存在连接3以上的“恐龙摔跤手”怪兽，自己场上的表侧表示怪兽就不受连接3以下的对手怪兽发动的效果影响。
 card_type: Monster
 monster_type_line: Dinosaur / Effect
 attribute: EARTH
@@ -108,6 +107,11 @@ sets:
   ko:
   - set_number: CHIM-KR007
     set_name: Chaos Impact
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC228
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

@@ -32,9 +32,7 @@ text:
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 "다이너레슬러" 몬스터가 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 이 카드를 패에서 수비 표시로 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 다른 "다이너레슬러" 몬스터는 상대 효과의 대상이 되지 않는다.
   zh-TW:
   zh-CN: |-
-    这个卡名的①的效果1回合只能使用1次。
-    ①：自己的「恐龙摔跤手」怪兽给与对方战斗伤害时才能发动。这张卡从手卡守备表示特殊召唤。
-    ②：只要这张卡在怪兽区域存在，自己场上的其他的「恐龙摔跤手」怪兽不会成为对方的效果的对象。
+    此卡名的①效果1回合仅可使用1次。①：自己的“恐龙摔跤手”怪兽给予对手战斗伤害时可以发动。从手牌将此卡以守备表示特殊召唤。②：只要此卡存在于怪兽区域，对手不可将自己场上其他的“恐龙摔跤手”怪兽作为效果的对象。
 card_type: Monster
 monster_type_line: Dinosaur / Effect
 attribute: EARTH
@@ -109,6 +107,11 @@ sets:
   ko:
   - set_number: RIRA-KR007
     set_name: Rising Rampage
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC226
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:
