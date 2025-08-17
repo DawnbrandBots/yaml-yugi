@@ -31,7 +31,7 @@ text:
     자신의 묘지에 존재하는 레벨 2 이하의 사이킥족 몬스터를 임의의 수만큼 특수 소환한다. 그 후, 자신은 이 효과로 특수 소환한 몬스터의 레벨 합계 × 300 포인트 데미지를 받는다.
   zh-TW:
   zh-CN: |-
-    从自己墓地选择2星以下的念动力族怪兽任意数量特殊召唤。那之后，自己受到这个效果特殊召唤的怪兽的等级合计×300的数值的伤害。
+    ①：以自己墓地任意数量的等级2以下的念动力族怪兽为对象可以发动。将该念动力族怪兽特殊召唤。然后，自己受到以此效果特殊召唤的怪兽的合计等级×300的伤害。
 card_type: Spell
 property: Quick-Play
 images:
@@ -75,6 +75,11 @@ sets:
   ko:
   - set_number: CRMS-KR055
     set_name: Crimson Crisis
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC234
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:
