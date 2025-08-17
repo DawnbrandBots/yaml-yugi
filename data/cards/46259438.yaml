@@ -32,7 +32,7 @@ text:
     ①: 자신 마법 & 함정 존의 "계약서" 카드를 전부 파괴한다. 파괴한 수만큼 자신은 덱에서 드로우한다. 그 후, 자신은 드로우한 수 × 1000 LP 회복한다.
   zh-TW:
   zh-CN: |-
-    ①：自己的魔法与陷阱区域的「契约书」卡全部破坏。自己从卡组抽出破坏的数量。那之后，自己回复抽出数量×1000基本分。
+    ①：将自己的魔法与陷阱区域的“契约书”卡全部破坏，自己依其数量抽牌。然后，自己恢复所抽数量×1000LP。
 card_type: Trap
 property: Normal
 images:
@@ -135,6 +135,11 @@ sets:
     - Normal Parallel Rare
   - set_number: SD30-KR037
     set_name: 'Structure Deck: Pendulum Domination'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC208
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

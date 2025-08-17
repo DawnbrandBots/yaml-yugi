@@ -56,10 +56,10 @@ text:
     ●3개 : 자신의 묘지에 존재하는 식물족 몬스터 1장을 선택하고 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    每次场上的植物族怪兽被破坏，给这张卡放置1个花指示物。此外，可以把这张卡放置的花指示物任意数量取除把以下效果发动。
-    ●1个：选择场上1只植物族怪兽，那个攻击力·守备力直到结束阶段时上升400。
-    ●2个：选择场上1张卡破坏。
-    ●3个：选择自己墓地1只植物族怪兽特殊召唤。
+    ①：每当场上的表侧表示的植物族怪兽被破坏，就在此卡上放1个花朵计数物。②：依以下数量去除此卡的花朵计数物，可以发动相应效果。
+    ●1个：以场上的1只植物族怪兽为对象可以发动。该植物族怪兽的攻击力・守备力直至回合结束时为止上升400。
+    ●2个：以场上的1张卡为对象可以发动。将该卡破坏。
+    ●3个：以自己墓地的1只植物族怪兽为对象可以发动。将该植物族怪兽特殊召唤。
 card_type: Spell
 property: Continuous
 images:
@@ -128,6 +128,11 @@ sets:
   ko:
   - set_number: CSOC-KR059
     set_name: Crossroads of Chaos
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC215
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

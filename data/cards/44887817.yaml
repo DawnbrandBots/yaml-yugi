@@ -32,7 +32,7 @@ text:
     ①: 1턴에 1번, 자신 묘지의 식물족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 식물족 몬스터를 특수 소환한다. 이 효과로 몬스터를 특수 소환하는 턴에, 자신은 통상 소환할 수 없다. 이 효과로 특수 소환한 몬스터가 필드에서 벗어났을 때에 이 카드는 파괴된다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，以自己墓地1只植物族怪兽为对象才能发动。那只植物族怪兽特殊召唤。这个效果把怪兽特殊召唤的回合，自己不能通常召唤。这个效果特殊召唤的怪兽从场上离开时这张卡破坏。
+    ①：1回合1次，以自己墓地的1只植物族怪兽为对象可以发动（发动此效果的回合中，自己不可通常召唤）。将该植物族怪兽特殊召唤。以此效果特殊召唤的怪兽从场上离开时此卡将被破坏。
 card_type: Spell
 property: Continuous
 images:
@@ -191,6 +191,11 @@ sets:
     - Common
   - set_number: AE10-KR021
     set_name: Advanced Event Pack 2017 Vol.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC213
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

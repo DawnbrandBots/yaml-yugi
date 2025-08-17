@@ -32,7 +32,7 @@ text:
     1턴에 1번, 이 카드 이외의 필드 위의 식물족 몬스터 1장을 선택하고 발동할 수 있다. 이 카드의 레벨은 엔드 페이즈시까지, 선택한 몬스터와 같은 레벨이 된다.
   zh-TW:
   zh-CN: |-
-    1回合1次，选择这张卡以外的场上1只植物族怪兽才能发动。这张卡的等级直到结束阶段时，变成和选择的怪兽相同等级。
+    ①：1回合1次，以场上1只其他的植物族怪兽为对象可以发动。此卡的等级直至回合结束时为止变为与该怪兽相同。
 card_type: Monster
 monster_type_line: Plant / Tuner / Effect
 attribute: WIND
@@ -115,6 +115,11 @@ sets:
     set_name: Advanced Event Pack 2014 Vol.2
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: 25BZ-SC209
+    set_name: Doom of Dimensions Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
