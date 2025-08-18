@@ -32,7 +32,7 @@ text:
     "화염 제왕가신 베르리네스"의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패를 1장 버리고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 턴에, 자신은 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ②: 이 카드가 어드밴스 소환을 위해 릴리스되었을 경우에 발동할 수 있다. 상대의 패를 확인하고, 그 중에서 카드 1장을 골라 엔드 페이즈까지 제외한다.
   zh-TW:
   zh-CN: |-
-    「炎帝家臣 贝利尼斯」的①②的效果1回合各能使用1次。①：丢弃1张手卡才能发动。这张卡从手卡特殊召唤。这个回合，自己不能从额外卡组把怪兽特殊召唤。②：这张卡为上级召唤而被解放的场合才能发动。把对方手卡确认，从那之中选1张卡直到结束阶段除外。
+    此卡名的①②效果1回合仅可各使用1次。①：从手牌将1张其他的卡舍弃可以发动。从手牌将此卡特殊召唤。此效果发动后，直至回合结束时为止，自己不可从额外牌组特殊召唤怪兽。②：此卡为上级召唤而被解放的情况下可以发动。确认对手的手牌，挑选其中1张直至结束阶段为止以表侧除外。
 card_type: Monster
 monster_type_line: Pyro / Effect
 attribute: FIRE
@@ -87,6 +87,11 @@ sets:
   ko:
   - set_number: SR01-KR014
     set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC247
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

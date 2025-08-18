@@ -32,7 +32,7 @@ text:
     자신의 엑스트라 덱에 카드가 존재하지 않으며, 자신 필드에 어드밴스 소환한 몬스터가 존재할 경우에 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 어드밴스 소환한 몬스터 이외의 필드의 앞면 표시 몬스터의 효과는 무효화된다. ②: 자신 엔드 페이즈에, 어드밴스 소환한 몬스터가 자신 필드에 존재하지 않을 경우에 이 카드는 묘지로 보내진다.
   zh-TW:
   zh-CN: |-
-    自己的额外卡组没有卡存在，自己场上有上级召唤的怪兽存在的场合才能把这张卡发动。①：只要这张卡在魔法与陷阱区域存在，上级召唤的怪兽以外的场上的表侧表示怪兽的效果无效化。②：自己结束阶段，上级召唤的怪兽不在自己场上存在的场合这张卡送去墓地。
+    自己额外牌组不存在卡，且自己场上存在上级召唤的怪兽的情况下可以发动此卡。①：只要此卡存在于魔法与陷阱区域，上级召唤的怪兽以外的、场上的表侧表示怪兽的效果无效化。②：在自己的结束阶段，自己场上不存在上级召唤的怪兽的情况下，此卡将被送至墓地。
 card_type: Trap
 property: Continuous
 series:
@@ -183,6 +183,11 @@ sets:
     - Common
   - set_number: SR01-KR038
     set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC248
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

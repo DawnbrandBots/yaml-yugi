@@ -39,8 +39,8 @@ text:
     ●상대 라이프에 1000 포인트 데미지를 준다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把1只上级召唤的怪兽解放作上级召唤。这张卡上级召唤成功时，把对方手卡确认并丢弃1张。丢弃的卡是怪兽卡的场合，给与对方基本分那只怪兽的等级×200的数值的伤害。这张卡把炎属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。
-    ●给与对方基本分1000分伤害。
+    此卡可通过解放1只上级召唤的怪兽来上级召唤。①：此卡上级召唤的情况下发动。确认对手的手牌，挑选其中1张舍弃。所舍弃的卡为怪兽的情况下，进而给予对手其等级×200的伤害。此卡解放了炎属性怪兽来上级召唤的情况下，追加以下效果。
+    ●给予对手1000伤害。
 card_type: Monster
 monster_type_line: Pyro / Effect
 attribute: FIRE
@@ -169,6 +169,11 @@ sets:
     set_name: Primal Origin
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 25BZ-SC245
+    set_name: Doom of Dimensions Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

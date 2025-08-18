@@ -40,7 +40,7 @@ text:
     ●이 효과의 발동에 대하여 상대는 선택된 카드를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把1只上级召唤的怪兽解放作上级召唤。这张卡上级召唤成功时，可以选择场上最多3张魔法·陷阱卡破坏。这张卡把水属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。●对方不能对应这个效果的发动把选择的卡发动。
+    此卡可通过解放1只上级召唤的怪兽来上级召唤。①：此卡上级召唤时，以场上最多3张魔法・陷阱卡为对象可以发动（此卡解放了水属性怪兽来上级召唤的情况下，应对此发动，对手不可发动对象卡）。将该卡破坏。
 card_type: Monster
 monster_type_line: Aqua / Effect
 attribute: WATER
@@ -153,6 +153,11 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 25BZ-SC241
+    set_name: Doom of Dimensions Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

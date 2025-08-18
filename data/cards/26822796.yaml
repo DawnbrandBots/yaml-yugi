@@ -32,7 +32,7 @@ text:
     ①: 자신의 엑스트라 덱에 카드가 존재하지 않을 경우, 자신 필드의 어드밴스 소환한 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터는 효과가 무효가 되고, 이 카드 이외의 효과를 받지 않는다.
   zh-TW:
   zh-CN: |-
-    ①：自己的额外卡组没有卡存在的场合，以自己场上1只上级召唤的表侧表示怪兽为对象才能发动。那只怪兽效果无效，不受这张卡以外的效果影响。
+    ①：自己额外牌组不存在卡的情况下，以自己场上的1只上级召唤的表侧表示怪兽为对象可以发动。该怪兽效果无效，不受其他卡的效果影响。
 card_type: Trap
 property: Normal
 series:
@@ -135,6 +135,11 @@ sets:
     - Common
   - set_number: SR01-KR037
     set_name: 'Structure Deck R: Advent of the True Monarch'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC244
+    set_name: Doom of Dimensions Patchwork Pack
     rarities:
     - Common
 limit_regulation:

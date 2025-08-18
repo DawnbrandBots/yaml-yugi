@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 어드밴스 소환에 성공했을 경우에 발동한다. 상대의 패를 무작위로 1장 고르고 버린다. 버린 카드가 몬스터 카드였을 경우, 그 몬스터의 레벨 × 100 데미지를 상대에게 준다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡上级召唤成功的场合发动。对方手卡随机选1张丢弃。丢弃的卡是怪兽卡的场合，给与对方那只怪兽的等级×100伤害。
+    ①：此卡上级召唤的情况下发动。随机舍弃对手的1张手牌。所舍弃的卡为怪兽的情况下，进而给予对手其等级×100的伤害。
 card_type: Monster
 monster_type_line: Pyro / Effect
 attribute: FIRE
@@ -301,6 +301,11 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: 25BZ-SC246
+    set_name: Doom of Dimensions Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
