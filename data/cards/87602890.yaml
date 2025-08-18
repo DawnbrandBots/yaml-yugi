@@ -40,10 +40,7 @@ text:
     ●묘지로 보내는 상대의 카드는 자신이 고른다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把1只上级召唤的怪兽解放作上级召唤。
-    ①：这张卡上级召唤成功的场合，以场上1只怪兽为对象发动。那只怪兽破坏。破坏的怪兽是光属性的场合，双方各自从自己的额外卡组选那个原本的等级或者阶级数量的卡送去墓地。
-    这张卡把光属性怪兽解放作上级召唤成功的场合，那个时候的效果加上以下效果。
-    ●送去墓地的对方的卡由自己来选。
+    此卡可通过解放1只上级召唤的怪兽来上级召唤。①：此卡上级召唤的情况下，以场上的1只怪兽为对象发动。将该怪兽破坏。破坏的怪兽是光属性的情况下，以其原本的等级・阶级数为上限，双方尽可能地各从自身额外牌组将卡送至墓地（此卡解放了光属性怪兽来上级召唤的情况下，要送至墓地的对手的卡由自己来挑选）。
 card_type: Monster
 monster_type_line: Thunder / Effect
 attribute: LIGHT
@@ -173,6 +170,11 @@ sets:
     set_name: The New Challengers
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 25BZ-SC237
+    set_name: Doom of Dimensions Patchwork Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

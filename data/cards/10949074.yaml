@@ -37,8 +37,14 @@ series:
 - Anotherverse
 images:
 - index: 1
-  image: AnotherverseStratios-25YC-JP-SR.png
+  image: AnotherverseStratios-25YC-EN-UR-LE.png
 sets:
+  en:
+  - set_number: 25YC-EN001
+    set_name: Yu-Gi-Oh! Championship Series 2025 prize cards
+    rarities:
+    - Super Rare
+    - Ultra Rare
   ja:
   - set_number: 25YC-JP001
     set_name: Yu-Gi-Oh! Championship Series Japan 2025 prize cards
@@ -54,13 +60,29 @@ sets:
     set_name: 3x3 Japan Championship 2025 Finals prize cards
     rarities:
     - Ultra Rare
+  ko:
+  - set_number: 25YC-KR001
+    set_name: Yu-Gi-Oh! World Championship 2025 Korea Qualifiers Finals prize card
+    rarities:
+    - Super Rare
+    - Ultra Rare
   zh-CN:
   - set_number: 25YC-SC001
     set_name: Challenger Cup 2025 Finals prize card
     rarities:
     - Super Rare
     - Ultra Rare
+  - set_number: 25YC-SC001
+    set_name: Yu-Gi-Oh! World Championship 2025 Mainland China Qualifiers Finals prize card
+    rarities:
+    - Super Rare
+    - Ultra Rare
+  - set_number: 25YC-SC001
+    set_name: Yu-Gi-Oh! Championship Series China 2025 prize cards
+    rarities:
+    - Super Rare
+    - Ultra Rare
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1117806
