@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>精<rt>せい</rt></ruby><ruby>神<rt>しん</rt></ruby><ruby>操<rt>そう</rt></ruby><ruby>作<rt>さ</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 정신조작
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     マキシマムモードではない相手フィールドのモンスター１体を選んでそのコントロールをエンドフェイズまで得る（コントロールが戻る時に戻せるモンスターゾーンがない場合、そのモンスターは墓地へ送られる）。このターン、そのモンスターは攻撃できず、アドバンス召喚のためにはリリースできない。
-  ko:
+  ko: |-
+    맥시멈 모드가 아닌 상대 필드의 몬스터 1장을 고르고 그 컨트롤을 엔드 페이즈까지 얻는다(컨트롤이 되돌아갈 때에 되돌릴 몬스터 존이 없을 경우, 그 몬스터는 묘지로 보내진다). 이 턴에, 그 몬스터는 공격할 수 없으며, 어드밴스 소환을 위해서는 릴리스할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -47,6 +49,11 @@ images:
 sets:
   ja:
   - set_number: RD/SD0E-JP029
+    set_name: 'Structure Deck: Black Magic Ritual'
+    rarities:
+    - Normal Parallel Rare
+  ko:
+  - set_number: RD/SD0E-KR029
     set_name: 'Structure Deck: Black Magic Ritual'
     rarities:
     - Normal Parallel Rare

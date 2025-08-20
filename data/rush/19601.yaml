@@ -23,7 +23,7 @@ requirement:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、自分の墓地に魔法カードが３枚以上ある場合に発動できる。
   ko: |-
-    자신 묘지에 마법 카드가 3장 이상 있을 경우, 상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 자신 묘지에 마법 카드가 3장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -60,6 +60,10 @@ sets:
   ko:
   - set_number: RD/MRP2-KR088
     set_name: Megaroad Pack 2
+    rarities:
+    - Common
+  - set_number: RD/SD0E-KR043
+    set_name: 'Structure Deck: Black Magic Ritual'
     rarities:
     - Common
 is_translation_unofficial:

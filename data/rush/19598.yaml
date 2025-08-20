@@ -37,7 +37,7 @@ effect:
   ja: |-
     自分の手札・墓地の、モンスター（闇属性／魔法使い族／攻撃力２５００）とモンスター（闇属性／魔法使い族／攻撃力２０００）をそれぞれ１体まで選び、自分フィールドに表側表示で特殊召喚する。
   ko: |-
-    자신의 패 또는 자신 묘지의, 몬스터(어둠 속성 / 마법사족 / 공격력 2500)와 몬스터(어둠 속성 / 마법사족 / 공격력 2000)를 각각 1장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
+    자신의 패 / 묘지의, 몬스터(어둠 속성 / 마법사족 / 공격력 2500)와 몬스터(어둠 속성 / 마법사족 / 공격력 2000)를 각각 1장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -62,6 +62,10 @@ sets:
     set_name: Megaroad Pack 2
     rarities:
     - Super Rare
+  - set_number: RD/SD0E-KR033
+    set_name: 'Structure Deck: Black Magic Ritual'
+    rarities:
+    - Normal Parallel Rare
 is_translation_unofficial:
   name:
     en: true

@@ -8,7 +8,7 @@ name:
   pt:
   ja: セレモニアル・ソーサラー
   ja_romaji: Seremoniaru Sōsarā
-  ko:
+  ko: 세레모니얼 소서러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示のリチュアルモンスター（レベル８／魔法使い族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 리추얼 몬스터(레벨 8 / 마법사족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -57,6 +59,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0E-JPS02
+    set_name: 'Structure Deck: Black Magic Ritual'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0E-KR002
+    set_name: 'Structure Deck: Black Magic Ritual'
+    rarities:
+    - Common
+  - set_number: RD/SD0E-KRS02
     set_name: 'Structure Deck: Black Magic Ritual'
     rarities:
     - Super Rare
