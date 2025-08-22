@@ -34,7 +34,7 @@ text:
     Uma vez por turno: você pode desassociar 1 matéria deste card e, depois, escolha 1 monstro que seu oponente controla; tome o controle desse monstro. Este card não pode atacar no turno em que este efeito for ativado.
   ja: |-
     レベル７モンスター×２
-    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、相手フィールドのモンスター１体を対象として発動できる。そのモンスターのコントロールを得る。この効果を発動するターン、このカードは攻撃できない。
+    ①：１ターンに１度、このカードのＸ素材を１つ取り除き、相手フィールドのモンスター１体を対象として発動できる（この効果を発動するターン、このカードは攻撃できない）。そのモンスターのコントロールを得る。
   ko: |-
     레벨 7 몬스터 × 2
     ①: 1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고, 상대 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 컨트롤을 얻는다. 이 효과를 발동하는 턴에, 이 카드는 공격할 수 없다.
@@ -279,6 +279,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  - set_number: DBPR-JP013
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: VB14-KR002
     set_name: The Valuable Book 14 promotional cards
