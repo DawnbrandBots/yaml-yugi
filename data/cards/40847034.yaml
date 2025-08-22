@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21963
+password: 40847034
 name:
   en: Killer Tune Playlist
   de:
@@ -24,7 +24,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに２枚まで発動できる。①：自分のフィールド・墓地の「キラーチューン」モンスター１体を対象として発動できる。以下の効果をそれぞれ適用する。このカードの発動後、ターン終了時まで自分はチューナーしか特殊召喚できない。
+    ●対象のモンスターの、自身がＳ素材として墓地へ送られた場合に発動する効果を適用する。
+    ●対象のモンスターを手札に戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -34,12 +37,14 @@ series:
 - Killer Tune
 images:
 - index: 1
-  image: KillerTunePlaylist-DBPR-JP-OP.png
+  image: KillerTunePlaylist-DBPR-JP-C.png
 sets:
   ja:
   - set_number: DBPR-JP041
     set_name: 'Deck-Build Pack: Phantom Revengers'
     rarities:
+    - Common
+    - Normal Parallel Rare
   zh-CN:
   - set_number: DBPR-SC041
     set_name: 'Deck-Build Pack: Phantom Revengers'

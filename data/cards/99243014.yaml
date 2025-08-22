@@ -27,7 +27,7 @@ text:
   pt: |-
     Revele 1 Monstro Sincro no seu Deck Adicional, selecione 1 das Matérias Sincro mencionadas nele e adicione-a à sua mão ou Invoque esse monstro por Invocação-Especial, do seu Deck ou Cemitério e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional no turno em que ativar este card, exceto Monstros Sincro. Você só pode ativar 1 "Ultrapassagem Sincro" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：ＥＸデッキのＳモンスター１体を相手に見せ、そのモンスターにカード名が記されているＳ素材モンスター１体を自分のデッキ・墓地から選び、手札に加えるか特殊召喚する。このカードを発動するターン、自分はＳモンスターしかＥＸデッキから特殊召喚できない。
+    このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はＳモンスターしかＥＸデッキから特殊召喚できない。①：ＥＸデッキのＳモンスター１体を相手に見せ、そのモンスターにカード名が記されたＳ素材モンスター１体を自分のデッキ・墓地から選び、手札に加えるか特殊召喚する。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 엑스트라 덱의 싱크로 몬스터 1장을 상대에게 보여주고, 그 몬스터에 카드명이 쓰여 있는 싱크로 소재 몬스터 1장을 자신의 덱 / 묘지에서 골라, 패에 넣거나 특수 소환한다. 이 카드를 발동하는 턴에, 자신은 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다.
   zh-TW:
@@ -107,6 +107,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  - set_number: DBPR-JP045
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DAMA-KR067
     set_name: Dawn of Majesty
