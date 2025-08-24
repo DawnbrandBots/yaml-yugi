@@ -139,7 +139,7 @@ jobs:
       - if: steps.commit.outputs.status > 0
         run: cp aggregate/* yaml-yugi/src/web
       - if: steps.commit.outputs.status > 0
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: yaml-yugi/src/web
       - if: steps.commit.outputs.status > 0
