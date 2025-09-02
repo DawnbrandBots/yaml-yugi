@@ -39,6 +39,9 @@ property: Normal
 images:
 - index: 1
   image: CompulsoryEvacuationDevice-RA01-EN-SR-1E.png
+  illustration: CompulsoryEvacuationDevice-MADU-EN-VG-artwork.png
+- index: 2
+  image: CompulsoryEvacuationDevice-LPST-JP-OP.png
 sets:
   en:
   - set_number: SD2-EN028
@@ -720,6 +723,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: LPST-JP043
+    set_name: 'Limited Pack: Stamp Edition'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SD2-KR028
     set_name: 'Structure Deck: Zombie Madness'
