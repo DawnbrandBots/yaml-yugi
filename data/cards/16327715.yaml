@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21907
+password: 16327715
 name:
   en: Junk Warrior Extreme
   de:
@@ -22,7 +22,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「ジャンク・シンクロン」＋チューナー以外のモンスター１体以上
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがＳ召喚した場合に発動できる。自分の墓地からレベル２以下のモンスターを可能な限り特殊召喚し、このターン、そのモンスターの効果は発動できない。この効果の発動後、ターン終了時まで自分は１回しか特殊召喚できない。②：このカードが戦闘で相手モンスターを破壊した時、このカードを除外して発動できる。ＥＸデッキから「ジャンク」Ｓモンスター１体をＳ召喚扱いで特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -38,13 +40,18 @@ series:
 - Warrior
 images:
 - index: 1
-  image: JunkWarriorExtreme-SD48-JP-OP.png
+  image: JunkWarriorExtreme-SD48-JP-UR.png
 sets:
   ja:
   - set_number: SD48-JP032
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Ultra Rare
+  - set_number: SD48-JPP07
+    set_name: 'Structure Deck: Power of Fellows Light of Gathering Stars Pack'
+    rarities:
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

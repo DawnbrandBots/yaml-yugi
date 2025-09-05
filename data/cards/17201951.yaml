@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21901
+password: 17201951
 name:
   en: Fullspeed Warrior
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚した場合に発動できる。「ジャンク・シンクロン」１体または「ジャンク・ウォリアー」のカード名が記された魔法・罠カード１枚をデッキから手札に加える。②：このカードがモンスターゾーンに存在する限り、自分フィールドの以下のモンスターの攻撃力は、自分バトルフェイズの間だけ９００アップする。●「ジャンク・ウォリアー」のカード名が記されたモンスター●元々のカード名に「ウォリアー」を含むＳモンスター
   ko:
   zh-TW:
   zh-CN:
@@ -35,12 +36,19 @@ series:
 - Warrior
 images:
 - index: 1
-  image: FullspeedWarrior-SD48-JP-OP.png
+  image: FullspeedWarrior-SD48-JP-NPR.png
 sets:
   ja:
   - set_number: SD48-JP001
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD48-JPP01
+    set_name: 'Structure Deck: Power of Fellows Light of Gathering Stars Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

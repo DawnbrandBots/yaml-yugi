@@ -27,15 +27,12 @@ text:
   pt: |-
     Se este card que você controla for usado como Matéria Sincro, você pode considerá-lo como um não-Regulador. Você só pode usar cada um dos seguintes efeitos de "Roda Sincron" uma vez por turno. Durante sua Fase Principal, você pode: imediatamente depois que este efeito resolver, Invoque por Invocação-Normal 1 monstro de Nível 4 ou menos e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Sincro. Você pode banir este card do seu Cemitério e, depois, escolha 1 Monstro Sincro que você controla; reduza o Nível dele em até 4.
   ja: |-
-    このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのこのカードをＳ素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。②：自分メインフェイズに発動できる。レベル４以下のモンスター１体の召喚を行う。このターン、自分はＳモンスターしかＥＸデッキから特殊召喚できない。③：墓地のこのカードを除外し、自分フィールドのＳモンスター１体を対象として発動できる。そのモンスターのレベルを４つまで下げる。
+    このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのこのカードをＳ素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。②：自分メインフェイズに発動できる。レベル４以下のモンスター１体の召喚を行う。この効果の発動後、ターン終了時まで自分はＳモンスターしかＥＸデッキから特殊召喚できない。③：墓地のこのカードを除外し、自分フィールドのＳモンスター１体を対象として発動できる。そのモンスターのレベルを４つまで下げる。
   ko: |-
     이 카드명의 ②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 이 카드를 싱크로 소재로 할 경우, 이 카드를 튜너 이외의 몬스터로 취급할 수 있다. ②: 자신 메인 페이즈에 발동할 수 있다. 레벨 4 이하의 몬스터 1장의 일반 소환을 실행한다. 이 턴에, 자신은 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. ③: 묘지의 이 카드를 제외하고, 자신 필드의 싱크로 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 레벨을 4개까지 내린다.
   zh-TW:
   zh-CN: |-
-    此卡名的②③效果１回合仅可各使用１次。
-    ①：以自己场上的此卡作为同步素材的情况下，可将此卡视为协调以外的怪兽。
-    ②：在自己的主要阶段可以发动。进行等级４以下的１只怪兽的召唤。此回合，自己从额外牌组仅可特殊召唤同步怪兽。
-    ③：将墓地的此卡除外，以自己场上的１只同步怪兽为对象可以发动。该怪兽的等级下降最多４。
+    此卡名的②③效果１回合仅可各使用１次。①：以自己场上的此卡作为同步素材的情况下，可将此卡视为协调以外的怪兽。②：在自己的主要阶段可以发动。进行等级４以下的１只怪兽的召唤。此回合，自己从额外牌组仅可特殊召唤同步怪兽。③：将墓地的此卡除外，以自己场上的１只同步怪兽为对象可以发动。该怪兽的等级下降最多４。
 card_type: Monster
 monster_type_line: Machine / Tuner / Effect
 attribute: LIGHT
@@ -106,6 +103,10 @@ sets:
   ja:
   - set_number: DUNE-JP001
     set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: SD48-JP008
+    set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
   ko:

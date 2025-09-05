@@ -27,7 +27,7 @@ text:
   pt: |-
     Adicione 1 Regulador "Restolhos" do seu Deck à sua mão.
   ja: |-
-    自分のデッキから「スクラップ」と名のついたチューナー１体を手札に加える。
+    ①：デッキから「スクラップ」チューナー１体を手札に加える。
   ko: |-
     자신의 덱에서 "스크랩"이라는 이름이 붙은 튜너 1장을 패에 넣는다.
   zh-TW:
@@ -74,6 +74,10 @@ sets:
   ja:
   - set_number: DREV-JP047
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  - set_number: SD48-JP026
+    set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
   ko:

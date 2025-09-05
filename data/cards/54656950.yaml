@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21902
+password: 54656950
 name:
   en: Anchorbolt Hedgehog
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の効果は１ターンに１度しか使用できない。①：自分・相手ターンに、このカードが墓地に存在し、「アンカーボルト・ヘッジホッグ」を除く、「ジャンク・ウォリアー」またはそのカード名が記されたモンスターが自分フィールドに存在する場合に発動できる。このカードを守備表示で特殊召喚する。この効果の発動後、ターン終了時まで自分はＳモンスターしかＥＸデッキから特殊召喚できない。
   ko:
   zh-TW:
   zh-CN:
@@ -33,12 +34,18 @@ atk: 800
 def: 800
 images:
 - index: 1
-  image: AnchorboltHedgehog-SD48-JP-OP.png
+  image: AnchorboltHedgehog-SD48-JP-NPR.png
 sets:
   ja:
   - set_number: SD48-JP002
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD48-JPP02
+    set_name: 'Structure Deck: Power of Fellows Light of Gathering Stars Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

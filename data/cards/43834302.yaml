@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21905
+password: 43834302
 name:
   en: Synchro Fellows
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：デッキから以下のモンスターを１体ずつ手札に加える。その後、自分の手札を１枚選んで捨てる。●「ジャンク・シンクロン」●「ジャンク・ウォリアー」「スターダスト・ドラゴン」のいずれかのカード名が記されたモンスター②：墓地のこのカードを除外し、自分フィールドのＳモンスター１体を対象として発動できる。そのモンスターのレベルを１つ下げる。さらにこのターン、自分は通常召喚に加えて１度だけ、自分メインフェイズに「シンクロン」モンスター１体を召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,12 +33,19 @@ series:
 - Rose
 images:
 - index: 1
-  image: SynchroFellows-SD48-JP-OP.png
+  image: SynchroFellows-SD48-JP-NPR.png
 sets:
   ja:
   - set_number: SD48-JP005
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
+    - Normal Parallel Rare
+  - set_number: SD48-JPP05
+    set_name: 'Structure Deck: Power of Fellows Light of Gathering Stars Pack'
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
