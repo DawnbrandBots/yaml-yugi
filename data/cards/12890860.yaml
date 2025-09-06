@@ -45,11 +45,15 @@ def: 2800
 materials: 1 LIGHT monster + 2 monsters, except on the field or in the GY
 images:
 - index: 1
-  image: DenialDeityDotan-ROTA-EN-C-1E.png
+  image: DenialDeityDotan-MP25-EN-C-1E.png
 sets:
   en:
   - set_number: ROTA-EN087
     set_name: Rage of the Abyss
+    rarities:
+    - Common
+  - set_number: MP25-EN432
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
   de:
@@ -57,9 +61,17 @@ sets:
     set_name: Rage of the Abyss
     rarities:
     - Common
+  - set_number: MP25-DE432
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   es:
   - set_number: ROTA-SP087
     set_name: Rage of the Abyss
+    rarities:
+    - Common
+  - set_number: MP25-SP432
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
   fr:
@@ -67,14 +79,26 @@ sets:
     set_name: Rage of the Abyss
     rarities:
     - Common
+  - set_number: MP25-FR432
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   it:
   - set_number: ROTA-IT087
     set_name: Rage of the Abyss
     rarities:
     - Common
+  - set_number: MP25-IT432
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   pt:
   - set_number: ROTA-PT087
     set_name: Rage of the Abyss
+    rarities:
+    - Common
+  - set_number: MP25-PT432
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
 limit_regulation:

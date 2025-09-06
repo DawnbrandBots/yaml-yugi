@@ -53,11 +53,15 @@ def: 400
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: FishLamp-PHNI-EN-C-1E.png
+  image: FishLamp-MP25-EN-C-1E.png
 sets:
   en:
   - set_number: PHNI-EN044
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  - set_number: MP25-EN314
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
   de:
@@ -65,9 +69,17 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Common
+  - set_number: MP25-DE314
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   es:
   - set_number: PHNI-SP044
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  - set_number: MP25-SP314
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
   fr:
@@ -75,14 +87,26 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Common
+  - set_number: MP25-FR314
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   it:
   - set_number: PHNI-IT044
     set_name: Phantom Nightmare
     rarities:
     - Common
+  - set_number: MP25-IT314
+    set_name: 2025 Mega-Pack Tin
+    rarities:
+    - Common
   pt:
   - set_number: PHNI-PT044
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  - set_number: MP25-PT314
+    set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
   ja:
