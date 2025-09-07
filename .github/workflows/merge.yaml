@@ -105,7 +105,7 @@ jobs:
           sed -s '1i---' data/rush/*.yaml > ../aggregate/rush.yaml
 
       - if: steps.commit.outputs.status > 0
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version-file: yaml-yugi/.node-version
           cache: yarn
