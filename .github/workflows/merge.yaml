@@ -36,7 +36,7 @@ jobs:
         with:
           repository: db-ygoresources-com/yugioh-card-history
           path: yugioh-card-history
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
