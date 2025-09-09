@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>Ｐ・Ｍ<rt>プラズマティックモデル</rt></ruby> ソニックホース
   ja_romaji: Purazumatikku Moderu Sonikku Hōsu
-  ko:
+  ko: P·M 소닉호스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「Ｐ・Ｍ レノアール」「Ｐ・Ｍ ドッキング」をそれぞれ１枚まで選んで手札に加える。このターン、自分はモンスター（雷族以外）で攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 "P·M(플라즈마틱모델) 레누아르" "P·M(플라즈마틱모델) 도킹"을 각각 1장까지 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(번개족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP018
+    set_name: Accel Road of the Attack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP21-KR018
     set_name: Accel Road of the Attack
     rarities:
     - Common

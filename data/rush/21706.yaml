@@ -8,7 +8,7 @@ name:
   pt:
   ja: フラッシュメモリー・フュージョン
   ja_romaji: Furasshu Memorī Fyūjon
-  ko:
+  ko: 플래시메모리 퓨전
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドのモンスターが相手の攻撃または相手の効果で破壊された時に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 몬스터가 상대의 공격 또는 상대의 효과로 파괴되었을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスターを素材としてデッキに戻し、「碧牙の爆速竜」または「真紅動の撃速竜」のカード名が素材として記されたモンスターをフュージョン召喚する。自分ターンにこのカードを発動した場合、さらに相手は自身の墓地からモンスター１体を選んで自身のフィールドに表側攻撃表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터를 소재로서 덱으로 되돌리고, "블루 투스 버스트드래곤" 또는 "레드부트 부스트드래곤"의 카드명이 소재로서 쓰여진 몬스터를 퓨전 소환한다. 자신 턴에 이 카드를 발동했을 경우, 추가로 상대는 자신의 묘지에서 몬스터 1장을 고르고 자신 필드에 앞면 공격 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP062
+    set_name: Accel Road of the Attack
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP21-KR062
     set_name: Accel Road of the Attack
     rarities:
     - Rare

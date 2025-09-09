@@ -8,7 +8,7 @@ name:
   pt:
   ja: アクセルワンダー・ダーク
   ja_romaji: Akuseru Wandā Dāku
-  ko:
+  ko: 액셀원더 다크
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     ＥＸデッキのフュージョンモンスター（闇属性／魔法使い族／守備力２１００）１体を相手に見せ、そのモンスターに素材として記されたカード名を１つ宣言して発動できる。
-  ko:
+  ko: |-
+    엑스트라 덱의 퓨전 몬스터(어둠 속성 / 마법사족 / 수비력 2100) 1장을 상대에게 보여주고, 그 몬스터에 소재로서 쓰여진 카드명을 1개 선언하여 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、この効果の条件で宣言したカード名になる。このターン、自分はモンスター（魔法使い族以外）で攻撃できない。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, 이 효과의 조건으로 선언한 카드명이 된다. 이 턴에, 자신은 몬스터(마법사족 이외)로 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP005
+    set_name: Accel Road of the Attack
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP21-KR005
     set_name: Accel Road of the Attack
     rarities:
     - Rare

@@ -8,7 +8,7 @@ name:
   pt:
   ja: トリガード・ライトニング
   ja_romaji: Torigādo Raitoningu
-  ko:
+  ko: 트리거드 라이트닝
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示の効果モンスター１体を選ぶ。このターン、そのモンスターの攻撃力は３００アップし、その攻撃は貫通する。お互いの手札が０枚の場合、自分の墓地から「雷闘騎トリガードラゴ」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 효과 몬스터 1장을 고른다. 이 턴에, 그 몬스터의 공격력은 300 올리고, 그 공격은 관통한다. 서로의 패가 0장일 경우, 자신 묘지에서 "뇌투기 트리거드라고" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP060
+    set_name: Accel Road of the Attack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP21-KR060
     set_name: Accel Road of the Attack
     rarities:
     - Ultra Rare

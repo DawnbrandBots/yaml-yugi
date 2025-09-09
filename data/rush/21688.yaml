@@ -8,7 +8,7 @@ name:
   pt:
   ja: ハーピィ・レディ<ruby>３<rt>スリー</rt></ruby>・<ruby>１<rt>ワン</rt></ruby>
   ja_romaji: Hāpyi Redi Surī Wan
-  ko:
+  ko: 해피 레이디3·1
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはコンタクトフュージョンできる。
-  ko:
+  ko: |-
+    이 카드는 콘택트 퓨전할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「ハーピィ・レディ」になる。次の相手ターン、相手は２回までしか攻撃宣言できない。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "해피 레이디"가 된다. 다음 상대 턴에, 상대는 2회까지밖에 공격 선언할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -67,7 +70,8 @@ materials:
   pt:
   ja: |-
     「ハーピィ・レディ３」＋モンスター（レベル４以下／鳥獣族）
-  ko:
+  ko: |-
+    "해피 레이디3" ＋ 몬스터(레벨 4 이하 / 비행야수족)
   zh-TW:
   zh-CN:
 series:
@@ -86,6 +90,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  ko:
+  - set_number: RD/KP21-KR044
+    set_name: Accel Road of the Attack
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

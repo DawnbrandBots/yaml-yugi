@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>壊<rt>かい</rt></ruby><ruby>兵<rt>へい</rt></ruby>ポッカ
   ja_romaji: Genkaihei Pokka
-  ko:
+  ko: 환괴병 폿카
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「幻壊兵ニッカ」がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시의 "환괴병 닛카"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その中にモンスター（炎属性／幻竜族）がいた場合、さらに自分の墓地のフィールド魔法カードと装備魔法カードをそれぞれ１枚まで選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 중에 몬스터(화염 속성 / 환룡족)가 있었을 경우, 추가로 자신 묘지의 필드 마법 카드와 장착 마법 카드를 각각 1장까지 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP015
+    set_name: Accel Road of the Attack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP21-KR015
     set_name: Accel Road of the Attack
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: マジカル・パニッシャー
   ja_romaji: Majikaru Panisshā
-  ko:
+  ko: 매지컬 퍼니셔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の「セブンスロード・ウィッチ」または「マスター・オブ・セブンスロード」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 "세븐즈로드 위치" 또는 "마스터 오브 세븐즈로드" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP002
+    set_name: Accel Road of the Attack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP21-KR002
     set_name: Accel Road of the Attack
     rarities:
     - Common

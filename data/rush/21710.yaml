@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>黒<rt>くろ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>族<rt>ぞく</rt></ruby><ruby>復<rt>ふっ</rt></ruby><ruby>活<rt>かつ</rt></ruby>の<ruby>棺<rt>ひつぎ</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 흑마족 부활의 관
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスター（レベル８以下）を表側表示で召喚・特殊召喚した時、自分フィールドの表側表示モンスター（魔法使い族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터(레벨 8 이하)를 앞면 표시로 일반 소환 / 특수 소환했을 때, 자신 필드의 앞면 표시 몬스터(마법사족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     その召喚・特殊召喚されたモンスター１体を選んで破壊する。その後、自分の墓地のモンスター（レベル７以下／闇属性／魔法使い族）１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    그 일반 소환 / 특수 소환된 몬스터 1장을 고르고 파괴한다. 그 후, 자신 묘지의 몬스터(레벨 7 이하 / 어둠 속성 / 마법사족) 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP066
+    set_name: Accel Road of the Attack
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP21-KR066
     set_name: Accel Road of the Attack
     rarities:
     - Super Rare

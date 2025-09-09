@@ -8,7 +8,7 @@ name:
   pt:
   ja: ストライク・タマーボーリング
   ja_romaji: Sutoraiku Tamābōringu
-  ko:
+  ko: 스트라이크 타마아볼링
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示の「タマボット」１体と相手フィールドの表側表示モンスター（攻撃力１００以上）１体を選ぶ。このターン、選んだ自分のモンスターの攻撃力は［選んだ相手モンスターの攻撃力］だけアップし、その攻撃は貫通する。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 "타마봇" 1장과 상대 필드의 앞면 표시 몬스터(공격력 100 이상) 1장을 고른다. 이 턴에, 고른 자신 몬스터의 공격력은 [고른 상대 몬스터의 공격력]만큼 올리고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP21-JP051
+    set_name: Accel Road of the Attack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP21-KR051
     set_name: Accel Road of the Attack
     rarities:
     - Common
