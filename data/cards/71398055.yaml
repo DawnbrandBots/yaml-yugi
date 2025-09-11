@@ -1,7 +1,7 @@
 konami_id: 21801
 password: 71398055
 name:
-  en: D/D/D/D Great Dimension King Arc Crisis
+  en: D/D/D/D Dimensional King Arc Crisis
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     4 Fiend monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)
-    Must be either Fusion Summoned, or Special Summoned (from your face-down Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon "D/D/D/D Great Dimension King Arc Crisis" once per turn this way, no matter which method you use. If this card is Special Summoned: You can negate the effects of all face-up monsters your opponent currently controls. Can attack all monsters your opponent controls once each. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
+    Must be either Fusion Summoned, or Special Summoned (from your face-down Extra Deck) by banishing the above cards from your field and/or GY. You can only Special Summon "D/D/D/D Dimensional King Arc Crisis" once per turn this way, no matter which method you use. If this card is Special Summoned: You can negate the effects of all face-up monsters your opponent currently controls. Can attack all your opponent's monsters, once each. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
   de:
   es:
   fr:
@@ -39,7 +39,7 @@ def: 4000
 pendulum_scale: 13
 pendulum_effect:
   en: |-
-    You can target any number of "Dark Contract" cards you control; destroy them, then you can Special Summon up to that many "Doom King" Pendulum Monsters from your Deck and/or Extra Deck. You can only use this effect of "D/D/D/D Great Dimension King Arc Crisis" once per turn.
+    You can target any number of "Dark Contract" cards you control; destroy them, then you can Special Summon up to that many "Doom King" Pendulum Monsters from your Deck and/or Extra Deck. You can only use this effect of "D/D/D/D Dimensional King Arc Crisis" once per turn.
   de:
   es:
   fr:
@@ -57,8 +57,38 @@ series:
 - D/D/D
 images:
 - index: 1
-  image: DDDDGreatDimensionKingArcCrisis-DOOD-JP-UR.png
+  image: DDDDDimensionalKingArcCrisis-DOOD-JP-UR.png
 sets:
+  en:
+  - set_number: DOOD-EN035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: DOOD-DE035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: DOOD-SP035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: DOOD-FR035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: DOOD-IT035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: DOOD-PT035
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DOOD-JP035
     set_name: Doom of Dimensions
@@ -74,9 +104,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1127276
