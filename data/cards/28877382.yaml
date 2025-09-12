@@ -1,7 +1,7 @@
 konami_id: 21775
 password: 28877382
 name:
-  en: Doom-Z Five - Amalthe
+  en: DoomZ V Five - Amalthe
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 终刻龙机Ⅴ－阿玛耳忒
 text:
   en: |-
-    If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 "Doom-Z" monster from your Deck to your hand, except "Doom-Z Five - Amalthe". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card, also all cards equipped to it, to that monster. You can only use each effect of "Doom-Z Five - Amalthe" once per turn.
+    If this card is Normal or Special Summoned, or destroyed by card effect: You can add 1 "DoomZ" monster from your Deck to your hand, except "DoomZ V Five - Amalthe". While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of "DoomZ V Five - Amalthe" once per turn.
   de:
   es:
   fr:
@@ -34,11 +34,41 @@ level: 4
 atk: 1600
 def: 1200
 series:
-- Doom-Z
+- DoomZ
 images:
 - index: 1
-  image: DoomZFiveAmalthe-DOOD-JP-C.png
+  image: DoomZVFiveAmalthe-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: DOOD-DE009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: DOOD-SP009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: DOOD-FR009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: DOOD-IT009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: DOOD-PT009
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DOOD-JP009
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1135261

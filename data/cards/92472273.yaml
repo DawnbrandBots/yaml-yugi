@@ -1,7 +1,7 @@
 konami_id: 21774
 password: 92472273
 name:
-  en: Doom-Z Zero - Drastia
+  en: DoomZ XII Zero - Drastea
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 终刻龙机ⅩⅡ－德拉斯提亚
 text:
   en: |-
-    You can target 1 "Doom-Z" card you control; destroy it, and if you do, Special Summon this card from your hand, then you can equip 1 Equip Spell from your Deck to it. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with a Rank equal to this card's Level (this is treated as an Xyz Summon), and if you do, attach this card, also all cards equipped to it, to that monster. You can only use each effect of "Doom-Z Zero - Drastia" once per turn.
+    You can target 1 "DoomZ" card you control; destroy it, and if you do, Special Summon this card from your hand, then you can equip 1 Equip Spell from your Deck to it. While this card is equipped with an Equip Card (Quick Effect): You can Special Summon 1 WIND Machine Xyz Monster from your Extra Deck with the same Rank as this card's Level, and if you do, attach this card and its Equip Cards to that monster as material (this is treated as an Xyz Summon). You can only use each effect of "DoomZ XII Zero - Drastea" once per turn.
   de:
   es:
   fr:
@@ -34,11 +34,41 @@ level: 8
 atk: 2400
 def: 1500
 series:
-- Doom-Z
+- DoomZ
 images:
 - index: 1
-  image: DoomZZeroDrastia-DOOD-JP-SR.png
+  image: DoomZXIIZeroDrastea-DOOD-JP-SR.png
 sets:
+  en:
+  - set_number: DOOD-EN008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: DOOD-DE008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: DOOD-SP008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: DOOD-FR008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: DOOD-IT008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: DOOD-PT008
+    set_name: Doom of Dimensions
+    rarities:
+    - Secret Rare
   ja:
   - set_number: DOOD-JP008
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1135259
