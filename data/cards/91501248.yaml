@@ -70,11 +70,11 @@ text:
     ●상대의 패를 확인하고, 그 중에서 카드 1장을 골라 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    「禁忌之壶」的效果1回合只能使用1次。①：这张卡反转的场合，可以从以下效果选择1个发动。
-    ●自己从卡组抽2张。
-    ●场上的魔法·陷阱卡全部回到持有者手卡。
-    ●对方场上的怪兽全部破坏。
-    ●把对方手卡确认，从那之中选1张卡回到持有者卡组。
+    此卡名的效果1回合仅可使用1次。①：此卡反转的情况下，可从以下效果中选择1个发动。
+    ●自己抽2张。
+    ●将场上的魔法・陷阱卡全部放回手牌。
+    ●将对手场上的怪兽全部破坏。
+    ●确认对手的手牌，挑选其中1张放回牌组。
 card_type: Monster
 monster_type_line: Rock / Flip / Effect
 attribute: EARTH
@@ -154,6 +154,12 @@ sets:
     set_name: Dimension of Chaos
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: DBPR-SC027
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

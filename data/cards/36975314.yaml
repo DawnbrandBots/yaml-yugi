@@ -32,7 +32,7 @@ text:
     ①: 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 이 카드를 발동할 수 있다. 그 몬스터의 컨트롤을 얻는다. 그 몬스터는 자신 필드에 존재할 경우, 공격할 수 없으며 효과를 발동할 수 없다. 그 몬스터가 필드에서 벗어났을 때에 이 카드는 파괴된다.
   zh-TW:
   zh-CN: |-
-    ①：可以对手场上的1只表侧表示怪兽为对象发动此卡。获得该怪兽的控制权。该怪兽存在于自己场上的情况下，不可攻击，不可发动效果。该怪兽从场上离开时将此卡破坏。
+    ①：以对手场上的1只表侧表示怪兽为对象可以发动此卡。获得该怪兽的控制权。该怪兽存在于自己场上的情况下，不可攻击，不可发动效果。该怪兽从场上离开时此卡将被破坏。
 card_type: Trap
 property: Continuous
 images:
@@ -163,6 +163,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Extra Secret Rare
+  - set_number: DBPR-SC015
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

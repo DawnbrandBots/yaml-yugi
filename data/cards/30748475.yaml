@@ -32,7 +32,7 @@ text:
     ①: 필드의 몬스터를 전부 뒷면 수비 표시로 한다. 그 후, 필드에 앞면 표시로 몬스터가 존재할 경우, 그 컨트롤러는 자신 필드의 앞면 표시 몬스터를 전부 묘지로 보내야 한다.
   zh-TW:
   zh-CN: |-
-    ①：将场上的怪兽全部改成里侧守备表示。然后，有怪兽以表侧表示存在于场上的情况下，其控制者必须将自身场上表侧表示的怪兽全部送至墓地。
+    ①：将场上的怪兽全部改成里侧守备表示。然后，场上存在表侧表示怪兽的情况下，其控制者必须将自身场上的表侧表示怪兽全部送至墓地。
 card_type: Trap
 property: Normal
 images:
@@ -177,6 +177,11 @@ sets:
     set_name: 'Hundred Battles Deck: Glamour of Traptrix Deck Enhancement Pack'
     rarities:
     - Secret Rare
+  - set_number: DBPR-SC030
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
