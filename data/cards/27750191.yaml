@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 자신의 패 / 묘지에서 튜너 1장을 고르고 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡召唤成功时才能发动。从自己的手卡·墓地选1只调整特殊召唤。这个效果特殊召唤的怪兽的效果无效化。
+    ①：此卡召唤时可以发动。从自己手牌・墓地将1只协调特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Beast / Tuner / Effect
 attribute: EARTH
@@ -107,6 +107,12 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Common
+  zh-CN:
+  - set_number: DBPR-SC049
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

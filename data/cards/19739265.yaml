@@ -54,9 +54,9 @@ text:
     ●뒷면 표시: 앞면 수비 표시로 한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的卡1回合只能发动1张。①：可以以自己以及对手场上的怪兽各1只为对象发动。根据那些怪兽的表示形式各自适用以下的效果。
-    ●表侧表示：那只怪兽变为里侧守备表示。
-    ●里侧表示：那只怪兽变为表侧守备表示。
+    此卡名的卡1回合仅可发动1张。①：以自己及对手场上各1只怪兽为对象可以发动。根据其表示形式，对该怪兽分别适用以下效果。
+    ●表侧表示：改成里侧守备表示。
+    ●里侧表示：改成表侧守备表示。
 card_type: Spell
 property: Quick-Play
 images:
@@ -167,6 +167,12 @@ sets:
     set_name: World Premiere Pack 2022
     rarities:
     - Common
+  zh-CN:
+  - set_number: DBPR-SC057
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

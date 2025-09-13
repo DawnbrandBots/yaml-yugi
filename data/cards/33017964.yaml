@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21754
+password: 33017964
 name:
   en: Illusion Gate
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の効果はデュエル中に１度しか適用できない。①：ＬＰを半分払って発動できる。相手フィールドのモンスターを全て破壊する。その後、相手の墓地からモンスター１体を召喚条件を無視して自分フィールドに特殊召喚できる。
   ko:
   zh-TW:
   zh-CN:
@@ -31,17 +32,18 @@ series:
 - Phantasm
 images:
 - index: 1
-  image: IllusionGate-LPG1-JP-OP.png
+  image: IllusionGate-LPG1-JP-UR.png
 sets:
   ja:
   - set_number: LPG1-JP005
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+    - Secret Rare
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   text:
     en: true

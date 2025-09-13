@@ -32,7 +32,7 @@ text:
     이 카드를 패에서 묘지에 버리고 발동한다. 상대의 묘지에 존재하는 빛 속성 몬스터를 2장까지 선택하고, 게임에서 제외한다. 이 효과는 상태 턴에도 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    把这张卡从手卡丢弃去墓地才能发动。选择对方墓地最多2只光属性怪兽从游戏中除外。这个效果在对方回合也能发动。
+    ①：在自己・对手回合中，从手牌将此卡舍弃至墓地，以对手墓地最多2只光属性怪兽为对象可以发动。将该光属性怪兽除外。
 card_type: Monster
 monster_type_line: Machine / Tuner / Effect
 attribute: DARK
@@ -167,6 +167,12 @@ sets:
     set_name: Hidden Arsenal 3
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: DBPR-SC046
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

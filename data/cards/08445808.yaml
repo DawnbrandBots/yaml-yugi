@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 21750
+password: 8445808
 name:
   en: Maiden in Love
   de:
@@ -23,7 +23,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：このカードがモンスターゾーンに存在する限り、攻撃可能な相手モンスターはこのカードを攻撃しなければならない。②：このカードは戦闘では破壊されない。③：このカードが相手モンスターと戦闘を行ったダメージステップ終了時、以下の効果から１つを選択して発動できる。
+    ●相手フィールドの表側表示モンスター１体に乙女カウンターを１つ置く。
+    ●乙女カウンターが置かれている相手モンスター１体のコントロールを得る。
   ko:
   zh-TW:
   zh-CN:
@@ -35,16 +38,18 @@ atk: 400
 def: 300
 images:
 - index: 1
-  image: MaideninLove-LPG1-JP-OP.png
+  image: MaideninLove-LPG1-JP-UR.png
 sets:
   ja:
   - set_number: LPG1-JP001
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   text:
     en: true

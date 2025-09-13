@@ -32,7 +32,7 @@ text:
     ①: 양쪽의 플레이어는, 각각 덱에서 1장 드로우한다. 다음 상대 턴 종료시까지, 서로가 받는 모든 데미지는 0 이 된다.
   zh-TW:
   zh-CN: |-
-    ①：双方玩家各自从卡组抽1张。直到下次的对方回合结束时，双方受到的全部伤害变成0。
+    ①：双方各抽1张。直至下个对手回合结束时为止，双方受到的所有伤害变为0。
 card_type: Spell
 property: Normal
 images:
@@ -106,6 +106,12 @@ sets:
     - Common
   - set_number: DBSW-KR044
     set_name: 'Deck-Build Pack: Spirit Warriors'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: DBPR-SC054
+    set_name: 'Deck-Build Pack: Phantom Revengers'
     rarities:
     - Common
     - Normal Parallel Rare
