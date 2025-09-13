@@ -33,8 +33,8 @@ text:
     "Aviário, o HERÓI do Elemento" + "Sparkman, o HERÓI do Elemento" + "Homem Bolha, o HERÓI do Elemento"
     Deve ser Invocado por Invocação-Fusão. Você pode enviar 1 outro card que você controla para o Cemitério e, depois, escolha 1 monstro que você controla; enquanto este card estiver com a face para cima no campo, esse monstro não pode ser destruído em batalha.
   ja: |-
-    「<ruby>Ｅ・ＨＥＲＯ<rt>エレメンタルヒーロー</rt></ruby> フェザーマン」＋「<ruby>Ｅ・ＨＥＲＯ<rt>エレメンタルヒーロー</rt></ruby> スパークマン」＋「<ruby>Ｅ・ＨＥＲＯ<rt>エレメンタルヒーロー</rt></ruby> バブルマン」
-    このモンスターは融合召喚でしか特殊召喚できない。このカード以外の自分フィールド上のカード１枚を墓地に送り、自分フィールド上のモンスター１体を選択する。このカードがフィールド上に表側表示で存在する限り、選択したモンスターは戦闘によっては破壊されない。(ダメージ計算は適用する)
+    「Ｅ・ＨＥＲＯ フェザーマン」＋「Ｅ・ＨＥＲＯ スパークマン」＋「Ｅ・ＨＥＲＯ バブルマン」
+    このカードは融合召喚でしか特殊召喚できない。①：自分フィールドの他のカード１枚を墓地へ送り、自分フィールドのモンスター１体を対象として発動できる。このカードが表側表示で存在する間、そのモンスターは戦闘では破壊されない。
   ko: |-
     "엘리멘틀 히어로 페더맨" ＋ "엘리멘틀 히어로 스파크맨" ＋ "엘리멘틀 히어로 버블맨"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드 이외의 자신 필드 위의 카드 1장을 묘지로 보내고, 자신 필드 위의 몬스터 1장을 선택한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택한 몬스터는 전투에 의해서는 파괴되지 않는다(데미지 계산은 적용한다).
@@ -147,6 +147,10 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Super Rare
+  - set_number: LPG1-JP043
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EEN-KR034
     set_name: Elemental Energy

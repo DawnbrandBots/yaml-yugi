@@ -27,7 +27,7 @@ text:
   pt: |-
     Antes do cáculo de dano, se este card atacar um monstro em Posição de Defesa: destrua esse monstro.
   ja: |-
-    このカードが守備表示モンスターを攻撃した場合、ダメージ計算前にそのモンスターを破壊する。
+    ①：このカードが守備表示モンスターを攻撃するダメージ計算前に発動する。そのモンスターを破壊する。
   ko: |-
     이 카드가 수비 표시 몬스터를 공격했을 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다.
   zh-TW:
@@ -209,6 +209,10 @@ sets:
     set_name: Duel Terminal - Justice Strikes Back!!
     rarities:
     - Duel Terminal Rare Parallel Rare
+  - set_number: LPG1-JP032
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRV-KR009
     set_name: Cybernetic Revolution

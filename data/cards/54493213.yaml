@@ -27,7 +27,7 @@ text:
   pt: |-
     O ATK/DEF deste card se tornam o número de monstros banidos x 100.
   ja: |-
-    このカードの攻撃力・守備力は、ゲームから除外されているモンスターの数×１００ポイントになる。
+    ①：このカードの攻撃力・守備力は、除外状態のモンスターの数×１００になる。
   ko: |-
     이 카드의 공격력과 수비력은,게임에서 제외되어 있는 몬스터의 수 × 100 포인트가 된다.
   zh-TW:
@@ -43,7 +43,7 @@ series:
 - Helios
 images:
 - index: 1
-  image: HeliosThePrimordialSun-AT01-JP-NPR.png
+  image: HeliosThePrimordialSun-LPG1-JP-UR.png
   illustration: HeliosThePrimordialSun-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: HeliosThePrimordialSun-SGX3-EN-C-1E.png
@@ -134,6 +134,10 @@ sets:
     set_name: Advanced Tournament Pack 2013 Vol.1
     rarities:
     - Normal Parallel Rare
+  - set_number: LPG1-JP040
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP04-KR021
     set_name: Premium Pack Vol.4

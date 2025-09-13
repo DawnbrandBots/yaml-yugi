@@ -27,7 +27,7 @@ text:
   pt: |-
     Se o ATK de um monstro que estiver atacando este monstro for menor que a DEF deste card, destrua o monstro atacante.
   ja: |-
-    守備表示のこのカードを攻撃したモンスターの攻撃力がこのカードの守備力より低い場合、その攻撃モンスターを破壊する。
+    ①：守備表示のこのカードに攻撃を行ったモンスターの攻撃力がこのカードの守備力より低かった場合、そのダメージステップ終了時に発動する。そのモンスターを破壊する。
   ko: |-
     수비 표시의 이 카드를 공격한 몬스터의 공격력이 이 카드의 수비력 보다 낮을 경우, 그 공격 몬스터를 파괴한다.
   zh-TW:
@@ -152,6 +152,10 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Common
+  - set_number: LPG1-JP036
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR005
     set_name: Invasion of Chaos

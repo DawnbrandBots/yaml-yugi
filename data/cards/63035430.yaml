@@ -27,12 +27,12 @@ text:
   pt: |-
     Se um monstro "HERÓI do Elemento" atacar um monstro que tenha um ATK maior, o monstro atacante ganha 1000 de ATK apenas durante o cálculo de dano.
   ja: |-
-    ①：「Ｅ・ＨＥＲＯ」モンスターの攻撃力は、その攻撃力より高い攻撃力を持つモンスターに攻撃するダメージ計算時のみ１０００アップする。
+    ①：「Ｅ・ＨＥＲＯ」モンスターの攻撃力は、自身の攻撃力より高い攻撃力を持つモンスターに攻撃するダメージ計算時のみ１０００アップする。
   ko: |-
     ①: "엘리멘틀 히어로" 몬스터의 공격력은, 그 공격력보다 높은 공격력을 가지는 몬스터에 공격하는 데미지 계산시에만 1000 올린다.
   zh-TW:
   zh-CN: |-
-    ①："元素－英雄"怪兽的攻击力仅在攻击拥有更高攻击力的怪兽的伤害计算时上升1000。
+    ①：“元素-英雄”怪兽的攻击力仅在攻击拥有更高攻击力的怪兽的伤害计算时上升1000。
 card_type: Spell
 property: Field
 series:
@@ -231,6 +231,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Common
+  - set_number: LPG1-JP051
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: CRV-KR048
     set_name: Cybernetic Revolution

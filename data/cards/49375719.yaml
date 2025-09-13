@@ -27,7 +27,7 @@ text:
   pt: |-
     Se o ATK de cada monstro que seu oponente controla for maior que o deste card, este card pode atacar diretamente.
   ja: |-
-    相手フィールド上に存在する全てのモンスターの攻撃力がこのカードの攻撃力よりも高い場合、このカードは相手プレイヤーに直接攻撃する事ができる。
+    ①：相手フィールドのモンスターがこのカードより高い攻撃力を持つモンスターのみの場合、このカードは相手に直接攻撃できる。
   ko: |-
     상대 필드 위에 존재하는 모든 몬스터의 공격력이 이 카드의 공격력 보다도 높을 경우, 이 카드는 상대 플레이어에게 직접 공격할 수 있다.
   zh-TW:
@@ -44,7 +44,7 @@ series:
 - Cyber Girl
 images:
 - index: 1
-  image: CyberTutu-EE04-JP-C.jpg
+  image: CyberTutu-LPG1-JP-UR.png
   illustration: CyberTutu-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: CyberTutu-SGX1-EN-C-1E.png
@@ -113,6 +113,10 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  - set_number: LPG1-JP029
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EOJ-KR005
     set_name: Enemy of Justice

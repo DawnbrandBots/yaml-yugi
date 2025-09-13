@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este for o único card na sua mão, você pode Invocá-lo por Invocação-Especial (da sua mão). Quando este card for Invocado: você pode comprar 2 cards. Você não deve controlar nenhum outro card e não deve ter cards na sua mão para ativar e resolver este efeito.
   ja: |-
-    ①：手札がこのカード１枚のみの場合、このカードは手札から特殊召喚できる。②：このカードが召喚・反転召喚・特殊召喚に成功した時に発動できる。自分はデッキから２枚ドローする。この効果は自分の手札・フィールドに他のカードが無い場合に発動と処理ができる。
+    ①：手札がこのカード１枚のみの場合、このカードは手札から特殊召喚できる。②：このカードが召喚・反転召喚・特殊召喚した時に発動できる（この効果は自分の手札・フィールドに他のカードが存在しない場合に発動と処理ができる）。自分は２枚ドローする。
   ko: |-
     ①: 패가 이 카드 1장뿐일 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 이 효과는 자신의 패 / 필드에 다른 카드가 없을 경우에 발동과 처리를 할 수 있다.
   zh-TW:
@@ -241,6 +241,10 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common
+  - set_number: LPG1-JP016
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRV-KR014
     set_name: Cybernetic Revolution

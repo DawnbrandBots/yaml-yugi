@@ -52,7 +52,10 @@ text:
     ● 3: Os efeitos de card ativados do seu oponente são negados.
   ja: |-
     「エトワール・サイバー」＋「ブレード・スケーター」
-    このカードの融合召喚は上記のカードでしか行えない。①：相手フィールドのモンスターの数によって、このカードは以下の効果を得る。●１体：このカードは戦闘では破壊されない。●２体：このカードの攻撃力は倍になる。●３体：相手が発動したカードの効果は無効化される。
+    このカードの融合召喚は上記のカードでしか行えない。①：相手フィールドのモンスターの数によってこのカードは以下の効果を得る。
+    ●１体：このカードは戦闘では破壊されない。
+    ●２体：このカードの攻撃力は倍になる。
+    ●３体：相手が発動した魔法・罠・モンスターの効果は無効化される。
   ko: |-
     "에뜨와르 사이버" ＋ "블레이드 스케이터"
     이 카드의 융합 소환은 상기의 카드로밖에 실행할 수 없다. ①: 상대 필드의 몬스터 수에 따라서, 이 카드는 이하의 효과를 얻는다.
@@ -75,7 +78,7 @@ series:
 - Cyber Girl
 images:
 - index: 1
-  image: CyberBlader-DBLE-JP-NPR.png
+  image: CyberBlader-LPG1-JP-UR.png
   illustration: CyberBlader-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: CyberBlader-SGX1-EN-C-1E.png
@@ -160,6 +163,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  - set_number: LPG1-JP046
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: EEN-KR032
     set_name: Elemental Energy

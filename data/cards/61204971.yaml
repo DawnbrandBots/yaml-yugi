@@ -34,7 +34,7 @@ text:
     Deve ser Invocado por Invocação-Fusão. Uma vez por turno: você pode descartar 1 card e, depois, escolha 1 monstro no campo com um ATK original menor que o ATK deste card; destrua o alvo.
   ja: |-
     「Ｅ・ＨＥＲＯ スパークマン」＋「Ｅ・ＨＥＲＯ クレイマン」
-    このモンスターは融合召喚でしか特殊召喚できない。自分の手札を１枚捨てる事で、フィールド上に表側表示で存在する元々の攻撃力がこのカードの攻撃力よりも低いモンスター１体を選択して破壊する。この効果は１ターンに１度だけ自分のメインフェイズに使用する事ができる。
+    このカードは融合召喚でしか特殊召喚できない。①：１ターンに１度、手札を１枚捨て、フィールドの表側表示モンスター１体を対象として発動できる。元々の攻撃力がこのカードの攻撃力より低いそのモンスターを破壊する。
   ko: |-
     "엘리멘틀 히어로 스파크맨" ＋ "엘리멘틀 히어로 클레이맨"
     이 몬스터는 융합 소환으로밖에 특수 소환할 수 없다. 자신의 패를 1장 버리는 것으로, 필드 위에 앞면 표시로 존재하는 원래 공격력이 이 카드의 공격력보다도 낮은 몬스터 1장을 선택하고 파괴한다. 이 효과는 1턴에 1번만 자신의 메인 페이즈에 사용할 수 있다.
@@ -220,6 +220,11 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Ultra Rare
+  - set_number: LPG1-JP042
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: TLM-KR036
     set_name: The Lost Millennium

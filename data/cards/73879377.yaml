@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por "Dragão Armado LV5". Você pode enviar 1 monstro da sua mão para o Cemitério; destrua todos os monstros que seu oponente controla com ATK igual ou menor que o ATK desse monstro enviado.
   ja: |-
-    このカードは通常召喚できない。「アームド・ドラゴン ＬＶ５」の効果でのみ特殊召喚できる。①：手札からモンスター１体を墓地へ送って発動できる。墓地へ送ったそのモンスターの攻撃力以下の攻撃力を持つ、相手フィールドのモンスターを全て破壊する。
+    このカードは通常召喚できず、「アームド・ドラゴン ＬＶ５」の効果でのみ特殊召喚できる。①：手札からモンスター１体を墓地へ送って発動できる。墓地へ送ったモンスターの攻撃力以下の攻撃力を持つ、相手フィールドのモンスターを全て破壊する。
   ko: |-
     이 카드는 통상 소환할 수 없다. "암드 드래곤 LV5"의 효과로만 특수 소환할 수 있다. ①: 패에서 몬스터 1장을 묘지로 보내고 발동할 수 있다. 묘지로 보낸 그 몬스터의 공격력 이하의 공격력을 가지는, 상대 필드의 몬스터를 전부 파괴한다.
   zh-TW:
@@ -246,6 +246,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 2'
     rarities:
     - Common
+  - set_number: LPG1-JP026
+    set_name: 'Limited Pack GX: Slifer Red'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: SOD-KR015
     set_name: Soul of the Duelist
