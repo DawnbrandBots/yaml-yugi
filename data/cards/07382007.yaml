@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 "Gouki" monsters
-    If a "Gouki" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of "Gouki" monsters from your hand with different Levels from each other, but you cannot Special Summon, except "Gouki" monsters, while you control any of those face-up monsters. During your Main Phase: You can Fusion Summon 1 "Gouki" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of "Gouki Sheik Ogre" once per turn.
+    If a "Gouki" monster(s) is added from the Deck to your hand, except by drawing it (except during the Damage Step): You can Special Summon any number of "Gouki" monsters with different Levels from your hand, but for each one, as long as it remains face-up in your Monster Zone, you cannot Special Summon, except "Gouki" monsters. During your Main Phase: You can Fusion Summon 1 "Gouki" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of "Gouki Sheik Ogre" once per turn.
   de:
   es:
   fr:
@@ -44,6 +44,36 @@ images:
 - index: 1
   image: GoukiSheikOgre-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT050
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP050
     set_name: Doom of Dimensions
@@ -57,9 +87,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1130984

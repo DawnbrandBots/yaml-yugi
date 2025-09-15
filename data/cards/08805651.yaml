@@ -15,7 +15,7 @@ name:
   zh-CN: 巨石异物・普赫奥尔
 text:
   en: |-
-    You can Ritual Summon this card with any "Megalith" card. If this card is Ritual Summoned: You can add 1 "Megalith" card from your GY to your hand. During the Main Phase (Quick Effect): You can Ritual Summon 1 "Megalith" Ritual Monster from your GY, except "Megalith Phuloch", by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed the Level of the Ritual Monster. You can only use this effect of "Megalith Phuloch" once per turn, and cannot activate both effects of "Megalith Phuloch" in the same Chain.
+    You can Ritual Summon this card with a "Megalith" card. You cannot activate the following effects of "Megalith Phuloch" in the same Chain. If this card is Ritual Summoned: You can add 1 "Megalith" card from your GY to your hand. During the Main Phase (Quick Effect): You can activate this effect; Ritual Summon 1 "Megalith" Ritual Monster from your GY, except "Megalith Phuloch", by Tributing monsters from your hand or field, including this card on your field, whose total Levels equal or exceed its Level. You can only use this effect of "Megalith Phuloch" once per turn.
   de:
   es:
   fr:
@@ -41,6 +41,36 @@ images:
 - index: 1
   image: MegalithPhuloch-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT033
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP033
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1131223

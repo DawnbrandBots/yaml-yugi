@@ -1,7 +1,7 @@
 konami_id: 21798
 password: 71410542
 name:
-  en: WAKE CUP! Macchi
+  en: WAKE CUP! Macchia
   de:
   es:
   fr:
@@ -15,7 +15,8 @@ name:
   zh-CN: 威咖杯！玛奇
 text:
   en: |-
-    Once per turn, during your End Phase: You can target 1 face-down card on the field; send it to the GY. You can only use each of the following effects of "WAKE CUP! Macchi" once per turn. You can reveal this card and 1 other Flip monster in your hand; Special Summon both in face-down Defense Position. If this card is flipped face-up: Target 1 face-down Defense Position monster on the field; change it to face-up Attack Position.
+    FLIP: Target 1 face-down Defense Position monster on the field; change it to face-up Attack Position.
+    You can reveal this card and 1 Flip monster in your hand; Special Summon both in face-down Defense Position. You can only use each of the preceding effects of "WAKE CUP! Macchia" once per turn. Once per turn, during your End Phase: You can target 1 face-down card on the field; send it to the GY.
   de:
   es:
   fr:
@@ -35,8 +36,38 @@ atk: 1000
 def: 100
 images:
 - index: 1
-  image: WAKECUPMacchi-DOOD-JP-NR.png
+  image: WAKECUPMacchia-DOOD-JP-NR.png
 sets:
+  en:
+  - set_number: DOOD-EN032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT032
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP032
     set_name: Doom of Dimensions
@@ -52,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1135715

@@ -1,7 +1,7 @@
 konami_id: 21837
 password: 81143465
 name:
-  en: Tragic Twin Threads
+  en: Tragic Twin Twined Jewels
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 哀哉玉绳双魂缱绻
 text:
   en: |-
-    Equip only to a monster you control that was Special Summoned from the Extra Deck. If your opponent Special Summons a monster(s) from the Extra Deck with higher ATK than the equipped monster: You can target 1 of them; destroy it, also the equipped monster, and if you do, take damage equal to the total original ATK of the destroyed monsters, then inflict damage to your opponent equal to the damage you took.
+    Equip only to a monster you control that was Special Summoned from the Extra Deck. If your opponent Special Summons a monster(s) from the Extra Deck with ATK higher than the equipped monster (except during the Damage Step): You can target 1 of them; destroy the targeted monster, destroy the equipped monster, and if you destroyed at least one of them, you take damage equal to their combined original ATK. Then, inflict damage to your opponent equal to the damage you took.
   de:
   es:
   fr:
@@ -31,8 +31,38 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: TragicTwinThreads-DOOD-JP-R.png
+  image: TragicTwinTwinedJewels-DOOD-JP-R.png
 sets:
+  en:
+  - set_number: DOOD-EN071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT071
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP071
     set_name: Doom of Dimensions
@@ -46,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1135391

@@ -15,7 +15,7 @@ name:
   zh-CN: 巨石异物・再生
 text:
   en: |-
-    You can discard 1 card; add 1 Level 4 or lower and 1 Level 8 or higher "Megalith" monsters from your Deck to your hand. You can only use this effect of "Megalith Anastasis" once per turn. Once per turn, if you Ritual Summon a "Megalith" monster(s): You can activate 1 of these effects (but you can only use each effect of "Megalith Anastasis" once per turn);
+    You can discard 1 card; add 2 "Megalith" monsters (1 Level 4 or lower and 1 Level 8 or higher) from your Deck to your hand. You can only use this effect of "Megalith Anastasis" once per turn. Once per turn, if you Ritual Summon a "Megalith" monster (except during the Damage Step): You can activate 1 of these effects (but you can only use each of these effects of "Megalith Anastasis" once per turn);
     ● Draw 2 cards, then discard 1 card.
     ● Tribute 1 monster your opponent controls.
   de:
@@ -41,6 +41,36 @@ images:
 - index: 1
   image: MegalithAnastasis-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT066
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP066
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1131221

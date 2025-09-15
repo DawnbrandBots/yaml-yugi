@@ -1,7 +1,7 @@
 konami_id: 21793
 password: 19743887
 name:
-  en: VARefar the Kick Deity
+  en: VARefar, the Judge of Ball
   de:
   es:
   fr:
@@ -15,11 +15,11 @@ name:
   zh-CN: 蹴神－VARefar
 text:
   en: |-
-    When your opponent activates a monster effect on the field that targets a monster(s) you control, or when your monster is targeted for an attack by an opponent's monster (Quick Effect): You can Special Summon this card from your hand, then you can reveal 1 card in your hand, then apply this effect to that opponent's monster based on the type of card revealed.
+    When your opponent activates a monster effect on their field that targets a monster(s) you control, or their monster targets one for an attack (Quick Effect): You can Special Summon this card from your hand, then you can choose 1 of those opponent's monsters and reveal 1 card in your hand, then apply the following effect to that monster based on the revealed card type.
     ● Monster: Change it to Defense Position.
-    ● Spell: Its ATK becomes doubled.
+    ● Spell: Double its ATK.
     ● Trap: Banish it.
-    You can only use this effect of "VARefar the Kick Deity" once per turn.
+    You can only use this effect of "VARefar, the Judge of Ball" once per turn.
   de:
   es:
   fr:
@@ -39,8 +39,38 @@ atk: 2100
 def: 800
 images:
 - index: 1
-  image: VARefartheKickDeity-DOOD-JP-R.png
+  image: VARefartheJudgeofBall-DOOD-JP-R.png
 sets:
+  en:
+  - set_number: DOOD-EN027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT027
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP027
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1137084

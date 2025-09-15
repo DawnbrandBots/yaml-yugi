@@ -1,7 +1,7 @@
 konami_id: 21814
 password: 94503794
 name:
-  en: Cerzebuth, Laimargia of the Ebon Irons
+  en: Kerzebs, the Gaoled Glutton
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2+ Level 7 monsters
-    Gains 700 ATK for each material attached to it. Once per Chain, when a Normal or Quick-Play Spell Card is activated (Quick Effect): You can attach that card on the field to this face-up card, and if you do, this card is unaffected by that activated effect. During the End Phase: You can Set 1 Spell attached to this card. You can only use this effect of "Cerzebuth, Laimargia of the Ebon Irons" once per turn.
+    Gains 700 ATK for each material attached to it. Once per Chain, when a Normal or Quick-Play Spell Card is activated (Quick Effect): You can attach that card on the field to this face-up card, and if you do, this card is unaffected by that activated card. During the End Phase: You can Set 1 Spell Card that is attached to this card. You can only use this effect of "Kerzebs, the Gaoled Glutton" once per turn.
   de:
   es:
   fr:
@@ -24,7 +24,7 @@ text:
   pt:
   ja: |-
     レベル７モンスター×２体以上
-    このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、このカードのX素材の数×７００アップする。②：通常・速攻魔法カードが発動した時に発動できる（同一チェーン上では１度まで）。フィールドのそのカードを表側表示のこのカードのX素材にし、このカードはその発動した効果を受けない。③：自分・相手のエンドフェイズに発動できる。このカードがX素材としている魔法カード１枚を自分フィールドにセットする。
+    このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、このカードのＸ素材の数×７００アップする。②：通常・速攻魔法カードが発動した時に発動できる（同一チェーン上では１度まで）。フィールドのそのカードを表側表示のこのカードのＸ素材にし、このカードはその発動した効果を受けない。③：自分・相手のエンドフェイズに発動できる。このカードがＸ素材としている魔法カード１枚を自分フィールドにセットする。
   ko:
   zh-TW:
   zh-CN: |-
@@ -39,8 +39,38 @@ def: 2500
 materials: 2 or more Level 7 monsters
 images:
 - index: 1
-  image: CerzebuthLaimargiaoftheEbonIrons-DOOD-JP-C.png
+  image: KerzebstheGaoledGlutton-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT048
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP048
     set_name: Doom of Dimensions
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1137089
