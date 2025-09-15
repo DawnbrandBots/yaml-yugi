@@ -1,7 +1,7 @@
 konami_id: 21846
 password: 89086647
 name:
-  en: Miss Okiku's Dishrithmetic
+  en: Okiku's Dish Count
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 阿菊的如意算盘
 text:
   en: |-
-    Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card equal to the Chain Link number of this effect. Apply this effect based on the number of Dish Counters on this card.
+    Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card, equal to the Chain Link number of this effect. Apply this effect depending on the number of Dish Counters on this card.
     ● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.
-    ● 10 or more: Send this card to the GY.
+    ● 10+: Send this card to the GY.
     If this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.
   de:
   es:
@@ -40,8 +40,38 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: MissOkikusDishrithmetic-DOOD-JP-NR.png
+  image: OkikusDishCount-DOOD-JP-NR.png
 sets:
+  en:
+  - set_number: DOOD-EN080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT080
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP080
     set_name: Doom of Dimensions
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1137092

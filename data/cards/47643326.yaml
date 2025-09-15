@@ -1,7 +1,7 @@
 konami_id: 20901
 password: 47643326
 name:
-  en: Space Omajinai Usagi
+  en: Lunar Rabbit Omajinai
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 宇宙咒语兔
 text:
   en: |-
-    A mysterious visitor from the heavens. She converts people's sense of pain into signals and sends them into space, but why she does so is still unknown to this day.
-    ...pain, pain, fly away, fly away.''
+    A mysterious visitor who has descended from the heavens. It converts pain into signals and sends them into space, but its purpose is still unknown.
+    Pain, pain, go away.''
   de:
   es:
   fr:
@@ -40,8 +40,38 @@ atk: 0
 def: 1500
 images:
 - index: 1
-  image: SpaceOmajinaiUsagi-24TP-JP-SPR.png
+  image: LunarRabbitOmajinai-24TP-JP-SPR.png
 sets:
+  en:
+  - set_number: DOOD-EN097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT097
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: 24TP-JP401
     set_name: Tournament Pack 2024 Vol.4
@@ -64,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1083674

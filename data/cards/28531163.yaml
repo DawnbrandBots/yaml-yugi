@@ -1,7 +1,7 @@
 konami_id: 21838
 password: 28531163
 name:
-  en: Apocaries
+  en: Apocavities
   de:
   es:
   fr:
@@ -15,12 +15,12 @@ name:
   zh-CN: 默齿录
 text:
   en: |-
-    When this card is activated: Place Caries Counters on this card equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 Caries Counters from your field; apply this effect to that monster based on the number removed.
+    When this card is activated: Place C Counters on this card, equal to the number of cards your opponent controls. You can target 1 face-up monster your opponent controls and remove up to 4 C Counters from your field; apply this effect to that monster, based on the number removed.
     ● 1: It loses 500 ATK.
-    ● 2: Change its ATK to 0.
-    ● 3: Negate its effects.
+    ● 2: Its ATK becomes 0.
+    ● 3: Its effects are negated.
     ● 4: Destroy it.
-    You can only activate 1 "Apocaries" per turn.
+    You can only activate 1 "Apocavities" per turn.
   de:
   es:
   fr:
@@ -42,8 +42,38 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: Apocaries-DOOD-JP-NR.png
+  image: Apocavities-DOOD-JP-NR.png
 sets:
+  en:
+  - set_number: DOOD-EN072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT072
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP072
     set_name: Doom of Dimensions
@@ -57,9 +87,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1137091
