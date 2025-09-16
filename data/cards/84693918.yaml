@@ -1,7 +1,7 @@
 konami_id: 21786
 password: 84693918
 name:
-  en: Solfachord Solfeggia
+  en: Solfachord Solfegia
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 音服和弦・索露菲基娅
 text:
   en: |-
-    If you control no monsters, or all monsters you control are "Solfachord" monsters: You can Special Summon this card from your hand. (When you activate the following effect, you can also Tribute this card.) During your Main Phase: You can Special Summon 1 "Solfachord" monster from your hand, except "Solfachord Solfeggia", or if you Tributed this card at activation, you can Special Summon that monster from your GY or face-up Extra Deck instead. You can only use each effect of "Solfachord Solfeggia" once per turn.
+    If you control no monsters, or all monsters you control are "Solfachord" monsters: You can Special Summon this card from your hand. During your Main Phase: You can activate this effect (you can also Tribute this card); Special Summon 1 "Solfachord" monster from your hand, except "Solfachord Solfegia", or, if you Tributed this card when you activated this effect, you can Special Summon from your face-up Extra Deck or GY instead. You can only use each effect of "Solfachord Solfegia" once per turn.
   de:
   es:
   fr:
@@ -36,7 +36,7 @@ def: 400
 pendulum_scale: 9
 pendulum_effect:
   en: |-
-    When a monster effect activated by your opponent on the field resolves, if you control a "GranSolfachord" monster, you can negate that effect, then destroy this card. You can only use this effect of "Solfachord Solfeggia" once per turn.
+    When your opponent's monster effect activated on the field resolves, if you control a "GranSolfachord" monster, you can negate that effect, then destroy this card. You can only use this effect of "Solfachord Solfegia" once per turn.
   de:
   es:
   fr:
@@ -52,8 +52,38 @@ series:
 - Solfachord
 images:
 - index: 1
-  image: SolfachordSolfeggia-DOOD-JP-C.png
+  image: SolfachordSolfegia-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT020
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP020
     set_name: Doom of Dimensions
@@ -66,10 +96,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1131300
