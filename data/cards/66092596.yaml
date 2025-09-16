@@ -1,7 +1,7 @@
 konami_id: 21830
 password: 66092596
 name:
-  en: Draco Stand-Off
+  en: Draco Awakening
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 龙呼双搏
 text:
   en: |-
-    When this card is activated: You can add 1 "True Draco" or "True King" monster, or 1 "Dracoslayer" or "Dracoverlord" Pendulum Monster, from your Deck to your hand. If a face-up "True Draco" and/or "True King" monster(s) you control is destroyed by battle or card effect and sent to the GY: You can target 1 of them; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of "Draco Stand-Off" once per turn. You can only activate 1 "Draco Stand-Off" per turn.
+    When this card is activated: You can add 1 monster from your Deck to your hand ("True Draco", "True King", "Dracoslayer" Pendulum, or "Dracoverlord" Pendulum). If a face-up "True Draco" or "True King" monster(s) you control is destroyed by battle or card effect and sent to the GY: You can target 1 of them; place it in your Spell & Trap Zone as a face-up Continuous Spell. You can only use this effect of "Draco Awakening" once per turn. You can only activate 1 "Draco Awakening" per turn.
   de:
   es:
   fr:
@@ -35,8 +35,44 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: DracoStandOff-DOOD-JP-C.png
+  image: DracoAwakening-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  de:
+  - set_number: DOOD-DE064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  es:
+  - set_number: DOOD-SP064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  fr:
+  - set_number: DOOD-FR064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  it:
+  - set_number: DOOD-IT064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  pt:
+  - set_number: DOOD-PT064
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
   ja:
   - set_number: DOOD-JP064
     set_name: Doom of Dimensions
@@ -50,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1136542
