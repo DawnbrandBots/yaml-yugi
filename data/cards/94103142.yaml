@@ -1,7 +1,7 @@
 konami_id: 21828
 password: 94103142
 name:
-  en: Magnifistorming Summoning Technique
+  en: Radiant Typhoon Manifestation
   de:
   es:
   fr:
@@ -15,10 +15,9 @@ name:
   zh-CN: 绚岚之显现
 text:
   en: |-
-    Activate 1 of these effects (but you can only use each effect of "Magnifistorming Summoning Technique" once per turn);
+    If this card is destroyed by the effect of "Mystical Space Typhoon": You can Set this card. Activate 1 of these effects (but you can only use each of these effects of "Radiant Typhoon Manifestation" once per turn);
     ● Send 1 "Radiant Typhoon" monster from your Deck to the GY.
     ● Add 1 "Mystical Space Typhoon" from your Deck or GY to your hand.
-    If this card is destroyed by the effect of "Mystical Space Typhoon": You can Set this card.
   de:
   es:
   fr:
@@ -42,8 +41,38 @@ series:
 - Radiant Typhoon
 images:
 - index: 1
-  image: MagnifistormingSummoningTechnique-DOOD-JP-C.png
+  image: RadiantTyphoonManifestation-DOOD-JP-C.png
 sets:
+  en:
+  - set_number: DOOD-EN062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  de:
+  - set_number: DOOD-DE062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  es:
+  - set_number: DOOD-SP062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  fr:
+  - set_number: DOOD-FR062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  it:
+  - set_number: DOOD-IT062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  pt:
+  - set_number: DOOD-PT062
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ja:
   - set_number: DOOD-JP062
     set_name: Doom of Dimensions
@@ -57,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1131051
