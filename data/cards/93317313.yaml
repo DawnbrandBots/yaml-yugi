@@ -6,7 +6,7 @@ name:
   es:
   fr:
   it:
-  pt:
+  pt: D/D Soldado de Defesa
   ja: <ruby>Ｄ<rt>ディー</rt></ruby><ruby>Ｄ<rt>ディー</rt></ruby>ディフェンス・ソルジャー
   ja_romaji: Dīdī Difensu Sorujā
   ko:
@@ -23,7 +23,11 @@ text:
   es:
   fr:
   it:
-  pt:
+  pt: |-
+    Você pode ativar 1 desses efeitos;
+    ● Escolha 1 card "D/D" na sua Zona de Pêndulo; Invoque-o por Invocação-Especial.
+    ● Bana 1 monstro "D/D" do seu Cemitério; se um monstro "D/D/D" seu atacar neste turno, seu oponente não pode ativar cards ou efeitos até o final da Etapa de Dano.
+    Você pode banir este card do seu Cemitério; adicione 1 Monstro Pêndulo "D/D" do seu Deck Adicional com a face para cima ou Cemitério à sua mão. Você só pode usar cada efeito de "D/D Soldado de Defesa" uma vez por turno.
   ja: |-
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：以下の効果から１つを選択して発動できる。●自分のＰゾーンの「ＤＤ」カード１枚を対象として発動できる。そのカードを特殊召喚する。●自分の墓地から「ＤＤ」モンスター１体を除外して発動できる。このターン、自分の「ＤＤＤ」モンスターが攻撃する場合、相手はダメージステップ終了時までカードの効果を発動できない。②：墓地のこのカードを除外して発動できる。自分のＥＸデッキ（表側）・墓地から「ＤＤ」Ｐモンスター１体を手札に加える。
   ko:
@@ -43,7 +47,7 @@ series:
 - D/D
 images:
 - index: 1
-  image: DDDefenseSoldier-DOOD-JP-C.png
+  image: DDDefenseSoldier-DOOD-EN-C-1E.png
 sets:
   en:
   - set_number: DOOD-EN002
@@ -86,6 +90,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1127274
