@@ -2,11 +2,11 @@ konami_id: 21846
 password: 89086647
 name:
   en: Okiku's Dish Count
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Okikus Geschirrzählung
+  es: Cuenta de Platos de Okiku
+  fr: Compte d'Assiettes d'Okiku
+  it: Conta dei Piatti di Okiku
+  pt: Contagem de Pratos de Okiku
   ja: お<ruby>菊<rt>きく</rt></ruby>さんの<ruby>皿<rt>さら</rt></ruby><ruby>算<rt>ざん</rt></ruby><ruby>用<rt>よう</rt></ruby>
   ja_romaji: Okiku-san no Sarazan'yō
   ko:
@@ -19,11 +19,31 @@ text:
     ● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.
     ● 10+: Send this card to the GY.
     If this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Einmal pro Kette, wenn dein Gegner eine Karte oder einen Effekt aktiviert: Du kannst Geschirr-Zählmarken in Höhe der Kettengliednummer dieses Effekts auf diese Karte legen. Führe diesen Effekt aus, abhängig von der Anzahl der Geschirr-Zählmarken auf dieser Karte.
+    ●9 oder weniger: Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann sie nicht durch Karteneffekte deines Gegners zerstört werden.
+    ●10+: Lege diese Karte auf den Friedhof.
+    Falls diese Karte durch ihren eigenen Effekt auf den Friedhof gelegt wird: Du kannst die obersten 10 Karten deines Decks auf den Friedhof legen.
+  es: |-
+    Una vez por Cadena, cuando tu adversario activa una carta o efecto: puedes poner Contadores Plato en esta carta, igual al número de Eslabón de Cadena de este efecto. Aplica este efecto dependiendo del número de Contadores Plato que tenga esta carta.
+    ●9 o menos: Tu adversario no puede seleccionar esta carta con efectos de cartas, y además no puede ser destruida por efectos de cartas de tu adversario.
+    ●10+: Manda esta carta al Cementerio.
+    Si esta carta es mandada al Cementerio por su propio efecto: puedes mandar al Cementerio las 10 cartas de la parte superior de tu Deck.
+  fr: |-
+    Une fois par Chaîne, lorsque votre adversaire active une carte ou un effet : vous pouvez placer un nombre de Compteurs Assiette sur cette carte, égal au nombre du Maillon de la Chaîne de cet effet. Appliquez cet effet, selon le nombre de Compteurs Assiette sur cette carte.
+    ●Max. 9 : Votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire.
+    ●10+ : Envoyez cette carte au Cimetière.
+    Si cette carte est envoyée au Cimetière par son propre effet : vous pouvez envoyer les 10 cartes du dessus de votre Deck au Cimetière.
+  it: |-
+    Una volta per Catena, quando il tuo avversario attiva una carta o un effetto: puoi mettere Segnalini Piatto su questa carta, pari al numero dell'Anello della Catena di questo effetto. Applica questo effetto a seconda del numero di Segnalini Piatto su questa carta.
+    ●9 o meno: Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte, inoltre essa non può essere distrutta dagli effetti delle carte del tuo avversario.
+    ●10+: Manda questa carta al Cimitero.
+    Se questa carta viene mandata al Cimitero dal suo stesso effetto: puoi mandare le prime 10 carte del tuo Deck al Cimitero.
+  pt: |-
+    Uma vez por Corrente, quando seu oponente ativar um card ou efeito: você pode colocar Marcadores de Pratos neste card, igual ao número do Elo de Corrente deste efeito. Aplique este efeito dependendo do número de Marcadores de Pratos neste card.
+    ●9 ou menos: Seu oponente não pode escolher este card como alvo de efeitos de card e, além disso, ele não pode ser destruído pelos efeitos de card do seu oponente.
+    ●10+: Envie este card para o Cemitério.
+    Se este card for enviado para o Cemitério por seu próprio efeito: você pode enviar os 10 cards do topo do seu Deck para o Cemitério.
   ja: |-
     ①：相手がカードの効果を発動した時に発動できる（同一チェーン上では１度まで）。この効果の発動時に積まれているチェーンの数だけこのカードにお皿カウンターを置く。②：このカードのお皿カウンターの数によって以下の効果を適用する。
     ●９以下：このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。
@@ -83,6 +103,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1137092
