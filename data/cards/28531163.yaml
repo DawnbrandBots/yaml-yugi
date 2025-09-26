@@ -2,11 +2,11 @@ konami_id: 21838
 password: 28531163
 name:
   en: Apocavities
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Apokalöcher
+  es: Apocavidades
+  fr: Apocaries
+  it: Apocavità
+  pt: Apocavidades
   ja: <ruby>黙歯録<rt>アポカリエス</rt></ruby>
   ja_romaji: Apokariesu
   ko:
@@ -21,11 +21,41 @@ text:
     ● 3: Its effects are negated.
     ● 4: Destroy it.
     You can only activate 1 "Apocavities" per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Wenn diese Karte aktiviert wird: Lege C-Zählmarken in Höhe der Anzahl der Karten, die dein Gegner kontrolliert, auf diese Karte. Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert, und bis zu 4 C-Zählmarken von deiner Spielfeldseite entfernen; wende diesen Effekt auf jenes Monster an, basierend auf der entfernten Anzahl.
+    ●1: Es verliert 500 ATK.
+    ●2: Seine ATK werden zu 0.
+    ●3: Seine Effekte werden annulliert.
+    ●4: Zerstöre es.
+    Du kannst nur 1 „Apokalöcher“ pro Spielzug aktivieren.
+  es: |-
+    Cuando esta carta es activada: pon Contadores C en esta carta igual al número de cartas que controla tu adversario. Puedes seleccionar 1 monstruo boca arriba que controle tu adversario y retira hasta 4 Contadores C en tu Campo; aplica este efecto a ese monstruo, basado en el número de retirados.
+    ●1: Pierde 500 ATK.
+    ●2: Su ATK se convierte en 0.
+    ●3: Sus efectos son negados.
+    ●4: Destrúyelo.
+    Sólo puedes activar 1 "Apocavidades" por turno.
+  fr: |-
+    Lorsque cette carte est activée : placez un nombre de Compteurs C sur cette carte, égal au nombre de cartes contrôlées par votre adversaire. Vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire, et retirez max. 4 Compteurs C depuis votre Terrain ; appliquez cet effet au monstre, selon le nombre retiré.
+    ●1 : Il perd 500 ATK.
+    ●2 : Son ATK devient 0.
+    ●3 : Ses effets sont annulés.
+    ●4 : Détruisez-le.
+    Vous ne pouvez activer qu'1 "Apocaries" par tour.
+  it: |-
+    Quando questa carta viene attivata: metti Segnalini C su questa carta, pari al numero di carte controllate dal tuo avversario. Puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario e rimuovere fino a 4 Segnalini C dal tuo Terreno; applica questo effetto a quel mostro, a seconda del numero rimosso.
+    ●1: Esso perde 500 ATK.
+    ●2: Il suo ATK diventa 0.
+    ●3: I suoi effetti sono annullati.
+    ●4: Distruggilo.
+    Puoi attivare solo 1 "Apocavità" per turno.
+  pt: |-
+    Quando este card for ativado: coloque Marcadores C neste card, igual ao número de cards que seu oponente controla. Você pode escolher 1 monstro com a face para cima que seu oponente controla e remover até 4 Marcadores C do seu campo; aplique este efeito a esse monstro, de acordo com o número removido.
+    ●1: Ele perde 500 de ATK.
+    ●2: O ATK dele se torna 0.
+    ●3: Seus efeitos são negados.
+    ●4: Destrua-o.
+    Você só pode ativar 1 "Apocavidades" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、相手フィールドのカードの数だけこのカードにＣカウンターを置く。②：相手フィールドの表側表示モンスター１体を対象とし、自分フィールドのＣカウンターを４つまで取り除いて発動できる。取り除いたカウンターの数によって以下の効果をそのモンスターに適用する。
     ●１つ：攻撃力を５００ダウンする。　●２つ：攻撃力を０にする。
@@ -85,6 +115,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1137091
