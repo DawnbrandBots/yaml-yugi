@@ -40,8 +40,8 @@ text:
     ①: 이 카드를 싱크로 소환했을 때에 발동할 수 있다. 자신은 1장 드로우한다. ②: 상대 메인 페이즈에 발동할 수 있다(동일한 체인 위에서는 1번까지). 이 카드를 포함하는 자신 필드의 몬스터를 소재로서 싱크로 소환을 실행한다.
   zh-TW:
   zh-CN: |-
-    协调+1只协调以外的怪兽
-    ①：此卡同步召唤成功时可以发动。自己从牌组抽1张。②：在对手的主要阶段可以发动。将包括此卡在内的自己场上的怪兽作为同步素材同步召唤。
+    协调＋协调以外的怪兽1只
+    ①：此卡同步召唤时可以发动。自己抽1张。②：在对手的主要阶段可以发动（同一连锁上最多1次）。将包含此卡在内的自己场上的怪兽作为素材进行同步召唤。
 card_type: Monster
 monster_type_line: Machine / Synchro / Tuner / Effect
 attribute: LIGHT
@@ -328,6 +328,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: SD48-SC038
+    set_name: 'Structure Deck: Power of Fellows'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

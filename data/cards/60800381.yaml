@@ -40,8 +40,8 @@ text:
     ①: 이 카드를 싱크로 소환했을 경우에 발동한다. 이 카드의 공격력은, 자신 필드의 레벨 2 이하 몬스터의 공격력의 합계만큼 올린다.
   zh-TW:
   zh-CN: |-
-    “废品同步士”＋1只以上协调以外的怪兽
-    ①：此卡同步召唤成功的情况下发动。此卡的攻击力上升相当于自己场上等级2以下怪兽的攻击力的合计的数值。
+    “废品同步士”＋协调以外的怪兽1只以上
+    ①：此卡同步召唤的情况下发动。此卡的攻击力上升自己场上等级2以下怪兽的攻击力的合计的数值。
 card_type: Monster
 monster_type_line: Warrior / Synchro / Effect
 attribute: DARK
@@ -357,6 +357,10 @@ sets:
     - Rare
   - set_number: SD28-SC046
     set_name: 'Structure Deck: Synchron Extreme'
+    rarities:
+    - Common
+  - set_number: SD48-SC034
+    set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
 limit_regulation:
