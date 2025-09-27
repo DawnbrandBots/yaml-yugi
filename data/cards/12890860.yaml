@@ -32,7 +32,9 @@ text:
   pt: |-
     1 monstro de LUZ + 2 monstros, exceto no campo ou no Cemitério
     Este card Invocado por Invocação-Fusão não pode ser destruído em batalha. Enquanto nenhum monstro no seu campo ou Cemitério compartilhar um nome original com qualquer monstro no campo ou Cemitério do seu oponente, os monstros que você controla não podem ser destruídos por efeitos de card. Você pode enviar, da sua mão, do Deck ou do Deck Adicional, para o Cemitério, 1 monstro com o mesmo nome original que o de um monstro no campo ou Cemitério do seu oponente e, depois, escolha 1 monstro no campo ou Cemitério dele; bana-o.
-  ja:
+  ja: |-
+    光属性モンスター＋フィールド・墓地以外のモンスター×２
+    ①：融合召喚したこのカードは戦闘では破壊されない。②：相手のフィールド・墓地のモンスターと元々のカード名が同じモンスターが自分のフィールド・墓地のいずれにも存在しない場合、自分フィールドのモンスターは効果では破壊されない。③：相手のフィールド・墓地のモンスターと元々のカード名が同じモンスター１体を手札・デッキ・EXデッキから墓地へ送り、相手のフィールド・墓地のモンスター１体を対象として発動できる。そのモンスターを除外する。
   ko:
   zh-TW:
   zh-CN:
@@ -46,6 +48,10 @@ materials: 1 LIGHT monster + 2 monsters, except on the field or in the GY
 images:
 - index: 1
   image: DenialDeityDotan-MP25-EN-C-1E.png
+  illustration: DenialDeityDotan-MADU-EN-VG-artwork.png
+- index: '1.1'
+  image: DenialDeityDotan-WPP6-JP-R.png
+  illustration: DenialDeityDotan-MADU-JP-VG-artwork.png
 sets:
   en:
   - set_number: ROTA-EN087
@@ -101,6 +107,12 @@ sets:
     set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
+  ja:
+  - set_number: WPP6-JP059
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

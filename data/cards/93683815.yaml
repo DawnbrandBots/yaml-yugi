@@ -26,7 +26,8 @@ text:
     Quando un mostro dell'avversario dichiara un attacco: puoi mettere questo mostro nella tua Zona Pendulum e, se lo fai, fai ritornare il mostro dell'avversario nella mano. Puoi utilizzare questo effetto di "Vulmina, Statua del Drago Sacro" una sola volta per turno. Se questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.
   pt: |-
     Quando um monstro do oponente declarar um ataque: você pode colocar este monstro na sua Zona de Pêndulo e, se isso acontecer, devolva o monstro do oponente para a mão. Você só pode usar este efeito de "Vulmina, a Estátua do Dragão Sagrado" uma vez por turno. Se este card na Zona de Monstros for destruído: você pode colocar este card na sua Zona de Pêndulo.
-  ja:
+  ja: |-
+    このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを自分のＰゾーンに置き、その相手モンスターを手札に戻す。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
   ko:
   zh-TW:
   zh-CN:
@@ -51,8 +52,7 @@ pendulum_effect:
   pt: |-
     Se um ou mais monstros forem Invocados por Invocação-Especial por um efeito de Armadilha seu (exceto durante a Etapa de Dano): você pode escolher 1 card no campo; devolva-o para a mão e, depois, você pode Invocar este card por Invocação-Especial. Você só pode usar este efeito de "Vulmina, a Estátua do Dragão Sagrado" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。
-    ①：自分の罠カードの効果でモンスターが特殊召喚された場合、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。その後、このカードを特殊召喚できる。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：自分の罠カードの効果でモンスターが特殊召喚された場合、フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。その後、このカードを特殊召喚できる。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다.
     ①: 자신의 함정 카드의 효과로 몬스터가 특수 소환되었을 경우, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패로 되돌린다. 그 후, 이 카드를 특수 소환할 수 있다.
@@ -120,8 +120,13 @@ sets:
     set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
+  ja:
+  - set_number: WPP6-JP057
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 1070104
 master_duel_rarity: SR
