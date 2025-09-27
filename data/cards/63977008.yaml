@@ -32,7 +32,7 @@ text:
     ①: 이 카드를 일반 소환했을 때, 자신 묘지의 레벨 2 이하의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
-    ①：此卡召唤成功时，以自己墓地的1只等级2以下的怪兽为对象可以发动。以守备表示形式将该怪兽特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
+    ①：此卡召唤时，以自己墓地的1只等级2以下的怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Warrior / Tuner / Effect
 attribute: DARK
@@ -441,6 +441,10 @@ sets:
     - Common
   - set_number: SD28-SC004
     set_name: 'Structure Deck: Synchron Extreme'
+    rarities:
+    - Common
+  - set_number: SD48-SC007
+    set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
 limit_regulation:

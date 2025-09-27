@@ -32,7 +32,7 @@ text:
     ①: 자신 묘지에서 몬스터가 특수 소환되었을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 싱크로 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 자신 필드에 "도플 토큰"(전사족 / 어둠 / 레벨 1 / 공 400 / 수 400) 2장을 공격 표시로 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：怪兽从自己墓地被特殊召唤时可以发动。从手牌将此卡特殊召唤。②：此卡作为同步素材被送至墓地的情况下可以发动。将2只“二重身衍生物”（战士族・暗・星1・攻/守400）以攻击表示特殊召唤至自己场上。
+    ①：有怪兽从自己墓地被特殊召唤时可以发动。从手牌将此卡特殊召唤。②：此卡作为同步素材被送至墓地的情况下可以发动。将2只“二重身衍生物”（战士族・暗・星1・攻/守400）以攻击表示特殊召唤至自己场上。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -296,6 +296,10 @@ sets:
   zh-CN:
   - set_number: SD28-SC018
     set_name: 'Structure Deck: Synchron Extreme'
+    rarities:
+    - Common
+  - set_number: SD48-SC015
+    set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
 limit_regulation:
