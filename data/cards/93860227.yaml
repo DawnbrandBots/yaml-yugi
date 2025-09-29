@@ -50,7 +50,9 @@ text:
     ● Equipe 1 desses monstros a este card como uma Magia de Equipamento que concede a ele 500 de ATK.
     ● Compre 1 card.
     Você só pode usar este efeito de "Princesa Necroquipamento" uma vez por turno.
-  ja:
+  ja: |-
+    モンスターカードを装備しているモンスター＋悪魔族モンスターカード
+    自分の手札・フィールドの上記のカードを墓地へ送った場合のみ特殊召喚できる。このカード名の②の効果は１ターンに１度しか使用できない。①：「優麗なる霊鏡姫」は自分フィールドに１枚しか表側表示で存在できない。②：モンスターがカードの効果を発動するために手札から墓地へ送られた場合、以下の効果から１つを選択して発動できる。●その内の１体を攻撃力５００アップの装備魔法カード扱いでこのカードに装備する。●自分は１枚ドローする。
   ko:
   zh-TW:
   zh-CN:
@@ -149,8 +151,14 @@ sets:
     set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
+  ja:
+  - set_number: WPP6-JP063
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 1070097
 master_duel_rarity: UR

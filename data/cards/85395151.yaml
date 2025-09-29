@@ -44,7 +44,10 @@ text:
     ● Você: Tome o controle dele, mas devolva-o para a mão durante a Fase Final.
     ● Seu oponente: Negue seus efeitos até o final deste turno.
     Você só pode ativar 1 "Liberar Lavagem Cerebral" por turno.
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：手札・フィールドのモンスターがリリースされた場合、相手フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターの元々の持ち主によって以下の効果を適用する。
+    ●自分：対象のモンスターのコントロールを得る。この効果でコントロールを得たモンスターはエンドフェイズに手札に戻る。
+    ●相手：対象のモンスターの効果をターン終了時まで無効にする。
   ko:
   zh-TW:
   zh-CN:
@@ -108,8 +111,13 @@ sets:
     set_name: 2025 Mega-Pack Tin
     rarities:
     - Common
+  ja:
+  - set_number: WPP6-JP071
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 1083826
 master_duel_rarity: SR

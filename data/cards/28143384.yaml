@@ -32,7 +32,9 @@ text:
   pt: |-
     2 monstros Demônio com o mesmo Atributo
     Se este card for Invocado por Invocação-Fusão: você pode enviar 1 monstro Demônio do seu Deck para o Cemitério. Se este card estiver no seu Cemitério: você pode banir 2 monstros Demônio de Nível 6 ou mais com o mesmo Atributo um do outro do seu Cemitério, exceto "Comedor Aéreo"; Invoque este card por Invocação-Especial. Você só pode usar cada efeito de "Comedor Aéreo" uma vez por turno.
-  ja:
+  ja: |-
+    同じ属性の悪魔族モンスター×２
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが融合召喚した場合に発動できる。デッキから悪魔族モンスター１体を墓地へ送る。②：このカードが墓地に存在する場合、「エアリアル・イーター」を除く、レベル６以上で同じ属性の悪魔族モンスター２体を自分の墓地から除外して発動できる。このカードを特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -101,8 +103,14 @@ sets:
     set_name: 2025 Mega-Pack Tin
     rarities:
     - Ultra Rare
+  ja:
+  - set_number: WPP6-JP062
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
-  ocg: Not yet released
+  ocg: Unlimited
 yugipedia_page_id: 1070087
 master_duel_rarity: UR
