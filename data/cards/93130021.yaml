@@ -45,7 +45,7 @@ text:
     ● Escolha 1 Card de Magia/Armadilha com a face para cima no campo; destrua o alvo.
     ● Invoque por Invocação-Especial 1 "Ficha de Opção". Seu Tipo, Atributo, Nível, ATK e DEF são sempre iguais aos deste card, mas ele deixa o campo se este card não estiver mais no campo com a face para cima.
   ja: |-
-    ①：このカードが戦闘で相手モンスターを破壊した場合、以下の効果から１つを選択して発動する。●このカードの攻撃力は４００アップする。●フィールドの表側表示の魔法・罠カード１枚を対象として発動する。その表側表示のカードを破壊する。●常にこのカードと同じ種族・属性・レベル・攻撃力・守備力を持つ「オプショントークン」１体を自分フィールドに特殊召喚する。このカードがフィールドに表側表示で存在しなくなった時にこのトークンは破壊される。
+    ①：このカードが戦闘で相手モンスターを破壊した場合、以下の効果から１つを選択して発動する。●このカードの攻撃力は４００アップする。●フィールドの表側表示の魔法・罠カード１枚を対象として発動する。その表側表示カードを破壊する。●常にこのカードと同じ種族・属性・レベル・攻撃力・守備力を持つ「オプショントークン」１体を自分フィールドに特殊召喚する。このカードがモンスターゾーンに表側表示で存在しなくなる時にこのトークンは破壊される。
   ko: |-
     이 카드가 전투에 의해서 상대 몬스터를 파괴했을 때, 다음 효과에서 1개를 선택하고 발동한다.
     ●이 카드의 공격력은 400 포인트 올린다.
@@ -168,6 +168,10 @@ sets:
     set_name: Tournament Pack 2019 Vol.2
     rarities:
     - Common
+  - set_number: 25TP-JP305
+    set_name: Tournament Pack 2025 Vol.3
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: EOJ-KR011
     set_name: Enemy of Justice
