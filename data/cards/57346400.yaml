@@ -33,7 +33,7 @@ text:
     리버스 : 이 턴에 상대 플레이어는 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    反转：这个回合对方玩家不能特殊召唤。
+    ①：此卡反转的情况下发动。此回合，对手不可特殊召唤怪兽。
 card_type: Monster
 monster_type_line: Beast / Flip / Effect
 attribute: EARTH
@@ -114,6 +114,11 @@ sets:
     - Common
   - set_number: HGP4-KR204
     set_name: Expert Edition Volume 4
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC308
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

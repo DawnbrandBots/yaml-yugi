@@ -32,7 +32,7 @@ text:
     장착 몬스터의 공격력과 수비력은 500 포인트 올린다. 이 카드가 묘지로 보내졌을 때, 이 카드는 덱의 맨 위로 되돌아간다.
   zh-TW:
   zh-CN: |-
-    装备怪兽的攻击力·守备力上升500。这张卡被送去墓地时，这张卡回到卡组最上面。
+    ①：装备怪兽的攻击力・守备力上升500。②：此卡被送至墓地的情况下发动。将此卡放回牌组最上面。
 card_type: Spell
 property: Equip
 images:
@@ -193,6 +193,11 @@ sets:
   ko:
   - set_number: MRD-K132
     set_name: Metal Raiders
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC319
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

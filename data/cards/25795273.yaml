@@ -12,7 +12,7 @@ name:
   ko: 일루미라지
   ko_rr:
   zh-TW: 光蜃樓獨角兔
-  zh-CN: 光蜃楼独角兔
+  zh-CN: 光幻独角兔
 text:
   en: |-
     All monsters on the field lose ATK and DEF equal to their own Level/Rank x 300.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 몬스터 존에 존재하는 한, 필드의 몬스터의 공격력 / 수비력은, 그 몬스터의 레벨 또는 랭크 × 300 내린다.
   zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，场上的怪兽的攻击力·守备力下降那怪兽的等级或者阶级×300。
+    ①：只要此卡存在于怪兽区域，场上的怪兽的攻击力・守备力下降其等级・阶级×300。
 card_type: Monster
 monster_type_line: Wyrm / Tuner / Effect
 attribute: WIND
@@ -105,6 +105,11 @@ sets:
   ko:
   - set_number: BOSH-KR037
     set_name: Breakers of Shadow
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC311
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

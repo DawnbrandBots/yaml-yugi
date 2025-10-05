@@ -12,7 +12,7 @@ name:
   ko: 장미의 요정
   ko_rr:
   zh-TW: 薔薇的妖精
-  zh-CN: 蔷薇的妖精
+  zh-CN: 蔷薇之妖精
 text:
   en: |-
     If this card is added from your Deck to your hand by a card effect: You can Special Summon this card.
@@ -32,7 +32,7 @@ text:
     이 카드가 마법/함정/효과 몬스터의 효과에 의해서 자신의 덱에서 패로 넣어졌을 경우, 이 카드를 자신 필드 위에 특수 소환할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡被魔法·陷阱·效果怪兽的效果从自己卡组加入手卡的场合，这张卡可以在自己场上特殊召唤。
+    ①：以效果将此卡从自己牌组加入手牌的情况下可以发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Plant / Effect
 attribute: WIND
@@ -105,6 +105,11 @@ sets:
   ko:
   - set_number: ABPF-KR013
     set_name: Absolute Powerforce
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC310
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

@@ -31,7 +31,7 @@ text:
     이 카드를 싱크로 소재로 할 경우, 다른 싱크로 소재 몬스터는 패의 몬스터 1장이어야 한다. 이 카드를 싱크로 소재로 한 싱크로 몬스터는 효과를 발동할 수 없고 무효화되며, 필드 위에서 벗어났을 경우 게임에서 제외된다.
   zh-TW:
   zh-CN: |-
-    这张卡作为同调素材的场合，其他的同调素材怪兽必须是手卡1只怪兽。这张卡为同调素材的同调怪兽效果不能发动并无效化，从场上离开的场合从游戏中除外。
+    要以此卡作为同步素材的情况下，其他同步素材怪兽必须是手牌的1只怪兽。①：以此卡作为同步素材的同步怪兽的效果不可发动并无效化，从场上离开的情况下，将其除外。
 card_type: Monster
 monster_type_line: Spellcaster / Tuner
 attribute: WIND
@@ -77,6 +77,11 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 25SP-SC309
+    set_name: Entry Pack 2025 Vol.3
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     相同种族的怪兽2只以上
-    1回合1次，自己·对方的准备阶段：可以以这张卡所连接区1只表侧表示怪兽为对象；和那只怪兽相同种族的1只4星以下的怪兽从手卡往作为这张卡所连接区的自己场上特殊召唤。自己·对方的战斗阶段开始时：可以以对方场上1张卡为对象；那张卡破坏。「天将 雷通」的这个效果1回合只能使用1次。
+    此卡名的②效果1回合仅可使用1次。①：在自己・对手的准备阶段，以此卡连接端的1只表侧表示怪兽为对象可以发动。从手牌将1只种族与该怪兽相同的、等级4以下的怪兽特殊召唤至此卡连接端的自己场上。②：在自己・对手的战斗阶段开始时，以对手场上的1张卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Warrior / Link / Effect
 attribute: EARTH
@@ -93,6 +93,11 @@ sets:
   ko:
   - set_number: WPP3-KR041
     set_name: World Premiere Pack 2022
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC318
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

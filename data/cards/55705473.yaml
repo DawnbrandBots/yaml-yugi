@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우하고, 그 후 패를 1장 골라 덱의 맨 위 또는 맨 아래로 되돌린다. ②: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 "바오바분"을 임의의 수만큼 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡召唤·特殊召唤成功的场合才能发动。自己从卡组抽1张，那之后选1张手卡回到卡组最上面或者最下面。②：这张卡被战斗·效果破坏的场合才能发动。从卡组把「狒狒面包树」任意数量特殊召唤。
+    ①：此卡召唤・特殊召唤的情况下可以发动。自己抽1张。然后，挑选自己的1张手牌放回牌组最上面或最下面。②：此卡因战斗・效果被破坏的情况下可以发动。从牌组将任意数量的“狒狒面包树”特殊召唤。
 card_type: Monster
 monster_type_line: Plant / Effect
 attribute: DARK
@@ -129,6 +129,11 @@ sets:
   ko:
   - set_number: MACR-KR034
     set_name: Maximum Crisis
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC313
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

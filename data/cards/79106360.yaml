@@ -32,7 +32,7 @@ text:
     리버스 : 필드 위의 몬스터를 전부 주인의 덱에 넣고 셔플한다. 그 후, 양쪽 플레이어는 각각의 덱에 넣은 매수와 같은 매수의 몬스터가 나올 때까지 덱을 넘겨, 그 중에서 레벨 4 이하의 몬스터를 전부 뒷면 수비 표시로 특수 소환한다. 그 이외의 넘긴 카드는 전부 묘지에 버린다.
   zh-TW:
   zh-CN: |-
-    反转：场上的怪兽全部加入持有者卡组洗切。那之后，双方玩家直到和加入各自卡组数量相同数量的怪兽出现为止把卡组翻开，从那之中把4星以下的怪兽全部里侧守备表示特殊召唤。那以外的翻开的卡全部丢弃去墓地。
+    ①：此卡反转的情况下发动。将场上的怪兽全部放回牌组。然后，双方从自身牌组上面翻开卡，直至翻出的怪兽数量与放回各自牌组的怪兽相同为止，将其中所有等级4以下的怪兽以里侧守备表示特殊召唤至自身场上。将剩余的翻开的卡全部送至墓地。
 card_type: Monster
 monster_type_line: Rock / Flip / Effect
 attribute: EARTH
@@ -269,6 +269,11 @@ sets:
     rarities:
     - Common
     - Gold Rare
+  zh-CN:
+  - set_number: 25SP-SC307
+    set_name: Entry Pack 2025 Vol.3
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

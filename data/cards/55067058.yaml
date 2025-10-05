@@ -40,8 +40,8 @@ text:
     자신의 엑시즈 몬스터가 엑시즈 소재를 제거하고 효과를 발동할 경우, 제거할 엑시즈 소재 1개를 이 카드에서 제거할 수 있다. 이 효과는 1턴에 1번밖에 적용할 수 없다.
   zh-TW:
   zh-CN: |-
-    5星怪兽×2
-    自己的XYZ怪兽把XYZ素材取除来让效果发动的场合，取除的1个XYZ素材可以从这张卡取除。这个效果1回合只能适用1次。
+    等级5怪兽×2
+    ①：1回合1次，自己的超量怪兽要去除超量素材来发动效果的情况下，要去除的1个超量素材可从此卡去除。
 card_type: Monster
 monster_type_line: Dinosaur / Xyz / Effect
 attribute: WATER
@@ -100,6 +100,11 @@ sets:
     set_name: 'Duelist Pack: Yuma'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: 25SP-SC315
+    set_name: Entry Pack 2025 Vol.3
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

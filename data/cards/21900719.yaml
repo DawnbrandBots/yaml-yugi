@@ -32,7 +32,7 @@ text:
     패의 카드 1장을 묘지로 보내고 장착한다. 장착 몬스터의 공격력은 500 포인트 내린다. 장착 몬스터는 배틀 페이즈 중에 2회 공격을 할 수 있다.
   zh-TW:
   zh-CN: |-
-    把手卡1张卡送去墓地装备。装备怪兽的攻击力下降500。装备怪兽在战斗阶段中可以作2次攻击。
+    将1张手牌送至墓地可以发动此卡。①：装备怪兽攻击力下降500，在1次战斗阶段中可攻击2次。
 card_type: Spell
 property: Equip
 images:
@@ -149,6 +149,11 @@ sets:
     - Common
   - set_number: HGP1-KR199
     set_name: Expert Edition Volume.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC320
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:
