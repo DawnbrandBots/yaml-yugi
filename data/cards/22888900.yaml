@@ -32,7 +32,7 @@ text:
     자신 필드 위에 어드밴스 소환 / 의식 소환 / 융합 소환한 몬스터 중 어느 것이 앞면 표시로 존재할 경우에 발동할 수 있다. 다음 상대 턴의 종료시까지, 서로 싱크로 / 엑시즈 소환은 실행할 수 없고, 필드 위의 싱크로 / 엑시즈 몬스터는 효과가 무효화되어 공격할 수 없다.
   zh-TW:
   zh-CN: |-
-    自己场上有上级召唤·仪式召唤·融合召唤的怪兽之内任意种表侧表示存在的场合才能发动。直到下次的对方回合的结束时，双方同调·XYZ召唤不能进行，场上的同调·XYZ怪兽效果无效化，不能攻击。
+    ①：有上级召唤・仪式召唤・融合召唤的任一的怪兽以表侧表示存在于自己场上的情况下可以发动。直至下个对手回合结束时为止，双方不可进行同步・超量召唤，场上的同步・超量怪兽效果无效化，不可攻击。
 card_type: Trap
 property: Normal
 images:
@@ -103,6 +103,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Common
+  zh-CN:
+  - set_number: 25SP-SC304
+    set_name: Entry Pack 2025 Vol.3
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

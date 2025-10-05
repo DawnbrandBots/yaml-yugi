@@ -32,7 +32,7 @@ text:
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 양쪽의 플레이어는 패를 전부 계속해서 공개한다.
   zh-TW:
   zh-CN: |-
-    只要这张卡在场上表侧表示存在，双方玩家把手卡全部持续公开。
+    ①：只要此卡存在于怪兽区域，双方持续公开所有手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: LIGHT
@@ -149,6 +149,11 @@ sets:
     - Common
   - set_number: BP1-KR055
     set_name: Beginner's Edition 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC306
+    set_name: Entry Pack 2025 Vol.3
     rarities:
     - Common
 limit_regulation:

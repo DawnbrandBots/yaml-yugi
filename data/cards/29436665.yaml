@@ -12,7 +12,7 @@ name:
   ko: 흑마도의 집행관
   ko_rr:
   zh-TW: 黑魔術的執行官
-  zh-CN: 黑魔导执行官
+  zh-CN: 黑之执行官
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Dark Magician", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.
@@ -32,7 +32,7 @@ text:
     이 카드는 일반 소환/세트할 수 없다. 자신 필드 위에 존재하는 "블랙 매지션" 1장을 제물로 바친 경우에만 특수 소환할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 양쪽 플레이어가 일반 마법 카드를 발동할 때마다, 상대 라이프에 1000 포인트 데미지를 준다.
   zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤。把自己场上存在的1只「黑魔术师」解放的场合才能特殊召唤。只要这张卡在场上表侧表示存在，每次自己或者对方把通常魔法卡发动，给与对方基本分1000分伤害。
+    此卡不可通常召唤。仅可在解放自己场上的1只“黑魔导”的情况下特殊召唤。①：只要此卡存在于怪兽区域，每当自己或对手发动通常魔法卡，就给予对手1000伤害。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -111,6 +111,11 @@ sets:
     set_name: Tournament Pack 2011 Vol.10
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 25SP-SC301
+    set_name: Entry Pack 2025 Vol.3
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
