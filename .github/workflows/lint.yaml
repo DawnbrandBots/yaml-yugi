@@ -27,7 +27,7 @@ jobs:
           python-version: "3.12"
       - run: pip install guarddog
       - run: guarddog pypi verify src/requirements.txt --output-format sarif --exclude-rules repository_integrity_mismatch > guarddog.sarif
-      - uses: github/codeql-action/upload-sarif@v3
+      - uses: github/codeql-action/upload-sarif@v4
         with:
           category: guarddog-builtin
           sarif_file: guarddog.sarif
@@ -46,7 +46,7 @@ jobs:
       - run: ruff check --output-format=github src
         if: ${{ !cancelled() }}
       - run: ruff check --output-format=sarif src > ruff.sarif
-      - uses: github/codeql-action/upload-sarif@v3
+      - uses: github/codeql-action/upload-sarif@v4
         with:
           category: ruff
           sarif_file: ruff.sarif
