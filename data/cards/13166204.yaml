@@ -24,7 +24,8 @@ text:
     Lorsqu'un ou plusieurs monstres "Gagaga" face recto que vous contrôlez sont ciblés par l'effet d'un monstre de votre adversaire : annulez l'effet du monstre de votre adversaire, et si vous le faites, détruisez-le, puis infligez des dommages à votre adversaire égaux à l'ATK ou DEF du monstre détruit dans le Cimetière (la plus haute valeur).
   it: |-
     Quando uno o più mostri "Gagaga" scoperti che controlli vengono scelti come bersaglio dall'effetto di un mostro dell'avversario: annulla l'effetto di quel mostro dell'avversario e, se lo fai, distruggilo, poi infliggi al tuo avversario danno pari all'ATK o DEF del mostro distrutto nel Cimitero (il più alto dei due).
-  pt:
+  pt: |-
+    Quando um ou mais monstros "Gagaga" que você controla forem escolhidos como alvo pelo efeito de um monstro do oponente: negue o efeito desse monstro do oponente e, se isso acontecer, destrua-o e, depois, cause dano ao seu oponente igual ao ATK ou DEF do monstro destruído no Cemitério (o que for maior).
   ja: |-
     自分フィールド上の「ガガガ」と名のついたモンスターが、相手モンスターの効果の対象になった時に発動できる。その相手モンスターの効果を無効にし破壊する。その後、破壊したモンスターの攻撃力と守備力の内、高い方の数値分のダメージを相手ライフに与える。
   ko: |-
@@ -64,6 +65,11 @@ sets:
   it:
   - set_number: REDU-IT067
     set_name: Return of the Duelist
+    rarities:
+    - Common
+  pt:
+  - set_number: OP29-PT037
+    set_name: OTS Tournament Pack 29
     rarities:
     - Common
   ja:
