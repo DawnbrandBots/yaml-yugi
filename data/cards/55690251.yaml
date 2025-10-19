@@ -32,7 +32,7 @@ text:
     이 카드는 특수 소환할 수 없다. 이 카드는 천사족 몬스터 1장을 릴리스하고 어드밴스 소환할 수 있다. 1턴에 1번, 자신의 메인 페이즈시에 이 카드의 공격력을 1000 포인트 내리고, 상대 필드 위에 존재하는 몬스터 1장을 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡不能特殊召唤。这张卡可以把1只天使族怪兽解放作上级召唤。1回合1次，自己的主要阶段时可以让这张卡的攻击力下降1000，对方场上存在的1只怪兽送去墓地。
+    此卡不可特殊召唤。此卡可通过解放1只天使族的怪兽来上级召唤。①：1回合1次，以对手场上的1只怪兽为对象可以发动。此卡的攻击力下降1000，将该对手怪兽送至墓地。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: DARK
@@ -127,6 +127,11 @@ sets:
     set_name: Premium Pack Vol.5
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: WPS2-SC065
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
