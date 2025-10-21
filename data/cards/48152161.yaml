@@ -32,8 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패 및 자신 필드의 앞면 표시 몬스터 중에서, "타락천사" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 필드의 효과 몬스터 1장을 골라, 그 효과를 턴 종료시까지 무효로 하고, 그 몬스터의 공격력만큼만 자신의 LP를 회복한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。
-    ①：从手卡以及自己场上的表侧表示怪兽之中把1只「堕天使」怪兽送去墓地才能发动。选场上1只效果怪兽，那个效果直到回合结束时无效，自己基本分回复那只怪兽的攻击力的数值。
+    此卡名的卡1回合仅可发动1张。①：从自己手牌・场上（表侧表示）将1只“堕天使”怪兽送至墓地可以发动。将场上的1只效果怪兽的效果直至回合结束时为止无效，依其攻击力数值恢复自己的LP。
 card_type: Trap
 property: Normal
 series:
@@ -86,6 +85,11 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Rare
+  zh-CN:
+  - set_number: WPS2-SC081
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
