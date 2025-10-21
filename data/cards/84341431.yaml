@@ -32,7 +32,7 @@ text:
     ①: 몬스터 존의 이 카드가 효과로 파괴될 경우, 대신에 500 LP를 지불할 수 있다. 이 효과는 이 카드가 필드에 앞면 표시로 존재하는 한 1번밖에 사용할 수 없다. ②: 이 카드가 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 "데몬" 몬스터 1장을 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    恶魔名：①：怪兽区域的这张卡被效果破坏的场合，可以作为代替而支付500基本分。这个效果只在这张卡在场上表侧表示存在能使用1次。②：这张卡被效果破坏送去墓地的场合才能发动。从手卡把1只「恶魔」怪兽特殊召唤。
+    ①：只要此卡以表侧表示存在，仅限1次，此卡将被效果破坏的情况下，作为代替可支付500LP。②：此卡因效果被破坏并被送至墓地的情况下可以发动。从手牌将1只“恶魔”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: EP14-KR014
     set_name: 'Extra Pack: Knights of Order'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: WPS2-SC088
+    set_name: World Premiere Pack 2025
     rarities:
     - Common
 limit_regulation:

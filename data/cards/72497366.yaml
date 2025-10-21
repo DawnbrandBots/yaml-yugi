@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 마법 & 함정 존에 존재하는 한, 자신은 레벨 5 이상의 악마족 몬스터를 일반 소환할 경우에 필요한 릴리스를 없앨 수 있다. 이 효과는 1턴에 1번밖에 적용할 수 없다. ②: 통상 소환한 레벨 5 이상의 악마족 몬스터 1장만이 파괴될 경우, 대신에 이 카드를 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN: |-
-    非恶魔：①：只要这张卡在魔法与陷阱区域存在，自己在5星以上的恶魔族怪兽召唤的场合需要的解放可以不用。这个效果1回合只能适用1次。②：只让通常召唤的5星以上的恶魔族怪兽1只被破坏的场合，可以作为代替把这张卡送去墓地。
+    ①：只要此卡存在于魔法与陷阱区域，自己要召唤等级5以上的恶魔族怪兽的情况下，可免除所必须的解放。此效果1回合仅可适用1次。②：仅1只通常召唤的等级5以上的恶魔族怪兽将被破坏的情况下，作为代替可将场上的此卡送至墓地。
 card_type: Trap
 property: Continuous
 images:
@@ -169,6 +169,11 @@ sets:
     - Common
   - set_number: SR06-KR040
     set_name: 'Structure Deck R: Curse of the Dark'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: WPS2-SC093
+    set_name: World Premiere Pack 2025
     rarities:
     - Common
 limit_regulation:
