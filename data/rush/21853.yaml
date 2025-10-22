@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>闇<rt>やみ</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>凶<rt>きょう</rt></ruby><ruby>鬼<rt>き</rt></ruby>
   ja_romaji: Yamimakai no Kyōki
-  ko:
+  ko: 암흑 마계의 흉귀
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の手札１枚を選んで墓地へ送る。その後、自分の墓地の「ゼラの放浪者」１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신의 패 1장을 고르고 묘지로 보낸다. 그 후, 자신 묘지의 "제라의 방랑자" 1장을 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP006
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/AP01-KR006
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Common

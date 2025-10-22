@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby>の<ruby>劾<rt>がい</rt></ruby><ruby>狗<rt>く</rt></ruby>
   ja_romaji: Enma no Gaiku
-  ko:
+  ko: 염 마의 핵구
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（炎属性／悪魔族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(화염 속성 / 악마족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード４枚を墓地へ送る。その後、その中からモンスター（炎属性／悪魔族／攻撃力９００以外）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 4장을 묘지로 보낸다. 그 후, 그 중에서 몬스터(화염 속성 / 악마족 / 공격력 900 이외) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP035
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/AP01-KR035
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Super Rare

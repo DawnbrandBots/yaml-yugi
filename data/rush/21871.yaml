@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>双<rt>そう</rt></ruby><ruby>焔<rt>えん</rt></ruby><ruby>魔<rt>ま</rt></ruby><ruby>天<rt>てん</rt></ruby>アルシェル
   ja_romaji: Sōenmaten Arusheru
-  ko:
+  ko: 쌍염 마천 아르셸
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にマキシマムモンスター（炎属性）がいる場合、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 맥시멈 몬스터(화염 속성)가 있을 경우, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで、［自分の墓地のマキシマムモンスター（炎属性）の数］×３００アップする。自分の墓地のマキシマムモンスターが３体以上の場合、さらにこのターン、このカードの攻撃は貫通する。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지, [자신 묘지의 맥시멈 몬스터(화염 속성)의 수] × 300 올린다. 자신 묘지의 맥시멈 몬스터가 3장 이상일 경우, 추가로 이 턴에, 이 카드의 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP031
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/AP01-KR031
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Ultra Rare

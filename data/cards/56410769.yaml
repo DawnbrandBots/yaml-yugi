@@ -37,7 +37,9 @@ text:
     ①：自分フィールドのモンスターが全て攻撃表示の場合、自分フィールドのモンスターの攻撃力は５００アップする。②：自分フィールドのモンスターが全て守備表示の場合、相手は攻撃宣言できない。③：このカードのＸ素材を１つ取り除き、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    等级1怪兽×2
+    ①：自己场上的怪兽全部为攻击表示的情况下，自己场上的怪兽攻击力上升500。②：自己场上的怪兽全部为守备表示的情况下，对手不可攻击宣言。③：去除此卡的1个超量素材，以场上的1只怪兽为对象可以发动。变更该怪兽的表示形式。
 card_type: Monster
 monster_type_line: Winged Beast / Xyz / Effect
 attribute: WIND
@@ -84,6 +86,11 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Rare
+  zh-CN:
+  - set_number: WPS2-SC107
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

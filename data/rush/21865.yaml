@@ -8,7 +8,7 @@ name:
   pt:
   ja: いとをかしまりひめ
   ja_romaji: Itowokashi Marihime
-  ko:
+  ko: 앙갱구희
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     手札の通常モンスター（光属性／水族／守備力１４００）１体を相手に見せ、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    패의 일반 몬스터(빛 속성 / 물족 / 수비력 1400) 1장을 상대에게 보여주고, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力はターン終了時まで６００アップする。その後、自分の墓地の「いとをかしかなひめ」１体または「いとをかしはかまき」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 턴 종료시까지 600 올린다. 그 후, 자신 묘지의 "앙갱공주" 1장 또는 "앙갱하카마키" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -65,6 +68,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP019
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/AP01-KR019
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Super Rare

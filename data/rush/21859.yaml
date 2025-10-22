@@ -8,7 +8,7 @@ name:
   pt:
   ja: デビルズクロー
   ja_romaji: Debiruzu Kurō
-  ko:
+  ko: 데블즈클로
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「ゼラ」がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시인 "제라"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのカード１枚を選んで破壊する。
-  ko:
+  ko: |-
+    상대 필드의 카드 1장을 고르고 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -49,6 +51,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP012
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/AP01-KR012
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Super Rare

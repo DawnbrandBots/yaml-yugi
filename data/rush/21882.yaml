@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>団<rt>だん</rt></ruby><ruby>結<rt>けつ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 단결의 힘
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体に装備できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장에 장착할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     装備モンスターの攻撃力・守備力は、［自分フィールドの表側表示モンスターの数］×８００アップする。
-  ko:
+  ko: |-
+    장착 몬스터의 공격력 / 수비력은, [자신 필드의 앞면 표시 몬스터의 수] × 800 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -47,6 +49,11 @@ images:
 sets:
   ja:
   - set_number: RD/AP01-JP086
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/AP01-KR086
     set_name: "Advance Pack: Devil's Ceremony"
     rarities:
     - Super Rare

@@ -37,7 +37,7 @@ effect:
   ja: |-
     自分は１枚ドローする。自分フィールドに表側表示の「ハンディーレディ」がいる場合、さらに手札のモンスター１体を自分フィールドに表側表示で特殊召喚できる。
   ko: |-
-    자신은 1장 드로우한다. 자신 필드에 앞면 표시의 "핸디레이디"가 있을 경우, 추가로 패의 몬스터 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
+    자신은 1장 드로우한다. 자신 필드에 앞면 표시인 "핸디레이디"가 있을 경우, 추가로 패의 몬스터 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -66,6 +66,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  - set_number: RD/AP01-KR089
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

@@ -37,7 +37,7 @@ effect:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。自分フィールドに表側表示の魔法カードがある場合、さらに自分は１枚ドローする。
   ko: |-
-    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 자신 필드에 앞면 표시의 마법 카드가 있을 경우, 추가로 자신은 1장 드로우한다.
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 자신 필드에 앞면 표시인 마법 카드가 있을 경우, 추가로 자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -85,6 +85,11 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  - set_number: RD/AP01-KR043
+    set_name: "Advance Pack: Devil's Ceremony"
+    rarities:
+    - Common
+    - Super Parallel Rare
 is_translation_unofficial:
   name:
     en: true

@@ -30,7 +30,8 @@ text:
     このカード名の①のモンスター効果は１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを自分のＰゾーンに置き、その相手モンスターを手札に戻す。②：モンスターゾーンのこのカードが破壊された場合に発動できる。このカードを自分のPゾーンに置く。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①怪兽效果1回合仅可使用1次。①：对手怪兽攻击宣言时可以发动。将此卡放在自己的灵摆区域，将该对手的怪兽放回手牌。②：怪兽区域的此卡被破坏的情况下可以发动。将此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Dragon / Pendulum / Effect
 attribute: LIGHT
@@ -60,8 +61,7 @@ pendulum_effect:
     此卡名的鐘擺效果1回合僅可使用1次。
     ①：怪獸被以自己的陷阱卡的效果特殊召喚的情況下，以場上的1張卡為對象可以發動。將該卡放回手牌。然後，可將此卡特殊召喚。
   zh-CN: |-
-    此卡名的灵摆效果1回合仅可使用1次。
-    ①：怪兽被以自己的陷阱卡的效果特殊召唤的情况下，以场上的1张卡为对象可以发动。将该卡放回手牌。然后，可将此卡特殊召唤。
+    此卡名的灵摆效果1回合仅可使用1次。①：有怪兽因自己的陷阱卡的效果被特殊召唤的情况下，以场上的1张卡为对象可以发动。将该卡放回手牌。然后，可将此卡特殊召唤。
 images:
 - index: 1
   image: VulminaStatueoftheSacredDragon-MP25-EN-C-1E.png
@@ -122,6 +122,11 @@ sets:
     - Common
   ja:
   - set_number: WPP6-JP057
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: WPS2-SC096
     set_name: World Premiere Pack 2025
     rarities:
     - Common

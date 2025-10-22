@@ -37,7 +37,9 @@ text:
     ①：融合召喚したこのカードは戦闘では破壊されない。②：相手のフィールド・墓地のモンスターと元々のカード名が同じモンスターが自分のフィールド・墓地のいずれにも存在しない場合、自分フィールドのモンスターは効果では破壊されない。③：相手のフィールド・墓地のモンスターと元々のカード名が同じモンスター１体を手札・デッキ・ＥＸデッキから墓地へ送り、相手のフィールド・墓地のモンスター１体を対象として発動できる。そのモンスターを除外する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    光属性怪兽＋场上・墓地以外的怪兽×2
+    ①：融合召唤的此卡不会因战斗被破坏。②：自己场上・墓地不存在与对手场上・墓地的怪兽原本卡名相同的怪兽的情况下，自己场上的怪兽不会因效果被破坏。③：从手牌・牌组・额外牌组、将与对手场上・墓地的怪兽原本卡名相同的1只怪兽送至墓地，以对手场上・墓地的1只怪兽为对象可以发动。将该怪兽除外。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: LIGHT
@@ -113,6 +115,11 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  zh-CN:
+  - set_number: WPS2-SC106
+    set_name: World Premiere Pack 2025
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
