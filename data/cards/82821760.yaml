@@ -27,7 +27,7 @@ text:
   pt: |-
     Se seu oponente controlar um monstro e você não controlar nenhum monstro, você pode Invocar este card por Invocação-Especial (da sua mão) em Posição de Defesa. Se este card for Invocado por Invocação-Normal ou Especial: coloque 3 marcadores neste card. Não pode ser destruído em batalha. No final da Etapa de Dano, se este card batalhar um monstro: remova 1 marcador deste card. Se não puder, destrua-o. Você pode banir este card do seu Cemitério; embaralhe todos os monstros "B.E.S." do seu Cemitério no Deck.
   ja: |-
-    ①：相手フィールドにモンスターが存在し、自分フィールドにモンスターが存在しない場合、このカードは手札から守備表示で特殊召喚できる。②：このカードが召喚・特殊召喚に成功した場合に発動する。このカードにカウンターを３つ置く。③：このカードは戦闘では破壊されない。④：このカードが戦闘を行ったダメージステップ終了時に発動する。このカードのカウンターを１つ取り除く。取り除けない場合このカードを破壊する。⑤：墓地のこのカードを除外して発動できる。自分の墓地の「巨大戦艦」モンスターを全てデッキに戻す。
+    ①：相手フィールドにのみモンスターが存在する場合、このカードは手札から守備表示で特殊召喚できる。②：このカードが召喚・特殊召喚した場合に発動する。このカードにカウンターを３つ置く。③：このカードは戦闘では破壊されない。④：このカードが戦闘を行ったダメージステップ終了時に発動する。このカードのカウンターを１つ取り除く。取り除けない場合、このカードを破壊する。⑤：墓地のこのカードを除外して発動できる。自分の墓地の「巨大戦艦」モンスターを全てデッキに戻す。
   ko: |-
     ①: 상대 필드에 몬스터가 존재하고, 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 수비 표시로 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 이 카드에 카운터를 3개 놓는다. ③: 이 카드는 전투로는 파괴되지 않는다. ④: 이 카드가 전투를 실행한 데미지 스텝 종료시에 발동한다. 이 카드의 카운터를 1개 제거한다. 제거할 수 없을 경우 이 카드를 파괴한다. ⑤: 묘지의 이 카드를 제외하고 발동할 수 있다. 자신 묘지의 "거대전함" 몬스터를 전부 덱으로 되돌린다.
   zh-TW:
@@ -81,6 +81,10 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  - set_number: BPRO-JPS15
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MACR-KR032
     set_name: Maximum Crisis

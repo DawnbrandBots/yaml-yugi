@@ -27,7 +27,7 @@ text:
   pt: |-
     Envie 1 monstro "Senhor(a) Obscuro(a)" da sua mão ou do campo com a face para cima para o Cemitério; Invoque por Invocação-Fusão 1 Monstro de Fusão de TREVAS do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão e, depois, você pode ganhar PV igual ao ATK original do monstro enviado para o Cemitério para ativar este card. Você só pode ativar 1 "Revolta do Senhor Obscuro" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：手札及び自分フィールドの表側表示モンスターの中から、「堕天使」モンスター１体を墓地へ送って発動できる。自分の手札・フィールドから、闇属性の融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をＥＸデッキから融合召喚する。その後、このカードを発動するために墓地へ送ったモンスターの攻撃力分だけ自分のＬＰを回復できる。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールド（表側表示）から「堕天使」モンスター１体を墓地へ送って発動できる。自分の手札・フィールドのモンスターを融合素材とし、闇属性の融合モンスター１体を融合召喚する。その後、このカードを発動するために墓地へ送ったモンスターの攻撃力分だけ自分のＬＰを回復できる。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패 및 자신 필드의 앞면 표시 몬스터 중에서, "타락천사" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 자신의 패 / 필드에서, 어둠 속성 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. 그 후, 이 카드를 발동하기 위해 묘지로 보낸 몬스터의 공격력만큼만 자신의 LP를 회복할 수 있다.
   zh-TW:
@@ -100,6 +100,10 @@ sets:
     set_name: Rise of the Duelist
     rarities:
     - Common
+  - set_number: BPRO-JPS14
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ROTD-KR075
     set_name: Rise of the Duelist

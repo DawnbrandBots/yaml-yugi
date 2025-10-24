@@ -27,12 +27,12 @@ text:
   pt: |-
     Ofereça 1 Monstro Sincro como Tributo; Invoque por Invocação-Especial do seu Deck em Posição de Ataque, 1 monstro "/Modo de Ataque" cujo nome inclua o nome do monstro oferecido como Tributo.
   ja: |-
-    ①：自分フィールドのＳモンスター１体をリリースして発動できる。そのモンスターのカード名が含まれる「／バスター」モンスター１体をデッキから攻撃表示で特殊召喚する。
+    ①：自分フィールドのＳモンスター１体をリリースして発動できる。そのモンスターのカード名を含む「／バスター」モンスター１体をデッキから攻撃表示で特殊召喚する。
   ko: |-
     ①: 자신 필드의 싱크로 몬스터 1장을 릴리스하고 발동할 수 있다. 그 몬스터의 카드명이 포함되는 "/ 버스터" 몬스터 1장을 덱에서 공격 표시로 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：解放自己场上的1只同步怪兽可以发动。将包括该怪兽卡名的1只“/爆裂”怪兽从牌组以攻击表示特殊召唤。
+    ①：解放自己场上的１只同步怪兽可以发动。从牌组将包含该怪兽卡名的１只“／爆裂”怪兽以攻击表示特殊召唤。
 card_type: Trap
 property: Normal
 images:
@@ -154,6 +154,10 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  - set_number: BPRO-JPS04
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRMS-KR063
     set_name: Crimson Crisis

@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um Card de Magia/Armadilha ou efeito de monstro for ativado enquanto você controlar um monstro "/Modo de Ataque": negue a ativação e, se isso acontecer, destrua esse card.
   ja: |-
-    自分フィールド上に「<ruby>／<rt>スラッシュ</rt></ruby>バスター」と名のついたモンスターが存在する場合に発動できる。効果モンスターの効果・魔法・罠カードの発動を無効にし破壊する。
+    ①：自分フィールドに「／バスター」モンスターが存在し、モンスターの効果・魔法・罠カードが発動した時に発動できる。その発動を無効にし破壊する。
   ko: |-
     자신 필드 위에 "/버스터"라는 이름이 붙은 몬스터가 앞면 표시로 존재할 경우에만 발동할 수 있다. 마법/함정/효과 몬스터의 효과 발동을 무효로 하고 파괴한다.
   zh-TW:
@@ -80,6 +80,10 @@ sets:
     set_name: Duelist Edition Volume 3
     rarities:
     - Common
+  - set_number: BPRO-JPS05
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRMS-KR075
     set_name: Crimson Crisis
