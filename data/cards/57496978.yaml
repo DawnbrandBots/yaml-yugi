@@ -15,7 +15,7 @@ name:
   zh-CN: 互相碰撞的灵魂
 text:
   en: |-
-    During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.
+    During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the GY instead.
   de: |-
     Während der Schadensberechnung, falls dein Monster in Angriffsposition gegen ein Monster in Angriffsposition eines Gegners mit höheren ATK kämpft: Der Beherrscher des kämpfenden Monsters mit den niedrigeren ATK kann 500 LP zahlen, um jenes Monster nur während der Schadensberechnung 500 ATK erhalten zu lassen, dann wiederholt diesen Effekt, bis ein Spieler bestimmt, keine LP zu zahlen. Kein Spieler erhält Kampfschaden aus jenem Kampf, zusätzlich, nach der Schadensberechnung, falls ein Monster eines Spielers durch jenen Kampf zerstört würde, lege stattdessen alle Karten, die jener Spieler kontrolliert, auf den Friedhof.
   es: |-
@@ -37,38 +37,62 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: ClashingSouls-DUSA-EN-UR-1E.png
+  image: ClashingSouls-L5DD-EN-C-1E.png
 sets:
   en:
   - set_number: DUSA-EN038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-ENY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   de:
   - set_number: DUSA-DE038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-DEY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   es:
   - set_number: DUSA-SP038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-SPY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   fr:
   - set_number: DUSA-FR038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-FRY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   it:
   - set_number: DUSA-IT038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-ITY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   pt:
   - set_number: DUSA-PT038
     set_name: Duelist Saga
     rarities:
     - Ultra Rare
+  - set_number: L5DD-PTY23
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   ja:
   - set_number: 20AP-JP055
     set_name: 20th Anniversary Pack 2nd Wave

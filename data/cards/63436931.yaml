@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuner monsters
-    If this card is Special Summoned: You can add 1 Spell/Trap that mentions "Crimson Dragon" from your Deck to your hand. (Quick Effect): You can target 1 Level 7 or higher Synchro Monster on the field, except "Crimson Dragon"; return this card to the Extra Deck, and if you do, Special Summon 1 Dragon Synchro Monster from your Extra Deck with the same Level as the targeted monster. (This is treated as a Synchro Summon.) You can only use each effect of "Crimson Dragon" once per turn.
+    If this card is Special Summoned: You can add 1 Spell/Trap that mentions "Crimson Dragon" from your Deck to your hand. (Quick Effect): You can target 1 Level 7 or higher Synchro Monster on the field, except "Crimson Dragon"; return this card to the Extra Deck, and if you do, Special Summon 1 Dragon Synchro Monster from your Extra Deck with the same Level as the targeted monster (this is treated as a Synchro Summon). You can only use each effect of "Crimson Dragon" once per turn.
   de: |-
     1 Empfänger + 1+ Nicht-Empfänger-Monster
     Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Zauber/Falle, der oder die „Feuerroter Drache“ erwähnt, von deinem Deck hinzufügen. (Schnelleffekt): Du kannst 1 Synchromonster der Stufe 7 oder höher auf dem Spielfeld wählen, außer „Feuerroter Drache“; lege diese Karte ins Extra Deck zurück und falls du dies tust, beschwöre 1 Drache-Synchromonster mit derselben Stufe wie das als Ziel gewählte Monster als Spezialbeschwörung von deinem Extra Deck (dies wird als Synchrobeschwörung behandelt). Du kannst jeden Effekt von „Feuerroter Drache“ nur einmal pro Spielzug verwenden.
@@ -51,7 +51,7 @@ def: 0
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: CrimsonDragon-RA04-EN-SR-1E.png
+  image: CrimsonDragon-L5DD-EN-C-1E.png
 sets:
   en:
   - set_number: DUNE-ENSP1
@@ -76,6 +76,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-ENY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   de:
   - set_number: DUNE-DESP1
     set_name: Duelist Nexus Premiere! promotional card
@@ -99,6 +103,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-DEY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   es:
   - set_number: DUNE-SPSP1
     set_name: Duelist Nexus Premiere! promotional card
@@ -122,6 +130,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-SPY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   fr:
   - set_number: DUNE-FRSP1
     set_name: Duelist Nexus Premiere! promotional card
@@ -145,6 +157,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-FRY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   it:
   - set_number: DUNE-ITSP1
     set_name: Duelist Nexus Premiere! promotional card
@@ -168,6 +184,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-ITY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   pt:
   - set_number: DUNE-PTSP1
     set_name: Duelist Nexus Premiere! promotional card
@@ -191,6 +211,10 @@ sets:
     - Platinum Secret Rare
     - Ultimate Rare
     - Collector's Rare
+  - set_number: L5DD-PTY41
+    set_name: Legendary 5D's Decks
+    rarities:
+    - Common
   ja:
   - set_number: DUNE-JP038
     set_name: Duelist Nexus
