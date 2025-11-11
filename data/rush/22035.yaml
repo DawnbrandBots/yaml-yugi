@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>疑念の社交場<rt>ハック・フォー・ザ・インテル</rt></ruby>
   ja_romaji: Hakku Fō Za Interu
-  ko:
+  ko: 핵 포 더 인텔
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「潜入開始」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "시크릿오더"가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     相手がドローフェイズに通常のドローをした時に発動できる。
-  ko:
+  ko: |-
+    상대가 드로우 페이즈에 일반 드로우를 했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（風属性／守備力１２００）１体を選び、手札に加えるか自分フィールドに表側表示で特殊召喚する。その後、自分フィールドに表側表示の「ハンディーレディ」がいる場合、相手の手札をランダムに１枚選んで墓地へ送る事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(바람 속성 / 수비력 1200) 1장을 고르고, 패에 넣거나 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 자신 필드에 앞면 표시인 "핸디레이디"가 있을 경우, 상대의 패를 무작위로 1장 고르고 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -61,6 +64,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP22-JP059
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP22-KR059
     set_name: OuTerverSe of Terror
     rarities:
     - Rare

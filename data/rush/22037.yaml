@@ -8,7 +8,7 @@ name:
   pt:
   ja: アビスカイト・カレイドレス
   ja_romaji: Abisukaito Kareidoresu
-  ko:
+  ko: 어비스카이트 카레이드레스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「アビスカイト・プロテクション」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "어비스카이트 프로텍션"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、自分の墓地のモンスター２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 자신 묘지의 몬스터 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの攻撃表示モンスター（光属性／海竜族）を２体まで選ぶ。このターン、そのモンスターの攻撃力は８００アップし、戦闘では破壊されない。
-  ko:
+  ko: |-
+    자신 필드의 공격 표시 몬스터(빛 속성 / 해룡족)를 2장까지 고른다. 이 턴에, 그 몬스터의 공격력은 800 올리고, 전투로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -61,6 +64,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP22-JP061
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP22-KR061
     set_name: OuTerverSe of Terror
     rarities:
     - Rare

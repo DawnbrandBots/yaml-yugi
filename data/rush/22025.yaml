@@ -8,7 +8,7 @@ name:
   pt:
   ja: ハングリークーポン
   ja_romaji: Hangurī Kūpon
-  ko:
+  ko: 헝그리 쿠폰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（レベル３・６／闇属性／戦士族）を２体まで選び、その攻撃力をターン終了時まで１０００アップする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(레벨 3・6 / 어둠 속성 / 전사족)를 2장까지 고르고, 그 공격력을 턴 종료시까지 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP22-JP049
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP22-KR049
     set_name: OuTerverSe of Terror
     rarities:
     - Common

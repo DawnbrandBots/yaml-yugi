@@ -8,7 +8,7 @@ name:
   pt:
   ja: ゼラの<ruby>分<rt>ぶん</rt></ruby><ruby>岐<rt>き</rt></ruby><ruby>点<rt>てん</rt></ruby>
   ja_romaji: Zera no Bunkiten
-  ko:
+  ko: 제라의 분기점
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「ゼラの儀式」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "제라의 의식"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     レベルの合計が８以上になるように、自分フィールドの表側表示モンスターを素材として墓地へ送り、「聖域の天使ゼラート」または「巣窟の悪魔マゼラ」をリチュアル召喚する（余分にモンスターを素材にできない）。
-  ko:
+  ko: |-
+    레벨의 합계가 8 이상이 되도록, 자신 필드의 앞면 표시 몬스터를 소재로서 묘지로 보내고, "성역의 천사 제라토" 또는 "소굴의 악마 마제라"를 리추얼 소환한다(여분의 몬스터를 소재로 할 수 없다).
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -68,6 +71,11 @@ sets:
     set_name: Battle Pack 2025 Vol.3
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP22-KR052
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

@@ -8,7 +8,7 @@ name:
   pt:
   ja: ビビッドヘッド
   ja_romaji: Bibiddo Heddo
-  ko:
+  ko: 비비드헤드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを３枚めくり、お互いに確認する。自分はその中からモンスター（風属性／守備力１２００）または罠カードを合計２枚まで選んで墓地へ送る事ができる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 3장 넘기고, 서로 확인한다. 자신은 그 중에서 몬스터(바람 속성 / 수비력 1200) 또는 함정 카드를 합계 2장까지 고르고 묘지로 보낼 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP22-JP013
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP22-KR013
     set_name: OuTerverSe of Terror
     rarities:
     - Common

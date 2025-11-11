@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>ＯＴＳ<rt>アウターバース</rt></ruby>フレアフラックス
   ja_romaji: Autābāsu Furea Furakkusu
-  ko:
+  ko: OTS 플레어플럭스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地に「ＯＴＳ」がいる場合、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 "OTS(아우터버스)"가 있을 경우, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「ＯＴＳ」１体を選んで手札に加える。この効果でモンスター（レベル７／炎族）を選んだ場合、さらに自分は１枚ドローできる。
-  ko:
+  ko: |-
+    자신 묘지의 "OTS(아우터버스)" 1장을 고르고 패에 넣는다. 이 효과로 몬스터(레벨 7 / 화염족)를 고른 경우, 추가로 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -55,6 +57,11 @@ sets:
     set_name: Battle Pack 2025 Vol.3
     rarities:
     - Super Rare
+  ko:
+  - set_number: RD/KP22-KR041
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

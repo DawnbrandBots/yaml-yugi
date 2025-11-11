@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>号<rt>ごう</rt></ruby><ruby>令<rt>れい</rt></ruby>のナリキング・レックス
   ja_romaji: Gōrei no Narikingu Rekkusu
-  ko:
+  ko: 호령의 나리킹 렉스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にいるこのカードのカード名は「ナリキング・レックス」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "나리킹 렉스"가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが恐竜族のみで、自分の墓地にレジェンドモンスターまたは「成金ゴブリン」がある場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 공룡족뿐이고, 자신 묘지에 레전드 몬스터 또는 "갑부 고블린"이 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     相手フィールドのモンスター１体を選んで破壊する。その後、自分の墓地に「成金ゴブリン」がある場合、自分は１枚ドローできる。
-  ko:
+  ko: |-
+    상대 필드의 몬스터 1장을 고르고 파괴한다. 그 후, 자신 묘지에 "갑부 고블린"이 있을 경우, 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -65,6 +68,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP22-JP010
+    set_name: OuTerverSe of Terror
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP22-KR010
     set_name: OuTerverSe of Terror
     rarities:
     - Common
