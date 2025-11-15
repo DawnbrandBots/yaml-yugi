@@ -27,7 +27,9 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズに発動できる。このカードをエンドフェイズまで除外し、自分のデッキ・墓地から「アルバスの落胤」またはそのカード名が記されたレベル４以下のモンスター１体を特殊召喚する。②：このカードが墓地に存在する場合、自分の墓地・除外状態のレベル８融合モンスター１体とフィールドのカード１枚を対象として発動できる。そのカード２枚とこのカードをデッキに戻す。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的怪兽1只以上
+    此卡名的①②效果1回合仅可各使用1次。①：在自己・对手的主要阶段可以发动。将此卡直至结束阶段为止除外，从自己牌组・墓地将1只“阿尔白斯之落胤”或记载有该卡名的等级4以下的怪兽特殊召唤。②：此卡存在于墓地的情况下，以自己墓地・除外状态的1只等级8融合怪兽和场上的1张卡为对象可以发动。将该2张卡和此卡放回牌组。
 card_type: Monster
 monster_type_line: Spellcaster / Synchro / Effect
 attribute: LIGHT
@@ -45,8 +47,14 @@ sets:
   - set_number: BPRO-JP041
     set_name: Burst Protocol
     rarities:
-    - Ultimate Rare
     - Secret Rare
+    - Ultimate Rare
+    - Prismatic Secret Rare
+  zh-CN:
+  - set_number: BPRO-SC041
+    set_name: Burst Protocol
+    rarities:
+    - Ultra Rare
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released

@@ -28,7 +28,10 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：手札の他の「巨大戦艦」モンスター１体を相手に見せて発動できる。このカードを手札から特殊召喚する。その後、このカードにカウンターを３つ置く。②：自分・相手のメインフェイズに、このカードのカウンターを１つ取り除き、以下の効果から１つを選択して発動できる。●「ボスラッシュ」またはそのカード名が記された魔法・罠カード１枚をデッキから手札に加える。●自分の墓地からレベル９以下の「巨大戦艦」モンスター１体を特殊召喚する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：向对手出示手牌的1只其他“巨大战舰”怪兽可以发动。从手牌将此卡特殊召唤。然后，在此卡上放3个计数物。②：在自己・对手的主要阶段，去除此卡的1个计数物，可从以下效果中选择1个发动。
+    ●从牌组将1张“头目连战”或记载有该卡名的魔法・陷阱卡加入手牌。
+    ●从自己墓地将1只等级9以下的“巨大战舰”怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: LIGHT
@@ -46,6 +49,12 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BPRO-SC021
+    set_name: Burst Protocol
+    rarities:
+    - Rare
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

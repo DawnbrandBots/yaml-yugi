@@ -27,7 +27,9 @@ text:
     このカードをＳ召喚する場合、自分の中央のメインモンスターゾーンのモンスター１体をチューナーとして扱う事ができる。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードがＳ召喚した場合に発動できる。相手フィールドの全ての表側表示カードの効果は無効化される。②：自分・相手ターンに発動できる。自分フィールドの「エルフェンノーツ」モンスターと同じ縦列の、相手フィールドの全てのモンスターはターン終了時まで、融合・Ｓ・Ｘ・Ｌ召喚の素材にできない。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的怪兽2只
+    此卡同步召唤的情况下，可将自己中央的主要怪兽区域的1只怪兽视为协调。此卡名的②效果1回合仅可使用1次。①：此卡同步召唤的情况下可以发动。对手场上的所有表侧表示卡的效果无效化。②：在自己・对手回合中可以发动。与自己场上的“耀圣”怪兽同一纵列的、对手场上的所有怪兽直至回合结束时为止，不可作为融合・同步・超量・连接召唤的素材。
 card_type: Monster
 monster_type_line: Fiend / Synchro / Effect
 attribute: FIRE
@@ -45,8 +47,15 @@ sets:
   - set_number: BPRO-JP039
     set_name: Burst Protocol
     rarities:
-    - Ultimate Rare
     - Secret Rare
+    - Ultimate Rare
+    - Prismatic Secret Rare
+  zh-CN:
+  - set_number: BPRO-SC039
+    set_name: Burst Protocol
+    rarities:
+    - Secret Rare
+    - Ultimate Rare
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released

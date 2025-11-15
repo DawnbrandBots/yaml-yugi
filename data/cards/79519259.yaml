@@ -27,7 +27,9 @@ text:
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。自分の手札・デッキ・墓地から「バスター・モード」１枚を自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。②：手札を１枚捨てて発動できる。「バスター・モード」のカード名が記されたモンスター１体をデッキから選び、手札に加えるか特殊召喚する。このターン、自分はＳモンスターしかＥＸデッキから特殊召喚できない。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的怪兽1只以上
+    此卡名的①②效果1回合仅可各使用1次。①：此卡特殊召唤的情况下可以发动。从自己手牌・牌组・墓地将1张“爆裂模式”放置在自己场上。以此效果放置的卡在放置的回合也可以发动。②：舍弃1张手牌可以发动。从牌组挑选1只记载有“爆裂模式”卡名的怪兽，加入手牌或特殊召唤。此回合，自己从额外牌组仅可特殊召唤同步怪兽。
 card_type: Monster
 monster_type_line: Spellcaster / Synchro / Effect
 attribute: WIND
@@ -44,6 +46,12 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BPRO-SC038
+    set_name: Burst Protocol
+    rarities:
+    - Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
