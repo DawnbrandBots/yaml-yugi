@@ -31,7 +31,11 @@ text:
     ●光・闇：自分が受ける戦闘ダメージは０になる。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：对手不可将自己中央的主要怪兽区域的怪兽作为效果的对象。②：根据自己中央的主要怪兽区域的怪兽的属性，此卡获得以下效果。
+    ●炎・地：自己的同步怪兽攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
+    ●水・风：自己场上其他的表侧表示的魔法・陷阱卡不会因对手的效果被破坏。
+    ●光・暗：自己受到的战斗伤害变为0。
 card_type: Spell
 property: Continuous
 series:
@@ -45,6 +49,12 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Common
+  zh-CN:
+  - set_number: BPRO-SC057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+    - Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

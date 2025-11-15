@@ -25,7 +25,8 @@ text:
     このカードはＬＰを半分払って手札から発動する事もできる。①：自分フィールドに「ヴァレット」モンスターか「ヴァレル」モンスターが存在し、相手が魔法・罠カードを発動した時に発動できる。その発動を無効にし、そのカードをそのままセットする。この効果でセットしたカードはこのターン発動できない。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡也可通过支付一半LP来从手牌发动。①：自己场上存在“枪弹”怪兽或“枪管”怪兽，且对手发动魔法・陷阱卡时可以发动。将该发动无效，将该卡就此放置。以此效果放置的卡此回合不可发动。
 card_type: Trap
 property: Counter
 series:
@@ -36,6 +37,11 @@ images:
 sets:
   ja:
   - set_number: BPRO-JP070
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BPRO-SC070
     set_name: Burst Protocol
     rarities:
     - Common
