@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     被反转的此卡被送入墓地时，从我方墓地选择1只除「子型企鵝」以外冠有「企鵝」之名的怪兽，以表侧攻击表示或里侧守备表示特殊召唤。
   zh-CN: |-
-    反转过的这张卡被送去墓地时，从自己墓地选择「子型企鹅」以外的1只名字带有「企鹅」的怪兽表侧攻击表示或者里侧守备表示特殊召唤。
+    ①：反转的此卡被送至墓地的情况下，以“子型企鹅”以外的自己墓地的1只“企鹅”怪兽为对象发动。将该怪兽以表侧攻击表示或里侧守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Aqua / Effect
 attribute: WATER
@@ -91,6 +91,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Normal Rare
+  zh-CN:
+  - set_number: BPRO-SC090
+    set_name: Burst Protocol
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

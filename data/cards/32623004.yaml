@@ -32,7 +32,7 @@ text:
     "펭귄"이라는 이름이 붙은 몬스터의 효과가 발동했을 때에 발동한다. 이 카드를 묘지에서 특수 소환한다. "부정 펭귄"의 이 효과는 1턴에 1번밖에 사용할 수 없다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, "펭귄"이라는 이름이 붙은 카드의 효과에 의해서 필드 위에서 패로 되돌아가는 카드는 패로 되돌아가지 않고 게임에서 제외된다.
   zh-TW:
   zh-CN: |-
-    名字带有「企鹅」的怪兽的效果发动时发动。这张卡从墓地特殊召唤。「否定企鹅」的这个效果1回合只能使用1次。只要这张卡在场上表侧表示存在，名字带有「企鹅」的卡的效果从场上回到手卡的卡不回到手卡从游戏中除外。
+    此卡名的②效果1回合仅可使用1次。①：只要此卡存在于怪兽区域，因“企鹅”卡的效果要从场上被放回手牌的卡不回手牌而直接被除外。②：此卡存在于墓地，且“企鹅”怪兽的效果发动时发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Aqua / Effect
 attribute: WATER
@@ -87,6 +87,11 @@ sets:
   ko:
   - set_number: PRIO-KR037
     set_name: Primal Origin
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BPRO-SC091
+    set_name: Burst Protocol
     rarities:
     - Common
 limit_regulation:

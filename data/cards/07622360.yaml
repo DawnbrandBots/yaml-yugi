@@ -26,7 +26,9 @@ text:
     このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが儀式召喚した場合に発動できる。デッキから「デーモンズ・マタドール」以外の「デーモン」カード２枚を手札に加える。このターン、このカードは攻撃できない。②：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは０になる。③：このカードがモンスターと戦闘を行ったダメージ計算後に発動する。そのモンスターを破壊し、相手に１０００ダメージを与える。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    以“斗牛士降临之仪式 黑暗游行”降临
+    此卡名的①效果1回合仅可使用1次。①：此卡仪式召唤的情况下可以发动。从牌组将“恶魔斗牛士”以外的2张“恶魔”卡加入手牌。此回合，此卡不可攻击。②：此卡不会因战斗被破坏，因此卡的战斗对自己造成的战斗伤害变为0。③：此卡与怪兽进行战斗的伤害计算后发动。将该怪兽破坏，给予对手1000伤害。
 card_type: Monster
 monster_type_line: Warrior / Ritual / Effect
 attribute: DARK
@@ -71,6 +73,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: BPRO-SC095
+    set_name: Burst Protocol
+    rarities:
+    - Secret Rare
+    - Ultimate Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
