@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可选择场上以表侧表示存在的１只怪兽并发动。直至回合结束时，被选择的怪兽攻击力下降６００点，并不成为卡牌效果的对象，不会因卡牌效果而被破坏。
   zh-CN: |-
-    ①：以场上１只表侧表示怪兽为对象可以发动。该怪兽直至回合结束时为止，攻击力下降６００，不会成为效果的对象，不会因效果被破坏。
+    ①：以场上的1只表侧表示怪兽为对象可以发动。该怪兽直至回合结束时为止，攻击力下降600，不会因效果被破坏，双方不可将该怪兽作为效果的对象。
 card_type: Spell
 property: Quick-Play
 series:
@@ -258,6 +258,10 @@ sets:
     set_name: "Structure Deck: Egyptian Gods' Advent: Slifer the Sky Dragon & Obelisk the Tormentor"
     rarities:
     - Common
+  - set_number: BPRO-SCS17
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

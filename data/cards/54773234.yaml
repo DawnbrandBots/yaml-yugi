@@ -32,7 +32,7 @@ text:
     ①: 서로의 몬스터가 전투를 실행하는 데미지 계산시에 발동할 수 있다. 데미지 스텝 종료시까지, 이 카드 이외의 필드의 카드 효과는 무효화되고, 그 전투의 데미지 계산은 원래의 공격력 / 수비력으로 실행한다.
   zh-TW:
   zh-CN: |-
-    ①：双方怪兽进行战斗的伤害计算时才能发动。直到伤害步骤结束时，这张卡以外的场上的卡的效果无效化，那次战斗的伤害计算用原本的攻击力·守备力进行。
+    ①：双方怪兽进行战斗的伤害计算时可以发动。直至伤害步骤结束时，场上其他卡的效果无效化，该战斗的伤害计算以原本的攻击力・守备力进行。
 card_type: Spell
 property: Quick-Play
 series:
@@ -143,6 +143,11 @@ sets:
     set_name: 'Structure Deck: Master Link'
     rarities:
     - Common
+  zh-CN:
+  - set_number: BPRO-SCS18
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -41,9 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     效果怪兽3只以上
-    ①：这张卡不会被效果破坏。
-    ②：1回合1次，把自己的魔法与陷阱区域1张卡送去墓地才能发动。选这个回合被破坏送去自己或者对方的墓地的1只怪兽，把效果无效在自己场上特殊召唤。
-    ③：1回合1次，以场上1只怪兽为对象才能发动。那只怪兽变成表侧守备表示。对方不能对应这个效果的发动把卡的效果发动。这个效果在对方回合也能发动。
+    ①：场上的此卡不会因效果被破坏。②：1回合1次，将自己的魔法与陷阱区域的1张卡送至墓地可以发动。将1只在此回合被破坏并被送至自己或对手墓地的怪兽特殊召唤至自己场上。以此效果特殊召唤的怪兽的效果无效化。③：在每个自己・对手回合中1次，以场上的1只怪兽为对象可以发动（应对此发动，对手不可发动卡的效果）。将该怪兽改成表侧守备表示。
 card_type: Monster
 monster_type_line: Dragon / Link / Effect
 attribute: DARK
@@ -133,6 +131,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: BPRO-SCS04
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
