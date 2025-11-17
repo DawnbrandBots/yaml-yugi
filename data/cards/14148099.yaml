@@ -32,9 +32,7 @@ text:
     이 카드의 일반 소환시에 카운터를 3개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다.
   zh-TW:
   zh-CN: |-
-    ①：此卡召唤的情况下发动。在此卡上放3个计数物。
-    ②：此卡不会因战斗被破坏。
-    ③：此卡进行战斗的伤害步骤结束时发动。去除此卡的1个计数物。无法去除的情况下将此卡破坏。
+    ①：此卡召唤的情况下发动。在此卡上放3个计数物。②：此卡不会因战斗被破坏。③：此卡进行战斗的伤害步骤结束时发动。去除此卡的1个计数物。无法去除的情况下将此卡破坏。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -147,6 +145,11 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 25BZ-SC317
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

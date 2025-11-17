@@ -48,9 +48,9 @@ text:
     ●덱에서 레벨 4 이하의 "DD(디디)" 펜듈럼 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：对方怪兽的攻击宣言时可以从以下效果选择1个发动。
-    ●选自己墓地1只「DDD」怪兽除外。攻击怪兽的攻击力下降这个效果除外的怪兽的攻击力数值。
-    ●从卡组把1只4星以下的「DD」灵摆怪兽加入手卡。
+    ①：对手怪兽攻击宣言时，可从以下效果中选择1个发动。
+    ●从自己墓地将1只“DDD”怪兽除外，攻击怪兽的攻击力下降相当于所除外怪兽的攻击力的数值。
+    ●从牌组将1只等级4以下的“DD”灵摆怪兽加入手牌。
 card_type: Trap
 property: Normal
 series:
@@ -122,6 +122,11 @@ sets:
   ko:
   - set_number: DOCS-KR068
     set_name: Dimension of Chaos
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC348
+    set_name: Burst Protocol Complement Pack
     rarities:
     - Common
 limit_regulation:
