@@ -14,7 +14,9 @@ name:
   zh-TW:
   zh-CN:
 text:
-  en:
+  en: |-
+    (This card is always treated as an "Xyz" card.)
+    When this card is activated: You can Special Summon 1 "Number 39: Utopia" from your GY, and if you do, it gains ATK equal to the total ATK of all LIGHT "Utopia" and "Utopic" Xyz Monsters in your GY. When your attacking "Utopia" or "Utopic" Xyz Monster whose original Attribute is LIGHT destroys an opponent's monster by battle: You can make that monster you control lose 1000 ATK, and if you do, it can attack again in a row. You can only activate 1 "Endless Bond" per turn.
   de:
   es:
   fr:
@@ -26,14 +28,21 @@ text:
   zh-CN:
 card_type: Spell
 property: Continuous
+series:
+- Xyz
 images:
 - index: 1
-  image: 26PP-BoosterJP.png
+  image: EndlessBond-26PP-JP-OP.png
 sets:
   ja:
-  - set_number: 26PP-JP0??
+  - set_number: 26PP-JP013
     set_name: Premium Pack 2026
     rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Secret Rare (Special Red Version)
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

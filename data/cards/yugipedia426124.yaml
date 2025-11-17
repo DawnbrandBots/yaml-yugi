@@ -14,7 +14,8 @@ name:
   zh-TW:
   zh-CN:
 text:
-  en:
+  en: |-
+    You can reveal this card in your hand; Special Summon 1 "HERO" monster from your hand in Defense Position. If this card is sent to the GY to activate a card effect, or by card effect: You can Set 1 "Mask Change" from your Deck or GY. You can only use each effect of "Masked HERO Fountain" once per turn.
   de:
   es:
   fr:
@@ -25,7 +26,7 @@ text:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: ???
+monster_type_line: Warrior / Effect
 attribute: WATER
 level: 4
 atk: 1000
@@ -35,12 +36,17 @@ series:
 - HERO
 images:
 - index: 1
-  image: 26PP-BoosterJP.png
+  image: MaskedHEROFountain-26PP-JP-OP.png
 sets:
   ja:
-  - set_number: 26PP-JP0??
+  - set_number: 26PP-JP004
     set_name: Premium Pack 2026
     rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Secret Rare (Special Red Version)
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

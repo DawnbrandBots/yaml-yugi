@@ -41,8 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     “枪弹”怪兽2只
-    此卡名的效果1回合仅可使用1次。
-    ①：此卡存在于墓地，且自己场上存在“枪管”连接怪兽的情况下，解放自己场上的1只连接3以下的怪兽可以发动。将此卡特殊召唤。以此效果特殊召唤的此卡不可作为与解放了的怪兽连接标记数量相同的怪兽的连接素材。
+    此卡名的效果1回合仅可使用1次。①：此卡存在于墓地，且自己场上存在“枪管”连接怪兽的情况下，解放自己场上的1只连接3以下的怪兽可以发动。将此卡特殊召唤。以此效果特殊召唤的此卡不可作为与解放了的怪兽连接标记数量相同的怪兽的连接素材。
 card_type: Monster
 monster_type_line: Dragon / Link / Effect
 attribute: DARK
@@ -123,6 +122,11 @@ sets:
   ko:
   - set_number: CYHO-KR040
     set_name: Cybernetic Horizon
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25BZ-SC303
+    set_name: Burst Protocol Complement Pack
     rarities:
     - Common
 limit_regulation:
