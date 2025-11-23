@@ -14,25 +14,25 @@ jobs:
     outputs:
       status: ${{ steps.commit.outputs.status }}
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           path: yaml-yugi
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           repository: DawnbrandBots/yaml-yugipedia
           path: yaml-yugipedia
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           path: yaml-yugi-ko
           repository: DawnbrandBots/yaml-yugi-ko
           sparse-checkout: |
             *.csv
           sparse-checkout-cone-mode: false
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           repository: DawnbrandBots/yaml-yugi-zh
           path: yaml-yugi-zh
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           repository: db-ygoresources-com/yugioh-card-history
           path: yugioh-card-history
