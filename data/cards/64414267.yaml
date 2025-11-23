@@ -34,7 +34,7 @@ text:
     Todos os monstros com a face para cima no campo se tornam de TREVAS. Você pode desassociar 1 Matéria Xyz deste card e descartar 1 card; Invoque por Invocação-Especial do seu Deck Adicional, 1 Monstro Xyz "Cavaleirost" de LUZ ao usar este card com a face para cima que você controla como Matéria Xyz e, além disso, você não pode Invocar outros monstros por Invocação-Xyz pelo resto deste turno. (Isso é considerada uma Invocação-Xyz. As Matérias Xyz associadas a este card também se tornam Matérias Xyz no monstro Invocado.) Este efeito pode ser ativado durante o turno de qualquer duelista se você tiver 7 ou mais monstros "Cavaleirost" com nomes diferentes no seu Cemitério.
   ja: |-
     レベル４「テラナイト」モンスター×２
-    ①：このカードがモンスターゾーンに存在する限り、フィールドの全ての表側表示モンスターは闇属性になる。②：このカードのＸ素材を１つ取り除き、手札を１枚捨てて発動できる。光属性の「テラナイト」Ｘモンスター１体を、自分フィールドのこのカードの上に重ねてＸ召喚扱いとしてエクストラデッキから特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスターをＸ召喚できない。自分の墓地に「テラナイト」モンスターが７種類以上存在する場合、この効果は相手ターンでも発動できる。
+    ①：このカードがモンスターゾーンに存在する限り、フィールドの表側表示モンスターは闇属性になる。②：このカードのＸ素材を１つ取り除き、手札を１枚捨てて発動できる（自分の墓地の「テラナイト」モンスターが７種類以上の場合、この効果は相手ターンでも発動できる）。光属性の「テラナイト」Ｘモンスター１体を自分フィールドのこのカードの上に重ねてＸ召喚扱いでＥＸデッキから特殊召喚する。この効果の発動後、ターン終了時まで自分はモンスターをＸ召喚できない。
   ko: |-
     레벨 4 "테라나이트" 몬스터 × 2
     ①: 이 카드가 몬스터 존에 존재하는 한, 필드의 모든 앞면 표시 몬스터는 어둠 속성이 된다. ②: 이 카드의 엑시즈 소재를 1개 제거하여, 패를 1장 버리고 발동할 수 있다. 빛 속성의 "테라나이트" 엑시즈 몬스터 1장을, 자신 필드의 이 카드 위에 겹쳐 엑시즈 소환으로 취급하여 엑스트라 덱에서 특수 소환한다. 이 효과의 발동 후, 턴 종료시까지 자신은 몬스터를 엑시즈 소환할 수 없다. 자신 묘지에 "테라나이트" 몬스터가 7종류 이상 존재할 경우, 이 효과는 상대 턴에도 발동할 수 있다.
@@ -92,6 +92,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  - set_number: TW03-JP058
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: INOV-KR051
     set_name: 'Invasion: Vengeance'

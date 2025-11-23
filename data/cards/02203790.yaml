@@ -8,7 +8,7 @@ name:
   it: Hyunlei Sciabola-XX
   pt: Sabre-XX Hyunlei
   ja: <ruby>ＸＸ<rt>ダブルエックス</rt></ruby>－セイバー ヒュンレイ
-  ja_romaji: Daburuekkusu-Seibā Hyunrei
+  ja_romaji: Daburu Ekkusu-Seibā Hyunrei
   ko: <ruby>XX<rt>더블 엑스</rt></ruby>－세이버 휸레이
   ko_rr:
   zh-TW: XX－軍刀 迅雷
@@ -33,8 +33,8 @@ text:
     1 Regulador + 1+ monstros "Sabre-X" não-Reguladores
     Quando este card for Invocado por Invocação-Sincro, você pode selecionar e destruir até 3 Cards de Magia ou Armadilha no campo.
   ja: |-
-    チューナー＋チューナー以外の「Ｘ－セイバー」と名のついたモンスター１体以上
-    このカードがシンクロ召喚に成功した時、フィールド上の魔法・罠カードを３枚まで選択して破壊できる。
+    チューナー＋チューナー以外の「Ｘ－セイバー」モンスター１体以上
+    ①：このカードがＳ召喚した時、フィールドの魔法・罠カードを３枚まで対象として発動できる。そのカードを破壊する。
   ko: |-
     튜너 ＋ 튜너 이외의 "X－세이버"라는 이름이 붙은 몬스터 1장 이상
     이 카드가 싱크로 소환에 성공했을 때, 필드 위에 존재하는 마법/함정 카드를 3장까지 선택하고 파괴할 수 있다.
@@ -128,6 +128,10 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  - set_number: TW03-JP011
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: ABPF-KR044
     set_name: Absolute Powerforce

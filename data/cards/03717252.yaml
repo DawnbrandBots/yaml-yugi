@@ -33,7 +33,7 @@ text:
     VIRE: Você pode comprar 2 cards e, depois, descarte 1 card.
     Se este card for enviado para o Cemitério por um efeito de card: você pode comprar 1 card. Você só pode usar 1 efeito de "Besta Sombraneco" por turno e apenas uma vez por turno.
   ja: |-
-    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合に発動できる。自分はデッキから２枚ドローし、その後手札を１枚選んで捨てる。②：このカードが効果で墓地へ送られた場合に発動できる。自分はデッキから１枚ドローする。
+    このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合に発動できる。自分は２枚ドローする。その後、自分の手札を１枚選んで捨てる。②：このカードが効果で墓地へ送られた場合に発動できる。自分は１枚ドローする。
   ko: |-
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 리버스했을 경우에 발동할 수 있다. 자신은 덱에서 2장 드로우하고, 그 후 패를 1장 골라 버린다. ②: 이 카드가 효과로 묘지로 보내졌을 경우에 발동할 수 있다. 자신은 덱에서 1장 드로우한다.
   zh-TW:
@@ -186,6 +186,11 @@ sets:
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common
+  - set_number: TW03-JP070
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: DUEA-KR027
     set_name: Duelist Alliance

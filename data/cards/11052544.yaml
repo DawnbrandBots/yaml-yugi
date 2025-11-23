@@ -26,7 +26,7 @@ text:
     Distruggi un numero di carte scoperte sul Terreno pari al numero di mostri "Sciabola-X" scoperti in Posizione di Attacco che controlli.
   pt:
   ja: |-
-    自分フィールド上に表側攻撃表示で存在する「Ｘ－セイバー」と名のついたモンスターの数だけ、フィールド上に表側表示で存在するカードを選んで破壊する。
+    ①：自分フィールドの攻撃表示の「Ｘ－セイバー」モンスターの数だけ、フィールドの表側表示カードを破壊する。
   ko: |-
     자신 필드 위에 앞면 공격 표시로 존재하는 "X－세이버"라는 이름이 붙은 몬스터의 수만큼, 필드 위에 앞면 표시로 존재하는 카드를 파괴한다.
   zh-TW:
@@ -94,6 +94,10 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  - set_number: TW03-JP014
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: ANPR-KR058
     set_name: Ancient Prophecy

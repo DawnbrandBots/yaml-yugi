@@ -27,7 +27,7 @@ text:
   pt: |-
     Invoque por Invocação-Fusão 1 Monstro de Fusão "Sombraneco" do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão. Você só pode ativar 1 "Fusão do El Sombraneco" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールドから「シャドール」融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体をＥＸデッキから融合召喚する。
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・フィールドのモンスターを融合素材とし、「シャドール」融合モンスター１体を融合召喚する。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패 / 필드에서 "섀도르" 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다.
   zh-TW:
@@ -161,6 +161,11 @@ sets:
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common
+  - set_number: TW03-JP082
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
+    - Secret Parallel Rare
   ko:
   - set_number: NECH-KR064
     set_name: The New Challengers
