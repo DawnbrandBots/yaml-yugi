@@ -1,7 +1,7 @@
 konami_id: 21960
 password: 41069676
 name:
-  en: Killer Tune Loudness War
+  en: Kewl Tune Loudness War
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 杀手旋律・响度战争
 text:
   en: |-
-    1 Tuner + 1+ Tuners
-    Other Tuners you control cannot be destroyed by card effects, also your opponent cannot target them with card effects. When your opponent activates a card or effect (Quick Effect): You can banish 1 "Killer Tune" monster from your GY; apply its effect that activates if sent to the GY as Synchro Material. You can only use this effect of "Killer Tune Loudness War" once per turn.
+    2+ Tuners
+    Other Tuners you control cannot be destroyed by card effects, also your opponent cannot target them with card effects. When your opponent activates a card or effect (Quick Effect): You can banish 1 "Kewl Tune" monster from your GY; apply that banished monster's effect that activates when it is sent to the GY as Synchro Material. You can only use this effect of "Kewl Tune Loudness War" once per turn.
   de:
   es:
   fr:
@@ -38,13 +38,43 @@ attribute: LIGHT
 level: 6
 atk: 0
 def: 3000
-materials: 1 Tuner + 1 or more Tuners
+materials: 2 or more Tuners
 series:
-- Killer Tune
+- Kewl Tune
 images:
 - index: 1
-  image: KillerTuneLoudnessWar-DBPR-JP-C.png
+  image: KewlTuneLoudnessWar-DBPR-JP-C.png
 sets:
+  en:
+  - set_number: PHRE-EN038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  de:
+  - set_number: PHRE-DE038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  es:
+  - set_number: PHRE-SP038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: PHRE-FR038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  it:
+  - set_number: PHRE-IT038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: PHRE-PT038
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
   ja:
   - set_number: DBPR-JP038
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -69,9 +99,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1140888

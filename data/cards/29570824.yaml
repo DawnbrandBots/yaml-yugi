@@ -1,7 +1,7 @@
 konami_id: 21944
 password: 29570824
 name:
-  en: Enneacraft ϝ' "tromarIA"
+  en: Ekto Enneacraft - "tromarIA"
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 纠罪巧ϝ’－恐怖“tromarIA”
 text:
   en: |-
-    FLIP: Negate the effects of 1 Effect Monster your opponent controls until the end of this turn.
-    You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) (Quick Effect): You can change this Set card to face-up Defense Position; add 1 "Enneacraft" card from your Deck to your hand.
+    FLIP: Negate the effects of 1 Effect Monster your opponent controls, until the end of this turn.
+    When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) (Quick Effect): You can change this face-down card to face-up Defense Position; add 1 "Enneacraft" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 1000
 pendulum_scale: 0
 pendulum_effect:
   en: |-
-    Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 "Enneacraft" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of "Enneacraft ϝ' "tromarIA"" once per turn.
+    Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 "Enneacraft" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of "Ekto Enneacraft - "tromarIA"" once per turn.
   de:
   es:
   fr:
@@ -55,8 +55,38 @@ series:
 - Enneacraft
 images:
 - index: 1
-  image: EnneacraftϝtromarIA-DBPR-JP-C.png
+  image: EktoEnneacrafttromarIA-DBPR-JP-C.png
 sets:
+  en:
+  - set_number: PHRE-EN018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+  de:
+  - set_number: PHRE-DE018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+  es:
+  - set_number: PHRE-SP018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+  fr:
+  - set_number: PHRE-FR018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+  it:
+  - set_number: PHRE-IT018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+  pt:
+  - set_number: PHRE-PT018
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
   ja:
   - set_number: DBPR-JP018
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -78,9 +108,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1140486

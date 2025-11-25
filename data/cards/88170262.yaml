@@ -1,7 +1,7 @@
 konami_id: 21958
 password: 88170262
 name:
-  en: Killer Tune Remix
+  en: Kewl Tune Remix
   de:
   es:
   fr:
@@ -15,8 +15,8 @@ name:
   zh-CN: 杀手旋律・重混
 text:
   en: |-
-    "Killer Tune Mix" + 1+ Tuners
-    Gains 1500 ATK while your opponent has a Tuner in their field or GY. During your opponent's turn (Quick Effect): You can Tribute this card; take 2 non-Synchro Tuners from your GY, add 1 of them to your hand, and if you do, Special Summon the other, then immediately after this effect resolves, you can Synchro Summon 1 Tuner. You can only use this effect of "Killer Tune Remix" once per turn.
+    "Kewl Tune Mix" + 1+ Tuners
+    Gains 1500 ATK while your opponent has a Tuner in their field or GY. During your opponent's turn (Quick Effect): You can Tribute this card; choose 2 non-Synchro Tuners in your GY, add 1 of them to your hand, and if you do, Special Summon the other, then immediately after this effect resolves, you can Synchro Summon 1 Tuner Synchro Monster. You can only use this effect of "Kewl Tune Remix" once per turn.
   de:
   es:
   fr:
@@ -38,13 +38,43 @@ attribute: DARK
 level: 5
 atk: 1500
 def: 2000
-materials: '"Killer Tune Mix" + 1 or more Tuners'
+materials: '"Kewl Tune Mix" + 1 or more Tuners'
 series:
-- Killer Tune
+- Kewl Tune
 images:
 - index: 1
-  image: KillerTuneRemix-DBPR-JP-C.png
+  image: KewlTuneRemix-DBPR-JP-C.png
 sets:
+  en:
+  - set_number: PHRE-EN036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  de:
+  - set_number: PHRE-DE036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  es:
+  - set_number: PHRE-SP036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: PHRE-FR036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  it:
+  - set_number: PHRE-IT036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: PHRE-PT036
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
   ja:
   - set_number: DBPR-JP036
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -69,9 +99,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1140887

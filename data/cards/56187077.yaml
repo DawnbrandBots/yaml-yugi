@@ -1,7 +1,7 @@
 konami_id: 21942
 password: 56187077
 name:
-  en: Enneacraft α' "orgIA"
+  en: Proto Enneacraft - "orgIA"
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     FLIP: Destroy 1 monster your opponent controls.
-    You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position. When your opponent activates a monster effect in the hand (Quick Effect): You can change this Set card to face-up Defense Position;  add 1 "Enneacraft" card from your Deck to your hand.
+    When your opponent activates a monster effect in the hand (Quick Effect): You can change this face-down card to face-up Defense Position;  add 1 "Enneacraft" card from your Deck to your hand. You can reveal this card in your hand; Special Summon 1 monster from your hand in face-down Defense Position. You cannot Special Summon the turn you activate this effect, except in face-down Defense Position.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 1000
 pendulum_scale: 0
 pendulum_effect:
   en: |-
-    Each time a monster(s) is flipped face-up, place 1 Sinquisition Counter on this card. You can pay 900 LP; reveal 3 "Enneacraft" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, also you shuffle the rest back into the Deck. You can only use this effect of "Enneacraft α' "orgIA"" once per turn.
+    Each time a monster(s) is flipped face-up, place 1 E.C. Counter on this card. You can pay 900 LP; reveal 3 "Enneacraft" cards from your Deck, your opponent randomly picks 1 for you to add to your hand, shuffle the rest into the Deck. You can only use this effect of "Proto Enneacraft - "orgIA"" once per turn.
   de:
   es:
   fr:
@@ -55,8 +55,44 @@ series:
 - Enneacraft
 images:
 - index: 1
-  image: EnneacraftαorgIA-DBPR-JP-C.png
+  image: ProtoEnneacraftorgIA-DBPR-JP-C.png
 sets:
+  en:
+  - set_number: PHRE-EN016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  de:
+  - set_number: PHRE-DE016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  es:
+  - set_number: PHRE-SP016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  fr:
+  - set_number: PHRE-FR016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  it:
+  - set_number: PHRE-IT016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  pt:
+  - set_number: PHRE-PT016
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
   ja:
   - set_number: DBPR-JP016
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -78,9 +114,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1140482

@@ -1,7 +1,7 @@
 konami_id: 21950
 password: 17621695
 name:
-  en: Enneapolis, the Sinquisition City
+  en: Enneapolis
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as an "Enneacraft" card.)
-    Once per turn, during the End Phase: Remove all Sinquisition Counters from your field, and if you do, inflict 900 damage to your opponent for each. You can only use each of the following effects of "Enneapolis, the Sinquisition City" once per turn. You can target any number of "Enneacraft" Pendulum Monster Cards you control; return them to the hand. If an "Enneacraft" Pendulum Monster(s) you control is flipped face-up during the Main Phase: You can return to the hand, or place in your Pendulum Zone, 1 of them.
+    Once per turn, during the End Phase: Remove all E.C. Counters from your field, and if you do, your opponent takes 900 damage for each. You can only use each of the following effects of "Enneapolis" once per turn. You can target any number of "Enneacraft" Pendulum Monster Cards you control; return them to the hand. If an "Enneacraft" Pendulum Monster(s) you control is flipped face-up during the Main Phase: You can choose 1 of them and either return it to the hand or place it in your Pendulum Zone.
   de:
   es:
   fr:
@@ -35,8 +35,38 @@ series:
 - Enneacraft
 images:
 - index: 1
-  image: EnneapolistheSinquisitionCity-DBPR-JP-SR.png
+  image: Enneapolis-DBPR-JP-SR.png
 sets:
+  en:
+  - set_number: PHRE-EN024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  de:
+  - set_number: PHRE-DE024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  es:
+  - set_number: PHRE-SP024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: PHRE-FR024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  it:
+  - set_number: PHRE-IT024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: PHRE-PT024
+    set_name: Phantom Revenge
+    rarities:
+    - Super Rare
   ja:
   - set_number: DBPR-JP024
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1140498

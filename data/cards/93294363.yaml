@@ -1,7 +1,7 @@
 konami_id: 21940
 password: 93294363
 name:
-  en: Ipt al Hecahands
+  en: Ib'al-Hecahands
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 百臂无形诱惑手
 text:
   en: |-
-    When your opponent activates a monster effect and you control a "Hecahands" monster: Negate the activation, and if you do, destroy that monster, then you can Special Summon it to your field. You can only activate 1 "Ipt al Hecahands" per turn.
+    When your opponent activates a monster effect, while you control a "Hecahands" monster: Negate the activation, and if you do, destroy that monster, then you can Special Summon the destroyed monster to your field. You can only activate 1 "Ib'al-Hecahands" per turn.
   de:
   es:
   fr:
@@ -34,8 +34,44 @@ series:
 - Hecahands
 images:
 - index: 1
-  image: IptalHecahands-DBPR-JP-C.png
+  image: IbalHecahands-DBPR-JP-C.png
 sets:
+  en:
+  - set_number: PHRE-EN010
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  de:
+  - set_number: PHRE-DE010
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  es:
+  - set_number: PHRE-SP009
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  fr:
+  - set_number: PHRE-FR010
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  it:
+  - set_number: PHRE-IT010
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
+  pt:
+  - set_number: PHRE-PT010
+    set_name: Phantom Revenge
+    rarities:
+    - Rare
+    - Super Rare
   ja:
   - set_number: DBPR-JP010
     set_name: 'Deck-Build Pack: Phantom Revengers'
@@ -57,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1135371
