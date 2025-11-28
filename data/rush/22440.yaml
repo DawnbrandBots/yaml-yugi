@@ -1,0 +1,61 @@
+konami_id: 22440
+name:
+  en: Intensive Magician
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>集<rt>しゅう</rt></ruby><ruby>約<rt>やく</rt></ruby>の<ruby>魔<rt>ま</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>師<rt>し</rt></ruby>
+  ja_romaji: Shūyaku no Madōshi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    During the turn you Normal Summoned this card, send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードを召喚したターンに、デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    This card gains ATK equal to [the number of Spell/Trap Cards on your field] x 500 until the end of this turn. Then, if you have "Mage Power" in your Graveyard, this card gains an additional 1000 ATK until the end of this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    このカードの攻撃力はターン終了時まで、［自分フィールドの魔法・罠カードの数］×５００アップする。自分の墓地に「魔導師の力」がある場合、さらにこのカードの攻撃力はターン終了時まで１０００アップする。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Spellcaster / Effect
+attribute: EARTH
+level: 4
+atk: 1000
+def: 500
+images:
+- index: 1
+  image: IntensiveMagician-RDKP23-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP23-JP035
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1158934
