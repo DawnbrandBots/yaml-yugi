@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Look at your opponent's hand. You can send 1 monster with ATK less than or equal to [the ATK of the face-up monster with the highest ATK on your field] from it to the Graveyard. Then, if you sent a monster to the Graveyard by this effect, inflict 500 damage to your opponent.
+    Look at your opponent's hand. You can send 1 monster with ATK equal or less than [the face-up monster with the highest ATK on your field] from your opponent's hand to the Graveyard. If you sent a monster to the Graveyard by this effect, also inflict 500 damage to your opponent.
   de:
   es:
   fr:
@@ -62,7 +62,4 @@ sets:
     set_name: Dark Matter of Phantoms
     rarities:
     - Common
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1061374
