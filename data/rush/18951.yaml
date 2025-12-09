@@ -23,7 +23,7 @@ requirement:
   ja: |-
     自分フィールドにこのカード以外のモンスターがいない場合、自分フィールドの表側表示のこのカードを持ち主の手札に戻して発動できる。
   ko: |-
-    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 자신 필드의 이 카드를 주인의 패로 되돌리고 발동할 수 있다.
+    자신 필드에 이 카드 이외의 몬스터가 없을 경우, 자신 필드의 앞면 표시인 이 카드를 주인의 패로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -74,6 +74,10 @@ sets:
     - Secret Rare
   - set_number: RD/TB02-KR072
     set_name: 'Triple Build Pack: Evolution Impact'
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KR020
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Common
 yugipedia_page_id: 930388

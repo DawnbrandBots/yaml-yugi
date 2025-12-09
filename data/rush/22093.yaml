@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>幻<rt>げん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>帝<rt>てい</rt></ruby>リンドルム
   ja_romaji: Genryūtei Rindorumu
-  ko:
+  ko: 환룡 제왕 린드룸
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードは表側表示モンスター（レベル５以上／守備力１０００）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 앞면 표시 몬스터(레벨 5 이상 / 수비력 1000) 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに、自分のＥＸデッキにカードがない場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에, 자신의 엑스트라 덱에 카드가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     相手は自身のフィールドのカード２枚を選ぶ。自分はその中から１枚を選んで持ち主のデッキに戻す。
-  ko:
+  ko: |-
+    상대는 자신 필드의 카드 2장을 고른다. 자신은 그 중에서 1장을 고르고 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,6 +72,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0F-JPS02
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0F-KR002
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KRS02
     set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Super Rare

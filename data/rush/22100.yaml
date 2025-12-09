@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>登<rt>とう</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>
   ja_romaji: Teiō no Tōryū
-  ko:
+  ko: 제왕의 등룡
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（守備力１０００）３体を選んでデッキに戻す。その後、自分のＥＸデッキにカードがない場合、相手フィールドの表側表示モンスター１体を選んで破壊できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(수비력 1000) 3장을 고르고 덱으로 되돌린다. 그 후, 자신의 엑스트라 덱에 카드가 없을 경우, 상대 필드의 앞면 표시 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -52,6 +54,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0F-JPS07
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0F-KR030
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KRS07
     set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Super Rare

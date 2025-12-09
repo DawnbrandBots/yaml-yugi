@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>帝<rt>てい</rt></ruby><ruby>王<rt>おう</rt></ruby>の<ruby>凱<rt>がい</rt></ruby><ruby>歌<rt>か</rt></ruby>
   ja_romaji: Teiō no Gaika
-  ko:
+  ko: 제왕의 개가
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のＥＸデッキにカードがない場合、手札のモンスター（攻撃力２０００または２４００／守備力１０００）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신의 엑스트라 덱에 카드가 없을 경우, 패의 몬스터(공격력 2000 또는 2400 / 수비력 1000) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は２枚ドローする。その後、相手の墓地のカードを２枚まで選んでデッキに戻す事ができる。
-  ko:
+  ko: |-
+    자신은 2장 드로우한다. 그 후, 상대 묘지의 카드를 2장까지 고르고 덱으로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -52,6 +54,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0F-JPS06
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0F-KR024
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KRS06
     set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Super Rare

@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>竜<rt>りゅう</rt></ruby><ruby>帝<rt>てい</rt></ruby>リンドルム
   ja_romaji: Ryūtei Rindorumu
-  ko:
+  ko: 룡 제왕 린드룸
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを攻撃表示でアドバンス召喚したターンに、自分のＥＸデッキにカードがない場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 공격 표시로 어드밴스 소환한 턴에, 자신의 엑스트라 덱에 카드가 없을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のカードを２枚まで選んでデッキに戻す。その後、相手フィールドの表側表示の効果モンスター１体を選んでその攻撃力・守備力をターン終了時まで８００ダウンできる。
-  ko:
+  ko: |-
+    상대 묘지의 카드를 2장까지 고르고 덱으로 되돌린다. 그 후, 상대 필드의 앞면 표시인 효과 몬스터 1장을 고르고 그 공격력 / 수비력을 턴 종료시까지 800 내릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -56,6 +58,15 @@ sets:
     rarities:
     - Common
   - set_number: RD/SD0F-JPS03
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Super Rare
+  ko:
+  - set_number: RD/SD0F-KR003
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KRS03
     set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Super Rare

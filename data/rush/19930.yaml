@@ -37,7 +37,7 @@ effect:
   ja: |-
     相手の魔法＆罠ゾーンの裏側表示のカード１枚を選んで確認する。そのカードが罠カードだった場合、さらに選んだカードを破壊する。
   ko: |-
-    상대의 마법 & 함정 존의 뒷면 표시의 카드 1장을 고르고 확인한다. 그 카드가 함정 카드였을 경우, 추가로 고른 카드를 파괴한다.
+    상대의 마법 & 함정 존의 뒷면 표시인 카드 1장을 고르고 확인한다. 그 카드가 함정 카드였을 경우, 추가로 고른 카드를 파괴한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -58,6 +58,10 @@ sets:
   ko:
   - set_number: RD/EV05-KR015
     set_name: Rush Duel Event Pack 2024 Vol.1
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KR028
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
     rarities:
     - Common
 is_translation_unofficial:
