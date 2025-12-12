@@ -40,8 +40,8 @@ text:
     자신 필드 위에 존재하는 카드를 3장까지 묘지로 보내고 발동한다. 상대의 엑스트라 덱을 확인하고, 이 효과를 발동하기 위해서 묘지로 보낸 매수와 같은 수만큼 카드를 선택하여 묘지로 보낸다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    龙族调整＋调整以外的鸟兽族怪兽1只以上
-    ①：1回合1次，把自己场上的卡最多3张送去墓地才能发动。把对方的额外卡组确认，选为这个效果发动而送去墓地数量的卡送去墓地。
+    龙族协调＋协调以外的鸟兽族怪兽1只以上
+    ①：1回合1次，将自己场上的最多3张卡送至墓地可以发动。确认对手的额外牌组，依为发动此效果而送至了墓地的数量，将卡送至墓地。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: WIND
@@ -139,6 +139,11 @@ sets:
     set_name: "Hidden Arsenal 4: Trishula's Triumph"
     rarities:
     - Secret Rare
+  zh-CN:
+  - set_number: TW03-SC043
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

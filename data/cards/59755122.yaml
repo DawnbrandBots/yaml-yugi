@@ -32,7 +32,7 @@ text:
     ①: 1턴에 1번, 이 카드가 장착 카드로 취급하여 장착되어 있을 경우에 발동할 수 있다. 장착되어 있는 이 카드를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：1回合1次，此卡视为装备卡并被装备中的情况下可以发动。将被装备的此卡特殊召唤。
+    ①：此卡被装备中的情况下，1回合1次，在自己的主要阶段可以发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Tuner / Effect
 attribute: WIND
@@ -198,6 +198,11 @@ sets:
     set_name: Classic Pack 01
     rarities:
     - Common
+  - set_number: TW03-SC033
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 일반 소환에 성공한 턴에 자신은 통상 소환 이외에 1번만 자신 메인 페이즈에 "세이크리드" 몬스터 1장을 일반 소환할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡召唤成功的回合，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「星圣」怪兽召唤。
+    ①：此卡召唤时适用。此回合，自己在通常召唤之外，可在自己的主要阶段追加1次召唤1只“星圣”怪兽。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: LIGHT
@@ -110,6 +110,11 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW03-SC059
+    set_name: Terminal World 3
+    rarities:
     - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited

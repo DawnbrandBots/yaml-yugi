@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 필드에 앞면 표시로 존재하는 한, 1번만 상대 몬스터의 공격 선언시에 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 공격을 무효로 한다. ②: 이 카드가 전투로 상대의 수비 표시 몬스터를 파괴했을 경우, 자신 묘지의 레벨 4 이하의 "X－세이버" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    ①：只在这张卡在场上表侧表示存在才有1次，对方怪兽的攻击宣言时以那1只怪兽为对象才能发动。那次攻击无效。②：这张卡战斗破坏对方的守备表示怪兽的场合，以自己墓地1只4星以下的「X-剑士」怪兽为对象才能发动。那只怪兽特殊召唤。
+    ①：只要此卡以表侧表示存在，仅限1次，对手怪兽攻击宣言时，以该1只怪兽为对象可以发动。将该攻击无效。②：此卡战斗破坏对手的守备表示怪兽时，以自己墓地的1只等级4以下的“X－军刀”怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Warrior / Tuner / Effect
 attribute: EARTH
@@ -126,6 +126,11 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW03-SC012
+    set_name: Terminal World 3
+    rarities:
     - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited

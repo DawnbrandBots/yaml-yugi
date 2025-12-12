@@ -38,7 +38,7 @@ text:
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 리버스했을 경우에 발동할 수 있다. 덱에서 "섀도르" 마법 / 함정 카드 1장을 패에 넣는다. ②: 이 카드가 효과로 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "섀도르 고슴도치" 이외의 "섀도르" 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合1次，仅可使用其中1个。①：在此卡反转的情况下可以发动。将牌组中的1张“影依”魔法・陷阱卡加入手牌。②：在此卡因效果被送至墓地的情况下可以发动。从牌组中将1只“影依・刺猬”以外的“影依”怪兽加入手牌。
+    此卡名的①②效果1回合1次，仅可使用其中1个。①：此卡反转的情况下可以发动。从牌组将1张“影依”魔法・陷阱卡加入手牌。②：此卡因效果被送至墓地的情况下可以发动。从牌组将“影依・刺猬”以外的1只“影依”怪兽加入手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Flip / Effect
 attribute: DARK
@@ -185,6 +185,11 @@ sets:
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Common
+  - set_number: TW03-SC087
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
+    - Secret Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -40,8 +40,8 @@ text:
     ①: 이 카드가 싱크로 소환에 성공했을 때, 자신 묘지의 드래곤족인 "드래그니티" 몬스터를 임의의 수만큼 대상으로 하고 발동할 수 있다. 그 드래곤족 몬스터를 장착 카드로 취급하여 이 카드에 장착한다. ②: 이 카드의 공격력은 이 카드에 장착된 "드래그니티" 카드의 수 × 300 올린다.
   zh-TW:
   zh-CN: |-
-    龙族协调＋1只以上协调以外的鸟兽族怪兽
-    ①：此卡同步召唤成功时，以自己墓地任意数量的龙族“龙骑兵团”怪兽为对象可以发动。将该龙族怪兽视为装备卡装备于此卡。②：此卡的攻击力上升被装备于此卡的“龙骑兵团”卡的数量×300。
+    龙族协调＋协调以外的鸟兽族怪兽1只以上
+    ①：此卡同步召唤时，以自己墓地任意数量的龙族的“龙骑兵团”怪兽为对象可以发动。将该龙族怪兽视为装备魔法卡装备于此卡。②：此卡的攻击力上升被装备于此卡的“龙骑兵团”卡的数量×300的数值。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: WIND
@@ -154,6 +154,10 @@ sets:
     set_name: Classic Pack 01
     rarities:
     - Rare
+  - set_number: TW03-SC044
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

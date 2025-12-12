@@ -48,9 +48,9 @@ text:
     ●대상 몬스터의 레벨을 1개 내린다.
   zh-TW:
   zh-CN: |-
-    这张卡不能作为同调素材。①：可以以场上1只「星圣」怪兽为对象从以下效果选择1个发动。这个效果1回合可以使用最多2次。
-    ●作为对象的怪兽的等级上升1星。
-    ●作为对象的怪兽的等级下降1星。
+    此卡不可作为同步素材。①：1回合最多2次，以场上的1只“星圣”怪兽为对象，可从以下效果中选择1个发动。
+    ●该怪兽的等级上升1。
+    ●该怪兽的等级下降1。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: LIGHT
@@ -158,6 +158,11 @@ sets:
     set_name: 'Booster SP: Raging Masters'
     rarities:
     - Common
+    - Normal Parallel Rare
+  zh-CN:
+  - set_number: TW03-SC060
+    set_name: Terminal World 3
+    rarities:
     - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited

@@ -60,9 +60,9 @@ text:
     ●자신 필드의 앞면 표시 몬스터 1장을 골라 뒷면 수비 표시로 한다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合1次，仅可使用其中1个。①：可以自己墓地的1只“影依”怪兽为对象发动。以表侧守备表示或里侧守备表示将该怪兽特殊召唤。②：从自己的墓地将此卡与1张“影依”卡除外，可从以下效果中选择1个发动。
-    ●挑选自己场上的1只里侧表示的怪兽，将其变为表侧守备表示。
-    ●挑选自己场上的1只表侧表示的怪兽，将其变为里侧守备表示。
+    此卡名的①②效果1回合1次，仅可使用其中1个。①：以自己墓地的1只“影依”怪兽为对象可以发动。将该怪兽以表侧守备表示或里侧守备表示特殊召唤。②：从自己墓地将此卡与1张“影依”卡除外，可从以下效果中选择1个发动。
+    ●将自己场上的1只里侧表示怪兽变为表侧守备表示。
+    ●将自己场上的1只表侧表示怪兽变为里侧守备表示。
 card_type: Trap
 property: Normal
 series:
@@ -120,6 +120,10 @@ sets:
     set_name: 'Structure Deck: Rebirth of Shaddoll'
     rarities:
     - Super Rare
+  - set_number: TW03-SC103
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

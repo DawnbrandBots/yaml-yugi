@@ -32,7 +32,7 @@ text:
     ①: 1턴에 1번, 자신 필드의 드래곤족인 "드래그니티" 몬스터 1장을 릴리스하고, 자신 묘지의 레벨 4 이하의 비행야수족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 비행야수족 몬스터를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    1回合1次，把自己场上1只名字带有「龙骑兵团」的龙族怪兽解放才能发动。从自己墓地选择1只4星以下的鸟兽族怪兽特殊召唤。
+    ①：1回合1次，解放自己场上的1只龙族的“龙骑兵团”怪兽，以自己墓地的1只等级4以下的鸟兽族怪兽为对象可以发动。将该鸟兽族怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Tuner / Effect
 attribute: WIND
@@ -155,6 +155,11 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  zh-CN:
+  - set_number: TW03-SC032
+    set_name: Terminal World 3
+    rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
