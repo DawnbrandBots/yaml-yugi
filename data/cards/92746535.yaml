@@ -54,7 +54,7 @@ pendulum_effect:
   pt: |-
     Uma vez por turno, se você tiver um card na sua outra Zona de Pêndulo: você pode destruir esse card e, se isso acontecer, adicione 1 card do seu Deck à sua mão, com o mesmo nome que esse card.
   ja: |-
-    ①：１ターンに１度、もう片方の自分のＰゾーンにカードが存在する場合に発動できる。そのカードを破壊し、そのカードの同名カード１枚をデッキから手札に加える。
+    ①：１ターンに１度、もう片方の自分のＰゾーンにカードが存在する場合に発動できる。そのカードを破壊し、その同名カード１枚をデッキから手札に加える。
   ko: |-
     ①: 1턴에 1번, 다른 한쪽 자신의 펜듈럼 존에 카드가 존재할 경우에 발동할 수 있다. 그 카드를 파괴하고, 그 카드와 같은 이름의 카드 1장을 덱에서 패에 넣는다.
   zh-TW: |-
@@ -184,6 +184,10 @@ sets:
     - Secret Rare
   - set_number: SUB1-JP063
     set_name: Secret Utility Box
+    rarities:
+    - Normal Parallel Rare
+  - set_number: 25DB-JP010
+    set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
   ko:

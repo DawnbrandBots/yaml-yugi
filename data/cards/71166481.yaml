@@ -34,16 +34,14 @@ text:
     Uma vez por turno, quando um monstro do oponente ativar seu efeito (Efeito Rápido): você pode desassociar 2 matérias deste card; o efeito ativado se torna "os dois duelistas compram 1 card". Você pode escolher 1 outro Monstro Xyz "Número" que você controla; associe este card a ele como matéria. (Transfira suas matérias para esse monstro.) Você só pode usar este efeito de "Número 75: Sombra Fofoqueira Enganadora" uma vez por turno.
   ja: |-
     レベル３モンスター×２体以上
-    このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、相手がモンスターの効果を発動した時、このカードのＸ素材を２つ取り除いて発動できる。その効果は「お互いのプレイヤーは、それぞれデッキから１枚ドローする」となる。②：このカード以外の自分フィールドの「Ｎｏ．」Ｘモンスター１体を対象として発動できる。このカードをそのモンスターの下に重ねてＸ素材とする（このカードがＸ素材を持っている場合、それらも全て重ねてＸ素材とする）。
+    このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、相手がモンスターの効果を発動した時、このカードのＸ素材を２つ取り除いて発動できる。その効果は「お互いはそれぞれ１枚ドローする」となる。②：自分フィールドの他の「Ｎｏ．」Ｘモンスター１体を対象として発動できる。このカードをそのモンスターのＸ素材にする（このカードがＸ素材を持っている場合、それらも全てＸ素材にする）。
   ko: |-
     레벨 3 몬스터 × 2장 이상
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 상대가 몬스터의 효과를 발동했을 때, 이 카드의 엑시즈 소재를 2개 제거하고 발동할 수 있다. 그 효과는 "양쪽 플레이어는 각각 1장 드로우한다"가 된다. ②: 자신 필드의 다른 "No." 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 카드를 그 몬스터의 엑시즈 소재로 한다(이 카드가 엑시즈 소재를 가지고 있을 경우, 그것들도 전부 엑시즈 소재로 한다).
   zh-TW:
   zh-CN: |-
     等级３怪兽×２只以上
-    此卡名的②效果１回合仅可使用１次。
-    ①：１回合１次，对手发动怪兽的效果时，去除此卡的２个超量素材可以发动。该效果变为“双方玩家各抽１张”。
-    ②：以自己场上的１只其他的“编号”超量怪兽为对象可以发动。将此卡作为该怪兽的超量素材（此卡拥有超量素材的情况下，那些素材也全部作为超量素材）。
+    此卡名的②效果１回合仅可使用１次。①：１回合１次，对手发动怪兽的效果时，去除此卡的２个超量素材可以发动。该效果变为“双方玩家各抽１张”。②：以自己场上的１只其他的“编号”超量怪兽为对象可以发动。将此卡作为该怪兽的超量素材（此卡拥有超量素材的情况下，那些素材也全部作为超量素材）。
 card_type: Monster
 monster_type_line: Spellcaster / Xyz / Effect
 attribute: WIND
@@ -145,6 +143,13 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  - set_number: 25DB-JP042
+    set_name: 'Duelist Box: Prismatic Summon'
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CP18-KR032
     set_name: Collectors Pack 2018

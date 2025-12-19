@@ -33,14 +33,12 @@ text:
     (Este card deve ser sempre considerado como um card "Dinonévoa".)
     Se este card for oferecido como Tributo: você pode adicionar 1 Monstro Pêndulo "Dracossassino" ou "Dinonévoa" com a face para cima do seu Deck Adicional à sua mão, exceto "Dinopoderoso Potente, o Dracossassino". Você só pode usar este efeito de "Dinopoderoso Potente, o Dracossassino" uma vez por turno.
   ja: |-
-    このカード名はルール上「ダイナミスト」カードとしても扱う。このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがリリースされた場合に発動できる。自分のＥＸデッキから「竜剣士ダイナマイトＰ」以外の表側表示の、「竜剣士」Ｐモンスターまたは「ダイナミスト」Ｐモンスター１体を手札に加える。
+    このカード名はルール上「ダイナミスト」カードとしても扱う。このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードがリリースされた場合に発動できる。「竜剣士ダイナマイトＰ」を除く、「竜剣士」Ｐモンスターか「ダイナミスト」Ｐモンスター１体を自分のＥＸデッキ（表側）から手札に加える。
   ko: |-
     이 카드명은 룰상 "다이너미스트" 카드로도 취급한다. 이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 릴리스되었을 경우에 발동할 수 있다. 자신의 엑스트라 덱에서 "룡검사 다이너마이트P(파워로드)" 이외의 앞면 표시의, "룡검사" 펜듈럼 몬스터 또는 "다이너미스트" 펜듈럼 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    此卡名在规则上也视为“机动雾龙”卡。
-    此卡名的怪兽效果１回合仅可使用１次。
-    ①：此卡被解放的情况下可以发动。从自己的额外牌组（表侧）将除“龙剑士 机动重装 强化”以外的１只“龙剑士”灵摆怪兽或“机动雾龙”灵摆怪兽加入手牌。
+    此卡名在规则上也视为“机动雾龙”卡。此卡名的怪兽效果１回合仅可使用１次。①：此卡被解放的情况下可以发动。从自己的额外牌组（表侧）将除“龙剑士 机动重装 强化”以外的１只“龙剑士”灵摆怪兽或“机动雾龙”灵摆怪兽加入手牌。
 card_type: Monster
 monster_type_line: Machine / Pendulum / Effect
 attribute: WATER
@@ -62,15 +60,14 @@ pendulum_effect:
   pt: |-
     Você pode escolher 1 card "Dracossassino" ou "Dinonévoa" na sua outra Zona de Pêndulo; Invoque-o por Invocação-Especial. Você só pode usar este efeito de "Dinopoderoso Potente, o Dracossassino" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンの、「竜剣士」カードまたは「ダイナミスト」カード１枚を対象として発動できる。そのカードを特殊召喚する。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンの「竜剣士」カードか「ダイナミスト」カード１枚を対象として発動できる。そのカードを特殊召喚する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존의, "룡검사" 카드 또는 "다이너미스트" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 특수 소환한다.
   zh-TW: |-
     此卡名的鐘擺效果，１回合僅限使用１次。
     ①：可將我方另一側鐘擺區的１張「龍劍士」卡或１張「機動霧龍」卡做為對象發動。特殊召喚該卡。
   zh-CN: |-
-    此卡名的灵摆效果１回合仅可使用１次。
-    ①：以另一方自己的灵摆区域的１张“龙剑士”卡或“机动雾龙”卡为对象可以发动。将该卡特殊召唤。
+    此卡名的灵摆效果１回合仅可使用１次。①：以另一方自己的灵摆区域的１张“龙剑士”卡或“机动雾龙”卡为对象可以发动。将该卡特殊召唤。
 series:
 - Dracoslayer
 - Dinomist
@@ -137,6 +134,12 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  - set_number: 25DB-JP012
+    set_name: 'Duelist Box: Prismatic Summon'
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DABL-KR024
     set_name: Darkwing Blast

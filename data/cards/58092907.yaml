@@ -57,7 +57,7 @@ text:
     ● Pêndulo: Durante a Fase Final, adicione 1 Monstro Pêndulo do seu Deck à sua mão.
     Você só pode usar este efeito de "Camarartista Mago Celestial" uma vez por turno.
   ja: |-
-    このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚したターンの自分メインフェイズに発動できる。このカード以外の自分フィールドのモンスターの種類によって、このターン、以下の効果を適用する。●融合：このカードは直接攻撃できる。●Ｓ：相手はモンスターの効果を発動できない。●Ｘ：このカードの攻撃力は元々の攻撃力の倍になる。●Ｐ：エンドフェイズにデッキからＰモンスター１体を手札に加える。
+    このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚したターンの自分メインフェイズに発動できる。このカード以外の自分フィールドのモンスターの種類によって、このターン、以下の効果をそれぞれ適用する。●融合：このカードは直接攻撃できる。●Ｓ：相手はモンスターの効果を発動できない。●Ｘ：このカードの攻撃力は元々の攻撃力の倍になる。●Ｐ：エンドフェイズに、デッキからＰモンスター１体を手札に加える。
   ko: |-
     이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 일반 소환 / 특수 소환한 턴의 자신 메인 페이즈에 발동할 수 있다. 이 카드 이외의 자신 필드의 몬스터의 종류에 따라, 이 턴에, 이하의 효과를 적용한다. ●융합: 이 카드는 직접 공격할 수 있다. ●싱크로: 상대는 몬스터의 효과를 발동할 수 없다. ●엑시즈: 이 카드의 공격력은 원래 공격력의 배가 된다. ●펜듈럼: 엔드 페이즈에 덱에서 펜듈럼 몬스터 1장을 패에 넣는다.
   zh-TW:
@@ -88,7 +88,7 @@ pendulum_effect:
   pt: |-
     Quando exatamente 1 Monstro de Fusão, Sincro ou Xyz com a face para cima que você controla que foi Invocado por Invocação-Especial do Deck Adicional for destruído em batalha ou por um efeito de card do oponente: você pode Invocar por Invocação-Especial esse monstro destruído e, depois, destrua este card. Você só pode usar este efeito de "Camarartista Mago Celestial" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。①：ＥＸデッキから特殊召喚された自分フィールドの表側表示の融合・Ｓ・Ｘモンスター１体のみが戦闘または相手の効果で破壊された時に発動できる。その破壊されたモンスターを自分フィールドに特殊召喚する。その後、このカードを破壊する。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：ＥＸデッキから特殊召喚された自分フィールドの表側表示の融合・Ｓ・Ｘモンスター１体のみが戦闘または相手の効果で破壊された時に発動できる。そのモンスターを自分フィールドに特殊召喚する。その後、このカードを破壊する。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 엑스트라 덱에서 특수 소환된 자신 필드의 앞면 표시의 융합 / 싱크로 / 엑시즈 몬스터 1장만이 전투 또는 상대 효과로 파괴되었을 때에 발동할 수 있다. 그 파괴된 몬스터를 자신 필드에 특수 소환한다. 그 후, 이 카드를 파괴한다.
   zh-TW: |-
@@ -166,6 +166,10 @@ sets:
     set_name: Tournament Pack 2023 Vol.3
     rarities:
     - Common
+  - set_number: 25DB-JP014
+    set_name: 'Duelist Box: Prismatic Summon'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: DP23-KR045
     set_name: 'Duelist Pack: Legend Duelist 6'

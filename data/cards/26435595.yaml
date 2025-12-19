@@ -63,7 +63,7 @@ pendulum_effect:
   pt: |-
     Se você não tiver cards na sua outra Zona de Pêndulo: você pode colocar 1 Monstro Pêndulo com a face para cima do seu Deck Adicional na sua Zona de Pêndulo. Você só pode usar este efeito de "Patissciel Couverture" uma vez por turno.
   ja: |-
-    このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンにカードが存在しない場合に発動できる。自分のＥＸデッキから表側表示のＰモンスター１体を選んで自分のＰゾーンに置く。
+    このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンにカードが存在しない場合に発動できる。自分のＥＸデッキ（表側）からＰモンスター１体を自分のＰゾーンに置く。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 다른 한쪽 자신의 펜듈럼 존에 카드가 존재하지 않을 경우에 발동할 수 있다. 자신의 엑스트라 덱(앞면)에서 펜듈럼 몬스터 1장을 자신의 펜듈럼 존에 놓는다.
   zh-TW: |-
@@ -143,6 +143,13 @@ sets:
     set_name: World Premiere Pack 2022
     rarities:
     - Rare
+  - set_number: 25DB-JP030
+    set_name: 'Duelist Box: Prismatic Summon'
+    rarities:
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP3-KR038
     set_name: World Premiere Pack 2022

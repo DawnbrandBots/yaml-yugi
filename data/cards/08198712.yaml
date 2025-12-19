@@ -27,7 +27,7 @@ text:
   pt: |-
     Este card é usado para a Invocação-Ritual de "Ruína, a Rainha do Esquecimento" ou "Demise, o Rei do Armagedom". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja exatamente igual ao Nível do Monstro de Ritual que você Invocar por Invocação-Ritual.
   ja: |-
-    「破滅の女神ルイン」「終焉の王デミス」の降臨に使用する事ができる。フィールドか手札から、儀式召喚するモンスターと同じレベルになるように生け贄を捧げなければならない。
+    ①：レベルの合計が儀式召喚するモンスターと同じになるように、自分の手札・フィールドのモンスターをリリースし、手札から「破滅の女神ルイン」か「終焉の王デミス」を儀式召喚する。
   ko: |-
     "파멸의 여신 루인" "종언의 왕 데미스"의 의식 소환에 사용할 수 있다. 필드나 패에서 의식 소환하는 몬스터와 같은 레벨이 되도록 제물을 바쳐야 한다.
   zh-TW:
@@ -104,6 +104,10 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  - set_number: 25DB-JP057
+    set_name: 'Duelist Box: Prismatic Summon'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SOI-KR046
     set_name: Shadow of Infinity

@@ -31,7 +31,7 @@ text:
   ko: |-
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 / 상대 턴에, 이 카드를 패에서 묘지로 보내고 발동할 수 있다. 이 턴 중에, 이하의 효과를 적용한다. ●상대가 몬스터를 특수 소환할 때마다, 자신은 1장 드로우한다.
   zh-TW: |-
-    可將此卡從手牌送入墓地進行發動。此回合每當對手成功特殊召喚怪獸時，我方從牌組抽1張卡牌。此效果在對手回合也可以發動。「增殖的Z」1個回合只能發動1次。
+    可將此卡從手牌送入墓地進行發動。此回合每當對手成功特殊召喚怪獸時，我方從牌組抽１張卡牌。此效果在對手回合也可以發動。「增殖的Ｚ」１個回合只能發動１次。
   zh-CN: |-
     此卡名的效果1回合仅可使用1次。①：在自己・对手回合中，从手牌将此卡送至墓地可以发动。在此回合中适用以下效果。
     ●对手每次特殊召唤怪兽，自己抽1张。
@@ -48,7 +48,7 @@ images:
   image: MaxxC-RA04-EN-PlScR-1E.png
   illustration: MaxxC-MADU-EN-VG-artwork.png
 - index: 2
-  image: MaxxC-LPST-JP-OP.png
+  image: MaxxC-LPST-JP-UR.png
 sets:
   en:
   - set_number: STOR-EN086
@@ -414,6 +414,10 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  - set_number: SD48-KR018
+    set_name: 'Structure Deck: Power of Fellows Special Set'
+    rarities:
+    - Common
   zh-TW:
   - set_number: SD25-TC018
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
