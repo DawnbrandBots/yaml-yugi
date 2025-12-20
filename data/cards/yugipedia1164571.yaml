@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the following effects of "Blue-Eyes White Dragon, the White Phantom Beast" once per turn. When this card is added from the Deck to your hand, or your monster is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you can only attack with "Blue-Eyes" monsters this turn.
+    When a card or effect is activated that targets this card on the field (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the following effects of "Blue-Eyes White Dragon, the White Phantom Beast" once per turn. When this card is added from the Deck to your hand, or your monster is destroyed by battle: You can reveal this card in your hand; Special Summon it. If this card is Special Summoned from the hand or Deck: You can destroy all monsters your opponent controls, also you cannot attack directly for the rest of this turn, except with "Blue-Eyes" monsters.
   de:
   es:
   fr:
@@ -43,10 +43,11 @@ sets:
     set_name: 'Limit Over Collection: The Rivals'
     rarities:
     - Ultra Rare
+    - Secret Rare
     - Prismatic Secret Rare
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
