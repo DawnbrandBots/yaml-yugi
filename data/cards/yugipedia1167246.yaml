@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 二选一
 text:
   en: |-
     Reveal 1 monster and 2 Traps from your Deck, your opponent randomly picks 1, you look at the rest and banish 1 Trap, then your opponent chooses 1 of these effects for you to apply.
@@ -37,9 +37,13 @@ sets:
   - set_number: BLZD-JP070
     set_name: Blazing Dominion
     rarities:
+  zh-CN:
+  - set_number: BLZD-SC070
+    set_name: Blazing Dominion
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
