@@ -7,12 +7,12 @@ name:
   fr: Corbeau du Miracle
   it: Corvo Miracoloso
   pt: Corvo Milagroso
-  ja:
-  ja_romaji:
-  ko:
+  ja: ミラクル・レイヴン－<ruby>供<rt>く</rt></ruby><ruby>物<rt>もつ</rt></ruby>の<ruby>儀<rt>ぎ</rt></ruby><ruby>式<rt>しき</rt></ruby>－
+  ja_romaji: Mirakuru Reivun - Kumotsu no Gishiki
+  ko: 미러클 레이븐－공물의 의식－
   ko_rr:
-  zh-TW:
-  zh-CN:
+  zh-TW: 奇跡鴉 供品的儀式
+  zh-CN: 奇迹鸦 供品的仪式
 text:
   en: |-
     You can Ritual Summon this card with "Miracle Raven". Must be Ritual Summoned. This Ritual Summoned card is unaffected by your opponent's activated effects. If you Ritual Summon exactly 1 Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute. If this card is Tributed for a Ritual Summon: You can add 1 Ritual Monster from your Deck to your hand. You can only use this effect of "Miracle Raven" once per turn.
@@ -26,7 +26,13 @@ text:
     Puoi Evocare tramite Rituale questa carta con "Corvo Miracoloso". Deve essere Evocato tramite Rituale. Questa carta Evocata tramite Rituale è immune agli effetti attivati del tuo avversario. Se Evochi tramite Rituale esattamente 1 Mostro Rituale con l'effetto di una carta che richiede l'uso di mostri, questa carta che controlli può essere utilizzata come l'intero Tributo. Se questa carta viene offerta come Tributo per un'Evocazione tramite Rituale: puoi aggiungere 1 Mostro Rituale dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Corvo Miracoloso" una sola volta per turno.
   pt: |-
     Você pode Invocar este card por Invocação-Ritual com "Corvo Milagroso". Deve ser Invocado por Invocação-Ritual. Este card Invocado por Invocação-Ritual não é afetado pelos efeitos ativados do seu oponente. Se você Invocar por Invocação-Ritual exatamente 1 Monstro de Ritual com um efeito de card que requer o uso de monstros, este card que você controla pode ser usado como todo o Tributo. Se este card for oferecido como Tributo para uma Invocação-Ritual: você pode adicionar 1 Monstro de Ritual do seu Deck à sua mão. Você só pode usar este efeito de "Corvo Milagroso" uma vez por turno.
-  ja:
+  ja: |-
+    「ミラクル・レイヴン－供物の儀式－」により降臨
+    このカードは儀式召喚でしか特殊召喚できない。
+    このカード名の③のモンスター効果は１ターンに１度しか使用できない。
+    ①：儀式召喚したこのカードは相手が発動した効果を受けない。
+    ②：儀式モンスター１体を儀式召喚する場合、自分フィールドのこのカード１枚で儀式召喚に必要な分のリリースとして使用できる。
+    ③：このカードが儀式召喚のためにリリースされた場合に発動できる。デッキから儀式モンスター１体を手札に加える。
   ko:
   zh-TW:
   zh-CN:
@@ -50,10 +56,14 @@ pendulum_effect:
     Una volta per turno, durante la tua Main Phase: puoi Evocare tramite Rituale questa carta, offrendo come Tributo mostri dalla tua mano o Terreno con Livello totale pari o superiore a 1.
   pt: |-
     Uma vez por turno, durante sua Fase Principal: você pode Invocar este card por Invocação-Ritual, ao oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda 1.
-  ja:
-  ko:
-  zh-TW:
-  zh-CN:
+  ja: |-
+    ①：１ターンに１度、自分メインフェイズに発動できる。レベルの合計が１以上になるように、自分の手札・フィールドのモンスターをリリースし、このカードを儀式召喚する。
+  ko: |-
+    ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 레벨의 합계가 1 이상이 되도록, 자신의 패 / 필드의 몬스터를 릴리스하고, 이 카드를 의식 소환한다.
+  zh-TW: |-
+    ①：1回合1次，在自己的主要階段可以發動。為使合計等級達到1以上，解放自己手牌・場上的怪獸，將此卡儀式召喚。
+  zh-CN: |-
+    ①：1回合1次，在自己的主要阶段可以发动。为使合计等级达到1以上，解放自己手牌・场上的怪兽，将此卡仪式召唤。
 ritual_spell: Miracle Raven
 series:
 - Rites
@@ -119,3 +129,4 @@ limit_regulation:
   tcg: Unlimited
   ocg:
 yugipedia_page_id: 1132242
+master_duel_rarity: UR
