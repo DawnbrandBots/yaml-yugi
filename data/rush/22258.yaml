@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>破<rt>は</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>王<rt>おう</rt></ruby><ruby>帝<rt>てい</rt></ruby>ウィッシュ・オブ・アウターバース［<ruby>Ｌ<rt>エル</rt></ruby>］
   ja_romaji: Hakaiōtei Wisshu Obu Autābāsu [Eru]
-  ko:
+  ko: 파계왕 제왕 위시 오브 아우터버스[L]
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にいるこのカードのカード名は「ＯＴＳ」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "OTS(아우터버스)"가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     マキシマムモード：デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    맥시멈 모드: 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     このターン、このカードは効果では破壊されない。さらに、相手フィールドの表側表示モンスターを３体まで選んでその種族をターン終了時まで天使族にできる。
-  ko:
+  ko: |-
+    이 턴에, 이 카드는 효과로는 파괴되지 않는다. 추가로, 상대 필드의 앞면 표시 몬스터를 3장까지 고르고 그 종족을 턴 종료시까지 천사족으로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -65,6 +68,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP058
+    set_name: Over Rush Pack 3
+    rarities:
+    - Common
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP3-KR058
     set_name: Over Rush Pack 3
     rarities:
     - Common

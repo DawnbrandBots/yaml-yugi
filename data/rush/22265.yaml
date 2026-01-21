@@ -8,7 +8,7 @@ name:
   pt:
   ja: レジェンド・リネージ・マジシャン
   ja_romaji: Rejendo Rinēji Majishan
-  ko:
+  ko: 레전드 리니지 매지션
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にいるこのカードはレジェンドカードになる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드는 레전드 카드가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -50,7 +52,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃は貫通する。攻撃表示のこのカードは相手の効果では守備表示にならない。
-  ko:
+  ko: |-
+    이 카드의 공격은 관통한다. 공격 표시인 이 카드는 상대 효과로는 수비 표시로 되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -68,6 +71,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP065
+    set_name: Over Rush Pack 3
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP3-KR065
     set_name: Over Rush Pack 3
     rarities:
     - Ultra Rare

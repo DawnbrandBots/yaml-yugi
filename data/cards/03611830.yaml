@@ -11,8 +11,8 @@ name:
   ja_romaji: Sōseimadōō Endimion
   ko: 창성마도왕 엔디미온
   ko_rr: Changseongmadowang Endimion
-  zh-TW: 創聖魔導王 恩底彌翁
-  zh-CN: 创圣魔导王　恩底弥翁
+  zh-TW:
+  zh-CN: 创圣魔导王 恩底弥翁
 text:
   en: |-
     Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect): You can return 1 card you control with a Spell Counter to the hand, and if you do, negate the activation, and if you do that, destroy it. Then, you can place the same number of Spell Counters on this card that the returned card had. While this card has a Spell Counter, your opponent cannot target it with card effects, also it cannot be destroyed by your opponent's card effects. When this card with a Spell Counter is destroyed by battle: You can add 1 Normal Spell from your Deck to your hand.
@@ -57,12 +57,9 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドの魔力カウンターを６つ取り除いて発動できる。Ｐゾーンのこのカードを特殊召喚する。その後、自分フィールドの魔力カウンターを置く事ができるカードの数まで、フィールドのカードを選んで破壊し、破壊した数だけこのカードに魔力カウンターを置く。
   ko: |-
     이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 마력 카운터를 6개 제거하고 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다. 그 후, 자신 필드의 마력 카운터를 놓을 수 있는 카드의 수까지, 필드의 카드를 골라 파괴하고, 파괴한 수만큼 이 카드에 마력 카운터를 놓는다.
-  zh-TW: |-
-    此卡名的鐘擺效果，１回合僅限使用１次。
-    ①：可去除我方場上的６個魔力計數物發動。特殊召喚鐘擺區的此卡。其後，選擇場上的卡破壞，數量最多為我方場上可放置魔力計數物的卡的數量，依破壞的數量在此卡放置魔力計數物。
+  zh-TW:
   zh-CN: |-
-    此卡名的灵摆效果１回合仅可使用１次。
-    ①：去除自己场上的６个魔力计数物可以发动。将灵摆区域的此卡特殊召唤。然后挑选场上的卡破坏，数量最多为自己场上可放魔力计数物的卡的数量，依所破坏的数量，在此卡上放魔力计数物。
+    这个卡名的灵摆效果1回合只能使用1次。①：可以将自己场上的6个魔力指示物取除发动。将灵摆区的这张卡特殊召唤。那之后，选最多为自己场上的可以放置魔力指示物的卡的数量的场上的卡破坏，按照破坏的数量在这张卡上放置魔力指示物。
 series:
 - Endymion
 - Prophecy
@@ -110,8 +107,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: NE03-SC087
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 589315
-master_duel_rarity: UR

@@ -11,8 +11,8 @@ name:
   ja_romaji: Chinmoku no Madōkenshi - Sairento Paradin
   ko: 침묵의 마도검사－사일런트 파라딘
   ko_rr:
-  zh-TW: 沉默的魔導劍士－沉默帕拉丁
-  zh-CN: 沉默的魔导剑士－沉默帕拉丁
+  zh-TW:
+  zh-CN: 沉默魔导剑士
 text:
   en: |-
     When this card is Normal Summoned: You can add 1 "Silent Swordsman LV3" or "Silent Magician LV4" from your Deck to your hand. During either player's turn, when a Spell Card is activated that targets exactly 1 monster you control (and no other cards): You can negate the activation. This effect can only be used once while this card is face-up on the field. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can target 1 LIGHT "LV" monster in your Graveyard; add it to your hand.
@@ -43,7 +43,11 @@ series:
 - Prophecy
 images:
 - index: 1
+  image: SilentPaladin-VJMP-JP-UR.png
+  illustration: SilentPaladin-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: SilentPaladin-DPRP-EN-UR-1E.png
+  illustration: SilentPaladin-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: DPRP-EN003
@@ -89,4 +93,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 472878
-master_duel_rarity: SR

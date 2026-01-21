@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>羊<rt>よう</rt></ruby><ruby>界<rt>かい</rt></ruby>シャドウメリー
   ja_romaji: Yōkai Shadou Merī
-  ko:
+  ko: 양계 섀도우메리
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の通常モンスター（獣族）がいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시인 일반 몬스터(야수족)가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、自分の墓地の「メェ～界の入り口」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 자신 묘지의 "메에~계의 입구" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP017
+    set_name: Over Rush Pack 3
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP3-KR017
     set_name: Over Rush Pack 3
     rarities:
     - Super Rare

@@ -11,7 +11,7 @@ name:
   ja_romaji: Pīsuria
   ko: 피스리아
   ko_rr: Piseuria
-  zh-TW: 拼圖友愛天使
+  zh-TW:
   zh-CN: 拼图友爱天使
 text:
   en: |-
@@ -74,7 +74,11 @@ atk: 700
 def: 2000
 images:
 - index: 1
+  image: ShiningPiecephilia-BACH-JP-NR.png
+  illustration: ShiningPiecephilia-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: ShiningPiecephilia-BACH-EN-C-1E.png
+  illustration: ShiningPiecephilia-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: BACH-EN032
@@ -120,4 +124,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 716684
-master_duel_rarity: R

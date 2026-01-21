@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>闇<rt>やみ</rt></ruby>をかき<ruby>消<rt>け</rt></ruby>す<ruby>剣<rt>つるぎ</rt></ruby>
   ja_romaji: Yami o Kakikesu Tsurugi
-  ko:
+  ko: 어둠을 없애는 검
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    상대 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル４／光属性・闇属性／攻撃力５００／守備力１０００）１体を選んで手札に加える。その後、相手フィールドのモンスター１体を選んで表側守備表示にできる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 4 / 빛 속성・어둠 속성 / 공격력 500 / 수비력 1000) 1장을 고르고 패에 넣는다. 그 후, 상대 필드의 몬스터 1장을 고르고 앞면 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP041
+    set_name: Over Rush Pack 3
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP3-KR041
     set_name: Over Rush Pack 3
     rarities:
     - Super Rare

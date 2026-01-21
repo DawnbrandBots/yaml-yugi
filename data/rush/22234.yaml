@@ -8,7 +8,7 @@ name:
   pt:
   ja: カオスソードライダー
   ja_romaji: Kaosusōdoraidā
-  ko:
+  ko: 카오스스워드라이더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（レベル４／攻撃力５００／守備力１０００）１体を相手に見せ、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(레벨 4 / 공격력 500 / 수비력 1000) 1장을 상대에게 보여주고, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードの攻撃力は次の相手ターン終了時まで１０００アップする。その後、自分フィールドの表側表示のリチュアルモンスター（レベル８／戦士族）１体を選んでその攻撃力をターン終了時まで１０００アップできる。
-  ko:
+  ko: |-
+    이 카드의 공격력은 다음 상대 턴 종료시까지 1000 올린다. 그 후, 자신 필드의 앞면 표시인 리추얼 몬스터(레벨 8 / 전사족) 1장을 고르고 그 공격력을 턴 종료시까지 1000 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP033
+    set_name: Over Rush Pack 3
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP3-KR033
     set_name: Over Rush Pack 3
     rarities:
     - Super Rare

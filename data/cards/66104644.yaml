@@ -11,8 +11,8 @@ name:
   ja_romaji: Magisuteru Obu Endimion
   ko: 마기스테르 오브 엔디미온
   ko_rr: Magiseutereu Obeu Endimion
-  zh-TW: 恩底彌翁的魔導師
-  zh-CN: 恩底弥翁的魔导师
+  zh-TW:
+  zh-CN: 恩底弥翁之导师
 text:
   en: |-
     You can only Special Summon "Magister(s) of Endymion" once per turn. When this card declares an attack: You can place 1 Spell Counter on it. Once per opponent's turn (Quick Effect): You can remove 3 Spell Counters from your field; Special Summon 1 monster from your Deck that you can place a Spell Counter on. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone, then place the same number of Spell Counters on it that it had as a monster.
@@ -57,12 +57,9 @@ pendulum_effect:
     ①：自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの魔力カウンターを３つ取り除いて発動できる。自分のＥＸデッキの表側表示の魔力カウンターを置く事ができるモンスター１体とＰゾーンのこのカードを特殊召喚し、その２体に魔力カウンターを１つずつ置く。
   ko: |-
     ①: 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 자신의 엑스트라 덱의 앞면 표시의 마력 카운터를 놓을 수 있는 몬스터 1장과 펜듈럼 존의 이 카드를 특수 소환하고, 그 2장에 마력 카운터를 1개씩 놓는다.
-  zh-TW: |-
-    ①：每當我方或對方發動魔法卡時，在此卡放置１個魔力計數物。
-    ②：可去除此卡的３個魔力計數物發動。特殊召喚我方額外牌組正面表示的１隻可放置魔力計數物的怪獸及鐘擺區的此卡，在該２隻各放置１個魔力計數物。
+  zh-TW:
   zh-CN: |-
-    ①：自己或对手每次发动魔法卡，在此卡上放１个魔力计数物。
-    ②：去除此卡的３个魔力计数物可以发动。将１只自己额外牌组可放魔力计数物的表侧表示怪兽和灵摆区域的此卡特殊召唤，在该２只上各放１个魔力计数物。
+    ①：每次自己或者对手发动魔法卡就在这张卡上放置1个魔力指示物。②：可以将这张卡的3个魔力指示物取除发动。将自己的额外卡组的1只表侧表示的可以放置魔力指示物的怪兽和灵摆区的这张卡特殊召唤，在那2只上各放置1个魔力指示物。
 series:
 - Endymion
 images:
@@ -109,8 +106,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: NE03-SC089
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 594471
-master_duel_rarity: N

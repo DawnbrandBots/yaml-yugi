@@ -2,17 +2,17 @@ konami_id: 19273
 password: 39520293
 name:
   en: Junk Mail
-  de: Gerümpelrüstung
-  es: Malla de Basura
-  fr: Robot Cotte de Mailles
-  it: Maglia Rottame
-  pt: Cota de Sucata
+  de:
+  es:
+  fr:
+  it:
+  pt:
   ja: ジャンク・メイル
   ja_romaji: Janku Meiru
   ko: 정크 메일
   ko_rr:
-  zh-TW: 廢品裝甲殼
-  zh-CN: 废品装甲壳
+  zh-TW:
+  zh-CN: 废品盔甲
 text:
   en: |-
     A Synchro Monster that used this card as material cannot be destroyed by battle. If this card is in your GY, except the turn it was sent there, and you control a Synchro Monster with "Warrior", "Synchron", or "Stardust" in its original name: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of "Junk Mail" once per turn.
@@ -76,8 +76,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: NE03-SC021
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
 yugipedia_page_id: 930185
-master_duel_rarity: SR

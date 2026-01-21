@@ -11,8 +11,8 @@ name:
   ja_romaji: Janku Doragonsento
   ko: 정크 드래곤센트
   ko_rr:
-  zh-TW: 廢品電源龍
-  zh-CN: 废品电源龙
+  zh-TW:
+  zh-CN: 废品插座龙
 text:
   en: |-
     If you control a Synchro Monster, you can Special Summon this card (from your hand). You can only Special Summon "Junk Dragonlet" once per turn this way. When a Synchro Monster you control declares an attack: You can banish this card from your GY; that monster you control gains 800 ATK until the end of this turn. You can only use this effect of "Junk Dragonlet" once per turn.
@@ -111,8 +111,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: NE03-SC020
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 930186
-master_duel_rarity: R

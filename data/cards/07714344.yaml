@@ -11,8 +11,8 @@ name:
   ja_romaji: Entameito Yuni
   ko: <ruby>EM<rt>엔터메이트</rt></ruby> 유니
   ko_rr:
-  zh-TW: 娛樂夥伴 小獨
-  zh-CN: 娱乐伙伴小独
+  zh-TW:
+  zh-CN: 娱乐伙伴 小独
 text:
   en: |-
     Once per turn, during your Main Phase, if this card was Normal or Special Summoned this turn: You can Special Summon 1 Level 3 or lower "Performapal" monster from your hand in Attack Position. During your opponent's turn (Quick Effect): You can banish 1 "Performapal" monster, except "Performapal Uni", and this card from your GY; the next time you would take battle damage this turn, you do not.
@@ -43,7 +43,11 @@ series:
 - Performapal
 images:
 - index: 1
+  image: PerformapalUni-CPF1-JP-R.png
+  illustration: PerformapalUni-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: PerformapalUni-DLCS-EN-C-1E.png
+  illustration: PerformapalUni-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: DRL3-EN002
@@ -113,4 +117,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 376869
-master_duel_rarity: N

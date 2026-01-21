@@ -11,7 +11,7 @@ name:
   ja_romaji: Samon Sōsaresu
   ko: 서몬 소서리스
   ko_rr:
-  zh-TW: 召喚女巫
+  zh-TW:
   zh-CN: 召唤女巫
 text:
   en: |-
@@ -52,7 +52,11 @@ link_arrows:
 atk: 2400
 images:
 - index: 1
+  image: SummonSorceress-RB07-JP-NPR.png
+  illustration: SummonSorceress-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: SummonSorceress-BLMM-EN-ScR-1E.png
+  illustration: SummonSorceress-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: SOFU-ENSE2
@@ -141,4 +145,3 @@ limit_regulation:
   tcg: Limited
   ocg: Unlimited
 yugipedia_page_id: 533726
-master_duel_rarity: UR

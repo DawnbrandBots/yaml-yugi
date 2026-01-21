@@ -11,7 +11,7 @@ name:
   ja_romaji: Pāryi Naitsu
   ko: 파리나이츠
   ko_rr:
-  zh-TW: 派對夜騎士
+  zh-TW:
   zh-CN: 派对夜骑士组
 text:
   en: |-
@@ -41,7 +41,11 @@ atk: 2300
 def: 2100
 images:
 - index: 1
+  image: ParryKnights-COTD-JP-NR.png
+  illustration: ParryKnights-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: ParryKnights-MP18-EN-C-1E.png
+  illustration: ParryKnights-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: COTD-EN037
@@ -111,4 +115,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 492330
-master_duel_rarity: R

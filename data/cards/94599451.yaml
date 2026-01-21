@@ -39,8 +39,7 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: MythicalInstitution-CYHO-JP-C.png
-  illustration: ''
+  image: MythicalInstitution-CYHO-JP-C.png;
 - index: '1.1'
   image: MythicalInstitution-MP19-EN-C-1E.png
   illustration: MythicalInstitution-MADU-EN-VG-artwork.png
@@ -109,6 +108,10 @@ sets:
     set_name: Cybernetic Horizon
     rarities:
     - Common
+  zh-CN:
+  - set_number: NE03-SC103
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

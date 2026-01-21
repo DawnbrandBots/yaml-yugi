@@ -11,7 +11,7 @@ name:
   ja_romaji: Guremurin
   ko: 그렘린
   ko_rr:
-  zh-TW: 小精怪
+  zh-TW:
   zh-CN: 戈兰林
 text:
   en: |-
@@ -359,12 +359,12 @@ sets:
     set_name: Metal Raiders
     rarities:
     - Common
-  - set_number: BP1-KR140
-    set_name: Beginner's Edition 1
-    rarities:
-    - Common
   - set_number: SYE-KR003
     set_name: 'Starter Deck: Yugi Evolution'
+    rarities:
+    - Common
+  - set_number: BP1-KR140
+    set_name: Beginner's Edition 1
     rarities:
     - Common
   - set_number: 15AY-KRA11
@@ -381,4 +381,3 @@ limit_regulation:
   ocg: Unlimited
   speed: Unlimited
 yugipedia_page_id: 508027
-master_duel_rarity: N

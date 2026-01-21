@@ -11,8 +11,8 @@ name:
   ja_romaji: Tekku Jīnasu Rasshu Raino
   ko: <ruby>TG<rt>테크지너스</rt></ruby> 러시 라이노
   ko_rr: Tekeujineoseu Reosi Raino
-  zh-TW: T.G.衝刺犀牛
-  zh-CN: T.G.冲刺犀牛
+  zh-TW:
+  zh-CN: 科技属 突冲犀牛
 text:
   en: |-
     If this card attacks, it gains 400 ATK during the Damage Step only. Once per turn, during the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can add 1 "T.G." monster from your Deck to your hand, except "T.G. Rush Rhino".
@@ -43,7 +43,11 @@ series:
 - T.G.
 images:
 - index: 1
+  image: TGRushRhino-DT12-JP-DNPR-DT.jpg
+  illustration: TGRushRhino-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: TGRushRhino-OP09-EN-C-UE.png
+  illustration: TGRushRhino-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: EXVC-EN021
@@ -149,4 +153,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 107342
-master_duel_rarity: R

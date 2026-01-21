@@ -11,8 +11,8 @@ name:
   ja_romaji: Shinsei Madōō Endimion
   ko: 신성마도왕 엔디미온
   ko_rr: Sinseongmadowang Endimion
-  zh-TW: 神聖魔導王 恩底彌翁
-  zh-CN: 神圣魔法王 恩底弥翁
+  zh-TW:
+  zh-CN: 神圣魔导王 恩底弥翁
 text:
   en: |-
     You can Special Summon this card (from your hand or GY) by removing 6 Spell Counters from a "Magical Citadel of Endymion" you control. If Summoned this way: Target 1 Spell in your GY; add that target to your hand. Once per turn: You can discard 1 Spell, then target 1 card on the field; destroy that target.
@@ -138,8 +138,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: NE03-SC085
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 49103
-master_duel_rarity: SR

@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>速<rt>そく</rt></ruby><ruby>撃<rt>げき</rt></ruby>の<ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Sokugeki no Kishi
-  ko:
+  ko: 속격의 기사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送るか、手札のモンスター（レベル４／攻撃力５００／守備力１０００）１体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내거나, 패의 몬스터(레벨 4 / 공격력 500 / 수비력 1000) 1장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの一番上のカードを墓地へ送る。その後、自分の墓地の「カオスの儀式」または「超戦士の一撃」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 맨 위의 카드를 묘지로 보낸다. 그 후, 자신 묘지의 "카오스의 의식" 또는 "초전사의 일격" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP037
+    set_name: Over Rush Pack 3
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP3-KR037
     set_name: Over Rush Pack 3
     rarities:
     - Super Rare

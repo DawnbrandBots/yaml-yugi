@@ -6,13 +6,13 @@ name:
   es: Maga Solitaria
   fr: Magicienne Solitaire
   it: Mago Solitario
-  pt: Mago Solitário
+  pt:
   ja: ソリテア・マジカル
   ja_romaji: Soritea Majikaru
   ko: 솔리테어 매지컬
   ko_rr:
-  zh-TW: 單遊小魔女
-  zh-CN: 单游小魔女
+  zh-TW:
+  zh-CN: 单宝石小魔女
 text:
   en: |-
     Once per turn, you can select 1 face-up "Fortune Lady" monster you control and 1 other face-up monster on the field. Reduce the Level of the selected "Fortune Lady" monster by 3, and destroy the other selected monster.
@@ -40,7 +40,11 @@ atk: 1600
 def: 1300
 images:
 - index: 1
+  image: SolitaireMagician-SOVR-JP-C.jpg
+  illustration: SolitaireMagician-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: SolitaireMagician-SOVR-EN-C-UE.jpg
+  illustration: SolitaireMagician-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: SOVR-EN013
@@ -81,4 +85,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 100452
-master_duel_rarity: N

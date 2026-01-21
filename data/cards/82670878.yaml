@@ -6,12 +6,12 @@ name:
   es: Ogro de la Tristeza Escarlata
   fr: Ogre de la Tristesse de Sang
   it: Orco del Dolore Scarlatto
-  pt: Ogro da Tristeza Escarlate
+  pt:
   ja: <ruby>血<rt>けつ</rt></ruby><ruby>涙<rt>るい</rt></ruby>のオーガ
   ja_romaji: Ketsurui no Ōga
   ko: 피눈물의 오우거
   ko_rr:
-  zh-TW: 血淚食人魔
+  zh-TW:
   zh-CN: 血泪食人魔
 text:
   en: |-
@@ -41,7 +41,11 @@ atk: 0
 def: 0
 images:
 - index: 1
+  image: OgreoftheScarletSorrow-ABPF-JP-C.jpg
+  illustration: OgreoftheScarletSorrow-MADU-JP-VG-artwork.png
+- index: '1.1'
   image: OgreoftheScarletSorrow-ABPF-EN-SR-1E.png
+  illustration: OgreoftheScarletSorrow-MADU-EN-VG-artwork.png
 sets:
   en:
   - set_number: ABPF-EN005
@@ -82,4 +86,3 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 96157
-master_duel_rarity: R
