@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2026 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import json
 import logging
@@ -77,6 +77,9 @@ def transform_structure(
         or wikitext.get("card_type") == "???"
         or wikitext.get("property") == "???"
         or wikitext.get("lore") == "TBA"
+        or
+        # Unrecognized non-cards: https://yugipedia.com/wiki/%22Restructer_Revolution%22_%26_%22Morphing_Jar%22 https://yugipedia.com/wiki/Basic_Rule_Change_%E2%91%A0
+        wikitext.get("card_type", "Monster") not in {"Monster", "Spell", "Trap"}
         or
         # Rush Duel cards erroneously added to the Duel Monsters category
         "RD/" in wikitext.get("jp_sets", "")
