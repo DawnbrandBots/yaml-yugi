@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>超<rt>ちょう</rt></ruby><ruby>戦<rt>せん</rt></ruby><ruby>士<rt>し</rt></ruby>の<ruby>閃<rt>せん</rt></ruby><ruby>光<rt>こう</rt></ruby>
   ja_romaji: Chōsenshi no Senkō
-  ko:
+  ko: 초전사의 섬광
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時、手札１枚をデッキの下に戻すか、自分フィールドの表側表示の「カオス・ソルジャー」１体の表示形式を変更して発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때, 패 1장을 덱 아래로 되돌리거나, 자신 필드의 앞면 표시인 "카오스 솔저" 1장의 표시 형식을 변경하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。自分フィールドに表側表示の「カオス・ソルジャー」がいる場合、この効果で選ぶモンスターの数を２体にできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 자신 필드에 앞면 표시인 "카오스 솔저"가 있을 경우, 이 효과로 고른 몬스터의 수를 2장으로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP042
+    set_name: Over Rush Pack 3
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP3-KR042
     set_name: Over Rush Pack 3
     rarities:
     - Ultra Rare

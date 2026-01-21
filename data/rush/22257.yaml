@@ -8,7 +8,7 @@ name:
   pt:
   ja: コスモス<ruby>姫<rt>ひめ</rt></ruby>のご<ruby>就<rt>しゅう</rt></ruby><ruby>寝<rt>しん</rt></ruby>
   ja_romaji: Kosumosu-hime no Goshūshin
-  ko:
+  ko: 코스모스 공주의 취침
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     手札または墓地にあるこのカードのカード名は「コスモス姫のお戯れ」になる。
-  ko:
+  ko: |-
+    패 또는 묘지에 있는 이 카드의 카드명은 "코스모스 공주의 장난"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     自分または相手がモンスターを召喚した時、手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 또는 상대가 몬스터를 일반 소환했을 때, 패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     その召喚されたモンスターを破壊する。その後、自分は２枚ドローできる。
-  ko:
+  ko: |-
+    그 일반 소환된 몬스터를 파괴한다. 그 후, 자신은 2장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -61,6 +64,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP3-JP057
+    set_name: Over Rush Pack 3
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP3-KR057
     set_name: Over Rush Pack 3
     rarities:
     - Ultra Rare
