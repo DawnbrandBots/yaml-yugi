@@ -1,0 +1,143 @@
+konami_id: 5424
+password: 3549275
+name:
+  en: Dice Jar
+  de: Würfelkrug
+  es: Jarra de Dados
+  fr: Jarre Dés
+  it: Giara Dado
+  pt: Jarro de Dados
+  ja: ダイス・ポット
+  ja_romaji: Daisu Potto
+  ko: 다이스 포트
+  ko_rr:
+  zh-TW: 骰子壺
+  zh-CN: 骰子壶
+text:
+  en: |-
+    FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.
+  de: |-
+    FLIPP: Beide Spieler werfen einen sechsseitigen Würfel. Der Spieler mit dem niedrigeren Ergebnis erhält Schaden in Höhe des Ergebnisses seines Gegners x 500. Wenn der Gewinner allerdings eine 6 gewürfelt hat, erhält der Verlierer 6000 Schaden. Falls beide Ergebnisse gleich sind, würfeln beide Spieler noch einmal.
+  es: |-
+    VOLTEO: Ambos jugadores lanzan un dado de seis caras. El jugador con el resultado más bajo recibe daño igual al resultado de su adversario x 500. Pero si el resultado del ganador es 6, el perdedor recibe 6000 puntos de daño. Si los resultados son los mismos, ambos jugadores lanzan el dado de nuevo.
+  fr: |-
+    FLIP : Chaque joueur lance un dé à six faces. Le joueur avec le résultat le plus faible reçoit des dommages égaux au résultat de son adversaire x 500. Cependant, si le résultat du gagnant est 6, le perdant reçoit 6000 points de dommages. Si les résultats sont les mêmes, chaque joueur relance le dé.
+  it: |-
+    SCOPRI: Entrambi i giocatori tirano un dado a sei facce. Il giocatore con il risultato inferiore subisce danno pari al risultato del tiro del suo avversario x 500. Tuttavia, se il vincitore ha tirato un 6, il perdente subisce 6000 danni. Se i risultati sono uguali, entrambi i giocatori tirano ancora.
+  pt: |-
+    VIRE: Os dois duelistas lançam um dado de 6 faces. O duelista que obtiver o menor resultado sofre dano igual ao resultado do oponente x 500. Contudo, se o vencedor obteve um 6, o perdedor sofre 6000 de dano. Em caso de empate, os dois duelistas lançam novamente.
+  ja: |-
+    リバース：お互いにサイコロを１回ずつ振る。相手より小さい目が出たプレイヤーは、相手の出た目によって以下のダメージを受ける。相手の出た目が２～５だった場合、相手の出た目×５００ポイントダメージを受ける。相手の出た目が６だった場合、６０００ポイントダメージを受ける。お互いの出た目が同じだった場合はサイコロを振り直す。
+  ko: |-
+    리버스 : 서로 주사위를 1회씩 던진다. 상대보다 작은 눈이 나온 플레이어는 상대의 나온 눈 × 500 포인트의 데미지를 받는다. 단, 6의 눈으로 진 플레이어는 6000 포인트의 데미지를 받는다. 무승부인 경우는 다시 한다.
+  zh-TW:
+  zh-CN: |-
+    ①：此卡反转的情况下发动。双方各掷1次骰子。掷出的数字较小的玩家根据其对手掷出的数字受到以下的伤害。双方掷出的数字相同的情况下，重新掷骰子。
+    ●2～5：对手掷出的数字×500
+    ●6：6000
+card_type: Monster
+monster_type_line: Rock / Effect
+attribute: LIGHT
+level: 3
+atk: 200
+def: 300
+series:
+- Jar
+images:
+- index: 1
+  image: DiceJar-LCJW-EN-C-1E.png
+sets:
+  en:
+  - set_number: DB2-EN226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-EN262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  - set_number: PGD-027
+    set_name: Pharaonic Guardian
+    rarities:
+    - Short Print
+  de:
+  - set_number: DB2-DE226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-DE262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  es:
+  - set_number: DB2-SP226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-SP262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  fr:
+  - set_number: DB2-FR226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-FR262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  it:
+  - set_number: DB2-IT226
+    set_name: Dark Beginning 2
+    rarities:
+    - Common
+  - set_number: LCJW-IT262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  pt:
+  - set_number: LCJW-PT262
+    set_name: "Legendary Collection 4: Joey's World Mega Pack"
+    rarities:
+    - Common
+  ja:
+  - set_number: PH-27
+    set_name: Pharaonic Guardian (Japanese)
+    rarities:
+    - Common
+  - set_number: DL5-112
+    set_name: Duelist Legacy Volume.5
+    rarities:
+    - Common
+  - set_number: SJ2-044
+    set_name: 'Structure Deck: Joey Volume 2'
+    rarities:
+    - Common
+  - set_number: BE2-JP226
+    set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  - set_number: BE02-JP184
+    set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Common
+  ko:
+  - set_number: PGD-KR027
+    set_name: Pharaonic Guardian
+    rarities:
+    - Short Print
+  - set_number: BP2-KR226
+    set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 25SP-SC407
+    set_name: Tournament Pack 2025 Vol.4 (Simplified Chinese)
+    rarities:
+    - Common
+limit_regulation:
+  tcg: Unlimited
+  ocg: Unlimited
+yugipedia_page_id: 305
+master_duel_rarity: R

@@ -1,0 +1,88 @@
+konami_id: 16914
+name:
+  en: Chemical Cure Purple
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ケミカルキュア・パープル
+  ja_romaji: Kemikaru Kyua Pāpuru
+  ko: 케미칼큐어 퍼플
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send up to 3 Spell/Trap Cards from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札の魔法・罠カードを３枚まで墓地へ送って発動できる。
+  ko: |-
+    패의 마법 / 함정 카드를 3장까지 묘지로 보내고 발동할 수 있다.
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw cards equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can gain 900 LP.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は［この効果の条件で墓地へ送ったカードの数］だけドローする。その後、自分は９００ＬＰ回復できる。
+  ko: |-
+    자신은 [이 효과의 조건으로 묘지로 보낸 카드의 수]만큼 드로우한다. 그 후, 자신은 900 LP 회복할 수 있다.
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Psychic / Fusion / Effect
+attribute: DARK
+level: 7
+atk: 2600
+def: 900
+materials:
+  en: |-
+    "Chemical Cure Red" + "Chemical Cure Blue"
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「ケミカルキュア・レッド」＋「ケミカルキュア・ブルー」
+  ko: |-
+    "케미칼큐어 레드" ＋ "케미칼큐어 블루"
+  zh-TW:
+  zh-CN:
+images:
+- index: 1
+  image: ChemicalCurePurple-RDMRP1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/EXT1-JP030
+    set_name: Extra Transcend Enhancement Pack
+    rarities:
+    - Rare
+  - set_number: RD/MRP1-JP026
+    set_name: Megaroad Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/EXT1-KR030
+    set_name: Extra Transcend Enhancement Pack
+    rarities:
+    - Rare
+  - set_number: RD/MRP1-KR026
+    set_name: Megaroad Pack
+    rarities:
+    - Common
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 714265

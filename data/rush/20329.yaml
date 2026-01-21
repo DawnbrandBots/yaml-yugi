@@ -1,0 +1,78 @@
+konami_id: 20329
+name:
+  en: Advance Form
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: アドバンス・フォーム
+  ja_romaji: Adobansu Fōmu
+  ko: 어드밴스 폼
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has a monster in their Graveyard, send up to 2 cards from your field to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地にモンスターがいる場合、自分フィールドのカードを２枚まで墓地へ送って発動できる。
+  ko: |-
+    상대 묘지에 몬스터가 있을 경우, 자신 필드의 카드를 2장까지 묘지로 보내고 발동할 수 있다.
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Shuffle monsters from your opponent's Graveyard into the Deck equal to [the number of cards sent to the Graveyard to meet the requirement]. Then, you can add 1 "Advance Impact" or "Emperor Realm" from your Graveyard to your hand.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手の墓地のモンスターを［この効果の条件で墓地へ送ったカードの数］だけ選んでデッキに戻す。その後、自分の墓地の「アドバンス・インパクト」または「エンペラー・レルム」１枚を選んで手札に加える事ができる。
+  ko: |-
+    상대 묘지의 몬스터를 [이 효과의 조건으로 묘지로 보낸 카드의 수]만큼 고르고 덱으로 되돌린다. 그 후, 자신 묘지의 "어드밴스 임팩트" 또는 "엠페러 렐름" 1장을 고르고 패에 넣을 수 있다.
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 4
+atk: 800
+def: 1000
+series:
+- Monarch
+images:
+- index: 1
+  image: AdvanceForm-RDSD0F-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP17-JP032
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+  - set_number: RD/SD0F-JP012
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP17-KR032
+    set_name: Burst Rex of Awakening
+    rarities:
+    - Common
+  - set_number: RD/SD0F-KR012
+    set_name: 'Structure Deck: Triumphant Return of the Monarchs'
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1055260

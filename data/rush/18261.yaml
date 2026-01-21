@@ -1,0 +1,63 @@
+konami_id: 18261
+name:
+  en: Brain Harvester
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ブレイン・ハーベスター
+  ja_romaji: Burein Hābesutā
+  ko: 브레인 하베스터
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If your opponent has 2 or more monsters on their field, send up to 2 Fairy Type monsters from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手フィールドにモンスターが２体以上いる場合、手札のモンスター（天使族）を２体まで墓地へ送って発動できる。
+  ko: |-
+    상대 필드에 몬스터가 2장 이상 있을 경우, 패의 몬스터(천사족)를 2장까지 묘지로 보내고 발동할 수 있다.
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw cards equal to [the number of monsters sent to the Graveyard to meet the requirement].
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は［この効果の条件で墓地へ送ったモンスターの数］だけドローする。
+  ko: |-
+    자신은 [이 효과의 조건으로 묘지로 보낸 몬스터의 수]만큼 드로우한다.
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: DARK
+level: 3
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: BrainHarvester-RDKP11-JP-R.png
+sets:
+  ja:
+  - set_number: RD/KP11-JP029
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP11-KR029
+    set_name: 'Deck Mod Pack: Fortissimo of the Whirlwinds!!'
+    rarities:
+    - Rare
+yugipedia_page_id: 714128

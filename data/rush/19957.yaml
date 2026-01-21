@@ -1,0 +1,70 @@
+konami_id: 19957
+name:
+  en: Dice Angel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: サイコロの<ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>
+  ja_romaji: Saikoro no Tenshi
+  ko: 주사위의 천사
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Send 1 card from your hand to the Graveyard, except "Graceful Dice".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    「天使のサイコロ」以外の手札１枚を墓地へ送って発動できる。
+  ko: |-
+    "천사의 주사위" 이외의 패 1장을 묘지로 보내고 발동할 수 있다.
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Add 1 "Graceful Dice" from your Graveyard to your hand. Then, if your opponent has 2 or more monsters on their field, roll a six-sided die. Gain 600 LP if you roll a number other than 6.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地の「天使のサイコロ」１枚を選んで手札に加える。相手フィールドにモンスターが２体以上いる場合、さらにサイコロを１回振る。６以外が出た場合、自分は６００ＬＰ回復する。
+  ko: |-
+    자신 묘지의 "천사의 주사위" 1장을 고르고 패에 넣는다. 상대 필드에 몬스터가 2장 이상 있을 경우, 추가로 주사위를 1회 던진다. 6 이외가 나왔을 경우, 자신은 600 LP 회복한다.
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 1
+atk: 0
+def: 600
+series:
+- Dice
+images:
+- index: 1
+  image: DiceAngel-RDKP16-JP-C.png
+sets:
+  ja:
+  - set_number: RD/KP16-JP009
+    set_name: Transam of Transcendence
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP16-KR009
+    set_name: Transam of Transcendence
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1038470

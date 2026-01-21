@@ -1,0 +1,67 @@
+konami_id: 17579
+name:
+  en: Sora Puyo
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ソラプヨ
+  ja_romaji: Sorapuyo
+  ko: 소라뿌요
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    You have 10 or more monsters in your Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分の墓地にモンスターが１０体以上いる場合に発動できる。
+  ko: |-
+    자신 묘지에 몬스터가 10장 이상 있을 경우에 발동할 수 있다.
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw 1 card. Send 1 card from your hand to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は１枚ドローする。その後、自分は手札１枚を選んで墓地へ送る。
+  ko: |-
+    자신은 1장 드로우한다. 그 후, 자신은 패 1장을 고르고 묘지로 보낸다.
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: LIGHT
+level: 2
+atk: 1000
+def: 0
+images:
+- index: 1
+  image: SoraPuyo-RDGRD1-JP-C.png
+sets:
+  ja:
+  - set_number: RD/GRD1-JP016
+    set_name: Go Rush Deck - Galactica Arrive
+    rarities:
+    - Common
+  - set_number: RD/ATR1-JP019
+    set_name: Attraction Pack
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/GRD1-KR016
+    set_name: Go Rush Deck - Galactica Arrive
+    rarities:
+    - Common
+yugipedia_page_id: 716763
