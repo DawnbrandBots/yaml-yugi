@@ -11,8 +11,8 @@ name:
   ja_romaji: Rein Bōzu
   ko: 레인 보즈
   ko_rr: Rein Bojeu
-  zh-TW:
-  zh-CN: 雨天虹娃
+  zh-TW: 雨虹娃娃
+  zh-CN: 雨虹娃娃
 text:
   en: |-
     Gains ATK during your turn only, and gains DEF during your opponent's turn only, each equal to the difference between the number of cards in the Extra Decks x 200. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card in the Monster Zone is destroyed: You can place this card in your Pendulum Zone.
@@ -62,8 +62,10 @@ pendulum_effect:
     ①：１ターンに１度、自分フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、お互いのＥＸデッキの枚数の差×１００アップする。
   ko: |-
     ①: 1턴에 1번, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지, 서로의 엑스트라 덱의 매수의 차 × 100 올린다.
-  zh-TW:
-  zh-CN:
+  zh-TW: |-
+    ①：１回合１次，可將我方場上的１隻正面表示怪獸做為對象發動。該怪獸的攻擊力在回合結束前，依據雙方額外牌組的張數的差距×１００進行提升。
+  zh-CN: |-
+    ①：１回合１次，可以我方场上１只面朝上怪兽为目标发动。该怪兽的攻击力提升等同于双方玩家额外卡组张数之差×１００的数值。
 images:
 - index: 1
   image: RainBozu-MP21-EN-C-1E.png
@@ -140,3 +142,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 560953
+master_duel_rarity: N

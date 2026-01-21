@@ -11,8 +11,8 @@ name:
   ja_romaji: Hendōkikō Kurokkuāku
   ko: 변도기구 클락아크
   ko_rr: Byeondogigu Keullak-akeu
-  zh-TW:
-  zh-CN: 变导机咎 弧线钟摆机
+  zh-TW: 變導機咎 弧線鐘擺機
+  zh-CN: 变导机咎・弧线钟摆机
 text:
   en: |-
     If this card is Special Summoned to a zone that is not the center Main Monster Zone, destroy it. Cannot be destroyed by battle. Once per turn, during your opponent's End Phase: You can target 1 card in your Pendulum Zone; destroy it, and if you do, place this card in your Pendulum Zone.
@@ -85,8 +85,16 @@ pendulum_effect:
     ①: 자신 필드의 몬스터가, 존재하지 않을 경우 또는 펜듈럼 몬스터뿐일 경우, 이 카드의 펜듈럼 존의 위치에 따라 이하의 효과를 적용한다.
     ●좌측: 이 카드의 펜듈럼 스케일은 3개 내려간다.
     ●우측: 이 카드의 펜듈럼 스케일은 4개 올라간다. ②: 상대 스탠바이 페이즈에 발동할 수 있다. 펜듈럼 존의 이 카드를 특수 소환한다.
-  zh-TW:
-  zh-CN:
+  zh-TW: |-
+    ①：在我方場上的怪獸不存在或僅限鐘擺怪獸的狀況下，根據此卡在鐘擺區的位置適用以下效果。
+    ●左側：此卡的鐘擺刻度下降３。
+    ●右側：此卡的鐘擺刻度上升４。
+    ②：可在對方準備階段發動。特殊召喚鐘擺區的此卡。
+  zh-CN: |-
+    ①：自己场上不存在怪兽或仅有灵摆怪兽的情况下，根据此卡在灵摆区域的位置，适用以下效果。
+    ●左侧：此卡的灵摆刻度下降３。
+    ●右侧：此卡的灵摆刻度上升４。
+    ②：在对手的准备阶段可以发动。将灵摆区域的此卡特殊召唤。
 images:
 - index: 1
   image: ClockArc-LIOV-EN-C-1E.png
@@ -135,3 +143,4 @@ limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 714299
+master_duel_rarity: N
