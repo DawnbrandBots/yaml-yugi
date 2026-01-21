@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2026 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 from csv import DictReader
 import json
@@ -86,6 +86,8 @@ def initial_parse(
     else:
         # Make sure to remove page title additions like " (card)"
         properties["en_name"] = document["title"].split("(")[0].strip()
+    if properties.get("card_type") not in {"Monster", "Spell", "Trap"}:
+        return
     return properties
 
 
