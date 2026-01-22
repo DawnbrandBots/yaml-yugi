@@ -1,7 +1,7 @@
 konami_id: 22155
 password: 38129297
 name:
-  en: Double Trigger
+  en: Double Interlock
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 双重扳机
 text:
   en: |-
-    Activate 1 of these effects (but you can only use each effect of "Double Trigger" once per turn);
+    Activate 1 of these effects (but you can only use each effect of "Double Interlock" once per turn);
     ● Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing its materials from your GY, including a "Rokket" monster.
-    ● Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed that monster's Level, including a "Rokket" monster.
+    ● Ritual Summon 1 Ritual Monster from your hand, by banishing monsters from your GY whose total Levels equal or exceed its Level, including a "Rokket" monster.
   de:
   es:
   fr:
@@ -40,8 +40,32 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: DoubleTrigger-BPRO-JP-C.png
+  image: DoubleInterlock-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN052
+    set_name: Burst Protocol
+    rarities:
+  de:
+  - set_number: BPRO-DE052
+    set_name: Burst Protocol
+    rarities:
+  es:
+  - set_number: BPRO-SP052
+    set_name: Burst Protocol
+    rarities:
+  fr:
+  - set_number: BPRO-FR052
+    set_name: Burst Protocol
+    rarities:
+  it:
+  - set_number: BPRO-IT052
+    set_name: Burst Protocol
+    rarities:
+  pt:
+  - set_number: BPRO-PT052
+    set_name: Burst Protocol
+    rarities:
   ja:
   - set_number: BPRO-JP052
     set_name: Burst Protocol
@@ -60,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1141211

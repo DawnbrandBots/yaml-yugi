@@ -15,7 +15,7 @@ name:
   zh-CN: 枪管重启
 text:
   en: |-
-    When your opponent activates a Spell/Trap Card while you control a "Rokket" or "Borrel" monster: Negate the activation, and if you do, Set that card. It cannot be activated this turn. You can activate this card from your hand by paying half your LP.
+    When your opponent activates a Spell/Trap Card, while you control a "Rokket" or "Borrel" monster: Negate the activation, and if you do, Set that card face-down on your opponent's field, but it cannot be activated this turn. You can activate this card from your hand by paying half your LP.
   de:
   es:
   fr:
@@ -36,6 +36,30 @@ images:
 - index: 1
   image: BorrelReboot-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN070
+    set_name: Burst Protocol
+    rarities:
+  de:
+  - set_number: BPRO-DE070
+    set_name: Burst Protocol
+    rarities:
+  es:
+  - set_number: BPRO-SP070
+    set_name: Burst Protocol
+    rarities:
+  fr:
+  - set_number: BPRO-FR070
+    set_name: Burst Protocol
+    rarities:
+  it:
+  - set_number: BPRO-IT070
+    set_name: Burst Protocol
+    rarities:
+  pt:
+  - set_number: BPRO-PT070
+    set_name: Burst Protocol
+    rarities:
   ja:
   - set_number: BPRO-JP070
     set_name: Burst Protocol
@@ -54,9 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1141214
