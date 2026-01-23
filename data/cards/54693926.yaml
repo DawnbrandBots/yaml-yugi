@@ -32,7 +32,7 @@ text:
     이 카드의 발동에 대하여 몬스터의 효과는 발동할 수 없다. ①: 상대 필드의 모든 앞면 표시 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 카드의 발동 후, 턴 종료시까지 상대가 받는 모든 데미지는 0 이 된다.
   zh-TW:
   zh-CN: |-
-    应对此卡的发动，怪兽的效果不可发动。①：将对手场上所有表侧表示怪兽的效果直至回合结束时为止无效。此卡发动后，直至回合结束时为止，对手所受的所有伤害变为０。
+    应对此卡的发动，怪兽的效果不可发动。①：将对手场上所有表侧表示怪兽的效果直至回合结束时为止无效化。此卡发动后，直至回合结束时为止，对手所受的所有伤害变为0。
 card_type: Spell
 property: Normal
 images:
@@ -280,6 +280,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  - set_number: CH02-JP035
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: EP19-KR068
     set_name: Extra Pack 2019
@@ -321,6 +325,10 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  - set_number: CH02-SC035
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

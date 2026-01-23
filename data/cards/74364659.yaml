@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 리버스했을 경우, 상대 필드의 물 속성 몬스터 1장을 대상으로 하고 발동한다. 이 몬스터가 앞면 표시로 존재하는 동안, 그 몬스터의 컨트롤을 얻는다.
   zh-TW:
   zh-CN: |-
-    ①：此卡反转的情况下，以对手场上的1只水属性怪兽为对象发动。此怪兽以表侧表示存在期间，获得该怪兽的控制权。
+    ①：此卡反转的情况下，以对手场上的1只水属性怪兽为对象发动。此怪兽以表侧表示存在期间，获得对象怪兽的控制权。
 card_type: Monster
 monster_type_line: Spellcaster / Flip / Effect
 attribute: WATER
@@ -232,6 +232,11 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
     rarities:
     - Normal Parallel Rare
+  - set_number: CH02-SC001
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

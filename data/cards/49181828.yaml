@@ -1,7 +1,7 @@
 konami_id: 22131
 password: 49181828
 name:
-  en: Threat Armed Dragon
+  en: Fist Armed Dragon
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 威慑武装龙
 text:
   en: |-
-    If this card is in your GY: You can target 1 Dragon monster you control; destroy it, and if you do, Special Summon this card. You can discard 1 card, then target 1 monster on the field with 2400 or less ATK; destroy it, then if you destroyed a monster you control, you can Special Summon 1 Dragon monster from your hand or Deck whose original Level is 2 higher than the destroyed monster. You can only use each effect of "Threat Armed Dragon" once per turn.
+    If this card is in your GY: You can target 1 Dragon monster you control; destroy it, and if you do, Special Summon this card. You can discard 1 card, then target 1 monster on the field with 2400 or less ATK; destroy it, then if you destroyed a monster you control, you can Special Summon 1 Dragon monster from your hand or Deck, whose original Level is 2 higher than that monster's. You can only use each effect of "Fist Armed Dragon" once per turn.
   de:
   es:
   fr:
@@ -38,8 +38,38 @@ series:
 - Armed Dragon
 images:
 - index: 1
-  image: ThreatArmedDragon-BPRO-JP-C.png
+  image: FistArmedDragon-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN028
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE028
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP028
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR028
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT028
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT028
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP028
     set_name: Burst Protocol
@@ -58,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1150785

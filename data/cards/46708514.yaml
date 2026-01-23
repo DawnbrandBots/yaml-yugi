@@ -1,7 +1,7 @@
 konami_id: 22129
 password: 46708514
 name:
-  en: Dark Staring at the Blue Sky
+  en: Derk, Longing for the Blue Skies
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 凝视苍穹的蠕龙
 text:
   en: |-
-    If a monster(s) is Special Summoned from the Deck and/or Extra Deck by an opponent's activated monster effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a monster effect is activated that includes an effect that Special Summons a monster(s) (Quick Effect): You can banish 1 card from your hand or field; negate that effect, and if you do, destroy that card. During the End Phase, if this card is currently banished, and was banished this turn: You can return 1 of your other banished monsters to the GY. You can only use each effect of "Dark Staring at the Blue Sky" once per turn.
+    If a monster(s) is Special Summoned from the Deck or Extra Deck by your opponent's activated monster effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card. When a monster effect is activated that includes an effect that Special Summons a monster(s) (Quick Effect): You can banish 1 card from your hand or field; negate that effect, and if you do, destroy that monster. During the End Phase, if this card is currently banished, and was banished this turn: You can return 1 of your other banished monsters to the GY. You can only use each effect of "Derk, Longing for the Blue Skies" once per turn.
   de:
   es:
   fr:
@@ -36,8 +36,38 @@ atk: 3000
 def: 2700
 images:
 - index: 1
-  image: DarkStaringattheBlueSky-BPRO-JP-R.png
+  image: DerkLongingfortheBlueSkies-BPRO-JP-R.png
 sets:
+  en:
+  - set_number: BPRO-EN026
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE026
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP026
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR026
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT026
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT026
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP026
     set_name: Burst Protocol
@@ -56,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1153923

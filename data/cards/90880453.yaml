@@ -15,10 +15,10 @@ name:
   zh-CN: 耀圣诗章～再会的三重唱～
 text:
   en: |-
-    Your opponent cannot target the monster in your center Main Monster Zone with card effects. This card gains these effects based on the Attribute(s) of the monster in your center Main Monster Zone.
-    ● FIRE/EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
-    ● WATER/WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.
-    ● LIGHT/DARK: You take no battle damage.
+    Your opponent cannot target the monster in your center Main Monster Zone with card effects. This card gains the appropriate effects, based on the Attribute(s) of the monster in your center Main Monster Zone.
+    ● FIRE or EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+    ● WATER or WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.
+    ● LIGHT or DARK: You take no battle damage.
   de:
   es:
   fr:
@@ -48,6 +48,36 @@ images:
 - index: 1
   image: ElfnotesAPleaforHelp-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT057
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT057
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP057
     set_name: Burst Protocol
@@ -67,7 +97,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1152153

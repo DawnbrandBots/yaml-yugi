@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 22576
+password: 82997779
 name:
   en: Archfiend Usurpation
   de:
@@ -24,7 +24,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：以下の効果から１つを選択して発動できる。
+    ●自分のデッキ・墓地から「デーモン」罠カード１枚を自分フィールドにセットする。この効果でセットしたカードはセットしたターンでも発動できる。
+    ●レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、自分の手札・ＥＸデッキ（表側）から「デーモン」儀式モンスター１体を儀式召喚する。
   ko:
   zh-TW:
   zh-CN:
@@ -34,12 +37,13 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendUsurpation-BLZD-JP-OP.png
+  image: ArchfiendUsurpation-BLZD-JP-C.png
 sets:
   ja:
   - set_number: BLZD-JP067
     set_name: Blazing Dominion
     rarities:
+    - Common
   zh-CN:
   - set_number: BLZD-SC067
     set_name: Blazing Dominion

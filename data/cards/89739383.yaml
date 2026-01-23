@@ -12,7 +12,7 @@ name:
   ko: 그리모의 마도서
   ko_rr: Geurimo-ui Madoseo
   zh-TW: 奧義的魔導書
-  zh-CN: 奥义的魔导书
+  zh-CN: 格里莫之魔导书
 text:
   en: |-
     Add 1 "Spellbook" card from your Deck to your hand, except "Spellbook of Secrets". You can only activate 1 "Spellbook of Secrets" per turn.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     从牌组将1张「奧義的魔導書」以外冠有「魔導書」之名的卡牌加入手牌。「奧義的魔導書」1回合只可发动1张。
   zh-CN: |-
-    这个卡名的卡在1回合只能发动1张。①：从卡组把「奥义之魔导书」以外的1张「魔导书」卡加入手卡。
+    此卡名的卡1回合仅可发动1张。①：从牌组将“格里莫之魔导书”以外的1张“魔导书”卡加入手牌。
 card_type: Spell
 property: Normal
 series:
@@ -189,6 +189,10 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  - set_number: CH02-JP032
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR057
     set_name: Return of the Duelist
@@ -211,6 +215,11 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CH02-SC032
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

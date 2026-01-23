@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 22577
+password: 18482473
 name:
   en: H-E-R-O Flash!
   de:
@@ -26,7 +26,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：以下から１つを選択して発動できる。●このターン中、自分の「Ｅ・ＨＥＲＯ」モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。●自分フィールドの「Ｅ・ＨＥＲＯ」モンスターの数まで、相手フィールドのカードを対象として発動できる。そのカードを破壊する。●自分の墓地から「Ｅ・ＨＥＲＯ」モンスター１体を選び、手札に加えるか特殊召喚する。●このターン中、「Ｅ・ＨＥＲＯ」モンスターは直接攻撃できる。
   ko:
   zh-TW:
   zh-CN:
@@ -34,12 +35,13 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: HEROFlash-BLZD-JP-OP.png
+  image: HEROFlash-BLZD-JP-C.png
 sets:
   ja:
   - set_number: BLZD-JP068
     set_name: Blazing Dominion
     rarities:
+    - Common
   zh-CN:
   - set_number: BLZD-SC068
     set_name: Blazing Dominion

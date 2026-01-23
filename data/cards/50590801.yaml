@@ -15,7 +15,7 @@ name:
   zh-CN: 耀圣诗章～托选之武功歌～
 text:
   en: |-
-    You cannot activate the following effects of "Elfnotes: Aristeia of Trust" in the same Chain. Once per turn: You can target 1 face-up monster you control; move that monster you control to another of your Main Monster Zones. When your opponent activates a Spell/Trap Card and you control 3 or more "Elfnote" monsters: You can negate that effect, then if you control a Synchro Monster, you can destroy that card. You can only use this effect of "Elfnotes: Aristeia of Trust" once per turn.
+    Once per turn: You can target 1 face-up monster you control; move that monster you control to another of your Main Monster Zones. When your opponent activates a Spell/Trap Card, while you control 3 or more "Elfnote" monsters: You can negate that effect, then if you control a Synchro Monster, you can destroy that card. You can only use this effect of "Elfnotes: Aristeia of Trust" once per turn. You cannot activate these effects of "Elfnotes: Aristeia of Trust" in the same Chain.
   de:
   es:
   fr:
@@ -36,6 +36,36 @@ images:
 - index: 1
   image: ElfnotesAristeiaofTrust-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN071
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE071
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP071
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR071
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT071
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT071
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP071
     set_name: Burst Protocol
@@ -54,7 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1152158

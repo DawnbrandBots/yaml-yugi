@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 22579
+password: 71275181
 name:
   en: One of Two
   de:
@@ -23,7 +23,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：モンスター１体と罠カード２枚をデッキから相手に見せ、相手はその中からランダムに１枚選ぶ。自分は残りのカードを確認し、その内の罠カード１枚を除外する。その後、相手は以下から１つを選び、自分はその効果を適用する。
+    ●相手が選んだカードをお互いに確認し、モンスターだった場合、手札に加えるか特殊召喚する。違った場合、除外する。残りをデッキに戻す。
+    ●相手が選ばなかったカードの内、除外しなかったカードをお互いに確認し、モンスターだった場合、手札に加える。違った場合、除外する。残りをデッキに戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -31,12 +34,13 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: OneofTwo-BLZD-JP-OP.png
+  image: OneofTwo-BLZD-JP-NR.png
 sets:
   ja:
   - set_number: BLZD-JP070
     set_name: Blazing Dominion
     rarities:
+    - Normal Rare
   zh-CN:
   - set_number: BLZD-SC070
     set_name: Blazing Dominion

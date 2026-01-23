@@ -32,7 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: "루드라의 마도서" 이외의 자신의 패 / 필드의 "마도서" 카드 1장 또는 자신 필드의 마법사족 몬스터 1장을 묘지로 보내고, 자신은 덱에서 2장 드로우한다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡1回合仅可发动1张。①：将“噶尔德之魔导书”以外的、自己手牌・场上的1张“魔导书”卡或自己场上的1只魔法师族怪兽送至墓地，自己从牌组抽2张。
+    此卡名的卡1回合仅可发动1张。①：将“噶尔德之魔导书”以外的、自己手牌・场上（表侧表示）的1张“魔导书”卡或自己场上的1只表侧表示的魔法师族怪兽送至墓地，自己抽2张。
 card_type: Spell
 property: Normal
 series:
@@ -186,6 +186,10 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  - set_number: CH02-JP033
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR062
     set_name: Code of the Duelist
@@ -203,6 +207,10 @@ sets:
   zh-CN:
   - set_number: SD39-SC025
     set_name: 'Structure Deck: Masters of the Spiritual Arts'
+    rarities:
+    - Common
+  - set_number: CH02-SC033
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
 limit_regulation:

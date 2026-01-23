@@ -27,12 +27,12 @@ text:
   pt: |-
     Envie 1 monstro "Predaplanta" do seu Deck para o Cemitério; coloque 1 Marcador de Predador em cada monstro com a face para cima no campo e, se isso acontecer, qualquer desses monstros que sejam de Nível 2 ou mais se tornam de Nível 1 enquanto tiverem um Marcador de Predador. Se você Invocar um monstro de TREVAS por Invocação-Fusão enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode banir este card do seu Cemitério e, depois, escolha 1 card no campo; destrua-o. Você só pode usar cada efeito de "Predaplanejamento" uma vez por turno.
   ja: |-
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「捕食植物」モンスター１体を墓地へ送って発動できる。フィールドの表側表示モンスター全てに捕食カウンターを１つずつ置く。捕食カウンターが置かれたレベル２以上のモンスターのレベルは１になる。②：このカードが墓地に存在する状態で、自分が闇属性モンスターの融合召喚に成功した場合、墓地のこのカードを除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「捕食植物」モンスター１体を墓地へ送って発動できる。フィールドの全ての表側表示モンスターに捕食カウンターを１つずつ置く。捕食カウンターが置かれたレベル２以上のモンスターのレベルは１になる。②：このカードが墓地に存在する状態で、自分が闇属性モンスターを融合召喚した場合、このカードを除外し、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 덱에서 "프레데터 플랜츠" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 필드의 앞면 표시 몬스터 전부에 포식 카운터를 1개씩 놓는다. 포식 카운터가 놓여진 레벨 2 이상의 몬스터의 레벨은 1 이 된다. ②: 이 카드가 묘지에 존재하는 상태에서, 자신이 어둠 속성 몬스터의 융합 소환에 성공했을 경우, 묘지의 이 카드를 제외하고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다.
   zh-TW:
   zh-CN: |-
-    此卡名的①效果１回合仅可使用１次。①：此卡存在于魔法与陷阱区域、放有捕食计数物的怪兽从场上离开的情况下发动。从牌组将１张“捕食”卡加入手牌。②：将墓地的此卡除外可以发动。从自己的手牌・场上，将由融合怪兽卡决定的融合素材怪兽送至墓地，从额外牌组将１只该融合怪兽融合召唤。以此效果进行融合召唤的情况下，仅可以“捕食植物”怪兽作为融合素材。
+    此卡名的①②效果１回合仅可各使用１次。①：从牌组将１只“捕食植物”怪兽送至墓地可以发动。在场上所有表侧表示怪兽上各放１个捕食计数物。放有捕食计数物的等级２以上怪兽的等级变为１。②：此卡存在于墓地的状态下，自己融合召唤暗属性怪兽成功的情况下，将墓地的此卡除外，以场上的１张卡为对象可以发动。将该卡破坏。
 card_type: Trap
 property: Normal
 series:
@@ -100,6 +100,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Rare
+  - set_number: BLZD-JPS16
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP22-KR049
     set_name: 'Duelist Pack: Legend Duelist 5'
