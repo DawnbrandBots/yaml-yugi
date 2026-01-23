@@ -15,7 +15,7 @@ name:
   zh-CN: 禁断仪式术
 text:
   en: |-
-    Ritual Summon 1 Ritual Monster from your GY, by banishing monsters from your GY whose total Levels equal its Level, but destroy it during the End Phase. You can banish this card from your GY; once this turn, when you Ritual Summon with a card effect that requires use of monster Tributes, you can also banish Ritual Monsters from your GY as monsters used for the Ritual Summon. You can only use each effect of "Forbidden Ritual Art" once per turn.
+    Ritual Summon 1 Ritual Monster from your GY by banishing monsters from your GY whose total Levels equal the Level of the Ritual Monster, but destroy it during the End Phase. You can banish this card from your GY; once this turn, when you Ritual Summon, you can also use Ritual Monster(s) in your GY as Tribute(s) for the Ritual Summon, by banishing them. You can only use each effect of "Forbidden Ritual Art" once per turn.
   de:
   es:
   fr:
@@ -34,6 +34,36 @@ images:
 - index: 1
   image: ForbiddenRitualArt-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN077
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE077
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP077
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR077
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT077
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT077
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP077
     set_name: Burst Protocol
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1153927

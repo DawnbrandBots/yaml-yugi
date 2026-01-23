@@ -15,7 +15,7 @@ name:
   zh-CN: 决斗进化－爆裂领域
 text:
   en: |-
-    When this card is activated: You can add 1 monster that mentions "Assault Mode Activate" from your Deck or GY to your hand. "/Assault Mode" monsters cannot be destroyed by battle or your opponent's card effects during the turn they are Special Summoned. You can pay 2000 LP; once this turn, you can activate "Assault Mode Activate" by Tributing a Synchro Monster in the Extra Deck. You can only use this effect of "Duel Evolution - Assault Zone" once per turn. You can only activate 1 "Duel Evolution - Assault Zone" per turn.
+    When this card is activated: You can add 1 monster that mentions "Assault Mode Activate" from your Deck or GY to your hand. "/Assault Mode" monsters cannot be destroyed by battle or your opponent's card effects the turn they are Special Summoned. You can pay 2000 LP; once this turn, the Synchro Monster you would Tribute to activate "Assault Mode Activate" can be chosen from your Extra Deck instead (even if this card has left the field). You can only use this effect of "Duel Evolution - Assault Zone" once per turn. You can only activate 1 "Duel Evolution - Assault Zone" per turn.
   de:
   es:
   fr:
@@ -34,6 +34,36 @@ images:
 - index: 1
   image: DuelEvolutionAssaultZone-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN054
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE054
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP054
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR054
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT054
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT054
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP054
     set_name: Burst Protocol
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1152077

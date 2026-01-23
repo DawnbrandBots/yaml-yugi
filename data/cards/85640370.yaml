@@ -1,7 +1,7 @@
 konami_id: 22181
 password: 85640370
 name:
-  en: Tip of the Tongue Reduction
+  en: Tip of the Tinying Tongue
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 舌尖短少
 text:
   en: |-
-    When your opponent activates a card or effect by declaring exactly 1 card name: Negate that effect, then you can add 1 card with that name from your Deck to your hand. If this Set card in its owner's control is destroyed by an opponent's card effect: You can target 1 face-up monster your opponent controls; it loses 500 ATK.
+    When your opponent activates a card or effect by declaring exactly 1 card name: Negate that effect, then you can add 1 declared card from your Deck to your hand. If this Set card you control is destroyed by an opponent's card effect: You can target 1 face-up monster your opponent controls; it loses 500 ATK.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: TipoftheTongueReduction-BPRO-JP-C.png
+  image: TipoftheTinyingTongue-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN079
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE079
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP079
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR079
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT079
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT079
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP079
     set_name: Burst Protocol
@@ -51,10 +81,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1153925

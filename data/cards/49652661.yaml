@@ -1,7 +1,7 @@
 konami_id: 22180
 password: 49652661
 name:
-  en: Arsenal Organization
+  en: Arsenal Audit
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 武器库整理
 text:
   en: |-
-    Send up to 2 Equip Spells with different names from your Deck to the GY. You can banish this card from your GY, then target 1 face-up monster you control; equip it with up to 2 Equip Spells with different names from your hand and/or GY that can equip to it, but any battle damage it inflicts to your opponent is halved while equipped with any of those Equip Spells. You can only use 1 "Arsenal Organization" effect per turn, and only once that turn.
+    Send up to 2 Equip Spells with different names from your Deck to the GY. You can banish this card from your GY, then target 1 face-up monster you control; equip it with up to 2 Equip Spells with different names from your hand and/or GY that can equip to it, but any battle damage it inflicts to your opponent is halved while equipped with a card by this effect. You can only use 1 "Arsenal Audit" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ArsenalOrganization-BPRO-JP-C.png
+  image: ArsenalAudit-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN078
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE078
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP078
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR078
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT078
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT078
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP078
     set_name: Burst Protocol
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1152846

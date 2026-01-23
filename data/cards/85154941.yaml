@@ -15,7 +15,7 @@ name:
   zh-CN: 公爵恶魔
 text:
   en: |-
-    Gains ATK equal to its Level x 200. You can only use each of the following effects of "Duke Archfiend" once per turn. You can target 1 face-up monster you control; send 1 "Archfiend" monster from your Deck to the GY, except "Duke Archfiend", and if you do, increase the targeted monster's Level by the sent monster's. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.
+    Gains ATK equal to its Level x 200. You can only use each of the following effects of "Duke Archfiend" once per turn. You can target 1 face-up monster you control that has a Level; send 1 "Archfiend" monster from your Deck to the GY, except "Duke Archfiend", and if you do, increase that monster's by the Level of the sent monster. When your Ritual Monster is destroyed by battle while this card is in your GY: You can Special Summon this card.
   de:
   es:
   fr:
@@ -40,6 +40,36 @@ images:
 - index: 1
   image: DukeArchfiend-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN015
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE015
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP015
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR015
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT015
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT015
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP015
     set_name: Burst Protocol
@@ -58,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1145360

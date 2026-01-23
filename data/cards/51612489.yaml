@@ -1,7 +1,7 @@
 konami_id: 22171
 password: 51612489
 name:
-  en: Riot
+  en: Riot's Reason
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 骚动
 text:
   en: |-
-    Target 1 face-down Defense Position monster on the field; return it to the hand, then the player who added it to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to Attack Position. You can only use each effect of "Riot" once per turn.
+    Target 1 face-down Defense Position monster on the field; return it to the hand, then the player whose card was added to their hand can Special Summon 1 monster from their hand in face-down Defense Position. When an opponent's monster declares an attack: You can banish this card from your GY; change 1 face-down Defense Position monster on the field to face-up Attack Position. You can only use each effect of "Riot's Reason" once per turn.
   de:
   es:
   fr:
@@ -32,8 +32,38 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: Riot-BPRO-JP-C.png
+  image: RiotsReason-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN069
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE069
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP069
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR069
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT069
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT069
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP069
     set_name: Burst Protocol
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1152510

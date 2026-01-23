@@ -1,21 +1,21 @@
 konami_id: 22182
 password: 11035075
 name:
-  en: Shichigosan Shugo
+  en: Shichi-Go-San
   de:
   es:
   fr:
   it:
   pt:
   ja: <ruby>死<rt>し</rt></ruby><ruby>地<rt>ち</rt></ruby><ruby>誤<rt>ご</rt></ruby><ruby>算<rt>さん</rt></ruby><ruby>守<rt>しゅ</rt></ruby><ruby>護<rt>ご</rt></ruby>
-  ja_romaji: Shichigosan Shugo
+  ja_romaji: Shichi-Go-San
   ko: 사지오산수호
   ko_rr:
   zh-TW:
   zh-CN: 死地误算守护
 text:
   en: |-
-    Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply these effects based on the equipped monster's Level/Rank.
+    Special Summon 1 Level/Rank 1 monster from either GY to your field, and if you do, equip this card to it. Once per turn, during the End Phase: Increase the equipped monster's Level/Rank by 1. Apply the following effects based on the equipped monster's Level/Rank.
     ● 3+: It gains ATK equal to its original ATK.
     ● 5+: It is unaffected by your opponent's activated effects.
     Once per turn, during your Standby Phase, if the equipped monster's Level/Rank is 7 or higher: Send all cards on the field to the GY.
@@ -44,8 +44,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ShichigosanShugo-BPRO-JP-NR.png
+  image: ShichiGoSan-BPRO-JP-NR.png
 sets:
+  en:
+  - set_number: BPRO-EN080
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE080
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP080
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR080
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT080
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT080
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP080
     set_name: Burst Protocol
@@ -64,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1153926
