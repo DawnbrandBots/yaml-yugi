@@ -1,7 +1,7 @@
 konami_id: 22137
 password: 47247792
 name:
-  en: Conduction Knight Plasma Magnum
+  en: Conduction Warrior Plasma Magnum
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 EARTH Rock monsters
-    All face-up monsters on the field become EARTH. You can only use each of the following effects of "Conduction Knight Plasma Magnum" once per turn. If this card is Fusion Summoned: You can add 1 "Magnet" Normal, Quick-Play, or Field Spell from your Deck to your hand. You can send 1 Level 8 "Magna Warrior" monster from your Deck to the GY; immediately after this effect resolves, Normal Summon 1 Level 4 or lower "Magnet Warrior" monster.
+    Face-up monsters on the field become EARTH. You can only use each of the following effects of "Conduction Warrior Plasma Magnum" once per turn. If this card is Fusion Summoned: You can add 1 "Magnet" Normal, Quick-Play, or Field Spell from your Deck to your hand. You can send 1 Level 8 "Magna Warrior" monster from your Deck to the GY; immediately after this effect resolves, Normal Summon 1 Level 4 or lower "Magnet Warrior" monster.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ def: 2800
 materials: 2 EARTH Rock-Type monsters
 images:
 - index: 1
-  image: ConductionKnightPlasmaMagnum-BPRO-JP-SR.png
+  image: ConductionWarriorPlasmaMagnum-BPRO-JP-SR.png
 sets:
+  en:
+  - set_number: BPRO-EN034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BPRO-DE034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BPRO-SP034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BPRO-FR034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BPRO-IT034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BPRO-PT034
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
   ja:
   - set_number: BPRO-JP034
     set_name: Burst Protocol
@@ -64,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1153155
