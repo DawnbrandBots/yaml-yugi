@@ -1,7 +1,7 @@
 konami_id: 22163
 password: 90764871
 name:
-  en: Archfiend's Strategy Game
+  en: Archfiend Strategy
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 恶魔的棋盘游戏
 text:
   en: |-
-    Fiend monsters in the Extra Monster Zone gain 1000 ATK. You can activate 1 of these effects;
-    ● Banish 1 Fiend monster or "Archfiend" card from your hand or GY; add 1 "Archfiend" card from your Deck to your hand, except a Field Spell.
-    ● Add 1 "Archfiend" Pendulum Monster from your Deck to your Extra Deck face-up.
-    You can only use this effect of "Archfiend's Strategy Game" once per turn.
+    Fiend monsters in the Extra Monster Zone(s) gain 1000 ATK. You can activate 1 of these effects;
+    ● Banish 1 Fiend monster or 1 "Archfiend" card from your hand or GY; add 1 "Archfiend" card from your Deck to your hand, except a Field Spell.
+    ● Add 1 "Archfiend" Pendulum Monster from your Deck to your face-up Extra Deck.
+    You can only use this effect of "Archfiend Strategy" once per turn.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendsStrategyGame-BPRO-JP-R.png
+  image: ArchfiendStrategy-BPRO-JP-R.png
 sets:
+  en:
+  - set_number: BPRO-EN060
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE060
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP060
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR060
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT060
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT060
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP060
     set_name: Burst Protocol
@@ -61,9 +91,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1145368

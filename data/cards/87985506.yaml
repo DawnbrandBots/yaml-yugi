@@ -1,7 +1,7 @@
 konami_id: 22175
 password: 87985506
 name:
-  en: Archfiend's Jest
+  en: Archfiend Playtime
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 恶魔的谐谑
 text:
   en: |-
-    Special Summon 1 Level 7 or lower "Archfiend" monster from your hand or Deck, or if you have a face-up "Archfiend" Ritual Monster in your Extra Deck, you can Special Summon 1 "Royal Archfiend", 1 "Duke Archfiend", and/or 1 "Highness Archfiend" from your hand and/or Deck instead. You can only activate 1 "Archfiend's Jest" per turn.
+    Special Summon 1 Level 7 or lower "Archfiend" monster from your hand or Deck, or if you have an "Archfiend" Ritual Monster in your face-up Extra Deck, you can Special Summon up to 1 each of "Royal Archfiend", "Duke Archfiend", and "Highness Archfiend" from your hand and/or Deck instead. You can only activate 1 "Archfiend Playtime" per turn.
   de:
   es:
   fr:
@@ -34,8 +34,38 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendsJest-BPRO-JP-C.png
+  image: ArchfiendPlaytime-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN073
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE073
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP073
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR073
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT073
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT073
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP073
     set_name: Burst Protocol
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1145370

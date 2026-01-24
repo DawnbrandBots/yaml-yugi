@@ -1,7 +1,7 @@
 konami_id: 22176
 password: 13379114
 name:
-  en: Archfiend's Vigor
+  en: Archfiend's Fervor
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 恶魔的气魄
 text:
   en: |-
-    If you control an "Archfiend" Ritual Monster in the Extra Monster Zone: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. If this card is banished from the hand or field: You can add 1 "Archfiend" card from your Deck to your hand, except "Archfiend's Vigor". You can only use each effect of "Archfiend's Vigor" once per turn.
+    If you control an "Archfiend" Ritual Monster in the Extra Monster Zone: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. If this card is banished from the hand or field: You can add 1 "Archfiend" card from your Deck to your hand, except "Archfiend's Fervor". You can only use each effect of "Archfiend's Fervor" once per turn.
   de:
   es:
   fr:
@@ -34,8 +34,38 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ArchfiendsVigor-BPRO-JP-C.png
+  image: ArchfiendsFervor-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN074
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE074
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP074
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR074
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT074
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT074
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP074
     set_name: Burst Protocol
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1145372

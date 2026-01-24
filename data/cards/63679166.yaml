@@ -1,7 +1,7 @@
 konami_id: 22162
 password: 63679166
 name:
-  en: Throne of Archfiends
+  en: Throne of the Archfiends
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 恶魔王座
 text:
   en: |-
-    This card can be used to Ritual Summon any "Archfiend" Ritual Monster from your hand, face-up Extra Deck, GY, or banishment. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster. During the Standby Phase, if you have "Archfiend Emperor" face-up in your Extra Deck: You can add this card from your GY or banishment to your hand. You can only use this effect of "Throne of Archfiends" once per turn.
+    Ritual Summon 1 "Archfiend" Ritual Monster from your hand, face-up Extra Deck, GY, or banishment, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. During the Standby Phase, if you have "Archfiend Emperor" in your face-up Extra Deck: You can add this card from your GY or banishment to your hand. You can only use this effect of "Throne of the Archfiends" once per turn.
   de:
   es:
   fr:
@@ -34,8 +34,38 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: ThroneofArchfiends-BPRO-JP-C.png
+  image: ThroneoftheArchfiends-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN059
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE059
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP059
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR059
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT059
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT059
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP059
     set_name: Burst Protocol
@@ -53,10 +83,5 @@ sets:
     - Common
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1145365
