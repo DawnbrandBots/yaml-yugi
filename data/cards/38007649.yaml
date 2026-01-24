@@ -1,7 +1,7 @@
 konami_id: 22158
 password: 38007649
 name:
-  en: DoomZ Changer
+  en: DoomZ Change
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 终刻变转
 text:
   en: |-
-    Destroy 1 "DoomZ" card in your hand, Deck, or face-up field, except "DoomZ Changer". If this card is destroyed by card effect: You can add 1 "DoomZ" card from your GY to your hand, except "DoomZ Changer", then you can Special Summon 1 "DoomZ" monster from your hand. You can only use each effect of "DoomZ Changer" once per turn.
+    Destroy 1 "DoomZ" card in your hand, Deck, or face-up field, except "DoomZ Change". If this card is destroyed by card effect: You can add 1 "DoomZ" card from your GY to your hand, except "DoomZ Change", then you can Special Summon 1 "DoomZ" monster from your hand. You can only use each effect of "DoomZ Change" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,38 @@ series:
 - DoomZ
 images:
 - index: 1
-  image: DoomZChanger-BPRO-JP-C.png
+  image: DoomZChange-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN055
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE055
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP055
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR055
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT055
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT055
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP055
     set_name: Burst Protocol
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1152160
