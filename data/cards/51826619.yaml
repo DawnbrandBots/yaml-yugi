@@ -1,7 +1,7 @@
 konami_id: 22111
 password: 51826619
 name:
-  en: Magnet Warrior Σ＋
+  en: Magnet Warrior Sigma Plus
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 磁石战士西格玛＋
 text:
   en: |-
-    While you control an EARTH monster, your opponent's monsters that can attack must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack targets for your opponent's attacks. If this card is sent to the GY: You can target 1 Level 4 or lower "Magnet Warrior" monster in your GY, except "Magnet Warrior Σ＋"; add it to your hand or Special Summon it. You can only use this effect of "Magnet Warrior Σ＋" once per turn.
+    While you control an EARTH monster, your opponent's monsters that can attack must attack EARTH monsters. While your opponent controls an EARTH monster, you choose the attack targets for your opponent's attacks. If this card is sent to the GY: You can target 1 Level 4 or lower "Magnet Warrior" monster in your GY, except "Magnet Warrior Sigma Plus"; add it to your hand or Special Summon it. You can only use this effect of "Magnet Warrior Sigma Plus" once per turn.
   de:
   es:
   fr:
@@ -37,11 +37,41 @@ def: 1500
 series:
 - Magnet
 - Magnet Warrior
-- Magnet Warrior Σ
+- Magnet Warrior Sigma
 images:
 - index: 1
-  image: MagnetWarriorΣ＋-BPRO-JP-C.png
+  image: MagnetWarriorSigmaPlus-BPRO-JP-C.png
 sets:
+  en:
+  - set_number: BPRO-EN005
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  de:
+  - set_number: BPRO-DE005
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  es:
+  - set_number: BPRO-SP005
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  fr:
+  - set_number: BPRO-FR005
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  it:
+  - set_number: BPRO-IT005
+    set_name: Burst Protocol
+    rarities:
+    - Common
+  pt:
+  - set_number: BPRO-PT005
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ja:
   - set_number: BPRO-JP005
     set_name: Burst Protocol
@@ -60,7 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1153183
