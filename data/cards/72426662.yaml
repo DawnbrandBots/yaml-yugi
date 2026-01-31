@@ -32,7 +32,8 @@ text:
     "엔드 오브 더 월드"에 의해 의식 소환. 필드나 패에서 레벨의 합계가 8이 되도록 카드를 제물로 바쳐야 한다. 2000 라이프 포인트를 지불하는 것으로, 이 카드 이외의 필드 위의 카드를 전부 파괴한다.
   zh-TW:
   zh-CN: |-
-    「世界末日」降临。①：支付2000基本分才能发动。场上的其他卡全部破坏。
+    以“世界终灭”降临
+    ①：支付2000LP可以发动。将场上的其他卡全部破坏。
 card_type: Monster
 monster_type_line: Fiend / Ritual / Effect
 attribute: DARK
@@ -131,6 +132,11 @@ sets:
   - set_number: NE03-SC067
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
+  - set_number: TDB3-SC002
+    set_name: "Bonus Pack: Nature's Renewal - Bing Wu"
+    rarities:
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
