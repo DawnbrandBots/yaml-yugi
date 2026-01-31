@@ -32,7 +32,7 @@ text:
     이 카드 이외의 야수족 몬스터가 자신 필드 위에 앞면 표시로 존재할 경우, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장의 공격력을 엔드 페이즈시까지 0 으로 할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡以外的兽族怪兽在自己场上存在的场合，可以选择对方场上1只怪兽，直到结束阶段时攻击力变成0。这个效果1回合只能使用1次。
+    ①：1回合1次，以对手场上的1只表侧表示怪兽为对象可以发动（此效果在自己场上存在其他兽族怪兽的情况下才能发动和处理）。将该对手的怪兽的攻击力直至回合结束时为止改成0。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: EARTH
@@ -143,6 +143,7 @@ sets:
   - set_number: NE03-SC051
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -32,7 +32,7 @@ text:
     이 카드 이외의 야수족 몬스터가 자신 필드 위에 앞면 표시로 존재할 경우, 자신 필드 위에 앞면 표시로 존재하는 몬스터 1장의 공격력을 엔드 페이즈시까지 1000 포인트 올릴 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡以外的兽族怪兽在自己场上表侧表示存在的场合，可以让自己场上表侧表示存在的1只怪兽的攻击力直到结束阶段时上升1000。这个效果1回合只能使用1次。
+    ①：1回合1次，以自己场上的1只表侧表示怪兽为对象可以发动（此效果在自己场上存在其他兽族怪兽的情况下才能发动和处理）。该自己的怪兽的攻击力直至回合结束时为止上升1000。
 card_type: Monster
 monster_type_line: Beast / Effect
 attribute: WATER
@@ -127,6 +127,7 @@ sets:
   - set_number: NE03-SC052
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

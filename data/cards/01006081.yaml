@@ -48,9 +48,9 @@ text:
     ●대상 몬스터의 레벨을 1개 내린다.
   zh-TW:
   zh-CN: |-
-    效果·调整;「废品变更者的效果1回合只能使用1次。①：这张卡召唤·特殊召唤成功的场合，可以以场上1只「废品」怪兽为对象从以下效果选择1个发动。
-    ●作为对象的怪兽的等级上升1星。
-    ●作为对象的怪兽的等级下降1星。
+    此卡名的效果1回合仅可使用1次。①：此卡召唤・特殊召唤的情况下，以场上的1只“废品”怪兽为对象，从以下效果中选择1个可以发动。
+    ●对象怪兽的等级上升1。
+    ●对象怪兽的等级下降1。
 card_type: Monster
 monster_type_line: Warrior / Tuner / Effect
 attribute: EARTH
@@ -109,6 +109,7 @@ sets:
   - set_number: NE03-SC019
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

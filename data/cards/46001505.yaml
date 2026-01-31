@@ -30,7 +30,10 @@ text:
     ●相手フィールドのカードの数が自分フィールドのカードより多く、相手がモンスターの効果を発動した時に発動できる。自分のＥＸデッキ・墓地から「レッド・デーモンズ・ドラゴン」か「琰魔竜 レッド・デーモン」１体を特殊召喚し、その発動した効果を無効にし破壊する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：可从以下效果中选择1个发动。
+    ●在对手的战斗阶段可以发动。对手恢复1000LP。然后，结束战斗阶段。
+    ●对手场上的卡的数量多于自己场上的卡，且对手发动怪兽的效果时可以发动。从自己额外牌组・墓地将1只“暗红恶魔龙”或“琰魔龙 暗红恶魔”特殊召唤，将该发动的效果无效并破坏。
 card_type: Trap
 property: Normal
 images:
@@ -50,6 +53,7 @@ sets:
   - set_number: NE03-SC024
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

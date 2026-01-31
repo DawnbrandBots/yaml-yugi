@@ -25,7 +25,8 @@ text:
     このカード名の②のモンスター効果は１ターンに１度しか使用できない。①：Ｐ召喚したこのカードがモンスターゾーンに存在する限り、このカードは相手の効果では破壊されず、相手はこのカードを効果の対象にできない。②：自分・相手ターンに、自分フィールドのＰモンスターカード１枚と相手フィールドのカード１枚を対象として発動できる。そのカードを手札に戻す。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②怪兽效果1回合仅可使用1次。①：只要灵摆召唤的此卡存在于怪兽区域，此卡不会因对手的效果被破坏，对手不可将此卡作为效果的对象。②：在自己・对手回合中，以自己场上的1张灵摆怪兽卡和对手场上的1张卡为对象可以发动。将该卡放回手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Pendulum / Effect
 attribute: WIND
@@ -48,7 +49,10 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：もう片方の自分のＰゾーンにカードが存在する場合、以下の効果から１つを選択して発動できる。●このカードを特殊召喚する。●このカードを破壊し、自分のＰゾーンのレベル５以下のＰモンスターカード１枚を特殊召喚する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的灵摆效果1回合仅可使用1次。①：自己另一方的灵摆区域有卡存在的情况下，可从以下效果中选择1个发动。
+    ●将此卡特殊召唤。
+    ●将此卡破坏，将自己灵摆区域的1张等级5以下的灵摆怪兽卡特殊召唤。
 series:
 - Dracoslayer
 images:
@@ -66,6 +70,9 @@ sets:
   - set_number: NE03-SC005
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited

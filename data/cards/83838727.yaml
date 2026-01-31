@@ -33,7 +33,10 @@ text:
     ●자신 묘지에 존재하지 않는 속성: 자신은 1장 드로우한다.
     ●자신 묘지에 존재하는 속성: 자신의 패를 1장 고르고 버린다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：自己墓地存在怪兽的情况下，支付200LP可以发动。自己抽1张，给双方确认。其为怪兽的情况下，进而根据其属性适用以下效果。
+    ●自己墓地中不存在的属性：自己抽1张。
+    ●自己墓地中存在的属性：挑选自己的1张手牌舍弃。
 card_type: Spell
 property: Normal
 images:
@@ -82,6 +85,9 @@ sets:
   - set_number: NE03-SC043
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Super Rare
+    - Secret Rare
+    - Secret Rare (Special Red Version)
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
