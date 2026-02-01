@@ -48,7 +48,9 @@ text:
     ●1턴에 1번, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 덱에서 카드를 1장 드로우하고, 서로 확인한다. 확인한 카드가 몬스터였을 경우, 다시 상대 라이프에 800 포인트 데미지를 준다.
   zh-TW:
   zh-CN: |-
-    9星怪兽×4。场上的这张卡不会成为卡的效果的对象。此外，这张卡有XYZ怪兽在作为XYZ素材的场合，得到以下效果。●1回合1次，把这张卡1个XYZ素材取除才能发动。从卡组抽1张卡，给双方确认。确认的卡是怪兽的场合，再给与对方基本分800分伤害。
+    等级9怪兽×4
+    ①：双方不可将场上的此卡作为效果的对象。②：此卡持有超量怪兽作为超量素材的情况下，获得以下效果。
+    ●1回合1次，去除此卡的1个超量素材可以发动。自己抽1张，给双方确认。其为怪兽的情况下，进而给予对手800伤害。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: FIRE
@@ -109,6 +111,7 @@ sets:
   - set_number: NE03-SC128
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

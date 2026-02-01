@@ -32,7 +32,7 @@ text:
     이 카드명의 ①의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 일반 소환 / 특수 소환했을 경우에 발동할 수 있다. 덱에서 "도레미코드" 마법 / 함정 카드 1장을 패에 넣는다. ②: 자신의 펜듈럼 존에 짝수의 펜듈럼 스케일이 존재하고, 자신의 "도레미코드" 펜듈럼 몬스터가 공격할 경우, 상대는 데미지 스텝 종료시까지 몬스터의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    此卡名的①怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤成功的情况下可以发动。从牌组将1张“音服和弦”魔法・陷阱卡加入手牌。②：自己的灵摆区域有偶数的灵摆刻度存在、自己的“音服和弦”灵摆怪兽攻击的情况下，直至伤害步骤结束时为止，对手不可发动怪兽效果。
+    此卡名的①怪兽效果1回合仅可使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将1张“音服和弦”魔法・陷阱卡加入手牌。②：自己的灵摆区域存在偶数的灵摆刻度，自己的“音服和弦”灵摆怪兽攻击的情况下，直至伤害步骤结束时为止，对手不可发动怪兽效果。
 card_type: Monster
 monster_type_line: Fairy / Pendulum / Effect
 attribute: WATER
@@ -130,6 +130,10 @@ sets:
     set_name: 'Deck-Build Pack: Ancient Guardians'
     rarities:
     - Super Rare
+  - set_number: NE03-SC138
+    set_name: 'Nature Pack: Righteous Warriors'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
