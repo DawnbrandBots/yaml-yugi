@@ -40,7 +40,8 @@ text:
     ①: 1턴에 1번, 자신이 전투 / 효과로 데미지를 받았을 때에 발동할 수 있다. 자신의 덱 위에서 카드를 5장까지 묘지로 보낸다. 이 효과로 몬스터가 묘지로 보내졌을 경우, 이 카드의 공격력은 400 올린다.
   zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上。1回合1次，战斗或者卡的效果让自己受到伤害时才能发动。从自己卡组上面把最多5张卡送去墓地。这个效果送去墓地的卡之中有怪兽卡的场合，这张卡的攻击力上升400。
+    协调＋协调以外的怪兽1只以上
+    ①：1回合1次，自己因战斗・效果受到伤害时可以发动。从自己牌组上面将最多5张卡送至墓地。有怪兽因此效果被送至墓地的情况下，此卡的攻击力进而上升400。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: DARK
@@ -104,6 +105,9 @@ sets:
   - set_number: NE03-SC146
     set_name: 'Nature Pack: Righteous Warriors'
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Secret Rare (Special Red Version)
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
