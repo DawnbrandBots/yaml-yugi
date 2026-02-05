@@ -1,7 +1,7 @@
 konami_id: 21749
 password: 71440209
 name:
-  en: Dark Magic Amulet
+  en: Dark Magic Talisman
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 黑魔术之护符
 text:
   en: |-
-    You can activate this card the turn it was Set by revealing 1 Spellcaster monster in your hand. When a monster effect is activated in response to the activation of a card that mentions "Dark Magician", or its effect: You can negate that effect, and if you do, for the rest of this turn, the activated effects of monsters with the same original name are negated. If you Special Summon "Dark Magician" while this card is in your GY: You can pay 2500 LP; Set this card.
+    You can activate this card the turn it was Set, by revealing 1 Spellcaster monster in your hand. When a monster effect is activated in response to the card or effect activation of a card that mentions "Dark Magician": Negate that effect, and if you do, for the rest of this turn, negate the activated effects of monsters with that same original name. If you Special Summon "Dark Magician" while this card is in your GY (except during the Damage Step): You can pay 2500 LP; Set this card.
   de:
   es:
   fr:
@@ -31,7 +31,7 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: DarkMagicAmulet-VJMP-JP-UR.png
+  image: DarkMagicTalisman-VJMP-JP-UR.png
 sets:
   en:
   - set_number: MZMU-EN???
@@ -71,9 +71,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1127742
