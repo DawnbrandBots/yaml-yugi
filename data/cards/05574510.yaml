@@ -15,9 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    You can discard 1 card, then target 1 monster your opponent controls that has a Level; roll a six-sided die and apply this effect based on the result.
-    ● Higher than the targeted monster's Level: Destroy the targeted monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of "Shateki" for the rest of this turn.
-    ● Equal to or lower than that targeted monster's Level: Reduce the targeted monster's Level by 1.
+    You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.
+    ● Higher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of "Shateki" for the rest of this turn.
+    ● Equal to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).
   de:
   es:
   fr:
@@ -38,29 +38,35 @@ images:
   image: Shateki-25PR-JP-NPR.png
 sets:
   en:
-  - set_number: MZMU-EN???
+  - set_number: MZMU-EN038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   de:
-  - set_number: MZMU-DE???
+  - set_number: MZMU-DE038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   es:
-  - set_number: MZMU-SP???
+  - set_number: MZMU-SP038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   fr:
-  - set_number: MZMU-FR???
+  - set_number: MZMU-FR038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   it:
-  - set_number: MZMU-IT???
+  - set_number: MZMU-IT038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   pt:
-  - set_number: MZMU-PT???
+  - set_number: MZMU-PT038
     set_name: Maze of Muertos
     rarities:
+    - Rare
   ja:
   - set_number: 25PR-JP004
     set_name: Promotion Pack 2025
@@ -78,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1097953

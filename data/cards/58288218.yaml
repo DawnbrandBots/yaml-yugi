@@ -15,7 +15,7 @@ name:
   zh-CN: 假面－英雄 焰炉
 text:
   en: |-
-    You can reveal this card in your hand; add 1 "Mask Change" or "Polymerization" from your Deck to your hand, then discard 1 card. You cannot Special Summon from the Extra Deck the turn you activate this effect, except "HERO" monsters. If you Special Summon a non-FIRE "HERO" Fusion Monster(s) (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the monster was Summoned) or hand (even if not), but banish it when it leaves the field. You can only use each effect of "Masked HERO Furnace" once per turn.
+    You can reveal this card in your hand; add 1 "Mask Change" or "Polymerization" from your Deck to your hand, then discard 1 card. You cannot Special Summon from the Extra Deck the turn you activate this effect, except "HERO" monsters. If you Special Summon a non-FIRE "HERO" Fusion Monster(s) (except during the Damage Step): You can Special Summon this card from your GY (if it was there when the Summon resolved), or hand (even if not), but banish it when it leaves the field. You can only use each effect of "Masked HERO Furnace" once per turn.
   de:
   es:
   fr:
@@ -42,29 +42,35 @@ images:
   image: MaskedHEROFurnace-TTP1-JP-UR.png
 sets:
   en:
-  - set_number: MZMU-EN???
+  - set_number: MZMU-EN015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   de:
-  - set_number: MZMU-DE???
+  - set_number: MZMU-DE015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   es:
-  - set_number: MZMU-SP???
+  - set_number: MZMU-SP015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   fr:
-  - set_number: MZMU-FR???
+  - set_number: MZMU-FR015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   it:
-  - set_number: MZMU-IT???
+  - set_number: MZMU-IT015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   pt:
-  - set_number: MZMU-PT???
+  - set_number: MZMU-PT015
     set_name: Maze of Muertos
     rarities:
+    - Super Rare
   ja:
   - set_number: TTP1-JP025
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
@@ -86,9 +92,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1126871

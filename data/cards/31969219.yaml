@@ -1,7 +1,7 @@
 konami_id: 21242
 password: 31969219
 name:
-  en: Shadow Trouble
+  en: Baneshade
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN:
 text:
   en: |-
-    Target 1 face-up card your opponent controls; apply this effect based on the number of cards with that name in your opponent's GY.
+    Target 1 face-up card your opponent controls; apply this effect based on the number of cards in their GY with that face-up card's name.
     ● 1: Destroy it.
     ● 2: Banish it.
-    ● 3+: Banish it, also all cards with that name from your opponent's field and GY, face-down.
+    ● 3+: Banish it, also all cards with that name from your opponent's field and GY (face-down).
   de:
   es:
   fr:
@@ -36,32 +36,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: ShadowTrouble-25PR-JP-NPR.png
+  image: Baneshade-25PR-JP-NPR.png
 sets:
   en:
-  - set_number: MZMU-EN???
+  - set_number: MZMU-EN039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   de:
-  - set_number: MZMU-DE???
+  - set_number: MZMU-DE039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   es:
-  - set_number: MZMU-SP???
+  - set_number: MZMU-SP039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   fr:
-  - set_number: MZMU-FR???
+  - set_number: MZMU-FR039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   it:
-  - set_number: MZMU-IT???
+  - set_number: MZMU-IT039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   pt:
-  - set_number: MZMU-PT???
+  - set_number: MZMU-PT039
     set_name: Maze of Muertos
     rarities:
+    - Rare
   ja:
   - set_number: 25PR-JP005
     set_name: Promotion Pack 2025
@@ -70,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1097956

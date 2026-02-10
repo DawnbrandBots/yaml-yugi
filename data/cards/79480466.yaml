@@ -1,7 +1,7 @@
 konami_id: 21240
 password: 79480466
 name:
-  en: Bazoo the Soul Eater Beast
+  en: Bazoo the Soul-Devourer
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     3 Level 4 monsters
-    Any Xyz Material detached from a monster is banished instead of being sent to the GY. Once per Chain, if a Monster Card(s) is sent to the GY (except during the Damage Step): You can detach 1 material from this card. If the last material(s) is detached from this card (except during the Damage Step): You can target 3 cards in the GY(s); attach them to this card as material.
+    Any Xyz Material detached from a monster is banished instead of going to the GY. Once per Chain, if a Monster Card(s) is sent to the GY (except during the Damage Step): You can detach 1 material from this card. If the last material(s) is detached from this card (except during the Damage Step): You can target 3 cards in the GY(s); attach them to this card.
   de:
   es:
   fr:
@@ -37,32 +37,38 @@ def: 900
 materials: 3 Level 4 monsters
 images:
 - index: 1
-  image: BazootheSoulEaterBeast-25PR-JP-NPR.png
+  image: BazootheSoulDevourer-25PR-JP-NPR.png
 sets:
   en:
-  - set_number: MZMU-EN???
+  - set_number: MZMU-EN037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   de:
-  - set_number: MZMU-DE???
+  - set_number: MZMU-DE037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   es:
-  - set_number: MZMU-SP???
+  - set_number: MZMU-SP037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   fr:
-  - set_number: MZMU-FR???
+  - set_number: MZMU-FR037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   it:
-  - set_number: MZMU-IT???
+  - set_number: MZMU-IT037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   pt:
-  - set_number: MZMU-PT???
+  - set_number: MZMU-PT037
     set_name: Maze of Muertos
     rarities:
+    - Rare
   ja:
   - set_number: 25PR-JP003
     set_name: Promotion Pack 2025
@@ -71,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1097950

@@ -15,7 +15,7 @@ name:
   zh-CN: 魂之团结－灵魂联合
 text:
   en: |-
-    Target 1 face-up monster on the field and 1 "Elemental HERO" monster in your GY; that monster on the field gains ATK equal to the ATK of that other monster in the GY (until the end of this turn), then if an "Elemental HERO" Normal Monster is in your field or GY, you can Fusion Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, by banishing its materials from your GY. You can only activate 1 "Soul Union" per turn.
+    Target 1 face-up monster on the field and 1 "Elemental HERO" monster in your GY; that target on the field gains ATK equal to the other target's ATK  (until the end of this turn), then if you have an "Elemental HERO" Normal Monster in your field or GY (except during the Damage Step), you can Fusion Summon 1 "Elemental HERO" Fusion Monster from your Extra Deck, by banishing its materials from your GY. You can only activate 1 "Soul Union" per turn.
   de:
   es:
   fr:
@@ -35,29 +35,35 @@ images:
   image: SoulUnion-LPG1-JP-UR.png
 sets:
   en:
-  - set_number: MZMU-EN???
+  - set_number: MZMU-EN028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   de:
-  - set_number: MZMU-DE???
+  - set_number: MZMU-DE028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   es:
-  - set_number: MZMU-SP???
+  - set_number: MZMU-SP028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   fr:
-  - set_number: MZMU-FR???
+  - set_number: MZMU-FR028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   it:
-  - set_number: MZMU-IT???
+  - set_number: MZMU-IT028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   pt:
-  - set_number: MZMU-PT???
+  - set_number: MZMU-PT028
     set_name: Maze of Muertos
     rarities:
+    - Rare
   ja:
   - set_number: LPG1-JP010
     set_name: 'Limited Pack GX: Slifer Red'
@@ -73,7 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1123219
