@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     從我方牌組中抽取2張卡牌，之後將手牌中的1隻暗屬性怪獸從遊戲中除外。我方手牌中沒有暗屬性怪獸的場合，將我方手牌全部送進墓地。
   zh-CN: |-
-    ①：自己抽２张。然后，手牌存在暗属性怪兽的情况下，从其中挑选１只除外。不存在的情况下，将自己的手牌全部送至墓地。
+    ①：自己抽2张。然后，手牌存在暗属性怪兽的情况下，从其中挑选1只除外。不存在的情况下，将自己的手牌全部送至墓地。
 card_type: Spell
 property: Normal
 images:
@@ -632,6 +632,10 @@ sets:
     set_name: 'Deck-Build Pack: Crossover Breakers'
     rarities:
     - Common
+    - Normal Parallel Rare
+  - set_number: WT02-SC017
+    set_name: 'Deluxe Duel Set: Maliss'
+    rarities:
     - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited

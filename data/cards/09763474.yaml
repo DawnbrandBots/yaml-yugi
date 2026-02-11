@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     卡名不同的怪兽2只
-    此卡名的效果1回合仅可使用1次。①：从自己场上（表侧表示）・墓地将1只攻击力2000以下的怪兽除外，以场上的1只表侧表示怪兽为对象可以发动。将该怪兽的攻击力直至回合结束时为止，改成与为发动此效果而除外的怪兽的原本攻击力相同。将原本种族为爬虫类族的怪兽除外来发动此效果的情况下，进而自己抽1张。
+    此卡名的效果1回合仅可使用1次。①：从自己场上（表侧表示）・墓地将1只攻击力2000以下的怪兽除外，以场上的1只表侧表示怪兽为对象可以发动。将该怪兽的攻击力直至回合结束时为止，改成与为发动此效果而除外的怪兽的原本攻击力相同。将原本种族为爬虫类族的怪兽除外来发动此效果的情况下，自己进而抽1张。
 card_type: Monster
 monster_type_line: Reptile / Link / Effect
 attribute: WATER
@@ -154,6 +154,10 @@ sets:
     set_name: 'Nature Pack: Courageous Zoodiacs'
     rarities:
     - Common
+  - set_number: WT02-SCS15
+    set_name: 'Deluxe Duel Set: Maliss'
+    rarities:
+    - Normal Parallel Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
