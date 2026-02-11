@@ -15,7 +15,7 @@ name:
   zh-CN: 头目连战
 text:
   en: |-
-    You cannot Normal Summon or Set. During the End Phase of the turn that a "B.E.S." monster or a "Big Core" is destroyed and sent to the Graveyard, you can Special Summon 1 "B.E.S." monster or 1 "Big Core" from your Deck.
+    Activate only if you did not Normal Summon/Set this turn. You cannot Normal Summon/Set. During the End Phase, if a face-up "B.E.S." monster(s) you control was destroyed and sent to the GY this turn while this card was face-up in your Spell & Trap Zone: You can Special Summon 1 "B.E.S." monster from your Deck.
   de: |-
     Der Beherrscher dieser Karte kann nicht als Normalbeschwörung beschwören oder setzen. Während der End Phase des Spielzugs, in dem ein Monster von deiner Spielfeldseite, dessen Name „B.E.S.“ enthält oder das „Großer Kern“ heißt, zerstört und auf den Friedhof gelegt wird, kannst du 1 Monster aus deinem Deck als Spezialbeschwörung beschwören, dessen Name „B.E.S.“ enthält oder das „Großer Kern“ heißt.
   es: |-
@@ -43,6 +43,10 @@ sets:
     set_name: Elemental Energy
     rarities:
     - Common
+  - set_number: OP30-EN017
+    set_name: OTS Tournament Pack 30
+    rarities:
+    - Common
   - set_number: DR04-EN107
     set_name: Dark Revelation Volume 4
     rarities:
@@ -52,9 +56,17 @@ sets:
     set_name: Elemental Energy
     rarities:
     - Common
+  - set_number: OP30-DE017
+    set_name: OTS Tournament Pack 30
+    rarities:
+    - Common
   es:
   - set_number: EEN-SP047
     set_name: Elemental Energy
+    rarities:
+    - Common
+  - set_number: OP30-SP017
+    set_name: OTS Tournament Pack 30
     rarities:
     - Common
   fr:
@@ -62,9 +74,22 @@ sets:
     set_name: Elemental Energy
     rarities:
     - Common
+  - set_number: OP30-FR017
+    set_name: OTS Tournament Pack 30
+    rarities:
+    - Common
   it:
   - set_number: EEN-IT047
     set_name: Elemental Energy
+    rarities:
+    - Common
+  - set_number: OP30-IT017
+    set_name: OTS Tournament Pack 30
+    rarities:
+    - Common
+  pt:
+  - set_number: OP30-PT017
+    set_name: OTS Tournament Pack 30
     rarities:
     - Common
   ja:
