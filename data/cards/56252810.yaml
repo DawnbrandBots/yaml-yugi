@@ -24,7 +24,8 @@ text:
     Retirez du jeu 1 "Activation Mode Assaut" depuis votre Cimetière. Détruisez tous les monstres que vous contrôlez et Invoquez Spécialement 1 monstre "/Mode Assaut" depuis votre Cimetière, sans tenir compte des conditions d'Invocation. Ses effets sont annulés, et il ne peut être Sacrifié. S'il est retiré du Terrain, retirez-le du jeu.
   it: |-
     Rimuovi dal gioco 1 "Attivazione Modalità Assalto" dal tuo Cimitero. Distruggi tutti i mostri che controlli ed Evoca tramite Evocazione Speciale 1 mostro "/Assalto" dal tuo Cimitero, ignorando le sue condizioni di Evocazione. I suoi effetti vengono annullati, e non può essere offerto come Tributo. Se viene rimosso dal Terreno, rimuovilo dal gioco.
-  pt:
+  pt: |-
+    Bana 1 "Ativar Modo de Ataque" do seu Cemitério e, depois, escolha 1 monstro "/Modo de Ataque" no seu Cemitério que foi Invocado anteriormente com "Ativar Modo de Ataque"; destrua todos os monstros que você controla e, se isso acontecer, Invoque o alvo por Invocação-Especial, ignorando suas condições de Invocação, mas seus efeitos são negados, ele não pode ser oferecido como Tributo e, além disso, bana-o quando ele deixar o campo.
   ja: |-
     自分の墓地に存在する「バスター・モード」１枚をゲームから除外して発動する。自分フィールド上に存在するモンスターを全て破壊し、自分の墓地に存在する「<ruby>／<rt>スラッシュ</rt></ruby>バスター」と名のついたモンスター１体を召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、リリースする事もできず、フィールド上から離れた場合ゲームから除外される。
   ko: |-
@@ -63,6 +64,11 @@ sets:
     set_name: Crimson Crisis
     rarities:
     - Short Print
+  pt:
+  - set_number: OP30-PT036
+    set_name: OTS Tournament Pack 30
+    rarities:
+    - Common
   ja:
   - set_number: CRMS-JP053
     set_name: Crimson Crisis

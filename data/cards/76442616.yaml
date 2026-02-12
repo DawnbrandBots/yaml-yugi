@@ -6,7 +6,7 @@ name:
   es: Vínculo del HÉROE
   fr: Lien des HÉROS
   it: Legame dell'EROE
-  pt: Vínculo de Herói
+  pt: Elo do HERÓI
   ja: <ruby>ＨＥＲＯ＇Ｓ<rt>ヒーローズ</rt></ruby> ボンド
   ja_romaji: Hīrōzu Bondo
   ko: 히어로즈 본드
@@ -24,7 +24,8 @@ text:
     Activable uniquement tant qu'il y a un monstre "HÉROS Élémentaire", "HÉROS de la Destinée" ou "HÉROS du Mal" face recto sur le Terrain. Invoquez Spécialement 2 monstres "HÉROS Élémentaire" de Niveau 4 ou moins depuis votre main.
   it: |-
     Se c'è un mostro "EROE" scoperto sul Terreno: Evoca Specialmente 2 mostri "EROE Elementale" di Livello 4 o inferiore dalla tua mano.
-  pt:
+  pt: |-
+    Se um monstro "HERÓI" estiver no campo: Invoque por Invocação-Especial 2 monstros "HERÓI do Elemento" de Nível 4 ou menos da sua mão.
   ja: |-
     フィールド上に「ＨＥＲＯ」と名のついたモンスターが存在している時に発動する事ができる。手札からレベル４以下の「Ｅ・ＨＥＲＯ」と名のついたモンスター２体を特殊召喚する。
   ko: |-
@@ -76,6 +77,11 @@ sets:
     - Secret Rare
   - set_number: LCGX-IT106
     set_name: 'Legendary Collection 2: The Duel Academy Years Mega Pack'
+    rarities:
+    - Common
+  pt:
+  - set_number: OP30-PT034
+    set_name: OTS Tournament Pack 30
     rarities:
     - Common
   ja:

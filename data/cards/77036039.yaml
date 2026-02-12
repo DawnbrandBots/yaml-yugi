@@ -24,7 +24,8 @@ text:
     Une fois par tour, vous pouvez renvoyer 1 "Activation Mode Assaut" depuis votre main ou Cimetière au Deck pour détruire 1 Carte Magie ou Piège contrôlée par votre adversaire.
   it: |-
     Una volta per turno, puoi far ritornare 1 "Attivazione Modalità Assalto" dalla tua mano o Cimitero al Deck per distruggere 1 Carta Magia o Trappola controllata dal tuo avversario.
-  pt:
+  pt: |-
+    Uma vez por turno: você pode embaralhar no Deck 1 "Ativar Modo de Ataque" da sua mão ou do Cemitério e, depois, escolha 1 Magia/Armadilha que seu oponente controla; destrua o alvo.
   ja: |-
     自分の手札または墓地に存在する「バスター・モード」１枚をデッキに戻す事で、相手フィールド上に存在する魔法・罠カード１枚を破壊する。この効果は１ターンに１度しか使用できない。
   ko: |-
@@ -65,6 +66,11 @@ sets:
   it:
   - set_number: CRMS-IT023
     set_name: Crimson Crisis
+    rarities:
+    - Common
+  pt:
+  - set_number: OP30-PT033
+    set_name: OTS Tournament Pack 30
     rarities:
     - Common
   ja:

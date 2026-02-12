@@ -25,7 +25,7 @@ text:
   it: |-
     Attiva solo fino a quando controlli un mostro "/Assalto". Distruggi tutti i mostri scoperti sul Terreno.
   pt: |-
-    Ative só quando você controla um monstro "/Mode Assalto". Destrua todos os monstros virados para cima no campo.
+    Se você controlar um monstro "/Modo de Ataque": destrua todos os monstros com a face para cima no campo.
   ja: |-
     自分フィールド上に「<ruby>／<rt>スラッシュ</rt></ruby>バスター」と名のついたモンスターが表側表示で存在する場合のみ発動する事ができる。フィールド上に表側表示で存在するモンスターを全て破壊する。
   ko: |-
@@ -62,6 +62,11 @@ sets:
   it:
   - set_number: CRMS-IT074
     set_name: Crimson Crisis
+    rarities:
+    - Common
+  pt:
+  - set_number: OP30-PT037
+    set_name: OTS Tournament Pack 30
     rarities:
     - Common
   ja:
