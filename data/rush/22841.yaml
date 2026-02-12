@@ -1,0 +1,63 @@
+konami_id: 22841
+name:
+  en: Moonforce Piyopi
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: ムーンフォース・ピヨピ
+  ja_romaji: Mūnfōsu Piyopi
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If you have 10 or more cards in your Deck, show up to 2 other cards from your hand and/or field, and place them on the bottom of the owner's Deck in any order.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分のデッキのカードが１０枚以上の場合、このカード以外の自分の手札・フィールドのカードを２枚までお互いに確認し、好きな順番で持ち主のデッキの下に戻して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Draw cards equal to [the number of cards placed to meet the requirement]. You cannot activate monster effects until the end of this turn, except those of EARTH Attribute Galaxy Type monsters.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    自分は［この効果の条件で戻したカードの数］だけドローする。この効果の発動後、ターン終了時まで自分はモンスター（地属性／ギャラクシー族）以外のモンスターの効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Galaxy / Effect
+attribute: EARTH
+level: 1
+atk: 300
+def: 800
+series:
+- Moonforce
+images:
+- index: 1
+  image: MoonforcePiyopi-RDKP24-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP24-JP011
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1169444
