@@ -31,7 +31,11 @@ text:
     ●デッキから「道化の一座」魔法カード１枚を自分フィールドにセットする。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    等级3怪兽×2
+    ①：自己场上上级召唤的怪兽的攻击力上升1000。②：此卡被解放的情况下，可从以下效果中选择1个发动（此卡名的以下效果1回合仅可各选择1次）。
+    ●将双方场上・墓地的超量怪兽全部放回额外牌组。
+    ●从牌组将1张“小丑戏帮”魔法卡放置在自己场上。
 card_type: Monster
 monster_type_line: Beast-Warrior / Xyz / Effect
 attribute: LIGHT
@@ -54,6 +58,7 @@ sets:
   - set_number: BLZD-SC046
     set_name: Blazing Dominion
     rarities:
+    - Common
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
