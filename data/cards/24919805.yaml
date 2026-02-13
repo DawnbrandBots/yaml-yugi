@@ -32,7 +32,7 @@ text:
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 상대에게 500 데미지를 준다. 이 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다. ②: 이 카드가 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 덱에서 기계족 / 땅 속성 / 레벨 10 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    此卡名的②效果1回合仅可使用1次。①：1回合1次，在自己的主要阶段可以发动。给予对手500伤害。发动此效果的回合中，自己无法进行战斗阶段。②：在此卡被送至墓地的回合的结束阶段可以发动。从牌组将1只机械族・地属性・等级10怪兽加入手牌。
+    此卡名的②效果1回合仅可使用1次。①：1回合1次，在自己的主要阶段可以发动（发动此效果的回合中，自己无法进行战斗阶段）。给予对手500伤害。②：在此卡被送至墓地的回合的结束阶段可以发动。从牌组将1只机械族・地属性・等级10怪兽加入手牌。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -146,6 +146,10 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  - set_number: BLZD-SCS04
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
