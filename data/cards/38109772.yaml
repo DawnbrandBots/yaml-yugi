@@ -31,7 +31,7 @@ text:
     자신 필드 위의 카드를 파괴하는 효과를 상대 몬스터가 발동했을 때, 대상이 된 자신의 카드를 전부 묘지로 보내고 발동할 수 있다. 이 카드를 패에서 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    要把自己场上的卡破坏的效果由对方怪兽发动时，把成为对象的自己的卡全部送去墓地才能发动。这张卡从手卡特殊召唤。
+    ①：以自己场上的卡为对象的、会破坏该卡的对手怪兽的效果发动时，将成为对象的自己的卡全部送至墓地可以发动（同一连锁上最多1次）。从手牌将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: FIRE
@@ -93,6 +93,7 @@ sets:
   - set_number: BLZD-SC086
     set_name: Blazing Dominion
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

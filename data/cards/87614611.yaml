@@ -32,7 +32,7 @@ text:
     자신 필드 위에 "레드 데몬즈 드래곤"이 앞면 표시로 존재할 경우에만 발동할 수 있다. 자신의 덱에서 카드를 2장 드로우한다. 이 카드를 발동할 경우, 다음 상대 턴 종료시까지 자신은 몬스터를 일반 소환 / 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    自己场上有「红莲魔龙」表侧表示存在的场合才能发动。从自己卡组抽2张卡。这张卡发动的场合，直到下次的对方回合结束时自己不能把怪兽召唤·特殊召唤。
+    发动此卡的回合及下个对手回合中，自己不可召唤・特殊召唤怪兽。①：自己场上存在“暗红恶魔龙”的情况下可以发动。自己抽2张。
 card_type: Spell
 property: Normal
 series:
@@ -105,6 +105,7 @@ sets:
   - set_number: BLZD-SC097
     set_name: Blazing Dominion
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

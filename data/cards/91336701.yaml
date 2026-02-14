@@ -53,7 +53,7 @@ text:
   zh-TW:
   zh-CN: |-
     魔法师族怪兽2只
-    这个卡名的②④效果1回合各能使用1次。①：这张卡链接召唤成功的场合必定发动。在这张卡上放置1个魔力指示物。②：这张卡的链接端有魔法师族怪兽特殊召唤的场合必定发动。在这张卡上放置1个魔力指示物。③：这张卡的攻击力上升这张卡的魔力指示物的数量×300。④：可以将这张卡的2个魔力指示物取除，以场上的1张卡为对象发动。将那张卡破坏。
+    此卡名的②④效果1回合仅可各使用1次。①：此卡连接召唤的情况下发动。在此卡上放1个魔力计数物。②：有魔法师族怪兽被特殊召唤至此卡连接端的情况下发动。在此卡上放1个魔力计数物。③：此卡的攻击力上升此卡魔力计数物的数量×300的数值。④：去除此卡的2个魔力计数物，以场上的1张卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Link / Effect
 attribute: LIGHT
@@ -116,6 +116,7 @@ sets:
   - set_number: BLZD-SC096
     set_name: Blazing Dominion
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

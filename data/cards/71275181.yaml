@@ -29,7 +29,10 @@ text:
     ●相手が選ばなかったカードの内、除外しなかったカードをお互いに確認し、モンスターだった場合、手札に加える。違った場合、除外する。残りをデッキに戻す。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：从牌组将1只怪兽与2张陷阱卡出示给对手，对手从其中随机挑选1张。自己确认剩余的卡，将其中的1张陷阱卡除外。然后，对手从以下挑选1个，自己适用该效果。
+    ●对手将所挑选的卡给双方确认，是怪兽的情况下，将其加入手牌或特殊召唤。不是的情况下，将其除外。将剩余的放回牌组。
+    ●对手将未挑选的卡中未除外的卡给双方确认，是怪兽的情况下，将其加入手牌。不是的情况下，将其除外。将剩余的放回牌组。
 card_type: Spell
 property: Normal
 images:
@@ -45,6 +48,7 @@ sets:
   - set_number: BLZD-SC070
     set_name: Blazing Dominion
     rarities:
+    - Normal Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
