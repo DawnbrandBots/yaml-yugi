@@ -2,11 +2,11 @@ konami_id: 21241
 password: 5574510
 name:
   en: Shateki
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Shateki
+  es: Shateki
+  fr: Shateki
+  it: Shateki
+  pt: Shateki
   ja: <ruby>射<rt>しゃ</rt></ruby><ruby>敵<rt>てき</rt></ruby>
   ja_romaji: Shateki
   ko: 사적
@@ -18,11 +18,26 @@ text:
     You can discard 1 card, then target 1 monster your opponent controls with a Level; roll a six-sided die and apply this effect based on the result.
     ● Higher than its Level: Destroy that monster, then you can add 1 monster with the same original Level from your Deck to your hand, also you cannot activate the effect of "Shateki" for the rest of this turn.
     ● Equal to or lower than its Level: Reduce that monster's Level by 1 (even if this card leaves the field).
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Du kannst 1 Karte abwerfen und dann 1 Monster mit einer Stufe wählen, das dein Gegner kontrolliert; wirf einen sechsseitigen Würfel und führe diesen Effekt aus, basierend auf dem Ergebnis.
+    ● Höher als seine Stufe: Zerstöre jenes Monster, dann kannst du deiner Hand 1 Monster mit derselben Grund-Stufe von deinem Deck hinzufügen, zusätzlich kannst du den Effekt von „Shateki“ für den Rest dieses Spielzugs nicht aktivieren.
+    ● Gleich oder niedriger als seine Stufe: Verringere die Stufe jenes Monster um 1 (selbst falls diese Karte das Spielfeld verlässt).
+  es: |-
+    Puedes descartar 1 carta, y después selecciona 1 monstruo que controle tu adversario que tenga Nivel; lanza un dado de seis caras y aplica este efecto basado en el resultado.
+    ● Mayor que su Nivel: Destruye ese monstruo, y después puedes añadir a tu mano 1 monstruo con el mismo Nivel original en tu Deck, y además no puedes activar el efecto de "Shateki" por el resto de este turno.
+    ● Igual o menor que su Nivel: Reduce en 1 el Nivel de ese monstruo (aun si esta carta deja el Campo).
+  fr: |-
+    Vous pouvez défausser 1 carte, puis ciblez 1 monstre contrôlé par votre adversaire avec un Niveau ; lancez un dé à six faces et appliquez cet effet selon le résultat.
+    ● Supérieur à son Niveau : Détruisez le monstre, puis vous pouvez ajouter 1 monstre du même Niveau d'origine depuis votre Deck à votre main, et aussi, vous ne pouvez pas activer l'effet de "Shateki" le reste de ce tour.
+    ● Inférieur ou égal à son Niveau : Réduisez le Niveau du monstre de 1 (même si cette carte quitte le Terrain).
+  it: |-
+    Puoi scartare 1 carta, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario con un Livello; tira un dado a sei facce e applica questo effetto a seconda del risultato.
+    ● Superiore al suo Livello: Distruggi quel mostro, poi puoi aggiungere 1 mostro con lo stesso Livello originale dal tuo Deck alla tua mano, inoltre non puoi attivare l'effetto di "Shateki" per il resto di questo turno.
+    ● Pari o inferiore al suo Livello: Riduci il Livello di quel mostro di 1 (anche se questa carta lascia il Terreno).
+  pt: |-
+    Você pode descartar 1 card e, depois, escolha 1 monstro que seu oponente controla com um Nível; lance um dado de seis faces e aplique este efeito de acordo com o resultado.
+    ● Maior que o seu Nível: Destrua esse monstro e, depois, você pode adicionar 1 monstro com o mesmo Nível original do seu Deck à sua mão e, além disso, você não pode ativar o efeito de "Shateki" pelo resto deste turno.
+    ● Igual ou menor que o seu Nível: Reduza o Nível desse monstro em 1 (mesmo que este card deixe o campo).
   ja: |-
     ①：手札を１枚捨て、相手フィールドのレベルを持つモンスター１体を対象として発動できる。サイコロを１回振り、出た目によって以下の効果を適用する。
     ●対象のモンスターのレベルより大きい場合：対象のモンスターを破壊する。その後、そのモンスターと元々のレベルが同じモンスター１体をデッキから手札に加える事ができる。このターン、自分は「射敵」の①の効果を発動できない。
@@ -82,6 +97,6 @@ sets:
     rarities:
     - Common
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1097953

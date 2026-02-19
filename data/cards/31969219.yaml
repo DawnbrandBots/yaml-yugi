@@ -2,11 +2,11 @@ konami_id: 21242
 password: 31969219
 name:
   en: Baneshade
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Schattenbann
+  es: Sombrición
+  fr: Ombre du Fléau
+  it: Ombrarovina
+  pt: Sombra Maldita
   ja: <ruby>影<rt>かげ</rt></ruby>の<ruby>災<rt>わざわ</rt></ruby>い
   ja_romaji: Kage no Wazawai
   ko:
@@ -19,11 +19,31 @@ text:
     ● 1: Destroy it.
     ● 2: Banish it.
     ● 3+: Banish it, also all cards with that name from your opponent's field and GY (face-down).
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Wähle 1 offene Karte, die dein Gegner kontrolliert; führe diesen Effekt aus, basierend auf der Anzahl der Karten mit dem Namen jener offenen Karte in seinem Friedhof.
+    ● 1: Zerstöre sie.
+    ● 2: Verbanne sie.
+    ● 3+: Verbanne sie, zusätzlich alle Karten mit jenem Namen von der Spielfeldseite und dem Friedhof deines Gegners (verdeckt).
+  es: |-
+    Selecciona 1 carta boca arriba que controle tu adversario; aplica este efecto basado en el número de cartas en su Cementerio con el nombre de esa carta boca arriba.
+    ● 1: Destrúyela.
+    ● 2: Destiérrala.
+    ● 3+: Destiérrala, y además todas las cartas con ese nombre en el Campo y Cementerio de tu adversario (boca abajo).
+  fr: |-
+    Ciblez 1 carte face recto contrôlée par votre adversaire ; appliquez cet effet, selon le nombre de cartes dans son Cimetière du nom de la carte face recto.
+    ● 1 : Détruisez-la.
+    ● 2 : Bannissez-la.
+    ● 3+ : Bannissez-la (face verso) ainsi que toutes les cartes de ce nom depuis le Terrain et Cimetière de votre adversaire.
+  it: |-
+    Scegli come bersaglio 1 carta scoperta controllata dal tuo avversario; applica questo effetto a seconda del numero di carte nel suo Cimitero con il nome di quella carta scoperta.
+    ● 1: Distruggila.
+    ● 2: Bandiscila.
+    ● 3+: Bandiscila, inoltre bandisci tutte le carte con quel nome dal Terreno e Cimitero del tuo avversario (coperte).
+  pt: |-
+    Escolha 1 card com a face para cima que seu oponente controla; aplique este efeito de acordo com o número de cards no Cemitério dele com o nome desse card com a face para cima.
+    ● 1: Destrua-o.
+    ● 2: Bana-o.
+    ● 3+: Bana-o, além de todos os cards com esse nome do campo e Cemitério do seu oponente (com a face para baixo).
   ja: |-
     ①：相手フィールドの表側表示カード１枚を対象として発動できる。カード名がそのカードと同じ相手の墓地のカードの数によって以下の効果を適用する。
     ●１枚：対象のカードを破壊する。
@@ -74,6 +94,6 @@ sets:
     rarities:
     - Normal Parallel Rare
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1097956

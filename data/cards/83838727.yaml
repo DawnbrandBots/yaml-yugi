@@ -2,11 +2,11 @@ konami_id: 21620
 password: 83838727
 name:
   en: Sandwich Day
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Sandwich-Tag
+  es: Día de Sándwich
+  fr: Journée du Sandwich
+  it: Giorno del Panino
+  pt: Dia do Sanduíche
   ja: ドローパン
   ja_romaji: Dorōpan
   ko: 드로우빵
@@ -19,11 +19,31 @@ text:
     ● An Attribute not in your GY: Draw 1 card.
     ● An Attribute in your GY: Discard 1 card.
     You can only activate 1 "Sandwich Day" per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Falls du ein Monster in deinem Friedhof hast: Zahle 200 LP; ziehe 1 Karte und zeige sie vor, dann, falls es ein Monster ist, führe diesen Effekt aus, basierend auf seiner Eigenschaft.
+    ● Eine Eigenschaft nicht in deinem Friedhof: Ziehe 1 Karte.
+    ● Eine Eigenschaft in deinem Friedhof: Wirf 1 Karte ab.
+    Du kannst nur 1 „Sandwich-Tag“ pro Spielzug aktivieren.
+  es: |-
+    Si tienes un monstruo en tu Cementerio: paga 200 LP; roba 1 carta y muéstrala y después, si es un monstruo, aplica este efecto basado en su Atributo.
+    ● Un Atributo que no está en tu Cementerio: Roba 1 carta.
+    ● Un Atributo que está en tu Cementerio: Descarta 1 carta.
+    Sólo puedes activar 1 "Día de Sándwich" por turno.
+  fr: |-
+    Si vous avez un monstre dans votre Cimetière : payez 200 LP ; piochez 1 carte et révélez-la, puis, si c'est un monstre, appliquez cet effet selon son Attribut.
+    ● Un Attribut non dans votre Cimetière : Piochez 1 carte.
+    ● Un Attribut dans votre Cimetière : Défaussez 1 carte.
+    Vous ne pouvez activer qu'1 "Journée du Sandwich" par tour.
+  it: |-
+    Se hai un mostro nel tuo Cimitero: paga 200 LP; pesca 1 carta e rivelala, poi, se è un mostro, applica questo effetto a seconda del suo Attributo.
+    ● Un Attributo non nel tuo Cimitero: Pesca 1 carta.
+    ● Un Attributo nel tuo Cimitero: Scarta 1 carta.
+    Puoi attivare solo 1 "Giorno del Panino" per turno.
+  pt: |-
+    Se você tiver um monstro no seu Cemitério: pague 200 PV; compre 1 card e revele-o e, depois, se for um monstro, aplique este efeito de acordo com o Atributo dele.
+    ● Um Atributo que não estiver no seu Cemitério: Compre 1 card.
+    ● Um Atributo no seu Cemitério: Descarte 1 card.
+    Você só pode ativar 1 "Dia do Sanduíche" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地にモンスターが存在する場合、２００ＬＰを払って発動できる。自分は１枚ドローし、お互いに確認する。それがモンスターだった場合、さらにその属性によって以下の効果を適用する。
     ●自分の墓地に存在しない属性：自分は１枚ドローする。
@@ -95,6 +115,6 @@ sets:
     - Secret Rare
     - Secret Rare (Special Red Version)
 limit_regulation:
-  tcg: Not yet released
+  tcg: Unlimited
   ocg: Unlimited
 yugipedia_page_id: 1123374
