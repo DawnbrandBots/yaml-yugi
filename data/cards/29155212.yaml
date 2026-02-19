@@ -15,7 +15,7 @@ name:
   zh-CN: 鬼魂南瓜王
 text:
   en: |-
-    If "Castle of Dark Illusions" is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as this "Castle of Dark Illusions" remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.
+    Gains 100 ATK/DEF while "Castle of Dark Illusions" is on the field. Also, during your Standby Phase, if "Castle of Dark Illusions" is on the field: This card gains 100 ATK/DEF. This effect activates once per turn, for four of your Standby Phases (counting this as the first). "Castle of Dark Illusions" must be on the field to activate and to resolve this effect. If "Castle of Dark Illusions" is not on the field, this ATK/DEF gain disappears and this effect resets.
   de: |-
     Erhält 100 ATK/DEF, solange „Schloss d. dunklen Illusionen“ auf dem Spielfeld liegt. Zusätzlich, während deiner Standby Phase, falls „Schloss d. dunklen Illusionen“ auf dem Spielfeld liegt: Diese Karte erhält 100 ATK/DEF. Dieser Effekt wird einmal pro Spielzug aktiviert, für vier deiner Standby Phasen (dieses zählt als die erste). „Schloss d. dunklen Illusionen“ muss auf dem Spielfeld liegen, um diesen Effekt zu aktivieren und aufzulösen. Falls „Schloss d. dunklen Illusionen“ nicht auf dem Spielfeld liegt, verschwindet diese ATK/DEF-Steigerung und dieser Effekt wird zurückgesetzt.
   es: |-
@@ -42,6 +42,9 @@ def: 2000
 images:
 - index: 1
   image: PumpkingtheKingofGhosts-MRD-EN-C-UE-25thAnniversaryEdition.png
+  illustration: PumpkingtheKingofGhosts-MADU-EN-VG-artwork.png
+- index: 2
+  image: PumpkingtheKingofGhosts-MZMU-EN-ScR-1E.png;
 sets:
   en:
   - set_number: MRD-EN079
