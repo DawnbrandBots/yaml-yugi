@@ -8,7 +8,7 @@ name:
   pt:
   ja: ドラコニック・フルーツ
   ja_romaji: Dorakonikku Furūtsu
-  ko:
+  ko: 드라코닉 후르츠
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドにモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（ドラゴン族／攻撃力０／守備力１４００）１体を選び、自分フィールドに表側表示で特殊召喚する。この効果で「背乗りドラコ」を特殊召喚した場合、さらにそのモンスター以外の自分フィールドのモンスター１体を選んで墓地へ送る。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(드래곤족 / 공격력 0 / 수비력 1400) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 "세노리 드라코"를 특수 소환했을 경우, 추가로 그 몬스터 이외의 자신 필드의 몬스터 1장을 고르고 묘지로 보낸다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP23-JP046
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP23-KR046
     set_name: Gias Charge of the Nova
     rarities:
     - Common

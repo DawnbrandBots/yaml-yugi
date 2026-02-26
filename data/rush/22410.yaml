@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>手<rt>て</rt></ruby><ruby>摘<rt>づ</rt></ruby>みドラコ
   ja_romaji: Tezumi Dorako
-  ko:
+  ko: 테즈미 드라코
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、攻撃表示のこのカードを表側守備表示にして発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 공격 표시인 이 카드를 앞면 수비 표시로 하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード２枚を墓地へ送る。その後、自分の墓地の通常モンスター（攻撃力０）１体または「ドラコニック・ピースボンバー」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 2장을 묘지로 보낸다. 그 후, 자신 묘지의 일반 몬스터(공격력 0) 1장 또는 "드라코닉 피스봄버" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP23-JP005
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP23-KR005
     set_name: Gias Charge of the Nova
     rarities:
     - Common

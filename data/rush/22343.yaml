@@ -8,7 +8,7 @@ name:
   pt:
   ja: レスキューラビット
   ja_romaji:
-  ko:
+  ko: 레스큐 래빗
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードを持ち主のデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 이 카드를 주인의 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の同じ種族の通常モンスター（レベル４以下）２体を選び、自分フィールドに表側表示で特殊召喚する。この効果で特殊召喚したモンスターはこのターンのエンドフェイズに破壊される。このターン、自分は「レスキューラビット」の効果を発動できない。
-  ko:
+  ko: |-
+    자신 묘지의 같은 종족의 일반 몬스터(레벨 4 이하) 2장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 이 턴의 엔드 페이즈에 파괴된다. 이 턴에, 자신은 "레스큐 래빗"의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,11 @@ sets:
     set_name: Saikyō Jump December 2025 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP23-KRS01
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

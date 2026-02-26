@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>生<rt>せい</rt></ruby><ruby>者<rt>じゃ</rt></ruby>の<ruby>書<rt>しょ</rt></ruby>－<ruby>禁<rt>きん</rt></ruby><ruby>断<rt>だん</rt></ruby>の<ruby>呪<rt>じゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>－
   ja_romaji:
-  ko:
+  ko: 생자의 서－금단의 주술－
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「生者の書－禁断の呪術－」を発動していないターンに、相手の墓地にモンスターがいる場合に発動できる。
-  ko:
+  ko: |-
+    자신이 "생자의 서－금단의 주술－"을 발동하고 있지 않은 턴에, 상대 묘지에 몬스터가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル７以下／アンデット族）１体を選び、自分フィールドに表側表示で特殊召喚する。その後、相手の墓地のモンスター１体を選んでデッキの下に戻す。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 7 이하 / 언데드족) 1장을 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 그 후, 상대 묘지의 몬스터 1장을 고르고 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -49,6 +51,11 @@ sets:
     set_name: Saikyō Jump January 2026 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP23-KRS02
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

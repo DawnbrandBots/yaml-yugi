@@ -8,7 +8,7 @@ name:
   pt:
   ja: ライオンの<ruby>戦<rt>せん</rt></ruby><ruby>域<rt>いき</rt></ruby>
   ja_romaji: Raion no Sen'iki
-  ko:
+  ko: 라이온의 전역
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「ライオンの強襲」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "라이온의 강습"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドに表側表示の「スーパー・ウォー・ライオン」がいる場合、自分の墓地のモンスター１体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시인 "슈퍼 워 라이온"이 있을 경우, 자신 묘지의 몬스터 1장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター（獣族）を３体まで選び、その攻撃力をターン終了時まで１０００アップする。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터(야수족)를 3장까지 고르고, 그 공격력을 턴 종료시까지 1000 올린다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -61,6 +64,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP23-JP059
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP23-KR059
     set_name: Gias Charge of the Nova
     rarities:
     - Common

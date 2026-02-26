@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>黒<rt>くろ</rt></ruby>の<ruby>竜<rt>りゅう</rt></ruby><ruby>騎<rt>き</rt></ruby><ruby>士<rt>し</rt></ruby>
   ja_romaji: Kuro no Ryūkishi
-  ko:
+  ko: 흑의 용기사
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にいるこのカードのカード名は「暗黒の竜騎士」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "암흑의 용기사"가 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地にモンスター（レベル５／ドラゴン族）がいる場合、５００ＬＰを払って発動できる。
-  ko:
+  ko: |-
+    자신 묘지에 몬스터(레벨 5 / 드래곤족)가 있을 경우, 500 LP를 지불하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター（レベル６以下）１体を選んで破壊する。その後、自分の墓地のレベル５の「暗黒の竜騎士」１体を選んで自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터(레벨 6 이하) 1장을 고르고 파괴한다. 그 후, 자신 묘지의 레벨 5 인 "암흑의 용기사" 1장을 고르고 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -63,6 +66,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP23-JP009
+    set_name: Gias Charge of the Nova
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP23-KR009
     set_name: Gias Charge of the Nova
     rarities:
     - Common
