@@ -27,7 +27,7 @@ text:
   pt: |-
     Descarte 1 card; envie cards do topo do seu Deck para o Cemitério, igual ao número de cards que seu oponente controla e, depois, compre 1 card e mostre-o. Depois, se era "Sacar da Espada", envie-o para o Cemitério e, se isso acontecer, destrua tantos cards no campo quanto possível e, depois, cause 2000 de dano ao seu oponente para cada card destruído e enviado para o Cemitério por este efeito. Se o card que você comprou não era "Sacar da Espada", embaralhe cards do seu Cemitério no seu Deck, igual ao número de cards enviados do seu Deck para o Cemitério por este efeito. Você só pode ativar 1 "Sacar da Espada" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨てて発動できる。相手フィールドのカードの数だけ自分のデッキの上からカードを墓地へ送り、その後自分はデッキから１枚ドローし、お互いに確認する。それが「一撃必殺！居合いドロー」だった場合、それを墓地へ送り、フィールドのカードを全て破壊する。その後、この効果で破壊され墓地へ送られたカードの数×２０００ダメージを相手に与える。違った場合、自分はこの効果でデッキから墓地へ送ったカードの数だけ、自分の墓地のカードを選んでデッキに戻す。
+    このカード名のカードは１ターンに１枚しか発動できない。①：手札を１枚捨てて発動できる。相手フィールドのカードの数だけ自分のデッキの上からカードを墓地へ送る。その後、自分は１枚ドローし、お互いに確認する。それが「一撃必殺！居合いドロー」だった場合、さらにそれを墓地へ送り、フィールドのカードを全て破壊する。その後、この効果で破壊され墓地へ送られたカードの数×２０００ダメージを相手に与える。違った場合、さらに自分はこの効果でデッキから墓地へ送ったカードの数だけ、自分の墓地のカードをデッキに戻す。
   ko: |-
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 패를 1장 버리고 발동할 수 있다. 상대 필드의 카드의 수만큼 자신의 덱 위에서 카드를 묘지로 보내고, 그 후 자신은 덱에서 1장 드로우하여, 서로 확인한다. 그것이 "일격필살! 슬래시 드로우"였을 경우, 그것을 묘지로 보내고, 필드의 카드를 전부 파괴한다. 그 후, 이 효과로 파괴되어 묘지로 보내진 카드의 수 × 2000 데미지를 상대에게 준다. 다를 경우, 자신은 이 효과로 덱에서 묘지로 보낸 카드의 수만큼, 자신 묘지의 카드를 고르고 덱으로 되돌린다.
   zh-TW:
@@ -75,6 +75,13 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  - set_number: LOCH-JP069
+    set_name: 'Limit Over Collection: The Heroes'
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+    - Ultimate Rare
   ko:
   - set_number: CP18-KR020
     set_name: Collectors Pack 2018
