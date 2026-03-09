@@ -1,6 +1,6 @@
 konami_id: 16615
 name:
-  en: Startup Goblin
+  en: Upgrade Goblin
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Special Summon 1 Level 6 or lower monster from your hand face-up to your field. The monster Special Summoned by this effect gains 500 ATK until the end of this turn. Then, if you have "Upstart Goblin" in your Graveyard, inflict 500 damage to your opponent.
+    Special Summon 1 Level 6 or lower monster from your hand face-up to your field. The monster Special Summoned by this effect gains 500 ATK until the end of this turn. If an "Upstart Goblin" is in your Graveyard, also inflict 500 damage to your opponent.
   de:
   es:
   fr:
@@ -48,7 +48,7 @@ atk: 1000
 def: 1000
 images:
 - index: 1
-  image: StartupGoblin-RDHC01-JP-C.png
+  image: UpgradeGoblin-RDHC01-JP-C.png
 sets:
   ja:
   - set_number: RD/MAX2-JP048
@@ -70,9 +70,4 @@ sets:
     rarities:
     - Common
     - Secret Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 716868
