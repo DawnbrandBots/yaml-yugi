@@ -26,7 +26,7 @@ text:
     Una volta per turno: puoi dichiarare il nome di 1 carta; le carte con quel nome, ed i loro effetti, non possono essere utilizzati fino alla fine del prossimo turno del tuo avversario.
   pt:
   ja: |-
-    ①：１ターンに１度、カード名を１つ宣言して発動できる。相手ターン終了時まで、宣言されたカード名を元々のカード名とするお互いのカードに以下を適用する。●フィールドに出す事ができない。●カードの発動及び効果の発動と適用ができない。●通常召喚・反転召喚・特殊召喚できない。●攻撃及び表示形式の変更ができない。●素材を必要とする特殊召喚のための素材にできない。
+    ①：１ターンに１度、カード名を１つ宣言して発動できる。相手ターン終了時までの間、宣言されたカード名を元々のカード名とするお互いのカードに以下を適用する。●フィールドに出す事ができない。●カードの発動及び効果の発動と適用ができない。●通常召喚・反転召喚・特殊召喚できない。●攻撃及び表示形式の変更ができない。●素材を必要とする特殊召喚のための素材にできない。
   ko: |-
     1턴에 1번, 카드명을 1개 선언하고 발동한다. 다음 상대 턴 종료시까지 서로 선언된 카드를 플레이할 수 없다.
   zh-TW:
@@ -101,6 +101,13 @@ sets:
     set_name: Tournament Pack 2022 Vol.3
     rarities:
     - Common
+  - set_number: LOCR-JP049
+    set_name: 'Limit Over Collection: The Rivals'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: EXP4-KR027
     set_name: Extra Pack Volume 4

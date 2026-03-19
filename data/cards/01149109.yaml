@@ -27,7 +27,7 @@ text:
   pt: |-
     Nenhum duelista pode adicionar cards do Deck à sua mão exceto comprando-os. Monstros não podem ser Invocados por Invocação-Especial do Deck Principal. Destrua este card durante sua 2ª Fase de Apoio depois da ativação.
   ja: |-
-    このカードがフィールド上に存在する限り、お互いにドロー以外の方法でデッキからカードを手札に加える事はできず、デッキからの特殊召喚もできない。発動後２回目の自分のスタンバイフェイズ時にこのカードを破壊する。
+    このカードは発動後、２回目の自分スタンバイフェイズに破壊される。①：このカードが魔法＆罠ゾーンに存在する限り、お互いにドロー以外の方法でデッキからカードを手札に加える事ができず、デッキからモンスターを特殊召喚する事もできない。
   ko: |-
     이 카드가 필드 위에 존재하는 한, 서로 드로우 이외의 방법으로 덱에서 카드를 패에 넣을 수 없으며, 덱에서의 특수 소환도 할 수 없다. 발동 후 2번째 자신의 스텐바이 페이즈시에 이 카드를 파괴한다.
   zh-TW:
@@ -118,6 +118,13 @@ sets:
     set_name: Light of Destruction
     rarities:
     - Common
+  - set_number: LOCR-JP075
+    set_name: 'Limit Over Collection: The Rivals'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LODT-KR060
     set_name: Light of Destruction

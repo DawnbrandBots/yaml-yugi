@@ -27,11 +27,11 @@ text:
   pt: |-
     Uma vez por turno: você pode revelar 1 monstro de VENTO da sua mão; até o final da próxima Fase Principal 1 do seu oponente, os monstros com um Nível maior que o do monstro revelado não podem ativar seus efeitos.
   ja: |-
-    １ターンに１度、手札の風属性モンスター１体を相手に見せて発動できる。次の相手のメインフェイズ１終了時まで、お互いのプレイヤーは、見せたモンスターよりレベルの高いモンスターの効果を発動できない。
+    ①：１ターンに１度、手札の風属性モンスター１体を相手に見せて発動できる。次の相手メインフェイズ１終了時まで、見せたモンスターよりレベルが高いモンスターの効果をお互いに発動できない。
   ko: |-
     1턴에 1번, 패의 바람 속성 몬스터 1장을 상대에게 보여주고 발동할 수 있다. 다음 상대의 메인 페이즈 1 종료시까지, 양쪽 플레이어는, 보여준 몬스터보다 레벨이 높은 몬스터의 효과를 발동할 수 없다.
   zh-TW: |-
-    1回合1次，可向对手展示手牌的1只风属性怪兽并发动。直至下一个对手的主要阶段1结束时，双方玩家不可发动比展示怪兽等级高的怪兽的效果。
+    １回合１次，可向对手展示手牌的１只风属性怪兽并发动。直至下一个对手的主要阶段１结束时，双方玩家不可发动比展示怪兽等级高的怪兽的效果。
   zh-CN: |-
     ①：1回合1次，将手牌的1只风属性怪兽出示给对手可以发动。直至下一次对手的主要阶段1结束时为止，双方不可发动等级高于出示的怪兽的怪兽的效果。
 card_type: Monster
@@ -45,7 +45,7 @@ images:
   image: GhostFairyElfobia-LTGY-EN-SR-1E.png
   illustration: GhostFairyElfobia-MADU-EN-VG-artwork.png
 - index: '1.1'
-  image: GhostFairyElfobia-EP13-JP-SR.png
+  image: GhostFairyElfobia-LOCR-JP-SR.png
   illustration: GhostFairyElfobia-MADU-JP-VG-artwork.png
 sets:
   en:
@@ -83,6 +83,13 @@ sets:
     set_name: 'Extra Pack: Sword of Knights'
     rarities:
     - Super Rare
+  - set_number: LOCR-JP051
+    set_name: 'Limit Over Collection: The Rivals'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Collector's Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: EXP6-KR046
     set_name: 'Extra Pack: Sword of Knights'
