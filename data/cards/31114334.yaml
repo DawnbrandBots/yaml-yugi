@@ -27,7 +27,9 @@ text:
     ①：「ＢＦ」モンスターを素材としてＳ召喚したこのカードはチューナーとして扱う。②：このカードがＳ召喚した時に適用する。このカードの攻撃力はターン終了時まで、そのＳ素材としたＳモンスターの元々の攻撃力の合計分アップする。③：このカードは相手モンスター全てに１回ずつ攻撃でき、守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的怪兽1只以上
+    ①：以“黑羽”怪兽作为素材同步召唤的此卡视为协调。②：此卡同步召唤时适用。此卡的攻击力直至回合结束时为止，上升相当于作为其同步素材的同步怪兽的原本攻击力的合计数值。③：此卡可攻击所有对手怪兽各1次，攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
 card_type: Monster
 monster_type_line: Winged Beast / Synchro / Effect
 attribute: DARK
@@ -53,6 +55,9 @@ sets:
   - set_number: LOCH-SC024
     set_name: 'Limit Over Collection: The Heroes'
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
