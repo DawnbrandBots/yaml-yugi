@@ -38,7 +38,12 @@ text:
   zh-TW: |-
     可宣言1张卡牌名称并发动。只要此卡存在于场上，就不可使用被宣言的卡牌。在此卡被适用前就已存在于场上的卡牌不适用此效果。
   zh-CN: |-
-    宣言1个卡名才能把这张卡发动。①：只要这张卡在魔法与陷阱区域存在，宣言的卡名为原本卡名的双方的卡受以下所适用（对从这个效果适用前就在场上存在的卡不会适用）。●不能在场上出现。●不能作卡的发动以及效果的发动和适用。●不能通常召唤·反转召唤·特殊召唤。●不能作攻击以及表示形式的变更。●不能作为要为需要素材的特殊召唤而用的素材。
+    宣言1个卡名可以发动此卡。①：只要此卡存在于魔法与陷阱区域，原本卡名与被宣言的卡名相同的、双方的卡适用以下内容（不适用于此效果适用前就存在于场上的卡）。
+    ●不可出到场上。
+    ●不可将卡发动及将效果发动和适用。
+    ●不可通常召唤・反转召唤・特殊召唤。
+    ●不可攻击及变更表示形式。
+    ●不可作为用于需要素材的特殊召唤的素材。
 card_type: Spell
 property: Continuous
 images:
@@ -206,6 +211,10 @@ sets:
   - set_number: LOCH-SC069
     set_name: 'Limit Over Collection: The Heroes'
     rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+    - Collector's Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
