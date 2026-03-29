@@ -32,7 +32,7 @@ text:
     "마스크 체인지 세컨드"는 1턴에 1장밖에 발동할 수 없다. ①: 패를 1장 버리고, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 묘지로 보내고, 그 몬스터보다 레벨이 높고 같은 속성의 "마스크드 히어로" 몬스터 1장을, "마스크 체인지"에 의한 특수 소환으로 취급하여 엑스트라 덱에서 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名的卡1回合仅可发动1张。①：舍弃1张手牌，以自己场上的1只表侧表示怪兽为对象可以发动。将该怪兽送至墓地，将1只等级高于该怪兽、属性相同的“假面-英雄”怪兽视为由“假面变换”的特殊召唤从额外牌组特殊召唤。
+    此卡名的卡1回合仅可发动1张。①：舍弃1张手牌，以自己场上的1只表侧表示怪兽为对象可以发动。确认该怪兽的等级・属性，并送至墓地。该怪兽因此效果从场上离开的情况下，进而从额外牌组将1只等级高于该怪兽、属性相同的“假面－英雄”怪兽视为由“假面变换”的效果特殊召唤。
 card_type: Spell
 property: Quick-Play
 series:
@@ -146,6 +146,13 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common
+  - set_number: LOCH-SC073
+    set_name: 'Limit Over Collection: The Heroes'
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+    - Ultimate Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
