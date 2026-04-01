@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡不可通常召唤。仅限于对手场上以表侧表示存在的1张陷阱卡被送入墓地的场合可特殊召唤。
   zh-CN: |-
-    这张卡不能通常召唤。把对方场上表侧表示存在的1张陷阱卡送去墓地的场合才能特殊召唤。
+    此卡不可通常召唤。仅可在将对手场上的1张表侧表示的陷阱卡送至墓地的情况下特殊召唤。
 card_type: Monster
 monster_type_line: Fiend / Tuner / Effect
 attribute: DARK
@@ -135,6 +135,11 @@ sets:
   zh-TW:
   - set_number: SP03-TC012
     set_name: Starter Pack Volume 3
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26SP-SC108
+    set_name: Tournament Pack 2026 Vol.1 (Simplified Chinese)
     rarities:
     - Common
 limit_regulation:

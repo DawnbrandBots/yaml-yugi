@@ -32,7 +32,7 @@ text:
     이 카드명의 카드는 듀얼 중에 1장밖에 발동할 수 없다. ①: 서로 묘지의 카드가 각각 15장 이상일 경우에 1000 LP를 지불하고 발동할 수 있다. 양쪽 플레이어는, 각각 자신의 덱과 묘지의 카드를 전부 맞바꾸고, 그 후 덱을 셔플한다.
   zh-TW:
   zh-CN: |-
-    「现世与冥界的逆转」在决斗中只能发动1张。①：双方墓地的卡各自是15张以上的场合支付1000基本分才能发动。双方玩家各自把自己的卡组和墓地的卡全部交换，那之后卡组洗切。
+    此卡名的卡在决斗中仅可发动1张。①：双方墓地的卡各有15张以上的情况下，支付1000LP可以发动。双方各自将自身牌组和墓地的卡全部交换（无法被加入牌组的卡则加入额外牌组）。然后，双方将牌组洗牌。
 card_type: Trap
 property: Normal
 series:
@@ -185,6 +185,11 @@ sets:
     - Millennium Rare
   - set_number: DP27-KR029
     set_name: 'Duelist Pack: Duelists of Pyroxene'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26SP-SC121
+    set_name: Tournament Pack 2026 Vol.1 (Simplified Chinese)
     rarities:
     - Common
 limit_regulation:

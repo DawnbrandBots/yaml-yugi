@@ -31,7 +31,8 @@ text:
   ko: |-
     이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 몬스터의 공격력은, 자신의 제외 상태인 카드의 종류(몬스터 / 마법 / 함정) × 300 올린다. ②: 1턴에 1번, 자신 / 상대의 메인 페이즈에 발동할 수 있다. 자신의 패 / 묘지에서 카드 1장을 제외한다. 그 후, 자신의 제외 상태인 카드 1장을 덱으로 되돌릴 수 있다. ③: 이 카드가 제외되었을 경우에 발동할 수 있다. 이 카드를 자신 필드에 앞면 표시로 놓는다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的③效果1回合仅可使用1次。①：自己场上的怪兽的攻击力上升自己除外状态的卡的种类（怪兽・魔法・陷阱）×300的数值。②：1回合1次，在自己・对手的主要阶段可以发动。从自己手牌・墓地将1张卡除外。然后，可将自己除外状态的1张卡放回牌组。③：此卡被除外的情况下可以发动。将此卡以表侧表示放在自己场上。
 card_type: Trap
 property: Continuous
 series:
@@ -78,6 +79,11 @@ sets:
   ko:
   - set_number: WPP6-KR077
     set_name: World Premiere Pack 2025
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26SP-SC123
+    set_name: Tournament Pack 2026 Vol.1 (Simplified Chinese)
     rarities:
     - Common
 limit_regulation:
