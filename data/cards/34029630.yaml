@@ -27,7 +27,7 @@ text:
   pt: |-
     Ative este card ao colocar 3 Marcadores de Magia sobre ele. Uma vez por turno, durante o seu turno: você pode escolher 1 outro card com a face para cima no campo sobre o qual você possa colocar um Marcador de Magia; remova 1 Marcador de Magia deste card e, se isso acontecer, coloque 1 Marcador de Magia no alvo. Quando o(s) último(s) Marcador(es) de Magia for(em) removido(s) deste card, destrua-o.
   ja: |-
-    このカードを発動する場合、このカードに魔力カウンターを３つ置いて発動する。①：自分ターンに１度、このカード以外のフィールドの魔力カウンターを置く事ができるカード１枚を対象として発動できる。このカードの魔力カウンターを１つ取り除き、そのカードに魔力カウンターを１つ置く。②：このカードの魔力カウンターが全て取り除かれた場合にこのカードは破壊される。
+    このカードを発動する場合、このカードに魔力カウンターを３つ置いて発動する。①：自分ターンに１度、魔力カウンターを置く事ができるフィールドの他のカード１枚を対象として発動できる。このカードの魔力カウンターを１つ取り除き、対象のカードに魔力カウンターを１つ置く。②：このカードの魔力カウンターが全て取り除かれた場合にこのカードは破壊される。
   ko: |-
     이 카드를 발동할 경우, 이 카드에 마력 카운터를 3개 놓고 발동한다. ①: 자신 턴에 1번, 이 카드 이외의 필드의 마력 카운터를 놓을 수 있는 카드 1장을 대상으로 하고 발동할 수 있다. 이 카드의 마력 카운터를 1개 제거하고, 그 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 마력 카운터가 전부 제거되었을 경우에 이 카드는 파괴된다.
   zh-TW:
@@ -200,6 +200,10 @@ sets:
     - Common
   - set_number: SR08-JP036
     set_name: 'Structure Deck R: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: TH02-JP019
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:

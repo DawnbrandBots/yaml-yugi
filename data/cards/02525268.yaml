@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card for Invocado por Invocação-Normal: coloque 1 Marcador de Magia sobre ele (máx. 1). Uma vez por turno, se um ou mais monstros Mago no campo seriam destruídos, em vez disso, você pode remover 1 Marcador de Magia do seu campo para cada um desses monstros.
   ja: |-
-    ①：このカードが召喚に成功した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：１ターンに１度、フィールドの魔法使い族モンスターが破壊される場合、代わりにその数だけ自分フィールドの魔力カウンターを取り除く事ができる。
+    ①：このカードが召喚した場合に発動する。このカードに魔力カウンターを１つ置く（最大１つまで）。②：１ターンに１度、フィールドの魔法使い族モンスターが破壊される場合、代わりにその数だけ自分フィールドの魔力カウンターを取り除く事ができる。
   ko: |-
     ①: 이 카드가 일반 소환에 성공했을 경우에 발동한다. 이 카드에 마력 카운터를 1개 놓는다(최대 1개까지). ②: 1턴에 1번, 필드의 마법사족 몬스터가 파괴될 경우, 대신에 그 수만큼 자신 필드의 마력 카운터를 제거할 수 있다.
   zh-TW:
@@ -156,6 +156,10 @@ sets:
     - Common
   - set_number: DR01-JPA08
     set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: TH02-JP005
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:

@@ -33,13 +33,12 @@ text:
     Um Monstro Xyz que foi Invocado usando este card como matéria ganha este efeito.
     ● Quando ele for Invocado por Invocação-Xyz: ele ganha 1000 de ATK.
   ja: |-
-    このカードを素材としたエクシーズモンスターは以下の効果を得る。
-    ●このエクシーズ召喚に成功した時、このカードの攻撃力は１０００ポイントアップする。
+    ①：フィールドのこのカードを素材としてＸ召喚したモンスターは以下の効果を得る。●このカードがＸ召喚した場合に発動する。このカードの攻撃力は１０００アップする。
   ko: |-
     이 카드를 소재로 한 엑시즈 몬스터는 이하의 효과를 얻는다.
     ●이 엑시즈 소환에 성공했을 때, 이 카드의 공격력은 1000 포인트 올린다.
   zh-TW: |-
-    以此卡为素材的超量怪兽获得以下效果。●此超量召唤成功时，此卡的攻击力上升1000点。
+    以此卡为素材的超量怪兽获得以下效果。●此超量召唤成功时，此卡的攻击力上升１０００点。
   zh-CN: |-
     ①：以场上的此卡作为素材超量召唤的怪兽获得以下效果。
     ●此卡超量召唤的情况下发动。此卡的攻击力上升１０００。
@@ -89,6 +88,10 @@ sets:
   ja:
   - set_number: ABYR-JP008
     set_name: Abyss Rising
+    rarities:
+    - Common
+  - set_number: TH03-JP011
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

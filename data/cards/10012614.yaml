@@ -27,11 +27,11 @@ text:
   pt: |-
     Apenas durante sua Fase de Batalha, todos os monstros que você controla ganham 200 de ATK.
   ja: |-
-    ①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドのモンスターの攻撃力は、自分バトルフェイズの間２００アップする。
+    ①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドのモンスターの攻撃力は、自分バトルフェイズの間だけ２００アップする。
   ko: |-
     ①: 이 카드가 마법 & 함정 존에 존재하는 한, 자신 필드의 몬스터의 공격력은, 자신 배틀 페이즈 동안 200 올린다.
   zh-TW: |-
-    我方场上的全部怪兽，仅于我方战斗阶段的期间可上升攻击力200点。
+    我方场上的全部怪兽，仅于我方战斗阶段的期间可上升攻击力２００点。
   zh-CN: |-
     ①：只要这张卡在魔法与陷阱区域存在，自己场上的怪兽的攻击力在自己战斗阶段内上升200。
 card_type: Spell
@@ -219,6 +219,10 @@ sets:
     - Common
   - set_number: LG02-JP016
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
+    rarities:
+    - Common
+  - set_number: TH03-JP014
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

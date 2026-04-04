@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando este card for Invocado por Invocação-Normal ou Especial: você pode escolher até 2 cards no campo; destrua os alvos e, se isso acontecer, cada duelista pode comprar 1 card para cada um dos cards que ele controlava que foi destruído por este efeito. Este card não pode atacar durante o turno em que for Invocado por Invocação-Normal ou Especial.
   ja: |-
-    ①：このカードが召喚・特殊召喚に成功した時、フィールドのカードを２枚まで対象として発動できる。そのカードを破壊し、破壊されたカードのコントローラーは破壊された枚数分だけデッキからドローできる。②：このカードは召喚・特殊召喚したターンには攻撃できない。
+    ①：このカードが召喚・特殊召喚した時、フィールドのカードを２枚まで対象として発動できる。そのカードを破壊し、お互いはそれぞれ、自身のフィールドで破壊された数だけドローできる。②：このカードは召喚・特殊召喚したターンには攻撃できない。
   ko: |-
     ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 때, 필드의 카드를 2장까지 대상으로 하고 발동할 수 있다. 그 카드를 파괴하고, 파괴된 카드의 컨트롤러는 파괴된 매수만큼 덱에서 드로우할 수 있다. ②: 이 카드는 일반 소환 / 특수 소환한 턴에는 공격할 수 없다.
   zh-TW:
@@ -184,6 +184,10 @@ sets:
     - Common
   - set_number: ST14-JPA03
     set_name: Starter Deck 2014 Enhancement Pack
+    rarities:
+    - Common
+  - set_number: TH03-JP001
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

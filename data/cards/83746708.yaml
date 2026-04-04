@@ -31,7 +31,7 @@ text:
   ko: |-
     장착 몬스터의 공격력 / 수비력은 자신 필드 위의 마법 / 함정 카드 1장당 500 포인트 올린다.
   zh-TW: |-
-    装备怪兽的攻击力、守备力上升为我方场上的魔法、陷阱卡数量×500点。
+    装备怪兽的攻击力、守备力上升为我方场上的魔法、陷阱卡数量×５００点。
   zh-CN: |-
     ①：装备怪兽的攻击力・守备力上升相当于自己场上魔法・陷阱卡张数×500的数值。
 card_type: Spell
@@ -390,6 +390,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: TH02-JP017
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR050
     set_name: Labyrinth of Nightmare

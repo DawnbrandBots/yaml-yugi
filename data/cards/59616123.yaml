@@ -27,7 +27,7 @@ text:
   pt: |-
     Negue todos os outros efeitos de Armadilha no campo neste turno.
   ja: |-
-    ①：このターン、このカード以外のフィールドの罠カードの効果は無効化される。
+    ①：このターン中、フィールドの他の罠カードの効果は無効化される。
   ko: |-
     ①: 이 턴에, 이 카드 이외의 필드의 함정 카드의 효과는 무효화된다.
   zh-TW: |-
@@ -233,6 +233,10 @@ sets:
     - Common
   - set_number: SD33-JP035
     set_name: 'Structure Deck: Powercode Link'
+    rarities:
+    - Common
+  - set_number: TH03-JP017
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

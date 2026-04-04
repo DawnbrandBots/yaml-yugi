@@ -27,7 +27,7 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) enquanto você não controlar nenhum monstro. Não pode atacar se você controlar outro monstro.
   ja: |-
-    このカードは通常召喚できない。自分フィールドにモンスターが存在しない場合に特殊召喚できる。①：自分フィールドにこのカード以外のモンスターが存在する場合、このカードは攻撃できない。
+    このカードは通常召喚できない。自分フィールドにモンスターが存在しない場合に特殊召喚できる。①：自分フィールドに他のモンスターが存在する限り、このカードは攻撃できない。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신 필드에 몬스터가 존재하지 않을 경우에 특수 소환할 수 있다. ①: 자신 필드에 이 카드 이외의 몬스터가 존재할 경우, 이 카드는 공격할 수 없다.
   zh-TW: |-
@@ -306,6 +306,10 @@ sets:
     - Common
   - set_number: ST19-JP015
     set_name: Starter Deck 2019
+    rarities:
+    - Common
+  - set_number: TH03-JP002
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

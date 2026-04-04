@@ -31,7 +31,7 @@ text:
   ko: |-
     이 카드를 릴리스하고 발동한다. 필드 위에 존재하는 몬스터 1장을 선택하고 파괴한다.
   zh-TW: |-
-    可以释放此卡进行发动。选择并破坏场上的1只怪兽。
+    可以释放此卡进行发动。选择并破坏场上的１只怪兽。
   zh-CN: |-
     把这张卡解放才能发动。选择场上1只怪兽破坏。
 card_type: Monster
@@ -327,6 +327,10 @@ sets:
     - Gold Rare
   - set_number: DR01-JPC13
     set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: TH03-JP010
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

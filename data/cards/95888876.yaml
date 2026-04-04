@@ -31,8 +31,7 @@ text:
     ● Questa carta può attaccare due volte durante la stessa Battle Phase.
   pt:
   ja: |-
-    このカードは墓地またはフィールド上に表側表示で存在する場合、通常モンスターとして扱う。フィールド上に表側表示で存在するこのカードを通常召喚扱いとして再度召喚する事で、このカードは効果モンスター扱いとなり以下の効果を得る。
-    ●このカードは１度のバトルフェイズ中に２回攻撃する事ができる。
+    ①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合、以下の効果を持つ効果モンスターとなる。●このカードは１度のバトルフェイズ中に２回攻撃できる。
   ko: |-
     이 카드는 묘지 또는 필드 위에 앞면 표시로 존재할 경우, 일반 몬스터로 취급한다. 필드 위에 앞면 표시로 존재하는 이 카드를 일반 소환으로 취급하여 다시 소환하는 것으로, 이 카드는 효과 몬스터로 취급되며, 이하의 효과를 얻는다.
     ●이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다.
@@ -88,6 +87,10 @@ sets:
     - Ultimate Rare
   - set_number: DE02-JP009
     set_name: Duelist Edition Volume 2
+    rarities:
+    - Common
+  - set_number: TH01-JP003
+    set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
   ko:

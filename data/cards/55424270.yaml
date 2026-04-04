@@ -27,7 +27,7 @@ text:
   pt: |-
     Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 500 de ATK para cada Marcador de Magia sobre ele. No final da Fase de Batalha, se este card batalhou, remova todos os Marcadores de Magia sobre ele.
   ja: |-
-    ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードが戦闘を行ったバトルフェイズ終了時にこのカードの魔力カウンターは全て取り除かれる。
+    ①：このカードがモンスターゾーンに存在する限り、自分か相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×５００アップする。③：このカードが戦闘を行ったバトルフェイズ終了時にこのカードの魔力カウンターは全て取り除かれる。
   ko: |-
     ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 500 올린다. ③: 이 카드가 전투를 실행한 배틀 페이즈 종료시에 이 카드의 마력 카운터는 전부 제거된다.
   zh-TW:
@@ -186,6 +186,10 @@ sets:
     - Common
   - set_number: SR08-JP008
     set_name: 'Structure Deck R: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: TH02-JP006
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:

@@ -34,7 +34,7 @@ text:
     Se este card for Invocado por Invocação-Sincro: coloque 2 Marcadores de Magia nele. Este card ganha 1000 de ATK para cada Marcador de Magia nele. Você pode remover 1 Marcador de Magia do seu campo e, depois, escolher 1 card que seu oponente controla; destrua o alvo.
   ja: |-
     チューナー＋チューナー以外の魔法使い族モンスター１体以上
-    ①：このカードがＳ召喚に成功した場合に発動する。このカードに魔力カウンターを２つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×１０００アップする。③：自分フィールドの魔力カウンターを１つ取り除き、相手フィールドのカード１枚を対象として発動できる。その相手のカードを破壊する。
+    ①：このカードがＳ召喚した場合に発動する。このカードに魔力カウンターを２つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×１０００アップする。③：自分フィールドの魔力カウンターを１つ取り除き、相手フィールドのカード１枚を対象として発動できる。その相手のカードを破壊する。
   ko: |-
     튜너 ＋ 튜너 이외의 마법사족 몬스터 1장 이상
     이 카드가 싱크로 소환에 성공했을 때, 이 카드에 마력 카운터를 2개 놓는다. 이 카드에 얹혀 있는 마력 카운터 1개당, 이 카드의 공격력은 1000 포인트 올린다. 또한, 자신 필드 위에 존재하는 마력 카운터를 1개 제거하는 것으로, 상대 필드 위에 존재하는 카드 1장을 파괴한다.
@@ -158,6 +158,10 @@ sets:
     - Super Rare
   - set_number: 19TP-JP209
     set_name: Tournament Pack 2019 Vol.2
+    rarities:
+    - Common
+  - set_number: TH02-JP021
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:

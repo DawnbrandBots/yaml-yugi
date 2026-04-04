@@ -27,7 +27,7 @@ text:
   pt: |-
     Revele 1 Monstro de Fusão no seu Deck Adicional e adicione 1 das Matérias de Fusão cujo nome esteja especificamente listado nesse card do seu Deck ou Cemitério à sua mão e, se isso acontecer, pelo resto deste turno, depois que este card resolver, você não pode Invocar por Invocação-Normal/Baixar ou por Invocação-Especial monstros com o nome do monstro adicionado e, além disso, seus monstros com esse nome não podem ativar seus efeitos. Você só pode ativar 1 "Recrutamento Fusão" por turno.
   ja: |-
-    このカード名のカードは１ターンに１枚しか発動できない。①：ＥＸデッキの融合モンスター１体を相手に見せ、そのモンスターにカード名が記されている融合素材モンスター１体を自分のデッキ・墓地から選んで手札に加える。このカードの発動後、ターン終了時まで自分はこの効果で手札に加えたモンスター及びその同名モンスターを通常召喚・特殊召喚できず、そのモンスター効果は発動できない。
+    このカード名のカードは１ターンに１枚しか発動できない。①：ＥＸデッキの融合モンスター１体を相手に見せ、そのモンスターにカード名が記された融合素材モンスター１体を自分のデッキ・墓地から手札に加える。このカードの発動後、ターン終了時まで自分はこの効果で手札に加えたモンスター及びその同名モンスターを通常召喚・特殊召喚できず、そのモンスター効果を発動できない。
   ko: |-
     "융합 징병"은 1턴에 1장밖에 발동할 수 없다. ①: 엑스트라 덱의 융합 몬스터 1장을 상대에게 보여주고, 그 몬스터에 카드명이 쓰여 있는 융합 소재 몬스터 1장을 자신 덱 / 묘지에서 골라 패에 넣는다. 이 카드의 발동 후, 턴 종료시까지 자신은 이 효과로 패에 넣은 몬스터 및 그 같은 이름의 몬스터를 통상 소환 / 특수 소환할 수 없으며, 그 몬스터 효과는 발동할 수 없다.
   zh-TW:
@@ -126,6 +126,10 @@ sets:
     - Rare
   - set_number: 18TP-JP312
     set_name: Tournament Pack 2018 Vol.3
+    rarities:
+    - Common
+  - set_number: TH01-JP011
+    set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
   ko:

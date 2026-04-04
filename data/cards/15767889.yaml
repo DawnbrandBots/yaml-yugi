@@ -33,8 +33,7 @@ text:
     Este card é considerado um Monstro Normal enquanto estiver com a face para cima no campo ou no Cemitério. Enquanto este card for um Monstro Normal no campo, você pode Invocá-lo por Invocação-Normal para fazer com que ele se torne um Monstro de Efeito com este efeito.
     ● Durante sua Fase Final: você pode escolher 1 Card de Magia de Equipamento no seu Cemitério; adicione o alvo à sua mão. Você só pode usar este efeito de "Cavaleiro Day Grepher" uma vez por turno.
   ja: |-
-    ①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合このカードは効果モンスター扱いとなり以下の効果を得る。
-    ●自分エンドフェイズに、自分の墓地の装備魔法カード１枚を対象として発動できる。そのカードを手札に加える。このカード名のこの効果は１ターンに１度しか使用できない。
+    ①：このカードはフィールド・墓地に存在する限り、通常モンスターとして扱う。②：フィールドの通常モンスター扱いのこのカードを通常召喚としてもう１度召喚できる。その場合、以下の効果を持つ効果モンスターとなる。●自分エンドフェイズに、自分の墓地の装備魔法カード１枚を対象として発動できる（このカード名のこの効果は１ターンに１度しか使用できない）。そのカードを手札に加える。
   ko: |-
     ①: 이 카드는 필드 / 묘지에 존재하는 한, 일반 몬스터로 취급한다. ②: 필드의 일반 몬스터 취급의 이 카드를 통상 소환으로서 1번 더 일반 소환할 수 있다. 그 경우 이 카드는 효과 몬스터로 취급되어 이하의 효과를 얻는다.
     ●자신 엔드 페이즈에, 자신 묘지의 장착 마법 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. 이 카드명의 이 효과는 1턴에 1번밖에 사용할 수 없다.
@@ -145,6 +144,10 @@ sets:
     - Common
   - set_number: SR09-JP008
     set_name: "Structure Deck R: Warriors' Strike"
+    rarities:
+    - Common
+  - set_number: TH03-JP004
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

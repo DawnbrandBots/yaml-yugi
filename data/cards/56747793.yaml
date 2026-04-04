@@ -31,7 +31,7 @@ text:
   ko: |-
     ①: 장착 몬스터의 공격력 / 수비력은, 자신 필드의 앞면 표시 몬스터의 수 × 800 올린다.
   zh-TW: |-
-    我方场上每有1只以表侧表示存在的怪兽，装备怪兽的攻击力、守备力就各提升800点。
+    我方场上每有１只以表侧表示存在的怪兽，装备怪兽的攻击力、守备力就各提升８００点。
   zh-CN: |-
     ①：装备怪兽的攻击力・守备力上升自己场上的表侧表示怪兽数量×800的数值。
 card_type: Spell
@@ -369,6 +369,10 @@ sets:
     - Secret Rare
   - set_number: DR01-JPC24
     set_name: Duel Royale Deck Set EX
+    rarities:
+    - Common
+  - set_number: TH03-JP016
+    set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
   ko:

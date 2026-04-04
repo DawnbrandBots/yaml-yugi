@@ -27,11 +27,11 @@ text:
   pt: |-
     Se você controlar um monstro Dragão: escolha 1 Magia/Armadilha no campo; destrua o alvo e, se isso acontecer, cause 500 de dano ao seu controlador.
   ja: |-
-    自分フィールド上にドラゴン族モンスターが表側表示で存在する場合のみ発動する事ができる。フィールド上に存在する魔法・罠カード１枚を選択して破壊し、そのコントローラーに５００ポイントダメージを与える。
+    ①：自分フィールドにドラゴン族モンスターが存在する場合、フィールドの魔法・罠カード１枚を対象として発動できる。そのカードを破壊し、そのコントローラーに５００ダメージを与える。
   ko: |-
     자신 필드 위에 앞면 표시의 드래곤족 몬스터가 존재할 때만 발동할 수 있다. 필드 위의 마법/함정 카드 1장을 파괴하여, 그 컨트롤러에게 500 포인트 데미지를 준다.
   zh-TW: |-
-    我方场上存在龙族怪兽的场合可发动。选择存在于场上的1张魔法、陷阱卡破坏，并给予该控制者500点的伤害。
+    我方场上存在龙族怪兽的场合可发动。选择存在于场上的１张魔法、陷阱卡破坏，并给予该控制者５００点的伤害。
   zh-CN: |-
     自己场上有龙族怪兽表侧表示存在的场合才能发动。选择场上存在的1张魔法·陷阱卡破坏，给与那个控制者500分伤害。
 card_type: Spell
@@ -291,6 +291,10 @@ sets:
     - Common
   - set_number: BE02-JP128
     set_name: Beginner's Edition 2 (2011)
+    rarities:
+    - Common
+  - set_number: TH01-JP013
+    set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
   ko:

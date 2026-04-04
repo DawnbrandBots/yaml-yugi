@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando um ou mais monstros seriam Invocados: ofereça 1 monstro como Tributo; negue essas Invocações e, se isso acontecer, destrua esses monstros.
   ja: |-
-    自分フィールド上に存在するモンスター１体をリリースして発動する。モンスターの召喚・反転召喚・特殊召喚を無効にし破壊する。
+    ①：自分か相手がモンスターを召喚・反転召喚・特殊召喚する際に、自分フィールドのモンスター１体をリリースして発動できる。それを無効にし、そのモンスターを破壊する。
   ko: |-
     자신 필드 위의 몬스터 1장을 제물로 바친다. 몬스터의 일반 소환/반전 소환/특수 소환을 무효로 하고, 그것을 파괴한다.
   zh-TW:
@@ -214,6 +214,10 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Rare
+  - set_number: TH02-JP020
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K130
     set_name: Metal Raiders

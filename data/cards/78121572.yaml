@@ -27,7 +27,7 @@ text:
   pt: |-
     Uma vez por turno: você pode escolher 1 card com a face para cima que você controla sobre o qual você possa colocar um Marcador de Magia; coloque este card em Posição de Ataque que você controla com a face para cima em Posição de Defesa e, se isso acontecer, coloque 1 Marcador de Magia no alvo.
   ja: |-
-    １ターンに１度、自分フィールド上に表側攻撃表示で存在するこのカードを表側守備表示に変更し、自分フィールド上に表側表示で存在する魔力カウンターを置く事ができるカード１枚に魔力カウンターを１つ置く事ができる。
+    ①：１ターンに１度、自分フィールドの魔力カウンターを置く事ができるカード１枚を対象として発動できる。自分フィールドの攻撃表示のこのカードを表側守備表示にし、対象の自分のカードに魔力カウンターを１つ置く。
   ko: |-
     1턴에 1번, 자신 필드 위에 앞면 공격 표시로 존재하는 이 카드를 앞면 수비 표시로 변경하고, 자신 필드 위에 앞면 표시로 존재하는 마력 카운터를 놓을 수 있는 카드 1장에 마력 카운터를 1개 놓을 수 있다.
   zh-TW:
@@ -101,6 +101,10 @@ sets:
   ja:
   - set_number: EXP3-JP033
     set_name: Extra Pack Volume 3
+    rarities:
+    - Common
+  - set_number: TH02-JP007
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:

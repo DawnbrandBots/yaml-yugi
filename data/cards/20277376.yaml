@@ -27,11 +27,11 @@ text:
   pt: |-
     Uma vez por turno: você pode descartar 1 card e, depois, escolher 1 monstro do Tipo Dragão no seu Cemitério; adicione o alvo à sua mão.
   ja: |-
-    １ターンに１度、手札を１枚捨てて発動できる。自分の墓地のドラゴン族モンスター１体を選択して手札に加える。
+    ①：１ターンに１度、手札を１枚捨て、自分の墓地のドラゴン族モンスター１体を対象として発動できる。そのドラゴン族モンスターを手札に加える。
   ko: |-
     1턴에 1번, 패를 1장 버리고 발동할 수 있다. 자신 묘지의 드래곤족 몬스터 1장을 선택하고 패에 넣는다.
   zh-TW: |-
-    1个回合1次，可以舍弃1张手牌进行发动。选择我方墓地的1只龙族怪兽加入手牌。
+    １个回合１次，可以舍弃１张手牌进行发动。选择我方墓地的１只龙族怪兽加入手牌。
   zh-CN: |-
     ①：1回合1次，扔掉1张手牌，可以自己墓地的1只龙族怪兽为对象发动。将该龙族怪兽加入手牌。
 card_type: Monster
@@ -127,6 +127,10 @@ sets:
     - Common
   - set_number: SD25-JP010
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
+    rarities:
+    - Common
+  - set_number: TH01-JP007
+    set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
   ko:

@@ -27,7 +27,7 @@ text:
   pt: |-
     Se este card destruir um monstro do oponente em batalha: coloque 1 Marcador de Magia nele. Ganha 200 de ATK para cada Marcador de Magia nele.
   ja: |-
-    このカードが戦闘によって相手モンスターを破壊した場合、このカードに魔力カウンターを１つ置く。このカードの攻撃力は、このカードに乗っている魔力カウンターの数×２００ポイントアップする。
+    ①：このカードが戦闘で相手モンスターを破壊した場合に発動する。このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×２００アップする。
   ko: |-
     이 카드가 전투에 의해서 상대 몬스터를 파괴했을 경우, 이 카드에 마력 카운터를 1개 놓는다. 이 카드의 공격력은 이 카드에 얹혀 있는 마력 카운터의 수 × 200 포인트 올린다.
   zh-TW:
@@ -100,6 +100,10 @@ sets:
   ja:
   - set_number: EXP2-JP015
     set_name: Extra Pack Volume 2
+    rarities:
+    - Common
+  - set_number: TH02-JP004
+    set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
   ko:
