@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
+# SPDX-FileCopyrightText: © 2022–2026 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import json
 import logging
@@ -27,7 +27,14 @@ from common import (
 module_logger = logging.getLogger(__name__)
 
 
-def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
+def transform_structure(
+    logger: logging.Logger, wikitext: Dict[str, str]
+) -> Optional[Dict[str, Any]]:
+    if wikitext.get("card_type") == "Duel Marker" or wikitext.get(
+        "This card cannot be in a Deck."
+    ):
+        logger.info(f"Skip: {wikitext}")
+        return
     konami_id = int_or_none(wikitext.get("database_id"))
     document = {"konami_id": konami_id, "name": transform_names(wikitext)}
     if "condition" in wikitext:
@@ -173,7 +180,9 @@ def job(
             logger.info(f"Skip: {filepath}")
             continue
         properties["yugipedia_page_id"] = page_id
-        document = transform_structure(properties)
+        document = transform_structure(logger, properties)
+        if not document:
+            continue
         merge_ko(logger, document, ko_override, ko_prerelease)
         if ocg_cards:
             annotate_ocg_ja_name(logger, document, ocg_cards)
