@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 护石庭园
 text:
   en: |-
     While you have 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps with different names from your Deck, your opponent randomly picks 1 for you to Set on your field, also shuffle the rest into the Deck. You can only use this effect of "Protective Stone Gardenscaping" once per turn.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②效果1回合仅可使用1次。①：只要自己的魔法与陷阱区域存在5张卡，双方受到的战斗伤害变为一半，1回合1次，自己可以将1张永续陷阱卡在放置的回合发动。②：在自己・对手的准备阶段可以发动。从牌组将卡名不同的5张永续陷阱卡出示给对手，对手从其中随机挑选1张。自己将该1张放置在自己场上，剩余的放回牌组。
 card_type: Trap
 property: Continuous
 images:
@@ -35,9 +36,13 @@ sets:
   - set_number: CORI-JP080
     set_name: Chaos Origins
     rarities:
+  zh-CN:
+  - set_number: CORI-SC080
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
