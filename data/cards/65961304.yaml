@@ -9,7 +9,7 @@ name:
   pt:
   ja: キラーチューン <ruby>Ｂ<rt>バック</rt></ruby><ruby>２<rt>トゥ</rt></ruby><ruby>Ｂ<rt>バック</rt></ruby>
   ja_romaji: Kirā Chūn Bakku Tu Bakku
-  ko:
+  ko: 킬러튠 B2B
   ko_rr:
   zh-TW:
   zh-CN: 杀手旋律・背靠背
@@ -25,7 +25,9 @@ text:
   ja: |-
     チューナー＋Ｓモンスター１体以上
     このカード名の③の効果は１ターンに２度まで使用できる。①：相手フィールドのモンスターのレベルは２つ上がる。②：自分のチューナーは１度のバトルフェイズ中に２回攻撃できる。③：相手がモンスターの効果を発動した時、レベル１０以外の自分の墓地・除外状態のチューナー１体を対象として発動できる。そのモンスターを手札に加えるか特殊召喚する。その後、Ｓモンスター１体のＳ召喚を行う事ができる。
-  ko:
+  ko: |-
+    튜너 ＋ 싱크로 몬스터 1장 이상
+    이 카드명의 ③의 효과는 1턴에 2번까지 사용할 수 있다. ①: 상대 필드의 몬스터의 레벨은 2개 올라간다. ②: 자신의 튜너는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ③: 상대가 몬스터의 효과를 발동했을 때, 레벨 10 이외의 자신의 묘지 / 제외 상태인 튜너 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣거나 특수 소환한다. 그 후, 싱크로 몬스터 1장의 싱크로 소환을 실행할 수 있다.
   zh-TW:
   zh-CN: |-
     协调＋同步怪兽1只以上
@@ -50,6 +52,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  ko:
+  - set_number: BLZD-KR042
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   zh-CN:
   - set_number: BLZD-SC042
     set_name: Blazing Dominion
@@ -58,6 +67,6 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
 limit_regulation:
-  tcg:
+  tcg: Not yet released
   ocg: Unlimited
 yugipedia_page_id: 1169914
