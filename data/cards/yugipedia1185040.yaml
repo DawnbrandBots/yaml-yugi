@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 沼地魔道王
 text:
   en: |-
     If this card is in your hand: You can reveal 1 Fusion Monster in your Extra Deck and banish 1 material whose name is mentioned on it from your Deck, then Special Summon this card, and its name can be treated as the banished monster's if used as Fusion Material this turn. You can only use this effect of "Magical King of the Swamp" once per turn.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的效果1回合仅可使用1次。①：此卡存在于手牌的情况下可以发动。向对手出示额外牌组的1只融合怪兽，从牌组将1只卡名记载于该怪兽的融合素材怪兽除外。然后，将此卡特殊召唤。此回合，要将以此效果特殊召唤的此卡作为融合素材的情况下，可视为以此效果所除外的怪兽的同名卡。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: WATER
@@ -39,9 +40,13 @@ sets:
   - set_number: CORI-JP024
     set_name: Chaos Origins
     rarities:
+  zh-CN:
+  - set_number: CORI-SC024
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
