@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 召唤兽 索拉特
 text:
   en: |-
     1 "Aleister" monster + 1 FIRE or WIND monster
@@ -25,7 +25,9 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    “阿莱斯特”怪兽＋炎・风属性怪兽
+    此卡名的①②效果1回合仅可各使用1次。①：在自己・对手的主要阶段，以自己或对手墓地的1只等级6以下的怪兽为对象可以发动。将该怪兽以守备表示特殊召唤至自己场上。以此效果特殊召唤的怪兽的效果无效化。②：此卡存在于墓地的情况下可以发动，将包含墓地的此卡在内的、自己场上・墓地的怪兽作为融合素材除外，将1只“召唤兽”融合怪兽融合召唤。
 card_type: Monster
 monster_type_line: Pyro / Fusion / Effect
 attribute: LIGHT
@@ -44,6 +46,10 @@ sets:
     set_name: Chaos Origins
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CORI-SC030
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
