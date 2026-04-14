@@ -32,7 +32,7 @@ text:
     ①: 상대 필드에 몬스터가 존재하고, 자신 필드에 몬스터가 존재하지 않을 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드는 일반 소환 / 반전 소환 / 특수 소환한 턴에는 공격할 수 없다. ③: 자신 필드에 "툰 월드"가 존재하고, 상대 필드에 툰 몬스터가 존재하지 않을 경우, 이 카드는 직접 공격할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：对方场上有怪兽存在，自己场上没有怪兽存在的场合，这张卡可以从手卡特殊召唤。②：这张卡在召唤·反转召唤·特殊召唤的回合不能攻击。③：自己场上有「卡通世界」存在，对方场上没有卡通怪兽存在的场合，这张卡可以直接攻击。
+    ①：仅有对手场上才存在怪兽的情况下，此卡可从手牌特殊召唤。②：此卡在召唤・反转召唤・特殊召唤的回合不可攻击。③：自己场上存在“卡通世界”，且对手场上不存在卡通怪兽的情况下，此卡可直接攻击。
 card_type: Monster
 monster_type_line: Machine / Toon / Effect
 attribute: LIGHT
@@ -135,6 +135,10 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Rare
+  zh-CN:
+  - set_number: RV01-SC014
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -46,9 +46,9 @@ text:
     ●덱에서 "툰" 마법 / 함정 카드 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡在召唤·反转召唤·特殊召唤的回合不能攻击。②：自己场上有「卡通世界」存在，对方场上没有卡通怪兽存在的场合，这张卡可以直接攻击。③：1回合1次，可以从手卡丢弃1张「卡通」卡，从以下效果选择1个发动。
-    ●从卡组把「卡通黑魔术师」以外的1只卡通怪兽无视召唤条件特殊召唤。
-    ●从卡组把1张「卡通」魔法·陷阱卡加入手卡。
+    ①：此卡在召唤・反转召唤・特殊召唤的回合不可攻击。②：自己场上存在“卡通世界”，且对手场上不存在卡通怪兽的情况下，此卡可直接攻击。③：1回合1次，从手牌将1张“卡通”卡舍弃，可从以下效果中选择1个发动。
+    ●从牌组将“卡通黑魔导”以外的1只卡通怪兽无视召唤条件特殊召唤。
+    ●从牌组将1张“卡通”魔法・陷阱卡加入手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Toon / Effect
 attribute: DARK
@@ -198,6 +198,10 @@ sets:
     set_name: The Dark Illusion
     rarities:
     - Rare
+  zh-CN:
+  - set_number: RV01-SC010
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
