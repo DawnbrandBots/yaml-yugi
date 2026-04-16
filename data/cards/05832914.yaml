@@ -32,7 +32,7 @@ text:
     ①: 자신 필드에 툰 몬스터가 존재하고, 상대가 몬스터를 일반 소환 / 반전 소환 / 특수 소환했을 때에 발동할 수 있다. 그 몬스터를 주인의 덱으로 되돌린다.
   zh-TW:
   zh-CN: |-
-    ①：自己场上有卡通怪兽存在，对方把怪兽召唤·反转召唤·特殊召唤时才能发动。那些怪兽回到持有者卡组。
+    ①：自己场上存在卡通怪兽，且对手召唤・反转召唤・特殊召唤怪兽时可以发动，将该被召唤・反转召唤・特殊召唤的怪兽放回牌组。
 card_type: Trap
 property: Normal
 series:
@@ -105,6 +105,10 @@ sets:
     set_name: 'Collectors Pack: Duelist of Destiny Version'
     rarities:
     - Common
+  zh-CN:
+  - set_number: RV01-SC021
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

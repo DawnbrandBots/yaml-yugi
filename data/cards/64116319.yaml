@@ -12,7 +12,7 @@ name:
   ko: 툰 해피 레이디
   ko_rr:
   zh-TW: 卡通・神鷹女郎
-  zh-CN: 卡通・神鹰女郎
+  zh-CN: 卡通神鹰女郎
 text:
   en: |-
     Cannot attack the turn it is Summoned. If you control "Toon World": You can Special Summon this card from your hand, then, if you control another Toon monster, you can destroy 1 Spell/Trap your opponent controls. You can only use this effect of "Toon Harpie Lady" once per turn. While you control "Toon World" and your opponent controls no Toon monsters, this card can attack directly.
@@ -32,7 +32,7 @@ text:
     이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 "툰 월드"가 존재할 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 자신 필드에 다른 툰 몬스터가 존재할 경우, 추가로 상대 필드의 마법 / 함정 카드 1장을 고르고 파괴할 수 있다. ②: 이 카드는 일반 소환 / 반전 소환 / 특수 소환한 턴에는 공격할 수 없다. ③: 자신 필드에 "툰 월드"가 존재하고, 상대 필드에 툰 몬스터가 존재하지 않을 경우, 이 카드는 직접 공격할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡在召唤·反转召唤·特殊召唤的回合不能攻击。自己场上有「卡通世界」存在的场合：可以从手卡把这张卡特殊召唤，那之后，自己场上有其他的卡通怪兽存在的场合，可以选对方场上1张魔法·陷阱卡破坏。「卡通鹰身女郎」的这个效果1回合只能使用1次。自己场上有「卡通世界」存在，对方场上没有卡通怪兽存在的场合，这张卡可以直接攻击。
+    此卡名的①效果1回合仅可使用1次。①：此卡存在于手牌，且自己场上存在“卡通世界”的情况下可以发动。将此卡特殊召唤。自己场上存在其他卡通怪兽的情况下，进而可将对手场上的1张魔法・陷阱卡破坏。②：此卡在召唤・反转召唤・特殊召唤的回合不可攻击。③：自己场上存在“卡通世界”，且对手场上不存在卡通怪兽的情况下，此卡可直接攻击。
 card_type: Monster
 monster_type_line: Winged Beast / Toon / Effect
 attribute: WIND
@@ -122,6 +122,10 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  zh-CN:
+  - set_number: RV01-SC017
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -32,7 +32,7 @@ text:
     일반 소환/반전 소환/특수 소환한 턴에는 공격할 수 없다. 필드 위의 "툰 월드"가 파괴되었을 때 이 카드도 파괴한다. 자신의 필드 위에 "툰 월드"가 있고 상대가 툰을 컨트롤하고 있지 않을 경우, 이 카드는 상대 플레이어를 직접 공격할 수 있다. 이 카드가 상대 플레이어에게 전투 데미지를 주었을 때, 자신의 덱에서 카드를 1장 드로우한다.
   zh-TW:
   zh-CN: |-
-    这张卡在召唤·反转召唤·特殊召唤的回合不能攻击。自己场上有「卡通世界」存在，对方场上没有卡通怪兽存在的场合，这张卡可以直接攻击对方玩家。场上的「卡通世界」破坏时，这张卡破坏。这张卡给与对方基本分战斗伤害时，从自己卡组抽1张卡。
+    ①：此卡在召唤・反转召唤・特殊召唤的回合不可攻击。②：自己场上存在“卡通世界”，且对手场上不存在卡通怪兽的情况下，此卡可直接攻击。③：此卡给予对手战斗伤害的情况下发动。自己抽1张。④：场上的“卡通世界”被破坏时，此卡将被破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Toon / Effect
 attribute: DARK
@@ -209,6 +209,10 @@ sets:
     set_name: Beginner's Edition 2
     rarities:
     - Common
+  zh-CN:
+  - set_number: RV01-SC018
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

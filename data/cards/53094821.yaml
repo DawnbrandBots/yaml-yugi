@@ -32,7 +32,7 @@ text:
     이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드에 "툰 월드" 및 툰 몬스터가 존재하고, 몬스터의 효과 / 마법 / 함정 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 하고 파괴한다.
   zh-TW:
   zh-CN: |-
-    自己场上有「卡通世界」以及卡通怪兽存在，怪兽的效果·魔法·陷阱卡发动时：那个发动无效并破坏。「卡通恐怖」在1回合只能发动1张。
+    此卡名的卡1回合仅可发动1张。①：自己场上存在“卡通世界”及卡通怪兽，且怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
 card_type: Trap
 property: Counter
 series:
@@ -105,6 +105,10 @@ sets:
     set_name: World Premiere Pack 2020
     rarities:
     - Common
+  zh-CN:
+  - set_number: RV01-SC022
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
