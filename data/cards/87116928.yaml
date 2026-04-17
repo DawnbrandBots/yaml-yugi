@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     “电子龙”怪兽＋额外怪兽区域的怪兽1只以上
-    仅在将自己・对手场上的上述卡送至墓地的情况下可以从额外牌组特殊召唤（无需“融合”）。此卡不可作为融合素材。①：此卡原本的攻击力变为用作此卡的融合素材的怪兽数量×1200。
+    仅在将自己・对手场上的上述卡送至墓地的情况下可以从额外牌组特殊召唤。此卡不可作为融合素材。①：此卡原本的攻击力变为用作此卡的融合素材的怪兽数量×1200的数值。
 card_type: Monster
 monster_type_line: Machine / Fusion / Effect
 attribute: DARK
@@ -201,6 +201,10 @@ sets:
     set_name: Rarity Collection 20th Anniversary Edition
     rarities:
     - Extra Secret Rare
+  - set_number: LOSP-SC012
+    set_name: Limit Over Special Pack Vol.2
+    rarities:
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
