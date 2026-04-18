@@ -27,7 +27,9 @@ text:
     ①：このカードがＬ召喚した場合、またはこのカードが戦闘を行ったダメージステップ終了時に発動する。相手フィールドのモンスターを全て破壊する。その後、自分の墓地のＬモンスターの数×３００ダメージを相手に与える。②：このカードはモンスターゾーンに存在する限り、属性を「光」「水」「炎」「風」としても扱い、自身と同じ属性のモンスターが発動した効果を受けない。③：攻撃力１０００以上のこのカードが戦闘・効果で破壊される場合、代わりにこのカードの攻撃力を１０００下げた数値にできる。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    连接怪兽1只以上
+    ①：此卡连接召唤的情况下，或此卡进行战斗的伤害步骤结束时发动。将对手场上的怪兽全部破坏。然后，给予对手相当于自己墓地的连接怪兽的数量×300的伤害。②：此卡只要存在于怪兽区域，属性也视为“光”、“水”、“炎”、“风”，不受与自身相同属性的怪兽发动的效果影响。③：攻击力1000以上的此卡将被战斗・效果破坏的情况下，作为代替可将此卡的攻击力改成下降了1000的数值。
 card_type: Monster
 monster_type_line: Cyberse / Link / Effect
 attribute: EARTH
@@ -54,6 +56,9 @@ sets:
   - set_number: LOCR-SC028
     set_name: 'Limit Over Collection: The Rivals'
     rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
