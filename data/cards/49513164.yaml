@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     “召唤师 阿莱斯特”＋风属性怪兽
-    ①：１回合１次，以场上１只表侧表示怪兽为对象可以发动。将该怪兽改成里侧守备表示。此效果在对手回合中也可以发动。
+    ①：在每个自己・对手回合中1次，以场上的1只表侧表示怪兽为对象可以发动。将该怪兽改成里侧守备表示。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: WIND
@@ -144,6 +144,12 @@ sets:
     set_name: Classic Pack 03
     rarities:
     - Rare
+  - set_number: LOCR-SC059
+    set_name: 'Limit Over Collection: The Rivals'
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

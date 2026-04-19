@@ -32,7 +32,7 @@ text:
     ①: 몬스터를 특수 소환하는 효과를 포함하는 마법 카드를 상대가 발동했을 때에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드의 ①의 효과로 특수 소환한 이 카드가 몬스터 존에 존재하는 한, 묘지로 보내지는 카드는 묘지로는 가지 않으며 제외된다. ③: 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. "응전의 G"가 아닌, 공격력 1500 이하의 곤충족 / 땅 속성 몬스터 1장을 덱에서 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：对手发动包含将怪兽特殊召唤的效果的魔法卡时可以发动。从手牌将此卡特殊召唤。②：只要以此卡的①效果特殊召唤的此卡存在于怪兽区域，被送往墓地的卡不去墓地而直接被除外。③：此卡从场上被送至墓地的情况下可以发动。从牌组将除“应战的Z”之外的、攻击力１５００以下的１只昆虫族・地属性怪兽加入手牌。
+    ①：对手发动包含将怪兽特殊召唤的效果在内的魔法卡时可以发动（同一连锁上最多1次）。从手牌将此卡特殊召唤。②：只要以此卡的①效果特殊召唤的此卡存在于怪兽区域，被送往墓地的卡不去墓地而直接被除外。③：此卡从场上被送至墓地的情况下可以发动。从牌组将除“应战的Z”以外的、攻击力1500以下的1只昆虫族・地属性怪兽加入手牌。
 card_type: Monster
 monster_type_line: Insect / Effect
 attribute: EARTH
@@ -223,7 +223,7 @@ sets:
   - set_number: LOCR-JP048
     set_name: 'Limit Over Collection: The Rivals'
     rarities:
-    - Ultra Rare
+    - Super Rare
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
@@ -245,6 +245,12 @@ sets:
     set_name: 'Hundred Battles Deck: Glamour of Traptrix Deck Enhancement Pack'
     rarities:
     - Secret Rare
+  - set_number: LOCR-SC052
+    set_name: 'Limit Over Collection: The Rivals'
+    rarities:
+    - Super Rare
+    - Collector's Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
