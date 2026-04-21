@@ -32,7 +32,7 @@ text:
   zh-TW: |-
     此卡召唤成功时，可选择我方墓地的1只「雷電姐姐」以外的雷族、光属性、等级4、攻击力1600或以下的怪兽并从游戏中除外。此回合的结束阶段时将此卡加入手牌。
   zh-CN: |-
-    这张卡召唤成功时，可以选择「雷电姐姐」以外的自己墓地1只雷族·光属性·4星·攻击力1600以下的怪兽从游戏中除外。这个回合的结束阶段时那张卡加入手卡。
+    ①：此卡召唤时，以除“雷电姐姐”以外的、自己墓地的1只攻击力1600以下的雷族・光属性・等级4怪兽为对象可以发动。将该雷族・光属性怪兽除外。在此回合的结束阶段，将该卡加入手牌。
 card_type: Monster
 monster_type_line: Thunder / Effect
 attribute: LIGHT
@@ -85,6 +85,10 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Common
+  zh-CN:
+  - set_number: CORI-SC083
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
