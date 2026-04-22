@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>進<rt>しん</rt></ruby><ruby>化<rt>か</rt></ruby>のプチモス
   ja_romaji: Shinka no Puchi Мosu
-  ko:
+  ko: 진화의 꼬마 모스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「プチモス」になる。その後、自分の墓地の「プチモス」１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "꼬마 모스"가 된다. 그 후, 자신 묘지의 "꼬마 모스" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/AP02-JP041
+    set_name: 'Advance Pack: Revenge Hearts'
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/AP02-KR041
     set_name: 'Advance Pack: Revenge Hearts'
     rarities:
     - Common

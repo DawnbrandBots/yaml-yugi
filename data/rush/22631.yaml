@@ -8,7 +8,7 @@ name:
   pt:
   ja: ビギニング・スカルライズ
   ja_romaji: Biginingu Sukaruraizu
-  ko:
+  ko: 비기닝 스컬라이즈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「ビギニング・スカルライズ」を発動していないターンに、手札の「叛骨のガイガスト」または「叛骨のスフレース」１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신이 "비기닝 스컬라이즈"를 발동하고 있지 않은 턴에, 패의 "반골의 가이가스트" 또는 "반골의 스플레이스" 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は３枚ドローする。自分の墓地のモンスターが４体以上の場合、さらに自分の手札１枚を選んで墓地へ送る。
-  ko:
+  ko: |-
+    자신은 3장 드로우한다. 자신 묘지의 몬스터가 4장 이상일 경우, 추가로 자신의 패 1장을 고르고 묘지로 보낸다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP02-JP014
+    set_name: 'Advance Pack: Revenge Hearts'
+    rarities:
+    - Common
+    - Secret Rare
+  ko:
+  - set_number: RD/AP02-KR014
     set_name: 'Advance Pack: Revenge Hearts'
     rarities:
     - Common

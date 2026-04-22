@@ -8,7 +8,7 @@ name:
   pt:
   ja: スパークハーツ・アネッシュ
   ja_romaji: Supākuhātsu Anesshu
-  ko:
+  ko: 스파크하츠 아넷슈
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     自分の墓地に「火の粉」または「火の粉のカーテン」がある場合、このカードは手札から自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 묘지에 "스파크" 또는 "스파크 커튼"이 있을 경우, 이 카드는 패에서 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、その中からモンスター（炎属性／魔法使い族）１体を選んで手札に加える事ができる。このターン、自分は「スパークハーツ・アネッシュ」の効果を発動できない。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 그 중에서 몬스터(화염 속성 / 마법사족) 1장을 고르고 패에 넣을 수 있다. 이 턴에, 자신은 "스파크하츠 아넷슈"의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -65,6 +68,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP02-JP022
+    set_name: 'Advance Pack: Revenge Hearts'
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/AP02-KR022
     set_name: 'Advance Pack: Revenge Hearts'
     rarities:
     - Ultra Rare

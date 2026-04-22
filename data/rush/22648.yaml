@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>相<rt>そう</rt></ruby><ruby>変<rt>へん</rt></ruby><ruby>異<rt>い</rt></ruby><ruby>態<rt>たい</rt></ruby>・グレート・モス
   ja_romaji: Sōhen'itai Gurēto Mosu
-  ko:
+  ko: 상변이체 그레이트 모스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -50,7 +50,11 @@ effect:
   pt:
   ja: |-
     このカードのカード名は「グレート・モス」になり、相手の効果では破壊されない。自分のモンスター（レベル８／昆虫族）の攻撃は貫通する。
-  ko:
+  ko: |-
+    "진화의 고치" ＋ 몬스터(레벨 5 이상 / 땅 속성 / 곤충족)
+    묘지에 있는 이 카드의 카드명은 "그레이트 모스"가 된다.
+    【조건】없음
+    【지속 효과】이 카드의 카드명은 "그레이트 모스"가 되고, 상대 효과로는 파괴되지 않는다. 자신의 몬스터(레벨 8 / 곤충족)의 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -80,6 +84,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP02-JP032
+    set_name: 'Advance Pack: Revenge Hearts'
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/AP02-KR032
     set_name: 'Advance Pack: Revenge Hearts'
     rarities:
     - Super Rare

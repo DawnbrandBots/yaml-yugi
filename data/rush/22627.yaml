@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>叛<rt>はん</rt></ruby><ruby>骨<rt>こつ</rt></ruby><ruby>装<rt>そう</rt></ruby><ruby>魂<rt>こん</rt></ruby>メイニール
   ja_romaji: Hankotsusōkon Meinīru
-  ko:
+  ko: 반골장혼 메이니르
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 필드의 앞면 표시인 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「叛骨のガイガスト」「叛骨のスフレース」のいずれか１体とリチュアル魔法カード１枚を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의, "반골의 가이가스트" 또는 "반골의 스플레이스" 1장과 리추얼 마법 카드 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.1
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/AP02-KR009
+    set_name: 'Advance Pack: Revenge Hearts'
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true
