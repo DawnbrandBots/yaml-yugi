@@ -1,7 +1,7 @@
 konami_id: 22578
 password: 44886582
 name:
-  en: Apex Polymerization
+  en: Super Duper Polymerization
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 超逸融合
 text:
   en: |-
-    Neither player can activate cards or effects in response to this card's activation. Pay 2000 LP, then target 1 Effect Monster on the field; Special Summon 1 monster from your Extra Deck with the same Type and Attribute, but a different Level (its effects are negated), then apply 1 of these effects.
-    ● Fusion Summon 1 Fusion Monster from your Extra Deck, using both the Summoned monster and the targeted monster.
-    ● Send the Summoned monster to the GY.
-    You can only activate 1 "Apex Polymerization" per turn.
+    Pay 2000 LP, then target 1 Effect Monster on the field; Special Summon 1 monster from your Extra Deck, with the same Type and Attribute but a different Level (but negate its effects), then apply 1 of these effects. Neither player can activate cards or effects in response to this card's activation.
+    ● Fusion Summon 1 Fusion Monster from your Extra Deck, using the Special Summoned monster and the targeted monster.
+    ● Send the Special Summoned monster to the GY.
+    You can only activate 1 "Super Duper Polymerization" per turn.
   de:
   es:
   fr:
@@ -43,8 +43,32 @@ series:
 - Polymerization
 images:
 - index: 1
-  image: ApexPolymerization-BLZD-JP-UR.png
+  image: SuperDuperPolymerization-BLZD-JP-UR.png
 sets:
+  en:
+  - set_number: BLZD-EN069
+    set_name: Blazing Dominion
+    rarities:
+  de:
+  - set_number: BLZD-DE069
+    set_name: Blazing Dominion
+    rarities:
+  es:
+  - set_number: BLZD-SP069
+    set_name: Blazing Dominion
+    rarities:
+  fr:
+  - set_number: BLZD-FR069
+    set_name: Blazing Dominion
+    rarities:
+  it:
+  - set_number: BLZD-IT069
+    set_name: Blazing Dominion
+    rarities:
+  pt:
+  - set_number: BLZD-PT069
+    set_name: Blazing Dominion
+    rarities:
   ja:
   - set_number: BLZD-JP069
     set_name: Blazing Dominion
@@ -67,9 +91,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1164605
