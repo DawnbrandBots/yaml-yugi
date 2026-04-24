@@ -1,7 +1,7 @@
 konami_id: 22539
 password: 78744660
 name:
-  en: Doom Regina Archfiend
+  en: Archfiend Matriarch
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 死亡女后恶魔
 text:
   en: |-
-    You can Ritual Summon this card with "Throne of the Archfiends". Must be Ritual Summoned. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells and Traps from your opponent's GY. You can only use this effect of "Doom Regina Archfiend" once per turn. Unaffected by other monsters' effects while in the Extra Monster Zone.
+    You can Ritual Summon this card with "Throne of the Archfiends". Must be Ritual Summoned. Unaffected by other monsters' effects while in the Extra Monster Zone. If this card is Ritual Summoned: You can destroy as many Spells/Traps your opponent controls as possible, then if this card is in the Extra Monster Zone, you can banish all Spells/Traps from your opponent's GY. You can only use this effect of "Archfiend Matriarch" once per turn.
   de:
   es:
   fr:
@@ -40,7 +40,7 @@ def: 2900
 pendulum_scale: 9
 pendulum_effect:
   en: |-
-    You can target 1 "Archfiend" Spell/Trap in your GY or banishment; destroy this card, and if you do, add the targeted card to your hand. You can only use this effect of "Doom Regina Archfiend" once per turn.
+    You can target 1 "Archfiend" Spell/Trap in your GY or banishment; destroy this card, and if you do, add that target to your hand. You can only use this effect of "Archfiend Matriarch" once per turn.
   de:
   es:
   fr:
@@ -57,8 +57,38 @@ series:
 - Archfiend
 images:
 - index: 1
-  image: DoomReginaArchfiend-BLZD-JP-R.png
+  image: ArchfiendMatriarch-BLZD-JP-R.png
 sets:
+  en:
+  - set_number: BLZD-EN030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  de:
+  - set_number: BLZD-DE030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  es:
+  - set_number: BLZD-SP030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  fr:
+  - set_number: BLZD-FR030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  it:
+  - set_number: BLZD-IT030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  pt:
+  - set_number: BLZD-PT030
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ja:
   - set_number: BLZD-JP030
     set_name: Blazing Dominion
@@ -79,9 +109,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1163846

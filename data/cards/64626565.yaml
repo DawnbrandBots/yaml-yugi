@@ -1,7 +1,7 @@
 konami_id: 22557
 password: 64626565
 name:
-  en: Cherubidamn Irisfiel
+  en: Dark Ceruvim Irisfil
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 8 monsters
-    Once per turn, you can also Xyz Summon "Cherubidamn Irisfiel" by using 1 Xyz Monster you control that has not activated its effect in the Monster Zone this turn (transfer its materials). If this card is Xyz Summoned: You can activate this effect; this turn, Xyz Monsters you control gain ATK equal to their own Rank x 100 during the Battle Phase only. If this card would be destroyed by battle or card effect, you can detach 1 material from a monster you control instead. You can only use this effect of "Cherubidamn Irisfiel" once per turn.
+    Once per turn, you can also Xyz Summon "Dark Ceruvim Irisfil" by using 1 Xyz Monster you control that did not activate its effects in the Monster Zone this turn (transfer its materials). If this card is Xyz Summoned: You can activate this effect; during the Battle Phase of this turn, Xyz Monsters you control gain ATK equal to their Rank x 100. If this card would be destroyed by battle or card effect, you can detach 1 material from a monster you control instead. You can only use this effect of "Dark Ceruvim Irisfil" once per turn.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ def: 2500
 materials: 2 Level 8 monsters
 images:
 - index: 1
-  image: CherubidamnIrisfiel-BLZD-JP-R.png
+  image: DarkCeruvimIrisfil-BLZD-JP-R.png
 sets:
+  en:
+  - set_number: BLZD-EN048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  de:
+  - set_number: BLZD-DE048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  es:
+  - set_number: BLZD-SP048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  fr:
+  - set_number: BLZD-FR048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  it:
+  - set_number: BLZD-IT048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  pt:
+  - set_number: BLZD-PT048
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ja:
   - set_number: BLZD-JP048
     set_name: Blazing Dominion
@@ -63,9 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1164129
