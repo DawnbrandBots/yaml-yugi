@@ -1,7 +1,7 @@
 konami_id: 22521
 password: 43871165
 name:
-  en: Power Patron Shadow Machine Zegredo
+  en: Jupredo the Shademachine Power Patron
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as a "DoomZ" card.)
-    You can banish (face-down) the top 3 cards of your Deck; destroy this card, and if you do, Special Summon 1 "Jupiter the Power Patron of Destruction" from your Extra Deck (this is treated as an Xyz Summon), then you can attach 1 card from your hand to it. If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" or "DoomZ" Spell/Trap from your Deck to your hand. You can only use each effect of "Power Patron Shadow Machine Zegredo" once per turn.
+    You can banish the top 3 cards of your Deck, face-down; destroy this card, and if you do, Special Summon 1 "Jupiter the Power Patron of Destruction" from your Extra Deck (this is treated as an Xyz Summon), then you can attach 1 card from your hand to it. If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" or "DoomZ" Spell/Trap from your Deck to your hand. You can only use each effect of "Jupredo the Shademachine Power Patron" once per turn.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 200
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    During your Main Phase: You can destroy both this card and 1 "Power Patron" or "DoomZ" monster in your hand or face-up field, then you can destroy 1 card on the field. You can only use this effect of "Power Patron Shadow Machine Zegredo" once per turn.
+    During your Main Phase: You can destroy this card and 1 "Power Patron" or "DoomZ" monster in your hand or face-up field, then you can destroy 1 card on the field. You can only use this effect of "Jupredo the Shademachine Power Patron" once per turn.
   de:
   es:
   fr:
@@ -56,8 +56,32 @@ series:
 - Power Patron
 images:
 - index: 1
-  image: PowerPatronShadowMachineZegredo-BLZD-JP-R.png
+  image: JupredotheShademachinePowerPatron-BLZD-JP-R.png
 sets:
+  en:
+  - set_number: BLZD-EN012
+    set_name: Blazing Dominion
+    rarities:
+  de:
+  - set_number: BLZD-DE012
+    set_name: Blazing Dominion
+    rarities:
+  es:
+  - set_number: BLZD-SP012
+    set_name: Blazing Dominion
+    rarities:
+  fr:
+  - set_number: BLZD-FR012
+    set_name: Blazing Dominion
+    rarities:
+  it:
+  - set_number: BLZD-IT012
+    set_name: Blazing Dominion
+    rarities:
+  pt:
+  - set_number: BLZD-PT012
+    set_name: Blazing Dominion
+    rarities:
   ja:
   - set_number: BLZD-JP012
     set_name: Blazing Dominion
@@ -76,9 +100,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1167760

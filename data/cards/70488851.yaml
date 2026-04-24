@@ -1,7 +1,7 @@
 konami_id: 22519
 password: 70488851
 name:
-  en: Vidrium the Power Patron of Chaos Extermination
+  en: Vidolium the Unstable Power Patron of Unity
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 混绝狱神 皮托里姆
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned (from your face-up Extra Deck or GY) by returning 1 Fusion, 1 Synchro, and 1 Xyz Monster from your face-up field and/or GY to the Extra Deck. If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" card from your Deck to your hand. You can only use this effect of "Vidrium the Power Patron of Chaos Extermination" once per turn. If this card is Special Summoned: Banish (face-down) all cards from the GYs. Unaffected by monster effects, except "Power Patron" monsters.
+    Cannot be Normal Summoned/Set. Must be Special Summoned (from your Extra Deck or GY) by returning 3 monsters (1 Fusion, 1 Synchro, and 1 Xyz) from your face-up field and/or GY to the Extra Deck. Unaffected by monster effects, except "Power Patron" monsters. If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" card from your Deck to your hand. You can only use this effect of "Vidolium the Unstable Power Patron of Unity" once per turn. If this card is Special Summoned: Banish (face-down) all cards in the GYs.
   de:
   es:
   fr:
@@ -39,8 +39,8 @@ pendulum_effect:
   en: |-
     You can activate 1 of these effects;
     ● Destroy this card, and if you do, Special Summon 1 "Power Patron" monster from your hand or GY.
-    ● Destroy this card, also this turn, "Power Patron" monsters you control whose original Level is 12 will gain 5000 ATK.
-    You can only use this effect of "Vidrium the Power Patron of Chaos Extermination" once per turn.
+    ● Destroy this card, also for the rest of this turn, "Power Patron" monsters you control whose original Level is 12 gain 5000 ATK.
+    You can only use this effect of "Vidolium the Unstable Power Patron of Unity" once per turn.
   de:
   es:
   fr:
@@ -57,8 +57,32 @@ series:
 - Power Patron
 images:
 - index: 1
-  image: VidriumthePowerPatronofChaosExtermination-BLZD-JP-UR.png
+  image: VidoliumtheUnstablePowerPatronofUnity-BLZD-JP-UR.png
 sets:
+  en:
+  - set_number: BLZD-EN010
+    set_name: Blazing Dominion
+    rarities:
+  de:
+  - set_number: BLZD-DE010
+    set_name: Blazing Dominion
+    rarities:
+  es:
+  - set_number: BLZD-SP010
+    set_name: Blazing Dominion
+    rarities:
+  fr:
+  - set_number: BLZD-FR010
+    set_name: Blazing Dominion
+    rarities:
+  it:
+  - set_number: BLZD-IT010
+    set_name: Blazing Dominion
+    rarities:
+  pt:
+  - set_number: BLZD-PT010
+    set_name: Blazing Dominion
+    rarities:
   ja:
   - set_number: BLZD-JP010
     set_name: Blazing Dominion
@@ -80,9 +104,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1167763

@@ -1,7 +1,7 @@
 konami_id: 22522
 password: 10266279
 name:
-  en: Power Patron Shadow Spirit Junordo
+  en: Junoldo the Shadespirit Power Patron
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as an "Elfnote" card.)
-    You can banish (face-down) the top 3 cards of your Deck; destroy this card, and if you do, Special Summon 1 "Junora the Power Patron of Tuning" from your Extra Deck (this is treated as a Synchro Summon). If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" or "Elfnote" card from your face-up Extra Deck or GY to your hand, except "Power Patron Shadow Spirit Junordo". You can only use each effect of "Power Patron Shadow Spirit Junordo" once per turn.
+    You can banish the top 3 cards of your Deck, face-down; destroy this card, and if you do, Special Summon 1 "Junora the Power Patron of Tuning" from your Extra Deck (this is treated as a Synchro Summon). If this card is added to your Extra Deck face-up: You can add 1 "Power Patron" or "Elfnote" card from your face-up Extra Deck or GY to your hand, except "Junoldo the Shadespirit Power Patron". You can only use each effect of "Junoldo the Shadespirit Power Patron" once per turn.
   de:
   es:
   fr:
@@ -38,7 +38,7 @@ def: 200
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    If a "Power Patron" and/or "Elfnote" monster(s) is Special Summoned to your field while this card is in the Pendulum Zone: You can destroy this card, and if you do, draw 2 cards, then discard 1 card. You can only use this effect of "Power Patron Shadow Spirit Junordo" once per turn.
+    If a "Power Patron" or "Elfnote" monster(s) is Special Summoned to your field, while this card is in your Pendulum Zone (except during the Damage Step): You can destroy this card, and if you do, draw 2 cards, then discard 1 card. You can only use this effect of "Junoldo the Shadespirit Power Patron" once per turn.
   de:
   es:
   fr:
@@ -56,8 +56,38 @@ series:
 - Power Patron
 images:
 - index: 1
-  image: PowerPatronShadowSpiritJunordo-BLZD-JP-R.png
+  image: JunoldotheShadespiritPowerPatron-BLZD-JP-R.png
 sets:
+  en:
+  - set_number: BLZD-EN013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLZD-DE013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLZD-SP013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLZD-FR013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLZD-IT013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLZD-PT013
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: BLZD-JP013
     set_name: Blazing Dominion
@@ -76,9 +106,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1167750
