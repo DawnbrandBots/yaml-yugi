@@ -15,9 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    Apply this effect 3 times.
-    ● Each player reveals 1 monster in their Deck, except a monster with ? ATK. Add the monster with higher ATK to the hand of the player that revealed it, also destroy the monster with lower ATK, and if you do, inflict 500 damage to the player that revealed it. If they have the same ATK, shuffle them into the Deck. Each player cannot activate the effects of monsters with the same name as the monster they revealed for the rest of this turn.
-    You can only activate 1 "Subspace Battle" per turn.
+    Apply the following effect, 3 times, in sequence.
+    ● Each player reveals 1 monster from their Deck that does not have ? ATK. Add the monster with the higher ATK to the hand of the player that revealed it, also destroy the monster with the lower ATK and inflict 500 damage to the player that revealed it. If tied, shuffle those monsters into the Decks.
+    For the rest of this turn, neither player can activate the effects of monsters with any of their revealed monsters' names. You can only activate 1 "Subspace Battle" per turn.
   de:
   es:
   fr:
@@ -34,6 +34,36 @@ images:
 - index: 1
   image: SubspaceBattle-VJMP-JP-UR.png
 sets:
+  en:
+  - set_number: BLZD-EN100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  de:
+  - set_number: BLZD-DE100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  es:
+  - set_number: BLZD-SP100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  fr:
+  - set_number: BLZD-FR100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  it:
+  - set_number: BLZD-IT100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  pt:
+  - set_number: BLZD-PT100
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ja:
   - set_number: VJMP-JP283
     set_name: V Jump March 2026 promotional card
@@ -42,7 +72,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1164121

@@ -46,7 +46,7 @@ text:
     ● Quando seu oponente ativar um efeito de monstro (Efeito Rápido): você pode desassociar 1 matéria deste card; negue a ativação e, se isso acontecer, destrua esse card e, depois, você pode Invocar por Invocação-Especial 1 Monstro Xyz do seu Cemitério.
   ja: |-
     レベル５モンスター×３
-    ①：このカードが「ダーク・リベリオン・エクシーズ・ドラゴン」をＸ素材としている場合、以下の効果を得る。●１ターンに１度、このカードのＸ素材を１つ取り除き、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力を０にし、その元々の攻撃力分このカードの攻撃力をアップする。●相手がモンスターの効果を発動した時、このカードのＸ素材を１つ取り除いて発動できる。その発動を無効にし破壊する。その後、自分の墓地のＸモンスター１体を選んで特殊召喚できる。
+    ①：このカードが「ダーク・リベリオン・エクシーズ・ドラゴン」をＸ素材としている場合、以下の効果を得る。●１ターンに１度、このカードのＸ素材を１つ取り除き、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力を０にし、その元々の攻撃力分だけこのカードの攻撃力はアップする。●相手がモンスターの効果を発動した時、このカードのＸ素材を１つ取り除いて発動できる。その発動を無効にし破壊する。その後、自分の墓地からＸモンスター１体を特殊召喚できる。
   ko: |-
     레벨 5 몬스터 × 3
     ①: 이 카드가 "다크 리벨리온 엑시즈 드래곤"을 엑시즈 소재로 하고 있을 경우, 이하의 효과를 얻는다.
@@ -55,8 +55,7 @@ text:
   zh-TW:
   zh-CN: |-
     等级5怪兽×3
-    ①：此卡持有"暗反叛超量龙"作为超量素材的情况下，获得以下效果。
-    ●1回合1次，去除此卡的1个超量素材，以对手场上的1只表侧表示怪兽为对象可以发动。将该怪兽的攻击力改成0，此卡的攻击力上升该原本攻击力的数值。●对手发动怪兽的效果时，去除此卡的1个超量素材可以发动。将该发动无效并破坏。然后，可以挑选自己墓地的1只超量怪兽特殊召唤。
+    ①：此卡持有“暗反叛超量龙”作为超量素材的情况下，获得以下效果。●1回合1次，去除此卡的1个超量素材，以对手场上的1只表侧表示怪兽为对象可以发动。将该怪兽的攻击力改成0，此卡的攻击力上升该原本攻击力的数值。●对手发动怪兽的效果时，去除此卡的1个超量素材可以发动。将该发动无效并破坏。然后，可以挑选自己墓地的1只超量怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Xyz / Effect
 attribute: DARK
@@ -183,6 +182,11 @@ sets:
     set_name: Phantom Rage +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  - set_number: CORI-JPS05
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: INOV-KR049
     set_name: 'Invasion: Vengeance'

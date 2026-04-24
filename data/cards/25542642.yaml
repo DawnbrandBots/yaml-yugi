@@ -27,7 +27,7 @@ text:
   pt: |-
     Ative este card ao escolher 1 Monstro de Efeito no campo; negue os efeitos desse monstro com a face para cima, esse monstro com a face para cima não pode atacar e, além disso, monstros não podem escolher esse monstro com a face para cima como alvo de ataques. Quando ele deixar o campo, destrua este card. Você pode banir este card do seu Cemitério e, depois, escolha 1 monstro "Os Cavaleiros Fantasmas" no seu Cemitério; Invoque-o por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar este efeito de "Cavaleiros Fantasmas - Lâmina de Névoa" uma vez por turno.
   ja: |-
-    フィールドの効果モンスター１体を対象としてこのカードを発動できる。このカード名の②の効果は１ターンに１度しか使用できない。①：対象のモンスターは攻撃できず、効果は無効化され、お互いのモンスターは対象のモンスターを攻撃対象に選択できない。そのモンスターがフィールドから離れた時にこのカードは破壊される。②：墓地のこのカードを除外し、自分の墓地の「幻影騎士団」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
+    フィールドの効果モンスター１体を対象としてこのカードを発動できる。このカード名の②の効果は１ターンに１度しか使用できない。①：対象のモンスターは攻撃できず、効果は無効化され、お互いのモンスターは対象のモンスターを攻撃対象に選択できない。対象のモンスターがフィールドから離れる時にこのカードは破壊される。②：墓地のこのカードを除外し、自分の墓地の「幻影騎士団」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターは、フィールドから離れた場合に除外される。
   ko: |-
     필드의 효과 몬스터 1장을 대상으로 하고 이 카드를 발동할 수 있다. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 대상 몬스터는 공격할 수 없으며, 효과는 무효화되고, 서로의 몬스터는 대상 몬스터를 공격 대상으로 선택할 수 없다. 그 몬스터가 필드에서 벗어났을 때에 이 카드는 파괴된다. ②: 묘지의 이 카드를 제외하고, 자신 묘지의 "팬텀 나이츠" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 필드에서 벗어났을 경우에 제외된다.
   zh-TW:
@@ -42,7 +42,7 @@ images:
   image: PhantomKnightsFogBlade-RA04-EN-PlScR-1E.png
   illustration: PhantomKnightsFogBlade-MADU-EN-VG-artwork.png
 - index: 2
-  image: PhantomKnightsFogBlade-CORI-JP-OP.png
+  image: PhantomKnightsFogBlade-CORI-JP-UR.png
 sets:
   en:
   - set_number: WIRA-EN009
@@ -220,6 +220,7 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SPWR-KR009
     set_name: 'Booster SP: Wing Raiders'

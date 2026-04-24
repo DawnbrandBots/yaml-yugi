@@ -52,7 +52,7 @@ text:
     ● 5+: Quando um ataque for declarado envolvendo este card e um monstro em Posição de Ataque: você pode causar dano ao seu oponente igual ao ATK desse monstro em Posição de Ataque.
   ja: |-
     獣族レベル２モンスター×２体以上
-    ①：自分・相手ターンに１度、発動できる。自分の手札・フィールドから獣族モンスター１体を選び、このカードの下に重ねてＸ素材とする。②：このカードが持っているＸ素材の数によって、このカードは以下の効果を得る。●３つ以上：このカードは戦闘では破壊されない。●４つ以上：このカードの戦闘で発生する自分への戦闘ダメージは０になる。●５つ以上：このカードが攻撃表示モンスターと戦闘を行う攻撃宣言時に発動できる。その攻撃表示モンスターの攻撃力分のダメージを相手に与える。
+    ①：自分・相手ターンに１度、発動できる。自分の手札・フィールド（表側表示）から獣族モンスター１体をこのカードのＸ素材にする。②：このカードのＸ素材の数によって、このカードは以下の効果を得る。●３つ以上：このカードは戦闘では破壊されない。●４つ以上：このカードの戦闘で発生する自分への戦闘ダメージは０になる。●５つ以上：このカードが攻撃表示モンスターと戦闘を行う攻撃宣言時に発動できる。その攻撃表示モンスターの攻撃力分のダメージを相手に与える。
   ko: |-
     야수족 레벨 2 몬스터 × 2장 이상
     ①: 자신 / 상대 턴에 1번, 발동할 수 있다. 자신의 패 / 필드에서 야수족 몬스터 1장을 고르고, 이 카드의 아래에 겹쳐 엑시즈 소재로 한다. ②: 이 카드가 가지고 있는 엑시즈 소재의 수에 따라, 이 카드는 이하의 효과를 얻는다.
@@ -162,6 +162,11 @@ sets:
     set_name: Rise of the Duelist
     rarities:
     - Rare
+  - set_number: CORI-JPS10
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: ROTD-KR045
     set_name: Rise of the Duelist

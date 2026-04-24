@@ -15,7 +15,7 @@ name:
   zh-CN: 终刻反转《A.D.R.A.S.T.E.I.A.》
 text:
   en: |-
-    The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of "DoomZ Command "A.D.R.A.S.T.E.I.A."" once per turn. During your Main Phase: You can destroy the equipped monster, and if you do, Special Summon 1 other "DoomZ" monster from your hand, GY, or banishment in Defense Position. If this card is in your GY: You can target 1 face-up monster you control; equip this card to it, then take damage equal to its Level/Rank x 100.
+    The first time the equipped monster would be destroyed by battle each turn, it is not destroyed. You can only use each of the following effects of "DoomZ Command "A.D.R.A.S.T.E.I.A."" once per turn. During your Main Phase: You can destroy the equipped monster, and if you do, Special Summon 1 "DoomZ" monster in Defense Position, except the destroyed monster, from your hand, GY, or banishment. If this card is in your GY: You can target 1 face-up monster you control; equip it with this card, then take damage equal to the equipped monster's Level/Rank x 100.
   de:
   es:
   fr:
@@ -36,6 +36,36 @@ images:
 - index: 1
   image: DoomZCommandADRASTEIA-BLZD-JP-C.png
 sets:
+  en:
+  - set_number: BLZD-EN058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  de:
+  - set_number: BLZD-DE058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  es:
+  - set_number: BLZD-SP058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  fr:
+  - set_number: BLZD-FR058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  it:
+  - set_number: BLZD-IT058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+  pt:
+  - set_number: BLZD-PT058
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ja:
   - set_number: BLZD-JP058
     set_name: Blazing Dominion
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1167790
