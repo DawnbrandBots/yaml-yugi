@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 몬스터 존에 존재하는 한, 서로 메인 페이즈 1 동안은 마법 카드를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，双方在主要阶段1内不能把魔法卡发动。
+    ①：只要此卡存在于怪兽区域，在自己・对手的主要阶段1期间，双方不可发动魔法卡。
 card_type: Monster
 monster_type_line: Thunder / Effect
 attribute: LIGHT
@@ -135,6 +135,10 @@ sets:
     set_name: Secrets of Eternity
     rarities:
     - Common
+  zh-CN:
+  - set_number: CORI-SC088
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

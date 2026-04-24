@@ -32,7 +32,7 @@ text:
     이 카드의 효과를 발동하는 턴에, 자신은 배틀 페이즈를 실행할 수 없다. ①: 이 카드가 묘지에서의 특수 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 앞면 표시 몬스터를 전부 파괴한다.
   zh-TW:
   zh-CN: |-
-    这张卡的效果发动的回合，自己不能进行战斗阶段。①：这张卡从墓地的特殊召唤成功的场合才能发动。对方场上的表侧表示怪兽全部破坏。
+    发动此卡效果的回合中，自己无法进行战斗阶段。①：此卡从墓地特殊召唤的情况下可以发动。将对手场上的表侧表示怪兽全部破坏。
 card_type: Monster
 monster_type_line: Thunder / Effect
 attribute: LIGHT
@@ -112,6 +112,10 @@ sets:
     set_name: Secrets of Eternity
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CORI-SC086
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

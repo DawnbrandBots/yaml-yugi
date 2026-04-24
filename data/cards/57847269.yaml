@@ -15,7 +15,7 @@ name:
   zh-CN: 小丑戏帮《开演》
 text:
   en: |-
-    During your Main Phase: You can Special Summon 1 "Clown Crew" monster from your Deck or Extra Deck, ignoring its Summoning conditions, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. During the End Phase: You can draw cards equal to the number of monster card types (Ritual, Fusion, Synchro, Xyz, Pendulum, Link) Tributed this turn, then you can Set 1 Spell/Trap from your hand. You can only use each effect of "Clown Crew Matinee Operatics" once per turn.
+    During your Main Phase: You can Special Summon 1 "Clown Crew" monster from your Deck or Extra Deck, ignoring its Summoning conditions, also until the end of the next turn after this effect resolves, you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck. During the End Phase: You can draw cards equal to the number of different card types of monsters Tributed this turn (Ritual, Fusion, Synchro, Xyz, Pendulum, Link), then you can Set 1 Spell/Trap from your hand. You can only use each effect of "Clown Crew Matinee Operatics" once per turn.
   de:
   es:
   fr:
@@ -36,6 +36,30 @@ images:
 - index: 1
   image: ClownCrewMatineeOperatics-BLZD-JP-C.png
 sets:
+  en:
+  - set_number: BLZD-EN060
+    set_name: Blazing Dominion
+    rarities:
+  de:
+  - set_number: BLZD-DE060
+    set_name: Blazing Dominion
+    rarities:
+  es:
+  - set_number: BLZD-SP060
+    set_name: Blazing Dominion
+    rarities:
+  fr:
+  - set_number: BLZD-FR060
+    set_name: Blazing Dominion
+    rarities:
+  it:
+  - set_number: BLZD-IT060
+    set_name: Blazing Dominion
+    rarities:
+  pt:
+  - set_number: BLZD-PT060
+    set_name: Blazing Dominion
+    rarities:
   ja:
   - set_number: BLZD-JP060
     set_name: Blazing Dominion
@@ -54,7 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1168167
