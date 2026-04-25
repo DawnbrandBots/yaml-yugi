@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
+// SPDX-FileCopyrightText: © 2022–2026 Kevin Lu
 // SPDX-Licence-Identifier: AGPL-3.0-or-later
 import { setTimeout as sleep } from "timers/promises";
 import fs from "fs";
@@ -89,43 +89,41 @@ async function retry<T>(fn: () => T | PromiseLike<T>, times = 4, max = times): P
 
 const opensearch = new Client({ node: process.env.OPENSEARCH_URL });
 
-(async () => {
-	// Allow ? ATK/DEF to be stored
-	await opensearch.indices.putMapping({
-		index,
-		body: {
-			properties: {
-				atk: {
-					type: "long",
-					ignore_malformed: true
-				},
-				def: {
-					type: "long",
-					ignore_malformed: true
-				}
+// Allow ? ATK/DEF to be stored
+await opensearch.indices.putMapping({
+	index,
+	body: {
+		properties: {
+			atk: {
+				type: "long",
+				ignore_malformed: true
+			},
+			def: {
+				type: "long",
+				ignore_malformed: true
 			}
-		}
-	});
-	for (let i = 0; i < cards.length; i += 500) {
-		console.log(i);
-		const partition = cards.slice(i, i + 500);
-		const response = await retry(() =>
-			opensearch.bulk({
-				index,
-				body: partition.flatMap(card => [{ index: { _id: card.yugipedia_page_id } }, card])
-			})
-		);
-		if (response.body.errors) {
-			for (const item of response.body.items) {
-				if (item.update.status !== 200) {
-					console.log(item.update);
-				}
-			}
-		}
-		console.log(`Took: ${response.body.took}`);
-		if (i + 500 < cards.length) {
-			console.log("Done, waiting for 20000 ms...");
-			await sleep(20000);
 		}
 	}
-})();
+});
+for (let i = 0; i < cards.length; i += 500) {
+	console.log(i);
+	const partition = cards.slice(i, i + 500);
+	const response = await retry(() =>
+		opensearch.bulk({
+			index,
+			body: partition.flatMap(card => [{ index: { _id: card.yugipedia_page_id } }, card])
+		})
+	);
+	if (response.body.errors) {
+		for (const item of response.body.items) {
+			if (item.update.status !== 200) {
+				console.log(item.update);
+			}
+		}
+	}
+	console.log(`Took: ${response.body.took}`);
+	if (i + 500 < cards.length) {
+		console.log("Done, waiting for 20000 ms...");
+		await sleep(20000);
+	}
+}
