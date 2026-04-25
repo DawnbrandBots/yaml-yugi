@@ -5,16 +5,17 @@
   "author": "Kevin Lu",
   "license": "AGPL-3.0-or-later",
   "private": true,
+  "type": "module",
   "scripts": {
-    "load": "ts-node src/load.ts",
-    "check-for-missing-fake-password": "ts-node src/assignments/check-for-missing.ts",
-    "check-for-missing-names": "ts-node src/check-for-missing-names.ts",
-    "check-for-ygoresources-discrepancies": "ts-node src/check-for-ygoresources-discrepancies.ts data/cards",
-    "format:check": "yarn prettier --check 'src/**/*.{js,ts}'",
+    "load": "node src/load.ts",
+    "check-for-missing-fake-password": "node src/assignments/check-for-missing.ts",
+    "check-for-missing-names": "node src/check-for-missing-names.ts",
+    "check-for-ygoresources-discrepancies": "node src/check-for-ygoresources-discrepancies.ts data/cards",
+    "format:check": "prettier --check 'src/**/*.{js,ts}'",
     "lint": "eslint 'src/**/*.ts'"
   },
   "engines": {
-    "node": ">=22",
+    "node": ">=24",
     "yarn": "1.22.x"
   },
   "dependencies": {
@@ -24,11 +25,11 @@
     "js-yaml": "^4.1.1"
   },
   "devDependencies": {
-    "@alphakretin/essentials": "^7.1.0",
+    "@alphakretin/essentials": "^8.0.0",
     "@types/js-yaml": "^4.0.9"
   },
   "resolutions": {
-    "@types/node": "^22.17.0"
+    "@types/node": "^24.12.2"
   },
   "eslintConfig": {
     "extends": "@alphakretin"
