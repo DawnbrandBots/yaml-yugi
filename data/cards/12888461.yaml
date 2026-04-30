@@ -12,7 +12,7 @@ name:
   ko: 아스피스쿨
   ko_rr:
   zh-TW: 阿斯比庫爾
-  zh-CN: 阿斯比库尔
+  zh-CN: 盾甲鱼群
 text:
   en: |-
     When this card is Normal Summoned: You can Special Summon 1 Level 6 or lower Fish monster from your hand in Defense Position, but banish it when it leaves the field. If this card is banished: You can Special Summon this card in Defense Position. You can only use this effect of "Aspischool" once per turn.
@@ -31,7 +31,8 @@ text:
   ko: |-
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 일반 소환했을 때에 발동할 수 있다. 패에서 레벨 6 이하의 어류족 몬스터 1장을 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는, 필드에서 벗어났을 경우에 제외된다. ②: 이 카드가 제외되었을 경우에 발동할 수 있다. 이 카드를 수비 표시로 특수 소환한다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②效果1回合仅可使用1次。①：此卡召唤时可以发动。从手牌将1只等级6以下的鱼族怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽从场上离开的情况下，将其除外。②：此卡被除外的情况下可以发动。将此卡以守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Fish / Effect
 attribute: WATER
@@ -82,6 +83,10 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Common
+  zh-CN:
+  - set_number: CORI-SC091
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
