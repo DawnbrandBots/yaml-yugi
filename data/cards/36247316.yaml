@@ -12,7 +12,7 @@ name:
   ko: 팬텀 나이츠 로스트 뱀브레이스
   ko_rr:
   zh-TW: 魅影騎士團 失落護臂甲
-  zh-CN: 魅影骑士团 失落护臂甲
+  zh-CN: 魅影骑士团失落铠
 text:
   en: |-
     Target 1 face-up monster on the field; if that target is still face-up on the field, "The Phantom Knights" monsters you control cannot be destroyed by battle, also that target loses 600 ATK, also its Level becomes 2. These effects last until the end of this turn. Then, Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 2/ATK 600/DEF 0). (This card is NOT treated as a Trap.)
@@ -129,6 +129,11 @@ sets:
   ko:
   - set_number: MACR-KR066
     set_name: Maximum Crisis
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC110
+    set_name: Chaos Origins Complement Pack
     rarities:
     - Common
 limit_regulation:
