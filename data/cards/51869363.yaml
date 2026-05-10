@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 超电导闪辉 等离子风暴
 text:
   en: |-
     Activate this effect depending on whose turn it is;
@@ -30,7 +30,10 @@ text:
     ●相手ターン：自分のフィールド・墓地・除外状態の雷族・岩石族モンスター１体を手札に加える。このターンにモンスターが戦闘・効果で破壊されている場合、手札に加えるモンスターをデッキから選ぶ事もできる。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：根据发动回合可以发动以下效果。
+    ●自己回合：从牌组挑选1只雷族・岩石族怪兽放在牌组最上面。自己场上或墓地存在雷族・岩石族怪兽中的任一的情况下，进而可将场上的1张卡破坏。
+    ●对手回合：将自己场上・墓地・除外状态的1只雷族・岩石族怪兽加入手牌。此回合有怪兽因战斗・效果被破坏的情况下，也可从牌组挑选要加入手牌的怪兽。
 card_type: Spell
 property: Quick-Play
 images:
@@ -42,6 +45,10 @@ sets:
     set_name: Chaos Origins
     rarities:
     - Rare
+  zh-CN:
+  - set_number: CORI-JP063
+    set_name: Chaos Origins
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
