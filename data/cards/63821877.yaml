@@ -45,7 +45,9 @@ text:
     ●이 엑시즈 소환에 성공했을 경우에 발동한다. 이 카드의 공격력은 1000 올린다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. 덱에서 "팬텀 나이츠" 카드 또는 "팬텀" 마법 / 함정 카드 1장을 묘지로 보낸다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合仅可各使用1次。①：以场上的此卡作为素材超量召唤的暗属性怪兽获得以下效果。●此超量召唤成功的情况下发动。此卡的攻击力上升1000。②：将墓地的此卡除外可以发动。从牌组将1张“魅影骑士团”卡或“魅影”魔法・陷阱卡送至墓地。
+    此卡名的①②效果1回合仅可各使用1次。①：以场上的此卡作为素材超量召唤的暗属性怪兽获得以下效果。
+    ●此卡超量召唤的情况下发动。此卡的攻击力上升1000。
+    ②：将墓地的此卡除外可以发动。从牌组将1张“魅影骑士团”卡或“魅影”魔法・陷阱卡送至墓地。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -191,6 +193,11 @@ sets:
     set_name: Classic Pack 01
     rarities:
     - Common
+  - set_number: CORI-SCS03
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
