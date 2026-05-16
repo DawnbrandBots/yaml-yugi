@@ -15,7 +15,7 @@ name:
   zh-CN: 王之仆从－黑魔导
 text:
   en: |-
-    This card's name becomes "Dark Magician" while on the field or in the GY. You can only use 1 of the following effects of "Dark Magician, the Pharaoh's Servant" per turn, and only once that turn. You can reveal 1 Spell in your hand; Special Summon this card from your hand, then you can Set 1 Spell/Trap that mentions "Dark Magician" from your Deck. (Quick Effect): You can discard 1 Spell; destroy all Spells/Traps your opponent controls.
+    This card's name becomes "Dark Magician" while on the field or in the GY. You can only use 1 of the following effects of "Dark Magician, the Pharaoh's Servant" per turn, and only once that turn. If this card is in your hand: You can reveal 1 Spell in your hand; Special Summon this card, then you can Set 1 Spell/Trap that mentions "Dark Magician" from your Deck. (Quick Effect): You can discard 1 Spell; destroy all Spells/Traps your opponent controls.
   de:
   es:
   fr:
@@ -40,8 +40,45 @@ images:
 - index: 1
   image: DarkMagicianthePharaohsServant-LOCH-JP-UR.png
 - index: 2
-  image: DarkMagicianthePharaohsServant-LOCH-JP-UR-EA.png
+  image: DarkMagicianthePharaohsServant-MAMO-EN-OP-UE.png
 sets:
+  en:
+  - set_number: MAMO-EN001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+    - Grand Master Rare
+  de:
+  - set_number: MAMO-DE001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  es:
+  - set_number: MAMO-SP001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  fr:
+  - set_number: MAMO-FR001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  it:
+  - set_number: MAMO-IT001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  pt:
+  - set_number: MAMO-PT001
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
   ja:
   - set_number: LOCH-JP001
     set_name: 'Limit Over Collection: The Heroes'
@@ -69,9 +106,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1164573

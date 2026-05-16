@@ -1,7 +1,7 @@
 konami_id: 22699
 password: 76504386
 name:
-  en: 'Number 39: Utopia the Envoy of Light'
+  en: 'Number 39: Utopia, Emissary of Light'
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 Level 4 monsters
-    Cannot be destroyed by battle, except with a "Number" monster. (Quick Effect): You can detach 1 material from this card, then target 1 monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. When the second attack of this turn is declared: You can make this card gain 2500 ATK, and if you do, it gains this effect.
+    Cannot be destroyed by battle, except with a "Number" monster. (Quick Effect): You can detach 1 material from this card, then target 1 monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. When the second attack of each turn is declared: You can make this card gain 2500 ATK, and if you do, it gains this effect.
     ● When this card destroys a monster by battle and sends it to the GY: You can Special Summon it to your field.
   de:
   es:
@@ -47,10 +47,47 @@ series:
 - Utopic
 images:
 - index: 1
-  image: Number39UtopiatheEnvoyofLight-LOCH-JP-UR.png
+  image: Number39UtopiaEmissaryofLight-LOCH-JP-UR.png
 - index: 2
-  image: Number39UtopiatheEnvoyofLight-LOCH-JP-UR-EA.png
+  image: Number39UtopiaEmissaryofLight-LOCH-JP-UR-EA.png
 sets:
+  en:
+  - set_number: MAMO-EN010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+    - Grand Master Rare
+  de:
+  - set_number: MAMO-DE010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  es:
+  - set_number: MAMO-SP010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  fr:
+  - set_number: MAMO-FR010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  it:
+  - set_number: MAMO-IT010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  pt:
+  - set_number: MAMO-PT010
+    set_name: Magnificent Monsters
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
   ja:
   - set_number: LOCH-JP010
     set_name: 'Limit Over Collection: The Heroes'
@@ -78,9 +115,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1164629
