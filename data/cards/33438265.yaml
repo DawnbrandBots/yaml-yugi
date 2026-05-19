@@ -12,7 +12,7 @@ name:
   ko: R.B.GA10 커터
   ko_rr:
   zh-TW: R.B.GA10 切割機
-  zh-CN: R.B.GA10 切割机
+  zh-CN: R.B.钢天切割机
 text:
   en: |-
     If you control no face-up monsters, or the only face-up monsters you control are "R.B." monsters, you can Special Summon this card (from your hand). You can only Special Summon "R.B. Ga10 Cutter" once per turn this way. When your opponent's Spell/Trap Card or effect is activated, and this card is linked to an "R.B." Link Monster (Quick Effect): You can pay 700 LP; destroy this card, and if you do, negate that effect, and if you do that, destroy that card. You can only use this effect of "R.B. Ga10 Cutter" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：自己场上的表侧表示怪兽，不存在的情况下或均为“R.B.”怪兽的情况下，此卡可从手牌特殊召唤。②：此卡和“R.B.”连接怪兽为连接状态的情况下，对手发动魔法・陷阱卡的效果时，支付700LP可以发动。将此卡破坏，将该发动的效果无效并破坏。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -72,8 +73,16 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP7-JP013
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC013
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132076
 master_duel_rarity: R

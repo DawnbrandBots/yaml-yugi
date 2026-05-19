@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张，此卡名的②效果1回合仅可使用1次。①：此卡发动时，可将自己墓地1只等级3以上的“R.B.”怪兽作为对象。该情况下，将该怪兽特殊召唤。②：以自己场上任意数量的“R.B.”怪兽为对象可以发动。依该怪兽的原本攻击力的合计数值恢复自己的LP，将该怪兽放回手牌・额外牌组。然后，可从手牌将1只“R.B.”怪兽特殊召唤。
 card_type: Spell
 property: Continuous
 series:
@@ -68,8 +69,16 @@ sets:
     set_name: Doom of Dimensions
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP7-JP023
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC023
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1145490
 master_duel_rarity: N

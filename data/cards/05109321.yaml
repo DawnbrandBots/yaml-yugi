@@ -12,7 +12,7 @@ name:
   ko: R.B.점프 넘버
   ko_rr:
   zh-TW: R.B.跳躍數字
-  zh-CN: R.B.跳跃数字
+  zh-CN: R.B.摇摆节奏
 text:
   en: |-
     Special Summon 1 "R.B." monster from your Deck/Extra Deck with a different name than the cards you control. If an "R.B." monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    发动此卡的回合中，自己从额外牌组仅可特殊召唤原本攻击力1500以下的机械族怪兽。①：从牌组・额外牌组将自己场上不存在同名卡的1只“R.B.”怪兽特殊召唤。②：自己场上的“R.B.”怪兽将被战斗・效果破坏的情况下，作为代替可将墓地的此卡除外。
 card_type: Spell
 property: Normal
 series:
@@ -74,8 +75,16 @@ sets:
     rarities:
     - Secret Rare
     - Starlight Rare
+  ja:
+  - set_number: WPP7-JP022
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC022
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132084
 master_duel_rarity: SR

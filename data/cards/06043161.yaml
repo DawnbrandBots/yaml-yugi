@@ -12,7 +12,7 @@ name:
   ko: R.B.GA10 드릴러
   ko_rr:
   zh-TW: R.B.GA10 鑽機
-  zh-CN: R.B.GA10 钻机
+  zh-CN: R.B.钢天钻机
 text:
   en: |-
     If you control no face-up monsters, or the only face-up monsters you control are "R.B." monsters, you can Special Summon this card (from your hand). You can only Special Summon "R.B. Ga10 Driller" once per turn this way. During the Main Phase, if this card is linked to an "R.B." Link Monster (Quick Effect): You can pay 500 LP, then target 1 monster your opponent controls; destroy both that monster and this card. You can only use this effect of "R.B. Ga10 Driller" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：自己场上的表侧表示怪兽，不存在的情况下或均为“R.B.”怪兽的情况下，此卡可从手牌特殊召唤。②：在自己・对手的主要阶段，此卡和“R.B.”连接怪兽为连接状态的情况下，支付500LP，以对手场上的1只怪兽为对象可以发动。将该怪兽和此卡破坏。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -72,8 +73,16 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP7-JP012
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC012
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132075
 master_duel_rarity: R

@@ -12,7 +12,7 @@ name:
   ko: R.B.브루트 블루스
   ko_rr:
   zh-TW: R.B.布魯特・布魯斯
-  zh-CN: R.B.布鲁特・布鲁斯
+  zh-CN: R.B.野蛮蓝调
 text:
   en: |-
     2+ Machine monsters
@@ -59,7 +59,9 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    机械族怪兽2只以上
+    此卡名的②效果1回合仅可使用1次。①：只要此卡连接端存在“R.B.”怪兽，此卡获得以下效果。●此卡的攻击力上升相当于此卡连接端的“R.B.”怪兽的原本攻击力的数值。●此卡在1次战斗阶段中可攻击2次。●此卡不会因战斗・效果被破坏。②：在自己的主要阶段可以发动。从牌组将1张“R.B.”卡加入手牌。
 card_type: Monster
 monster_type_line: Machine / Link / Effect
 attribute: WIND
@@ -111,8 +113,16 @@ sets:
     rarities:
     - Ultra Rare
     - Starlight Rare
+  ja:
+  - set_number: WPP7-JP019
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC019
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132079
 master_duel_rarity: UR

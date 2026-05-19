@@ -12,7 +12,7 @@ name:
   ko: R.B.람다캐논
   ko_rr:
   zh-TW: R.B.拉姆達加農砲
-  zh-CN: R.B.拉姆达加农炮
+  zh-CN: R.B.拉姆达加农
 text:
   en: |-
     If this card is Normal or Special Summoned: You can target 1 "R.B." monster in your GY, except "R.B. Lambda Cannon"; add it to your hand. While this card is linked to an "R.B." Link Monster: You can pay 1200 LP; destroy this card, and if you do, look at your opponent's hand, then you can Special Summon 1 monster from it to their field, but negate its effects. You can only use each effect of "R.B. Lambda Cannon" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下，以“R.B.拉姆达加农”以外的、自己墓地的1只“R.B.”怪兽为对象可以发动。将该怪兽加入手牌。②：此卡和“R.B.”连接怪兽为连接状态的情况下，支付1200LP可以发动。将此卡破坏，确认对手的所有手牌。然后，可挑选其中的1只怪兽特殊召唤至对手场上。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -78,8 +79,16 @@ sets:
     rarities:
     - Ultra Rare
     - Starlight Rare
+  ja:
+  - set_number: WPP7-JP015
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC015
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1145476
 master_duel_rarity: R

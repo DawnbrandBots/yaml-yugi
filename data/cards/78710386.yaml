@@ -12,7 +12,7 @@ name:
   ko: R.B.펑크 도크
   ko_rr:
   zh-TW: R.B.芬克・道克
-  zh-CN: R.B.芬克・道克
+  zh-CN: R.B.放克出击
 text:
   en: |-
     When this card is activated: Add 1 "R.B." card from your Deck to your hand, except "R.B. Funk Dock". Each time a monster(s) your opponent controls is destroyed by battle or card effect, gain 500 LP. If a face-up "R.B." monster(s) you control leaves the field by card effect (except during the Damage Step): You can Special Summon 1 "R.B." monster from your Deck. You can only use this effect of "R.B. Funk Dock" once per turn. You can only activate 1 "R.B. Funk Dock" per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张，此卡名的③效果1回合仅可使用1次。①：作为此卡发动时的效果处理，从牌组将“R.B.放克出击”以外的1张“R.B.”卡加入手牌。②：每当对手场上的怪兽因战斗・效果被破坏，自己就恢复500LP。③：自己场上的表侧表示的“R.B.”怪兽因效果从场上离开的情况下可以发动。从牌组将1只“R.B.”怪兽特殊召唤。
 card_type: Spell
 property: Field
 series:
@@ -68,8 +69,16 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP7-JP021
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC021
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132083
 master_duel_rarity: SR

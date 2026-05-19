@@ -12,7 +12,7 @@ name:
   ko: R.B.넥스트 페이즈
   ko_rr:
   zh-TW: R.B.後續屏障
-  zh-CN: R.B.后续屏障
+  zh-CN: R.B.下一阶段
 text:
   en: |-
     When your opponent activates a monster effect, while you control an "R.B." monster: Destroy 1 monster you control, and if you do, negate the activation, and if you do that, destroy that card, then gain 2000 LP. You can only activate 1 "R.B. Next Phase" per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：自己场上存在“R.B.”怪兽，且对手发动怪兽的效果时可以发动。将自己场上的1只怪兽破坏，将该发动无效并破坏。然后，自己恢复2000LP。
 card_type: Trap
 property: Counter
 series:
@@ -68,8 +69,16 @@ sets:
     set_name: Doom of Dimensions
     rarities:
     - Common
+  ja:
+  - set_number: WPP7-JP025
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC025
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1145488
 master_duel_rarity: N

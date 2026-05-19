@@ -12,7 +12,7 @@ name:
   ko: R.B.발칸로켓
   ko_rr:
   zh-TW: R.B.火神火箭
-  zh-CN: R.B.火神火箭
+  zh-CN: R.B.沃肯火箭
 text:
   en: |-
     If you control no face-up monsters, or the only face-up monsters you control are "R.B." monsters, you can Special Summon this card (from your hand). You can only Special Summon "R.B. VALCan Rocket" once per turn this way. If this card is linked to an "R.B." Link Monster: You can pay 1000 LP, then target up to 2 cards your opponent controls; destroy them, also this card, and if you do, inflict 500 damage to your opponent for each card destroyed. You can only use this effect of "R.B. VALCan Rocket" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名以①方法的特殊召唤1回合仅可进行1次，且②效果1回合仅可使用1次。①：自己场上的表侧表示怪兽，不存在的情况下或均为“R.B.”怪兽的情况下，此卡可从手牌特殊召唤。②：此卡和“R.B.”连接怪兽为连接状态的情况下，支付1000LP，以对手场上的最多2张卡为对象可以发动。将该卡及此卡破坏，给予对手所破坏的数量×500的伤害。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: FIRE
@@ -72,8 +73,16 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Super Rare
+  ja:
+  - set_number: WPP7-JP014
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC014
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1132077
 master_duel_rarity: SR

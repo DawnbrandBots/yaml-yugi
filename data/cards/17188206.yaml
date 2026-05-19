@@ -12,7 +12,7 @@ name:
   ko: R.B.람다블레이드
   ko_rr:
   zh-TW: R.B.拉姆達鋒刃
-  zh-CN: R.B.拉姆达锋刃
+  zh-CN: R.B.拉姆达刃
 text:
   en: |-
     If this card is Normal or Special Summoned: You can send 1 "R.B." card from your Deck to the GY, except "R.B. Lambda Blade". During your opponent's Main Phase, if this card is linked to an "R.B." Link Monster (Quick Effect): You can pay 1400 LP, then target 1 monster your opponent controls; destroy this card, and if you do, take control of that monster, but destroy it during the End Phase. You can only use each effect of "R.B. Lambda Blade" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下可以发动。从牌组将“R.B.拉姆达刃”以外的1张“R.B.”卡送至墓地。②：在对手的主要阶段，此卡和“R.B.”连接怪兽为连接状态的情况下，支付1400LP，以对手场上的1只怪兽为对象可以发动。将此卡破坏，获得该怪兽的控制权。以此效果获得控制权的怪兽将在结束阶段被破坏。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -72,8 +73,16 @@ sets:
     set_name: Doom of Dimensions
     rarities:
     - Common
+  ja:
+  - set_number: WPP7-JP016
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC016
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1145478
 master_duel_rarity: SR
