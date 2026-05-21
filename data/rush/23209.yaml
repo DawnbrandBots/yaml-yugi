@@ -1,0 +1,63 @@
+konami_id: 23209
+name:
+  en: High-Speed Machine ENG
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>速<rt>そく</rt></ruby><ruby>撮<rt>さつ</rt></ruby>マシン<ruby>Ｅ<rt>イー</rt></ruby><ruby>Ｎ<rt>エヌ</rt></ruby><ruby>Ｇ<rt>ジー</rt></ruby>
+  ja_romaji: Sokusatsu Mashin Ī Enu Jī
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    Declare a card type (Monster, Spell, or Trap).
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    カードの種類（モンスター・魔法・罠）を宣言して発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Your opponent excavates the top card of their Deck and places it on top of their Deck. If it was the declared card type, you can add 1 EARTH Attribute Machine Type monster from your Graveyard to your hand. If you do, you cannot activate the effect of "High-Speed Machine ENG" this turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    相手は自身のデッキの一番上のカードをめくり、お互いに確認して元に戻す。そのカードが宣言した種類のカードだった場合、自分の墓地のモンスター（地属性／機械族）１体を選んで手札に加える事ができる。加えた場合、このターン、自分は「速撮マシンＥＮＧ」の効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Machine / Effect
+attribute: EARTH
+level: 7
+atk: 2500
+def: 1600
+series:
+- Reporter
+images:
+- index: 1
+  image: HighSpeedMachineENG-RDKP25-JP-OP.png
+sets:
+  ja:
+  - set_number: RD/KP25-JP012
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1187997
