@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 时光漩涡
 text:
   en: |-
     When your opponent activates a Normal or Quick-Play Spell Card or effect, or a monster effect, while you control a Zombie monster and "Call of the Haunted" (except during the Damage Step): Your opponent tosses a coin and their activated effect becomes the following effect.
@@ -47,7 +47,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：自己场上存在不死族怪兽及“活死人的呼唤”，且对手发动怪兽或通常・速攻魔法卡的效果时可以发动。对手掷1次硬币，根据掷出的正反，该效果变为以下效果。
+    ●正面：“对手必须将自身场上的1只怪兽除外”
+    ●反面：“自己必须将自己场上的怪兽全部除外”
 card_type: Spell
 property: Quick-Play
 series:
@@ -88,6 +91,10 @@ sets:
     - Super Rare
   ja:
   - set_number: WPP7-JP009
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC009
     set_name: World Premiere Pack 2026
     rarities:
 limit_regulation:
