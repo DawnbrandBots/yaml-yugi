@@ -1,7 +1,7 @@
 konami_id: 22205
 password: 69678646
 name:
-  en: Stellarnova Bonds
+  en: Stellarnova Binding
   de:
   es:
   fr:
@@ -15,10 +15,10 @@ name:
   zh-CN: 神星之系束
 text:
   en: |-
-    Activate 1 of these effects, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters.
+    Activate 1 of these effects, but you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters;
     ● Discard 1 card, and if you do, Special Summon 1 "tellarknight" or "Constellar" monster from your Deck with a different Type from the monsters you control.
     ● Target face-up monsters your opponent controls, up to the number of "tellarknight" and "Constellar" monsters you control; negate their effects until the end of this turn.
-    You can only activate 1 "Stellarnova Bonds" per turn.
+    You can only activate 1 "Stellarnova Binding" per turn.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: StellarnovaBonds-TW03-JP-SPR.png
+  image: StellarnovaBinding-TW03-JP-SPR.png
 sets:
+  en:
+  - set_number: BLGG-EN020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BLGG-DE020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: BLGG-SP020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BLGG-FR020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BLGG-IT020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BLGG-PT020
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Secret Rare
   ja:
   - set_number: TW03-JP044
     set_name: Terminal World 3
@@ -64,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1156575
