@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as an "Xyz" card.)
-    When this card is activated: You can Special Summon 1 "Number 39: Utopia" from your GY, and if you do, it gains ATK equal to the total ATK of all LIGHT "Utopia" and "Utopic" Xyz Monsters in your GY. When your attacking "Utopia" or "Utopic" Xyz Monster whose original Attribute is LIGHT destroys an opponent's monster by battle: You can make that monster you control lose 1000 ATK, and if you do, it can attack again in a row. You can only activate 1 "Endless Bond" per turn.
+    When this card is activated: You can Special Summon 1 "Number 39: Utopia" from your GY, and if you do, it gains ATK equal to the combined ATK of all LIGHT "Utopia" and "Utopic" Xyz Monsters in your GY. When your attacking "Utopia" or "Utopic" Xyz Monster whose original Attribute is LIGHT destroys an opponent's monster by battle: You can make your monster lose exactly 1000 ATK, and if you do, it can attack again in a row. You can only activate 1 "Endless Bond" per turn.
   de:
   es:
   fr:
@@ -37,6 +37,36 @@ images:
 - index: 1
   image: EndlessBond-26PP-JP-C.png
 sets:
+  en:
+  - set_number: BLGG-EN038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLGG-DE038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLGG-SP038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLGG-FR038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLGG-IT038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLGG-PT038
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 26PP-JP013
     set_name: Premium Pack 2026
@@ -63,7 +93,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1153323

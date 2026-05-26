@@ -1,7 +1,7 @@
 konami_id: 22503
 password: 58995660
 name:
-  en: Early Palm Gets the Win
+  en: First Striker Advantage
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN:
 text:
   en: |-
-    Once per turn, when an attack is declared involving your monster: You can roll a six-sided die and apply this effect to that monster you control based on the result until the end of this turn. If you activated this effect when an attack was declared involving 2 monsters in the same column, you choose the effect instead.
+    Once per turn, when an attack is declared involving your monster: You can roll a six-sided die and apply this effect to your monster based on the result, until the end of this turn. If both monsters were in the same column when this effect was activated, choose the effect instead of rolling.
     ● 1 or 4: The first time it would be destroyed by battle or card effect, it is not destroyed.
-    ● 2 or 5: It loses 500 ATK, also it is unaffected by activated Spell/Trap effects, except "Early Palm Gets the Win".
+    ● 2 or 5: It loses 500 ATK, also it is unaffected by activated Spell/Trap effects, except "First Striker Advantage".
     ● 3 or 6: It gains 1000 ATK, also it can make up to 2 attacks on monsters during each Battle Phase.
   de:
   es:
@@ -34,8 +34,38 @@ card_type: Spell
 property: Continuous
 images:
 - index: 1
-  image: EarlyPalmGetstheWin-26PR-JP-NPR.png
+  image: FirstStrikerAdvantage-26PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLGG-EN048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLGG-DE048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLGG-SP048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLGG-FR048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLGG-IT048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLGG-PT048
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 26PR-JP004
     set_name: Promotion Pack 2026
@@ -44,9 +74,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1157534

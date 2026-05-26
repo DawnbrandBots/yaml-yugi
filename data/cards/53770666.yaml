@@ -15,7 +15,8 @@ name:
   zh-CN: 武装转生
 text:
   en: |-
-    Special Summon "Armament Reincarnation Tokens" (Warrior/LIGHT/Level 1/ATK 500/DEF 500) up to the number of Equip Spells, and Traps with an effect that equips themselves to a monster, in your GY, then you can destroy as many cards in your Spell & Trap Zone as possible, including this card, then Set as many Equip Spells, and Traps with an effect that equips themselves to a monster, as possible from your GY. These Traps can be activated this turn. For the rest of this turn, you cannot Special Summon.
+    Special Summon "Armament Reincarnation Tokens" (Warrior/LIGHT/Level 1/ATK 500/DEF 500) up to the number of cards in your GY, that are Equip Spells OR Traps with effects that equip themselves as Equip Cards, then you can apply the following effect, also you cannot Special Summon for the rest of this turn.
+    ● Destroy as many cards in your Spell & Trap Zone as possible, including this card, then Set as many cards as possible from your GY, that are Equip Spells OR Traps with effects that equip themselves as Equip Cards. These Set Traps can be activated this turn.
   de:
   es:
   fr:
@@ -35,6 +36,36 @@ images:
 - index: 1
   image: ArmamentReincarnation-26PP-JP-C.png
 sets:
+  en:
+  - set_number: BLGG-EN027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLGG-DE027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLGG-SP027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLGG-FR027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLGG-IT027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLGG-PT027
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 26PP-JP002
     set_name: Premium Pack 2026
@@ -61,7 +92,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1159427

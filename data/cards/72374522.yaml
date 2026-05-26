@@ -1,7 +1,7 @@
 konami_id: 22316
 password: 72374522
 name:
-  en: Thorn Fangs of Violet Poison
+  en: Thorns of Violet Poison
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as a "Predap" card.)
-    Target 1 "Starving Venom Fusion Dragon" you control; it cannot attack for the rest of this turn, also destroy as many monsters your opponent controls as possible with less ATK than that monster, then you can discard your entire hand, and if you do, inflict damage to your opponent equal to the combined original ATK of those destroyed monsters.
+    Target 1 "Starving Venom Fusion Dragon" in your Monster Zone; it cannot attack this turn, also destroy as many monsters your opponent controls as possible with less ATK than that monster, then you can discard your entire hand, and if you do, inflict damage to your opponent equal to the combined original ATK of monsters destroyed by this effect.
   de:
   es:
   fr:
@@ -36,8 +36,38 @@ series:
 - Predap
 images:
 - index: 1
-  image: ThornFangsofVioletPoison-26PP-JP-C.png
+  image: ThornsofVioletPoison-26PP-JP-C.png
 sets:
+  en:
+  - set_number: BLGG-EN039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLGG-DE039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLGG-SP039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLGG-FR039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLGG-IT039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLGG-PT039
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 26PP-JP014
     set_name: Premium Pack 2026
@@ -64,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1159417

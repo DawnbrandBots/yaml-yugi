@@ -1,7 +1,7 @@
 konami_id: 22501
 password: 95506252
 name:
-  en: Black Jack the Shadow-Armored Knight
+  en: Shadowreaver Knight 21
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuners
-    Cannot be destroyed by battle. Each time a card(s) is placed in your opponent's Spell & Trap Zone: Excavate cards from the top of your Deck until you excavate a monster, equip it to this card as an Equip Spell, also place the rest on the bottom of the Deck in any order. Gains ATK/DEF equal to the total Levels of the monsters equipped to this card x 300. If the total Levels of the monsters equipped to this card is greater than 21, destroy this card.
+    Cannot be destroyed by battle. Each time a card(s) is placed in your opponent's Spell & Trap Zone: Excavate the top cards of your Deck until you excavate a monster and equip it to this card as an Equip Spell, also place the rest on the bottom of the Deck in any order. Gains ATK/DEF equal to the total Levels of the monsters equipped to it x 300. If the total Levels of monsters equipped to this card are higher than 21, destroy this card.
   de:
   es:
   fr:
@@ -37,8 +37,38 @@ def: 0
 materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
-  image: BlackJacktheShadowArmoredKnight-26PR-JP-NPR.png
+  image: ShadowreaverKnight21-26PR-JP-NPR.png
 sets:
+  en:
+  - set_number: BLGG-EN046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BLGG-DE046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BLGG-SP046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BLGG-FR046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BLGG-IT046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BLGG-PT046
+    set_name: 'Battles of Legend: Glorious Gallery'
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: 26PR-JP002
     set_name: Promotion Pack 2026
@@ -47,9 +77,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1157532
