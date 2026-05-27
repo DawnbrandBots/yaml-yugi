@@ -12,7 +12,7 @@ name:
   ko: 엑시즈 레이
   ko_rr:
   zh-TW: 超量射線
-  zh-CN: 超量射线
+  zh-CN: 超量叠光
 text:
   en: |-
     The equipped monster gains 200 ATK for each Xyz Material on the field. Once per turn: You can activate the following effect, based on the equipped monster's card type;
@@ -47,7 +47,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：装备怪兽的攻击力上升场上的超量素材数量×200的数值。②：1回合1次，根据装备怪兽的种类可以发动以下效果。
+    ●超量怪兽：去除自己场上的2个超量素材可以发动。从牌组将1张“超量”魔法・陷阱卡放置在自己场上。
+    ●超量怪兽以外：从手牌将1只等级与装备怪兽的等级相同的怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Spell
 property: Equip
 series:
@@ -88,6 +91,10 @@ sets:
     - Common
   ja:
   - set_number: WPP7-JP070
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC090
     set_name: World Premiere Pack 2026
     rarities:
 limit_regulation:

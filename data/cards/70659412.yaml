@@ -12,7 +12,7 @@ name:
   ko: 사이코 옴니버스터
   ko_rr:
   zh-TW: 念力全能破壞者
-  zh-CN: 念力全能破坏者
+  zh-CN: 精神全能粉碎者
 text:
   en: |-
     1 Tuner + 1+ non-Tuner Psychic monsters
@@ -47,7 +47,9 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    协调＋协调以外的念动力族怪兽1只以上
+    ①：每当对手在场上发动卡的效果，支付2000LP，宣言1个卡的种类（怪兽・魔法・陷阱）可以发动（此回合，不可为发动此卡名的此效果而宣言相同的卡的种类）。随机确认对手的1张手牌。其为所宣言的种类的情况下，适用以下效果。●此回合，此卡不会因所宣言的种类的效果被破坏。●将所确认的卡直至结束阶段为止以表侧除外。
 card_type: Monster
 monster_type_line: Psychic / Synchro / Effect
 attribute: WIND
@@ -91,6 +93,10 @@ sets:
     - Common
   ja:
   - set_number: WPP7-JP059
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC080
     set_name: World Premiere Pack 2026
     rarities:
 limit_regulation:
