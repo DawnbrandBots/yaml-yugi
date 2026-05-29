@@ -27,12 +27,12 @@ text:
   pt: |-
     Adicione 1 card "Desacorrentado(a)" do seu Deck à sua mão. Se este card Baixado for destruído por um efeito de card: você pode Invocar por Invocação-Especial 1 monstro "Desacorrentado(a)" do seu Deck. Você só pode usar cada efeito de "Prisão da Abominação" uma vez por turno.
   ja: |-
-    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「破械」カード１枚を手札に加える。②：セットされたこのカードが効果で破壊された場合に発動できる。デッキから「破械」モンスター１体を特殊召喚する。
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：デッキから「破械」カード１枚を手札に加える。②：セットされているこのカードが効果で破壊された場合に発動できる。デッキから「破械」モンスター１体を特殊召喚する。
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 덱에서 "언체인드" 카드 1장을 패에 넣는다. ②: 세트된 이 카드가 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 "언체인드" 몬스터 1장을 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合仅可各使用1次。①：从牌组将1张"破械"卡加入手牌。②：被放置的此卡因效果被破坏的情况下可以发动。从牌组将1只"破械"怪兽特殊召唤。
+    此卡名的①②效果1回合仅可各使用1次。①：从牌组将1张“破械”卡加入手牌。②：被放置的此卡因效果被破坏的情况下可以发动。从牌组将1只“破械”怪兽特殊召唤。
 card_type: Spell
 property: Normal
 images:
@@ -158,6 +158,11 @@ sets:
     set_name: Chaos Impact
     rarities:
     - Rare
+  - set_number: RV01-JP065
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: CHIM-KR054
     set_name: Chaos Impact

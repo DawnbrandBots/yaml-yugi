@@ -27,7 +27,7 @@ text:
   pt: |-
     Quando seu oponente Invocar um ou mais monstros enquanto você controlar um monstro Toon: embaralhe esse(s) monstro(s) no Deck.
   ja: |-
-    ①：自分フィールドにトゥーンモンスターが存在し、相手がモンスターを召喚・反転召喚・特殊召喚した時に発動できる。そのモンスターを持ち主のデッキに戻す。
+    ①：自分フィールドにトゥーンモンスターが存在し、相手がモンスターを召喚・反転召喚・特殊召喚した時に発動できる。その召喚・反転召喚・特殊召喚されたモンスターをデッキに戻す。
   ko: |-
     ①: 자신 필드에 툰 몬스터가 존재하고, 상대가 몬스터를 일반 소환 / 반전 소환 / 특수 소환했을 때에 발동할 수 있다. 그 몬스터를 주인의 덱으로 되돌린다.
   zh-TW:
@@ -100,6 +100,11 @@ sets:
     set_name: 'Collectors Pack: Duelist of Destiny Version'
     rarities:
     - Common
+  - set_number: RV01-JP021
+    set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: CPD1-KR029
     set_name: 'Collectors Pack: Duelist of Destiny Version'
