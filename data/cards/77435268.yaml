@@ -7,12 +7,12 @@ name:
   fr: Vérificateur
   it: Controllore
   pt: Verificador
-  ja:
-  ja_romaji:
+  ja: チェツカー
+  ja_romaji: Chetsukā
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 质检机
 text:
   en: |-
     Cannot be Normal Summoned if you control a monster. You can Tribute this card; Special Summon 1 Machine monster from your Deck whose ATK equals its own DEF, but return it to the hand during the End Phase. You can banish this card from your GY and discard 1 card; Special Summon 1 "Iron Rubble Token" (Machine/EARTH/Level 1/ATK 0/DEF 0), but it cannot be used as material for a Fusion, Synchro, or Link Summon. You can only use each effect of "Checkker" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    自己场上存在怪兽的情况下，此卡不可召唤。此卡名的①②效果1回合仅可各使用1次。①：解放此卡可以发动。从牌组将1只攻击力和守备力的数值相同的机械族怪兽特殊召唤。以此效果特殊召唤的怪兽将在结束阶段放回手牌。②：将墓地的此卡除外，舍弃1张手牌可以发动。将1只“铁渣衍生物”（机械族・地・星1・攻/守0）特殊召唤至自己场上。此衍生物不可作为融合・同步・连接召唤的素材。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -70,7 +71,15 @@ sets:
     set_name: Blazing Dominion
     rarities:
     - Common
+  ja:
+  - set_number: WPP7-JP050
+    set_name: World Premiere Pack 2026
+    rarities:
+  zh-CN:
+  - set_number: WPS3-SC073
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1189011

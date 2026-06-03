@@ -7,12 +7,12 @@ name:
   fr: Mammouth Rouilletainrable
   it: Mammut Arrugginito
   pt: Mamute Ferrugem
-  ja:
-  ja_romaji:
+  ja: ラスティン・マンモス
+  ja_romaji: Rasutin Manmosu
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 锈铁猛犸
 text:
   en: |-
     If this card is in your hand: You can banish Machine Link Monsters from your Extra Deck whose combined Link Ratings equal exactly 5; Special Summon this card. You can target 1 card you control and 1 card your opponent controls; return them to the hand. This is a Quick Effect if this card is linked to a Link-3 or higher Machine Link Monster. You can only use each effect of "Rustin Mammoth" once per turn.
@@ -29,7 +29,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：此卡存在于手牌的情况下，从额外牌组将连接标记合计为5的机械族连接怪兽除外可以发动。将此卡特殊召唤。②：以自己及对手场上的各1张卡为对象可以发动（此卡和连接3以上的机械族连接怪兽为连接状态的情况下，此效果在对手回合也可以发动）。将该卡放回手牌。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: EARTH
@@ -70,7 +71,16 @@ sets:
     set_name: Blazing Dominion
     rarities:
     - Common
+  ja:
+  - set_number: WPP7-JP051
+    set_name: World Premiere Pack 2026
+    rarities:
+    - Rare
+  zh-CN:
+  - set_number: WPS3-SC074
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1189014
