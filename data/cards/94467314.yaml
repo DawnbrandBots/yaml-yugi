@@ -7,8 +7,8 @@ name:
   fr: Pluie de Grenouilles
   it: Pioggia di Rane
   pt: Chuva de Sapos
-  ja:
-  ja_romaji:
+  ja: <ruby>悪<rt>あ</rt></ruby><ruby>鵺<rt>や</rt></ruby><ruby>死<rt>し</rt></ruby>ノ<ruby>雨<rt>あめ</rt></ruby>
+  ja_romaji: Ayashi no Ame
   ko:
   ko_rr:
   zh-TW:
@@ -32,8 +32,6 @@ text:
   zh-CN:
 card_type: Trap
 property: Normal
-series:
-- Frog
 images:
 - index: 1
   image: RainofFrogs-BPRO-EN-C-1E.png
@@ -68,7 +66,11 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Common
+  ja:
+  - set_number: WPP7-JP075
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
-  ocg:
+  ocg: Unlimited
 yugipedia_page_id: 1171180
