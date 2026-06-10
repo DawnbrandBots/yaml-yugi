@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 人造人－念力能量震慑者
 text:
   en: |-
     This card's name becomes "Jinzo" while in the field or GY. If this card is Normal or Special Summoned: You can destroy as many Traps your opponent controls as possible (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way. You can only use this effect of "Jinzo - Energy Shocker" once per turn. Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions "Dark Time Wizard".
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②效果1回合仅可使用1次。①：此卡只要存在于场上・墓地，卡名视为“人造人－念力震慑者”。②：此卡召唤・特殊召唤的情况下可以发动。将对手场上的陷阱卡全部破坏（里侧表示卡翻开确认）。然后，此卡的攻击力上升所破坏数量×300的数值。③：只要自己场上或墓地存在除此卡以外的、记载有“时间黑魔术师”卡名的怪兽，对手不可发动陷阱卡的效果。
 card_type: Monster
 monster_type_line: Machine / Effect
 attribute: DARK
@@ -43,6 +44,10 @@ sets:
     set_name: Beyond The Brave
     rarities:
     - Rare
+  zh-CN:
+  - set_number: BETB-SC003
+    set_name: Beyond The Brave
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
