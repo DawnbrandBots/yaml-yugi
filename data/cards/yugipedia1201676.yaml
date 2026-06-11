@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 亚特兰蒂斯的怪腕
 text:
   en: |-
     This card's name becomes "Umi" while in the Monster Zone. You can only use each of the following effects of "Monstrous Arms of Atlantis" once per turn. If this card is Normal or Special Summoned: You can target 1 monster in your GY that mentions "Atlantis, the Dragon City"; Special Summon it in Defense Position. When your opponent activates a monster effect (Quick Effect): You can banish this card from your field or GY and send 1 face-up "Umi" you control to the GY; negate that effect.
@@ -24,19 +24,26 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①③效果1回合仅可各使用1次。①：此卡召唤・特殊召唤的情况下，以自己墓地的1只记载有“龙都 亚特兰蒂斯”卡名的怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。②：此卡只要存在于怪兽区域，卡名视为“海”。③：对手发动怪兽的效果时，将场上・墓地的此卡除外，并将自己场上的1张表侧表示的“海”送至墓地可以发动。将该发动的效果无效。
 card_type: Monster
 monster_type_line: Sea Serpent / Effect
 attribute: WATER
 level: 4
 atk: 1500
 def: 1200
+series:
+- Atlantis, the Dragon City
 images:
 - index: 1
   image: MonstrousArmsofAtlantis-BETB-JP-OP.png
 sets:
   ja:
   - set_number: BETB-JP015
+    set_name: Beyond The Brave
+    rarities:
+  zh-CN:
+  - set_number: BETB-SC015
     set_name: Beyond The Brave
     rarities:
 limit_regulation:
