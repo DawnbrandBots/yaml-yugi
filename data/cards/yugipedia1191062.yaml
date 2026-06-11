@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 时间黑魔术师
 text:
   en: |-
     Activate 1 of these effects (but you can only use each effect of "Dark Time Wizard" once per turn);
@@ -26,7 +26,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：可从以下效果中选择1个发动（此卡名的以下效果1回合仅可各选择1次）。
+    ●从牌组将除“时间黑魔术师”以外的、1张记载有“时间黑魔术师”卡名的卡加入手牌。在此回合的结束阶段，从自己墓地将1张“时间黑魔术师”加入手牌。
+    ●掷1次硬币，猜正反。猜对的情况下，将对手场上的怪兽全部破坏，给予对手相当于其原本攻击力的合计数值的一半的伤害。猜错的情况下，将自己场上的怪兽全部破坏。
 card_type: Spell
 property: Quick-Play
 series:
@@ -41,6 +44,10 @@ sets:
     set_name: Beyond The Brave
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: BETB-SC052
+    set_name: Beyond The Brave
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released

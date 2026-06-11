@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 天使与魔鬼的骰子
 text:
   en: |-
     Roll a six-sided die twice and apply these effects for the rest of this turn.
@@ -27,7 +27,11 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：掷2次骰子，此回合中，分别适用以下效果。
+    ●记载有“时间黑魔术师”卡名的、自己场上的怪兽的攻击力・守备力上升掷出的数字合计×200的数值。
+    ●对手场上的怪兽的攻击力・守备力下降掷出的数字合计×200的数值。
+    ②：此卡存在于墓地的状态下，对手将怪兽召唤・特殊召唤的情况下，将此卡除外，以其中1只为对象可以发动。掷2次骰子，掷出的数字合计在6以上的情况下，将对象怪兽破坏。
 card_type: Spell
 property: Quick-Play
 series:
@@ -38,6 +42,10 @@ images:
 sets:
   ja:
   - set_number: BETB-JP053
+    set_name: Beyond The Brave
+    rarities:
+  zh-CN:
+  - set_number: BETB-SC053
     set_name: Beyond The Brave
     rarities:
 limit_regulation:
