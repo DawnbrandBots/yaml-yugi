@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>特務万能調味査察官<rt>スペシャル・テイスト・インスペクター</rt></ruby>
   ja_romaji: Supesharu Teisuto Insupekutā
-  ko:
+  ko: 스페셜 테이스트 인스펙터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     自分の墓地に通常モンスター（炎族）がいる場合、このカードはリリースなしで召喚できる。
-  ko:
+  ko: |-
+    자신 묘지에 일반 몬스터(화염족)가 있을 경우, 이 카드는 릴리스 없이 일반 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「万能調味査察官」になる。その後、自分の墓地の「フュージョン」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "테이스트 인스펙터"가 된다. 그 후, 자신 묘지의 "퓨전" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -63,6 +66,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP017
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP24-KR017
     set_name: Overforce of the Abyss
     rarities:
     - Common

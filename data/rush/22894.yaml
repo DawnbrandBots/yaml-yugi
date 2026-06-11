@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>砂<rt>さ</rt></ruby><ruby>塵<rt>じん</rt></ruby>の<ruby>大<rt>おお</rt></ruby><ruby>竜<rt>たつ</rt></ruby><ruby>巻<rt>まき</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 더스트 토네이도
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がドローした時、相手が魔法・罠カードをセットした時、または相手モンスターの攻撃宣言時に発動できる。
-  ko:
+  ko: |-
+    상대가 드로우했을 때, 상대가 마법 / 함정 카드를 세트했을 때, 또는 상대 몬스터의 공격 선언시에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの魔法・罠カード１枚を選んで破壊する。その後、自分の手札の魔法・罠カード１枚を選んで自分フィールドにセットできる。
-  ko:
+  ko: |-
+    상대 필드의 마법 / 함정 카드 1장을 고르고 파괴한다. 그 후, 자신 패의 마법 / 함정 카드 1장을 고르고 자신 필드에 세트할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -46,6 +48,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP064
+    set_name: Overforce of the Abyss
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP24-KR064
     set_name: Overforce of the Abyss
     rarities:
     - Ultra Rare

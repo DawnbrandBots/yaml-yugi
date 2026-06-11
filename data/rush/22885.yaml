@@ -8,7 +8,7 @@ name:
   pt:
   ja: ハングリースペシャルクーポン
   ja_romaji: Hangurī Supesharu Kūpon
-  ko:
+  ko: 헝그리 스페셜쿠폰
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     手札または墓地にあるこのカードのカード名は「ハングリークーポン」になる。
-  ko:
+  ko: |-
+    패 또는 묘지에 있는 이 카드의 카드명은 "헝그리 쿠폰"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。その後、自分フィールドの表側表示モンスター（レベル６以下／闇属性／戦士族）１体を選ぶ事ができる。選んだ場合、このターン、そのモンスターのレベルは３上がり、その攻撃は貫通する。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 한다. 그 후, 자신 필드의 앞면 표시 몬스터(레벨 6 이하 / 어둠 속성 / 전사족) 1장을 고를 수 있다. 고른 경우, 이 턴에, 그 몬스터의 레벨은 3 올라가고, 그 공격은 관통한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -61,6 +64,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP055
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP24-KR055
     set_name: Overforce of the Abyss
     rarities:
     - Common

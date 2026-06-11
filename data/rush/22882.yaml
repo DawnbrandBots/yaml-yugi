@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>悠<rt>ゆう</rt></ruby><ruby>久<rt>きゅう</rt></ruby>の<ruby>郷<rt>さと</rt></ruby>－スペクトリカ－
   ja_romaji: Yūkyū no Sato -Supekutorika-
-  ko:
+  ko: 유구의 고향－스펙트리카－
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードは、自分の墓地のモンスターが４体以下の場合に発動できる。
-  ko:
+  ko: |-
+    이 카드는, 자신 묘지의 몬스터가 4장 이하일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、お互いは「心の友だち」の効果でリチュアル召喚する場合、自身の墓地のモンスター（ギャラクシー族）を素材とする事もできる。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 양쪽 플레이어는 "엔드리스 파트너"의 효과로 리추얼 소환할 경우, 자신 묘지의 몬스터(갤럭시족)를 소재로 할 수도 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -55,6 +57,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.1
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/KP24-KR052
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

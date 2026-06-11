@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>強<rt>ごう</rt></ruby><ruby>欲<rt>よく</rt></ruby>な<ruby>瓶<rt>かめ</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 욕망의 단지
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分または相手がモンスターを召喚した時、または自分ターンに自分がドローした時に発動できる。
-  ko:
+  ko: |-
+    자신 또는 상대가 몬스터를 일반 소환했을 때, 또는 자신 턴에 자신이 드로우했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローする。
-  ko:
+  ko: |-
+    자신은 1장 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -49,6 +51,11 @@ sets:
     set_name: Saikyō Jump April 2026 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP24-KRS02
+    set_name: Overforce of the Abyss
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

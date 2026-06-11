@@ -8,7 +8,7 @@ name:
   pt:
   ja: マイクロノヴァ
   ja_romaji: Maikuronova
-  ko:
+  ko: 마이크로노바
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで８００アップする。その後、［自分の墓地のモンスターの属性の種類］×１００ダメージを相手に与える事ができる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력을 턴 종료시까지 800 올린다. 그 후, [자신 묘지의 몬스터의 속성의 종류] × 100 데미지를 상대에게 줄 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP044
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP24-KR044
     set_name: Overforce of the Abyss
     rarities:
     - Common

@@ -8,7 +8,7 @@ name:
   pt:
   ja: イシリアの<ruby>霊<rt>れい</rt></ruby><ruby>魂<rt>こん</rt></ruby>
   ja_romaji: Ishiria no Reikon
-  ko:
+  ko: 이실리아의 영혼
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手ターンに相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대 턴에 상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示の効果モンスター（レベル８以下）１体を選ぶ。このターン、相手は選んだモンスターの効果を発動できない。さらに、自分は１枚ドローできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시인 효과 몬스터(레벨 8 이하) 1장을 고른다. 이 턴에, 상대는 고른 몬스터의 효과를 발동할 수 없다. 추가로, 자신은 1장 드로우할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -55,6 +57,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.1
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/KP24-KR061
+    set_name: Overforce of the Abyss
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

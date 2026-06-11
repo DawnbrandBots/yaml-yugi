@@ -8,7 +8,7 @@ name:
   pt:
   ja: ムーンフォース・シーラ
   ja_romaji: Mūnfōsu Shīra
-  ko:
+  ko: 문포스 실러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分の墓地のモンスターが４体以下の場合に発動できる。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터가 4장 이하일 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを４枚めくり、お互いに確認する。自分はその中からモンスター（レベル２以外／地属性／ギャラクシー族）と「悠久の郷－スペクトリカ－」をそれぞれ１枚まで選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。このターン、自分はモンスター（地属性／ギャラクシー族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 4장 넘기고, 서로 확인한다. 자신은 그 중에서 몬스터(레벨 2 이외 / 땅 속성 / 갤럭시족)와 "유구의 고향－스펙트리카－"를 각각 1장까지 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다. 이 턴에, 자신은 몬스터(땅 속성 / 갤럭시족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP013
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP24-KR013
     set_name: Overforce of the Abyss
     rarities:
     - Common

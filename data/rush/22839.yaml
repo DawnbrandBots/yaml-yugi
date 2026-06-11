@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>冥<rt>めい</rt></ruby><ruby>跡<rt>せき</rt></ruby>のカーディー
   ja_romaji: Meiseki no Kādī
-  ko:
+  ko: 명적의 카디
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示の「冥跡のジュンディー」または「イシリアの依代」がいる場合、このカードは手札から自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시인 "명적의 준디" 또는 "이실리아의 의대"가 있을 경우, 이 카드는 패에서 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     次の相手ターン、相手は２回までしか攻撃宣言できない。さらに、自分の墓地のモンスター（獣戦士族）３体を選んでデッキに戻す事ができる。
-  ko:
+  ko: |-
+    다음 상대 턴에, 상대는 2회까지밖에 공격 선언할 수 없다. 추가로, 자신 묘지의 몬스터(야수전사족) 3장을 고르고 덱으로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -65,6 +68,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP009
+    set_name: Overforce of the Abyss
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP24-KR009
     set_name: Overforce of the Abyss
     rarities:
     - Super Rare

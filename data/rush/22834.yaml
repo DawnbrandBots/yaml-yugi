@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヴォイドアルヴ・マンティスター
   ja_romaji: Voidoaruvu Mantisutā
-  ko:
+  ko: 보이드알브 맨티스터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示モンスターの属性が３種類の場合、または自分の墓地に「マイクロノヴァ」がある場合に発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시 몬스터의 속성이 3종류일 경우, 또는 자신 묘지에 "마이크로노바"가 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の効果モンスター（レベル４以外／地属性・水属性・炎属性・風属性／ギャラクシー族）１体を選んで手札に加える。その後、自分の墓地の「マイクロノヴァ」１枚を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 효과 몬스터(레벨 4 이외 / 땅 속성・물 속성・화염 속성・바람 속성 / 갤럭시족) 1장을 고르고 패에 넣는다. 그 후, 자신 묘지의 "마이크로노바" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP24-JP004
+    set_name: Overforce of the Abyss
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP24-KR004
     set_name: Overforce of the Abyss
     rarities:
     - Common
