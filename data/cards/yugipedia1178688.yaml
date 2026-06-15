@@ -1,7 +1,7 @@
 konami_id:
 password:
 name:
-  en: Clown Crew Hat
+  en: Clown Crew Cappello
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of "Clown Crew Hat" once per turn);
+    Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of "Clown Crew Cappello" once per turn);
     ● Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.
     ● Special Summon 1 non-Pendulum "Clown Crew" monster from your Deck or Extra Deck, ignoring its Summoning conditions.
   de:
@@ -36,7 +36,7 @@ def: 800
 pendulum_scale: 7
 pendulum_effect:
   en: |-
-    During your Main Phase: You can send 1 "Clown Crew" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of "Clown Crew Hat" once per turn.
+    During your Main Phase: You can send 1 "Clown Crew" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of "Clown Crew Cappello" once per turn.
   de:
   es:
   fr:
@@ -50,8 +50,32 @@ series:
 - Clown Crew
 images:
 - index: 1
-  image: ClownCrewHat-YO12-JP-OP.png
+  image: ClownCrewCappello-YO12-JP-OP.png
 sets:
+  en:
+  - set_number: BETB-EN???
+    set_name: Beyond the Brave
+    rarities:
+  de:
+  - set_number: BETB-DE???
+    set_name: Beyond the Brave
+    rarities:
+  es:
+  - set_number: BETB-SP???
+    set_name: Beyond the Brave
+    rarities:
+  fr:
+  - set_number: BETB-FR???
+    set_name: Beyond the Brave
+    rarities:
+  it:
+  - set_number: BETB-IT???
+    set_name: Beyond the Brave
+    rarities:
+  pt:
+  - set_number: BETB-PT???
+    set_name: Beyond the Brave
+    rarities:
   ja:
   - set_number: YO12-JP001
     set_name: Yu-Gi-Oh! OCG Structures Volume 12 promotional card
@@ -61,8 +85,6 @@ limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
 is_translation_unofficial:
-  name:
-    en: true
   text:
     en: true
 yugipedia_page_id: 1178688
