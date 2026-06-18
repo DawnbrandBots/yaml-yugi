@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     (This card is always treated as a "Possessed" card.)
-    Banish any number of Spellcaster monsters and/or Spells from your GY; all monsters you currently control gain 200 ATK for each card banished this way, and if they do, you gain 400 LP for each card banished this way. During your Main Phase: You can banish this card from your GY; Special Summon any number of Spellcaster monsters with different Attributes from your hand. You can only use 1 "Spiritual Power Recovery Potion" effect per turn, and only once that turn.
+    Banish any number of Spellcaster monsters and/or Spells from your GY; monsters you control gain 200 ATK x the number banished, and if they do, you gain 400 LP x the number banished. During your Main Phase: You can banish this card from your GY; Special Summon any number of Spellcaster monsters with different Attributes from your hand. You can only use 1 "Spiritual Power Recovery Potion" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -36,6 +36,36 @@ images:
 - index: 1
   image: SpiritualPowerRecoveryPotion-CORI-JP-C.png
 sets:
+  en:
+  - set_number: CORI-EN060
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  de:
+  - set_number: CORI-DE060
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  es:
+  - set_number: CORI-SP060
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  fr:
+  - set_number: CORI-FR060
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  it:
+  - set_number: CORI-IT060
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  pt:
+  - set_number: CORI-PT060
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ja:
   - set_number: CORI-JP060
     set_name: Chaos Origins
@@ -49,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1180778

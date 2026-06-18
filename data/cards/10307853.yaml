@@ -1,7 +1,7 @@
 konami_id: 23029
 password: 10307853
 name:
-  en: Protective Stone Gardenscaping
+  en: Garden of Talistones
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 护石庭园
 text:
   en: |-
-    While you have 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps with different names from your Deck, your opponent randomly picks 1 for you to Set on your field, also shuffle the rest into the Deck. You can only use this effect of "Protective Stone Gardenscaping" once per turn.
+    While you control 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps from your Deck with different names, your opponent randomly picks 1 for you to Set, and shuffle the rest into the Deck. You can only use this effect of "Garden of Talistones" once per turn.
   de:
   es:
   fr:
@@ -31,8 +31,38 @@ card_type: Trap
 property: Continuous
 images:
 - index: 1
-  image: ProtectiveStoneGardenscaping-CORI-JP-NR.png
+  image: GardenofTalistones-CORI-JP-NR.png
 sets:
+  en:
+  - set_number: CORI-EN080
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  de:
+  - set_number: CORI-DE080
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  es:
+  - set_number: CORI-SP080
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  fr:
+  - set_number: CORI-FR080
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  it:
+  - set_number: CORI-IT080
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  pt:
+  - set_number: CORI-PT080
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ja:
   - set_number: CORI-JP080
     set_name: Chaos Origins
@@ -45,10 +75,5 @@ sets:
     - Normal Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
+  ocg: Not yet released
 yugipedia_page_id: 1184001

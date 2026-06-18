@@ -15,7 +15,7 @@ name:
   zh-CN: 夏
 text:
   en: |-
-    Once per turn: You can place Season Counters on this card equal to the number of your opponent's unused Main Monster Zones. Once per turn, when your monster declares an attack: You can inflict 400 damage to your opponent for each Season Counter on this card, and for each "Spring" in your GY. Once per turn, during your opponent's End Phase: You can take 1 Field Spell from your hand or Deck that you can place a Season Counter on, and place it face-up on your field (but neither player can activate its effects this turn), and if you do, place all Season Counters on this card on that card.
+    Once per turn: You can place Season Counters on this card equal to the number of your opponent's unused Main Monster Zones. Once per turn, when your monster declares an attack: You can inflict damage to your opponent equal to the total number of Season Counters on this card and "Spring" in your GY x 400. Once per turn, during your opponent's End Phase: You can take 1 Field Spell from your hand or Deck that you can place a Season Counter on, and place it face-up on your field (but neither player can activate its effects this turn), and if you do, place all Season Counters on this card on that card.
   de:
   es:
   fr:
@@ -33,6 +33,36 @@ images:
 - index: 1
   image: Summer-CORI-JP-NR.png
 sets:
+  en:
+  - set_number: CORI-EN064
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  de:
+  - set_number: CORI-DE064
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  es:
+  - set_number: CORI-SP064
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  fr:
+  - set_number: CORI-FR064
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  it:
+  - set_number: CORI-IT064
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  pt:
+  - set_number: CORI-PT064
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ja:
   - set_number: CORI-JP064
     set_name: Chaos Origins
@@ -46,9 +76,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1183251

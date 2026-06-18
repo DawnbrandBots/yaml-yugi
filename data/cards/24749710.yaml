@@ -15,7 +15,7 @@ name:
   zh-CN: 双心切换
 text:
   en: |-
-    During either player's turn: You can add 1 monster that mentions "Light and Darkness Ritual" from your Deck to your hand, then discard 1 card. You can only use this effect of "Mind Shuffle" once per turn. When your opponent activates a card or effect: You can return 1 Level 7 or higher monster you control to the hand; Special Summon 1 monster with a different name from your hand that mentions "Light and Darkness Ritual", ignoring its Summoning conditions. You cannot activate these effects of "Mind Shuffle" in the same Chain.
+    During either player's turn: You can add 1 monster that mentions "Light and Darkness Ritual" from your Deck to your hand, then discard 1 card. You can only use this effect of "Mind Shuffle" once per turn. When your opponent activates a card or effect: You can return 1 Level 7 or higher monster you control to the hand; Special Summon 1 monster that mentions "Light and Darkness Ritual" from your hand, with a different name than the returned monster, ignoring its Summoning conditions. You cannot activate these effects of "Mind Shuffle" in the same Chain.
   de:
   es:
   fr:
@@ -35,6 +35,36 @@ images:
 - index: 1
   image: MindShuffle-CORI-JP-R.png
 sets:
+  en:
+  - set_number: CORI-EN065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
+  de:
+  - set_number: CORI-DE065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
+  es:
+  - set_number: CORI-SP065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: CORI-FR065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
+  it:
+  - set_number: CORI-IT065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: CORI-PT065
+    set_name: Chaos Origins
+    rarities:
+    - Super Rare
   ja:
   - set_number: CORI-JP065
     set_name: Chaos Origins
@@ -50,7 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1175977
