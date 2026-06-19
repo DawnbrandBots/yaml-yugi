@@ -1,7 +1,7 @@
 konami_id: 23023
 password: 11642993
 name:
-  en: S-Force Sorted World
+  en: S-Force World Sorting
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 超元特防队 理序世界
 text:
   en: |-
-    If you would banish a card(s) from the hand to activate the effect of an "S-Force" monster you control, you can send 1 "S-Force" card from your Deck to the GY instead, except "S-Force Sorted World". If another card(s) is banished (except during the Damage Step): You can target 1 card in your opponent's field or GY; banish it, then you can move 1 "S-Force" monster you control to another of your Main Monster Zones. You can only use each effect of "S-Force Sorted World" once per turn.
+    If an "S-Force" monster you control would banish a card(s) from your hand to activate its effect, you can send 1 "S-Force" card from your Deck to the GY instead, except "S-Force World Sorting". If another card(s) is banished (except during the Damage Step): You can target 1 card in your opponent's field or GY; banish it, then you can move 1 "S-Force" monster you control to another of your Main Monster Zones. You can only use each effect of "S-Force World Sorting" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,38 @@ series:
 - S-Force
 images:
 - index: 1
-  image: SForceSortedWorld-CORI-JP-C.png
+  image: SForceWorldSorting-CORI-JP-C.png
 sets:
+  en:
+  - set_number: CORI-EN074
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  de:
+  - set_number: CORI-DE074
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  es:
+  - set_number: CORI-SP074
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  fr:
+  - set_number: CORI-FR074
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  it:
+  - set_number: CORI-IT074
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  pt:
+  - set_number: CORI-PT074
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ja:
   - set_number: CORI-JP074
     set_name: Chaos Origins
@@ -48,9 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1187505
