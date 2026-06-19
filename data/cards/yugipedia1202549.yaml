@@ -1,7 +1,7 @@
 konami_id:
 password:
 name:
-  en: Hubolt the Dark Directory of Death
+  en: Hublot the Dark Directory of Death
   de:
   es:
   fr:
@@ -12,10 +12,10 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 死相之冥鉴 修布罗
 text:
   en: |-
-    You can Normal Summon this card without Tributing. You can only use each of the following effects of "Hubolt the Dark Directory of Death" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except "Hubolt the Dark Directory of Death", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.
+    You can Normal Summon this card without Tributing. You can only use each of the following effects of "Hublot the Dark Directory of Death" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except "Hublot the Dark Directory of Death", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.
   de:
   es:
   fr:
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②③效果1回合仅可各使用1次。①：此卡无需解放即可召唤。②：此卡召唤・特殊召唤的情况下可以发动。从牌组将除“死相之冥鉴 修布罗”以外的、1只等级6以上的不死族怪兽送至墓地。然后，可从自己墓地将1只等级6以上的不死族怪兽加入手牌。③：此卡存在于怪兽区域的状态下，有怪兽从墓地被特殊召唤的情况下可以发动。进行1只不死族超量怪兽的超量召唤。
 card_type: Monster
 monster_type_line: Zombie / Effect
 attribute: DARK
@@ -33,10 +34,14 @@ atk: 1300
 def: 1800
 images:
 - index: 1
-  image: HubolttheDarkDirectoryofDeath-BETB-JP-OP.png
+  image: HublottheDarkDirectoryofDeath-BETB-JP-OP.png
 sets:
   ja:
-  - set_number: BETB-JP027
+  - set_number: BETB-JP030
+    set_name: Beyond the Brave
+    rarities:
+  zh-CN:
+  - set_number: BETB-SC030
     set_name: Beyond the Brave
     rarities:
 limit_regulation:
