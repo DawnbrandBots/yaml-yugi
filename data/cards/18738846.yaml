@@ -1,7 +1,7 @@
 konami_id: 22972
 password: 18738846
 name:
-  en: Astrolasma Urania
+  en: Astrazma Urania
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 牵星之雷后
 text:
   en: |-
-    You can Special Summon this card (from your hand) by returning up to 2 monsters you control to the hand. You can only Special Summon "Astrolasma Urania" once per turn this way. You can only use each of the following effects of "Astrolasma Urania" once per turn. If this card is Special Summoned: You can reveal any number of monsters with different Levels in your hand, then target that many face-up cards your opponent controls; negate their effects. If this card on the field is destroyed by card effect and sent to the GY: You can add this card to your hand.
+    You can Special Summon this card (from your hand) by returning 1 or 2 monsters you control to the hand. You can only Special Summon "Astrazma Urania" once per turn this way. You can only use each of the following effects of "Astrazma Urania" once per turn. If this card is Special Summoned: You can reveal any number of monsters in your hand with different Levels, then target that many face-up cards your opponent controls; negate their effects. If this card on the field is destroyed by card effect and sent to the GY: You can add this card to your hand.
   de:
   es:
   fr:
@@ -35,8 +35,38 @@ atk: 2400
 def: 1000
 images:
 - index: 1
-  image: AstrolasmaUrania-CORI-JP-UtR.png
+  image: AstrazmaUrania-CORI-JP-UtR.png
 sets:
+  en:
+  - set_number: CORI-EN023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: CORI-DE023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: CORI-SP023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: CORI-FR023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: CORI-IT023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: CORI-PT023
+    set_name: Chaos Origins
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: CORI-JP023
     set_name: Chaos Origins
@@ -54,9 +84,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1180900

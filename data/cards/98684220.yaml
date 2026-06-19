@@ -15,7 +15,7 @@ name:
   zh-CN: 超魔剑士 黑暗混沌
 text:
   en: |-
-    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 1 Ritual Monster (Spellcaster or Warrior) from your hand or GY into the Deck. You can only Special Summon "Black Chaos" once per turn this way. You can discard this card; place 1 Continuous Trap that mentions "Light and Darkness Ritual" from your Deck or GY, face-up on your field. Unaffected by your opponent's activated effects while you have a Ritual Spell in your GY. Once per turn: You can banish 2 cards your opponent controls.
+    Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 1 Spellcaster or Warrior Ritual Monster from your hand or GY into the Deck. You can only Special Summon "Black Chaos" once per turn this way. You can discard this card; place 1 Continuous Trap that mentions "Light and Darkness Ritual" from your Deck or GY, face-up on your field. While you have a Ritual Spell in your GY, this card is unaffected by your opponent's activated effects. Once per turn, during your Main Phase: You can banish 2 cards your opponent controls.
   de:
   es:
   fr:
@@ -40,6 +40,36 @@ images:
 - index: 1
   image: BlackChaos-CORI-JP-SR.png
 sets:
+  en:
+  - set_number: CORI-EN001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: CORI-DE001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: CORI-SP001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: CORI-FR001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: CORI-IT001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: CORI-PT001
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
   ja:
   - set_number: CORI-JP001
     set_name: Chaos Origins
@@ -57,7 +87,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1175953
