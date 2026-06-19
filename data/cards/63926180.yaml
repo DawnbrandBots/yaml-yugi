@@ -1,7 +1,7 @@
 konami_id: 23003
 password: 63926180
 name:
-  en: Spirit Sword Aiwass
+  en: Sacred Spirit Sword Aiwass
   de:
   es:
   fr:
@@ -15,11 +15,11 @@ name:
   zh-CN: 神灵剑 爱华斯
 text:
   en: |-
-    Activate 1 of these effects; you cannot declare attacks for the rest of this turn, except with Fusion Monsters.
-    ● Special Summon 1 "Aiwass the Spirit of the Law" from your Deck or GY.
-    ● Send to the GY, or banish, 1 "Aleister" monster from your Deck.
+    Activate 1 of these effects, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters;
+    ● Special Summon 1 "Aiwass, Divine Spirit of the Law" from your Deck or GY.
+    ● Take 1 "Aleister" monster from your Deck, and either send it to the GY or banish it.
     ● Look at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.
-    You can only activate 1 "Spirit Sword Aiwass" per turn.
+    You can only activate 1 "Sacred Spirit Sword Aiwass" per turn.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: SpiritSwordAiwass-CORI-JP-C.png
+  image: SacredSpiritSwordAiwass-CORI-JP-C.png
 sets:
+  en:
+  - set_number: CORI-EN054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  de:
+  - set_number: CORI-DE054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  es:
+  - set_number: CORI-SP054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  fr:
+  - set_number: CORI-FR054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  it:
+  - set_number: CORI-IT054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  pt:
+  - set_number: CORI-PT054
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ja:
   - set_number: CORI-JP054
     set_name: Chaos Origins
@@ -56,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1184465

@@ -1,7 +1,7 @@
 konami_id: 22982
 password: 33166263
 name:
-  en: Invoked Transcendence Aeon
+  en: Hyperinvoked Aeon
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2+ Fusion Monsters with different Attributes
-    If this card is Fusion Summoned: You can banish cards from the field and/or GYs, up to the number of materials used, then if you used 3 or more, you can look at your opponent's Extra Deck, and if you do, banish up to 3 cards from it. (Quick Effect): You can declare 1 Attribute; all other monsters currently on the field become that Attribute until the end of this turn. You can only use 1 "Invoked Transcendence Aeon" effect per turn, and only once that turn.
+    If this card is Fusion Summoned: You can banish cards from the field and/or GYs, up to the number of monsters used as material, then if you used 3 or more materials, you can look at your opponent's Extra Deck and banish up to 3 cards from it. (Quick Effect): You can declare 1 Attribute; all other monsters on the field become that Attribute until the end of this turn. You can only use 1 "Hyperinvoked Aeon" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -41,8 +41,38 @@ series:
 - Invoked
 images:
 - index: 1
-  image: InvokedTranscendenceAeon-CORI-JP-UtR.png
+  image: HyperinvokedAeon-CORI-JP-UtR.png
 sets:
+  en:
+  - set_number: CORI-EN033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: CORI-DE033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: CORI-SP033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: CORI-FR033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: CORI-IT033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: CORI-PT033
+    set_name: Chaos Origins
+    rarities:
+    - Secret Rare
   ja:
   - set_number: CORI-JP033
     set_name: Chaos Origins
@@ -60,9 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1184463
