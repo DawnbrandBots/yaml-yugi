@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 解层龙 斯特拉提亚
 text:
   en: |-
     2 monsters, including a Dinosaur monster
@@ -25,7 +25,9 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    包含恐龙族怪兽在内的怪兽2只
+    此卡名的②效果1回合仅可使用1次。①：此卡连接召唤的情况下可以发动。此卡的攻击力上升相当于作为其连接素材的、恐龙族怪兽的原本攻击力的合计数值的一半。②：在自己的主要阶段可以发动。将自己场上・墓地的怪兽作为融合素材除外，将1只恐龙族融合怪兽融合召唤。此效果发动后，直至回合结束时为止，自己从额外牌组仅可特殊召唤恐龙族怪兽。
 card_type: Monster
 monster_type_line: Dinosaur / Link / Effect
 attribute: FIRE
@@ -42,9 +44,13 @@ sets:
   - set_number: BETB-JP051
     set_name: Beyond the Brave
     rarities:
+  zh-CN:
+  - set_number: BETB-SC051
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
