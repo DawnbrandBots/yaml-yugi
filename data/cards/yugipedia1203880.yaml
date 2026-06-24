@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 来自冥府的使者
 text:
   en: |-
     If you take battle or effect damage: You can Special Summon this card from your hand, and if you do, gain 2000 LP, then you can apply 1 of these effects.
@@ -27,7 +27,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：自己受到战斗・效果伤害的情况下可以发动。从手牌将此卡特殊召唤，自己恢复2000LP。然后，可从以下效果中挑选1个适用。●从自己手牌・牌组・墓地将1只“来自冥府的使者”特殊召唤。●将对手场上最多2只攻击表示的怪兽破坏。②：在此卡特殊召唤的回合的结束阶段，以自己墓地的1张陷阱卡为对象可以发动。将该卡放置在自己场上。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -45,9 +46,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: UT01-SC003
+    set_name: Utility Selection
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true

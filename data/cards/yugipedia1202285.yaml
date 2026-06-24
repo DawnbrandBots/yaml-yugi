@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 神圣心护罩－心灵之力－
 text:
   en: |-
     If your opponent controls 5 or more face-up cards, this card's activation and effect cannot be negated, also you can activate this card the turn it was Set. At any of the following timings: Negate the effects of as many face-up cards your opponent controls as possible, and if you do, destroy them, also your monsters cannot attack directly until the end of the next turn after this card resolves.
@@ -27,7 +27,11 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    对手场上存在5张以上表侧表示卡的情况下，此卡的发动与效果不会被无效化，此卡在放置的回合也可以发动。①：在以下的任一时点可以发动。将对手场上的所有表侧表示卡的效果无效并破坏。此卡发动后，直至下个回合结束时为止，自己怪兽不可直接攻击。
+    ●对手场上攻击力最高的怪兽攻击宣言时
+    ●对手发动将会破坏场上的卡的怪兽效果时
+    ●对手在自己回合发动手牌・场上的怪兽效果时
 card_type: Trap
 property: Normal
 series:
@@ -41,6 +45,10 @@ sets:
     set_name: Utility Selection
     rarities:
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: UT01-SC002
+    set_name: Utility Selection
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
