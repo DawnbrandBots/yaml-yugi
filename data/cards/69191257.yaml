@@ -32,7 +32,9 @@ text:
   pt: |-
     1 Regulador + 1+ não-Reguladores
     Se este card for Invocado por Invocação-Especial: você pode enviar 1 Regulador Máquina do seu Deck para o Cemitério, ou se você controlar um monstro cujo Nível atual seja diferente do seu Nível original, em vez disso, você pode Invocá-lo por Invocação-Especial. Você só pode usar este efeito de "Dragão Mech Jade" uma vez por turno. Se este card Invocado por Invocação-Sincro for destruído por um efeito de card e enviado para o Cemitério: você pode banir qualquer número de Reguladores do seu Cemitério e, depois, escolha esse número de cards no campo; destrua-os.
-  ja:
+  ja: |-
+    チューナー＋チューナー以外のモンスター１体以上
+    このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚した場合に発動できる。デッキから機械族チューナー１体を墓地へ送る。元々のレベルと異なるレベルを持つモンスターが自分フィールドに存在する場合、墓地へ送らず特殊召喚する事もできる。②：Ｓ召喚したこのカードが効果で破壊され墓地へ送られた場合、自分の墓地からチューナーを任意の数だけ除外し、その数だけフィールドのカードを対象として発動できる。そのカードを破壊する。
   ko:
   zh-TW:
   zh-CN:
@@ -83,6 +85,7 @@ sets:
   - set_number: WPP7-JP062
     set_name: World Premiere Pack 2026
     rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
