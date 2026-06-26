@@ -26,7 +26,8 @@ text:
     Se hai una carta nella tua Zona Pendulum e questa carta è nella tua mano: puoi Evocare Specialmente questa carta. Puoi pagare 1000 LP; distruggi 1 Carta Mostro Pendulum nella tua mano o Terreno scoperto, poi puoi aggiungere 1 Mostro Pendulum dal tuo Deck al tuo Extra Deck scoperto. Puoi utilizzare ogni effetto di "Shade l'Oscuro" una sola volta per turno.
   pt: |-
     Se você tiver um card na sua Zona de Pêndulo e este card estiver na sua mão: você pode Invocar este card por Invocação-Especial. Você pode pagar 1000 PV; destrua 1 Card de Monstro Pêndulo na sua mão ou no campo com a face para cima e, depois, você pode adicionar 1 Monstro Pêndulo do seu Deck ao seu Deck Adicional com a face para cima. Você só pode usar cada efeito de "Sombra, o Obscuro" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在し、自分のＰゾーンにカードが存在する場合に発動できる。このカードを特殊召喚する。②：１０００ＬＰを払って発動できる。自分の手札・フィールド（表側表示）のＰモンスターカード１枚を破壊する。その後、デッキからＰモンスター１体をＥＸデッキに表側で加える事ができる。
   ko:
   zh-TW:
   zh-CN:
@@ -50,7 +51,8 @@ pendulum_effect:
     Non puoi Evocare Pendulum, eccetto Mostri Pendulum (questo effetto non può essere annullato). Se uno o più mostri con 1000 ATK o inferiore vengono Evocati Specialmente (eccetto durante il Damage Step): puoi far ritornare questa carta nella mano. Puoi utilizzare questo effetto di "Shade l'Oscuro" una sola volta per turno.
   pt: |-
     Você não pode Invocar por Invocação-Pêndulo, exceto Monstros Pêndulo (este efeito não pode ser negado). Se um ou mais monstros com 1000 ou menos de ATK forem Invocados por Invocação-Especial (exceto durante a Etapa de Dano): você pode devolver este card para a mão. Você só pode usar este efeito de "Sombra, o Obscuro" uma vez por turno.
-  ja:
+  ja: |-
+    このカード名の②のＰ効果は１ターンに１度しか使用できない。①：自分はＰモンスターしかＰ召喚できない。この効果は無効化されない。②：攻撃力１０００以下のモンスターが特殊召喚された場合に発動できる。このカードを手札に戻す。
   ko:
   zh-TW:
   zh-CN:
@@ -98,6 +100,8 @@ sets:
   - set_number: WPP7-JP047
     set_name: World Premiere Pack 2026
     rarities:
+    - Super Rare
+    - Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
