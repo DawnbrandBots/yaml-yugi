@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 宾果卡
 text:
   en: |-
     Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;
@@ -26,7 +26,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：挑选同一纵列全部存在卡的1只怪兽，将该纵列的卡全部破坏。然后，双方各抽1张。②：将墓地的此卡除外，可从以下效果中选择1个发动。
+    ●将自己的主要怪兽区域的5只怪兽或自己的魔法与陷阱区域的5张卡破坏。然后，自己抽2张。
+    ●将对手的主要怪兽区域的5只怪兽或对手的魔法与陷阱区域的5张卡破坏。然后，对手抽2张。
 card_type: Trap
 property: Normal
 images:
@@ -37,9 +40,13 @@ sets:
   - set_number: BETB-JP080
     set_name: Beyond the Brave
     rarities:
+  zh-CN:
+  - set_number: BETB-SC080
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
