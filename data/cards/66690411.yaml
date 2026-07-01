@@ -12,7 +12,7 @@ name:
   ko: 마인드 온 에어
   ko_rr:
   zh-TW: 精神廣播
-  zh-CN: 精神广播
+  zh-CN: 心灵窥探者
 text:
   en: |-
     Your opponent must play with their hand revealed.
@@ -32,7 +32,7 @@ text:
     이 카드가 필드 위에 앞면 표시로 존재하는 한, 상대는 패를 계속해서 공개해야 한다.
   zh-TW:
   zh-CN: |-
-    只要这张卡在场上表侧表示存在，对方必须把手卡持续公开。
+    ①：只要此卡存在于怪兽区域，对手必须持续公开手牌。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -114,10 +114,11 @@ sets:
     rarities:
     - Rare
     - Ultimate Rare
-  - set_number: HGP3-KR027
-    set_name: Expert Edition Volume 3
+  zh-CN:
+  - set_number: 26SP-SC207
+    set_name: Tournament Pack 2026 Vol.2 (Simplified Chinese)
     rarities:
-    - Rare
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

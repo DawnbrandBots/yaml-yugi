@@ -12,7 +12,7 @@ name:
   ko: 암약의 드루이드 드류스
   ko_rr:
   zh-TW: 暗躍的德魯伊 櫟木
-  zh-CN: 暗跃的德鲁伊 栎木
+  zh-CN: 暗跃的德鲁伊・德律斯
 text:
   en: |-
     When this card is Normal Summoned: You can target 1 Level 4 DARK monster in your Graveyard with 0 ATK and/or DEF, except "Secret Sect Druid Dru"; Special Summon that target in face-up Defense Position. Its effects are negated. You can only use the effect of "Secret Sect Druid Dru" once per turn.
@@ -32,7 +32,7 @@ text:
     이 카드가 일반 소환에 성공했을 때, 자신의 묘지에서 "암약의 드루이드 드류스" 이외의 공격력 또는 수비력이 0인 어둠 속성 / 레벨 4 몬스터 1장을 선택하고 앞면 수비 표시로 특수 소환할 수 있다. 이 효과로 특수 소환한 몬스터의 효과는 무효화된다. "암약의 드루이드 드류스"의 효과는 1턴에 1번밖에 사용할 수 없다.
   zh-TW:
   zh-CN: |-
-    这张卡召唤成功时，可以从自己墓地选择「暗跃的德鲁伊·橡木」以外的1只攻击力或者守备力是0的暗属性·4星怪兽表侧守备表示特殊召唤。这个效果特殊召唤的怪兽的效果无效化。「暗跃的德鲁伊·橡木」的效果1回合只能使用1次。
+    此卡名的效果1回合仅可使用1次。①：此卡召唤时，以“暗跃的德鲁伊・德律斯”以外的、自己墓地的1只攻击力或守备力为0的暗属性・等级4怪兽为对象可以发动。将该暗属性怪兽以守备表示特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Spellcaster / Effect
 attribute: DARK
@@ -107,6 +107,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 26SP-SC210
+    set_name: Tournament Pack 2026 Vol.2 (Simplified Chinese)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
