@@ -7,12 +7,12 @@ name:
   fr:
   it:
   pt:
-  ja: ダーク・アームド・ドラゴン・パニッシャー
-  ja_romaji:
+  ja: ダーク・アームド・ドラゴン・バニッシャー
+  ja_romaji: Dāku Āmudo Doragon Banisshā
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 暗黑武装龙・湮灭
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can reveal this card in your hand; Special Summon 1 Level 6 or lower DARK monster from your hand, also you cannot Special Summon for the rest of this turn, except DARK monsters. During the Main Phase (Quick Effect): You can banish up to 3 DARK monsters from your GY, then target that many cards on the field; destroy them. You can only use each effect of "Dark Armed Dragon Punisher" once per turn.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡不可通常召唤。仅可在自己墓地的暗属性怪兽为3只的情况下特殊召唤。此卡名的①②效果1回合仅可各使用1次。①：向对手出示手牌的此卡可以发动。从手牌将1只等级6以下的暗属性怪兽特殊召唤。此回合，自己仅可特殊召唤暗属性怪兽。②：在自己・对手的主要阶段，从自己墓地将最多3只暗属性怪兽除外，依其数量以场上的卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: DARK
@@ -33,6 +34,7 @@ atk: 2800
 def: 1000
 series:
 - Armed Dragon
+- Signature move
 images:
 - index: 1
   image: DarkArmedDragonPunisher-UT01-JP-OP.png
@@ -44,6 +46,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: UT01-SC004
+    set_name: Utility Selection
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
