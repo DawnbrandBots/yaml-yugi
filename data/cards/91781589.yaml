@@ -12,7 +12,7 @@ name:
   ko: 지배자의 일괄
   ko_rr:
   zh-TW: 霸者的獨攬
-  zh-CN: 霸者的独揽
+  zh-CN: 霸者的横扫
 text:
   en: |-
     During your opponent's Standby Phase: You can activate this card; there is no Battle Phase this turn.
@@ -32,7 +32,7 @@ text:
     상대 스텐바이 페이즈에 발동할 수 있다. 발동 턴, 상대는 배틀 페이즈를 실행할 수 없다.
   zh-TW:
   zh-CN: |-
-    对方准备阶段才能发动。发动回合对方不能进行战斗阶段。
+    ①：在对手的准备阶段可以发动。此回合，对手无法进行战斗阶段。
 card_type: Trap
 property: Normal
 images:
@@ -113,6 +113,11 @@ sets:
     - Common
   - set_number: HGP1-KR097
     set_name: Expert Edition Volume.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26SP-SC220
+    set_name: Tournament Pack 2026 Vol.2 (Simplified Chinese)
     rarities:
     - Common
 limit_regulation:

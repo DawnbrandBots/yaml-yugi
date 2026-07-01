@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可选择对手场上的1只效果怪兽并发动。直至回合结束时，被选择对手怪兽的效果无效。此外，透过将墓地的此卡从游戏中除外，选择对手场上的1只效果怪兽，使该效果直至回合结束时无效。此效果不可于此卡被送入墓地的回合发动，仅可于我方回合发动。
   zh-CN: |-
-    ①：以对手场上的1只效果怪兽为对象可以发动。将该对手怪兽的效果直至回合结束时为止无效。②：自己的回合中将墓地中的此卡除外，以对手场上的1只效果怪兽为对象可以发动。将该对手的效果怪兽的效果直至回合结束时为止无效。此效果在此卡被送至墓地的回合不可发动。
+    ①：以对手场上的1只效果怪兽为对象可以发动。将该对手怪兽的效果直至回合结束时为止无效。②：在自己回合，从墓地将不是在此回合被送至墓地的此卡除外，以对手场上的1只效果怪兽为对象可以发动。将该对手的效果怪兽的效果直至回合结束时为止无效。
 card_type: Trap
 property: Normal
 images:
@@ -329,6 +329,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: 26SP-SC223
+    set_name: Tournament Pack 2026 Vol.2 (Simplified Chinese)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
