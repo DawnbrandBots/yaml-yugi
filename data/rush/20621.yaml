@@ -1,6 +1,6 @@
 konami_id: 20621
 name:
-  en: Demolition Soldier Haken Haken
+  en: Destructor Soldier Haken
   de:
   es:
   fr:
@@ -14,7 +14,7 @@ name:
   zh-CN:
 requirement:
   en: |-
-    Your opponent has 1 or less cards in their hand.
+    If your opponent has 1 or less card in their hand.
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Send this card from your field to the Graveyard, and each player draws 2 cards. Until the end of this turn, you can only Normal or Special Summon Wyrm Type monsters face-up, and can only attack with 1 monster.
+    Send this card from your field to the Graveyard, both players draw 2 cards. For the rest of this turn, you cannot Normal or Special Summon non-Wyrm Type monsters in face-up position, and you can only attack with 1 monster.
   de:
   es:
   fr:
@@ -50,7 +50,7 @@ series:
 - Demolition
 images:
 - index: 1
-  image: DemolitionSoldierHakenHaken-RDKP18-JP-C.png
+  image: DestructorSoldierHaken-RDKP18-JP-C.png
 sets:
   ja:
   - set_number: RD/KP18-JP012
@@ -62,9 +62,4 @@ sets:
     set_name: Dark Matter of Phantoms
     rarities:
     - Common
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1067970

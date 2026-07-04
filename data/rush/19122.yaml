@@ -1,6 +1,6 @@
 konami_id: 19122
 name:
-  en: Demolition Charge Dragon Dangerous Blasthamut
+  en: Explosive Destructor Wyrm Dangerous Bakhamut
   de:
   es:
   fr:
@@ -28,7 +28,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Destroy 1 face-up card on your field and 1 to 2 monsters on your opponent's field. Then, inflict damage to your opponent equal to [the number of monsters on their field destroyed by this effect] x 500.
+    Destroy 1 face-up card on your field and 1 or 2 monsters on your opponent's field. Then, inflict damage to your opponent equal to [the number of monsters on their field that were destroyed by this effect] x 500.
   de:
   es:
   fr:
@@ -48,7 +48,7 @@ atk: 3000
 def: 2500
 materials:
   en: |-
-    "Destructor Wyrm Bakhamut" + "Demolition Soldier Hell Met"
+    "Destructor Wyrm Bakhamut" + "Destructor Soldier Helmet"
   de:
   es:
   fr:
@@ -64,7 +64,7 @@ series:
 - Demolition
 images:
 - index: 1
-  image: DemolitionChargeDragonDangerousBlasthamut-RDTB01-JP-SR.png
+  image: ExplosiveDestructorWyrmDangerousBakhamut-RDTB01-JP-SR.png
 sets:
   ja:
   - set_number: RD/TB01-JP038
@@ -78,9 +78,4 @@ sets:
     rarities:
     - Super Rare
     - Over Rush Rare
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 936570
