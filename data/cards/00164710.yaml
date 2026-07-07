@@ -12,7 +12,7 @@ name:
   ko: 소인의 장난
   ko_rr:
   zh-TW: 小人的惡作劇
-  zh-CN: 小人的恶作剧
+  zh-CN: 小妖的恶作剧
 text:
   en: |-
     This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the GY; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).
@@ -32,7 +32,7 @@ text:
     ①: 이 턴에, 서로 패의 몬스터 레벨을 1개 내린다. ②: 묘지의 이 카드를 제외하고 발동할 수 있다. 이 턴에, 서로 패의 몬스터 레벨을 1개 내린다.
   zh-TW:
   zh-CN: |-
-    ①：这个回合，双方手卡的怪兽的等级下降1星。②：把墓地的这张卡除外才能发动。这个回合，双方手卡的怪兽的等级下降1星。
+    ①：此回合，双方手牌的怪兽的等级下降1。②：将墓地的此卡除外可以发动。此回合，双方手牌的怪兽的等级下降1。
 card_type: Trap
 property: Normal
 series:
@@ -161,6 +161,10 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Common
+  zh-CN:
+  - set_number: WPS3-SC113
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

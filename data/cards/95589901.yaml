@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 大狼的恶作剧
 text:
   en: |-
     Apply these effects in sequence.
@@ -51,7 +51,11 @@ text:
     ②：このカードが墓地へ送られたターンの自分メインフェイズに、自分フィールドの表側表示カード１枚を対象として発動できる。そのカードを破壊し、このカードを手札に加える。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②效果1回合仅可使用1次。①：分别适用以下效果。
+    ●对手场上的所有怪兽的等级下降2。
+    ●自己场上的所有怪兽的等级上升2。
+    ②：在此卡被送至墓地的回合的自己主要阶段，以自己场上的1张表侧表示卡为对象可以发动。将该卡破坏，将此卡加入手牌。
 card_type: Spell
 property: Quick-Play
 series:
@@ -91,11 +95,15 @@ sets:
     rarities:
     - Common
   ja:
-  - set_number: WPP7-JP74
+  - set_number: WPP7-JP074
     set_name: World Premiere Pack 2026
     rarities:
     - Rare
     - Secret Rare
+  zh-CN:
+  - set_number: WPS3-SC092
+    set_name: World Premiere Pack 2026
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
