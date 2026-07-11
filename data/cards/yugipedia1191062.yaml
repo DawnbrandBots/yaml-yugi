@@ -16,8 +16,8 @@ name:
 text:
   en: |-
     Activate 1 of these effects (but you can only use each effect of "Dark Time Wizard" once per turn);
-    ● Add 1 card that mentions "Dark Time Wizard" from your Deck to your hand, except "Dark Time Wizard", also add 1 "Dark Time Wizard" from your GY to your hand during the End Phase of this turn.
-    ● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to half the total original ATK of those monsters. If you call it wrong, destroy all monsters you control.
+    ● Add 1 card that mentions "Dark Time Wizard" from your Deck to your hand, except "Dark Time Wizard", also during the End Phase of this turn, add 1 "Dark Time Wizard" from your GY to your hand.
+    ● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to half the combined original ATK of those destroyed monsters. If you call it wrong, destroy all monsters you control.
   de:
   es:
   fr:
@@ -39,14 +39,62 @@ images:
 - index: 1
   image: DarkTimeWizard-BETB-JP-OP.png
 sets:
+  en:
+  - set_number: BETB-ENSP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-EN052
+    set_name: Beyond the Brave
+    rarities:
+  de:
+  - set_number: BETB-DESP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-DE052
+    set_name: Beyond the Brave
+    rarities:
+  es:
+  - set_number: BETB-SPSP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-SP052
+    set_name: Beyond the Brave
+    rarities:
+  fr:
+  - set_number: BETB-FRSP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-FR052
+    set_name: Beyond the Brave
+    rarities:
+  it:
+  - set_number: BETB-ITSP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-IT052
+    set_name: Beyond the Brave
+    rarities:
+  pt:
+  - set_number: BETB-PTSP1
+    set_name: Beyond the Brave Premiere! promotional card
+    rarities:
+    - Secret Rare
+  - set_number: BETB-PT052
+    set_name: Beyond the Brave
+    rarities:
   ja:
   - set_number: BETB-JP052
-    set_name: Beyond The Brave
+    set_name: Beyond the Brave
     rarities:
     - Ultra Rare
   zh-CN:
   - set_number: BETB-SC052
-    set_name: Beyond The Brave
+    set_name: Beyond the Brave
     rarities:
 limit_regulation:
   tcg: Not yet released
