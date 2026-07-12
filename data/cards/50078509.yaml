@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可以选择场上的1只效果怪兽进行发动。选择的怪兽不可进行攻击，效果被无效化。当选择的怪兽被破坏时，破坏此卡。
   zh-CN: |-
-    以场上的１只效果怪兽为对象可以发动此卡。①：只要此卡存在于魔法与陷阱区域，对象的表侧表示怪兽就不可攻击，效果无效化。对象怪兽被破坏时将此卡破坏。
+    以场上的1只效果怪兽为对象可以发动此卡。①：只要此卡存在于魔法与陷阱区域，对象的表侧表示怪兽不可攻击，效果无效化。对象怪兽被破坏时此卡将被破坏。
 card_type: Trap
 property: Continuous
 images:
@@ -447,6 +447,18 @@ sets:
     - Collector's Rare
   - set_number: SD46-SC037
     set_name: 'Structure Deck: Pulse of the King'
+    rarities:
+    - Common
+  - set_number: SGD1-SCA18
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCB21
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCC19
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

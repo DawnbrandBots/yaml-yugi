@@ -32,7 +32,7 @@ text:
     ①: 패가 이 카드 1장뿐일 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 반전 소환 / 특수 소환에 성공했을 때에 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 이 효과는 자신의 패 / 필드에 다른 카드가 없을 경우에 발동과 처리를 할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：手牌仅有此1张卡的情况下，此卡可从手牌中特殊召唤。②：此卡召唤・反转召唤・特殊召唤成功时可以发动。自己从牌组抽2张。此效果在自己的手牌・场上没有其他卡的情况下才能发动和处理。
+    ①：手牌仅有此1张卡的情况下，此卡可从手牌特殊召唤。②：此卡召唤・反转召唤・特殊召唤时可以发动（此效果在自己手牌・场上不存在其他卡的情况下才能发动和处理）。自己抽2张。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -270,6 +270,10 @@ sets:
   zh-CN:
   - set_number: SD27-SC014
     set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
+  - set_number: SGD1-SCA02
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

@@ -55,7 +55,9 @@ text:
   zh-TW:
   zh-CN: |-
     等级4怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材，可从以下效果中选择1个发动。●以自己墓地的3只怪兽为对象可以发动。将该3只怪兽加入牌组洗牌。然后自己从牌组抽1张。●以自己墓地的效果怪兽以外的1只怪兽为对象可以发动。将该怪兽特殊召唤。
+    ①：1回合1次，去除此卡的1个超量素材，可从以下效果中选择1个发动。
+    ●以自己墓地的3只怪兽为对象可以发动。将该3只怪兽放回牌组。然后，自己抽1张。
+    ●以效果怪兽以外的、自己墓地的1只怪兽为对象可以发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Rock / Xyz / Effect
 attribute: WIND
@@ -267,6 +269,10 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: SGD1-SCA26
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Limited
   ocg: Unlimited

@@ -60,7 +60,7 @@ text:
   zh-CN: |-
     等级4怪兽×2
     ①：1回合1次，去除此卡的1个超量素材可以发动。根据此卡的表示形式适用以下效果。
-    ●攻击表示：此回合中，此卡攻击对手怪兽的伤害步骤期间，此卡的攻击力上升1000，该对手怪兽的攻击力下降500。
+    ●攻击表示：此回合，此卡攻击对手怪兽的伤害步骤期间，此卡的攻击力上升1000，该对手怪兽的攻击力下降500。
     ●守备表示：给予对手800伤害。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
@@ -331,6 +331,18 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: SGD1-SCA29
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCB35
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCD29
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

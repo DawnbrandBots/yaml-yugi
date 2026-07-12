@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     “－英雄”怪兽＋水属性怪兽
-    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升相当于场上“元素－英雄 绝对零度”以外的水属性怪兽数量×５００的数值。②：表侧表示的此卡从场上离开，被送至墓地的情况下或被除外的情况下发动。将对手场上的怪兽全部破坏。
+    此卡仅可以融合召唤方式特殊召唤。①：此卡的攻击力上升“元素－英雄 绝对零度”以外的、场上的水属性怪兽的数量×500的数值。②：表侧表示的此卡从场上离开，被送至墓地的情况下或被除外的情况下发动。将对手场上的怪兽全部破坏。
 card_type: Monster
 monster_type_line: Warrior / Fusion / Effect
 attribute: WATER
@@ -220,6 +220,10 @@ sets:
     rarities:
     - Super Rare
     - Quarter Century Secret Rare
+  - set_number: SGD1-SCA20
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
