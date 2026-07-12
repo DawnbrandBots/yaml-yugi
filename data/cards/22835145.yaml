@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡不可特殊召唤。此卡召唤成功时，可从我方墓地选择1只等级4或以下冠有「BF」之名的怪兽并以表侧守备表示特殊召唤。
   zh-CN: |-
-    此卡不可特殊召唤。①：此卡召唤成功时，以自己墓地的１只等级４以下的“黑羽”怪兽为对象可以发动。以守备表示形式将该怪兽特殊召唤。
+    此卡不可特殊召唤。①：此卡召唤时，以自己墓地的1只等级4以下的“黑羽”怪兽为对象可以发动。将该怪兽以守备表示特殊召唤。
 card_type: Monster
 monster_type_line: Winged Beast / Tuner / Effect
 attribute: DARK
@@ -204,6 +204,10 @@ sets:
   zh-CN:
   - set_number: CL04-SC028
     set_name: Classic Pack 04
+    rarities:
+    - Common
+  - set_number: SGD1-SCB10
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

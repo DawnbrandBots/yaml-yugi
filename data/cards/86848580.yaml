@@ -42,7 +42,8 @@ text:
     鸟兽族等级4怪兽×2
     1回合1次，可移除此卡的1个超量素材并发动。使对手场上以表侧表示存在的全部卡牌的效果无效，此卡的攻击力上升相当于除此卡以外的场上以表侧表示存在的卡牌数量×300点。此卡的效果适用到直至下一次我方的准备阶段时。
   zh-CN: |-
-    鸟兽族4星怪兽×2。1回合1次，把这张卡1个XYZ素材取除才能发动。对方场上表侧表示存在的全部卡的效果无效，这张卡的攻击力上升这张卡以外的场上表侧表示存在的卡数量×300的数值。这张卡的效果直到下次的自己的准备阶段时适用。
+    鸟兽族等级4怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材可以发动。将对手场上的所有表侧表示卡的效果无效，此卡的攻击力上升此卡以外的、场上的表侧表示卡的数量×300的数值。此效果适用至下个自己的准备阶段为止。
 card_type: Monster
 monster_type_line: Winged Beast / Xyz / Effect
 attribute: WATER
@@ -112,12 +113,21 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: SGD1-SCB33
+    set_name: Classic Times Deck
+    rarities:
+    - Common
   zh-TW:
   - set_number: LTGY-TC049
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SGD1-SCB37
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

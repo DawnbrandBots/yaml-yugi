@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     只要此卡以表侧表示存在于场上，不可作为同步素材。此卡存在于墓地的场合，可选择我方墓地的1只除协调以外的冠有「BF」之名的怪兽并发动。将墓地的此卡与被选择怪兽从游戏中除外，并从额外牌组特殊召唤持有与该2只等级合计相同等级、冠有「BF」之名的1只同步怪兽。以此效果特殊召唤的怪兽的效果被无效化。
   zh-CN: |-
-    ①：此卡只要存在于怪兽区域，不可作为同步素材。②：此卡存在于墓地的情况下，以自己墓地的协调以外的１只“黑羽”怪兽为对象可以发动。将该怪兽和此卡从墓地除外，将１只等级等于该２只等级合计的“黑羽”同步怪兽从额外牌组特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
+    ①：此卡只要存在于怪兽区域，不可作为同步素材。②：此卡存在于墓地的情况下，以协调以外的、自己墓地的1只“黑羽”怪兽为对象可以发动。从墓地将该怪兽与此卡除外，从额外牌组将1只等级与该2只等级合计相同的“黑羽”同步怪兽特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Winged Beast / Tuner / Effect
 attribute: DARK
@@ -233,6 +233,10 @@ sets:
     set_name: Classic Pack 04
     rarities:
     - Super Rare
+  - set_number: SGD1-SCB11
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

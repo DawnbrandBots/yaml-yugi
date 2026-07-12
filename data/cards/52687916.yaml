@@ -40,8 +40,8 @@ text:
     ①: 이 카드를 싱크로 소환했을 때에 발동할 수 있다. 상대의 패 / 필드 / 묘지의 카드를 각각 1장까지 제외할 수 있다(패에서는 무작위로 고른다).
   zh-TW:
   zh-CN: |-
-    协调＋协调以外的怪兽２只以上
-    ①：此卡同步召唤时可以发动。可从对手的手牌・场上・墓地将各最多１张卡除外（从手牌是随机挑选）。
+    协调＋协调以外的怪兽2只以上
+    ①：此卡同步召唤时可以发动。可将对手手牌・场上・墓地的卡最多各1张除外（从手牌是随机挑选）。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: WATER
@@ -540,6 +540,22 @@ sets:
     - Secret Rare
     - Secret Parallel Rare
     - Quarter Century Secret Rare
+  - set_number: SGD1-SCB29
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCC21
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCE22
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCF24
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

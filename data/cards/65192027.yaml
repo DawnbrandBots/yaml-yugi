@@ -34,7 +34,7 @@ text:
   zh-TW: |-
     此卡不可通常召唤。仅限我方墓地的暗属性怪兽为3只的场合可特殊召唤。于我方主要阶段时透过将我方墓地的1只暗属性怪兽从游戏中除外，选择场上的1张卡牌破坏。
   zh-CN: |-
-    此卡不可通常召唤。仅在自己墓地有3只暗属性怪兽的情况下可特殊召唤。①：从自己墓地将1只暗属性怪兽除外，可以场上的1张卡为对象发动。将该卡破坏。
+    此卡不可通常召唤。仅在自己墓地的暗属性怪兽为3只的情况下可特殊召唤。①：从自己墓地将1只暗属性怪兽除外，以场上的1张卡为对象可以发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Dragon / Effect
 attribute: DARK
@@ -423,6 +423,10 @@ sets:
   zh-CN:
   - set_number: SD37-SC014
     set_name: 'Structure Deck: Rebirth of Shaddoll'
+    rarities:
+    - Common
+  - set_number: SGD1-SCB13
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

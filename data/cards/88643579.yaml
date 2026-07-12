@@ -12,7 +12,7 @@ name:
   ko: 다크엔드 드래곤
   ko_rr:
   zh-TW: 暗黑終結龍
-  zh-CN: 暗黑终结龙
+  zh-CN: 暗黑终极龙
 text:
   en: |-
     1 Tuner + 1+ non-Tuner DARK monsters
@@ -40,8 +40,8 @@ text:
     1턴에 1번, 이 카드의 공격력/수비력을 500 포인트 내리고, 상대 필드 위에 존재하는 몬스터 1장을 묘지로 보낼 수 있다.
   zh-TW:
   zh-CN: |-
-    调整＋调整以外的暗属性怪兽1只以上
-    1回合1次，可以让这张卡的攻击力·守备力下降500，对方场上存在的1只怪兽送去墓地。
+    协调＋协调以外的暗属性怪兽1只以上
+    ①：1回合1次，以对手场上的1只怪兽为对象可以发动。此卡的攻击力・守备力下降500，将该对手怪兽送至墓地。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: DARK
@@ -145,6 +145,11 @@ sets:
     set_name: "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards"
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: SGD1-SCB30
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

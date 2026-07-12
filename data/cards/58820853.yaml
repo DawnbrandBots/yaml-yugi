@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     此卡因战斗破坏对手怪兽并将其送入墓地时，可从牌组中特殊召唤1只攻击力1500或以下的冠有「BF」之名的怪兽。以此效果特殊召唤的怪兽的效果被无效化。
   zh-CN: |-
-    ①：此卡战斗破坏对手怪兽并将其送至墓地时可以发动。从牌组将１只攻击力１５００以下的“黑羽”怪兽特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
+    ①：此卡战斗破坏对手怪兽并将其送至墓地时可以发动。从牌组将1只攻击力1500以下的“黑羽”怪兽特殊召唤。以此效果特殊召唤的怪兽的效果无效化。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: DARK
@@ -200,6 +200,10 @@ sets:
   zh-CN:
   - set_number: CL04-SC029
     set_name: Classic Pack 04
+    rarities:
+    - Common
+  - set_number: SGD1-SCB03
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

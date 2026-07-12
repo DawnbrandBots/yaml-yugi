@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上存在「BF－黑槍的布拉斯特」以外冠有「BF」之名的怪兽的场合，此卡可从手牌特殊召唤。此卡攻击守备表示怪兽时，若攻击力超过该守备力，给予对手生命相当于该数值的战斗伤害。
   zh-CN: |-
-    ①：自己场上有“黑羽－黑枪之爆流斯特”以外的“黑羽”怪兽存在的情况下，此卡可从手牌中特殊召唤。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予战斗伤害。
+    ①：自己场上存在“黑羽－黑枪之爆流斯特”以外的“黑羽”怪兽的情况下，此卡可从手牌特殊召唤。②：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: DARK
@@ -289,6 +289,10 @@ sets:
   zh-CN:
   - set_number: DP20-SC029
     set_name: 'Duelist Pack: Legend Duelist 3'
+    rarities:
+    - Common
+  - set_number: SGD1-SCB02
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

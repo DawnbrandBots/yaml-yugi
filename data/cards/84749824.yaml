@@ -37,8 +37,8 @@ text:
   zh-TW:
   zh-CN: |-
     ①：支付2000LP可以发动以下效果。
-    ●包含将怪兽特殊召唤的效果的、怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
-    ●自己或对手召唤・反转召唤・特殊召唤怪兽之际可以发动。将其无效并将该怪兽破坏。
+    ●包含将怪兽特殊召唤的效果在内的、怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效并破坏。
+    ●自己或对手召唤・反转召唤・特殊召唤怪兽之际可以发动。将其无效，将该怪兽破坏。
 card_type: Trap
 property: Counter
 series:
@@ -481,6 +481,10 @@ sets:
     - Common
   - set_number: SD27-SC040
     set_name: "Structure Deck: HERO's Strike"
+    rarities:
+    - Common
+  - set_number: SGD1-SCB22
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

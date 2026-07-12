@@ -40,8 +40,8 @@ text:
     자신의 메인 페이즈시, 자신 필드 위의 이 몬스터를, 공격력 1200 포인트 올리는 장착 카드로 취급하여 자신 필드 위의 엑시즈 몬스터에 장착할 수 있다. 또한, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 상대 묘지의 카드 1장을 선택하고 게임에서 제외한다. "No.80 광장패왕 랩소디 인 버서크"의 이 효과는 1턴에 2번까지 사용할 수 있다.
   zh-TW:
   zh-CN: |-
-    等级４怪兽×２
-    此卡名的①效果１回合最多可使用２次。①：去除此卡的１个超量素材，以对手墓地的１张卡为对象可以发动。将该卡除外。②：以自己场上的１只超量怪兽为对象可以发动。将自己场上的此卡视为攻击力上升１２００的装备卡，装备于该自己的怪兽。
+    等级4怪兽×2
+    此卡名的①效果1回合最多可使用2次。①：去除此卡的1个超量素材，以对手墓地的1张卡为对象可以发动。将该卡除外。②：以自己场上的1只超量怪兽为对象可以发动。将自己场上的此卡视为攻击力上升1200的装备魔法卡，装备于该自己的怪兽。
 card_type: Monster
 monster_type_line: Fiend / Xyz / Effect
 attribute: DARK
@@ -127,6 +127,14 @@ sets:
   zh-CN:
   - set_number: MGP6-SC188
     set_name: Mega Pack 06
+    rarities:
+    - Common
+  - set_number: SGD1-SCA32
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCD31
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     我方场上冠有「BF」之名的怪兽进行战斗的伤害步骤时，可从手牌将此卡送入墓地并发动。该怪兽的攻击力直至回合结束时上升1400点。
   zh-CN: |-
-    ①：自己的“黑羽”怪兽进行战斗的伤害步骤开始时到伤害计算前为止，从手牌将此卡送至墓地可以发动。该怪兽的攻击力直至回合结束时为止上升１４００。
+    ①：自己的“黑羽”怪兽进行战斗的伤害步骤开始时至伤害计算前为止，从手牌将此卡送至墓地可以发动。该怪兽的攻击力直至回合结束时为止上升1400。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: DARK
@@ -254,6 +254,10 @@ sets:
   zh-CN:
   - set_number: CL04-SC030
     set_name: Classic Pack 04
+    rarities:
+    - Common
+  - set_number: SGD1-SCB06
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:
