@@ -9,7 +9,7 @@ name:
   pt: Sombra do Patrono do Poder da Hora Final
   ja: <ruby>終<rt>しゅう</rt></ruby><ruby>刻<rt>こく</rt></ruby>なる<ruby>獄<rt>ごく</rt></ruby><ruby>神<rt>しん</rt></ruby><ruby>影<rt>えい</rt></ruby>
   ja_romaji: Shūkokunaru Gokushin'ei
-  ko:
+  ko: 종각한 감옥신영
   ko_rr:
   zh-TW:
   zh-CN: 终末时刻的狱神影
@@ -55,7 +55,11 @@ text:
     ●１種類以上：相手のデッキの上からカード３枚を裏側で除外する。
     ●２種類以上：相手フィールドのカード１枚を裏側で除外する。
     ●３種類：相手の手札をランダムに１枚裏側で除外する。
-  ko:
+  ko: |-
+    이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신의 패 / 엑스트라 덱(앞면) / 묘지에서 "감옥신" 몬스터 1장을 특수 소환한다. 그 후, 자신 필드의 몬스터의 종류(융합 / 싱크로 / 엑시즈)의 수에 따라, 이하의 효과를 각각 적용할 수 있다.
+    ●1종류 이상: 상대의 덱 위에서 카드 3장을 뒷면으로 제외한다.
+    ●2종류 이상: 상대 필드의 카드 1장을 뒷면으로 제외한다.
+    ●3종류: 상대의 패를 무작위로 1장 뒷면으로 제외한다.
   zh-TW:
   zh-CN: |-
     此卡名的卡1回合仅可发动1张。①：从自己手牌・额外牌组（表侧）・墓地将1只“狱神”怪兽特殊召唤。然后，根据自己场上的怪兽种类（融合・同步・超量）数量，可分别适用以下效果。
@@ -102,6 +106,11 @@ sets:
     - Common
   ja:
   - set_number: CORI-JP071
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  ko:
+  - set_number: CORI-KR071
     set_name: Chaos Origins
     rarities:
     - Common

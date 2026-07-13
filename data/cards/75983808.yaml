@@ -9,7 +9,7 @@ name:
   pt: Caixa Mágica do Caos
   ja: <ruby>混<rt>こん</rt></ruby><ruby>沌<rt>とん</rt></ruby>のマジック・ボックス
   ja_romaji: Konton no Majikku Bokkusu
-  ko:
+  ko: 혼돈의 매직 박스
   ko_rr:
   zh-TW:
   zh-CN: 混沌魔术箱
@@ -28,7 +28,8 @@ text:
     Quando seu oponente ativar um card ou efeito que escolha como alvo um ou mais outros cards que você controla: devolva 1 dos seus cards alvo para a mão (se estiver com a face para baixo, revele-o) e, se isso acontecer, destrua 1 card no campo e, depois, você pode Invocar por Invocação-Especial 1 monstro da sua mão que mencione "Ritual da Luz e das Trevas" com um nome diferente que o do card devolvido para a mão, ignorando suas condições de Invocação. Se este card em posse do seu dono for destruído por um card do oponente: você pode Invocar por Invocação-Especial 1 Monstro de Ritual que mencione "Ritual da Luz e das Trevas" da sua mão ou do Deck.
   ja: |-
     ①：自分フィールドの他のカードを対象とする効果を相手が発動した時に発動できる。その自分のカードの内１枚を手札に戻し（裏側表示カードはめくって確認する）、フィールドのカード１枚を破壊する。その後、手札に戻したカードとはカード名が異なる、「光と闇の儀式」のカード名が記されたモンスター１体を手札から召喚条件を無視して特殊召喚できる。②：このカードが相手によって破壊された場合に発動できる。手札・デッキから「光と闇の儀式」のカード名が記された儀式モンスター１体を特殊召喚する。
-  ko:
+  ko: |-
+    ①: 자신 필드의 다른 카드를 대상으로 하는 효과를 상대가 발동했을 때에 발동할 수 있다. 그 자신의 카드 중 1장을 패로 되돌리고(뒷면 표시 카드는 넘겨서 확인한다), 필드의 카드 1장을 파괴한다. 그 후, 패로 되돌린 카드와는 카드명이 다른, "빛과 어둠의 의식"의 카드명이 쓰여진 몬스터 1장을 패에서 소환 조건을 무시하고 특수 소환할 수 있다. ②: 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 패 / 덱에서 "빛과 어둠의 의식"의 카드명이 쓰여진 의식 몬스터 1장을 특수 소환한다.
   zh-TW:
   zh-CN: |-
     ①：对手发动以自己场上的其他卡为对象的效果时可以发动。将该自己的卡中的1张放回手牌（里侧表示卡则翻开确认），将场上的1张卡破坏。然后，可从手牌将1只卡名与所放回手牌的卡不同的、记载有“光与暗的仪式”卡名的怪兽无视召唤条件特殊召唤。②：此卡被对手破坏的情况下可以发动。从手牌・牌组将1只记载有“光与暗的仪式”卡名的仪式怪兽特殊召唤。
@@ -72,6 +73,11 @@ sets:
     - Common
   ja:
   - set_number: CORI-JP045
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  ko:
+  - set_number: CORI-KR045
     set_name: Chaos Origins
     rarities:
     - Common

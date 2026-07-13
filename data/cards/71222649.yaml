@@ -9,7 +9,7 @@ name:
   pt: Espectro do Crepúsculo Rayragem
   ja: <ruby>薄<rt>はく</rt></ruby><ruby>明<rt>めい</rt></ruby>の<ruby>魔<rt>ま</rt></ruby> レイラージュ
   ja_romaji: Hakumei no Ma Reirāju
-  ko:
+  ko: 박명의 마 레이라지
   ko_rr:
   zh-TW:
   zh-CN: 薄明之魔 雷拉曙
@@ -28,7 +28,8 @@ text:
     Se este card estiver na sua mão: você pode escolher 1 Monstro Pêndulo que você controla; coloque esse Monstro Pêndulo na sua Zona de Pêndulo (nenhum duelista pode ativar seus Efeitos de Pêndulo neste turno) e, se isso acontecer, Invoque este card por Invocação-Especial. (Efeito Rápido): você pode oferecer este card como Tributo e, depois, escolha 1 card na sua Zona de Pêndulo; ele não pode ser destruído pelos efeitos de card do seu oponente neste turno. Você só pode usar cada efeito de "Espectro do Crepúsculo Rayragem" uma vez por turno.
   ja: |-
     このカード名の①②のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：このカードが手札に存在する場合、自分フィールドのＰモンスター１体を対象として発動できる。そのＰモンスターを自分のＰゾーンに置き、このカードを特殊召喚する。この効果でＰゾーンに置いたカードのＰ効果はこのターン発動できない。②：自分・相手ターンに、このカードをリリースし、自分のＰゾーンのカード１枚を対象として発動できる。このターン、そのカードは相手の効果では破壊されない。
-  ko:
+  ko: |-
+    이 카드명의 ①②의 몬스터 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패에 존재할 경우, 자신 필드의 펜듈럼 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 펜듈럼 몬스터를 자신의 펜듈럼 존에 놓고, 이 카드를 특수 소환한다. 이 효과로 펜듈럼 존에 놓은 카드의 펜듈럼 효과는 이 턴에 발동할 수 없다. ②: 자신 / 상대 턴에, 이 카드를 릴리스하고, 자신의 펜듈럼 존의 카드 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 카드는 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN: |-
     此卡名的①②怪兽效果1回合仅可各使用1次。①：此卡存在于手牌的情况下，以自己场上的1只灵摆怪兽为对象可以发动。将该灵摆怪兽放在自己的灵摆区域，将此卡特殊召唤。以此效果所放在灵摆区域的卡的灵摆效果此回合不可发动。②：在自己・对手回合中，解放此卡，以自己灵摆区域的1张卡为对象可以发动。此回合，该卡不会因对手的效果被破坏。
@@ -54,7 +55,8 @@ pendulum_effect:
     Se um ou mais Monstros Pêndulo que você controla seriam destruídos por um efeito de card do oponente, você pode destruir este card em vez de 1 desses Monstros Pêndulo. Você só pode usar este efeito de "Espectro do Crepúsculo Rayragem" uma vez por turno.
   ja: |-
     このカード名のＰ効果は１ターンに１度しか使用できない。①：自分フィールドのＰモンスターが相手の効果で破壊される場合、その破壊されるＰモンスター１体の代わりにこのカードを破壊できる。
-  ko:
+  ko: |-
+    이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 펜듈럼 몬스터가 상대 효과로 파괴될 경우, 그 파괴되는 펜듈럼 몬스터 1장 대신에 이 카드를 파괴할 수 있다.
   zh-TW:
   zh-CN: |-
     此卡名的灵摆效果1回合仅可使用1次。①：自己场上的灵摆怪兽将被对手的效果破坏的情况下，作为该1只将被破坏的灵摆怪兽的代替，可将此卡破坏。
@@ -94,6 +96,11 @@ sets:
     - Common
   ja:
   - set_number: CORI-JP025
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  ko:
+  - set_number: CORI-KR025
     set_name: Chaos Origins
     rarities:
     - Common

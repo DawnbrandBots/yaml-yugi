@@ -9,7 +9,7 @@ name:
   pt: Espada do Espírito Sagrado Aiwass
   ja: <ruby>神<rt>しん</rt></ruby><ruby>霊<rt>れい</rt></ruby><ruby>剣<rt>けん</rt></ruby>アイワス
   ja_romaji: Shinreiken Aiwasu
-  ko:
+  ko: 신령검 아이와스
   ko_rr:
   zh-TW:
   zh-CN: 神灵剑 爱华斯
@@ -55,7 +55,11 @@ text:
     ●自分のデッキ・墓地から「法の神霊アイワス」１体を特殊召喚する。
     ●デッキから「アレイスター」モンスター１体を選び、墓地へ送るか除外する。
     ●相手のＥＸデッキの裏側のカードをランダムに３枚確認し、その内の１枚を選んで除外する。
-  ko:
+  ko: |-
+    이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 이하의 효과에서 1개를 선택하고 발동할 수 있다. 이 턴에, 자신은 융합 몬스터로밖에 공격 선언할 수 없다.
+    ●자신의 덱 / 묘지에서 "법의 신령 아이와스" 1장을 특수 소환한다.
+    ●덱에서 "알레이스터" 몬스터 1장을 고르고, 묘지로 보내거나 제외한다.
+    ●상대의 엑스트라 덱의 뒷면의 카드를 무작위로 3장 확인하고, 그 중의 1장을 골라 제외한다.
   zh-TW:
   zh-CN: |-
     此卡名的卡1回合仅可发动1张。①：可从以下效果中选择1个发动。此回合，自己仅可用融合怪兽攻击宣言。
@@ -100,6 +104,11 @@ sets:
     - Common
   ja:
   - set_number: CORI-JP054
+    set_name: Chaos Origins
+    rarities:
+    - Common
+  ko:
+  - set_number: CORI-KR054
     set_name: Chaos Origins
     rarities:
     - Common
