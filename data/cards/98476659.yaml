@@ -9,7 +9,7 @@ name:
   pt: Pote da Preguiça
   ja: <ruby>怠<rt>たい</rt></ruby><ruby>慢<rt>まん</rt></ruby>な<ruby>壺<rt>つぼ</rt></ruby>
   ja_romaji: Taiman na Tsubo
-  ko:
+  ko: 태만한 항아리
   ko_rr:
   zh-TW:
   zh-CN: 怠慢之壶
@@ -28,7 +28,8 @@ text:
     Compre cards igual ao número de cards que seu oponente controla e, depois, se você comprou 2 ou mais cards, coloque cards da sua mão no fundo do Deck em qualquer ordem, igual ao número que você comprou -1. Pelo resto deste turno depois que este card resolver, você não pode ativar "Pote da Preguiça".
   ja: |-
     ①：相手フィールドのカードの数だけ自分はドローする。２枚以上ドローした場合、さらにその数－１枚だけ、自分の手札を選んで好きな順番でデッキの下に戻す。このカードの発動後、ターン終了時まで自分は「怠慢な壺」を発動できない。
-  ko:
+  ko: |-
+    ①: 상대 필드의 카드의 수만큼 자신은 드로우한다. 2장 이상 드로우했을 경우, 추가로 그 수 － 1장만큼, 자신의 패를 고르고 좋아하는 순서대로 덱 아래로 되돌린다. 이 카드의 발동 후, 턴 종료시까지 자신은 "태만한 항아리"를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
     ①：自己依对手场上卡的数量抽牌。抽2张以上的情况下，进而依该数量-1，挑选自己手牌以喜欢的顺序放回牌组下面。此卡发动后，直至回合结束时为止自己不可发动“怠慢之壶”。
@@ -78,6 +79,13 @@ sets:
     - Starlight Rare
   ja:
   - set_number: CORI-JP061
+    set_name: Chaos Origins
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  ko:
+  - set_number: CORI-KR061
     set_name: Chaos Origins
     rarities:
     - Ultimate Rare
