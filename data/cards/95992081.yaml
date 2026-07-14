@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     等级3怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材，以被除外的自己或对手的1只等级4以下怪兽为对象可以发动。将该怪兽特殊召唤至自己场上。
+    ①：1回合1次，去除此卡的1个超量素材，以自己或对手除外状态的1只等级4以下的怪兽为对象可以发动。将该怪兽特殊召唤至自己场上。
 card_type: Monster
 monster_type_line: Aqua / Xyz / Effect
 attribute: WIND
@@ -216,6 +216,14 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: SGD1-SCC29
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCD33
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

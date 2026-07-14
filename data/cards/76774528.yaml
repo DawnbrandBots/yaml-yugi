@@ -41,8 +41,8 @@ text:
     ①: 1턴에 1번, 자신 및 상대 필드의 카드를 1장씩 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다. ②: 이 카드가 상대에 의해 파괴되어 묘지로 보내졌을 경우, 싱크로 몬스터 이외의 자신 묘지의 "스크랩" 몬스터 1장을 대상으로 하고 발동한다. 그 몬스터를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    协调＋１只以上协调以外的怪兽
-    ①：１回合１次，以自己及对手场上的各１张卡为对象可以发动。将该卡破坏。②：此卡因对手被破坏并被送至墓地的情况下，以自己墓地同步怪兽以外的１只“废铁”怪兽为对象发动。将该怪兽特殊召唤。
+    协调＋协调以外的怪兽1只以上
+    ①：1回合1次，以自己及对手场上的各1张卡为对象可以发动。将该卡破坏。②：此卡被对手破坏并被送至墓地的情况下，以同步怪兽以外的、自己墓地的1只“废铁”怪兽为对象发动。将该怪兽特殊召唤。
 card_type: Monster
 monster_type_line: Dragon / Synchro / Effect
 attribute: EARTH
@@ -211,6 +211,18 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  - set_number: SGD1-SCC22
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCE25
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCF27
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

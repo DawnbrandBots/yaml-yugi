@@ -12,7 +12,7 @@ name:
   ko: 마스터 히페리온
   ko_rr: Maseuteo Hiperion
   zh-TW: 主宰者許珀里翁
-  zh-CN: 主宰者赫贝里翁
+  zh-CN: 主宰者・许珀里翁
 text:
   en: |-
     You can Special Summon this card (from your hand) by banishing 1 "The Agent" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy that target. While "The Sanctuary in the Sky" is on the field, you can activate this effect up to twice per turn.
@@ -32,7 +32,7 @@ text:
     ①: 이 카드는 자신의 패 / 필드 / 묘지의 "대행자" 몬스터 1장을 제외하고, 패에서 특수 소환할 수 있다. ②: 1턴에 1번, 자신 묘지에서 천사족 / 빛 속성 몬스터 1장을 제외하고, 필드의 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 파괴한다. 필드에 "천공의 성역"이 존재할 경우, 이 효과는 1턴에 2번까지 사용할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡可以把自己的手卡·场上·墓地存在的1只名字带有「代行者」的怪兽从游戏中除外，从手卡特殊召唤。1回合1次，可以通过把自己墓地存在的1只天使族·光属性怪兽从游戏中除外，选择场上存在的1张卡破坏。场上有「天空的圣域」表侧表示存在的场合，这个效果1回合可以使用最多2次。
+    ①：此卡可通过将自己手牌・场上（表侧表示）・墓地的1只“代行者”怪兽除外来从手牌特殊召唤。②：1回合1次，从自己墓地将1只天使族・光属性怪兽除外，以场上的1张卡为对象可以发动（场上存在“天空的圣域”的情况下，此效果1回合可使用最多2次）。将该卡破坏。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: LIGHT
@@ -187,6 +187,12 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: SGD1-SCC01
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

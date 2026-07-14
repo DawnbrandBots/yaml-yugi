@@ -12,7 +12,7 @@ name:
   ko: 다이가스타 피닉스
   ko_rr:
   zh-TW: 大薰風鳳凰
-  zh-CN: 大薰风凤凰
+  zh-CN: 大薰风不死鸟
 text:
   en: |-
     2 Level 2 monsters
@@ -40,8 +40,8 @@ text:
     等级2怪兽×2
     1回合1次，可移除此卡的1个超量素材，选择我方场上的1只风属性怪兽发动。此回合中，所选择的怪兽可在1次战斗阶段中进行2次攻击。
   zh-CN: |-
-    2星怪兽×2
-    1回合1次，把这张卡1个XYZ素材取除，选择自己场上1只风属性怪兽才能发动。这个回合，选择的怪兽在同1次的战斗阶段中可以作2次攻击。
+    等级2怪兽×2
+    ①：1回合1次，去除此卡的1个超量素材，以自己场上的1只风属性怪兽为对象可以发动。此回合，该怪兽在1次战斗阶段中可攻击2次。
 card_type: Monster
 monster_type_line: Pyro / Xyz / Effect
 attribute: WIND
@@ -105,6 +105,11 @@ sets:
     set_name: Starter Pack Volume 3
     rarities:
     - Rare
+  zh-CN:
+  - set_number: SGD1-SCC33
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

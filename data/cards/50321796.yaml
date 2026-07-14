@@ -40,9 +40,8 @@ text:
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 패를 임의의 매수 묘지로 버리고, 버린 수만큼 상대 필드의 카드를 대상으로 하여 발동할 수 있다. 그 카드를 패로 되돌린다.
   zh-TW:
   zh-CN: |-
-    协调＋协调以外的怪兽１只以上
-    此卡名的效果１回合仅可使用１次。
-    ①：将任意张数的手牌舍弃至墓地，依所舍弃的张数，以对手场上的卡为对象可以发动。将该卡放回手牌。
+    协调＋协调以外的怪兽1只以上
+    此卡名的效果1回合仅可使用1次。①：将任意张数的手牌舍弃至墓地，依所舍弃的数量，以对手场上的卡为对象可以发动。将该卡放回手牌。
 card_type: Monster
 monster_type_line: Sea Serpent / Synchro / Effect
 attribute: WATER
@@ -347,6 +346,14 @@ sets:
     - Super Parallel Rare
     - Secret Rare
     - Secret Parallel Rare
+  - set_number: SGD1-SCC25
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCF32
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

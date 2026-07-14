@@ -38,8 +38,8 @@ text:
     필드 위의 이 카드가 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 자신 필드 위 몬스터의 공격력 / 수비력은, 이 카드의 엑시즈 소재의 수 × 200 포인트 올린다.
   zh-TW:
   zh-CN: |-
-    2星怪兽×2
-    场上的这张卡被破坏的场合，可以作为代替把这张卡1个XYZ素材取除。只要这张卡在场上表侧表示存在，自己场上的怪兽的攻击力·守备力上升这张卡的XYZ素材数量×200的数值。
+    等级2怪兽×2
+    ①：只要此卡存在于怪兽区域，自己场上的怪兽的攻击力・守备力上升此卡的超量素材数量×200的数值。②：此卡将被破坏的情况下，作为代替可去除此卡的1个超量素材。
 card_type: Monster
 monster_type_line: Rock / Xyz / Effect
 attribute: EARTH
@@ -128,6 +128,11 @@ sets:
     - Common
     - Gold Rare
     - Gold Secret Rare
+  zh-CN:
+  - set_number: SGD1-SCC32
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

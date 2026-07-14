@@ -42,8 +42,8 @@ text:
     协调＋协调以外的怪兽1只或以上
     1回合1次，可在我方主要阶段时当作装备卡装备至怪兽，或者可解除装备以表侧攻击表示特殊召唤。只在以此效果当作装备卡使用的场合，装备怪兽的攻击力上升1000点。此外，装备怪兽因战斗破坏怪兽并送入墓地时，给予对手生命与已破坏怪兽原本攻击力数值相等的伤害。
   zh-CN: |-
-    协调＋1只以上协调以外的怪兽
-    ①：1回合1次，可从以下效果中选择1个发动。●以场上的1只表侧表示怪兽为对象，将此卡视为攻击力上升1000的装备卡，装备于该怪兽。●将被装备的此卡以攻击表示特殊召唤。②：以此卡的效果装备了此卡的怪兽战斗破坏怪兽并将其送至墓地的情况下发动。给予对手相当于该破坏的怪兽原本攻击力数值的伤害。
+    协调＋协调以外的怪兽1只以上
+    ①：1回合1次，可以发动以下的1个效果。●以场上的1只表侧表示怪兽为对象，将此卡视为攻击力上升1000的装备魔法卡装备。●将以此效果装备中的此卡以攻击表示特殊召唤。②：以此卡的效果装备此卡的怪兽战斗破坏怪兽并将其送至墓地的情况下发动。给予对手相当于该所破坏怪兽的原本攻击力数值的伤害。
 card_type: Monster
 monster_type_line: Machine / Synchro / Effect
 attribute: LIGHT
@@ -203,6 +203,14 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme Deck Enhancement Pack'
     rarities:
     - Super Rare
+  - set_number: SGD1-SCC28
+    set_name: Classic Times Deck
+    rarities:
+    - Common
+  - set_number: SGD1-SCF34
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

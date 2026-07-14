@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     于我方的主要阶段时，可以让以表侧表示存在于场上的此卡返回至手牌。此外，当我方场上的光属性怪兽进行战斗的伤害步骤时，透过将此卡从手牌送入墓地来提升该怪兽的攻击力，到结束阶段时为止提升进行战斗的对手怪兽的攻击力数值。
   zh-CN: |-
-    ①：在自己的主要阶段可以发动。将场上表侧表示的此卡放回持有者的手牌中。②：自己的光属性怪兽进行战斗的伤害步骤从开始时至伤害计算前为止，将此卡从手牌送至墓地可以发动。该怪兽的攻击力直至回合结束时为止，上升与进行战斗的对手怪兽的攻击力相等的数值。
+    ①：在自己的主要阶段可以发动。将场上表侧表示的此卡放回手牌。②：自己的光属性怪兽进行战斗的伤害步骤开始时至伤害计算前为止，从手牌将此卡送至墓地可以发动。该怪兽的攻击力直至回合结束时为止，上升相当于进行战斗的对手怪兽的攻击力的数值。
 card_type: Monster
 monster_type_line: Fairy / Effect
 attribute: LIGHT
@@ -523,6 +523,10 @@ sets:
     set_name: Entry Pack Volume 1
     rarities:
     - Rare
+  - set_number: SGD1-SCC08
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -40,8 +40,8 @@ text:
     자신의 스텐바이 페이즈시, 이 카드의 엑시즈 소재를 1개 제거하거나, 자신은 2000 포인트 데미지를 받는다. 이 카드의 엑시즈 소재가 없을 경우, 이 카드는 공격할 수 없다. 이 카드가 필드 위에 존재하는 한, 자신은 몬스터를 특수 소환할 수 없다.
   zh-TW:
   zh-CN: |-
-    等级３怪兽×２
-    ①：没有超量素材的此卡不可攻击。②：只要此卡存在于怪兽区域，自己不可特殊召唤怪兽。③：在自己的准备阶段发动。去除此卡的１个超量素材，或自己受到２０００伤害。
+    等级3怪兽×2
+    ①：没有超量素材的此卡不可攻击。②：只要此卡存在于怪兽区域，自己不可特殊召唤怪兽。③：在自己的准备阶段发动。去除此卡的1个超量素材，或自己受到2000伤害。
 card_type: Monster
 monster_type_line: Rock / Xyz / Effect
 attribute: WATER
@@ -165,6 +165,10 @@ sets:
   zh-CN:
   - set_number: 24SP-SC415
     set_name: Entry Pack 2024 Vol.4
+    rarities:
+    - Common
+  - set_number: SGD1-SCC31
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:
