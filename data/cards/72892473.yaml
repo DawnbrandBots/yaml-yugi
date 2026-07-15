@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     舍弃双方的全部手牌，并各自从我方牌组中抽取与舍弃卡牌相同张数的卡牌。
   zh-CN: |-
-    ①：有手牌的玩家舍弃所有手牌。然后各自从牌组抽自身舍弃张数的牌。
+    ①：有手牌的玩家将所有手牌舍弃。然后，该玩家依自身所舍弃的张数抽牌。
 card_type: Spell
 property: Normal
 images:
@@ -453,6 +453,10 @@ sets:
   zh-CN:
   - set_number: ST21-SC031
     set_name: Starter Deck 2021
+    rarities:
+    - Common
+  - set_number: SGD1-SCD15
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

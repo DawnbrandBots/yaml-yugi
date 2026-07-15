@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     选择以里侧表示存在于场上的1张卡牌破坏。之后，我方舍弃1张手牌。
   zh-CN: |-
-    选择场上里侧表示存在的1张卡破坏。那之后，选择自己1张手卡丢弃。
+    ①：以场上1张里侧表示的卡为对象可以发动。将该里侧表示卡破坏。然后，挑选自己的1张手牌舍弃。
 card_type: Spell
 property: Normal
 series:
@@ -217,6 +217,11 @@ sets:
   zh-TW:
   - set_number: SD21-TC025
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SGD1-SCD11
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

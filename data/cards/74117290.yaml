@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     双方玩家各从牌组抽取1张卡牌，之后挑选1张手牌舍弃。
   zh-CN: |-
-    ①：双方玩家从牌组抽1张，然后挑选1张手牌扔掉。
+    ①：双方各抽1张。然后，抽了牌的玩家挑选自身的1张手牌舍弃。
 card_type: Spell
 property: Normal
 series:
@@ -246,6 +246,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: SGD1-SCD12
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

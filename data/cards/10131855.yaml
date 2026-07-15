@@ -32,7 +32,7 @@ text:
     ①: 자신의 패가 3장 이상 존재하고, 상대가 몬스터의 효과를 발동했을 때, 필드의 "암흑계" 몬스터 1장을 대상으로 하여 이 효과를 발동할 수 있다. 대상 몬스터를 주인의 패로 되돌리고, 그 상대 효과는 "상대의 패를 무작위로 1장 고르고 버린다"가 된다.
   zh-TW:
   zh-CN: |-
-    ①：自己手卡有3张以上存在，对方怪兽的效果发动时，以场上1只「暗黑界」怪兽为对象才能把这个效果发动。作为对象的怪兽回到持有者手卡，那个对方的效果变成「对方手卡随机选1张丢弃」。
+    ①：自己手牌存在3张以上，且对手发动怪兽的效果时，以场上的1只“暗黑界”怪兽为对象可以发动。将对象怪兽放回手牌，该对手的效果变为“随机舍弃对手的1张手牌”。
 card_type: Trap
 property: Continuous
 series:
@@ -135,6 +135,11 @@ sets:
     - Common
   - set_number: SR13-KR036
     set_name: "Structure Deck R: Devil's Gate"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SGD1-SCD18
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

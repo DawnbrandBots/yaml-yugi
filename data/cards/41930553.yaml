@@ -12,7 +12,7 @@ name:
   ko: 암흑의 장기
   ko_rr:
   zh-TW: 暗黑瘴氣
-  zh-CN: 暗黑瘴气
+  zh-CN: 暗黑的瘴气
 text:
   en: |-
     Once per turn: You can target 1 monster in your opponent's GY; discard 1 Fiend monster, and if you do, banish that target.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     1回合1次，可选择1只对手墓地中的怪兽发动。从手牌中舍弃1只恶魔族怪兽，将所选择的怪兽从游戏中除外。
   zh-CN: |-
-    1回合1次，选择对方墓地1只怪兽才能发动。从手卡丢弃1只恶魔族怪兽，选择的怪兽从游戏中除外。
+    ①：1回合1次，以对手墓地的1只怪兽为对象可以发动。从手牌挑选1只恶魔族怪兽舍弃，将对象怪兽除外。
 card_type: Trap
 property: Continuous
 images:
@@ -143,6 +143,11 @@ sets:
   zh-TW:
   - set_number: SD21-TC032
     set_name: "Structure Deck: Devil's Gate"
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SGD1-SCD20
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:
