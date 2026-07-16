@@ -12,7 +12,7 @@ name:
   ko: 발조기뢰 태엽마인
   ko_rr:
   zh-TW: 發條機雷發條雷
-  zh-CN: 发条机雷发条雷
+  zh-CN: 弹簧机雷 发条爆具
 text:
   en: |-
     2 Level 3 monsters
@@ -42,8 +42,8 @@ text:
     等级3怪兽×2
     此卡在场上被破坏的场合，作为替代可移除此卡的1项超量素材。适用此效果回合的结束阶段时，选择场上的1张卡牌1次并破坏。
   zh-CN: |-
-    3星怪兽×2
-    场上的这张卡被破坏的场合，可以作为代替把这张卡1个XYZ素材取除。这个效果适用的回合的结束阶段时1次，选择场上1张卡破坏。
+    等级3怪兽×2
+    ①：场上的此卡将被破坏的情况下，作为代替可去除此卡的1个超量素材。②：1回合1次，在适用了此卡的①效果的回合的结束阶段，以场上的1张卡为对象发动。将该卡破坏。
 card_type: Monster
 monster_type_line: Machine / Xyz / Effect
 attribute: FIRE
@@ -162,6 +162,11 @@ sets:
     set_name: Special Promotional Pack 2015 Volume 1
     rarities:
     - Normal Parallel Rare
+  zh-CN:
+  - set_number: SGD1-SCD34
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

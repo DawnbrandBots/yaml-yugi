@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     等级8怪兽×2
-    ①：1回合1次，去除此卡的1个超量素材，以场上1只表侧表示怪兽为对象可以发动。此回合中，对象怪兽的效果无效，不受此卡以外的效果影响。此效果在对手回合中也可以发动。
+    ①：在每个自己・对手回合中1次，去除此卡的1个超量素材，以场上的1只表侧表示怪兽为对象可以发动。此回合中，该怪兽的效果无效，不受自身以外的卡的效果影响。
 card_type: Monster
 monster_type_line: Warrior / Xyz / Effect
 attribute: LIGHT
@@ -156,6 +156,10 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Collector's Rare
+  - set_number: SGD1-SCD22
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

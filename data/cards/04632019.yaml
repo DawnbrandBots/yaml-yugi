@@ -48,9 +48,9 @@ text:
     ●9 이상: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다.
   zh-TW:
   zh-CN: |-
-    ①：以场上的此卡作为同步素材的情况下，也可将此卡的等级视为８。②：以此卡作为同步素材的同步怪兽根据其原本的等级，获得以下效果。
-    ●８以下：此卡的攻击力・守备力上升８００。
-    ●９以上：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予战斗伤害。
+    ①：以场上的此卡作为同步素材的情况下，也可将此卡的等级视为8。②：以此卡作为同步素材的同步怪兽根据其原本的等级，获得以下效果。
+    ●8以下：此卡的攻击力・守备力上升800。
+    ●9以上：此卡攻击守备表示怪兽的情况下，依攻击力超出该怪兽守备力的数值来给予对手战斗伤害。
 card_type: Monster
 monster_type_line: Sea Serpent / Tuner / Effect
 attribute: WATER
@@ -128,6 +128,10 @@ sets:
   zh-CN:
   - set_number: MGP7-SC085
     set_name: Mega Pack 07
+    rarities:
+    - Common
+  - set_number: SGD1-SCE14
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:
