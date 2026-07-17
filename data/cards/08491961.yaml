@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     等级1怪兽×2只以上
-    ①：此卡超量召唤成功的情况下，以场上1只表侧表示怪兽为对象可以发动。该怪兽的攻击力・守备力上升相当于此卡超量素材数量×300的数值。②：1回合1次，去除此卡的1个超量素材可以发动。从牌组将1只鸟兽族・等级1怪兽加入手牌。③：超量召唤的此卡因战斗发生的对自己的战斗伤害对手也要承受。
+    ①：此卡超量召唤的情况下，以场上的1只表侧表示怪兽为对象可以发动。该怪兽的攻击力・守备力上升此卡的超量素材数量×300的数值。②：1回合1次，去除此卡的1个超量素材可以发动。从牌组将1只鸟兽族・等级1怪兽加入手牌。③：因超量召唤的此卡的战斗对自己造成的战斗伤害对手也要承受。
 card_type: Monster
 monster_type_line: Winged Beast / Xyz / Effect
 attribute: WIND
@@ -129,6 +129,10 @@ sets:
   zh-CN:
   - set_number: DP25-SC056
     set_name: 'Duelist Pack: Duelists of Whirlwind'
+    rarities:
+    - Common
+  - set_number: SGD1-SCE32
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

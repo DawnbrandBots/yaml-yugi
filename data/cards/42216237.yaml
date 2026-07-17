@@ -40,8 +40,8 @@ text:
     "제라의 천사"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력은 제외되어 있는 상대 카드의 수 × 100 올린다. ②: 이 카드가 제외되었을 경우, 다음 턴 스탠바이 페이즈에 발동한다. 제외되어 있는 이 카드를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    调整＋调整以外的怪兽1只以上
-    「杰拉的天使」的②的效果1回合只能使用1次。①：这张卡的攻击力上升除外的对方的卡数量×100。②：这张卡被除外的场合，下个回合的准备阶段发动。除外的这张卡特殊召唤。
+    协调＋协调以外的怪兽1只以上
+    此卡名的②效果1回合仅可使用1次。①：此卡的攻击力上升对手除外状态的卡的数量×100的数值。②：此卡被除外的下个回合的准备阶段发动。将除外状态的此卡特殊召唤。
 card_type: Monster
 monster_type_line: Fairy / Synchro / Effect
 attribute: LIGHT
@@ -149,6 +149,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SGD1-SCE26
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

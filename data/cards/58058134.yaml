@@ -43,7 +43,7 @@ text:
     此卡仅1回合1次不会因战斗而破坏。此外，以此卡为对象的魔法、陷阱、效果怪兽的效果发动时，可移除此卡的1个超量素材并发动。使该发动无效并破坏。
   zh-CN: |-
     等级1怪兽×2
-    ①：1回合仅1次，此卡不会因战斗被破坏。②：以此卡为对象的魔法・陷阱・怪兽的效果发动时，去除此卡的1个超量素材可以发动。将该发动无效并破坏。
+    ①：此卡1回合仅1次不会因战斗被破坏。②：以场上的此卡为对象的魔法・陷阱・怪兽的效果发动时，去除此卡的1个超量素材可以发动。将该发动无效并破坏。
 card_type: Monster
 monster_type_line: Spellcaster / Xyz / Effect
 attribute: LIGHT
@@ -112,6 +112,10 @@ sets:
   zh-CN:
   - set_number: SCTP-SC126
     set_name: Entry Pack Volume 8
+    rarities:
+    - Common
+  - set_number: SGD1-SCE30
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:
