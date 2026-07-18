@@ -32,7 +32,7 @@ text:
     이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 자신 필드의 앞면 표시의 식물족 몬스터가 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 이 카드가 묘지에 존재하고, 필드에 식물족 몬스터가 존재할 경우에 발동할 수 있다. 이 카드를 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    此卡名的①②效果1回合1次，仅可使用其中1个。①：自己场上表侧表示的植物族怪兽被送至墓地的情况下可以发动。从手牌将此卡特殊召唤。②：此卡存在于墓地，且场上有植物族怪兽存在的情况下可以发动。将此卡加入手牌。
+    此卡名的①②效果1回合1次，仅可使用其中1个。①：自己场上的表侧表示的植物族怪兽被送至墓地的情况下可以发动。从手牌将此卡特殊召唤。②：此卡存在于墓地，且场上存在植物族怪兽的情况下可以发动。将此卡加入手牌。
 card_type: Monster
 monster_type_line: Plant / Tuner / Effect
 attribute: EARTH
@@ -138,6 +138,10 @@ sets:
   zh-CN:
   - set_number: SCTP-SC042
     set_name: Entry Pack Volume 3
+    rarities:
+    - Common
+  - set_number: SGD1-SCF05
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

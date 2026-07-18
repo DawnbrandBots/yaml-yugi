@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可舍弃1张手牌，并选择1只从游戏中除外的我方怪兽发动。被选择的怪兽以表侧攻击表示特殊召唤，并装备此卡。此卡离开场上时，破坏该怪兽。
   zh-CN: |-
-    ①：扔掉1张手牌，可以自己的1只被除外的怪兽为对象发动此卡。以攻击表示将该怪兽特殊召唤，装备此卡。此卡从场上离开时该怪兽会被破坏。
+    ①：舍弃1张手牌，以自己除外状态的1只怪兽为对象可以发动此卡。将该怪兽以攻击表示特殊召唤，装备此卡。此卡从场上离开时该怪兽将被破坏。
 card_type: Spell
 property: Equip
 series:
@@ -218,6 +218,10 @@ sets:
   zh-CN:
   - set_number: SD26-SC025
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
+    rarities:
+    - Common
+  - set_number: SGD1-SCF17
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

@@ -32,7 +32,7 @@ text:
     자신 묘지에서 식물족 몬스터 1장을 제외하고, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하여 이 카드를 발동할 수 있다. ①: 장착 몬스터의 컨트롤을 얻는다. ②: 자신 엔드 페이즈에 발동한다. 이 카드의 ①의 효과는 다음 자신 스탠바이 페이즈까지 무효가 된다.
   zh-TW:
   zh-CN: |-
-    从自己的墓地将1只植物族怪兽除外，以对手场上的1只表侧表示怪兽为对象可以发动此卡。①：获得装备怪兽的控制权。②：在自己的结束阶段发动。此卡的①效果直至下一个自己准备阶段为止无效。
+    从自己墓地将1只植物族怪兽除外，以对手场上的1只表侧表示怪兽为对象可以发动此卡。①：获得装备怪兽的控制权。②：在自己的结束阶段发动。此卡的①效果直至下一个自己准备阶段为止无效。
 card_type: Spell
 property: Equip
 images:
@@ -229,6 +229,10 @@ sets:
   zh-CN:
   - set_number: DP21-SC042
     set_name: 'Duelist Pack: Legend Duelist 4'
+    rarities:
+    - Common
+  - set_number: SGD1-SCF18
+    set_name: Classic Times Deck
     rarities:
     - Common
 limit_regulation:

@@ -32,8 +32,7 @@ text:
     이 카드명의 효과는 듀얼 중에 1번밖에 사용할 수 없다. ①: 이 카드가 묘지에 존재할 경우에 발동할 수 있다. 자신의 덱 맨 위의 카드를 묘지로 보내고, 이 카드를 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    此卡名的效果在决斗中仅可使用１次。
-    ①：此卡存在于墓地的情况下可以发动。将自己的牌组最上面的卡送至墓地，将此卡特殊召唤。
+    此卡名的效果在决斗中仅可使用1次。①：此卡存在于墓地的情况下可以发动。将自己牌组最上面的卡送至墓地，将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Plant / Tuner / Effect
 attribute: EARTH
@@ -229,6 +228,10 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  - set_number: SGD1-SCF11
+    set_name: Classic Times Deck
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
