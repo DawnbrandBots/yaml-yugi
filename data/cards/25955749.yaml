@@ -32,7 +32,7 @@ text:
     ①: 자신 메인 몬스터 존에 몬스터가 존재하지 않을 경우, 필드에 세트된 마법 / 함정 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다. 그 후, 자신 묘지에 마법 카드가 3장 이상 존재할 경우, 필드의 몬스터 1장을 고르고 파괴할 수 있다.
   zh-TW:
   zh-CN: |-
-    ①：自己的主要怪兽区域没有怪兽存在的情况下，可以场上放置的1张魔法・陷阱卡为对象发动。破坏该卡。之后，自己墓地存在3张以上的魔法卡的情况下，可以挑选场上1只怪兽进行破坏。
+    ①：自己的主要怪兽区域不存在怪兽的情况下，以场上的1张里侧表示的魔法・陷阱卡为对象可以发动。将该卡破坏。然后，自己墓地存在3张以上的魔法卡的情况下，可将场上的1只怪兽破坏。
 card_type: Spell
 property: Normal
 series:
@@ -149,6 +149,10 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: SGP1-SC047
+    set_name: Time Leap Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

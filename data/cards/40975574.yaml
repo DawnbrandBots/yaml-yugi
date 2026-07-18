@@ -32,7 +32,7 @@ text:
     이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 일반 소환했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 몬스터 1장을 특수 소환한다. ②: 이 카드를 특수 소환했을 때, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력만큼만 자신의 LP를 회복한다.
   zh-TW:
   zh-CN: |-
-    这个卡名的②的效果1个回合只能使用1次。①：这张卡召唤成功时可以发动。从手牌特殊召唤1只等级4以下的怪兽。②：这张卡特殊召唤成功时，可以场上1只表侧表示怪兽为对象发动。自己恢复该怪兽的攻击力数值的LP。
+    此卡名的②效果1回合仅可使用1次。①：此卡召唤时可以发动。从手牌将1只等级4以下的怪兽特殊召唤。②：此卡特殊召唤时，以场上的1只表侧表示怪兽为对象可以发动。依该怪兽的攻击力的数值恢复自己的LP。
 card_type: Monster
 monster_type_line: Fiend / Tuner / Effect
 attribute: FIRE
@@ -182,6 +182,10 @@ sets:
     - Common
   - set_number: SD46-SC007
     set_name: 'Structure Deck: Pulse of the King'
+    rarities:
+    - Common
+  - set_number: SGP1-SC018
+    set_name: Time Leap Pack
     rarities:
     - Common
 limit_regulation:

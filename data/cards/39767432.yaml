@@ -40,10 +40,8 @@ text:
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드 또는 이 카드의 링크 앞의 자신 몬스터가 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 그 수치만큼만 자신의 LP를 회복한다. ②: 자신이나 상대의 LP가 회복했을 경우에 발동할 수 있다(데미지 스텝에도 발동 가능). 서로 1000 데미지를 받는다.
   zh-TW:
   zh-CN: |-
-    效果怪兽２只
-    此卡名的①②效果１回合仅可各使用１次。
-    ①：此卡或此卡连接端的自己的怪兽给予对手战斗伤害时可以发动。依其数值恢复自己的LP。
-    ②：自己或对手的LP恢复的情况下可以发动（在伤害步骤也可以发动）。双方受到１０００伤害。
+    效果怪兽2只
+    此卡名的①②效果1回合仅可各使用1次。①：此卡或此卡连接端的自己的怪兽给予对手战斗伤害时可以发动。依其数值恢复自己的LP。②：自己或对手的LP恢复的情况下可以发动（在伤害步骤也可以发动）。双方受到1000伤害。
 card_type: Monster
 monster_type_line: Aqua / Link / Effect
 attribute: WATER
@@ -125,6 +123,10 @@ sets:
   zh-CN:
   - set_number: PHNI-SC053
     set_name: Phantom Nightmare
+    rarities:
+    - Common
+  - set_number: SGP1-SC043
+    set_name: Time Leap Pack
     rarities:
     - Common
 limit_regulation:

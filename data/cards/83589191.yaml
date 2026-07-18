@@ -12,7 +12,7 @@ name:
   ko: 라이프핵
   ko_rr:
   zh-TW: 竊命駭客
-  zh-CN: 窃命黑客
+  zh-CN: 生命骇入
 text:
   en: |-
     Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn. During your Main Phase: You can banish this card from your GY, then target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your current LP until the end of this turn. You can only use each effect of "Life Hack" once per turn.
@@ -31,7 +31,8 @@ text:
   ko: |-
     이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 상대의 LP의 수치와 같아지고, 이 턴에 상대가 받는 모든 데미지는 절반이 된다. ②: 자신 메인 페이즈에 묘지의 이 카드를 제외하고, 필드의 앞면 표시 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 자신의 LP의 수치와 같아지고, 이 턴에 상대가 받는 모든 데미지는 절반이 된다.
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：以场上的1只表侧表示怪兽为对象可以发动。该怪兽的攻击力直至回合结束时为止变为与对手的LP相同的数值，此回合，对手受到的所有伤害变为一半。②：在自己的主要阶段将墓地的此卡除外，以场上的1只表侧表示怪兽为对象可以发动。该怪兽的攻击力直至回合结束时为止变为与自己的LP相同的数值，此回合，对手受到的所有伤害变为一半。
 card_type: Spell
 property: Quick-Play
 images:
@@ -81,6 +82,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  zh-CN:
+  - set_number: SGP1-SC058
+    set_name: Time Leap Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

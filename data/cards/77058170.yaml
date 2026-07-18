@@ -41,7 +41,7 @@ text:
   zh-TW:
   zh-CN: |-
     效果怪兽2只
-    ①：1回合1次，以此卡连接端的1只表侧表示怪兽，和对手场上的1只表侧表示怪兽为对象可以发动。该对手怪兽的攻击力直至回合结束时为止，下降相当于作为对象的连接端的怪兽的攻击力数值。
+    ①：1回合1次，以此卡连接端的1只表侧表示怪兽，和对手场上的1只表侧表示怪兽为对象可以发动。该对手怪兽的攻击力直至回合结束时为止，下降相当于作为对象的连接端的怪兽的攻击力的数值。
 card_type: Monster
 monster_type_line: Cyberse / Link / Effect
 attribute: DARK
@@ -173,6 +173,10 @@ sets:
     set_name: Mega Pack 01
     rarities:
     - Rare
+  - set_number: SGP1-SC041
+    set_name: Time Leap Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

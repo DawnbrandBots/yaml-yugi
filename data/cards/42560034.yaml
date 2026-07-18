@@ -12,7 +12,7 @@ name:
   ko: 나이트 플라이트
   ko_rr: Naiteu Peullaiteu
   zh-TW: 夜逃飛行
-  zh-CN: 夜逃飞行
+  zh-CN: 夜之逃飞行
 text:
   en: |-
     Target 1 face-up monster you control; return that face-up monster to the hand, and if you do, for the rest of this turn, neither player can activate the effects of cards with the returned card's name.
@@ -32,7 +32,7 @@ text:
     ①: 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 몬스터를 주인의 패로 되돌린다. 이 턴에, 서로 이 효과로 패에 넣은 카드 및 그와 같은 이름의 카드의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN: |-
-    ①：可以以自己场上的1只表侧表示怪兽为对象发动。使那只表侧表示怪兽返回持有者的手牌。这个回合，双方不能发动用这个效果加入手牌的卡以及其同名卡的效果。
+    ①：以自己场上的1只表侧表示怪兽为对象可以发动。将该表侧表示怪兽放回手牌。此回合，双方不可发动以此效果所加入手牌的卡及其同名卡的效果。
 card_type: Spell
 property: Quick-Play
 images:
@@ -77,6 +77,11 @@ sets:
   ko:
   - set_number: BODE-KR068
     set_name: Burst of Destiny
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: SGP1-SC054
+    set_name: Time Leap Pack
     rarities:
     - Common
 limit_regulation:
