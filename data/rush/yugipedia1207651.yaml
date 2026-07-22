@@ -1,14 +1,14 @@
 konami_id:
 name:
   en: Pierce!
-  de: Durchschlag!
-  es: ¡Atraviesa!
-  fr: Transperce !
-  it: Perforazione!
+  de:
+  es:
+  fr:
+  it:
   pt:
   ja: <ruby>貫<rt>かん</rt></ruby><ruby>通<rt>つう</rt></ruby>！
   ja_romaji: Kantsū!
-  ko: 관통!
+  ko:
   ko_rr:
   zh-TW:
   zh-CN:
@@ -20,7 +20,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターの攻撃は貫通する（守備表示モンスターを攻撃した時、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える）。
   ko:
   zh-TW:
   zh-CN:
@@ -31,4 +32,7 @@ images:
 - index: 1
   image: Pierce-WWRP-JP-OP.png
 sets: {}
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 1207651

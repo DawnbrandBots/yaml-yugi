@@ -1,0 +1,38 @@
+konami_id:
+name:
+  en: Card Destruction
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>手<rt>て</rt></ruby><ruby>札<rt>ふだ</rt></ruby><ruby>抹<rt>まっ</rt></ruby><ruby>殺<rt>さつ</rt></ruby>
+  ja_romaji: Tefuda Massatsu
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+text:
+  en: |-
+    Each player with cards in their hand sends all Monster Cards from their hand to the Graveyard, then draws cards equal to [the number of cards each player sent to the Graveyard by this effect]. (If there are no more cards in the Deck while drawing, shuffle the cards in the Graveyard and place them in the Deck Zone, and draw the remaining number of cards.)
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    手札があるプレイヤーは、手札のモンスターカードを全て墓地へ送る。その後、全員は［この効果で自身の手札から墓地へ送られたカードの数］だけドローする（ドローの途中でデッキのカードがなくなった場合、墓地にあるカードをシャッフルしてデッキゾーンに置き、残りの枚数をドローする）。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Spell
+property: Normal
+cannot_be_used_in_official_duels: true
+images:
+- index: 1
+  image: CardDestruction-WWRP-JP-C.png
+sets: {}
+is_translation_unofficial:
+  text:
+    en: true
+yugipedia_page_id: 1207671
