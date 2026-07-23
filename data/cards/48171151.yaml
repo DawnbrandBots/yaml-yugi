@@ -15,7 +15,7 @@ name:
   zh-CN: 星霜的魔术师－宙读阵魔术士
 text:
   en: |-
-    If a face-up Monster Card(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand, then you can Special Summon 1 of those destroyed monsters from your GY or face-up Extra Deck. During the Main Phase (Quick Effect): You can Tribute this card, then you can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or face-up Extra Deck into the Deck. You can only use each effect of "Astrograph Sorcerer, the Starfrost Magician" once per turn.
+    If a face-up Monster Card(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand, then you can Special Summon 1 of those destroyed monsters from your face-up Extra Deck or GY. During the Main Phase (Quick Effect): You can Tribute this card, then you can Fusion Summon 1 Dragon Fusion Monster from your Extra Deck, by shuffling its materials from your field and/or face-up Extra Deck into the Deck. You can only use each effect of "Astrograph Sorcerer, the Starfrost Magician" once per turn.
   de:
   es:
   fr:
@@ -37,7 +37,7 @@ def: 2000
 pendulum_scale: 1
 pendulum_effect:
   en: |-
-    During your Main Phase: You can destroy this card, and if you do, place 1 Pendulum Monster whose Pendulum Scale is 1 from your hand or Deck in your Pendulum Zone, except "Astrograph Sorcerer, the Starfrost Magician", but it cannot activate its Pendulum Effects this turn. You can only use this effect of "Astrograph Sorcerer, the Starfrost Magician" once per turn.
+    During your Main Phase: You can destroy this card, and if you do, place 1 Scale 1 Pendulum Monster from your hand or Deck in your Pendulum Zone, except "Astrograph Sorcerer, the Starfrost Magician", but neither player can activate its Pendulum Effects this turn. You can only use this effect of "Astrograph Sorcerer, the Starfrost Magician" once per turn.
   de:
   es:
   fr:
@@ -122,7 +122,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1176930
