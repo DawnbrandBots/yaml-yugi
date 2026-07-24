@@ -45,7 +45,7 @@ text:
     ● Magia: Se este card estiver atacando, em vez disso, você pode fazer com que seja um ataque direto.
     ● Armadilha: Coloque este card em Posição de Defesa.
   ja: |-
-    このカードが戦闘を行う場合、相手はカードを１枚ドローする。この効果でドローしたカードをお互いに確認し、そのカードの種類によりこのカードは以下の効果を得る。●モンスターカード：このターンのバトルフェイズを終了させる。●魔法カード：このカードは相手プレイヤーに直接攻撃する事ができる。●罠カード：このカードは守備表示になる。
+    ①：このカードが戦闘を行う攻撃宣言時に発動する。相手は１枚ドローし、お互いに確認する。そのカードの種類によって以下の効果が適用される。●モンスター：このターンのバトルフェイズを終了する。●魔法：このカードの攻撃を直接攻撃にできる。●罠：このカードは守備表示になる。
   ko: |-
     이 카드가 전투를 실행할 경우, 상대는 카드를 1장 드로우한다. 이 효과로 드로우한 카드를 서로 확인하고, 그 카드의 종류에 따라 이 카드는 이하의 효과를 얻는다.
     ●몬스터 카드 : 이 턴의 배틀 페이즈를 종료시킨다.
@@ -169,6 +169,7 @@ sets:
     set_name: 'Limited Pack GX: Ra Yellow'
     rarities:
     - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: STON-KR006
     set_name: Strike of Neos
