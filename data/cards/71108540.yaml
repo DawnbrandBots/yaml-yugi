@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23146
+password: 71108540
 name:
   en: Invincible Demise Lord
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このターンにモンスターが戦闘で破壊されている場合、エンドフェイズに発動できる。このカードを手札・墓地から特殊召喚する。このターンに「不死のデスロード」が戦闘で破壊されている場合、この効果で特殊召喚したこのカードは、元々の攻撃力が３０００になり、効果では破壊されない。②：自分メインフェイズに発動できる。相手フィールドのカードの数＋１枚だけ、デッキから「一撃必殺！居合いドロー」を含むカードを相手に見せ、好きな順番でデッキの上に置く。
   ko:
   zh-TW:
   zh-CN:
@@ -33,7 +34,7 @@ atk: 1300
 def: 2000
 images:
 - index: 1
-  image: InvincibleDemiseLord-LPG2-JP-OP.png
+  image: InvincibleDemiseLord-LPG2-JP-UR.png
 sets:
   ja:
   - set_number: LPG2-JP006
@@ -44,7 +45,7 @@ sets:
     - Prismatic Secret Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   text:
     en: true
