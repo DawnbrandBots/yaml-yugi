@@ -21,7 +21,7 @@ text:
   it:
   pt:
   ja: |-
-    自分フィールドの表側表示モンスター1体を選ぶ。このターン、そのモンスターは攻撃力が200アップし、次のターンのプレイヤー以外にも攻撃できる。
+    自分フィールドの表側表示モンスター１体を選ぶ。このターン、そのモンスターは攻撃力が２００アップし、次のターンのプレイヤー以外にも攻撃できる。
   ko:
   zh-TW:
   zh-CN:
@@ -31,7 +31,12 @@ cannot_be_used_in_official_duels: true
 images:
 - index: 1
   image: PrincessCosmosStirs-WWRP-JP-OP.png
-sets: {}
+sets:
+  ja:
+  - set_number: ''
+    set_name: Wai Wai Rush Party
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true
