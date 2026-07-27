@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 幻狱神 墨迪克利乌斯
 text:
   en: |-
     2+ monsters, including a Fusion, Synchro, Xyz, or Link Monster
@@ -30,7 +30,12 @@ text:
     ①：このカードのリンク先のモンスターの数によって、このカードは以下の効果を得る。●１体以上：１ターンに１度、自分メインフェイズに発動できる。相手フィールドの全ての表側表示モンスターの効果は無効化され、その攻撃力はターン終了時まで半分になる。●２体以上：このカードは相手が発動した効果を受けない。●３体：相手ターンに１度、発動できる。このカード及び相手フィールドのカードを全て除外する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    包含融合・同步・超量・连接怪兽在内的怪兽2只以上
+    ①：依此卡连接端的怪兽数量，此卡获得以下效果。
+    ●1只以上：1回合1次，在自己的主要阶段可以发动。对手场上的所有表侧表示怪兽的效果无效化，其攻击力直至回合结束时为止变为一半。
+    ●2只以上：此卡不受对手发动的效果影响。
+    ●3只：在每个对手回合中1次，可以发动。将此卡及对手场上的卡全部除外。
 card_type: Monster
 monster_type_line: Fairy / Link / Effect
 attribute: WATER
@@ -53,6 +58,10 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  zh-CN:
+  - set_number: BETB-SC048
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
