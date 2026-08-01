@@ -1,10 +1,10 @@
 # SPDX-FileCopyrightText: © 2023 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-from argparse import ArgumentParser
 import json
 import logging
 import os
 import sys
+from argparse import ArgumentParser
 
 from job_masterduel import job
 

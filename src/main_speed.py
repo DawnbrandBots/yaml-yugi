@@ -1,19 +1,19 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-from argparse import ArgumentParser
 import json
 import logging
 import os
 import sys
-from typing import Dict, Any, Optional
+from argparse import ArgumentParser
+from typing import Any
 
 from ruamel.yaml import YAML
 
 from common import (
-    int_or_og,
     initial_parse,
-    transform_names,
+    int_or_og,
     transform_multilanguage,
+    transform_names,
     transform_sets,
     write,
 )
@@ -28,7 +28,7 @@ parser.add_argument("--aggregate", help="output aggregate JSON file")
 logger = logging.getLogger(__name__)
 
 
-def transform_structure(wikitext: Dict[str, str]) -> Optional[Dict[str, Any]]:
+def transform_structure(wikitext: dict[str, str]) -> dict[str, Any] | None:
     return {
         "name": transform_names(wikitext),
         "type_line": wikitext["types"],

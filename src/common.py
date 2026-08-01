@@ -1,14 +1,13 @@
 # SPDX-FileCopyrightText: © 2022–2025 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-from csv import DictReader
 import json
 import logging
-from typing import Any, Dict, List, Optional, Union
+from csv import DictReader
+from typing import Any
 
 import wikitextparser as wtp
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
-
 
 logger = logging.getLogger(__name__)
 
@@ -29,7 +28,7 @@ UNOFFICIAL_LANGUAGES = {
 
 
 def set_unofficial_translation_flag(
-    key: str, template: wtp.Template, output: Dict[str, Any]
+    key: str, template: wtp.Template, output: dict[str, Any]
 ) -> None:
     flags = output.setdefault("is_translation_unofficial", {}).setdefault(key, {})
     for lang in template.arguments[0].value.split(","):
@@ -56,7 +55,7 @@ def expand_templates(template: wtp.Template) -> str:
 
 def initial_parse(
     yaml: YAML, yaml_file: str, target: str = "CardTable2"
-) -> Optional[Dict[str, str]]:
+) -> dict[str, str] | None:
     with open(yaml_file) as f:
         document = yaml.load(f)
     properties = {"title": document["title"]}
@@ -89,7 +88,7 @@ def initial_parse(
     return properties
 
 
-def int_or_none(val: Optional[str]) -> Optional[int]:
+def int_or_none(val: str | None) -> int | None:
     if val is None:
         return None
     try:
@@ -98,20 +97,20 @@ def int_or_none(val: Optional[str]) -> Optional[int]:
         return None
 
 
-def int_or_og(val: str) -> Union[int, str]:
+def int_or_og(val: str) -> int | str:
     try:
         return int(val)
     except ValueError:
         return val
 
 
-def str_or_none(val: Optional[str]) -> Optional[LiteralScalarString]:
+def str_or_none(val: str | None) -> LiteralScalarString | None:
     if val:
         return LiteralScalarString(val)
 
 
 # Parses a wikitext sets field value
-def parse_sets(sets: str) -> List[Dict[str, str]]:
+def parse_sets(sets: str) -> list[dict[str, str]]:
     result = []
     for printing in sets.split("\n"):
         if "; " not in printing:
@@ -136,7 +135,7 @@ def parse_sets(sets: str) -> List[Dict[str, str]]:
 
 
 # Converts all wikitext sets fields into one structured object
-def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
+def transform_sets(wikitext: dict[str, str]) -> dict[str, list[dict[str, str]]]:
     sets = {}
     en = []
     fr = []
@@ -175,7 +174,7 @@ def transform_sets(wikitext: Dict[str, str]) -> Dict[str, List[Dict[str, str]]]:
     return sets
 
 
-def transform_image_entry(entry: List[str]) -> Dict[str, str]:
+def transform_image_entry(entry: list[str]) -> dict[str, str]:
     index = int_or_og(entry[0])
     image = entry[1].strip()
     result = {"index": index, "image": image}
@@ -184,14 +183,14 @@ def transform_image_entry(entry: List[str]) -> Dict[str, str]:
     return result
 
 
-def transform_image(image: str) -> List[Dict[str, str]]:
+def transform_image(image: str) -> list[dict[str, str]]:
     if "\n" not in image and "; " not in image:
         return [{"index": 1, "image": image}]
     tokens = [line.split("; ") for line in image.split("\n")]
     return [transform_image_entry(entry) for entry in tokens]
 
 
-def transform_names(wikitext: Dict[str, str]) -> Dict[str, str]:
+def transform_names(wikitext: dict[str, str]) -> dict[str, str]:
     return {
         "en": wikitext["en_name"],
         "de": wikitext.get("de_name"),
@@ -208,7 +207,7 @@ def transform_names(wikitext: Dict[str, str]) -> Dict[str, str]:
     }
 
 
-def transform_multilanguage(wikitext: Dict[str, str], basename: str) -> Dict[str, str]:
+def transform_multilanguage(wikitext: dict[str, str], basename: str) -> dict[str, str]:
     return {
         "en": str_or_none(wikitext.get(basename)),
         "de": str_or_none(wikitext.get(f"de_{basename}")),
@@ -236,7 +235,7 @@ LINK_ARROW_MAPPING = {
 
 
 # Common card fields on CardTable2 between OCG and Rush Duel
-def annotate_shared(document: Dict[str, Any], wikitext: Dict[str, str]) -> None:
+def annotate_shared(document: dict[str, Any], wikitext: dict[str, str]) -> None:
     # Golden-Eyes Idol for some reason has card_type = Monster
     if "card_type" in wikitext and wikitext["card_type"] != "Monster":  # Spell or Trap
         document["card_type"] = wikitext["card_type"]
@@ -299,7 +298,7 @@ def write(obj: Any, basename: str, yaml: YAML, logger: logging.Logger) -> None:
         json.dump(obj, out)
 
 
-def load_ko_csv(key: str, filename: Optional[str]) -> Dict[int, Dict[str, str]] | None:
+def load_ko_csv(key: str, filename: str | None) -> dict[int, dict[str, str]] | None:
     if not filename:
         return
     with open(filename, encoding="utf-8-sig") as f:
@@ -316,7 +315,7 @@ def replace_interlinear_annotations(name: str) -> str:
     )
 
 
-def load_unreleased_csv(filename: Optional[str]) -> Dict[str, Dict[str, str]]:
+def load_unreleased_csv(filename: str | None) -> dict[str, dict[str, str]]:
     if not filename:
         return {}
     with open(filename) as f:

@@ -3,7 +3,6 @@
 from jsonschema import validate
 from ruamel.yaml import YAML
 
-
 if __name__ == "__main__":
     yaml = YAML()
     with open("assignments.yaml") as f:

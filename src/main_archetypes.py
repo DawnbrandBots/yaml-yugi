@@ -1,14 +1,13 @@
 # SPDX-FileCopyrightText: © 2022 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-from argparse import ArgumentParser
 import logging
 import os
 import sys
+from argparse import ArgumentParser
 
 from ruamel.yaml import YAML
 
 from common import initial_parse, write
-
 
 parser = ArgumentParser()
 parser.add_argument("wikitext_directory", help="yaml-yugipedia archetypes and series")

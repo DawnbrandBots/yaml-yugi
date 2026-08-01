@@ -1,13 +1,12 @@
 # SPDX-FileCopyrightText: © 2022–2024 Kevin Lu
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
-from argparse import ArgumentParser
 import json
 import logging
 import math
 import os
+from argparse import ArgumentParser
 
 from job_rush import job
-
 
 parser = ArgumentParser()
 parser.add_argument("wikitext_directory", help="yaml-yugipedia card texts")

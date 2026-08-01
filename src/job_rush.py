@@ -5,31 +5,31 @@ import logging
 import os
 import sys
 from multiprocessing import current_process
-from typing import Any, Dict, List, Optional
+from typing import Any
 
 from ruamel.yaml import YAML
 
 from common import (
-    int_or_og,
+    annotate_shared,
     initial_parse,
     int_or_none,
+    int_or_og,
+    load_ko_csv,
     replace_interlinear_annotations,
-    transform_names,
-    annotate_shared,
-    transform_sets,
+    str_or_none,
     transform_image,
     transform_multilanguage,
+    transform_names,
+    transform_sets,
     write,
-    load_ko_csv,
-    str_or_none,
 )
 
 module_logger = logging.getLogger(__name__)
 
 
 def transform_structure(
-    logger: logging.Logger, wikitext: Dict[str, str]
-) -> Optional[Dict[str, Any]]:
+    logger: logging.Logger, wikitext: dict[str, str]
+) -> dict[str, Any] | None:
     if wikitext.get("card_type") == "Duel Marker" or wikitext.get(
         "This card cannot be in a Deck."
     ):
@@ -64,10 +64,10 @@ def transform_structure(
 
 def overwrite_field(
     logger: logging.Logger,
-    document: Dict[str, Any],
-    source: Dict[str, str],
+    document: dict[str, Any],
+    source: dict[str, str],
     key: str,
-    key_source: Optional[str] = None,
+    key_source: str | None = None,
 ) -> None:
     if key_source is None:
         key_source = key
@@ -79,11 +79,11 @@ def overwrite_field(
                 value = str_or_none(source[key_source])
             document[key]["ko"] = value
         else:
-            logger.warn(f"Extraneous value for {key_source}")
+            logger.warning(f"Extraneous value for {key_source}")
 
 
 def overwrite(
-    logger: logging.Logger, document: Dict[str, Any], source: Dict[str, str]
+    logger: logging.Logger, document: dict[str, Any], source: dict[str, str]
 ) -> None:
     overwrite_field(logger, document, source, "text", "non_effect_monster_text")
     for key in ["name", "summoning_condition", "materials", "requirement", "effect"]:
@@ -92,9 +92,9 @@ def overwrite(
 
 def merge_ko(
     logger: logging.Logger,
-    document: Dict[str, Any],
-    ko_override: Optional[Dict[int, Dict[str, str]]],
-    ko_prerelease: Optional[Dict[int, Dict[str, str]]],
+    document: dict[str, Any],
+    ko_override: dict[int, dict[str, str]] | None,
+    ko_prerelease: dict[int, dict[str, str]] | None,
 ) -> None:
     override = ko_override.get(document["konami_id"]) if ko_override else None
     prerelease = (
@@ -107,7 +107,7 @@ def merge_ko(
     if prerelease:
         sublogger = logger.getChild("prerelease")
         if document["name"]["ko"]:
-            sublogger.warn(f"Extraneous row [{document['name']['ko']}]")
+            sublogger.warning(f"Extraneous row [{document['name']['ko']}]")
         else:
             sublogger.info(f"Injecting [{prerelease['name']}]")
             overwrite(logger, document, prerelease)
@@ -118,7 +118,7 @@ def merge_ko(
 
 # On Yugipedia, Rush Duel cards inherit their Japanese name from their OCG counterpart
 def annotate_ocg_ja_name(
-    logger: logging.Logger, document: Dict[str, Any], ocg_cards: Dict[str, Any]
+    logger: logging.Logger, document: dict[str, Any], ocg_cards: dict[str, Any]
 ) -> None:
     name = document["name"]["en"]
     ocg_card = ocg_cards.get(name)
@@ -127,7 +127,7 @@ def annotate_ocg_ja_name(
         document["name"]["ja"] = ocg_card["name"]["ja"]
 
 
-def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
+def write_output(yaml: YAML, logger: logging.Logger, document: dict[str, Any]) -> None:
     if document["konami_id"] is not None:
         basename = document["konami_id"]
     else:
@@ -137,13 +137,13 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
 
 def job(
     wikitext_dir: str,
-    filenames: List[str],
-    ko_official_csv: Optional[str] = None,
-    ko_override_csv: Optional[str] = None,
-    ko_prerelease_csv: Optional[str] = None,
-    ocg_aggregate: Optional[str] = None,
+    filenames: list[str],
+    ko_official_csv: str | None = None,
+    ko_override_csv: str | None = None,
+    ko_prerelease_csv: str | None = None,
+    ocg_aggregate: str | None = None,
     return_results=False,
-) -> Optional[List[Dict[str, Any]]]:
+) -> list[dict[str, Any]] | None:
     yaml = YAML()
     yaml.width = sys.maxsize
     ko_official = load_ko_csv("konami_id", ko_official_csv)  # noqa: F841

@@ -2,10 +2,8 @@ import json
 import logging
 import os
 import sys
-from typing import List, Tuple
 
-from fastjsonschema import compile, JsonSchemaValueException
-
+from fastjsonschema import JsonSchemaValueException, compile
 
 logger = logging.getLogger(__name__)
 
@@ -13,7 +11,7 @@ logger = logging.getLogger(__name__)
 def validate_documents(schema_path: str, document_dir: str) -> None:
     with open(schema_path) as handle:
         validate = compile(json.load(handle))
-    errors: List[Tuple[str, JsonSchemaValueException]] = []
+    errors: list[tuple[str, JsonSchemaValueException]] = []
     for root, dirs, files in os.walk(document_dir):
         for file in files:
             if file.endswith(".json"):

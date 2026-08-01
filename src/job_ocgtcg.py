@@ -2,10 +2,10 @@
 # SPDX-Licence-Identifier: AGPL-3.0-or-later
 import json
 import logging
-from multiprocessing import current_process
 import os
 import sys
-from typing import Any, Dict, List, NamedTuple, Optional, Union
+from multiprocessing import current_process
+from typing import Any, NamedTuple
 
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
@@ -15,21 +15,21 @@ from common import (
     initial_parse,
     int_or_none,
     int_or_og,
-    replace_interlinear_annotations,
-    transform_image,
-    transform_names,
-    transform_sets,
-    transform_multilanguage,
-    write,
     load_ko_csv,
     load_unreleased_csv,
+    replace_interlinear_annotations,
+    transform_image,
+    transform_multilanguage,
+    transform_names,
+    transform_sets,
+    write,
 )
 
 module_logger = logging.getLogger(__name__)
 
 
 def annotate_zh_cn(
-    yaml: YAML, logger: logging.Logger, document: Dict[str, str], zh_cn_dir: str
+    yaml: YAML, logger: logging.Logger, document: dict[str, str], zh_cn_dir: str
 ) -> None:
     if document["name"]["zh-CN"] and document["text"]["zh-CN"]:
         return
@@ -54,8 +54,8 @@ def annotate_zh_cn(
 
 
 def transform_structure(
-    logger: logging.Logger, wikitext: Dict[str, str]
-) -> Optional[Dict[str, Any]]:
+    logger: logging.Logger, wikitext: dict[str, str]
+) -> dict[str, Any] | None:
     if (
         # Normal monster version OCG prize cards, Tyler, OG Egyptian Gods
         wikitext.get("database_id") == "none"
@@ -119,10 +119,10 @@ LIMIT_REGULATION_MAPPING = {
 
 
 def annotate_limit_regulation(
-    document: Dict[str, Any],
-    unreleased: Dict[str, Dict[str, str]],
-    tcg_vector: Optional[Dict[str, int]],
-    ocg_vector: Optional[Dict[str, int]],
+    document: dict[str, Any],
+    unreleased: dict[str, dict[str, str]],
+    tcg_vector: dict[str, int] | None,
+    ocg_vector: dict[str, int] | None,
 ) -> None:
     if (
         (release := unreleased.get(document["name"]["en"]))
@@ -154,7 +154,7 @@ def annotate_limit_regulation(
         ]
 
 
-def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -> None:
+def write_output(yaml: YAML, logger: logging.Logger, document: dict[str, Any]) -> None:
     if document["password"] is not None:
         # Recreate eight-digit password with left-padded 0s
         basename = str(document["password"]).rjust(8, "0")
@@ -167,9 +167,9 @@ def write_output(yaml: YAML, logger: logging.Logger, document: Dict[str, Any]) -
 
 class Assignments(NamedTuple):
     # values: fake_password
-    yugipedia: Dict[int, Union[int, List[int]]]
+    yugipedia: dict[int, int | list[int]]
     # values: fake_password_range
-    set_abbreviation: Dict[str, Union[int, List[int]]]
+    set_abbreviation: dict[str, int | list[int]]
 
 
 def load_assignments(yaml: YAML, file: str) -> Assignments:
@@ -186,7 +186,7 @@ def load_assignments(yaml: YAML, file: str) -> Assignments:
     return assignments
 
 
-def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> None:
+def annotate_assignments(document: dict[str, Any], assignments: Assignments) -> None:
     # Direct assignment, may be used for certain passwordless cards or individual prereleases
     page_id = document["yugipedia_page_id"]
     if page_id in assignments.yugipedia:
@@ -221,15 +221,15 @@ def annotate_assignments(document: Dict[str, Any], assignments: Assignments) -> 
                     ]
             except ValueError as e:
                 # Typically unknown card number like 0??
-                module_logger.warn(document["yugipedia_page_id"], exc_info=e)
+                module_logger.warning(document["yugipedia_page_id"], exc_info=e)
 
 
 def mixin_text(
     pkey: str,
     ckey: str,
     skey: str,
-    document: Dict[str, Any],
-    master_duel_card: Dict[str, Any],
+    document: dict[str, Any],
+    master_duel_card: dict[str, Any],
     logger: logging.Logger,
 ) -> None:
     if not document[pkey][ckey]:
@@ -244,8 +244,8 @@ def mixin_text(
 
 def annotate_master_duel(
     logger: logging.Logger,
-    document: Dict[str, Any],
-    master_duel: Dict[str, Any],
+    document: dict[str, Any],
+    master_duel: dict[str, Any],
     title: str,
 ) -> None:
     name = document["name"]["en"]
@@ -351,8 +351,8 @@ def replace_text(
     pkey: str,
     ckey: str,
     skey: str,
-    document: Dict[str, Any],
-    official_card: Dict[str, str],
+    document: dict[str, Any],
+    official_card: dict[str, str],
     logger: logging.Logger,
 ) -> None:
     # CSV only has empty strings, but null is preferred for YAML and JSON
@@ -369,8 +369,8 @@ def replace_text(
 
 def replace_with_official(
     logger: logging.Logger,
-    document: Dict[str, Any],
-    official: Dict[int, Dict[str, str]],
+    document: dict[str, Any],
+    official: dict[int, dict[str, str]],
     lang: str,
 ) -> None:
     kid = document["konami_id"]
@@ -386,8 +386,8 @@ def replace_with_official(
 
 def override_ko(
     logger: logging.Logger,
-    document: Dict[str, Any],
-    ko_override: Dict[int, Dict[str, str]],
+    document: dict[str, Any],
+    ko_override: dict[int, dict[str, str]],
 ) -> None:
     kid = document["konami_id"]
     if kid and ko_override.get(kid):
@@ -409,18 +409,18 @@ def override_ko(
 
 def job(
     wikitext_dir: str,
-    filenames: List[str],
-    zh_cn_dir: Optional[str] = None,
-    assignment_file: Optional[str] = None,
-    tcg_vector: Optional[Dict[str, int]] = None,
-    ocg_vector: Optional[Dict[str, int]] = None,
-    unreleased_csv: Optional[str] = None,
-    ko_official_csv: Optional[str] = None,
-    ko_override_csv: Optional[str] = None,
-    ko_prerelease_csv: Optional[str] = None,
-    master_duel_raw_json: Optional[str] = None,
+    filenames: list[str],
+    zh_cn_dir: str | None = None,
+    assignment_file: str | None = None,
+    tcg_vector: dict[str, int] | None = None,
+    ocg_vector: dict[str, int] | None = None,
+    unreleased_csv: str | None = None,
+    ko_official_csv: str | None = None,
+    ko_override_csv: str | None = None,
+    ko_prerelease_csv: str | None = None,
+    master_duel_raw_json: str | None = None,
     return_results=False,
-) -> Optional[List[Dict[str, Any]]]:
+) -> list[dict[str, Any]] | None:
     yaml = YAML()
     yaml.width = sys.maxsize
     assignments = load_assignments(yaml, assignment_file) if assignment_file else None
