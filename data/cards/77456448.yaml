@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 魔法效果之剑
 text:
   en: |-
     Activate 1 of these effects;
@@ -31,7 +31,11 @@ text:
     ②：このカードが相手によって破壊された場合に発動できる。相手の手札・フィールドのカード１枚を破壊する（手札からはランダムに選ぶ）。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：可从以下效果中选择1个发动。
+    ●将对手场上表侧表示的魔法卡全部破坏。
+    ●以对手场上的1只表侧表示怪兽为对象可以发动。挑选自己手牌・墓地的1张“光与暗的仪式”，给双方确认。然后，对象怪兽的攻击力变为0，效果无效化。
+    ②：此卡被对手破坏的情况下可以发动。将对手手牌・场上的1张卡破坏（从手牌是随机挑选）。
 card_type: Spell
 property: Quick-Play
 series:
@@ -45,6 +49,10 @@ sets:
     set_name: Beyond the Brave
     rarities:
     - Common
+  zh-CN:
+  - set_number: BETB-SC064
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
