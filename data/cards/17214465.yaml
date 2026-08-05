@@ -32,7 +32,7 @@ text:
     이 카드가 앞면 표시로 필드 위에 존재하는 한, 필드는 "바다"가 된다. 필드 마법 카드가 존재할 경우, 이 효과는 적용되지 않는다.
   zh-TW:
   zh-CN: |-
-    只要这张卡在场上表侧表示存在，场上变成「海」。有场地魔法卡表侧表示存在的场合，这个效果不适用。
+    ①：不存在表侧表示的场地魔法卡的情况下，场地变为“海”。
 card_type: Monster
 monster_type_line: Aqua / Effect
 attribute: WATER
@@ -115,14 +115,18 @@ sets:
     rarities:
     - Common
   ko:
-  - set_number: BP2-KR211
-    set_name: Beginner's Edition 2
-    rarities:
-    - Common
   - set_number: PGD-KR008
     set_name: Pharaonic Guardian
     rarities:
     - Common
+  - set_number: BP2-KR211
+    set_name: Beginner's Edition 2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: BETB-SC089
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
