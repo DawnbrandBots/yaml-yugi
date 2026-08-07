@@ -51,8 +51,8 @@ text:
     ● Seu oponente ganha 1000 PV.
     Nenhum duelista pode ativar cards ou efeitos em resposta à ativação deste efeito.
   ja: |-
-    ①：このカードがフィールドゾーンに存在する限り、相手よりＬＰが少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自分メインフェイズに１０００ＬＰを払って以下の効果から１つを選択して発動できる。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。
-    ●デッキから１枚ドローする。
+    ①：このカードがフィールドゾーンに存在する限り、相手よりＬＰが少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自身のメインフェイズに１０００ＬＰを払って以下の効果から１つを選択して発動できる（この発動に対してお互いは効果を発動できない）。
+    ●１枚ドローする。
     ●このカードを破壊する。
     ●相手は１０００ＬＰ回復する。
   ko: |-
@@ -150,6 +150,7 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CORE-KR067
     set_name: Clash of Rebellions
