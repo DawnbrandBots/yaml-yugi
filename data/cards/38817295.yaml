@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23503
+password: 38817295
 name:
   en: Ultimate Sky
   de:
@@ -23,7 +23,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。
+    ●相手フィールドの表側表示モンスターの数まで、フィールドの表側表示カードを対象とし、対象とした数×８００ＬＰを払って発動できる。そのカードの効果をターン終了時まで無効にする。
+    ●相手が手札・墓地のモンスターの効果を発動した時に発動できる。その効果を無効にする。
   ko:
   zh-TW:
   zh-CN: |-
@@ -34,7 +37,9 @@ card_type: Spell
 property: Quick-Play
 images:
 - index: 1
-  image: UltimateSky-UT01-JP-OP.png
+  image: UltimateSky-UT01-JP-UR.png
+- index: 2
+  image: UltimateSky-UT01-JP-UR-EA.png
 sets:
   ja:
   - set_number: UT01-JP007

@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23497
+password: 30752324
 name:
   en: Ancient Secrets
   de:
@@ -26,7 +26,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・デッキ・墓地から通常モンスター１体を守備表示で特殊召喚する（デッキから特殊召喚する場合はレベル４以下でなければならない）。自分フィールドに通常モンスターカードが存在する場合、代わりに以下の効果から１つを選んで適用できる。●相手フィールドのモンスターを全て破壊する。●相手フィールドの魔法・罠カードを全て破壊する。●自分は２枚ドローする。●自分か相手の墓地からモンスター１体を自分フィールドに特殊召喚する。
   ko:
   zh-TW:
   zh-CN: |-
@@ -39,7 +40,9 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: AncientSecrets-UT01-JP-OP.png
+  image: AncientSecrets-UT01-JP-UR.png
+- index: 2
+  image: AncientSecrets-UT01-JP-UR-EA.png
 sets:
   ja:
   - set_number: UT01-JP001

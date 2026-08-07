@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23499
+password: 3635138
 name:
   en: Emissaries from Darkness
   de:
@@ -24,7 +24,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分が戦闘・効果ダメージを受けた場合に発動できる。このカードを手札から特殊召喚し、自分は２０００ＬＰ回復する。その後、以下の効果から１つを選んで適用できる。●自分の手札・デッキ・墓地から「冥府よりの使者」１体を特殊召喚する。●相手フィールドの攻撃表示モンスターを２体まで破壊する。②：このカードが特殊召喚したターンのエンドフェイズに、自分の墓地の罠カード１枚を対象として発動できる。そのカードを自分フィールドにセットする。
   ko:
   zh-TW:
   zh-CN: |-
@@ -37,7 +38,9 @@ atk: 2700
 def: 2500
 images:
 - index: 1
-  image: EmissariesfromDarkness-UT01-JP-OP.png
+  image: EmissariesfromDarkness-UT01-JP-UR.png
+- index: 2
+  image: EmissariesfromDarkness-UT01-JP-UR-EA.png
 sets:
   ja:
   - set_number: UT01-JP003
