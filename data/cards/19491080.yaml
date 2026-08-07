@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 小丑戏帮 哈特
 text:
   en: |-
     Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of "Clown Crew Cappello" once per turn);
@@ -27,7 +27,10 @@ text:
     ①：Ａ召喚したモンスターが自分フィールドに存在する限り、相手フィールドのモンスターの守備力は１５００ダウンする。②：このカードがリリースされた場合、以下の効果から１つを選択して発動できる（このカード名の以下の効果はそれぞれ１ターンに１度しか選択できない）。●お互いのＥＸデッキ（表側）・フィールドのＰモンスターを全てデッキに戻す。●デッキ・ＥＸデッキからＰモンスター以外の「道化の一座」モンスター１体を召喚条件を無視して特殊召喚する。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    ①：只要自己场上存在上级召唤的怪兽，对手场上的怪兽的守备力下降1500。②：此卡被解放的情况下，可从以下效果中选择1个发动（此卡名的以下效果1回合仅可各选择1次）。
+    ●将双方额外牌组（表侧）・场上的灵摆怪兽全部放回牌组。
+    ●从牌组・额外牌组将灵摆怪兽以外的1只“小丑戏帮”怪兽无视召唤条件特殊召唤。
 card_type: Monster
 monster_type_line: Beast-Warrior / Pendulum / Effect
 attribute: LIGHT
@@ -47,7 +50,8 @@ pendulum_effect:
     このカード名のＰ効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキからＰモンスター以外の「道化の一座」カード１枚を墓地へ送り、このカードを特殊召喚する。この効果の発動後、次のターンの終了時まで自分はデッキ・ＥＸデッキから特殊召喚されたモンスターの効果を発動できない。
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的灵摆效果1回合仅可使用1次。①：在自己的主要阶段可以发动。从牌组将灵摆怪兽以外的1张“小丑戏帮”卡送至墓地，将此卡特殊召唤。此效果发动后，直至下个回合结束时为止，自己不可发动被从牌组・额外牌组特殊召唤的怪兽的效果。
 series:
 - Clown Crew
 images:
@@ -83,6 +87,10 @@ sets:
     set_name: Yu-Gi-Oh! OCG Structures Volume 12 promotional card
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: BETB-SC092
+    set_name: Beyond the Brave
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
