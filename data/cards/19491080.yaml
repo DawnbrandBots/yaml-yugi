@@ -15,8 +15,8 @@ name:
   zh-CN: 小丑戏帮 哈特
 text:
   en: |-
-    Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of "Clown Crew Cappello" once per turn);
-    ● Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.
+    Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each effect of "Clown Crew Cappello" once per turn);
+    ● Shuffle all Pendulum Monsters from the face-up Extra Decks and the field into the Deck.
     ● Special Summon 1 non-Pendulum "Clown Crew" monster from your Deck or Extra Deck, ignoring its Summoning conditions.
   de:
   es:
@@ -40,7 +40,7 @@ def: 800
 pendulum_scale: 7
 pendulum_effect:
   en: |-
-    During your Main Phase: You can send 1 "Clown Crew" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of "Clown Crew Cappello" once per turn.
+    During your Main Phase: You can send 1 non-Pendulum "Clown Crew" card from your Deck to the GY, and if you do, Special Summon this card, also until the end of the next turn after this effect resolves, you cannot activate the effect of monsters Special Summoned from the Deck or Extra Deck. You can only use this effect of "Clown Crew Cappello" once per turn.
   de:
   es:
   fr:
@@ -94,7 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1178688
