@@ -12,9 +12,21 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
+summoning_condition:
+  en: |-
+    You can Normal Summon this card without Tributing. If you do, its original ATK becomes 1000.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 requirement:
   en: |-
-    (TBA)
+    Send the top card of your Deck to the Graveyard.
   de:
   es:
   fr:
@@ -26,7 +38,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    Make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn. If you have "Staaart Boasting About Your Health!" in your Graveyard, you can make 1 face-up monster on your opponent's field lose 500 ATK until the end of this turn.
   de:
   es:
   fr:
@@ -46,12 +58,13 @@ series:
 - Healthie
 images:
 - index: 1
-  image: HealthieRem-OW.png
+  image: HealthieRem-RDKP26-JP-OP.png
 sets:
   ja:
-  - set_number: RD/KP26-JP0??
+  - set_number: RD/KP26-JP022
     set_name: Headliner of Reigning
     rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true
