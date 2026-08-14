@@ -1,7 +1,7 @@
 konami_id:
 password:
 name:
-  en: Raise Moon Sky Cielo - No More Bets
+  en: Cielo, the Night Sky of Raise Moon - No More Bets!
   de:
   es:
   fr:
@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 盈彩月夜之天 西艾萝－一掷乾坤
 text:
   en: |-
     2 Level 7 "Raise Moon" monsters
@@ -28,7 +28,9 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    等级7“盈彩月夜”怪兽×2
+    此卡不可作为融合・超量・连接召唤的素材。①：此卡只要存在于额外怪兽区域，获得以下效果。●此卡不受其他卡的效果影响。●对手发动包含从牌组将卡加入手牌的效果在内的、效果的处理时，可将该效果改成“自己抽1张”。●在每个自己・对手回合中1次，去除此卡的1个超量素材可以发动。自己抽1张。②：此卡被对手送至墓地的情况下可以发动。自己抽1张。
 card_type: Monster
 monster_type_line: Spellcaster / Xyz / Effect
 attribute: LIGHT
@@ -40,16 +42,20 @@ series:
 - Raise Moon
 images:
 - index: 1
-  image: RaiseMoonSkyCieloNoMoreBets-DBGV-JP-OP.png
+  image: CielotheNightSkyofRaiseMoonNoMoreBets-DBGV-JP-OP.png
 sets:
   ja:
   - set_number: DBGV-JP022
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: DBGV-SC022
+    set_name: 'Deck-Build Pack: Glorious Victors'
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
