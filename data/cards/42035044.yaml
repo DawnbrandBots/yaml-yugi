@@ -32,7 +32,7 @@ text:
     ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 공격 선언 시기에, 자신은 이 카드 이외의 자신 필드의 몬스터 1장을 릴리스해야 한다.
   zh-TW:
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，这张卡的攻击宣言之际，自己必须把这张卡以外的自己场上1只怪兽解放。
+    ①：此卡的攻击宣言之际，自己必须解放自己场上的1只其他的怪兽。
 card_type: Monster
 monster_type_line: Beast-Warrior / Effect
 attribute: EARTH
@@ -155,6 +155,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  zh-CN:
+  - set_number: 26BZ-SC204
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

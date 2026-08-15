@@ -12,7 +12,7 @@ name:
   ko: 고르고닉 가고일
   ko_rr:
   zh-TW: 戈爾貢石像鬼
-  zh-CN: 戈尔贡石像鬼
+  zh-CN: 蛇魔・石像鬼
 text:
   en: |-
     When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.
@@ -32,7 +32,7 @@ text:
     자신이 암석족 몬스터의 일반 소환에 성공했을 때, 이 카드를 패에서 특수 소환할 수 있다.
   zh-TW:
   zh-CN: |-
-    自己对岩石族怪兽的召唤成功时，这张卡可以从手卡特殊召唤。
+    ①：自己将岩石族怪兽召唤时可以发动。从手牌将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Rock / Effect
 attribute: DARK
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: LVAL-KR012
     set_name: Legacy of the Valiant
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC214
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 머더 서커스 좀비
   ko_rr:
   zh-TW: 殺人小丑殭屍
-  zh-CN: 杀人小丑僵尸
+  zh-CN: 夺命马戏团僵尸
 text:
   en: |-
     A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.
@@ -32,7 +32,7 @@ text:
     어둠의 힘으로 되살아난 삐에로. 흐느적거리는 춤을 춰서 죽음으로 유도한다.
   zh-TW:
   zh-CN: |-
-    使用黑暗力量重生的小丑，利用摇晃的舞蹈将对方引向死亡。
+    被黑暗力量复活的小丑。以诡谲摇曳的舞步引人走向死亡。
 card_type: Monster
 monster_type_line: Zombie / Normal
 attribute: DARK
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: TP6-KR020
     set_name: Tournament Pack 6
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC247
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

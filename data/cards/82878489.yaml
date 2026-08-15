@@ -31,7 +31,7 @@ text:
     빛 속성 몬스터에만 장착 가능. ①: 장착 몬스터의 공격력은 700 올린다.
   zh-TW:
   zh-CN: |-
-    光属性怪兽才能装备。①：装备怪兽的攻击力上升700。
+    仅可装备于光属性怪兽。①：装备怪兽的攻击力上升700。
 card_type: Spell
 property: Equip
 images:
@@ -83,6 +83,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  zh-CN:
+  - set_number: 26BZ-SC239
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

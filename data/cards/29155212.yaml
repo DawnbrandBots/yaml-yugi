@@ -12,7 +12,7 @@ name:
   ko: 고스트 왕 펌프킹
   ko_rr:
   zh-TW: 鬼魂南瓜王
-  zh-CN: 鬼魂南瓜王
+  zh-CN: 鬼魂王－南瓜王－
 text:
   en: |-
     Gains 100 ATK/DEF while "Castle of Dark Illusions" is on the field. Also, during your Standby Phase, if "Castle of Dark Illusions" is on the field: This card gains 100 ATK/DEF. This effect activates once per turn, for four of your Standby Phases (counting this as the first). "Castle of Dark Illusions" must be on the field to activate and to resolve this effect. If "Castle of Dark Illusions" is not on the field, this ATK/DEF gain disappears and this effect resets.
@@ -32,7 +32,7 @@ text:
     "암흑의 성"이 필드 위에 앞면 표시로 존재하는 한, 이 카드의 공격력과 수비력은 100 포인트 올린다. 또한, 자신의 스텐바이 페이즈마다 다시 100 포인트씩 올린다. 이 효과는 자신의 4번째 스텐바이 페이즈까지 계속된다.
   zh-TW:
   zh-CN: |-
-    只要「暗晦之城」在场上表侧表示存在，这张卡的攻击力和守备力上升100。此外，每次自己的准备阶段再各上升100。这个效果直到自己的第4次的准备阶段持续。
+    ①：只要场上存在“暗晦之城”，此卡的攻击力・守备力上升100。②：场上存在“暗晦之城”的情况下，在自己的准备阶段发动（从此卡和“暗晦之城”都存在起开始，直至第4次自己的准备阶段为止）。此卡的攻击力・守备力只要场上存在“暗晦之城”则上升100。
 card_type: Monster
 monster_type_line: Zombie / Effect
 attribute: DARK
@@ -148,6 +148,11 @@ sets:
   ko:
   - set_number: MRD-K079
     set_name: Metal Raiders
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC245
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     只要场上存在「海」，此卡不受魔法卡的效果影响，对手怪兽不可将此卡作为攻击对象。
   zh-CN: |-
-    ①：只要这张卡在怪兽区域存在，场上有「海」存在，这张卡不受魔法卡的效果影响。②：只要这张卡在怪兽区域存在，场上有「海」存在，这张卡不会成为攻击对象。（自己场上只有这个效果适用的怪兽存在的状态中的对方的攻击变成对自己的直接攻击。）
+    ①：只要场上存在“海”，场上的此卡不受魔法卡的效果影响。②：只要场上存在“海”，此卡不会成为攻击对象（自己场上仅存在适用此效果的怪兽的状态下，对手的攻击变为对自己的直接攻击）。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -420,6 +420,11 @@ sets:
   zh-TW:
   - set_number: PR01-TC008
     set_name: Special Promotional Pack 2015 Volume 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC217
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

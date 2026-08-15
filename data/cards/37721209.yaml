@@ -12,7 +12,7 @@ name:
   ko: 해룡－다이달로스
   ko_rr:
   zh-TW: 海龍－戴達羅斯
-  zh-CN: 海龙－戴达罗斯
+  zh-CN: 海龙－代达罗斯
 text:
   en: |-
     You can send 1 face-up "Umi" you control to the GY; destroy all other cards on the field.
@@ -32,7 +32,7 @@ text:
     자신 필드 위에 존재하는 "바다"를 묘지로 보내는 것으로, 이 카드 이외의 필드 위의 카드를 전부 파괴한다.
   zh-TW:
   zh-CN: |-
-    可以通过把自己场上存在的「海」送去墓地，这张卡以外的场上的卡全部破坏。
+    ①：将自己场上的1张表侧表示的“海”送至墓地可以发动。将场上的其他卡全部破坏。
 card_type: Monster
 monster_type_line: Sea Serpent / Effect
 attribute: WATER
@@ -274,6 +274,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 26BZ-SC222
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

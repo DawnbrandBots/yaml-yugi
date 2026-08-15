@@ -32,7 +32,7 @@ text:
     1000 LP 를 지불하고 이 카드를 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    支付1000基本分才能把这张卡发动。
+    支付1000LP可以发动此卡。
 card_type: Spell
 property: Continuous
 series:
@@ -412,6 +412,11 @@ sets:
     - Common
   - set_number: DP16-KR044
     set_name: 'Duelist Pack: Battle City'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC237
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 데스티니 히어로 데블 가이
   ko_rr:
   zh-TW: 命運－英雄 魔鬼小子
-  zh-CN: 命运－英雄 魔鬼小子
+  zh-CN: 命运－英雄 恶劫魔侠
 text:
   en: |-
     Once per turn: You can target 1 monster your opponent controls; banish that target. You cannot declare an attack the turn you activate this effect. You must control this face-up Attack Position card to activate and to resolve this effect. The banished monster returns to the opponent's field during your 2nd Standby Phase after activation.
@@ -32,7 +32,7 @@ text:
     이 카드가 자신 필드 위에 앞면 공격 표시로 존재할 경우, 1턴에 1번만 상대 몬스터 1장을 게임에서 제외할 수 있다. 이 효과를 사용한 플레이어는 이 턴에 전투를 실행할 수 없다. 이 효과에 의해서 제외한 몬스터는 2번째 자신의 스텐바이 페이즈시에 같은 표시 형식으로 상대 필드 위로 되돌아간다.
   zh-TW:
   zh-CN: |-
-    这张卡在自己场上表侧攻击表示存在的场合，1回合只有1次可以把1只对方怪兽从游戏中除外。这个效果使用的玩家在这个回合不能进行战斗。这个效果除外的怪兽在第2次的自己的准备阶段时以相同的表示形式回到对方场上。
+    此卡名的效果发动的回合中，自己不可攻击宣言。①：1回合1次，以对手场上的1只怪兽为对象可以发动（此效果在此卡以表侧攻击表示存在于自己场上的情况下才能发动和处理）。将该对手怪兽直至发动后的第2次自己的准备阶段为止除外。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -167,6 +167,11 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Rare
+  zh-CN:
+  - set_number: 26BZ-SC225
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

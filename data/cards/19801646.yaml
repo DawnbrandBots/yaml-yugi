@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 "전설의 어부"로 취급한다. ②: 필드에 "바다"가 존재하는 한, 필드의 이 카드는 다른 몬스터의 효과를 받지 않는다. ③: 앞면 표시의 이 카드가 상대 효과로 필드에서 벗어났을 경우, 또는 전투로 파괴되었을 경우에 발동할 수 있다. 덱에서 물 속성 / 레벨 7 몬스터 1장을 패에 넣는다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡的卡名只要在场上·墓地存在当作「传说的渔人」使用。②：只要这张卡在怪兽区域存在并在场上有「海」存在，这张卡不受其他怪兽的效果影响。③：表侧表示的这张卡因对方的效果从场上离开的场合或者被战斗破坏的场合才能发动。从卡组把1只水属性·7星怪兽加入手卡。
+    ①：此卡只要存在于场上・墓地，卡名视为“传说的渔夫”。②：只要场上存在“海”，场上的此卡不受其他怪兽的效果影响。③：表侧表示的此卡因对手的效果从场上离开的情况下，或因战斗被破坏的情况下可以发动。从牌组将1只水属性・等级7怪兽加入手牌。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: WATER
@@ -209,6 +209,11 @@ sets:
     - Rare
   - set_number: DP26-KR024
     set_name: 'Duelist Pack: Duelists of the Abyss'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC218
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 고르고닉 구울
   ko_rr:
   zh-TW: 戈爾貢食屍鬼
-  zh-CN: 戈尔贡食尸鬼
+  zh-CN: 蛇魔・食尸鬼
 text:
   en: |-
     If you control a "Gorgonic Ghoul": You can pay 300 LP; Special Summon this card from your hand. You can use the effect of "Gorgonic Ghoul" up to twice per turn.
@@ -32,7 +32,7 @@ text:
     자신 필드 위에 "고르고닉 구울"이 존재할 경우, 300 라이프 포인트를 지불하고 발동할 수 있다. 이 카드를 패에서 특수 소환한다. "고르고닉 구울"의 효과는 1턴에 2번까지 사용할 수 있다.
   zh-TW:
   zh-CN: |-
-    自己场上有「蛇头食尸鬼」存在的场合，支付300基本分才能发动。这张卡从手卡特殊召唤。「蛇头食尸鬼」的效果1回合可以使用最多2次。
+    此卡名的效果1回合最多可使用2次。①：此卡存在于手牌，且自己场上存在“蛇魔・食尸鬼”的情况下，支付300LP可以发动。将此卡特殊召唤。
 card_type: Monster
 monster_type_line: Rock / Effect
 attribute: DARK
@@ -107,6 +107,11 @@ sets:
   ko:
   - set_number: LVAL-KR013
     set_name: Legacy of the Valiant
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC215
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

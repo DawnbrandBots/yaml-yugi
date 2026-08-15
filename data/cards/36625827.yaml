@@ -32,7 +32,7 @@ text:
     이 카드가 일반 소환에 성공했을 때, "유옥의 시계탑"에 시계 카운터를 1개 놓는다. 이 카드가 전투에 의해서 파괴되어 묘지로 보내졌을 때, 자신 필드 위의 마법/함정 카드 1장을 파괴할 수 있다.
   zh-TW:
   zh-CN: |-
-    这张卡召唤成功时，给「幽狱之时计塔」放置1个时计指示物。这张卡被战斗破坏送去墓地时，可以把自己场上1张魔法·陷阱卡破坏。
+    ①：此卡召唤的情况下发动。在场上的所有“幽狱时钟塔”上各放1个时钟计数物。②：此卡因战斗被破坏并被送至墓地时，以自己场上的1张魔法・陷阱卡为对象可以发动。将该自己的卡破坏。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -116,6 +116,11 @@ sets:
   ko:
   - set_number: LODT-KR004
     set_name: Light of Destruction
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC226
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -32,7 +32,7 @@ text:
     ①: 주사위를 1회 던진다. 상대 필드의 몬스터의 공격력 / 수비력은, 턴 종료시까지 나온 눈의 수 × 100 내린다.
   zh-TW:
   zh-CN: |-
-    ①：掷1次骰子。对方场上的怪兽的攻击力·守备力直到回合结束时下降出现的数目×100。
+    ①：掷1次骰子。对手场上的怪兽的攻击力・守备力直至回合结束时为止下降掷出的数字×100的数值。
 card_type: Trap
 property: Normal
 images:
@@ -217,6 +217,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  zh-CN:
+  - set_number: 26BZ-SC206
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

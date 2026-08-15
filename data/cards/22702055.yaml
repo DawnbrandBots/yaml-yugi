@@ -32,7 +32,7 @@ text:
     모든 어류족, 해룡족, 번개족, 물족의 공격력과 수비력은 200 포인트 올린다. 또한 모든 기계족, 화염족의 공격력과 수비력은 200 포인트 내린다.
   zh-TW:
   zh-CN: |-
-    场上表侧表示存在的鱼族·海龙族·雷族·水族怪兽的攻击力·守备力上升200。场上表侧表示存在的机械族·炎族怪兽的攻击力·守备力下降200。
+    ①：场上的鱼族・海龙族・雷族・水族怪兽的攻击力・守备力上升200，场上的机械族・炎族怪兽的攻击力・守备力下降200。
 card_type: Spell
 property: Field
 series:
@@ -204,6 +204,11 @@ sets:
     - Common
   - set_number: BP1-KR112
     set_name: Beginner's Edition 1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC220
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

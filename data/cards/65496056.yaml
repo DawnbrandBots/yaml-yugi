@@ -12,7 +12,7 @@ name:
   ko: 코다로스
   ko_rr:
   zh-TW: 小達羅斯
-  zh-CN: 科达路斯
+  zh-CN: 小达罗斯
 text:
   en: |-
     You can send 1 face-up "Umi" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.
@@ -32,7 +32,7 @@ text:
   zh-TW: |-
     可将我方场上以表侧表示存在的「海」送入墓地并发动。选择对手场上最多2张卡牌送入墓地。
   zh-CN: |-
-    把自己场上表侧表示存在的「海」送去墓地才能发动。选择对方场上最多2张卡送去墓地。
+    ①：将自己场上的1张表侧表示的“海”送至墓地，以对手场上的最多2张卡为对象可以发动。将该对手的卡送至墓地。
 card_type: Monster
 monster_type_line: Sea Serpent / Effect
 attribute: WATER
@@ -113,6 +113,11 @@ sets:
   zh-TW:
   - set_number: SD23-TC010
     set_name: 'Structure Deck: Roar of the Sea Emperor'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC221
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:

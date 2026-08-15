@@ -32,7 +32,7 @@ text:
     ①: 상대 몬스터가 자신의 레벨 4 이하의 툰 몬스터에 공격 선언했을 때에 이 효과를 발동할 수 있다. 그 상대 몬스터의 공격을 자신에게로의 직접 공격으로 한다.
   zh-TW:
   zh-CN: |-
-    ①：对方怪兽向自己的4星以下的卡通怪兽攻击宣言时才能把这个效果发动。那只对方怪兽的攻击变成对自己的直接攻击。
+    ①：对手怪兽对自己的等级4以下的卡通怪兽攻击宣言时可以发动。将该对手怪兽的攻击改成对自己的直接攻击。
 card_type: Trap
 property: Continuous
 series:
@@ -163,6 +163,11 @@ sets:
     - Common
   - set_number: AE08-KR009
     set_name: Advanced Event Pack 2015 Vol.2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC243
+    set_name: Beyond the Brave Complement Pack
     rarities:
     - Common
 limit_regulation:
