@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    Take control of 1 face-up Level 8 or lower monster on your opponent's field that is not in Maximum Mode until the End Phase. This turn, you cannot activate the effects of that monster.
+    Take control of 1 face-up Level 8 or lower monster on your opponent's field that is not in Maximum Mode until the End Phase. This turn, you cannot activate that monster's effects.
   de:
   es:
   fr:
@@ -42,6 +42,7 @@ attribute: LIGHT
 level: 8
 atk: 2500
 def: 1500
+ritual_spell: Final Ritual of the Ancients (Rush Duel)
 images:
 - index: 1
   image: ResheftheDarkBeing-RDKP26-JP-OP.png
@@ -51,6 +52,7 @@ sets:
     set_name: Headliner of Reigning
     rarities:
     - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   text:
     en: true
