@@ -6,15 +6,15 @@ name:
   fr:
   it:
   pt:
-  ja: <ruby>絶<rt>ぜっ</rt></ruby><ruby>超<rt>ちょう</rt></ruby>デモンスダイブ
-  ja_romaji: Zecchō Demonsu Daibu
+  ja: <ruby>絶<rt>ぜっ</rt></ruby><ruby>超<rt>ちょう</rt></ruby>デモンズダイブ
+  ja_romaji: Zecchō Demonzu Daibu
   ko:
   ko_rr:
   zh-TW:
   zh-CN:
 requirement:
   en: |-
-    (TBA)
+    When your opponent Normal Summons a Level 4 or lower monster, shuffle 2 LIGHT Attribute Fiend Type monsters from your Graveyard into the Deck.
   de:
   es:
   fr:
@@ -26,7 +26,7 @@ requirement:
   zh-CN:
 effect:
   en: |-
-    (TBA)
+    Destroy that Normal Summoned monster. Then, you can Special Summon 1 Level 7 or higher LIGHT Attribute Fiend Type monster from your Graveyard to your field in face-up Defense Position.
   de:
   es:
   fr:
@@ -40,12 +40,13 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: RebelsDive-OW.png
+  image: RebelsDive-RDKP26-JP-OP.png
 sets:
   ja:
   - set_number: RD/KP26-JP062
     set_name: Headliner of Reigning
     rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true
