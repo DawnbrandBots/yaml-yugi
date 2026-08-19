@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 归光之旅－『塞尼特』
 text:
   en: |-
     Show 2 or 3 Normal Monster Cards in your hand, Deck, face-up field, and/or GY, then apply the appropriate effect based on the number shown, then if you showed a card(s) in the hand, you can draw 1 card.
@@ -27,7 +27,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的卡1回合仅可发动1张。①：依以下的数量，挑选自己手牌・牌组・场上（表侧表示）・墓地的通常怪兽卡，给双方确认。然后，依其数量适用以下效果。以此效果确认了手牌的卡的情况下，自己可进而抽1张。
+    ●2张：从额外牌组将除效果怪兽以外的、1只等级8以下的融合怪兽视为通常怪兽卡特殊召唤。
+    ●3张：将牌组的1只“塞尼特”怪兽或自己墓地的1只通常怪兽特殊召唤。
 card_type: Spell
 property: Normal
 series:
@@ -40,9 +43,13 @@ sets:
   - set_number: DBGV-JP008
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+  zh-CN:
+  - set_number: DBGV-SC008
+    set_name: 'Deck-Build Pack: Glorious Victors'
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
