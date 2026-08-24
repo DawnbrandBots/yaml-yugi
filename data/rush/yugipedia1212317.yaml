@@ -12,8 +12,21 @@ name:
   ko_rr:
   zh-TW:
   zh-CN:
-text:
-  en:
+requirement:
+  en: |-
+    During your Main Phase that you Fusion Summoned this card.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Choose any number of Spell Cards in the Graveyards. While this card is face-up, it gains ATK equal to [the number of chosen cards] x 100. Then, shuffle the chosen cards into the owner's Deck.
   de:
   es:
   fr:
@@ -29,11 +42,30 @@ attribute: DARK
 level: 8
 atk: 2900
 def: 2500
+materials:
+  en: |-
+    "Dark Magician" + 1 Dragon Type monster
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN:
 series:
 - Dark Magician
+images:
+- index: 1
+  image: AmuletDragon-RDCA01-JP-OP.png
 sets:
   ja:
-  - set_number: RD/????-JP0??
+  - set_number: RD/CA01-JP085
     set_name: Cross Art Collection
     rarities:
+    - Over Rush Rare
+is_translation_unofficial:
+  text:
+    en: true
 yugipedia_page_id: 1212317
