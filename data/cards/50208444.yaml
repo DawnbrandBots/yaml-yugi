@@ -15,7 +15,7 @@ name:
   zh-CN: 精灵世妃 多里雅德
 text:
   en: |-
-    Neither player can activate cards or effects in response to the activation of this card's effects. If you have 3 or more different Attributes in your GY and this card is in your hand: You can target 1 monster in your GY; Special Summon both it and this card. If you have 3 or more different Attributes in your GY: You can Special Summon 1 monster from your Deck with a different Attribute from the monsters in your field and GY. You can only use each effect of "Elemental Saga Doriado" once per turn.
+    If this card is in your hand, and you have 3 or more different Attributes among the monsters in your GY: You can target 1 monster in your GY; Special Summon both it and this card. If you have 3 or more different Attributes among the monsters in your GY: You can Special Summon 1 monster from your Deck with a different Attribute from the monsters in your field or GY. You can only use each effect of "Elemental Saga Doriado" once per turn, also neither player can activate cards or effects in response to either of these effect activations.
   de:
   es:
   fr:
@@ -41,6 +41,36 @@ images:
 - index: 2
   image: ElementalSagaDoriado-BETB-JP-PScR.png
 sets:
+  en:
+  - set_number: BETB-EN028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BETB-DE028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: BETB-SP028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BETB-FR028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BETB-IT028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BETB-PT028
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
   ja:
   - set_number: BETB-JP028
     set_name: Beyond the Brave
@@ -58,9 +88,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1205838
