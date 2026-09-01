@@ -1,7 +1,7 @@
 konami_id: 23349
 password: 24203749
 name:
-  en: The World's Greatest Gallant Thief
+  en: The Great Gallant Bandit
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 天下独步之大义贼
 text:
   en: |-
-    If you control no monsters, you can Tribute Summon this card face-up by Tributing monsters from your hand and/or your opponent's field. You can only use each of the following effects of "The World's Greatest Gallant Thief" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, while you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.
+    You can Tribute Summon this card face-up by Tributing monsters in your hand and/or your opponent's field, while you control no monsters. You can only use each of the following effects of "The Great Gallant Bandit" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, and you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.
   de:
   es:
   fr:
@@ -35,10 +35,46 @@ atk: 2500
 def: 2000
 images:
 - index: 1
-  image: TheWorldsGreatestGallantThief-BETB-JP-UtR.png
+  image: TheGreatGallantBandit-BETB-JP-UtR.png
 - index: 2
-  image: TheWorldsGreatestGallantThief-BETB-JP-PScR.png
+  image: TheGreatGallantBandit-BETB-JP-PScR.png
 sets:
+  en:
+  - set_number: BETB-EN027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  de:
+  - set_number: BETB-DE027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  es:
+  - set_number: BETB-SP027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  fr:
+  - set_number: BETB-FR027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  it:
+  - set_number: BETB-IT027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  pt:
+  - set_number: BETB-PT027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
   ja:
   - set_number: BETB-JP027
     set_name: Beyond the Brave
@@ -56,9 +92,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1204667
