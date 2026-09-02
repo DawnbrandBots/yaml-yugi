@@ -8,7 +8,7 @@ name:
   pt:
   ja: ディパーチャー・ゾーン
   ja_romaji: Dipāchā Zōn
-  ko:
+  ko: 디파처 존
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードは、先攻１ターン目以外に、デッキの上からカード２枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    이 카드는, 선공 1번째 턴 이외에, 덱 위에서 카드 2장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードがフィールドゾーンに表側表示である限り、このカードは効果では破壊されず、自身のフィールドゾーンにカードがあるプレイヤーはドローフェイズに手札が５枚になるように通常のドローをする場合、代わりに手札が６枚になるように通常のドローをする。
-  ko:
+  ko: |-
+    이 카드가 필드 존에 앞면 표시인 한, 이 카드는 효과로는 파괴되지 않으며, 자신의 필드 존에 카드가 있는 플레이어는 드로우 페이즈에 패가 5장이 되도록 일반 드로우를 할 경우, 대신에 패가 6장이 되도록 일반 드로우를 한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP4-JP075
+    set_name: Over Rush Pack 4
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/ORP4-KR075
     set_name: Over Rush Pack 4
     rarities:
     - Ultra Rare

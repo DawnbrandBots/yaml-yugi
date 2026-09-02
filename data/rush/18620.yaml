@@ -23,7 +23,7 @@ requirement:
   ja: |-
     このカード以外の自分フィールドのカード１枚をお互いに確認し、持ち主のデッキの下に戻して発動できる。
   ko: |-
-    이 카드 이외의 자신 필드의 카드 1장을 주인의 덱 아래로 되돌리고 발동할 수 있다.
+    이 카드 이외의 자신 필드의 카드 1장을 서로 확인하고, 주인의 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect_types:
@@ -80,6 +80,10 @@ sets:
   ko:
   - set_number: RD/KP12-KR038
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  - set_number: RD/ORP4-KR041
+    set_name: Over Rush Pack 4
     rarities:
     - Common
 yugipedia_page_id: 716750

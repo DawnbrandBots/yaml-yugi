@@ -2,11 +2,11 @@ konami_id: 22703
 password: 1186447
 name:
   en: Horoscope Sorcerer, the Stargazer Magician
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Horoskopzauberer, sterndeutender Magier
+  es: Hechicero del Horóscopo, el Mago Contemplaestrellas
+  fr: Sorcier Horoscopique, le Magicien Observateur des Étoiles
+  it: Stregone Oroscopo, il Mago Mirastelle
+  pt: Feiticeiro do Horóscopo, o Mago Observador das Estrelas
   ja: <ruby>星<rt>ほし</rt></ruby><ruby>読<rt>よ</rt></ruby>みの<ruby>魔<rt>ま</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>－ホロスコープ・マジシャン
   ja_romaji: Hoshiyomi no Majutsushi - Horosukōpu Majishan
   ko: 별을 읽는 마술사－홀로스코프 매지션
@@ -16,11 +16,16 @@ name:
 text:
   en: |-
     If this card is in your hand: You can discard 1 other "Magician" Pendulum Monster, "Performapal" monster, or "Odd-Eyes" monster; Special Summon this card. If this card is Special Summoned: You can add 1 Pendulum Monster with 2500 ATK from your Deck to your hand. You can target 1 Pendulum Monster Card you control; destroy it, then you can add 1 face-up Pendulum Monster from your Extra Deck to your hand. You can only use each effect of "Horoscope Sorcerer, the Stargazer Magician" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Falls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes „Magier“-Pendelmonster, „Künstlerkumpel“-Monster oder „Buntäugig“-Monster abwerfen; beschwöre diese Karte als Spezialbeschwörung. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Pendelmonster mit 2500 ATK von deinem Deck hinzufügen. Du kannst 1 Pendelmonsterkarte wählen, die du kontrollierst; zerstöre sie, dann kannst du deiner Hand 1 offenes Pendelmonster von deinem Extra Deck hinzufügen. Du kannst jeden Effekt von „Horoskopzauberer, sterndeutender Magier“ nur einmal pro Spielzug verwenden.
+  es: |-
+    Si esta carta está en tu mano: puedes descartar otro Monstruo de Péndulo "Mago/a", monstruo "Artistamigo" o monstruo "Ojos Anómalos"; Invoca esta carta de Modo Especial. Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 Monstruo de Péndulo con 2500 ATK en tu Deck. Puedes seleccionar 1 Carta de Monstruo de Péndulo que controles; destrúyela, y después puedes añadir a tu mano 1 Monstruo de Péndulo boca arriba en tu Deck Extra. Sólo puedes usar cada efecto de "Hechicero del Horóscopo, el Mago Contemplaestrellas" una vez por turno.
+  fr: |-
+    Si cette carte est dans votre main : vous pouvez défausser 1 autre Monstre Pendule "Magicien", monstre "Potartiste" ou monstre "Yeux Impairs" ; Invoquez Spécialement cette carte. Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Monstre Pendule avec 2500 ATK depuis votre Deck à votre main. Vous pouvez cibler 1 Carte Monstre Pendule que vous contrôlez ; détruisez-la, puis vous pouvez ajouter 1 Monstre Pendule face recto depuis votre Extra Deck à votre main. Vous ne pouvez utiliser chaque effet de "Sorcier Horoscopique, le Magicien Observateur des Étoiles" qu'une fois par tour.
+  it: |-
+    Se questa carta è nella tua mano: puoi scartare 1 altro Mostro Pendulum "Mago", mostro "Artistamico" o mostro "Occhi Diversi"; Evoca Specialmente questa carta. Se questa carta viene Evocata Specialmente: puoi aggiungere 1 Mostro Pendulum con 2500 ATK dal tuo Deck alla tua mano. Puoi scegliere come bersaglio 1 Carta Mostro Pendulum che controlli; distruggila, poi puoi aggiungere 1 Mostro Pendulum scoperto dal tuo Extra Deck alla tua mano. Puoi utilizzare ogni effetto di "Stregone Oroscopo, il Mago Mirastelle" una sola volta per turno.
+  pt: |-
+    Se este card estiver na sua mão: você pode descartar 1 outro Monstro Pêndulo "Mago", monstro "Camarartista" ou monstro "Olhos Anômalos"; Invoque este card por Invocação-Especial. Se este card for Invocado por Invocação-Especial: você pode adicionar 1 Monstro Pêndulo com 2500 de ATK do seu Deck à sua mão. Você pode escolher 1 Card de Monstro Pêndulo que você controla; destrua-o e, depois, você pode adicionar 1 Monstro Pêndulo com a face para cima do seu Deck Adicional à sua mão. Você só pode usar cada efeito de "Feiticeiro do Horóscopo, o Mago Observador das Estrelas" uma vez por turno.
   ja: |-
     このカード名の①②③のモンスター効果はそれぞれ１ターンに１度しか使用できない。①：手札から他の「魔術師」Ｐモンスター、「ＥＭ」モンスター、「オッドアイズ」モンスター１体を捨てて発動できる。このカードを手札から特殊召喚する。②：このカードが特殊召喚した場合に発動できる。デッキから攻撃力２５００のＰモンスター１体を手札に加える。③：自分フィールドのＰモンスターカード１枚を対象として発動できる。そのカードを破壊する。その後、自分のＥＸデッキ（表側）からＰモンスター１体を手札に加える事ができる。
   ko: |-
@@ -38,11 +43,16 @@ pendulum_scale: 1
 pendulum_effect:
   en: |-
     When a Spell Card or effect activated by your opponent resolves, if you control a "Magician" Pendulum Monster or an "Odd-Eyes" monster, you can negate that effect, then destroy this card. You can only use this effect of "Horoscope Sorcerer, the Stargazer Magician" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Wenn eine Zauberkarte oder ein Zaubereffekt aufgelöst wird, die oder der von deinem Gegner aktiviert wurde, falls du ein „Magier“-Pendelmonster oder ein „Buntäugig“-Monster kontrollierst, kannst du jenen Effekt annullieren, dann zerstöre diese Karte. Du kannst diesen Effekt von „Horoskopzauberer, sterndeutender Magier“ nur einmal pro Spielzug verwenden.
+  es: |-
+    Cuando se resuelve una Carta Mágica o su efecto activados por tu adversario, si controlas un Monstruo de Péndulo "Mago/a" o un monstruo "Ojos Anómalos", puedes negar ese efecto, y después destruye esta carta. Sólo puedes usar este efecto de "Hechicero del Horóscopo, el Mago Contemplaestrellas" una vez por turno.
+  fr: |-
+    Lorsqu'une Carte Magie ou effet de Magie activé par votre adversaire est résolu, si vous contrôlez un Monstre Pendule "Magicien" ou monstre "Yeux Impairs", vous pouvez annuler l'effet, puis détruisez cette carte. Vous ne pouvez utiliser cet effet de "Sorcier Horoscopique, le Magicien Observateur des Étoiles" qu'une fois par tour.
+  it: |-
+    Quando una Carta Magia o un suo effetto che il tuo avversario ha attivato si risolve, se controlli un Mostro Pendulum "Mago" o un mostro "Occhi Diversi", puoi annullare quell'effetto, poi distruggere questa carta. Puoi utilizzare questo effetto di "Stregone Oroscopo, il Mago Mirastelle" una sola volta per turno.
+  pt: |-
+    Quando um Card de Magia ou efeito ativado pelo seu oponente resolver, se você controlar um Monstro Pêndulo "Mago" ou um monstro "Olhos Anômalos", você pode negar o efeito e, depois, destrua este card. Você só pode usar este efeito de "Feiticeiro do Horóscopo, o Mago Observador das Estrelas" uma vez por turno.
   ja: |-
     このカード名のＰ効果は１ターンに１度しか使用できない。①：相手が発動した魔法カードの効果の処理時に、自分フィールドに「魔術師」Ｐモンスターか「オッドアイズ」モンスターが存在する場合、その発動した効果を無効にできる。その後、このカードを破壊する。
   ko: |-

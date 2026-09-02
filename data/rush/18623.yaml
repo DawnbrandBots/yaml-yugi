@@ -39,7 +39,7 @@ effect:
   ja: |-
     自分フィールドの表側表示のカードは、相手の効果では破壊されない。
   ko: |-
-    자신 필드의 앞면 표시의 카드는, 상대의 효과로는 파괴되지 않는다.
+    자신 필드의 앞면 표시인 카드는, 상대의 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -80,6 +80,10 @@ sets:
   ko:
   - set_number: RD/KP12-KR041
     set_name: 'Deck Mod Pack: Double Star of the Assault!!'
+    rarities:
+    - Common
+  - set_number: RD/ORP4-KR040
+    set_name: Over Rush Pack 4
     rarities:
     - Common
 yugipedia_page_id: 714704

@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>地<rt>ち</rt></ruby><ruby>霊<rt>れい</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><ruby>師<rt>し</rt></ruby>の<ruby>使<rt>つか</rt></ruby>い<ruby>魔<rt>ま</rt></ruby>
   ja_romaji: Chireijutsushi no Tsukaima
-  ko:
+  ko: 지령술사의 사역마
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードまたはデッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 이 카드 또는 덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その属性をターン終了時まで地属性にする。その後、自分フィールドの裏側表示の「地霊使いアウス」１体を選んで表側守備表示にできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 속성을 턴 종료시까지 땅 속성으로 한다. 그 후, 자신 필드의 뒷면 표시인 "지령사 아우스" 1장을 고르고 앞면 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/ORP4-JP013
+    set_name: Over Rush Pack 4
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/ORP4-KR013
     set_name: Over Rush Pack 4
     rarities:
     - Super Rare

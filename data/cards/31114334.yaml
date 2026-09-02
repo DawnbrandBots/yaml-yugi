@@ -2,11 +2,11 @@ konami_id: 22713
 password: 31114334
 name:
   en: Assault Blackwing - Kusanagi the Gathering Storm
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Angriffs-Schwarzflügel - Kusanagi der nahende Sturm
+  es: Alanegra de Asalto - Kusanagi la Tormenta de Acopio
+  fr: Assaut Aile Noire - Kusanagi la Tempête Rassembleuse
+  it: Alanera d'Assalto - Kusanagi la Tempesta Raccoglitrice
+  pt: Asanegra Agressor - Kusanagi, a Tempestade Aglutinante
   ja: <ruby>Ａ<rt>アサルト</rt></ruby> <ruby>ＢＦ<rt>ブラックフェザー</rt></ruby>－<ruby>叢<rt>むら</rt></ruby><ruby>雲<rt>くも</rt></ruby>のクサナギ
   ja_romaji: Asaruto Burakku Fezā - Murakumo no Kusanagi
   ko: A BF－총운의 쿠사나기
@@ -17,11 +17,21 @@ text:
   en: |-
     1 Tuner + 1+ non-Tuners
     If this card is Synchro Summoned using a "Blackwing" monster as material, it is treated as a Tuner while face-up on the field. After this card is Synchro Summoned, it gains ATK equal to the total original ATK of the Synchro Monsters used as material, until the end of this turn. Can attack all your opponent's monsters, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    1 Empfänger + 1+ Nicht-Empfänger
+    Falls diese Karte als Synchrobeschwörung beschworen wird, indem ein „Schwarzflügel“-Monster als Material verwendet wird, wird sie als Empfänger behandelt, solange sie offen auf dem Spielfeld liegt. Nachdem diese Karte als Synchrobeschwörung beschworen wurde, erhält sie bis zum Ende dieses Spielzugs ATK in Höhe der Summe der Grund-ATK der Synchromonster, die als Material verwendet wurden. Kann alle Monster deines Gegners je einmal angreifen. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.
+  es: |-
+    1 Cantante + 1+ no Cantantes
+    Si esta carta es Invocada por Sincronía usando un monstruo "Alanegra" como material, mientras esté boca arriba en el Campo se trata como Cantante. Después de que esta carta es Invocada por Sincronía, gana ATK igual al ATK original total de los Monstruos de Sincronía usados como material, hasta el final de este turno. Puede atacar a todos los monstruos de tu adversario, una vez a cada uno. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.
+  fr: |-
+    1 Syntoniseur + 1+ non-Syntoniseur
+    Si cette carte est Invoquée par Synchronisation en utilisant un monstre "Aile Noire" comme Matériel, elle est traitée comme Syntoniseur tant qu'elle est face recto sur le Terrain. Après que cette carte est Invoquée par Synchronisation, elle gagne une ATK égale à la somme des ATK d'origine des Monstres Synchro utilisés comme Matériel, jusqu'à la fin de ce tour. Peut attaquer une fois tous les monstres de votre adversaire. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.
+  it: |-
+    1 Tuner + 1+ non-Tuner
+    Se questa carta viene Synchro Evocata utilizzando un mostro "Alanera" come materiale, viene considerata come un Tuner mentre è scoperta sul Terreno. Dopo che questa carta è stata Synchro Evocata, essa guadagna ATK pari alla somma degli ATK originali dei Mostri Synchro utilizzati come materiale, fino alla fine di questo turno. Può attaccare tutti i mostri del tuo avversario, una volta ciascuno. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.
+  pt: |-
+    1 Regulador + 1+ não-Reguladores
+    Se este card for Invocado por Invocação-Sincro usando um monstro "Asanegra" como matéria, ele é considerado como um Regulador enquanto estiver com a face para cima no campo. Depois que este card for Invocado por Invocação-Sincro, ele ganha ATK igual à soma do ATK original dos Monstros Sincro usados como matéria, até o final deste turno. Pode atacar todos os monstros do seu oponente, uma vez cada. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
     ①：「ＢＦ」モンスターを素材としてＳ召喚したこのカードはチューナーとして扱う。②：このカードがＳ召喚した時に適用する。このカードの攻撃力はターン終了時まで、そのＳ素材としたＳモンスターの元々の攻撃力の合計分アップする。③：このカードは相手モンスター全てに１回ずつ攻撃でき、守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。
@@ -38,13 +48,13 @@ attribute: DARK
 level: 9
 atk: 3000
 def: 1000
-materials: 1 Tuner + 1 or more non-Tuner monsters
+materials: 1 Tuner + 1+ non-Tuners
 series:
 - Assault Blackwing
 - Blackwing
 images:
 - index: 1
-  image: AssaultBlackwingKusanagitheGatheringStorm-LOCH-JP-UR.png
+  image: AssaultBlackwingKusanagitheGatheringStorm-MAMO-EN-UR-1E.png
 sets:
   en:
   - set_number: MAMO-EN026

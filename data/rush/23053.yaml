@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>霊<rt>れい</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>化<rt>か</rt></ruby>の<ruby>鍛<rt>たん</rt></ruby><ruby>錬<rt>れん</rt></ruby>
   ja_romaji: Reitaika no Tanren
-  ko:
+  ko: 령체화의 단련
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「霊体化の鍛錬」を発動していないターンに、手札の同じ属性を持つモンスター２体を相手に見せて発動できる。
-  ko:
+  ko: |-
+    자신이 "령체화의 단련"을 발동하고 있지 않은 턴에, 패의 같은 속성을 가지는 몬스터 2장을 상대에게 보여주고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     この効果の条件で見せたモンスターと同じ属性を持つ、自分の墓地のモンスター（魔法使い族／攻撃力５００・１９００／守備力１５００）とモンスター（レベル４／攻撃力１５００／守備力２００）をそれぞれ１体まで選んで手札に加える。
-  ko:
+  ko: |-
+    이 효과의 조건으로 보여준 몬스터와 같은 속성을 가지는, 자신 묘지의 몬스터(마법사족 / 공격력 500・1900 / 수비력 1500)와 몬스터(레벨 4 / 공격력 1500 / 수비력 200)를 각각 1장까지 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/ORP4-JP020
+    set_name: Over Rush Pack 4
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/ORP4-KR020
     set_name: Over Rush Pack 4
     rarities:
     - Common

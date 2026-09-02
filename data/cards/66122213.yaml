@@ -2,11 +2,11 @@ konami_id: 22213
 password: 66122213
 name:
   en: Infernal Strike Fighter
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Infernaler Jagdbomber
+  es: Luchador Golpe Infernal
+  fr: Bombardier de Choc Infernal
+  it: Combattente Colpo Infernale
+  pt: Lutador do Golpe Infernal
   ja: ヘル・ダイブ・ボンバー
   ja_romaji: Heru Daibu Bonbā
   ko:
@@ -17,11 +17,21 @@ text:
   en: |-
     1 Tuner + 1+ non-Tuners
     During Main Phase 2 (Quick Effect): You can destroy as many face-up monsters on the field as possible, and if you do, inflict damage to your opponent equal to the total original Levels of those destroyed monsters x 200. If this card is destroyed by battle or card effect: You can target 1 Level 5 or lower Machine monster in your GY; Special Summon it in Defense Position. You can only use each effect of "Infernal Strike Fighter" once per turn.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    1 Empfänger + 1+ Nicht-Empfänger
+    Während Main Phase 2 (Schnelleffekt): Du kannst so viele offene Monster auf dem Spielfeld zerstören wie möglich und falls du dies tust, füge deinem Gegner Schaden in Höhe der Summe der Grund-Stufen jener zerstörten Monster x 200 zu. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 Maschine-Monster der Stufe 5 oder niedriger in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition. Du kannst jeden Effekt von „Infernaler Jagdbomber“ nur einmal pro Spielzug verwenden.
+  es: |-
+    1 Cantante + 1+ no Cantantes
+    Durante la Main Phase 2 (Efecto Rápido): puedes destruir tantos monstruos boca arriba en el Campo como sea posible y, si lo haces, inflige daño a tu adversario igual a los Niveles originales totales de esos monstruos destruidos x 200. Si esta carta es destruida en batalla o por el efecto de una carta: puedes seleccionar 1 monstruo Máquina de Nivel 5 o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa. Sólo puedes usar cada efecto de "Luchador Golpe Infernal" una vez por turno.
+  fr: |-
+    1 Syntoniseur + 1+ non-Syntoniseur
+    Durant la Main Phase 2 (Effet Rapide) : vous pouvez détruire autant de monstres face recto sur le Terrain que possible, et si vous le faites, infligez des dommages à votre adversaire égaux à la somme des Niveaux d'origine de ces monstres détruits x 200. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre Machine de max. Niveau 5 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense. Vous ne pouvez utiliser chaque effet de "Bombardier de Choc Infernal" qu'une fois par tour.
+  it: |-
+    1 Tuner + 1+ non-Tuner
+    Durante la Main Phase 2 (Effetto Rapido): puoi distruggere tanti mostri scoperti sul Terreno quanti possibile e, se lo fai, infliggi al tuo avversario danno pari alla somma dei Livelli originali di quei mostri distrutti x 200. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro Macchina di Livello 5 o inferiore nel tuo Cimitero; Evocalo Specialmente in Posizione di Difesa. Puoi utilizzare ogni effetto di "Combattente Colpo Infernale" una sola volta per turno.
+  pt: |-
+    1 Regulador + 1+ não-Reguladores
+    Durante a Fase Principal 2 (Efeito Rápido): você pode destruir tantos monstros com a face para cima no campo quanto possível e, se isso acontecer, cause dano ao seu oponente igual à soma dos Níveis originais desses monstros destruídos x 200. Se este card for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro Máquina de Nível 5 ou menos no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa. Você só pode usar cada efeito de "Lutador do Golpe Infernal" uma vez por turno.
   ja: |-
     チューナー＋チューナー以外のモンスター１体以上
     このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分・相手のメインフェイズ２に発動できる。フィールドの表側表示モンスターを全て破壊し、破壊したモンスターの元々のレベルの合計×２００ダメージを相手に与える。②：このカードが戦闘・効果で破壊された場合、自分の墓地のレベル５以下の機械族モンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。
@@ -36,10 +46,10 @@ attribute: DARK
 level: 7
 atk: 2600
 def: 1800
-materials: 1 Tuner + 1 or more non-Tuner monsters
+materials: 1 Tuner + 1+ non-Tuners
 images:
 - index: 1
-  image: InfernalStrikeFighter-25DB-JP-SR.png
+  image: InfernalStrikeFighter-MAMO-EN-ScR-1E.png
 sets:
   en:
   - set_number: MAMO-EN123

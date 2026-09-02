@@ -23,7 +23,7 @@ requirement:
   ja: |-
     このカードを召喚したターンに、自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
   ko: |-
-    이 카드를 일반 소환한 턴에, 자신 필드의 앞면 표시의 이 카드를 묘지로 보내고 발동할 수 있다.
+    이 카드를 일반 소환한 턴에, 자신 필드의 앞면 표시인 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -66,6 +66,10 @@ sets:
     set_name: Galactica of Eternity
     rarities:
     - Rare
+  - set_number: RD/ORP4-KR030
+    set_name: Over Rush Pack 4
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

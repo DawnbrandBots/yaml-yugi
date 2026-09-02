@@ -2,11 +2,11 @@ konami_id: 22709
 password: 847217
 name:
   en: Orichalcos Sword of Sealing
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: Orichalcos-Schwert des Versiegelns
+  es: Espada de Sellado de Oricalcos
+  fr: Épée Scelleuse d'Orichalque
+  it: Spada Sigillante di Orichalcos
+  pt: Espada de Selamento de Orichalcos
   ja: オレイカルコスの<ruby>魔<rt>ま</rt></ruby><ruby>封<rt>ふう</rt></ruby><ruby>剣<rt>けん</rt></ruby>
   ja_romaji: Oreikarukosu no Mafūken
   ko: 오리컬코스의 마봉검
@@ -17,11 +17,21 @@ text:
   en: |-
     The equipped monster's effects are negated. You can only use the following effect of "Orichalcos Sword of Sealing" once per turn. If you control a card in your Field Zone: You can target 1 Effect Monster you control; that Effect Monster gains this effect until the end of your opponent's turn.
     ● Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target.
-  de:
-  es:
-  fr:
-  it:
-  pt:
+  de: |-
+    Die Effekte des ausgerüsteten Monsters werden annulliert. Du kannst den folgenden Effekt von „Orichalcos-Schwert des Versiegelns“ nur einmal pro Spielzug verwenden. Falls du eine Karte in deiner Spielfeldzone kontrollierst: Du kannst 1 Effektmonster wählen, das du kontrollierst; jenes Effektmonster erhält bis zum Ende des Spielzugs deines Gegners diesen Effekt.
+    ● Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 offene Karte auf dem Spielfeld wählen; zerstöre jenes gewählte Ziel.
+  es: |-
+    Los efectos del monstruo equipado son negados. Sólo puedes usar el siguiente efecto de "Espada de Sellado de Oricalcos" una vez por turno. Si controlas una carta en tu Zona del Campo: puedes seleccionar 1 Monstruo de Efecto que controles; ese Monstruo de Efecto gana este efecto hasta el final del turno de tu adversario.
+    ● Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 carta en tu mano, y después seleccionar 1 carta boca arriba en el Campo; destruye ese objetivo.
+  fr: |-
+    Les effets du monstre équipé sont annulés. Vous ne pouvez utiliser l'effet suivant de "Épée Scelleuse d'Orichalque" qu'une fois par tour. Si vous contrôlez une carte dans votre Zone Terrain : vous pouvez cibler 1 Monstre à Effet que vous contrôlez ; jusqu'à la fin du tour de votre adversaire, le Monstre à Effet gagne cet effet.
+    ● Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 carte face recto sur le Terrain ; détruisez la cible.
+  it: |-
+    Gli effetti del mostro equipaggiato sono annullati. Puoi utilizzare il seguente effetto di "Spada Sigillante di Orichalcos" una sola volta per turno. Se controlli una carta nella tua Zona Terreno: puoi scegliere come bersaglio 1 Mostro con Effetto che controlli; quel Mostro con Effetto guadagna questo effetto fino alla fine del turno del tuo avversario.
+    ● Una volta per turno (Effetto Rapido): puoi mandare 1 carta dalla tua mano al Cimitero, poi scegliere come bersaglio 1 carta scoperta sul Terreno; distruggi quel bersaglio.
+  pt: |-
+    Os efeitos do monstro equipado são negados. Você só pode usar o seguinte efeito de "Espada de Selamento de Orichalcos" uma vez por turno. Se você controlar um card na sua Zona do Campo: você pode escolher 1 Monstro de Efeito que você controla; esse Monstro de Efeito ganha este efeito até o final do turno do seu oponente.
+    ● Uma vez por turno (Efeito Rápido): você pode enviar 1 card da sua mão para o Cemitério e, depois, escolha 1 card com a face para cima no campo; destrua o alvo.
   ja: |-
     このカード名の②の効果は１ターンに１度しか使用できない。①：装備モンスターの効果は無効化される。②：自分のフィールドゾーンにカードが存在する場合、自分フィールドの効果モンスター１体を対象として発動できる。その効果モンスターは相手ターン終了時まで以下の効果を得る。●自分・相手ターンに１度、手札を１枚墓地へ送り、フィールドの表側表示カード１枚を対象として発動できる。その表側表示カードを破壊する。
   ko: |-
@@ -34,7 +44,7 @@ card_type: Spell
 property: Equip
 images:
 - index: 1
-  image: OrichalcosSwordofSealing-LOCH-JP-UR.png
+  image: OrichalcosSwordofSealing-MAMO-EN-UR-1E.png
 sets:
   en:
   - set_number: MAMO-EN022
