@@ -27,7 +27,7 @@ text:
   pt: |-
     Embaralhe qualquer número de cards da sua mão no Deck e, depois, compre esse mesmo número de cards.
   ja: |-
-    ①：自分の手札を任意の数だけデッキに戻してシャッフルする。その後、自分はデッキに戻した数だけドローする。
+    ①：自分の手札を任意の数だけ選んでデッキに戻す。その後、自分は戻した数だけドローする。
   ko: |-
     자신의 패를 임의의 매수만큼 선택하여, 덱에 넣고 셔플한다. 그 후, 덱에 넣은 매수만큼의 카드를 드로우한다.
   zh-TW:
@@ -218,6 +218,8 @@ sets:
   - set_number: DBGV-JP029
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DP2-KR024
     set_name: 'Duelist Pack: Chazz Princeton'

@@ -27,16 +27,12 @@ text:
   pt: |-
     Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao banir, com a face para baixo, 5 ou mais cards da sua mão, do campo e/ou do Deck Adicional. Ganha 100 de ATK/DEF para cada card banido com a face para baixo. Não pode ser oferecido como Tributo, nem usado como matéria para uma Invocação-Fusão, Sincro ou Xyz. Uma vez por turno, no começo da Etapa de Dano, se este card batalhar um monstro do oponente: você pode banir, com a face para baixo, o monstro do oponente.
   ja: |-
-    このカードは通常召喚できない。自分の手札・フィールド・ＥＸデッキからカード５枚以上を裏側表示で除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、裏側表示で除外されているカードの数×１００アップする。②：このカードはモンスターゾーンに存在する限り、リリースできず、融合・Ｓ・Ｘ召喚の素材にもできない。③：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを裏側表示で除外する。
+    このカードは通常召喚できない。自分の手札・フィールド・ＥＸデッキからカード５枚以上を裏側で除外した場合のみ特殊召喚できる。①：このカードの攻撃力・守備力は、除外状態（裏側）のカードの数×１００アップする。②：このカードはモンスターゾーンに存在する限り、リリースできず、融合・Ｓ・Ｘ召喚の素材にもできない。③：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを裏側で除外する。
   ko: |-
     이 카드는 통상 소환할 수 없다. 자신의 패 / 필드 / 엑스트라 덱에서 카드 5장 이상을 뒷면 표시로 제외했을 경우에만 특수 소환할 수 있다. ①: 이 카드의 공격력 / 수비력은, 뒷면 표시로 제외되어 있는 카드의 수 × 100 올린다. ②: 이 카드는 몬스터 존에 존재하는 한, 릴리스할 수 없으며, 융합 / 싱크로 / 엑시즈 소환의 소재로도 할 수 없다. ③: 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터를 뒷면 표시로 제외한다.
   zh-TW:
   zh-CN: |-
-    此卡不可通常召唤。
-    仅可在从自己的手牌・场上・额外牌组将５张以上的卡以里侧除外的情况下特殊召唤。
-    ①：此卡的攻击力・守备力上升相当于以里侧被除外的卡数量×１００的数值。
-    ②：此卡只要存在于怪兽区域，不可解放，不可作为融合・同步・超量召唤的素材。
-    ③：１回合１次，此卡与对手怪兽进行战斗的伤害步骤开始时可以发动。将该对手怪兽以里侧除外。
+    此卡不可通常召唤。仅可在从自己的手牌・场上・额外牌组将５张以上的卡以里侧除外的情况下特殊召唤。①：此卡的攻击力・守备力上升相当于以里侧被除外的卡数量×１００的数值。②：此卡只要存在于怪兽区域，不可解放，不可作为融合・同步・超量召唤的素材。③：１回合１次，此卡与对手怪兽进行战斗的伤害步骤开始时可以发动。将该对手怪兽以里侧除外。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -45,7 +41,7 @@ atk: '?'
 def: '?'
 images:
 - index: 1
-  image: EaterofMillions-20TP-JP-C.png
+  image: EaterofMillions-DBGV-JP-C.png
   illustration: EaterofMillions-MADU-JP-VG-artwork.png
 - index: '1.1'
   image: EaterofMillions-MAGO-EN-R-1E.png
@@ -170,6 +166,8 @@ sets:
   - set_number: DBGV-JP043
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: RATE-KR032
     set_name: Raging Tempest
