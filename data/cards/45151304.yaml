@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23540
+password: 45151304
 name:
   en: Am Duazenet
   de:
@@ -21,7 +21,8 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・デッキ・フィールド（表側表示）の通常モンスターカードを墓地へ送り（同名カードは１枚まで）、自分の手札・墓地から「セネト」儀式モンスター１体を儀式召喚する。その後、そのモンスターに自分の墓地から通常モンスター１体を装備魔法カード扱いで装備できる。②：自分フィールドの通常モンスターカードが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。
   ko:
   zh-TW:
   zh-CN: |-
@@ -32,12 +33,14 @@ series:
 - Zenet
 images:
 - index: 1
-  image: AmDuazenet-DBGV-JP-OP.png
+  image: AmDuazenet-DBGV-JP-C.png
 sets:
   ja:
   - set_number: DBGV-JP009
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+    - Common
+    - Normal Parallel Rare
   zh-CN:
   - set_number: DBGV-SC009
     set_name: 'Deck-Build Pack: Glorious Victors'

@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23536
+password: 10884847
 name:
   en: Zenetmes Nekhbet
   de:
@@ -21,7 +21,9 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    「セネト」カードにより降臨
+    このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを手札から捨てて発動できる。自分の墓地から「セネトメス・ネクベト」以外の「セネト」カード１枚を手札に加える。②：装備カードを装備しているこのカードは戦闘では破壊されない。③：自分・相手ターンに発動できる。自分の魔法＆罠ゾーンの表側表示の通常モンスターカード１枚を特殊召喚し、自分フィールドのこのカードを攻撃力２５００アップの装備魔法カード扱いでそのモンスターに装備する。
   ko:
   zh-TW:
   zh-CN: |-
@@ -37,12 +39,14 @@ series:
 - Zenet
 images:
 - index: 1
-  image: ZenetmesNekhbet-DBGV-JP-OP.png
+  image: ZenetmesNekhbet-DBGV-JP-C.png
 sets:
   ja:
   - set_number: DBGV-JP005
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+    - Common
+    - Normal Parallel Rare
   zh-CN:
   - set_number: DBGV-SC005
     set_name: 'Deck-Build Pack: Glorious Victors'

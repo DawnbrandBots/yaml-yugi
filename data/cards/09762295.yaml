@@ -1,5 +1,5 @@
-konami_id:
-password:
+konami_id: 23539
+password: 9762295
 name:
   en: A Journey Back to the Light - "Zenet"
   de:
@@ -24,7 +24,10 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    このカード名のカードは１ターンに１枚しか発動できない。①：自分の手札・デッキ・フィールド（表側表示）・墓地の通常モンスターカードを以下の数だけ選び、お互いに確認する。その後、その数によって以下の効果を適用する。この効果で手札のカードを確認した場合、さらに自分は１枚ドローできる。
+    ●２枚：効果モンスターを除く、レベル８以下の融合モンスター１体をＥＸデッキから通常モンスターカード扱いで特殊召喚する。
+    ●３枚：デッキの「セネト」モンスター１体または自分の墓地の通常モンスター１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN: |-
@@ -37,12 +40,14 @@ series:
 - Zenet
 images:
 - index: 1
-  image: AJourneyBacktotheLightZenet-DBGV-JP-OP.png
+  image: AJourneyBacktotheLightZenet-DBGV-JP-SR.png
 sets:
   ja:
   - set_number: DBGV-JP008
     set_name: 'Deck-Build Pack: Glorious Victors'
     rarities:
+    - Super Rare
+    - Secret Rare
   zh-CN:
   - set_number: DBGV-SC008
     set_name: 'Deck-Build Pack: Glorious Victors'
