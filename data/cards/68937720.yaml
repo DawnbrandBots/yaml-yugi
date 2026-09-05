@@ -12,7 +12,7 @@ name:
   ko: 멘탈 드레인
   ko_rr: Mental Deurein
   zh-TW: 心靈抽取
-  zh-CN: 精神抽取
+  zh-CN: 心灵抽取
 text:
   en: |-
     Activate this card by paying 1000 LP. Neither player can activate the effects of monsters in the hand.
@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     可支付1000点的生命点数发动。只要此卡存在于场上，不可发动手牌的怪兽效果。
   zh-CN: |-
-    支付1000基本分才能发动。只要这张卡在场上存在，手卡的怪兽的效果不能发动。
+    支付1000LP可以发动此卡。①：只要此卡存在于魔法与陷阱区域，双方不可发动手牌的怪兽效果。
 card_type: Trap
 property: Continuous
 series:
@@ -147,6 +147,14 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Rare
+  zh-CN:
+  - set_number: UT01-SC059
+    set_name: Utility Selection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+    - Collector's Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
