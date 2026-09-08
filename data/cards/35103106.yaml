@@ -40,8 +40,8 @@ text:
     ①: 상대는 엑시즈 소재를 가지고 있는 이 카드를 몬스터 효과의 대상으로 할 수 없다. ②: 상대가 카드의 효과를 발동했을 때, 이 카드의 엑시즈 소재를 2개 제거하고, 상대 필드의 앞면 표시 카드 1장을 대상으로 하여 발동할 수 있다(이 카드가 파충류족 / 공룡족 몬스터만을 엑시즈 소재로 하고 있을 경우, 제거하는 엑시즈 소재의 수를 1개로 할 수 있다). 그 카드의 효과를 턴 종료시까지 무효로 한다.
   zh-TW:
   zh-CN: |-
-    等级６怪兽×２
-    ①：对手不可将拥有超量素材的此卡作为怪兽的效果的对象。②：对手发动卡的效果时，去除此卡的２个超量素材，以对手场上的１张表侧表示卡为对象可以发动（此卡持有的超量素材仅有爬虫类族・恐龙族怪兽的情况下，可将要去除的超量素材数量改成１个）。将该卡的效果直至回合结束时为止无效。
+    等级6怪兽×2
+    ①：对手不可将持有超量素材的此卡作为怪兽的效果的对象。②：对手发动卡的效果时，去除此卡的2个超量素材，以对手场上的1张表侧表示卡为对象可以发动（此卡仅持有爬虫类族・恐龙族怪兽作为超量素材的情况下，可将要去除的超量素材数量改成1个）。将该卡的效果直至回合结束时为止无效。
 card_type: Monster
 monster_type_line: Dragon / Xyz / Effect
 attribute: FIRE
@@ -161,6 +161,12 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  - set_number: UT01-SC036
+    set_name: Utility Selection
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Collector's Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
