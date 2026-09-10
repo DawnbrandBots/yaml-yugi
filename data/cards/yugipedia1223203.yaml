@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 轮回虫龙之交战
 text:
   en: |-
     When a Spell/Trap Card, or monster effect, is activated while you control a "Reindsurm" monster: Negate the activation, then you can add 1 "Reindsurm" monster from your Deck or GY to your hand, and if you do, send 1 Insect monster you control to the GY. If a "Reindsurm" monster(s) you control would be destroyed by battle or card effect, you can place this card from your GY on the bottom of the Deck instead. You can only use each effect of "Reindsurm Encounter" once per turn.
@@ -24,7 +24,10 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②效果1回合仅可各使用1次。①：自己场上存在“轮回虫龙”怪兽，且怪兽的效果・魔法・陷阱卡发动时可以发动。将该发动无效。然后，可适用以下效果。
+    ●从自己牌组・墓地将1只“轮回虫龙”怪兽加入手牌，将自己场上的1只昆虫族怪兽送至墓地。
+    ②：自己场上的“轮回虫龙”怪兽将被战斗・效果破坏的情况下，作为代替可将墓地的此卡放回牌组最下面。
 card_type: Trap
 property: Counter
 series:
@@ -38,6 +41,10 @@ sets:
     set_name: Immortal Phoenix
     rarities:
     - Common
+  zh-CN:
+  - set_number: IMPH-SC076
+    set_name: Immortal Phoenix
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
