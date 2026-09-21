@@ -114,14 +114,14 @@ for (let i = 0; i < cards.length; i += 500) {
 			body: partition.flatMap(card => [{ index: { _id: card.yugipedia_page_id } }, card])
 		})
 	);
+	console.log(`Took: ${response.body.took}`);
 	if (response.body.errors) {
 		for (const item of response.body.items) {
-			if (item.update.status !== 200) {
-				console.log(item.update);
+			if (item.index.status !== 200) {
+				console.log(item.index);
 			}
 		}
 	}
-	console.log(`Took: ${response.body.took}`);
 	if (i + 500 < cards.length) {
 		console.log("Done, waiting for 20000 ms...");
 		await sleep(20000);
