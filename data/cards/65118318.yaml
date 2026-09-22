@@ -15,7 +15,10 @@ name:
   zh-CN: 愚蠢的盗墓者
 text:
   en: |-
-    Send 1 card that mentions "Dark Time Wizard" from your Deck to the GY, except "Foolish Graverobber", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions "Dark Time Wizard" from your GY, except "Foolish Graverobber", or 1 Spell/Trap from your opponent's GY. You can only use each effect of "Foolish Graverobber" once per turn.
+    Send 1 card that mentions "Dark Time Wizard" from your Deck to the GY, except "Foolish Graverobber", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set 1 of the following cards to your field.
+    ● Spell/Trap that mentions "Dark Time Wizard" in your GY, except "Foolish Graverobber"
+    ● Spell/Trap in your opponent's GY
+    You can only use each effect of "Foolish Graverobber" once per turn.
   de:
   es:
   fr:
@@ -39,6 +42,36 @@ images:
 - index: 1
   image: FoolishGraverobber-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT070
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP070
     set_name: Beyond the Brave
@@ -52,7 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1191068

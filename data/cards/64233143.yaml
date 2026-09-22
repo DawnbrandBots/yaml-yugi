@@ -15,7 +15,7 @@ name:
   zh-CN: 代达罗斯的大涡
 text:
   en: |-
-    When your opponent would Normal or Special Summon a monster(s) while you control "Atlantis, City of the Sea Dragon": Negate the Summon, and if you do, destroy that monster(s), then if you control a WATER Link Monster, you can destroy all non-WATER monsters on the field. You can banish this card from your GY and send 1 face-up "Umi" you control to the GY, then target 1 monster your opponent controls; send it to the GY. You can only use 1 "Daedalus Maelstrom" effect per turn, and only once that turn.
+    When your opponent would Normal or Special Summon a monster(s), while you control "Atlantis, City of the Sea Dragon": Negate the Summon, and if you do, destroy that monster(s), then if you control a WATER Link Monster, you can destroy all monsters on the field, except WATER monsters. You can banish this card from your GY and send 1 face-up "Umi" you control to the GY, then target 1 monster your opponent controls; send it to the GY. You can only use 1 "Daedalus Maelstrom" effect per turn, and only once that turn.
   de:
   es:
   fr:
@@ -36,6 +36,36 @@ images:
 - index: 1
   image: DaedalusMaelstrom-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT076
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP076
     set_name: Beyond the Brave
@@ -49,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1201687

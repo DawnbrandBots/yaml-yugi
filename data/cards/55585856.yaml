@@ -1,7 +1,7 @@
 konami_id: 23353
 password: 55585856
 name:
-  en: Misstic Call
+  en: Ms. Tick Call
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 秘召刻漏淑女
 text:
   en: |-
-    If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it. You can only use each effect of "Misstic Call" once per turn.
+    If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add to your hand or Special Summon that banished monster. You can only use each effect of "Ms. Tick Call" once per turn.
   de:
   es:
   fr:
@@ -35,8 +35,38 @@ atk: 1600
 def: 800
 images:
 - index: 1
-  image: MissticCall-BETB-JP-C.png
+  image: MsTickCall-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT031
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP031
     set_name: Beyond the Brave
@@ -50,9 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1204242

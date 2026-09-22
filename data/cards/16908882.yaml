@@ -1,7 +1,7 @@
 konami_id: 23364
 password: 16908882
 name:
-  en: 'Number 104: Masquerade Vain'
+  en: 'Number 104: Masquerade V'
   de:
   es:
   fr:
@@ -16,9 +16,8 @@ name:
 text:
   en: |-
     3 Level 4 monsters
-    Once per turn: You can detach 1 material from this card; add 1 "Barian's" Spell/Trap from your Deck to your hand. A monster that was Xyz Summoned using this card on the field as material gains this effect.
-    ● If it is Xyz Summoned: Activate this effect; your opponent can banish 4 monsters with different Attributes and 1 Spell from their Deck. If they do not, you banish the top 10 cards of their Deck.
-    You can only use this effect of "Number 104: Masquerade Vain" once per turn.
+    Once per turn: You can detach 1 material from this card; add 1 "Barian's" Spell/Trap from your Deck to your hand. You can only use the following effect of "Number 104: Masquerade V" once per turn. An Xyz Monster that was Summoned using this card on the field as material gains this effect.
+    ● If this card is Xyz Summoned: Activate this effect; your opponent can banish 4 monsters with different Attributes and 1 Spell from their Deck. If they did not, you banish the top 10 cards of their Deck.
   de:
   es:
   fr:
@@ -46,8 +45,38 @@ series:
 - Number 10X
 images:
 - index: 1
-  image: Number104MasqueradeVain-BETB-JP-UR.png
+  image: Number104MasqueradeV-BETB-JP-UR.png
 sets:
+  en:
+  - set_number: BETB-EN042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BETB-DE042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: BETB-SP042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BETB-FR042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BETB-IT042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BETB-PT042
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
   ja:
   - set_number: BETB-JP042
     set_name: Beyond the Brave
@@ -65,9 +94,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1205808

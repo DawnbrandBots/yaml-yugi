@@ -15,7 +15,7 @@ name:
   zh-CN: 大逆转箱
 text:
   en: |-
-    Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card up to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions "Dark Time Wizard" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.
+    Once per turn, during the Standby Phase: Roll a six-sided die, and place counters on this card (max. 6), up to the result. When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if your opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, Special Summon 1 monster that mentions "Dark Time Wizard" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also negate its effects.
   de:
   es:
   fr:
@@ -35,6 +35,36 @@ images:
 - index: 1
   image: ReversalBox-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP071
     set_name: Beyond the Brave
@@ -48,7 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1191070

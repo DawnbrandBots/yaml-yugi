@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     4 Level 5 monsters
-    Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become that opponent's monster's ATK or DEF (whichever is higher) +100 during damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.
+    Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become equal to that opponent's monster's ATK or DEF (whichever is higher) +100, during that damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.
   de:
   es:
   fr:
@@ -50,6 +50,36 @@ images:
 - index: 1
   image: NumberC104UmbralHorrorMasqueradeVictory-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT043
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP043
     set_name: Beyond the Brave
@@ -65,9 +95,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1205812

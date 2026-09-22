@@ -1,7 +1,7 @@
 konami_id: 23337
 password: 37092104
 name:
-  en: Monstrous Arms of Atlantis
+  en: Monster Arms of Atlantis
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 亚特兰蒂斯的怪腕
 text:
   en: |-
-    This card's name becomes "Umi" while in the Monster Zone. You can only use each of the following effects of "Monstrous Arms of Atlantis" once per turn. If this card is Normal or Special Summoned: You can target 1 monster in your GY that mentions "Atlantis, City of the Sea Dragon"; Special Summon it in Defense Position. When your opponent activates a monster effect (Quick Effect): You can banish this card from your field or GY and send 1 face-up "Umi" you control to the GY; negate that effect.
+    This card's name becomes "Umi" while on the field. You can only use each of the following effects of "Monster Arms of Atlantis" once per turn. If this card is Normal or Special Summoned: You can target 1 monster that mentions "Atlantis, City of the Sea Dragon" in your GY; Special Summon it in Defense Position. When your opponent activates a monster effect (Quick Effect): You can banish this card from your field or GY, and send 1 face-up "Umi" you control to the GY; negate that activated effect.
   de:
   es:
   fr:
@@ -37,8 +37,38 @@ series:
 - Atlantis, City of the Sea Dragon
 images:
 - index: 1
-  image: MonstrousArmsofAtlantis-BETB-JP-C.png
+  image: MonsterArmsofAtlantis-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT015
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP015
     set_name: Beyond the Brave
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1201676

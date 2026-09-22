@@ -15,7 +15,9 @@ name:
   zh-CN: 魔力到达
 text:
   en: |-
-    Add 1 card from your Deck or GY to your hand that mentions "Spell Counter" in its text, except "Spell Power Attainment", then if you control a Level 7 or higher "Endymion" Monster Card, you can remove any number of Spell Counters from your field, and if you do, negate the effects of that many face-up cards your opponent controls, and if you do that, destroy them. You can only activate 1 "Spell Power Attainment" per turn.
+    Add 1 card that mentions "Spell Counter" in its effect text from your Deck or GY to your hand, except "Spell Power Attainment", then if you control a Level 7 or higher "Endymion" Monster Card, you can apply this effect.
+    ● Remove any number of Spell Counters from your field, and if you do, negate the effects of that many face-up cards your opponent controls, and if you do that, destroy those cards.
+    You can only activate 1 "Spell Power Attainment" per turn.
   de:
   es:
   fr:
@@ -34,6 +36,36 @@ images:
 - index: 1
   image: SpellPowerAttainment-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT069
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP069
     set_name: Beyond the Brave
@@ -47,9 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1204869

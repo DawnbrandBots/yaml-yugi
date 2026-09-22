@@ -1,7 +1,7 @@
 konami_id: 23388
 password: 30945251
 name:
-  en: Blitzclique - Overvoltage
+  en: Blitzclique Overvolt
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 雷盟－电压过载
 text:
   en: |-
-    Target 1 face-up card on the field; destroy it, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. If a card(s) is destroyed by your "Blitzclique" card's effect, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of "Blitzclique - Overvoltage" once per turn.
+    Target 1 face-up card on the field; destroy it, also for the rest of this turn, you cannot Special Summon Effect Monsters, except from the hand. If a card(s) is destroyed by your "Blitzclique" card's effect, while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of "Blitzclique Overvolt" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,38 @@ series:
 - Blitzclique
 images:
 - index: 1
-  image: BlitzcliqueOvervoltage-BETB-JP-C.png
+  image: BlitzcliqueOvervolt-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT066
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP066
     set_name: Beyond the Brave
@@ -48,9 +78,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1205351

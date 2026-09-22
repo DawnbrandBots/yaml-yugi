@@ -15,10 +15,10 @@ name:
   zh-CN: 疾风的豹战士
 text:
   en: |-
-    During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
+    Cannot declare an attack unless a monster was Tributed this turn. During the Main Phase, if this card is on the field (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
     ● Special Summon 1 monster that mentions "Dark Time Wizard" from your hand or Deck, except "Swiftwind Panther Warrior".
     ● Send 1 Spell/Trap that mentions "Dark Time Wizard" from your Deck to the GY.
-    You can only use this effect of "Swiftwind Panther Warrior" once per turn. Cannot declare an attack unless a monster(s) was Tributed this turn.
+    You can only use this effect of "Swiftwind Panther Warrior" once per turn.
   de:
   es:
   fr:
@@ -43,6 +43,36 @@ images:
 - index: 1
   image: SwiftwindPantherWarrior-BETB-JP-SR.png
 sets:
+  en:
+  - set_number: BETB-EN001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT001
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP001
     set_name: Beyond the Brave
@@ -60,7 +90,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1191047

@@ -1,7 +1,7 @@
 konami_id: 23389
 password: 76334960
 name:
-  en: Invocation - "Chalice"
+  en: Invocation - "Grail"
   de:
   es:
   fr:
@@ -16,9 +16,9 @@ name:
 text:
   en: |-
     If you have an "Aleister" monster in your field, GY, or banishment: Activate 1 of these effects;
-    ● Fusion Summon 1 "Invoked" Fusion Monster from your Extra Deck, by banishing 1 monster from your hand or field and 1 monster from your Deck.
-    ● Fusion Summon 1 "Invoked" Fusion Monster from your Extra Deck, by banishing 1 monster you control and 1 face-up monster your opponent controls.
-    You can only activate 1 "Invocation - "Chalice"" per turn.
+    ● Fusion Summon 1 "Invoked" Fusion Monster from your Extra Deck, by banishing 1 monster in your hand or field and 1 monster in your Deck as material.
+    ● Fusion Summon 1 "Invoked" Fusion Monster from your Extra Deck, by banishing 1 monster you control and 1 face-up monster your opponent controls as material.
+    You can only activate 1 "Invocation - "Grail"" per turn.
   de:
   es:
   fr:
@@ -38,8 +38,38 @@ card_type: Spell
 property: Normal
 images:
 - index: 1
-  image: InvocationChalice-BETB-JP-R.png
+  image: InvocationGrail-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT067
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP067
     set_name: Beyond the Brave
@@ -53,9 +83,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1205253
