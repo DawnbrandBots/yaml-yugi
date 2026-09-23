@@ -15,7 +15,7 @@ name:
   zh-CN: 巴利安之七皇冀望乡
 text:
   en: |-
-    Each player can only Special Summon non-"Number" monsters from the Extra Deck twice per turn while this card is face-up on the field. You can only use each of the following effects of "Barian's Seventh Untopia" once per turn. During your Main Phase: You can add 1 "Umbral Horror" monster from your Deck to your hand, then discard 1 card. During the End Phase: Each player takes 400 damage for each Xyz Monster on the field.
+    Neither player can Special Summon from the Extra Deck more than 2 times per turn, except "Number" monsters. You can only use each of the following effects of "Barian's Seventh Untopia" once per turn. During your Main Phase: You can add 1 "Umbral Horror" monster from your Deck to your hand, then discard 1 card. During the End Phase: Each player takes damage equal to the number of Xyz Monsters on the field x 400.
   de:
   es:
   fr:
@@ -36,6 +36,36 @@ images:
 - index: 1
   image: BariansSeventhUntopia-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  de:
+  - set_number: BETB-DE055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  es:
+  - set_number: BETB-SP055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  fr:
+  - set_number: BETB-FR055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  it:
+  - set_number: BETB-IT055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
+  pt:
+  - set_number: BETB-PT055
+    set_name: Beyond the Brave
+    rarities:
+    - Secret Rare
   ja:
   - set_number: BETB-JP055
     set_name: Beyond the Brave
@@ -49,7 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1205797

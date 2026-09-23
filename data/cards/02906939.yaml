@@ -1,7 +1,7 @@
 konami_id: 23379
 password: 2906939
 name:
-  en: Ashtrashen - Gateway to the Worlds Beyond
+  en: Ashtrashen - Gate to the Worlds Beyond
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 艮鬼神门 三千世界
 text:
   en: |-
-    You can target any number of face-down cards you control; add "Ashtra" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an "Ashtra" monster and a face-down card (except during the Damage Step): You can target 1 card on the field; return it to the hand. You can only use each effect of "Ashtrashen - Gateway to the Worlds Beyond" once per turn.
+    You can target any number of face-down cards you control; add "Ashtra" cards from your Deck to your hand, except Field Spells, each with a different name, equal to the number of those face-down cards, then send those face-down cards to the GY. If you control an "Ashtra" monster and a face-down card, and either player Sets a card: You can target 1 card on the field; return it to the hand. You can only use each effect of "Ashtrashen - Gate to the Worlds Beyond" once per turn.
   de:
   es:
   fr:
@@ -33,8 +33,38 @@ series:
 - Ashtra
 images:
 - index: 1
-  image: AshtrashenGatewaytotheWorldsBeyond-BETB-JP-C.png
+  image: AshtrashenGatetotheWorldsBeyond-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT057
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP057
     set_name: Beyond the Brave
@@ -49,7 +79,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1201863
