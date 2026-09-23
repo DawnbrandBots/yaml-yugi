@@ -15,7 +15,7 @@ name:
   zh-CN: 响应的亚特兰蒂斯
 text:
   en: |-
-    Add 1 monster that mentions "Atlantis, City of the Sea Dragon" from your Deck to your hand, then if you control "Atlantis, City of the Sea Dragon", you can negate the effects of 1 Effect Monster your opponent controls until the end of this turn. If you control "Umi": You can banish this card from your GY; all WATER monsters you currently control gain 500 ATK/DEF. You can only use each effect of "Call of Atlantis" once per turn.
+    Add 1 monster that mentions "Atlantis, City of the Sea Dragon" from your Deck to your hand, then if you control "Atlantis, City of the Sea Dragon", you can negate the effects of 1 Effect Monster your opponent controls, until the end of this turn. If you control "Umi": You can banish this card from your GY; WATER monsters you control gain 500 ATK/DEF. You can only use each effect of "Call of Atlantis" once per turn.
   de:
   es:
   fr:
@@ -35,6 +35,36 @@ images:
 - index: 1
   image: CallofAtlantis-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: BETB-DE059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: BETB-SP059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: BETB-FR059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: BETB-IT059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: BETB-PT059
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: BETB-JP059
     set_name: Beyond the Brave
@@ -50,7 +80,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  text:
-    en: true
 yugipedia_page_id: 1201680

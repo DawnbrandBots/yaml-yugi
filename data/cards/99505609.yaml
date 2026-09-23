@@ -1,7 +1,7 @@
 konami_id: 23402
 password: 99505609
 name:
-  en: Bingo Card
+  en: Bingo!
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 宾果卡
 text:
   en: |-
-    Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;
-    ● Destroy 5 monsters in your Main Monster Zone or 5 cards in your Spell & Trap Zone, then draw 2 cards.
-    ● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.
+    Choose 1 monster in a column with cards in all its zones, and destroy as many of those cards as possible, except this card, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;
+    ● Destroy 5 monsters in your Main Monster Zone, or 5 cards in your Spell & Trap Zone, then draw 2 cards.
+    ● Destroy 5 monsters in your opponent's Main Monster Zone, or 5 cards in their Spell & Trap Zone, then your opponent draws 2 cards.
   de:
   es:
   fr:
@@ -37,8 +37,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: BingoCard-BETB-JP-NR.png
+  image: Bingo-BETB-JP-NR.png
 sets:
+  en:
+  - set_number: BETB-EN080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT080
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP080
     set_name: Beyond the Brave
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1204170

@@ -1,7 +1,7 @@
 konami_id: 23373
 password: 3841104
 name:
-  en: Destratification Dino Stratiae
+  en: Stratiae the Stratasmasher Dino
   de:
   es:
   fr:
@@ -16,7 +16,7 @@ name:
 text:
   en: |-
     2 monsters, including a Dinosaur monster
-    If this card is Link Summoned: You can make this card gain ATK equal to half the total original ATK of the Dinosaur monsters used as its material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of "Destratification Dino Stratiae" once per turn.
+    If this card is Link Summoned: You can make this card gain ATK equal to half the combined original ATK of the Dinosaur monsters used as Link Material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of "Stratiae the Stratasmasher Dino" once per turn.
   de:
   es:
   fr:
@@ -40,8 +40,38 @@ atk: 0
 materials: 2 monsters, including a Dinosaur monster
 images:
 - index: 1
-  image: DestratificationDinoStratiae-BETB-JP-C.png
+  image: StratiaetheStratasmasherDino-BETB-JP-C.png
 sets:
+  en:
+  - set_number: BETB-EN051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  de:
+  - set_number: BETB-DE051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  es:
+  - set_number: BETB-SP051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  fr:
+  - set_number: BETB-FR051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  it:
+  - set_number: BETB-IT051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  pt:
+  - set_number: BETB-PT051
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ja:
   - set_number: BETB-JP051
     set_name: Beyond the Brave
@@ -55,9 +85,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1202788

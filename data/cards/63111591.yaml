@@ -1,7 +1,7 @@
 konami_id: 23401
 password: 63111591
 name:
-  en: Corpse-Seller Crow
+  en: Crow, the Carrion Cutpurse
   de:
   es:
   fr:
@@ -15,9 +15,9 @@ name:
   zh-CN: 贩卖亡骸的乌鸦
 text:
   en: |-
-    Send cards from the top of your Deck to the GY up to the number of Traps in the GYs with different names +1 (max. 4), then you can apply 1 of these effects.
-    ● Special Summon 1 of the monsters sent to the GY.
-    ● Set 1 of the Spells/Traps sent to the GY, except "Corpse-Seller Crow", and if you Set a Trap or Quick-Play Spell, it can be activated this turn.
+    Send the top cards of your Deck to the GY, up to the number of Traps with different names from each other in the GYs +1 (max. 4), then you can apply 1 of these effects.
+    ● Special Summon 1 monster from among those cards.
+    ● Set 1 Spells/Trap from among those cards, except "Crow, the Carrion Cutpurse". If you Set a Trap or Quick-Play Spell, it can be activated this turn.
   de:
   es:
   fr:
@@ -37,8 +37,38 @@ card_type: Trap
 property: Normal
 images:
 - index: 1
-  image: CorpseSellerCrow-BETB-JP-R.png
+  image: CrowtheCarrionCutpurse-BETB-JP-R.png
 sets:
+  en:
+  - set_number: BETB-EN079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  de:
+  - set_number: BETB-DE079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  es:
+  - set_number: BETB-SP079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  fr:
+  - set_number: BETB-FR079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  it:
+  - set_number: BETB-IT079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
+  pt:
+  - set_number: BETB-PT079
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   ja:
   - set_number: BETB-JP079
     set_name: Beyond the Brave
@@ -52,9 +82,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1204374
