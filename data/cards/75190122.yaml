@@ -27,7 +27,7 @@ text:
   pt: |-
     Se você controlar monstros cujos nomes originais sejam "Mago Negro" e "Pequena Maga Negra": destrua todos os cards que seu oponente controla.
   ja: |-
-    ①：自分フィールドに、元々のカード名が「ブラック・マジシャン」と「ブラック・マジシャン・ガール」となるモンスターが存在する場合に発動できる。相手フィールドのカードを全て破壊する。
+    ①：元々のカード名が「ブラック・マジシャン」と「ブラック・マジシャン・ガール」であるモンスターが自分フィールドにそれぞれ存在する場合に発動できる。相手フィールドのカードを全て破壊する。
   ko: |-
     ①: 자신 필드에, 원래의 카드명이 "블랙 매지션"과 "블랙 매지션 걸"이 되는 몬스터가 존재할 경우에 발동할 수 있다. 상대 필드의 카드를 전부 파괴한다.
   zh-TW:
@@ -43,7 +43,7 @@ images:
 - index: '1.1'
   image: DarkBurningMagic-MB01-KR-MLR-1E.png
 - index: '1.2'
-  image: DarkBurningMagic-YCPC-JP-C.png
+  image: DarkBurningMagic-YAC1-JP-SR.png
   illustration: DarkBurningMagic-MADU-JP-VG-artwork.png
 - index: '1.3'
   image: DarkBurningMagic-RA04-EN-PlScR-1E.png
@@ -133,6 +133,8 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+    - Prismatic Secret Rare
+    - Ultimate Rare
   ko:
   - set_number: MB01-KR033
     set_name: Millennium Deck
