@@ -42,6 +42,12 @@ def: 700
 images:
 - index: 1
   image: BabyDragon-SBC1-EN-C-1E.png
+  illustration: BabyDragon-MADU-EN-VG-artwork.png
+- index: 2
+  image: BabyDragon-YAC1-JP-UR-MangaStyle-Monochrome.png
+  illustration: BabyDragon-JP-Manga-DM-CA.png
+- index: 3
+  image: BabyDragon-YAC1-JP-UR-MangaStyle-Color.png
 sets:
   en:
   - set_number: MRD-EN061
@@ -342,6 +348,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  - set_number: ''
+    set_name: Original Artwork Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: MRD-K061
     set_name: Metal Raiders

@@ -43,6 +43,12 @@ def: 2500
 images:
 - index: 1
   image: LavaGolem-SBC2-NA-C-1E.png
+  illustration: LavaGolem-MADU-EN-VG-artwork.png
+- index: 2
+  image: LavaGolem-YAC1-JP-UR-MangaStyle-Monochrome.png
+  illustration: LavaGolem-JP-Manga-DM-CA.png
+- index: 3
+  image: LavaGolem-YAC1-JP-UR-MangaStyle-Color.png
 sets:
   en:
   - set_number: DR1-EN051
@@ -397,6 +403,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  - set_number: ''
+    set_name: Original Artwork Collection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: PGD-KR107
     set_name: Pharaonic Guardian
