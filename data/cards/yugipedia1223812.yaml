@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 转生炎兽之神剑
 text:
   en: |-
     Special Summon 1 "Salamangreat" monster from your hand or GY, and if you do, equip this card to it. You can send 1 "Salamangreat" monster from your Deck to the GY; the equipped monster gains ATK equal to the sent monster's Level x 300. If this card is in your GY: You can shuffle 3 "Salamangreat" cards from your GY into the Deck, except Equip Spells, and if you do, add this card to your hand. You can only use each effect of "Salamangreat Gearblade" once per turn.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的①②③效果1回合仅可各使用1次。①：从自己的手牌・墓地将1只“转生炎兽”怪兽特殊召唤，并装备此卡。②：从牌组将1只“转生炎兽”怪兽送至墓地可以发动。装备怪兽的攻击力上升送至墓地的怪兽等级×300的数值。③：此卡存在于墓地的情况下可以发动。从自己墓地将装备魔法卡以外的3张“转生炎兽”卡放回牌组，将此卡加入手牌。
 card_type: Spell
 property: Equip
 series:
@@ -38,6 +39,10 @@ sets:
     set_name: Immortal Phoenix
     rarities:
     - Common
+  zh-CN:
+  - set_number: IMPH-SC063
+    set_name: Immortal Phoenix
+    rarities:
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
