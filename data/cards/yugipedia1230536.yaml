@@ -12,7 +12,7 @@ name:
   ko:
   ko_rr:
   zh-TW:
-  zh-CN:
+  zh-CN: 香兰兔・精萃提取
 text:
   en: |-
     While you control 2 or more non-Token Normal Monsters, draw 2 cards instead of 1 for your normal draw during your Draw Phase. You can only use each of the following effects of "Bunnillin Extract" once per turn. If a card(s) is sent from your opponent's Deck to the GY: You can Special Summon 1 Normal Monster from your hand or Deck. If a Level 5 or higher Normal Monster(s) with 2000 or less original ATK/DEF is Special Summoned or declares an attack: You can target 1 card your opponent controls; destroy it.
@@ -24,7 +24,8 @@ text:
   ja:
   ko:
   zh-TW:
-  zh-CN:
+  zh-CN: |-
+    此卡名的②③效果1回合仅可各使用1次。①：只要自己场上存在2只以上衍生物以外的通常怪兽，自己抽牌阶段的通常抽牌变为2张。②：有卡被从对手牌组送至墓地的情况下可以发动。从手牌・牌组将1只通常怪兽特殊召唤。③：等级5以上且原本攻击力与原本守备力在2000以下的通常怪兽、被特殊召唤的情况下或攻击宣言时，以对手场上的1张卡为对象可以发动。将该卡破坏。
 card_type: Spell
 property: Continuous
 series:
@@ -37,9 +38,13 @@ sets:
   - set_number: IMPH-JP066
     set_name: Immortal Phoenix
     rarities:
+  zh-CN:
+  - set_number: IMPH-SC066
+    set_name: Immortal Phoenix
+    rarities:
 limit_regulation:
-  tcg:
-  ocg:
+  tcg: Not yet released
+  ocg: Not yet released
 is_translation_unofficial:
   name:
     en: true
