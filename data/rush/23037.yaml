@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>苦<rt>く</rt></ruby><ruby>渋<rt>じゅう</rt></ruby>の<ruby>選<rt>せん</rt></ruby><ruby>択<rt>たく</rt></ruby>
   ja_romaji:
-  ko:
+  ko: 고통의 선택
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを５枚めくり、お互いに確認する。相手はその中から１枚を選び、自分はそのカードを手札に加える。残りのカードを墓地へ送る。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 5장 넘기고, 서로 확인한다. 상대는 그 중에서 1장을 고르고, 자신은 그 카드를 패에 넣는다. 남은 카드를 묘지로 보낸다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -50,6 +52,11 @@ sets:
     set_name: Saikyō Jump May 2026 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP25-KRS01
+    set_name: Rising of the Aurora
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

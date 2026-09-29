@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>纏<rt>てん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby><ruby>域<rt>いき</rt></ruby>の<ruby>戦<rt>せん</rt></ruby><ruby>利<rt>り</rt></ruby><ruby>品<rt>ひん</rt></ruby>
   ja_romaji: Tenryūiki no Senrihin
-  ko:
+  ko: 전룡역의 전리품
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札のモンスター（幻竜族）または自分フィールドの表側表示モンスター（幻竜族）１体を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패의 몬스터(환룡족) 또는 자신 필드의 앞면 표시 몬스터(환룡족) 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分は１枚ドローし、お互いに確認する。そのカードがモンスター（幻竜族）だった場合、さらに手札のモンスター（レベル７以上／幻竜族）１体を自分フィールドに表側表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신은 1장 드로우하고, 서로 확인한다. 그 카드가 몬스터(환룡족)였을 경우, 추가로 패의 몬스터(레벨 7 이상 / 환룡족) 1장을 자신 필드에 앞면 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP051
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR051
     set_name: Rising of the Aurora
     rarities:
     - Common

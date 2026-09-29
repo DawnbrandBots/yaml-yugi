@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>Ｒ<rt>ライジング</rt></ruby>・ライセンス
   ja_romaji: Raijingu Raisensu
-  ko:
+  ko: R 라이선스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「Ｒ・イクイップ」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "R(라이징) 이큅"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分の手札・フィールドのモンスター（光属性）を素材として墓地へ送り、「Ｒ・ユニット」または「Ｒ・ＨＥＲＯ アルジェントＯ」のカード名が素材として記されたモンスター１体をフュージョン召喚する。
-  ko:
+  ko: |-
+    자신의 패 / 필드의 몬스터(빛 속성)를 소재로서 묘지로 보내고, "R(라이징) 유닛" 또는 "라이징 히어로 아르젠토O(오)"의 카드명이 소재로서 쓰여진 몬스터 1장을 퓨전 소환한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -61,6 +64,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP053
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP25-KR053
     set_name: Rising of the Aurora
     rarities:
     - Rare

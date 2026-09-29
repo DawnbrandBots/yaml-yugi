@@ -8,7 +8,7 @@ name:
   pt:
   ja: ヨワヨワブラスデス
   ja_romaji: Yowayowa Burasudesu
-  ko:
+  ko: 허접허접브러스데스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに、攻撃表示のこのカードを表側守備表示にして発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에, 공격 표시인 이 카드를 앞면 수비 표시로 하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカードを５枚めくり、お互いに確認する。自分はその中から「アクツキのブラスデス」１体または「ブラスデスの落とし穴」１枚を選んで手札に加える事ができる。残りのカードを好きな順番でデッキの下に戻す。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드를 5장 넘기고, 서로 확인한다. 자신은 그 중에서 "아쿠츠키의 브러스데스" 1장 또는 "브러스데스의 함정 속으로" 1장을 고르고 패에 넣을 수 있다. 남은 카드를 좋아하는 순서대로 덱 아래로 되돌린다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP066
+    set_name: Rising of the Aurora
+    rarities:
+    - Super Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP25-KR066
     set_name: Rising of the Aurora
     rarities:
     - Super Rare

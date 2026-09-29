@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>Ｒ<rt>ライジング</rt></ruby>・プロテクト
   ja_romaji: Raijingu Purotekuto
-  ko:
+  ko: R 프로텍트
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚をデッキの下に戻して発動できる。
-  ko:
+  ko: |-
+    패 1장을 덱 아래로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル３／光属性／戦士族／守備力１０００）と「Ｒ・イクイップ」をそれぞれ１枚まで選んで手札に加える。その後、自分フィールドの表側表示モンスター１体を選ぶ事ができる。選んだ場合、このターン、そのモンスターは効果では破壊されない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 3 / 빛 속성 / 전사족 / 수비력 1000)와 "R(라이징) 이큅"을 각각 1장까지 고르고 패에 넣는다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고를 수 있다. 고른 경우, 이 턴에, 그 몬스터는 효과로는 파괴되지 않는다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP055
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR055
     set_name: Rising of the Aurora
     rarities:
     - Common

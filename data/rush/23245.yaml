@@ -8,7 +8,7 @@ name:
   pt:
   ja: ハッピージャーナル
   ja_romaji: Happī Jānaru
-  ko:
+  ko: 행복저널
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「ハッピージャーナル」を発動していないターンに、自分フィールドに表側表示モンスター（地属性／機械族）がいる場合、カードの種類（モンスター・魔法・罠）を宣言して発動できる。
-  ko:
+  ko: |-
+    자신이 "행복저널"을 발동하고 있지 않은 턴에, 자신 필드에 앞면 표시 몬스터(땅 속성 / 기계족)가 있을 경우, 카드의 종류(몬스터・마법・함정)를 선언하고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手は自身のデッキの上からカードを２枚めくり、お互いに確認して元に戻す。自分は［その中の宣言した種類のカードの数］だけドローする。
-  ko:
+  ko: |-
+    상대는 자신의 덱 위에서 카드를 2장 넘기고, 서로 확인하여 원래대로 되돌린다. 자신은 [그 중의 선언한 종류의 카드의 수]만큼 드로우한다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -48,6 +50,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP048
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP25-KR048
     set_name: Rising of the Aurora
     rarities:
     - Rare

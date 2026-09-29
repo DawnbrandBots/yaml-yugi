@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>旅<rt>たび</rt></ruby><ruby>立<rt>だ</rt></ruby>ちの<ruby>三<rt>さん</rt></ruby><ruby>賢<rt>けん</rt></ruby><ruby>者<rt>じゃ</rt></ruby>
   ja_romaji: Tabidachi no Sankenja
-  ko:
+  ko: 여정의 삼현자
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分が「旅立ちの三賢者」を発動していないターンに発動できる。
-  ko:
+  ko: |-
+    자신이 "여정의 삼현자"를 발동하고 있지 않은 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分のデッキの上からカード３枚を墓地へ送る。その後、その中から効果モンスター（レベル４以下／光属性・闇属性・水属性／魔法使い族）１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    자신의 덱 위에서 카드 3장을 묘지로 보낸다. 그 후, 그 중에서 효과 몬스터(레벨 4 이하 / 빛 속성・어둠 속성・물 속성 / 마법사족) 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Spell
@@ -46,6 +48,13 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP058
+    set_name: Rising of the Aurora
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Over Rush Rare
+  ko:
+  - set_number: RD/KP25-KR058
     set_name: Rising of the Aurora
     rarities:
     - Ultra Rare

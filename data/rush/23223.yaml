@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>Ｒ<rt>ライジング</rt></ruby>・ユニット
   ja_romaji: Raijingu Yunitto
-  ko:
+  ko: R 유닛
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     このカードはモンスター（戦士族）１体をリリースして攻撃表示でアドバンス召喚できる。
-  ko:
+  ko: |-
+    이 카드는 몬스터(전사족) 1장을 릴리스하고 공격 표시로 어드밴스 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（レベル３／光属性／戦士族／守備力１０００）１体を選んで手札に加える。このターン、自分はモンスター（光属性／戦士族）でしか攻撃できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(레벨 3 / 빛 속성 / 전사족 / 수비력 1000) 1장을 고르고 패에 넣는다. 이 턴에, 자신은 몬스터(빛 속성 / 전사족)로밖에 공격할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -72,6 +75,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.2
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/KP25-KR026
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

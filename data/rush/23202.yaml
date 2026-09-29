@@ -8,7 +8,7 @@ name:
   pt:
   ja: バニシング・ソリティウス
   ja_romaji: Banishingu Soritiusu
-  ko:
+  ko: 버니싱 솔리티우스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「バニシング・ヘリアカルライザー」になる。その後、自分の墓地の「フュージョン」またはフィールド魔法カード１枚を選んで手札に加える事ができる。加えた場合、このターン、自分は「バニシング・ソリティウス」の効果を発動できない。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "버니싱 헬리어컬라이저"가 된다. 그 후, 자신 묘지의 "퓨전" 또는 필드 마법 카드 1장을 고르고 패에 넣을 수 있다. 넣었을 경우, 이 턴에, 자신은 "버니싱 솔리티우스"의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP005
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR005
     set_name: Rising of the Aurora
     rarities:
     - Common

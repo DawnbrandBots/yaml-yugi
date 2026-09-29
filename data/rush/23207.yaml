@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>報<rt>ほう</rt></ruby><ruby>道<rt>どう</rt></ruby><ruby>記<rt>き</rt></ruby><ruby>人<rt>じん</rt></ruby>テレコロイド
   ja_romaji: Hōdōkijin Terekoroido
-  ko:
+  ko: 보도기자 텔레코로이드
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに、自分の墓地にモンスター（地属性／機械族）が２体以上いる場合に発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에, 자신 묘지에 몬스터(땅 속성 / 기계족)가 2장 이상 있을 경우에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「報道狸マイクタン」１体または「フュージョン」１枚を選んで手札に加える。その後、相手の墓地のカード１枚を選んでデッキの上に戻す事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 "보도너구리 마이크탄" 1장 또는 "퓨전" 1장을 고르고 패에 넣는다. 그 후, 상대 묘지의 카드 1장을 고르고 덱 위로 되돌릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP010
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR010
     set_name: Rising of the Aurora
     rarities:
     - Common

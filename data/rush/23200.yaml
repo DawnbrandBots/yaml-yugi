@@ -8,7 +8,7 @@ name:
   pt:
   ja: エンセラダステライム
   ja_romaji: Enseradasuteraimu
-  ko:
+  ko: 엔셀라다스텔라임
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「インターステライム」になる。その後、自分の墓地のモンスター（光属性／ギャラクシー族／攻撃力１０００）１体または「フュージョン」１枚を選んで手札に加える事ができる。加えた場合、このターン、自分は「エンセラダステライム」の効果を発動できない。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "인터스텔라임"이 된다. 그 후, 자신 묘지의 몬스터(빛 속성 / 갤럭시족 / 공격력 1000) 1장 또는 "퓨전" 1장을 고르고 패에 넣을 수 있다. 넣었을 경우, 이 턴에, 자신은 "엔셀라다스텔라임"의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -57,6 +59,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.2
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/KP25-KR003
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
 is_translation_unofficial:
   name:
     en: true

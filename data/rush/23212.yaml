@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>光<rt>こう</rt></ruby><ruby>纏<rt>てん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>－ラテス
   ja_romaji: Kōtenryū - Ratesu
-  ko:
+  ko: 광전룡－라테스
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚したターンに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환한 턴에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の「纏竜の探索者 ステラ」またはモンスター（レベル９／幻竜族）１体を選んで手札に加える。
-  ko:
+  ko: |-
+    자신 묘지의 "전룡의 탐색자 스텔라" 또는 몬스터(레벨 9 / 환룡족) 1장을 고르고 패에 넣는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.2
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/KP25-KR015
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

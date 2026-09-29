@@ -8,7 +8,7 @@ name:
   pt:
   ja: アイスエイジ・パウンダー
   ja_romaji: Aisu Eiji Paundā
-  ko:
+  ko: 아이스에이지 파운더
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分フィールドの表側表示のこのカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    자신 필드의 앞면 표시인 이 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地の通常モンスター（レベル６以下／岩石族）を２体まで選び、自分フィールドに表側表示で特殊召喚する。この効果で特殊召喚したモンスターのレベルはターン終了時まで１上がる。その後、自分フィールドの表側表示モンスター１体を選んでそのレベルをターン終了時まで１上げる事ができる。
-  ko:
+  ko: |-
+    자신 묘지의 일반 몬스터(레벨 6 이하 / 암석족)를 2장까지 고르고, 자신 필드에 앞면 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 레벨은 턴 종료시까지 1 올라간다. 그 후, 자신 필드의 앞면 표시 몬스터 1장을 고르고 그 레벨을 턴 종료시까지 1 올릴 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -50,6 +52,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP027
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR027
     set_name: Rising of the Aurora
     rarities:
     - Common

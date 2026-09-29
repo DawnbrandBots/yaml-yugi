@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>纏<rt>てん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>呪<rt>のろ</rt></ruby>い
   ja_romaji: Matenryū no Noroi
-  ko:
+  ko: 마전룡의 저주
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     相手がモンスターを召喚・特殊召喚した時に発動できる。
-  ko:
+  ko: |-
+    상대가 몬스터를 일반 소환 / 특수 소환했을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の手札・フィールドのモンスター１体を選んで墓地へ送る。その後、自分の墓地のモンスター（幻竜族）を２体まで選んで自分フィールドに表側守備表示で特殊召喚できる。この効果で「魔纏竜－星喰らいのヴェザル」を特殊召喚した場合、さらに相手フィールドの表側表示モンスター１体を選んで裏側守備表示にできる。
-  ko:
+  ko: |-
+    자신의 패 / 필드의 몬스터 1장을 고르고 묘지로 보낸다. 그 후, 자신 묘지의 몬스터(환룡족)를 2장까지 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다. 이 효과로 "마전룡－별을 먹는 베잘"을 특수 소환했을 경우, 추가로 상대 필드의 앞면 표시 몬스터 1장을 고르고 뒷면 수비 표시로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -48,6 +50,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP061
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP25-KR061
     set_name: Rising of the Aurora
     rarities:
     - Rare

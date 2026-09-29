@@ -8,7 +8,7 @@ name:
   pt:
   ja: マグマ・ドラゴン
   ja_romaji:
-  ko:
+  ko: 마그마 드래곤
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     このカードを召喚・特殊召喚した自分メインフェイズに発動できる。
-  ko:
+  ko: |-
+    이 카드를 일반 소환 / 특수 소환한 자신 메인 페이즈에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     自分の墓地のモンスター（幻竜族）１体を選び、自分フィールドに表側守備表示で特殊召喚する。このターン、自分はこの効果で特殊召喚したモンスターと「マグマ・ドラゴン」の効果を発動できない。
-  ko:
+  ko: |-
+    자신 묘지의 몬스터(환룡족) 1장을 고르고, 자신 필드에 앞면 수비 표시로 특수 소환한다. 이 턴에, 자신은 이 효과로 특수 소환한 몬스터와 "마그마 드래곤"의 효과를 발동할 수 없다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -54,6 +56,11 @@ sets:
     set_name: Saikyō Jump July 2026 promotional card
     rarities:
     - Normal Parallel Rare
+  ko:
+  - set_number: RD/KP25-KRS02
+    set_name: Rising of the Aurora
+    rarities:
+    - Super Rare
 is_translation_unofficial:
   text:
     en: true

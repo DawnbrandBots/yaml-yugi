@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>大<rt>だい</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>件<rt>けん</rt></ruby>です！
   ja_romaji: Daijiken desu!
-  ko:
+  ko: 대사건입니다!
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     墓地にあるこのカードのカード名は「報道魂」になる。
-  ko:
+  ko: |-
+    묘지에 있는 이 카드의 카드명은 "보도 정신"이 된다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     相手メインフェイズに、カードが相手の墓地へ送られた時に発動できる。
-  ko:
+  ko: |-
+    상대 메인 페이즈에, 카드가 상대의 묘지로 보내졌을 때에 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -48,7 +50,8 @@ effect:
   pt:
   ja: |-
     相手の墓地のカードを２枚まで選んで好きな順番でデッキの上に戻す。その後、自分は手札のモンスター（地属性／機械族）を２体まで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    상대 묘지의 카드를 2장까지 고르고 좋아하는 순서대로 덱 위로 되돌린다. 그 후, 자신은 패의 몬스터(땅 속성 / 기계족)를 2장까지 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Trap
@@ -61,6 +64,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP060
+    set_name: Rising of the Aurora
+    rarities:
+    - Common
+  ko:
+  - set_number: RD/KP25-KR060
     set_name: Rising of the Aurora
     rarities:
     - Common

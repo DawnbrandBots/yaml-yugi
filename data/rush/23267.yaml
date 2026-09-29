@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>聖<rt>せい</rt></ruby><ruby>丘<rt>きゅう</rt></ruby>の<ruby>護<rt>ご</rt></ruby><ruby>尭<rt>ぎょう</rt></ruby><ruby>神<rt>しん</rt></ruby>
   ja_romaji: Seikyū no Gogyōshin
-  ko:
+  ko: 성구의 호요신
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ summoning_condition:
   pt:
   ja: |-
     自分フィールドに表側表示の「聖丘の護尭神」がいない場合、５００ＬＰを払い、このカードは手札から自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    자신 필드에 앞면 표시인 "성구의 호요신"이 없을 경우, 500 LP를 지불하고, 이 카드는 패에서 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 requirement:
@@ -35,7 +36,8 @@ requirement:
   pt:
   ja: |-
     なし
-  ko:
+  ko: |-
+    없음
   zh-TW:
   zh-CN:
 effect_types:
@@ -50,7 +52,8 @@ effect:
   pt:
   ja: |-
     このカードは相手の効果では破壊されない。自分は相手の効果ではダメージを受けない。
-  ko:
+  ko: |-
+    이 카드는 상대의 효과로는 파괴되지 않는다. 자신은 상대의 효과로는 데미지를 받지 않는다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -69,6 +72,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JPS00
+    set_name: Rising of the Aurora
+    rarities:
+    - Ultra Rare
+    - Over Rush Rare (Premium Black Version)
+  ko:
+  - set_number: RD/KP25-KRS00
     set_name: Rising of the Aurora
     rarities:
     - Ultra Rare

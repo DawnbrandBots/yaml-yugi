@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>吸<rt>きゅう</rt></ruby><ruby>収<rt>しゅう</rt></ruby>するデビルズ・ミラー
   ja_romaji: Kyūshūsuru Debiruzu Mirā
-  ko:
+  ko: 흡수하는 데블즈 미러
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送って発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで１５００ダウンする。自分の墓地に効果モンスター以外のリチュアルモンスター（悪魔族）がいる場合、この効果で選ぶモンスターの数を２体にできる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 고르고, 그 공격력 / 수비력을 턴 종료시까지 1500 내린다. 자신 묘지에 효과 몬스터 이외의 리추얼 몬스터(악마족)가 있을 경우, 이 효과로 고르는 몬스터의 수를 2장으로 할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -53,6 +55,11 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP045
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
+  ko:
+  - set_number: RD/KP25-KR045
     set_name: Rising of the Aurora
     rarities:
     - Rare

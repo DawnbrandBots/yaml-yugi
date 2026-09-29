@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>纏<rt>てん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>の<ruby>探<rt>たん</rt></ruby><ruby>索<rt>さく</rt></ruby><ruby>者<rt>しゃ</rt></ruby> シャーナ
   ja_romaji: Tenryū no Tansakusha Shāna
-  ko:
+  ko: 전룡의 탐색자 샤나
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     自分のデッキのカードが１０枚以上の場合、自分の墓地のモンスター（幻竜族）２体をデッキに戻して発動できる。
-  ko:
+  ko: |-
+    자신 덱의 카드가 10장 이상일 경우, 자신 묘지의 몬스터(환룡족) 2장을 덱으로 되돌리고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     相手フィールドの表側表示モンスター１体を選んで裏側守備表示にする。その後、自分のデッキの一番上のカードを墓地へ送る。この効果でモンスター（幻竜族／守備力２４００）が墓地へ送られた場合、さらにそのモンスターを手札に加える事ができる。
-  ko:
+  ko: |-
+    상대 필드의 앞면 표시 몬스터 1장을 골라 뒷면 수비 표시로 한다. 그 후, 자신의 덱 맨 위의 카드를 묘지로 보낸다. 이 효과로 몬스터(환룡족 / 수비력 2400)가 묘지로 보내졌을 경우, 추가로 그 몬스터를 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/KP25-JP017
+    set_name: Rising of the Aurora
+    rarities:
+    - Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/KP25-KR017
     set_name: Rising of the Aurora
     rarities:
     - Rare
