@@ -1,0 +1,58 @@
+konami_id:
+password:
+name:
+  en: Card Crawl
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>魔獣の昂進<rt>カード・クロール</rt></ruby>
+  ja_romaji: Kādo Kurōru
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN: 魔兽的昂进
+text:
+  en: |-
+    You can banish (face-down) the top 5, 10, or 15 cards of your Deck, then target 1 face-up monster on the field; apply the appropriate effect to it.
+    ● 5: Its ATK/DEF become 0.
+    ● 10: Negate its effects.
+    ● 15: Banish it (face-down).
+    You can only use this effect of "Card Crawl" once per turn.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja:
+  ko:
+  zh-TW:
+  zh-CN: |-
+    此卡名的①效果1回合仅可使用1次。①：从自己牌组上面依以下数量将卡以里侧除外，以场上的1只表侧表示怪兽为对象可以发动。对对象怪兽适用该效果。
+    ●5张：将攻击力・守备力改成0。
+    ●10张：将效果无效。
+    ●15张：以里侧除外。
+card_type: Spell
+property: Continuous
+images:
+- index: 1
+  image: CardCrawl-IMPH-JP-OP.png
+sets:
+  ja:
+  - set_number: IMPH-JP069
+    set_name: Immortal Phoenix
+    rarities:
+  zh-CN:
+  - set_number: IMPH-SC069
+    set_name: Immortal Phoenix
+    rarities:
+limit_regulation:
+  tcg: Not yet released
+  ocg: Not yet released
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1231715

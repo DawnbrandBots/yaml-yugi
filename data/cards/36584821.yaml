@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 공격력 / 수비력은, 제외되어 있는 자신의 카드의 수 × 400 이 된다.
   zh-TW:
   zh-CN: |-
-    ①：此卡的攻击力・守备力变为被除外的自己的卡数量×400的数值。
+    ①：此卡的攻击力・守备力变为自己除外状态的卡数量×400的数值。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: FIRE
@@ -284,6 +284,10 @@ sets:
     - Super Rare
     - Secret Rare
     - Extra Secret Rare
+  - set_number: 26SP-SC306
+    set_name: Tournament Pack 2026 Vol.3 (Simplified Chinese)
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

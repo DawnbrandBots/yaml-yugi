@@ -12,7 +12,7 @@ name:
   ko: No.6 오파츠 아틀란타르
   ko_rr:
   zh-TW: No.6 先史遺產亞特蘭巨人
-  zh-CN: 编号6 先史遗产 大西洲巨人
+  zh-CN: 编号6 先史遗产 亚特兰塔
 text:
   en: |-
     2 Level 6 monsters
@@ -41,7 +41,8 @@ text:
     等级6怪兽×2
     此卡超量召唤成功时，可选择我方墓地的1只冠有「No.」之名的怪兽，作为装备卡装备此卡。此卡的攻击力上升相当于以此效果装备的怪兽之攻击力的一半数值。此外，1回合1次，可移除此卡的1个超量素材，将因此卡效果装备的怪兽送入墓地并发动。使对手生命点数减半。此效果发动的回合，我方不能进行战斗阶段。
   zh-CN: |-
-    6星怪兽×2。这张卡XYZ召唤成功时，可以选择自己墓地1只名字带有「No.」的怪兽当作装备卡使用给这张卡装备。这张卡的攻击力上升这个效果装备的怪兽的攻击力一半的数值。此外，1回合1次，把这张卡1个XYZ素材取除，把这张卡的效果装备的怪兽送去墓地才能发动。对方基本分变成一半。这个效果发动的回合，自己不能进行战斗阶段。
+    等级6怪兽×2
+    ①：此卡超量召唤时，以自己墓地的1只“编号”怪兽为对象可以发动。将该怪兽视为装备魔法卡，装备于此卡。②：此卡的攻击力上升以此卡的效果装备的怪兽的攻击力的一半数值。③：1回合1次，去除此卡的1个超量素材，将以此卡的效果装备中的自己的魔法与陷阱区域的1张卡送至墓地可以发动（发动此效果的回合中，自己无法进行战斗阶段）。将对手的LP改成一半。
 card_type: Monster
 monster_type_line: Machine / Xyz / Effect
 attribute: LIGHT
@@ -140,6 +141,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  zh-CN:
+  - set_number: 26SP-SC301
+    set_name: Tournament Pack 2026 Vol.3 (Simplified Chinese)
+    rarities:
+    - Ultra Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

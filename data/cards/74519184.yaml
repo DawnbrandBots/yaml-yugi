@@ -33,7 +33,7 @@ text:
   zh-TW: |-
     双方玩家将2张手牌送入墓地。然后，各自从己方牌组中抽取2张卡牌。
   zh-CN: |-
-    ①：双方玩家将２张手牌送至墓地。然后分别从牌组抽２张。
+    ①：双方各自挑选自身的2张手牌送至墓地。然后，各抽2张。
 card_type: Spell
 property: Quick-Play
 images:
@@ -224,6 +224,10 @@ sets:
   zh-CN:
   - set_number: TM02-SC089
     set_name: 'Theme Pack: Undead Rondo'
+    rarities:
+    - Common
+  - set_number: 26SP-SC317
+    set_name: Tournament Pack 2026 Vol.3 (Simplified Chinese)
     rarities:
     - Common
 limit_regulation:
