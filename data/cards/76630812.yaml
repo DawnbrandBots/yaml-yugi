@@ -9,7 +9,7 @@ name:
   pt: Dados Gracioso e Caveira
   ja: <ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>と<ruby>悪<rt>あく</rt></ruby><ruby>魔<rt>ま</rt></ruby>のサイコロ
   ja_romaji: Tenshi to Akuma no Saikoro
-  ko:
+  ko: 천사와 악마의 주사위
   ko_rr:
   zh-TW:
   zh-CN: 天使与魔鬼的骰子
@@ -46,7 +46,8 @@ text:
     Se seu oponente Invocar um ou mais monstros por Invocação-Normal ou Especial, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode banir este card e, depois, escolha 1 desses monstros; lance um dado de seis faces duas vezes e, se o total foi 6 ou mais, destrua esse monstro.
   ja: |-
     ①：サイコロを２回振り、このターン中、以下の効果をそれぞれ適用する。●「時の黒魔術師」のカード名が記された自分フィールドのモンスターの攻撃力・守備力は、出た目の合計×２００アップする。●相手フィールドのモンスターの攻撃力・守備力は、出た目の合計×２００ダウンする。②：このカードが墓地に存在する状態で、相手がモンスターを召喚・特殊召喚した場合、このカードを除外し、その内の１体を対象として発動できる。サイコロを２回振り、出た目の合計が６以上だった場合、対象のモンスターを破壊する。
-  ko:
+  ko: |-
+    ①: 주사위를 2회 던지고, 이 턴 중에, 이하의 효과를 각각 적용한다. ●"시간의 흑마술사"의 카드명이 쓰여진 자신 필드의 몬스터의 공격력 / 수비력은, 나온 눈의 합계 × 200 올린다. ●상대 필드의 몬스터의 공격력 / 수비력은, 나온 눈의 합계 × 200 내린다. ②: 이 카드가 묘지에 존재하는 상태에서, 상대가 몬스터를 일반 소환 / 특수 소환했을 경우, 이 카드를 제외하고, 그 중의 1장을 대상으로 하여 발동할 수 있다. 주사위를 2회 던지고, 나온 눈의 합계가 6 이상이었을 경우, 대상 몬스터를 파괴한다.
   zh-TW:
   zh-CN: |-
     ①：掷2次骰子，此回合中，分别适用以下效果。
@@ -93,6 +94,11 @@ sets:
     - Common
   ja:
   - set_number: BETB-JP053
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  ko:
+  - set_number: BETB-KR053
     set_name: Beyond the Brave
     rarities:
     - Common

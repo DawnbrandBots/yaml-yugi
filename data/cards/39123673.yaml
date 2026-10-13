@@ -9,7 +9,7 @@ name:
   pt: Obtenção do Poder Mágico
   ja: <ruby>魔<rt>ま</rt></ruby><ruby>力<rt>りょく</rt></ruby><ruby>到<rt>とう</rt></ruby><ruby>達<rt>たつ</rt></ruby>
   ja_romaji: Maryoku Tōtatsu
-  ko:
+  ko: 마력도달
   ko_rr:
   zh-TW:
   zh-CN: 魔力到达
@@ -40,7 +40,8 @@ text:
     Você só pode ativar 1 "Obtenção do Poder Mágico" por turno.
   ja: |-
     このカード名のカードは１ターンに１枚しか発動できない。①：「魔力到達」を除く、効果テキストに「魔力カウンター」と記されたカード１枚を自分のデッキ・墓地から手札に加える。自分フィールドにレベル７以上の「エンディミオン」モンスターカードが存在する場合、さらに以下の効果を適用できる。●自分フィールドの魔力カウンターを任意の数だけ取り除き、その数だけ相手フィールドの表側表示カードの効果を無効にし破壊する。
-  ko:
+  ko: |-
+    이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: "마력도달"이 아닌, 효과 텍스트에 "마력 카운터"라고 쓰여진 카드 1장을 자신의 덱 / 묘지에서 패에 넣는다. 자신 필드에 레벨 7 이상의 "엔디미온" 몬스터 카드가 존재할 경우, 추가로 이하의 효과를 적용할 수 있다. ●자신 필드의 마력 카운터를 임의의 수만큼 제거하고, 그 수만큼 상대 필드의 앞면 표시 카드의 효과를 무효로 하여 파괴한다.
   zh-TW:
   zh-CN: |-
     此卡名的卡1回合仅可发动1张。①：从自己牌组・墓地将除“魔力到达”以外的、1张效果文本记载有“魔力计数物”的卡加入手牌。自己场上存在等级7以上的“恩底弥翁”怪兽卡的情况下，进而可适用以下效果。
@@ -83,6 +84,11 @@ sets:
     - Super Rare
   ja:
   - set_number: BETB-JP069
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
+  ko:
+  - set_number: BETB-KR069
     set_name: Beyond the Brave
     rarities:
     - Rare

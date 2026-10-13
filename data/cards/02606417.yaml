@@ -9,7 +9,7 @@ name:
   pt: Caixa da Inversão
   ja: <ruby>大逆転<rt>リバーサル</rt></ruby><ruby>ＢＯＸ<rt>ボックス</rt></ruby>
   ja_romaji: Ribāsaru Bokkusu
-  ko:
+  ko: 리버설 BOX
   ko_rr:
   zh-TW:
   zh-CN: 大逆转箱
@@ -28,7 +28,8 @@ text:
     Uma vez por turno, durante a Fase de Apoio: lance um dado de seis faces, e coloque marcadores neste card (máx. 6), até o resultado. Quando um efeito de monstro for ativado no campo do seu oponente, ou uma vez por batalha, durante o cálculo de dano, se um monstro do seu oponente atacar: você pode remover 1 marcador deste card e, depois, escolha 1 desses monstros; lance uma moeda e escolha cara ou coroa. Se você ganhar, Invoque por Invocação-Especial 1 monstro que mencione "Mago do Tempo Negro" do seu Deck e, se isso acontecer, até o final deste turno, mude o ATK do monstro alvo para 0 e, além disso, negue seus efeitos.
   ja: |-
     ①：自分・相手のスタンバイフェイズに発動する。サイコロを１回振り、出た目の数までこのカードにカウンターを置く（最大６つまで）。②：相手モンスターが攻撃するダメージ計算時に１度、または相手フィールドのモンスターの効果が発動した時に、このカードのカウンターを１つ取り除き、その内の１体を対象として発動できる。コイントスを１回行い、裏表を当てる。当たった場合、デッキから「時の黒魔術師」のカード名が記されたモンスター１体を特殊召喚し、対象のモンスターはターン終了時まで、攻撃力が０になり、効果は無効化される。
-  ko:
+  ko: |-
+    ①: 자신 / 상대의 스탠바이 페이즈에 발동한다. 주사위를 1회 던지고, 나온 눈의 수까지 이 카드에 카운터를 놓는다(최대 6개까지). ②: 상대 몬스터가 공격하는 데미지 계산시에 1번, 또는 상대 필드의 몬스터의 효과가 발동했을 때에, 이 카드의 카운터를 1개 제거하고, 그 중의 1장을 대상으로 하여 발동할 수 있다. 코인 토스를 1회 실행하고, 앞뒷면을 맞힌다. 맞혔을 경우, 덱에서 "시간의 흑마술사"의 카드명이 쓰여진 몬스터 1장을 특수 소환하고, 대상 몬스터는 턴 종료시까지, 공격력이 0 이 되고, 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
     ①：在自己・对手的准备阶段发动。掷1次骰子，以掷出的数字为上限在此卡上放计数物（最多6个）。②：每次对手怪兽攻击的伤害计算时有1次，或对手场上的怪兽的效果发动时，去除此卡的1个计数物，以其中1只为对象可以发动。掷1次硬币，猜正反。猜对的情况下，从牌组将1只记载有“时间黑魔术师”卡名的怪兽特殊召唤，对象怪兽直至回合结束时为止，攻击力变为0，效果无效化。
@@ -72,6 +73,11 @@ sets:
     - Common
   ja:
   - set_number: BETB-JP071
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+  ko:
+  - set_number: BETB-KR071
     set_name: Beyond the Brave
     rarities:
     - Common
