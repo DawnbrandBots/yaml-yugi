@@ -6,8 +6,8 @@ name:
   fr:
   it:
   pt:
-  ja: Ｍ・Ｕ・Ｄ
-  ja_romaji:
+  ja: <ruby>Ｍ・Ｕ・Ｄ<rt>マスター・アップ・ドレイク</rt></ruby>
+  ja_romaji: Masutā Appu Doreiku
   ko:
   ko_rr:
   zh-TW:
@@ -36,9 +36,11 @@ requirement:
   ko:
   zh-TW:
   zh-CN:
+effect_types:
+- Continuous
 effect:
   en: |-
-    If you have "Alpha Burn Drake" in your Graveyard, this card gains 1000 ATK and your opponent cannot activate Trap Cards when it declares an attack. If you have 3 or more "Alpha Count" in your Graveyard, this card gains 500 ATK and inflicts piercing battle damage.
+    If you have "Alpha Burn Drake" in your Graveyard, this card gains 1000 ATK, and your opponent cannot activate Trap Cards when it declares an attack. If you have 3 or more "Alpha Count" in your Graveyard, this card gains an additional 500 ATK, and it inflicts piercing battle damage.
   de:
   es:
   fr:
@@ -68,7 +70,6 @@ materials:
   zh-CN:
 series:
 - Alpha Burn
-- High Tech Dragon
 images:
 - index: 1
   image: MasterUpDrake-RDKP27-JP-OP.png

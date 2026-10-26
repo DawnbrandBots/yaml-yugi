@@ -1,4 +1,4 @@
-konami_id:
+konami_id: 24035
 password:
 name:
   en: Counter Spell "Negate Attack"
@@ -24,17 +24,22 @@ text:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    ①：自分・相手のバトルフェイズに、以下の効果から１つを選択して発動できる。
+    ●相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合、相手モンスターの攻撃宣言時に発動できる。その攻撃を無効にする。その後、バトルフェイズを終了する。
+    ●相手がモンスターの効果を発動した時に発動できる。その効果を無効にし破壊する。
+    ②：自分ドローフェイズに通常のドローをした時、墓地のこのカードを除外して発動できる。手札からモンスター１体を特殊召喚する。
   ko:
   zh-TW:
   zh-CN:
 card_type: Spell
 property: Quick-Play
 series:
+- Counter
 - Spell Card
 images:
 - index: 1
-  image: CounterSpellNegateAttack-VJMP-JP-OP.png
+  image: CounterSpellNegateAttack-VJMP-JP-UR.png
 sets:
   ja:
   - set_number: VJMP-JP298
@@ -43,7 +48,7 @@ sets:
     - Ultra Rare
 limit_regulation:
   tcg: Not yet released
-  ocg: Not yet released
+  ocg: Unlimited
 is_translation_unofficial:
   name:
     en: true
