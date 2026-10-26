@@ -186,7 +186,8 @@ def transform_image_entry(entry: list[str]) -> dict[str, str]:
 def transform_image(image: str) -> list[dict[str, str]]:
     if "\n" not in image and "; " not in image:
         return [{"index": 1, "image": image}]
-    tokens = [line.split("; ") for line in image.split("\n")]
+    # Skip lines without "; ", such as <!-- comments -->, as in parse_sets
+    tokens = [line.split("; ") for line in image.split("\n") if "; " in line]
     return [transform_image_entry(entry) for entry in tokens]
 
 
