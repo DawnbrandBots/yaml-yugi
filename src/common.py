@@ -165,6 +165,8 @@ def transform_sets(wikitext: dict[str, str]) -> dict[str, list[dict[str, str]]]:
         sets["pt"] = parse_sets(wikitext["pt_sets"])
     if "jp_sets" in wikitext:
         sets["ja"] = parse_sets(wikitext["jp_sets"])
+    if "ae_sets" in wikitext:
+        sets["en-HK"] = parse_sets(wikitext["ae_sets"])
     if "kr_sets" in wikitext:
         sets["ko"] = parse_sets(wikitext["kr_sets"])
     if "tc_sets" in wikitext:
