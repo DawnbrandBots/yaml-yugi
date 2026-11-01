@@ -12,7 +12,7 @@ name:
   ko: 아마조네스의 은검사
   ko_rr: Amajoneseu-ui Eun-geomsa
   zh-TW: 亞馬遜的銀劍師
-  zh-CN: 亚马逊的银剑师
+  zh-CN: 亚马逊的银剑使
 text:
   en: |-
     If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone. If an "Amazoness" monster(s) is Special Summoned to your field, while this card is in your GY (except during the Damage Step): You can place this card in your Pendulum Zone. You can only use each effect of "Amazoness Silver Sword Master" once per turn.
@@ -32,7 +32,7 @@ text:
     이 카드명의 ①②의 몬스터 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 몬스터 존의 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다. ②: 이 카드가 묘지에 존재하는 상태에서, 자신 필드에 "아마조네스" 몬스터가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 자신의 펜듈럼 존에 놓는다.
   zh-TW:
   zh-CN: |-
-    这个卡名的①②怪兽效果1回合各能使用1次。①：怪兽区的这张卡被战斗或效果破坏的场合可以发动。将这张卡放置到自己的灵摆区。②：这张卡在墓地存在的状态下，自己场上有「アマゾネス／亚马逊」怪兽被特殊召唤的场合可以发动。将这张卡放置到自己的灵摆区。
+    此卡名的①②怪兽效果1回合仅可各使用1次。①：怪兽区域的此卡因战斗・效果被破坏的情况下可以发动。将此卡放在自己的灵摆区域。②：此卡存在于墓地的状态下，“亚马逊”怪兽被特殊召唤至自己场上的情况下可以发动。将此卡放在自己的灵摆区域。
 card_type: Monster
 monster_type_line: Warrior / Pendulum / Effect
 attribute: EARTH
@@ -62,9 +62,7 @@ pendulum_effect:
     ①：我方場上的「亞馬遜」怪獸攻擊力依據自身等級×１００進行提升。
     ②：我方的「亞馬遜」怪獸進行戰鬥的攻擊宣言時，可將我方墓地的１張「亞馬遜」魔法・陷阱卡做為對象發動。將該卡加入手牌。
   zh-CN: |-
-    此卡名的②灵摆效果１回合仅可使用１次。
-    ①：自己场上的“亚马逊”怪兽的攻击力上升相当于自身等级×１００的数值。
-    ②：自己的“亚马逊”怪兽进行战斗的攻击宣言时，以自己墓地的１张“亚马逊”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
+    此卡名的②灵摆效果1回合仅可使用1次。①：自己场上的“亚马逊”怪兽的攻击力上升自身等级×100的数值。②：自己的“亚马逊”怪兽进行战斗的攻击宣言时，以自己墓地的1张“亚马逊”魔法・陷阱卡为对象可以发动。将该卡加入手牌。
 series:
 - Amazoness
 images:
@@ -135,6 +133,10 @@ sets:
     set_name: 'Duelist Pack: Duelists of Pyroxene'
     rarities:
     - Rare
+  zh-CN:
+  - set_number: IMPH-SC087
+    set_name: Immortal Phoenix
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

@@ -32,7 +32,7 @@ text:
     이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에서 묘지로 보내졌을 경우에 발동할 수 있다. 이 턴에 1번만, 자신은 함정 카드를 패에서 발동할 수 있다.
   zh-TW:
   zh-CN: |-
-    这个卡名的效果1回合只能使用1次。①：这张卡从怪兽区域送去墓地的场合才能发动。这个回合只有1次，自己可以把陷阱卡从手卡发动。
+    此卡名的效果1回合仅可使用1次。①：此卡从怪兽区域被送至墓地的情况下可以发动。此回合仅1次，自己可从手牌发动陷阱卡。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: DARK
@@ -172,6 +172,10 @@ sets:
     set_name: 'Duelist Pack: Duelists of Gloom'
     rarities:
     - Common
+  zh-CN:
+  - set_number: IMPH-SC081
+    set_name: Immortal Phoenix
+    rarities:
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
