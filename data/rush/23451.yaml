@@ -8,7 +8,7 @@ name:
   pt:
   ja: <ruby>星<rt>ほし</rt></ruby>の<ruby>精<rt>せい</rt></ruby><ruby>霊<rt>れい</rt></ruby><ruby>虫<rt>ちゅう</rt></ruby>
   ja_romaji: Hoshi no Seireichū
-  ko:
+  ko: 별의 정령충
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     手札１枚を墓地へ送って発動できる。
-  ko:
+  ko: |-
+    패 1장을 묘지로 보내고 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、「星の精霊」になる。その後、自分の墓地の「流聖のプリアージュ」１体を選んで手札に加える事ができる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, "별의 정령"이 된다. 그 후, 자신 묘지의 "류성의 프리아쥬" 1장을 고르고 패에 넣을 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -59,6 +61,11 @@ sets:
     set_name: Battle Bonus Pack 2026 Vol.3
     rarities:
     - Super Parallel Rare
+  ko:
+  - set_number: RD/AP03-KR021
+    set_name: 'Advance Pack: Union Base'
+    rarities:
+    - Common
 is_translation_unofficial:
   name:
     en: true

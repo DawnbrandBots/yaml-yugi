@@ -8,7 +8,7 @@ name:
   pt:
   ja: ユニオン・サポーター
   ja_romaji: Yunion Sapōtā
-  ko:
+  ko: 유니온 서포터
   ko_rr:
   zh-TW:
   zh-CN:
@@ -22,7 +22,8 @@ requirement:
   pt:
   ja: |-
     デッキの一番上のカードを墓地へ送り、「Ｘ－ヘッド・キャノン」「Ｙ－ドラゴン・ヘッド」「Ｚ－メタル・キャタピラー」のいずれか１体のカード名を宣言して発動できる。
-  ko:
+  ko: |-
+    덱 맨 위의 카드를 묘지로 보내고, "X－헤드 캐논" "Y－드래곤 헤드" "Z－메탈 캐터필러" 중 어느 1장의 카드명을 선언하여 발동할 수 있다.
   zh-TW:
   zh-CN:
 effect:
@@ -35,7 +36,8 @@ effect:
   pt:
   ja: |-
     このカードのカード名はこのターン、この効果の条件で宣言したカード名になる。その後、自分の墓地のフュージョンモンスター（レベル６／光属性／機械族）１体を選んで自分フィールドに表側守備表示で特殊召喚できる。
-  ko:
+  ko: |-
+    이 카드의 카드명은 이 턴에, 이 효과의 조건으로 선언한 카드명이 된다. 그 후, 자신 묘지의 퓨전 몬스터(레벨 6 / 빛 속성 / 기계족) 1장을 고르고 자신 필드에 앞면 수비 표시로 특수 소환할 수 있다.
   zh-TW:
   zh-CN:
 card_type: Monster
@@ -52,6 +54,12 @@ images:
 sets:
   ja:
   - set_number: RD/AP03-JP011
+    set_name: 'Advance Pack: Union Base'
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  ko:
+  - set_number: RD/AP03-KR011
     set_name: 'Advance Pack: Union Base'
     rarities:
     - Ultra Rare
