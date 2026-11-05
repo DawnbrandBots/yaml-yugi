@@ -1,0 +1,64 @@
+konami_id: 24122
+name:
+  en: Micha the Cheerful Angel
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: <ruby>陽<rt>よう</rt></ruby><ruby>気<rt>き</rt></ruby>な<ruby>天<rt>てん</rt></ruby><ruby>使<rt>し</rt></ruby>ミカ
+  ja_romaji: Yōkina Tenshi Mika
+  ko:
+  ko_rr:
+  zh-TW:
+  zh-CN:
+requirement:
+  en: |-
+    If there are 2 or more different Types among the face-up monsters on the field, send the top 2 cards of your Deck to the Graveyard.
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドの表側表示モンスターの種族が合計２種類以上の場合、デッキの上からカード２枚を墓地へ送って発動できる。
+  ko:
+  zh-TW:
+  zh-CN:
+effect:
+  en: |-
+    Face-up monsters on the field gain 500 ATK until the end of this turn. Then, you can add 1 monster with 900 ATK/100 DEF or 1 "Micha the Symbol of the Angels" from your Graveyard to your hand. This turn, you cannot activate the effect of "Micha the Cheerful Angel".
+  de:
+  es:
+  fr:
+  it:
+  pt:
+  ja: |-
+    お互いのフィールドの全ての表側表示モンスターの攻撃力はターン終了時まで５００アップする。その後、自分の墓地のモンスター（攻撃力９００／守備力１００）１体または「天使の印ミカ」１枚を選んで手札に加える事ができる。このターン、自分は「陽気な天使ミカ」の効果を発動できない。
+  ko:
+  zh-TW:
+  zh-CN:
+card_type: Monster
+monster_type_line: Fairy / Effect
+attribute: LIGHT
+level: 4
+atk: 900
+def: 100
+images:
+- index: 1
+  image: MichatheCheerfulAngel-RDKP27-JP-OP.png
+- index: 2
+  image: MichatheCheerfulAngel-RDKP27-JP-OP-AA.png
+sets:
+  ja:
+  - set_number: RD/KP27-JP035
+    set_name: Jointech of Passion
+    rarities:
+    - Super Rare
+    - Secret Rare
+is_translation_unofficial:
+  name:
+    en: true
+  text:
+    en: true
+yugipedia_page_id: 1237837
