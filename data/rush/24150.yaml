@@ -1,4 +1,4 @@
-konami_id:
+konami_id: 24150
 name:
   en: Mad Rare Hack
   de:
@@ -20,7 +20,8 @@ requirement:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手ターンに相手がモンスターを特殊召喚した時、または相手モンスターの攻撃宣言時に発動できる。
   ko:
   zh-TW:
   zh-CN:
@@ -32,7 +33,8 @@ effect:
   fr:
   it:
   pt:
-  ja:
+  ja: |-
+    相手フィールドの攻撃表示モンスター１体を選んで表側守備表示にする。メインフェイズにこのカードを発動した場合、さらに自分フィールドの攻撃表示モンスター１体を選んで表側守備表示にできる。
   ko:
   zh-TW:
   zh-CN:
@@ -49,6 +51,7 @@ sets:
     set_name: Jointech of Passion
     rarities:
     - Super Rare
+    - Secret Rare
 is_translation_unofficial:
   name:
     en: true
