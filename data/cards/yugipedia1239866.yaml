@@ -7,8 +7,8 @@ name:
   fr:
   it:
   pt:
-  ja: 四次元竜クレイデス
-  ja_romaji:
+  ja: <ruby>四<rt>よ</rt></ruby><ruby>次<rt>じ</rt></ruby><ruby>元<rt>げん</rt></ruby><ruby>竜<rt>りゅう</rt></ruby>クレイデス
+  ja_romaji: Yojigenryū Kureidesu
   ko:
   ko_rr:
   zh-TW:
@@ -16,12 +16,11 @@ name:
 text:
   en: |-
     1 Tuner + 1+ non-Tuners
-    You can banish up to 4 cards from your hand, then activate this effect based on the number banished (but you can only use each effect of "Craydeath the Four Dimensional Dragon" once per turn);
+    When the fourth attack of each turn is declared: You can make this card's ATK become 4000. You can banish up to 4 cards from your hand, then activate this effect based on the number banished (but you can only use each of these effects of "Craydeath the Four Dimensional Dragon" once per turn);
     ● 1: Special Summon 1 Level 4 or lower monster from your hand.
     ● 2: Banish 1 Level 4 or lower monster on the field.
     ● 3: Send 1 DARK monster from your Deck to the GY.
     ● 4: Draw 5 cards instead of 1 for your normal draw during your next Draw Phase.
-    When the fourth attack of each turn is declared: You can make this card's ATK become 4000.
   de:
   es:
   fr:
@@ -37,6 +36,7 @@ attribute: DARK
 level: 8
 atk: 2400
 def: 2400
+materials: 1 Tuner + 1 or more non-Tuner monsters
 images:
 - index: 1
   image: CraydeaththeFourDimensionalDragon-27PR-JP-OP.png
