@@ -29,7 +29,7 @@ text:
   ja: |-
     ①：自分は１枚ドローする。その後、相手は１０００ＬＰ回復する。
   ko: |-
-    ①: 자신은 덱에서 1장 드로우한다. 그 후, 상대는 1000 LP 회복한다.
+    ①: 자신은 1장 드로우한다. 그 후, 상대는 1000 LP 회복한다.
   zh-TW: |-
     從我方牌組中抽取1張卡牌。之後，對手回復1000生命點數。
   zh-CN: |-
@@ -418,6 +418,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  - set_number: UT01-KR046
+    set_name: Utility Selection
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+    - Ultimate Rare
   zh-TW:
   - set_number: SP02-TC042
     set_name: Starter Pack Volume 2
