@@ -12,7 +12,7 @@ name:
   ko: 은막의 거울벽
   ko_rr:
   zh-TW: 銀幕的鏡壁
-  zh-CN: 银幕的镜壁
+  zh-CN: 银幕镜壁
 text:
   en: |-
     Halve the ATK of your opponent's attacking monsters. Once per turn, during your Standby Phase, pay 2000 LP or destroy this card.
@@ -32,7 +32,7 @@ text:
     이 카드의 컨트롤러는 자신 스탠바이 페이즈마다 2000 LP를 지불한다. 또는 LP를 지불하지 않고 이 카드를 파괴한다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 상대의 공격 몬스터의 공격력은 절반이 된다.
   zh-TW:
   zh-CN: |-
-    这张卡的控制者在每次自己准备阶段支付2000基本分。或者不支付基本分让这张卡破坏。①：只要这张卡在魔法与陷阱区域存在，对方的攻击怪兽的攻击力变成一半。
+    此卡的控制者在每个自己的准备阶段，支付2000LP或将此卡破坏。①：只要此卡存在于魔法与陷阱区域，对手的攻击怪兽的攻击力变为一半。
 card_type: Trap
 property: Continuous
 images:
@@ -265,6 +265,11 @@ sets:
     - Common
   - set_number: AE11-KR025
     set_name: Advanced Event Pack 2017 Vol.2
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC311
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

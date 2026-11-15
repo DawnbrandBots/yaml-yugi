@@ -12,7 +12,7 @@ name:
   ko: 해피 레이디1
   ko_rr:
   zh-TW: 神鷹女郎１
-  zh-CN: 神鹰女郎１
+  zh-CN: 神鹰女郎1
 text:
   en: |-
     (This card's name is always treated as "Harpie Lady".)
@@ -38,7 +38,7 @@ text:
     이 카드의 카드명은 "해피 레이디"로 취급한다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 바람 속성 몬스터의 공격력은 300 포인트 올린다.
   zh-TW:
   zh-CN: |-
-    这张卡的卡名当作「鹰身女郎」使用。只要这张卡在场上表侧表示存在，风属性怪兽的攻击力上升300。
+    此卡名在规则上视为“神鹰女郎”。①：只要此卡存在于怪兽区域，风属性怪兽的攻击力上升300。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: WIND
@@ -292,6 +292,11 @@ sets:
     - Common
   - set_number: ESP4-KR017
     set_name: Expansion Pack Vol.4
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC313
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

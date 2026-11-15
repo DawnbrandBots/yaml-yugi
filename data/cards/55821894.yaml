@@ -32,7 +32,7 @@ text:
     이 카드가 전투를 실행하는 것에 의해서 받는 컨트롤러의 전투 데미지는 0 이 된다.
   zh-TW:
   zh-CN: |-
-    因这张卡进行战斗受到的控制者的战斗伤害变成0。
+    ①：因此卡的战斗对自己造成的战斗伤害变为0。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -163,6 +163,11 @@ sets:
     - Common
   - set_number: HGP1-KR115
     set_name: Expert Edition Volume.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC307
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

@@ -12,7 +12,7 @@ name:
   ko: 해피 레이디2
   ko_rr:
   zh-TW: 神鷹女郎２
-  zh-CN: 神鹰女郎２
+  zh-CN: 神鹰女郎2
 text:
   en: |-
     (This card's name is always treated as "Harpie Lady".)
@@ -38,7 +38,7 @@ text:
     이 카드의 카드명은 "해피 레이디"로 취급한다. 이 몬스터가 전투에 의해서 파괴한 리버스 효과 몬스터의 효과는 무효화된다.
   zh-TW:
   zh-CN: |-
-    这张卡的卡名当作「鹰身女郎」使用。这只怪兽战斗破坏的反转效果怪兽的效果无效化。
+    此卡名在规则上视为“神鹰女郎”。①：此卡战斗破坏反转怪兽的情况下，该被破坏的怪兽只要存在于场上・墓地则效果无效化。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: WIND
@@ -256,6 +256,11 @@ sets:
     - Common
   - set_number: ESP4-KR018
     set_name: Expansion Pack Vol.4
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC314
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

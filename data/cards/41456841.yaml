@@ -12,7 +12,7 @@ name:
   ko: 궁극변이체 곤충 여왕
   ko_rr:
   zh-TW: 究極變異態 昆蟲女王
-  zh-CN: 终极变态昆虫女王
+  zh-CN: 究极变异态・昆虫女王
 text:
   en: |-
     Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If another Insect monster is on the field, your opponent cannot target Insect monsters you control with card effects, also they cannot be destroyed by your opponent's card effects. At the end of the Damage Step, if this card attacked: You can Tribute 1 monster; this card can attack an opponent's monster again in a row. Once per turn, during the End Phase: You can Special Summon 1 "Insect Monster Token" (Insect/EARTH/Level 1/ATK 100/DEF 100).
@@ -32,10 +32,7 @@ text:
     이 카드는 통상 소환할 수 없으며, 카드의 효과로만 특수 소환할 수 있다. ①: 필드에 다른 곤충족 몬스터가 존재할 경우, 자신 필드의 곤충족 몬스터는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드가 공격한 데미지 스텝 종료시, 자신 필드의 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드는 상대 몬스터에 이어서 공격할 수 있다. ③: 자신 / 상대의 엔드 페이즈에 발동할 수 있다. 자신 필드에 "곤충 몬스터 토큰"(곤충족 / 땅 / 레벨 1 / 공 100 / 수 100) 1장을 특수 소환한다.
   zh-TW:
   zh-CN: |-
-    这张卡不能通常召唤，用卡的效果才能特殊召唤。
-    ①：场上有其他的昆虫族怪兽存在的场合，自己场上的昆虫族怪兽不会成为对方的效果的对象，不会被对方的效果破坏。
-    ②：这张卡攻击的伤害步骤结束时，把自己场上1只怪兽解放才能发动。这张卡向对方怪兽可以继续攻击。
-    ③：自己·对方的结束阶段才能发动。在自己场上把1只「昆虫怪兽衍生物」（昆虫族·地·1星·攻/守100）特殊召唤。
+    此卡不可通常召唤，仅可通过卡的效果特殊召唤。①：只要场上存在其他的昆虫族怪兽，自己场上的昆虫族怪兽不会因对手的效果被破坏，对手不可将其作为效果的对象。②：此卡攻击的伤害步骤结束时，解放自己场上的1只怪兽可以发动。此卡可继续攻击对手怪兽。③：在双方的结束阶段可以发动。将1只“昆虫怪兽衍生物”（昆虫族・地・星1・攻/守100）特殊召唤至自己场上。
 card_type: Monster
 monster_type_line: Insect / Effect
 attribute: EARTH
@@ -112,6 +109,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 2'
     rarities:
     - Super Rare
+  zh-CN:
+  - set_number: 26BZ-SC330
+    set_name: Immortal Phoenix Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

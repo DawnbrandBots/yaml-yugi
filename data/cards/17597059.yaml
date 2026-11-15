@@ -12,7 +12,7 @@ name:
   ko: 바이서 쇼크
   ko_rr:
   zh-TW: 衝擊魔人
-  zh-CN: 冲击魔人
+  zh-CN: 震撼刑具
 text:
   en: |-
     If this card is Summoned: Return all Set cards on the field to the hand.
@@ -32,7 +32,7 @@ text:
     이 카드가 일반 소환/반전 소환/특수 소환에 성공했을 때, 필드 위의 모든 세트된 카드를 주인의 패로 되돌린다.
   zh-TW:
   zh-CN: |-
-    这张卡召唤·反转召唤·特殊召唤成功时，场上的全部盖放的卡回到持有者手卡。
+    ①：此卡召唤・反转召唤・特殊召唤的情况下发动。将场上所有里侧表示的卡放回手牌。
 card_type: Monster
 monster_type_line: Fiend / Effect
 attribute: DARK
@@ -148,6 +148,11 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Ultra Rare
+  zh-CN:
+  - set_number: 26BZ-SC304
+    set_name: Immortal Phoenix Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

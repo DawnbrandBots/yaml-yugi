@@ -32,7 +32,7 @@ text:
     이 카드가 공격했을 경우, 그 데미지 스텝 종료시에 상대 필드 위에 존재하는 마법/함정 카드 1장을 선택하고 파괴한다.
   zh-TW:
   zh-CN: |-
-    这张卡攻击的场合，那次伤害步骤结束时选择对方场上存在的1张魔法·陷阱卡破坏。
+    ①：此卡攻击的伤害步骤结束时，如果此卡存在于怪兽区域，则以对手场上的1张魔法・陷阱卡为对象发动。将该对手的卡破坏。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -180,6 +180,11 @@ sets:
   ko:
   - set_number: DREV-KR030
     set_name: Duelist Revolution
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC323
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

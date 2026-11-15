@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 공격력은, 자신 필드의 "아마조네스" 몬스터의 수 × 100 올린다.
   zh-TW:
   zh-CN: |-
-    自己场上的名字带有「亚马逊」的怪兽卡每有1张，这张卡的攻击力上升100。
+    ①：此卡的攻击力上升自己场上的“亚马逊”怪兽的数量×100的数值。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -167,6 +167,11 @@ sets:
     - Common
   - set_number: AE15-KR016
     set_name: Advanced Event Pack 2020 Vol.1
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC321
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

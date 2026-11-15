@@ -32,7 +32,7 @@ text:
     ①: 이 카드의 전투로 발생하는 자신에게로의 전투 데미지는 대신에 상대가 받는다.
   zh-TW:
   zh-CN: |-
-    ①：这张卡的战斗发生的对自己的战斗伤害由对方代受。
+    ①：因此卡的战斗对自己造成的战斗伤害由对手代为承受。
 card_type: Monster
 monster_type_line: Warrior / Effect
 attribute: EARTH
@@ -255,6 +255,11 @@ sets:
     - Super Rare
   - set_number: DP18-KR013
     set_name: 'Duelist Pack: Legend Duelist'
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC305
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

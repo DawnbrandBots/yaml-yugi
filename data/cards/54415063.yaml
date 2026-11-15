@@ -12,7 +12,7 @@ name:
   ko: 해피 레이디3
   ko_rr:
   zh-TW: 神鷹女郎３
-  zh-CN: 神鹰女郎３
+  zh-CN: 神鹰女郎3
 text:
   en: |-
     (This card's name is always treated as "Harpie Lady".)
@@ -38,7 +38,7 @@ text:
     이 카드의 카드명은 "해피 레이디"로 취급한다. 이 카드와 전투를 실행한 상대 몬스터는, 상대 턴에서 세어서 2턴 동안 공격 선언을 할 수 없게 된다.
   zh-TW:
   zh-CN: |-
-    这张卡的卡名当作「鹰身女郎」使用。和这张卡进行战斗的对方怪兽在用对方回合计算的2回合内变成不能攻击宣言。
+    此卡名在规则上视为“神鹰女郎”。①：与此卡进行过战斗的对手怪兽将在以对手回合算起2回合内不可攻击宣言。
 card_type: Monster
 monster_type_line: Winged Beast / Effect
 attribute: WIND
@@ -252,6 +252,11 @@ sets:
     - Common
   - set_number: ESP4-KR019
     set_name: Expansion Pack Vol.4
+    rarities:
+    - Common
+  zh-CN:
+  - set_number: 26BZ-SC315
+    set_name: Immortal Phoenix Complement Pack
     rarities:
     - Common
 limit_regulation:

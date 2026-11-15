@@ -12,7 +12,7 @@ name:
   ko: 사이버 실드
   ko_rr: Saibeo Sildeu
   zh-TW: 電子盔甲
-  zh-CN: 电子盔甲
+  zh-CN: 电子紧身装束
 text:
   en: |-
     Equip only to "Harpie Lady" or "Harpie Lady Sisters". It gains 500 ATK.
@@ -32,7 +32,7 @@ text:
     "해피 레이디" 또는 "해피 레이디 세자매"에만 장착 가능. ①: 장착 몬스터의 공격력은 500 올린다.
   zh-TW:
   zh-CN: |-
-    「鹰身女郎」或者「鹰身女郎三姐妹」才能装备。①：装备怪兽的攻击力上升500。
+    仅可装备于“神鹰女郎”、“神鹰女郎三姐妹”。①：装备怪兽的攻击力上升500。
 card_type: Spell
 property: Equip
 series:
@@ -163,6 +163,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  zh-CN:
+  - set_number: 26BZ-SC316
+    set_name: Immortal Phoenix Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited
