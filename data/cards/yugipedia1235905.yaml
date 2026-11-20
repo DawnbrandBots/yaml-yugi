@@ -15,7 +15,7 @@ name:
   zh-CN:
 text:
   en: |-
-    TBA
+    If this card is Normal or Special Summoned: You can add 1 Level 7 or higher DARK monster with 2500 DEF, 1 "Stairway to the Underworld", or 1 "Domain of the Dark Ruler" from your Deck to your hand. If this card is Tributed or banished: You can target 1 Counter Trap in your GY; add it to your hand. You can only use each effect of "Bau the Black Dog Beast" once per turn.
   de:
   es:
   fr:
@@ -26,16 +26,24 @@ text:
   zh-TW:
   zh-CN:
 card_type: Monster
-monster_type_line: ??? / Effect
+monster_type_line: Beast / Effect
 attribute: DARK
 level: 4
 atk: 1800
 def: 1200
+images:
+- index: 1
+  image: BautheBlackDogBeast-27PP-JP-OP.png
 sets:
   ja:
-  - set_number: 27PP-JP0??
+  - set_number: 27PP-JP001
     set_name: Premium Pack 2027
     rarities:
+    - Common
+    - Normal Parallel Rare
+    - Super Rare
+    - Secret Rare
+    - Secret Rare (Special Red Version)
 limit_regulation:
   tcg: Not yet released
   ocg: Not yet released
