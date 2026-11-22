@@ -15,11 +15,11 @@ name:
   zh-CN: 决斗者之力
 text:
   en: |-
-    Declare 2, 3, or 4 Attributes; apply this effect based on the number declared, also during the End Phase of this turn, you must send all cards you control to the GY, unless you have activated effects of monsters of all declared Attributes in your field and/or GY this turn.
+    Declare 2, 3, or 4 Attributes; apply the appropriate effects.
     ● 2: Target 1 monster on the field; banish it.
     ● 3: Draw 2 cards, then discard 1 card.
     ● 4: Negate the effects of 2 face-up cards on the field.
-    You can only activate 1 "Power of the Duelist" per turn.
+    You can only activate 1 "Power of the Duelist" per turn. During the End Phase of this turn, check all monster effects you activated on the field or in the GY this turn. Unless they included monsters from every Attribute you declared when activating this card, you must send all cards you control to the GY.
   de:
   es:
   fr:
@@ -45,6 +45,42 @@ images:
 - index: 2
   image: PoweroftheDuelist-IMPH-JP-PScR.png
 sets:
+  en:
+  - set_number: IMPH-EN067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  de:
+  - set_number: IMPH-DE067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  es:
+  - set_number: IMPH-SP067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  fr:
+  - set_number: IMPH-FR067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  it:
+  - set_number: IMPH-IT067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
+  pt:
+  - set_number: IMPH-PT067
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Starlight Rare
   ja:
   - set_number: IMPH-JP067
     set_name: Immortal Phoenix
@@ -62,9 +98,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1234791
