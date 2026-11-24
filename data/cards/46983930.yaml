@@ -1,7 +1,7 @@
 konami_id: 23551
 password: 46983930
 name:
-  en: The Stars of Raise Moon
+  en: Stars of Raise Moon
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 盈彩月夜之群星
 text:
   en: |-
-    Place 1 "Raise Moon" card from your Deck on top of your Deck, except "The Stars of Raise Moon", but you cannot place another card with the same name with this effect of "The Stars of Raise Moon" this turn, also neither player can add cards from the Deck to the hand for the rest of this turn after this card resolves, except by drawing them. You can banish this card from your GY, then activate 1 of these effects;
+    Place 1 "Raise Moon" card from your Deck on top of your Deck, except "Stars of Raise Moon" (each unique card name can only be placed once per turn, by you, by this effect of "Stars of Raise Moon"), also for the rest of this turn after this card resolves, neither player can add cards from their Main Deck to their hand, except by drawing them. You can banish this card from your GY, then activate 1 of these effects;
     ● Each player draws 1 card.
     ● If you control a Spellcaster "Raise Moon" Xyz Monster: Draw 1 card.
   de:
@@ -39,8 +39,38 @@ series:
 - Raise Moon
 images:
 - index: 1
-  image: TheStarsofRaiseMoon-DBGV-JP-SR.png
+  image: StarsofRaiseMoon-DBGV-JP-SR.png
 sets:
+  en:
+  - set_number: GLVI-EN024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
+  de:
+  - set_number: GLVI-DE024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
+  es:
+  - set_number: GLVI-SP024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
+  fr:
+  - set_number: GLVI-FR024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
+  it:
+  - set_number: GLVI-IT024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
+  pt:
+  - set_number: GLVI-PT024
+    set_name: Glorious Victors
+    rarities:
+    - Ultra Rare
   ja:
   - set_number: DBGV-JP024
     set_name: 'Deck-Build Pack: Glorious Victors'
@@ -56,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1219067

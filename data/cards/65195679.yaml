@@ -1,7 +1,7 @@
 konami_id: 23564
 password: 65195679
 name:
-  en: Trirealm Rift Judgment
+  en: Trirealm Rift Verdict
   de:
   es:
   fr:
@@ -15,7 +15,7 @@ name:
   zh-CN: 异解△审判
 text:
   en: |-
-    If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; choose 1 of your face-down banished "Trirealm Rift" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of "Trirealm Rift Judgment", and you cannot activate cards or effects, except "Trirealm Rift" cards or effects. Once per battle, during damage calculation, if your "Trirealm Rift" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0.
+    If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; choose 1 of your face-down banished "Trirealm Rift" monsters with the same Attribute, and either add it to your hand or Special Summon it (you cannot choose monsters with that same Attribute by this effect of "Trirealm Rift Verdict" again this turn), also you cannot activate non-"Trirealm Rift" cards or effects for the rest of this turn. While you have no cards in your Deck, once per battle, during damage calculation, if your "Trirealm Rift" monster battles an opponent's monster: You can change the ATK of that opponent's monster to 0.
   de:
   es:
   fr:
@@ -33,8 +33,44 @@ series:
 - Trirealm Rift
 images:
 - index: 1
-  image: TrirealmRiftJudgment-DBGV-JP-C.png
+  image: TrirealmRiftVerdict-DBGV-JP-C.png
 sets:
+  en:
+  - set_number: GLVI-EN041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
+  de:
+  - set_number: GLVI-DE041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
+  es:
+  - set_number: GLVI-SP041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
+  fr:
+  - set_number: GLVI-FR041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
+  it:
+  - set_number: GLVI-IT041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
+  pt:
+  - set_number: GLVI-PT041
+    set_name: Glorious Victors
+    rarities:
+    - Rare
+    - Super Rare
   ja:
   - set_number: DBGV-JP041
     set_name: 'Deck-Build Pack: Glorious Victors'
@@ -50,9 +86,4 @@ sets:
 limit_regulation:
   tcg: Not yet released
   ocg: Unlimited
-is_translation_unofficial:
-  name:
-    en: true
-  text:
-    en: true
 yugipedia_page_id: 1210486
